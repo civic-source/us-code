@@ -3,9 +3,9 @@ title: "Section 1 - Flag; stripes and stars on"
 usc_title: 4
 usc_section: "1"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "4 U.S.C. § 1"
-generated_at: "2026-03-30T05:16:10.128Z"
+generated_at: "2026-03-30T05:18:43.149Z"
 status: "active"
 ---
 

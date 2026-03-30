@@ -3,9 +3,9 @@ title: "Section 144 - Omitted"
 usc_title: 22
 usc_section: "144"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 144"
-generated_at: "2026-03-30T05:17:43.986Z"
+generated_at: "2026-03-30T05:19:24.938Z"
 status: "omitted"
 ---
 

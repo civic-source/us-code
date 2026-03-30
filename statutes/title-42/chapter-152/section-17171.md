@@ -3,9 +3,9 @@ title: "Section 17171 - Thermal energy storage research and development program"
 usc_title: 42
 usc_section: "17171"
 chapter: 152
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 17171"
-generated_at: "2026-03-30T05:18:18.958Z"
+generated_at: "2026-03-30T05:21:13.877Z"
 status: "active"
 ---
 

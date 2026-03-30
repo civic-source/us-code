@@ -3,9 +3,9 @@ title: "Section 10242 - Office of Nuclear Waste Negotiator"
 usc_title: 42
 usc_section: "10242"
 chapter: 108
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 10242"
-generated_at: "2026-03-30T05:18:18.846Z"
+generated_at: "2026-03-30T05:21:13.767Z"
 status: "active"
 ---
 

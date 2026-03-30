@@ -3,9 +3,9 @@ title: "Section 3354 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "3354"
 chapter: 337
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 3354"
-generated_at: "2026-03-30T05:17:01.075Z"
+generated_at: "2026-03-30T05:18:58.270Z"
 status: "repealed"
 ---
 

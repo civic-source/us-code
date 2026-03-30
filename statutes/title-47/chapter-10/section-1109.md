@@ -3,9 +3,9 @@ title: "Section 1109 - Authorizations of appropriations"
 usc_title: 47
 usc_section: "1109"
 chapter: 10
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "47 U.S.C. § 1109"
-generated_at: "2026-03-30T05:18:22.291Z"
+generated_at: "2026-03-30T05:21:19.807Z"
 status: "active"
 ---
 

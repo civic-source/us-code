@@ -3,9 +3,9 @@ title: "Section 3335 - Grants to assist in planned areawide development"
 usc_title: 42
 usc_section: "3335"
 chapter: 41
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 3335"
-generated_at: "2026-03-30T05:18:18.660Z"
+generated_at: "2026-03-30T05:21:13.595Z"
 status: "active"
 ---
 

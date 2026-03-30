@@ -3,9 +3,9 @@ title: "Section 343a - Repealed. Pub. L. 106–554 , § 1(a)(1) [title V, § 517
 usc_title: 21
 usc_section: "343a"
 chapter: 9
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "21 U.S.C. § 343a"
-generated_at: "2026-03-30T05:17:40.838Z"
+generated_at: "2026-03-30T05:19:21.777Z"
 status: "repealed"
 ---
 

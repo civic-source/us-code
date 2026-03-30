@@ -3,9 +3,9 @@ title: "Section 531 - Work-life policies and programs"
 usc_title: 14
 usc_section: "531"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "14 U.S.C. § 531"
-generated_at: "2026-03-30T05:17:18.382Z"
+generated_at: "2026-03-30T05:19:00.333Z"
 status: "active"
 ---
 

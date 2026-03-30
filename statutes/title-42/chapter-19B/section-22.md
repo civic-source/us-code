@@ -3,9 +3,9 @@ title: "Section 22 - Great Lakes fishery and ecosystem restoration"
 usc_title: 42
 usc_section: "22"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T05:18:18.616Z"
+generated_at: "2026-03-30T05:21:13.553Z"
 status: "active"
 ---
 

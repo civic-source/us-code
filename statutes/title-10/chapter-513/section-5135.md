@@ -3,9 +3,9 @@ title: "Section 5135 - Bureau Chiefs: succession to duties"
 usc_title: 10
 usc_section: "5135"
 chapter: 513
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 5135"
-generated_at: "2026-03-30T05:17:01.082Z"
+generated_at: "2026-03-30T05:18:58.278Z"
 status: "active"
 ---
 

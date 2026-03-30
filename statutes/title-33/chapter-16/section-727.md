@@ -3,9 +3,9 @@ title: "Section 727 - Lighthouse and other sites; necessity for cession by State
 usc_title: 33
 usc_section: "727"
 chapter: 16
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "33 U.S.C. § 727"
-generated_at: "2026-03-30T05:17:57.441Z"
+generated_at: "2026-03-30T05:20:10.554Z"
 status: "active"
 ---
 

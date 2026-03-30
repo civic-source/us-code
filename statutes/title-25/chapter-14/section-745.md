@@ -3,9 +3,9 @@ title: "Section 745 - Tribal property"
 usc_title: 25
 usc_section: "745"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 745"
-generated_at: "2026-03-30T05:17:42.002Z"
+generated_at: "2026-03-30T05:19:22.764Z"
 status: "active"
 ---
 

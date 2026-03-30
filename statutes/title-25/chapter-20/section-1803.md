@@ -3,9 +3,9 @@ title: "Section 1803 - Grants authorized"
 usc_title: 25
 usc_section: "1803"
 chapter: 20
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1803"
-generated_at: "2026-03-30T05:17:42.036Z"
+generated_at: "2026-03-30T05:19:22.799Z"
 status: "active"
 ---
 

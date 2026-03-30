@@ -3,9 +3,9 @@ title: "Section 1520 - Refunds and errors"
 usc_title: 19
 usc_section: "1520"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 1520"
-generated_at: "2026-03-30T05:17:35.771Z"
+generated_at: "2026-03-30T05:19:18.190Z"
 status: "active"
 ---
 

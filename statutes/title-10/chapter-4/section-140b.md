@@ -3,9 +3,9 @@ title: "Section 140b - Renumbered § 423]"
 usc_title: 10
 usc_section: "140b"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 140b"
-generated_at: "2026-03-30T05:17:00.978Z"
+generated_at: "2026-03-30T05:18:58.174Z"
 status: "renumbered"
 ---
 

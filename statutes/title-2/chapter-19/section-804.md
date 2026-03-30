@@ -3,9 +3,9 @@ title: "Section 804 - Administration"
 usc_title: 2
 usc_section: "804"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 804"
-generated_at: "2026-03-30T05:16:25.574Z"
+generated_at: "2026-03-30T05:18:44.431Z"
 status: "active"
 ---
 

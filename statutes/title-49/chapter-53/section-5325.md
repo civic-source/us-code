@@ -3,9 +3,9 @@ title: "Section 5325 - Contract requirements"
 usc_title: 49
 usc_section: "5325"
 chapter: 53
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "49 U.S.C. § 5325"
-generated_at: "2026-03-30T05:18:26.553Z"
+generated_at: "2026-03-30T05:21:19.337Z"
 status: "active"
 ---
 

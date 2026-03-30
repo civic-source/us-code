@@ -3,9 +3,9 @@ title: "Section 191 - Oaths to witnesses"
 usc_title: 2
 usc_section: "191"
 chapter: 6
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 191"
-generated_at: "2026-03-30T05:16:25.562Z"
+generated_at: "2026-03-30T05:18:44.422Z"
 status: "active"
 ---
 

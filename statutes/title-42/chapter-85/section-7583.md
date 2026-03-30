@@ -3,9 +3,9 @@ title: "Section 7583 - Standards for light-duty clean-fuel vehicles"
 usc_title: 42
 usc_section: "7583"
 chapter: 85
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 7583"
-generated_at: "2026-03-30T05:18:18.787Z"
+generated_at: "2026-03-30T05:21:13.712Z"
 status: "active"
 ---
 

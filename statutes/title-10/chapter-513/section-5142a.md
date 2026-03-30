@@ -3,9 +3,9 @@ title: "Section 5142a - Deputy Chief of Chaplains"
 usc_title: 10
 usc_section: "5142a"
 chapter: 513
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 5142a"
-generated_at: "2026-03-30T05:17:01.082Z"
+generated_at: "2026-03-30T05:18:58.278Z"
 status: "active"
 ---
 

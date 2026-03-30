@@ -3,9 +3,9 @@ title: "Section 702 - Income and credits of partner"
 usc_title: 26
 usc_section: "702"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 702"
-generated_at: "2026-03-30T05:17:54.030Z"
+generated_at: "2026-03-30T05:19:54.360Z"
 status: "active"
 ---
 

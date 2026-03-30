@@ -3,9 +3,9 @@ title: "Section 3251 - Definition"
 usc_title: 10
 usc_section: "3251"
 chapter: 333
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 3251"
-generated_at: "2026-03-30T05:17:01.075Z"
+generated_at: "2026-03-30T05:18:58.270Z"
 status: "active"
 ---
 

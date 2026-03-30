@@ -3,9 +3,9 @@ title: "Section 2151e - Appropriate technology"
 usc_title: 22
 usc_section: "2151e"
 chapter: 32
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 2151e"
-generated_at: "2026-03-30T05:17:44.023Z"
+generated_at: "2026-03-30T05:19:24.976Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4403 - Charter of vessels"
 usc_title: 50
 usc_section: "4403"
 chapter: 54
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "50 U.S.C. § 4403"
-generated_at: "2026-03-30T05:18:30.387Z"
+generated_at: "2026-03-30T05:21:41.194Z"
 status: "active"
 ---
 

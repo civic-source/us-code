@@ -3,9 +3,9 @@ title: "Section 1 - Advisory committees"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T05:18:30.330Z"
+generated_at: "2026-03-30T05:21:41.131Z"
 status: "active"
 ---
 

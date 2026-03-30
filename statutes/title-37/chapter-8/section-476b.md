@@ -3,9 +3,9 @@ title: "Section 476b - Travel and transportation allowances: members of the unif
 usc_title: 37
 usc_section: "476b"
 chapter: 8
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "37 U.S.C. § 476b"
-generated_at: "2026-03-30T05:17:59.286Z"
+generated_at: "2026-03-30T05:20:12.600Z"
 status: "active"
 ---
 

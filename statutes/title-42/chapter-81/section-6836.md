@@ -3,9 +3,9 @@ title: "Section 6836 - Support for voluntary building energy codes"
 usc_title: 42
 usc_section: "6836"
 chapter: 81
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 6836"
-generated_at: "2026-03-30T05:18:18.745Z"
+generated_at: "2026-03-30T05:21:13.673Z"
 status: "active"
 ---
 

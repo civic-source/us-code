@@ -3,9 +3,9 @@ title: "Section 6534 - Compensation of Assistant Secretary of Senate"
 usc_title: 2
 usc_section: "6534"
 chapter: 65
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 6534"
-generated_at: "2026-03-30T05:16:25.614Z"
+generated_at: "2026-03-30T05:18:44.461Z"
 status: "active"
 ---
 

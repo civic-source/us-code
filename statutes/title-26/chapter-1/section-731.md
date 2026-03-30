@@ -3,9 +3,9 @@ title: "Section 731 - Extent of recognition of gain or loss on distribution"
 usc_title: 26
 usc_section: "731"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 731"
-generated_at: "2026-03-30T05:17:54.031Z"
+generated_at: "2026-03-30T05:19:54.361Z"
 status: "active"
 ---
 

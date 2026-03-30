@@ -3,9 +3,9 @@ title: "Section 7144e - Office of Indian Energy Policy and Programs"
 usc_title: 42
 usc_section: "7144e"
 chapter: 84
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 7144e"
-generated_at: "2026-03-30T05:18:18.758Z"
+generated_at: "2026-03-30T05:21:13.686Z"
 status: "active"
 ---
 

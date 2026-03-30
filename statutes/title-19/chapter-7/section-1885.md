@@ -3,9 +3,9 @@ title: "Section 1885 - Termination of proclamations"
 usc_title: 19
 usc_section: "1885"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 1885"
-generated_at: "2026-03-30T05:17:35.785Z"
+generated_at: "2026-03-30T05:19:18.205Z"
 status: "active"
 ---
 

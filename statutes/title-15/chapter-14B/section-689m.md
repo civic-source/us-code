@@ -3,9 +3,9 @@ title: "Section 689m - Additional penalties for noncompliance"
 usc_title: 15
 usc_section: "689m"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "15 U.S.C. § 689m"
-generated_at: "2026-03-30T05:17:06.933Z"
+generated_at: "2026-03-30T05:19:08.572Z"
 status: "active"
 ---
 

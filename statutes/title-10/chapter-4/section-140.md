@@ -3,9 +3,9 @@ title: "Section 140 - General Counsel"
 usc_title: 10
 usc_section: "140"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 140"
-generated_at: "2026-03-30T05:17:00.978Z"
+generated_at: "2026-03-30T05:18:58.174Z"
 status: "active"
 ---
 

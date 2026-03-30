@@ -3,9 +3,9 @@ title: "Section 810 - Operations loss deduction"
 usc_title: 26
 usc_section: "810"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 810"
-generated_at: "2026-03-30T05:17:54.034Z"
+generated_at: "2026-03-30T05:19:54.363Z"
 status: "active"
 ---
 

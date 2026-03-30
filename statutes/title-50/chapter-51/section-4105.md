@@ -3,9 +3,9 @@ title: "Section 4105 - Prisoners of war"
 usc_title: 50
 usc_section: "4105"
 chapter: 51
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "50 U.S.C. § 4105"
-generated_at: "2026-03-30T05:18:30.381Z"
+generated_at: "2026-03-30T05:21:41.187Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2748 - Scope of authority to carry out plant projects"
 usc_title: 50
 usc_section: "2748"
 chapter: 42
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "50 U.S.C. § 2748"
-generated_at: "2026-03-30T05:18:30.359Z"
+generated_at: "2026-03-30T05:21:41.163Z"
 status: "active"
 ---
 

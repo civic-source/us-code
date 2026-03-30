@@ -3,9 +3,9 @@ title: "Section 1464 - Maturity of loans; interest rate; interest deferral on ed
 usc_title: 25
 usc_section: "1464"
 chapter: 17
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1464"
-generated_at: "2026-03-30T05:17:42.016Z"
+generated_at: "2026-03-30T05:19:22.778Z"
 status: "active"
 ---
 

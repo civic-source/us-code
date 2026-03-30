@@ -3,9 +3,9 @@ title: "Section 9230 - Codification of sanctions with respect to North Korean ac
 usc_title: 22
 usc_section: "9230"
 chapter: 99
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 9230"
-generated_at: "2026-03-30T05:17:44.122Z"
+generated_at: "2026-03-30T05:19:25.080Z"
 status: "active"
 ---
 

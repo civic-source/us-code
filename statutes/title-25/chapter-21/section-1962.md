@@ -3,9 +3,9 @@ title: "Section 1962 - Copies to the States"
 usc_title: 25
 usc_section: "1962"
 chapter: 21
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1962"
-generated_at: "2026-03-30T05:17:42.038Z"
+generated_at: "2026-03-30T05:19:22.800Z"
 status: "active"
 ---
 

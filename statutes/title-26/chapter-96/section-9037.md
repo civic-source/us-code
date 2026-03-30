@@ -3,9 +3,9 @@ title: "Section 9037 - Payments to eligible candidates"
 usc_title: 26
 usc_section: "9037"
 chapter: 96
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 9037"
-generated_at: "2026-03-30T05:17:54.172Z"
+generated_at: "2026-03-30T05:19:54.507Z"
 status: "active"
 ---
 

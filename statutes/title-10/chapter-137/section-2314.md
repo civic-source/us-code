@@ -3,9 +3,9 @@ title: "Section 2314 - Laws inapplicable to agencies named in section 2303 of th
 usc_title: 10
 usc_section: "2314"
 chapter: 137
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 2314"
-generated_at: "2026-03-30T05:17:01.044Z"
+generated_at: "2026-03-30T05:18:58.240Z"
 status: "active"
 ---
 

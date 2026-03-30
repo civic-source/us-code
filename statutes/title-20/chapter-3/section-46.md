@@ -3,9 +3,9 @@ title: "Section 46 - Duties of Secretary"
 usc_title: 20
 usc_section: "46"
 chapter: 3
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "20 U.S.C. § 46"
-generated_at: "2026-03-30T05:17:37.487Z"
+generated_at: "2026-03-30T05:19:13.917Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1972 - Benefit certificates"
 usc_title: 38
 usc_section: "1972"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 1972"
-generated_at: "2026-03-30T05:18:02.472Z"
+generated_at: "2026-03-30T05:20:46.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3322 - Repealed. Pub. L. 95–256 , § 5(b)(1), Apr. 6, 1978 , 9
 usc_title: 5
 usc_section: "3322"
 chapter: 33
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "5 U.S.C. § 3322"
-generated_at: "2026-03-30T05:16:17.742Z"
+generated_at: "2026-03-30T05:18:46.107Z"
 status: "repealed"
 ---
 

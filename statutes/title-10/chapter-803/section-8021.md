@@ -3,9 +3,9 @@ title: "Section 8021 - Air Force Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "8021"
 chapter: 803
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 8021"
-generated_at: "2026-03-30T05:17:01.094Z"
+generated_at: "2026-03-30T05:18:58.289Z"
 status: "active"
 ---
 

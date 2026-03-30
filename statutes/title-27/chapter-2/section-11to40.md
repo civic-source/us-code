@@ -3,9 +3,9 @@ title: "Section 11to40 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 St
 usc_title: 27
 usc_section: "11to40"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "27 U.S.C. § 11to40"
-generated_at: "2026-03-30T05:17:46.787Z"
+generated_at: "2026-03-30T05:19:26.833Z"
 status: "repealed"
 ---
 

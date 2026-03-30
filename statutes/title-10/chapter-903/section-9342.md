@@ -3,9 +3,9 @@ title: "Section 9342 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "9342"
 chapter: 903
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 9342"
-generated_at: "2026-03-30T05:17:01.097Z"
+generated_at: "2026-03-30T05:18:58.293Z"
 status: "active"
 ---
 

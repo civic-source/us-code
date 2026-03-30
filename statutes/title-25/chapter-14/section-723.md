@@ -3,9 +3,9 @@ title: "Section 723 - Termination of Federal powers over tribe"
 usc_title: 25
 usc_section: "723"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 723"
-generated_at: "2026-03-30T05:17:42.001Z"
+generated_at: "2026-03-30T05:19:22.763Z"
 status: "active"
 ---
 

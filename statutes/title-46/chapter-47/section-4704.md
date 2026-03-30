@@ -3,9 +3,9 @@ title: "Section 4704 - Removal of abandoned barges"
 usc_title: 46
 usc_section: "4704"
 chapter: 47
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "46 U.S.C. § 4704"
-generated_at: "2026-03-30T05:18:22.972Z"
+generated_at: "2026-03-30T05:21:25.920Z"
 status: "active"
 ---
 

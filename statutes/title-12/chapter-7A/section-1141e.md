@@ -3,9 +3,9 @@ title: "Section 1141e - Loans to cooperative associations"
 usc_title: 12
 usc_section: "1141e"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1141e"
-generated_at: "2026-03-30T05:17:26.240Z"
+generated_at: "2026-03-30T05:19:02.884Z"
 status: "active"
 ---
 

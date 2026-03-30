@@ -3,9 +3,9 @@ title: "Section 545 - Advisory Committee on the Readjustment of Veterans"
 usc_title: 38
 usc_section: "545"
 chapter: 5
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 545"
-generated_at: "2026-03-30T05:18:02.460Z"
+generated_at: "2026-03-30T05:20:46.146Z"
 status: "active"
 ---
 

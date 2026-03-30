@@ -3,9 +3,9 @@ title: "Section 359a - Omitted"
 usc_title: 12
 usc_section: "359a"
 chapter: 3
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 359a"
-generated_at: "2026-03-30T05:17:26.231Z"
+generated_at: "2026-03-30T05:19:02.876Z"
 status: "omitted"
 ---
 

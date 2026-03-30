@@ -3,9 +3,9 @@ title: "Section 3356 - Compensation authority"
 usc_title: 19
 usc_section: "3356"
 chapter: 21
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 3356"
-generated_at: "2026-03-30T05:17:35.812Z"
+generated_at: "2026-03-30T05:19:18.233Z"
 status: "active"
 ---
 

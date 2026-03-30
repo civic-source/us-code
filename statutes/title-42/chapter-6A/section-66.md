@@ -3,9 +3,9 @@ title: "Section 66 - Provision by Secretary of supplies and services in lieu of 
 usc_title: 42
 usc_section: "66"
 chapter: 6
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 66"
-generated_at: "2026-03-30T05:18:18.091Z"
+generated_at: "2026-03-30T05:21:13.341Z"
 status: "active"
 ---
 

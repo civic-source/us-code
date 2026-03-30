@@ -3,9 +3,9 @@ title: "Section 581 - Definitions"
 usc_title: 14
 usc_section: "581"
 chapter: 15
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "14 U.S.C. § 581"
-generated_at: "2026-03-30T05:17:18.383Z"
+generated_at: "2026-03-30T05:19:00.334Z"
 status: "active"
 ---
 

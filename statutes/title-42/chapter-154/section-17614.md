@@ -3,9 +3,9 @@ title: "Section 17614 - Duties and functions of task forces"
 usc_title: 42
 usc_section: "17614"
 chapter: 154
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 17614"
-generated_at: "2026-03-30T05:18:18.966Z"
+generated_at: "2026-03-30T05:21:13.884Z"
 status: "active"
 ---
 

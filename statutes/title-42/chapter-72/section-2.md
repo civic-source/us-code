@@ -3,9 +3,9 @@ title: "Section 2 - Eligibility"
 usc_title: 42
 usc_section: "2"
 chapter: 72
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:18:18.718Z"
+generated_at: "2026-03-30T05:21:13.648Z"
 status: "active"
 ---
 

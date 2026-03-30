@@ -3,9 +3,9 @@ title: "Section 442 - Change of annual accounting period"
 usc_title: 26
 usc_section: "442"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 442"
-generated_at: "2026-03-30T05:17:54.010Z"
+generated_at: "2026-03-30T05:19:54.338Z"
 status: "active"
 ---
 

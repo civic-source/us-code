@@ -3,9 +3,9 @@ title: "Section 2258D - Limited liability for the National Center for Missing an
 usc_title: 18
 usc_section: "2258D"
 chapter: 110
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 2258D"
-generated_at: "2026-03-30T05:17:30.365Z"
+generated_at: "2026-03-30T05:19:11.954Z"
 status: "active"
 ---
 

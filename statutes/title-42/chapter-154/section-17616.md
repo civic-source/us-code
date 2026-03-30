@@ -3,9 +3,9 @@ title: "Section 17616 - ICAC grant program"
 usc_title: 42
 usc_section: "17616"
 chapter: 154
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 17616"
-generated_at: "2026-03-30T05:18:18.966Z"
+generated_at: "2026-03-30T05:21:13.884Z"
 status: "active"
 ---
 

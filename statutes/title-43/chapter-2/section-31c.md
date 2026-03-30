@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-30T05:18:06.907Z"
+generated_at: "2026-03-30T05:21:00.273Z"
 status: "active"
 ---
 

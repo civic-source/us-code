@@ -3,9 +3,9 @@ title: "Section 17631 - Additional regional computer forensic labs"
 usc_title: 42
 usc_section: "17631"
 chapter: 154
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 17631"
-generated_at: "2026-03-30T05:18:18.966Z"
+generated_at: "2026-03-30T05:21:13.885Z"
 status: "active"
 ---
 

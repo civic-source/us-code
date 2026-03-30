@@ -3,9 +3,9 @@ title: "Section 1725 - State laws applicable"
 usc_title: 25
 usc_section: "1725"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1725"
-generated_at: "2026-03-30T05:17:42.029Z"
+generated_at: "2026-03-30T05:19:22.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3214 - Repealed. Pub. L. 96–513, title II , § 202, Dec. 12, 1
 usc_title: 10
 usc_section: "3214"
 chapter: 331
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 3214"
-generated_at: "2026-03-30T05:17:01.075Z"
+generated_at: "2026-03-30T05:18:58.270Z"
 status: "repealed"
 ---
 

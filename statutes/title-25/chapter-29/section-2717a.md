@@ -3,9 +3,9 @@ title: "Section 2717a - Availability of class II gaming activity fees to carry o
 usc_title: 25
 usc_section: "2717a"
 chapter: 29
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 2717a"
-generated_at: "2026-03-30T05:17:42.049Z"
+generated_at: "2026-03-30T05:19:22.811Z"
 status: "active"
 ---
 

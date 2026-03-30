@@ -3,9 +3,9 @@ title: "Section 1662a - Amendment of constitution of American Samoa"
 usc_title: 48
 usc_section: "1662a"
 chapter: 13
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "48 U.S.C. § 1662a"
-generated_at: "2026-03-30T05:18:24.068Z"
+generated_at: "2026-03-30T05:21:26.229Z"
 status: "active"
 ---
 

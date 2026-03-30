@@ -3,9 +3,9 @@ title: "Section 2104 - Secretary’s review of prior Minerals Agreements"
 usc_title: 25
 usc_section: "2104"
 chapter: 23
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 2104"
-generated_at: "2026-03-30T05:17:42.042Z"
+generated_at: "2026-03-30T05:19:22.804Z"
 status: "active"
 ---
 

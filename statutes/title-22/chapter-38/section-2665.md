@@ -3,9 +3,9 @@ title: "Section 2665 - Personal services other than those provided for"
 usc_title: 22
 usc_section: "2665"
 chapter: 38
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 2665"
-generated_at: "2026-03-30T05:17:44.048Z"
+generated_at: "2026-03-30T05:19:25.004Z"
 status: "active"
 ---
 

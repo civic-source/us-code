@@ -3,9 +3,9 @@ title: "Section 13215 - Agency incentives program"
 usc_title: 42
 usc_section: "13215"
 chapter: 134
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 13215"
-generated_at: "2026-03-30T05:18:18.896Z"
+generated_at: "2026-03-30T05:21:13.815Z"
 status: "active"
 ---
 

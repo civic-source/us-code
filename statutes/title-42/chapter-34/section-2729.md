@@ -3,9 +3,9 @@ title: "Section 2729 - Repealed. Pub. L. 93–203, title VI , § 614, Dec. 28, 1
 usc_title: 42
 usc_section: "2729"
 chapter: 34
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 2729"
-generated_at: "2026-03-30T05:18:18.643Z"
+generated_at: "2026-03-30T05:21:13.580Z"
 status: "repealed"
 ---
 

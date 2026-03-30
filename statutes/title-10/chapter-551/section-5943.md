@@ -3,9 +3,9 @@ title: "Section 5943 - Naval shipyards"
 usc_title: 10
 usc_section: "5943"
 chapter: 551
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 5943"
-generated_at: "2026-03-30T05:17:01.084Z"
+generated_at: "2026-03-30T05:18:58.279Z"
 status: "active"
 ---
 

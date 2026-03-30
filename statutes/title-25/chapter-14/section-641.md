@@ -3,9 +3,9 @@ title: "Section 641 - Congressional findings and declaration of purpose"
 usc_title: 25
 usc_section: "641"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 641"
-generated_at: "2026-03-30T05:17:41.996Z"
+generated_at: "2026-03-30T05:19:22.757Z"
 status: "active"
 ---
 

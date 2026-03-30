@@ -3,9 +3,9 @@ title: "Section 1758 - Extension of Federal recognition and privileges"
 usc_title: 25
 usc_section: "1758"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1758"
-generated_at: "2026-03-30T05:17:42.030Z"
+generated_at: "2026-03-30T05:19:22.793Z"
 status: "active"
 ---
 

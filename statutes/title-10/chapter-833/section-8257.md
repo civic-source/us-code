@@ -3,9 +3,9 @@ title: "Section 8257 - Regular Air Force: aviation cadets; qualifications, grade
 usc_title: 10
 usc_section: "8257"
 chapter: 833
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 8257"
-generated_at: "2026-03-30T05:17:01.094Z"
+generated_at: "2026-03-30T05:18:58.290Z"
 status: "active"
 ---
 

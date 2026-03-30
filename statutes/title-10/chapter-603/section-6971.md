@@ -3,9 +3,9 @@ title: "Section 6971 - Midshipmen’s store, trade shops, dairy, and laundry: no
 usc_title: 10
 usc_section: "6971"
 chapter: 603
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 6971"
-generated_at: "2026-03-30T05:17:01.087Z"
+generated_at: "2026-03-30T05:18:58.283Z"
 status: "active"
 ---
 

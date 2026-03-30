@@ -3,9 +3,9 @@ title: "Section 14616 - National Crime Prevention and Privacy Compact"
 usc_title: 42
 usc_section: "14616"
 chapter: 140
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 14616"
-generated_at: "2026-03-30T05:18:18.922Z"
+generated_at: "2026-03-30T05:21:13.843Z"
 status: "active"
 ---
 

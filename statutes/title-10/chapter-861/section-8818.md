@@ -3,9 +3,9 @@ title: "Section 8818 - Repealed. Pub. L. 96–513, title II , § 236, Dec. 12, 1
 usc_title: 10
 usc_section: "8818"
 chapter: 861
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 8818"
-generated_at: "2026-03-30T05:17:01.096Z"
+generated_at: "2026-03-30T05:18:58.291Z"
 status: "repealed"
 ---
 

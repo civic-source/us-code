@@ -3,9 +3,9 @@ title: "Section 7541a - Uniform clothing: sale to Naval Sea Cadet Corps"
 usc_title: 10
 usc_section: "7541a"
 chapter: 647
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 7541a"
-generated_at: "2026-03-30T05:17:01.091Z"
+generated_at: "2026-03-30T05:18:58.287Z"
 status: "active"
 ---
 

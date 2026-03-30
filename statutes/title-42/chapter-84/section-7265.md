@@ -3,9 +3,9 @@ title: "Section 7265 - Regional Energy Advisory Boards"
 usc_title: 42
 usc_section: "7265"
 chapter: 84
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 7265"
-generated_at: "2026-03-30T05:18:18.761Z"
+generated_at: "2026-03-30T05:21:13.688Z"
 status: "active"
 ---
 

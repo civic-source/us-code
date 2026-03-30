@@ -3,9 +3,9 @@ title: "Section 14136 - DNA training and education for law enforcement, correcti
 usc_title: 42
 usc_section: "14136"
 chapter: 136
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 14136"
-generated_at: "2026-03-30T05:18:18.918Z"
+generated_at: "2026-03-30T05:21:13.838Z"
 status: "active"
 ---
 

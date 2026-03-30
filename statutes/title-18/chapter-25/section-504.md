@@ -3,9 +3,9 @@ title: "Section 504 - Printing and filming of United States and foreign obligati
 usc_title: 18
 usc_section: "504"
 chapter: 25
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 504"
-generated_at: "2026-03-30T05:17:30.338Z"
+generated_at: "2026-03-30T05:19:11.925Z"
 status: "active"
 ---
 

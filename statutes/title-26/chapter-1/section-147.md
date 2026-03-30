@@ -3,9 +3,9 @@ title: "Section 147 - Other requirements applicable to certain private activity 
 usc_title: 26
 usc_section: "147"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 147"
-generated_at: "2026-03-30T05:17:53.959Z"
+generated_at: "2026-03-30T05:19:54.285Z"
 status: "active"
 ---
 

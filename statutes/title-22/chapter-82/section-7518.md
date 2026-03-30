@@ -3,9 +3,9 @@ title: "Section 7518 - Authorization of appropriations"
 usc_title: 22
 usc_section: "7518"
 chapter: 82
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 7518"
-generated_at: "2026-03-30T05:17:44.104Z"
+generated_at: "2026-03-30T05:19:25.061Z"
 status: "active"
 ---
 

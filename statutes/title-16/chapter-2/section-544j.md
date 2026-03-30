@@ -3,9 +3,9 @@ title: "Section 544j - Old Columbia River Highway"
 usc_title: 16
 usc_section: "544j"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 544j"
-generated_at: "2026-03-30T05:17:33.823Z"
+generated_at: "2026-03-30T05:19:17.040Z"
 status: "active"
 ---
 

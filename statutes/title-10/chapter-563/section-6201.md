@@ -3,9 +3,9 @@ title: "Section 6201 - Members of the naval service in other United States hospi
 usc_title: 10
 usc_section: "6201"
 chapter: 563
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 6201"
-generated_at: "2026-03-30T05:17:01.085Z"
+generated_at: "2026-03-30T05:18:58.280Z"
 status: "active"
 ---
 

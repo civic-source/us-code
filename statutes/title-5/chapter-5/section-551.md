@@ -3,9 +3,9 @@ title: "Section 551 - Definitions"
 usc_title: 5
 usc_section: "551"
 chapter: 5
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "5 U.S.C. § 551"
-generated_at: "2026-03-30T05:16:17.730Z"
+generated_at: "2026-03-30T05:18:46.097Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16538 - Advanced Research Projects Agency—Energy"
 usc_title: 42
 usc_section: "16538"
 chapter: 149
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 16538"
-generated_at: "2026-03-30T05:18:18.949Z"
+generated_at: "2026-03-30T05:21:13.869Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-30T05:17:42.040Z"
+generated_at: "2026-03-30T05:19:22.802Z"
 status: "active"
 ---
 

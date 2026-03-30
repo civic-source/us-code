@@ -3,9 +3,9 @@ title: "Section 1166 - Gambling in Indian country"
 usc_title: 18
 usc_section: "1166"
 chapter: 53
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 1166"
-generated_at: "2026-03-30T05:17:30.353Z"
+generated_at: "2026-03-30T05:19:11.940Z"
 status: "active"
 ---
 

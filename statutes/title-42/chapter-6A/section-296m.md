@@ -3,9 +3,9 @@ title: "Section 296m - Workforce diversity grants"
 usc_title: 42
 usc_section: "296m"
 chapter: 6
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 296m"
-generated_at: "2026-03-30T05:18:18.054Z"
+generated_at: "2026-03-30T05:21:13.306Z"
 status: "active"
 ---
 

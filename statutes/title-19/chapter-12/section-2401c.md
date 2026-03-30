@@ -3,9 +3,9 @@ title: "Section 2401c - Study by Secretary of Agriculture when International Tra
 usc_title: 19
 usc_section: "2401c"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 2401c"
-generated_at: "2026-03-30T05:17:35.796Z"
+generated_at: "2026-03-30T05:19:18.215Z"
 status: "active"
 ---
 

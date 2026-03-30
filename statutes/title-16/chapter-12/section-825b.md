@@ -3,9 +3,9 @@ title: "Section 825b - Requirements applicable to agencies of United States"
 usc_title: 16
 usc_section: "825b"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 825b"
-generated_at: "2026-03-30T05:17:33.854Z"
+generated_at: "2026-03-30T05:19:17.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Definitions"
 usc_title: 42
 usc_section: "8"
 chapter: 8
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T05:18:18.581Z"
+generated_at: "2026-03-30T05:21:13.522Z"
 status: "active"
 ---
 

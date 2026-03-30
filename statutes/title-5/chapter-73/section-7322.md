@@ -3,9 +3,9 @@ title: "Section 7322 - Definitions"
 usc_title: 5
 usc_section: "7322"
 chapter: 73
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "5 U.S.C. § 7322"
-generated_at: "2026-03-30T05:16:17.769Z"
+generated_at: "2026-03-30T05:18:46.129Z"
 status: "active"
 ---
 

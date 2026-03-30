@@ -3,9 +3,9 @@ title: "Section 500c - Acceptance of gifts"
 usc_title: 25
 usc_section: "500c"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 500c"
-generated_at: "2026-03-30T05:17:41.989Z"
+generated_at: "2026-03-30T05:19:22.751Z"
 status: "active"
 ---
 

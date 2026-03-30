@@ -3,9 +3,9 @@ title: "Section 804 - Repealed. Pub. L. 104–106, div. A, title XI, § 1122(c)(
 usc_title: 37
 usc_section: "804"
 chapter: 15
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "37 U.S.C. § 804"
-generated_at: "2026-03-30T05:17:59.288Z"
+generated_at: "2026-03-30T05:20:12.602Z"
 status: "repealed"
 ---
 

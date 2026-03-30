@@ -3,9 +3,9 @@ title: "Section 2835 - Long-term leasing of military family housing to be constr
 usc_title: 10
 usc_section: "2835"
 chapter: 169
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 2835"
-generated_at: "2026-03-30T05:17:01.070Z"
+generated_at: "2026-03-30T05:18:58.266Z"
 status: "active"
 ---
 

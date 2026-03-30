@@ -3,9 +3,9 @@ title: "Section 293a - Conveyance of school properties to local school districts
 usc_title: 25
 usc_section: "293a"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 293a"
-generated_at: "2026-03-30T05:17:41.975Z"
+generated_at: "2026-03-30T05:19:22.738Z"
 status: "active"
 ---
 

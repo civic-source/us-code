@@ -3,9 +3,9 @@ title: "Section 1757a - Extensions of leases of certain land by Mashantucket Peq
 usc_title: 25
 usc_section: "1757a"
 chapter: 19
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1757a"
-generated_at: "2026-03-30T05:17:42.030Z"
+generated_at: "2026-03-30T05:19:22.792Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Use of funds; limitation of issuance"
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T05:17:33.857Z"
+generated_at: "2026-03-30T05:19:17.074Z"
 status: "active"
 ---
 

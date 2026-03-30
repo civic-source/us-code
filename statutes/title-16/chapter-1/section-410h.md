@@ -3,9 +3,9 @@ title: "Section 410h - Ascertainment of owners’ election regarding reservation
 usc_title: 16
 usc_section: "410h"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 410h"
-generated_at: "2026-03-30T05:17:33.751Z"
+generated_at: "2026-03-30T05:19:16.966Z"
 status: "active"
 ---
 

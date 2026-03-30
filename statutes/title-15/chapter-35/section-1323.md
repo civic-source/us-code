@@ -3,9 +3,9 @@ title: "Section 1323 - Repealed. Pub. L. 89–563, title I , § 117(a), Sept. 9,
 usc_title: 15
 usc_section: "1323"
 chapter: 35
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "15 U.S.C. § 1323"
-generated_at: "2026-03-30T05:17:06.954Z"
+generated_at: "2026-03-30T05:19:08.592Z"
 status: "repealed"
 ---
 

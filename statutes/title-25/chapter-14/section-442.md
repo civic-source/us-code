@@ -3,9 +3,9 @@ title: "Section 442 - Livestock loans; cash settlements"
 usc_title: 25
 usc_section: "442"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 442"
-generated_at: "2026-03-30T05:17:41.981Z"
+generated_at: "2026-03-30T05:19:22.743Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5028 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "5028"
 chapter: 503
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 5028"
-generated_at: "2026-03-30T05:17:01.082Z"
+generated_at: "2026-03-30T05:18:58.277Z"
 status: "active"
 ---
 

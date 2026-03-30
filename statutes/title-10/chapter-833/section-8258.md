@@ -3,9 +3,9 @@ title: "Section 8258 - Regular Air Force: reenlistment after service as an offic
 usc_title: 10
 usc_section: "8258"
 chapter: 833
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 8258"
-generated_at: "2026-03-30T05:17:01.094Z"
+generated_at: "2026-03-30T05:18:58.290Z"
 status: "active"
 ---
 

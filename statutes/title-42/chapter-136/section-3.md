@@ -3,9 +3,9 @@ title: "Section 3 - Application"
 usc_title: 42
 usc_section: "3"
 chapter: 136
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T05:18:18.914Z"
+generated_at: "2026-03-30T05:21:13.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 315to315i - Omitted"
 usc_title: 48
 usc_section: "315to315i"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "48 U.S.C. § 315to315i"
-generated_at: "2026-03-30T05:18:24.059Z"
+generated_at: "2026-03-30T05:21:26.220Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130g - Authorities concerning military cyber operations"
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-03-30T05:17:00.977Z"
+generated_at: "2026-03-30T05:18:58.173Z"
 status: "active"
 ---
 

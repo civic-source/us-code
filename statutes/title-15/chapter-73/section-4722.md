@@ -3,9 +3,9 @@ title: "Section 4722 - Transferred"
 usc_title: 15
 usc_section: "4722"
 chapter: 73
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "15 U.S.C. § 4722"
-generated_at: "2026-03-30T05:17:07.012Z"
+generated_at: "2026-03-30T05:19:08.650Z"
 status: "transferred"
 ---
 

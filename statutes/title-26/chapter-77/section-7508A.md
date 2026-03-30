@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Pre
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-30T05:17:54.162Z"
+generated_at: "2026-03-30T05:19:54.495Z"
 status: "active"
 ---
 

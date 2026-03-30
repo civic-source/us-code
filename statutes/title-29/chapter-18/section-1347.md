@@ -3,9 +3,9 @@ title: "Section 1347 - Restoration of plans"
 usc_title: 29
 usc_section: "1347"
 chapter: 18
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "29 U.S.C. § 1347"
-generated_at: "2026-03-30T05:17:48.576Z"
+generated_at: "2026-03-30T05:19:38.044Z"
 status: "active"
 ---
 

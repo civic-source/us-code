@@ -3,9 +3,9 @@ title: "Section 903d - Transfer of assets of Menominee Enterprises, Inc."
 usc_title: 25
 usc_section: "903d"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 903d"
-generated_at: "2026-03-30T05:17:42.005Z"
+generated_at: "2026-03-30T05:19:22.766Z"
 status: "active"
 ---
 

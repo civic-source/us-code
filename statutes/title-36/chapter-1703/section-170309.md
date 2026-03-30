@@ -3,9 +3,9 @@ title: "Section 170309 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "170309"
 chapter: 1703
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "36 U.S.C. § 170309"
-generated_at: "2026-03-30T05:17:59.826Z"
+generated_at: "2026-03-30T05:20:14.318Z"
 status: "active"
 ---
 

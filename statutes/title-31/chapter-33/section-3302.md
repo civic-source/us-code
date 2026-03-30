@@ -3,9 +3,9 @@ title: "Section 3302 - Custodians of money"
 usc_title: 31
 usc_section: "3302"
 chapter: 33
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "31 U.S.C. § 3302"
-generated_at: "2026-03-30T05:17:56.674Z"
+generated_at: "2026-03-30T05:20:09.044Z"
 status: "active"
 ---
 

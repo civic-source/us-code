@@ -3,9 +3,9 @@ title: "Section 3711c - Advanced motor vehicle research award"
 usc_title: 15
 usc_section: "3711c"
 chapter: 63
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "15 U.S.C. § 3711c"
-generated_at: "2026-03-30T05:17:07.006Z"
+generated_at: "2026-03-30T05:19:08.644Z"
 status: "active"
 ---
 

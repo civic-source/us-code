@@ -3,9 +3,9 @@ title: "Section 453 - Allowable travel and transportation: specific authorities"
 usc_title: 37
 usc_section: "453"
 chapter: 8
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "37 U.S.C. § 453"
-generated_at: "2026-03-30T05:17:59.285Z"
+generated_at: "2026-03-30T05:20:12.599Z"
 status: "active"
 ---
 

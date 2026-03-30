@@ -3,9 +3,9 @@ title: "Section 558 - Repealed. Pub. L. 108–357, title IV , § 413(a)(1), Oct.
 usc_title: 26
 usc_section: "558"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 558"
-generated_at: "2026-03-30T05:17:54.024Z"
+generated_at: "2026-03-30T05:19:54.354Z"
 status: "repealed"
 ---
 

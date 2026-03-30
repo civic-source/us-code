@@ -3,9 +3,9 @@ title: "Section 1831i - Agency disapproval of directors and senior executive off
 usc_title: 12
 usc_section: "1831i"
 chapter: 16
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1831i"
-generated_at: "2026-03-30T05:17:26.298Z"
+generated_at: "2026-03-30T05:19:02.948Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 601 - Creation; Director and Deputy Director"
 usc_title: 28
 usc_section: "601"
 chapter: 41
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "28 U.S.C. § 601"
-generated_at: "2026-03-30T05:17:49.411Z"
+generated_at: "2026-03-30T05:19:28.482Z"
 status: "active"
 ---
 

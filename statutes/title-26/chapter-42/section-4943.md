@@ -3,9 +3,9 @@ title: "Section 4943 - Taxes on excess business holdings"
 usc_title: 26
 usc_section: "4943"
 chapter: 42
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 4943"
-generated_at: "2026-03-30T05:17:54.106Z"
+generated_at: "2026-03-30T05:19:54.436Z"
 status: "active"
 ---
 

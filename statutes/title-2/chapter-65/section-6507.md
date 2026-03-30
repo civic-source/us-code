@@ -3,9 +3,9 @@ title: "Section 6507 - Insurance of office funds of Secretary of Senate and Serg
 usc_title: 2
 usc_section: "6507"
 chapter: 65
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 6507"
-generated_at: "2026-03-30T05:16:25.614Z"
+generated_at: "2026-03-30T05:18:44.461Z"
 status: "active"
 ---
 

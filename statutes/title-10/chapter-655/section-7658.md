@@ -3,9 +3,9 @@ title: "Section 7658 - Duties of prize master"
 usc_title: 10
 usc_section: "7658"
 chapter: 655
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 7658"
-generated_at: "2026-03-30T05:17:01.092Z"
+generated_at: "2026-03-30T05:18:58.288Z"
 status: "active"
 ---
 

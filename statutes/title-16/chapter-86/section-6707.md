@@ -3,9 +3,9 @@ title: "Section 6707 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6707"
 chapter: 86
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 6707"
-generated_at: "2026-03-30T05:17:33.945Z"
+generated_at: "2026-03-30T05:19:17.163Z"
 status: "active"
 ---
 

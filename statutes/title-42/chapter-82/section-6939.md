@@ -3,9 +3,9 @@ title: "Section 6939 - Domestic sewage"
 usc_title: 42
 usc_section: "6939"
 chapter: 82
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 6939"
-generated_at: "2026-03-30T05:18:18.750Z"
+generated_at: "2026-03-30T05:21:13.679Z"
 status: "active"
 ---
 

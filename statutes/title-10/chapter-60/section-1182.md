@@ -3,9 +3,9 @@ title: "Section 1182 - Boards of inquiry"
 usc_title: 10
 usc_section: "1182"
 chapter: 60
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 1182"
-generated_at: "2026-03-30T05:17:01.016Z"
+generated_at: "2026-03-30T05:18:58.212Z"
 status: "active"
 ---
 

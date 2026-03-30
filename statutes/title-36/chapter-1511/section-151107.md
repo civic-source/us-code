@@ -3,9 +3,9 @@ title: "Section 151107 - Principal office"
 usc_title: 36
 usc_section: "151107"
 chapter: 1511
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "36 U.S.C. § 151107"
-generated_at: "2026-03-30T05:17:59.822Z"
+generated_at: "2026-03-30T05:20:14.314Z"
 status: "active"
 ---
 

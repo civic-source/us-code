@@ -3,9 +3,9 @@ title: "Section 635a - Management of Bank"
 usc_title: 12
 usc_section: "635a"
 chapter: 6
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 635a"
-generated_at: "2026-03-30T05:17:26.237Z"
+generated_at: "2026-03-30T05:19:02.882Z"
 status: "active"
 ---
 

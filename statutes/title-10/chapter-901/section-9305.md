@@ -3,9 +3,9 @@ title: "Section 9305 - Civilian flying school instructors: instruction at Air Fo
 usc_title: 10
 usc_section: "9305"
 chapter: 901
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 9305"
-generated_at: "2026-03-30T05:17:01.097Z"
+generated_at: "2026-03-30T05:18:58.292Z"
 status: "active"
 ---
 

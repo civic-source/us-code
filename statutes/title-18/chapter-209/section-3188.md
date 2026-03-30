@@ -3,9 +3,9 @@ title: "Section 3188 - Time of commitment pending extradition"
 usc_title: 18
 usc_section: "3188"
 chapter: 209
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 3188"
-generated_at: "2026-03-30T05:17:30.377Z"
+generated_at: "2026-03-30T05:19:11.965Z"
 status: "active"
 ---
 

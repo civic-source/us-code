@@ -3,9 +3,9 @@ title: "Section 1529 - Collection of fees on behalf of other agencies"
 usc_title: 19
 usc_section: "1529"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 1529"
-generated_at: "2026-03-30T05:17:35.771Z"
+generated_at: "2026-03-30T05:19:18.190Z"
 status: "active"
 ---
 

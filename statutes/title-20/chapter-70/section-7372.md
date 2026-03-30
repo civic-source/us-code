@@ -3,9 +3,9 @@ title: "Section 7372 - Rule of construction on equalized spending"
 usc_title: 20
 usc_section: "7372"
 chapter: 70
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "20 U.S.C. § 7372"
-generated_at: "2026-03-30T05:17:37.602Z"
+generated_at: "2026-03-30T05:19:14.037Z"
 status: "active"
 ---
 

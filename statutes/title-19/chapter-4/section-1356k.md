@@ -3,9 +3,9 @@ title: "Section 1356k - Importation of coffee under International Coffee Agreeme
 usc_title: 19
 usc_section: "1356k"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 1356k"
-generated_at: "2026-03-30T05:17:35.764Z"
+generated_at: "2026-03-30T05:19:18.183Z"
 status: "active"
 ---
 

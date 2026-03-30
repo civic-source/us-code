@@ -3,9 +3,9 @@ title: "Section 13541 - Research, development, demonstration, and commercial app
 usc_title: 42
 usc_section: "13541"
 chapter: 134
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 13541"
-generated_at: "2026-03-30T05:18:18.904Z"
+generated_at: "2026-03-30T05:21:13.823Z"
 status: "active"
 ---
 

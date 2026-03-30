@@ -3,9 +3,9 @@ title: "Section 5434 - Funds transferred"
 usc_title: 12
 usc_section: "5434"
 chapter: 53
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 5434"
-generated_at: "2026-03-30T05:17:26.364Z"
+generated_at: "2026-03-30T05:19:03.022Z"
 status: "active"
 ---
 

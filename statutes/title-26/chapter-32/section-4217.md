@@ -3,9 +3,9 @@ title: "Section 4217 - Leases"
 usc_title: 26
 usc_section: "4217"
 chapter: 32
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 4217"
-generated_at: "2026-03-30T05:17:54.100Z"
+generated_at: "2026-03-30T05:19:54.430Z"
 status: "active"
 ---
 

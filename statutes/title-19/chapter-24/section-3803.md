@@ -3,9 +3,9 @@ title: "Section 3803 - Trade agreements authority"
 usc_title: 19
 usc_section: "3803"
 chapter: 24
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 3803"
-generated_at: "2026-03-30T05:17:35.819Z"
+generated_at: "2026-03-30T05:19:18.241Z"
 status: "active"
 ---
 

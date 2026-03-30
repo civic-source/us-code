@@ -3,9 +3,9 @@ title: "Section 1859 - Surveys interrupted"
 usc_title: 18
 usc_section: "1859"
 chapter: 91
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 1859"
-generated_at: "2026-03-30T05:17:30.360Z"
+generated_at: "2026-03-30T05:19:11.948Z"
 status: "active"
 ---
 

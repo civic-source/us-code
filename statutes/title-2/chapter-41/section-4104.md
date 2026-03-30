@@ -3,9 +3,9 @@ title: "Section 4104 - American goods to be preferred in purchases for Senate an
 usc_title: 2
 usc_section: "4104"
 chapter: 41
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 4104"
-generated_at: "2026-03-30T05:16:25.602Z"
+generated_at: "2026-03-30T05:18:44.452Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 617h - Lands capable of irrigation and reclamation by irrigation
 usc_title: 43
 usc_section: "617h"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "43 U.S.C. § 617h"
-generated_at: "2026-03-30T05:18:06.924Z"
+generated_at: "2026-03-30T05:21:00.290Z"
 status: "active"
 ---
 

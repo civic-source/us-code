@@ -3,9 +3,9 @@ title: "Section 213 - Medical, dental, etc., expenses"
 usc_title: 26
 usc_section: "213"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 213"
-generated_at: "2026-03-30T05:17:53.974Z"
+generated_at: "2026-03-30T05:19:54.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2926 - Operational energy activities"
 usc_title: 10
 usc_section: "2926"
 chapter: 173
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 2926"
-generated_at: "2026-03-30T05:17:01.073Z"
+generated_at: "2026-03-30T05:18:58.269Z"
 status: "active"
 ---
 

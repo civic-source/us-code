@@ -3,9 +3,9 @@ title: "Section 677k - Adjustment of debts in making per capita payments to mixe
 usc_title: 25
 usc_section: "677k"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 677k"
-generated_at: "2026-03-30T05:17:41.998Z"
+generated_at: "2026-03-30T05:19:22.760Z"
 status: "active"
 ---
 

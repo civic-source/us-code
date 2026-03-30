@@ -3,9 +3,9 @@ title: "Section 503 - Organization of tribes or bands; constitution; charter; ri
 usc_title: 25
 usc_section: "503"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 503"
-generated_at: "2026-03-30T05:17:41.990Z"
+generated_at: "2026-03-30T05:19:22.751Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 860 - Repealed. Pub. L. 87–649 , § 14b, Sept. 7, 1962 , 76 St
 usc_title: 33
 usc_section: "860"
 chapter: 17
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "33 U.S.C. § 860"
-generated_at: "2026-03-30T05:17:57.442Z"
+generated_at: "2026-03-30T05:20:10.556Z"
 status: "repealed"
 ---
 

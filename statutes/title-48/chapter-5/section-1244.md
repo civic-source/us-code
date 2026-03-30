@@ -3,9 +3,9 @@ title: "Section 1244 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(35
 usc_title: 48
 usc_section: "1244"
 chapter: 5
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "48 U.S.C. § 1244"
-generated_at: "2026-03-30T05:18:24.061Z"
+generated_at: "2026-03-30T05:21:26.223Z"
 status: "repealed"
 ---
 

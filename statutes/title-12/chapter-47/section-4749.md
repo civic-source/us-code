@@ -3,9 +3,9 @@ title: "Section 4749 - Regulations"
 usc_title: 12
 usc_section: "4749"
 chapter: 47
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 4749"
-generated_at: "2026-03-30T05:17:26.348Z"
+generated_at: "2026-03-30T05:19:03.005Z"
 status: "active"
 ---
 

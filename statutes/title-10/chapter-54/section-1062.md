@@ -3,9 +3,9 @@ title: "Section 1062 - Certain former spouses"
 usc_title: 10
 usc_section: "1062"
 chapter: 54
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 1062"
-generated_at: "2026-03-30T05:17:01.006Z"
+generated_at: "2026-03-30T05:18:58.203Z"
 status: "active"
 ---
 

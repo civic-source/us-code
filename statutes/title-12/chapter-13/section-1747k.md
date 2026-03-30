@@ -3,9 +3,9 @@ title: "Section 1747k - Rules and regulations"
 usc_title: 12
 usc_section: "1747k"
 chapter: 13
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1747k"
-generated_at: "2026-03-30T05:17:26.276Z"
+generated_at: "2026-03-30T05:19:02.923Z"
 status: "active"
 ---
 

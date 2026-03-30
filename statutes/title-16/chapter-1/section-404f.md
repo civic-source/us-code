@@ -3,9 +3,9 @@ title: "Section 404f - Acquisition of additional lands"
 usc_title: 16
 usc_section: "404f"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 404f"
-generated_at: "2026-03-30T05:17:33.750Z"
+generated_at: "2026-03-30T05:19:16.965Z"
 status: "active"
 ---
 

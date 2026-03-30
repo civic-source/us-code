@@ -3,9 +3,9 @@ title: "Section 1709 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1709"
 chapter: 13
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1709"
-generated_at: "2026-03-30T05:17:26.259Z"
+generated_at: "2026-03-30T05:19:02.905Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(5)** Bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee.
   - **(6)** Provide, in a manner satisfactory to the Secretary, for the application of the mortgagor’s periodic payments (exclusive of the amount allocated to interest and to the premium charge which is required for mortgage insurance as hereinafter provided) to amortization of the principal of the mortgage.
   - **(7)** Contain such terms and provisions with respect to insurance, repairs, alterations, payment of taxes, default, reserves, delinquency charges, foreclosure proceedings, anticipation of maturity, additional and secondary liens, and other matters as the Secretary may in his discretion prescribe.
-  - **(8)** Repealed. Pub. L. 100–242, title IV, § 406(b)(2) , Feb. 5, 1988 , 101 Stat. 1900 .
+  - **(8)** Repealed. Pub. L. 100–242, title IV , § 406(b)(2), Feb. 5, 1988 , 101 Stat. 1900 .
   - **(9)**
     - **(A)** A mortgage insured under this section shall be executed by a mortgagor who shall have paid, in cash or its equivalent, on account of the property an amount equal to not less than 3.5 percent of the appraised value of the property or such larger amount as the Secretary may determine.
     - **(B)** For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in section 1707 of this title ), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, that—

@@ -3,9 +3,9 @@ title: "Section 3711 - Direct loans to veterans"
 usc_title: 38
 usc_section: "3711"
 chapter: 37
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 3711"
-generated_at: "2026-03-30T05:18:02.488Z"
+generated_at: "2026-03-30T05:20:46.177Z"
 status: "active"
 ---
 

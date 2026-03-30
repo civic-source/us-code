@@ -3,9 +3,9 @@ title: "Section 1301 - Agriculture, Department of: report of Secretary"
 usc_title: 44
 usc_section: "1301"
 chapter: 13
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "44 U.S.C. § 1301"
-generated_at: "2026-03-30T05:18:05.189Z"
+generated_at: "2026-03-30T05:20:57.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 76 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(14), Oct
 usc_title: 26
 usc_section: "76"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 76"
-generated_at: "2026-03-30T05:17:53.949Z"
+generated_at: "2026-03-30T05:19:54.274Z"
 status: "repealed"
 ---
 

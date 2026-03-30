@@ -3,9 +3,9 @@ title: "Section 378 - Partition of allotment among heirs; patents"
 usc_title: 25
 usc_section: "378"
 chapter: 10
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 378"
-generated_at: "2026-03-30T05:17:41.979Z"
+generated_at: "2026-03-30T05:19:22.740Z"
 status: "active"
 ---
 

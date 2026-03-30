@@ -3,9 +3,9 @@ title: "Section 31 - Residence of families eligible for relocation assistance"
 usc_title: 25
 usc_section: "31"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 31"
-generated_at: "2026-03-30T05:17:41.996Z"
+generated_at: "2026-03-30T05:19:22.757Z"
 status: "active"
 ---
 

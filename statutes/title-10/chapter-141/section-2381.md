@@ -3,9 +3,9 @@ title: "Section 2381 - Contracts: regulations for bids"
 usc_title: 10
 usc_section: "2381"
 chapter: 141
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 2381"
-generated_at: "2026-03-30T05:17:01.050Z"
+generated_at: "2026-03-30T05:18:58.247Z"
 status: "active"
 ---
 

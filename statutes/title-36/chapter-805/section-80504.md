@@ -3,9 +3,9 @@ title: "Section 80504 - Membership"
 usc_title: 36
 usc_section: "80504"
 chapter: 805
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "36 U.S.C. § 80504"
-generated_at: "2026-03-30T05:17:59.819Z"
+generated_at: "2026-03-30T05:20:14.311Z"
 status: "active"
 ---
 

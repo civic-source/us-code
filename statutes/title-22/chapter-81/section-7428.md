@@ -3,9 +3,9 @@ title: "Section 7428 - Alliance command arrangements"
 usc_title: 22
 usc_section: "7428"
 chapter: 81
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 7428"
-generated_at: "2026-03-30T05:17:44.103Z"
+generated_at: "2026-03-30T05:19:25.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12706 - Certification"
 usc_title: 42
 usc_section: "12706"
 chapter: 130
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 12706"
-generated_at: "2026-03-30T05:18:18.887Z"
+generated_at: "2026-03-30T05:21:13.807Z"
 status: "active"
 ---
 

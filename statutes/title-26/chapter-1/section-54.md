@@ -3,9 +3,9 @@ title: "Section 54 - Credit to holders of clean renewable energy bonds"
 usc_title: 26
 usc_section: "54"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 54"
-generated_at: "2026-03-30T05:17:53.943Z"
+generated_at: "2026-03-30T05:19:54.268Z"
 status: "active"
 ---
 

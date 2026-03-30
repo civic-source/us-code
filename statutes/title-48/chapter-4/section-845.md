@@ -3,9 +3,9 @@ title: "Section 845 - Income tax laws; modification or repeal by legislature"
 usc_title: 48
 usc_section: "845"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "48 U.S.C. § 845"
-generated_at: "2026-03-30T05:18:24.060Z"
+generated_at: "2026-03-30T05:21:26.223Z"
 status: "active"
 ---
 

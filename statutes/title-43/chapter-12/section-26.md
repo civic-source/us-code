@@ -3,9 +3,9 @@ title: "Section 26 - Pittsburg recycled water project"
 usc_title: 43
 usc_section: "26"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "43 U.S.C. § 26"
-generated_at: "2026-03-30T05:18:06.915Z"
+generated_at: "2026-03-30T05:21:00.281Z"
 status: "active"
 ---
 

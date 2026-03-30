@@ -3,9 +3,9 @@ title: "Section 3311 - Repealed. Pub. L. 95–485, title VIII , § 820(d)(4), Oc
 usc_title: 10
 usc_section: "3311"
 chapter: 335
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 3311"
-generated_at: "2026-03-30T05:17:01.075Z"
+generated_at: "2026-03-30T05:18:58.270Z"
 status: "repealed"
 ---
 

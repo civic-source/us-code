@@ -3,9 +3,9 @@ title: "Section 2689p - Repealed. Pub. L. 97–35, title IX , § 902(e)(2)(B), A
 usc_title: 42
 usc_section: "2689p"
 chapter: 33
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 2689p"
-generated_at: "2026-03-30T05:18:18.643Z"
+generated_at: "2026-03-30T05:21:13.580Z"
 status: "repealed"
 ---
 

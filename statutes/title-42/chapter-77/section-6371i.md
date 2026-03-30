@@ -3,9 +3,9 @@ title: "Section 6371i - Records"
 usc_title: 42
 usc_section: "6371i"
 chapter: 77
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 6371i"
-generated_at: "2026-03-30T05:18:18.739Z"
+generated_at: "2026-03-30T05:21:13.667Z"
 status: "active"
 ---
 

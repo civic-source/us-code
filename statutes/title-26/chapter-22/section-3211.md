@@ -3,9 +3,9 @@ title: "Section 3211 - Rate of tax"
 usc_title: 26
 usc_section: "3211"
 chapter: 22
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "26 U.S.C. § 3211"
-generated_at: "2026-03-30T05:17:54.092Z"
+generated_at: "2026-03-30T05:19:54.422Z"
 status: "active"
 ---
 

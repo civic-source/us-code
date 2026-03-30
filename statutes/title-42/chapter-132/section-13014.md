@@ -3,9 +3,9 @@ title: "Section 13014 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13014"
 chapter: 132
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 13014"
-generated_at: "2026-03-30T05:18:18.894Z"
+generated_at: "2026-03-30T05:21:13.814Z"
 status: "active"
 ---
 

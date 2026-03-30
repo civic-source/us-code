@@ -3,9 +3,9 @@ title: "Section 14914 - Annual report on intercountry adoptions"
 usc_title: 42
 usc_section: "14914"
 chapter: 143
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 14914"
-generated_at: "2026-03-30T05:18:18.924Z"
+generated_at: "2026-03-30T05:21:13.844Z"
 status: "active"
 ---
 

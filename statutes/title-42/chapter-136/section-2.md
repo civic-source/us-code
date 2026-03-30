@@ -3,9 +3,9 @@ title: "Section 2 - Increased funding for formula grants authorized"
 usc_title: 42
 usc_section: "2"
 chapter: 136
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:18:18.914Z"
+generated_at: "2026-03-30T05:21:13.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6102 - Fraudulent acceptance of payments"
 usc_title: 38
 usc_section: "6102"
 chapter: 61
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 6102"
-generated_at: "2026-03-30T05:18:02.498Z"
+generated_at: "2026-03-30T05:20:46.187Z"
 status: "active"
 ---
 

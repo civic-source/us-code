@@ -3,9 +3,9 @@ title: "Section 6981 - Under Secretary of Agriculture for Food Safety"
 usc_title: 7
 usc_section: "6981"
 chapter: 98
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "7 U.S.C. § 6981"
-generated_at: "2026-03-30T05:16:57.372Z"
+generated_at: "2026-03-30T05:18:51.963Z"
 status: "active"
 ---
 

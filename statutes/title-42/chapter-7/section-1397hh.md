@@ -3,9 +3,9 @@ title: "Section 1397hh - Annual reports; evaluations"
 usc_title: 42
 usc_section: "1397hh"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 1397hh"
-generated_at: "2026-03-30T05:18:18.271Z"
+generated_at: "2026-03-30T05:21:13.509Z"
 status: "active"
 ---
 

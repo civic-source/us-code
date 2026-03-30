@@ -3,9 +3,9 @@ title: "Section 638 - Coast Guard ensigns and pennants"
 usc_title: 14
 usc_section: "638"
 chapter: 17
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "14 U.S.C. § 638"
-generated_at: "2026-03-30T05:17:18.383Z"
+generated_at: "2026-03-30T05:19:00.334Z"
 status: "active"
 ---
 

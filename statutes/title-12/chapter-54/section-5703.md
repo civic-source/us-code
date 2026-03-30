@@ -3,9 +3,9 @@ title: "Section 5703 - Approving States for participation"
 usc_title: 12
 usc_section: "5703"
 chapter: 54
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 5703"
-generated_at: "2026-03-30T05:17:26.373Z"
+generated_at: "2026-03-30T05:19:03.033Z"
 status: "active"
 ---
 

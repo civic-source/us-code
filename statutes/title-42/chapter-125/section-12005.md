@@ -3,9 +3,9 @@ title: "Section 12005 - Demonstration and commercial application projects"
 usc_title: 42
 usc_section: "12005"
 chapter: 125
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 12005"
-generated_at: "2026-03-30T05:18:18.868Z"
+generated_at: "2026-03-30T05:21:13.787Z"
 status: "active"
 ---
 

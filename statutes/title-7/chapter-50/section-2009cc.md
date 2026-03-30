@@ -3,9 +3,9 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T05:16:57.318Z"
+generated_at: "2026-03-30T05:18:51.906Z"
 status: "active"
 ---
 

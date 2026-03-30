@@ -3,9 +3,9 @@ title: "Section 141 - Medicare prescription drug discount card and transitional 
 usc_title: 42
 usc_section: "141"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 141"
-generated_at: "2026-03-30T05:18:18.207Z"
+generated_at: "2026-03-30T05:21:13.449Z"
 status: "active"
 ---
 

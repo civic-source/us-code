@@ -3,9 +3,9 @@ title: "Section 287l - Congressional declaration that United Nations take steps 
 usc_title: 22
 usc_section: "287l"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 287l"
-generated_at: "2026-03-30T05:17:44.002Z"
+generated_at: "2026-03-30T05:19:24.956Z"
 status: "active"
 ---
 

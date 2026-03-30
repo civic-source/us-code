@@ -3,9 +3,9 @@ title: "Section 269b - Omitted"
 usc_title: 22
 usc_section: "269b"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 269b"
-generated_at: "2026-03-30T05:17:43.992Z"
+generated_at: "2026-03-30T05:19:24.945Z"
 status: "omitted"
 ---
 

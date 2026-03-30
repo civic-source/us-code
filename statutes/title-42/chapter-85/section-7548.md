@@ -3,9 +3,9 @@ title: "Section 7548 - Study of particulate emissions from motor vehicles"
 usc_title: 42
 usc_section: "7548"
 chapter: 85
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 7548"
-generated_at: "2026-03-30T05:18:18.786Z"
+generated_at: "2026-03-30T05:21:13.711Z"
 status: "active"
 ---
 

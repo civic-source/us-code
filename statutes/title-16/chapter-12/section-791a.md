@@ -3,9 +3,9 @@ title: "Section 791a - Short title"
 usc_title: 16
 usc_section: "791a"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 791a"
-generated_at: "2026-03-30T05:17:33.848Z"
+generated_at: "2026-03-30T05:19:17.065Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5125 - Acceptance of reports of private physician examinations"
 usc_title: 38
 usc_section: "5125"
 chapter: 51
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 5125"
-generated_at: "2026-03-30T05:18:02.495Z"
+generated_at: "2026-03-30T05:20:46.184Z"
 status: "active"
 ---
 

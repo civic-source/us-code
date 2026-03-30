@@ -3,9 +3,9 @@ title: "Section 482n - Coconino National Forest; mining rights; protection of sc
 usc_title: 16
 usc_section: "482n"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 482n"
-generated_at: "2026-03-30T05:17:33.814Z"
+generated_at: "2026-03-30T05:19:17.030Z"
 status: "active"
 ---
 

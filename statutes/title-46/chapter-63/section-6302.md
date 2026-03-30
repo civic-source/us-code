@@ -3,9 +3,9 @@ title: "Section 6302 - Public investigations"
 usc_title: 46
 usc_section: "6302"
 chapter: 63
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "46 U.S.C. § 6302"
-generated_at: "2026-03-30T05:18:22.972Z"
+generated_at: "2026-03-30T05:21:25.920Z"
 status: "active"
 ---
 

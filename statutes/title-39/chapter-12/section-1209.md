@@ -3,9 +3,9 @@ title: "Section 1209 - Applicability of Federal labor laws"
 usc_title: 39
 usc_section: "1209"
 chapter: 12
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "39 U.S.C. § 1209"
-generated_at: "2026-03-30T05:18:00.138Z"
+generated_at: "2026-03-30T05:20:21.232Z"
 status: "active"
 ---
 

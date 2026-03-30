@@ -3,9 +3,9 @@ title: "Section 14192 - Establishment; committees and task forces; representatio
 usc_title: 42
 usc_section: "14192"
 chapter: 136
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 14192"
-generated_at: "2026-03-30T05:18:18.920Z"
+generated_at: "2026-03-30T05:21:13.839Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1201 - Power of Secretary or designated officer"
 usc_title: 43
 usc_section: "1201"
 chapter: 28
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "43 U.S.C. § 1201"
-generated_at: "2026-03-30T05:18:06.958Z"
+generated_at: "2026-03-30T05:21:00.300Z"
 status: "active"
 ---
 

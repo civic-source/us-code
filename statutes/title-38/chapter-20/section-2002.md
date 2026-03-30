@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 38
 usc_section: "2002"
 chapter: 20
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 2002"
-generated_at: "2026-03-30T05:18:02.473Z"
+generated_at: "2026-03-30T05:20:46.161Z"
 status: "active"
 ---
 

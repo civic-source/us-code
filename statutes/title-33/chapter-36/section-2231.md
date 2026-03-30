@@ -3,9 +3,9 @@ title: "Section 2231 - Study of water resources development projects by non-Fede
 usc_title: 33
 usc_section: "2231"
 chapter: 36
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "33 U.S.C. § 2231"
-generated_at: "2026-03-30T05:17:57.473Z"
+generated_at: "2026-03-30T05:20:10.585Z"
 status: "active"
 ---
 

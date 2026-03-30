@@ -1,15 +1,15 @@
 ---
-title: "Section 14044h - Establishing a National Strategy to Combat Human Trafficking"
+title: "Section 14044h - Establishing a national strategy to combat human trafficking"
 usc_title: 42
 usc_section: "14044h"
 chapter: 136
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 14044h"
-generated_at: "2026-03-30T05:18:18.916Z"
+generated_at: "2026-03-30T05:21:13.835Z"
 status: "active"
 ---
 
-# § 14044h. Establishing a National Strategy to Combat Human Trafficking
+# § 14044h. Establishing a national strategy to combat human trafficking
 
 - **(a)** The Attorney General shall implement and maintain a National Strategy for Combating Human Trafficking (referred to in this section as the “National Strategy”) in accordance with this section.
 - **(b)** The National Strategy shall include the following:

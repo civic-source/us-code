@@ -3,9 +3,9 @@ title: "Section 2012 - Administrative provisions"
 usc_title: 20
 usc_section: "2012"
 chapter: 42
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "20 U.S.C. § 2012"
-generated_at: "2026-03-30T05:17:37.566Z"
+generated_at: "2026-03-30T05:19:14.000Z"
 status: "active"
 ---
 

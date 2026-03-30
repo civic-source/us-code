@@ -3,9 +3,9 @@ title: "Section 1445 - Correction of administrative deficiencies"
 usc_title: 10
 usc_section: "1445"
 chapter: 73
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 1445"
-generated_at: "2026-03-30T05:17:01.020Z"
+generated_at: "2026-03-30T05:18:58.217Z"
 status: "active"
 ---
 

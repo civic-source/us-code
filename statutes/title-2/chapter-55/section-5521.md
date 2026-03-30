@@ -3,9 +3,9 @@ title: "Section 5521 - Compensation of Chaplain of House"
 usc_title: 2
 usc_section: "5521"
 chapter: 55
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "2 U.S.C. § 5521"
-generated_at: "2026-03-30T05:16:25.608Z"
+generated_at: "2026-03-30T05:18:44.458Z"
 status: "active"
 ---
 

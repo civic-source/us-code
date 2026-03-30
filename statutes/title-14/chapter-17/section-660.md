@@ -3,9 +3,9 @@ title: "Section 660 - Transportation to and from certain places of employment"
 usc_title: 14
 usc_section: "660"
 chapter: 17
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "14 U.S.C. § 660"
-generated_at: "2026-03-30T05:17:18.384Z"
+generated_at: "2026-03-30T05:19:00.335Z"
 status: "active"
 ---
 

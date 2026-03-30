@@ -3,9 +3,9 @@ title: "Section 17 - Penalties"
 usc_title: 15
 usc_section: "17"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-30T05:17:06.902Z"
+generated_at: "2026-03-30T05:19:08.541Z"
 status: "active"
 ---
 

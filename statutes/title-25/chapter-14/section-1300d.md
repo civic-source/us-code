@@ -3,9 +3,9 @@ title: "Section 1300d - Distribution of funds; attorney fees and expenses"
 usc_title: 25
 usc_section: "1300d"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 1300d"
-generated_at: "2026-03-30T05:17:42.011Z"
+generated_at: "2026-03-30T05:19:22.774Z"
 status: "active"
 ---
 

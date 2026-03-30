@@ -3,9 +3,9 @@ title: "Section 1 - Sampling and averaging; determination of weighted average du
 usc_title: 19
 usc_section: "1"
 chapter: 4
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "19 U.S.C. § 1"
-generated_at: "2026-03-30T05:17:35.783Z"
+generated_at: "2026-03-30T05:19:18.202Z"
 status: "active"
 ---
 

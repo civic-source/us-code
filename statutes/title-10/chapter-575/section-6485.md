@@ -3,9 +3,9 @@ title: "Section 6485 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "6485"
 chapter: 575
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 6485"
-generated_at: "2026-03-30T05:17:01.086Z"
+generated_at: "2026-03-30T05:18:58.282Z"
 status: "active"
 ---
 

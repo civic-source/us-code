@@ -3,9 +3,9 @@ title: "Section 308 - Authorization of appropriations"
 usc_title: 46
 usc_section: "308"
 chapter: 3
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "46 U.S.C. § 308"
-generated_at: "2026-03-30T05:18:22.966Z"
+generated_at: "2026-03-30T05:21:25.913Z"
 status: "active"
 ---
 

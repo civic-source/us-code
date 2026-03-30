@@ -3,9 +3,9 @@ title: "Section 15832 - Energy efficiency public information initiative"
 usc_title: 42
 usc_section: "15832"
 chapter: 149
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 15832"
-generated_at: "2026-03-30T05:18:18.933Z"
+generated_at: "2026-03-30T05:21:13.853Z"
 status: "active"
 ---
 

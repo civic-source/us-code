@@ -3,9 +3,9 @@ title: "Section 2452 - Authorization of activities"
 usc_title: 22
 usc_section: "2452"
 chapter: 33
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 2452"
-generated_at: "2026-03-30T05:17:44.042Z"
+generated_at: "2026-03-30T05:19:24.998Z"
 status: "active"
 ---
 

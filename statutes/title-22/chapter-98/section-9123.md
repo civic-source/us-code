@@ -3,9 +3,9 @@ title: "Section 9123 - Consultations with foreign governments"
 usc_title: 22
 usc_section: "9123"
 chapter: 98
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 9123"
-generated_at: "2026-03-30T05:17:44.121Z"
+generated_at: "2026-03-30T05:19:25.079Z"
 status: "active"
 ---
 

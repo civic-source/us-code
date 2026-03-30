@@ -3,9 +3,9 @@ title: "Section 676a - Distribution of judgment fund"
 usc_title: 25
 usc_section: "676a"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 676a"
-generated_at: "2026-03-30T05:17:41.997Z"
+generated_at: "2026-03-30T05:19:22.758Z"
 status: "active"
 ---
 

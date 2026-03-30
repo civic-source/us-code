@@ -3,9 +3,9 @@ title: "Section 1408 - Paperwork reduction"
 usc_title: 20
 usc_section: "1408"
 chapter: 33
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "20 U.S.C. § 1408"
-generated_at: "2026-03-30T05:17:37.555Z"
+generated_at: "2026-03-30T05:19:13.989Z"
 status: "active"
 ---
 

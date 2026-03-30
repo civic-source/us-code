@@ -3,9 +3,9 @@ title: "Section 15964 - Clean coal centers of excellence"
 usc_title: 42
 usc_section: "15964"
 chapter: 149
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 15964"
-generated_at: "2026-03-30T05:18:18.936Z"
+generated_at: "2026-03-30T05:21:13.856Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 965 - Restriction on use of Colorado and Wyoming pipeline right 
 usc_title: 43
 usc_section: "965"
 chapter: 22
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "43 U.S.C. § 965"
-generated_at: "2026-03-30T05:18:06.933Z"
+generated_at: "2026-03-30T05:21:00.298Z"
 status: "active"
 ---
 

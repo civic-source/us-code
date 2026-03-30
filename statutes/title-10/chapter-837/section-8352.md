@@ -3,9 +3,9 @@ title: "Section 8352 - Renumbered § 12214]"
 usc_title: 10
 usc_section: "8352"
 chapter: 837
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 8352"
-generated_at: "2026-03-30T05:17:01.095Z"
+generated_at: "2026-03-30T05:18:58.290Z"
 status: "renumbered"
 ---
 

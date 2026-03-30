@@ -3,9 +3,9 @@ title: "Section 1114 - Protection of officers and employees of the United States
 usc_title: 18
 usc_section: "1114"
 chapter: 51
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 1114"
-generated_at: "2026-03-30T05:17:30.352Z"
+generated_at: "2026-03-30T05:19:11.940Z"
 status: "active"
 ---
 

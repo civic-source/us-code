@@ -3,9 +3,9 @@ title: "Section 1141h - Avoidance of duplication; cooperation with other governm
 usc_title: 12
 usc_section: "1141h"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1141h"
-generated_at: "2026-03-30T05:17:26.240Z"
+generated_at: "2026-03-30T05:19:02.885Z"
 status: "active"
 ---
 

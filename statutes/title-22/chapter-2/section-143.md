@@ -3,9 +3,9 @@ title: "Section 143 - Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774"
 usc_title: 22
 usc_section: "143"
 chapter: 2
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 143"
-generated_at: "2026-03-30T05:17:43.986Z"
+generated_at: "2026-03-30T05:19:24.938Z"
 status: "repealed"
 ---
 

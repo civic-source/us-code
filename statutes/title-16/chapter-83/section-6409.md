@@ -3,9 +3,9 @@ title: "Section 6409 - Definitions"
 usc_title: 16
 usc_section: "6409"
 chapter: 83
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 6409"
-generated_at: "2026-03-30T05:17:33.942Z"
+generated_at: "2026-03-30T05:19:17.160Z"
 status: "active"
 ---
 

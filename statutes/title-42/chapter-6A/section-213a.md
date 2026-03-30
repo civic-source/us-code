@@ -3,9 +3,9 @@ title: "Section 213a - Rights, benefits, privileges, and immunities for commissi
 usc_title: 42
 usc_section: "213a"
 chapter: 6
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 213a"
-generated_at: "2026-03-30T05:18:17.986Z"
+generated_at: "2026-03-30T05:21:13.239Z"
 status: "active"
 ---
 

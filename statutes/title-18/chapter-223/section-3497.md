@@ -3,9 +3,9 @@ title: "Section 3497 - Account as evidence of embezzlement"
 usc_title: 18
 usc_section: "3497"
 chapter: 223
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "18 U.S.C. § 3497"
-generated_at: "2026-03-30T05:17:30.379Z"
+generated_at: "2026-03-30T05:19:11.967Z"
 status: "active"
 ---
 

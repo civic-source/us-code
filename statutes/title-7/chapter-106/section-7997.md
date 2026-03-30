@@ -3,9 +3,9 @@ title: "Section 7997 - Tracking of benefits"
 usc_title: 7
 usc_section: "7997"
 chapter: 106
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "7 U.S.C. § 7997"
-generated_at: "2026-03-30T05:16:57.392Z"
+generated_at: "2026-03-30T05:18:51.984Z"
 status: "active"
 ---
 

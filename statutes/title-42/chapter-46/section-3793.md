@@ -3,9 +3,9 @@ title: "Section 3793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3793"
 chapter: 46
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 3793"
-generated_at: "2026-03-30T05:18:18.670Z"
+generated_at: "2026-03-30T05:21:13.604Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
   - **(20)** There are authorized to be appropriated to carry out subchapter XII–J of this chapter, $10,000,000 for each of fiscal years 2001 through 2004.
   - **(21)** There are authorized to be appropriated to carry out subchapter XII–K of this chapter—
   - **(22)** There are authorized to be appropriated to carry out subchapter XII–L of this chapter—
-  - **(23)** There are authorized to be appropriated to carry out subchapter XII–M of this chapter, $25,000,000 for each of fiscal years 1999 through 2001, and $50,000,000 for each of fiscal years 2002 through 2012.
+  - **(23)** There is authorized to be appropriated to carry out subchapter XII–M, $25,000,000 for each of fiscal years 2016 through 2020.
   - **(24)** There are authorized to be appropriated to carry out subchapter XV of this chapter, to remain available until expended—
     - **(A)** $35,000,000 for fiscal year 2001;
     - **(B)** $85,400,000 for fiscal year 2002;

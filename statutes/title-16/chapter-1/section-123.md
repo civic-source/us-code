@@ -3,9 +3,9 @@ title: "Section 123 - Settlement, residence, lumbering, or business within park 
 usc_title: 16
 usc_section: "123"
 chapter: 1
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "16 U.S.C. § 123"
-generated_at: "2026-03-30T05:17:33.735Z"
+generated_at: "2026-03-30T05:19:16.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60501 - Secretary of Energy"
 usc_title: 49
 usc_section: "60501"
 chapter: 605
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "49 U.S.C. § 60501"
-generated_at: "2026-03-30T05:18:26.621Z"
+generated_at: "2026-03-30T05:21:19.408Z"
 status: "active"
 ---
 

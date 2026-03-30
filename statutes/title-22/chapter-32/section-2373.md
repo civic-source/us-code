@@ -3,9 +3,9 @@ title: "Section 2373 - Eastern Mediterranean policy requirements"
 usc_title: 22
 usc_section: "2373"
 chapter: 32
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "22 U.S.C. § 2373"
-generated_at: "2026-03-30T05:17:44.037Z"
+generated_at: "2026-03-30T05:19:24.992Z"
 status: "active"
 ---
 

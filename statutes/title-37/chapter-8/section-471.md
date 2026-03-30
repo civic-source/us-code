@@ -3,9 +3,9 @@ title: "Section 471 - Travel authorities transition expiration date"
 usc_title: 37
 usc_section: "471"
 chapter: 8
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "37 U.S.C. § 471"
-generated_at: "2026-03-30T05:17:59.285Z"
+generated_at: "2026-03-30T05:20:12.599Z"
 status: "active"
 ---
 

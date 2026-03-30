@@ -3,9 +3,9 @@ title: "Section 230509 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "230509"
 chapter: 2305
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "36 U.S.C. § 230509"
-generated_at: "2026-03-30T05:17:59.829Z"
+generated_at: "2026-03-30T05:20:14.321Z"
 status: "active"
 ---
 

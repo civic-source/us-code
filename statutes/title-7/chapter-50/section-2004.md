@@ -3,9 +3,9 @@ title: "Section 2004 - Expedited clearing of title to inventory property"
 usc_title: 7
 usc_section: "2004"
 chapter: 50
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "7 U.S.C. § 2004"
-generated_at: "2026-03-30T05:16:57.314Z"
+generated_at: "2026-03-30T05:18:51.902Z"
 status: "active"
 ---
 

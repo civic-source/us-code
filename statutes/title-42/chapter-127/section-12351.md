@@ -3,9 +3,9 @@ title: "Section 12351 - Findings and purpose"
 usc_title: 42
 usc_section: "12351"
 chapter: 127
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 12351"
-generated_at: "2026-03-30T05:18:18.872Z"
+generated_at: "2026-03-30T05:21:13.791Z"
 status: "active"
 ---
 

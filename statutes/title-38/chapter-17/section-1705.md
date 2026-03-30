@@ -3,9 +3,9 @@ title: "Section 1705 - Management of health care: patient enrollment system"
 usc_title: 38
 usc_section: "1705"
 chapter: 17
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "38 U.S.C. § 1705"
-generated_at: "2026-03-30T05:18:02.464Z"
+generated_at: "2026-03-30T05:20:46.152Z"
 status: "active"
 ---
 

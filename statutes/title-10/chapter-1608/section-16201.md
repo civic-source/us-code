@@ -3,9 +3,9 @@ title: "Section 16201 - Financial assistance: health-care professionals in reser
 usc_title: 10
 usc_section: "16201"
 chapter: 1608
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 16201"
-generated_at: "2026-03-30T05:17:01.111Z"
+generated_at: "2026-03-30T05:18:58.307Z"
 status: "active"
 ---
 

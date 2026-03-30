@@ -3,9 +3,9 @@ title: "Section 9 - Experimental Program to Stimulate Competitive Research"
 usc_title: 42
 usc_section: "9"
 chapter: 16
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T05:18:18.611Z"
+generated_at: "2026-03-30T05:21:13.549Z"
 status: "active"
 ---
 

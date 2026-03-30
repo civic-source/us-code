@@ -3,9 +3,9 @@ title: "Section 227 - Omitted"
 usc_title: 30
 usc_section: "227"
 chapter: 3
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "30 U.S.C. § 227"
-generated_at: "2026-03-30T05:17:47.580Z"
+generated_at: "2026-03-30T05:19:27.778Z"
 status: "omitted"
 ---
 

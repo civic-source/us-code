@@ -3,9 +3,9 @@ title: "Section 2000f - Survey for compilation of registration and voting statis
 usc_title: 42
 usc_section: "2000f"
 chapter: 21
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 2000f"
-generated_at: "2026-03-30T05:18:18.621Z"
+generated_at: "2026-03-30T05:21:13.558Z"
 status: "active"
 ---
 

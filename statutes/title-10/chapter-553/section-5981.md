@@ -3,9 +3,9 @@ title: "Section 5981 - Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 
 usc_title: 10
 usc_section: "5981"
 chapter: 553
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 5981"
-generated_at: "2026-03-30T05:17:01.084Z"
+generated_at: "2026-03-30T05:18:58.279Z"
 status: "repealed"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 1141a - Repealed. Aug. 6, 1953, ch. 335, § 19 , 67 Stat. 400"
+title: "Section 1141a - Repealed. Aug. 6, 1953, ch. 335 , § 19, 67 Stat. 400"
 usc_title: 12
 usc_section: "1141a"
 chapter: 7
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "12 U.S.C. § 1141a"
-generated_at: "2026-03-30T05:17:26.240Z"
+generated_at: "2026-03-30T05:19:02.884Z"
 status: "repealed"
 ---
 
-# § 1141a. Repealed. Aug. 6, 1953, ch. 335, § 19 , 67 Stat. 400
+# § 1141a. Repealed. Aug. 6, 1953, ch. 335 , § 19, 67 Stat. 400
 

@@ -3,9 +3,9 @@ title: "Section 3510b - Acquisition of critical skills"
 usc_title: 50
 usc_section: "3510b"
 chapter: 46
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "50 U.S.C. § 3510b"
-generated_at: "2026-03-30T05:18:30.372Z"
+generated_at: "2026-03-30T05:21:41.177Z"
 status: "active"
 ---
 

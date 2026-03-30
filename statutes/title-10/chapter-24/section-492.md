@@ -3,9 +3,9 @@ title: "Section 492 - Biennial assessment and report on the delivery platforms f
 usc_title: 10
 usc_section: "492"
 chapter: 24
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "10 U.S.C. § 492"
-generated_at: "2026-03-30T05:17:00.986Z"
+generated_at: "2026-03-30T05:18:58.182Z"
 status: "active"
 ---
 

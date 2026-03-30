@@ -3,9 +3,9 @@ title: "Section 592 - Withdrawal of tribal funds to reimburse United States; con
 usc_title: 25
 usc_section: "592"
 chapter: 14
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "25 U.S.C. § 592"
-generated_at: "2026-03-30T05:17:41.992Z"
+generated_at: "2026-03-30T05:19:22.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41766 - Funding"
 usc_title: 49
 usc_section: "41766"
 chapter: 417
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "49 U.S.C. § 41766"
-generated_at: "2026-03-30T05:18:26.599Z"
+generated_at: "2026-03-30T05:21:19.384Z"
 status: "active"
 ---
 

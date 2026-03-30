@@ -3,9 +3,9 @@ title: "Section 3017 - Evaluation of programs"
 usc_title: 42
 usc_section: "3017"
 chapter: 35
-current_through: "PL 114-153"
+current_through: "PL 114-156"
 classification: "42 U.S.C. § 3017"
-generated_at: "2026-03-30T05:18:18.649Z"
+generated_at: "2026-03-30T05:21:13.584Z"
 status: "active"
 ---
 
