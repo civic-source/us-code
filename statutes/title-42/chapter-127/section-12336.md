@@ -3,9 +3,9 @@ title: "Section 12336 - Independent State body"
 usc_title: 42
 usc_section: "12336"
 chapter: 127
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12336"
-generated_at: "2026-03-30T05:42:49.755Z"
+generated_at: "2026-03-30T05:45:32.027Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
       - **(i)** provide a range of services organized to tailor responses to needs rather than a predetermined array of services;
       - **(ii)** are rooted in and part of the communities that such systems are designed to serve as measured by the degree to which public and private community leaders and young individuals participate in the planning of such systems; and
       - **(iii)** demonstrate an ability to develop systematic collaboration among service providers on behalf of children, youth and families, including joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that promote more effective service systems for such individuals.
-- **(b)** The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) of this section and that is authorized to conduct the same range of interagency planning and coordination activities.
+- **(b)** The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) and that is authorized to conduct the same range of interagency planning and coordination activities.

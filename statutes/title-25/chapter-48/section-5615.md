@@ -3,9 +3,9 @@ title: "Section 5615 - Effect of subchapter"
 usc_title: 25
 usc_section: "5615"
 chapter: 48
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "25 U.S.C. § 5615"
-generated_at: "2026-03-30T05:41:25.807Z"
+generated_at: "2026-03-30T05:44:21.480Z"
 status: "active"
 ---
 
@@ -16,6 +16,6 @@ status: "active"
 - **(c)** Subsection (b) applies to losses resulting from a transaction or activity described in that subsection even if the Indian trust asset management plan is terminated under section 5613(d) of this title or rescinded under section 5614(h) of this title .
 - **(d)**
   - **(1)** Except as provided in sections 5613 and 5614 of this title and subsection (e), nothing in this subchapter amends or otherwise affects the application of any treaty, statute, regulation, or Executive order that is applicable to Indian trust assets or the management or administration of Indian trust assets.
-  - **(2)** Nothing in this subchapter limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) (including regulations).
+  - **(2)** Nothing in this subchapter limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. (including regulations).
 - **(e)** An Indian tribe may submit to the Secretary tribal regulations described in section 5614(b) of this title governing forest land management activities for review and approval under this subchapter if the Indian tribe does not submit or intend to submit an Indian trust asset management plan.
 - **(f)** Nothing in this subchapter enhances, diminishes, or otherwise affects the trust responsibility of the United States to Indian tribes or individual Indians.

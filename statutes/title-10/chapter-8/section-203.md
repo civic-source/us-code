@@ -3,9 +3,9 @@ title: "Section 203 - Director of Missile Defense Agency"
 usc_title: 10
 usc_section: "203"
 chapter: 8
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 203"
-generated_at: "2026-03-30T05:41:02.801Z"
+generated_at: "2026-03-30T05:43:26.596Z"
 status: "active"
 ---
 

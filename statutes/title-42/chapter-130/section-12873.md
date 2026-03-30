@@ -3,9 +3,9 @@ title: "Section 12873 - Implementation grants"
 usc_title: 42
 usc_section: "12873"
 chapter: 130
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12873"
-generated_at: "2026-03-30T05:42:49.774Z"
+generated_at: "2026-03-30T05:45:32.048Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(C)** a description of the qualifications and experience of the applicant in providing low-income housing;
     - **(D)** a description of the proposed homeownership program, consistent with section 12874 3 3 See References in Text note below. of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) 3 of this title;
     - **(E)** identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
-    - **(F)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+    - **(F)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
     - **(G)** identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
     - **(H)** the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
     - **(I)** the proposed sales prices, if any, and terms to eligible families;

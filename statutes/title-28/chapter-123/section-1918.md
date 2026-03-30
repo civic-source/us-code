@@ -3,9 +3,9 @@ title: "Section 1918 - District courts; fines, forfeitures and criminal proceedi
 usc_title: 28
 usc_section: "1918"
 chapter: 123
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "28 U.S.C. § 1918"
-generated_at: "2026-03-30T05:41:35.962Z"
+generated_at: "2026-03-30T05:44:37.085Z"
 status: "active"
 ---
 

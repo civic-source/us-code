@@ -3,20 +3,20 @@ title: "Section 12604 - Disbursement of educational awards"
 usc_title: 42
 usc_section: "12604"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12604"
-generated_at: "2026-03-30T05:42:49.762Z"
+generated_at: "2026-03-30T05:45:32.035Z"
 status: "active"
 ---
 
 # § 12604. Disbursement of educational awards
 
 - **(a)** Amounts in the Trust shall be available—
-  - **(1)** to repay student loans in accordance with subsection (b) of this section;
-  - **(2)** to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c) of this section;
-  - **(3)** to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d) of this section;
+  - **(1)** to repay student loans in accordance with subsection (b);
+  - **(2)** to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c);
+  - **(3)** to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d);
   - **(4)** to pay expenses incurred in enrolling in an educational institution or training establishment that is approved under chapter 36 of title 38, or other applicable provisions of law, for offering programs of education, apprenticeship, or on-job training for which educational assistance may be provided by the Secretary of Veterans Affairs; and
-  - **(5)** to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e) of this section.
+  - **(5)** to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e).
 - **(b)**
   - **(1)** An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual’s summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual’s silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
     - **(A)** identifies, or permits the Corporation to identify readily, the holder or holders of such loans;

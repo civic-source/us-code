@@ -3,9 +3,9 @@ title: "Section 2283 - Eligible projects"
 usc_title: 22
 usc_section: "2283"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2283"
-generated_at: "2026-03-30T05:41:31.852Z"
+generated_at: "2026-03-30T05:44:32.141Z"
 status: "active"
 ---
 

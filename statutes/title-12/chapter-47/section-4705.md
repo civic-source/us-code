@@ -3,9 +3,9 @@ title: "Section 4705 - Community partnerships"
 usc_title: 12
 usc_section: "4705"
 chapter: 47
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 4705"
-generated_at: "2026-03-30T05:41:07.930Z"
+generated_at: "2026-03-30T05:43:40.657Z"
 status: "active"
 ---
 

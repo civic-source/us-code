@@ -3,9 +3,9 @@ title: "Section 10603 - Crime victim assistance"
 usc_title: 42
 usc_section: "10603"
 chapter: 112
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10603"
-generated_at: "2026-03-30T05:42:49.736Z"
+generated_at: "2026-03-30T05:45:32.003Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(5)** As used in this subsection, the term “base amount” means—
     - **(A)** except as provided in subparagraph (B), $500,000; and
     - **(B)** for the territories of the Northern Mariana Islands, Guam, American Samoa, and the Republic of Palau, $200,000, with the Republic of Palau’s share governed by the Compact of Free Association between the United States and the Republic of Palau.
-  - **(6)** An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1) of this section.
+  - **(6)** An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).
 - **(b)**
   - **(1)** A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
     - **(A)** is operated by a public agency or a nonprofit organization, or a combination of such agencies or organizations or of both such agencies and organizations, and provides services to victims of crime;
@@ -36,8 +36,8 @@ status: "active"
     - **(D)** promotes within the community served coordinated public and private efforts to aid crime victims;
     - **(E)** assists potential recipients in seeking crime victim compensation benefits; and
     - **(F)** does not discriminate against victims because they disagree with the way the State is prosecuting the criminal case.
-  - **(2)** Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) of this section only for providing services to victims of crime.
-  - **(3)** Not more than 5 percent of sums received under subsection (a) of this section may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
+  - **(2)** Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) only for providing services to victims of crime.
+  - **(3)** Not more than 5 percent of sums received under subsection (a) may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
 - **(c)**
   - **(1)** The Director shall make grants—
     - **(A)** for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;

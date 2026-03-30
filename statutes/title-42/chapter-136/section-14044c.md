@@ -3,9 +3,9 @@ title: "Section 14044c - Enhancing State and local efforts to combat trafficking
 usc_title: 42
 usc_section: "14044c"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14044c"
-generated_at: "2026-03-30T05:42:49.796Z"
+generated_at: "2026-03-30T05:45:32.074Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(D)** to educate persons charged with, or convicted of, purchasing or attempting to purchase commercial sex acts; and
     - **(E)** to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts.
   - **(2)** In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
-- **(b)** Grants under subsection (a) of this section may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
+- **(b)** Grants under subsection (a) may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
 - **(c)** The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.
 - **(d)** An entity that applies for a grant under section 14044a of this title is not prohibited from also applying for a grant under this section.
 - **(e)** There are authorized to be appropriated to the Attorney General to carry out this section $10,000,000 for each of the fiscal years 2014 through 2017.

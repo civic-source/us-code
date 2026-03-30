@@ -3,9 +3,9 @@ title: "Section 2710 - Inventory of unexploded ordnance, discarded military muni
 usc_title: 10
 usc_section: "2710"
 chapter: 160
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 2710"
-generated_at: "2026-03-30T05:41:02.885Z"
+generated_at: "2026-03-30T05:43:26.677Z"
 status: "active"
 ---
 

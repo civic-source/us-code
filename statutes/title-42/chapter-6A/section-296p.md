@@ -3,9 +3,9 @@ title: "Section 296p - Nurse education, practice, and quality grants"
 usc_title: 42
 usc_section: "296p"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 296p"
-generated_at: "2026-03-30T05:42:49.261Z"
+generated_at: "2026-03-30T05:45:31.426Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(B)** In making awards of grants under this paragraph, the Secretary shall give a preference to applicants that have not previously received an award under this paragraph.
     - **(C)** The Secretary shall make continuation of any award under this paragraph beyond the second year of such award contingent on the recipient of such award having demonstrated to the Secretary measurable and substantive improvement in nurse retention or patient care.
 - **(d)** The Secretary may award grants to or enter into contracts with eligible entities to address other areas that are of high priority to nurse education, practice, and retention, as determined by the Secretary.
-- **(e)** For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c) of this section.
+- **(e)** For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c).
 - **(f)** The Secretary shall submit to the Congress before the end of each fiscal year a report on the grants awarded and the contracts entered into under this section. Each such report shall identify the overall number of such grants and contracts and provide an explanation of why each such grant or contract will meet the priority need of the nursing workforce.
 - **(g)** For purposes of this section, the term “eligible entity” includes a school of nursing, as defined in section 296(2) of this title ,, 1 1 So in original. a health care facility, or a partnership of such a school and facility.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.

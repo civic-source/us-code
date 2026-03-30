@@ -3,9 +3,9 @@ title: "Section 337 - Proceedings in name of United States; provision as to subp
 usc_title: 21
 usc_section: "337"
 chapter: 9
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "21 U.S.C. § 337"
-generated_at: "2026-03-30T05:41:28.635Z"
+generated_at: "2026-03-30T05:44:28.629Z"
 status: "active"
 ---
 

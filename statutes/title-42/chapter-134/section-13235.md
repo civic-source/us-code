@@ -3,9 +3,9 @@ title: "Section 13235 - State and local incentives programs"
 usc_title: 42
 usc_section: "13235"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13235"
-generated_at: "2026-03-30T05:42:49.778Z"
+generated_at: "2026-03-30T05:45:32.055Z"
 status: "active"
 ---
 
@@ -38,12 +38,12 @@ status: "active"
     - **(A)** information and technical assistance, including model State laws and proposed regulations relating to alternative fueled vehicles;
     - **(B)** grants of Federal financial assistance for the purpose of assisting such State in the implementation of such plan or any part thereof; and
     - **(C)** grants of Federal financial assistance for the acquisition of alternative fueled vehicles.
-  - **(2)** In determining whether to approve a State plan submitted under subsection (a) of this section, and in determining the amount of Federal financial assistance, if any, to be provided to any State under this subsection, the Secretary shall take into account—
+  - **(2)** In determining whether to approve a State plan submitted under subsection (a), and in determining the amount of Federal financial assistance, if any, to be provided to any State under this subsection, the Secretary shall take into account—
     - **(A)** the energy-related and environmental-related impacts, on a life cycle basis, of the introduction and use of alternative fueled vehicles included in the plan compared to conventional motor vehicles;
     - **(B)** the number of alternative fueled vehicles likely to be introduced by the year 2000, as a result of successful implementation of the plan; and
     - **(C)** such other factors as the Secretary considers appropriate.
   - **(3)** The Secretary, in consultation with the Administrator of General Services, shall provide assistance to States in procuring alternative fueled vehicles, including coordination with Federal procurements of such vehicles.
-  - **(4)** The Secretary may not approve a State plan submitted under subsection (a) of this section unless the State agrees to provide at least 20 percent of the cost of activities for which assistance is provided under paragraph (1).
+  - **(4)** The Secretary may not approve a State plan submitted under subsection (a) unless the State agrees to provide at least 20 percent of the cost of activities for which assistance is provided under paragraph (1).
 - **(c)**
   - **(1)** In carrying out this section, the Secretary shall consult with the Secretary of Transportation on matters relating to transportation and with other appropriate Federal and State departments and agencies.
   - **(2)** The Secretary shall report annually to the President and the Congress, and shall furnish copies of such report to the Governor of each State participating in the program, on the operation of the program under this section. Such report shall include—

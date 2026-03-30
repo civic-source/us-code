@@ -3,9 +3,9 @@ title: "Section 2813 - Pilot program relating to use of proceeds of disposal or 
 usc_title: 50
 usc_section: "2813"
 chapter: 42
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "50 U.S.C. § 2813"
-generated_at: "2026-03-30T05:42:55.118Z"
+generated_at: "2026-03-30T05:45:37.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430r - Rules and regulations"
 usc_title: 16
 usc_section: "430r"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 430r"
-generated_at: "2026-03-30T05:41:19.459Z"
+generated_at: "2026-03-30T05:43:59.014Z"
 status: "active"
 ---
 

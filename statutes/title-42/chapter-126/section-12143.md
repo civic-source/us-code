@@ -3,9 +3,9 @@ title: "Section 12143 - Paratransit as a complement to fixed route service"
 usc_title: 42
 usc_section: "12143"
 chapter: 126
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12143"
-generated_at: "2026-03-30T05:42:49.753Z"
+generated_at: "2026-03-30T05:45:32.024Z"
 status: "active"
 ---
 
@@ -37,10 +37,10 @@ status: "active"
   - **(1)** The Secretary shall review a plan submitted under this section for the purpose of determining whether or not such plan meets the requirements of this section, including the regulations issued under this section.
   - **(2)** If the Secretary determines that a plan reviewed under this subsection fails to meet the requirements of this section, the Secretary shall disapprove the plan and notify the public entity which submitted the plan of such disapproval and the reasons therefor.
   - **(3)** Not later than 90 days after the date of disapproval of a plan under this subsection, the public entity which submitted the plan shall modify the plan to meet the requirements of this section and shall submit to the Secretary, and commence implementation of, such modified plan.
-- **(e)** As used in subsection (a) of this section, the term “discrimination” includes—
-  - **(1)** a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7) of this section;
-  - **(2)** a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3) of this section;
-  - **(3)** submission to the Secretary of a modified plan under subsection (d)(3) of this section which does not meet the requirements of this section; or
+- **(e)** As used in subsection (a), the term “discrimination” includes—
+  - **(1)** a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7);
+  - **(2)** a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3);
+  - **(3)** submission to the Secretary of a modified plan under subsection (d)(3) which does not meet the requirements of this section; or
   - **(4)** a failure of such entity to provide paratransit or other special transportation services in accordance with the plan or modified plan the public entity submitted to the Secretary under this section.
 - **(f)** Nothing in this section shall be construed as preventing a public entity—
   - **(1)** from providing paratransit or other special transportation services at a level which is greater than the level of such services which are required by this section,

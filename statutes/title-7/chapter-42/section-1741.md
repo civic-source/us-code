@@ -3,9 +3,9 @@ title: "Section 1741 - Maximum and minimum quantities for set-aside; “commodit
 usc_title: 7
 usc_section: "1741"
 chapter: 42
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 1741"
-generated_at: "2026-03-30T05:40:58.106Z"
+generated_at: "2026-03-30T05:43:34.995Z"
 status: "active"
 ---
 

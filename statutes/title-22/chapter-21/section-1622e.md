@@ -3,9 +3,9 @@ title: "Section 1622e - Vesting of all non-adjudicatory functions, powers, and d
 usc_title: 22
 usc_section: "1622e"
 chapter: 21
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 1622e"
-generated_at: "2026-03-30T05:41:31.835Z"
+generated_at: "2026-03-30T05:44:32.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16463 - Authorization of appropriations"
 usc_title: 42
 usc_section: "16463"
 chapter: 149
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 16463"
-generated_at: "2026-03-30T05:42:49.827Z"
+generated_at: "2026-03-30T05:45:32.108Z"
 status: "active"
 ---
 

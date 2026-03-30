@@ -3,9 +3,9 @@ title: "Section 12854 - Definitions"
 usc_title: 42
 usc_section: "12854"
 chapter: 130
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12854"
-generated_at: "2026-03-30T05:42:49.774Z"
+generated_at: "2026-03-30T05:45:32.048Z"
 status: "active"
 ---
 

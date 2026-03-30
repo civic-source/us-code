@@ -3,9 +3,9 @@ title: "Section 4705 - Authority to enter into agreements"
 usc_title: 22
 usc_section: "4705"
 chapter: 57
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 4705"
-generated_at: "2026-03-30T05:41:31.903Z"
+generated_at: "2026-03-30T05:44:32.192Z"
 status: "active"
 ---
 

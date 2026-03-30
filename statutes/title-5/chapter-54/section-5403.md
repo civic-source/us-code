@@ -3,9 +3,9 @@ title: "Section 5403 - Human Capital Performance Fund"
 usc_title: 5
 usc_section: "5403"
 chapter: 54
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "5 U.S.C. § 5403"
-generated_at: "2026-03-30T05:40:52.678Z"
+generated_at: "2026-03-30T05:43:17.352Z"
 status: "active"
 ---
 

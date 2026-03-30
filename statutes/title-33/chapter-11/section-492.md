@@ -3,9 +3,9 @@ title: "Section 492 - Bridge as post route; limitation as to charges against Gov
 usc_title: 33
 usc_section: "492"
 chapter: 11
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 492"
-generated_at: "2026-03-30T05:41:50.670Z"
+generated_at: "2026-03-30T05:44:46.440Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 383 - Situations involving bombings of places of public use, Gov
 usc_title: 10
 usc_section: "383"
 chapter: 18
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-03-30T05:41:02.802Z"
+generated_at: "2026-03-30T05:43:26.598Z"
 status: "active"
 ---
 

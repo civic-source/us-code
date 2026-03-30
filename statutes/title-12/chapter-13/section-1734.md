@@ -3,9 +3,9 @@ title: "Section 1734 - Amendment, extension, or increase of commitment amounts"
 usc_title: 12
 usc_section: "1734"
 chapter: 13
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 1734"
-generated_at: "2026-03-30T05:41:07.849Z"
+generated_at: "2026-03-30T05:43:40.579Z"
 status: "active"
 ---
 

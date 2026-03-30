@@ -3,9 +3,9 @@ title: "Section 5634 - Office of Special Trustee for American Indians"
 usc_title: 25
 usc_section: "5634"
 chapter: 48
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "25 U.S.C. § 5634"
-generated_at: "2026-03-30T05:41:25.808Z"
+generated_at: "2026-03-30T05:44:21.480Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** a transition plan and timetable for the termination of the Office of the Special Trustee, to occur not later than 2 years after the date of submission, unless the Secretary determines than an orderly transition cannot be accomplished within 2 years, in which case the Secretary shall include—
     - **(A)** a statement of all reasons why the transition cannot be effected within that time; and
     - **(B)** an alternative date for completing the transition.
-- **(b)** Subject to applicable law and regulations, the Secretary, at the request of an Indian tribe or a consortium of Indian tribes, shall include fiduciary trust officers in a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+- **(b)** Subject to applicable law and regulations, the Secretary, at the request of an Indian tribe or a consortium of Indian tribes, shall include fiduciary trust officers in a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
 - **(c)** Nothing in this section or the submission required by this section—
   - **(1)** shall cause the Office of the Special Trustee to terminate; or
   - **(2)** affect the application of sections 4042 and 4043 of this title.

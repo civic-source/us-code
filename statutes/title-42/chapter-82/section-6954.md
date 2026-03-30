@@ -3,9 +3,9 @@ title: "Section 6954 - Technology promotion"
 usc_title: 42
 usc_section: "6954"
 chapter: 82
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 6954"
-generated_at: "2026-03-30T05:42:49.644Z"
+generated_at: "2026-03-30T05:45:31.892Z"
 status: "active"
 ---
 

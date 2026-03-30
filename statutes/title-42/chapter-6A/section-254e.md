@@ -3,9 +3,9 @@ title: "Section 254e - Health professional shortage areas"
 usc_title: 42
 usc_section: "254e"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 254e"
-generated_at: "2026-03-30T05:42:49.208Z"
+generated_at: "2026-03-30T05:45:31.367Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(1)** The recommendations of the Governor of each State in which the area, population group, medical facility, or other public facility under consideration for designation is in whole or part located.
   - **(2)** The extent to which individuals who are (A) residents of the area, members of the population group, or patients in the medical facility or other public facility under consideration for designation, and (B) entitled to have payment made for medical services under title XVIII, XIX, or XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.], cannot obtain such services because of suspension of physicians from the programs under such titles.
 - **(d)**
-  - **(1)** In accordance with the criteria established under subsection (b) of this section and the considerations listed in subsection (c) of this section the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
+  - **(1)** In accordance with the criteria established under subsection (b) and the considerations listed in subsection (c), the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
   - **(2)** For purposes of paragraph (1), a complete descriptive list shall be published in the Federal Register not later than July 1 of 1991 and each subsequent year.
 - **(e)**
   - **(1)** Prior to the designation of a public facility, including a Federal medical facility, as a health professional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
@@ -37,11 +37,11 @@ status: "active"
   - **(2)** appropriate public or nonprofit private entities which are located or which have a demonstrated interest in the area so designated.
 - **(g)** Any person may recommend to the Secretary the designation of an area, population group, medical facility, or other public facility as a health professional shortage area.
 - **(h)** The Secretary may conduct such information programs in areas, among population groups, and in medical facilities and other public facilities designated under this section as health professional shortage areas as may be necessary to inform public and nonprofit private entities which are located or have a demonstrated interest in such areas of the assistance available under this subchapter by virtue of the designation of such areas.
-- **(i)** The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) of this section to—
+- **(i)** The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) to—
   - **(1)** the Governor of each State;
   - **(2)** the representative of any area, population group, or facility selected by any such Governor to receive such information;
   - **(3)** the representative of any area, population group, or facility that requests such information; and
-  - **(4)** the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b) of this section.
+  - **(4)** the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b).
 - **(j)**
   - **(1)** The Secretary shall submit the report described in paragraph (2) if the Secretary, acting through the Administrator of the Health Resources and Services Administration, issues—
     - **(A)** a regulation that revises the definition of a health professional shortage area for purposes of this section; or

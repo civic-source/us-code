@@ -3,9 +3,9 @@ title: "Section 11112 - Standards for professional review actions"
 usc_title: 42
 usc_section: "11112"
 chapter: 117
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11112"
-generated_at: "2026-03-30T05:42:49.741Z"
+generated_at: "2026-03-30T05:45:32.010Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** after a reasonable effort to obtain the facts of the matter,
   - **(3)** after adequate notice and hearing procedures are afforded to the physician involved or after such other procedures as are fair to the physician under the circumstances, and
   - **(4)** in the reasonable belief that the action was warranted by the facts known after such reasonable effort to obtain facts and after meeting the requirement of paragraph (3).
-- **(b)** A health care entity is deemed to have met the adequate notice and hearing requirement of subsection (a)(3) of this section with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
+- **(b)** A health care entity is deemed to have met the adequate notice and hearing requirement of subsection (a)(3) with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
   - **(1)** The physician has been given notice stating—
     - **(A)**
       - **(i)** that a professional review action has been proposed to be taken against the physician,
@@ -44,7 +44,7 @@ status: "active"
       - **(i)** to receive the written recommendation of the arbitrator, officer, or panel, including a statement of the basis for the recommendations, and
       - **(ii)** to receive a written decision of the health care entity, including a statement of the basis for the decision.
 - **(c)** For purposes of section 11111(a) of this title , nothing in this section shall be construed as—
-  - **(1)** requiring the procedures referred to in subsection (a)(3) of this section—
+  - **(1)** requiring the procedures referred to in subsection (a)(3)—
     - **(A)** where there is no adverse professional review action taken, or
     - **(B)** in the case of a suspension or restriction of clinical privileges, for a period of not longer than 14 days, during which an investigation is being conducted to determine the need for a professional review action; or
   - **(2)** precluding an immediate suspension or restriction of clinical privileges, subject to subsequent notice and hearing or other adequate procedures, where the failure to take such an action may result in an imminent danger to the health of any individual.

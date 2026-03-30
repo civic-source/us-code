@@ -3,16 +3,16 @@ title: "Section 14117 - Local application"
 usc_title: 42
 usc_section: "14117"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14117"
-generated_at: "2026-03-30T05:42:49.798Z"
+generated_at: "2026-03-30T05:45:32.077Z"
 status: "active"
 ---
 
 # § 14117. Local application
 
 - **(a)** A person who desires a scholarship or employment under this part shall submit an application to the State at such time, in such manner, and accompanied by such information as the State may reasonably require.
-- **(b)** An application under subsection (a) of this section shall describe—
+- **(b)** An application under subsection (a) shall describe—
   - **(1)** the academic courses for which a scholarship is sought; or
   - **(2)** the location and duration of employment that is sought.
 - **(c)** In awarding scholarships and providing student employment under this part, each State shall give priority to applications from persons who are—

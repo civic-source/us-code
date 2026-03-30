@@ -3,9 +3,9 @@ title: "Section 70703 - Governing body"
 usc_title: 36
 usc_section: "70703"
 chapter: 707
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 70703"
-generated_at: "2026-03-30T05:41:54.565Z"
+generated_at: "2026-03-30T05:44:48.878Z"
 status: "active"
 ---
 

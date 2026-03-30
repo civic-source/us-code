@@ -3,9 +3,9 @@ title: "Section 14052 - Enhanced penalties for illegal drug use in Federal priso
 usc_title: 42
 usc_section: "14052"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14052"
-generated_at: "2026-03-30T05:42:49.797Z"
+generated_at: "2026-03-30T05:45:32.075Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** Pursuant to its authority under section 994 of title 28 , the United States Sentencing Commission shall amend its sentencing guidelines to appropriately enhance the penalty for a person convicted of an offense—
   - **(1)** under section 844 of title 21 involving simple possession of a controlled substance within a Federal prison or other Federal detention facility; or
   - **(2)** under section 841(b) of title 21 involving the smuggling of a controlled substance into a Federal prison or other Federal detention facility or the distribution or intended distribution of a controlled substance within a Federal prison or other Federal detention facility.
-- **(c)** Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) of this section to probation.
+- **(c)** Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) to probation.

@@ -3,9 +3,9 @@ title: "Section 13501 - National Advanced Materials Program"
 usc_title: 42
 usc_section: "13501"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13501"
-generated_at: "2026-03-30T05:42:49.785Z"
+generated_at: "2026-03-30T05:45:32.062Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
     - **(C)** a description of the extent to which the proposal includes collaboration with relevant industry or other groups or organizations; and
     - **(D)** evidence of the ability of the proposers to undertake and complete the proposed project.
 - **(d)** The Secretary, in consultation with the Administrator of General Services, shall establish a program to expedite the use, in goods and services acquired by the General Services Administration, of advanced materials technologies. Such program shall include a demonstration of the use of advanced materials technologies as may be necessary to establish technical and economic feasibility. The Secretary shall transfer funds to the General Services Administration for carrying out this subsection.
-- **(e)** There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from section 13451(e) of this title and for renewable applications from section 13471(c) of this title , including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section, and including transferring funds to the General Services Administration.
+- **(e)** There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from section 13451(e) of this title and for renewable applications from section 13471(c) of this title , including Department of Energy national laboratory participation in proposals submitted under subsection (c), and including transferring funds to the General Services Administration.

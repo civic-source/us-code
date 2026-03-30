@@ -3,9 +3,9 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-30T05:42:56.945Z"
+generated_at: "2026-03-30T05:45:39.357Z"
 status: "active"
 ---
 
@@ -41,10 +41,7 @@ status: "active"
   - **(2)** In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
   - **(3)** The Secretary shall phase in the requirements of paragraph (1) in a manner that takes into account the availability of certified motor carrier safety auditors.
   - **(4)** Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
-  - **(5)**
-    - **(A)** The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
-    - **(B)** The Secretary shall set aside from amounts made available under section 31104(a) up to $32,000,000 for fiscal year 2016 for audits of new entrant motor carriers conducted under this paragraph.
-    - **(C)** If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
+  - **[(5)** Repealed. Pub. L. 114–94, div. A, title V , § 5101(e)(1), Dec. 4, 2015 , 129 Stat. 1525 .]
   - **(6)**
     - **(A)** In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
     - **(B)** In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.

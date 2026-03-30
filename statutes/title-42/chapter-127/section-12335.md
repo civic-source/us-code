@@ -3,16 +3,16 @@ title: "Section 12335 - State plan"
 usc_title: 42
 usc_section: "12335"
 chapter: 127
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12335"
-generated_at: "2026-03-30T05:42:49.755Z"
+generated_at: "2026-03-30T05:45:32.027Z"
 status: "active"
 ---
 
 # § 12335. State plan
 
 - **(a)** The chief executive officer of a State, in order to be eligible for grants from an allotment under section 12337, 12338, or 12339 1 1 See References in Text note below. of this title for any fiscal year, shall prepare and submit to the Commissioner a State plan for a 3-year period.
-- **(b)** Each chief executive officer of a State may make annual revisions of the State plan referred to in subsection (a) of this section.
+- **(b)** Each chief executive officer of a State may make annual revisions of the State plan referred to in subsection (a).
 - **(c)** The chief executive officer of a State shall include within the State plan of that State assurances as required under sections 2 2 So in original. Probably should be “section”. 12337, 12338, or 12339 1 of this title, and a description of the proposed multi-year plans of the State for program development and implementation.
 - **(d)** A State may apply for funds under one or more of the following categories:
   - **(1)** section 12337 of this title ;

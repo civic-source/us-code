@@ -3,9 +3,9 @@ title: "Section 485a - Definitions"
 usc_title: 43
 usc_section: "485a"
 chapter: 12
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "43 U.S.C. § 485a"
-generated_at: "2026-03-30T05:42:05.642Z"
+generated_at: "2026-03-30T05:44:56.745Z"
 status: "active"
 ---
 

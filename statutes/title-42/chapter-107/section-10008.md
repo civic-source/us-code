@@ -3,13 +3,13 @@ title: "Section 10008 - Applicability to Federal agencies"
 usc_title: 42
 usc_section: "10008"
 chapter: 107
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10008"
-generated_at: "2026-03-30T05:42:49.726Z"
+generated_at: "2026-03-30T05:45:31.992Z"
 status: "active"
 ---
 
 # § 10008. Applicability to Federal agencies
 
-- **(a)** Except as provided in subsection (b) of this section, each department, agency, and instrumentality of the executive branch of the Federal Government shall comply with standards promulgated pursuant to this chapter.
+- **(a)** Except as provided in subsection (b), each department, agency, and instrumentality of the executive branch of the Federal Government shall comply with standards promulgated pursuant to this chapter.
 - **(b)** The Secretary of Veterans Affairs, through the Under Secretary for Health of the Department of Veterans Affairs, shall, to the maximum extent feasible consistent with the responsibilities of such Secretary and Under Secretary for Health under title 38, prescribe regulations making the standards promulgated pursuant to this chapter applicable to the provision of radiologic procedures in facilities over which that Secretary has jurisdiction. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall consult with the Secretary in order to achieve the maximum possible coordination of the regulations, standards, and guidelines, and the implementation thereof, which the Secretary and the Secretary of Veterans Affairs prescribe under this chapter.

@@ -3,9 +3,9 @@ title: "Section 1354 - Limitation on use of appropriated funds for contracts wit
 usc_title: 31
 usc_section: "1354"
 chapter: 13
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "31 U.S.C. § 1354"
-generated_at: "2026-03-30T05:41:47.293Z"
+generated_at: "2026-03-30T05:44:45.595Z"
 status: "active"
 ---
 

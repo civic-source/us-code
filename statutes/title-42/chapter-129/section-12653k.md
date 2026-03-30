@@ -3,9 +3,9 @@ title: "Section 12653k - Funds"
 usc_title: 42
 usc_section: "12653k"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12653k"
-generated_at: "2026-03-30T05:42:49.767Z"
+generated_at: "2026-03-30T05:45:32.040Z"
 status: "active"
 ---
 

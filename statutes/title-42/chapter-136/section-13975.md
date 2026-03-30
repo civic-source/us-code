@@ -3,9 +3,9 @@ title: "Section 13975 - Transitional housing assistance grants for victims of do
 usc_title: 42
 usc_section: "13975"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13975"
-generated_at: "2026-03-30T05:42:49.792Z"
+generated_at: "2026-03-30T05:45:32.070Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** for whom emergency shelter services or other crisis intervention services are unavailable or insufficient.
 - **(b)** Grants awarded under this section may be used for programs that provide—
   - **(1)** transitional housing, including funding for the operating expenses of newly developed or existing transitional housing. 1 1 So in original. The period probably should be a semicolon.
-  - **(2)** short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a) of this section; and
+  - **(2)** short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a); and
   - **(3)** support services designed to enable a minor, an adult, or a dependent of such minor or adult, who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
     - **(A)** locate and secure permanent housing;
     - **(B)** secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to 2 2 So in original. Probably should be “into”. the workforce; and
@@ -30,7 +30,7 @@ status: "active"
   - **(1)** Each eligible entity desiring a grant under this section shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may reasonably require.
   - **(2)** Each application submitted pursuant to paragraph (1) shall—
     - **(A)** describe the activities for which assistance under this section is sought;
-    - **(B)** provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) of this section are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim’s housing; and
+    - **(B)** provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim’s housing; and
     - **(C)** provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
   - **(3)** Nothing in this subsection shall be construed to require—
     - **(A)** victims to participate in the criminal justice system in order to receive services; or
@@ -62,7 +62,7 @@ status: "active"
       - **(i)**
         - **(I)** Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title .
         - **(II)** 3 3 So in original. Probably should be “section.—”. The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
-      - **(ii)** Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
+      - **(ii)** Priority shall be given to projects developed under subsection (b) that primarily serve underserved populations.
     - **(D)** In this paragraph, the term “qualified application” means an application that—
       - **(i)** has been submitted by an eligible applicant;
       - **(ii)** does not propose any activities that may compromise victim safety, including—

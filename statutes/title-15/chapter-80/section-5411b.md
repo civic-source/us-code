@@ -3,9 +3,9 @@ title: "Section 5411b - Applicability"
 usc_title: 15
 usc_section: "5411b"
 chapter: 80
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 5411b"
-generated_at: "2026-03-30T05:41:10.959Z"
+generated_at: "2026-03-30T05:43:52.008Z"
 status: "active"
 ---
 

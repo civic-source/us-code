@@ -3,9 +3,9 @@ title: "Section 431 - Authority to engage in commercial activities as security f
 usc_title: 10
 usc_section: "431"
 chapter: 21
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 431"
-generated_at: "2026-03-30T05:41:02.803Z"
+generated_at: "2026-03-30T05:43:26.599Z"
 status: "active"
 ---
 

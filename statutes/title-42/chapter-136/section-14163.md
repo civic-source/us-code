@@ -3,9 +3,9 @@ title: "Section 14163 - Capital representation improvement grants"
 usc_title: 42
 usc_section: "14163"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14163"
-generated_at: "2026-03-30T05:42:49.800Z"
+generated_at: "2026-03-30T05:45:32.079Z"
 status: "active"
 ---
 
@@ -13,18 +13,18 @@ status: "active"
 
 - **(a)** The Attorney General shall award grants to States for the purpose of improving the quality of legal representation provided to indigent defendants in State capital cases.
 - **(b)** In this section, the term “legal representation” means legal counsel and investigative, expert, and other services necessary for competent representation.
-- **(c)** Grants awarded under subsection (a) of this section—
+- **(c)** Grants awarded under subsection (a)—
   - **(1)** shall be used to establish, implement, or improve an effective system for providing competent legal representation to—
     - **(A)** indigents charged with an offense subject to capital punishment;
     - **(B)** indigents who have been sentenced to death and who seek appellate or collateral relief in State court; and
     - **(C)** indigents who have been sentenced to death and who seek review in the Supreme Court of the United States; and
   - **(2)** shall not be used to fund, directly or indirectly, representation in specific capital cases.
 - **(d)**
-  - **(1)** Of the funds awarded under subsection (a) of this section—
-    - **(A)** not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A) of this section; and
-    - **(B)** not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B) of this section.
+  - **(1)** Of the funds awarded under subsection (a)—
+    - **(A)** not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A); and
+    - **(B)** not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B).
   - **(2)** The Attorney General may waive the requirement under this subsection for good cause shown.
-- **(e)** As used in subsection (c)(1) of this section, an effective system for providing competent legal representation is a system that—
+- **(e)** As used in subsection (c)(1), an effective system for providing competent legal representation is a system that—
   - **(1)** invests the responsibility for appointing qualified attorneys to represent indigents in capital cases—
     - **(A)** in a public defender program that relies on staff attorneys, members of the private bar, or both, to provide representation in capital cases;
     - **(B)** in an entity established by statute or by the highest State court with jurisdiction in criminal cases, which is composed of individuals with demonstrated knowledge and expertise in capital cases, except for individuals currently employed as prosecutors; or

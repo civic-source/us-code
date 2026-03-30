@@ -3,9 +3,9 @@ title: "Section 7473 - Increments and ceilings"
 usc_title: 42
 usc_section: "7473"
 chapter: 85
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 7473"
-generated_at: "2026-03-30T05:42:49.665Z"
+generated_at: "2026-03-30T05:45:31.915Z"
 status: "active"
 ---
 

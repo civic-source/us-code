@@ -3,9 +3,9 @@ title: "Section 13881 - Purpose"
 usc_title: 42
 usc_section: "13881"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13881"
-generated_at: "2026-03-30T05:42:49.791Z"
+generated_at: "2026-03-30T05:45:32.067Z"
 status: "active"
 ---
 

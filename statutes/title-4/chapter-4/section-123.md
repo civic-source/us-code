@@ -3,9 +3,9 @@ title: "Section 123 - Scope; special rules"
 usc_title: 4
 usc_section: "123"
 chapter: 4
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "4 U.S.C. § 123"
-generated_at: "2026-03-30T05:40:51.366Z"
+generated_at: "2026-03-30T05:43:19.335Z"
 status: "active"
 ---
 

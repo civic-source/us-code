@@ -3,9 +3,9 @@ title: "Section 4575 - Gross rate of compensation of employees paid by Secretary
 usc_title: 2
 usc_section: "4575"
 chapter: 45
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 4575"
-generated_at: "2026-03-30T05:40:50.988Z"
+generated_at: "2026-03-30T05:43:14.022Z"
 status: "active"
 ---
 

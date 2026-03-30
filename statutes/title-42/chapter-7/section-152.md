@@ -3,9 +3,9 @@ title: "Section 152 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "152"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 152"
-generated_at: "2026-03-30T05:42:49.409Z"
+generated_at: "2026-03-30T05:45:31.589Z"
 status: "active"
 ---
 

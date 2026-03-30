@@ -3,9 +3,9 @@ title: "Section 4345 - Joint strategic plan for the enforcement of intellectual 
 usc_title: 19
 usc_section: "4345"
 chapter: 28
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "19 U.S.C. § 4345"
-generated_at: "2026-03-30T05:41:14.632Z"
+generated_at: "2026-03-30T05:44:17.891Z"
 status: "active"
 ---
 

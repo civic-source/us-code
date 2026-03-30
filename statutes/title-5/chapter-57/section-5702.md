@@ -3,9 +3,9 @@ title: "Section 5702 - Per diem; employees traveling on official business"
 usc_title: 5
 usc_section: "5702"
 chapter: 57
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "5 U.S.C. § 5702"
-generated_at: "2026-03-30T05:40:52.682Z"
+generated_at: "2026-03-30T05:43:17.356Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450n - Administration, protection, and development"
 usc_title: 16
 usc_section: "450n"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 450n"
-generated_at: "2026-03-30T05:41:19.462Z"
+generated_at: "2026-03-30T05:43:59.017Z"
 status: "active"
 ---
 

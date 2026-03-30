@@ -3,9 +3,9 @@ title: "Section 718k - Use of fees collected for Federal migratory bird permits"
 usc_title: 16
 usc_section: "718k"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 718k"
-generated_at: "2026-03-30T05:41:19.528Z"
+generated_at: "2026-03-30T05:43:59.085Z"
 status: "active"
 ---
 

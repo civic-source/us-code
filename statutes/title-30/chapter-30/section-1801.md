@@ -3,9 +3,9 @@ title: "Section 1801 - Congressional findings and declaration of purposes"
 usc_title: 30
 usc_section: "1801"
 chapter: 30
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "30 U.S.C. § 1801"
-generated_at: "2026-03-30T05:41:43.115Z"
+generated_at: "2026-03-30T05:44:36.459Z"
 status: "active"
 ---
 

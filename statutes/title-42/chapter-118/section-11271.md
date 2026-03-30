@@ -3,9 +3,9 @@ title: "Section 11271 - Research program and plan"
 usc_title: 42
 usc_section: "11271"
 chapter: 118
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11271"
-generated_at: "2026-03-30T05:42:49.743Z"
+generated_at: "2026-03-30T05:45:32.011Z"
 status: "active"
 ---
 
@@ -13,10 +13,10 @@ status: "active"
 
 - **(a)** The Administrator of the Centers for Medicare & Medicaid Services shall conduct, or make grants for the conduct of, research relevant to appropriate services for individuals with Alzheimer’s disease and related dementias and their families.
 - **(b)**
-  - **(1)** Within 6 months after November 14, 1986 , the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a) 1 1 So in original. Probably should be preceded by “subsection”. of this section. The plan shall—
+  - **(1)** Within 6 months after November 14, 1986 , the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a). 1 1 So in original. Probably should be preceded by “subsection”. The plan shall—
     - **(A)** provide for a determination of the types of services required by individuals with Alzheimer’s disease and related dementias and their families to allow such individuals to remain living at home or in a community-based setting;
     - **(B)** provide for a determination of the costs of providing needed services to individuals with Alzheimer’s disease and related dementias and their families, including the expenditures for institutional, home, and community-based services and the source of payment for such expenditures;
     - **(C)** provide for an assessment of the adequacy of benefits provided through the Medicare and Medicaid programs and through private health insurance for needed services for individuals with Alzheimer’s disease and related dementias and their families; and
     - **(D)** provide for a determination of the costs to the Medicare and Medicaid programs and to private health insurers (if available) of providing covered benefits to individuals with Alzheimer’s disease and related dementias and their families.
   - **(2)** Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Administrator considers appropriate.
-- **(c)** In preparing and revising the plan required by subsection (b) of this section, the Administrator of the Centers for Medicare & Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.
+- **(c)** In preparing and revising the plan required by subsection (b), the Administrator of the Centers for Medicare & Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.

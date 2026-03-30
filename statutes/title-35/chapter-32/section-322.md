@@ -3,9 +3,9 @@ title: "Section 322 - Petitions"
 usc_title: 35
 usc_section: "322"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "35 U.S.C. § 322"
-generated_at: "2026-03-30T05:41:46.071Z"
+generated_at: "2026-03-30T05:44:44.535Z"
 status: "active"
 ---
 

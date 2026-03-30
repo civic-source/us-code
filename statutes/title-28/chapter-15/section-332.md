@@ -3,9 +3,9 @@ title: "Section 332 - Judicial councils of circuits"
 usc_title: 28
 usc_section: "332"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "28 U.S.C. § 332"
-generated_at: "2026-03-30T05:41:35.946Z"
+generated_at: "2026-03-30T05:44:37.068Z"
 status: "active"
 ---
 

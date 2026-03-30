@@ -3,9 +3,9 @@ title: "Section 1903 - Rangelands inventory and management; public availability"
 usc_title: 43
 usc_section: "1903"
 chapter: 37
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "43 U.S.C. § 1903"
-generated_at: "2026-03-30T05:42:05.678Z"
+generated_at: "2026-03-30T05:44:56.781Z"
 status: "active"
 ---
 

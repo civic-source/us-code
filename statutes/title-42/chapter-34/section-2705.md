@@ -3,9 +3,9 @@ title: "Section 2705 - Repealed. Pub. L. 93–644 , § 16(a), Jan. 4, 1975 , 88 
 usc_title: 42
 usc_section: "2705"
 chapter: 34
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2705"
-generated_at: "2026-03-30T05:42:49.541Z"
+generated_at: "2026-03-30T05:45:31.762Z"
 status: "repealed"
 ---
 

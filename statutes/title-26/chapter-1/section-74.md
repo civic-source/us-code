@@ -3,9 +3,9 @@ title: "Section 74 - Prizes and awards"
 usc_title: 26
 usc_section: "74"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 74"
-generated_at: "2026-03-30T05:41:42.573Z"
+generated_at: "2026-03-30T05:44:41.308Z"
 status: "active"
 ---
 
@@ -23,3 +23,8 @@ status: "active"
     - **(B)** the amount by which the value of the award exceeds the amount allowable as a deduction to the employer.
   - **(3)** In the case of an employer exempt from taxation under this subtitle, any reference in this subsection to the amount allowable as a deduction to the employer shall be treated as a reference to the amount which would be allowable as a deduction to the employer if the employer were not exempt from taxation under this subtitle.
   - **(4)** For provisions excluding certain de minimis fringes from gross income, see section 132(e).
+- **(d)**
+  - **(1)** Gross income shall not include the value of any medal awarded in, or any prize money received from the United States Olympic Committee on account of, competition in the Olympic Games or Paralympic Games.
+  - **(2)**
+    - **(A)** Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
+    - **(B)** For purposes of sections 86, 135, 137, 199, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).

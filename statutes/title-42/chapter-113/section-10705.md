@@ -3,15 +3,15 @@ title: "Section 10705 - Grants and contracts"
 usc_title: 42
 usc_section: "10705"
 chapter: 113
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10705"
-generated_at: "2026-03-30T05:42:49.738Z"
+generated_at: "2026-03-30T05:45:32.007Z"
 status: "active"
 ---
 
 # § 10705. Grants and contracts
 
-- **(a)** The Institute is authorized to award grants and enter into cooperative agreements or contracts, in a manner consistent with subsection (b) of this section, in order to—
+- **(a)** The Institute is authorized to award grants and enter into cooperative agreements or contracts, in a manner consistent with subsection (b), in order to—
   - **(1)** conduct research, demonstrations, or special projects pertaining to the purposes described in this chapter, and provide technical assistance and training in support of tests, demonstrations, and special projects;
   - **(2)** serve as a clearinghouse and information center, where not otherwise adequately provided, for the preparation, publication, and dissemination of information regarding State judicial systems;
   - **(3)** participate in joint projects with other agencies, including the Federal Judicial Center, with respect to the purposes of this chapter;

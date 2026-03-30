@@ -3,9 +3,9 @@ title: "Section 13251 - Mandate for alternative fuel providers"
 usc_title: 42
 usc_section: "13251"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13251"
-generated_at: "2026-03-30T05:42:49.779Z"
+generated_at: "2026-03-30T05:45:32.055Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** alternative fueled vehicles that meet the normal requirements and practices of the principal business of that person are not reasonably available for acquisition; or
     - **(B)** alternative fuels that meet the normal requirements and practices of the principal business of that person are not available in the area in which the vehicles are to be operated.
 - **(b)** With respect to model years 1997 and thereafter, the Secretary may—
-  - **(1)** revise the percentage requirements under subsection (a)(1) of this section downward, except that under no circumstances shall the percentage requirement for a model year be less than 20 percent; and
-  - **(2)** extend the time under subsection (a)(1) of this section for up to 2 model years.
-- **(c)** The Secretary shall, within 1 year after October 24, 1992 , issue regulations requiring that, in the case of a covered person whose principal business is generating, transmitting, importing, or selling at wholesale or retail electricity, the requirements of subsection (a)(1) of this section shall not apply until after December 31, 1997 , with respect to electric motor vehicles. Any covered person described in this subsection which plans to acquire electric motor vehicles to comply with the requirements of this section shall so notify the Secretary before January 1, 1996 .
+  - **(1)** revise the percentage requirements under subsection (a)(1) downward, except that under no circumstances shall the percentage requirement for a model year be less than 20 percent; and
+  - **(2)** extend the time under subsection (a)(1) for up to 2 model years.
+- **(c)** The Secretary shall, within 1 year after October 24, 1992 , issue regulations requiring that, in the case of a covered person whose principal business is generating, transmitting, importing, or selling at wholesale or retail electricity, the requirements of subsection (a)(1) shall not apply until after December 31, 1997 , with respect to electric motor vehicles. Any covered person described in this subsection which plans to acquire electric motor vehicles to comply with the requirements of this section shall so notify the Secretary before January 1, 1996 .
 - **(d)** The Secretary shall, before January 1, 1998 , submit a report to the Congress providing detailed information on actions taken to carry out this section, and the progress made and problems encountered thereunder.

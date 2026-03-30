@@ -3,9 +3,9 @@ title: "Section 2155 - Liability of banks; United States not liable"
 usc_title: 12
 usc_section: "2155"
 chapter: 23
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 2155"
-generated_at: "2026-03-30T05:41:07.891Z"
+generated_at: "2026-03-30T05:43:40.620Z"
 status: "active"
 ---
 

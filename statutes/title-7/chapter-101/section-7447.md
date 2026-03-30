@@ -3,9 +3,9 @@ title: "Section 7447 - Petition and review"
 usc_title: 7
 usc_section: "7447"
 chapter: 101
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 7447"
-generated_at: "2026-03-30T05:40:58.195Z"
+generated_at: "2026-03-30T05:43:35.068Z"
 status: "active"
 ---
 

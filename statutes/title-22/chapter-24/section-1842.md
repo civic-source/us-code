@@ -3,9 +3,9 @@ title: "Section 1842 - Repealed. Pub. L. 85–141 , § 4(b), Aug. 14, 1957 , 71 
 usc_title: 22
 usc_section: "1842"
 chapter: 24
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 1842"
-generated_at: "2026-03-30T05:41:31.839Z"
+generated_at: "2026-03-30T05:44:32.129Z"
 status: "repealed"
 ---
 

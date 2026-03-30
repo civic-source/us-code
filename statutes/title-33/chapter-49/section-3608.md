@@ -3,9 +3,9 @@ title: "Section 3608 - Independent cost estimate"
 usc_title: 33
 usc_section: "3608"
 chapter: 49
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 3608"
-generated_at: "2026-03-30T05:41:50.734Z"
+generated_at: "2026-03-30T05:44:46.503Z"
 status: "active"
 ---
 

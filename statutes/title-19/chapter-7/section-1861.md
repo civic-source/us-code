@@ -3,9 +3,9 @@ title: "Section 1861 - Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3,
 usc_title: 19
 usc_section: "1861"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "19 U.S.C. § 1861"
-generated_at: "2026-03-30T05:41:14.589Z"
+generated_at: "2026-03-30T05:44:17.848Z"
 status: "repealed"
 ---
 

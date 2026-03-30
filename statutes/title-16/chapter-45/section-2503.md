@@ -3,9 +3,9 @@ title: "Section 2503 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2503"
 chapter: 45
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 2503"
-generated_at: "2026-03-30T05:41:19.593Z"
+generated_at: "2026-03-30T05:43:59.154Z"
 status: "repealed"
 ---
 

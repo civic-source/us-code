@@ -3,9 +3,9 @@ title: "Section 2034 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "2034"
 chapter: 46
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 2034"
-generated_at: "2026-03-30T05:41:10.920Z"
+generated_at: "2026-03-30T05:43:51.970Z"
 status: "repealed"
 ---
 

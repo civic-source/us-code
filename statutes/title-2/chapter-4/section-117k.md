@@ -3,9 +3,9 @@ title: "Section 117k - Transferred"
 usc_title: 2
 usc_section: "117k"
 chapter: 4
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 117k"
-generated_at: "2026-03-30T05:40:50.946Z"
+generated_at: "2026-03-30T05:43:13.949Z"
 status: "transferred"
 ---
 

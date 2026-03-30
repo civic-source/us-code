@@ -3,9 +3,9 @@ title: "Section 254c - Rural health care services outreach, rural health network
 usc_title: 42
 usc_section: "254c"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 254c"
-generated_at: "2026-03-30T05:42:49.207Z"
+generated_at: "2026-03-30T05:45:31.364Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The purpose of this section is to provide grants for expanded delivery of health care services in rural areas, for the planning and implementation of integrated health care networks in rural areas, and for the planning and implementation of small health care provider quality improvement activities.
 - **(b)**
-  - **(1)** The term “Director” means the Director specified in subsection (d) of this section.
+  - **(1)** The term “Director” means the Director specified in subsection (d).
   - **(2)** The terms “Federally qualified health center” and “rural health clinic” have the meanings given the terms in section 1395x(aa) of this title .
   - **(3)** The term “health professional shortage area” means a health professional shortage area designated under section 254e of this title .
   - **(4)** The term “medically underserved community” has the meaning given the term in section 295p(6) of this title .
@@ -22,11 +22,11 @@ status: "active"
 - **(d)**
   - **(1)** The rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs established under section 241 of this title shall be administered by the Director of the Office of Rural Health Policy of the Health Resources and Services Administration, in consultation with State offices of rural health or other appropriate State government entities.
   - **(2)**
-    - **(A)** In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) of this section to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+    - **(A)** In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
     - **(B)** The Director may award the grants—
-      - **(i)** to promote expanded delivery of health care services in rural areas under subsection (e) of this section;
-      - **(ii)** to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f) of this section; and
-      - **(iii)** to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g) of this section.
+      - **(i)** to promote expanded delivery of health care services in rural areas under subsection (e);
+      - **(ii)** to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
+      - **(iii)** to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 - **(e)**
   - **(1)** The Director may award grants to eligible entities to promote rural health care services outreach by expanding the delivery of health care services to include new and enhanced services in rural areas. The Director may award the grants for periods of not more than 3 years.
   - **(2)** To be eligible to receive a grant under this subsection for a project, an entity—
@@ -90,5 +90,5 @@ status: "active"
   - **(3)** In awarding grants under this section, the Secretary shall give preference to entities that—
     - **(A)** are located in health professional shortage areas or medically underserved communities, or serve medically underserved populations; or
     - **(B)** propose to develop projects with a focus on primary care, and wellness and prevention strategies.
-- **(i)** Not later than September 30, 2005 , the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g) of this section.
+- **(i)** Not later than September 30, 2005 , the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
 - **(j)** There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.

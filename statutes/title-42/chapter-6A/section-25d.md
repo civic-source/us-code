@@ -3,16 +3,16 @@ title: "Section 25d - Centers of excellence on services for individuals with fet
 usc_title: 42
 usc_section: "25d"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 25d"
-generated_at: "2026-03-30T05:42:49.246Z"
+generated_at: "2026-03-30T05:45:31.410Z"
 status: "active"
 ---
 
 # § 290bb–25d. Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families
 
 - **(a)** The Secretary shall make awards of grants, cooperative agreements, or contracts to public or nonprofit private entities for the purposes of establishing not more than four centers of excellence to study techniques for the prevention of fetal alcohol syndrome and alcohol-related birth defects and adaptations of innovative clinical interventions and service delivery improvements for the provision of comprehensive services to individuals with fetal alcohol syndrome or alcohol-related birth defects and their families and for providing training on such conditions.
-- **(b)** An award under subsection (a) of this section may be used to—
+- **(b)** An award under subsection (a) may be used to—
   - **(1)** study adaptations of innovative clinical interventions and service delivery improvements strategies for children and adults with fetal alcohol syndrome or alcohol-related birth defects and their families;
   - **(2)** identify communities which have an exemplary comprehensive system of care for such individuals so that they can provide technical assistance to other communities attempting to set up such a system of care;
   - **(3)** provide technical assistance to communities who do not have a comprehensive system of care for such individuals and their families;
@@ -20,8 +20,8 @@ status: "active"
   - **(5)** develop innovative techniques for preventing alcohol use by women in child bearing years;
   - **(6)** perform other functions, to the extent authorized by the Secretary after consideration of recommendations made by the National Task Force on Fetal Alcohol Syndrome.
 - **(c)**
-  - **(1)** A recipient of an award under subsection (a) of this section shall at the end of the period of funding report to the Secretary on any innovative techniques that have been discovered for preventing alcohol use among women of child bearing years.
+  - **(1)** A recipient of an award under subsection (a) shall at the end of the period of funding report to the Secretary on any innovative techniques that have been discovered for preventing alcohol use among women of child bearing years.
   - **(2)** The Secretary shall upon receiving a report under paragraph (1) disseminate the findings to appropriate public and private entities.
-- **(d)** With respect to an award under subsection (a) of this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
-- **(e)** The Secretary shall evaluate each project carried out under subsection (a) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+- **(d)** With respect to an award under subsection (a), the period during which payments under such award are made to the recipient may not exceed 5 years.
+- **(e)** The Secretary shall evaluate each project carried out under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 - **(f)** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.

@@ -3,9 +3,9 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-30T05:41:42.774Z"
+generated_at: "2026-03-30T05:44:41.510Z"
 status: "active"
 ---
 

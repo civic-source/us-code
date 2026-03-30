@@ -3,9 +3,9 @@ title: "Section 11132 - Reporting of sanctions taken by Boards of Medical Examin
 usc_title: 42
 usc_section: "11132"
 chapter: 117
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11132"
-generated_at: "2026-03-30T05:42:49.741Z"
+generated_at: "2026-03-30T05:45:32.010Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(A)** the name of the physician involved,
     - **(B)** a description of the acts or omissions or other reasons (if known) for the revocation, suspension, or surrender of license, and
     - **(C)** such other information respecting the circumstances of the action or surrender as the Secretary deems appropriate.
-- **(b)** If, after notice of noncompliance and providing opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (a) of this section, the Secretary shall designate another qualified entity for the reporting of information under section 11133 of this title .
+- **(b)** If, after notice of noncompliance and providing opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (a), the Secretary shall designate another qualified entity for the reporting of information under section 11133 of this title .

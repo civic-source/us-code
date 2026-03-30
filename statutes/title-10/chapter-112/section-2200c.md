@@ -3,9 +3,9 @@ title: "Section 2200c - Centers of Academic Excellence in Information Assurance 
 usc_title: 10
 usc_section: "2200c"
 chapter: 112
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 2200c"
-generated_at: "2026-03-30T05:41:02.855Z"
+generated_at: "2026-03-30T05:43:26.650Z"
 status: "active"
 ---
 

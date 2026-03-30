@@ -3,9 +3,9 @@ title: "Section 14304 - Remeasurement"
 usc_title: 46
 usc_section: "14304"
 chapter: 143
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "46 U.S.C. § 14304"
-generated_at: "2026-03-30T05:42:54.154Z"
+generated_at: "2026-03-30T05:45:36.030Z"
 status: "active"
 ---
 

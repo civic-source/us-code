@@ -3,9 +3,9 @@ title: "Section 13852 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13852"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13852"
-generated_at: "2026-03-30T05:42:49.790Z"
+generated_at: "2026-03-30T05:45:32.067Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** $72,000,000 for fiscal year 1997;
   - **(3)** $76,500,000 for fiscal year 1998; and
   - **(4)** $76,500,000 for fiscal year 1999.
-- **(b)** Of the aggregate amount appropriated under subsection (a) of this section for each fiscal year—
+- **(b)** Of the aggregate amount appropriated under subsection (a) for each fiscal year—
   - **(1)** 60 percent shall be available to carry out subpart 1; and
   - **(2)** 40 percent shall be available to carry out subpart 2.
-- **(c)** Amounts appropriated under subsection (a) of this section shall remain available for expenditure without fiscal year limitation.
+- **(c)** Amounts appropriated under subsection (a) shall remain available for expenditure without fiscal year limitation.

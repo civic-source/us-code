@@ -3,9 +3,9 @@ title: "Section 12511 - Definitions"
 usc_title: 42
 usc_section: "12511"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12511"
-generated_at: "2026-03-30T05:42:49.757Z"
+generated_at: "2026-03-30T05:45:32.028Z"
 status: "active"
 ---
 
@@ -66,7 +66,7 @@ For purposes of this subchapter:
     - **(C)** is not enrolled in an elementary or secondary school or institution of higher education.
   - **(30)**
     - **(A)** The term “participant” means—
-      - **(i)** for purposes of division C of this subchapter, an individual in an approved national service position; and
+      - **(i)** for purposes of division C, an individual in an approved national service position; and
       - **(ii)** for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
     - **(B)** A participant shall not be considered to be an employee of the organization receiving assistance under the national service laws through which the participant is engaging in service.
   - **(31)** The term “partnership program” means a program through which an adult volunteer, a public or private nonprofit organization, an institution of higher education, or a business assists a local educational agency.

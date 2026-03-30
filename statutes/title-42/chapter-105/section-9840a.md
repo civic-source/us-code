@@ -3,16 +3,16 @@ title: "Section 9840a - Early Head Start programs"
 usc_title: 42
 usc_section: "9840a"
 chapter: 105
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9840a"
-generated_at: "2026-03-30T05:42:49.718Z"
+generated_at: "2026-03-30T05:45:31.982Z"
 status: "active"
 ---
 
 # § 9840a. Early Head Start programs
 
 - **(a)** The Secretary shall make grants to entities (referred to in this subchapter as “Early Head Start agencies”) in accordance with this section for programs (referred to in this subchapter as “Early Head Start programs”) providing family-centered services for low-income families with very young children designed to promote the development of the children, and to enable their parents to fulfill their roles as parents and to move toward self-sufficiency.
-- **(b)** In carrying out a program described in subsection (a) of this section, an entity receiving assistance under this section shall—
+- **(b)** In carrying out a program described in subsection (a), an entity receiving assistance under this section shall—
   - **(1)** provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
   - **(2)** ensure that the level of services provided to families responds to their needs and circumstances;
   - **(3)** promote positive parent-child interactions;
@@ -24,15 +24,15 @@ status: "active"
   - **(9)** establish channels of communication between staff of the Early Head Start program, and staff of a Head Start program or other local providers of early childhood education and development programs, to facilitate the coordination of programs;
   - **(10)** in the case of a Head Start agency that operates a program and that also provides Head Start services through the age of mandatory school attendance, ensure that children and families participating in the program receive such services through such age;
   - **(11)** ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.), and with the agency responsible for administering section 5106a of this title ;
-  - **(12)** meet such other requirements concerning design and operation of the program described in subsection (a) of this section as the Secretary may establish.
-- **(c)** Persons who may participate in programs described in subsection (a) of this section include—
+  - **(12)** meet such other requirements concerning design and operation of the program described in subsection (a) as the Secretary may establish.
+- **(c)** Persons who may participate in programs described in subsection (a) include—
   - **(1)** pregnant women; and
   - **(2)** families with children under age 3;
 - **(d)** To be eligible to receive assistance under this section, an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Entities that may apply to carry out activities under this section include—
   - **(1)** entities operating Head Start programs under this subchapter;
   - **(2)** entities operating Indian Head Start programs or migrant or seasonal Head Start programs; and
   - **(3)** other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
-- **(e)** The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) of this section (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
+- **(e)** The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
 - **(f)** In awarding grants to eligible applicants under this section, the Secretary shall—
   - **(1)** ensure an equitable national geographic distribution of the grants; and
   - **(2)** award grants to applicants proposing to serve communities in rural areas and to applicants proposing to serve communities in urban areas.

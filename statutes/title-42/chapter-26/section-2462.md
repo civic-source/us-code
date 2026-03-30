@@ -3,9 +3,9 @@ title: "Section 2462 - Repealed. Pub. L. 97–96 , § 8, Dec. 21, 1981 , 95 Stat
 usc_title: 42
 usc_section: "2462"
 chapter: 26
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2462"
-generated_at: "2026-03-30T05:42:49.540Z"
+generated_at: "2026-03-30T05:45:31.761Z"
 status: "repealed"
 ---
 

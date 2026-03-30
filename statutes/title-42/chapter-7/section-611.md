@@ -3,9 +3,9 @@ title: "Section 611 - Data collection and reporting"
 usc_title: 42
 usc_section: "611"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 611"
-generated_at: "2026-03-30T05:42:49.330Z"
+generated_at: "2026-03-30T05:45:31.497Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12651e - Officers"
 usc_title: 42
 usc_section: "12651e"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12651e"
-generated_at: "2026-03-30T05:42:49.766Z"
+generated_at: "2026-03-30T05:45:32.039Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(D)** develop and maintain any joint financial management systems with the Department of Education necessary to carry out the programs of the Corporation; and
     - **(E)** direct, manage, and provide policy guidance and oversight of the financial management personnel, activities, and operations of the Corporation.
 - **(d)**
-  - **(1)** One of the Managing Directors appointed under subsection (a) of this section shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
+  - **(1)** One of the Managing Directors appointed under subsection (a) shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
     - **(A)** 1 Assistant Director shall be responsible for programs carried out under parts A [ 42 U.S.C. 4951 et seq.] and B 1 1 See References in Text note below. of title I of the Domestic Volunteer Service Act of 1973 (the Volunteers in Service to America (VISTA) program) and other antipoverty programs under title I of that Act [ 42 U.S.C. 4951 et seq.];
     - **(B)** 1 Assistant Director shall be responsible for programs carried out under part A of title II of that Act [ 42 U.S.C. 5001 et seq.] (relating to the Retired Senior Volunteer Program);
     - **(C)** 1 Assistant Director shall be responsible for programs carried out under part B of title II of that Act [ 42 U.S.C. 5011 et seq.] (relating to the Foster Grandparent Program); and

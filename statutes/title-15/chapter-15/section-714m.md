@@ -3,9 +3,9 @@ title: "Section 714m - Crimes and offenses"
 usc_title: 15
 usc_section: "714m"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 714m"
-generated_at: "2026-03-30T05:41:10.877Z"
+generated_at: "2026-03-30T05:43:51.930Z"
 status: "active"
 ---
 

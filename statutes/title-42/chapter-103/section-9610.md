@@ -3,9 +3,9 @@ title: "Section 9610 - Employee protection"
 usc_title: 42
 usc_section: "9610"
 chapter: 103
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9610"
-generated_at: "2026-03-30T05:42:49.708Z"
+generated_at: "2026-03-30T05:45:31.970Z"
 status: "active"
 ---
 

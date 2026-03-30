@@ -3,9 +3,9 @@ title: "Section 6961 - Midshipmen: dismissal for best interests of the service"
 usc_title: 10
 usc_section: "6961"
 chapter: 603
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 6961"
-generated_at: "2026-03-30T05:41:02.906Z"
+generated_at: "2026-03-30T05:43:26.698Z"
 status: "active"
 ---
 

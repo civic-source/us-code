@@ -3,9 +3,9 @@ title: "Section 59 - Plans for performance partnerships"
 usc_title: 42
 usc_section: "59"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 59"
-generated_at: "2026-03-30T05:42:49.286Z"
+generated_at: "2026-03-30T05:45:31.452Z"
 status: "active"
 ---
 
@@ -18,6 +18,6 @@ status: "active"
   - **(4)** the obstacles to implementation of the plan and the manner in which such obstacles would be resolved;
   - **(5)** the resources needed to implement the performance partnerships under the plan; and
   - **(6)** an implementation strategy complete with recommendations for any necessary legislation.
-- **(b)** Not later than 2 years after October 17, 2000 , the plans developed under subsection (a) of this section shall be submitted to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives.
-- **(c)** As the elements of the plans described in subsection (a) of this section are developed, States are encouraged to provide information to the Secretary on a voluntary basis.
+- **(b)** Not later than 2 years after October 17, 2000 , the plans developed under subsection (a) shall be submitted to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives.
+- **(c)** As the elements of the plans described in subsection (a) are developed, States are encouraged to provide information to the Secretary on a voluntary basis.
 - **(d)** The Secretary shall include among those interested groups that participate in the development of the plan consumers of mental health or substance abuse services, providers, representatives of political divisions of States, and representatives of racial and ethnic groups including Native Americans.

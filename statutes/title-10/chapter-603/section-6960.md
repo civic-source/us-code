@@ -3,9 +3,9 @@ title: "Section 6960 - Midshipmen: clothing and equipment; uniform allowance"
 usc_title: 10
 usc_section: "6960"
 chapter: 603
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 6960"
-generated_at: "2026-03-30T05:41:02.906Z"
+generated_at: "2026-03-30T05:43:26.698Z"
 status: "active"
 ---
 

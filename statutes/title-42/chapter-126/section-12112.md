@@ -3,16 +3,16 @@ title: "Section 12112 - Discrimination"
 usc_title: 42
 usc_section: "12112"
 chapter: 126
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12112"
-generated_at: "2026-03-30T05:42:49.752Z"
+generated_at: "2026-03-30T05:45:32.023Z"
 status: "active"
 ---
 
 # § 12112. Discrimination
 
 - **(a)** No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
-- **(b)** As used in subsection (a) of this section, the term “discriminate against a qualified individual on the basis of disability” includes—
+- **(b)** As used in subsection (a), the term “discriminate against a qualified individual on the basis of disability” includes—
   - **(1)** limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;
   - **(2)** participating in a contractual or other arrangement or relationship that has the effect of subjecting a covered entity’s qualified applicant or employee with a disability to the discrimination prohibited by this subchapter (such relationship includes a relationship with an employment or referral agency, labor union, an organization providing fringe benefits to an employee of the covered entity, or an organization providing training and apprenticeship programs);
   - **(3)** utilizing standards, criteria, or methods of administration—
@@ -35,7 +35,7 @@ status: "active"
       - **(iii)** the centralized control of labor relations; and
       - **(iv)** the common ownership or financial control,
 - **(d)**
-  - **(1)** The prohibition against discrimination as referred to in subsection (a) of this section shall include medical examinations and inquiries.
+  - **(1)** The prohibition against discrimination as referred to in subsection (a) shall include medical examinations and inquiries.
   - **(2)**
     - **(A)** Except as provided in paragraph (3), a covered entity shall not conduct a medical examination or make inquiries of a job applicant as to whether such applicant is an individual with a disability or as to the nature or severity of such disability.
     - **(B)** A covered entity may make preemployment inquiries into the ability of an applicant to perform job-related functions.

@@ -3,9 +3,9 @@ title: "Section 6242 - Coordination with import quota system"
 usc_title: 42
 usc_section: "6242"
 chapter: 77
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 6242"
-generated_at: "2026-03-30T05:42:49.618Z"
+generated_at: "2026-03-30T05:45:31.862Z"
 status: "active"
 ---
 

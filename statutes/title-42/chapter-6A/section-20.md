@@ -3,9 +3,9 @@ title: "Section 20 - Authorization of appropriations"
 usc_title: 42
 usc_section: "20"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-30T05:42:49.295Z"
+generated_at: "2026-03-30T05:45:31.461Z"
 status: "active"
 ---
 

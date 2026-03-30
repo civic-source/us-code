@@ -3,9 +3,9 @@ title: "Section 639 - Penalty for unauthorized use of words “Coast Guard”"
 usc_title: 14
 usc_section: "639"
 chapter: 17
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "14 U.S.C. § 639"
-generated_at: "2026-03-30T05:41:04.986Z"
+generated_at: "2026-03-30T05:43:37.367Z"
 status: "active"
 ---
 

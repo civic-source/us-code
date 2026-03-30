@@ -3,9 +3,9 @@ title: "Section 5614 - Forest land management and surface leasing activities"
 usc_title: 25
 usc_section: "5614"
 chapter: 48
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "25 U.S.C. § 5614"
-generated_at: "2026-03-30T05:41:25.807Z"
+generated_at: "2026-03-30T05:44:21.480Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(2)** At the discretion of the Indian tribe, the Indian tribe may include in the integrated resource management plan any 1 or more of the transactions and activities authorized to be included in the plan under subsection (b).
 - **(d)**
   - **(1)** The Secretary may provide technical assistance, on request of an Indian tribe, for development of a regulatory environmental review process required under subsection (b)(2)(B)(ii).
-  - **(2)** The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+  - **(2)** The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
 - **(e)** Notwithstanding subsection (b), if an Indian tribe carries out a project or activity funded by a Federal agency, the Indian tribe shall have the authority to rely on the environmental review process of the applicable Federal agency, rather than any tribal environmental review process under this section.
 - **(f)** If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary
   - **(1)** a copy of the surface leasing transaction or forest land management activity documents, including any amendments to, or renewals of, the applicable transaction; and

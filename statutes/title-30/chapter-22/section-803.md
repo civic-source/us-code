@@ -3,9 +3,9 @@ title: "Section 803 - Mines subject to coverage"
 usc_title: 30
 usc_section: "803"
 chapter: 22
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "30 U.S.C. § 803"
-generated_at: "2026-03-30T05:41:43.092Z"
+generated_at: "2026-03-30T05:44:36.437Z"
 status: "active"
 ---
 

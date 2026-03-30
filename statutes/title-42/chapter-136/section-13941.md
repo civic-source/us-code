@@ -3,9 +3,9 @@ title: "Section 13941 - Training programs"
 usc_title: 42
 usc_section: "13941"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13941"
-generated_at: "2026-03-30T05:42:49.792Z"
+generated_at: "2026-03-30T05:45:32.070Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
   - **(1)** case management;
   - **(2)** supervision; and
   - **(3)** relapse prevention.
-- **(b)** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) of this section are available in geographically diverse locations throughout the country.
+- **(b)** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) are available in geographically diverse locations throughout the country.
 - **(c)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.

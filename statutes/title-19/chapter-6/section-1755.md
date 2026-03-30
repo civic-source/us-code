@@ -3,9 +3,9 @@ title: "Section 1755 - Responsibilities of fair operator"
 usc_title: 19
 usc_section: "1755"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "19 U.S.C. § 1755"
-generated_at: "2026-03-30T05:41:14.589Z"
+generated_at: "2026-03-30T05:44:17.847Z"
 status: "active"
 ---
 

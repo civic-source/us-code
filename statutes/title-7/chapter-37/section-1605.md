@@ -3,9 +3,9 @@ title: "Section 1605 - Authorization of appropriations"
 usc_title: 7
 usc_section: "1605"
 chapter: 37
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 1605"
-generated_at: "2026-03-30T05:40:58.094Z"
+generated_at: "2026-03-30T05:43:34.986Z"
 status: "active"
 ---
 

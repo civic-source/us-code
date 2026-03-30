@@ -3,9 +3,9 @@ title: "Section 283 - Biennial reports of Director of NIH"
 usc_title: 42
 usc_section: "283"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 283"
-generated_at: "2026-03-30T05:42:49.229Z"
+generated_at: "2026-03-30T05:45:31.389Z"
 status: "active"
 ---
 

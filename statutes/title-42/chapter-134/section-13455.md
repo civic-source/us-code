@@ -3,9 +3,9 @@ title: "Section 13455 - Electric drives"
 usc_title: 42
 usc_section: "13455"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13455"
-generated_at: "2026-03-30T05:42:49.784Z"
+generated_at: "2026-03-30T05:45:32.061Z"
 status: "active"
 ---
 

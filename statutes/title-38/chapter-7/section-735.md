@@ -3,9 +3,9 @@ title: "Section 735 - Training regarding whistleblower complaints"
 usc_title: 38
 usc_section: "735"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "38 U.S.C. § 735"
-generated_at: "2026-03-30T05:41:56.872Z"
+generated_at: "2026-03-30T05:44:54.020Z"
 status: "active"
 ---
 

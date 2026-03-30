@@ -3,15 +3,15 @@ title: "Section 294e - Allied health and other disciplines"
 usc_title: 42
 usc_section: "294e"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 294e"
-generated_at: "2026-03-30T05:42:49.256Z"
+generated_at: "2026-03-30T05:45:31.422Z"
 status: "active"
 ---
 
 # § 294e. Allied health and other disciplines
 
-- **(a)** The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b) of this section.
+- **(a)** The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b).
 - **(b)** Activities of the type described in this subsection include the following:
   - **(1)** Assisting entities in meeting the costs associated with expanding or establishing programs that will increase the number of individuals trained in allied health professions. Programs and activities funded under this paragraph may include—
     - **(A)** those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by the elderly;

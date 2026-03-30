@@ -3,9 +3,9 @@ title: "Section 283g - Muscular dystrophy; initiative through Director of Nation
 usc_title: 42
 usc_section: "283g"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 283g"
-generated_at: "2026-03-30T05:42:49.229Z"
+generated_at: "2026-03-30T05:45:31.390Z"
 status: "active"
 ---
 
@@ -16,12 +16,12 @@ status: "active"
   - **(2)** The Directors referred to in paragraph (1) shall jointly coordinate the programs referred to in such paragraph and consult with the Muscular Dystrophy Interagency Coordinating Committee established under section 6 of the MD–CARE Act. 1 1 See References in Text note below.
   - **(3)** The Director of NIH shall allocate the amounts appropriated to carry out this section for each fiscal year among the national research institutes referred to in paragraph (1).
 - **(b)**
-  - **(1)** The Director of NIH shall award grants and contracts under subsection (a)(1) of this section to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the “Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers”.
+  - **(1)** The Director of NIH shall award grants and contracts under subsection (a)(1) to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the “Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers”.
   - **(2)** Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in all forms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, cardiac and pulmonary function, and pharmacological and other therapies.
   - **(3)** The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
   - **(4)** Each center under paragraph (1) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of NIH.
   - **(5)** Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for 1 or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director of NIH and if such group has recommended to the Director that such period should be extended.
-- **(c)** The Director of NIH shall provide for a program under subsection (a)(1) of this section under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
+- **(c)** The Director of NIH shall provide for a program under subsection (a)(1) under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
 - **(d)**
   - **(1)** The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referred to in this section as the “Coordinating Committee”) to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
   - **(2)** The Coordinating Committee shall consist of not more than 18 members to be appointed by the Secretary, of which—
@@ -44,5 +44,5 @@ status: "active"
     - **(C)** The development of improved screening techniques.
     - **(D)** Basic and clinical research for the development and evaluation of new treatments, including new biological agents and new clinical interventions to improve the health of those with muscular dystrophy.
     - **(E)** Information and education programs for health care professionals and the public.
-- **(f)** The Secretary shall, under subsection (a)(1) of this section, provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
+- **(f)** The Secretary shall, under subsection (a)(1), provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
 - **(g)** The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).

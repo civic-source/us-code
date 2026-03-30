@@ -3,9 +3,9 @@ title: "Section 13704 - Truth-in-sentencing incentive grants"
 usc_title: 42
 usc_section: "13704"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13704"
-generated_at: "2026-03-30T05:42:49.787Z"
+generated_at: "2026-03-30T05:45:32.064Z"
 status: "active"
 ---
 
@@ -24,6 +24,6 @@ status: "active"
     - **(A)** the name, gender, race, ethnicity, and age of the deceased;
     - **(B)** the date, time, and location of death; and
     - **(C)** a brief description of the circumstances surrounding the death.
-- **(b)** Notwithstanding subsection (a) of this section, a State may provide that the Governor of the State may allow for the earlier release of—
+- **(b)** Notwithstanding subsection (a), a State may provide that the Governor of the State may allow for the earlier release of—
   - **(1)** a geriatric prisoner; or
   - **(2)** a prisoner whose medical condition precludes the prisoner from posing a threat to the public, but only after a public hearing in which representatives of the public and the prisoner’s victims have had an opportunity to be heard regarding a proposed release.

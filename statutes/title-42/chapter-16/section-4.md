@@ -3,9 +3,9 @@ title: "Section 4 - Undergraduate broadening participation program"
 usc_title: 42
 usc_section: "4"
 chapter: 16
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T05:42:49.510Z"
+generated_at: "2026-03-30T05:45:31.712Z"
 status: "active"
 ---
 

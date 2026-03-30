@@ -3,9 +3,9 @@ title: "Section 17935 - Restrictions on certain disclosures and sales of health 
 usc_title: 42
 usc_section: "17935"
 chapter: 156
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 17935"
-generated_at: "2026-03-30T05:42:49.844Z"
+generated_at: "2026-03-30T05:45:32.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 332b - Omitted"
 usc_title: 20
 usc_section: "332b"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 332b"
-generated_at: "2026-03-30T05:41:21.288Z"
+generated_at: "2026-03-30T05:44:02.584Z"
 status: "omitted"
 ---
 

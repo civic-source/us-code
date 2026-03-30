@@ -3,9 +3,9 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-30T05:41:42.795Z"
+generated_at: "2026-03-30T05:44:41.532Z"
 status: "active"
 ---
 
@@ -13,13 +13,13 @@ status: "active"
 
 - **(a)** There is established in the Treasury of the United States a trust fund to be known as the “Highway Trust Fund”, consisting of such amounts as may be appropriated or credited to the Highway Trust Fund as provided in this section or section 9602(b).
 - **(b)**
-  - **(1)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2016 , under the following provisions—
+  - **(1)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes received in the Treasury before October 1, 2022 , under the following provisions—
     - **(A)** section 4041 (relating to taxes on diesel fuels and special motor fuels),
     - **(B)** section 4051 (relating to retail tax on heavy trucks and trailers),
     - **(C)** section 4071 (relating to tax on tires),
     - **(D)** section 4081 (relating to tax on gasoline, diesel fuel, and kerosene), and
     - **(E)** section 4481 (relating to tax on use of certain vehicles).
-  - **(2)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2016 , and before July 1, 2017 , and which are attributable to liability for tax incurred before October 1, 2016 , under the provisions described in paragraph (1).
+  - **(2)** There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2022 , and before July 1, 2023 , and which are attributable to liability for tax incurred before October 1, 2022 , under the provisions described in paragraph (1).
   - **[(3)**
   - **(4)** For purposes of paragraphs (1) and (2), there shall not be taken into account the taxes imposed by—
     - **(A)** section 4041(d),
@@ -41,10 +41,10 @@ status: "active"
     - **(B)** Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
 - **(c)**
   - **(1)** Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020 , to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
-  - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2017 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
+  - **(2)** The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2023 , under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
   - **(3)**
     - **(A)**
-      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2016 .
+      - **(i)** The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005 , and before October 1, 2022 .
       - **(ii)** The aggregate amount transferred under this subparagraph during any fiscal year shall not exceed $1,000,000.
     - **(B)** Any amounts in the Highway Trust Fund—
       - **(i)** which are attributable to motorboat fuel taxes, and
@@ -52,7 +52,7 @@ status: "active"
     - **(C)** For purposes of this paragraph, the term “motorboat fuel taxes” means the taxes under section 4041(a)(2) with respect to special motor fuels used as fuel in motorboats and under section 4081 with respect to gasoline used as fuel in motorboats, but only to the extent such taxes are deposited into the Highway Trust Fund.
     - **(D)** The amount of payments made under this paragraph after October 1, 1986 shall be determined by the Secretary in accordance with the methodology described in the Treasury Department’s Report to Congress of June 1986 entitled “Gasoline Excise Tax Revenues Attributable to Fuel Used in Recreational Motorboats.”
   - **(4)**
-    - **(A)** The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990 , and before October 1, 2016 .
+    - **(A)** The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990 , and before October 1, 2022 .
     - **(B)** For purposes of this paragraph, the term “small-engine fuel taxes” means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
   - **(5)** The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005 , and before October 1, 2011 , under section 4081 with respect to so much of the rate of tax as does not exceed—
     - **(A)** 4.3 cents per gallon of kerosene subject to section 6427( l )(4)(A) with respect to which a payment has been made by the Secretary under section 6427( l ), and

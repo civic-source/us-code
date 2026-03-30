@@ -3,9 +3,9 @@ title: "Section 441k - Transferred"
 usc_title: 2
 usc_section: "441k"
 chapter: 14
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 441k"
-generated_at: "2026-03-30T05:40:50.956Z"
+generated_at: "2026-03-30T05:43:13.993Z"
 status: "transferred"
 ---
 

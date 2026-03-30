@@ -3,9 +3,9 @@ title: "Section 166 - Repealed. Pub. L. 98–621 , § 10(b), Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "166"
 chapter: 4
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "24 U.S.C. § 166"
-generated_at: "2026-03-30T05:41:24.187Z"
+generated_at: "2026-03-30T05:44:21.553Z"
 status: "repealed"
 ---
 

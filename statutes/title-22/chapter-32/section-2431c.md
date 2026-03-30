@@ -3,9 +3,9 @@ title: "Section 2431c - Eligibility for benefits"
 usc_title: 22
 usc_section: "2431c"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2431c"
-generated_at: "2026-03-30T05:41:31.864Z"
+generated_at: "2026-03-30T05:44:32.154Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-30T05:42:49.776Z"
+generated_at: "2026-03-30T05:45:32.051Z"
 status: "active"
 ---
 
@@ -45,5 +45,5 @@ status: "active"
   - **(4)** assurances satisfactory to the Secretary that any property purchased, leased, rehabilitated, renovated, or converted with assistance under this section shall be operated for not less than 10 years for the purpose specified in the application, except as otherwise specified in this chapter;
   - **(5)** evidence in a form acceptable to the Secretary that the proposed activities will meet urgent needs that are not being met by available public and private sources; and
   - **(6)** such other information or certifications that the Secretary determines to be necessary to achieve the purposes of this section.
-- **(e)** In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
-- **(f)** In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1) of this section, a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
+- **(e)** In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) a proposal for the operation of such agency or organization.
+- **(f)** In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1), a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.

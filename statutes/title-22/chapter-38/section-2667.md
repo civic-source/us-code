@@ -3,9 +3,9 @@ title: "Section 2667 - Repealed. Pub. L. 99–93, title I , § 125(c), Aug. 16, 
 usc_title: 22
 usc_section: "2667"
 chapter: 38
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2667"
-generated_at: "2026-03-30T05:41:31.871Z"
+generated_at: "2026-03-30T05:44:32.161Z"
 status: "repealed"
 ---
 

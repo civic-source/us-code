@@ -3,9 +3,9 @@ title: "Section 1220b - Obsolete ships available; number; equitable administrati
 usc_title: 16
 usc_section: "1220b"
 chapter: 25
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 1220b"
-generated_at: "2026-03-30T05:41:19.556Z"
+generated_at: "2026-03-30T05:43:59.113Z"
 status: "active"
 ---
 

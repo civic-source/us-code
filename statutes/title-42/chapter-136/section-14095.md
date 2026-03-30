@@ -3,16 +3,16 @@ title: "Section 14095 - Scholarship assistance"
 usc_title: 42
 usc_section: "14095"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14095"
-generated_at: "2026-03-30T05:42:49.798Z"
+generated_at: "2026-03-30T05:45:32.075Z"
 status: "active"
 ---
 
 # § 14095. Scholarship assistance
 
 - **(a)**
-  - **(1)** The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d) of this section.
+  - **(1)** The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d).
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), each scholarship payment made under this section for each academic year shall not exceed—
       - **(i)** $10,000; or
@@ -24,7 +24,7 @@ status: "active"
     - **(A)** The Director shall make scholarship payments under this section directly to the institution of higher education that the student is attending.
     - **(B)** Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs of tuition, fees, and room and board payable to the institution.
 - **(b)**
-  - **(1)** The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d) of this section.
+  - **(1)** The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d).
   - **(2)**
     - **(A)** Each payment made pursuant to paragraph (1) for each academic year of study shall not exceed—
       - **(i)** $10,000; or

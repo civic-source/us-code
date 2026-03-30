@@ -3,9 +3,9 @@ title: "Section 4313 - Severability"
 usc_title: 22
 usc_section: "4313"
 chapter: 53
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 4313"
-generated_at: "2026-03-30T05:41:31.901Z"
+generated_at: "2026-03-30T05:44:32.189Z"
 status: "active"
 ---
 

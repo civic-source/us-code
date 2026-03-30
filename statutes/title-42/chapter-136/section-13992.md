@@ -3,9 +3,9 @@ title: "Section 13992 - Training provided by grants"
 usc_title: 42
 usc_section: "13992"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13992"
-generated_at: "2026-03-30T05:42:49.792Z"
+generated_at: "2026-03-30T05:45:32.071Z"
 status: "active"
 ---
 

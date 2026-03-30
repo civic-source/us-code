@@ -3,9 +3,9 @@ title: "Section 808 - Termination"
 usc_title: 2
 usc_section: "808"
 chapter: 19
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 808"
-generated_at: "2026-03-30T05:40:50.963Z"
+generated_at: "2026-03-30T05:43:14.000Z"
 status: "active"
 ---
 

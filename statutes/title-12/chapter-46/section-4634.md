@@ -3,9 +3,9 @@ title: "Section 4634 - Judicial review"
 usc_title: 12
 usc_section: "4634"
 chapter: 46
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 4634"
-generated_at: "2026-03-30T05:41:07.928Z"
+generated_at: "2026-03-30T05:43:40.656Z"
 status: "active"
 ---
 

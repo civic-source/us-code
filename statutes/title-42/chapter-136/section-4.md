@@ -3,9 +3,9 @@ title: "Section 4 - Grant increase"
 usc_title: 42
 usc_section: "4"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T05:42:49.795Z"
+generated_at: "2026-03-30T05:45:32.073Z"
 status: "active"
 ---
 

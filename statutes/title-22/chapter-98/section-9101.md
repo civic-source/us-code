@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 22
 usc_section: "9101"
 chapter: 98
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 9101"
-generated_at: "2026-03-30T05:41:31.946Z"
+generated_at: "2026-03-30T05:44:32.229Z"
 status: "active"
 ---
 

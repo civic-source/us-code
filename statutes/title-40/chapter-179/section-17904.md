@@ -3,9 +3,9 @@ title: "Section 17904 - Implementation powers and limitations"
 usc_title: 40
 usc_section: "17904"
 chapter: 179
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "40 U.S.C. § 17904"
-generated_at: "2026-03-30T05:41:55.212Z"
+generated_at: "2026-03-30T05:44:52.843Z"
 status: "active"
 ---
 

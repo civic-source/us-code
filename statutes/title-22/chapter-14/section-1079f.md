@@ -3,9 +3,9 @@ title: "Section 1079f - Repealed. Pub. L. 96–465, title II , § 2205(13), Oct.
 usc_title: 22
 usc_section: "1079f"
 chapter: 14
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 1079f"
-generated_at: "2026-03-30T05:41:31.830Z"
+generated_at: "2026-03-30T05:44:32.121Z"
 status: "repealed"
 ---
 

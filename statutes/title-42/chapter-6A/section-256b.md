@@ -3,9 +3,9 @@ title: "Section 256b - Limitation on prices of drugs purchased by covered entiti
 usc_title: 42
 usc_section: "256b"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 256b"
-generated_at: "2026-03-30T05:42:49.213Z"
+generated_at: "2026-03-30T05:45:31.370Z"
 status: "active"
 ---
 
@@ -25,13 +25,13 @@ status: "active"
     - **(A)** A Federally-qualified health center (as defined in section 1905( l )(2)(B) of the Social Security Act [ 42 U.S.C. 1396d ( l )(2)(B)]).
     - **(B)** An entity receiving a grant under section 256a 1 1 See References in Text note below. of this title.
     - **(C)** A family planning project receiving a grant or contract under section 300 of this title .
-    - **(D)** An entity receiving a grant under subpart II 1 of part C of subchapter XXIV of this chapter (relating to categorical grants for outpatient early intervention services for HIV disease).
-    - **(E)** A State-operated AIDS drug purchasing assistance program receiving financial assistance under subchapter XXIV of this chapter.
+    - **(D)** An entity receiving a grant under subpart II 1 of part C of subchapter XXIV (relating to categorical grants for outpatient early intervention services for HIV disease).
+    - **(E)** A State-operated AIDS drug purchasing assistance program receiving financial assistance under subchapter XXIV.
     - **(F)** A black lung clinic receiving funds under section 937(a) of title 30 .
     - **(G)** A comprehensive hemophilia diagnostic treatment center receiving a grant under section 501(a)(2) of the Social Security Act [ 42 U.S.C. 701(a)(2) ].
     - **(H)** A Native Hawaiian Health Center receiving funds under the Native Hawaiian Health Care Act of 1988.
     - **(I)** An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [ 25 U.S.C. 1651 et seq.].
-    - **(J)** Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
+    - **(J)** Any entity receiving assistance under subchapter XXIV (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
     - **(K)** An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) 1 of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
     - **(L)** A subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act [ 42 U.S.C. 1395ww(d)(1)(B) ]) that—
       - **(i)** is owned or operated by a unit of State or local government, is a public or private non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] or eligible for assistance under the State plan under this subchapter;

@@ -3,9 +3,9 @@ title: "Section 150113 - Annual report"
 usc_title: 36
 usc_section: "150113"
 chapter: 1501
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 150113"
-generated_at: "2026-03-30T05:41:54.568Z"
+generated_at: "2026-03-30T05:44:48.882Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 658a - Exclusions"
 usc_title: 2
 usc_section: "658a"
 chapter: 17
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 658a"
-generated_at: "2026-03-30T05:40:50.961Z"
+generated_at: "2026-03-30T05:43:13.998Z"
 status: "active"
 ---
 

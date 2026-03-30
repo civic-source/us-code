@@ -3,9 +3,9 @@ title: "Section 5106g - Definitions"
 usc_title: 42
 usc_section: "5106g"
 chapter: 67
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 5106g"
-generated_at: "2026-03-30T05:42:49.594Z"
+generated_at: "2026-03-30T05:45:31.835Z"
 status: "active"
 ---
 

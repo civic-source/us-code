@@ -3,9 +3,9 @@ title: "Section 77a - Repealed. Pub. L. 85–857 , § 14(1), (6), (9), (16), (35
 usc_title: 24
 usc_section: "77a"
 chapter: 3
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "24 U.S.C. § 77a"
-generated_at: "2026-03-30T05:41:24.187Z"
+generated_at: "2026-03-30T05:44:21.553Z"
 status: "repealed"
 ---
 

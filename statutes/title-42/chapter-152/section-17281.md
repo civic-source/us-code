@@ -3,9 +3,9 @@ title: "Section 17281 - National media campaign"
 usc_title: 42
 usc_section: "17281"
 chapter: 152
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 17281"
-generated_at: "2026-03-30T05:42:49.838Z"
+generated_at: "2026-03-30T05:45:32.122Z"
 status: "active"
 ---
 

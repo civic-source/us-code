@@ -3,9 +3,9 @@ title: "Section 8403 - Statement of principles"
 usc_title: 22
 usc_section: "8403"
 chapter: 91
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 8403"
-generated_at: "2026-03-30T05:41:31.937Z"
+generated_at: "2026-03-30T05:44:32.221Z"
 status: "active"
 ---
 

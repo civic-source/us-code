@@ -3,9 +3,9 @@ title: "Section 2020 - Administration"
 usc_title: 7
 usc_section: "2020"
 chapter: 51
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 2020"
-generated_at: "2026-03-30T05:40:58.128Z"
+generated_at: "2026-03-30T05:43:35.014Z"
 status: "active"
 ---
 

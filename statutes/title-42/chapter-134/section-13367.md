@@ -3,16 +3,16 @@ title: "Section 13367 - Coal exports"
 usc_title: 42
 usc_section: "13367"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13367"
-generated_at: "2026-03-30T05:42:49.782Z"
+generated_at: "2026-03-30T05:45:32.058Z"
 status: "active"
 ---
 
 # § 13367. Coal exports
 
 - **(a)** Within 180 days after October 24, 1992 , the Secretary of Commerce, in cooperation with the Secretary and other appropriate Federal agencies, shall submit to the appropriate committees of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a plan for expanding exports of coal mined in the United States.
-- **(b)** The plan submitted under subsection (a) of this section shall include—
+- **(b)** The plan submitted under subsection (a) shall include—
   - **(1)** a description of the location, size, and projected growth in potential export markets for coal mined in the United States;
   - **(2)** the identification by country of the foreign trade barriers to the export of coal mined in the United States, including foreign coal production and utilization subsidies, tax treatment, labor practices, tariffs, quotas, and other nontariff barriers;
   - **(3)** recommendations and a plan for addressing any such trade barriers;

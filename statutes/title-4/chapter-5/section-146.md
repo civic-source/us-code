@@ -3,9 +3,9 @@ title: "Section 146 - Authorization of appropriations"
 usc_title: 4
 usc_section: "146"
 chapter: 5
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "4 U.S.C. § 146"
-generated_at: "2026-03-30T05:40:51.366Z"
+generated_at: "2026-03-30T05:43:19.336Z"
 status: "active"
 ---
 

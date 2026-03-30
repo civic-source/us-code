@@ -3,9 +3,9 @@ title: "Section 618 - Action on reports of selection boards"
 usc_title: 10
 usc_section: "618"
 chapter: 36
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 618"
-generated_at: "2026-03-30T05:41:02.809Z"
+generated_at: "2026-03-30T05:43:26.604Z"
 status: "active"
 ---
 

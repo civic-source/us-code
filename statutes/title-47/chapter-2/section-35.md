@@ -3,9 +3,9 @@ title: "Section 35 - Withholding or revoking of licenses by President; terms and
 usc_title: 47
 usc_section: "35"
 chapter: 2
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "47 U.S.C. § 35"
-generated_at: "2026-03-30T05:42:53.325Z"
+generated_at: "2026-03-30T05:45:34.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 953 - Insurance income"
 usc_title: 26
 usc_section: "953"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 953"
-generated_at: "2026-03-30T05:41:42.675Z"
+generated_at: "2026-03-30T05:44:41.410Z"
 status: "active"
 ---
 

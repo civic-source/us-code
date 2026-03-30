@@ -3,9 +3,9 @@ title: "Section 292a - Scope and duration of loan insurance program"
 usc_title: 42
 usc_section: "292a"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 292a"
-generated_at: "2026-03-30T05:42:49.252Z"
+generated_at: "2026-03-30T05:45:31.416Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The total principal amount of new loans made and installments paid pursuant to lines of credit (as defined in section 292 o of this title) to borrowers covered by Federal loan insurance under this subpart shall not exceed $350,000,000 for fiscal year 1993, $375,000,000 for fiscal year 1994, and $425,000,000 for fiscal year 1995. If the total amount of new loans made and installments paid pursuant to lines of credit in any fiscal year is less than the ceiling established for such year, the difference between the loans made and installments paid and the ceiling shall be carried over to the next fiscal year and added to the ceiling applicable to that fiscal year, and if in any fiscal year no ceiling has been established, any difference carried over shall constitute the ceiling for making new loans (including loans to new borrowers) and paying installments for such fiscal year. Thereafter, Federal loan insurance pursuant to this subpart may be granted only for loans made (or for loan installments paid pursuant to lines of credit) to enable students, who have obtained prior loans insured under this subpart, to continue or complete their educational program or to obtain a loan under section 292d(a)(1)(B) of this title to pay interest on such prior loans; but no insurance may be granted for any loan made or installment paid after September 30, 1998 . The total principal amount of Federal loan insurance available under this subsection shall be granted by the Secretary without regard to any apportionment for the purpose of chapter 15 of title 31 and without regard to any similar limitation.
 - **(b)**
-  - **(1)** The Secretary may, if necessary to assure an equitable distribution of the benefits of this subpart, assign, within the maximum amounts specified in subsection (a) of this section, Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
+  - **(1)** The Secretary may, if necessary to assure an equitable distribution of the benefits of this subpart, assign, within the maximum amounts specified in subsection (a), Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
   - **(2)** In providing certificates of insurance under section 292e of this title through comprehensive contracts, the Secretary shall give priority to eligible lenders that agree—
     - **(A)** to make loans to students at interest rates below the rates prevailing, during the period involved, for loans covered by Federal loan insurance pursuant to this subpart; or
     - **(B)** to make such loans under terms that are otherwise favorable to the student relative to the terms under which eligible lenders are generally making such loans during such period.

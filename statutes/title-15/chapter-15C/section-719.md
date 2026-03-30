@@ -3,9 +3,9 @@ title: "Section 719 - Congressional findings"
 usc_title: 15
 usc_section: "719"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 719"
-generated_at: "2026-03-30T05:41:10.880Z"
+generated_at: "2026-03-30T05:43:51.933Z"
 status: "active"
 ---
 

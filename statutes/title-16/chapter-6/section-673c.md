@@ -3,9 +3,9 @@ title: "Section 673c - Conservation of elk in Wyoming"
 usc_title: 16
 usc_section: "673c"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 673c"
-generated_at: "2026-03-30T05:41:19.522Z"
+generated_at: "2026-03-30T05:43:59.079Z"
 status: "active"
 ---
 

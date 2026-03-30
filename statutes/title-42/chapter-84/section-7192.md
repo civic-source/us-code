@@ -3,9 +3,9 @@ title: "Section 7192 - Judicial review"
 usc_title: 42
 usc_section: "7192"
 chapter: 84
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 7192"
-generated_at: "2026-03-30T05:42:49.651Z"
+generated_at: "2026-03-30T05:45:31.899Z"
 status: "active"
 ---
 

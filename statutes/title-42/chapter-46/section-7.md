@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 42
 usc_section: "7"
 chapter: 46
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T05:42:49.573Z"
+generated_at: "2026-03-30T05:45:31.808Z"
 status: "active"
 ---
 

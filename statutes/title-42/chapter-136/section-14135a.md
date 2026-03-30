@@ -3,9 +3,9 @@ title: "Section 14135a - Collection and use of DNA identification information fr
 usc_title: 42
 usc_section: "14135a"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14135a"
-generated_at: "2026-03-30T05:42:49.799Z"
+generated_at: "2026-03-30T05:45:32.078Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
-    - **(B)** The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10 .
-  - **(2)** The probation office responsible for the supervision under Federal law of an individual on probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10 .
+    - **(B)** The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10 .
+  - **(2)** The probation office responsible for the supervision under Federal law of an individual on probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10 .
   - **(3)** For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10 , the Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
   - **(4)**
     - **(A)** The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
@@ -23,7 +23,7 @@ status: "active"
   - **(5)** An individual from whom the collection of a DNA sample is authorized under this subsection who fails to cooperate in the collection of that sample shall be—
     - **(A)** guilty of a class A misdemeanor; and
     - **(B)** punished in accordance with title 18.
-- **(b)** The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+- **(b)** The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 - **(c)** In this section:
   - **(1)** The term “DNA sample” means a tissue, fluid, or other bodily sample of an individual on which a DNA analysis can be carried out.
   - **(2)** The term “DNA analysis” means analysis of the deoxyribonucleic acid (DNA) identification information in a bodily sample.
@@ -35,4 +35,4 @@ status: "active"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), this section shall be carried out under regulations prescribed by the Attorney General.
   - **(2)** The Director of the Administrative Office of the United States Courts shall make available model procedures for the activities of probation officers in carrying out this section.
-- **(f)** Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000 .
+- **(f)** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000 .

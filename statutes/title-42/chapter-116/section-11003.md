@@ -3,9 +3,9 @@ title: "Section 11003 - Comprehensive emergency response plans"
 usc_title: 42
 usc_section: "11003"
 chapter: 116
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11003"
-generated_at: "2026-03-30T05:42:49.739Z"
+generated_at: "2026-03-30T05:45:32.008Z"
 status: "active"
 ---
 
@@ -27,6 +27,6 @@ status: "active"
   - **(1)** Within 30 days after establishment of a local emergency planning committee for the emergency planning district in which such facility is located, or within 11 months after October 17, 1986 , whichever is earlier, the owner or operator of the facility shall notify the emergency planning committee (or the Governor if there is no committee) of a facility representative who will participate in the emergency planning process as a facility emergency coordinator.
   - **(2)** The owner or operator of the facility shall promptly inform the emergency planning committee of any relevant changes occurring at such facility as such changes occur or are expected to occur.
   - **(3)** Upon request from the emergency planning committee, the owner or operator of the facility shall promptly provide information to such committee necessary for developing and implementing the emergency plan.
-- **(e)** After completion of an emergency plan under subsection (a) of this section for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
+- **(e)** After completion of an emergency plan under subsection (a) for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
 - **(f)** The national response team, as established pursuant to the National Contingency Plan as established under section 9605 of this title , shall publish guidance documents for preparation and implementation of emergency plans. Such documents shall be published not later than five months after October 17, 1986 .
 - **(g)** The regional response teams, as established pursuant to the National Contingency Plan as established under section 9605 of this title , may review and comment upon an emergency plan or other issues related to preparation, implementation, or exercise of such a plan upon request of a local emergency planning committee. Such review shall not delay implementation of the plan.

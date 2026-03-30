@@ -3,9 +3,9 @@ title: "Section 618 - Funding for child care"
 usc_title: 42
 usc_section: "618"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 618"
-generated_at: "2026-03-30T05:42:49.332Z"
+generated_at: "2026-03-30T05:45:31.499Z"
 status: "active"
 ---
 

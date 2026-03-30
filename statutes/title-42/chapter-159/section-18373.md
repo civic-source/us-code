@@ -3,9 +3,9 @@ title: "Section 18373 - Decadal Survey missions implementation for Earth observa
 usc_title: 42
 usc_section: "18373"
 chapter: 159
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 18373"
-generated_at: "2026-03-30T05:42:49.852Z"
+generated_at: "2026-03-30T05:45:32.139Z"
 status: "active"
 ---
 

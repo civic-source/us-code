@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-30T05:42:49.214Z"
+generated_at: "2026-03-30T05:45:31.372Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
       - **(i)** on the basis of a demonstration that—
         - **(I)** the biological product that is the subject of the application is safe, pure, and potent; and
         - **(II)** the facility in which the biological product is manufactured, processed, packed, or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
-      - **(ii)** if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c) of this section.
+      - **(ii)** if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c).
     - **(D)** A person that submits an application for a license under this paragraph is subject to sections 505( o ), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355 ( o ), (p), 355–1].
   - **(3)** The Secretary shall prescribe requirements under which a biological product undergoing investigation shall be exempt from the requirements of paragraph (1).
 - **(b)** No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package or container of the biological product so as to falsify the label or mark.

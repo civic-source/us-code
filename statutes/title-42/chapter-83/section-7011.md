@@ -3,9 +3,9 @@ title: "Section 7011 - Repealed. Pub. L. 102–486, title I , § 143(a), Oct. 24
 usc_title: 42
 usc_section: "7011"
 chapter: 83
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 7011"
-generated_at: "2026-03-30T05:42:49.648Z"
+generated_at: "2026-03-30T05:45:31.896Z"
 status: "repealed"
 ---
 

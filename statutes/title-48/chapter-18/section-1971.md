@@ -3,9 +3,9 @@ title: "Section 1971 - Transfer of surplus personal property owned by United Sta
 usc_title: 48
 usc_section: "1971"
 chapter: 18
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "48 U.S.C. § 1971"
-generated_at: "2026-03-30T05:42:52.603Z"
+generated_at: "2026-03-30T05:45:36.410Z"
 status: "active"
 ---
 

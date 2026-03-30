@@ -3,9 +3,9 @@ title: "Section 719g - Transportation system certificates, rights-of-way, permit
 usc_title: 15
 usc_section: "719g"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 719g"
-generated_at: "2026-03-30T05:41:10.881Z"
+generated_at: "2026-03-30T05:43:51.933Z"
 status: "active"
 ---
 

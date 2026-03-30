@@ -3,9 +3,9 @@ title: "Section 13366 - National clearinghouse"
 usc_title: 42
 usc_section: "13366"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13366"
-generated_at: "2026-03-30T05:42:49.782Z"
+generated_at: "2026-03-30T05:45:32.058Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
     - **(G)** encouraging, during the testing of technologies, the use of coal from a variety of domestic sources, and collecting or developing, or both, complete listings of test results using coals from all sources;
     - **(H)** establishing and maintaining an index or compilation of research projects relating to clean coal technology carried out throughout the world; and
     - **(I)** conducting economic modeling for feasibility of projects.
-- **(b)** Based upon the assessment under subsection (a) of this section, the Secretary may establish a clearinghouse.
+- **(b)** Based upon the assessment under subsection (a), the Secretary may establish a clearinghouse.

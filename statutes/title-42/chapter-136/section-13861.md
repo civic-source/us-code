@@ -3,13 +3,13 @@ title: "Section 13861 - Grant authorization"
 usc_title: 42
 usc_section: "13861"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13861"
-generated_at: "2026-03-30T05:42:49.790Z"
+generated_at: "2026-03-30T05:45:32.067Z"
 status: "active"
 ---
 
 # § 13861. Grant authorization
 
 - **(a)** The Attorney General may make grants to State, Indian tribal, or local prosecutors for the purpose of supporting the creation or expansion of community-based justice programs.
-- **(b)** The Attorney General may consult with the Ounce of Prevention Council in making grants under subsection (a) of this section.
+- **(b)** The Attorney General may consult with the Ounce of Prevention Council in making grants under subsection (a).

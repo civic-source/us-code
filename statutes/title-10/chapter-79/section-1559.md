@@ -3,9 +3,9 @@ title: "Section 1559 - Personnel limitation"
 usc_title: 10
 usc_section: "1559"
 chapter: 79
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 1559"
-generated_at: "2026-03-30T05:41:02.844Z"
+generated_at: "2026-03-30T05:43:26.638Z"
 status: "active"
 ---
 

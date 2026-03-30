@@ -3,9 +3,9 @@ title: "Section 1594f - Net floor area limitations"
 usc_title: 42
 usc_section: "1594f"
 chapter: 9
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1594f"
-generated_at: "2026-03-30T05:42:49.492Z"
+generated_at: "2026-03-30T05:45:31.689Z"
 status: "active"
 ---
 

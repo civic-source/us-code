@@ -3,9 +3,9 @@ title: "Section 412 - Nondisclosure of lists of names and addresses"
 usc_title: 39
 usc_section: "412"
 chapter: 4
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "39 U.S.C. § 412"
-generated_at: "2026-03-30T05:42:03.111Z"
+generated_at: "2026-03-30T05:44:49.357Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6064 - Signature presumed authentic"
 usc_title: 26
 usc_section: "6064"
 chapter: 61
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 6064"
-generated_at: "2026-03-30T05:41:42.752Z"
+generated_at: "2026-03-30T05:44:41.488Z"
 status: "active"
 ---
 

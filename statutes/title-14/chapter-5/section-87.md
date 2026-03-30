@@ -3,9 +3,9 @@ title: "Section 87 - Icebreaking in polar regions"
 usc_title: 14
 usc_section: "87"
 chapter: 5
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "14 U.S.C. § 87"
-generated_at: "2026-03-30T05:41:04.980Z"
+generated_at: "2026-03-30T05:43:37.362Z"
 status: "active"
 ---
 

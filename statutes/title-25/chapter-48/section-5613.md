@@ -3,9 +3,9 @@ title: "Section 5613 - Indian trust asset management plan"
 usc_title: 25
 usc_section: "5613"
 chapter: 48
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "25 U.S.C. § 5613"
-generated_at: "2026-03-30T05:41:25.807Z"
+generated_at: "2026-03-30T05:44:21.480Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** identify the trust assets that will be subject to the plan;
     - **(B)** establish trust asset management objectives and priorities for Indian trust assets that are located within the reservation, or otherwise subject to the jurisdiction, of the Indian tribe;
     - **(C)** allocate trust asset management funding that is available for the Indian trust assets subject to the plan in order to meet the trust asset management objectives and priorities;
-    - **(D)** if the Indian tribe has contracted or compacted functions or activities under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) relating to the management of trust assets—
+    - **(D)** if the Indian tribe has contracted or compacted functions or activities under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. relating to the management of trust assets—
       - **(i)** identify the functions or activities that are being or will be performed by the Indian tribe under the contracts, compacts, or other agreements under that Act, which may include any of the surface leasing or forest land management activities authorized by the proposed plan pursuant to section 5614(b) of this title ; and
       - **(ii)** describe the practices and procedures that the Indian tribe will follow;
     - **(E)** establish procedures for nonbinding mediation or resolution of any dispute between the Indian tribe and the United States relating to the trust asset management plan;

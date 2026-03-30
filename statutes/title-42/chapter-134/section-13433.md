@@ -3,9 +3,9 @@ title: "Section 13433 - Alternative fuel vehicle program"
 usc_title: 42
 usc_section: "13433"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13433"
-generated_at: "2026-03-30T05:42:49.784Z"
+generated_at: "2026-03-30T05:45:32.061Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(13)** advanced storage systems;
   - **(14)** advanced gaseous fueling technologies; and
   - **(15)** the incorporation of advanced materials in these areas.
-- **(b)** The Secretary may enter into cooperative agreements with, and provide financial assistance to, public or private entities willing to provide 50 percent of the costs of a program to perform activities under subsection (a) of this section.
+- **(b)** The Secretary may enter into cooperative agreements with, and provide financial assistance to, public or private entities willing to provide 50 percent of the costs of a program to perform activities under subsection (a).
 - **(c)** For purposes of this section—
   - **(1)** the term “alternative fuel vehicle” means a motor vehicle that operates on alternative fuels; and
   - **(2)** the term “motor vehicle” includes any automobile, truck, bus, van, or other on-road or off-road motor vehicle, including a boat.

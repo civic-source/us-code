@@ -3,9 +3,9 @@ title: "Section 1437x - Environmental reviews"
 usc_title: 42
 usc_section: "1437x"
 chapter: 8
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1437x"
-generated_at: "2026-03-30T05:42:49.480Z"
+generated_at: "2026-03-30T05:45:31.674Z"
 status: "active"
 ---
 

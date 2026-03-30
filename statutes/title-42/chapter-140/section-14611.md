@@ -3,9 +3,9 @@ title: "Section 14611 - Findings"
 usc_title: 42
 usc_section: "14611"
 chapter: 140
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14611"
-generated_at: "2026-03-30T05:42:49.802Z"
+generated_at: "2026-03-30T05:45:32.082Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7c - Fraud and abuse control program"
 usc_title: 42
 usc_section: "7c"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-30T05:42:49.355Z"
+generated_at: "2026-03-30T05:45:31.524Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(i)** Such guidelines shall include guidelines relating to the furnishing of information by health plans, providers, and others to enable the Secretary and the Attorney General to carry out the program (including coordination with health plans under paragraph (2)).
       - **(ii)** Such guidelines shall include procedures to assure that such information is provided and utilized in a manner that appropriately protects the confidentiality of the information and the privacy of individuals receiving health care services and items.
       - **(iii)** The provisions of section 1320c–6(a) of this title (relating to limitation on liability) shall apply to a person providing information to the Secretary or the Attorney General in conjunction with their performance of duties under this section.
-  - **(4)** The Inspector General of the Department of Health and Human Services is authorized to exercise such authority described in paragraphs (3) through (9) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.) as necessary with respect to the activities under the fraud and abuse control program established under this subsection.
+  - **(4)** The Inspector General of the Department of Health and Human Services is authorized to exercise such authority described in paragraphs (3) through (9) of section 6 1 1 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.) as necessary with respect to the activities under the fraud and abuse control program established under this subsection.
   - **(5)** Nothing in this chapter shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(b)**
   - **(1)** The Inspector General of the Department of Health and Human Services is authorized to receive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.

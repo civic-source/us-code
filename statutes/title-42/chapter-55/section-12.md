@@ -3,9 +3,9 @@ title: "Section 12 - Sunset"
 usc_title: 42
 usc_section: "12"
 chapter: 55
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T05:42:49.584Z"
+generated_at: "2026-03-30T05:45:31.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5343 - Purpose and duties of the Office"
 usc_title: 12
 usc_section: "5343"
 chapter: 53
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 5343"
-generated_at: "2026-03-30T05:41:07.942Z"
+generated_at: "2026-03-30T05:43:40.668Z"
 status: "active"
 ---
 

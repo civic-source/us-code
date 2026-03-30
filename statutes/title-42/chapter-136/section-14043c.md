@@ -3,9 +3,9 @@ title: "Section 14043c - Creating hope through outreach, options, services, and 
 usc_title: 42
 usc_section: "14043c"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14043c"
-generated_at: "2026-03-30T05:42:49.793Z"
+generated_at: "2026-03-30T05:45:32.071Z"
 status: "active"
 ---
 

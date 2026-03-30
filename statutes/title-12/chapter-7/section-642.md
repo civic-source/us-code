@@ -3,9 +3,9 @@ title: "Section 642 - Repealed. Pub. L. 92–181, title V , § 5.26(a), Dec. 10,
 usc_title: 12
 usc_section: "642"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 642"
-generated_at: "2026-03-30T05:41:07.813Z"
+generated_at: "2026-03-30T05:43:40.545Z"
 status: "repealed"
 ---
 

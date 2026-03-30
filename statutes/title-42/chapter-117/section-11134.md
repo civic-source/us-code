@@ -3,9 +3,9 @@ title: "Section 11134 - Form of reporting"
 usc_title: 42
 usc_section: "11134"
 chapter: 117
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11134"
-generated_at: "2026-03-30T05:42:49.742Z"
+generated_at: "2026-03-30T05:45:32.011Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The information required to be reported under sections 11131, 11132(a), and 11133(b) of this title shall be reported to the Secretary, or, in the Secretary’s discretion, to an appropriate private or public agency which has made suitable arrangements with the Secretary with respect to receipt, storage, protection of confidentiality, and dissemination of the information under this subchapter.
 - **(c)**
   - **(1)** Information required to be reported under section 11131 of this title shall also be reported to the appropriate State licensing board (or boards) in the State in which the medical malpractice claim arose.
-  - **(2)** Information required to be reported under section 11133(b) of this title shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b) of this section.
+  - **(2)** Information required to be reported under section 11133(b) of this title shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b).

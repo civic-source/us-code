@@ -3,9 +3,9 @@ title: "Section 213 - Appropriation for preparing and editing supplements"
 usc_title: 1
 usc_section: "213"
 chapter: 3
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "1 U.S.C. § 213"
-generated_at: "2026-03-30T05:40:49.226Z"
+generated_at: "2026-03-30T05:43:14.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2736 - Funding"
 usc_title: 33
 usc_section: "2736"
 chapter: 40
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 2736"
-generated_at: "2026-03-30T05:41:50.728Z"
+generated_at: "2026-03-30T05:44:46.497Z"
 status: "active"
 ---
 

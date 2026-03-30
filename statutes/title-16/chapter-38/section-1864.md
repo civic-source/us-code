@@ -3,9 +3,9 @@ title: "Section 1864 - Regional coastal disaster assistance, transition, and rec
 usc_title: 16
 usc_section: "1864"
 chapter: 38
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 1864"
-generated_at: "2026-03-30T05:41:19.587Z"
+generated_at: "2026-03-30T05:43:59.148Z"
 status: "active"
 ---
 

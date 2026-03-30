@@ -3,16 +3,16 @@ title: "Section 293a - Scholarships for disadvantaged students"
 usc_title: 42
 usc_section: "293a"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 293a"
-generated_at: "2026-03-30T05:42:49.255Z"
+generated_at: "2026-03-30T05:45:31.420Z"
 status: "active"
 ---
 
 # § 293a. Scholarships for disadvantaged students
 
-- **(a)** The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of this section) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
-- **(b)** The Secretary may not make a grant to an entity under subsection (a) of this section unless the health professions and nursing schools involved agree that, in providing scholarships pursuant to the grant, the schools will give preference to students for whom the costs of attending the schools would constitute a severe financial hardship and, notwithstanding other provisions of this section, to former recipients of scholarships under sections 293 and 293d(d)(2)(B) of this title (as such sections existed on the day before November 13, 1998 ).
+- **(a)** The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1)) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d). Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
+- **(b)** The Secretary may not make a grant to an entity under subsection (a) unless the health professions and nursing schools involved agree that, in providing scholarships pursuant to the grant, the schools will give preference to students for whom the costs of attending the schools would constitute a severe financial hardship and, notwithstanding other provisions of this section, to former recipients of scholarships under sections 293 and 293d(d)(2)(B) of this title (as such sections existed on the day before November 13, 1998 ).
 - **(c)** In awarding grants to eligible entities that are health professions and nursing schools, the Secretary shall give priority to eligible entities based on the proportion of graduating students going into primary care, the proportion of underrepresented minority students, and the proportion of graduates working in medically underserved communities.
 - **(d)** In this section:
   - **(1)** The term “eligible entities” means an entity that—

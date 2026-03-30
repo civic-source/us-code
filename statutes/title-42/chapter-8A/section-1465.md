@@ -3,9 +3,9 @@ title: "Section 1465 - Repealed. Pub. L. 91–646, title II , § 220(a)(5), Jan.
 usc_title: 42
 usc_section: "1465"
 chapter: 8
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1465"
-generated_at: "2026-03-30T05:42:49.483Z"
+generated_at: "2026-03-30T05:45:31.678Z"
 status: "repealed"
 ---
 

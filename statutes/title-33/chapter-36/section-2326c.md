@@ -3,9 +3,9 @@ title: "Section 2326c - Dredged material marketing and recycling"
 usc_title: 33
 usc_section: "2326c"
 chapter: 36
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 2326c"
-generated_at: "2026-03-30T05:41:50.721Z"
+generated_at: "2026-03-30T05:44:46.491Z"
 status: "active"
 ---
 

@@ -3,20 +3,20 @@ title: "Section 11131 - Requiring reports on medical malpractice payments"
 usc_title: 42
 usc_section: "11131"
 chapter: 117
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11131"
-generated_at: "2026-03-30T05:42:49.741Z"
+generated_at: "2026-03-30T05:45:32.010Z"
 status: "active"
 ---
 
 # § 11131. Requiring reports on medical malpractice payments
 
 - **(a)** Each entity (including an insurance company) which makes payment under a policy of insurance, self-insurance, or otherwise in settlement (or partial settlement) of, or in satisfaction of a judgment in, a medical malpractice action or claim shall report, in accordance with section 11134 of this title , information respecting the payment and circumstances thereof.
-- **(b)** The information to be reported under subsection (a) of this section includes—
+- **(b)** The information to be reported under subsection (a) includes—
   - **(1)** the name of any physician or licensed health care practitioner for whose benefit the payment is made,
   - **(2)** the amount of the payment,
   - **(3)** the name (if known) of any hospital with which the physician or practitioner is affiliated or associated,
   - **(4)** a description of the acts or omissions and injuries or illnesses upon which the action or claim was based, and
   - **(5)** such other information as the Secretary determines is required for appropriate interpretation of information reported under this section.
 - **(c)** Any entity that fails to report information on a payment required to be reported under this section shall be subject to a civil money penalty of not more than $10,000 for each such payment involved. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
-- **(d)** The Secretary shall study and report to Congress, not later than two years after November 14, 1986 , on whether information respecting small payments should continue to be required to be reported under subsection (a) of this section and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
+- **(d)** The Secretary shall study and report to Congress, not later than two years after November 14, 1986 , on whether information respecting small payments should continue to be required to be reported under subsection (a) and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.

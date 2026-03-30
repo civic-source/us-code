@@ -3,9 +3,9 @@ title: "Section 2025 - Senate Garage"
 usc_title: 2
 usc_section: "2025"
 chapter: 30
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "2 U.S.C. § 2025"
-generated_at: "2026-03-30T05:40:50.980Z"
+generated_at: "2026-03-30T05:43:14.016Z"
 status: "active"
 ---
 

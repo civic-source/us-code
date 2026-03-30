@@ -3,9 +3,9 @@ title: "Section 1063 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1063"
 chapter: 14
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 1063"
-generated_at: "2026-03-30T05:41:31.830Z"
+generated_at: "2026-03-30T05:44:32.121Z"
 status: "repealed"
 ---
 

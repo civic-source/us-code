@@ -3,9 +3,9 @@ title: "Section 4115 - Unfair labor practices"
 usc_title: 22
 usc_section: "4115"
 chapter: 52
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 4115"
-generated_at: "2026-03-30T05:41:31.897Z"
+generated_at: "2026-03-30T05:44:32.186Z"
 status: "active"
 ---
 

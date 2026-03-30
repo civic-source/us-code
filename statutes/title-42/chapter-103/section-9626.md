@@ -3,9 +3,9 @@ title: "Section 9626 - Indian tribes"
 usc_title: 42
 usc_section: "9626"
 chapter: 103
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9626"
-generated_at: "2026-03-30T05:42:49.712Z"
+generated_at: "2026-03-30T05:45:31.973Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1545 - Congressional priority procedures for joint resolution or
 usc_title: 50
 usc_section: "1545"
 chapter: 33
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "50 U.S.C. § 1545"
-generated_at: "2026-03-30T05:42:55.094Z"
+generated_at: "2026-03-30T05:45:37.411Z"
 status: "active"
 ---
 

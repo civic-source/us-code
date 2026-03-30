@@ -3,9 +3,9 @@ title: "Section 21706 - Political activities"
 usc_title: 36
 usc_section: "21706"
 chapter: 217
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 21706"
-generated_at: "2026-03-30T05:41:54.560Z"
+generated_at: "2026-03-30T05:44:48.874Z"
 status: "active"
 ---
 

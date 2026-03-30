@@ -3,9 +3,9 @@ title: "Section 1443 - Provisions as controlling over other laws"
 usc_title: 42
 usc_section: "1443"
 chapter: 8
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1443"
-generated_at: "2026-03-30T05:42:49.483Z"
+generated_at: "2026-03-30T05:45:31.678Z"
 status: "active"
 ---
 

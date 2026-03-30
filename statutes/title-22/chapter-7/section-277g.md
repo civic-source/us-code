@@ -3,9 +3,9 @@ title: "Section 277g - Agreements to correct pollution of Rio Grande"
 usc_title: 22
 usc_section: "277g"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 277g"
-generated_at: "2026-03-30T05:41:31.816Z"
+generated_at: "2026-03-30T05:44:32.107Z"
 status: "active"
 ---
 

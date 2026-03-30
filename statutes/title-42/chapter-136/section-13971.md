@@ -3,9 +3,9 @@ title: "Section 13971 - Rural domestic violence, dating violence, sexual assault
 usc_title: 42
 usc_section: "13971"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13971"
-generated_at: "2026-03-30T05:42:49.792Z"
+generated_at: "2026-03-30T05:45:32.070Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(3)** working in cooperation with the community to develop education and prevention strategies directed toward such issues; and
   - **(4)** developing, enlarging, or strengthening programs addressing sexual assault, including sexual assault forensic examiner programs, Sexual Assault Response Teams, law enforcement training, and programs addressing rape kit backlogs.
   - **(5)** developing programs and strategies that focus on the specific needs of victims of domestic violence, dating violence, sexual assault, and stalking who reside in remote rural and geographically isolated areas, including addressing the challenges posed by the lack of access to shelters and victims services, and limited law enforcement resources and training, and providing training and resources to Community Health Aides involved in the delivery of Indian Health Service programs.
-- **(c)** Funds appropriated pursuant to this section shall be used only for specific programs and activities expressly described in subsection (a) of this section.
+- **(c)** Funds appropriated pursuant to this section shall be used only for specific programs and activities expressly described in subsection (a).
 - **(d)**
   - **(1)**
     - **(A)** Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title .
@@ -44,4 +44,4 @@ status: "active"
   - **(5)** Not less than 75 percent of the total amount made available for each fiscal year to carry out this section shall be allocated to eligible entities located in rural States.
 - **(e)**
   - **(1)** There are authorized to be appropriated $50,000,000 for each of fiscal years 2014 through 2018 to carry out this section.
-  - **(2)** In addition to funds received through a grant under subsection (b) of this section, a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796dd et seq.) to accomplish the objectives of this section.
+  - **(2)** In addition to funds received through a grant under subsection (b), a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796dd et seq.) to accomplish the objectives of this section.

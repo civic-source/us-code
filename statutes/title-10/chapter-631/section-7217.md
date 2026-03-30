@@ -3,9 +3,9 @@ title: "Section 7217 - Repealed. Pub. L. 101–510, div. A, title XIII , § 1322
 usc_title: 10
 usc_section: "7217"
 chapter: 631
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 7217"
-generated_at: "2026-03-30T05:41:02.908Z"
+generated_at: "2026-03-30T05:43:26.699Z"
 status: "repealed"
 ---
 

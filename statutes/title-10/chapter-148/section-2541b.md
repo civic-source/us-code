@@ -3,9 +3,9 @@ title: "Section 2541b - Administration"
 usc_title: 10
 usc_section: "2541b"
 chapter: 148
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 2541b"
-generated_at: "2026-03-30T05:41:02.877Z"
+generated_at: "2026-03-30T05:43:26.671Z"
 status: "active"
 ---
 

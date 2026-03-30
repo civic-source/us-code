@@ -3,9 +3,9 @@ title: "Section 3125 - Returns in the case of governmental employees in States, 
 usc_title: 26
 usc_section: "3125"
 chapter: 21
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 3125"
-generated_at: "2026-03-30T05:41:42.713Z"
+generated_at: "2026-03-30T05:44:41.449Z"
 status: "active"
 ---
 

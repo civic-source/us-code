@@ -3,9 +3,9 @@ title: "Section 1738a - Purpose"
 usc_title: 7
 usc_section: "1738a"
 chapter: 41
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 1738a"
-generated_at: "2026-03-30T05:40:58.106Z"
+generated_at: "2026-03-30T05:43:34.994Z"
 status: "active"
 ---
 

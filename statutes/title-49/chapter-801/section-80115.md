@@ -3,9 +3,9 @@ title: "Section 80115 - Limitation on use of judicial process to obtain possessi
 usc_title: 49
 usc_section: "80115"
 chapter: 801
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 80115"
-generated_at: "2026-03-30T05:42:56.987Z"
+generated_at: "2026-03-30T05:45:39.400Z"
 status: "active"
 ---
 

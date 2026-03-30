@@ -3,9 +3,9 @@ title: "Section 16983 - Grants to combat sexual abuse of children"
 usc_title: 42
 usc_section: "16983"
 chapter: 151
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 16983"
-generated_at: "2026-03-30T05:42:49.831Z"
+generated_at: "2026-03-30T05:45:32.114Z"
 status: "active"
 ---
 

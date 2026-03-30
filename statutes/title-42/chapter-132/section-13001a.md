@@ -3,9 +3,9 @@ title: "Section 13001a - Definitions"
 usc_title: 42
 usc_section: "13001a"
 chapter: 132
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13001a"
-generated_at: "2026-03-30T05:42:49.776Z"
+generated_at: "2026-03-30T05:45:32.052Z"
 status: "active"
 ---
 

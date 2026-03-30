@@ -3,9 +3,9 @@ title: "Section 288a - Privileges, exemptions, and immunities of international o
 usc_title: 22
 usc_section: "288a"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 288a"
-generated_at: "2026-03-30T05:41:31.823Z"
+generated_at: "2026-03-30T05:44:32.115Z"
 status: "active"
 ---
 

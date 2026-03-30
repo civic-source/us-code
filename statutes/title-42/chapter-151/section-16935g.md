@@ -3,9 +3,9 @@ title: "Section 16935g - Technical assistance"
 usc_title: 42
 usc_section: "16935g"
 chapter: 151
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 16935g"
-generated_at: "2026-03-30T05:42:49.830Z"
+generated_at: "2026-03-30T05:45:32.113Z"
 status: "active"
 ---
 

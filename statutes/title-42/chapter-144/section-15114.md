@@ -3,9 +3,9 @@ title: "Section 15114 - Staff development curriculum authorization"
 usc_title: 42
 usc_section: "15114"
 chapter: 144
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 15114"
-generated_at: "2026-03-30T05:42:49.809Z"
+generated_at: "2026-03-30T05:45:32.089Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
     - **(C)** nationally disseminate the curriculum and guidelines, including dissemination through—
       - **(i)** parent training and information centers funded under part D of the Individuals with Disabilities Education Act ( 20 U.S.C. 1451 et seq.);
       - **(ii)** community-based organizations of and for individuals with developmental disabilities and their families;
-      - **(iii)** entities funded under subchapter I of this chapter;
+      - **(iii)** entities funded under subchapter I;
       - **(iv)** centers for independent living;
       - **(v)** State educational agencies and local educational agencies;
       - **(vi)** entities operating appropriate medical facilities;

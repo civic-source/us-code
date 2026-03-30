@@ -3,9 +3,9 @@ title: "Section 134 - Coordination requirements for plans providing prescription
 usc_title: 42
 usc_section: "134"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-30T05:42:49.408Z"
+generated_at: "2026-03-30T05:45:31.587Z"
 status: "active"
 ---
 

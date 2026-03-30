@@ -3,9 +3,9 @@ title: "Section 1396o - Use of enrollment fees, premiums, deductions, cost shari
 usc_title: 42
 usc_section: "1396o"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1396o"
-generated_at: "2026-03-30T05:42:49.449Z"
+generated_at: "2026-03-30T05:45:31.639Z"
 status: "active"
 ---
 

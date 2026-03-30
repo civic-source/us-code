@@ -3,9 +3,9 @@ title: "Section 1357 - Items not subject to regular tax; depreciation; interest"
 usc_title: 26
 usc_section: "1357"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 1357"
-generated_at: "2026-03-30T05:41:42.693Z"
+generated_at: "2026-03-30T05:44:41.428Z"
 status: "active"
 ---
 

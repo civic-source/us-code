@@ -3,9 +3,9 @@ title: "Section 11707 - Liability when property is delivered in violation of rou
 usc_title: 49
 usc_section: "11707"
 chapter: 117
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 11707"
-generated_at: "2026-03-30T05:42:56.920Z"
+generated_at: "2026-03-30T05:45:39.331Z"
 status: "active"
 ---
 

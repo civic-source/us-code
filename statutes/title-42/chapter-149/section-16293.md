@@ -3,9 +3,9 @@ title: "Section 16293 - Carbon capture and sequestration research, development, 
 usc_title: 42
 usc_section: "16293"
 chapter: 149
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-30T05:42:49.823Z"
+generated_at: "2026-03-30T05:45:32.104Z"
 status: "active"
 ---
 

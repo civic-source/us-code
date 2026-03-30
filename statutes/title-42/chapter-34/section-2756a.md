@@ -3,9 +3,9 @@ title: "Section 2756a - Additional funds to conduct community service work-study
 usc_title: 42
 usc_section: "2756a"
 chapter: 34
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2756a"
-generated_at: "2026-03-30T05:42:49.541Z"
+generated_at: "2026-03-30T05:45:31.763Z"
 status: "active"
 ---
 

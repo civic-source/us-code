@@ -3,9 +3,9 @@ title: "Section 10841 - Restatement of bill of rights"
 usc_title: 42
 usc_section: "10841"
 chapter: 114
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10841"
-generated_at: "2026-03-30T05:42:49.739Z"
+generated_at: "2026-03-30T05:45:32.008Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
     - **(M)** Notwithstanding subparagraph (J), the right of access to (including the opportunities and facilities for private communication with) any available—
       - **(i)** rights protection service within the program or facility;
       - **(ii)** rights protection service within the State mental health system designed to be available to such person;
-      - **(iii)** system established under subchapter I of this chapter to protect and advocate the rights of individuals with mental illness; and
+      - **(iii)** system established under subchapter I to protect and advocate the rights of individuals with mental illness; and
       - **(iv)** qualified advocate;
     - **(N)** The right to exercise the rights described in this section without reprisal, including reprisal in the form of denial of any appropriate, available treatment.
     - **(O)** The right to referral as appropriate to other providers of mental health services upon discharge.

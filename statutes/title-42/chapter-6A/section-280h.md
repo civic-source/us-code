@@ -3,9 +3,9 @@ title: "Section 280h - Grants to promote childhood nutrition and physical activi
 usc_title: 42
 usc_section: "280h"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 280h"
-generated_at: "2026-03-30T05:42:49.225Z"
+generated_at: "2026-03-30T05:45:31.385Z"
 status: "active"
 ---
 
@@ -20,10 +20,10 @@ status: "active"
   - **(1)** develop, implement, disseminate, and evaluate school- and community-based strategies in States to reduce inactivity and improve dietary choices among children and adolescents;
   - **(2)** expand opportunities for physical activity programs in school- and community-based settings; and
   - **(3)** develop, implement, and evaluate programs that promote good eating habits and physical activity including opportunities for children with cognitive and physical disabilities.
-- **(d)** The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated for a fiscal year under subsection (h) of this section to permit the Director of the Centers for Disease Control and Prevention to—
+- **(d)** The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated for a fiscal year under subsection (h) to permit the Director of the Centers for Disease Control and Prevention to—
   - **(1)** provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
   - **(2)** disseminate information about effective strategies and interventions in preventing and treating obesity through the promotion of good nutrition and physical activity.
-- **(e)** Not to exceed 10 percent of the amount of a grant awarded to the State or political subdivision under subsection (a) of this section for a fiscal year may be used by the State or political subdivision for administrative expenses.
-- **(f)** A grant awarded under subsection (a) of this section shall be for a term of 3 years.
+- **(e)** Not to exceed 10 percent of the amount of a grant awarded to the State or political subdivision under subsection (a) for a fiscal year may be used by the State or political subdivision for administrative expenses.
+- **(f)** A grant awarded under subsection (a) shall be for a term of 3 years.
 - **(g)** In this section, the term “children and adolescents” means individuals who do not exceed 18 years of age.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.

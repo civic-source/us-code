@@ -3,9 +3,9 @@ title: "Section 1437o - Repealed. Pub. L. 101–625, title II , § 289(b), Nov. 
 usc_title: 42
 usc_section: "1437o"
 chapter: 8
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 1437o"
-generated_at: "2026-03-30T05:42:49.477Z"
+generated_at: "2026-03-30T05:45:31.672Z"
 status: "repealed"
 ---
 

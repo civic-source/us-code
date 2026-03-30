@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T05:42:56.974Z"
+generated_at: "2026-03-30T05:45:39.386Z"
 status: "active"
 ---
 
@@ -193,3 +193,12 @@ status: "active"
       - **(iii)** to maintain the property for residential, noncommercial use for the duration of the agreement;
       - **(iv)** to prohibit access to the airport from other properties through the property of the property owner; and
       - **(v)** to prohibit any aircraft refueling from occurring on the property.
+- **(t)**
+  - **(1)** Notwithstanding subsection (a)(13), an airport owner or operator who renews a covered lease shall not be treated as violating a written assurance requirement under this section as a result of such renewal.
+  - **(2)** In this subsection, the term “covered lease” means a lease—
+    - **(A)** originally entered into before the date of enactment of this subsection;
+    - **(B)** under which a nominal lease rate is provided;
+    - **(C)** under which the lessee is a Federal or State government entity; and
+    - **(D)** that supports the operation of military aircraft by the Air Force or Air National Guard—
+      - **(i)** at the airport; or
+      - **(ii)** remotely from the airport.

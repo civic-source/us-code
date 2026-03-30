@@ -3,9 +3,9 @@ title: "Section 631 - False representations as to liability of United States for
 usc_title: 12
 usc_section: "631"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 631"
-generated_at: "2026-03-30T05:41:07.808Z"
+generated_at: "2026-03-30T05:43:40.541Z"
 status: "active"
 ---
 

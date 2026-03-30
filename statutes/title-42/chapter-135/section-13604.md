@@ -3,9 +3,9 @@ title: "Section 13604 - Assisted applications"
 usc_title: 42
 usc_section: "13604"
 chapter: 135
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13604"
-generated_at: "2026-03-30T05:42:49.786Z"
+generated_at: "2026-03-30T05:45:32.063Z"
 status: "active"
 ---
 
@@ -13,4 +13,4 @@ status: "active"
 
 - **(a)** The Secretary shall provide that any individual or family applying for occupancy in federally assisted housing may include in the application for the housing the name, address, phone number, and other relevant information of a family member, friend, or social, health, advocacy, or other organization, and that the owner shall treat such information as confidential.
 - **(b)** The Secretary shall require the owner of any federally assisted housing receiving an application including such information to maintain such information for any applicants who become tenants of the housing, for the purposes of facilitating contact by the owner with such person or organization to assist in providing any services or special care for the tenant and assist in resolving any relevant tenancy issues arising during the tenancy of such tenant.
-- **(c)** An owner of federally assisted housing may not require any individual or family applying for occupancy in the housing to provide the information described in subsection (a) of this section.
+- **(c)** An owner of federally assisted housing may not require any individual or family applying for occupancy in the housing to provide the information described in subsection (a).

@@ -3,9 +3,9 @@ title: "Section 5584 - Repealed. Pub. L. 96–513, title III , § 321, Dec. 12, 
 usc_title: 10
 usc_section: "5584"
 chapter: 539
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 5584"
-generated_at: "2026-03-30T05:41:02.902Z"
+generated_at: "2026-03-30T05:43:26.693Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1675 - Confidentiality of medical quality assurance records; qua
 usc_title: 25
 usc_section: "1675"
 chapter: 18
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "25 U.S.C. § 1675"
-generated_at: "2026-03-30T05:41:25.770Z"
+generated_at: "2026-03-30T05:44:21.444Z"
 status: "active"
 ---
 

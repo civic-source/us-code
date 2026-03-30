@@ -3,9 +3,9 @@ title: "Section 15973 - Western integrated coal gasification demonstration proje
 usc_title: 42
 usc_section: "15973"
 chapter: 149
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 15973"
-generated_at: "2026-03-30T05:42:49.816Z"
+generated_at: "2026-03-30T05:45:32.097Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(c)** Notwithstanding the foregoing, and to the extent economically feasible, the demonstration project shall also be designed to demonstrate the ability to use a variety of types of coal (including subbituminous and bituminous coal with an energy content of up to 13,000 Btu/lb.) mined in the western United States.
 - **(d)** The demonstration project shall be located in a western State at an altitude of greater than 4,000 feet above sea level.
 - **(e)** The Federal share of the cost of the demonstration project shall be determined in accordance with section 16352 of this title .
-- **(f)** Notwithstanding subchapter XIII of this chapter, the demonstration project shall not be eligible for Federal loan guarantees.
+- **(f)** Notwithstanding subchapter XIII, the demonstration project shall not be eligible for Federal loan guarantees.

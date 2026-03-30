@@ -3,9 +3,9 @@ title: "Section 4602 - Congressional declaration of policy"
 usc_title: 50
 usc_section: "4602"
 chapter: 56
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "50 U.S.C. § 4602"
-generated_at: "2026-03-30T05:42:55.150Z"
+generated_at: "2026-03-30T05:45:37.472Z"
 status: "active"
 ---
 

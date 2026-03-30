@@ -3,9 +3,9 @@ title: "Section 9858c - Application and plan"
 usc_title: 42
 usc_section: "9858c"
 chapter: 105
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9858c"
-generated_at: "2026-03-30T05:42:49.721Z"
+generated_at: "2026-03-30T05:45:31.985Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** To be eligible to receive assistance under this subchapter, a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall by rule require, including—
   - **(1)** an assurance that the State will comply with the requirements of this subchapter; and
-  - **(2)** a State plan that meets the requirements of subsection (c) of this section.
-- **(b)** The State plan contained in the application under subsection (a) of this section shall be designed to be implemented during a 3-year period.
+  - **(2)** a State plan that meets the requirements of subsection (c).
+- **(b)** The State plan contained in the application under subsection (a) shall be designed to be implemented during a 3-year period.
 - **(c)**
   - **(1)** The State plan shall identify the lead agency designated or established under section 9858b of this title .
   - **(2)** The State plan shall: 1 1 So in original. Subpars. (D) and following do not continue from introductory provisions.

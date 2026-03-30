@@ -3,9 +3,9 @@ title: "Section 9101 - General definitions"
 usc_title: 20
 usc_section: "9101"
 chapter: 72
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 9101"
-generated_at: "2026-03-30T05:41:21.415Z"
+generated_at: "2026-03-30T05:44:02.707Z"
 status: "active"
 ---
 

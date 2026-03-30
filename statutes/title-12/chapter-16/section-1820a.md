@@ -3,9 +3,9 @@ title: "Section 1820a - Examination of investment companies"
 usc_title: 12
 usc_section: "1820a"
 chapter: 16
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 1820a"
-generated_at: "2026-03-30T05:41:07.868Z"
+generated_at: "2026-03-30T05:43:40.598Z"
 status: "active"
 ---
 

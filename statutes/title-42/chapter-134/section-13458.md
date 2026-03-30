@@ -3,9 +3,9 @@ title: "Section 13458 - Energy efficient lighting and building centers"
 usc_title: 42
 usc_section: "13458"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13458"
-generated_at: "2026-03-30T05:42:49.784Z"
+generated_at: "2026-03-30T05:45:32.061Z"
 status: "active"
 ---
 
@@ -22,11 +22,11 @@ status: "active"
   - **(6)** study the building energy needs of the region and make available region-specific energy efficiency information to facilitate the adoption of cost-effective energy efficiency improvements;
   - **(7)** assist educational institutions in establishing building energy efficiency engineering and technical programs and curricula; and
   - **(8)** evaluate the performance of the center in promoting building energy efficiency.
-- **(d)** Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992 , which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) of this section shall be eligible for a grant under this section.
+- **(d)** Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992 , which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) shall be eligible for a grant under this section.
 - **(e)** The Secretary shall select recipients of grants under this section on the basis of the following criteria:
   - **(1)** The capability of the grant recipient to establish a board of directors for the regional center composed of representatives from utilities, State and local governments, building trade and professional organizations, manufacturers, and nonprofit energy and environmental organizations.
   - **(2)** The demonstrated or potential resources available to the grant recipient for carrying out this subsection.
-  - **(3)** The demonstrated or potential ability of the grant recipient to promote building energy efficiency by carrying out the activities specified in subsection (c) of this section.
+  - **(3)** The demonstrated or potential ability of the grant recipient to promote building energy efficiency by carrying out the activities specified in subsection (c).
   - **(4)** The activities which the grant recipient proposes to carry out under the grant.
 - **(f)**
   - **(1)** The Federal share of a grant under this section shall be no more than 50 percent of the costs of establishing, and no more than 25 percent of the cost of operating the regional center.

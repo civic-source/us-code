@@ -3,9 +3,9 @@ title: "Section 4503d - Definitions"
 usc_title: 16
 usc_section: "4503d"
 chapter: 65
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 4503d"
-generated_at: "2026-03-30T05:41:19.617Z"
+generated_at: "2026-03-30T05:43:59.181Z"
 status: "active"
 ---
 

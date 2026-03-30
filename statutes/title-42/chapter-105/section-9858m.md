@@ -3,9 +3,9 @@ title: "Section 9858m - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9858m"
 chapter: 105
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9858m"
-generated_at: "2026-03-30T05:42:49.723Z"
+generated_at: "2026-03-30T05:45:31.988Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscal year for payments to Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
   - **(2)**
-    - **(A)** The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+    - **(A)** The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c).
     - **(B)** Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under section 9858 of this title , for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the “reservation year”) if—
       - **(i)** the amount appropriated under section 9858 of this title for the reservation year is greater than the amount appropriated under section 9858 of this title for fiscal year 2014; and
       - **(ii)** the Secretary ensures that the amount allotted to States under subsection (b) for the reservation year is not less than the amount allotted to States under subsection (b) for fiscal year 2014.
@@ -22,7 +22,7 @@ status: "active"
   - **(4)** The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title .
   - **(5)** The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 - **(b)**
-  - **(1)** From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+  - **(1)** From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
     - **(A)** an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
     - **(B)** an amount that bears the same ratio to 50 percent of such remainder as the product of the school lunch factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States.
   - **(2)** The term “young child factor” means the ratio of the number of children in the State under 5 years of age to the number of such children in all States as provided by the most recent annual estimates of population in the States by the Census Bureau of the Department of Commerce.
@@ -37,7 +37,7 @@ status: "active"
       - **(ii)** applied for the 2-year period beginning on October 1 of the first fiscal year beginning on the date such determination is made; and
       - **(iii)** equal to the average of the annual per capita incomes for the most recent period of 3 consecutive years for which satisfactory data are available from the Department of Commerce at the time such determination is made.
 - **(c)**
-  - **(1)** From amounts reserved under subsection (a)(2) of this section, the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
+  - **(1)** From amounts reserved under subsection (a)(2), the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
   - **(2)** An application for a grant or contract under this section shall provide that:
     - **(A)** The applicant will coordinate, to the maximum extent feasible, with the lead agency in the State or States in which the applicant will carry out programs or activities under this section.
     - **(B)** In the case of an applicant located in a State other than Alaska, California, or Oklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
@@ -57,12 +57,12 @@ status: "active"
         - **(I)** the Secretary determines that the decrease in the level of child care services provided by the Indian tribe or tribal organization is temporary; and
         - **(II)** the Indian tribe or tribal organization submits to the Secretary a plan that demonstrates that after the date on which the construction or renovation is completed—
     - **(D)** The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
-- **(d)** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+- **(d)** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 - **(e)**
-  - **(1)** Any portion of the allotment under subsection (b) of this section to a State that the Secretary determines is not required to carry out a State plan approved under section 9858c(d) of this title , in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
+  - **(1)** Any portion of the allotment under subsection (b) to a State that the Secretary determines is not required to carry out a State plan approved under section 9858c(d) of this title , in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
   - **(2)**
     - **(A)** The amount of any reallotment to which a State is entitled to under paragraph (1) shall be reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title .
     - **(B)** The amount of such reduction shall be similarly reallotted among States for which no reduction in an allotment or reallotment is required by this subsection.
-  - **(3)** For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) of this section to the State.
-  - **(4)** Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+  - **(3)** For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) to the State.
+  - **(4)** Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) in accordance with their respective needs.
 - **(f)** For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.

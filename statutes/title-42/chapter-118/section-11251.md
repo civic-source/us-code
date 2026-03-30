@@ -3,9 +3,9 @@ title: "Section 11251 - Research program and plan"
 usc_title: 42
 usc_section: "11251"
 chapter: 118
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11251"
-generated_at: "2026-03-30T05:42:49.743Z"
+generated_at: "2026-03-30T05:45:32.011Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Director of the National Institute of Mental Health shall conduct, or make grants for the conduct of, research relevant to appropriate services and specialized care for individuals with Alzheimer’s disease and related dementias and their families.
 - **(b)** The Director of the National Institute of Mental Health shall—
-  - **(1)** ensure that the research conducted under subsection (a) of this section includes research concerning—
+  - **(1)** ensure that the research conducted under subsection (a) includes research concerning—
     - **(A)** mental health services and treatment modalities relevant to the mental, behavioral, and psychological problems associated with Alzheimer’s disease and related dementias;
     - **(B)** the most effective methods for providing comprehensive multidimensional assessments to obtain information about the current functioning of, and needs for the care of, individuals with Alzheimer’s disease and related dementias;
     - **(C)** the optimal range, types, and cost-effectiveness of services and specialized care for individuals with Alzheimer’s disease and related dementias and for their families, in community and residential settings (including home care, day care, and respite care), and in institutional settings, particularly with respect to—

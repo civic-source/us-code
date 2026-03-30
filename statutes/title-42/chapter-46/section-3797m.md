@@ -3,9 +3,9 @@ title: "Section 3797m - Use of grants"
 usc_title: 42
 usc_section: "3797m"
 chapter: 46
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 3797m"
-generated_at: "2026-03-30T05:42:49.572Z"
+generated_at: "2026-03-30T05:45:31.808Z"
 status: "active"
 ---
 

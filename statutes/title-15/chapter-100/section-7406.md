@@ -3,9 +3,9 @@ title: "Section 7406 - National Institute of Standards and Technology programs"
 usc_title: 15
 usc_section: "7406"
 chapter: 100
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "15 U.S.C. § 7406"
-generated_at: "2026-03-30T05:41:10.976Z"
+generated_at: "2026-03-30T05:43:52.022Z"
 status: "active"
 ---
 

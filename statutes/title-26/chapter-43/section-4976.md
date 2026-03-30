@@ -3,9 +3,9 @@ title: "Section 4976 - Taxes with respect to funded welfare benefit plans"
 usc_title: 26
 usc_section: "4976"
 chapter: 43
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 4976"
-generated_at: "2026-03-30T05:41:42.732Z"
+generated_at: "2026-03-30T05:44:41.468Z"
 status: "active"
 ---
 

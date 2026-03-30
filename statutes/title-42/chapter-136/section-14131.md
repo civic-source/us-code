@@ -3,9 +3,9 @@ title: "Section 14131 - Quality assurance and proficiency testing standards"
 usc_title: 42
 usc_section: "14131"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14131"
-generated_at: "2026-03-30T05:42:49.798Z"
+generated_at: "2026-03-30T05:45:32.077Z"
 status: "active"
 ---
 
@@ -20,8 +20,8 @@ status: "active"
   - **(3)** The standards described in paragraphs (1) and (2) shall specify criteria for quality assurance and proficiency tests to be applied to the various types of DNA analyses used by forensic laboratories. The standards shall also include a system for grading proficiency testing performance to determine whether a laboratory is performing acceptably.
   - **(4)** Until such time as the advisory board has made recommendations to the Director of the Federal Bureau of Investigation and the Director has acted upon those recommendations, the quality assurance guidelines adopted by the technical working group on DNA analysis methods shall be deemed the Director’s standards for purposes of this section.
 - **(b)**
-  - **(1)** For administrative purposes, the advisory board appointed under subsection (a) of this section shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
-  - **(2)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a) of this section.
+  - **(1)** For administrative purposes, the advisory board appointed under subsection (a) shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
+  - **(2)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a).
   - **(3)** The DNA advisory board established under this section shall be separate and distinct from any other advisory board administered by the FBI, and is to be administered separately.
   - **(4)** The board shall cease to exist on the date 5 years after the initial appointments are made to the board, unless the existence of the board is extended by the Director of the Federal Bureau of Investigation.
 - **(c)**

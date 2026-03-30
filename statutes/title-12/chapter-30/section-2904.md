@@ -3,9 +3,9 @@ title: "Section 2904 - Report to Congress"
 usc_title: 12
 usc_section: "2904"
 chapter: 30
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 2904"
-generated_at: "2026-03-30T05:41:07.905Z"
+generated_at: "2026-03-30T05:43:40.633Z"
 status: "active"
 ---
 

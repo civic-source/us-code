@@ -3,9 +3,9 @@ title: "Section 280 - Representation in South Pacific Commission; appointment of
 usc_title: 22
 usc_section: "280"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 280"
-generated_at: "2026-03-30T05:41:31.816Z"
+generated_at: "2026-03-30T05:44:32.108Z"
 status: "active"
 ---
 

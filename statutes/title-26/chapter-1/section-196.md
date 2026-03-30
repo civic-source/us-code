@@ -3,9 +3,9 @@ title: "Section 196 - Deduction for certain unused business credits"
 usc_title: 26
 usc_section: "196"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 196"
-generated_at: "2026-03-30T05:41:42.596Z"
+generated_at: "2026-03-30T05:44:41.331Z"
 status: "active"
 ---
 

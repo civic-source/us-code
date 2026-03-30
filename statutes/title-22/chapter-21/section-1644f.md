@@ -3,9 +3,9 @@ title: "Section 1644f - Consolidated awards"
 usc_title: 22
 usc_section: "1644f"
 chapter: 21
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 1644f"
-generated_at: "2026-03-30T05:41:31.838Z"
+generated_at: "2026-03-30T05:44:32.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4227 - Unreviewed declarations; petition to pursue action as pri
 usc_title: 12
 usc_section: "4227"
 chapter: 43
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 4227"
-generated_at: "2026-03-30T05:41:07.919Z"
+generated_at: "2026-03-30T05:43:40.647Z"
 status: "active"
 ---
 

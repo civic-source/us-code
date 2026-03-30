@@ -3,9 +3,9 @@ title: "Section 11342 - Retention of interest earned"
 usc_title: 42
 usc_section: "11342"
 chapter: 119
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11342"
-generated_at: "2026-03-30T05:42:49.744Z"
+generated_at: "2026-03-30T05:45:32.012Z"
 status: "active"
 ---
 

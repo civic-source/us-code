@@ -3,9 +3,9 @@ title: "Section 13574 - Air quality enhancement program"
 usc_title: 42
 usc_section: "13574"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13574"
-generated_at: "2026-03-30T05:42:49.786Z"
+generated_at: "2026-03-30T05:45:32.063Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
   - **(3)** $40,000,000 for fiscal year 2009;
   - **(4)** $30,000,000 for fiscal year 2010; and
   - **(5)** $30,000,000 for fiscal year 2011.
-- **(d)** No technology, or level of emission reduction under subsection (a)(2) of this section shall be treated as adequately demonstrated for purpose of Section 1 1 So in original. Probably should be “purposes of section”. 7411 of this title, achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(2) of this title .
+- **(d)** No technology, or level of emission reduction under subsection (a)(2) shall be treated as adequately demonstrated for purpose of Section 1 1 So in original. Probably should be “purposes of section”. 7411 of this title, achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(2) of this title .

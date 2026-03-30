@@ -3,9 +3,9 @@ title: "Section 16358 - Strategic research portfolio analysis and coordination p
 usc_title: 42
 usc_section: "16358"
 chapter: 149
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 16358"
-generated_at: "2026-03-30T05:42:49.824Z"
+generated_at: "2026-03-30T05:45:32.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 918 - Collection of defaulted payments; special fund"
 usc_title: 33
 usc_section: "918"
 chapter: 18
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 918"
-generated_at: "2026-03-30T05:41:50.685Z"
+generated_at: "2026-03-30T05:44:46.455Z"
 status: "active"
 ---
 

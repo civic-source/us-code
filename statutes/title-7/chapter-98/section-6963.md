@@ -3,9 +3,9 @@ title: "Section 6963 - Reorganization of Forest Service"
 usc_title: 7
 usc_section: "6963"
 chapter: 98
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 6963"
-generated_at: "2026-03-30T05:40:58.183Z"
+generated_at: "2026-03-30T05:43:35.060Z"
 status: "active"
 ---
 

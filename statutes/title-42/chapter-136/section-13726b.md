@@ -3,9 +3,9 @@ title: "Section 13726b - Federal regulation of prisoner transport companies"
 usc_title: 42
 usc_section: "13726b"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13726b"
-generated_at: "2026-03-30T05:42:49.789Z"
+generated_at: "2026-03-30T05:45:32.065Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
   - **(8)** A requirement that when transporting violent prisoners, private prisoner transport companies notify local law enforcement officials 24 hours in advance of any scheduled stops in their jurisdiction.
   - **(9)** A requirement that in the event of an escape by a violent prisoner, private prisoner transport company officials shall immediately notify appropriate law enforcement officials in the jurisdiction where the escape occurs, and the governmental entity that contracted with the private prisoner transport company for the transport of the escaped violent prisoner.
   - **(10)** Minimum standards for the safety of violent prisoners in accordance with applicable Federal and State law.
-- **(c)** Except for the requirements of subsection (b)(6) of this section, the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
+- **(c)** Except for the requirements of subsection (b)(6), the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.

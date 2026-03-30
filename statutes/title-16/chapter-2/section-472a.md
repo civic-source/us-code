@@ -3,9 +3,9 @@ title: "Section 472a - Timber sales on National Forest System lands"
 usc_title: 16
 usc_section: "472a"
 chapter: 2
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 472a"
-generated_at: "2026-03-30T05:41:19.498Z"
+generated_at: "2026-03-30T05:43:59.054Z"
 status: "active"
 ---
 

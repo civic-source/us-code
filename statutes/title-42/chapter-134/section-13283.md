@@ -3,9 +3,9 @@ title: "Section 13283 - Discount payments"
 usc_title: 42
 usc_section: "13283"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13283"
-generated_at: "2026-03-30T05:42:49.780Z"
+generated_at: "2026-03-30T05:45:32.056Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary shall provide a discount payment to a proposer of a proposal selected under this part for purposes of reimbursing the proposer for a discount provided to the users if the proposer certifies to the Secretary that—
   - **(1)** the electric motor vehicles have been purchased or leased by a user or users in accordance with the requirements of this part; and
   - **(2)** the proposer has provided to the user or users a discount payment in accordance with the requirements of this part.
-- **(b)** Not later than 30 days after receipt from the proposer of certification that the Secretary determines satisfies the requirements of subsection (a) of this section, the Secretary shall pay to the proposer the full amount of the discount payment, to the extent provided in advance in appropriations Acts.
+- **(b)** Not later than 30 days after receipt from the proposer of certification that the Secretary determines satisfies the requirements of subsection (a), the Secretary shall pay to the proposer the full amount of the discount payment, to the extent provided in advance in appropriations Acts.
 - **(c)**
   - **(1)** The discount payment shall be no greater than—
     - **(A)** the price differential; or

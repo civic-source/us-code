@@ -3,9 +3,9 @@ title: "Section 2101 - Definitions; exclusions from definition of loss of employ
 usc_title: 29
 usc_section: "2101"
 chapter: 23
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "29 U.S.C. § 2101"
-generated_at: "2026-03-30T05:41:44.256Z"
+generated_at: "2026-03-30T05:44:42.674Z"
 status: "active"
 ---
 

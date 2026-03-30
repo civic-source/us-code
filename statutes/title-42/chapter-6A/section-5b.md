@@ -3,9 +3,9 @@ title: "Section 5b - Grants for ecstasy and other club drugs abuse prevention"
 usc_title: 42
 usc_section: "5b"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-30T05:42:49.243Z"
+generated_at: "2026-03-30T05:45:31.406Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administrator may make grants to, and enter into contracts and cooperative agreements with, public and nonprofit private entities to enable such entities—
   - **(1)** to carry out school-based programs concerning the dangers of the abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other drugs commonly referred to as “club drugs” using methods that are effective and science-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
   - **(2)** to carry out community-based abuse and addiction prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs that are effective and science-based.
-- **(b)** Amounts made available under a grant, contract or cooperative agreement under subsection (a) of this section shall be used for planning, establishing, or administering prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
+- **(b)** Amounts made available under a grant, contract or cooperative agreement under subsection (a) shall be used for planning, establishing, or administering prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
 - **(c)**
   - **(1)** Amounts provided to an entity under this section may be used—
     - **(A)** to carry out school-based programs that are focused on those districts with high or increasing rates of abuse and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs and targeted at populations that are most at risk to start abusing these drugs;

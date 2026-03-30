@@ -3,9 +3,9 @@ title: "Section 2129 - Repealed. Pub. L. 104–288 , § 9(a), Oct. 11, 1996 , 11
 usc_title: 22
 usc_section: "2129"
 chapter: 31
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2129"
-generated_at: "2026-03-30T05:41:31.842Z"
+generated_at: "2026-03-30T05:44:32.132Z"
 status: "repealed"
 ---
 

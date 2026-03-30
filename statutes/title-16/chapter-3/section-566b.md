@@ -3,9 +3,9 @@ title: "Section 566b - Annual appropriations; limitation on use of other funds f
 usc_title: 16
 usc_section: "566b"
 chapter: 3
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 566b"
-generated_at: "2026-03-30T05:41:19.512Z"
+generated_at: "2026-03-30T05:43:59.068Z"
 status: "active"
 ---
 

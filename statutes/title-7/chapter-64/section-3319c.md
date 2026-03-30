@@ -3,9 +3,9 @@ title: "Section 3319c - Repealed. Pub. L. 101–624, title XVI , § 1601(f)(1)(F
 usc_title: 7
 usc_section: "3319c"
 chapter: 64
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 3319c"
-generated_at: "2026-03-30T05:40:58.154Z"
+generated_at: "2026-03-30T05:43:35.034Z"
 status: "repealed"
 ---
 

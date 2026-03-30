@@ -3,9 +3,9 @@ title: "Section 14044f - Grants for law enforcement training programs"
 usc_title: 42
 usc_section: "14044f"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14044f"
-generated_at: "2026-03-30T05:42:49.797Z"
+generated_at: "2026-03-30T05:45:32.074Z"
 status: "active"
 ---
 
@@ -23,5 +23,5 @@ status: "active"
   - **(3)** train law enforcement or State or local prosecutors to utilize laws that prohibit acts of trafficking and to assist in the development of State and local laws to prohibit acts of trafficking.
 - **(d)**
   - **(1)** An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
-  - **(2)** Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c) of this section.
+  - **(2)** Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c).
 - **(e)** There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.

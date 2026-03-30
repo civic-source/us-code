@@ -3,9 +3,9 @@ title: "Section 255 - Home health services"
 usc_title: 42
 usc_section: "255"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 255"
-generated_at: "2026-03-30T05:42:49.212Z"
+generated_at: "2026-03-30T05:45:31.369Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(4)** Applications for grants and contracts under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
   - **(5)** There are authorized to be appropriated for grants and contracts under this subsection $2,000,000 for each of the fiscal years ending September 30, 1983 , September 30, 1984 , September 30, 1985 , September 30, 1986 , and September 30, 1987 .
 - **(c)** The Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives on or before January 1, 1984 , with respect to—
-  - **(1)** the impact of grants made and contracts entered into under subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981 );
-  - **(2)** the need to continue grants and loans under subsections (a) and (b) of this section (as such subsections are in effect on the day after January 4, 1983 ); and
+  - **(1)** the impact of grants made and contracts entered into under subsections (a) and (b) (as such subsections were in effect prior to October 1, 1981 );
+  - **(2)** the need to continue grants and loans under subsections (a) and (b) (as such subsections are in effect on the day after January 4, 1983 ); and
   - **(3)** the extent to which standards have been applied to the training of personnel who provide home health services.
 - **(d)** For purposes of this section, the term “home health services” has the meaning prescribed for the term by section 1395x(m) of this title .

@@ -3,22 +3,22 @@ title: "Section 13313 - Renewable Energy Advancement Awards"
 usc_title: 42
 usc_section: "13313"
 chapter: 134
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13313"
-generated_at: "2026-03-30T05:42:49.780Z"
+generated_at: "2026-03-30T05:45:32.056Z"
 status: "active"
 ---
 
 # § 13313. Renewable Energy Advancement Awards
 
-- **(a)** The Secretary shall make Renewable Energy Advancement Awards in recognition of developments that advance the practical application of biomass, geothermal, hydroelectric, photovoltaic, solar thermal, ocean thermal, and wind technologies to consumer, utility, or industrial uses, in accordance with this section. Except as provided in subsection (f) of this section, Renewable Energy Advancement Awards shall include a cash award.
+- **(a)** The Secretary shall make Renewable Energy Advancement Awards in recognition of developments that advance the practical application of biomass, geothermal, hydroelectric, photovoltaic, solar thermal, ocean thermal, and wind technologies to consumer, utility, or industrial uses, in accordance with this section. Except as provided in subsection (f), Renewable Energy Advancement Awards shall include a cash award.
 - **(b)** The Secretary, in consultation with the Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this section referred to as the “Advisory Committee”), under section 12005 of this title , shall develop criteria to be applied in the selection of award recipients under this section. Such criteria shall include the following:
   - **(1)** The degree to which the technological development increases the utilization of renewable energy.
   - **(2)** The degree to which the development will have a significant impact, by benefitting a large number of people, by reducing the costs of an important industrial process or commercial product or service, or otherwise.
   - **(3)** The ingenuity of the development.
   - **(4)** Whether the application has significant export potential.
   - **(5)** The environmental soundness of the development.
-- **(c)** Beginning in fiscal year 1994, and annually thereafter for a period of 10 years, the Secretary, in consultation with the Advisory Committee, shall select developments described in subsection (a) of this section that are worthy of receiving an award under this section, and shall make such awards.
+- **(c)** Beginning in fiscal year 1994, and annually thereafter for a period of 10 years, the Secretary, in consultation with the Advisory Committee, shall select developments described in subsection (a) that are worthy of receiving an award under this section, and shall make such awards.
 - **(d)** Awards may be made under this section only to individuals who are United States nationals or permanent resident aliens, or to non-Federal organizations that are organized under the laws of the United States or the laws of a State of the United States.
 - **(e)** There are authorized to be appropriated to the Secretary $50,000 for each of the fiscal years 1994, 1995, and 1996 for carrying out this section.
 - **(f)** The Secretary shall make honorary awards under this section if sufficient funds are not available for financial awards in any fiscal year.

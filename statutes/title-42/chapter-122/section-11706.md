@@ -3,9 +3,9 @@ title: "Section 11706 - Administrative grant for Papa Ola Lokahi"
 usc_title: 42
 usc_section: "11706"
 chapter: 122
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11706"
-generated_at: "2026-03-30T05:42:49.749Z"
+generated_at: "2026-03-30T05:45:32.020Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
     - **(C)** the availability of Native Hawaiian project funds, research projects and publications;
   - **(6)** the coordination of the health care programs and services provided to Native Hawaiians; and
   - **(7)** the administration of special project funds.
-- **(b)** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a) of this section.
+- **(b)** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a).

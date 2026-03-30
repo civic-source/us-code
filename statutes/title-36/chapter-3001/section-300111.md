@@ -3,9 +3,9 @@ title: "Section 300111 - Authority of the Comptroller General of the United Stat
 usc_title: 36
 usc_section: "300111"
 chapter: 3001
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 300111"
-generated_at: "2026-03-30T05:41:54.578Z"
+generated_at: "2026-03-30T05:44:48.891Z"
 status: "active"
 ---
 

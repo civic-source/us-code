@@ -3,9 +3,9 @@ title: "Section 2330a - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "2330a"
 chapter: 137
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 2330a"
-generated_at: "2026-03-30T05:41:02.864Z"
+generated_at: "2026-03-30T05:43:26.659Z"
 status: "active"
 ---
 

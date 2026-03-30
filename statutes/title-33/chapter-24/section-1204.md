@@ -3,9 +3,9 @@ title: "Section 1204 - Radiotelephone for exclusive use of master, person in cha
 usc_title: 33
 usc_section: "1204"
 chapter: 24
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 1204"
-generated_at: "2026-03-30T05:41:50.688Z"
+generated_at: "2026-03-30T05:44:46.458Z"
 status: "active"
 ---
 

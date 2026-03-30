@@ -3,9 +3,9 @@ title: "Section 1202 - Ransom money"
 usc_title: 18
 usc_section: "1202"
 chapter: 55
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "18 U.S.C. § 1202"
-generated_at: "2026-03-30T05:41:22.299Z"
+generated_at: "2026-03-30T05:43:55.990Z"
 status: "active"
 ---
 

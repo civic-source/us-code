@@ -3,9 +3,9 @@ title: "Section 10 - Addressing health care disparities"
 usc_title: 42
 usc_section: "10"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T05:42:49.372Z"
+generated_at: "2026-03-30T05:45:31.545Z"
 status: "active"
 ---
 

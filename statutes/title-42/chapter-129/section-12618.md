@@ -3,9 +3,9 @@ title: "Section 12618 - Authorized benefits for Corps members"
 usc_title: 42
 usc_section: "12618"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12618"
-generated_at: "2026-03-30T05:42:49.762Z"
+generated_at: "2026-03-30T05:45:32.036Z"
 status: "active"
 ---
 
@@ -23,8 +23,8 @@ status: "active"
   - **(7)** Supplies.
   - **(8)** Other services determined by the Director to be consistent with the purposes of the Program.
 - **(d)** As the Director determines appropriate, the Director may provide each member of the Corps with health care services, child care services, counseling services, and other supportive services.
-- **(e)** Upon completion of the agreed period of service with the Corps, a member shall elect to receive the educational assistance under subsection (f) of this section or the cash benefit under subsection (g) of this section.
-- **(f)** A Corps member who successfully completes a period of agreed service in the Corps may receive the national service educational award described in division D of this subchapter if the Corps member—
+- **(e)** Upon completion of the agreed period of service with the Corps, a member shall elect to receive the educational assistance under subsection (f) or the cash benefit under subsection (g).
+- **(f)** A Corps member who successfully completes a period of agreed service in the Corps may receive the national service educational award described in division D if the Corps member—
   - **(1)** serves in an approved national service position; and
   - **(2)** satisfies the eligibility requirements specified in section 12602 of this title with respect to service in that approved national service position.
-- **(g)** If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D of this subchapter, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
+- **(g)** If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D, the Director may provide for the provision of a suitable alternative benefit for the Corps member.

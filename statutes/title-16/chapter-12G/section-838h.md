@@ -3,9 +3,9 @@ title: "Section 838h - Uniform schedules of rates and charges for sale of Federa
 usc_title: 16
 usc_section: "838h"
 chapter: 12
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 838h"
-generated_at: "2026-03-30T05:41:19.546Z"
+generated_at: "2026-03-30T05:43:59.103Z"
 status: "active"
 ---
 

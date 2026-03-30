@@ -3,9 +3,9 @@ title: "Section 2133 - Commercial licenses"
 usc_title: 42
 usc_section: "2133"
 chapter: 23
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2133"
-generated_at: "2026-03-30T05:42:49.527Z"
+generated_at: "2026-03-30T05:45:31.739Z"
 status: "active"
 ---
 

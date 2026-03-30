@@ -3,9 +3,9 @@ title: "Section 12561 - Higher education innovative programs for community servi
 usc_title: 42
 usc_section: "12561"
 chapter: 129
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12561"
-generated_at: "2026-03-30T05:42:49.758Z"
+generated_at: "2026-03-30T05:45:32.029Z"
 status: "active"
 ---
 
@@ -72,4 +72,4 @@ status: "active"
   - **(10)** describe the needs that the proposed projects are designed to address, such as housing, economic development, infrastructure, health care, job training, education, crime prevention, urban planning, transportation, information technology, or child welfare.
 - **(g)** To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 ( 42 U.S.C. 2753(b)(2)(A) ) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) (relating to Federal Work-Study 1 1 So in original. Probably should not be capitalized. programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
 - **(h)** Notwithstanding section 12511 of this title , as used in this part, the term “student” means an individual who is enrolled in an institution of higher education on a full- or part-time basis.
-- **(i)** A participant in a program funded under this part shall be eligible for the national service educational award described in division D of this subchapter, if the participant served in an approved national service position.
+- **(i)** A participant in a program funded under this part shall be eligible for the national service educational award described in division D, if the participant served in an approved national service position.

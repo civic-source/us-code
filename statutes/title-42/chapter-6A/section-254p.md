@@ -3,9 +3,9 @@ title: "Section 254p - Special loans for former Corps members to enter private p
 usc_title: 42
 usc_section: "254p"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 254p"
-generated_at: "2026-03-30T05:42:49.210Z"
+generated_at: "2026-03-30T05:45:31.369Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
   - **(2)** to conduct such practice in accordance with section 254n(b)(1) of this title ; and
   - **(3)** to such additional conditions as the Secretary may require to carry out this section.
 - **(b)**
-  - **(1)** The amount of a loan under subsection (a) of this section to an individual shall not exceed $25,000.
+  - **(1)** The amount of a loan under subsection (a) to an individual shall not exceed $25,000.
   - **(2)** The interest rate for any such loan shall not exceed an annual rate of 5 percent.
 - **(c)** The Secretary may not make a loan under this section unless an application therefor has been submitted to, and approved by, the Secretary. The Secretary shall, by regulation, set interest rates and repayment terms for loans under this section.
-- **(d)** If the Secretary determines that an individual has breached a written agreement entered into under subsection (a) of this section, he shall, as soon as practicable after making such determination, notify the individual of such determination. If within 60 days after the date of giving such notice, such individual is not practicing his profession in accordance with the agreement under such subsection and has not provided assurances satisfactory to the Secretary that he will not knowingly violate such agreement again, the United States shall be entitled to recover from such individual—
-  - **(1)** in the case of an individual who has received a grant under this section (as in effect prior to October 1, 1984 ), an amount determined under section 254 o (b) of this title, except that in applying the formula contained in such section “ϕ” shall be the sum of the amount of the grant made under subsection (a) of this section to such individual and the interest on such amount which would be payable if at the time it was paid it was a loan bearing interest at the maximum legal prevailing rate, “t” shall be the number of months that such individual agreed to practice his profession under such agreement, and “s” shall be the number of months that such individual practices his profession in accordance with such agreement; and
+- **(d)** If the Secretary determines that an individual has breached a written agreement entered into under subsection (a), he shall, as soon as practicable after making such determination, notify the individual of such determination. If within 60 days after the date of giving such notice, such individual is not practicing his profession in accordance with the agreement under such subsection and has not provided assurances satisfactory to the Secretary that he will not knowingly violate such agreement again, the United States shall be entitled to recover from such individual—
+  - **(1)** in the case of an individual who has received a grant under this section (as in effect prior to October 1, 1984 ), an amount determined under section 254 o (b) of this title, except that in applying the formula contained in such section “ϕ” shall be the sum of the amount of the grant made under subsection (a) to such individual and the interest on such amount which would be payable if at the time it was paid it was a loan bearing interest at the maximum legal prevailing rate, “t” shall be the number of months that such individual agreed to practice his profession under such agreement, and “s” shall be the number of months that such individual practices his profession in accordance with such agreement; and
   - **(2)** in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.

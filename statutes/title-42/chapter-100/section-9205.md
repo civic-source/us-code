@@ -3,16 +3,16 @@ title: "Section 9205 - Technology application programs"
 usc_title: 42
 usc_section: "9205"
 chapter: 100
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 9205"
-generated_at: "2026-03-30T05:42:49.703Z"
+generated_at: "2026-03-30T05:45:31.962Z"
 status: "active"
 ---
 
 # § 9205. Technology application programs
 
 - **(a)** The Secretary shall establish a technology application program for wind energy systems to achieve the purposes of this chapter by reduction in unit costs of wind energy systems through mass production and by determination of operating and maintenance costs through broad operational systems experience.
-- **(b)** In achieving the objectives of this section, the Secretary shall solicit and evaluate proposals for Federal assistance pursuant to paragraphs (1), (2), and (3) of subsection (c) of this section for investigating, purchasing, and installing such wind energy systems from public or private entities wishing to utilize wind energy systems.
+- **(b)** In achieving the objectives of this section, the Secretary shall solicit and evaluate proposals for Federal assistance pursuant to paragraphs (1), (2), and (3) of subsection (c) for investigating, purchasing, and installing such wind energy systems from public or private entities wishing to utilize wind energy systems.
 - **(c)** In achieving the objectives of this section, the Secretary is authorized to use various forms of Federal assistance including, but not limited to—
   - **(1)** contracts and cooperative agreements;
   - **(2)** grants;

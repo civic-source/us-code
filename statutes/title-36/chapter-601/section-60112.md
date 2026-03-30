@@ -3,9 +3,9 @@ title: "Section 60112 - Annual report"
 usc_title: 36
 usc_section: "60112"
 chapter: 601
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 60112"
-generated_at: "2026-03-30T05:41:54.565Z"
+generated_at: "2026-03-30T05:44:48.878Z"
 status: "active"
 ---
 

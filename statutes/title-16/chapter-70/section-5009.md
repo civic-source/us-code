@@ -3,9 +3,9 @@ title: "Section 5009 - Unlawful activities"
 usc_title: 16
 usc_section: "5009"
 chapter: 70
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 5009"
-generated_at: "2026-03-30T05:41:19.620Z"
+generated_at: "2026-03-30T05:43:59.184Z"
 status: "active"
 ---
 

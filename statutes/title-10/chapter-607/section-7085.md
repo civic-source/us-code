@@ -3,9 +3,9 @@ title: "Section 7085 - Computation of life annuity"
 usc_title: 10
 usc_section: "7085"
 chapter: 607
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "10 U.S.C. § 7085"
-generated_at: "2026-03-30T05:41:02.907Z"
+generated_at: "2026-03-30T05:43:26.699Z"
 status: "active"
 ---
 

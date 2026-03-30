@@ -3,9 +3,9 @@ title: "Section 5981 - Short title"
 usc_title: 20
 usc_section: "5981"
 chapter: 68
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 5981"
-generated_at: "2026-03-30T05:41:21.383Z"
+generated_at: "2026-03-30T05:44:02.678Z"
 status: "active"
 ---
 

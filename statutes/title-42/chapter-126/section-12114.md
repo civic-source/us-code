@@ -3,16 +3,16 @@ title: "Section 12114 - Illegal use of drugs and alcohol"
 usc_title: 42
 usc_section: "12114"
 chapter: 126
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12114"
-generated_at: "2026-03-30T05:42:49.753Z"
+generated_at: "2026-03-30T05:45:32.024Z"
 status: "active"
 ---
 
 # § 12114. Illegal use of drugs and alcohol
 
 - **(a)** For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
-- **(b)** Nothing in subsection (a) of this section shall be construed to exclude as a qualified individual with a disability an individual who—
+- **(b)** Nothing in subsection (a) shall be construed to exclude as a qualified individual with a disability an individual who—
   - **(1)** has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
   - **(2)** is participating in a supervised rehabilitation program and is no longer engaging in such use; or
   - **(3)** is erroneously regarded as engaging in such use, but is not engaging in such use;
@@ -30,4 +30,4 @@ status: "active"
   - **(2)** Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal use of drugs by job applicants or employees or making employment decisions based on such test results.
 - **(e)** Nothing in this subchapter shall be construed to encourage, prohibit, restrict, or authorize the otherwise lawful exercise by entities subject to the jurisdiction of the Department of Transportation of authority to—
   - **(1)** test employees of such entities in, and applicants for, positions involving safety-sensitive duties for the illegal use of drugs and for on-duty impairment by alcohol; and
-  - **(2)** remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c) of this section.
+  - **(2)** remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c).

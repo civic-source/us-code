@@ -3,9 +3,9 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-03-30T05:42:49.201Z"
+generated_at: "2026-03-30T05:45:31.359Z"
 status: "active"
 ---
 
@@ -23,8 +23,8 @@ status: "active"
     - **(G)** deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety; and
     - **(H)** ensure the adequate physical security of the stockpile.
 - **(b)**
-  - **(1)** The Secretary shall award contracts, enter into cooperative agreements, or carry out such other activities as may reasonably be required in order to ensure that the stockpile under subsection (a) of this section includes an amount of vaccine against smallpox as determined by such Secretary to be sufficient to meet the health security needs of the United States.
-  - **(2)** Nothing in this section shall be construed to limit the private distribution, purchase, or sale of vaccines from sources other than the stockpile described in subsection (a) of this section.
+  - **(1)** The Secretary shall award contracts, enter into cooperative agreements, or carry out such other activities as may reasonably be required in order to ensure that the stockpile under subsection (a) includes an amount of vaccine against smallpox as determined by such Secretary to be sufficient to meet the health security needs of the United States.
+  - **(2)** Nothing in this section shall be construed to limit the private distribution, purchase, or sale of vaccines from sources other than the stockpile described in subsection (a).
 - **(c)**
   - **(1)**
     - **(A)** A security countermeasure may, in accordance with this subsection, be procured with amounts in the special reserve fund as defined in subsection (h).
@@ -62,7 +62,7 @@ status: "active"
       - **(ii)** specifications for the countermeasure under subparagraph (B); and
       - **(iii)** the commitment described in subparagraph (A)(ii).
   - **(5)**
-    - **(A)** The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) of this section pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a “procurement under this subsection”).
+    - **(A)** The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a “procurement under this subsection”).
     - **(B)** In making a determination under subparagraph (A) with respect to a security countermeasure, the Secretary shall determine and consider the following:
       - **(i)** The quantities of the product that will be needed to meet the stockpile needs.
       - **(ii)** The feasibility of production and delivery within 10 years of sufficient quantities of the product.
@@ -108,13 +108,13 @@ status: "active"
   - **(8)**
     - **(A)** In carrying out activities under this section, the Homeland Security Secretary and the Secretary are authorized, subject to subparagraph (B), to enter into interagency agreements and other collaborative undertakings with other agencies of the United States Government. Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31 , except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.
     - **(B)** An agreement or undertaking under this paragraph shall not authorize another agency to exercise the authorities provided by this section to the Homeland Security Secretary or to the Secretary.
-- **(d)** No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) of this section are stored.
-- **(e)** For purposes of subsection (a) of this section, the term “stockpile” includes—
-  - **(1)** a physical accumulation (at one or more locations) of the supplies described in subsection (a) of this section; or
-  - **(2)** a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a) of this section.
+- **(d)** No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) are stored.
+- **(e)** For purposes of subsection (a), the term “stockpile” includes—
+  - **(1)** a physical accumulation (at one or more locations) of the supplies described in subsection (a); or
+  - **(2)** a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
 - **(f)**
-  - **(1)** For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
-  - **(2)** For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+  - **(1)** For the purpose of carrying out subsection (a), there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+  - **(2)** For the purpose of carrying out subsection (b), there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 - **(g)**
   - **(1)** In addition to amounts appropriated to the special reserve fund prior to March 13, 2013 , there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title (relating to the Biomedical Advanced Research and Development Authority), $2,800,000,000 for the period of fiscal years 2014 through 2018. Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019 .
   - **(2)** The Secretary may utilize not more than 50 percent of the amounts authorized to be appropriated under paragraph (1) to carry out section 247d–7e of this title (related to the Biomedical Advanced Research and Development Authority). Amounts authorized to be appropriated under this subsection to carry out section 247d–7e of this title are in addition to amounts otherwise authorized to be appropriated to carry out such section.

@@ -3,9 +3,9 @@ title: "Section 2327 - Tribally controlled postsecondary career and technical in
 usc_title: 20
 usc_section: "2327"
 chapter: 44
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 2327"
-generated_at: "2026-03-30T05:41:21.367Z"
+generated_at: "2026-03-30T05:44:02.662Z"
 status: "active"
 ---
 

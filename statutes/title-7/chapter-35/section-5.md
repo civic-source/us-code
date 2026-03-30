@@ -3,9 +3,9 @@ title: "Section 5 - Treatment of multiyear program contract payments"
 usc_title: 7
 usc_section: "5"
 chapter: 35
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T05:40:58.073Z"
+generated_at: "2026-03-30T05:43:34.968Z"
 status: "active"
 ---
 

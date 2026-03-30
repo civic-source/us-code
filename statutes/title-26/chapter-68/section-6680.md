@@ -3,9 +3,9 @@ title: "Section 6680 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(10)(A)
 usc_title: 26
 usc_section: "6680"
 chapter: 68
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 6680"
-generated_at: "2026-03-30T05:41:42.773Z"
+generated_at: "2026-03-30T05:44:41.509Z"
 status: "repealed"
 ---
 

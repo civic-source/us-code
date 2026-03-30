@@ -3,9 +3,9 @@ title: "Section 1156 - Unused immigrant visas"
 usc_title: 8
 usc_section: "1156"
 chapter: 12
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "8 U.S.C. § 1156"
-generated_at: "2026-03-30T05:40:55.354Z"
+generated_at: "2026-03-30T05:43:22.167Z"
 status: "active"
 ---
 

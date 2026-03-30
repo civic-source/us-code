@@ -3,9 +3,9 @@ title: "Section 292j - Powers and responsibilities of Secretary"
 usc_title: 42
 usc_section: "292j"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 292j"
-generated_at: "2026-03-30T05:42:49.253Z"
+generated_at: "2026-03-30T05:45:31.419Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17504 - Rule of construction"
 usc_title: 42
 usc_section: "17504"
 chapter: 153
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 17504"
-generated_at: "2026-03-30T05:42:49.841Z"
+generated_at: "2026-03-30T05:45:32.125Z"
 status: "active"
 ---
 

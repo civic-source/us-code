@@ -3,9 +3,9 @@ title: "Section 2692 - Repealed. Pub. L. 91–211, title I , § 104, Mar. 13, 19
 usc_title: 42
 usc_section: "2692"
 chapter: 33
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2692"
-generated_at: "2026-03-30T05:42:49.541Z"
+generated_at: "2026-03-30T05:45:31.762Z"
 status: "repealed"
 ---
 

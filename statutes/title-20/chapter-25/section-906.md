@@ -3,9 +3,9 @@ title: "Section 906 - Entitlements in addition to basic compensation"
 usc_title: 20
 usc_section: "906"
 chapter: 25
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 906"
-generated_at: "2026-03-30T05:41:21.290Z"
+generated_at: "2026-03-30T05:44:02.585Z"
 status: "active"
 ---
 

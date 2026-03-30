@@ -3,9 +3,9 @@ title: "Section 15251 - Authorization of a Badge"
 usc_title: 42
 usc_section: "15251"
 chapter: 145
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 15251"
-generated_at: "2026-03-30T05:42:49.809Z"
+generated_at: "2026-03-30T05:45:32.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3494 - Certification of genuineness of foreign document"
 usc_title: 18
 usc_section: "3494"
 chapter: 223
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "18 U.S.C. § 3494"
-generated_at: "2026-03-30T05:41:22.325Z"
+generated_at: "2026-03-30T05:43:56.014Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-30T05:42:49.228Z"
+generated_at: "2026-03-30T05:45:31.388Z"
 status: "active"
 ---
 
 # § 282. Director of National Institutes of Health
 
-- **(a)** The National Institutes of Health shall be headed by the Director of NIH who shall be appointed by the President by and with the advice and consent of the Senate. The Director of NIH shall perform functions as provided under subsection (b) of this section and as the Secretary may otherwise prescribe.
+- **(a)** The National Institutes of Health shall be headed by the Director of NIH who shall be appointed by the President by and with the advice and consent of the Senate. The Director of NIH shall perform functions as provided under subsection (b) and as the Secretary may otherwise prescribe.
 - **(b)** In carrying out the purposes of section 241 of this title , the Secretary, acting through the Director of NIH—
   - **(1)** shall carry out this subchapter, including being responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;
   - **(2)** shall coordinate and oversee the operation of the national research institutes, national centers, and administrative entities within the National Institutes of Health;

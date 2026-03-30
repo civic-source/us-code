@@ -3,9 +3,9 @@ title: "Section 902 - Subject matter of protection"
 usc_title: 17
 usc_section: "902"
 chapter: 9
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "17 U.S.C. § 902"
-generated_at: "2026-03-30T05:41:12.867Z"
+generated_at: "2026-03-30T05:43:54.004Z"
 status: "active"
 ---
 

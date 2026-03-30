@@ -3,9 +3,9 @@ title: "Section 1161h - Improving college enrollment by secondary schools"
 usc_title: 20
 usc_section: "1161h"
 chapter: 28
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 1161h"
-generated_at: "2026-03-30T05:41:21.345Z"
+generated_at: "2026-03-30T05:44:02.641Z"
 status: "active"
 ---
 

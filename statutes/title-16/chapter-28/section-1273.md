@@ -3,9 +3,9 @@ title: "Section 1273 - National wild and scenic rivers system"
 usc_title: 16
 usc_section: "1273"
 chapter: 28
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 1273"
-generated_at: "2026-03-30T05:41:19.559Z"
+generated_at: "2026-03-30T05:43:59.117Z"
 status: "active"
 ---
 

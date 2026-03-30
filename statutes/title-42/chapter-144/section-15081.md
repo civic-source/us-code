@@ -3,9 +3,9 @@ title: "Section 15081 - Purpose"
 usc_title: 42
 usc_section: "15081"
 chapter: 144
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 15081"
-generated_at: "2026-03-30T05:42:49.808Z"
+generated_at: "2026-03-30T05:45:32.088Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
   - **(2)** support the development of national and State policies that reinforce and promote, with the support of families, guardians, advocates, and communities, of individuals with developmental disabilities, the self-determination, independence, productivity, and integration and inclusion in all facets of community life of such individuals through—
     - **(A)** family support activities;
     - **(B)** data collection and analysis;
-    - **(C)** technical assistance to entities funded under parts B and D of this subchapter, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
+    - **(C)** technical assistance to entities funded under parts B and D, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
     - **(D)** other projects of sufficient size and scope that hold promise to expand or improve opportunities for such individuals, including—
       - **(i)** projects that provide technical assistance for the development of information and referral systems;
       - **(ii)** projects that provide technical assistance to self-advocacy organizations of individuals with developmental disabilities;

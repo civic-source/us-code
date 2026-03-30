@@ -3,15 +3,15 @@ title: "Section 11842 - Evaluation of drug abuse education and prevention effort
 usc_title: 42
 usc_section: "11842"
 chapter: 123
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 11842"
-generated_at: "2026-03-30T05:42:49.751Z"
+generated_at: "2026-03-30T05:45:32.021Z"
 status: "active"
 ---
 
 # § 11842. Evaluation of drug abuse education and prevention efforts
 
 - **(a)** The Secretary of Health and Human Services shall develop and conduct a structured evaluation of the different approaches utilized across the Nation to reduce drug abuse.
-- **(b)** The Secretary of Health and Human Services may make grants to or enter into contracts with appropriate entities for the purpose of conducting the evaluations required by subsection (a) of this section.
-- **(c)** The Secretary shall submit a report based on the evaluations prepared under subsection (a) of this section not later than 1 year after November 18, 1988 , and another report based on such evaluations not later than 3 years after November 18, 1988 . A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994 .
+- **(b)** The Secretary of Health and Human Services may make grants to or enter into contracts with appropriate entities for the purpose of conducting the evaluations required by subsection (a).
+- **(c)** The Secretary shall submit a report based on the evaluations prepared under subsection (a) not later than 1 year after November 18, 1988 , and another report based on such evaluations not later than 3 years after November 18, 1988 . A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994 .
 - **(d)** To carry out this section, there are authorized to be appropriated $12,000,000 in fiscal year 1989, and $15,000,000 for each of the fiscal years 1990 through 1993.

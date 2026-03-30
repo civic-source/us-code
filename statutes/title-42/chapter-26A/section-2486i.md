@@ -3,9 +3,9 @@ title: "Section 2486i - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2486i"
 chapter: 26
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 2486i"
-generated_at: "2026-03-30T05:42:49.540Z"
+generated_at: "2026-03-30T05:45:31.761Z"
 status: "repealed"
 ---
 

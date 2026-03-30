@@ -3,9 +3,9 @@ title: "Section 3350 - Definitions"
 usc_title: 12
 usc_section: "3350"
 chapter: 34
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 3350"
-generated_at: "2026-03-30T05:41:07.909Z"
+generated_at: "2026-03-30T05:43:40.638Z"
 status: "active"
 ---
 

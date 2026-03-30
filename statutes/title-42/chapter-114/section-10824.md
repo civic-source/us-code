@@ -3,9 +3,9 @@ title: "Section 10824 - Reports by Secretary"
 usc_title: 42
 usc_section: "10824"
 chapter: 114
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 10824"
-generated_at: "2026-03-30T05:42:49.739Z"
+generated_at: "2026-03-30T05:45:32.008Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
     - **(D)** the coordination among such systems, activities, and mechanisms;
   - **(3)** a specification of the number of systems established with allotments under this subchapter and of whether each such system was established by a public or nonprofit private entity; and
   - **(4)** recommendations for activities and services to improve the protection and advocacy of the rights of individuals with mental illness and a description of needs for such activities and services which have not been met by systems established under this subchapter.
-- **(b)** In preparing each statement required by subsection (a) of this section, the Secretary shall use and include information submitted to the Secretary in the reports required under section 10805(a)(7) of this title .
+- **(b)** In preparing each statement required by subsection (a), the Secretary shall use and include information submitted to the Secretary in the reports required under section 10805(a)(7) of this title .

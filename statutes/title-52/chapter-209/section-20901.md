@@ -3,9 +3,9 @@ title: "Section 20901 - Payments to States for activities to improve administrat
 usc_title: 52
 usc_section: "20901"
 chapter: 209
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "52 U.S.C. § 20901"
-generated_at: "2026-03-30T05:43:00.331Z"
+generated_at: "2026-03-30T05:45:41.271Z"
 status: "active"
 ---
 

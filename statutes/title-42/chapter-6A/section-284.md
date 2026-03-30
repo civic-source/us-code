@@ -3,9 +3,9 @@ title: "Section 284 - Directors of national research institutes"
 usc_title: 42
 usc_section: "284"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 284"
-generated_at: "2026-03-30T05:42:49.230Z"
+generated_at: "2026-03-30T05:45:31.392Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
       - **(i)** if the direct cost of the grant or cooperative agreement to be made does not exceed $50,000, such grant or cooperative agreement may be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title , and
       - **(ii)** if the direct cost of the grant or cooperative agreement to be made exceeds $50,000, such grant or cooperative agreement may be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title and is recommended under section 284a(a)(3)(A)(ii) of this title by the advisory council for the national research institute involved; and
     - **(C)** shall, subject to section 300cc–40c(d)(2) of this title , receive from the President and the Office of Management and Budget directly all funds appropriated by the Congress for obligation and expenditure by the Institute.
-- **(c)** In carrying out subsection (b) of this section, each Director of a national research institute—
+- **(c)** In carrying out subsection (b), each Director of a national research institute—
   - **(1)** shall coordinate, as appropriate, the activities of the institute with similar programs of other public and private entities;
   - **(2)** shall cooperate with the Directors of the other national research institutes in the development and support of multidisciplinary research and research that involves more than one institute;
   - **(3)** may, in consultation with the advisory council for the Institute and with the approval of the Director of NIH—

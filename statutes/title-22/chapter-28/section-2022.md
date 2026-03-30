@@ -3,9 +3,9 @@ title: "Section 2022 - Purpose of participation; reports to Congress"
 usc_title: 22
 usc_section: "2022"
 chapter: 28
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2022"
-generated_at: "2026-03-30T05:41:31.840Z"
+generated_at: "2026-03-30T05:44:32.130Z"
 status: "active"
 ---
 

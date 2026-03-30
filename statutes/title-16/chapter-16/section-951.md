@@ -3,9 +3,9 @@ title: "Section 951 - Definitions"
 usc_title: 16
 usc_section: "951"
 chapter: 16
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 951"
-generated_at: "2026-03-30T05:41:19.550Z"
+generated_at: "2026-03-30T05:43:59.108Z"
 status: "active"
 ---
 

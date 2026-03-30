@@ -3,9 +3,9 @@ title: "Section 403 - Highway safety research and development"
 usc_title: 23
 usc_section: "403"
 chapter: 4
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-30T05:41:24.840Z"
+generated_at: "2026-03-30T05:44:20.658Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
     - **(A)** describes the progress made in carrying out the collaborative research effort; and
     - **(B)** includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
   - **(5)** In this subsection:
-    - **(A)** The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in section 30102(a)(6) of title 49 ) by an individual whose blood alcohol content is at or above the legal limit.
+    - **(A)** The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in section 30102(a)(6) of title 49 2 2 See References in Text note below. ) by an individual whose blood alcohol content is at or above the legal limit.
     - **(B)** The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 - **(i)** The Secretary shall establish procedures and guidelines to ensure that any person participating in a program or activity that collects data on drug or alcohol use by drivers of motor vehicles and is carried out under this section is informed that the program or activity is voluntary.
 - **(j)** The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.

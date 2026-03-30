@@ -3,9 +3,9 @@ title: "Section 6803 - Public participation"
 usc_title: 16
 usc_section: "6803"
 chapter: 87
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 6803"
-generated_at: "2026-03-30T05:41:19.629Z"
+generated_at: "2026-03-30T05:43:59.193Z"
 status: "active"
 ---
 

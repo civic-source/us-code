@@ -3,9 +3,9 @@ title: "Section 4516 - Designation of energy as a strategic and critical materia
 usc_title: 50
 usc_section: "4516"
 chapter: 55
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "50 U.S.C. § 4516"
-generated_at: "2026-03-30T05:42:55.146Z"
+generated_at: "2026-03-30T05:45:37.470Z"
 status: "active"
 ---
 

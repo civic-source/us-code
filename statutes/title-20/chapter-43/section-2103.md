@@ -3,9 +3,9 @@ title: "Section 2103 - American Folklife Center"
 usc_title: 20
 usc_section: "2103"
 chapter: 43
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 2103"
-generated_at: "2026-03-30T05:41:21.364Z"
+generated_at: "2026-03-30T05:44:02.659Z"
 status: "active"
 ---
 

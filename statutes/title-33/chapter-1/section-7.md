@@ -3,9 +3,9 @@ title: "Section 7 - Use of Government iron pier in Delaware Bay"
 usc_title: 33
 usc_section: "7"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "33 U.S.C. § 7"
-generated_at: "2026-03-30T05:41:50.662Z"
+generated_at: "2026-03-30T05:44:46.431Z"
 status: "active"
 ---
 

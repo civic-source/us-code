@@ -3,9 +3,9 @@ title: "Section 12874 - Homeownership program requirements"
 usc_title: 42
 usc_section: "12874"
 chapter: 130
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 12874"
-generated_at: "2026-03-30T05:42:49.774Z"
+generated_at: "2026-03-30T05:45:32.048Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(A)** such encumbrance will not threaten the long-term availability of the property for occupancy by low-income families;
     - **(B)** neither the Federal Government nor the public housing agency will be exposed to undue risks related to action that may have to be taken pursuant to paragraph (3);
     - **(C)** any debt obligation can be serviced from project income, including operating assistance; and
-    - **(D)** the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this part.
+    - **(D)** the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this part.
   - **(3)** Any lender that provides financing in connection with a homeownership program under this part shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
 - **(f)** The application shall include a plan ensuring that the unit—
   - **(1)** will be free from any defects that pose a danger to health or safety before transfer of an ownership interest in, or shares representing, a unit to an eligible family; and

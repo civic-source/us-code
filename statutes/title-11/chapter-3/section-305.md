@@ -3,9 +3,9 @@ title: "Section 305 - Abstention"
 usc_title: 11
 usc_section: "305"
 chapter: 3
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "11 U.S.C. § 305"
-generated_at: "2026-03-30T05:41:05.283Z"
+generated_at: "2026-03-30T05:43:37.878Z"
 status: "active"
 ---
 

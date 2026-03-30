@@ -3,9 +3,9 @@ title: "Section 7442 - Professional development for teachers and education profe
 usc_title: 20
 usc_section: "7442"
 chapter: 70
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "20 U.S.C. § 7442"
-generated_at: "2026-03-30T05:41:21.405Z"
+generated_at: "2026-03-30T05:44:02.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 296e - Generally applicable provisions"
 usc_title: 42
 usc_section: "296e"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 296e"
-generated_at: "2026-03-30T05:42:49.260Z"
+generated_at: "2026-03-30T05:45:31.425Z"
 status: "active"
 ---
 
@@ -26,9 +26,9 @@ status: "active"
 - **(f)** The Secretary shall ensure that—
   - **(1)** cross-cutting workforce analytical activities are carried out as part of the workforce information and analysis activities under this subchapter; and
   - **(2)** discipline-specific workforce information is developed and analytical activities are carried out as part of—
-    - **(A)** the advanced education nursing activities under part B of this subchapter;
-    - **(B)** the workforce diversity activities under part C of this subchapter; and
-    - **(C)** basic nursing education and practice activities under part D of this subchapter.
+    - **(A)** the advanced education nursing activities under part B;
+    - **(B)** the workforce diversity activities under part C; and
+    - **(C)** basic nursing education and practice activities under part D.
 - **(g)** Activities under grants or contracts under this subchapter shall, to the extent practicable, be consistent with related Federal, State, or regional nursing professions program plans and priorities.
 - **(h)**
   - **(1)** Applications for grants or contracts under this subchapter may be submitted by health professions schools, schools of nursing, academic health centers, State or local governments, or other appropriate public or private nonprofit entities as determined appropriate by the Secretary in accordance with this subchapter.

@@ -3,9 +3,9 @@ title: "Section 4 - Management of Conservation Area and Wilderness"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T05:41:19.496Z"
+generated_at: "2026-03-30T05:43:59.051Z"
 status: "active"
 ---
 

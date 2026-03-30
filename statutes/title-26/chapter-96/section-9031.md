@@ -3,9 +3,9 @@ title: "Section 9031 - Short title"
 usc_title: 26
 usc_section: "9031"
 chapter: 96
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 9031"
-generated_at: "2026-03-30T05:41:42.794Z"
+generated_at: "2026-03-30T05:44:41.531Z"
 status: "active"
 ---
 

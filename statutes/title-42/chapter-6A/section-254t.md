@@ -3,9 +3,9 @@ title: "Section 254t - Demonstration project"
 usc_title: 42
 usc_section: "254t"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 254t"
-generated_at: "2026-03-30T05:42:49.212Z"
+generated_at: "2026-03-30T05:45:31.369Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
     - **(C)** whether adding chiropractic doctors and pharmacists as permanent members of the National Health Service Corps would be feasible and would enhance the effectiveness of the National Health Service Corps.
 - **(g)**
   - **(1)** There are authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal years 2002 through 2004.
-  - **(2)** If the Secretary determines and certifies to Congress by not later than September 30, 2004 , that the number of individuals participating in the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1) of this section, the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.
+  - **(2)** If the Secretary determines and certifies to Congress by not later than September 30, 2004 , that the number of individuals participating in the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1), the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.

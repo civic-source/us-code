@@ -3,9 +3,9 @@ title: "Section 6 - Debt reduction; Enterprise for the Americas Initiative"
 usc_title: 12
 usc_section: "6"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T05:41:07.812Z"
+generated_at: "2026-03-30T05:43:40.544Z"
 status: "active"
 ---
 

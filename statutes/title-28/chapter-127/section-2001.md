@@ -3,9 +3,9 @@ title: "Section 2001 - Sale of realty generally"
 usc_title: 28
 usc_section: "2001"
 chapter: 127
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "28 U.S.C. § 2001"
-generated_at: "2026-03-30T05:41:35.963Z"
+generated_at: "2026-03-30T05:44:37.086Z"
 status: "active"
 ---
 

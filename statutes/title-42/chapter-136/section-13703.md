@@ -3,18 +3,18 @@ title: "Section 13703 - Violent offender incarceration grants"
 usc_title: 42
 usc_section: "13703"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 13703"
-generated_at: "2026-03-30T05:42:49.787Z"
+generated_at: "2026-03-30T05:45:32.064Z"
 status: "active"
 ---
 
 # § 13703. Violent offender incarceration grants
 
 - **(a)** To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenile offenders, and that the prison time served is appropriately related to the determination that the inmate is a violent offender and for a period of time deemed necessary to protect the public.
-- **(b)** A State that received a grant under subsection (a) of this section is eligible to receive additional grant amounts if such State demonstrates that the State has, since 1993—
+- **(b)** A State that received a grant under subsection (a) is eligible to receive additional grant amounts if such State demonstrates that the State has, since 1993—
   - **(1)** increased the percentage of persons arrested for a part 1 violent crime sentenced to prison; or
   - **(2)** increased the average prison time actually served or the average percent of sentence served by persons convicted of a part 1 violent crime.
-- **(c)** A State that received a grant under subsection (a) of this section is eligible to receive additional grant amounts if such State demonstrates that the State has—
+- **(c)** A State that received a grant under subsection (a) is eligible to receive additional grant amounts if such State demonstrates that the State has—
   - **(1)** since 1993, increased the percentage of persons arrested for a part 1 violent crime sentenced to prison, and has increased the average percent of sentence served by persons convicted of a part 1 violent crime; or
   - **(2)** has increased by 10 percent or more over the most recent 3-year period the number of new court commitments to prison of persons convicted of part 1 violent crimes.

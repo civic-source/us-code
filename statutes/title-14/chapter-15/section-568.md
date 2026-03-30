@@ -3,9 +3,9 @@ title: "Section 568 - Guidance on excessive pass-through charges"
 usc_title: 14
 usc_section: "568"
 chapter: 15
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "14 U.S.C. § 568"
-generated_at: "2026-03-30T05:41:04.985Z"
+generated_at: "2026-03-30T05:43:37.367Z"
 status: "active"
 ---
 

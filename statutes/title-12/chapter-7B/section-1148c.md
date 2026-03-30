@@ -3,9 +3,9 @@ title: "Section 1148c - Consolidation or merger"
 usc_title: 12
 usc_section: "1148c"
 chapter: 7
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "12 U.S.C. § 1148c"
-generated_at: "2026-03-30T05:41:07.814Z"
+generated_at: "2026-03-30T05:43:40.545Z"
 status: "active"
 ---
 

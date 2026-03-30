@@ -3,9 +3,9 @@ title: "Section 2194a - Contract authority of Corporation; specific authorizatio
 usc_title: 22
 usc_section: "2194a"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2194a"
-generated_at: "2026-03-30T05:41:31.849Z"
+generated_at: "2026-03-30T05:44:32.138Z"
 status: "active"
 ---
 

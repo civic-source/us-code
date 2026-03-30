@@ -3,9 +3,9 @@ title: "Section 2603 - Liability for tax"
 usc_title: 26
 usc_section: "2603"
 chapter: 13
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 2603"
-generated_at: "2026-03-30T05:41:42.709Z"
+generated_at: "2026-03-30T05:44:41.446Z"
 status: "active"
 ---
 

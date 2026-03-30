@@ -3,9 +3,9 @@ title: "Section 24404 - Use of capital grants to finance first-dollar liability 
 usc_title: 49
 usc_section: "24404"
 chapter: 244
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 24404"
-generated_at: "2026-03-30T05:42:56.935Z"
+generated_at: "2026-03-30T05:45:39.345Z"
 status: "active"
 ---
 

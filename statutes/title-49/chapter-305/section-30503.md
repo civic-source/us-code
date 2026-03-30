@@ -3,9 +3,9 @@ title: "Section 30503 - State participation"
 usc_title: 49
 usc_section: "30503"
 chapter: 305
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "49 U.S.C. § 30503"
-generated_at: "2026-03-30T05:42:56.942Z"
+generated_at: "2026-03-30T05:45:39.353Z"
 status: "active"
 ---
 

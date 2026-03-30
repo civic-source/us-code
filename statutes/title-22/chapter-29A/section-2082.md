@@ -3,9 +3,9 @@ title: "Section 2082 - Participation in Interama by States and foreign countries
 usc_title: 22
 usc_section: "2082"
 chapter: 29
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2082"
-generated_at: "2026-03-30T05:41:31.841Z"
+generated_at: "2026-03-30T05:44:32.131Z"
 status: "active"
 ---
 

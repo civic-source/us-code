@@ -3,9 +3,9 @@ title: "Section 321 - Post-grant review"
 usc_title: 35
 usc_section: "321"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "35 U.S.C. § 321"
-generated_at: "2026-03-30T05:41:46.071Z"
+generated_at: "2026-03-30T05:44:44.535Z"
 status: "active"
 ---
 

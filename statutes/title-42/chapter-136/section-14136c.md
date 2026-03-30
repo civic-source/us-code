@@ -3,15 +3,15 @@ title: "Section 14136c - National Forensic Science Commission"
 usc_title: 42
 usc_section: "14136c"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14136c"
-generated_at: "2026-03-30T05:42:49.799Z"
+generated_at: "2026-03-30T05:45:32.078Z"
 status: "active"
 ---
 
 # § 14136c. National Forensic Science Commission
 
-- **(a)** The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the “Commission”), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b) of this section.
+- **(a)** The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the “Commission”), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b).
 - **(b)** The Commission shall—
   - **(1)** assess the present and future resource needs of the forensic science community;
   - **(2)** make recommendations to the Attorney General for maximizing the use of forensic technologies and techniques to solve crimes and protect the public;

@@ -3,15 +3,15 @@ title: "Section 14211 - Creation of Violent Crime Reduction Trust Fund"
 usc_title: 42
 usc_section: "14211"
 chapter: 136
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 14211"
-generated_at: "2026-03-30T05:42:49.801Z"
+generated_at: "2026-03-30T05:45:32.080Z"
 status: "active"
 ---
 
 # § 14211. Creation of Violent Crime Reduction Trust Fund
 
-- **(a)** There is established a separate account in the Treasury, known as the “Violent Crime Reduction Trust Fund” (referred to in this section as the “Fund”) into which shall be transferred, in accordance with subsection (b) of this section, savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 ( 5 U.S.C. 3101 note; Public Law 103–226 ).
+- **(a)** There is established a separate account in the Treasury, known as the “Violent Crime Reduction Trust Fund” (referred to in this section as the “Fund”) into which shall be transferred, in accordance with subsection (b), savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 ( 5 U.S.C. 3101 note; Public Law 103–226 ).
 - **(b)** On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year 1995), the following amounts shall be transferred from the general fund to the Fund—
   - **(1)** for fiscal year 1995, $2,423,000,000;
   - **(2)** for fiscal year 1996, $4,287,000,000;

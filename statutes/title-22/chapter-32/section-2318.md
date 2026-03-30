@@ -3,9 +3,9 @@ title: "Section 2318 - Special authority"
 usc_title: 22
 usc_section: "2318"
 chapter: 32
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "22 U.S.C. § 2318"
-generated_at: "2026-03-30T05:41:31.856Z"
+generated_at: "2026-03-30T05:44:32.145Z"
 status: "active"
 ---
 

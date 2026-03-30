@@ -3,9 +3,9 @@ title: "Section 31104 - Governing body"
 usc_title: 36
 usc_section: "31104"
 chapter: 311
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "36 U.S.C. § 31104"
-generated_at: "2026-03-30T05:41:54.562Z"
+generated_at: "2026-03-30T05:44:48.876Z"
 status: "active"
 ---
 

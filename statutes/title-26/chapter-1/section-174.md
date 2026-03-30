@@ -3,9 +3,9 @@ title: "Section 174 - Research and experimental expenditures"
 usc_title: 26
 usc_section: "174"
 chapter: 1
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "26 U.S.C. § 174"
-generated_at: "2026-03-30T05:41:42.594Z"
+generated_at: "2026-03-30T05:44:41.330Z"
 status: "active"
 ---
 

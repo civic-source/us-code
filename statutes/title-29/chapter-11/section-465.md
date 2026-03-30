@@ -3,9 +3,9 @@ title: "Section 465 - Report to Congress"
 usc_title: 29
 usc_section: "465"
 chapter: 11
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "29 U.S.C. § 465"
-generated_at: "2026-03-30T05:41:44.209Z"
+generated_at: "2026-03-30T05:44:42.628Z"
 status: "active"
 ---
 

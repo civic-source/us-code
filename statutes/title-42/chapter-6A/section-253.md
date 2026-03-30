@@ -3,9 +3,9 @@ title: "Section 253 - Medical services to Coast Guard, National Oceanic and Atmo
 usc_title: 42
 usc_section: "253"
 chapter: 6
-current_through: "PL 114-229"
+current_through: "PL 114-243"
 classification: "42 U.S.C. § 253"
-generated_at: "2026-03-30T05:42:49.205Z"
+generated_at: "2026-03-30T05:45:31.362Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
     - **(A)** the officer or dependent was receiving health care at the expense of the Service at the time of separation; and
     - **(B)** the Secretary finds that the officer or dependent is unable to obtain appropriate insurance for the conditions for which the officer or dependent was receiving health care.
   - **(2)** Health care may be provided under paragraph (1) for a period of not more than one year from the date of separation of the officer from the Service.
-- **(c)** The Service shall provide all services referred to in subsection (a) of this section required by the Coast Guard or National Oceanic and Atmospheric Administration and shall perform all duties prescribed by statute in connection with the examinations to determine physical or mental condition for purposes of appointment, enlistment, and reenlistment, promotion and retirement, and officers of the Service assigned to duty on Coast Guard or National Oceanic and Atmospheric Administration vessels may extend aid to the crews of American vessels engaged in deep-sea fishing.
+- **(c)** The Service shall provide all services referred to in subsection (a) required by the Coast Guard or National Oceanic and Atmospheric Administration and shall perform all duties prescribed by statute in connection with the examinations to determine physical or mental condition for purposes of appointment, enlistment, and reenlistment, promotion and retirement, and officers of the Service assigned to duty on Coast Guard or National Oceanic and Atmospheric Administration vessels may extend aid to the crews of American vessels engaged in deep-sea fishing.
