@@ -3,9 +3,9 @@ title: "Section 7368 - Repealed. Pub. L. 110–387, title VIII, § 806(a) , Oct.
 usc_title: 38
 usc_section: "7368"
 chapter: 73
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 7368"
-generated_at: "2026-03-30T00:22:28.630Z"
+generated_at: "2026-03-30T00:25:32.306Z"
 ---
 
 # [§ 7368. Repealed. Pub. L. 110–387, title VIII, § 806(a) , Oct. 10, 2008 , 122 Stat. 4141 ]

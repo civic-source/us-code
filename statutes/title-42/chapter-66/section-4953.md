@@ -3,9 +3,9 @@ title: "Section 4953 - Selection and assignment of volunteers"
 usc_title: 42
 usc_section: "4953"
 chapter: 66
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 4953"
-generated_at: "2026-03-30T00:22:52.699Z"
+generated_at: "2026-03-30T00:25:57.449Z"
 ---
 
 # § 4953. Selection and assignment of volunteers

@@ -3,9 +3,9 @@ title: "Section 405 - Reports"
 usc_title: 5
 usc_section: "405"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 405"
-generated_at: "2026-03-30T00:20:59.716Z"
+generated_at: "2026-03-30T00:23:46.101Z"
 ---
 
 # § 405. Reports

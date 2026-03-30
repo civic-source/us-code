@@ -3,9 +3,9 @@ title: "Section 2342 - Cooperative program on research, development, and demonst
 usc_title: 50
 usc_section: "2342"
 chapter: 40
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 2342"
-generated_at: "2026-03-30T00:22:59.051Z"
+generated_at: "2026-03-30T00:26:03.320Z"
 ---
 
 # § 2342. Cooperative program on research, development, and demonstration of technology regarding nuclear or radiological terrorism

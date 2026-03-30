@@ -3,9 +3,9 @@ title: "Section 1231a - Abandoned mine reclamation fund authorization of appropr
 usc_title: 30
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 1231a"
-generated_at: "2026-03-30T00:22:08.299Z"
+generated_at: "2026-03-30T00:25:10.235Z"
 ---
 
 # § 1231a. Abandoned mine reclamation fund authorization of appropriations

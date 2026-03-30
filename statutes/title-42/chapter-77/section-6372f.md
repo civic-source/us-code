@@ -3,9 +3,9 @@ title: "Section 6372f - Authorization of appropriations"
 usc_title: 42
 usc_section: "6372f"
 chapter: 77
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 6372f"
-generated_at: "2026-03-30T00:22:52.750Z"
+generated_at: "2026-03-30T00:25:57.505Z"
 ---
 
 # § 6372f. Authorization of appropriations

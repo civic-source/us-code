@@ -3,9 +3,9 @@ title: "Section 246 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(28)
 usc_title: 8
 usc_section: "246"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "8 U.S.C. § 246"
-generated_at: "2026-03-30T00:21:04.808Z"
+generated_at: "2026-03-30T00:23:49.156Z"
 ---
 
 # §§ 241 to 246. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(28), 66 Stat. 279 , eff. Dec. 24, 1952

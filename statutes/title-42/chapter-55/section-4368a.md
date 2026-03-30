@@ -3,9 +3,9 @@ title: "Section 4368a - Utilization of talents of older Americans in projects of
 usc_title: 42
 usc_section: "4368a"
 chapter: 55
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 4368a"
-generated_at: "2026-03-30T00:22:52.689Z"
+generated_at: "2026-03-30T00:25:57.439Z"
 ---
 
 # § 4368a. Utilization of talents of older Americans in projects of pollution prevention, abatement, and control

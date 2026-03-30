@@ -3,9 +3,9 @@ title: "Section 2 - Technical support to exporters and importers of United State
 usc_title: 7
 usc_section: "2"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T00:21:11.891Z"
+generated_at: "2026-03-30T00:23:53.590Z"
 ---
 
 # § 612c–2. Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of Agriculture

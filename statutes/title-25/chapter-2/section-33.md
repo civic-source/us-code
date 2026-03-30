@@ -3,9 +3,9 @@ title: "Section 33 - Superintendents in charge of reservations; administration o
 usc_title: 25
 usc_section: "33"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 33"
-generated_at: "2026-03-30T00:21:54.327Z"
+generated_at: "2026-03-30T00:25:07.705Z"
 ---
 
 # § 33. Superintendents in charge of reservations; administration of oath of office

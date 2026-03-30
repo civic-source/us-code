@@ -3,9 +3,9 @@ title: "Section 1003 - Leasing procedures"
 usc_title: 30
 usc_section: "1003"
 chapter: 23
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 1003"
-generated_at: "2026-03-30T00:22:08.296Z"
+generated_at: "2026-03-30T00:25:10.231Z"
 ---
 
 # § 1003. Leasing procedures

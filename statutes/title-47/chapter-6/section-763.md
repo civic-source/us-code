@@ -3,9 +3,9 @@ title: "Section 763 - General criteria to ensure a pro-competitive privatization
 usc_title: 47
 usc_section: "763"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 763"
-generated_at: "2026-03-30T00:23:16.673Z"
+generated_at: "2026-03-30T00:26:05.966Z"
 ---
 
 # § 763. General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat

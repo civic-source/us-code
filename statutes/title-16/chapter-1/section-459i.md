@@ -3,9 +3,9 @@ title: "Section 459i - Cumberland Island National Seashore; establishment; bound
 usc_title: 16
 usc_section: "459i"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 459i"
-generated_at: "2026-03-30T00:21:39.066Z"
+generated_at: "2026-03-30T00:24:34.432Z"
 ---
 
 # § 459i. Cumberland Island National Seashore; establishment; boundary revisions: notification of Congressional committees, publication in Federal Register

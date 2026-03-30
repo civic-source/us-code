@@ -3,9 +3,9 @@ title: "Section 1328 - Merchant vessels of the United States"
 usc_title: 44
 usc_section: "1328"
 chapter: 13
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "44 U.S.C. § 1328"
-generated_at: "2026-03-30T00:22:30.581Z"
+generated_at: "2026-03-30T00:25:35.578Z"
 ---
 
 # § 1328. Merchant vessels of the United States

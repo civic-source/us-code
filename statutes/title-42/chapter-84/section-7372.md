@@ -3,9 +3,9 @@ title: "Section 7372 - “Secretary” and “renewable energy resource” defin
 usc_title: 42
 usc_section: "7372"
 chapter: 84
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 7372"
-generated_at: "2026-03-30T00:22:52.782Z"
+generated_at: "2026-03-30T00:25:57.535Z"
 ---
 
 # § 7372. “Secretary” and “renewable energy resource” defined

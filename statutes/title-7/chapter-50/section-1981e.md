@@ -3,9 +3,9 @@ title: "Section 1981e - Planting and production history guidelines"
 usc_title: 7
 usc_section: "1981e"
 chapter: 50
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 1981e"
-generated_at: "2026-03-30T00:21:11.948Z"
+generated_at: "2026-03-30T00:23:53.639Z"
 ---
 
 # § 1981e. Planting and production history guidelines

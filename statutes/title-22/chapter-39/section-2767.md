@@ -3,9 +3,9 @@ title: "Section 2767 - Authority of President to enter into cooperative projects
 usc_title: 22
 usc_section: "2767"
 chapter: 39
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2767"
-generated_at: "2026-03-30T00:22:05.765Z"
+generated_at: "2026-03-30T00:25:05.394Z"
 ---
 
 # § 2767. Authority of President to enter into cooperative projects with friendly foreign countries

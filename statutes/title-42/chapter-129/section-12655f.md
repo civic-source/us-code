@@ -3,9 +3,9 @@ title: "Section 12655f - Training and education services"
 usc_title: 42
 usc_section: "12655f"
 chapter: 129
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 12655f"
-generated_at: "2026-03-30T00:22:52.933Z"
+generated_at: "2026-03-30T00:25:57.688Z"
 ---
 
 # § 12655f. Training and education services

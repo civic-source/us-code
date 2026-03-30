@@ -3,9 +3,9 @@ title: "Section 1509 - Program to resolve missing person cases"
 usc_title: 10
 usc_section: "1509"
 chapter: 76
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 1509"
-generated_at: "2026-03-30T00:21:16.815Z"
+generated_at: "2026-03-30T00:23:58.446Z"
 ---
 
 # § 1509. Program to resolve missing person cases

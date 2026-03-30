@@ -3,9 +3,9 @@ title: "Section 417 - Custody and safe-keeping of notes issued to and collateral
 usc_title: 12
 usc_section: "417"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 417"
-generated_at: "2026-03-30T00:21:26.436Z"
+generated_at: "2026-03-30T00:24:18.932Z"
 ---
 
 # § 417. Custody and safe-keeping of notes issued to and collateral deposited with Reserve agent

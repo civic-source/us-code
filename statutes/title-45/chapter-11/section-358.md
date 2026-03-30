@@ -3,9 +3,9 @@ title: "Section 358 - Contributions"
 usc_title: 45
 usc_section: "358"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "45 U.S.C. § 358"
-generated_at: "2026-03-30T00:22:32.291Z"
+generated_at: "2026-03-30T00:25:36.178Z"
 ---
 
 # § 358. Contributions

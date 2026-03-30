@@ -3,9 +3,9 @@ title: "Section 107 - Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111"
 usc_title: 19
 usc_section: "107"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 107"
-generated_at: "2026-03-30T00:21:40.940Z"
+generated_at: "2026-03-30T00:24:23.369Z"
 ---
 
 # § 107. Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111

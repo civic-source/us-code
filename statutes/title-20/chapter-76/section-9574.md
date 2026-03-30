@@ -3,9 +3,9 @@ title: "Section 9574 - Availability of data"
 usc_title: 20
 usc_section: "9574"
 chapter: 76
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 9574"
-generated_at: "2026-03-30T00:21:49.957Z"
+generated_at: "2026-03-30T00:24:56.991Z"
 ---
 
 # § 9574. Availability of data

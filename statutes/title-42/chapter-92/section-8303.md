@@ -3,9 +3,9 @@ title: "Section 8303 - Territorial application"
 usc_title: 42
 usc_section: "8303"
 chapter: 92
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 8303"
-generated_at: "2026-03-30T00:22:52.839Z"
+generated_at: "2026-03-30T00:25:57.594Z"
 ---
 
 # § 8303. Territorial application

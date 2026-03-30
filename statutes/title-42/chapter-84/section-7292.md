@@ -3,9 +3,9 @@ title: "Section 7292 - Effect on personnel"
 usc_title: 42
 usc_section: "7292"
 chapter: 84
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 7292"
-generated_at: "2026-03-30T00:22:52.781Z"
+generated_at: "2026-03-30T00:25:57.535Z"
 ---
 
 # § 7292. Effect on personnel

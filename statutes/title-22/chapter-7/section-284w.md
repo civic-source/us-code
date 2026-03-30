@@ -3,9 +3,9 @@ title: "Section 284w - Multilateral debt relief"
 usc_title: 22
 usc_section: "284w"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 284w"
-generated_at: "2026-03-30T00:22:05.692Z"
+generated_at: "2026-03-30T00:25:05.310Z"
 ---
 
 # § 284w. Multilateral debt relief

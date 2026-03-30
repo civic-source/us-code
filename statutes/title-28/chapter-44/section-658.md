@@ -3,9 +3,9 @@ title: "Section 658 - Compensation of arbitrators and neutrals"
 usc_title: 28
 usc_section: "658"
 chapter: 44
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 658"
-generated_at: "2026-03-30T00:22:09.185Z"
+generated_at: "2026-03-30T00:25:11.515Z"
 ---
 
 # § 658. Compensation of arbitrators and neutrals

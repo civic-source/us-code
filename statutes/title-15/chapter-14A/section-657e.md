@@ -3,9 +3,9 @@ title: "Section 657e - Mentoring Networks"
 usc_title: 15
 usc_section: "657e"
 chapter: 14
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 657e"
-generated_at: "2026-03-30T00:21:29.468Z"
+generated_at: "2026-03-30T00:24:11.847Z"
 ---
 
 # § 657e. Mentoring Networks

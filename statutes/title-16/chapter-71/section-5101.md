@@ -3,9 +3,9 @@ title: "Section 5101 - Findings and purpose"
 usc_title: 16
 usc_section: "5101"
 chapter: 71
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 5101"
-generated_at: "2026-03-30T00:21:39.302Z"
+generated_at: "2026-03-30T00:24:34.669Z"
 ---
 
 # § 5101. Findings and purpose

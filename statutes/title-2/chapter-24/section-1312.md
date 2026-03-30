@@ -3,9 +3,9 @@ title: "Section 1312 - Rights and protections under Family and Medical Leave Act
 usc_title: 2
 usc_section: "1312"
 chapter: 24
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 1312"
-generated_at: "2026-03-30T00:20:57.382Z"
+generated_at: "2026-03-30T00:23:43.036Z"
 ---
 
 # § 1312. Rights and protections under Family and Medical Leave Act of 1993

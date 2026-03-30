@@ -3,9 +3,9 @@ title: "Section 106 - Commandant defined"
 usc_title: 14
 usc_section: "106"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "14 U.S.C. § 106"
-generated_at: "2026-03-30T00:21:20.856Z"
+generated_at: "2026-03-30T00:24:00.995Z"
 ---
 
 # § 106. Commandant defined

@@ -3,9 +3,9 @@ title: "Section 41714 - Availability of slots"
 usc_title: 49
 usc_section: "41714"
 chapter: 417
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "49 U.S.C. § 41714"
-generated_at: "2026-03-30T00:23:07.364Z"
+generated_at: "2026-03-30T00:26:10.250Z"
 ---
 
 # § 41714. Availability of slots

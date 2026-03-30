@@ -3,9 +3,9 @@ title: "Section 2165 - Repealed. Pub. L. 92–226 , pt. I, § 101(d), Feb. 7, 19
 usc_title: 22
 usc_section: "2165"
 chapter: 32
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2165"
-generated_at: "2026-03-30T00:22:05.727Z"
+generated_at: "2026-03-30T00:25:05.350Z"
 ---
 
 # § 2165. Repealed. Pub. L. 92–226 , pt. I, § 101(d), Feb. 7, 1972 , 86 Stat. 21

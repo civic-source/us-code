@@ -3,9 +3,9 @@ title: "Section 3936 - Statute of limitations"
 usc_title: 50
 usc_section: "3936"
 chapter: 50
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 3936"
-generated_at: "2026-03-30T00:22:59.096Z"
+generated_at: "2026-03-30T00:26:03.373Z"
 ---
 
 # § 3936. Statute of limitations

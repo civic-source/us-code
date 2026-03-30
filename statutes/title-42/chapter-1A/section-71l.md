@@ -3,9 +3,9 @@ title: "Section 71l - Transferred"
 usc_title: 42
 usc_section: "71l"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 71l"
-generated_at: "2026-03-30T00:22:52.122Z"
+generated_at: "2026-03-30T00:25:56.893Z"
 ---
 
 # §§ 71 to 71l. Transferred

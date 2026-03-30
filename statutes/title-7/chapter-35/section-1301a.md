@@ -3,9 +3,9 @@ title: "Section 1301a - References to parity prices, etc., in other laws after J
 usc_title: 7
 usc_section: "1301a"
 chapter: 35
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 1301a"
-generated_at: "2026-03-30T00:21:11.900Z"
+generated_at: "2026-03-30T00:23:53.598Z"
 ---
 
 # § 1301a. References to parity prices, etc., in other laws after January 1, 1950

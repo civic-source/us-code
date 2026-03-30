@@ -3,9 +3,9 @@ title: "Section 10 - Flowage rights and rights-of-way; reimbursement of local au
 usc_title: 33
 usc_section: "10"
 chapter: 15
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 10"
-generated_at: "2026-03-30T00:22:20.577Z"
+generated_at: "2026-03-30T00:25:27.454Z"
 ---
 
 # § 702a–10. Flowage rights and rights-of-way; reimbursement of local authorities; highway crossings; use of properties for national forests or wildlife refuges

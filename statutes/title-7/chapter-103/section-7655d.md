@@ -3,9 +3,9 @@ title: "Section 7655d - Wood innovation grant program"
 usc_title: 7
 usc_section: "7655d"
 chapter: 103
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 7655d"
-generated_at: "2026-03-30T00:21:12.051Z"
+generated_at: "2026-03-30T00:23:53.729Z"
 ---
 
 # § 7655d. Wood innovation grant program

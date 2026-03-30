@@ -3,9 +3,9 @@ title: "Section 280i - Authorization of appropriations"
 usc_title: 22
 usc_section: "280i"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 280i"
-generated_at: "2026-03-30T00:22:05.689Z"
+generated_at: "2026-03-30T00:25:05.307Z"
 ---
 
 # § 280i. Authorization of appropriations

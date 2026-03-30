@@ -3,9 +3,9 @@ title: "Section 285cc - Eighth replenishment"
 usc_title: 22
 usc_section: "285cc"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 285cc"
-generated_at: "2026-03-30T00:22:05.692Z"
+generated_at: "2026-03-30T00:25:05.311Z"
 ---
 
 # § 285cc. Eighth replenishment

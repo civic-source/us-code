@@ -3,9 +3,9 @@ title: "Section 10401 - Short title; purpose"
 usc_title: 42
 usc_section: "10401"
 chapter: 110
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 10401"
-generated_at: "2026-03-30T00:22:52.891Z"
+generated_at: "2026-03-30T00:25:57.646Z"
 ---
 
 # § 10401. Short title; purpose

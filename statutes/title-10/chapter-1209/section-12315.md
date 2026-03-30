@@ -3,9 +3,9 @@ title: "Section 12315 - Reserves: duty with or without pay"
 usc_title: 10
 usc_section: "12315"
 chapter: 1209
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 12315"
-generated_at: "2026-03-30T00:21:17.044Z"
+generated_at: "2026-03-30T00:23:58.555Z"
 ---
 
 # § 12315. Reserves: duty with or without pay

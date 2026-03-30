@@ -3,9 +3,9 @@ title: "Section 5607 - Penalty and forfeiture for unlawful use, recovery, or con
 usc_title: 26
 usc_section: "5607"
 chapter: 51
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "26 U.S.C. § 5607"
-generated_at: "2026-03-30T00:22:16.879Z"
+generated_at: "2026-03-30T00:25:21.497Z"
 ---
 
 # § 5607. Penalty and forfeiture for unlawful use, recovery, or concealment of denatured distilled spirits, or articles

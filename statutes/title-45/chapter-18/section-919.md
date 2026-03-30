@@ -3,9 +3,9 @@ title: "Section 919 - Publications and reports"
 usc_title: 45
 usc_section: "919"
 chapter: 18
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "45 U.S.C. § 919"
-generated_at: "2026-03-30T00:22:32.302Z"
+generated_at: "2026-03-30T00:25:36.189Z"
 ---
 
 # § 919. Publications and reports

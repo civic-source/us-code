@@ -3,9 +3,9 @@ title: "Section 231u - Benefit preservation"
 usc_title: 45
 usc_section: "231u"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "45 U.S.C. § 231u"
-generated_at: "2026-03-30T00:22:32.289Z"
+generated_at: "2026-03-30T00:25:36.176Z"
 ---
 
 # § 231u. Benefit preservation

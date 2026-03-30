@@ -3,9 +3,9 @@ title: "Section 3307 - Competitive service; maximum-age entrance requirements; e
 usc_title: 5
 usc_section: "3307"
 chapter: 33
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 3307"
-generated_at: "2026-03-30T00:20:59.732Z"
+generated_at: "2026-03-30T00:23:46.118Z"
 ---
 
 # § 3307. Competitive service; maximum-age entrance requirements; exceptions

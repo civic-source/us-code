@@ -3,9 +3,9 @@ title: "Section 31 - South Bay advanced recycled water treatment facility"
 usc_title: 43
 usc_section: "31"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 31"
-generated_at: "2026-03-30T00:22:31.491Z"
+generated_at: "2026-03-30T00:25:37.018Z"
 ---
 
 # § 390h–31. South Bay advanced recycled water treatment facility

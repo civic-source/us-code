@@ -3,9 +3,9 @@ title: "Section 56 - Commencement, defense, intervention and supervision of liti
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T00:21:29.366Z"
+generated_at: "2026-03-30T00:24:11.752Z"
 ---
 
 # § 56. Commencement, defense, intervention and supervision of litigation and appeal by Commission or Attorney General

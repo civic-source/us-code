@@ -3,9 +3,9 @@ title: "Section 8631 - Accounting for expenditures for obtaining information"
 usc_title: 10
 usc_section: "8631"
 chapter: 861
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 8631"
-generated_at: "2026-03-30T00:21:16.919Z"
+generated_at: "2026-03-30T00:23:58.534Z"
 ---
 
 # § 8631. Accounting for expenditures for obtaining information

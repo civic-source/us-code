@@ -3,9 +3,9 @@ title: "Section 8202 - Statement of policy"
 usc_title: 22
 usc_section: "8202"
 chapter: 89
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 8202"
-generated_at: "2026-03-30T00:22:05.838Z"
+generated_at: "2026-03-30T00:25:05.476Z"
 ---
 
 # § 8202. Statement of policy

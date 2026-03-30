@@ -3,9 +3,9 @@ title: "Section 6 - Supervisory actions applicable to level III"
 usc_title: 12
 usc_section: "6"
 chapter: 23
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T00:21:26.552Z"
+generated_at: "2026-03-30T00:24:19.048Z"
 ---
 
 # § 2279bb–6. Supervisory actions applicable to level III

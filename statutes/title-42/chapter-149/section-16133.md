@@ -3,9 +3,9 @@ title: "Section 16133 - State grant, rebate, and loan programs"
 usc_title: 42
 usc_section: "16133"
 chapter: 149
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 16133"
-generated_at: "2026-03-30T00:22:52.977Z"
+generated_at: "2026-03-30T00:25:57.734Z"
 ---
 
 # § 16133. State grant, rebate, and loan programs

@@ -3,9 +3,9 @@ title: "Section 1639 - Construction with Alaska Native Claims Settlement Act"
 usc_title: 43
 usc_section: "1639"
 chapter: 33
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 1639"
-generated_at: "2026-03-30T00:22:31.532Z"
+generated_at: "2026-03-30T00:25:37.064Z"
 ---
 
 # § 1639. Construction with Alaska Native Claims Settlement Act

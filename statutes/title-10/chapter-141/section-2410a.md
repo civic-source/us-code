@@ -3,9 +3,9 @@ title: "Section 2410a - Renumbered § 3133]"
 usc_title: 10
 usc_section: "2410a"
 chapter: 141
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 2410a"
-generated_at: "2026-03-30T00:21:16.843Z"
+generated_at: "2026-03-30T00:23:58.470Z"
 ---
 
 # [§ 2410a. Renumbered § 3133]

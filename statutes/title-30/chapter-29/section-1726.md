@@ -3,9 +3,9 @@ title: "Section 1726 - Alternatives for marginal properties"
 usc_title: 30
 usc_section: "1726"
 chapter: 29
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 1726"
-generated_at: "2026-03-30T00:22:08.313Z"
+generated_at: "2026-03-30T00:25:10.248Z"
 ---
 
 # § 1726. Alternatives for marginal properties

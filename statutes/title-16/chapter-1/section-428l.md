@@ -3,9 +3,9 @@ title: "Section 428l - Acquisition of lands; agreement for transfer of jurisdict
 usc_title: 16
 usc_section: "428l"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 428l"
-generated_at: "2026-03-30T00:21:39.048Z"
+generated_at: "2026-03-30T00:24:34.417Z"
 ---
 
 # § 428l. Acquisition of lands; agreement for transfer of jurisdiction

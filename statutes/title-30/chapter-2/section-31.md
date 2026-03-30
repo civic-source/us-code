@@ -3,9 +3,9 @@ title: "Section 31 - Oath: agent or attorney in fact, beyond district of claim"
 usc_title: 30
 usc_section: "31"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 31"
-generated_at: "2026-03-30T00:22:08.276Z"
+generated_at: "2026-03-30T00:25:10.211Z"
 ---
 
 # § 31. Oath: agent or attorney in fact, beyond district of claim

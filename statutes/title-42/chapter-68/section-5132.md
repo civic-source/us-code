@@ -3,9 +3,9 @@ title: "Section 5132 - Disaster warnings"
 usc_title: 42
 usc_section: "5132"
 chapter: 68
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 5132"
-generated_at: "2026-03-30T00:22:52.708Z"
+generated_at: "2026-03-30T00:25:57.457Z"
 ---
 
 # § 5132. Disaster warnings

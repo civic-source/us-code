@@ -3,9 +3,9 @@ title: "Section 51707 - Merchant mariner recruitment, training, and retention st
 usc_title: 46
 usc_section: "51707"
 chapter: 517
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 51707"
-generated_at: "2026-03-30T00:23:02.755Z"
+generated_at: "2026-03-30T00:26:04.720Z"
 ---
 
 # § 51707. Merchant mariner recruitment, training, and retention strategic plan

@@ -3,9 +3,9 @@ title: "Section 2113 - Eligibility of officers for consideration for promotion"
 usc_title: 14
 usc_section: "2113"
 chapter: 21
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "14 U.S.C. § 2113"
-generated_at: "2026-03-30T00:21:20.864Z"
+generated_at: "2026-03-30T00:24:01.005Z"
 ---
 
 # § 2113. Eligibility of officers for consideration for promotion

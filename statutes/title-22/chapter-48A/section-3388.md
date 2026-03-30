@@ -3,9 +3,9 @@ title: "Section 3388 - Supporting United States educational and exchange program
 usc_title: 22
 usc_section: "3388"
 chapter: 48
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 3388"
-generated_at: "2026-03-30T00:22:05.775Z"
+generated_at: "2026-03-30T00:25:05.405Z"
 ---
 
 # § 3388. Supporting United States educational and exchange programs with Taiwan

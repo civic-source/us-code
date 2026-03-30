@@ -3,9 +3,9 @@ title: "Section 9407 - Review of applicability of sanctions relating to Iran’s
 usc_title: 22
 usc_section: "9407"
 chapter: 101
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 9407"
-generated_at: "2026-03-30T00:22:05.856Z"
+generated_at: "2026-03-30T00:25:05.496Z"
 ---
 
 # § 9407. Review of applicability of sanctions relating to Iran’s support for terrorism and its ballistic missile program

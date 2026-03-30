@@ -3,9 +3,9 @@ title: "Section 7644 - Community conservation"
 usc_title: 16
 usc_section: "7644"
 chapter: 95
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 7644"
-generated_at: "2026-03-30T00:21:39.330Z"
+generated_at: "2026-03-30T00:24:34.694Z"
 ---
 
 # § 7644. Community conservation

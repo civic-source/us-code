@@ -3,9 +3,9 @@ title: "Section 3487 - Vacant]"
 usc_title: 38
 usc_section: "3487"
 chapter: 34
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 3487"
-generated_at: "2026-03-30T00:22:28.600Z"
+generated_at: "2026-03-30T00:25:32.276Z"
 ---
 
 # [§§ 3486, 3487. Vacant]

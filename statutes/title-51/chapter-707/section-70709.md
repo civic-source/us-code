@@ -3,9 +3,9 @@ title: "Section 70709 - Security clearances for Commission members and staff"
 usc_title: 51
 usc_section: "70709"
 chapter: 707
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "51 U.S.C. § 70709"
-generated_at: "2026-03-30T00:23:28.860Z"
+generated_at: "2026-03-30T00:26:12.747Z"
 ---
 
 # § 70709. Security clearances for Commission members and staff

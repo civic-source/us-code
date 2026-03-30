@@ -3,9 +3,9 @@ title: "Section 8162 - Enhanced-use leases"
 usc_title: 38
 usc_section: "8162"
 chapter: 81
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 8162"
-generated_at: "2026-03-30T00:22:28.641Z"
+generated_at: "2026-03-30T00:25:32.318Z"
 ---
 
 # § 8162. Enhanced-use leases

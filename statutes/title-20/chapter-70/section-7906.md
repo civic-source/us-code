@@ -3,9 +3,9 @@ title: "Section 7906 - Prohibited uses of funds"
 usc_title: 20
 usc_section: "7906"
 chapter: 70
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 7906"
-generated_at: "2026-03-30T00:21:49.949Z"
+generated_at: "2026-03-30T00:24:56.981Z"
 ---
 
 # § 7906. Prohibited uses of funds
@@ -18,4 +18,4 @@ No funds under this chapter may be used—
   - **(4)** to distribute or to aid in the distribution by any organization of legally obscene materials to minors on school grounds;
   - **(5)** to provide sex education or HIV-prevention education in schools unless that instruction is age appropriate and includes the health benefits of abstinence;
   - **(6)** to operate a program of contraceptive distribution in schools; or
-  - **(7)** for the provision to any person of a dangerous weapon, as defined in section 930(g)(2) of title 18 , or training in the use of a dangerous weapon.
+  - **(7)** for the provision to any person of a dangerous weapon, as defined in section 930(g)(2) of title 18 , or training in the use of a dangerous weapon, except that this paragraph shall not apply to the use of funds under this chapter for activities carried out under programs authorized by this chapter that are otherwise permissible under such programs and that provide students with educational instruction or educational enrichment activities, such as archery, hunting, other shooting sports, or culinary arts.

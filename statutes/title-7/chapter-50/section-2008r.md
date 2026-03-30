@@ -3,9 +3,9 @@ title: "Section 2008r - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(F) 
 usc_title: 7
 usc_section: "2008r"
 chapter: 50
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 2008r"
-generated_at: "2026-03-30T00:21:11.954Z"
+generated_at: "2026-03-30T00:23:53.644Z"
 ---
 
 # § 2008r. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(F) , Dec. 20, 2018 , 132 Stat. 4776

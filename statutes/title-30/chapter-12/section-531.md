@@ -3,9 +3,9 @@ title: "Section 531 - Approval of United States officials"
 usc_title: 30
 usc_section: "531"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 531"
-generated_at: "2026-03-30T00:22:08.286Z"
+generated_at: "2026-03-30T00:25:10.222Z"
 ---
 
 # § 531. Approval of United States officials

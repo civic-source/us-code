@@ -3,9 +3,9 @@ title: "Section 4142 - Extramural acquisition innovation and research activities
 usc_title: 10
 usc_section: "4142"
 chapter: 305
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 4142"
-generated_at: "2026-03-30T00:21:16.884Z"
+generated_at: "2026-03-30T00:23:58.506Z"
 ---
 
 # § 4142. Extramural acquisition innovation and research activities

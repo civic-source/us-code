@@ -3,9 +3,9 @@ title: "Section 54 - Sources of matching funds"
 usc_title: 20
 usc_section: "54"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 54"
-generated_at: "2026-03-30T00:21:49.851Z"
+generated_at: "2026-03-30T00:24:56.865Z"
 ---
 
 # § 1087–54. Sources of matching funds

@@ -3,9 +3,9 @@ title: "Section 1201 - Kidnapping"
 usc_title: 18
 usc_section: "1201"
 chapter: 55
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 1201"
-generated_at: "2026-03-30T00:21:34.183Z"
+generated_at: "2026-03-30T00:24:29.225Z"
 ---
 
 # § 1201. Kidnapping

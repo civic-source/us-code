@@ -3,9 +3,9 @@ title: "Section 597 - Rules and regulations; cooperation with other agencies; co
 usc_title: 7
 usc_section: "597"
 chapter: 25
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 597"
-generated_at: "2026-03-30T00:21:11.888Z"
+generated_at: "2026-03-30T00:23:53.588Z"
 ---
 
 # § 597. Rules and regulations; cooperation with other agencies; compensation of officers and employees; effect on other laws

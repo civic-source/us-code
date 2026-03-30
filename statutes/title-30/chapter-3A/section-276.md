@@ -3,9 +3,9 @@ title: "Section 276 - Application of subchapter to Louisiana and New Mexico only
 usc_title: 30
 usc_section: "276"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 276"
-generated_at: "2026-03-30T00:22:08.283Z"
+generated_at: "2026-03-30T00:25:10.219Z"
 ---
 
 # § 276. Application of subchapter to Louisiana and New Mexico only

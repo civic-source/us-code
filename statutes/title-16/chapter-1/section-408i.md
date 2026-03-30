@@ -3,9 +3,9 @@ title: "Section 408i - Acceptance of territory ceded by Michigan; jurisdiction"
 usc_title: 16
 usc_section: "408i"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 408i"
-generated_at: "2026-03-30T00:21:39.012Z"
+generated_at: "2026-03-30T00:24:34.382Z"
 ---
 
 # § 408i. Acceptance of territory ceded by Michigan; jurisdiction

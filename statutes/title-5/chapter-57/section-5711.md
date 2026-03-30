@@ -3,9 +3,9 @@ title: "Section 5711 - Authority for telework travel expenses programs"
 usc_title: 5
 usc_section: "5711"
 chapter: 57
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 5711"
-generated_at: "2026-03-30T00:20:59.750Z"
+generated_at: "2026-03-30T00:23:46.135Z"
 ---
 
 # § 5711. Authority for telework travel expenses programs

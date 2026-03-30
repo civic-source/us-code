@@ -3,9 +3,9 @@ title: "Section 1675 - Exemption for State-regulated garnishments"
 usc_title: 15
 usc_section: "1675"
 chapter: 41
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 1675"
-generated_at: "2026-03-30T00:21:29.519Z"
+generated_at: "2026-03-30T00:24:11.895Z"
 ---
 
 # § 1675. Exemption for State-regulated garnishments

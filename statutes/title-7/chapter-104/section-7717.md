@@ -3,9 +3,9 @@ title: "Section 7717 - Control of grasshoppers and Mormon crickets"
 usc_title: 7
 usc_section: "7717"
 chapter: 104
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 7717"
-generated_at: "2026-03-30T00:21:12.052Z"
+generated_at: "2026-03-30T00:23:53.730Z"
 ---
 
 # § 7717. Control of grasshoppers and Mormon crickets

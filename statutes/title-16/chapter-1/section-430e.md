@@ -3,9 +3,9 @@ title: "Section 430e - Monuments and tablets within park; approval"
 usc_title: 16
 usc_section: "430e"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 430e"
-generated_at: "2026-03-30T00:21:39.049Z"
+generated_at: "2026-03-30T00:24:34.418Z"
 ---
 
 # § 430e. Monuments and tablets within park; approval

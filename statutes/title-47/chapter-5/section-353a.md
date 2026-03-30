@@ -3,9 +3,9 @@ title: "Section 353a - Operators and watches on radiotelephone equipped ships"
 usc_title: 47
 usc_section: "353a"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 353a"
-generated_at: "2026-03-30T00:23:16.659Z"
+generated_at: "2026-03-30T00:26:05.953Z"
 ---
 
 # § 353a. Operators and watches on radiotelephone equipped ships

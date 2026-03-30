@@ -3,9 +3,9 @@ title: "Section 40 - Construction of needs provisions"
 usc_title: 20
 usc_section: "40"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 40"
-generated_at: "2026-03-30T00:21:49.836Z"
+generated_at: "2026-03-30T00:24:56.849Z"
 ---
 
 # § 1070d–40. Construction of needs provisions

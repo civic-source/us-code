@@ -3,9 +3,9 @@ title: "Section 852a - Applications for unsurveyed lands; regulations; acreage r
 usc_title: 43
 usc_section: "852a"
 chapter: 20
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 852a"
-generated_at: "2026-03-30T00:22:31.506Z"
+generated_at: "2026-03-30T00:25:37.036Z"
 ---
 
 # § 852a. Applications for unsurveyed lands; regulations; acreage requirements

@@ -3,9 +3,9 @@ title: "Section 2423 - Exchanges of certain materials"
 usc_title: 22
 usc_section: "2423"
 chapter: 32
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2423"
-generated_at: "2026-03-30T00:22:05.745Z"
+generated_at: "2026-03-30T00:25:05.371Z"
 ---
 
 # § 2423. Exchanges of certain materials

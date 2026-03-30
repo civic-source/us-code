@@ -3,9 +3,9 @@ title: "Section 1395l - Payment of benefits"
 usc_title: 42
 usc_section: "1395l"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 1395l"
-generated_at: "2026-03-30T00:22:52.413Z"
+generated_at: "2026-03-30T00:25:57.168Z"
 ---
 
 # § 1395l. Payment of benefits

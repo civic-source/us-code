@@ -3,9 +3,9 @@ title: "Section 1583 - Counterclaims, cross-claims, and third-party actions"
 usc_title: 28
 usc_section: "1583"
 chapter: 95
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 1583"
-generated_at: "2026-03-30T00:22:09.191Z"
+generated_at: "2026-03-30T00:25:11.521Z"
 ---
 
 # § 1583. Counterclaims, cross-claims, and third-party actions

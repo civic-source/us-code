@@ -3,9 +3,9 @@ title: "Section 142 - Rights of occupants or claimants of oil- or gas-bearing la
 usc_title: 43
 usc_section: "142"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 142"
-generated_at: "2026-03-30T00:22:31.483Z"
+generated_at: "2026-03-30T00:25:37.008Z"
 ---
 
 # § 142. Rights of occupants or claimants of oil- or gas-bearing lands; exceptions to withdrawals

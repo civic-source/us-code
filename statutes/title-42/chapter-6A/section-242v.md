@@ -3,9 +3,9 @@ title: "Section 242v - Foreign talent recruitment programs"
 usc_title: 42
 usc_section: "242v"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 242v"
-generated_at: "2026-03-30T00:22:52.132Z"
+generated_at: "2026-03-30T00:25:56.904Z"
 ---
 
 # § 242v. Foreign talent recruitment programs

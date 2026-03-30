@@ -3,9 +3,9 @@ title: "Section 959 - Rights of way for electrical plants, etc."
 usc_title: 43
 usc_section: "959"
 chapter: 22
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 959"
-generated_at: "2026-03-30T00:22:31.510Z"
+generated_at: "2026-03-30T00:25:37.042Z"
 ---
 
 # § 959. Rights of way for electrical plants, etc.

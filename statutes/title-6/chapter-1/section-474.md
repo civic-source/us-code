@@ -3,9 +3,9 @@ title: "Section 474 - Homeland security critical domain research and development
 usc_title: 6
 usc_section: "474"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "6 U.S.C. § 474"
-generated_at: "2026-03-30T00:21:02.284Z"
+generated_at: "2026-03-30T00:23:51.236Z"
 ---
 
 # § 474. Homeland security critical domain research and development

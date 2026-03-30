@@ -3,9 +3,9 @@ title: "Section 7 - Railroad and highway crossings over floodways"
 usc_title: 33
 usc_section: "7"
 chapter: 15
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 7"
-generated_at: "2026-03-30T00:22:20.577Z"
+generated_at: "2026-03-30T00:25:27.454Z"
 ---
 
 # § 702a–7. Railroad and highway crossings over floodways

@@ -3,9 +3,9 @@ title: "Section 1616k - Nursing residency program"
 usc_title: 25
 usc_section: "1616k"
 chapter: 18
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 1616k"
-generated_at: "2026-03-30T00:21:54.348Z"
+generated_at: "2026-03-30T00:25:07.729Z"
 ---
 
 # § 1616k. Nursing residency program

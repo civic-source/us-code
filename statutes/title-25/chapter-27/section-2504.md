@@ -3,9 +3,9 @@ title: "Section 2504 - Eligibility for grants"
 usc_title: 25
 usc_section: "2504"
 chapter: 27
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 2504"
-generated_at: "2026-03-30T00:21:54.374Z"
+generated_at: "2026-03-30T00:25:07.755Z"
 ---
 
 # § 2504. Eligibility for grants

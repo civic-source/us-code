@@ -3,9 +3,9 @@ title: "Section 288i - Representation conflict or inconsistency"
 usc_title: 2
 usc_section: "288i"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 288i"
-generated_at: "2026-03-30T00:20:57.367Z"
+generated_at: "2026-03-30T00:23:43.021Z"
 ---
 
 # § 288i. Representation conflict or inconsistency

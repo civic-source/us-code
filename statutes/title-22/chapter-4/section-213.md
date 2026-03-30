@@ -3,9 +3,9 @@ title: "Section 213 - Application for passport; verification by oath of initial 
 usc_title: 22
 usc_section: "213"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 213"
-generated_at: "2026-03-30T00:22:05.677Z"
+generated_at: "2026-03-30T00:25:05.295Z"
 ---
 
 # § 213. Application for passport; verification by oath of initial passport

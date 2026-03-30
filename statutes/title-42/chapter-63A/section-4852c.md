@@ -3,9 +3,9 @@ title: "Section 4852c - Guidelines for lead-based paint hazard evaluation and re
 usc_title: 42
 usc_section: "4852c"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 4852c"
-generated_at: "2026-03-30T00:22:52.697Z"
+generated_at: "2026-03-30T00:25:57.447Z"
 ---
 
 # § 4852c. Guidelines for lead-based paint hazard evaluation and reduction activities

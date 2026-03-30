@@ -3,9 +3,9 @@ title: "Section 1572 - Legislators"
 usc_title: 48
 usc_section: "1572"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "48 U.S.C. § 1572"
-generated_at: "2026-03-30T00:22:59.585Z"
+generated_at: "2026-03-30T00:26:01.317Z"
 ---
 
 # § 1572. Legislators

@@ -1,14 +1,14 @@
 ---
-title: "Section 1063e - President’s Board of Advisors on HBCUS"
+title: "Section 1063e - President’s Board of Advisors on HBCUs"
 usc_title: 20
 usc_section: "1063e"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 1063e"
-generated_at: "2026-03-30T00:21:49.827Z"
+generated_at: "2026-03-30T00:24:56.840Z"
 ---
 
-# § 1063e. President’s Board of Advisors on HBCUS
+# § 1063e. President’s Board of Advisors on HBCUs
 
 - **(a)**
   - **(1)** There is established the President’s Board of Advisors on historically Black colleges and universities in the Department of Education or, if the President so elects, within the Executive Office of the President.

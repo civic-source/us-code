@@ -3,9 +3,9 @@ title: "Section 5851 - Employee protection"
 usc_title: 42
 usc_section: "5851"
 chapter: 73
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 5851"
-generated_at: "2026-03-30T00:22:52.728Z"
+generated_at: "2026-03-30T00:25:57.478Z"
 ---
 
 # § 5851. Employee protection

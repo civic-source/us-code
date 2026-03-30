@@ -3,9 +3,9 @@ title: "Section 364j - Preemption"
 usc_title: 21
 usc_section: "364j"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "21 U.S.C. § 364j"
-generated_at: "2026-03-30T00:21:55.503Z"
+generated_at: "2026-03-30T00:25:01.374Z"
 ---
 
 # § 364j. Preemption

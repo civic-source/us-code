@@ -3,9 +3,9 @@ title: "Section 61k - Transferred"
 usc_title: 2
 usc_section: "61k"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 61k"
-generated_at: "2026-03-30T00:20:57.359Z"
+generated_at: "2026-03-30T00:23:43.012Z"
 ---
 
 # § 61k. Transferred

@@ -3,9 +3,9 @@ title: "Section 18861 - Office of Clean Energy Demonstrations"
 usc_title: 42
 usc_section: "18861"
 chapter: 162
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 18861"
-generated_at: "2026-03-30T00:22:53.042Z"
+generated_at: "2026-03-30T00:25:57.800Z"
 ---
 
 # § 18861. Office of Clean Energy Demonstrations

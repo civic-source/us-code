@@ -3,9 +3,9 @@ title: "Section 8903 - Release from Militia duty upon order to active duty in re
 usc_title: 10
 usc_section: "8903"
 chapter: 887
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 8903"
-generated_at: "2026-03-30T00:21:17.024Z"
+generated_at: "2026-03-30T00:23:58.539Z"
 ---
 
 # § 8903. Release from Militia duty upon order to active duty in reserve components

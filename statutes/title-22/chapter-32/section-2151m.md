@@ -3,9 +3,9 @@ title: "Section 2151m - Repealed. Pub. L. 95–424, title I , §§ 102(f), 104(b
 usc_title: 22
 usc_section: "2151m"
 chapter: 32
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2151m"
-generated_at: "2026-03-30T00:22:05.724Z"
+generated_at: "2026-03-30T00:25:05.346Z"
 ---
 
 # §§ 2151l, 2151m. Repealed. Pub. L. 95–424, title I , §§ 102(f), 104(b), Oct. 6, 1978 , 92 Stat. 942 , 947

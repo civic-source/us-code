@@ -3,9 +3,9 @@ title: "Section 70041 - Regattas and marine parades"
 usc_title: 46
 usc_section: "70041"
 chapter: 700
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 70041"
-generated_at: "2026-03-30T00:23:02.771Z"
+generated_at: "2026-03-30T00:26:04.732Z"
 ---
 
 # § 70041. Regattas and marine parades

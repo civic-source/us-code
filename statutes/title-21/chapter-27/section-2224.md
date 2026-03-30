@@ -3,9 +3,9 @@ title: "Section 2224 - Surveillance"
 usc_title: 21
 usc_section: "2224"
 chapter: 27
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "21 U.S.C. § 2224"
-generated_at: "2026-03-30T00:21:55.556Z"
+generated_at: "2026-03-30T00:25:01.422Z"
 ---
 
 # § 2224. Surveillance

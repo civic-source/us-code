@@ -3,9 +3,9 @@ title: "Section 6329 - Disabled veteran leave"
 usc_title: 5
 usc_section: "6329"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 6329"
-generated_at: "2026-03-30T00:20:59.755Z"
+generated_at: "2026-03-30T00:23:46.141Z"
 ---
 
 # § 6329. Disabled veteran leave

@@ -3,9 +3,9 @@ title: "Section 4319 - Fugitives from justice barred from recovery"
 usc_title: 50
 usc_section: "4319"
 chapter: 53
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 4319"
-generated_at: "2026-03-30T00:22:59.106Z"
+generated_at: "2026-03-30T00:26:03.379Z"
 ---
 
 # § 4319. Fugitives from justice barred from recovery

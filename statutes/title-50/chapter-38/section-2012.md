@@ -3,9 +3,9 @@ title: "Section 2012 - Central Intelligence Agency Retirement and Disability Fun
 usc_title: 50
 usc_section: "2012"
 chapter: 38
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 2012"
-generated_at: "2026-03-30T00:22:59.046Z"
+generated_at: "2026-03-30T00:26:03.313Z"
 ---
 
 # § 2012. Central Intelligence Agency Retirement and Disability Fund

@@ -3,9 +3,9 @@ title: "Section 16291a - Property interests"
 usc_title: 42
 usc_section: "16291a"
 chapter: 149
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 16291a"
-generated_at: "2026-03-30T00:22:52.985Z"
+generated_at: "2026-03-30T00:25:57.743Z"
 ---
 
 # § 16291a. Property interests

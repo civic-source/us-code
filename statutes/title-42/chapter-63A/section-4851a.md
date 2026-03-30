@@ -3,9 +3,9 @@ title: "Section 4851a - Purposes"
 usc_title: 42
 usc_section: "4851a"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 4851a"
-generated_at: "2026-03-30T00:22:52.697Z"
+generated_at: "2026-03-30T00:25:57.447Z"
 ---
 
 # § 4851a. Purposes

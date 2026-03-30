@@ -3,9 +3,9 @@ title: "Section 1175 - Authority to modify process; congressional oversight"
 usc_title: 38
 usc_section: "1175"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 1175"
-generated_at: "2026-03-30T00:22:28.568Z"
+generated_at: "2026-03-30T00:25:32.241Z"
 ---
 
 # § 1175. Authority to modify process; congressional oversight

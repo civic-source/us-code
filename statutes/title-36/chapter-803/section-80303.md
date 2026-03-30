@@ -3,9 +3,9 @@ title: "Section 80303 - Governing body"
 usc_title: 36
 usc_section: "80303"
 chapter: 803
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "36 U.S.C. § 80303"
-generated_at: "2026-03-30T00:22:26.278Z"
+generated_at: "2026-03-30T00:25:33.670Z"
 ---
 
 # § 80303. Governing body

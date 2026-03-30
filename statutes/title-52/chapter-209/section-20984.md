@@ -3,9 +3,9 @@ title: "Section 20984 - Study and report on voters who register by mail and use 
 usc_title: 52
 usc_section: "20984"
 chapter: 209
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "52 U.S.C. § 20984"
-generated_at: "2026-03-30T00:23:22.391Z"
+generated_at: "2026-03-30T00:26:12.157Z"
 ---
 
 # § 20984. Study and report on voters who register by mail and use of Social Security information

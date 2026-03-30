@@ -3,9 +3,9 @@ title: "Section 7274e - Scholarship and fellowship program for environmental res
 usc_title: 42
 usc_section: "7274e"
 chapter: 84
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 7274e"
-generated_at: "2026-03-30T00:22:52.780Z"
+generated_at: "2026-03-30T00:25:57.534Z"
 ---
 
 # § 7274e. Scholarship and fellowship program for environmental restoration and waste management

@@ -3,9 +3,9 @@ title: "Section 704 - Accountability: relief from upon order to active duty"
 usc_title: 32
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "32 U.S.C. § 704"
-generated_at: "2026-03-30T00:22:18.681Z"
+generated_at: "2026-03-30T00:25:23.650Z"
 ---
 
 # § 704. Accountability: relief from upon order to active duty

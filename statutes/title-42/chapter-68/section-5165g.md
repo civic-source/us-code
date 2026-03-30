@@ -3,9 +3,9 @@ title: "Section 5165g - National veterinary emergency teams"
 usc_title: 42
 usc_section: "5165g"
 chapter: 68
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 5165g"
-generated_at: "2026-03-30T00:22:52.711Z"
+generated_at: "2026-03-30T00:25:57.460Z"
 ---
 
 # § 5165g. National veterinary emergency teams

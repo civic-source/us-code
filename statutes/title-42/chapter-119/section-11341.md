@@ -3,9 +3,9 @@ title: "Section 11341 - Grants by Director"
 usc_title: 42
 usc_section: "11341"
 chapter: 119
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 11341"
-generated_at: "2026-03-30T00:22:52.902Z"
+generated_at: "2026-03-30T00:25:57.657Z"
 ---
 
 # § 11341. Grants by Director

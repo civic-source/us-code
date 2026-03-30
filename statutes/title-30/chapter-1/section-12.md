@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Oct. 25, 1951, ch. 562, § 1(16) , 65 Stat. 638"
 usc_title: 30
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 12"
-generated_at: "2026-03-30T00:22:08.275Z"
+generated_at: "2026-03-30T00:25:10.210Z"
 ---
 
 # § 12. Repealed. Oct. 25, 1951, ch. 562, § 1(16) , 65 Stat. 638

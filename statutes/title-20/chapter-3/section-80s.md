@@ -3,9 +3,9 @@ title: "Section 80s - Findings; purpose"
 usc_title: 20
 usc_section: "80s"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 80s"
-generated_at: "2026-03-30T00:21:49.809Z"
+generated_at: "2026-03-30T00:24:56.815Z"
 ---
 
 # § 80s. Findings; purpose

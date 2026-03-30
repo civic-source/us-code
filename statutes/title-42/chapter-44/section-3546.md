@@ -3,9 +3,9 @@ title: "Section 3546 - Use of domestic products"
 usc_title: 42
 usc_section: "3546"
 chapter: 44
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 3546"
-generated_at: "2026-03-30T00:22:52.674Z"
+generated_at: "2026-03-30T00:25:57.426Z"
 ---
 
 # § 3546. Use of domestic products

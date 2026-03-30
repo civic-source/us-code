@@ -3,9 +3,9 @@ title: "Section 14a - Annual appropriations for maintenance, operation, and impr
 usc_title: 24
 usc_section: "14a"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "24 U.S.C. § 14a"
-generated_at: "2026-03-30T00:21:52.526Z"
+generated_at: "2026-03-30T00:25:00.328Z"
 ---
 
 # § 14a. Annual appropriations for maintenance, operation, and improvement of naval hospitals

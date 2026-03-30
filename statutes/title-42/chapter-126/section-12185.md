@@ -3,9 +3,9 @@ title: "Section 12185 - Study"
 usc_title: 42
 usc_section: "12185"
 chapter: 126
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 12185"
-generated_at: "2026-03-30T00:22:52.914Z"
+generated_at: "2026-03-30T00:25:57.669Z"
 ---
 
 # § 12185. Study

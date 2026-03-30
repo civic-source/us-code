@@ -3,9 +3,9 @@ title: "Section 506 - Criminal offenses"
 usc_title: 17
 usc_section: "506"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "17 U.S.C. § 506"
-generated_at: "2026-03-30T00:21:31.799Z"
+generated_at: "2026-03-30T00:24:22.111Z"
 ---
 
 # § 506. Criminal offenses

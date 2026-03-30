@@ -3,9 +3,9 @@ title: "Section 7383j - Definition of Restricted Data"
 usc_title: 42
 usc_section: "7383j"
 chapter: 84
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 7383j"
-generated_at: "2026-03-30T00:22:52.784Z"
+generated_at: "2026-03-30T00:25:57.538Z"
 ---
 
 # § 7383j. Definition of Restricted Data

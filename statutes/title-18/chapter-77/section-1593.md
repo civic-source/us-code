@@ -3,9 +3,9 @@ title: "Section 1593 - Mandatory restitution"
 usc_title: 18
 usc_section: "1593"
 chapter: 77
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 1593"
-generated_at: "2026-03-30T00:21:34.187Z"
+generated_at: "2026-03-30T00:24:29.228Z"
 ---
 
 # § 1593. Mandatory restitution

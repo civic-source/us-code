@@ -3,9 +3,9 @@ title: "Section 893b - NOAA’s contribution to innovation"
 usc_title: 33
 usc_section: "893b"
 chapter: 17
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 893b"
-generated_at: "2026-03-30T00:22:20.582Z"
+generated_at: "2026-03-30T00:25:27.458Z"
 ---
 
 # § 893b. NOAA’s contribution to innovation

@@ -3,9 +3,9 @@ title: "Section 50110 - Securing preference to vessels of the United States"
 usc_title: 46
 usc_section: "50110"
 chapter: 501
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 50110"
-generated_at: "2026-03-30T00:23:02.751Z"
+generated_at: "2026-03-30T00:26:04.713Z"
 ---
 
 # § 50110. Securing preference to vessels of the United States

@@ -3,9 +3,9 @@ title: "Section 3733 - Assignment of errors—(Rule)"
 usc_title: 18
 usc_section: "3733"
 chapter: 235
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 3733"
-generated_at: "2026-03-30T00:21:34.224Z"
+generated_at: "2026-03-30T00:24:29.270Z"
 ---
 
 # § 3733. Assignment of errors—(Rule)

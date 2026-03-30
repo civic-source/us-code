@@ -3,9 +3,9 @@ title: "Section 6925 - Permits for treatment, storage, or disposal of hazardous 
 usc_title: 42
 usc_section: "6925"
 chapter: 82
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 6925"
-generated_at: "2026-03-30T00:22:52.763Z"
+generated_at: "2026-03-30T00:25:57.519Z"
 ---
 
 # § 6925. Permits for treatment, storage, or disposal of hazardous waste

@@ -3,9 +3,9 @@ title: "Section 457 - Separability"
 usc_title: 7
 usc_section: "457"
 chapter: 18
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 457"
-generated_at: "2026-03-30T00:21:11.882Z"
+generated_at: "2026-03-30T00:23:53.584Z"
 ---
 
 # § 457. Separability

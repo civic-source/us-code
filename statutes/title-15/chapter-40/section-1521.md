@@ -3,9 +3,9 @@ title: "Section 1521 - Working capital fund; establishment; amount; uses; reimbu
 usc_title: 15
 usc_section: "1521"
 chapter: 40
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 1521"
-generated_at: "2026-03-30T00:21:29.506Z"
+generated_at: "2026-03-30T00:24:11.882Z"
 ---
 
 # § 1521. Working capital fund; establishment; amount; uses; reimbursement

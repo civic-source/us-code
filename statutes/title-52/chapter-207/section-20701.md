@@ -3,9 +3,9 @@ title: "Section 20701 - Retention and preservation of records and papers by offi
 usc_title: 52
 usc_section: "20701"
 chapter: 207
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "52 U.S.C. § 20701"
-generated_at: "2026-03-30T00:23:22.386Z"
+generated_at: "2026-03-30T00:26:12.153Z"
 ---
 
 # § 20701. Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation

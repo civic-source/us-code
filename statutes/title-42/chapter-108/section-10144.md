@@ -3,9 +3,9 @@ title: "Section 10144 - Consideration of effect of acquisition of water rights"
 usc_title: 42
 usc_section: "10144"
 chapter: 108
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 10144"
-generated_at: "2026-03-30T00:22:52.883Z"
+generated_at: "2026-03-30T00:25:57.639Z"
 ---
 
 # § 10144. Consideration of effect of acquisition of water rights

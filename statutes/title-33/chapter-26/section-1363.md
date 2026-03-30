@@ -3,9 +3,9 @@ title: "Section 1363 - Water Pollution Control Advisory Board"
 usc_title: 33
 usc_section: "1363"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 1363"
-generated_at: "2026-03-30T00:22:20.612Z"
+generated_at: "2026-03-30T00:25:27.487Z"
 ---
 
 # § 1363. Water Pollution Control Advisory Board

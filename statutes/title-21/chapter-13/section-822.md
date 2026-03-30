@@ -3,9 +3,9 @@ title: "Section 822 - Persons required to register"
 usc_title: 21
 usc_section: "822"
 chapter: 13
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "21 U.S.C. § 822"
-generated_at: "2026-03-30T00:21:55.533Z"
+generated_at: "2026-03-30T00:25:01.403Z"
 ---
 
 # § 822. Persons required to register

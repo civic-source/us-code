@@ -3,9 +3,9 @@ title: "Section 6822 - Native American and Alaska Native children in school"
 usc_title: 20
 usc_section: "6822"
 chapter: 70
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 6822"
-generated_at: "2026-03-30T00:21:49.932Z"
+generated_at: "2026-03-30T00:24:56.961Z"
 ---
 
 # § 6822. Native American and Alaska Native children in school

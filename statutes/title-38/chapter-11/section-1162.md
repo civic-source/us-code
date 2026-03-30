@@ -3,16 +3,16 @@ title: "Section 1162 - Clothing allowance"
 usc_title: 38
 usc_section: "1162"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 1162"
-generated_at: "2026-03-30T00:22:28.567Z"
+generated_at: "2026-03-30T00:25:32.241Z"
 ---
 
 # § 1162. Clothing allowance
 
 - **(a)** The Secretary, under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 1 1 See Special Benefit Allowance Rates note below. per year to each veteran who—
   - **(1)** because of a service-connected disability, wears or uses a prosthetic or orthopedic appliance (including a wheelchair) which the Secretary determines tends to wear out or tear the clothing of the veteran; or
-  - **(2)** uses medication which—”
+  - **(2)** uses medication which—
     - **(A)** a physician has prescribed for a skin condition which is due to a service-connected disability; and
     - **(B)** the Secretary determines causes irreparable damage to the veteran’s outergarments.
 - **(b)** Payments made to a veteran under subsection (a) shall continue on an automatically recurring annual basis until the earlier of the following:

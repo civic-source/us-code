@@ -3,9 +3,9 @@ title: "Section 5413 - Agricultural assistance"
 usc_title: 22
 usc_section: "5413"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 5413"
-generated_at: "2026-03-30T00:22:05.802Z"
+generated_at: "2026-03-30T00:25:05.435Z"
 ---
 
 # § 5413. Agricultural assistance

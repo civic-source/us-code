@@ -3,9 +3,9 @@ title: "Section 60h - Omitted"
 usc_title: 2
 usc_section: "60h"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 60h"
-generated_at: "2026-03-30T00:20:57.359Z"
+generated_at: "2026-03-30T00:23:43.012Z"
 ---
 
 # § 60h. Omitted

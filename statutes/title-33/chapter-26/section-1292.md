@@ -3,9 +3,9 @@ title: "Section 1292 - Definitions"
 usc_title: 33
 usc_section: "1292"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 1292"
-generated_at: "2026-03-30T00:22:20.596Z"
+generated_at: "2026-03-30T00:25:27.473Z"
 ---
 
 # § 1292. Definitions

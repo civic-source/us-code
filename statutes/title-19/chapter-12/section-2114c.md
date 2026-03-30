@@ -3,9 +3,9 @@ title: "Section 2114c - Trade in services: development, coordination, and implem
 usc_title: 19
 usc_section: "2114c"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 2114c"
-generated_at: "2026-03-30T00:21:40.977Z"
+generated_at: "2026-03-30T00:24:23.406Z"
 ---
 
 # § 2114c. Trade in services: development, coordination, and implementation of Federal policies; staff support and other assistance; specific service sector authorities unaffected; executive functions

@@ -3,9 +3,9 @@ title: "Section 1392a - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80
 usc_title: 48
 usc_section: "1392a"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "48 U.S.C. § 1392a"
-generated_at: "2026-03-30T00:22:59.580Z"
+generated_at: "2026-03-30T00:26:01.312Z"
 ---
 
 # § 1392a. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 650 , 654

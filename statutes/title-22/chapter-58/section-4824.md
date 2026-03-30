@@ -3,9 +3,9 @@ title: "Section 4824 - Contracting authority"
 usc_title: 22
 usc_section: "4824"
 chapter: 58
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4824"
-generated_at: "2026-03-30T00:22:05.798Z"
+generated_at: "2026-03-30T00:25:05.432Z"
 ---
 
 # § 4824. Contracting authority

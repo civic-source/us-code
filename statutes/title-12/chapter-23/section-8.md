@@ -3,9 +3,9 @@ title: "Section 8 - Standards for qualified loans"
 usc_title: 12
 usc_section: "8"
 chapter: 23
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T00:21:26.551Z"
+generated_at: "2026-03-30T00:24:19.047Z"
 ---
 
 # § 2279aa–8. Standards for qualified loans

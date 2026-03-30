@@ -3,9 +3,9 @@ title: "Section 4d - Initiation of discussions to facilitate financing of human 
 usc_title: 22
 usc_section: "4d"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4d"
-generated_at: "2026-03-30T00:22:05.680Z"
+generated_at: "2026-03-30T00:25:05.299Z"
 ---
 
 # § 262p–4d. Initiation of discussions to facilitate financing of human welfare and natural resource programs in sub-Saharan Africa in connection with debt reduction and conversion

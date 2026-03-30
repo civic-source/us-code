@@ -3,9 +3,9 @@ title: "Section 415 - Computation of primary insurance amount"
 usc_title: 42
 usc_section: "415"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 415"
-generated_at: "2026-03-30T00:22:52.327Z"
+generated_at: "2026-03-30T00:25:57.085Z"
 ---
 
 # § 415. Computation of primary insurance amount

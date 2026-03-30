@@ -3,9 +3,9 @@ title: "Section 754 - Commutation of rations for officers and crews of vessels o
 usc_title: 16
 usc_section: "754"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 754"
-generated_at: "2026-03-30T00:21:39.160Z"
+generated_at: "2026-03-30T00:24:34.525Z"
 ---
 
 # § 754. Commutation of rations for officers and crews of vessels of Service

@@ -3,9 +3,9 @@ title: "Section 2237 - Use of field work funds for employment of men with equipm
 usc_title: 7
 usc_section: "2237"
 chapter: 55
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 2237"
-generated_at: "2026-03-30T00:21:11.979Z"
+generated_at: "2026-03-30T00:23:53.665Z"
 ---
 
 # § 2237. Use of field work funds for employment of men with equipment, etc.

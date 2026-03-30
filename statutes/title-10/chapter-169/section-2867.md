@@ -3,9 +3,9 @@ title: "Section 2867 - Energy monitoring and utility control system specificatio
 usc_title: 10
 usc_section: "2867"
 chapter: 169
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 2867"
-generated_at: "2026-03-30T00:21:16.863Z"
+generated_at: "2026-03-30T00:23:58.488Z"
 ---
 
 # § 2867. Energy monitoring and utility control system specification for military construction and military family housing activities

@@ -3,9 +3,9 @@ title: "Section 8463 - Midshipmen: discharge for deficiency"
 usc_title: 10
 usc_section: "8463"
 chapter: 853
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 8463"
-generated_at: "2026-03-30T00:21:16.915Z"
+generated_at: "2026-03-30T00:23:58.530Z"
 ---
 
 # § 8463. Midshipmen: discharge for deficiency

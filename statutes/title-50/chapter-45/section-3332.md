@@ -3,9 +3,9 @@ title: "Section 3332 - Guidance and reporting requirement regarding the interact
 usc_title: 50
 usc_section: "3332"
 chapter: 45
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 3332"
-generated_at: "2026-03-30T00:22:59.080Z"
+generated_at: "2026-03-30T00:26:03.353Z"
 ---
 
 # § 3332. Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry

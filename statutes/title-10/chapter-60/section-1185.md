@@ -3,9 +3,9 @@ title: "Section 1185 - Rights and procedures"
 usc_title: 10
 usc_section: "1185"
 chapter: 60
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 1185"
-generated_at: "2026-03-30T00:21:16.803Z"
+generated_at: "2026-03-30T00:23:58.434Z"
 ---
 
 # § 1185. Rights and procedures

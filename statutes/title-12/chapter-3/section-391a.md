@@ -3,9 +3,9 @@ title: "Section 391a - Reimbursement of Federal Reserve Banks"
 usc_title: 12
 usc_section: "391a"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 391a"
-generated_at: "2026-03-30T00:21:26.435Z"
+generated_at: "2026-03-30T00:24:18.932Z"
 ---
 
 # § 391a. Reimbursement of Federal Reserve Banks

@@ -3,9 +3,9 @@ title: "Section 3104 - Certifications and determinations on transferred records"
 usc_title: 44
 usc_section: "3104"
 chapter: 31
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "44 U.S.C. § 3104"
-generated_at: "2026-03-30T00:22:30.587Z"
+generated_at: "2026-03-30T00:25:35.583Z"
 ---
 
 # § 3104. Certifications and determinations on transferred records

@@ -3,9 +3,9 @@ title: "Section 150702 - Purposes"
 usc_title: 36
 usc_section: "150702"
 chapter: 1507
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "36 U.S.C. § 150702"
-generated_at: "2026-03-30T00:22:26.283Z"
+generated_at: "2026-03-30T00:25:33.675Z"
 ---
 
 # § 150702. Purposes

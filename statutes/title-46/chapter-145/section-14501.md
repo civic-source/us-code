@@ -3,9 +3,9 @@ title: "Section 14501 - Application"
 usc_title: 46
 usc_section: "14501"
 chapter: 145
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 14501"
-generated_at: "2026-03-30T00:23:02.743Z"
+generated_at: "2026-03-30T00:26:04.708Z"
 ---
 
 # § 14501. Application

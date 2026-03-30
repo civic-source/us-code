@@ -3,9 +3,9 @@ title: "Section 32913 - Compromising and remitting civil penalties"
 usc_title: 49
 usc_section: "32913"
 chapter: 329
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "49 U.S.C. § 32913"
-generated_at: "2026-03-30T00:23:07.355Z"
+generated_at: "2026-03-30T00:26:10.241Z"
 ---
 
 # § 32913. Compromising and remitting civil penalties

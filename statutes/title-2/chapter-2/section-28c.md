@@ -3,9 +3,9 @@ title: "Section 28c - Distribution of Precedents by Director of the Government P
 usc_title: 2
 usc_section: "28c"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 28c"
-generated_at: "2026-03-30T00:20:57.356Z"
+generated_at: "2026-03-30T00:23:43.009Z"
 ---
 
 # § 28c. Distribution of Precedents by Director of the Government Publishing Office

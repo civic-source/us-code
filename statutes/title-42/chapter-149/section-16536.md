@@ -3,9 +3,9 @@ title: "Section 16536 - Protecting America’s Competitive Edge (PACE) graduate 
 usc_title: 42
 usc_section: "16536"
 chapter: 149
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 16536"
-generated_at: "2026-03-30T00:22:52.997Z"
+generated_at: "2026-03-30T00:25:57.754Z"
 ---
 
 # § 16536. Protecting America’s Competitive Edge (PACE) graduate fellowship program

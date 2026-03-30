@@ -3,9 +3,9 @@ title: "Section 1743 - Demand on postmaster"
 usc_title: 28
 usc_section: "1743"
 chapter: 115
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 1743"
-generated_at: "2026-03-30T00:22:09.193Z"
+generated_at: "2026-03-30T00:25:11.524Z"
 ---
 
 # § 1743. Demand on postmaster

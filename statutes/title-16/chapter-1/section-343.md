@@ -3,9 +3,9 @@ title: "Section 343 - Repealed. Pub. L. 116–9, title II, § 2108(d)(1) , Mar. 
 usc_title: 16
 usc_section: "343"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 343"
-generated_at: "2026-03-30T00:21:39.004Z"
+generated_at: "2026-03-30T00:24:34.373Z"
 ---
 
 # § 343. Repealed. Pub. L. 116–9, title II, § 2108(d)(1) , Mar. 12, 2019 , 133 Stat. 730

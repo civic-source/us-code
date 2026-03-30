@@ -3,9 +3,9 @@ title: "Section 722 - Acquisition of lands and water"
 usc_title: 16
 usc_section: "722"
 chapter: 8
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 722"
-generated_at: "2026-03-30T00:21:39.156Z"
+generated_at: "2026-03-30T00:24:34.524Z"
 ---
 
 # § 722. Acquisition of lands and water

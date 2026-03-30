@@ -3,9 +3,9 @@ title: "Section 9205 - Technology application programs"
 usc_title: 42
 usc_section: "9205"
 chapter: 100
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 9205"
-generated_at: "2026-03-30T00:22:52.851Z"
+generated_at: "2026-03-30T00:25:57.606Z"
 ---
 
 # § 9205. Technology application programs

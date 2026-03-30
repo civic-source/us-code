@@ -3,9 +3,9 @@ title: "Section 5536 - Prohibited acts"
 usc_title: 12
 usc_section: "5536"
 chapter: 53
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 5536"
-generated_at: "2026-03-30T00:21:26.620Z"
+generated_at: "2026-03-30T00:24:19.115Z"
 ---
 
 # § 5536. Prohibited acts

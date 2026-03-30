@@ -3,9 +3,9 @@ title: "Section 1437k - Consortia, joint ventures, affiliates, and subsidiaries 
 usc_title: 42
 usc_section: "1437k"
 chapter: 8
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 1437k"
-generated_at: "2026-03-30T00:22:52.562Z"
+generated_at: "2026-03-30T00:25:57.318Z"
 ---
 
 # § 1437k. Consortia, joint ventures, affiliates, and subsidiaries of public housing agencies

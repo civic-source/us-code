@@ -3,9 +3,9 @@ title: "Section 57304 - Eligible acquisition dates"
 usc_title: 46
 usc_section: "57304"
 chapter: 573
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 57304"
-generated_at: "2026-03-30T00:23:02.766Z"
+generated_at: "2026-03-30T00:26:04.729Z"
 ---
 
 # § 57304. Eligible acquisition dates

@@ -3,9 +3,9 @@ title: "Section 5321 - Self-determination contracts"
 usc_title: 25
 usc_section: "5321"
 chapter: 46
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 5321"
-generated_at: "2026-03-30T00:21:54.399Z"
+generated_at: "2026-03-30T00:25:07.782Z"
 ---
 
 # § 5321. Self-determination contracts

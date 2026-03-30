@@ -3,9 +3,9 @@ title: "Section 30103 - Local law enforcement grants"
 usc_title: 34
 usc_section: "30103"
 chapter: 301
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "34 U.S.C. § 30103"
-generated_at: "2026-03-30T00:22:21.488Z"
+generated_at: "2026-03-30T00:25:25.759Z"
 ---
 
 # § 30103. Local law enforcement grants

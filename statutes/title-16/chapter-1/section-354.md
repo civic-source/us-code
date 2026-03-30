@@ -3,9 +3,9 @@ title: "Section 354 - Offenses; punishment"
 usc_title: 16
 usc_section: "354"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 354"
-generated_at: "2026-03-30T00:21:39.005Z"
+generated_at: "2026-03-30T00:24:34.374Z"
 ---
 
 # § 354. Offenses; punishment

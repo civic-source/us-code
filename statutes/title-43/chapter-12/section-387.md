@@ -3,9 +3,9 @@ title: "Section 387 - Removal of sand, gravel, etc.; leases, easements, etc."
 usc_title: 43
 usc_section: "387"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 387"
-generated_at: "2026-03-30T00:22:31.489Z"
+generated_at: "2026-03-30T00:25:37.014Z"
 ---
 
 # § 387. Removal of sand, gravel, etc.; leases, easements, etc.

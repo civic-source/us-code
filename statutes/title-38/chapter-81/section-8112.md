@@ -3,9 +3,9 @@ title: "Section 8112 - Partial relinquishment of legislative jurisdiction"
 usc_title: 38
 usc_section: "8112"
 chapter: 81
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 8112"
-generated_at: "2026-03-30T00:22:28.639Z"
+generated_at: "2026-03-30T00:25:32.315Z"
 ---
 
 # § 8112. Partial relinquishment of legislative jurisdiction

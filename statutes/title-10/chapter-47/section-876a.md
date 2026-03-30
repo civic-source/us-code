@@ -3,9 +3,9 @@ title: "Section 876a - Art. 76a. Leave required to be taken pending review of ce
 usc_title: 10
 usc_section: "876a"
 chapter: 47
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 876a"
-generated_at: "2026-03-30T00:21:16.774Z"
+generated_at: "2026-03-30T00:23:58.410Z"
 ---
 
 # § 876a. Art. 76a. Leave required to be taken pending review of certain court-martial convictions

@@ -3,9 +3,9 @@ title: "Section 2428a - Congressional declaration of policy toward Korea; transm
 usc_title: 22
 usc_section: "2428a"
 chapter: 32
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2428a"
-generated_at: "2026-03-30T00:22:05.746Z"
+generated_at: "2026-03-30T00:25:05.371Z"
 ---
 
 # § 2428a. Congressional declaration of policy toward Korea; transmittal of report to Speaker of the House and Congressional committees

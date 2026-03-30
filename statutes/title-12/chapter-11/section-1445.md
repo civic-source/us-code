@@ -3,9 +3,9 @@ title: "Section 1445 - Succession of Federal Home Loan Banks"
 usc_title: 12
 usc_section: "1445"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 1445"
-generated_at: "2026-03-30T00:21:26.451Z"
+generated_at: "2026-03-30T00:24:18.947Z"
 ---
 
 # § 1445. Succession of Federal Home Loan Banks

@@ -3,9 +3,9 @@ title: "Section 1466 - Engaging in the business of selling or transferring obsce
 usc_title: 18
 usc_section: "1466"
 chapter: 71
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 1466"
-generated_at: "2026-03-30T00:21:34.185Z"
+generated_at: "2026-03-30T00:24:29.227Z"
 ---
 
 # § 1466. Engaging in the business of selling or transferring obscene matter

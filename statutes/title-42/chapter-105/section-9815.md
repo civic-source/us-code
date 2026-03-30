@@ -3,9 +3,9 @@ title: "Section 9815 - Small Business Administration and Department of Commerce 
 usc_title: 42
 usc_section: "9815"
 chapter: 105
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 9815"
-generated_at: "2026-03-30T00:22:52.866Z"
+generated_at: "2026-03-30T00:25:57.622Z"
 ---
 
 # § 9815. Small Business Administration and Department of Commerce economic development programs; regulations

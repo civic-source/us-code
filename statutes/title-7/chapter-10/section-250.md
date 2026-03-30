@@ -3,9 +3,9 @@ title: "Section 250 - Warehouse receipts"
 usc_title: 7
 usc_section: "250"
 chapter: 10
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 250"
-generated_at: "2026-03-30T00:21:11.878Z"
+generated_at: "2026-03-30T00:23:53.580Z"
 ---
 
 # § 250. Warehouse receipts

@@ -3,9 +3,9 @@ title: "Section 3503 - Agency terminations"
 usc_title: 20
 usc_section: "3503"
 chapter: 48
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 3503"
-generated_at: "2026-03-30T00:21:49.906Z"
+generated_at: "2026-03-30T00:24:56.932Z"
 ---
 
 # § 3503. Agency terminations

@@ -3,9 +3,9 @@ title: "Section 14306 - Reciprocity for foreign vessels"
 usc_title: 46
 usc_section: "14306"
 chapter: 143
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 14306"
-generated_at: "2026-03-30T00:23:02.743Z"
+generated_at: "2026-03-30T00:26:04.707Z"
 ---
 
 # § 14306. Reciprocity for foreign vessels

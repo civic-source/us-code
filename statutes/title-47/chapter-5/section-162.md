@@ -3,9 +3,9 @@ title: "Section 162 - Additional research authorities of the FCC"
 usc_title: 47
 usc_section: "162"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 162"
-generated_at: "2026-03-30T00:23:16.638Z"
+generated_at: "2026-03-30T00:26:05.935Z"
 ---
 
 # § 162. Additional research authorities of the FCC

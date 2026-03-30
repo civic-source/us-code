@@ -3,9 +3,9 @@ title: "Section 1252a - Reservoir projects, water storage; modification; storage
 usc_title: 33
 usc_section: "1252a"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 1252a"
-generated_at: "2026-03-30T00:22:20.588Z"
+generated_at: "2026-03-30T00:25:27.465Z"
 ---
 
 # § 1252a. Reservoir projects, water storage; modification; storage for other than for water quality, opinion of Federal agency, committee resolutions of approval; provisions inapplicable to projects with certain prescribed water quality benefits in relation to total project benefits

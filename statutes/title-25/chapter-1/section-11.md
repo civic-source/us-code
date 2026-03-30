@@ -3,9 +3,9 @@ title: "Section 11 - Employee or employees to sign approval of tribal deeds"
 usc_title: 25
 usc_section: "11"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 11"
-generated_at: "2026-03-30T00:21:54.327Z"
+generated_at: "2026-03-30T00:25:07.704Z"
 ---
 
 # § 11. Employee or employees to sign approval of tribal deeds

@@ -3,9 +3,9 @@ title: "Section 1699 - Certification of delivery from vessel"
 usc_title: 18
 usc_section: "1699"
 chapter: 83
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 1699"
-generated_at: "2026-03-30T00:21:34.187Z"
+generated_at: "2026-03-30T00:24:29.229Z"
 ---
 
 # § 1699. Certification of delivery from vessel

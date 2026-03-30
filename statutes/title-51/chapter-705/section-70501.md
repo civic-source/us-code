@@ -3,9 +3,9 @@ title: "Section 70501 - Space shuttle follow-on"
 usc_title: 51
 usc_section: "70501"
 chapter: 705
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "51 U.S.C. § 70501"
-generated_at: "2026-03-30T00:23:28.859Z"
+generated_at: "2026-03-30T00:26:12.746Z"
 ---
 
 # § 70501. Space shuttle follow-on

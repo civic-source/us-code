@@ -3,9 +3,9 @@ title: "Section 5553 - Preservation of existing contracts"
 usc_title: 12
 usc_section: "5553"
 chapter: 53
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 5553"
-generated_at: "2026-03-30T00:21:26.620Z"
+generated_at: "2026-03-30T00:24:19.115Z"
 ---
 
 # § 5553. Preservation of existing contracts

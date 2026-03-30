@@ -3,9 +3,9 @@ title: "Section 4594 - Withholding and remittance of State income tax by Secreta
 usc_title: 2
 usc_section: "4594"
 chapter: 45
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 4594"
-generated_at: "2026-03-30T00:20:57.404Z"
+generated_at: "2026-03-30T00:23:43.060Z"
 ---
 
 # § 4594. Withholding and remittance of State income tax by Secretary of Senate

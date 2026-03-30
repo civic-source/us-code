@@ -3,9 +3,9 @@ title: "Section 4106 - Information from Secretary"
 usc_title: 12
 usc_section: "4106"
 chapter: 42
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 4106"
-generated_at: "2026-03-30T00:21:26.572Z"
+generated_at: "2026-03-30T00:24:19.066Z"
 ---
 
 # § 4106. Information from Secretary

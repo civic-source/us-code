@@ -3,9 +3,9 @@ title: "Section 7251 - Milk price support program"
 usc_title: 7
 usc_section: "7251"
 chapter: 100
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 7251"
-generated_at: "2026-03-30T00:21:12.040Z"
+generated_at: "2026-03-30T00:23:53.718Z"
 ---
 
 # § 7251. Milk price support program

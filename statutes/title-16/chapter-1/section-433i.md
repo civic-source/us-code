@@ -3,9 +3,9 @@ title: "Section 433i - Museum; historical markers"
 usc_title: 16
 usc_section: "433i"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 433i"
-generated_at: "2026-03-30T00:21:39.055Z"
+generated_at: "2026-03-30T00:24:34.422Z"
 ---
 
 # § 433i. Museum; historical markers

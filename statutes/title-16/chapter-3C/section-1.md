@@ -3,9 +3,9 @@ title: "Section 1 - Prerequisites for construction of project"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:21:39.138Z"
+generated_at: "2026-03-30T00:24:34.504Z"
 ---
 
 # § 590z–1. Prerequisites for construction of project

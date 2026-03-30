@@ -3,9 +3,9 @@ title: "Section 16182 - Definitions"
 usc_title: 42
 usc_section: "16182"
 chapter: 149
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 16182"
-generated_at: "2026-03-30T00:22:52.980Z"
+generated_at: "2026-03-30T00:25:57.736Z"
 ---
 
 # § 16182. Definitions

@@ -3,9 +3,9 @@ title: "Section 41507 - National Gang Intelligence Center"
 usc_title: 34
 usc_section: "41507"
 chapter: 415
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "34 U.S.C. § 41507"
-generated_at: "2026-03-30T00:22:21.499Z"
+generated_at: "2026-03-30T00:25:25.770Z"
 ---
 
 # § 41507. National Gang Intelligence Center

@@ -3,9 +3,9 @@ title: "Section 1503 - Determinations with respect to annual income"
 usc_title: 38
 usc_section: "1503"
 chapter: 15
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 1503"
-generated_at: "2026-03-30T00:22:28.569Z"
+generated_at: "2026-03-30T00:25:32.243Z"
 ---
 
 # § 1503. Determinations with respect to annual income

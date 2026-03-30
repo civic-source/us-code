@@ -3,9 +3,9 @@ title: "Section 6235 - Deposit and expenditure of use fees"
 usc_title: 16
 usc_section: "6235"
 chapter: 81
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 6235"
-generated_at: "2026-03-30T00:21:39.309Z"
+generated_at: "2026-03-30T00:24:34.675Z"
 ---
 
 # § 6235. Deposit and expenditure of use fees

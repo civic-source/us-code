@@ -3,9 +3,9 @@ title: "Section 2701 - Unlawful access to stored communications"
 usc_title: 18
 usc_section: "2701"
 chapter: 121
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 2701"
-generated_at: "2026-03-30T00:21:34.206Z"
+generated_at: "2026-03-30T00:24:29.253Z"
 ---
 
 # § 2701. Unlawful access to stored communications

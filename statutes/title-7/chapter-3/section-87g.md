@@ -3,9 +3,9 @@ title: "Section 87g - Relation to State and local laws; separability"
 usc_title: 7
 usc_section: "87g"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 87g"
-generated_at: "2026-03-30T00:21:11.853Z"
+generated_at: "2026-03-30T00:23:53.559Z"
 ---
 
 # § 87g. Relation to State and local laws; separability

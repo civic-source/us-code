@@ -3,9 +3,9 @@ title: "Section 931b - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 43
 usc_section: "931b"
 chapter: 22
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 931b"
-generated_at: "2026-03-30T00:22:31.508Z"
+generated_at: "2026-03-30T00:25:37.040Z"
 ---
 
 # § 931b. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

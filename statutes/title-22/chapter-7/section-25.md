@@ -3,9 +3,9 @@ title: "Section 25 - Fifteenth replenishment"
 usc_title: 22
 usc_section: "25"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 25"
-generated_at: "2026-03-30T00:22:05.700Z"
+generated_at: "2026-03-30T00:25:05.319Z"
 ---
 
 # § 290g–25. Fifteenth replenishment

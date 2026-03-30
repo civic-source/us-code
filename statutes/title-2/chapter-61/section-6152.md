@@ -3,9 +3,9 @@ title: "Section 6152 - Appointment and compensation of employees by Secretaries 
 usc_title: 2
 usc_section: "6152"
 chapter: 61
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 6152"
-generated_at: "2026-03-30T00:20:57.409Z"
+generated_at: "2026-03-30T00:23:43.065Z"
 ---
 
 # § 6152. Appointment and compensation of employees by Secretaries for Senate Majority and Minority; gross compensation

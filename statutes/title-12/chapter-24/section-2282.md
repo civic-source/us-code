@@ -3,9 +3,9 @@ title: "Section 2282 - Definitions"
 usc_title: 12
 usc_section: "2282"
 chapter: 24
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 2282"
-generated_at: "2026-03-30T00:21:26.553Z"
+generated_at: "2026-03-30T00:24:19.048Z"
 ---
 
 # § 2282. Definitions

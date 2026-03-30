@@ -3,9 +3,9 @@ title: "Section 285p - Purpose of Institute"
 usc_title: 42
 usc_section: "285p"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 285p"
-generated_at: "2026-03-30T00:22:52.196Z"
+generated_at: "2026-03-30T00:25:56.963Z"
 ---
 
 # § 285p. Purpose of Institute

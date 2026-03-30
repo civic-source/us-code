@@ -3,9 +3,9 @@ title: "Section 2703 - Authorization of appropriations"
 usc_title: 43
 usc_section: "2703"
 chapter: 45
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 2703"
-generated_at: "2026-03-30T00:22:31.547Z"
+generated_at: "2026-03-30T00:25:37.080Z"
 ---
 
 # § 2703. Authorization of appropriations

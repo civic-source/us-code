@@ -3,9 +3,9 @@ title: "Section 1681b - Enforcement"
 usc_title: 19
 usc_section: "1681b"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 1681b"
-generated_at: "2026-03-30T00:21:40.973Z"
+generated_at: "2026-03-30T00:24:23.401Z"
 ---
 
 # § 1681b. Enforcement

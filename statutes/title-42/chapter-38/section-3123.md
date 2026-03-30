@@ -3,9 +3,9 @@ title: "Section 3123 - Discrimination on basis of sex prohibited in federally as
 usc_title: 42
 usc_section: "3123"
 chapter: 38
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 3123"
-generated_at: "2026-03-30T00:22:52.667Z"
+generated_at: "2026-03-30T00:25:57.418Z"
 ---
 
 # § 3123. Discrimination on basis of sex prohibited in federally assisted programs

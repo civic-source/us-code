@@ -3,9 +3,9 @@ title: "Section 606 - Effect on other law"
 usc_title: 5
 usc_section: "606"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 606"
-generated_at: "2026-03-30T00:20:59.724Z"
+generated_at: "2026-03-30T00:23:46.110Z"
 ---
 
 # § 606. Effect on other law

@@ -3,9 +3,9 @@ title: "Section 6201 - Findings, purposes, and limitations"
 usc_title: 7
 usc_section: "6201"
 chapter: 91
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 6201"
-generated_at: "2026-03-30T00:21:12.022Z"
+generated_at: "2026-03-30T00:23:53.701Z"
 ---
 
 # § 6201. Findings, purposes, and limitations

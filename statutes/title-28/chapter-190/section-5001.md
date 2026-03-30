@@ -3,9 +3,9 @@ title: "Section 5001 - Civil action for death or personal injury in a place subj
 usc_title: 28
 usc_section: "5001"
 chapter: 190
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 5001"
-generated_at: "2026-03-30T00:22:09.204Z"
+generated_at: "2026-03-30T00:25:11.535Z"
 ---
 
 # § 5001. Civil action for death or personal injury in a place subject to exclusive jurisdiction of United States

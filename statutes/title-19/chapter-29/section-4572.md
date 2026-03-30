@@ -3,9 +3,9 @@ title: "Section 4572 - Investigations and determinations by Commission"
 usc_title: 19
 usc_section: "4572"
 chapter: 29
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 4572"
-generated_at: "2026-03-30T00:21:41.030Z"
+generated_at: "2026-03-30T00:24:23.455Z"
 ---
 
 # § 4572. Investigations and determinations by Commission

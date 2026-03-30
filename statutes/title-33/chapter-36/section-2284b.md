@@ -3,9 +3,9 @@ title: "Section 2284b - Scenic and aesthetic considerations"
 usc_title: 33
 usc_section: "2284b"
 chapter: 36
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 2284b"
-generated_at: "2026-03-30T00:22:20.629Z"
+generated_at: "2026-03-30T00:25:27.504Z"
 ---
 
 # § 2284b. Scenic and aesthetic considerations

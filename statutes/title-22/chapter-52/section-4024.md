@@ -3,9 +3,9 @@ title: "Section 4024 - Functions of Secretary"
 usc_title: 22
 usc_section: "4024"
 chapter: 52
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4024"
-generated_at: "2026-03-30T00:22:05.785Z"
+generated_at: "2026-03-30T00:25:05.416Z"
 ---
 
 # § 4024. Functions of Secretary

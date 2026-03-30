@@ -3,9 +3,9 @@ title: "Section 2 - Provision of evidence of certain robocall violations to Atto
 usc_title: 47
 usc_section: "2"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 2"
-generated_at: "2026-03-30T00:23:16.642Z"
+generated_at: "2026-03-30T00:26:05.940Z"
 ---
 
 # § 227b–2. Provision of evidence of certain robocall violations to Attorney General

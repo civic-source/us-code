@@ -3,9 +3,9 @@ title: "Section 5466 - Examination of and enforcement actions against designated
 usc_title: 12
 usc_section: "5466"
 chapter: 53
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 5466"
-generated_at: "2026-03-30T00:21:26.613Z"
+generated_at: "2026-03-30T00:24:19.109Z"
 ---
 
 # § 5466. Examination of and enforcement actions against designated financial market utilities

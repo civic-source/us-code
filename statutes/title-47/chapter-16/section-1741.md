@@ -3,9 +3,9 @@ title: "Section 1741 - Enabling middle mile broadband infrastructure"
 usc_title: 47
 usc_section: "1741"
 chapter: 16
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 1741"
-generated_at: "2026-03-30T00:23:16.692Z"
+generated_at: "2026-03-30T00:26:05.984Z"
 ---
 
 # § 1741. Enabling middle mile broadband infrastructure

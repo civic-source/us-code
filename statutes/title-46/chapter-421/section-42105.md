@@ -3,9 +3,9 @@ title: "Section 42105 - Disclosure to public"
 usc_title: 46
 usc_section: "42105"
 chapter: 421
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 42105"
-generated_at: "2026-03-30T00:23:02.750Z"
+generated_at: "2026-03-30T00:26:04.712Z"
 ---
 
 # § 42105. Disclosure to public

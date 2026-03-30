@@ -3,9 +3,9 @@ title: "Section 9117 - Protection of the environment"
 usc_title: 42
 usc_section: "9117"
 chapter: 99
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 9117"
-generated_at: "2026-03-30T00:22:52.849Z"
+generated_at: "2026-03-30T00:25:57.604Z"
 ---
 
 # § 9117. Protection of the environment

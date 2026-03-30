@@ -3,9 +3,9 @@ title: "Section 11108 - Taxes"
 usc_title: 46
 usc_section: "11108"
 chapter: 111
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 11108"
-generated_at: "2026-03-30T00:23:02.740Z"
+generated_at: "2026-03-30T00:26:04.703Z"
 ---
 
 # § 11108. Taxes

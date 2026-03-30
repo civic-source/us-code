@@ -3,9 +3,9 @@ title: "Section 1505 - Proceedings for escheat of improperly held lands"
 usc_title: 48
 usc_section: "1505"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "48 U.S.C. § 1505"
-generated_at: "2026-03-30T00:22:59.585Z"
+generated_at: "2026-03-30T00:26:01.316Z"
 ---
 
 # § 1505. Proceedings for escheat of improperly held lands

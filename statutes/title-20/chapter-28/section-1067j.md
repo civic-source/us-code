@@ -3,9 +3,9 @@ title: "Section 1067j - Administrative provisions"
 usc_title: 20
 usc_section: "1067j"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 1067j"
-generated_at: "2026-03-30T00:21:49.829Z"
+generated_at: "2026-03-30T00:24:56.841Z"
 ---
 
 # § 1067j. Administrative provisions

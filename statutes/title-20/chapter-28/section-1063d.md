@@ -1,14 +1,14 @@
 ---
-title: "Section 1063d - Strengthening HBCUS through Federal agency plans"
+title: "Section 1063d - Strengthening HBCUs through Federal agency plans"
 usc_title: 20
 usc_section: "1063d"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 1063d"
-generated_at: "2026-03-30T00:21:49.827Z"
+generated_at: "2026-03-30T00:24:56.840Z"
 ---
 
-# § 1063d. Strengthening HBCUS through Federal agency plans
+# § 1063d. Strengthening HBCUs through Federal agency plans
 
 - **(a)** The Secretary, in consultation with the Executive Director, shall—
   - **(1)** identify each Federal agency with which an HBCU—

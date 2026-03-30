@@ -3,9 +3,9 @@ title: "Section 225 - Findings and purposes"
 usc_title: 24
 usc_section: "225"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "24 U.S.C. § 225"
-generated_at: "2026-03-30T00:21:52.527Z"
+generated_at: "2026-03-30T00:25:00.329Z"
 ---
 
 # § 225. Findings and purposes

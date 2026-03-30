@@ -3,9 +3,9 @@ title: "Section 2736d - Payne fellowship authorization"
 usc_title: 22
 usc_section: "2736d"
 chapter: 38
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 2736d"
-generated_at: "2026-03-30T00:22:05.762Z"
+generated_at: "2026-03-30T00:25:05.392Z"
 ---
 
 # § 2736d. Payne fellowship authorization

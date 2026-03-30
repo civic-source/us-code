@@ -3,9 +3,9 @@ title: "Section 410qq - Findings and purpose"
 usc_title: 16
 usc_section: "410qq"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 410qq"
-generated_at: "2026-03-30T00:21:39.023Z"
+generated_at: "2026-03-30T00:24:34.394Z"
 ---
 
 # § 410qq. Findings and purpose

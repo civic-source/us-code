@@ -3,9 +3,9 @@ title: "Section 5 - Agricultural cooperatives"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T00:21:29.368Z"
+generated_at: "2026-03-30T00:24:11.755Z"
 ---
 
 # § 57b–5. Agricultural cooperatives

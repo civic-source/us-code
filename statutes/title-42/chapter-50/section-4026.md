@@ -3,9 +3,9 @@ title: "Section 4026 - Expiration of program"
 usc_title: 42
 usc_section: "4026"
 chapter: 50
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 4026"
-generated_at: "2026-03-30T00:22:52.682Z"
+generated_at: "2026-03-30T00:25:57.433Z"
 ---
 
 # § 4026. Expiration of program

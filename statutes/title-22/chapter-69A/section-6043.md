@@ -3,9 +3,9 @@ title: "Section 6043 - Expulsion of criminals from Cuba"
 usc_title: 22
 usc_section: "6043"
 chapter: 69
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 6043"
-generated_at: "2026-03-30T00:22:05.808Z"
+generated_at: "2026-03-30T00:25:05.444Z"
 ---
 
 # § 6043. Expulsion of criminals from Cuba

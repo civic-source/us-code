@@ -3,9 +3,9 @@ title: "Section 384 - Authority of Commission; operations, installations, and ad
 usc_title: 47
 usc_section: "384"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "47 U.S.C. § 384"
-generated_at: "2026-03-30T00:23:16.659Z"
+generated_at: "2026-03-30T00:26:05.954Z"
 ---
 
 # § 384. Authority of Commission; operations, installations, and additional equipment

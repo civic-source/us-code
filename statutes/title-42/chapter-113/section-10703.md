@@ -3,9 +3,9 @@ title: "Section 10703 - Board of Directors"
 usc_title: 42
 usc_section: "10703"
 chapter: 113
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 10703"
-generated_at: "2026-03-30T00:22:52.893Z"
+generated_at: "2026-03-30T00:25:57.649Z"
 ---
 
 # § 10703. Board of Directors

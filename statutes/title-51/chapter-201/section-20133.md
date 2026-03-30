@@ -3,9 +3,9 @@ title: "Section 20133 - Permission to carry firearms"
 usc_title: 51
 usc_section: "20133"
 chapter: 201
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "51 U.S.C. § 20133"
-generated_at: "2026-03-30T00:23:28.849Z"
+generated_at: "2026-03-30T00:26:12.736Z"
 ---
 
 # § 20133. Permission to carry firearms

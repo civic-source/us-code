@@ -3,9 +3,9 @@ title: "Section 30118 - Notification of defects and noncompliance"
 usc_title: 49
 usc_section: "30118"
 chapter: 301
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "49 U.S.C. § 30118"
-generated_at: "2026-03-30T00:23:07.341Z"
+generated_at: "2026-03-30T00:26:10.225Z"
 ---
 
 # § 30118. Notification of defects and noncompliance

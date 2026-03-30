@@ -3,9 +3,9 @@ title: "Section 13 - Rooms for Currency Bureau"
 usc_title: 12
 usc_section: "13"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T00:21:26.423Z"
+generated_at: "2026-03-30T00:24:18.918Z"
 ---
 
 # § 13. Rooms for Currency Bureau

@@ -3,9 +3,9 @@ title: "Section 2b - Number of Representatives from each State in 78th and subse
 usc_title: 2
 usc_section: "2b"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-03-30T00:20:57.356Z"
+generated_at: "2026-03-30T00:23:43.009Z"
 ---
 
 # § 2b. Number of Representatives from each State in 78th and subsequent Congresses

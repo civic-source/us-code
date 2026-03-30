@@ -3,9 +3,9 @@ title: "Section 742b - United States Fish and Wildlife Service"
 usc_title: 16
 usc_section: "742b"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "16 U.S.C. § 742b"
-generated_at: "2026-03-30T00:21:39.159Z"
+generated_at: "2026-03-30T00:24:34.524Z"
 ---
 
 # § 742b. United States Fish and Wildlife Service

@@ -3,9 +3,9 @@ title: "Section 70707 - Staff of Commission"
 usc_title: 51
 usc_section: "70707"
 chapter: 707
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "51 U.S.C. § 70707"
-generated_at: "2026-03-30T00:23:28.860Z"
+generated_at: "2026-03-30T00:26:12.747Z"
 ---
 
 # § 70707. Staff of Commission

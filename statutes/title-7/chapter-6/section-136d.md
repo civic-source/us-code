@@ -3,9 +3,9 @@ title: "Section 136d - Administrative review; suspension"
 usc_title: 7
 usc_section: "136d"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 136d"
-generated_at: "2026-03-30T00:21:11.858Z"
+generated_at: "2026-03-30T00:23:53.563Z"
 ---
 
 # § 136d. Administrative review; suspension

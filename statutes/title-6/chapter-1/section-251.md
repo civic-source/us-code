@@ -3,9 +3,9 @@ title: "Section 251 - Transfer of functions"
 usc_title: 6
 usc_section: "251"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "6 U.S.C. § 251"
-generated_at: "2026-03-30T00:21:02.272Z"
+generated_at: "2026-03-30T00:23:51.223Z"
 ---
 
 # § 251. Transfer of functions

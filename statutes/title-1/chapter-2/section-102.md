@@ -3,9 +3,9 @@ title: "Section 102 - Resolving clause"
 usc_title: 1
 usc_section: "102"
 chapter: 2
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "1 U.S.C. § 102"
-generated_at: "2026-03-30T00:20:54.605Z"
+generated_at: "2026-03-30T00:23:41.939Z"
 ---
 
 # § 102. Resolving clause

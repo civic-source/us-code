@@ -3,9 +3,9 @@ title: "Section 412 - Prerequisites to initiation of project or division of proj
 usc_title: 43
 usc_section: "412"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 412"
-generated_at: "2026-03-30T00:22:31.493Z"
+generated_at: "2026-03-30T00:25:37.021Z"
 ---
 
 # § 412. Prerequisites to initiation of project or division of project

@@ -3,9 +3,9 @@ title: "Section 4714 - Recordkeeping"
 usc_title: 12
 usc_section: "4714"
 chapter: 47
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 4714"
-generated_at: "2026-03-30T00:21:26.591Z"
+generated_at: "2026-03-30T00:24:19.086Z"
 ---
 
 # § 4714. Recordkeeping

@@ -3,9 +3,9 @@ title: "Section 53 - Prohibition of health discrimination on the basis of geneti
 usc_title: 42
 usc_section: "53"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 53"
-generated_at: "2026-03-30T00:22:52.297Z"
+generated_at: "2026-03-30T00:25:57.056Z"
 ---
 
 # § 300gg–53. Prohibition of health discrimination on the basis of genetic information

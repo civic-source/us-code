@@ -3,9 +3,9 @@ title: "Section 707 - Benefits for employees at overseas offices who are United 
 usc_title: 38
 usc_section: "707"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 707"
-generated_at: "2026-03-30T00:22:28.564Z"
+generated_at: "2026-03-30T00:25:32.236Z"
 ---
 
 # § 707. Benefits for employees at overseas offices who are United States citizens

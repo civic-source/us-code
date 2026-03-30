@@ -3,9 +3,9 @@ title: "Section 13101 - Findings and policy"
 usc_title: 42
 usc_section: "13101"
 chapter: 133
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 13101"
-generated_at: "2026-03-30T00:22:52.943Z"
+generated_at: "2026-03-30T00:25:57.698Z"
 ---
 
 # § 13101. Findings and policy

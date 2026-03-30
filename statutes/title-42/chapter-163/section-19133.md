@@ -3,9 +3,9 @@ title: "Section 19133 - Initiative coordination"
 usc_title: 42
 usc_section: "19133"
 chapter: 163
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 19133"
-generated_at: "2026-03-30T00:22:53.051Z"
+generated_at: "2026-03-30T00:25:57.810Z"
 ---
 
 # § 19133. Initiative coordination

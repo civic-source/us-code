@@ -3,9 +3,9 @@ title: "Section 2344 - Financial assistance"
 usc_title: 19
 usc_section: "2344"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 2344"
-generated_at: "2026-03-30T00:21:40.985Z"
+generated_at: "2026-03-30T00:24:23.413Z"
 ---
 
 # § 2344. Financial assistance

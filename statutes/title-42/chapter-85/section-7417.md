@@ -3,9 +3,9 @@ title: "Section 7417 - Advisory committees"
 usc_title: 42
 usc_section: "7417"
 chapter: 85
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 7417"
-generated_at: "2026-03-30T00:22:52.795Z"
+generated_at: "2026-03-30T00:25:57.549Z"
 ---
 
 # § 7417. Advisory committees

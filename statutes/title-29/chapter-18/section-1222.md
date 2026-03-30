@@ -3,9 +3,9 @@ title: "Section 1222 - Duties"
 usc_title: 29
 usc_section: "1222"
 chapter: 18
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "29 U.S.C. § 1222"
-generated_at: "2026-03-30T00:22:10.315Z"
+generated_at: "2026-03-30T00:25:12.918Z"
 ---
 
 # § 1222. Duties

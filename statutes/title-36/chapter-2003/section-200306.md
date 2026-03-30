@@ -3,9 +3,9 @@ title: "Section 200306 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "200306"
 chapter: 2003
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "36 U.S.C. § 200306"
-generated_at: "2026-03-30T00:22:26.290Z"
+generated_at: "2026-03-30T00:25:33.680Z"
 ---
 
 # § 200306. Exclusive right to name, seals, emblems, and badges

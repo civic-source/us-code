@@ -3,9 +3,9 @@ title: "Section 1331 - Federal question"
 usc_title: 28
 usc_section: "1331"
 chapter: 85
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 1331"
-generated_at: "2026-03-30T00:22:09.187Z"
+generated_at: "2026-03-30T00:25:11.518Z"
 ---
 
 # § 1331. Federal question

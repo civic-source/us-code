@@ -3,9 +3,9 @@ title: "Section 7905 - Requirement of honorable discharge for veterans receiving
 usc_title: 38
 usc_section: "7905"
 chapter: 79
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 7905"
-generated_at: "2026-03-30T00:22:28.637Z"
+generated_at: "2026-03-30T00:25:32.314Z"
 ---
 
 # § 7905. Requirement of honorable discharge for veterans receiving assistance

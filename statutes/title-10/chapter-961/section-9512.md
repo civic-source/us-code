@@ -3,9 +3,9 @@ title: "Section 9512 - Civil Reserve Air Fleet contracts: payment rate"
 usc_title: 10
 usc_section: "9512"
 chapter: 961
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 9512"
-generated_at: "2026-03-30T00:21:17.033Z"
+generated_at: "2026-03-30T00:23:58.546Z"
 ---
 
 # § 9512. Civil Reserve Air Fleet contracts: payment rate

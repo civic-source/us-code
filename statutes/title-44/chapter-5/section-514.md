@@ -3,9 +3,9 @@ title: "Section 514 - Determination of quality of paper"
 usc_title: 44
 usc_section: "514"
 chapter: 5
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "44 U.S.C. § 514"
-generated_at: "2026-03-30T00:22:30.578Z"
+generated_at: "2026-03-30T00:25:35.576Z"
 ---
 
 # § 514. Determination of quality of paper

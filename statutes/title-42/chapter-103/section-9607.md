@@ -3,9 +3,9 @@ title: "Section 9607 - Liability"
 usc_title: 42
 usc_section: "9607"
 chapter: 103
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 9607"
-generated_at: "2026-03-30T00:22:52.856Z"
+generated_at: "2026-03-30T00:25:57.612Z"
 ---
 
 # § 9607. Liability

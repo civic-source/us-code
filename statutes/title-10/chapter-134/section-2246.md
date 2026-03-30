@@ -3,9 +3,9 @@ title: "Section 2246 - Authorization of certain support for military service aca
 usc_title: 10
 usc_section: "2246"
 chapter: 134
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 2246"
-generated_at: "2026-03-30T00:21:16.836Z"
+generated_at: "2026-03-30T00:23:58.464Z"
 ---
 
 # § 2246. Authorization of certain support for military service academy foundations

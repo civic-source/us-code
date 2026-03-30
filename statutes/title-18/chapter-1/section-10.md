@@ -3,9 +3,9 @@ title: "Section 10 - Interstate commerce and foreign commerce defined"
 usc_title: 18
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 10"
-generated_at: "2026-03-30T00:21:34.155Z"
+generated_at: "2026-03-30T00:24:29.198Z"
 ---
 
 # § 10. Interstate commerce and foreign commerce defined

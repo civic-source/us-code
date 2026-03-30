@@ -3,9 +3,9 @@ title: "Section 2296b - Overfeed program"
 usc_title: 42
 usc_section: "2296b"
 chapter: 23
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 2296b"
-generated_at: "2026-03-30T00:22:52.642Z"
+generated_at: "2026-03-30T00:25:57.396Z"
 ---
 
 # § 2296b. Overfeed program

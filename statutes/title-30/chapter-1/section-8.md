@@ -3,9 +3,9 @@ title: "Section 8 - Additional mining experiment stations and mine safety statio
 usc_title: 30
 usc_section: "8"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "30 U.S.C. § 8"
-generated_at: "2026-03-30T00:22:08.275Z"
+generated_at: "2026-03-30T00:25:10.210Z"
 ---
 
 # § 8. Additional mining experiment stations and mine safety stations authorized

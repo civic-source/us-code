@@ -3,9 +3,9 @@ title: "Section 1707 - Definitions"
 usc_title: 12
 usc_section: "1707"
 chapter: 13
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 1707"
-generated_at: "2026-03-30T00:21:26.466Z"
+generated_at: "2026-03-30T00:24:18.964Z"
 ---
 
 # § 1707. Definitions

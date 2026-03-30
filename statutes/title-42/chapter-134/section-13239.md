@@ -3,9 +3,9 @@ title: "Section 13239 - Low interest loan program"
 usc_title: 42
 usc_section: "13239"
 chapter: 134
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 13239"
-generated_at: "2026-03-30T00:22:52.945Z"
+generated_at: "2026-03-30T00:25:57.702Z"
 ---
 
 # § 13239. Low interest loan program

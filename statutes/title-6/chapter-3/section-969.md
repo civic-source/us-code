@@ -3,9 +3,9 @@ title: "Section 969 - Revalidation"
 usc_title: 6
 usc_section: "969"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "6 U.S.C. § 969"
-generated_at: "2026-03-30T00:21:02.305Z"
+generated_at: "2026-03-30T00:23:51.257Z"
 ---
 
 # § 969. Revalidation

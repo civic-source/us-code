@@ -3,9 +3,9 @@ title: "Section 18774 - Data collection on electric vehicle integration with the
 usc_title: 42
 usc_section: "18774"
 chapter: 162
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 18774"
-generated_at: "2026-03-30T00:22:53.039Z"
+generated_at: "2026-03-30T00:25:57.796Z"
 ---
 
 # § 18774. Data collection on electric vehicle integration with the electricity grids

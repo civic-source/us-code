@@ -3,9 +3,9 @@ title: "Section 642a - Rank, pay, and allowances of Corps of Engineers officers 
 usc_title: 33
 usc_section: "642a"
 chapter: 13
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 642a"
-generated_at: "2026-03-30T00:22:20.573Z"
+generated_at: "2026-03-30T00:25:27.449Z"
 ---
 
 # § 642a. Rank, pay, and allowances of Corps of Engineers officers serving as President of Mississippi River Commission

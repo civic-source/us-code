@@ -3,9 +3,9 @@ title: "Section 4355 - Relationship to Privacy Act and Freedom of Information Ac
 usc_title: 22
 usc_section: "4355"
 chapter: 53
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4355"
-generated_at: "2026-03-30T00:22:05.795Z"
+generated_at: "2026-03-30T00:25:05.428Z"
 ---
 
 # § 4355. Relationship to Privacy Act and Freedom of Information Act

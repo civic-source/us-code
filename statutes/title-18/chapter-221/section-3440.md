@@ -3,9 +3,9 @@ title: "Section 3440 - Defenses and objections determined on motion—(Rule)"
 usc_title: 18
 usc_section: "3440"
 chapter: 221
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "18 U.S.C. § 3440"
-generated_at: "2026-03-30T00:21:34.214Z"
+generated_at: "2026-03-30T00:24:29.262Z"
 ---
 
 # § 3440. Defenses and objections determined on motion—(Rule)

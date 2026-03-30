@@ -3,9 +3,9 @@ title: "Section 454 - Exchange of mapping, charting, and geomatics data with for
 usc_title: 10
 usc_section: "454"
 chapter: 22
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 454"
-generated_at: "2026-03-30T00:21:16.754Z"
+generated_at: "2026-03-30T00:23:58.391Z"
 ---
 
 # § 454. Exchange of mapping, charting, and geomatics data with foreign countries, international organizations, nongovernmental organizations, and academic institutions

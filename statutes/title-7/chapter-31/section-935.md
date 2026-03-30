@@ -3,9 +3,9 @@ title: "Section 935 - Insured loans; interest rates and lending levels"
 usc_title: 7
 usc_section: "935"
 chapter: 31
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 935"
-generated_at: "2026-03-30T00:21:11.894Z"
+generated_at: "2026-03-30T00:23:53.594Z"
 ---
 
 # § 935. Insured loans; interest rates and lending levels

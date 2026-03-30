@@ -3,9 +3,9 @@ title: "Section 12 - Cross references relating to tax on corporations"
 usc_title: 26
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "26 U.S.C. § 12"
-generated_at: "2026-03-30T00:22:16.650Z"
+generated_at: "2026-03-30T00:25:21.213Z"
 ---
 
 # § 12. Cross references relating to tax on corporations

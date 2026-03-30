@@ -3,9 +3,9 @@ title: "Section 6102 - Telemarketing rules"
 usc_title: 15
 usc_section: "6102"
 chapter: 87
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "15 U.S.C. § 6102"
-generated_at: "2026-03-30T00:21:29.598Z"
+generated_at: "2026-03-30T00:24:11.969Z"
 ---
 
 # § 6102. Telemarketing rules

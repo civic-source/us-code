@@ -3,9 +3,9 @@ title: "Section 1036 - Omitted"
 usc_title: 25
 usc_section: "1036"
 chapter: 14
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 1036"
-generated_at: "2026-03-30T00:21:54.343Z"
+generated_at: "2026-03-30T00:25:07.722Z"
 ---
 
 # § 1036. Omitted

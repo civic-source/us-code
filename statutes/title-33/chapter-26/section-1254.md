@@ -3,9 +3,9 @@ title: "Section 1254 - Research, investigations, training, and information"
 usc_title: 33
 usc_section: "1254"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 1254"
-generated_at: "2026-03-30T00:22:20.588Z"
+generated_at: "2026-03-30T00:25:27.465Z"
 ---
 
 # § 1254. Research, investigations, training, and information

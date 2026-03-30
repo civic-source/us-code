@@ -3,9 +3,9 @@ title: "Section 8749a - Civil service mariners of Military Sealift Command: alco
 usc_title: 10
 usc_section: "8749a"
 chapter: 871
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 8749a"
-generated_at: "2026-03-30T00:21:17.021Z"
+generated_at: "2026-03-30T00:23:58.537Z"
 ---
 
 # § 8749a. Civil service mariners of Military Sealift Command: alcohol testing

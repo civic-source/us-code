@@ -3,9 +3,9 @@ title: "Section 12 - Grants by Secretary of the Interior to assist Indian tribes
 usc_title: 20
 usc_section: "12"
 chapter: 3
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T00:21:49.808Z"
+generated_at: "2026-03-30T00:24:56.814Z"
 ---
 
 # § 80q–12. Grants by Secretary of the Interior to assist Indian tribes with respect to agreements for return of Indian human remains and Indian funerary objects

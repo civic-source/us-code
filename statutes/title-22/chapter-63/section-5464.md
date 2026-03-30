@@ -3,9 +3,9 @@ title: "Section 5464 - Economic and commercial officers at United States embassi
 usc_title: 22
 usc_section: "5464"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 5464"
-generated_at: "2026-03-30T00:22:05.803Z"
+generated_at: "2026-03-30T00:25:05.437Z"
 ---
 
 # § 5464. Economic and commercial officers at United States embassies and missions in Poland and Hungary

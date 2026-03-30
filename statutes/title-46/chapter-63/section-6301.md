@@ -3,9 +3,9 @@ title: "Section 6301 - Investigation of marine casualties"
 usc_title: 46
 usc_section: "6301"
 chapter: 63
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "46 U.S.C. § 6301"
-generated_at: "2026-03-30T00:23:02.732Z"
+generated_at: "2026-03-30T00:26:04.698Z"
 ---
 
 # § 6301. Investigation of marine casualties

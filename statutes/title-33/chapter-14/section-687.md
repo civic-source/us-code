@@ -3,9 +3,9 @@ title: "Section 687 - Use of State dredge and appliances in river and harbor imp
 usc_title: 33
 usc_section: "687"
 chapter: 14
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "33 U.S.C. § 687"
-generated_at: "2026-03-30T00:22:20.574Z"
+generated_at: "2026-03-30T00:25:27.450Z"
 ---
 
 # § 687. Use of State dredge and appliances in river and harbor improvements

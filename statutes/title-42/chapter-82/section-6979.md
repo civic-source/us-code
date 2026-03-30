@@ -3,9 +3,9 @@ title: "Section 6979 - Labor standards"
 usc_title: 42
 usc_section: "6979"
 chapter: 82
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 6979"
-generated_at: "2026-03-30T00:22:52.771Z"
+generated_at: "2026-03-30T00:25:57.525Z"
 ---
 
 # § 6979. Labor standards

@@ -3,9 +3,9 @@ title: "Section 19118 - Ethical, legal, and societal considerations"
 usc_title: 42
 usc_section: "19118"
 chapter: 163
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 19118"
-generated_at: "2026-03-30T00:22:53.051Z"
+generated_at: "2026-03-30T00:25:57.809Z"
 ---
 
 # § 19118. Ethical, legal, and societal considerations

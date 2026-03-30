@@ -3,9 +3,9 @@ title: "Section 20342 - Federal immunity"
 usc_title: 34
 usc_section: "20342"
 chapter: 203
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "34 U.S.C. § 20342"
-generated_at: "2026-03-30T00:22:21.479Z"
+generated_at: "2026-03-30T00:25:25.750Z"
 ---
 
 # § 20342. Federal immunity

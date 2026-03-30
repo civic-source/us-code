@@ -3,9 +3,9 @@ title: "Section 163 - Repeal of prior legislation; exception"
 usc_title: 45
 usc_section: "163"
 chapter: 8
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "45 U.S.C. § 163"
-generated_at: "2026-03-30T00:22:32.284Z"
+generated_at: "2026-03-30T00:25:36.169Z"
 ---
 
 # § 163. Repeal of prior legislation; exception

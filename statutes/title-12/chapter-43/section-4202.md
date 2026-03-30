@@ -3,9 +3,9 @@ title: "Section 4202 - Contents of declarations"
 usc_title: 12
 usc_section: "4202"
 chapter: 43
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 4202"
-generated_at: "2026-03-30T00:21:26.575Z"
+generated_at: "2026-03-30T00:24:19.068Z"
 ---
 
 # § 4202. Contents of declarations

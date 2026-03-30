@@ -3,9 +3,9 @@ title: "Section 101119 - Liability of United States"
 usc_title: 54
 usc_section: "101119"
 chapter: 1011
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "54 U.S.C. § 101119"
-generated_at: "2026-03-30T00:23:29.572Z"
+generated_at: "2026-03-30T00:26:13.302Z"
 ---
 
 # § 101119. Liability of United States

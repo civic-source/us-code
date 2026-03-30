@@ -3,9 +3,9 @@ title: "Section 283x - Subscription to additional shares; authorization of appro
 usc_title: 22
 usc_section: "283x"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 283x"
-generated_at: "2026-03-30T00:22:05.690Z"
+generated_at: "2026-03-30T00:25:05.309Z"
 ---
 
 # § 283x. Subscription to additional shares; authorization of appropriations

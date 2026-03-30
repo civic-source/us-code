@@ -3,9 +3,9 @@ title: "Section 2738 - Property loss: reimbursement of members for certain losse
 usc_title: 10
 usc_section: "2738"
 chapter: 163
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 2738"
-generated_at: "2026-03-30T00:21:16.858Z"
+generated_at: "2026-03-30T00:23:58.484Z"
 ---
 
 # § 2738. Property loss: reimbursement of members for certain losses of household effects caused by hostile action

@@ -3,9 +3,9 @@ title: "Section 18441 - National and international orbital debris mitigation"
 usc_title: 42
 usc_section: "18441"
 chapter: 159
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 18441"
-generated_at: "2026-03-30T00:22:53.029Z"
+generated_at: "2026-03-30T00:25:57.785Z"
 ---
 
 # § 18441. National and international orbital debris mitigation

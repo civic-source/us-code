@@ -3,9 +3,9 @@ title: "Section 10401 - Program authorized"
 usc_title: 34
 usc_section: "10401"
 chapter: 101
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "34 U.S.C. § 10401"
-generated_at: "2026-03-30T00:22:21.441Z"
+generated_at: "2026-03-30T00:25:25.713Z"
 ---
 
 # § 10401. Program authorized

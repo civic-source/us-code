@@ -3,9 +3,9 @@ title: "Section 3812 - Authority in addition to other laws; effect on State laws
 usc_title: 7
 usc_section: "3812"
 chapter: 69
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 3812"
-generated_at: "2026-03-30T00:21:12.001Z"
+generated_at: "2026-03-30T00:23:53.684Z"
 ---
 
 # § 3812. Authority in addition to other laws; effect on State laws

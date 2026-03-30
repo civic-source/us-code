@@ -3,9 +3,9 @@ title: "Section 5505 - Payments from applicable accounts of House of Representat
 usc_title: 2
 usc_section: "5505"
 chapter: 55
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 5505"
-generated_at: "2026-03-30T00:20:57.407Z"
+generated_at: "2026-03-30T00:23:43.063Z"
 ---
 
 # § 5505. Payments from applicable accounts of House of Representatives

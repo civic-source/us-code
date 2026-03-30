@@ -3,9 +3,9 @@ title: "Section 12581a - Educational awards only program"
 usc_title: 42
 usc_section: "12581a"
 chapter: 129
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 12581a"
-generated_at: "2026-03-30T00:22:52.922Z"
+generated_at: "2026-03-30T00:25:57.677Z"
 ---
 
 # § 12581a. Educational awards only program

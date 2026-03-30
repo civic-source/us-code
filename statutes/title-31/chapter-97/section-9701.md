@@ -3,9 +3,9 @@ title: "Section 9701 - Fees and charges for Government services and things of va
 usc_title: 31
 usc_section: "9701"
 chapter: 97
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "31 U.S.C. § 9701"
-generated_at: "2026-03-30T00:22:22.348Z"
+generated_at: "2026-03-30T00:25:24.922Z"
 ---
 
 # § 9701. Fees and charges for Government services and things of value

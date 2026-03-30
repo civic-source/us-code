@@ -3,9 +3,9 @@ title: "Section 8327 - Officers and enlisted members of the Navy Reserve and Mar
 usc_title: 10
 usc_section: "8327"
 chapter: 841
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 8327"
-generated_at: "2026-03-30T00:21:16.912Z"
+generated_at: "2026-03-30T00:23:58.529Z"
 ---
 
 # § 8327. Officers and enlisted members of the Navy Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay

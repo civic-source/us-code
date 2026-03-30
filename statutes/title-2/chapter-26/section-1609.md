@@ -3,9 +3,9 @@ title: "Section 1609 - Identification of clients and covered officials"
 usc_title: 2
 usc_section: "1609"
 chapter: 26
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 1609"
-generated_at: "2026-03-30T00:20:57.389Z"
+generated_at: "2026-03-30T00:23:43.043Z"
 ---
 
 # § 1609. Identification of clients and covered officials

@@ -3,9 +3,9 @@ title: "Section 4158 - Authority of other agencies"
 usc_title: 22
 usc_section: "4158"
 chapter: 52
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4158"
-generated_at: "2026-03-30T00:22:05.793Z"
+generated_at: "2026-03-30T00:25:05.426Z"
 ---
 
 # § 4158. Authority of other agencies

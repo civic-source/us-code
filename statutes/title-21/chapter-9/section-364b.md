@@ -3,9 +3,9 @@ title: "Section 364b - Good manufacturing practice"
 usc_title: 21
 usc_section: "364b"
 chapter: 9
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "21 U.S.C. § 364b"
-generated_at: "2026-03-30T00:21:55.502Z"
+generated_at: "2026-03-30T00:25:01.373Z"
 ---
 
 # § 364b. Good manufacturing practice

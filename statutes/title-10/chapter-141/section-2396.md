@@ -3,9 +3,9 @@ title: "Section 2396 - Advances for payments for compliance with foreign laws, r
 usc_title: 10
 usc_section: "2396"
 chapter: 141
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 2396"
-generated_at: "2026-03-30T00:21:16.842Z"
+generated_at: "2026-03-30T00:23:58.469Z"
 ---
 
 # § 2396. Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries

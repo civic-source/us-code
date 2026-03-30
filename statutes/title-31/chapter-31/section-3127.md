@@ -3,9 +3,9 @@ title: "Section 3127 - Credit to officers, employees, and agents for stolen Trea
 usc_title: 31
 usc_section: "3127"
 chapter: 31
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "31 U.S.C. § 3127"
-generated_at: "2026-03-30T00:22:22.320Z"
+generated_at: "2026-03-30T00:25:24.896Z"
 ---
 
 # § 3127. Credit to officers, employees, and agents for stolen Treasury notes

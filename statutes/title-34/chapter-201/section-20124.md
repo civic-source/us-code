@@ -3,9 +3,9 @@ title: "Section 20124 - Enhancing culturally specific services for victims of do
 usc_title: 34
 usc_section: "20124"
 chapter: 201
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "34 U.S.C. § 20124"
-generated_at: "2026-03-30T00:22:21.475Z"
+generated_at: "2026-03-30T00:25:25.745Z"
 ---
 
 # § 20124. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking

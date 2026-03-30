@@ -3,9 +3,9 @@ title: "Section 1104 - Powers and duties of Secretary of State"
 usc_title: 8
 usc_section: "1104"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "8 U.S.C. § 1104"
-generated_at: "2026-03-30T00:21:04.809Z"
+generated_at: "2026-03-30T00:23:49.158Z"
 ---
 
 # § 1104. Powers and duties of Secretary of State

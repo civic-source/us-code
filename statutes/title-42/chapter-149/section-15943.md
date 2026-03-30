@@ -3,9 +3,9 @@ title: "Section 15943 - Certain gathering lines located on Federal land and Indi
 usc_title: 42
 usc_section: "15943"
 chapter: 149
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 15943"
-generated_at: "2026-03-30T00:22:52.972Z"
+generated_at: "2026-03-30T00:25:57.729Z"
 ---
 
 # § 15943. Certain gathering lines located on Federal land and Indian land

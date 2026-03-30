@@ -3,9 +3,9 @@ title: "Section 1599e - Repealed. Pub. L. 117–81, div. A, title XI, § 1106(a)
 usc_title: 10
 usc_section: "1599e"
 chapter: 81
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 1599e"
-generated_at: "2026-03-30T00:21:16.821Z"
+generated_at: "2026-03-30T00:23:58.450Z"
 ---
 
 # [§ 1599e. Repealed. Pub. L. 117–81, div. A, title XI, § 1106(a)(1) , Dec. 27, 2021 , 135 Stat. 1950 ]

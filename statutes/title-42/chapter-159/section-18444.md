@@ -3,9 +3,9 @@ title: "Section 18444 - Counterfeit parts"
 usc_title: 42
 usc_section: "18444"
 chapter: 159
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 18444"
-generated_at: "2026-03-30T00:22:53.029Z"
+generated_at: "2026-03-30T00:25:57.785Z"
 ---
 
 # § 18444. Counterfeit parts

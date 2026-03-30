@@ -3,9 +3,9 @@ title: "Section 13313 - Renewable Energy Advancement Awards"
 usc_title: 42
 usc_section: "13313"
 chapter: 134
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 13313"
-generated_at: "2026-03-30T00:22:52.946Z"
+generated_at: "2026-03-30T00:25:57.703Z"
 ---
 
 # § 13313. Renewable Energy Advancement Awards

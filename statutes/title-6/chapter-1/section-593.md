@@ -3,9 +3,9 @@ title: "Section 593 - Hiring authority"
 usc_title: 6
 usc_section: "593"
 chapter: 1
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "6 U.S.C. § 593"
-generated_at: "2026-03-30T00:21:02.289Z"
+generated_at: "2026-03-30T00:23:51.241Z"
 ---
 
 # § 593. Hiring authority

@@ -3,9 +3,9 @@ title: "Section 1468a - Omitted"
 usc_title: 42
 usc_section: "1468a"
 chapter: 8
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 1468a"
-generated_at: "2026-03-30T00:22:52.570Z"
+generated_at: "2026-03-30T00:25:57.326Z"
 ---
 
 # §§ 1467 to 1468a. Omitted

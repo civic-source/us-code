@@ -3,9 +3,9 @@ title: "Section 1616m - Matching grants to tribes for scholarship programs"
 usc_title: 25
 usc_section: "1616m"
 chapter: 18
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 1616m"
-generated_at: "2026-03-30T00:21:54.349Z"
+generated_at: "2026-03-30T00:25:07.729Z"
 ---
 
 # § 1616m. Matching grants to tribes for scholarship programs

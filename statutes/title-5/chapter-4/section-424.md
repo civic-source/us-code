@@ -3,9 +3,9 @@ title: "Section 424 - Establishment of the Council of the Inspectors General on 
 usc_title: 5
 usc_section: "424"
 chapter: 4
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "5 U.S.C. § 424"
-generated_at: "2026-03-30T00:20:59.720Z"
+generated_at: "2026-03-30T00:23:46.106Z"
 ---
 
 # § 424. Establishment of the Council of the Inspectors General on Integrity and Efficiency

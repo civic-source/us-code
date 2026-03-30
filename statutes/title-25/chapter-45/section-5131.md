@@ -3,9 +3,9 @@ title: "Section 5131 - Publication of list of recognized tribes"
 usc_title: 25
 usc_section: "5131"
 chapter: 45
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "25 U.S.C. § 5131"
-generated_at: "2026-03-30T00:21:54.398Z"
+generated_at: "2026-03-30T00:25:07.781Z"
 ---
 
 # § 5131. Publication of list of recognized tribes

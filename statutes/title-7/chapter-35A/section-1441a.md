@@ -3,9 +3,9 @@ title: "Section 1441a - Cost of production study and establishment of current na
 usc_title: 7
 usc_section: "1441a"
 chapter: 35
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 1441a"
-generated_at: "2026-03-30T00:21:11.911Z"
+generated_at: "2026-03-30T00:23:53.608Z"
 ---
 
 # § 1441a. Cost of production study and establishment of current national weighted average cost of production

@@ -3,9 +3,9 @@ title: "Section 7305 - State auditing requirements"
 usc_title: 31
 usc_section: "7305"
 chapter: 73
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "31 U.S.C. § 7305"
-generated_at: "2026-03-30T00:22:22.345Z"
+generated_at: "2026-03-30T00:25:24.920Z"
 ---
 
 # § 7305. State auditing requirements

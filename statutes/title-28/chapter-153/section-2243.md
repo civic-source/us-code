@@ -3,9 +3,9 @@ title: "Section 2243 - Issuance of writ; return; hearing; decision"
 usc_title: 28
 usc_section: "2243"
 chapter: 153
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 2243"
-generated_at: "2026-03-30T00:22:09.196Z"
+generated_at: "2026-03-30T00:25:11.527Z"
 ---
 
 # § 2243. Issuance of writ; return; hearing; decision

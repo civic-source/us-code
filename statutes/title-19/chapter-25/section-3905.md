@@ -3,9 +3,9 @@ title: "Section 3905 - Importing and exporting authorities"
 usc_title: 19
 usc_section: "3905"
 chapter: 25
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 3905"
-generated_at: "2026-03-30T00:21:41.015Z"
+generated_at: "2026-03-30T00:24:23.439Z"
 ---
 
 # § 3905. Importing and exporting authorities

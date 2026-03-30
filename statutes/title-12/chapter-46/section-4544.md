@@ -3,9 +3,9 @@ title: "Section 4544 - Annual housing report"
 usc_title: 12
 usc_section: "4544"
 chapter: 46
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 4544"
-generated_at: "2026-03-30T00:21:26.580Z"
+generated_at: "2026-03-30T00:24:19.073Z"
 ---
 
 # § 4544. Annual housing report

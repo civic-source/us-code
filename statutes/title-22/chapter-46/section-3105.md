@@ -3,9 +3,9 @@ title: "Section 3105 - Enforcement"
 usc_title: 22
 usc_section: "3105"
 chapter: 46
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 3105"
-generated_at: "2026-03-30T00:22:05.771Z"
+generated_at: "2026-03-30T00:25:05.401Z"
 ---
 
 # § 3105. Enforcement

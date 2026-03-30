@@ -3,9 +3,9 @@ title: "Section 9852a - Parental consent requirement for nonemergency intrusive 
 usc_title: 42
 usc_section: "9852a"
 chapter: 105
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 9852a"
-generated_at: "2026-03-30T00:22:52.873Z"
+generated_at: "2026-03-30T00:25:57.628Z"
 ---
 
 # § 9852a. Parental consent requirement for nonemergency intrusive physical examinations

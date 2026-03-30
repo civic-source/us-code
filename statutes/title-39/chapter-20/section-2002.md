@@ -3,9 +3,9 @@ title: "Section 2002 - Capital of the Postal Service"
 usc_title: 39
 usc_section: "2002"
 chapter: 20
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "39 U.S.C. § 2002"
-generated_at: "2026-03-30T00:22:24.122Z"
+generated_at: "2026-03-30T00:25:29.489Z"
 ---
 
 # § 2002. Capital of the Postal Service

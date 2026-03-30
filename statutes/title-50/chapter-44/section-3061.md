@@ -3,9 +3,9 @@ title: "Section 3061 - Counterintelligence and national security protections for
 usc_title: 50
 usc_section: "3061"
 chapter: 44
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "50 U.S.C. § 3061"
-generated_at: "2026-03-30T00:22:59.071Z"
+generated_at: "2026-03-30T00:26:03.342Z"
 ---
 
 # § 3061. Counterintelligence and national security protections for intelligence community grant funding

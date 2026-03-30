@@ -3,9 +3,9 @@ title: "Section 4564 - Discretionary adjustment of housing goals"
 usc_title: 12
 usc_section: "4564"
 chapter: 46
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "12 U.S.C. § 4564"
-generated_at: "2026-03-30T00:21:26.581Z"
+generated_at: "2026-03-30T00:24:19.076Z"
 ---
 
 # § 4564. Discretionary adjustment of housing goals

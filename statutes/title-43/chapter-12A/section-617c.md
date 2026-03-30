@@ -3,9 +3,9 @@ title: "Section 617c - Condition precedent to taking effect of provisions"
 usc_title: 43
 usc_section: "617c"
 chapter: 12
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "43 U.S.C. § 617c"
-generated_at: "2026-03-30T00:22:31.501Z"
+generated_at: "2026-03-30T00:25:37.030Z"
 ---
 
 # § 617c. Condition precedent to taking effect of provisions

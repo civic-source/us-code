@@ -3,9 +3,9 @@ title: "Section 6533 - Death, resignation, or disability of Secretary of Senate;
 usc_title: 2
 usc_section: "6533"
 chapter: 65
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "2 U.S.C. § 6533"
-generated_at: "2026-03-30T00:20:57.410Z"
+generated_at: "2026-03-30T00:23:43.067Z"
 ---
 
 # § 6533. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status

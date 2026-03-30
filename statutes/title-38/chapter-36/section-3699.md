@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T00:22:28.606Z"
+generated_at: "2026-03-30T00:25:32.282Z"
 ---
 
 # § 3699. Effects of closure or disapproval of educational institution
@@ -36,7 +36,7 @@ generated_at: "2026-03-30T00:22:28.606Z"
       - **(iii)** The Secretary shall notify individuals described in subparagraph (B) of being eligible to be covered by this paragraph.
       - **(iv)** In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
     - **(B)** An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
-    - **(C)** This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023 .
+    - **(C)** This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2025 .
 - **(d)**
   - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
     - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and

@@ -3,9 +3,9 @@ title: "Section 9407 - Uses of funds"
 usc_title: 20
 usc_section: "9407"
 chapter: 75
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 9407"
-generated_at: "2026-03-30T00:21:49.954Z"
+generated_at: "2026-03-30T00:24:56.986Z"
 ---
 
 # § 9407. Uses of funds

@@ -3,9 +3,9 @@ title: "Section 1094a - Regulatory relief and improvement"
 usc_title: 20
 usc_section: "1094a"
 chapter: 28
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 1094a"
-generated_at: "2026-03-30T00:21:49.864Z"
+generated_at: "2026-03-30T00:24:56.883Z"
 ---
 
 # § 1094a. Regulatory relief and improvement

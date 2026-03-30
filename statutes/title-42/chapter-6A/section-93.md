@@ -3,9 +3,9 @@ title: "Section 93 - Health insurance consumer information"
 usc_title: 42
 usc_section: "93"
 chapter: 6
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 93"
-generated_at: "2026-03-30T00:22:52.297Z"
+generated_at: "2026-03-30T00:25:57.057Z"
 ---
 
 # § 300gg–93. Health insurance consumer information

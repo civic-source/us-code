@@ -3,9 +3,9 @@ title: "Section 5853 - Nonproliferation and disarmament activities in independen
 usc_title: 22
 usc_section: "5853"
 chapter: 67
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 5853"
-generated_at: "2026-03-30T00:22:05.806Z"
+generated_at: "2026-03-30T00:25:05.440Z"
 ---
 
 # § 5853. Nonproliferation and disarmament activities in independent states

@@ -3,9 +3,9 @@ title: "Section 4901 - Fellowship program for temporary service at United States
 usc_title: 22
 usc_section: "4901"
 chapter: 59
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 4901"
-generated_at: "2026-03-30T00:22:05.799Z"
+generated_at: "2026-03-30T00:25:05.434Z"
 ---
 
 # § 4901. Fellowship program for temporary service at United States missions abroad

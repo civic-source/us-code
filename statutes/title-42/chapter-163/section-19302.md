@@ -3,9 +3,9 @@ title: "Section 19302 - Clean Energy Technology University Prize competition"
 usc_title: 42
 usc_section: "19302"
 chapter: 163
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 19302"
-generated_at: "2026-03-30T00:22:53.057Z"
+generated_at: "2026-03-30T00:25:57.814Z"
 ---
 
 # § 19302. Clean Energy Technology University Prize competition

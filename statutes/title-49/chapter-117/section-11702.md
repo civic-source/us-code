@@ -3,9 +3,9 @@ title: "Section 11702 - Enforcement by the Board"
 usc_title: 49
 usc_section: "11702"
 chapter: 117
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "49 U.S.C. § 11702"
-generated_at: "2026-03-30T00:23:07.313Z"
+generated_at: "2026-03-30T00:26:10.196Z"
 ---
 
 # § 11702. Enforcement by the Board

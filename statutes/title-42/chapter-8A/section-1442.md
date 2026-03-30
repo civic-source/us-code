@@ -3,9 +3,9 @@ title: "Section 1442 - Repealed. Aug. 31, 1954, ch. 1158, § 7 , 68 Stat. 1026"
 usc_title: 42
 usc_section: "1442"
 chapter: 8
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 1442"
-generated_at: "2026-03-30T00:22:52.570Z"
+generated_at: "2026-03-30T00:25:57.326Z"
 ---
 
 # § 1442. Repealed. Aug. 31, 1954, ch. 1158, § 7 , 68 Stat. 1026

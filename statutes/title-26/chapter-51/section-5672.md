@@ -3,9 +3,9 @@ title: "Section 5672 - Penalty for failure of brewer to comply with requirements
 usc_title: 26
 usc_section: "5672"
 chapter: 51
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "26 U.S.C. § 5672"
-generated_at: "2026-03-30T00:22:16.880Z"
+generated_at: "2026-03-30T00:25:21.497Z"
 ---
 
 # § 5672. Penalty for failure of brewer to comply with requirements and to keep records and file returns

@@ -3,9 +3,9 @@ title: "Section 21 - Multilateral debt relief"
 usc_title: 22
 usc_section: "21"
 chapter: 7
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "22 U.S.C. § 21"
-generated_at: "2026-03-30T00:22:05.700Z"
+generated_at: "2026-03-30T00:25:05.319Z"
 ---
 
 # § 290g–21. Multilateral debt relief

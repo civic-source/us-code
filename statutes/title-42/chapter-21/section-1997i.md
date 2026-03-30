@@ -3,9 +3,9 @@ title: "Section 1997i - Disclaimer respecting standards of care"
 usc_title: 42
 usc_section: "1997i"
 chapter: 21
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "42 U.S.C. § 1997i"
-generated_at: "2026-03-30T00:22:52.616Z"
+generated_at: "2026-03-30T00:25:57.371Z"
 ---
 
 # § 1997i. Disclaimer respecting standards of care

@@ -3,9 +3,9 @@ title: "Section 4644 - Assessments"
 usc_title: 19
 usc_section: "4644"
 chapter: 29
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "19 U.S.C. § 4644"
-generated_at: "2026-03-30T00:21:41.032Z"
+generated_at: "2026-03-30T00:24:23.456Z"
 ---
 
 # § 4644. Assessments

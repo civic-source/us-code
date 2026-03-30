@@ -3,9 +3,9 @@ title: "Section 4815 - Unfunded priorities of the national technology and indust
 usc_title: 10
 usc_section: "4815"
 chapter: 382
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "10 U.S.C. § 4815"
-generated_at: "2026-03-30T00:21:16.892Z"
+generated_at: "2026-03-30T00:23:58.513Z"
 ---
 
 # § 4815. Unfunded priorities of the national technology and industrial base: annual report

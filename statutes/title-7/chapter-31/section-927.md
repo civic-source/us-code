@@ -3,9 +3,9 @@ title: "Section 927 - General duties and prohibitions"
 usc_title: 7
 usc_section: "927"
 chapter: 31
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 927"
-generated_at: "2026-03-30T00:21:11.893Z"
+generated_at: "2026-03-30T00:23:53.593Z"
 ---
 
 # § 927. General duties and prohibitions

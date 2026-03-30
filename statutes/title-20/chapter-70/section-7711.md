@@ -3,9 +3,9 @@ title: "Section 7711 - Administrative hearings and judicial review"
 usc_title: 20
 usc_section: "7711"
 chapter: 70
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "20 U.S.C. § 7711"
-generated_at: "2026-03-30T00:21:49.946Z"
+generated_at: "2026-03-30T00:24:56.977Z"
 ---
 
 # § 7711. Administrative hearings and judicial review

@@ -3,9 +3,9 @@ title: "Section 2427 - Publication"
 usc_title: 7
 usc_section: "2427"
 chapter: 57
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "7 U.S.C. § 2427"
-generated_at: "2026-03-30T00:21:11.984Z"
+generated_at: "2026-03-30T00:23:53.669Z"
 ---
 
 # § 2427. Publication

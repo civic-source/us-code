@@ -3,9 +3,9 @@ title: "Section 1111 - Annual reports: time for furnishing manuscript and proofs
 usc_title: 44
 usc_section: "1111"
 chapter: 11
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "44 U.S.C. § 1111"
-generated_at: "2026-03-30T00:22:30.580Z"
+generated_at: "2026-03-30T00:25:35.577Z"
 ---
 
 # § 1111. Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office

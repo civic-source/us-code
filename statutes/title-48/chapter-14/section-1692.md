@@ -3,9 +3,9 @@ title: "Section 1692 - Comprehensive annual financial report by chief executives
 usc_title: 48
 usc_section: "1692"
 chapter: 14
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "48 U.S.C. § 1692"
-generated_at: "2026-03-30T00:22:59.587Z"
+generated_at: "2026-03-30T00:26:01.322Z"
 ---
 
 # § 1692. Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau, and Northern Mariana Islands; contents; other reports

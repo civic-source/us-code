@@ -3,9 +3,9 @@ title: "Section 2401 - Advisory Committee on Cemeteries and Memorials"
 usc_title: 38
 usc_section: "2401"
 chapter: 24
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "38 U.S.C. § 2401"
-generated_at: "2026-03-30T00:22:28.590Z"
+generated_at: "2026-03-30T00:25:32.264Z"
 ---
 
 # § 2401. Advisory Committee on Cemeteries and Memorials

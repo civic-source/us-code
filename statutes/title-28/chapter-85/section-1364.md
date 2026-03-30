@@ -3,9 +3,9 @@ title: "Section 1364 - Direct actions against insurers of members of diplomatic 
 usc_title: 28
 usc_section: "1364"
 chapter: 85
-current_through: "PL 118-16"
+current_through: "PL 118-19"
 classification: "28 U.S.C. § 1364"
-generated_at: "2026-03-30T00:22:09.188Z"
+generated_at: "2026-03-30T00:25:11.519Z"
 ---
 
 # § 1364. Direct actions against insurers of members of diplomatic missions and their families
