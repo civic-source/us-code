@@ -3,9 +3,9 @@ title: "Section 756 - Repealed. Pub. L. 103–414, title III, § 304(b)(5) , Oct
 usc_title: 47
 usc_section: "756"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "47 U.S.C. § 756"
-generated_at: "2026-03-30T00:41:03.475Z"
+generated_at: "2026-03-30T00:45:04.919Z"
 ---
 
 # §§ 754 to 756. Repealed. Pub. L. 103–414, title III, § 304(b)(5) , Oct. 25, 1994 , 108 Stat. 4298

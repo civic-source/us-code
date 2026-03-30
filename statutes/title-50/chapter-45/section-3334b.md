@@ -3,9 +3,9 @@ title: "Section 3334b - Collection, analysis, and dissemination of workforce dat
 usc_title: 50
 usc_section: "3334b"
 chapter: 45
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 3334b"
-generated_at: "2026-03-30T00:41:02.191Z"
+generated_at: "2026-03-30T00:45:08.078Z"
 ---
 
 # § 3334b. Collection, analysis, and dissemination of workforce data

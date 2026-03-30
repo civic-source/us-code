@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 100–297, title V, § 5116(1) , Apr. 28, 
 usc_title: 20
 usc_section: "1"
 chapter: 13
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T00:39:53.559Z"
+generated_at: "2026-03-30T00:42:15.703Z"
 ---
 
 # § 241bb–1. Repealed. Pub. L. 100–297, title V, § 5116(1) , Apr. 28, 1988 , 102 Stat. 381

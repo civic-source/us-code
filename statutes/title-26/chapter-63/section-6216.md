@@ -3,9 +3,9 @@ title: "Section 6216 - Cross references"
 usc_title: 26
 usc_section: "6216"
 chapter: 63
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 6216"
-generated_at: "2026-03-30T00:40:20.595Z"
+generated_at: "2026-03-30T00:43:12.550Z"
 ---
 
 # § 6216. Cross references

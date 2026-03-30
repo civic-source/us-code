@@ -3,9 +3,9 @@ title: "Section 10801 - Congressional findings and statement of purpose"
 usc_title: 42
 usc_section: "10801"
 chapter: 114
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 10801"
-generated_at: "2026-03-30T00:40:57.653Z"
+generated_at: "2026-03-30T00:44:58.786Z"
 ---
 
 # § 10801. Congressional findings and statement of purpose

@@ -3,9 +3,9 @@ title: "Section 2034 - Coordination with other agencies and organizations"
 usc_title: 38
 usc_section: "2034"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 2034"
-generated_at: "2026-03-30T00:40:32.863Z"
+generated_at: "2026-03-30T00:44:18.485Z"
 ---
 
 # § 2034. Coordination with other agencies and organizations

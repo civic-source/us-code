@@ -3,9 +3,9 @@ title: "Section 2463 - Designation of eligible articles"
 usc_title: 19
 usc_section: "2463"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "19 U.S.C. § 2463"
-generated_at: "2026-03-30T00:39:55.855Z"
+generated_at: "2026-03-30T00:42:13.308Z"
 ---
 
 # § 2463. Designation of eligible articles

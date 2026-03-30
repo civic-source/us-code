@@ -3,9 +3,9 @@ title: "Section 4508 - Contractor performance of acquisition functions closely a
 usc_title: 10
 usc_section: "4508"
 chapter: 341
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 4508"
-generated_at: "2026-03-30T00:39:26.668Z"
+generated_at: "2026-03-30T00:41:56.974Z"
 ---
 
 # § 4508. Contractor performance of acquisition functions closely associated with inherently governmental functions

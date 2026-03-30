@@ -3,9 +3,9 @@ title: "Section 3105 - Summary of intelligence relating to terrorist recidivism 
 usc_title: 50
 usc_section: "3105"
 chapter: 44
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 3105"
-generated_at: "2026-03-30T00:41:02.183Z"
+generated_at: "2026-03-30T00:45:08.072Z"
 ---
 
 # § 3105. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba

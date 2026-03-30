@@ -3,9 +3,9 @@ title: "Section 2421 - Plantations and farms: operation, maintenance, and improv
 usc_title: 10
 usc_section: "2421"
 chapter: 143
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2421"
-generated_at: "2026-03-30T00:39:26.605Z"
+generated_at: "2026-03-30T00:41:56.933Z"
 ---
 
 # § 2421. Plantations and farms: operation, maintenance, and improvement

@@ -3,9 +3,9 @@ title: "Section 127d - Support of special operations for irregular warfare"
 usc_title: 10
 usc_section: "127d"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 127d"
-generated_at: "2026-03-30T00:39:26.443Z"
+generated_at: "2026-03-30T00:41:56.835Z"
 ---
 
 # § 127d. Support of special operations for irregular warfare

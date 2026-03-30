@@ -3,9 +3,9 @@ title: "Section 21111 - Actions by the Attorney General for declaratory and inju
 usc_title: 52
 usc_section: "21111"
 chapter: 209
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "52 U.S.C. § 21111"
-generated_at: "2026-03-30T00:41:09.194Z"
+generated_at: "2026-03-30T00:45:13.447Z"
 ---
 
 # § 21111. Actions by the Attorney General for declaratory and injunctive relief

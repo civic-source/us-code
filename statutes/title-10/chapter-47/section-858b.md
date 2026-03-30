@@ -3,9 +3,9 @@ title: "Section 858b - Art. 58b. Sentences: forfeiture of pay and allowances dur
 usc_title: 10
 usc_section: "858b"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 858b"
-generated_at: "2026-03-30T00:39:26.503Z"
+generated_at: "2026-03-30T00:41:56.872Z"
 ---
 
 # § 858b. Art. 58b. Sentences: forfeiture of pay and allowances during confinement

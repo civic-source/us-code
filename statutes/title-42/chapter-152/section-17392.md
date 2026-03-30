@@ -3,9 +3,9 @@ title: "Section 17392 - Micro-grid and integrated micro-grid systems program"
 usc_title: 42
 usc_section: "17392"
 chapter: 152
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 17392"
-generated_at: "2026-03-30T00:40:57.764Z"
+generated_at: "2026-03-30T00:44:58.886Z"
 ---
 
 # § 17392. Micro-grid and integrated micro-grid systems program

@@ -3,9 +3,9 @@ title: "Section 11823 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11823"
 chapter: 123
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 11823"
-generated_at: "2026-03-30T00:40:57.667Z"
+generated_at: "2026-03-30T00:44:58.799Z"
 ---
 
 # § 11823. Authorization of appropriations

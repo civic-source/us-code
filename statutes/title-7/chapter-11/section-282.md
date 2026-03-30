@@ -3,9 +3,9 @@ title: "Section 282 - Punishment for unlawful importation"
 usc_title: 7
 usc_section: "282"
 chapter: 11
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 282"
-generated_at: "2026-03-30T00:39:17.535Z"
+generated_at: "2026-03-30T00:41:49.487Z"
 ---
 
 # § 282. Punishment for unlawful importation

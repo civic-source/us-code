@@ -3,9 +3,9 @@ title: "Section 2857 - Window fall prevention devices in military family housing
 usc_title: 10
 usc_section: "2857"
 chapter: 169
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2857"
-generated_at: "2026-03-30T00:39:26.633Z"
+generated_at: "2026-03-30T00:41:56.950Z"
 ---
 
 # § 2857. Window fall prevention devices in military family housing units

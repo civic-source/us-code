@@ -3,9 +3,9 @@ title: "Section 7351a - Uses of funds"
 usc_title: 20
 usc_section: "7351a"
 chapter: 70
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 7351a"
-generated_at: "2026-03-30T00:39:53.682Z"
+generated_at: "2026-03-30T00:42:15.824Z"
 ---
 
 # § 7351a. Uses of funds

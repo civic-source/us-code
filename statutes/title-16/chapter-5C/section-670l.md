@@ -3,9 +3,9 @@ title: "Section 670l - Stamp requirements not applicable to Forest Service and B
 usc_title: 16
 usc_section: "670l"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 670l"
-generated_at: "2026-03-30T00:39:47.512Z"
+generated_at: "2026-03-30T00:42:28.877Z"
 ---
 
 # § 670l. Stamp requirements not applicable to Forest Service and Bureau of Land Management lands; authorized fees

@@ -3,9 +3,9 @@ title: "Section 3235 - Semiannual reports on investigations of unauthorized disc
 usc_title: 50
 usc_section: "3235"
 chapter: 44
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 3235"
-generated_at: "2026-03-30T00:41:02.187Z"
+generated_at: "2026-03-30T00:45:08.075Z"
 ---
 
 # § 3235. Semiannual reports on investigations of unauthorized disclosures of classified information

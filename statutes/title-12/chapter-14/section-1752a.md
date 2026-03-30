@@ -3,9 +3,9 @@ title: "Section 1752a - National Credit Union Administration"
 usc_title: 12
 usc_section: "1752a"
 chapter: 14
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 1752a"
-generated_at: "2026-03-30T00:39:34.982Z"
+generated_at: "2026-03-30T00:42:04.449Z"
 ---
 
 # § 1752a. National Credit Union Administration

@@ -3,9 +3,9 @@ title: "Section 1854 - Repealed. Sept. 30, 1950, ch. 1125 § 9, 64 Stat. 1111"
 usc_title: 42
 usc_section: "1854"
 chapter: 15
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1854"
-generated_at: "2026-03-30T00:40:57.378Z"
+generated_at: "2026-03-30T00:44:58.549Z"
 ---
 
 # §§ 1851 to 1854. Repealed. Sept. 30, 1950, ch. 1125 § 9, 64 Stat. 1111

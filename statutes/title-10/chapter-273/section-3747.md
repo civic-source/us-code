@@ -3,9 +3,9 @@ title: "Section 3747 - Contractor certification"
 usc_title: 10
 usc_section: "3747"
 chapter: 273
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 3747"
-generated_at: "2026-03-30T00:39:26.653Z"
+generated_at: "2026-03-30T00:41:56.964Z"
 ---
 
 # § 3747. Contractor certification

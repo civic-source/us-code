@@ -3,9 +3,9 @@ title: "Section 4322 - Use of restraints on prisoners during the period of pregn
 usc_title: 18
 usc_section: "4322"
 chapter: 317
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 4322"
-generated_at: "2026-03-30T00:39:48.745Z"
+generated_at: "2026-03-30T00:42:11.222Z"
 ---
 
 # § 4322. Use of restraints on prisoners during the period of pregnancy, labor, and postpartum recovery prohibited

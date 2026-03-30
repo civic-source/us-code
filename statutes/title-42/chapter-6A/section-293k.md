@@ -3,9 +3,9 @@ title: "Section 293k - Primary care training and enhancement"
 usc_title: 42
 usc_section: "293k"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 293k"
-generated_at: "2026-03-30T00:40:57.052Z"
+generated_at: "2026-03-30T00:44:58.252Z"
 ---
 
 # § 293k. Primary care training and enhancement

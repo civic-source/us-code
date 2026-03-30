@@ -3,9 +3,9 @@ title: "Section 322 - Reception of eligible persons at ports of entry or debarka
 usc_title: 24
 usc_section: "322"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "24 U.S.C. § 322"
-generated_at: "2026-03-30T00:39:58.030Z"
+generated_at: "2026-03-30T00:42:32.506Z"
 ---
 
 # § 322. Reception of eligible persons at ports of entry or debarkation

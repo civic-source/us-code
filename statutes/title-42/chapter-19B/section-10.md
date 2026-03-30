@@ -3,9 +3,9 @@ title: "Section 10 - Cooperation with agencies on Delmarva Peninsula study"
 usc_title: 42
 usc_section: "10"
 chapter: 19
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T00:40:57.390Z"
+generated_at: "2026-03-30T00:44:58.559Z"
 ---
 
 # § 1962d–10. Cooperation with agencies on Delmarva Peninsula study

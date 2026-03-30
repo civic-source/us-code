@@ -3,9 +3,9 @@ title: "Section 578b - Disposition of projects"
 usc_title: 33
 usc_section: "578b"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 578b"
-generated_at: "2026-03-30T00:40:28.144Z"
+generated_at: "2026-03-30T00:44:00.968Z"
 ---
 
 # § 578b. Disposition of projects

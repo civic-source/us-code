@@ -3,9 +3,9 @@ title: "Section 8902 - Contracting authority"
 usc_title: 5
 usc_section: "8902"
 chapter: 89
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "5 U.S.C. § 8902"
-generated_at: "2026-03-30T00:39:08.353Z"
+generated_at: "2026-03-30T00:41:37.045Z"
 ---
 
 # § 8902. Contracting authority

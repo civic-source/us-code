@@ -3,9 +3,9 @@ title: "Section 18302 - Definitions"
 usc_title: 40
 usc_section: "18302"
 chapter: 183
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "40 U.S.C. § 18302"
-generated_at: "2026-03-30T00:40:31.193Z"
+generated_at: "2026-03-30T00:44:04.710Z"
 ---
 
 # § 18302. Definitions

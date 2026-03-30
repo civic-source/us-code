@@ -3,9 +3,9 @@ title: "Section 193a - Preference right of United States to purchase coal for Ar
 usc_title: 30
 usc_section: "193a"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "30 U.S.C. § 193a"
-generated_at: "2026-03-30T00:40:10.854Z"
+generated_at: "2026-03-30T00:42:57.068Z"
 ---
 
 # § 193a. Preference right of United States to purchase coal for Army and Navy; price for coal; civil actions; jurisdiction

@@ -3,9 +3,9 @@ title: "Section 1964 - Security systems for Capitol buildings and grounds"
 usc_title: 2
 usc_section: "1964"
 chapter: 29
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 1964"
-generated_at: "2026-03-30T00:39:10.188Z"
+generated_at: "2026-03-30T00:41:25.782Z"
 ---
 
 # § 1964. Security systems for Capitol buildings and grounds

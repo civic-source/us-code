@@ -3,9 +3,9 @@ title: "Section 40725 - National Forensic Science Commission"
 usc_title: 34
 usc_section: "40725"
 chapter: 407
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 40725"
-generated_at: "2026-03-30T00:40:25.251Z"
+generated_at: "2026-03-30T00:43:45.663Z"
 ---
 
 # § 40725. National Forensic Science Commission

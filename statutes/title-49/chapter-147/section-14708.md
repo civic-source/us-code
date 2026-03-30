@@ -3,9 +3,9 @@ title: "Section 14708 - Dispute settlement program for household goods carriers"
 usc_title: 49
 usc_section: "14708"
 chapter: 147
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 14708"
-generated_at: "2026-03-30T00:41:06.964Z"
+generated_at: "2026-03-30T00:45:11.490Z"
 ---
 
 # § 14708. Dispute settlement program for household goods carriers

@@ -3,9 +3,9 @@ title: "Section 1904 - Authorization of appropriations"
 usc_title: 29
 usc_section: "1904"
 chapter: 21
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "29 U.S.C. § 1904"
-generated_at: "2026-03-30T00:40:12.079Z"
+generated_at: "2026-03-30T00:42:59.089Z"
 ---
 
 # § 1904. Authorization of appropriations

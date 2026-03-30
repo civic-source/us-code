@@ -3,9 +3,9 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-30T00:39:10.190Z"
+generated_at: "2026-03-30T00:41:25.786Z"
 ---
 
 # § 2062. House of Representatives Child Care Center

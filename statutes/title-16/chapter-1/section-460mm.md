@@ -3,9 +3,9 @@ title: "Section 460mm - Establishment of conservation area"
 usc_title: 16
 usc_section: "460mm"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 460mm"
-generated_at: "2026-03-30T00:39:47.461Z"
+generated_at: "2026-03-30T00:42:28.826Z"
 ---
 
 # § 460mm. Establishment of conservation area

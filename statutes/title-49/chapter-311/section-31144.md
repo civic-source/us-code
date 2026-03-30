@@ -3,9 +3,9 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-30T00:41:06.989Z"
+generated_at: "2026-03-30T00:45:11.517Z"
 ---
 
 # § 31144. Safety fitness of owners and operators

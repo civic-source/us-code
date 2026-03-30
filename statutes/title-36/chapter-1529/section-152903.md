@@ -3,9 +3,9 @@ title: "Section 152903 - Purposes"
 usc_title: 36
 usc_section: "152903"
 chapter: 1529
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "36 U.S.C. § 152903"
-generated_at: "2026-03-30T00:40:38.838Z"
+generated_at: "2026-03-30T00:44:07.452Z"
 ---
 
 # § 152903. Purposes

@@ -3,9 +3,9 @@ title: "Section 45H - Credit for production of low sulfur diesel fuel"
 usc_title: 26
 usc_section: "45H"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 45H"
-generated_at: "2026-03-30T00:40:20.360Z"
+generated_at: "2026-03-30T00:43:12.324Z"
 ---
 
 # § 45H. Credit for production of low sulfur diesel fuel

@@ -3,9 +3,9 @@ title: "Section 17335 - Actions by United States Trade and Development Agency"
 usc_title: 42
 usc_section: "17335"
 chapter: 152
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 17335"
-generated_at: "2026-03-30T00:40:57.760Z"
+generated_at: "2026-03-30T00:44:58.882Z"
 ---
 
 # § 17335. Actions by United States Trade and Development Agency

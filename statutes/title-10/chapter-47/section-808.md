@@ -3,9 +3,9 @@ title: "Section 808 - Art. 8. Apprehension of deserters"
 usc_title: 10
 usc_section: "808"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 808"
-generated_at: "2026-03-30T00:39:26.499Z"
+generated_at: "2026-03-30T00:41:56.869Z"
 ---
 
 # § 808. Art. 8. Apprehension of deserters

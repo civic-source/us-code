@@ -3,9 +3,9 @@ title: "Section 3371 - Undefinitized contractual actions: required description o
 usc_title: 10
 usc_section: "3371"
 chapter: 244
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 3371"
-generated_at: "2026-03-30T00:39:26.648Z"
+generated_at: "2026-03-30T00:41:56.960Z"
 ---
 
 # § 3371. Undefinitized contractual actions: required description of anticipated effect on military department requirements if use of undefinitized contractual action results in delay

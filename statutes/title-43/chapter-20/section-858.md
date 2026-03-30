@@ -3,9 +3,9 @@ title: "Section 858 - Grants to counties for seats of justice"
 usc_title: 43
 usc_section: "858"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 858"
-generated_at: "2026-03-30T00:40:42.057Z"
+generated_at: "2026-03-30T00:44:30.456Z"
 ---
 
 # § 858. Grants to counties for seats of justice

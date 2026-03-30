@@ -3,9 +3,9 @@ title: "Section 5503 - Submarginal lands of United States held in trust for Stoc
 usc_title: 25
 usc_section: "5503"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 5503"
-generated_at: "2026-03-30T00:40:05.804Z"
+generated_at: "2026-03-30T00:42:43.369Z"
 ---
 
 # § 5503. Submarginal lands of United States held in trust for Stockbridge Munsee Indian Community

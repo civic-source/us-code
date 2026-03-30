@@ -3,9 +3,9 @@ title: "Section 7173 - State application"
 usc_title: 20
 usc_section: "7173"
 chapter: 70
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 7173"
-generated_at: "2026-03-30T00:39:53.677Z"
+generated_at: "2026-03-30T00:42:15.820Z"
 ---
 
 # § 7173. State application

@@ -3,9 +3,9 @@ title: "Section 3303 - Program authority"
 usc_title: 25
 usc_section: "3303"
 chapter: 35
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 3303"
-generated_at: "2026-03-30T00:40:05.783Z"
+generated_at: "2026-03-30T00:42:43.342Z"
 ---
 
 # § 3303. Program authority

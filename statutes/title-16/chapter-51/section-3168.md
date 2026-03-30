@@ -3,9 +3,9 @@ title: "Section 3168 - Injunctive relief"
 usc_title: 16
 usc_section: "3168"
 chapter: 51
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3168"
-generated_at: "2026-03-30T00:39:47.602Z"
+generated_at: "2026-03-30T00:42:28.965Z"
 ---
 
 # § 3168. Injunctive relief

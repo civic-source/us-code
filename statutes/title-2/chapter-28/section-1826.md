@@ -3,9 +3,9 @@ title: "Section 1826 - Easements for rights-of-way"
 usc_title: 2
 usc_section: "1826"
 chapter: 28
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 1826"
-generated_at: "2026-03-30T00:39:10.183Z"
+generated_at: "2026-03-30T00:41:25.779Z"
 ---
 
 # § 1826. Easements for rights-of-way

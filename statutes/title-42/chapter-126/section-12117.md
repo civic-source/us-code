@@ -3,9 +3,9 @@ title: "Section 12117 - Enforcement"
 usc_title: 42
 usc_section: "12117"
 chapter: 126
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 12117"
-generated_at: "2026-03-30T00:40:57.670Z"
+generated_at: "2026-03-30T00:44:58.801Z"
 ---
 
 # § 12117. Enforcement

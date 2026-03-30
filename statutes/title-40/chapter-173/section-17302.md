@@ -3,9 +3,9 @@ title: "Section 17302 - Compliance"
 usc_title: 40
 usc_section: "17302"
 chapter: 173
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "40 U.S.C. § 17302"
-generated_at: "2026-03-30T00:40:31.192Z"
+generated_at: "2026-03-30T00:44:04.709Z"
 ---
 
 # § 17302. Compliance

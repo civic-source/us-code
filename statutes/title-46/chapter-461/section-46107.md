@@ -3,9 +3,9 @@ title: "Section 46107 - Expenditures"
 usc_title: 46
 usc_section: "46107"
 chapter: 461
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "46 U.S.C. § 46107"
-generated_at: "2026-03-30T00:41:04.504Z"
+generated_at: "2026-03-30T00:45:02.380Z"
 ---
 
 # § 46107. Expenditures

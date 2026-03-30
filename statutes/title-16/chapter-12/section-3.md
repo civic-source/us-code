@@ -3,9 +3,9 @@ title: "Section 3 - Southwestern area sale at uniform systemwide rates of electr
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T00:39:47.533Z"
+generated_at: "2026-03-30T00:42:28.898Z"
 ---
 
 # § 825s–3. Southwestern area sale at uniform systemwide rates of electric power over transmission lines constructed with appropriated funds or used under contractual arrangements

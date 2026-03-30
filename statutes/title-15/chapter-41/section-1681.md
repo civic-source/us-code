@@ -3,9 +3,9 @@ title: "Section 1681 - Congressional findings and statement of purpose"
 usc_title: 15
 usc_section: "1681"
 chapter: 41
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 1681"
-generated_at: "2026-03-30T00:39:40.374Z"
+generated_at: "2026-03-30T00:42:07.398Z"
 ---
 
 # § 1681. Congressional findings and statement of purpose

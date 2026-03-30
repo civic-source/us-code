@@ -3,9 +3,9 @@ title: "Section 948 - Application to existing and future canals"
 usc_title: 43
 usc_section: "948"
 chapter: 22
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 948"
-generated_at: "2026-03-30T00:40:42.061Z"
+generated_at: "2026-03-30T00:44:30.459Z"
 ---
 
 # § 948. Application to existing and future canals

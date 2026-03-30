@@ -3,9 +3,9 @@ title: "Section 887 - Art. 87. Missing movement; jumping from vessel"
 usc_title: 10
 usc_section: "887"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 887"
-generated_at: "2026-03-30T00:39:26.507Z"
+generated_at: "2026-03-30T00:41:56.873Z"
 ---
 
 # § 887. Art. 87. Missing movement; jumping from vessel

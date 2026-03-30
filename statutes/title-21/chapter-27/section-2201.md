@@ -3,9 +3,9 @@ title: "Section 2201 - Performance standards"
 usc_title: 21
 usc_section: "2201"
 chapter: 27
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "21 U.S.C. § 2201"
-generated_at: "2026-03-30T00:40:03.170Z"
+generated_at: "2026-03-30T00:42:48.839Z"
 ---
 
 # § 2201. Performance standards

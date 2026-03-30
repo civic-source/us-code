@@ -3,9 +3,9 @@ title: "Section 1571 - Legislature"
 usc_title: 48
 usc_section: "1571"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "48 U.S.C. § 1571"
-generated_at: "2026-03-30T00:41:02.868Z"
+generated_at: "2026-03-30T00:45:08.569Z"
 ---
 
 # § 1571. Legislature

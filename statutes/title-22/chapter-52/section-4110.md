@@ -3,9 +3,9 @@ title: "Section 4110 - Foreign Service Impasse Disputes Panel"
 usc_title: 22
 usc_section: "4110"
 chapter: 52
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 4110"
-generated_at: "2026-03-30T00:40:08.146Z"
+generated_at: "2026-03-30T00:42:54.524Z"
 ---
 
 # § 4110. Foreign Service Impasse Disputes Panel

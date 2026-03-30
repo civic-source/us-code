@@ -3,9 +3,9 @@ title: "Section 430p - Right of States to enter and mark battle lines"
 usc_title: 16
 usc_section: "430p"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 430p"
-generated_at: "2026-03-30T00:39:47.437Z"
+generated_at: "2026-03-30T00:42:28.802Z"
 ---
 
 # § 430p. Right of States to enter and mark battle lines

@@ -3,9 +3,9 @@ title: "Section 1477b - Repealed. Pub. L. 105–277, div. G , subdiv. A, title X
 usc_title: 22
 usc_section: "1477b"
 chapter: 18
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 1477b"
-generated_at: "2026-03-30T00:40:08.071Z"
+generated_at: "2026-03-30T00:42:54.448Z"
 ---
 
 # § 1477b. Repealed. Pub. L. 105–277, div. G , subdiv. A, title XIII, § 1336(1), Oct. 21, 1998 , 112 Stat. 2681–790

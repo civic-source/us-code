@@ -3,9 +3,9 @@ title: "Section 1155 - General standards and limitations; preservation of securi
 usc_title: 15
 usc_section: "1155"
 chapter: 23
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 1155"
-generated_at: "2026-03-30T00:39:40.352Z"
+generated_at: "2026-03-30T00:42:07.378Z"
 ---
 
 # § 1155. General standards and limitations; preservation of security classification

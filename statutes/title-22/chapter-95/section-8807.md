@@ -3,9 +3,9 @@ title: "Section 8807 - Impositions of sanctions with respect to the Islamic Repu
 usc_title: 22
 usc_section: "8807"
 chapter: 95
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 8807"
-generated_at: "2026-03-30T00:40:08.197Z"
+generated_at: "2026-03-30T00:42:54.574Z"
 ---
 
 # § 8807. Impositions of sanctions with respect to the Islamic Republic of Iran Broadcasting

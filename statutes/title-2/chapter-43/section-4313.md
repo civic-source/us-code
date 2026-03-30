@@ -3,9 +3,9 @@ title: "Section 4313 - Adjustment of House of Representatives allowances by Comm
 usc_title: 2
 usc_section: "4313"
 chapter: 43
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 4313"
-generated_at: "2026-03-30T00:39:10.197Z"
+generated_at: "2026-03-30T00:41:25.790Z"
 ---
 
 # § 4313. Adjustment of House of Representatives allowances by Committee on House Oversight

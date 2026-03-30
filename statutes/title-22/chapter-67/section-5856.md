@@ -3,9 +3,9 @@ title: "Section 5856 - Soviet weapons destruction"
 usc_title: 22
 usc_section: "5856"
 chapter: 67
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 5856"
-generated_at: "2026-03-30T00:40:08.160Z"
+generated_at: "2026-03-30T00:42:54.537Z"
 ---
 
 # § 5856. Soviet weapons destruction

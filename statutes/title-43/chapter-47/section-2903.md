@@ -3,9 +3,9 @@ title: "Section 2903 - Authorization of transfers of title to eligible facilitie
 usc_title: 43
 usc_section: "2903"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 2903"
-generated_at: "2026-03-30T00:40:42.094Z"
+generated_at: "2026-03-30T00:44:30.491Z"
 ---
 
 # § 2903. Authorization of transfers of title to eligible facilities

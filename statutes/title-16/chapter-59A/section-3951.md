@@ -3,9 +3,9 @@ title: "Section 3951 - Definitions"
 usc_title: 16
 usc_section: "3951"
 chapter: 59
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3951"
-generated_at: "2026-03-30T00:39:47.621Z"
+generated_at: "2026-03-30T00:42:28.983Z"
 ---
 
 # § 3951. Definitions

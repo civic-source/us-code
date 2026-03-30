@@ -3,9 +3,9 @@ title: "Section 2253 - Adjustment by Secretary of titles to lands acquired by Go
 usc_title: 7
 usc_section: "2253"
 chapter: 55
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 2253"
-generated_at: "2026-03-30T00:39:17.641Z"
+generated_at: "2026-03-30T00:41:49.608Z"
 ---
 
 # § 2253. Adjustment by Secretary of titles to lands acquired by Government and subject to his control

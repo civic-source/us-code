@@ -3,9 +3,9 @@ title: "Section 5102 - Advisory board on child abuse and neglect"
 usc_title: 42
 usc_section: "5102"
 chapter: 67
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 5102"
-generated_at: "2026-03-30T00:40:57.477Z"
+generated_at: "2026-03-30T00:44:58.632Z"
 ---
 
 # § 5102. Advisory board on child abuse and neglect

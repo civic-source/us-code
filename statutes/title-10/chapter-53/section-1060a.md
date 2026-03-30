@@ -3,9 +3,9 @@ title: "Section 1060a - Special supplemental food program"
 usc_title: 10
 usc_section: "1060a"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 1060a"
-generated_at: "2026-03-30T00:39:26.524Z"
+generated_at: "2026-03-30T00:41:56.885Z"
 ---
 
 # § 1060a. Special supplemental food program

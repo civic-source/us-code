@@ -3,9 +3,9 @@ title: "Section 5431 - Interim use of funds, personnel, and property of the Offi
 usc_title: 12
 usc_section: "5431"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 5431"
-generated_at: "2026-03-30T00:39:35.133Z"
+generated_at: "2026-03-30T00:42:04.555Z"
 ---
 
 # § 5431. Interim use of funds, personnel, and property of the Office of Thrift Supervision

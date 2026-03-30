@@ -3,9 +3,9 @@ title: "Section 109 - Public property in and belonging to the Executive Residenc
 usc_title: 3
 usc_section: "109"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "3 U.S.C. § 109"
-generated_at: "2026-03-30T00:39:06.497Z"
+generated_at: "2026-03-30T00:41:22.182Z"
 ---
 
 # § 109. Public property in and belonging to the Executive Residence at the White House

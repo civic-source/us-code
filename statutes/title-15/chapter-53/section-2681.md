@@ -3,9 +3,9 @@ title: "Section 2681 - Definitions"
 usc_title: 15
 usc_section: "2681"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 2681"
-generated_at: "2026-03-30T00:39:40.412Z"
+generated_at: "2026-03-30T00:42:07.433Z"
 ---
 
 # § 2681. Definitions

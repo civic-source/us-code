@@ -3,9 +3,9 @@ title: "Section 4871 - Contracts: consideration of national security objectives"
 usc_title: 10
 usc_section: "4871"
 chapter: 385
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 4871"
-generated_at: "2026-03-30T00:39:26.675Z"
+generated_at: "2026-03-30T00:41:56.978Z"
 ---
 
 # § 4871. Contracts: consideration of national security objectives

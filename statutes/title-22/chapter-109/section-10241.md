@@ -3,9 +3,9 @@ title: "Section 10241 - General authorization of appropriations"
 usc_title: 22
 usc_section: "10241"
 chapter: 109
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 10241"
-generated_at: "2026-03-30T00:40:08.213Z"
+generated_at: "2026-03-30T00:42:54.590Z"
 ---
 
 # § 10241. General authorization of appropriations

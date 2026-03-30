@@ -3,9 +3,9 @@ title: "Section 377 - Revision of United States Pharmacopoeia; development of an
 usc_title: 21
 usc_section: "377"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "21 U.S.C. § 377"
-generated_at: "2026-03-30T00:40:03.126Z"
+generated_at: "2026-03-30T00:42:48.796Z"
 ---
 
 # § 377. Revision of United States Pharmacopoeia; development of analysis and mechanical and physical tests

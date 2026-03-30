@@ -3,9 +3,9 @@ title: "Section 1369 - Multiparty, multiforum jurisdiction"
 usc_title: 28
 usc_section: "1369"
 chapter: 85
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "28 U.S.C. § 1369"
-generated_at: "2026-03-30T00:40:13.137Z"
+generated_at: "2026-03-30T00:43:33.187Z"
 ---
 
 # § 1369. Multiparty, multiforum jurisdiction

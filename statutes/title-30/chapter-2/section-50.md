@@ -3,9 +3,9 @@ title: "Section 50 - Grants to States or corporations not to include mineral lan
 usc_title: 30
 usc_section: "50"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "30 U.S.C. § 50"
-generated_at: "2026-03-30T00:40:10.851Z"
+generated_at: "2026-03-30T00:42:57.064Z"
 ---
 
 # § 50. Grants to States or corporations not to include mineral lands

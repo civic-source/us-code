@@ -3,9 +3,9 @@ title: "Section 2145 - Regular lieutenant commanders and commanders; retirement 
 usc_title: 14
 usc_section: "2145"
 chapter: 21
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "14 U.S.C. § 2145"
-generated_at: "2026-03-30T00:39:30.398Z"
+generated_at: "2026-03-30T00:41:59.475Z"
 ---
 
 # § 2145. Regular lieutenant commanders and commanders; retirement for failure of selection for promotion

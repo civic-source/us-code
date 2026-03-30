@@ -3,9 +3,9 @@ title: "Section 3812 - Exemptions"
 usc_title: 16
 usc_section: "3812"
 chapter: 58
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3812"
-generated_at: "2026-03-30T00:39:47.610Z"
+generated_at: "2026-03-30T00:42:28.973Z"
 ---
 
 # § 3812. Exemptions

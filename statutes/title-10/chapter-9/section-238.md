@@ -3,9 +3,9 @@ title: "Section 238 - Cyber mission forces: program elements"
 usc_title: 10
 usc_section: "238"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 238"
-generated_at: "2026-03-30T00:39:26.460Z"
+generated_at: "2026-03-30T00:41:56.846Z"
 ---
 
 # § 238. Cyber mission forces: program elements

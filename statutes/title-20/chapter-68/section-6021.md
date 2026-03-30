@@ -3,9 +3,9 @@ title: "Section 6021 - Repealed. Pub. L. 107–279, title IV, § 403(2) , Nov. 5
 usc_title: 20
 usc_section: "6021"
 chapter: 68
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 6021"
-generated_at: "2026-03-30T00:39:53.661Z"
+generated_at: "2026-03-30T00:42:15.805Z"
 ---
 
 # § 6021. Repealed. Pub. L. 107–279, title IV, § 403(2) , Nov. 5, 2002 , 116 Stat. 1985

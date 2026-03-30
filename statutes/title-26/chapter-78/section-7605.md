@@ -3,9 +3,9 @@ title: "Section 7605 - Time and place of examination"
 usc_title: 26
 usc_section: "7605"
 chapter: 78
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 7605"
-generated_at: "2026-03-30T00:40:20.627Z"
+generated_at: "2026-03-30T00:43:12.582Z"
 ---
 
 # § 7605. Time and place of examination

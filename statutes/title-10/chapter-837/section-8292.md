@@ -3,9 +3,9 @@ title: "Section 8292 - Navy cross"
 usc_title: 10
 usc_section: "8292"
 chapter: 837
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 8292"
-generated_at: "2026-03-30T00:39:26.696Z"
+generated_at: "2026-03-30T00:41:56.990Z"
 ---
 
 # § 8292. Navy cross

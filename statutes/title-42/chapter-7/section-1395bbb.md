@@ -3,9 +3,9 @@ title: "Section 1395bbb - Conditions of participation for home health agencies; 
 usc_title: 42
 usc_section: "1395bbb"
 chapter: 7
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1395bbb"
-generated_at: "2026-03-30T00:40:57.288Z"
+generated_at: "2026-03-30T00:44:58.468Z"
 ---
 
 # § 1395bbb. Conditions of participation for home health agencies; home health quality

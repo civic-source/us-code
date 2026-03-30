@@ -3,9 +3,9 @@ title: "Section 292q - Agreements for operation of school loan funds"
 usc_title: 42
 usc_section: "292q"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 292q"
-generated_at: "2026-03-30T00:40:57.050Z"
+generated_at: "2026-03-30T00:44:58.250Z"
 ---
 
 # § 292q. Agreements for operation of school loan funds

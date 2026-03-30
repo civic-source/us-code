@@ -3,9 +3,9 @@ title: "Section 454 - Advisers to counsel with Secretary of Agriculture; expense
 usc_title: 7
 usc_section: "454"
 chapter: 18
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 454"
-generated_at: "2026-03-30T00:39:17.541Z"
+generated_at: "2026-03-30T00:41:49.493Z"
 ---
 
 # § 454. Advisers to counsel with Secretary of Agriculture; expenses and subsistence

@@ -3,9 +3,9 @@ title: "Section 2119 - Failure of selection for promotion"
 usc_title: 14
 usc_section: "2119"
 chapter: 21
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "14 U.S.C. § 2119"
-generated_at: "2026-03-30T00:39:30.396Z"
+generated_at: "2026-03-30T00:41:59.474Z"
 ---
 
 # § 2119. Failure of selection for promotion

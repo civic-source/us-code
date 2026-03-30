@@ -3,9 +3,9 @@ title: "Section 20133 - Passenger cars"
 usc_title: 49
 usc_section: "20133"
 chapter: 201
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 20133"
-generated_at: "2026-03-30T00:41:06.967Z"
+generated_at: "2026-03-30T00:45:11.493Z"
 ---
 
 # § 20133. Passenger cars

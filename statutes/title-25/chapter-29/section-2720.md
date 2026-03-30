@@ -3,9 +3,9 @@ title: "Section 2720 - Dissemination of information"
 usc_title: 25
 usc_section: "2720"
 chapter: 29
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 2720"
-generated_at: "2026-03-30T00:40:05.776Z"
+generated_at: "2026-03-30T00:42:43.335Z"
 ---
 
 # § 2720. Dissemination of information

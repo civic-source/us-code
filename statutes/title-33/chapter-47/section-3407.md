@@ -3,9 +3,9 @@ title: "Section 3407 - Definitions"
 usc_title: 33
 usc_section: "3407"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 3407"
-generated_at: "2026-03-30T00:40:28.226Z"
+generated_at: "2026-03-30T00:44:01.039Z"
 ---
 
 # § 3407. Definitions

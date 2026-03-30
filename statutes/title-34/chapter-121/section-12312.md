@@ -3,9 +3,9 @@ title: "Section 12312 - Confidentiality of communications between sexual assault
 usc_title: 34
 usc_section: "12312"
 chapter: 121
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 12312"
-generated_at: "2026-03-30T00:40:25.223Z"
+generated_at: "2026-03-30T00:43:45.638Z"
 ---
 
 # § 12312. Confidentiality of communications between sexual assault or domestic violence victims and their counselors

@@ -3,9 +3,9 @@ title: "Section 644 - Secretary of commission"
 usc_title: 33
 usc_section: "644"
 chapter: 13
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 644"
-generated_at: "2026-03-30T00:40:28.148Z"
+generated_at: "2026-03-30T00:44:00.970Z"
 ---
 
 # § 644. Secretary of commission

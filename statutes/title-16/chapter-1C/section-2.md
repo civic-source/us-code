@@ -3,9 +3,9 @@ title: "Section 2 - Public awareness and education program"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T00:39:47.482Z"
+generated_at: "2026-03-30T00:42:28.847Z"
 ---
 
 # § 470aaa–2. Public awareness and education program

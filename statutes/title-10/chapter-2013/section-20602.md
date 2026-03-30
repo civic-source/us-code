@@ -3,9 +3,9 @@ title: "Section 20602 - Officers: computation of years of service for voluntary 
 usc_title: 10
 usc_section: "20602"
 chapter: 2013
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 20602"
-generated_at: "2026-03-30T00:39:26.752Z"
+generated_at: "2026-03-30T00:41:57.026Z"
 ---
 
 # § 20602. Officers: computation of years of service for voluntary retirement

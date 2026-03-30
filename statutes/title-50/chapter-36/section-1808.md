@@ -3,9 +3,9 @@ title: "Section 1808 - Report of Attorney General to Congressional committees; l
 usc_title: 50
 usc_section: "1808"
 chapter: 36
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 1808"
-generated_at: "2026-03-30T00:41:02.147Z"
+generated_at: "2026-03-30T00:45:08.038Z"
 ---
 
 # § 1808. Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress

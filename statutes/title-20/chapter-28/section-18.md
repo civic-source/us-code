@@ -3,9 +3,9 @@ title: "Section 18 - Reports, evaluations, and grants for project improvement an
 usc_title: 20
 usc_section: "18"
 chapter: 28
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 18"
-generated_at: "2026-03-30T00:39:53.578Z"
+generated_at: "2026-03-30T00:42:15.722Z"
 ---
 
 # § 1070a–18. Reports, evaluations, and grants for project improvement and dissemination

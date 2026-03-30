@@ -3,9 +3,9 @@ title: "Section 19192 - Purpose"
 usc_title: 42
 usc_section: "19192"
 chapter: 163
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 19192"
-generated_at: "2026-03-30T00:40:57.796Z"
+generated_at: "2026-03-30T00:44:58.916Z"
 ---
 
 # § 19192. Purpose

@@ -3,9 +3,9 @@ title: "Section 102 - Same; by whom administered"
 usc_title: 4
 usc_section: "102"
 chapter: 4
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "4 U.S.C. § 102"
-generated_at: "2026-03-30T00:39:00.746Z"
+generated_at: "2026-03-30T00:41:21.643Z"
 ---
 
 # § 102. Same; by whom administered

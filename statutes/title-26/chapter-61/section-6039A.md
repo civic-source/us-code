@@ -3,9 +3,9 @@ title: "Section 6039A - Repealed. Pub. L. 96–223, title IV, § 401(a) , Apr. 2
 usc_title: 26
 usc_section: "6039A"
 chapter: 61
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 6039A"
-generated_at: "2026-03-30T00:40:20.580Z"
+generated_at: "2026-03-30T00:43:12.536Z"
 ---
 
 # [§ 6039A. Repealed. Pub. L. 96–223, title IV, § 401(a) , Apr. 2, 1980 , 94 Stat. 299 ]

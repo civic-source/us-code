@@ -3,9 +3,9 @@ title: "Section 8803 - Funding"
 usc_title: 42
 usc_section: "8803"
 chapter: 96
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 8803"
-generated_at: "2026-03-30T00:40:57.610Z"
+generated_at: "2026-03-30T00:44:58.746Z"
 ---
 
 # § 8803. Funding

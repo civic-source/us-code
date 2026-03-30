@@ -3,9 +3,9 @@ title: "Section 1875 - Appropriations"
 usc_title: 42
 usc_section: "1875"
 chapter: 16
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1875"
-generated_at: "2026-03-30T00:40:57.387Z"
+generated_at: "2026-03-30T00:44:58.556Z"
 ---
 
 # § 1875. Appropriations

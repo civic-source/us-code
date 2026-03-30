@@ -3,9 +3,9 @@ title: "Section 300kk - Data collection, analysis, and quality"
 usc_title: 42
 usc_section: "300kk"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 300kk"
-generated_at: "2026-03-30T00:40:57.123Z"
+generated_at: "2026-03-30T00:44:58.316Z"
 ---
 
 # § 300kk. Data collection, analysis, and quality

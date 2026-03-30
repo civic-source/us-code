@@ -3,9 +3,9 @@ title: "Section 1978 - Actions under other Federal or State laws unaffected; reg
 usc_title: 12
 usc_section: "1978"
 chapter: 22
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 1978"
-generated_at: "2026-03-30T00:39:35.037Z"
+generated_at: "2026-03-30T00:42:04.487Z"
 ---
 
 # § 1978. Actions under other Federal or State laws unaffected; regulations or orders barred as a defense

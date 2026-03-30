@@ -3,9 +3,9 @@ title: "Section 20605 - Applicability of other provisions of law relating to ret
 usc_title: 10
 usc_section: "20605"
 chapter: 2013
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 20605"
-generated_at: "2026-03-30T00:39:26.752Z"
+generated_at: "2026-03-30T00:41:57.026Z"
 ---
 
 # § 20605. Applicability of other provisions of law relating to retirement

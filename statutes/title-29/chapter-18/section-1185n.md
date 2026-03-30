@@ -3,9 +3,9 @@ title: "Section 1185n - Reporting on pharmacy benefits and drug costs"
 usc_title: 29
 usc_section: "1185n"
 chapter: 18
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "29 U.S.C. § 1185n"
-generated_at: "2026-03-30T00:40:12.066Z"
+generated_at: "2026-03-30T00:42:59.075Z"
 ---
 
 # § 1185n. Reporting on pharmacy benefits and drug costs

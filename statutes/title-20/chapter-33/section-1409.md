@@ -3,9 +3,9 @@ title: "Section 1409 - Freely associated States"
 usc_title: 20
 usc_section: "1409"
 chapter: 33
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 1409"
-generated_at: "2026-03-30T00:39:53.629Z"
+generated_at: "2026-03-30T00:42:15.773Z"
 ---
 
 # § 1409. Freely associated States

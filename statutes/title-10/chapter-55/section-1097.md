@@ -3,9 +3,9 @@ title: "Section 1097 - Contracts for medical care for retirees, dependents, and 
 usc_title: 10
 usc_section: "1097"
 chapter: 55
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 1097"
-generated_at: "2026-03-30T00:39:26.538Z"
+generated_at: "2026-03-30T00:41:56.892Z"
 ---
 
 # § 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care

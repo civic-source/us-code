@@ -3,9 +3,9 @@ title: "Section 41311 - Gambling restrictions"
 usc_title: 49
 usc_section: "41311"
 chapter: 413
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 41311"
-generated_at: "2026-03-30T00:41:07.003Z"
+generated_at: "2026-03-30T00:45:11.532Z"
 ---
 
 # § 41311. Gambling restrictions

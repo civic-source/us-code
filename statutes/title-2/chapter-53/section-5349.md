@@ -3,9 +3,9 @@ title: "Section 5349 - Limitation on printed copies of U.S. Code to House"
 usc_title: 2
 usc_section: "5349"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 5349"
-generated_at: "2026-03-30T00:39:10.202Z"
+generated_at: "2026-03-30T00:41:25.797Z"
 ---
 
 # § 5349. Limitation on printed copies of U.S. Code to House

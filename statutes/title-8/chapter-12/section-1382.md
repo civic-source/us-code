@@ -3,9 +3,9 @@ title: "Section 1382 - Acceptance and administration of gifts for immigration in
 usc_title: 8
 usc_section: "1382"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "8 U.S.C. § 1382"
-generated_at: "2026-03-30T00:39:12.908Z"
+generated_at: "2026-03-30T00:41:39.816Z"
 ---
 
 # § 1382. Acceptance and administration of gifts for immigration integration grants program

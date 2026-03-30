@@ -3,9 +3,9 @@ title: "Section 7429 - Solid waste combustion"
 usc_title: 42
 usc_section: "7429"
 chapter: 85
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 7429"
-generated_at: "2026-03-30T00:40:57.566Z"
+generated_at: "2026-03-30T00:44:58.708Z"
 ---
 
 # § 7429. Solid waste combustion

@@ -3,9 +3,9 @@ title: "Section 6452 - Duties"
 usc_title: 16
 usc_section: "6452"
 chapter: 83
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 6452"
-generated_at: "2026-03-30T00:39:47.637Z"
+generated_at: "2026-03-30T00:42:28.998Z"
 ---
 
 # § 6452. Duties

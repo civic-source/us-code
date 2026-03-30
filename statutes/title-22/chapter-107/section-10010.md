@@ -3,9 +3,9 @@ title: "Section 10010 - Limitation on assistance to the Sudanese security and in
 usc_title: 22
 usc_section: "10010"
 chapter: 107
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 10010"
-generated_at: "2026-03-30T00:40:08.211Z"
+generated_at: "2026-03-30T00:42:54.589Z"
 ---
 
 # § 10010. Limitation on assistance to the Sudanese security and intelligence services

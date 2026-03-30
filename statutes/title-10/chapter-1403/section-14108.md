@@ -3,9 +3,9 @@ title: "Section 14108 - Recommendations by promotion boards"
 usc_title: 10
 usc_section: "14108"
 chapter: 1403
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 14108"
-generated_at: "2026-03-30T00:39:26.739Z"
+generated_at: "2026-03-30T00:41:57.017Z"
 ---
 
 # § 14108. Recommendations by promotion boards

@@ -3,9 +3,9 @@ title: "Section 539r - Rocky Mountain Front Conservation Management Area and wil
 usc_title: 16
 usc_section: "539r"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 539r"
-generated_at: "2026-03-30T00:39:47.492Z"
+generated_at: "2026-03-30T00:42:28.857Z"
 ---
 
 # § 539r. Rocky Mountain Front Conservation Management Area and wilderness additions

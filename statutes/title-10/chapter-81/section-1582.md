@@ -3,9 +3,9 @@ title: "Section 1582 - Assistive technology, assistive technology devices, and a
 usc_title: 10
 usc_section: "1582"
 chapter: 81
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 1582"
-generated_at: "2026-03-30T00:39:26.571Z"
+generated_at: "2026-03-30T00:41:56.912Z"
 ---
 
 # § 1582. Assistive technology, assistive technology devices, and assistive technology services

@@ -3,9 +3,9 @@ title: "Section 620d - Monitoring and enforcement"
 usc_title: 16
 usc_section: "620d"
 chapter: 4
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 620d"
-generated_at: "2026-03-30T00:39:47.505Z"
+generated_at: "2026-03-30T00:42:28.870Z"
 ---
 
 # § 620d. Monitoring and enforcement

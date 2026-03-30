@@ -3,9 +3,9 @@ title: "Section 709 - Treatment of organization and syndication fees"
 usc_title: 26
 usc_section: "709"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 709"
-generated_at: "2026-03-30T00:40:20.477Z"
+generated_at: "2026-03-30T00:43:12.434Z"
 ---
 
 # § 709. Treatment of organization and syndication fees

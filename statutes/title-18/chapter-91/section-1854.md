@@ -3,9 +3,9 @@ title: "Section 1854 - Trees boxed for pitch or turpentine"
 usc_title: 18
 usc_section: "1854"
 chapter: 91
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 1854"
-generated_at: "2026-03-30T00:39:48.710Z"
+generated_at: "2026-03-30T00:42:11.189Z"
 ---
 
 # § 1854. Trees boxed for pitch or turpentine

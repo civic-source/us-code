@@ -3,9 +3,9 @@ title: "Section 1772f - Open data publication"
 usc_title: 12
 usc_section: "1772f"
 chapter: 14
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 1772f"
-generated_at: "2026-03-30T00:39:34.984Z"
+generated_at: "2026-03-30T00:42:04.451Z"
 ---
 
 # § 1772f. Open data publication

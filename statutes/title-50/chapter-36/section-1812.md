@@ -3,9 +3,9 @@ title: "Section 1812 - Statement of exclusive means by which electronic surveill
 usc_title: 50
 usc_section: "1812"
 chapter: 36
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 1812"
-generated_at: "2026-03-30T00:41:02.147Z"
+generated_at: "2026-03-30T00:45:08.038Z"
 ---
 
 # § 1812. Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted

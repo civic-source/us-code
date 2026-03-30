@@ -3,9 +3,9 @@ title: "Section 12 - Disposal by United States of coal, oil, or gas deposits res
 usc_title: 43
 usc_section: "12"
 chapter: 7
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 12"
-generated_at: "2026-03-30T00:40:42.034Z"
+generated_at: "2026-03-30T00:44:30.435Z"
 ---
 
 # § 270–12. Disposal by United States of coal, oil, or gas deposits reserved to United States; entry, reentry, etc., on lands for prospecting, mining, and re­moval

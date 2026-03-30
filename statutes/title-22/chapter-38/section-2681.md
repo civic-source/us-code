@@ -3,9 +3,9 @@ title: "Section 2681 - International broadcasting facilities; transfer to Depart
 usc_title: 22
 usc_section: "2681"
 chapter: 38
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 2681"
-generated_at: "2026-03-30T00:40:08.115Z"
+generated_at: "2026-03-30T00:42:54.491Z"
 ---
 
 # § 2681. International broadcasting facilities; transfer to Department of State; acquisition of property

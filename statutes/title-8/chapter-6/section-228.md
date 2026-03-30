@@ -3,9 +3,9 @@ title: "Section 228 - Omitted"
 usc_title: 8
 usc_section: "228"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "8 U.S.C. § 228"
-generated_at: "2026-03-30T00:39:12.872Z"
+generated_at: "2026-03-30T00:41:39.778Z"
 ---
 
 # § 228. Omitted

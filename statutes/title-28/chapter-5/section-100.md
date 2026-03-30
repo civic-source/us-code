@@ -3,9 +3,9 @@ title: "Section 100 - Maryland"
 usc_title: 28
 usc_section: "100"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "28 U.S.C. § 100"
-generated_at: "2026-03-30T00:40:13.118Z"
+generated_at: "2026-03-30T00:43:33.162Z"
 ---
 
 # § 100. Maryland

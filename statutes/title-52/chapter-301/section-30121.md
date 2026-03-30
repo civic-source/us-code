@@ -3,9 +3,9 @@ title: "Section 30121 - Contributions and donations by foreign nationals"
 usc_title: 52
 usc_section: "30121"
 chapter: 301
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "52 U.S.C. § 30121"
-generated_at: "2026-03-30T00:41:09.200Z"
+generated_at: "2026-03-30T00:45:13.451Z"
 ---
 
 # § 30121. Contributions and donations by foreign nationals

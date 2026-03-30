@@ -3,9 +3,9 @@ title: "Section 326 - Conduct of post-grant review"
 usc_title: 35
 usc_section: "326"
 chapter: 32
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "35 U.S.C. § 326"
-generated_at: "2026-03-30T00:40:28.513Z"
+generated_at: "2026-03-30T00:43:41.560Z"
 ---
 
 # § 326. Conduct of post-grant review

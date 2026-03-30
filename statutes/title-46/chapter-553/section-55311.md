@@ -3,9 +3,9 @@ title: "Section 55311 - Findings and purposes"
 usc_title: 46
 usc_section: "55311"
 chapter: 553
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "46 U.S.C. § 55311"
-generated_at: "2026-03-30T00:41:04.524Z"
+generated_at: "2026-03-30T00:45:02.393Z"
 ---
 
 # § 55311. Findings and purposes

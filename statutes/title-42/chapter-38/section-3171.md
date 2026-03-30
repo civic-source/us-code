@@ -3,9 +3,9 @@ title: "Section 3171 - Designation of economic development districts"
 usc_title: 42
 usc_section: "3171"
 chapter: 38
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 3171"
-generated_at: "2026-03-30T00:40:57.445Z"
+generated_at: "2026-03-30T00:44:58.604Z"
 ---
 
 # § 3171. Designation of economic development districts

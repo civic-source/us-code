@@ -3,9 +3,9 @@ title: "Section 1007 - Representative payees"
 usc_title: 42
 usc_section: "1007"
 chapter: 7
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1007"
-generated_at: "2026-03-30T00:40:57.173Z"
+generated_at: "2026-03-30T00:44:58.363Z"
 ---
 
 # § 1007. Representative payees

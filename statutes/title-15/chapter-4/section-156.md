@@ -3,9 +3,9 @@ title: "Section 156 - Dissolution of corporation; trustees"
 usc_title: 15
 usc_section: "156"
 chapter: 4
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 156"
-generated_at: "2026-03-30T00:39:40.291Z"
+generated_at: "2026-03-30T00:42:07.325Z"
 ---
 
 # § 156. Dissolution of corporation; trustees

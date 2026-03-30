@@ -3,9 +3,9 @@ title: "Section 386 - Application of excess-land provisions of reclamation laws 
 usc_title: 43
 usc_section: "386"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 386"
-generated_at: "2026-03-30T00:40:42.038Z"
+generated_at: "2026-03-30T00:44:30.439Z"
 ---
 
 # § 386. Application of excess-land provisions of reclamation laws to certain lands

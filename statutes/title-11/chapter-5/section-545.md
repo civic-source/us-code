@@ -3,9 +3,9 @@ title: "Section 545 - Statutory liens"
 usc_title: 11
 usc_section: "545"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "11 U.S.C. § 545"
-generated_at: "2026-03-30T00:39:29.856Z"
+generated_at: "2026-03-30T00:42:01.663Z"
 ---
 
 # § 545. Statutory liens

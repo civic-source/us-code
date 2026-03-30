@@ -3,9 +3,9 @@ title: "Section 2702 - Whistleblower protection program"
 usc_title: 50
 usc_section: "2702"
 chapter: 42
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 2702"
-generated_at: "2026-03-30T00:41:02.168Z"
+generated_at: "2026-03-30T00:45:08.058Z"
 ---
 
 # § 2702. Whistleblower protection program

@@ -3,9 +3,9 @@ title: "Section 256 - Grants to strengthen the effectiveness, efficiency, and co
 usc_title: 42
 usc_section: "256"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 256"
-generated_at: "2026-03-30T00:40:56.994Z"
+generated_at: "2026-03-30T00:44:58.198Z"
 ---
 
 # § 256. Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured

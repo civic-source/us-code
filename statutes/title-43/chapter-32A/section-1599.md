@@ -3,9 +3,9 @@ title: "Section 1599 - Definitions"
 usc_title: 43
 usc_section: "1599"
 chapter: 32
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 1599"
-generated_at: "2026-03-30T00:40:42.072Z"
+generated_at: "2026-03-30T00:44:30.470Z"
 ---
 
 # § 1599. Definitions

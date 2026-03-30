@@ -3,9 +3,9 @@ title: "Section 391b - Strategic cybersecurity program"
 usc_title: 10
 usc_section: "391b"
 chapter: 19
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 391b"
-generated_at: "2026-03-30T00:39:26.470Z"
+generated_at: "2026-03-30T00:41:56.851Z"
 ---
 
 # § 391b. Strategic cybersecurity program

@@ -3,9 +3,9 @@ title: "Section 19014 - Expanding geographic and institutional diversity in rese
 usc_title: 42
 usc_section: "19014"
 chapter: 163
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 19014"
-generated_at: "2026-03-30T00:40:57.790Z"
+generated_at: "2026-03-30T00:44:58.911Z"
 ---
 
 # § 19014. Expanding geographic and institutional diversity in research

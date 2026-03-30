@@ -3,9 +3,9 @@ title: "Section 47112 - Carrying out airport development projects"
 usc_title: 49
 usc_section: "47112"
 chapter: 471
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 47112"
-generated_at: "2026-03-30T00:41:07.030Z"
+generated_at: "2026-03-30T00:45:11.555Z"
 ---
 
 # § 47112. Carrying out airport development projects

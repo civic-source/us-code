@@ -3,9 +3,9 @@ title: "Section 661 - Definitions"
 usc_title: 45
 usc_section: "661"
 chapter: 15
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "45 U.S.C. § 661"
-generated_at: "2026-03-30T00:40:41.344Z"
+generated_at: "2026-03-30T00:44:20.885Z"
 ---
 
 # § 661. Definitions

@@ -3,9 +3,9 @@ title: "Section 1616o - University of South Dakota pilot program"
 usc_title: 25
 usc_section: "1616o"
 chapter: 18
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 1616o"
-generated_at: "2026-03-30T00:40:05.750Z"
+generated_at: "2026-03-30T00:42:43.303Z"
 ---
 
 # § 1616o. University of South Dakota pilot program

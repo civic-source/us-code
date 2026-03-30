@@ -3,9 +3,9 @@ title: "Section 360ccc - Conditional approval of new animal drugs for minor use 
 usc_title: 21
 usc_section: "360ccc"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "21 U.S.C. § 360ccc"
-generated_at: "2026-03-30T00:40:03.118Z"
+generated_at: "2026-03-30T00:42:48.789Z"
 ---
 
 # § 360ccc. Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs

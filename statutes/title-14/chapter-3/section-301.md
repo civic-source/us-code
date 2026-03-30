@@ -3,9 +3,9 @@ title: "Section 301 - Grades and ratings"
 usc_title: 14
 usc_section: "301"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "14 U.S.C. § 301"
-generated_at: "2026-03-30T00:39:30.384Z"
+generated_at: "2026-03-30T00:41:59.462Z"
 ---
 
 # § 301. Grades and ratings

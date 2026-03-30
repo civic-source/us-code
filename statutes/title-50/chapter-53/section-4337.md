@@ -3,9 +3,9 @@ title: "Section 4337 - Intercustodial conflicts involving enemy property; author
 usc_title: 50
 usc_section: "4337"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 4337"
-generated_at: "2026-03-30T00:41:02.220Z"
+generated_at: "2026-03-30T00:45:08.106Z"
 ---
 
 # § 4337. Intercustodial conflicts involving enemy property; authority of President to conclude; delegation of authority

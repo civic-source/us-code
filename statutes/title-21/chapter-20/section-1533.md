@@ -3,9 +3,9 @@ title: "Section 1533 - Information collection and dissemination with respect to 
 usc_title: 21
 usc_section: "1533"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "21 U.S.C. § 1533"
-generated_at: "2026-03-30T00:40:03.164Z"
+generated_at: "2026-03-30T00:42:48.832Z"
 ---
 
 # § 1533. Information collection and dissemination with respect to grant recipients

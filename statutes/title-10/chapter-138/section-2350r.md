@@ -3,9 +3,9 @@ title: "Section 2350r - North Atlantic Treaty Organization Special Operations He
 usc_title: 10
 usc_section: "2350r"
 chapter: 138
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2350r"
-generated_at: "2026-03-30T00:39:26.604Z"
+generated_at: "2026-03-30T00:41:56.932Z"
 ---
 
 # § 2350r. North Atlantic Treaty Organization Special Operations Headquarters

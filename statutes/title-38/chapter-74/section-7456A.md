@@ -3,9 +3,9 @@ title: "Section 7456A - Nurses: alternate work schedules"
 usc_title: 38
 usc_section: "7456A"
 chapter: 74
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 7456A"
-generated_at: "2026-03-30T00:40:32.905Z"
+generated_at: "2026-03-30T00:44:18.524Z"
 ---
 
 # § 7456A. Nurses: alternate work schedules

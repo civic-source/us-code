@@ -3,9 +3,9 @@ title: "Section 150105 - Membership"
 usc_title: 36
 usc_section: "150105"
 chapter: 1501
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "36 U.S.C. § 150105"
-generated_at: "2026-03-30T00:40:38.835Z"
+generated_at: "2026-03-30T00:44:07.448Z"
 ---
 
 # § 150105. Membership

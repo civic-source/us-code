@@ -3,9 +3,9 @@ title: "Section 8729 - Re-lease of certain lands: lessee’s preferential right"
 usc_title: 10
 usc_section: "8729"
 chapter: 869
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 8729"
-generated_at: "2026-03-30T00:39:26.708Z"
+generated_at: "2026-03-30T00:41:56.998Z"
 ---
 
 # § 8729. Re-lease of certain lands: lessee’s preferential right

@@ -3,9 +3,9 @@ title: "Section 9 - Lands, easements, and rights-of-way; acquisition by local au
 usc_title: 33
 usc_section: "9"
 chapter: 15
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 9"
-generated_at: "2026-03-30T00:40:28.151Z"
+generated_at: "2026-03-30T00:44:00.975Z"
 ---
 
 # § 702a–9. Lands, easements, and rights-of-way; acquisition by local authorities; reimbursement; protection of United States from liability for damages

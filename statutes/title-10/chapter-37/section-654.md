@@ -3,9 +3,9 @@ title: "Section 654 - Minimum service requirement for certain cyberspace occupat
 usc_title: 10
 usc_section: "654"
 chapter: 37
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 654"
-generated_at: "2026-03-30T00:39:26.493Z"
+generated_at: "2026-03-30T00:41:56.864Z"
 ---
 
 # § 654. Minimum service requirement for certain cyberspace occupational specialties

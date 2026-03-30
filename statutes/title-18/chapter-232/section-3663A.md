@@ -3,9 +3,9 @@ title: "Section 3663A - Mandatory restitution to victims of certain crimes"
 usc_title: 18
 usc_section: "3663A"
 chapter: 232
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 3663A"
-generated_at: "2026-03-30T00:39:48.741Z"
+generated_at: "2026-03-30T00:42:11.218Z"
 ---
 
 # § 3663A. Mandatory restitution to victims of certain crimes

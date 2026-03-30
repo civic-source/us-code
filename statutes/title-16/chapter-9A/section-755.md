@@ -3,9 +3,9 @@ title: "Section 755 - Salmon-cultural stations; establishment; expenditure of fu
 usc_title: 16
 usc_section: "755"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 755"
-generated_at: "2026-03-30T00:39:47.521Z"
+generated_at: "2026-03-30T00:42:28.886Z"
 ---
 
 # § 755. Salmon-cultural stations; establishment; expenditure of funds

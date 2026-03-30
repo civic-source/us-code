@@ -3,9 +3,9 @@ title: "Section 3114 - Declaration of taking"
 usc_title: 40
 usc_section: "3114"
 chapter: 31
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "40 U.S.C. § 3114"
-generated_at: "2026-03-30T00:40:31.180Z"
+generated_at: "2026-03-30T00:44:04.698Z"
 ---
 
 # § 3114. Declaration of taking

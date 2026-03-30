@@ -3,9 +3,9 @@ title: "Section 75 - Native American uses and interests"
 usc_title: 16
 usc_section: "75"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 75"
-generated_at: "2026-03-30T00:39:47.421Z"
+generated_at: "2026-03-30T00:42:28.784Z"
 ---
 
 # § 410aaa–75. Native American uses and interests

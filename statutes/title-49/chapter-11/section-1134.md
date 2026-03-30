@@ -3,9 +3,9 @@ title: "Section 1134 - Inspections and autopsies"
 usc_title: 49
 usc_section: "1134"
 chapter: 11
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 1134"
-generated_at: "2026-03-30T00:41:06.936Z"
+generated_at: "2026-03-30T00:45:11.463Z"
 ---
 
 # § 1134. Inspections and autopsies

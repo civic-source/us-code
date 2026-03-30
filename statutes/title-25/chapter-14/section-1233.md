@@ -3,9 +3,9 @@ title: "Section 1233 - Omitted"
 usc_title: 25
 usc_section: "1233"
 chapter: 14
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 1233"
-generated_at: "2026-03-30T00:40:05.746Z"
+generated_at: "2026-03-30T00:42:43.296Z"
 ---
 
 # § 1233. Omitted

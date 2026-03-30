@@ -3,9 +3,9 @@ title: "Section 30502 - Whistleblower protection"
 usc_title: 51
 usc_section: "30502"
 chapter: 305
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "51 U.S.C. § 30502"
-generated_at: "2026-03-30T00:41:09.545Z"
+generated_at: "2026-03-30T00:45:14.090Z"
 ---
 
 # § 30502. Whistleblower protection

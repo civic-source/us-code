@@ -3,9 +3,9 @@ title: "Section 1751 - Grazing fees; feasibility study; contents; submission of 
 usc_title: 43
 usc_section: "1751"
 chapter: 35
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 1751"
-generated_at: "2026-03-30T00:40:42.085Z"
+generated_at: "2026-03-30T00:44:30.482Z"
 ---
 
 # § 1751. Grazing fees; feasibility study; contents; submission of report; annual distribution and use of range betterment funds; nature of distributions

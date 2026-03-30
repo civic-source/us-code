@@ -3,9 +3,9 @@ title: "Section 6118 - Long-distance telephone calls for Vice President"
 usc_title: 2
 usc_section: "6118"
 chapter: 61
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "2 U.S.C. § 6118"
-generated_at: "2026-03-30T00:39:10.204Z"
+generated_at: "2026-03-30T00:41:25.799Z"
 ---
 
 # § 6118. Long-distance telephone calls for Vice President

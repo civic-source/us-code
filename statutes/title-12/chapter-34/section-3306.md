@@ -3,9 +3,9 @@ title: "Section 3306 - State liaison"
 usc_title: 12
 usc_section: "3306"
 chapter: 34
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 3306"
-generated_at: "2026-03-30T00:39:35.069Z"
+generated_at: "2026-03-30T00:42:04.509Z"
 ---
 
 # § 3306. State liaison

@@ -3,9 +3,9 @@ title: "Section 104908 - Bows in parks"
 usc_title: 54
 usc_section: "104908"
 chapter: 1049
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "54 U.S.C. § 104908"
-generated_at: "2026-03-30T00:41:09.024Z"
+generated_at: "2026-03-30T00:45:13.766Z"
 ---
 
 # § 104908. Bows in parks

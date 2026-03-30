@@ -3,9 +3,9 @@ title: "Section 2581 - Intent"
 usc_title: 7
 usc_section: "2581"
 chapter: 57
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 2581"
-generated_at: "2026-03-30T00:39:17.648Z"
+generated_at: "2026-03-30T00:41:49.616Z"
 ---
 
 # § 2581. Intent

@@ -3,9 +3,9 @@ title: "Section 2275b - Requirements for appropriate classification guidance. 1 
 usc_title: 10
 usc_section: "2275b"
 chapter: 135
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2275b"
-generated_at: "2026-03-30T00:39:26.598Z"
+generated_at: "2026-03-30T00:41:56.929Z"
 ---
 
 # § 2275b. Requirements for appropriate classification guidance. 1 1 So in original. The period probably should not appear.

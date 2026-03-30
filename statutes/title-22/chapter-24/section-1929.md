@@ -3,9 +3,9 @@ title: "Section 1929 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1929"
 chapter: 24
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 1929"
-generated_at: "2026-03-30T00:40:08.076Z"
+generated_at: "2026-03-30T00:42:54.454Z"
 ---
 
 # § 1929. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460

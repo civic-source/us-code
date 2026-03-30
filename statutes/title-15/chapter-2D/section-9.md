@@ -3,9 +3,9 @@ title: "Section 9 - Enforcement of subchapter"
 usc_title: 15
 usc_section: "9"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-30T00:39:40.289Z"
+generated_at: "2026-03-30T00:42:07.323Z"
 ---
 
 # § 80b–9. Enforcement of subchapter

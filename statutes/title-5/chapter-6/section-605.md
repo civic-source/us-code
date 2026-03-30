@@ -3,9 +3,9 @@ title: "Section 605 - Avoidance of duplicative or unnecessary analyses"
 usc_title: 5
 usc_section: "605"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "5 U.S.C. § 605"
-generated_at: "2026-03-30T00:39:08.290Z"
+generated_at: "2026-03-30T00:41:36.982Z"
 ---
 
 # § 605. Avoidance of duplicative or unnecessary analyses

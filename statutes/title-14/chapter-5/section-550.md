@@ -3,9 +3,9 @@ title: "Section 550 - Marking pierheads in certain lakes"
 usc_title: 14
 usc_section: "550"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "14 U.S.C. § 550"
-generated_at: "2026-03-30T00:39:30.388Z"
+generated_at: "2026-03-30T00:41:59.466Z"
 ---
 
 # § 550. Marking pierheads in certain lakes

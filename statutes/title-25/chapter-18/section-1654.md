@@ -3,9 +3,9 @@ title: "Section 1654 - Contracts and grants for determination of unmet health ca
 usc_title: 25
 usc_section: "1654"
 chapter: 18
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 1654"
-generated_at: "2026-03-30T00:40:05.756Z"
+generated_at: "2026-03-30T00:42:43.307Z"
 ---
 
 # § 1654. Contracts and grants for determination of unmet health care needs

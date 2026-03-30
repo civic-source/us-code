@@ -3,9 +3,9 @@ title: "Section 1257a - State demonstration programs for cleanup of abandoned mi
 usc_title: 33
 usc_section: "1257a"
 chapter: 26
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 1257a"
-generated_at: "2026-03-30T00:40:28.164Z"
+generated_at: "2026-03-30T00:44:00.986Z"
 ---
 
 # § 1257a. State demonstration programs for cleanup of abandoned mines for use as waste disposal sites; authorization of appropriations

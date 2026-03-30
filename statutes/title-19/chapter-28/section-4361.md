@@ -3,9 +3,9 @@ title: "Section 4361 - Definitions"
 usc_title: 19
 usc_section: "4361"
 chapter: 28
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "19 U.S.C. § 4361"
-generated_at: "2026-03-30T00:39:55.884Z"
+generated_at: "2026-03-30T00:42:13.336Z"
 ---
 
 # § 4361. Definitions

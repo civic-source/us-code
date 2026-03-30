@@ -3,9 +3,9 @@ title: "Section 18652 - Helium conservation program"
 usc_title: 42
 usc_section: "18652"
 chapter: 161
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 18652"
-generated_at: "2026-03-30T00:40:57.778Z"
+generated_at: "2026-03-30T00:44:58.900Z"
 ---
 
 # § 18652. Helium conservation program

@@ -3,9 +3,9 @@ title: "Section 3749 - Burden of proof on contractor"
 usc_title: 10
 usc_section: "3749"
 chapter: 273
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 3749"
-generated_at: "2026-03-30T00:39:26.653Z"
+generated_at: "2026-03-30T00:41:56.964Z"
 ---
 
 # § 3749. Burden of proof on contractor

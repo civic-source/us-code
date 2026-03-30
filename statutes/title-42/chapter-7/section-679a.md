@@ -3,9 +3,9 @@ title: "Section 679a - National Adoption Information Clearinghouse"
 usc_title: 42
 usc_section: "679a"
 chapter: 7
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 679a"
-generated_at: "2026-03-30T00:40:57.166Z"
+generated_at: "2026-03-30T00:44:58.356Z"
 ---
 
 # § 679a. National Adoption Information Clearinghouse

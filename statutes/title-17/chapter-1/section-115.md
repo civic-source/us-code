@@ -3,9 +3,9 @@ title: "Section 115 - Scope of exclusive rights in nondramatic musical works: Co
 usc_title: 17
 usc_section: "115"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "17 U.S.C. § 115"
-generated_at: "2026-03-30T00:39:42.600Z"
+generated_at: "2026-03-30T00:42:10.155Z"
 ---
 
 # § 115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords

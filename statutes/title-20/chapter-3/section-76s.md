@@ -3,9 +3,9 @@ title: "Section 76s - Definitions"
 usc_title: 20
 usc_section: "76s"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 76s"
-generated_at: "2026-03-30T00:39:53.552Z"
+generated_at: "2026-03-30T00:42:15.697Z"
 ---
 
 # § 76s. Definitions

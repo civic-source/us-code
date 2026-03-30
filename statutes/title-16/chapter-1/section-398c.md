@@ -3,9 +3,9 @@ title: "Section 398c - Addition of lands"
 usc_title: 16
 usc_section: "398c"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 398c"
-generated_at: "2026-03-30T00:39:47.405Z"
+generated_at: "2026-03-30T00:42:28.767Z"
 ---
 
 # § 398c. Addition of lands

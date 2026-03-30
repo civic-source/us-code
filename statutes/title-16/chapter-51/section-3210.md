@@ -3,9 +3,9 @@ title: "Section 3210 - Access by owner to nonfederally owned land"
 usc_title: 16
 usc_section: "3210"
 chapter: 51
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3210"
-generated_at: "2026-03-30T00:39:47.604Z"
+generated_at: "2026-03-30T00:42:28.967Z"
 ---
 
 # § 3210. Access by owner to nonfederally owned land

@@ -3,9 +3,9 @@ title: "Section 1397 - Other definitions and special rules"
 usc_title: 26
 usc_section: "1397"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 1397"
-generated_at: "2026-03-30T00:40:20.522Z"
+generated_at: "2026-03-30T00:43:12.480Z"
 ---
 
 # § 1397. Other definitions and special rules

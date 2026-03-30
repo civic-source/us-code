@@ -3,9 +3,9 @@ title: "Section 572a - Deposits from timber purchasers to defray cost of scaling
 usc_title: 16
 usc_section: "572a"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 572a"
-generated_at: "2026-03-30T00:39:47.498Z"
+generated_at: "2026-03-30T00:42:28.863Z"
 ---
 
 # § 572a. Deposits from timber purchasers to defray cost of scaling services

@@ -3,9 +3,9 @@ title: "Section 7 - Southwestern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "7"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T00:39:47.533Z"
+generated_at: "2026-03-30T00:42:28.898Z"
 ---
 
 # § 825s–7. Southwestern Power Administration; deposit and availability of discretionary offsetting collections

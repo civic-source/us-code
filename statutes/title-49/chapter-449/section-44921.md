@@ -3,9 +3,9 @@ title: "Section 44921 - Federal flight deck officer program"
 usc_title: 49
 usc_section: "44921"
 chapter: 449
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 44921"
-generated_at: "2026-03-30T00:41:07.021Z"
+generated_at: "2026-03-30T00:45:11.547Z"
 ---
 
 # § 44921. Federal flight deck officer program

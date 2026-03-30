@@ -3,9 +3,9 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T00:41:07.029Z"
+generated_at: "2026-03-30T00:45:11.554Z"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations

@@ -3,9 +3,9 @@ title: "Section 4404 - Duties of Secretary of State"
 usc_title: 7
 usc_section: "4404"
 chapter: 75
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 4404"
-generated_at: "2026-03-30T00:39:17.666Z"
+generated_at: "2026-03-30T00:41:49.639Z"
 ---
 
 # § 4404. Duties of Secretary of State

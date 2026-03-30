@@ -3,9 +3,9 @@ title: "Section 2243 - Sexual abuse of a minor, a ward, or an individual in Fede
 usc_title: 18
 usc_section: "2243"
 chapter: 109
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 2243"
-generated_at: "2026-03-30T00:39:48.715Z"
+generated_at: "2026-03-30T00:42:11.193Z"
 ---
 
 # § 2243. Sexual abuse of a minor, a ward, or an individual in Federal custody

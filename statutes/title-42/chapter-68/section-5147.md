@@ -3,9 +3,9 @@ title: "Section 5147 - Reimbursement of Federal agencies"
 usc_title: 42
 usc_section: "5147"
 chapter: 68
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 5147"
-generated_at: "2026-03-30T00:40:57.484Z"
+generated_at: "2026-03-30T00:44:58.637Z"
 ---
 
 # § 5147. Reimbursement of Federal agencies

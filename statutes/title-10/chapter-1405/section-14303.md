@@ -3,9 +3,9 @@ title: "Section 14303 - Eligibility for consideration for promotion: minimum yea
 usc_title: 10
 usc_section: "14303"
 chapter: 1405
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 14303"
-generated_at: "2026-03-30T00:39:26.739Z"
+generated_at: "2026-03-30T00:41:57.018Z"
 ---
 
 # § 14303. Eligibility for consideration for promotion: minimum years of service in grade

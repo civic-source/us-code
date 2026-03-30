@@ -3,9 +3,9 @@ title: "Section 797k - Factfinding panel"
 usc_title: 45
 usc_section: "797k"
 chapter: 16
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "45 U.S.C. § 797k"
-generated_at: "2026-03-30T00:40:41.349Z"
+generated_at: "2026-03-30T00:44:20.891Z"
 ---
 
 # § 797k. Factfinding panel

@@ -3,9 +3,9 @@ title: "Section 1573 - Time, frequency, and duration of regular sessions; specia
 usc_title: 48
 usc_section: "1573"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "48 U.S.C. § 1573"
-generated_at: "2026-03-30T00:41:02.868Z"
+generated_at: "2026-03-30T00:45:08.570Z"
 ---
 
 # § 1573. Time, frequency, and duration of regular sessions; special sessions; place of holding

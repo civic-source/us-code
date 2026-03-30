@@ -3,9 +3,9 @@ title: "Section 995 - Powers of the Commission"
 usc_title: 28
 usc_section: "995"
 chapter: 58
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "28 U.S.C. § 995"
-generated_at: "2026-03-30T00:40:13.135Z"
+generated_at: "2026-03-30T00:43:33.184Z"
 ---
 
 # § 995. Powers of the Commission

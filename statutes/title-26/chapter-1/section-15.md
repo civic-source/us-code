@@ -3,9 +3,9 @@ title: "Section 15 - Effect of changes"
 usc_title: 26
 usc_section: "15"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 15"
-generated_at: "2026-03-30T00:40:20.342Z"
+generated_at: "2026-03-30T00:43:12.304Z"
 ---
 
 # § 15. Effect of changes

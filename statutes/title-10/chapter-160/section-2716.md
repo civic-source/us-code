@@ -3,9 +3,9 @@ title: "Section 2716 - Budget justification document for funding relating to per
 usc_title: 10
 usc_section: "2716"
 chapter: 160
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2716"
-generated_at: "2026-03-30T00:39:26.625Z"
+generated_at: "2026-03-30T00:41:56.946Z"
 ---
 
 # § 2716. Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances

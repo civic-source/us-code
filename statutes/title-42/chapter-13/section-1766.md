@@ -3,9 +3,9 @@ title: "Section 1766 - Child and adult care food program"
 usc_title: 42
 usc_section: "1766"
 chapter: 13
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1766"
-generated_at: "2026-03-30T00:40:57.369Z"
+generated_at: "2026-03-30T00:44:58.540Z"
 ---
 
 # § 1766. Child and adult care food program

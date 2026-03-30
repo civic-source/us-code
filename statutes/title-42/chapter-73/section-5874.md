@@ -3,9 +3,9 @@ title: "Section 5874 - Definitions"
 usc_title: 42
 usc_section: "5874"
 chapter: 73
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 5874"
-generated_at: "2026-03-30T00:40:57.500Z"
+generated_at: "2026-03-30T00:44:58.653Z"
 ---
 
 # § 5874. Definitions

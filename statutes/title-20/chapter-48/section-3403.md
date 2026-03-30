@@ -3,9 +3,9 @@ title: "Section 3403 - Relationship with States"
 usc_title: 20
 usc_section: "3403"
 chapter: 48
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 3403"
-generated_at: "2026-03-30T00:39:53.648Z"
+generated_at: "2026-03-30T00:42:15.791Z"
 ---
 
 # § 3403. Relationship with States

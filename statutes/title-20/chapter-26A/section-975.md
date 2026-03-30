@@ -3,9 +3,9 @@ title: "Section 975 - Claims for losses"
 usc_title: 20
 usc_section: "975"
 chapter: 26
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 975"
-generated_at: "2026-03-30T00:39:53.564Z"
+generated_at: "2026-03-30T00:42:15.708Z"
 ---
 
 # § 975. Claims for losses

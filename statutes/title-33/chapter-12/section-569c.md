@@ -3,9 +3,9 @@ title: "Section 569c - Services of volunteers"
 usc_title: 33
 usc_section: "569c"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 569c"
-generated_at: "2026-03-30T00:40:28.144Z"
+generated_at: "2026-03-30T00:44:00.967Z"
 ---
 
 # § 569c. Services of volunteers

@@ -3,9 +3,9 @@ title: "Section 7919 - Rules"
 usc_title: 42
 usc_section: "7919"
 chapter: 88
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 7919"
-generated_at: "2026-03-30T00:40:57.596Z"
+generated_at: "2026-03-30T00:44:58.734Z"
 ---
 
 # § 7919. Rules

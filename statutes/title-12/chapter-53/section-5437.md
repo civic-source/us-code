@@ -3,9 +3,9 @@ title: "Section 5437 - Implementation plan and reports"
 usc_title: 12
 usc_section: "5437"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 5437"
-generated_at: "2026-03-30T00:39:35.134Z"
+generated_at: "2026-03-30T00:42:04.555Z"
 ---
 
 # § 5437. Implementation plan and reports

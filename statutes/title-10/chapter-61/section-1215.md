@@ -3,9 +3,9 @@ title: "Section 1215 - Members other than Regulars: applicability of laws"
 usc_title: 10
 usc_section: "1215"
 chapter: 61
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 1215"
-generated_at: "2026-03-30T00:39:26.550Z"
+generated_at: "2026-03-30T00:41:56.899Z"
 ---
 
 # § 1215. Members other than Regulars: applicability of laws

@@ -3,9 +3,9 @@ title: "Section 291g - Withholding of payments; noncompliance with requirements"
 usc_title: 42
 usc_section: "291g"
 chapter: 6
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 291g"
-generated_at: "2026-03-30T00:40:57.048Z"
+generated_at: "2026-03-30T00:44:58.248Z"
 ---
 
 # § 291g. Withholding of payments; noncompliance with requirements

@@ -3,9 +3,9 @@ title: "Section 40111 - Fundamental research program"
 usc_title: 51
 usc_section: "40111"
 chapter: 401
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "51 U.S.C. § 40111"
-generated_at: "2026-03-30T00:41:09.546Z"
+generated_at: "2026-03-30T00:45:14.091Z"
 ---
 
 # § 40111. Fundamental research program

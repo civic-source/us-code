@@ -3,9 +3,9 @@ title: "Section 5811 - Establishment of Energy Research and Development Administ
 usc_title: 42
 usc_section: "5811"
 chapter: 73
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 5811"
-generated_at: "2026-03-30T00:40:57.499Z"
+generated_at: "2026-03-30T00:44:58.651Z"
 ---
 
 # § 5811. Establishment of Energy Research and Development Administration

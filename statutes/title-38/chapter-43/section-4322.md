@@ -3,9 +3,9 @@ title: "Section 4322 - Enforcement of employment or reemployment rights"
 usc_title: 38
 usc_section: "4322"
 chapter: 43
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 4322"
-generated_at: "2026-03-30T00:40:32.889Z"
+generated_at: "2026-03-30T00:44:18.509Z"
 ---
 
 # § 4322. Enforcement of employment or reemployment rights

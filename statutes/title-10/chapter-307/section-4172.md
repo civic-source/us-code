@@ -3,9 +3,9 @@ title: "Section 4172 - Major systems and munitions programs: survivability testi
 usc_title: 10
 usc_section: "4172"
 chapter: 307
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 4172"
-generated_at: "2026-03-30T00:39:26.662Z"
+generated_at: "2026-03-30T00:41:56.969Z"
 ---
 
 # § 4172. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production

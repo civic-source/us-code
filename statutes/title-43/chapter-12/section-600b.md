@@ -3,9 +3,9 @@ title: "Section 600b - Canadian River project, Texas"
 usc_title: 43
 usc_section: "600b"
 chapter: 12
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 600b"
-generated_at: "2026-03-30T00:40:42.051Z"
+generated_at: "2026-03-30T00:44:30.450Z"
 ---
 
 # § 600b. Canadian River project, Texas

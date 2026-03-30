@@ -3,9 +3,9 @@ title: "Section 3016 - Chapter 137 legacy provisions"
 usc_title: 10
 usc_section: "3016"
 chapter: 201
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 3016"
-generated_at: "2026-03-30T00:39:26.641Z"
+generated_at: "2026-03-30T00:41:56.956Z"
 ---
 
 # § 3016. Chapter 137 legacy provisions

@@ -3,9 +3,9 @@ title: "Section 150401 - Organization"
 usc_title: 36
 usc_section: "150401"
 chapter: 1504
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "36 U.S.C. § 150401"
-generated_at: "2026-03-30T00:40:38.835Z"
+generated_at: "2026-03-30T00:44:07.449Z"
 ---
 
 # § 150401. Organization

@@ -3,9 +3,9 @@ title: "Section 9491 - Status as federally chartered corporation; purposes"
 usc_title: 10
 usc_section: "9491"
 chapter: 959
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 9491"
-generated_at: "2026-03-30T00:39:26.721Z"
+generated_at: "2026-03-30T00:41:57.006Z"
 ---
 
 # § 9491. Status as federally chartered corporation; purposes

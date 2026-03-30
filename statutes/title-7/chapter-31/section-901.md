@@ -3,9 +3,9 @@ title: "Section 901 - Short title"
 usc_title: 7
 usc_section: "901"
 chapter: 31
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 901"
-generated_at: "2026-03-30T00:39:17.549Z"
+generated_at: "2026-03-30T00:41:49.505Z"
 ---
 
 # § 901. Short title

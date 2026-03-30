@@ -3,9 +3,9 @@ title: "Section 135 - Income from United States savings bonds used to pay higher
 usc_title: 26
 usc_section: "135"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 135"
-generated_at: "2026-03-30T00:40:20.384Z"
+generated_at: "2026-03-30T00:43:12.348Z"
 ---
 
 # § 135. Income from United States savings bonds used to pay higher education tuition and fees

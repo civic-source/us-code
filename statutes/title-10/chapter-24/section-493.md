@@ -3,9 +3,9 @@ title: "Section 493 - Reports to Congress on the modification of the force struc
 usc_title: 10
 usc_section: "493"
 chapter: 24
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 493"
-generated_at: "2026-03-30T00:39:26.478Z"
+generated_at: "2026-03-30T00:41:56.855Z"
 ---
 
 # § 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States

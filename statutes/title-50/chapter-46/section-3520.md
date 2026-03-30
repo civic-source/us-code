@@ -3,9 +3,9 @@ title: "Section 3520 - General Counsel of Central Intelligence Agency"
 usc_title: 50
 usc_section: "3520"
 chapter: 46
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 3520"
-generated_at: "2026-03-30T00:41:02.201Z"
+generated_at: "2026-03-30T00:45:08.089Z"
 ---
 
 # § 3520. General Counsel of Central Intelligence Agency

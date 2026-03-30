@@ -3,9 +3,9 @@ title: "Section 7446 - Cadets: requirements for admission"
 usc_title: 10
 usc_section: "7446"
 chapter: 753
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 7446"
-generated_at: "2026-03-30T00:39:26.685Z"
+generated_at: "2026-03-30T00:41:56.983Z"
 ---
 
 # § 7446. Cadets: requirements for admission

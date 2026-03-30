@@ -3,9 +3,9 @@ title: "Section 11271 - Assistance to potential grantees"
 usc_title: 34
 usc_section: "11271"
 chapter: 111
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 11271"
-generated_at: "2026-03-30T00:40:25.217Z"
+generated_at: "2026-03-30T00:43:45.631Z"
 ---
 
 # § 11271. Assistance to potential grantees

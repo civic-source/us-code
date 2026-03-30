@@ -3,9 +3,9 @@ title: "Section 7504 - Eligible uses"
 usc_title: 16
 usc_section: "7504"
 chapter: 94
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 7504"
-generated_at: "2026-03-30T00:39:47.650Z"
+generated_at: "2026-03-30T00:42:29.011Z"
 ---
 
 # § 7504. Eligible uses

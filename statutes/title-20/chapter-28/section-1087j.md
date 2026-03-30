@@ -3,9 +3,9 @@ title: "Section 1087j - Loan cancellation for teachers"
 usc_title: 20
 usc_section: "1087j"
 chapter: 28
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 1087j"
-generated_at: "2026-03-30T00:39:53.599Z"
+generated_at: "2026-03-30T00:42:15.741Z"
 ---
 
 # § 1087j. Loan cancellation for teachers

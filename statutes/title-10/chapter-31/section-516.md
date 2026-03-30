@@ -3,9 +3,9 @@ title: "Section 516 - Effect upon enlisted status of acceptance of appointment a
 usc_title: 10
 usc_section: "516"
 chapter: 31
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 516"
-generated_at: "2026-03-30T00:39:26.482Z"
+generated_at: "2026-03-30T00:41:56.859Z"
 ---
 
 # § 516. Effect upon enlisted status of acceptance of appointment as cadet or midshipman

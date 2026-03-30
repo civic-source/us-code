@@ -3,9 +3,9 @@ title: "Section 5121 - Administrative"
 usc_title: 49
 usc_section: "5121"
 chapter: 51
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "49 U.S.C. § 5121"
-generated_at: "2026-03-30T00:41:06.939Z"
+generated_at: "2026-03-30T00:45:11.466Z"
 ---
 
 # § 5121. Administrative

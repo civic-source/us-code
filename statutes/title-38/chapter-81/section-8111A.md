@@ -3,9 +3,9 @@ title: "Section 8111A - Furnishing of health-care services to members of the Arm
 usc_title: 38
 usc_section: "8111A"
 chapter: 81
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 8111A"
-generated_at: "2026-03-30T00:40:32.910Z"
+generated_at: "2026-03-30T00:44:18.528Z"
 ---
 
 # § 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency

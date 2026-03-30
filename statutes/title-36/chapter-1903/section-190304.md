@@ -3,9 +3,9 @@ title: "Section 190304 - Membership"
 usc_title: 36
 usc_section: "190304"
 chapter: 1903
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "36 U.S.C. § 190304"
-generated_at: "2026-03-30T00:40:38.841Z"
+generated_at: "2026-03-30T00:44:07.454Z"
 ---
 
 # § 190304. Membership

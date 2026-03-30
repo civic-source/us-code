@@ -3,9 +3,9 @@ title: "Section 721 - Evacuation preparedness technical assistance"
 usc_title: 6
 usc_section: "721"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "6 U.S.C. § 721"
-generated_at: "2026-03-30T00:39:13.562Z"
+generated_at: "2026-03-30T00:41:41.235Z"
 ---
 
 # § 721. Evacuation preparedness technical assistance

@@ -3,9 +3,9 @@ title: "Section 252 - Credit availability assessment"
 usc_title: 12
 usc_section: "252"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 252"
-generated_at: "2026-03-30T00:39:34.897Z"
+generated_at: "2026-03-30T00:42:04.385Z"
 ---
 
 # § 252. Credit availability assessment

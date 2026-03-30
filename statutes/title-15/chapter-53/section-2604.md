@@ -3,9 +3,9 @@ title: "Section 2604 - Manufacturing and processing notices"
 usc_title: 15
 usc_section: "2604"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 2604"
-generated_at: "2026-03-30T00:39:40.404Z"
+generated_at: "2026-03-30T00:42:07.426Z"
 ---
 
 # § 2604. Manufacturing and processing notices

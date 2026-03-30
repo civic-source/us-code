@@ -3,9 +3,9 @@ title: "Section 2a - Conflicts of interest relating to certain securitizations"
 usc_title: 15
 usc_section: "2a"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T00:39:40.246Z"
+generated_at: "2026-03-30T00:42:07.286Z"
 ---
 
 # § 77z–2a. Conflicts of interest relating to certain securitizations

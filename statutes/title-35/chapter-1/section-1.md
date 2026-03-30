@@ -3,9 +3,9 @@ title: "Section 1 - Establishment"
 usc_title: 35
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "35 U.S.C. § 1"
-generated_at: "2026-03-30T00:40:28.503Z"
+generated_at: "2026-03-30T00:43:41.553Z"
 ---
 
 # § 1. Establishment

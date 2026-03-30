@@ -3,9 +3,9 @@ title: "Section 19 - Biennial report"
 usc_title: 33
 usc_section: "19"
 chapter: 17
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 19"
-generated_at: "2026-03-30T00:40:28.154Z"
+generated_at: "2026-03-30T00:44:00.978Z"
 ---
 
 # § 857–19. Biennial report

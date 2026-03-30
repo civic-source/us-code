@@ -3,9 +3,9 @@ title: "Section 3456 - Repealed. Pub. L. 98–67, title I, § 102(a) , Aug. 5, 1
 usc_title: 26
 usc_section: "3456"
 chapter: 24
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 3456"
-generated_at: "2026-03-30T00:40:20.545Z"
+generated_at: "2026-03-30T00:43:12.502Z"
 ---
 
 # [§§ 3451 to 3456. Repealed. Pub. L. 98–67, title I, § 102(a) , Aug. 5, 1983 , 97 Stat. 369 ]

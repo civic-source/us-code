@@ -3,9 +3,9 @@ title: "Section 3871c - Assistance to producers"
 usc_title: 16
 usc_section: "3871c"
 chapter: 58
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 3871c"
-generated_at: "2026-03-30T00:39:47.621Z"
+generated_at: "2026-03-30T00:42:28.983Z"
 ---
 
 # § 3871c. Assistance to producers

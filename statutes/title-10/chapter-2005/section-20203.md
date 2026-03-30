@@ -3,9 +3,9 @@ title: "Section 20203 - Original appointments: service credit"
 usc_title: 10
 usc_section: "20203"
 chapter: 2005
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 20203"
-generated_at: "2026-03-30T00:39:26.748Z"
+generated_at: "2026-03-30T00:41:57.024Z"
 ---
 
 # § 20203. Original appointments: service credit

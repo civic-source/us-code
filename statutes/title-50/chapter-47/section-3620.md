@@ -3,9 +3,9 @@ title: "Section 3620 - Congressional notification of intelligence collection adj
 usc_title: 50
 usc_section: "3620"
 chapter: 47
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "50 U.S.C. § 3620"
-generated_at: "2026-03-30T00:41:02.204Z"
+generated_at: "2026-03-30T00:45:08.092Z"
 ---
 
 # § 3620. Congressional notification of intelligence collection adjustments

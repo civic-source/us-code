@@ -3,9 +3,9 @@ title: "Section 1701f - Repealed. Pub. L. 91–609, title V, § 503(1) , Dec. 31
 usc_title: 12
 usc_section: "1701f"
 chapter: 13
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 1701f"
-generated_at: "2026-03-30T00:39:34.935Z"
+generated_at: "2026-03-30T00:42:04.413Z"
 ---
 
 # §§ 1701e, 1701f. Repealed. Pub. L. 91–609, title V, § 503(1) , Dec. 31, 1970 , 84 Stat. 1785

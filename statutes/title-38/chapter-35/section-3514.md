@@ -3,9 +3,9 @@ title: "Section 3514 - Processing of applications"
 usc_title: 38
 usc_section: "3514"
 chapter: 35
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 3514"
-generated_at: "2026-03-30T00:40:32.875Z"
+generated_at: "2026-03-30T00:44:18.496Z"
 ---
 
 # § 3514. Processing of applications

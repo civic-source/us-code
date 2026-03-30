@@ -3,9 +3,9 @@ title: "Section 373 - Judges in territories and possessions"
 usc_title: 28
 usc_section: "373"
 chapter: 17
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "28 U.S.C. § 373"
-generated_at: "2026-03-30T00:40:13.124Z"
+generated_at: "2026-03-30T00:43:33.170Z"
 ---
 
 # § 373. Judges in territories and possessions

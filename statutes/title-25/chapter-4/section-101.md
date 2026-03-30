@@ -3,9 +3,9 @@ title: "Section 101 - Payment for wagon transportation"
 usc_title: 25
 usc_section: "101"
 chapter: 4
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "25 U.S.C. § 101"
-generated_at: "2026-03-30T00:40:05.731Z"
+generated_at: "2026-03-30T00:42:43.278Z"
 ---
 
 # § 101. Payment for wagon transportation

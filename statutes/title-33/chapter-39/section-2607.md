@@ -3,9 +3,9 @@ title: "Section 2607 - Fees"
 usc_title: 33
 usc_section: "2607"
 chapter: 39
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 2607"
-generated_at: "2026-03-30T00:40:28.214Z"
+generated_at: "2026-03-30T00:44:01.029Z"
 ---
 
 # § 2607. Fees

@@ -3,9 +3,9 @@ title: "Section 4013 - Support of United States prisoners in non-Federal institu
 usc_title: 18
 usc_section: "4013"
 chapter: 301
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 4013"
-generated_at: "2026-03-30T00:39:48.742Z"
+generated_at: "2026-03-30T00:42:11.219Z"
 ---
 
 # § 4013. Support of United States prisoners in non-Federal institutions

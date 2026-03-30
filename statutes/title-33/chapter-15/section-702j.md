@@ -3,9 +3,9 @@ title: "Section 702j - Projects relating to tributary streams; report to Congres
 usc_title: 33
 usc_section: "702j"
 chapter: 15
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "33 U.S.C. § 702j"
-generated_at: "2026-03-30T00:40:28.152Z"
+generated_at: "2026-03-30T00:44:00.976Z"
 ---
 
 # § 702j. Projects relating to tributary streams; report to Congress; appropriation

@@ -3,9 +3,9 @@ title: "Section 104 - Tax on motor fuel sold on military or other reservation 1 
 usc_title: 4
 usc_section: "104"
 chapter: 4
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "4 U.S.C. § 104"
-generated_at: "2026-03-30T00:39:00.746Z"
+generated_at: "2026-03-30T00:41:21.643Z"
 ---
 
 # § 104. Tax on motor fuel sold on military or other reservation 1 1 So in original. Probably should be followed by a semicolon. reports to State taxing authority

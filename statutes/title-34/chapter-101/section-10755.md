@@ -3,9 +3,9 @@ title: "Section 10755 - Authorization of funding"
 usc_title: 34
 usc_section: "10755"
 chapter: 101
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 10755"
-generated_at: "2026-03-30T00:40:25.213Z"
+generated_at: "2026-03-30T00:43:45.628Z"
 ---
 
 # § 10755. Authorization of funding

@@ -3,9 +3,9 @@ title: "Section 1524 - Authorization of appropriations"
 usc_title: 21
 usc_section: "1524"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "21 U.S.C. § 1524"
-generated_at: "2026-03-30T00:40:03.164Z"
+generated_at: "2026-03-30T00:42:48.832Z"
 ---
 
 # § 1524. Authorization of appropriations

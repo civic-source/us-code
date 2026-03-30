@@ -3,9 +3,9 @@ title: "Section 21711 - Supporting Federal cases involving elder justice"
 usc_title: 34
 usc_section: "21711"
 chapter: 217
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 21711"
-generated_at: "2026-03-30T00:40:25.243Z"
+generated_at: "2026-03-30T00:43:45.656Z"
 ---
 
 # § 21711. Supporting Federal cases involving elder justice

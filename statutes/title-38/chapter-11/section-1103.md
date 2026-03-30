@@ -3,9 +3,9 @@ title: "Section 1103 - Special provisions relating to claims based upon effects 
 usc_title: 38
 usc_section: "1103"
 chapter: 11
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 1103"
-generated_at: "2026-03-30T00:40:32.842Z"
+generated_at: "2026-03-30T00:44:18.466Z"
 ---
 
 # § 1103. Special provisions relating to claims based upon effects of tobacco products

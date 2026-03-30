@@ -3,9 +3,9 @@ title: "Section 45 - Special meetings of members"
 usc_title: 20
 usc_section: "45"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 45"
-generated_at: "2026-03-30T00:39:53.549Z"
+generated_at: "2026-03-30T00:42:15.694Z"
 ---
 
 # § 45. Special meetings of members

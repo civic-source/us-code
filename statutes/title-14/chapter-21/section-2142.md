@@ -3,9 +3,9 @@ title: "Section 2142 - Regular lieutenants (junior grade); separation for failur
 usc_title: 14
 usc_section: "2142"
 chapter: 21
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "14 U.S.C. § 2142"
-generated_at: "2026-03-30T00:39:30.398Z"
+generated_at: "2026-03-30T00:41:59.475Z"
 ---
 
 # § 2142. Regular lieutenants (junior grade); separation for failure of selection for promotion

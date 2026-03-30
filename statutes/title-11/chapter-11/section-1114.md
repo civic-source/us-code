@@ -3,9 +3,9 @@ title: "Section 1114 - Payment of insurance benefits to retired employees"
 usc_title: 11
 usc_section: "1114"
 chapter: 11
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "11 U.S.C. § 1114"
-generated_at: "2026-03-30T00:39:29.863Z"
+generated_at: "2026-03-30T00:42:01.668Z"
 ---
 
 # § 1114. Payment of insurance benefits to retired employees

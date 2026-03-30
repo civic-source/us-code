@@ -3,9 +3,9 @@ title: "Section 1652 - Computation of benefits; application to aliens and nonnat
 usc_title: 42
 usc_section: "1652"
 chapter: 11
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1652"
-generated_at: "2026-03-30T00:40:57.362Z"
+generated_at: "2026-03-30T00:44:58.535Z"
 ---
 
 # § 1652. Computation of benefits; application to aliens and nonnationals

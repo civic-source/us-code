@@ -3,9 +3,9 @@ title: "Section 9450 - Cadets: clothing and equipment"
 usc_title: 10
 usc_section: "9450"
 chapter: 953
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 9450"
-generated_at: "2026-03-30T00:39:26.720Z"
+generated_at: "2026-03-30T00:41:57.006Z"
 ---
 
 # § 9450. Cadets: clothing and equipment

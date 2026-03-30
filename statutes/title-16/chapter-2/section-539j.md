@@ -3,9 +3,9 @@ title: "Section 539j - Bowen Gulch Protection Area"
 usc_title: 16
 usc_section: "539j"
 chapter: 2
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 539j"
-generated_at: "2026-03-30T00:39:47.488Z"
+generated_at: "2026-03-30T00:42:28.852Z"
 ---
 
 # § 539j. Bowen Gulch Protection Area

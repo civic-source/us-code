@@ -3,9 +3,9 @@ title: "Section 4515 - Personnel"
 usc_title: 12
 usc_section: "4515"
 chapter: 46
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "12 U.S.C. § 4515"
-generated_at: "2026-03-30T00:39:35.088Z"
+generated_at: "2026-03-30T00:42:04.523Z"
 ---
 
 # § 4515. Personnel

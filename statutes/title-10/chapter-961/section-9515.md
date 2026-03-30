@@ -3,9 +3,9 @@ title: "Section 9515 - Charter air transportation services: minimum annual purch
 usc_title: 10
 usc_section: "9515"
 chapter: 961
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 9515"
-generated_at: "2026-03-30T00:39:26.722Z"
+generated_at: "2026-03-30T00:41:57.007Z"
 ---
 
 # § 9515. Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet

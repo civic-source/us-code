@@ -3,9 +3,9 @@ title: "Section 301 - Lease or rental arrangements of not less than ten years; a
 usc_title: 22
 usc_section: "301"
 chapter: 8
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "22 U.S.C. § 301"
-generated_at: "2026-03-30T00:40:08.064Z"
+generated_at: "2026-03-30T00:42:54.440Z"
 ---
 
 # § 301. Lease or rental arrangements of not less than ten years; approval by Secretary; delegation of authority; information to Congress

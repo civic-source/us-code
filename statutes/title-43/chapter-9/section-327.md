@@ -3,9 +3,9 @@ title: "Section 327 - Filing irrigation plan; association of entrymen"
 usc_title: 43
 usc_section: "327"
 chapter: 9
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 327"
-generated_at: "2026-03-30T00:40:42.036Z"
+generated_at: "2026-03-30T00:44:30.437Z"
 ---
 
 # § 327. Filing irrigation plan; association of entrymen

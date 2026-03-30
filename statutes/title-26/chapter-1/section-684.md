@@ -3,9 +3,9 @@ title: "Section 684 - Recognition of gain on certain transfers to certain foreig
 usc_title: 26
 usc_section: "684"
 chapter: 1
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "26 U.S.C. § 684"
-generated_at: "2026-03-30T00:40:20.476Z"
+generated_at: "2026-03-30T00:43:12.433Z"
 ---
 
 # § 684. Recognition of gain on certain transfers to certain foreign trusts and estates

@@ -3,9 +3,9 @@ title: "Section 17113a - Low-emissions steel manufacturing research program"
 usc_title: 42
 usc_section: "17113a"
 chapter: 152
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 17113a"
-generated_at: "2026-03-30T00:40:57.752Z"
+generated_at: "2026-03-30T00:44:58.876Z"
 ---
 
 # § 17113a. Low-emissions steel manufacturing research program

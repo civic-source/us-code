@@ -3,9 +3,9 @@ title: "Section 865 - Confirmation of certain lands selected by California"
 usc_title: 43
 usc_section: "865"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 865"
-generated_at: "2026-03-30T00:40:42.058Z"
+generated_at: "2026-03-30T00:44:30.456Z"
 ---
 
 # § 865. Confirmation of certain lands selected by California

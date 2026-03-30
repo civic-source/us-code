@@ -3,9 +3,9 @@ title: "Section 7491 - Definitions"
 usc_title: 20
 usc_section: "7491"
 chapter: 70
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 7491"
-generated_at: "2026-03-30T00:39:53.684Z"
+generated_at: "2026-03-30T00:42:15.827Z"
 ---
 
 # § 7491. Definitions

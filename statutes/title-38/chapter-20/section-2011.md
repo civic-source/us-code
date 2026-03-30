@@ -3,9 +3,9 @@ title: "Section 2011 - Grants"
 usc_title: 38
 usc_section: "2011"
 chapter: 20
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "38 U.S.C. § 2011"
-generated_at: "2026-03-30T00:40:32.861Z"
+generated_at: "2026-03-30T00:44:18.484Z"
 ---
 
 # § 2011. Grants

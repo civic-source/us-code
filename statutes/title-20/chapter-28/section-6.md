@@ -3,9 +3,9 @@ title: "Section 6 - Online survey tool for campus safety"
 usc_title: 20
 usc_section: "6"
 chapter: 28
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-30T00:39:53.623Z"
+generated_at: "2026-03-30T00:42:15.766Z"
 ---
 
 # § 1161l–6. Online survey tool for campus safety

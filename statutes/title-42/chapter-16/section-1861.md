@@ -3,9 +3,9 @@ title: "Section 1861 - Establishment; composition"
 usc_title: 42
 usc_section: "1861"
 chapter: 16
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "42 U.S.C. § 1861"
-generated_at: "2026-03-30T00:40:57.379Z"
+generated_at: "2026-03-30T00:44:58.549Z"
 ---
 
 # § 1861. Establishment; composition

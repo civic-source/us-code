@@ -3,9 +3,9 @@ title: "Section 1913 - Lobbying with appropriated moneys"
 usc_title: 18
 usc_section: "1913"
 chapter: 93
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "18 U.S.C. § 1913"
-generated_at: "2026-03-30T00:39:48.711Z"
+generated_at: "2026-03-30T00:42:11.190Z"
 ---
 
 # § 1913. Lobbying with appropriated moneys

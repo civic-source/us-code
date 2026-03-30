@@ -3,9 +3,9 @@ title: "Section 16132a - Authority to transfer unused education benefits to fami
 usc_title: 10
 usc_section: "16132a"
 chapter: 1606
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 16132a"
-generated_at: "2026-03-30T00:39:26.744Z"
+generated_at: "2026-03-30T00:41:57.021Z"
 ---
 
 # § 16132a. Authority to transfer unused education benefits to family members

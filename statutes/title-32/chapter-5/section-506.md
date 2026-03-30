@@ -3,9 +3,9 @@ title: "Section 506 - Assignment and detail of members of Regular Army or Regula
 usc_title: 32
 usc_section: "506"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "32 U.S.C. § 506"
-generated_at: "2026-03-30T00:40:22.835Z"
+generated_at: "2026-03-30T00:43:35.860Z"
 ---
 
 # § 506. Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard

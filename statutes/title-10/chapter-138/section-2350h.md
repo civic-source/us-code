@@ -3,9 +3,9 @@ title: "Section 2350h - Memorandums of agreement: Department of Defense ombudsma
 usc_title: 10
 usc_section: "2350h"
 chapter: 138
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 2350h"
-generated_at: "2026-03-30T00:39:26.602Z"
+generated_at: "2026-03-30T00:41:56.931Z"
 ---
 
 # § 2350h. Memorandums of agreement: Department of Defense ombudsman for foreign signatories

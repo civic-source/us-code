@@ -3,9 +3,9 @@ title: "Section 1474f - Sums received by the Bureau of Land Management from vend
 usc_title: 43
 usc_section: "1474f"
 chapter: 31
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 1474f"
-generated_at: "2026-03-30T00:40:42.069Z"
+generated_at: "2026-03-30T00:44:30.467Z"
 ---
 
 # § 1474f. Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements

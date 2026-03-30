@@ -3,9 +3,9 @@ title: "Section 4 - Cooperative agreements"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T00:39:47.502Z"
+generated_at: "2026-03-30T00:42:28.867Z"
 ---
 
 # § 583k–4. Cooperative agreements

@@ -3,9 +3,9 @@ title: "Section 4509 - Contracts for advisory and assistance services: cost comp
 usc_title: 10
 usc_section: "4509"
 chapter: 341
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "10 U.S.C. § 4509"
-generated_at: "2026-03-30T00:39:26.670Z"
+generated_at: "2026-03-30T00:41:56.974Z"
 ---
 
 # § 4509. Contracts for advisory and assistance services: cost comparison studies

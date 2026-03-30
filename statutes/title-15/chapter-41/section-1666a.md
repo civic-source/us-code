@@ -3,9 +3,9 @@ title: "Section 1666a - Regulation of credit reports"
 usc_title: 15
 usc_section: "1666a"
 chapter: 41
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "15 U.S.C. § 1666a"
-generated_at: "2026-03-30T00:39:40.372Z"
+generated_at: "2026-03-30T00:42:07.396Z"
 ---
 
 # § 1666a. Regulation of credit reports

@@ -3,9 +3,9 @@ title: "Section 12224 - Allocation of funds; limitations on grants"
 usc_title: 34
 usc_section: "12224"
 chapter: 121
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "34 U.S.C. § 12224"
-generated_at: "2026-03-30T00:40:25.221Z"
+generated_at: "2026-03-30T00:43:45.636Z"
 ---
 
 # § 12224. Allocation of funds; limitations on grants

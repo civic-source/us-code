@@ -3,9 +3,9 @@ title: "Section 123 - Continuance of land offices when required by public conven
 usc_title: 43
 usc_section: "123"
 chapter: 5
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "43 U.S.C. § 123"
-generated_at: "2026-03-30T00:40:42.033Z"
+generated_at: "2026-03-30T00:44:30.433Z"
 ---
 
 # § 123. Continuance of land offices when required by public convenience

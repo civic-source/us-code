@@ -3,9 +3,9 @@ title: "Section 2108 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "2108"
 chapter: 53
-current_through: "PL 118-39"
+current_through: "PL 118-40"
 classification: "7 U.S.C. § 2108"
-generated_at: "2026-03-30T00:39:17.634Z"
+generated_at: "2026-03-30T00:41:49.602Z"
 ---
 
 # § 2108. Suspension and termination of orders
