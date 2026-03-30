@@ -3,9 +3,9 @@ title: "Section 127a - Transferred"
 usc_title: 2
 usc_section: "127a"
 chapter: 4
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 127a"
-generated_at: "2026-03-30T05:11:35.475Z"
+generated_at: "2026-03-30T05:14:18.639Z"
 status: "transferred"
 ---
 

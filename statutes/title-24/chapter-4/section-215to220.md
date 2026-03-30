@@ -3,9 +3,9 @@ title: "Section 215to220 - Repealed. Pub. L. 88–597, § 19(c) , Sept. 15, 1964
 usc_title: 24
 usc_section: "215to220"
 chapter: 4
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "24 U.S.C. § 215to220"
-generated_at: "2026-03-30T05:12:15.938Z"
+generated_at: "2026-03-30T05:14:52.219Z"
 status: "repealed"
 ---
 

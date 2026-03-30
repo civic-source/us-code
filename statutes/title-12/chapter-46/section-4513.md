@@ -3,9 +3,9 @@ title: "Section 4513 - Duties and authorities of Director"
 usc_title: 12
 usc_section: "4513"
 chapter: 46
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 4513"
-generated_at: "2026-03-30T05:12:00.529Z"
+generated_at: "2026-03-30T05:14:36.255Z"
 status: "active"
 ---
 

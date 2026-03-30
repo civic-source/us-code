@@ -3,9 +3,9 @@ title: "Section 14711 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "14711"
 chapter: 141
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 14711"
-generated_at: "2026-03-30T05:13:20.358Z"
+generated_at: "2026-03-30T05:15:41.484Z"
 status: "repealed"
 ---
 

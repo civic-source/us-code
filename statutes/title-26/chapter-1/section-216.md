@@ -3,9 +3,9 @@ title: "Section 216 - Deduction of taxes, interest, and business depreciation by
 usc_title: 26
 usc_section: "216"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 216"
-generated_at: "2026-03-30T05:12:29.886Z"
+generated_at: "2026-03-30T05:15:19.729Z"
 status: "active"
 ---
 

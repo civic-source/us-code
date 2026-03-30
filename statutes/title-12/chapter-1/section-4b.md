@@ -3,9 +3,9 @@ title: "Section 4b - Deputy Comptroller for the supervision and examination of F
 usc_title: 12
 usc_section: "4b"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 4b"
-generated_at: "2026-03-30T05:12:00.404Z"
+generated_at: "2026-03-30T05:14:36.132Z"
 status: "active"
 ---
 

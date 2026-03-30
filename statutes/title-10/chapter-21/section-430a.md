@@ -3,9 +3,9 @@ title: "Section 430a - Executive agent for management and oversight of alternati
 usc_title: 10
 usc_section: "430a"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 430a"
-generated_at: "2026-03-30T05:11:54.650Z"
+generated_at: "2026-03-30T05:14:27.725Z"
 status: "active"
 ---
 

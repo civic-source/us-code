@@ -3,9 +3,9 @@ title: "Section 994 - Military working dogs: veterinary care for retired militar
 usc_title: 10
 usc_section: "994"
 chapter: 50
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 994"
-generated_at: "2026-03-30T05:11:54.669Z"
+generated_at: "2026-03-30T05:14:27.744Z"
 status: "active"
 ---
 

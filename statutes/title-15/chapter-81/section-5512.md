@@ -3,9 +3,9 @@ title: "Section 5512 - National Research and Education Network"
 usc_title: 15
 usc_section: "5512"
 chapter: 81
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 5512"
-generated_at: "2026-03-30T05:12:03.018Z"
+generated_at: "2026-03-30T05:14:40.278Z"
 status: "active"
 ---
 

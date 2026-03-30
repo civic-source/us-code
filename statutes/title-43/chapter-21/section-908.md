@@ -3,9 +3,9 @@ title: "Section 908 - Deposits by railroad companies for costs of surveying and 
 usc_title: 43
 usc_section: "908"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "43 U.S.C. § 908"
-generated_at: "2026-03-30T05:12:48.317Z"
+generated_at: "2026-03-30T05:15:30.850Z"
 status: "active"
 ---
 

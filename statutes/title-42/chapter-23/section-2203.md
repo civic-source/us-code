@@ -3,9 +3,9 @@ title: "Section 2203 - Advisory committees"
 usc_title: 42
 usc_section: "2203"
 chapter: 23
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 2203"
-generated_at: "2026-03-30T05:13:20.068Z"
+generated_at: "2026-03-30T05:15:41.082Z"
 status: "active"
 ---
 

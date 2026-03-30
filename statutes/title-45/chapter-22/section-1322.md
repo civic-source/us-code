@@ -3,9 +3,9 @@ title: "Section 1322 - Ownership limitations"
 usc_title: 45
 usc_section: "1322"
 chapter: 22
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "45 U.S.C. § 1322"
-generated_at: "2026-03-30T05:12:52.889Z"
+generated_at: "2026-03-30T05:15:30.348Z"
 status: "active"
 ---
 

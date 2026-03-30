@@ -3,9 +3,9 @@ title: "Section 543 - Advisory Committee on Prosthetics and Special-Disabilities
 usc_title: 38
 usc_section: "543"
 chapter: 5
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "38 U.S.C. § 543"
-generated_at: "2026-03-30T05:12:42.843Z"
+generated_at: "2026-03-30T05:15:26.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3808 - Limitations"
 usc_title: 31
 usc_section: "3808"
 chapter: 38
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "31 U.S.C. § 3808"
-generated_at: "2026-03-30T05:12:32.644Z"
+generated_at: "2026-03-30T05:15:22.482Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10605 - Establishment of Office for Victims of Crime"
 usc_title: 42
 usc_section: "10605"
 chapter: 112
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 10605"
-generated_at: "2026-03-30T05:13:20.283Z"
+generated_at: "2026-03-30T05:15:41.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17214 - Applicability of other laws"
 usc_title: 42
 usc_section: "17214"
 chapter: 152
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 17214"
-generated_at: "2026-03-30T05:13:20.392Z"
+generated_at: "2026-03-30T05:15:41.536Z"
 status: "active"
 ---
 

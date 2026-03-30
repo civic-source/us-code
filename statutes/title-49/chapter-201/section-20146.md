@@ -3,9 +3,9 @@ title: "Section 20146 - Institute for Railroad Safety"
 usc_title: 49
 usc_section: "20146"
 chapter: 201
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "49 U.S.C. § 20146"
-generated_at: "2026-03-30T05:13:46.358Z"
+generated_at: "2026-03-30T05:15:52.305Z"
 status: "active"
 ---
 

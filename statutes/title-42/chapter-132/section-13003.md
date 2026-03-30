@@ -3,9 +3,9 @@ title: "Section 13003 - Grants for specialized technical assistance and training
 usc_title: 42
 usc_section: "13003"
 chapter: 132
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 13003"
-generated_at: "2026-03-30T05:13:20.328Z"
+generated_at: "2026-03-30T05:15:41.440Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7 - Limitation on payments"
 usc_title: 16
 usc_section: "7"
 chapter: 58
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T05:12:14.066Z"
+generated_at: "2026-03-30T05:14:45.756Z"
 status: "active"
 ---
 

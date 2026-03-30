@@ -3,9 +3,9 @@ title: "Section 4336 - Retention of properties or interests of Germany and Japan
 usc_title: 50
 usc_section: "4336"
 chapter: 53
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "50 U.S.C. § 4336"
-generated_at: "2026-03-30T05:13:39.917Z"
+generated_at: "2026-03-30T05:15:48.563Z"
 status: "active"
 ---
 

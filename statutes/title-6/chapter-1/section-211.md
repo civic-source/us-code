@@ -3,9 +3,9 @@ title: "Section 211 - Establishment of U.S. Customs and Border Protection; Commi
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-30T05:11:55.353Z"
+generated_at: "2026-03-30T05:14:20.708Z"
 status: "active"
 ---
 

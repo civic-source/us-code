@@ -3,9 +3,9 @@ title: "Section 458dd - Budget request"
 usc_title: 25
 usc_section: "458dd"
 chapter: 14
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 458dd"
-generated_at: "2026-03-30T05:12:18.400Z"
+generated_at: "2026-03-30T05:15:09.448Z"
 status: "active"
 ---
 

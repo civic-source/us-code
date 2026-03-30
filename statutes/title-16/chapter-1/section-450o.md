@@ -3,9 +3,9 @@ title: "Section 450o - Andrew Johnson National Historic Site; authorization"
 usc_title: 16
 usc_section: "450o"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 450o"
-generated_at: "2026-03-30T05:12:13.914Z"
+generated_at: "2026-03-30T05:14:45.604Z"
 status: "active"
 ---
 

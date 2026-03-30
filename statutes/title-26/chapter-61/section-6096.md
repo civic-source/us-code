@@ -3,9 +3,9 @@ title: "Section 6096 - Designation by individuals"
 usc_title: 26
 usc_section: "6096"
 chapter: 61
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 6096"
-generated_at: "2026-03-30T05:12:30.042Z"
+generated_at: "2026-03-30T05:15:19.880Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5333 - Study of the effects of size and complexity of financial 
 usc_title: 12
 usc_section: "5333"
 chapter: 53
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 5333"
-generated_at: "2026-03-30T05:12:00.550Z"
+generated_at: "2026-03-30T05:14:36.275Z"
 status: "active"
 ---
 

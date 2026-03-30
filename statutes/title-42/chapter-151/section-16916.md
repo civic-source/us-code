@@ -3,9 +3,9 @@ title: "Section 16916 - Periodic in person verification"
 usc_title: 42
 usc_section: "16916"
 chapter: 151
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 16916"
-generated_at: "2026-03-30T05:13:20.384Z"
+generated_at: "2026-03-30T05:15:41.524Z"
 status: "active"
 ---
 

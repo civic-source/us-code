@@ -3,9 +3,9 @@ title: "Section 6166 - Extension of time for payment of estate tax where estate 
 usc_title: 26
 usc_section: "6166"
 chapter: 62
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 6166"
-generated_at: "2026-03-30T05:12:30.048Z"
+generated_at: "2026-03-30T05:15:19.885Z"
 status: "active"
 ---
 

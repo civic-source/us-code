@@ -3,9 +3,9 @@ title: "Section 431 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "431"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 431"
-generated_at: "2026-03-30T05:12:13.912Z"
+generated_at: "2026-03-30T05:14:45.602Z"
 status: "repealed"
 ---
 

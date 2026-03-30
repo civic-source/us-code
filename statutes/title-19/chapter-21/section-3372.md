@@ -3,9 +3,9 @@ title: "Section 3372 - Presidential action regarding NAFTA imports"
 usc_title: 19
 usc_section: "3372"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "19 U.S.C. § 3372"
-generated_at: "2026-03-30T05:12:09.980Z"
+generated_at: "2026-03-30T05:14:49.542Z"
 status: "active"
 ---
 

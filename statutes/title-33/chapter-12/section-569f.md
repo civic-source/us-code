@@ -3,9 +3,9 @@ title: "Section 569f - Debarment of persons convicted of fraudulent use of “Ma
 usc_title: 33
 usc_section: "569f"
 chapter: 12
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "33 U.S.C. § 569f"
-generated_at: "2026-03-30T05:12:36.218Z"
+generated_at: "2026-03-30T05:15:23.351Z"
 status: "active"
 ---
 

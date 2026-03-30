@@ -3,9 +3,9 @@ title: "Section 1480to1480b - Repealed. Pub. L. 95–584, § 1 , Nov. 2, 1978 , 
 usc_title: 48
 usc_section: "1480to1480b"
 chapter: 10
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "48 U.S.C. § 1480to1480b"
-generated_at: "2026-03-30T05:13:22.967Z"
+generated_at: "2026-03-30T05:15:45.496Z"
 status: "repealed"
 ---
 

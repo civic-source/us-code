@@ -3,9 +3,9 @@ title: "Section 5871 - Penalties"
 usc_title: 26
 usc_section: "5871"
 chapter: 53
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 5871"
-generated_at: "2026-03-30T05:12:30.034Z"
+generated_at: "2026-03-30T05:15:19.873Z"
 status: "active"
 ---
 

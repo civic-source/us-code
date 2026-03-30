@@ -3,9 +3,9 @@ title: "Section 153 - Simplified acquisition threshold for contract in support o
 usc_title: 41
 usc_section: "153"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "41 U.S.C. § 153"
-generated_at: "2026-03-30T05:12:47.383Z"
+generated_at: "2026-03-30T05:15:28.970Z"
 status: "active"
 ---
 

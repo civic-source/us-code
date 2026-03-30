@@ -3,9 +3,9 @@ title: "Section 455 - Contracts for education in public schools; submission of e
 usc_title: 25
 usc_section: "455"
 chapter: 14
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 455"
-generated_at: "2026-03-30T05:12:18.399Z"
+generated_at: "2026-03-30T05:15:09.448Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1692h - Multiple debts"
 usc_title: 15
 usc_section: "1692h"
 chapter: 41
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 1692h"
-generated_at: "2026-03-30T05:12:02.976Z"
+generated_at: "2026-03-30T05:14:40.235Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 104 - Transferred"
 usc_title: 22
 usc_section: "104"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "22 U.S.C. § 104"
-generated_at: "2026-03-30T05:12:20.686Z"
+generated_at: "2026-03-30T05:14:55.113Z"
 status: "transferred"
 ---
 

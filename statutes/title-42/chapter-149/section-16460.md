@@ -3,9 +3,9 @@ title: "Section 16460 - Implementation"
 usc_title: 42
 usc_section: "16460"
 chapter: 149
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 16460"
-generated_at: "2026-03-30T05:13:20.380Z"
+generated_at: "2026-03-30T05:15:41.518Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 112 - Compacts between States for cooperation in prevention of c
 usc_title: 4
 usc_section: "112"
 chapter: 4
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "4 U.S.C. § 112"
-generated_at: "2026-03-30T05:11:33.689Z"
+generated_at: "2026-03-30T05:14:05.474Z"
 status: "active"
 ---
 

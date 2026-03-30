@@ -3,9 +3,9 @@ title: "Section 443 - Requisition of grain to prevent crop depredation by migrat
 usc_title: 7
 usc_section: "443"
 chapter: 17
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 443"
-generated_at: "2026-03-30T05:11:48.069Z"
+generated_at: "2026-03-30T05:14:30.634Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1851 - Grants authorized"
 usc_title: 25
 usc_section: "1851"
 chapter: 20
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 1851"
-generated_at: "2026-03-30T05:12:18.453Z"
+generated_at: "2026-03-30T05:15:09.502Z"
 status: "active"
 ---
 

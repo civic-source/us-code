@@ -3,9 +3,9 @@ title: "Section 3604 - Criminal offenses"
 usc_title: 7
 usc_section: "3604"
 chapter: 67
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 3604"
-generated_at: "2026-03-30T05:11:48.158Z"
+generated_at: "2026-03-30T05:14:30.722Z"
 status: "active"
 ---
 

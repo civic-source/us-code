@@ -3,9 +3,9 @@ title: "Section 433k - Whitman Mission National Historic Site; acquisition of la
 usc_title: 16
 usc_section: "433k"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 433k"
-generated_at: "2026-03-30T05:12:13.912Z"
+generated_at: "2026-03-30T05:14:45.602Z"
 status: "active"
 ---
 

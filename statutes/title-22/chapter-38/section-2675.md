@@ -3,9 +3,9 @@ title: "Section 2675 - Allocation or transfer to other agencies of funds appropr
 usc_title: 22
 usc_section: "2675"
 chapter: 38
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "22 U.S.C. § 2675"
-generated_at: "2026-03-30T05:12:20.748Z"
+generated_at: "2026-03-30T05:14:55.179Z"
 status: "active"
 ---
 

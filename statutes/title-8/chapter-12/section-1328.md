@@ -3,9 +3,9 @@ title: "Section 1328 - Importation of alien for immoral purpose"
 usc_title: 8
 usc_section: "1328"
 chapter: 12
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "8 U.S.C. § 1328"
-generated_at: "2026-03-30T05:11:40.750Z"
+generated_at: "2026-03-30T05:14:21.800Z"
 status: "active"
 ---
 

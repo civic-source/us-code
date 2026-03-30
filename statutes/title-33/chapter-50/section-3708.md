@@ -3,9 +3,9 @@ title: "Section 3708 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3708"
 chapter: 50
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "33 U.S.C. § 3708"
-generated_at: "2026-03-30T05:12:36.278Z"
+generated_at: "2026-03-30T05:15:23.414Z"
 status: "active"
 ---
 

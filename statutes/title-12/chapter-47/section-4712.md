@@ -3,9 +3,9 @@ title: "Section 4712 - Capitalization assistance to enhance liquidity"
 usc_title: 12
 usc_section: "4712"
 chapter: 47
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 4712"
-generated_at: "2026-03-30T05:12:00.540Z"
+generated_at: "2026-03-30T05:14:36.265Z"
 status: "active"
 ---
 

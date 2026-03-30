@@ -3,9 +3,9 @@ title: "Section 120111 - Annual report"
 usc_title: 36
 usc_section: "120111"
 chapter: 1201
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "36 U.S.C. § 120111"
-generated_at: "2026-03-30T05:12:38.535Z"
+generated_at: "2026-03-30T05:15:25.728Z"
 status: "active"
 ---
 

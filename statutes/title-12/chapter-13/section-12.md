@@ -3,9 +3,9 @@ title: "Section 12 - Assurance of adequate processing of applications for loan a
 usc_title: 12
 usc_section: "12"
 chapter: 13
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-30T05:12:00.461Z"
+generated_at: "2026-03-30T05:14:36.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3724 - Assistant United States Trade Representative for African 
 usc_title: 19
 usc_section: "3724"
 chapter: 23
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "19 U.S.C. § 3724"
-generated_at: "2026-03-30T05:12:09.985Z"
+generated_at: "2026-03-30T05:14:49.548Z"
 status: "active"
 ---
 

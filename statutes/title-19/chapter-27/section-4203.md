@@ -3,9 +3,9 @@ title: "Section 4203 - Congressional oversight, consultations, and access to inf
 usc_title: 19
 usc_section: "4203"
 chapter: 27
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "19 U.S.C. § 4203"
-generated_at: "2026-03-30T05:12:09.992Z"
+generated_at: "2026-03-30T05:14:49.553Z"
 status: "active"
 ---
 

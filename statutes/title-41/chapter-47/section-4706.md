@@ -3,9 +3,9 @@ title: "Section 4706 - Examination of facilities and records of contractor"
 usc_title: 41
 usc_section: "4706"
 chapter: 47
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "41 U.S.C. § 4706"
-generated_at: "2026-03-30T05:12:47.390Z"
+generated_at: "2026-03-30T05:15:28.977Z"
 status: "active"
 ---
 

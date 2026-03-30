@@ -3,9 +3,9 @@ title: "Section 521522 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 1
 usc_title: 45
 usc_section: "521522"
 chapter: 14
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "45 U.S.C. § 521522"
-generated_at: "2026-03-30T05:12:52.878Z"
+generated_at: "2026-03-30T05:15:30.338Z"
 status: "repealed"
 ---
 

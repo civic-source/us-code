@@ -3,9 +3,9 @@ title: "Section 5666 - Grants for technical assistance"
 usc_title: 42
 usc_section: "5666"
 chapter: 72
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 5666"
-generated_at: "2026-03-30T05:13:20.150Z"
+generated_at: "2026-03-30T05:15:41.193Z"
 status: "active"
 ---
 

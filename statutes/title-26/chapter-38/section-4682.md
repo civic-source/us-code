@@ -3,9 +3,9 @@ title: "Section 4682 - Definitions and special rules"
 usc_title: 26
 usc_section: "4682"
 chapter: 38
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 4682"
-generated_at: "2026-03-30T05:12:30.016Z"
+generated_at: "2026-03-30T05:15:19.854Z"
 status: "active"
 ---
 

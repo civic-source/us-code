@@ -3,9 +3,9 @@ title: "Section 36a - Acquisition of scientific or technical books, maps, etc., 
 usc_title: 43
 usc_section: "36a"
 chapter: 2
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "43 U.S.C. § 36a"
-generated_at: "2026-03-30T05:12:48.293Z"
+generated_at: "2026-03-30T05:15:30.826Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13709 - Procedures for resolving claims involving unfiled, negot
 usc_title: 49
 usc_section: "13709"
 chapter: 137
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "49 U.S.C. § 13709"
-generated_at: "2026-03-30T05:13:46.352Z"
+generated_at: "2026-03-30T05:15:52.293Z"
 status: "active"
 ---
 

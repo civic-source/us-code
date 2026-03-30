@@ -3,9 +3,9 @@ title: "Section 3683 - Repealed. Pub. L. 99–145, title XIII , § 1301(b)(1)(A)
 usc_title: 10
 usc_section: "3683"
 chapter: 353
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 3683"
-generated_at: "2026-03-30T05:11:54.741Z"
+generated_at: "2026-03-30T05:14:27.815Z"
 status: "repealed"
 ---
 

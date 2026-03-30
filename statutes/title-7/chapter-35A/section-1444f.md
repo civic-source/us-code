@@ -3,9 +3,9 @@ title: "Section 1444f - Repealed. Pub. L. 104–127, title I , § 171(b)(2)(C), 
 usc_title: 7
 usc_section: "1444f"
 chapter: 35
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 1444f"
-generated_at: "2026-03-30T05:11:48.094Z"
+generated_at: "2026-03-30T05:14:30.659Z"
 status: "repealed"
 ---
 

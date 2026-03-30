@@ -3,9 +3,9 @@ title: "Section 1033 - Definitions"
 usc_title: 21
 usc_section: "1033"
 chapter: 15
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "21 U.S.C. § 1033"
-generated_at: "2026-03-30T05:12:17.379Z"
+generated_at: "2026-03-30T05:14:56.069Z"
 status: "active"
 ---
 

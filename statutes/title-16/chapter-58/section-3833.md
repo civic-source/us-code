@@ -3,9 +3,9 @@ title: "Section 3833 - Duties of the Secretary"
 usc_title: 16
 usc_section: "3833"
 chapter: 58
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 3833"
-generated_at: "2026-03-30T05:12:14.063Z"
+generated_at: "2026-03-30T05:14:45.754Z"
 status: "active"
 ---
 

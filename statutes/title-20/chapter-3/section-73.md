@@ -3,9 +3,9 @@ title: "Section 73 - Acceptance of gift from A. W. Mellon"
 usc_title: 20
 usc_section: "73"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "20 U.S.C. § 73"
-generated_at: "2026-03-30T05:12:08.725Z"
+generated_at: "2026-03-30T05:14:47.314Z"
 status: "active"
 ---
 

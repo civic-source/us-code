@@ -3,9 +3,9 @@ title: "Section 5302A - Collection of indebtedness: certain debts of members of 
 usc_title: 38
 usc_section: "5302A"
 chapter: 53
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "38 U.S.C. § 5302A"
-generated_at: "2026-03-30T05:12:42.879Z"
+generated_at: "2026-03-30T05:15:26.866Z"
 status: "active"
 ---
 

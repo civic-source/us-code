@@ -3,9 +3,9 @@ title: "Section 13802 - Repealed. Pub. L. 109–162, title XI , § 1154(b)(2), J
 usc_title: 42
 usc_section: "13802"
 chapter: 136
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 13802"
-generated_at: "2026-03-30T05:13:20.342Z"
+generated_at: "2026-03-30T05:15:41.460Z"
 status: "repealed"
 ---
 

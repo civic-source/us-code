@@ -3,9 +3,9 @@ title: "Section 9310 - Individual sureties"
 usc_title: 31
 usc_section: "9310"
 chapter: 93
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "31 U.S.C. § 9310"
-generated_at: "2026-03-30T05:12:32.655Z"
+generated_at: "2026-03-30T05:15:22.493Z"
 status: "active"
 ---
 

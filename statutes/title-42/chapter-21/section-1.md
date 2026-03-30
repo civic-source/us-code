@@ -3,9 +3,9 @@ title: "Section 1 - Double jeopardy; specific crimes and criminal contempts"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:13:20.055Z"
+generated_at: "2026-03-30T05:15:41.064Z"
 status: "active"
 ---
 

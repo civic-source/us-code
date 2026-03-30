@@ -3,9 +3,9 @@ title: "Section 7668 - Disposition of prize money"
 usc_title: 10
 usc_section: "7668"
 chapter: 655
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 7668"
-generated_at: "2026-03-30T05:11:54.759Z"
+generated_at: "2026-03-30T05:14:27.832Z"
 status: "active"
 ---
 

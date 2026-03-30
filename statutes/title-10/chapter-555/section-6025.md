@@ -3,9 +3,9 @@ title: "Section 6025 - Repealed. Pub. L. 92–168 , § 2(2), Nov. 24, 1971 , 85 
 usc_title: 10
 usc_section: "6025"
 chapter: 555
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 6025"
-generated_at: "2026-03-30T05:11:54.750Z"
+generated_at: "2026-03-30T05:14:27.824Z"
 status: "repealed"
 ---
 

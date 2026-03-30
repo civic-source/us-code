@@ -3,9 +3,9 @@ title: "Section 861 - Art. 61. Waiver or withdrawal of appeal"
 usc_title: 10
 usc_section: "861"
 chapter: 47
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 861"
-generated_at: "2026-03-30T05:11:54.662Z"
+generated_at: "2026-03-30T05:14:27.738Z"
 status: "active"
 ---
 

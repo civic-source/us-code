@@ -3,9 +3,9 @@ title: "Section 4601 - Congressional findings"
 usc_title: 50
 usc_section: "4601"
 chapter: 56
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "50 U.S.C. § 4601"
-generated_at: "2026-03-30T05:13:39.920Z"
+generated_at: "2026-03-30T05:15:48.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 291to295 - Repealed. Pub. L. 86–694, § 2 , Sept. 2, 1960 , 74
 usc_title: 24
 usc_section: "291to295"
 chapter: 7
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "24 U.S.C. § 291to295"
-generated_at: "2026-03-30T05:12:15.939Z"
+generated_at: "2026-03-30T05:14:52.220Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Presidential conferences; acquaintance of leadership with p
 usc_title: 42
 usc_section: "15"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T05:13:20.055Z"
+generated_at: "2026-03-30T05:15:41.063Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1255 - Grants for research and development"
 usc_title: 33
 usc_section: "1255"
 chapter: 26
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "33 U.S.C. § 1255"
-generated_at: "2026-03-30T05:12:36.234Z"
+generated_at: "2026-03-30T05:15:23.369Z"
 status: "active"
 ---
 

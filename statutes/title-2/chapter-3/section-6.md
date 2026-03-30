@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 99–151, title I , § 102(b), Nov. 13, 19
 usc_title: 2
 usc_section: "6"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 6"
-generated_at: "2026-03-30T05:11:35.471Z"
+generated_at: "2026-03-30T05:14:18.636Z"
 status: "repealed"
 ---
 

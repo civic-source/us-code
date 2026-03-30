@@ -3,9 +3,9 @@ title: "Section 5235 - Disclosures on exercise of loan authority"
 usc_title: 12
 usc_section: "5235"
 chapter: 52
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 5235"
-generated_at: "2026-03-30T05:12:00.548Z"
+generated_at: "2026-03-30T05:14:36.273Z"
 status: "active"
 ---
 

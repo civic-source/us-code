@@ -3,9 +3,9 @@ title: "Section 3553 - Imposition of a sentence"
 usc_title: 18
 usc_section: "3553"
 chapter: 227
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "18 U.S.C. § 3553"
-generated_at: "2026-03-30T05:12:06.976Z"
+generated_at: "2026-03-30T05:14:48.273Z"
 status: "active"
 ---
 

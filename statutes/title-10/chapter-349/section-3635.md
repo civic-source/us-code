@@ -3,9 +3,9 @@ title: "Section 3635 - Repealed. Pub. L. 90–235 , § 6(a)(7), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3635"
 chapter: 349
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 3635"
-generated_at: "2026-03-30T05:11:54.741Z"
+generated_at: "2026-03-30T05:14:27.815Z"
 status: "repealed"
 ---
 

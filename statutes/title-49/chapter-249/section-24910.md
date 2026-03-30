@@ -3,9 +3,9 @@ title: "Section 24910 - Rail cooperative research program"
 usc_title: 49
 usc_section: "24910"
 chapter: 249
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "49 U.S.C. § 24910"
-generated_at: "2026-03-30T05:13:46.366Z"
+generated_at: "2026-03-30T05:15:52.318Z"
 status: "active"
 ---
 

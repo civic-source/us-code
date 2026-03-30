@@ -3,9 +3,9 @@ title: "Section 5107a - State permits valid in certain waters"
 usc_title: 16
 usc_section: "5107a"
 chapter: 71
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 5107a"
-generated_at: "2026-03-30T05:12:14.077Z"
+generated_at: "2026-03-30T05:14:45.767Z"
 status: "active"
 ---
 

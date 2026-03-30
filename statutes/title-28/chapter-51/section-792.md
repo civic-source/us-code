@@ -3,9 +3,9 @@ title: "Section 792 - Repealed. Pub. L. 97–164, title I , § 121(b), Apr. 2, 1
 usc_title: 28
 usc_section: "792"
 chapter: 51
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "28 U.S.C. § 792"
-generated_at: "2026-03-30T05:12:24.768Z"
+generated_at: "2026-03-30T05:15:12.351Z"
 status: "repealed"
 ---
 

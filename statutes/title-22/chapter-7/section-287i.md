@@ -3,9 +3,9 @@ title: "Section 287i - Deduction of principal and interest from annual payment o
 usc_title: 22
 usc_section: "287i"
 chapter: 7
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "22 U.S.C. § 287i"
-generated_at: "2026-03-30T05:12:20.702Z"
+generated_at: "2026-03-30T05:14:55.130Z"
 status: "active"
 ---
 

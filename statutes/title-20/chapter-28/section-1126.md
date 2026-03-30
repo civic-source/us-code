@@ -3,9 +3,9 @@ title: "Section 1126 - Technological innovation and cooperation for foreign info
 usc_title: 20
 usc_section: "1126"
 chapter: 28
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "20 U.S.C. § 1126"
-generated_at: "2026-03-30T05:12:08.782Z"
+generated_at: "2026-03-30T05:14:47.427Z"
 status: "active"
 ---
 

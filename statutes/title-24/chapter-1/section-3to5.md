@@ -3,9 +3,9 @@ title: "Section 3to5 - Repealed. June 15, 1943, ch. 125, § 3 , 57 Stat. 153 , e
 usc_title: 24
 usc_section: "3to5"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "24 U.S.C. § 3to5"
-generated_at: "2026-03-30T05:12:15.937Z"
+generated_at: "2026-03-30T05:14:52.218Z"
 status: "repealed"
 ---
 

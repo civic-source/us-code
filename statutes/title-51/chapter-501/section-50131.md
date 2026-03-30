@@ -3,9 +3,9 @@ title: "Section 50131 - Requirement to procure commercial space transportation s
 usc_title: 51
 usc_section: "50131"
 chapter: 501
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "51 U.S.C. § 50131"
-generated_at: "2026-03-30T05:13:48.332Z"
+generated_at: "2026-03-30T05:15:54.835Z"
 status: "active"
 ---
 

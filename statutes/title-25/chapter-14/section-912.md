@@ -3,9 +3,9 @@ title: "Section 912 - Per capita payments to enrollees, heirs or legatees; tax e
 usc_title: 25
 usc_section: "912"
 chapter: 14
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 912"
-generated_at: "2026-03-30T05:12:18.421Z"
+generated_at: "2026-03-30T05:15:09.469Z"
 status: "active"
 ---
 

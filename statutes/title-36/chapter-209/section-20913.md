@@ -3,9 +3,9 @@ title: "Section 20913 - Annual report"
 usc_title: 36
 usc_section: "20913"
 chapter: 209
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "36 U.S.C. § 20913"
-generated_at: "2026-03-30T05:12:38.529Z"
+generated_at: "2026-03-30T05:15:25.721Z"
 status: "active"
 ---
 

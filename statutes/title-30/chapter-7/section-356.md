@@ -3,9 +3,9 @@ title: "Section 356 - Furnishing description of lands and title documents; recor
 usc_title: 30
 usc_section: "356"
 chapter: 7
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "30 U.S.C. § 356"
-generated_at: "2026-03-30T05:12:24.101Z"
+generated_at: "2026-03-30T05:15:14.174Z"
 status: "active"
 ---
 

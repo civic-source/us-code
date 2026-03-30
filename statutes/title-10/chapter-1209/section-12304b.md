@@ -3,9 +3,9 @@ title: "Section 12304b - Selected Reserve: order to active duty for preplanned m
 usc_title: 10
 usc_section: "12304b"
 chapter: 1209
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 12304b"
-generated_at: "2026-03-30T05:11:54.772Z"
+generated_at: "2026-03-30T05:14:27.845Z"
 status: "active"
 ---
 

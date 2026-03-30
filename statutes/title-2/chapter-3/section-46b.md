@@ -3,9 +3,9 @@ title: "Section 46b - Repealed. Pub. L. 104–186, title II , § 203(16), Aug. 2
 usc_title: 2
 usc_section: "46b"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 46b"
-generated_at: "2026-03-30T05:11:35.471Z"
+generated_at: "2026-03-30T05:14:18.636Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 395 - Leases of allotted lands where allottee is in­capacitated
 usc_title: 25
 usc_section: "395"
 chapter: 12
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 395"
-generated_at: "2026-03-30T05:12:18.395Z"
+generated_at: "2026-03-30T05:15:09.442Z"
 status: "active"
 ---
 

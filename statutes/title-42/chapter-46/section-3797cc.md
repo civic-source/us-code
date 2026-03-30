@@ -3,9 +3,9 @@ title: "Section 3797cc - Authority to make grants to address public safety and m
 usc_title: 42
 usc_section: "3797cc"
 chapter: 46
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 3797cc"
-generated_at: "2026-03-30T05:13:20.111Z"
+generated_at: "2026-03-30T05:15:41.140Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4591 - Utilities: proceeds from overseas operations"
 usc_title: 10
 usc_section: "4591"
 chapter: 437
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 4591"
-generated_at: "2026-03-30T05:11:54.745Z"
+generated_at: "2026-03-30T05:14:27.819Z"
 status: "active"
 ---
 

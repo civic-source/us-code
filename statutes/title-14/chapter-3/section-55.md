@@ -3,9 +3,9 @@ title: "Section 55 - Repealed. Pub. L. 112–213, title II , § 216(a), Dec. 20,
 usc_title: 14
 usc_section: "55"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "14 U.S.C. § 55"
-generated_at: "2026-03-30T05:11:57.574Z"
+generated_at: "2026-03-30T05:14:33.018Z"
 status: "repealed"
 ---
 

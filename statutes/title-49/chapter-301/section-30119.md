@@ -3,9 +3,9 @@ title: "Section 30119 - Notification procedures"
 usc_title: 49
 usc_section: "30119"
 chapter: 301
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "49 U.S.C. § 30119"
-generated_at: "2026-03-30T05:13:46.367Z"
+generated_at: "2026-03-30T05:15:52.321Z"
 status: "active"
 ---
 

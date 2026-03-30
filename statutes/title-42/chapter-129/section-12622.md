@@ -3,9 +3,9 @@ title: "Section 12622 - Responsibilities of Department of Defense"
 usc_title: 42
 usc_section: "12622"
 chapter: 129
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 12622"
-generated_at: "2026-03-30T05:13:20.313Z"
+generated_at: "2026-03-30T05:15:41.420Z"
 status: "active"
 ---
 

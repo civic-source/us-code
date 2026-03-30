@@ -3,9 +3,9 @@ title: "Section 4435 - Recovery of initial U.S. Customs and Border Protection pr
 usc_title: 19
 usc_section: "4435"
 chapter: 28
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "19 U.S.C. § 4435"
-generated_at: "2026-03-30T05:12:09.997Z"
+generated_at: "2026-03-30T05:14:49.558Z"
 status: "active"
 ---
 

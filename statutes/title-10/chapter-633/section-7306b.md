@@ -3,9 +3,9 @@ title: "Section 7306b - Vessels stricken from Naval Vessel Register: transfer by
 usc_title: 10
 usc_section: "7306b"
 chapter: 633
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 7306b"
-generated_at: "2026-03-30T05:11:54.756Z"
+generated_at: "2026-03-30T05:14:27.830Z"
 status: "active"
 ---
 

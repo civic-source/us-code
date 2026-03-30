@@ -3,9 +3,9 @@ title: "Section 2125 - Members of the program: exclusion from authorized strengt
 usc_title: 10
 usc_section: "2125"
 chapter: 105
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 2125"
-generated_at: "2026-03-30T05:11:54.699Z"
+generated_at: "2026-03-30T05:14:27.774Z"
 status: "active"
 ---
 

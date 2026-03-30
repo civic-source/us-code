@@ -3,9 +3,9 @@ title: "Section 1304 - Loyalty investigations; reports; revolving fund"
 usc_title: 5
 usc_section: "1304"
 chapter: 13
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "5 U.S.C. § 1304"
-generated_at: "2026-03-30T05:11:38.377Z"
+generated_at: "2026-03-30T05:14:10.440Z"
 status: "active"
 ---
 

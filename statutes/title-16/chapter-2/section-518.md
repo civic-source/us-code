@@ -3,9 +3,9 @@ title: "Section 518 - Acquisition of lands not defeated by rights-of-way, easeme
 usc_title: 16
 usc_section: "518"
 chapter: 2
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 518"
-generated_at: "2026-03-30T05:12:13.955Z"
+generated_at: "2026-03-30T05:14:45.645Z"
 status: "active"
 ---
 

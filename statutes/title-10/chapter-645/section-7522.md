@@ -3,9 +3,9 @@ title: "Section 7522 - Contracts for research"
 usc_title: 10
 usc_section: "7522"
 chapter: 645
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 7522"
-generated_at: "2026-03-30T05:11:54.757Z"
+generated_at: "2026-03-30T05:14:27.831Z"
 status: "active"
 ---
 

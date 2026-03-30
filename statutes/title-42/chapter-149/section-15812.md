@@ -3,9 +3,9 @@ title: "Section 15812 - Advanced Building Efficiency Testbed"
 usc_title: 42
 usc_section: "15812"
 chapter: 149
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 15812"
-generated_at: "2026-03-30T05:13:20.366Z"
+generated_at: "2026-03-30T05:15:41.496Z"
 status: "active"
 ---
 

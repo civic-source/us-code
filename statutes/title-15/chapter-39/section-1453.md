@@ -3,9 +3,9 @@ title: "Section 1453 - Requirements of labeling; placement, form, and contents o
 usc_title: 15
 usc_section: "1453"
 chapter: 39
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 1453"
-generated_at: "2026-03-30T05:12:02.958Z"
+generated_at: "2026-03-30T05:14:40.217Z"
 status: "active"
 ---
 

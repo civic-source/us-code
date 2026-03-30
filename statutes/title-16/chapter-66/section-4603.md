@@ -3,9 +3,9 @@ title: "Section 4603 - Administrative services"
 usc_title: 16
 usc_section: "4603"
 chapter: 66
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 4603"
-generated_at: "2026-03-30T05:12:14.074Z"
+generated_at: "2026-03-30T05:14:45.763Z"
 status: "active"
 ---
 

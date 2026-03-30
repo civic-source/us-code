@@ -3,9 +3,9 @@ title: "Section 21081 - Voting systems standards"
 usc_title: 52
 usc_section: "21081"
 chapter: 209
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "52 U.S.C. § 21081"
-generated_at: "2026-03-30T05:13:48.157Z"
+generated_at: "2026-03-30T05:15:54.525Z"
 status: "active"
 ---
 

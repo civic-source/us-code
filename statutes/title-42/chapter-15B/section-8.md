@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. Pub. L. 89–675 , § 2(b), Oct. 15, 1966 , 80 Sta
 usc_title: 42
 usc_section: "8"
 chapter: 15
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T05:13:20.042Z"
+generated_at: "2026-03-30T05:15:41.047Z"
 status: "repealed"
 ---
 

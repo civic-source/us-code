@@ -3,9 +3,9 @@ title: "Section 4271 - Establishment"
 usc_title: 42
 usc_section: "4271"
 chapter: 53
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 4271"
-generated_at: "2026-03-30T05:13:20.119Z"
+generated_at: "2026-03-30T05:15:41.150Z"
 status: "active"
 ---
 

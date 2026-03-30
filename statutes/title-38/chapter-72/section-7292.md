@@ -3,9 +3,9 @@ title: "Section 7292 - Review by United States Court of Appeals for the Federal 
 usc_title: 38
 usc_section: "7292"
 chapter: 72
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "38 U.S.C. § 7292"
-generated_at: "2026-03-30T05:12:42.885Z"
+generated_at: "2026-03-30T05:15:26.871Z"
 status: "active"
 ---
 

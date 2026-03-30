@@ -3,9 +3,9 @@ title: "Section 320106 - Limitation on obligation or expenditure of appropriated
 usc_title: 54
 usc_section: "320106"
 chapter: 3201
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "54 U.S.C. § 320106"
-generated_at: "2026-03-30T05:13:55.304Z"
+generated_at: "2026-03-30T05:15:55.250Z"
 status: "active"
 ---
 

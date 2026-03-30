@@ -3,9 +3,9 @@ title: "Section 1681o - Civil liability for negligent noncompliance"
 usc_title: 15
 usc_section: "1681o"
 chapter: 41
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 1681o"
-generated_at: "2026-03-30T05:12:02.973Z"
+generated_at: "2026-03-30T05:14:40.232Z"
 status: "active"
 ---
 

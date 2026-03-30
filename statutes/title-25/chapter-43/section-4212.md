@@ -3,9 +3,9 @@ title: "Section 4212 - Training and technical assistance"
 usc_title: 25
 usc_section: "4212"
 chapter: 43
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 4212"
-generated_at: "2026-03-30T05:12:18.478Z"
+generated_at: "2026-03-30T05:15:09.527Z"
 status: "active"
 ---
 

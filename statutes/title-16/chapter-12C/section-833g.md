@@ -3,9 +3,9 @@ title: "Section 833g - Miscellaneous administrative provisions"
 usc_title: 16
 usc_section: "833g"
 chapter: 12
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 833g"
-generated_at: "2026-03-30T05:12:14.000Z"
+generated_at: "2026-03-30T05:14:45.690Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3606 - Repealed. Pub. L. 105–362, title I , § 101(g), Nov. 10
 usc_title: 7
 usc_section: "3606"
 chapter: 67
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 3606"
-generated_at: "2026-03-30T05:11:48.159Z"
+generated_at: "2026-03-30T05:14:30.722Z"
 status: "repealed"
 ---
 

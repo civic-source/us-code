@@ -3,9 +3,9 @@ title: "Section 2904 - Establishment of Estuary Habitat Restoration Council"
 usc_title: 33
 usc_section: "2904"
 chapter: 42
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "33 U.S.C. § 2904"
-generated_at: "2026-03-30T05:12:36.272Z"
+generated_at: "2026-03-30T05:15:23.409Z"
 status: "active"
 ---
 

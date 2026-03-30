@@ -3,9 +3,9 @@ title: "Section 2754 - Sources of matching funds"
 usc_title: 42
 usc_section: "2754"
 chapter: 34
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 2754"
-generated_at: "2026-03-30T05:13:20.078Z"
+generated_at: "2026-03-30T05:15:41.095Z"
 status: "active"
 ---
 

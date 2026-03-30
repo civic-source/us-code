@@ -3,9 +3,9 @@ title: "Section 16942 - Project Safe Childhood"
 usc_title: 42
 usc_section: "16942"
 chapter: 151
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 16942"
-generated_at: "2026-03-30T05:13:20.385Z"
+generated_at: "2026-03-30T05:15:41.526Z"
 status: "active"
 ---
 

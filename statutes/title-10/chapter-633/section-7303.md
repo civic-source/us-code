@@ -3,9 +3,9 @@ title: "Section 7303 - Model Basin; investigation of hull designs"
 usc_title: 10
 usc_section: "7303"
 chapter: 633
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 7303"
-generated_at: "2026-03-30T05:11:54.756Z"
+generated_at: "2026-03-30T05:14:27.829Z"
 status: "active"
 ---
 

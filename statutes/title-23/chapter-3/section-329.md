@@ -3,9 +3,9 @@ title: "Section 329 - Eligibility for control of noxious weeds and aquatic noxio
 usc_title: 23
 usc_section: "329"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "23 U.S.C. § 329"
-generated_at: "2026-03-30T05:12:16.626Z"
+generated_at: "2026-03-30T05:14:52.150Z"
 status: "active"
 ---
 

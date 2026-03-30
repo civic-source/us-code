@@ -3,9 +3,9 @@ title: "Section 290l - Acceptance of membership"
 usc_title: 22
 usc_section: "290l"
 chapter: 7
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "22 U.S.C. § 290l"
-generated_at: "2026-03-30T05:12:20.705Z"
+generated_at: "2026-03-30T05:14:55.133Z"
 status: "active"
 ---
 

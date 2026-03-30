@@ -3,9 +3,9 @@ title: "Section 1371 - Penalty for failure to timely provide required informatio
 usc_title: 29
 usc_section: "1371"
 chapter: 18
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "29 U.S.C. § 1371"
-generated_at: "2026-03-30T05:12:23.698Z"
+generated_at: "2026-03-30T05:15:13.420Z"
 status: "active"
 ---
 

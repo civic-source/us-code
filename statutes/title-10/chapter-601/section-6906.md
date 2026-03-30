@@ -3,9 +3,9 @@ title: "Section 6906 - Repealed. Pub. L. 88–647, title III , § 301(17), Oct. 
 usc_title: 10
 usc_section: "6906"
 chapter: 601
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 6906"
-generated_at: "2026-03-30T05:11:54.752Z"
+generated_at: "2026-03-30T05:14:27.826Z"
 status: "repealed"
 ---
 

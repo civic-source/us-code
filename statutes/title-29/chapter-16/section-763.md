@@ -3,9 +3,9 @@ title: "Section 763 - Interagency Committee"
 usc_title: 29
 usc_section: "763"
 chapter: 16
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "29 U.S.C. § 763"
-generated_at: "2026-03-30T05:12:23.666Z"
+generated_at: "2026-03-30T05:15:13.388Z"
 status: "active"
 ---
 

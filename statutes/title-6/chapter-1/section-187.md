@@ -3,9 +3,9 @@ title: "Section 187 - Homeland Security Advanced Research Projects Agency"
 usc_title: 6
 usc_section: "187"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "6 U.S.C. § 187"
-generated_at: "2026-03-30T05:11:55.352Z"
+generated_at: "2026-03-30T05:14:20.706Z"
 status: "active"
 ---
 

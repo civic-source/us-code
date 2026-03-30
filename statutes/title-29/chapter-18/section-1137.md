@@ -3,9 +3,9 @@ title: "Section 1137 - Administration"
 usc_title: 29
 usc_section: "1137"
 chapter: 18
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "29 U.S.C. § 1137"
-generated_at: "2026-03-30T05:12:23.687Z"
+generated_at: "2026-03-30T05:15:13.410Z"
 status: "active"
 ---
 

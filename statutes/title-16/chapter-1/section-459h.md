@@ -3,9 +3,9 @@ title: "Section 459h - Gulf Islands National Seashore"
 usc_title: 16
 usc_section: "459h"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 459h"
-generated_at: "2026-03-30T05:12:13.920Z"
+generated_at: "2026-03-30T05:14:45.610Z"
 status: "active"
 ---
 

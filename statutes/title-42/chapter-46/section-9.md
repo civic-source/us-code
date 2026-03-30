@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Pub. L. 109–271 , § 3(a), Aug. 12, 2006 , 120 S
 usc_title: 42
 usc_section: "9"
 chapter: 46
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T05:13:20.108Z"
+generated_at: "2026-03-30T05:15:41.135Z"
 status: "repealed"
 ---
 

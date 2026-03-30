@@ -3,9 +3,9 @@ title: "Section 6372b - Preliminary energy audits and energy audits"
 usc_title: 42
 usc_section: "6372b"
 chapter: 77
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 6372b"
-generated_at: "2026-03-30T05:13:20.172Z"
+generated_at: "2026-03-30T05:15:41.223Z"
 status: "active"
 ---
 

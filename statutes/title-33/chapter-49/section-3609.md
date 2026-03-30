@@ -3,9 +3,9 @@ title: "Section 3609 - Intent of Congress"
 usc_title: 33
 usc_section: "3609"
 chapter: 49
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "33 U.S.C. § 3609"
-generated_at: "2026-03-30T05:12:36.277Z"
+generated_at: "2026-03-30T05:15:23.413Z"
 status: "active"
 ---
 

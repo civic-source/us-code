@@ -3,9 +3,9 @@ title: "Section 544 - Advisory Committee on Minority Veterans"
 usc_title: 38
 usc_section: "544"
 chapter: 5
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "38 U.S.C. § 544"
-generated_at: "2026-03-30T05:12:42.843Z"
+generated_at: "2026-03-30T05:15:26.831Z"
 status: "active"
 ---
 

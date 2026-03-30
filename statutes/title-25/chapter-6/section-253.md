@@ -3,9 +3,9 @@ title: "Section 253 - Wines for sacramental purposes"
 usc_title: 25
 usc_section: "253"
 chapter: 6
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "25 U.S.C. § 253"
-generated_at: "2026-03-30T05:12:18.389Z"
+generated_at: "2026-03-30T05:15:09.435Z"
 status: "active"
 ---
 

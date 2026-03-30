@@ -3,9 +3,9 @@ title: "Section 12 - Regulations; conformity of regulations with administrative 
 usc_title: 42
 usc_section: "12"
 chapter: 21
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T05:13:20.054Z"
+generated_at: "2026-03-30T05:15:41.063Z"
 status: "active"
 ---
 

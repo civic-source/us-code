@@ -3,9 +3,9 @@ title: "Section 2207 - Liability of recipient of property over which decedent ha
 usc_title: 26
 usc_section: "2207"
 chapter: 11
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "26 U.S.C. § 2207"
-generated_at: "2026-03-30T05:12:29.998Z"
+generated_at: "2026-03-30T05:15:19.837Z"
 status: "active"
 ---
 

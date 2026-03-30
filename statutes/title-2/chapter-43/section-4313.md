@@ -3,9 +3,9 @@ title: "Section 4313 - Adjustment of House of Representatives allowances by Comm
 usc_title: 2
 usc_section: "4313"
 chapter: 43
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 4313"
-generated_at: "2026-03-30T05:11:35.511Z"
+generated_at: "2026-03-30T05:14:18.669Z"
 status: "active"
 ---
 

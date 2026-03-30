@@ -3,9 +3,9 @@ title: "Section 352 - Limitation on amount of obligations of certain maturities 
 usc_title: 12
 usc_section: "352"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "12 U.S.C. § 352"
-generated_at: "2026-03-30T05:12:00.414Z"
+generated_at: "2026-03-30T05:14:36.142Z"
 status: "active"
 ---
 

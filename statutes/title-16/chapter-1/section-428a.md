@@ -3,9 +3,9 @@ title: "Section 428a - Qualifications of members of commission"
 usc_title: 16
 usc_section: "428a"
 chapter: 1
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 428a"
-generated_at: "2026-03-30T05:12:13.908Z"
+generated_at: "2026-03-30T05:14:45.598Z"
 status: "active"
 ---
 

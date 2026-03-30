@@ -3,9 +3,9 @@ title: "Section 6 - Medicaid Integrity Program"
 usc_title: 42
 usc_section: "6"
 chapter: 7
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T05:13:19.996Z"
+generated_at: "2026-03-30T05:15:40.983Z"
 status: "active"
 ---
 

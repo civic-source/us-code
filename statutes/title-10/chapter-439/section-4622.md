@@ -3,9 +3,9 @@ title: "Section 4622 - Rations: commissioned officers in field"
 usc_title: 10
 usc_section: "4622"
 chapter: 439
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 4622"
-generated_at: "2026-03-30T05:11:54.745Z"
+generated_at: "2026-03-30T05:14:27.820Z"
 status: "active"
 ---
 

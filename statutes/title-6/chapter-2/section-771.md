@@ -3,9 +3,9 @@ title: "Section 771 - National Disaster Recovery Strategy"
 usc_title: 6
 usc_section: "771"
 chapter: 2
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "6 U.S.C. § 771"
-generated_at: "2026-03-30T05:11:55.370Z"
+generated_at: "2026-03-30T05:14:20.723Z"
 status: "active"
 ---
 

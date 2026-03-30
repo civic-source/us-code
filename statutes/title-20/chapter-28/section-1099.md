@@ -3,9 +3,9 @@ title: "Section 1099 - Transferred"
 usc_title: 20
 usc_section: "1099"
 chapter: 28
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "20 U.S.C. § 1099"
-generated_at: "2026-03-30T05:12:08.779Z"
+generated_at: "2026-03-30T05:14:47.425Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3741 - Medal of honor: award"
 usc_title: 10
 usc_section: "3741"
 chapter: 357
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 3741"
-generated_at: "2026-03-30T05:11:54.741Z"
+generated_at: "2026-03-30T05:14:27.815Z"
 status: "active"
 ---
 

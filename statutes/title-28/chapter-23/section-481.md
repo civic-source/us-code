@@ -3,9 +3,9 @@ title: "Section 481 - Automated case information"
 usc_title: 28
 usc_section: "481"
 chapter: 23
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "28 U.S.C. § 481"
-generated_at: "2026-03-30T05:12:24.762Z"
+generated_at: "2026-03-30T05:15:12.345Z"
 status: "active"
 ---
 

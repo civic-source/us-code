@@ -3,9 +3,9 @@ title: "Section 543h - New spending authority"
 usc_title: 16
 usc_section: "543h"
 chapter: 2
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 543h"
-generated_at: "2026-03-30T05:12:13.961Z"
+generated_at: "2026-03-30T05:14:45.651Z"
 status: "active"
 ---
 

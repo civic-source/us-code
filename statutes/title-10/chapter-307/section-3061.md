@@ -3,9 +3,9 @@ title: "Section 3061 - Regulations"
 usc_title: 10
 usc_section: "3061"
 chapter: 307
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 3061"
-generated_at: "2026-03-30T05:11:54.740Z"
+generated_at: "2026-03-30T05:14:27.814Z"
 status: "active"
 ---
 

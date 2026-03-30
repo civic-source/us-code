@@ -3,9 +3,9 @@ title: "Section 832 - Participation in nuclear and weapons of mass destruction t
 usc_title: 18
 usc_section: "832"
 chapter: 39
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "18 U.S.C. § 832"
-generated_at: "2026-03-30T05:12:06.938Z"
+generated_at: "2026-03-30T05:14:48.238Z"
 status: "active"
 ---
 

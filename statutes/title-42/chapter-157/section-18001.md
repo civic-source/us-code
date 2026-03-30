@@ -3,9 +3,9 @@ title: "Section 18001 - Immediate access to insurance for uninsured individuals 
 usc_title: 42
 usc_section: "18001"
 chapter: 157
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 18001"
-generated_at: "2026-03-30T05:13:20.400Z"
+generated_at: "2026-03-30T05:15:41.548Z"
 status: "active"
 ---
 

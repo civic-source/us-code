@@ -3,9 +3,9 @@ title: "Section 1012 - Regulation by State law; Federal law relating specificall
 usc_title: 15
 usc_section: "1012"
 chapter: 20
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 1012"
-generated_at: "2026-03-30T05:12:02.948Z"
+generated_at: "2026-03-30T05:14:40.206Z"
 status: "active"
 ---
 

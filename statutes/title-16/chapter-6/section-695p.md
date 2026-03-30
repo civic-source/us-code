@@ -3,9 +3,9 @@ title: "Section 695p - Regulation of waters to maintain sump levels"
 usc_title: 16
 usc_section: "695p"
 chapter: 6
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "16 U.S.C. § 695p"
-generated_at: "2026-03-30T05:12:13.979Z"
+generated_at: "2026-03-30T05:14:45.668Z"
 status: "active"
 ---
 

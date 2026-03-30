@@ -3,9 +3,9 @@ title: "Section 2828 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2828"
 chapter: 34
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 2828"
-generated_at: "2026-03-30T05:13:20.079Z"
+generated_at: "2026-03-30T05:15:41.096Z"
 status: "repealed"
 ---
 

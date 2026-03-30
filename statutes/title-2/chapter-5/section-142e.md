@@ -3,9 +3,9 @@ title: "Section 142e - Disbursing Officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142e"
 chapter: 5
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 142e"
-generated_at: "2026-03-30T05:11:35.475Z"
+generated_at: "2026-03-30T05:14:18.639Z"
 status: "active"
 ---
 

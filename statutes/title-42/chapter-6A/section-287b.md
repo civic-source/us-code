@@ -3,9 +3,9 @@ title: "Section 287b - General purpose"
 usc_title: 42
 usc_section: "287b"
 chapter: 6
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 287b"
-generated_at: "2026-03-30T05:13:19.768Z"
+generated_at: "2026-03-30T05:15:40.702Z"
 status: "active"
 ---
 

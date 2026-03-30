@@ -3,9 +3,9 @@ title: "Section 22703 - Purposes"
 usc_title: 49
 usc_section: "22703"
 chapter: 227
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "49 U.S.C. § 22703"
-generated_at: "2026-03-30T05:13:46.361Z"
+generated_at: "2026-03-30T05:15:52.309Z"
 status: "active"
 ---
 

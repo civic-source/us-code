@@ -3,9 +3,9 @@ title: "Section 1400 - Short title; findings; purposes"
 usc_title: 20
 usc_section: "1400"
 chapter: 33
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "20 U.S.C. § 1400"
-generated_at: "2026-03-30T05:12:08.795Z"
+generated_at: "2026-03-30T05:14:47.440Z"
 status: "active"
 ---
 

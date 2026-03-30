@@ -3,9 +3,9 @@ title: "Section 18a - State regulation of investment advisers"
 usc_title: 15
 usc_section: "18a"
 chapter: 2
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "15 U.S.C. § 18a"
-generated_at: "2026-03-30T05:12:02.906Z"
+generated_at: "2026-03-30T05:14:40.164Z"
 status: "active"
 ---
 

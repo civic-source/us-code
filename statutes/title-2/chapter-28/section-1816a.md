@@ -3,9 +3,9 @@ title: "Section 1816a - Design-build contracts"
 usc_title: 2
 usc_section: "1816a"
 chapter: 28
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "2 U.S.C. § 1816a"
-generated_at: "2026-03-30T05:11:35.501Z"
+generated_at: "2026-03-30T05:14:18.660Z"
 status: "active"
 ---
 

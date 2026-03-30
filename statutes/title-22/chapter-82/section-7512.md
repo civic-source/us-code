@@ -3,9 +3,9 @@ title: "Section 7512 - Purposes of assistance"
 usc_title: 22
 usc_section: "7512"
 chapter: 82
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "22 U.S.C. § 7512"
-generated_at: "2026-03-30T05:12:20.802Z"
+generated_at: "2026-03-30T05:14:55.236Z"
 status: "active"
 ---
 

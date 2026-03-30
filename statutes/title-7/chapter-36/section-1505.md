@@ -3,9 +3,9 @@ title: "Section 1505 - Management of Corporation"
 usc_title: 7
 usc_section: "1505"
 chapter: 36
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 1505"
-generated_at: "2026-03-30T05:11:48.096Z"
+generated_at: "2026-03-30T05:14:30.661Z"
 status: "active"
 ---
 

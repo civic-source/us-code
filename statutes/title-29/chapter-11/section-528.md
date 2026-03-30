@@ -3,9 +3,9 @@ title: "Section 528 - Criminal contempt"
 usc_title: 29
 usc_section: "528"
 chapter: 11
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "29 U.S.C. § 528"
-generated_at: "2026-03-30T05:12:23.657Z"
+generated_at: "2026-03-30T05:15:13.379Z"
 status: "active"
 ---
 

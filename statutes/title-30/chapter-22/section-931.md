@@ -3,9 +3,9 @@ title: "Section 931 - Benefits under State workmen’s compensation laws"
 usc_title: 30
 usc_section: "931"
 chapter: 22
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "30 U.S.C. § 931"
-generated_at: "2026-03-30T05:12:24.109Z"
+generated_at: "2026-03-30T05:15:14.183Z"
 status: "active"
 ---
 

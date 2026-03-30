@@ -3,9 +3,9 @@ title: "Section 7218 - Repealed. Pub. L. 104–106, div. D, title XLIII , § 430
 usc_title: 42
 usc_section: "7218"
 chapter: 84
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 7218"
-generated_at: "2026-03-30T05:13:20.192Z"
+generated_at: "2026-03-30T05:15:41.251Z"
 status: "repealed"
 ---
 

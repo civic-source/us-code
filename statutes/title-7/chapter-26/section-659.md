@@ -3,9 +3,9 @@ title: "Section 659 - Omitted"
 usc_title: 7
 usc_section: "659"
 chapter: 26
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 659"
-generated_at: "2026-03-30T05:11:48.077Z"
+generated_at: "2026-03-30T05:14:30.643Z"
 status: "omitted"
 ---
 

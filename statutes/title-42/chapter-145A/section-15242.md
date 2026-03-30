@@ -3,9 +3,9 @@ title: "Section 15242 - Nominations"
 usc_title: 42
 usc_section: "15242"
 chapter: 145
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "42 U.S.C. § 15242"
-generated_at: "2026-03-30T05:13:20.364Z"
+generated_at: "2026-03-30T05:15:41.493Z"
 status: "active"
 ---
 

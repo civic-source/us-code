@@ -3,9 +3,9 @@ title: "Section 926 - Center of Excellence for Maritime Domain Awareness"
 usc_title: 6
 usc_section: "926"
 chapter: 3
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "6 U.S.C. § 926"
-generated_at: "2026-03-30T05:11:55.371Z"
+generated_at: "2026-03-30T05:14:20.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3132 - Definitions and exclusions"
 usc_title: 5
 usc_section: "3132"
 chapter: 31
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "5 U.S.C. § 3132"
-generated_at: "2026-03-30T05:11:38.379Z"
+generated_at: "2026-03-30T05:14:10.442Z"
 status: "active"
 ---
 

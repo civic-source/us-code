@@ -3,9 +3,9 @@ title: "Section 8023 - Chief of Legislative Liaison"
 usc_title: 10
 usc_section: "8023"
 chapter: 803
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "10 U.S.C. § 8023"
-generated_at: "2026-03-30T05:11:54.760Z"
+generated_at: "2026-03-30T05:14:27.834Z"
 status: "active"
 ---
 

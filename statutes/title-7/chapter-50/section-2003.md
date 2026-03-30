@@ -3,9 +3,9 @@ title: "Section 2003 - Target participation rates"
 usc_title: 7
 usc_section: "2003"
 chapter: 50
-current_through: "PL 114-150"
+current_through: "PL 114-152"
 classification: "7 U.S.C. § 2003"
-generated_at: "2026-03-30T05:11:48.122Z"
+generated_at: "2026-03-30T05:14:30.687Z"
 status: "active"
 ---
 
