@@ -3,9 +3,9 @@ title: "Section 458a - General education contract and grant provisions and requi
 usc_title: 25
 usc_section: "458a"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 458a"
-generated_at: "2026-03-30T05:32:42.565Z"
+generated_at: "2026-03-30T05:35:40.070Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Administrative services and support"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T05:32:08.872Z"
+generated_at: "2026-03-30T05:35:31.737Z"
 status: "active"
 ---
 

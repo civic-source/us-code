@@ -3,9 +3,9 @@ title: "Section 86 - GAO report"
 usc_title: 42
 usc_section: "86"
 chapter: 6
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 86"
-generated_at: "2026-03-30T05:34:03.438Z"
+generated_at: "2026-03-30T05:37:41.156Z"
 status: "active"
 ---
 

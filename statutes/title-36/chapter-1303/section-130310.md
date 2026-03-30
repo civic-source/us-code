@@ -3,9 +3,9 @@ title: "Section 130310 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "130310"
 chapter: 1303
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "36 U.S.C. § 130310"
-generated_at: "2026-03-30T05:33:44.600Z"
+generated_at: "2026-03-30T05:37:07.007Z"
 status: "active"
 ---
 

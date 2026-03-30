@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-03-30T05:31:54.525Z"
+generated_at: "2026-03-30T05:35:10.086Z"
 status: "active"
 ---
 

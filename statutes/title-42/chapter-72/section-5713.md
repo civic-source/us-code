@@ -3,9 +3,9 @@ title: "Section 5713 - Approval of applications"
 usc_title: 42
 usc_section: "5713"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5713"
-generated_at: "2026-03-30T05:34:03.752Z"
+generated_at: "2026-03-30T05:37:41.469Z"
 status: "active"
 ---
 

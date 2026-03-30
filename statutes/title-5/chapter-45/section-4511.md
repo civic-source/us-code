@@ -3,9 +3,9 @@ title: "Section 4511 - Definition and general provisions"
 usc_title: 5
 usc_section: "4511"
 chapter: 45
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "5 U.S.C. § 4511"
-generated_at: "2026-03-30T05:31:44.092Z"
+generated_at: "2026-03-30T05:34:37.482Z"
 status: "active"
 ---
 

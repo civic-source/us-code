@@ -3,9 +3,9 @@ title: "Section 5015 - Under Secretary of the Navy"
 usc_title: 10
 usc_section: "5015"
 chapter: 503
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 5015"
-generated_at: "2026-03-30T05:31:52.822Z"
+generated_at: "2026-03-30T05:34:54.706Z"
 status: "active"
 ---
 

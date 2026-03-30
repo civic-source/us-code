@@ -3,15 +3,15 @@ title: "Section 5678 - Rules of construction"
 usc_title: 42
 usc_section: "5678"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5678"
-generated_at: "2026-03-30T05:34:03.751Z"
+generated_at: "2026-03-30T05:37:41.468Z"
 status: "active"
 ---
 
 # § 5678. Rules of construction
 
-Nothing in this subchapter or subchapter I of this chapter shall be construed—
+Nothing in this subchapter or subchapter I shall be construed—
 
   - **(1)** to prevent financial assistance from being awarded through grants under this subchapter to any otherwise eligible organization; or
   - **(2)** to modify or affect any Federal or State law relating to collective bargaining rights of employees.

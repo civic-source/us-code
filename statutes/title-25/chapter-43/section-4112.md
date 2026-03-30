@@ -3,9 +3,9 @@ title: "Section 4112 - Indian housing plans"
 usc_title: 25
 usc_section: "4112"
 chapter: 43
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 4112"
-generated_at: "2026-03-30T05:32:42.635Z"
+generated_at: "2026-03-30T05:35:40.143Z"
 status: "active"
 ---
 

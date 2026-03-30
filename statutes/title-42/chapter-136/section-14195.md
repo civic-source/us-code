@@ -3,9 +3,9 @@ title: "Section 14195 - Administrative matters"
 usc_title: 42
 usc_section: "14195"
 chapter: 136
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 14195"
-generated_at: "2026-03-30T05:34:03.945Z"
+generated_at: "2026-03-30T05:37:41.657Z"
 status: "active"
 ---
 

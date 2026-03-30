@@ -3,9 +3,9 @@ title: "Section 7915 - Rulemaking"
 usc_title: 20
 usc_section: "7915"
 chapter: 70
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "20 U.S.C. § 7915"
-generated_at: "2026-03-30T05:32:06.254Z"
+generated_at: "2026-03-30T05:35:34.309Z"
 status: "active"
 ---
 

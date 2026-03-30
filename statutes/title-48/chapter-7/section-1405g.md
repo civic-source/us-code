@@ -3,9 +3,9 @@ title: "Section 1405g - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19,
 usc_title: 48
 usc_section: "1405g"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "48 U.S.C. § 1405g"
-generated_at: "2026-03-30T05:34:07.699Z"
+generated_at: "2026-03-30T05:37:48.834Z"
 status: "repealed"
 ---
 

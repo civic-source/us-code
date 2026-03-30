@@ -3,9 +3,9 @@ title: "Section 3030d - Grants for supportive services"
 usc_title: 42
 usc_section: "3030d"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3030d"
-generated_at: "2026-03-30T05:34:03.689Z"
+generated_at: "2026-03-30T05:37:41.406Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(12)** services to encourage the employment of older workers, including job and second career counseling and, where appropriate, job development, referral, and placement, and including the coordination of the services with programs administered by or receiving assistance from the Department of Labor, including programs carried out under the Workforce Innovation and Opportunity Act;
   - **(13)** crime prevention services and victim assistance programs for older individuals;
   - **(14)** a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
-  - **(15)** services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and section 3027(a)(12) of this title , and screening for elder abuse, neglect, and exploitation;
+  - **(15)** services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI and section 3027(a)(12) of this title , and screening for elder abuse, neglect, and exploitation;
   - **(16)** inservice training and State leadership for legal assistance activities;
   - **(17)** health and nutrition education services, including information concerning prevention, diagnosis, treatment, and rehabilitation of age-related diseases and chronic disabling conditions;
   - **(18)** services designed to enable mentally impaired older individuals to attain and maintain emotional well-being and independent living through a coordinated system of support services;

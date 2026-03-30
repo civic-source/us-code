@@ -3,9 +3,9 @@ title: "Section 13001 - Findings"
 usc_title: 42
 usc_section: "13001"
 chapter: 132
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 13001"
-generated_at: "2026-03-30T05:34:03.920Z"
+generated_at: "2026-03-30T05:37:41.631Z"
 status: "active"
 ---
 

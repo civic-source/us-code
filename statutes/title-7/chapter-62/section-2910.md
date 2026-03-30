@@ -3,9 +3,9 @@ title: "Section 2910 - Preemption of other Federal and State programs; applicabi
 usc_title: 7
 usc_section: "2910"
 chapter: 62
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 2910"
-generated_at: "2026-03-30T05:31:49.036Z"
+generated_at: "2026-03-30T05:35:07.571Z"
 status: "active"
 ---
 

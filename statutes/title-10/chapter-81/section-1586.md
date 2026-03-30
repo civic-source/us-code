@@ -3,9 +3,9 @@ title: "Section 1586 - Rotation of career-conditional and career employees assig
 usc_title: 10
 usc_section: "1586"
 chapter: 81
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 1586"
-generated_at: "2026-03-30T05:31:52.761Z"
+generated_at: "2026-03-30T05:34:54.649Z"
 status: "active"
 ---
 

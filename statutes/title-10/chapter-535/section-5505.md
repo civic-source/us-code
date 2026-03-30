@@ -3,9 +3,9 @@ title: "Section 5505 - Repealed. Pub. L. 96–513, title III , § 314, Dec. 12, 
 usc_title: 10
 usc_section: "5505"
 chapter: 535
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 5505"
-generated_at: "2026-03-30T05:31:52.824Z"
+generated_at: "2026-03-30T05:34:54.708Z"
 status: "repealed"
 ---
 

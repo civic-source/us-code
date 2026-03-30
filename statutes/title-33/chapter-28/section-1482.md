@@ -3,9 +3,9 @@ title: "Section 1482 - Consultation for nomination and nomination of experts, ne
 usc_title: 33
 usc_section: "1482"
 chapter: 28
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "33 U.S.C. § 1482"
-generated_at: "2026-03-30T05:33:33.014Z"
+generated_at: "2026-03-30T05:36:42.546Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4162 - Replacement of recipient"
 usc_title: 25
 usc_section: "4162"
 chapter: 43
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 4162"
-generated_at: "2026-03-30T05:32:42.636Z"
+generated_at: "2026-03-30T05:35:40.145Z"
 status: "active"
 ---
 

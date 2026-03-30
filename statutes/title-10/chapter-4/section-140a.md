@@ -3,9 +3,9 @@ title: "Section 140a - Renumbered § 422]"
 usc_title: 10
 usc_section: "140a"
 chapter: 4
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 140a"
-generated_at: "2026-03-30T05:31:52.705Z"
+generated_at: "2026-03-30T05:34:54.599Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2683 - Assumption of obligations of operation of broadcasting fa
 usc_title: 22
 usc_section: "2683"
 chapter: 38
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 2683"
-generated_at: "2026-03-30T05:32:57.078Z"
+generated_at: "2026-03-30T05:35:53.497Z"
 status: "active"
 ---
 

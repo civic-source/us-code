@@ -3,9 +3,9 @@ title: "Section 5732a - Definitions"
 usc_title: 42
 usc_section: "5732a"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5732a"
-generated_at: "2026-03-30T05:34:03.752Z"
+generated_at: "2026-03-30T05:37:41.469Z"
 status: "active"
 ---
 
@@ -30,8 +30,8 @@ In this subchapter:
       - **(ii)** training relating to life skills and parenting.
   - **(3)** The term “homeless”, used with respect to a youth, means an individual—
     - **(A)** who is—
-      - **(i)** less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A of this subchapter, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 1 1 So in original. facilities; and
-      - **(ii)** for the purposes of part B of this subchapter, not less than 16 years of age and either—
+      - **(i)** less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 1 1 So in original. facilities; and
+      - **(ii)** for the purposes of part B, not less than 16 years of age and either—
         - **(I)** less than 22 years of age; or
         - **(II)** not less than 22 years of age, as of the expiration of the maximum period of stay permitted under section 5714–2(a)(2) of this title if such individual commences such stay before reaching 22 years of age;
     - **(B)** for whom it is not possible to live in a safe environment with a relative; and

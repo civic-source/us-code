@@ -3,9 +3,9 @@ title: "Section 12504 - Information available from the system"
 usc_title: 46
 usc_section: "12504"
 chapter: 125
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "46 U.S.C. § 12504"
-generated_at: "2026-03-30T05:34:08.315Z"
+generated_at: "2026-03-30T05:37:44.906Z"
 status: "active"
 ---
 

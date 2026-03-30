@@ -3,9 +3,9 @@ title: "Section 3650 - Air transportation"
 usc_title: 22
 usc_section: "3650"
 chapter: 51
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 3650"
-generated_at: "2026-03-30T05:32:57.091Z"
+generated_at: "2026-03-30T05:35:53.510Z"
 status: "active"
 ---
 

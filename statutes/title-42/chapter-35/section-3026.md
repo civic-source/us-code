@@ -3,9 +3,9 @@ title: "Section 3026 - Area plans"
 usc_title: 42
 usc_section: "3026"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3026"
-generated_at: "2026-03-30T05:34:03.687Z"
+generated_at: "2026-03-30T05:37:41.404Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title . Each such plan shall—
   - **(1)** provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
-  - **(2)** provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title , of the amount allotted for part B of this subchapter to the planning and service area will be expended for the delivery of each of the following categories of services—
+  - **(2)** provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title , of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
     - **(A)** services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
     - **(B)** in-home services, including supportive services for families of older individuals who are victims of Alzheimer’s disease and related disorders with neurological and organic brain dysfunction); 1 1 So in original. A closing parenthesis probably should not appear. and
     - **(C)** legal assistance;
@@ -83,7 +83,7 @@ status: "active"
   - **(10)** provide a grievance procedure for older individuals who are dissatisfied with or denied services under this subchapter;
   - **(11)** provide information and assurances concerning services to older individuals who are Native Americans (referred to in this paragraph as “older Native Americans”), including—
     - **(A)** information concerning whether there is a significant population of older Native Americans in the planning and service area and if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
-    - **(B)** an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X of this chapter; and
+    - **(B)** an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X; and
     - **(C)** an assurance that the area agency on aging will make services under the area plan available, to the same extent as such services are available to older individuals within the planning and service area, to older Native Americans; and 3 3 So in original. The word “and” probably should not appear.
   - **(12)** provide that the area agency on aging will establish procedures for coordination of services with entities conducting other Federal or federally assisted programs for older individuals at the local level, with particular emphasis on entities conducting programs described in section 3013(b) of this title within the planning and service area. 4 4 So in original. The period probably should be a semicolon.
   - **(13)** provide assurances that the area agency on aging will—

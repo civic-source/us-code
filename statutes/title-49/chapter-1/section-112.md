@@ -3,9 +3,9 @@ title: "Section 112 - Repealed. Pub. L. 114–94, div. A, title VI , § 6012(a),
 usc_title: 49
 usc_section: "112"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-30T05:34:13.382Z"
+generated_at: "2026-03-30T05:37:48.437Z"
 status: "repealed"
 ---
 

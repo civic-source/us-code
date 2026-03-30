@@ -3,9 +3,9 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-30T05:32:30.396Z"
+generated_at: "2026-03-30T05:35:38.791Z"
 status: "active"
 ---
 

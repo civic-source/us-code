@@ -3,9 +3,9 @@ title: "Section 5305 - Acceptance and use of donations"
 usc_title: 16
 usc_section: "5305"
 chapter: 73
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 5305"
-generated_at: "2026-03-30T05:32:08.982Z"
+generated_at: "2026-03-30T05:35:31.851Z"
 status: "active"
 ---
 

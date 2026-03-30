@@ -3,9 +3,9 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-30T05:33:43.241Z"
+generated_at: "2026-03-30T05:36:57.063Z"
 status: "active"
 ---
 
@@ -100,5 +100,7 @@ status: "active"
 - **(g)**
   - **(1)** The Secretary may not furnish medical services (except if such care constitutes hospice care) under subsection (a) of this section (including home health services under section 1717 of this title ) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation.
   - **(2)** A veteran who is furnished medical services under subsection (a) of this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such services shall be liable to the United States, in the case of each visit in which such services are furnished to the veteran, for an amount which the Secretary shall establish by regulation.
-  - **(3)** This subsection does not apply with respect to home health services under section 1717 of this title to the extent that such services are for improvements and structural alterations.
+  - **(3)** This subsection does not apply with respect to the following:
+    - **(A)** Home health services under section 1717 of this title to the extent that such services are for improvements and structural alterations.
+    - **(B)** Education on the use of opioid antagonists to reverse the effects of overdoses of specific medications or substances.
 - **(h)** Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.

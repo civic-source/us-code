@@ -3,9 +3,9 @@ title: "Section 9007 - Costs and fees"
 usc_title: 22
 usc_section: "9007"
 chapter: 97
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 9007"
-generated_at: "2026-03-30T05:32:57.150Z"
+generated_at: "2026-03-30T05:35:53.566Z"
 status: "active"
 ---
 

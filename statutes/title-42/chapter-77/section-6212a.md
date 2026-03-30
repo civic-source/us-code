@@ -3,9 +3,9 @@ title: "Section 6212a - Oil exports, safety valve, and maritime security"
 usc_title: 42
 usc_section: "6212a"
 chapter: 77
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6212a"
-generated_at: "2026-03-30T05:34:03.758Z"
+generated_at: "2026-03-30T05:37:41.475Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
 - **(b)** Notwithstanding any other provision of law, except as provided in subsections (c) and (d), to promote the efficient exploration, production, storage, supply, marketing, pricing, and regulation of energy resources, including fossil fuels, no official of the Federal Government shall impose or enforce any restriction on the export of crude oil.
-- **(c)** Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the National Emergencies Act ( 50 U.S.C. 1601 et seq.), part B of title II of the Energy Policy and Conservation Act ( 42 U.S.C. 6271 et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.], or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
+- **(c)** Nothing in this section limits the authority of the President under the Constitution, the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or regulations issued under that Act (other than section 754.2 of title 15, Code of Federal Regulations), the National Emergencies Act ( 50 U.S.C. 1601 et seq.), part B of title II of the Energy Policy and Conservation Act ( 42 U.S.C. 6271 et seq.), the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), 1 1 See References in Text note below. or any other provision of law that imposes sanctions on a foreign person or foreign government (including any provision of law that prohibits or restricts United States persons from engaging in a transaction with a sanctioned person or government), including a foreign government that is designated as a state sponsor of terrorism, to prohibit exports.
 - **(d)**
   - **(1)** The President may impose export licensing requirements or other restrictions on the export of crude oil from the United States for a period of not more than 1 year, if—
     - **(A)** the President declares a national emergency and formally notices the declaration of a national emergency in the Federal Register;

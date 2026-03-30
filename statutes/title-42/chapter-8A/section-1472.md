@@ -3,9 +3,9 @@ title: "Section 1472 - Loans for housing and buildings on adequate farms"
 usc_title: 42
 usc_section: "1472"
 chapter: 8
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1472"
-generated_at: "2026-03-30T05:34:03.623Z"
+generated_at: "2026-03-30T05:37:41.341Z"
 status: "active"
 ---
 
@@ -177,3 +177,7 @@ status: "active"
     - **(D)** To be eligible for a guarantee under this paragraph, the principal obligation under the refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
     - **(E)** The provisions of the last sentence of paragraph (2) and paragraphs (3), (6), (7)(A), (8), (10), (13), and (14) shall apply to loans guaranteed under this paragraph, and no other provisions of paragraphs (2) through (15) shall apply to such loans.
     - **(F)** The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
+  - **(18)** The Secretary may delegate, in part or in full, the Secretary’s authority to approve and execute binding Rural Housing Service loan guarantees pursuant to this subsection to certain preferred lenders, in accordance with standards established by the Secretary.
+- **(i)**
+  - **(1)** The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+  - **(2)** Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).

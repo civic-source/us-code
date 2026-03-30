@@ -3,9 +3,9 @@ title: "Section 668ee - Definitions"
 usc_title: 16
 usc_section: "668ee"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 668ee"
-generated_at: "2026-03-30T05:32:08.877Z"
+generated_at: "2026-03-30T05:35:31.744Z"
 status: "active"
 ---
 

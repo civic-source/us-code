@@ -3,9 +3,9 @@ title: "Section 735 - Adoption of new constitution and bylaws"
 usc_title: 25
 usc_section: "735"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 735"
-generated_at: "2026-03-30T05:32:42.581Z"
+generated_at: "2026-03-30T05:35:40.087Z"
 status: "active"
 ---
 

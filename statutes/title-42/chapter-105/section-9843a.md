@@ -3,9 +3,9 @@ title: "Section 9843a - Staff qualifications and development"
 usc_title: 42
 usc_section: "9843a"
 chapter: 105
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 9843a"
-generated_at: "2026-03-30T05:34:03.863Z"
+generated_at: "2026-03-30T05:37:41.575Z"
 status: "active"
 ---
 

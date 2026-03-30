@@ -3,9 +3,9 @@ title: "Section 1872a - Repealed. Pub. L. 90–407 , § 11(1), July 18, 1968 , 8
 usc_title: 42
 usc_section: "1872a"
 chapter: 16
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1872a"
-generated_at: "2026-03-30T05:34:03.651Z"
+generated_at: "2026-03-30T05:37:41.370Z"
 status: "repealed"
 ---
 

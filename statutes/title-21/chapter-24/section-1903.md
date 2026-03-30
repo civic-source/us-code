@@ -3,9 +3,9 @@ title: "Section 1903 - Public identification of significant foreign narcotics tr
 usc_title: 21
 usc_section: "1903"
 chapter: 24
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "21 U.S.C. § 1903"
-generated_at: "2026-03-30T05:32:38.972Z"
+generated_at: "2026-03-30T05:35:47.386Z"
 status: "active"
 ---
 
@@ -41,3 +41,4 @@ status: "active"
   - **(2)**
     - **(A)** Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
     - **(B)** Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
+- **(i)** In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.

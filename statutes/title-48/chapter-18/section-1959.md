@@ -3,9 +3,9 @@ title: "Section 1959 - Agreements"
 usc_title: 48
 usc_section: "1959"
 chapter: 18
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "48 U.S.C. § 1959"
-generated_at: "2026-03-30T05:34:07.712Z"
+generated_at: "2026-03-30T05:37:48.849Z"
 status: "active"
 ---
 

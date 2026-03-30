@@ -3,9 +3,9 @@ title: "Section 575 - Authorization of arbitration"
 usc_title: 5
 usc_section: "575"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "5 U.S.C. § 575"
-generated_at: "2026-03-30T05:31:44.077Z"
+generated_at: "2026-03-30T05:34:37.471Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3107 - Employment of publicity experts; restrictions"
 usc_title: 5
 usc_section: "3107"
 chapter: 31
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "5 U.S.C. § 3107"
-generated_at: "2026-03-30T05:31:44.084Z"
+generated_at: "2026-03-30T05:34:37.476Z"
 status: "active"
 ---
 

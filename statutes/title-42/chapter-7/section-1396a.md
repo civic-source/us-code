@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T05:34:03.579Z"
+generated_at: "2026-03-30T05:37:41.295Z"
 status: "active"
 ---
 
@@ -247,8 +247,9 @@ status: "active"
   - **(76)** provide that any data collected under the State plan meets the requirements of section 3101 of the Public Health Service Act [ 42 U.S.C. 300kk ];
   - **(77)** provide that the State shall comply with provider and supplier screening, oversight, and reporting requirements in accordance with subsection (kk);
   - **(79)** 11 11 So in original. There is no par. (78). provide that any agent, clearinghouse, or other alternate payee (as defined by the Secretary) that submits claims on behalf of a health care provider must register with the State and the Secretary in a form and manner specified by the Secretary;
-  - **(80)** provide that the State shall not provide any payments for items or services provided under the State plan or under a waiver to any financial institution or entity located outside of the United States; and
-  - **(81)** provide for implementation of the payment models specified by the Secretary under section 1315a(c) of this title for implementation on a nationwide basis unless the State demonstrates to the satisfaction of the Secretary that implementation would not be administratively feasible or appropriate to the health care delivery system of the State.
+  - **(80)** provide that the State shall not provide any payments for items or services provided under the State plan or under a waiver to any financial institution or entity located outside of the United States;
+  - **(81)** provide for implementation of the payment models specified by the Secretary under section 1315a(c) of this title for implementation on a nationwide basis unless the State demonstrates to the satisfaction of the Secretary that implementation would not be administratively feasible or appropriate to the health care delivery system of the State; and
+  - **(82)** provide that the State agency responsible for administering the State plan under this subchapter provides assurances to the Secretary that the State agency is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title .
 - **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a) of this section, except that he shall not approve any plan which imposes, as a condition of eligibility for medical assistance under the plan—
   - **(1)** an age requirement of more than 65 years; or
   - **(2)** any residence requirement which excludes any individual who resides in the State, regardless of whether or not the residence is maintained permanently or at a fixed address; or

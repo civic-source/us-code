@@ -3,9 +3,9 @@ title: "Section 470cc - Excavation and removal"
 usc_title: 16
 usc_section: "470cc"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 470cc"
-generated_at: "2026-03-30T05:32:08.853Z"
+generated_at: "2026-03-30T05:35:31.718Z"
 status: "active"
 ---
 

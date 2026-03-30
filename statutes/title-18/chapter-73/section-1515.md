@@ -3,9 +3,9 @@ title: "Section 1515 - Definitions for certain provisions; general provision"
 usc_title: 18
 usc_section: "1515"
 chapter: 73
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "18 U.S.C. § 1515"
-generated_at: "2026-03-30T05:32:04.073Z"
+generated_at: "2026-03-30T05:35:35.760Z"
 status: "active"
 ---
 

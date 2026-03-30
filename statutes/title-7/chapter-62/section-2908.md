@@ -3,9 +3,9 @@ title: "Section 2908 - Enforcement"
 usc_title: 7
 usc_section: "2908"
 chapter: 62
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 2908"
-generated_at: "2026-03-30T05:31:49.036Z"
+generated_at: "2026-03-30T05:35:07.570Z"
 status: "active"
 ---
 

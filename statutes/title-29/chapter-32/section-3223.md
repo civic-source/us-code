@@ -3,9 +3,9 @@ title: "Section 3223 - Technical assistance"
 usc_title: 29
 usc_section: "3223"
 chapter: 32
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "29 U.S.C. § 3223"
-generated_at: "2026-03-30T05:33:00.848Z"
+generated_at: "2026-03-30T05:35:57.188Z"
 status: "active"
 ---
 

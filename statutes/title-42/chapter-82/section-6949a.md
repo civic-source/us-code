@@ -3,15 +3,15 @@ title: "Section 6949a - Adequacy of certain guidelines and criteria"
 usc_title: 42
 usc_section: "6949a"
 chapter: 82
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6949a"
-generated_at: "2026-03-30T05:34:03.785Z"
+generated_at: "2026-03-30T05:37:41.500Z"
 status: "active"
 ---
 
 # § 6949a. Adequacy of certain guidelines and criteria
 
-- **(a)** The Administrator shall conduct a study of the extent to which the guidelines and criteria under this chapter (other than guidelines and criteria for facilities to which subchapter III of this chapter applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under section 6907(a) of this title and the criteria under section 6944 of this title regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
+- **(a)** The Administrator shall conduct a study of the extent to which the guidelines and criteria under this chapter (other than guidelines and criteria for facilities to which subchapter III applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under section 6907(a) of this title and the criteria under section 6944 of this title regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
 - **(b)** Not later than thirty-six months after November 8, 1984 , the Administrator shall submit a report to the Congress setting forth the results of the study required under this section, together with any recommendations made by the Administrator on the basis of such study.
 - **(c)**
   - **(1)** Not later than March 31, 1988 , the Administrator shall promulgate revisions of the criteria promulgated under paragraph (1) of section 6944(a) of this title and under section 6907(a)(3) of this title for facilities that may receive hazardous household wastes or hazardous wastes from small quantity generators under section 6921(d) of this title . The criteria shall be those necessary to protect human health and the environment and may take into account the practicable capability of such facilities. At a minimum such revisions for facilities potentially receiving such wastes should require ground water monitoring as necessary to detect contamination, establish criteria for the acceptable location of new or existing facilities, and provide for corrective action as appropriate.

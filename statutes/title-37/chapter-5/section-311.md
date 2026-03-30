@@ -1,13 +1,13 @@
 ---
-title: "Section 311 - Repealed. Pub. L. 99–145, title VI, § 639(b) , Nov. 8, 1985 , 99 Stat. 651 ]"
+title: "Section 311 - Repealed. Pub. L. 99–145, title VI , § 639(b), Nov. 8, 1985 , 99 Stat. 651 ]"
 usc_title: 37
 usc_section: "311"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "37 U.S.C. § 311"
-generated_at: "2026-03-30T05:33:41.506Z"
+generated_at: "2026-03-30T05:36:44.923Z"
 status: "repealed"
 ---
 
-# [§ 311. Repealed. Pub. L. 99–145, title VI, § 639(b) , Nov. 8, 1985 , 99 Stat. 651 ]
+# [§ 311. Repealed. Pub. L. 99–145, title VI , § 639(b), Nov. 8, 1985 , 99 Stat. 651 ]
 

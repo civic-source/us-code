@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-30T05:33:15.331Z"
+generated_at: "2026-03-30T05:36:26.078Z"
 status: "active"
 ---
 

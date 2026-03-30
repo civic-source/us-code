@@ -3,9 +3,9 @@ title: "Section 20908 - Restrictions"
 usc_title: 36
 usc_section: "20908"
 chapter: 209
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "36 U.S.C. § 20908"
-generated_at: "2026-03-30T05:33:44.592Z"
+generated_at: "2026-03-30T05:37:07.000Z"
 status: "active"
 ---
 

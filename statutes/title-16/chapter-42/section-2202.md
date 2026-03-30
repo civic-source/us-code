@@ -3,9 +3,9 @@ title: "Section 2202 - Payments to agricultural producers for carrying out water
 usc_title: 16
 usc_section: "2202"
 chapter: 42
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 2202"
-generated_at: "2026-03-30T05:32:08.951Z"
+generated_at: "2026-03-30T05:35:31.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1453 - Assistant Secretaries of the Interior"
 usc_title: 43
 usc_section: "1453"
 chapter: 31
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "43 U.S.C. § 1453"
-generated_at: "2026-03-30T05:34:04.816Z"
+generated_at: "2026-03-30T05:37:11.829Z"
 status: "active"
 ---
 

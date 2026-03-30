@@ -3,9 +3,9 @@ title: "Section 499l - Violations; report to Attorney General; proceedings; cost
 usc_title: 7
 usc_section: "499l"
 chapter: 20
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 499l"
-generated_at: "2026-03-30T05:31:48.961Z"
+generated_at: "2026-03-30T05:35:07.494Z"
 status: "active"
 ---
 

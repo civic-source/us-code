@@ -3,9 +3,9 @@ title: "Section 2 - Compensation schedule for contractor employees"
 usc_title: 42
 usc_section: "2"
 chapter: 84
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:34:03.798Z"
+generated_at: "2026-03-30T05:37:41.513Z"
 status: "active"
 ---
 

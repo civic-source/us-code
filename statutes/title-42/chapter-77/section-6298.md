@@ -3,9 +3,9 @@ title: "Section 6298 - Rules"
 usc_title: 42
 usc_section: "6298"
 chapter: 77
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6298"
-generated_at: "2026-03-30T05:34:03.766Z"
+generated_at: "2026-03-30T05:37:41.482Z"
 status: "active"
 ---
 

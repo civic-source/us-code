@@ -3,9 +3,9 @@ title: "Section 831o - Completion of unfinished plants authorized"
 usc_title: 16
 usc_section: "831o"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 831o"
-generated_at: "2026-03-30T05:32:08.901Z"
+generated_at: "2026-03-30T05:35:31.768Z"
 status: "active"
 ---
 

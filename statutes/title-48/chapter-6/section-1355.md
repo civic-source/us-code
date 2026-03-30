@@ -3,9 +3,9 @@ title: "Section 1355 - Omitted"
 usc_title: 48
 usc_section: "1355"
 chapter: 6
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "48 U.S.C. § 1355"
-generated_at: "2026-03-30T05:34:07.698Z"
+generated_at: "2026-03-30T05:37:48.834Z"
 status: "omitted"
 ---
 

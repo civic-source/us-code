@@ -3,9 +3,9 @@ title: "Section 5305c - Advisory group"
 usc_title: 16
 usc_section: "5305c"
 chapter: 73
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 5305c"
-generated_at: "2026-03-30T05:32:08.983Z"
+generated_at: "2026-03-30T05:35:31.851Z"
 status: "active"
 ---
 

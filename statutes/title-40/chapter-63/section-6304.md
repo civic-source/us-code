@@ -3,9 +3,9 @@ title: "Section 6304 - Additional regulations"
 usc_title: 40
 usc_section: "6304"
 chapter: 63
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "40 U.S.C. § 6304"
-generated_at: "2026-03-30T05:33:47.529Z"
+generated_at: "2026-03-30T05:36:44.635Z"
 status: "active"
 ---
 

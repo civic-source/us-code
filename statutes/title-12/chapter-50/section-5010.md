@@ -3,9 +3,9 @@ title: "Section 5010 - Statute of limitations and notice of claim"
 usc_title: 12
 usc_section: "5010"
 chapter: 50
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "12 U.S.C. § 5010"
-generated_at: "2026-03-30T05:32:00.919Z"
+generated_at: "2026-03-30T05:35:12.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1642k - Time limitation on completion of affairs of Commission"
 usc_title: 22
 usc_section: "1642k"
 chapter: 21
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 1642k"
-generated_at: "2026-03-30T05:32:57.043Z"
+generated_at: "2026-03-30T05:35:53.463Z"
 status: "active"
 ---
 

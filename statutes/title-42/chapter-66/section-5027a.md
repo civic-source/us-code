@@ -3,9 +3,9 @@ title: "Section 5027a - Acceptance of donations"
 usc_title: 42
 usc_section: "5027a"
 chapter: 66
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5027a"
-generated_at: "2026-03-30T05:34:03.732Z"
+generated_at: "2026-03-30T05:37:41.448Z"
 status: "active"
 ---
 

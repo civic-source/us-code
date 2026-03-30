@@ -3,9 +3,9 @@ title: "Section 7960 - Repeal of superseded price support authority and effect o
 usc_title: 7
 usc_section: "7960"
 chapter: 106
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 7960"
-generated_at: "2026-03-30T05:31:49.087Z"
+generated_at: "2026-03-30T05:35:07.622Z"
 status: "active"
 ---
 

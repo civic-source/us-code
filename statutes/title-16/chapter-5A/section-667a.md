@@ -3,9 +3,9 @@ title: "Section 667a - Omitted"
 usc_title: 16
 usc_section: "667a"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 667a"
-generated_at: "2026-03-30T05:32:08.876Z"
+generated_at: "2026-03-30T05:35:31.743Z"
 status: "omitted"
 ---
 

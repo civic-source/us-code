@@ -3,9 +3,9 @@ title: "Section 1311 - Bonded manufacturing warehouses"
 usc_title: 19
 usc_section: "1311"
 chapter: 4
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "19 U.S.C. § 1311"
-generated_at: "2026-03-30T05:32:17.546Z"
+generated_at: "2026-03-30T05:35:28.789Z"
 status: "active"
 ---
 

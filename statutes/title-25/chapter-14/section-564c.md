@@ -3,9 +3,9 @@ title: "Section 564c - Personal property rights; restrictions; tax exemption"
 usc_title: 25
 usc_section: "564c"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 564c"
-generated_at: "2026-03-30T05:32:42.570Z"
+generated_at: "2026-03-30T05:35:40.076Z"
 status: "active"
 ---
 

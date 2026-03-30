@@ -3,9 +3,9 @@ title: "Section 3205 - Certification"
 usc_title: 46
 usc_section: "3205"
 chapter: 32
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "46 U.S.C. § 3205"
-generated_at: "2026-03-30T05:34:08.303Z"
+generated_at: "2026-03-30T05:37:44.894Z"
 status: "active"
 ---
 

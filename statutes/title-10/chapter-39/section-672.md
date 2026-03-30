@@ -3,9 +3,9 @@ title: "Section 672 - Reference to chapter 1209"
 usc_title: 10
 usc_section: "672"
 chapter: 39
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 672"
-generated_at: "2026-03-30T05:31:52.722Z"
+generated_at: "2026-03-30T05:34:54.614Z"
 status: "active"
 ---
 

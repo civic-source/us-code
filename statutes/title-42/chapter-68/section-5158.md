@@ -3,9 +3,9 @@ title: "Section 5158 - Availability of materials"
 usc_title: 42
 usc_section: "5158"
 chapter: 68
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5158"
-generated_at: "2026-03-30T05:34:03.738Z"
+generated_at: "2026-03-30T05:37:41.454Z"
 status: "active"
 ---
 

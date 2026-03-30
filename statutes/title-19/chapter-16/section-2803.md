@@ -3,9 +3,9 @@ title: "Section 2803 - Designation of major wine trading countries"
 usc_title: 19
 usc_section: "2803"
 chapter: 16
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "19 U.S.C. § 2803"
-generated_at: "2026-03-30T05:32:17.591Z"
+generated_at: "2026-03-30T05:35:28.837Z"
 status: "active"
 ---
 

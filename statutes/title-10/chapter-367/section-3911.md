@@ -3,9 +3,9 @@ title: "Section 3911 - Twenty years or more: regular or reserve commissioned off
 usc_title: 10
 usc_section: "3911"
 chapter: 367
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 3911"
-generated_at: "2026-03-30T05:31:52.816Z"
+generated_at: "2026-03-30T05:34:54.701Z"
 status: "active"
 ---
 

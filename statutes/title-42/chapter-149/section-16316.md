@@ -3,9 +3,9 @@ title: "Section 16316 - Advanced scientific computing research and development p
 usc_title: 42
 usc_section: "16316"
 chapter: 149
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 16316"
-generated_at: "2026-03-30T05:34:03.968Z"
+generated_at: "2026-03-30T05:37:41.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6026 - Repealed. Pub. L. 92–310, title II , § 204(a), June 6,
 usc_title: 10
 usc_section: "6026"
 chapter: 555
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 6026"
-generated_at: "2026-03-30T05:31:52.825Z"
+generated_at: "2026-03-30T05:34:54.709Z"
 status: "repealed"
 ---
 

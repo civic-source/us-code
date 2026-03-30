@@ -3,9 +3,9 @@ title: "Section 6205 - Special rules applicable to certain employment taxes"
 usc_title: 26
 usc_section: "6205"
 chapter: 63
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 6205"
-generated_at: "2026-03-30T05:33:15.463Z"
+generated_at: "2026-03-30T05:36:26.202Z"
 status: "active"
 ---
 

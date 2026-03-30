@@ -3,9 +3,9 @@ title: "Section 59f - Boston Inner Harbor and Fort Point Channel, Massachusetts"
 usc_title: 33
 usc_section: "59f"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "33 U.S.C. § 59f"
-generated_at: "2026-03-30T05:33:32.971Z"
+generated_at: "2026-03-30T05:36:42.499Z"
 status: "active"
 ---
 

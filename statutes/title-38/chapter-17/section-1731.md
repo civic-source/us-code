@@ -3,9 +3,9 @@ title: "Section 1731 - Assistance to the Republic of the Philippines"
 usc_title: 38
 usc_section: "1731"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 1731"
-generated_at: "2026-03-30T05:33:43.245Z"
+generated_at: "2026-03-30T05:36:57.067Z"
 status: "active"
 ---
 

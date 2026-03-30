@@ -3,9 +3,9 @@ title: "Section 1010 - Determination of certain disputes"
 usc_title: 17
 usc_section: "1010"
 chapter: 10
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "17 U.S.C. § 1010"
-generated_at: "2026-03-30T05:32:02.874Z"
+generated_at: "2026-03-30T05:35:29.470Z"
 status: "active"
 ---
 

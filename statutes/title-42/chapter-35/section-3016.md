@@ -3,9 +3,9 @@ title: "Section 3016 - Authority of Assistant Secretary"
 usc_title: 42
 usc_section: "3016"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3016"
-generated_at: "2026-03-30T05:34:03.686Z"
+generated_at: "2026-03-30T05:37:41.403Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(C)** conduct research and demonstrations; and
     - **(D)** collect, prepare, publish, and disseminate special educational or informational materials, including reports of the projects for which funds are provided under this chapter.
   - **(2)**
-    - **(A)** The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III of this chapter and shall have duties that include—
+    - **(A)** The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III and shall have duties that include—
       - **(i)** designing, implementing, and evaluating evidence-based programs to support improved nutrition and regular physical activity for older individuals;
       - **(ii)** developing guidelines for nutrition providers concerning safety, sanitary handling of food, equipment, preparation, and food storage;
       - **(iii)** conducting outreach and disseminating evidence-based information to nutrition service providers about the benefits of healthful diets and regular physical activity, including information about the most current Dietary Guidelines for Americans published under section 5341 of title 7 , the Food Guidance System of the Department of Agriculture, and advances in nutrition science;
@@ -29,7 +29,7 @@ status: "active"
       - **(viii)** disseminating guidance that describes strategies for improving the nutritional quality of meals provided under subchapter III, including strategies for increasing the consumption of whole grains, lowfat dairy products, fruits, and vegetables;
       - **(ix)** developing and disseminating guidelines for conducting nutrient analyses of meals provided under subparts I and II of part C of subchapter III, including guidelines for averaging key nutrients over an appropriate period of time; and
       - **(x)** providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (ix).
-    - **(B)** The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III of this chapter.
+    - **(B)** The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III.
     - **(C)** The officer or employee designated under subparagraph (A) shall—
       - **(i)** have expertise in nutrition, energy balance, and meal planning; and
       - **(ii)**

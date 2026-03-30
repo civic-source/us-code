@@ -3,9 +3,9 @@ title: "Section 72 - Repealed. Pub. L. 108–429, title II , § 2006(a), Dec. 3,
 usc_title: 15
 usc_section: "72"
 chapter: 2
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 72"
-generated_at: "2026-03-30T05:31:58.463Z"
+generated_at: "2026-03-30T05:35:25.039Z"
 status: "repealed"
 ---
 

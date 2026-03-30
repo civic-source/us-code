@@ -3,9 +3,9 @@ title: "Section 3712b - Weed and Seed strategies"
 usc_title: 42
 usc_section: "3712b"
 chapter: 46
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3712b"
-generated_at: "2026-03-30T05:34:03.703Z"
+generated_at: "2026-03-30T05:37:41.419Z"
 status: "active"
 ---
 

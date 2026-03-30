@@ -3,9 +3,9 @@ title: "Section 2378d - Limitation on assistance to security forces"
 usc_title: 22
 usc_section: "2378d"
 chapter: 32
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 2378d"
-generated_at: "2026-03-30T05:32:57.066Z"
+generated_at: "2026-03-30T05:35:53.485Z"
 status: "active"
 ---
 

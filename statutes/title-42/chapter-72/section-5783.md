@@ -3,9 +3,9 @@ title: "Section 5783 - Grants for delinquency prevention programs"
 usc_title: 42
 usc_section: "5783"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5783"
-generated_at: "2026-03-30T05:34:03.754Z"
+generated_at: "2026-03-30T05:37:41.470Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(7)** assistance in the development of job training skills; and
   - **(8)** other data-driven evidence based prevention programs.
 - **(b)** The requirements of this subsection are met with respect to a unit of general local government if—
-  - **(1)** the unit is in compliance with the requirements of part B of subchapter II of this chapter;
+  - **(1)** the unit is in compliance with the requirements of part B of subchapter II;
   - **(2)** the unit has submitted to the State advisory group a minimum 3-year comprehensive plan outlining the unit’s local front end plans for investment for delinquency prevention and early intervention activities;
   - **(3)** the unit has included in its application to the Administrator for formula grant funds a summary of the minimum 3-year comprehensive plan described in paragraph (2);
   - **(4)** pursuant to its minimum 3-year comprehensive plan, the unit has appointed a local policy board of not fewer than 15 and not more than 21 members, with balanced representation of public agencies and private nonprofit organizations serving juveniles, their families, and business and industry;
@@ -32,7 +32,7 @@ status: "active"
   - **(1)** plans for service and agency coordination and collaboration including the colocation of services;
   - **(2)** innovative ways to involve the private nonprofit and business sector in delinquency prevention activities;
   - **(3)** developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
-  - **(4)** coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; 2 2 See References in Text note below. and
+  - **(4)** coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II; 2 2 See References in Text note below. and
   - **(5)** developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
 - **(d)**
   - **(1)** The Administrator shall make grants under this section, on a competitive basis, to eligible Indian tribes or consortia of Indian tribes, as described in paragraph (2)—

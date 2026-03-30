@@ -3,9 +3,9 @@ title: "Section 5664 - Repealed. Pub. L. 96–513, title III , § 332, Dec. 12, 
 usc_title: 10
 usc_section: "5664"
 chapter: 541
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 5664"
-generated_at: "2026-03-30T05:31:52.824Z"
+generated_at: "2026-03-30T05:34:54.709Z"
 status: "repealed"
 ---
 

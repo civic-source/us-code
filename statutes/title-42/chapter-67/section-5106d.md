@@ -3,22 +3,22 @@ title: "Section 5106d - Miscellaneous requirements relating to assistance"
 usc_title: 42
 usc_section: "5106d"
 chapter: 67
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5106d"
-generated_at: "2026-03-30T05:34:03.735Z"
+generated_at: "2026-03-30T05:37:41.451Z"
 status: "active"
 ---
 
 # § 5106d. Miscellaneous requirements relating to assistance
 
 - **(a)**
-  - **(1)** Assistance provided under this subchapter and subchapter III of this chapter may not be used for construction of facilities.
-  - **(2)** The Secretary may authorize the use of funds received under this subchapter and subchapter III of this chapter—
+  - **(1)** Assistance provided under this subchapter and subchapter III may not be used for construction of facilities.
+  - **(2)** The Secretary may authorize the use of funds received under this subchapter and subchapter III—
     - **(A)** where adequate facilities are not otherwise available, for the lease or rental of facilities; or
     - **(B)** for the repair or minor remodeling or alteration of existing facilities.
-- **(b)** The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III of this chapter among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III of this chapter.
-- **(c)** No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
+- **(b)** The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III.
+- **(c)** No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III may be used for any purpose other than that for which such funds were authorized to be appropriated.
 - **(d)** It is the sense of Congress that the Secretary should encourage all States and public and private entities that receive assistance under this subchapter to—
   - **(1)** ensure that children and families with limited English proficiency who participate in programs under this subchapter are provided with materials and services through such programs in an appropriate language other than English; and
   - **(2)** ensure that individuals with disabilities who participate in programs under this subchapter are provided with materials and services through such programs that are appropriate to their disabilities.
-- **(e)** A State that receives funds under section 5106a(a) of this title shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title .
+- **(e)** A State that receives funds under section 5106a(a) of this title shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title .

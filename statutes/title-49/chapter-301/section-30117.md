@@ -3,9 +3,9 @@ title: "Section 30117 - Providing information to, and maintaining records on, pu
 usc_title: 49
 usc_section: "30117"
 chapter: 301
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "49 U.S.C. § 30117"
-generated_at: "2026-03-30T05:34:13.421Z"
+generated_at: "2026-03-30T05:37:48.476Z"
 status: "active"
 ---
 

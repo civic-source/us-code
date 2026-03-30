@@ -3,9 +3,9 @@ title: "Section 7291 - Date when Court decision becomes final"
 usc_title: 38
 usc_section: "7291"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 7291"
-generated_at: "2026-03-30T05:33:43.275Z"
+generated_at: "2026-03-30T05:36:57.099Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7407 - Air quality control regions"
 usc_title: 42
 usc_section: "7407"
 chapter: 85
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7407"
-generated_at: "2026-03-30T05:34:03.799Z"
+generated_at: "2026-03-30T05:37:41.515Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
       - **(ii)** the Administrator has fully approved the applicable implementation plan for the area under section 7410(k) of this title ;
       - **(iii)** the Administrator determines that the improvement in air quality is due to permanent and enforceable reductions in emissions resulting from implementation of the applicable implementation plan and applicable Federal air pollutant control regulations and other permanent and enforceable reductions;
       - **(iv)** the Administrator has fully approved a maintenance plan for the area as meeting the requirements of section 7505a of this title ; and
-      - **(v)** the State containing such area has met all requirements applicable to the area under section 7410 of this title and part D of this subchapter.
+      - **(v)** the State containing such area has met all requirements applicable to the area under section 7410 of this title and part D.
     - **(F)** The Administrator shall not promulgate any redesignation of any area (or portion thereof) from nonattainment to unclassifiable.
   - **(4)**
     - **(A)**

@@ -3,9 +3,9 @@ title: "Section 120 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(
 usc_title: 26
 usc_section: "120"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 120"
-generated_at: "2026-03-30T05:33:15.282Z"
+generated_at: "2026-03-30T05:36:26.028Z"
 status: "repealed"
 ---
 

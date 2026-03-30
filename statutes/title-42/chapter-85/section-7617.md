@@ -3,9 +3,9 @@ title: "Section 7617 - Economic impact assessment"
 usc_title: 42
 usc_section: "7617"
 chapter: 85
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7617"
-generated_at: "2026-03-30T05:34:03.821Z"
+generated_at: "2026-03-30T05:37:41.534Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** This section applies to action of the Administrator in promulgating or revising—
   - **(1)** any new source standard of performance under section 7411 of this title ,
   - **(2)** any regulation under section 7411(d) of this title ,
-  - **(3)** any regulation under part B 1 1 See References in Text note below. of subchapter I of this chapter (relating to ozone and stratosphere protection),
-  - **(4)** any regulation under part C of subchapter I of this chapter (relating to prevention of significant deterioration of air quality),
+  - **(3)** any regulation under part B 1 1 See References in Text note below. of subchapter I (relating to ozone and stratosphere protection),
+  - **(4)** any regulation under part C of subchapter I (relating to prevention of significant deterioration of air quality),
   - **(5)** any regulation establishing emission standards under section 7521 of this title and any other regulation promulgated under that section,
   - **(6)** any regulation controlling or prohibiting any fuel or fuel additive under section 7545(c) of this title , and
   - **(7)** any aircraft emission standard under section 7571 of this title .

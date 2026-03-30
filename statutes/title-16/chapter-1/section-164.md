@@ -3,9 +3,9 @@ title: "Section 164 - Eliminating private holdings of lands; timber or public la
 usc_title: 16
 usc_section: "164"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 164"
-generated_at: "2026-03-30T05:32:08.778Z"
+generated_at: "2026-03-30T05:35:31.638Z"
 status: "active"
 ---
 

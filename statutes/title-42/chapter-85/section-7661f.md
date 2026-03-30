@@ -3,9 +3,9 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T05:34:03.827Z"
+generated_at: "2026-03-30T05:37:41.540Z"
 status: "active"
 ---
 
@@ -53,5 +53,5 @@ status: "active"
     - **(C)** 2 members selected by the State legislature who are owners, or who represent owners, of small business stationary sources (1 member each by the majority and minority leadership of the upper house, or the equivalent State entity); and
     - **(D)** 1 member selected by the head of the department or agency of the State responsible for air pollution permit programs to represent that agency.
 - **(f)** The State (or the Administrator) may reduce any fee required under this chapter to take into account the financial resources of small business stationary sources.
-- **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A of this chapter provisions relating to continuous emissions monitoring.
+- **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
 - **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.

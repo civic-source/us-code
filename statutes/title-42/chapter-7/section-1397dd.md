@@ -3,9 +3,9 @@ title: "Section 1397dd - Allotments"
 usc_title: 42
 usc_section: "1397dd"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1397dd"
-generated_at: "2026-03-30T05:34:03.606Z"
+generated_at: "2026-03-30T05:37:41.323Z"
 status: "active"
 ---
 
@@ -238,7 +238,7 @@ status: "active"
     - **(B)** Subject to the succeeding provisions of this paragraph and paragraph (5), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (6) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting “the United States” for “the State”.
     - **(C)** In the case of a qualifying State described in paragraph (2) of section 1397ee(g) of this title , the Secretary shall permit the State to submit a revised projection described in subparagraph (A)(iii) in order to take into account changes in such projections attributable to the application of paragraph (4) of such section.
   - **(2)**
-    - **(A)** Subject to paragraphs (4) and (6), from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+    - **(A)** Subject to paragraphs (4) and (6), 5 5 See References in Text note below. from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
       - **(i)** For fiscal year 2010, the allotment of the State is equal to the sum of—
         - **(I)** the amount of the State allotment under paragraph (1) for fiscal year 2009; and
         - **(II)** the amount of any payments made to the State under subsection (k), ( l ), or (n) for fiscal year 2009,

@@ -3,9 +3,9 @@ title: "Section 35 - Health insurance costs of eligible individuals"
 usc_title: 26
 usc_section: "35"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 35"
-generated_at: "2026-03-30T05:33:15.261Z"
+generated_at: "2026-03-30T05:36:26.004Z"
 status: "active"
 ---
 

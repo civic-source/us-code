@@ -3,9 +3,9 @@ title: "Section 7286 - Commodity certificates"
 usc_title: 7
 usc_section: "7286"
 chapter: 100
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 7286"
-generated_at: "2026-03-30T05:31:49.073Z"
+generated_at: "2026-03-30T05:35:07.607Z"
 status: "active"
 ---
 

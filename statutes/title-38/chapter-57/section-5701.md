@@ -3,9 +3,9 @@ title: "Section 5701 - Confidential nature of claims"
 usc_title: 38
 usc_section: "5701"
 chapter: 57
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 5701"
-generated_at: "2026-03-30T05:33:43.271Z"
+generated_at: "2026-03-30T05:36:57.095Z"
 status: "active"
 ---
 
@@ -71,4 +71,4 @@ status: "active"
       - **(i)** a veteran; or
       - **(ii)** a dependent of veteran.
   - **(2)** In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act ( 42 U.S.C. 273(b) ).
-- **(l)** Under regulations the Secretary shall prescribe, the Secretary may disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ), to the extent necessary to prevent misuse and diversion of prescription medicines.
+- **(l)** Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ), to the extent necessary to prevent misuse and diversion of prescription medicines.

@@ -3,9 +3,9 @@ title: "Section 656 - Use of certain appropriated funds"
 usc_title: 14
 usc_section: "656"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "14 U.S.C. § 656"
-generated_at: "2026-03-30T05:31:54.904Z"
+generated_at: "2026-03-30T05:35:10.510Z"
 status: "active"
 ---
 

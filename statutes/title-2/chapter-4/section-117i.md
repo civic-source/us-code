@@ -3,9 +3,9 @@ title: "Section 117i - Transferred"
 usc_title: 2
 usc_section: "117i"
 chapter: 4
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "2 U.S.C. § 117i"
-generated_at: "2026-03-30T05:31:42.557Z"
+generated_at: "2026-03-30T05:34:47.320Z"
 status: "transferred"
 ---
 

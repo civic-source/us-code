@@ -3,9 +3,9 @@ title: "Section 657p - Outreach regarding health insurance options available to 
 usc_title: 15
 usc_section: "657p"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 657p"
-generated_at: "2026-03-30T05:31:58.532Z"
+generated_at: "2026-03-30T05:35:25.109Z"
 status: "active"
 ---
 

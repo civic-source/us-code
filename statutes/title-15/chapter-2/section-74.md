@@ -3,9 +3,9 @@ title: "Section 74 - Rules and regulations"
 usc_title: 15
 usc_section: "74"
 chapter: 2
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 74"
-generated_at: "2026-03-30T05:31:58.463Z"
+generated_at: "2026-03-30T05:35:25.039Z"
 status: "active"
 ---
 

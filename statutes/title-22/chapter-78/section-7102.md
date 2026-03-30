@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-30T05:32:57.128Z"
+generated_at: "2026-03-30T05:35:53.545Z"
 status: "active"
 ---
 

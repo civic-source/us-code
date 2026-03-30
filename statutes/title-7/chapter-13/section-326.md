@@ -3,9 +3,9 @@ title: "Section 326 - Ascertainment and certification of amounts due States; cer
 usc_title: 7
 usc_section: "326"
 chapter: 13
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 326"
-generated_at: "2026-03-30T05:31:48.956Z"
+generated_at: "2026-03-30T05:35:07.489Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4321 - Establishment of importer risk assessment program"
 usc_title: 19
 usc_section: "4321"
 chapter: 28
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "19 U.S.C. § 4321"
-generated_at: "2026-03-30T05:32:17.611Z"
+generated_at: "2026-03-30T05:35:28.858Z"
 status: "active"
 ---
 

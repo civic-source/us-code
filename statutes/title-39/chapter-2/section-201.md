@@ -3,9 +3,9 @@ title: "Section 201 - United States Postal Service"
 usc_title: 39
 usc_section: "201"
 chapter: 2
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "39 U.S.C. § 201"
-generated_at: "2026-03-30T05:33:44.758Z"
+generated_at: "2026-03-30T05:36:44.189Z"
 status: "active"
 ---
 

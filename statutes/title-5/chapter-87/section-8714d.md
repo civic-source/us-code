@@ -3,9 +3,9 @@ title: "Section 8714d - Option to receive “living benefits”"
 usc_title: 5
 usc_section: "8714d"
 chapter: 87
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "5 U.S.C. § 8714d"
-generated_at: "2026-03-30T05:31:44.136Z"
+generated_at: "2026-03-30T05:34:37.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T05:34:03.494Z"
+generated_at: "2026-03-30T05:37:41.210Z"
 status: "active"
 ---
 

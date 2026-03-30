@@ -3,9 +3,9 @@ title: "Section 7408 - Air quality criteria and control techniques"
 usc_title: 42
 usc_section: "7408"
 chapter: 85
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7408"
-generated_at: "2026-03-30T05:34:03.800Z"
+generated_at: "2026-03-30T05:37:41.515Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
       - **(ix)** programs to limit portions of road surfaces or certain sections of the metropolitan area to the use of non-motorized vehicles or pedestrian use, both as to time and place;
       - **(x)** programs for secure bicycle storage facilities and other facilities, including bicycle lanes, for the convenience and protection of bicyclists, in both public and private areas;
       - **(xi)** programs to control extended idling of vehicles;
-      - **(xii)** programs to reduce motor vehicle emissions, consistent with subchapter II of this chapter, which are caused by extreme cold start conditions;
+      - **(xii)** programs to reduce motor vehicle emissions, consistent with subchapter II, which are caused by extreme cold start conditions;
       - **(xiii)** employer-sponsored programs to permit flexible work schedules;
       - **(xiv)** programs and ordinances to facilitate non-automobile travel, provision and utilization of mass transit, and to generally reduce the need for single-occupant vehicle travel, as part of transportation planning and development efforts of a locality, including programs and ordinances applicable to new shopping centers, special events, and other centers of vehicle activity;
       - **(xv)** programs for new construction and major reconstructions of paths, tracks or areas solely for the use by pedestrian or other non-motorized means of transportation when economically feasible and in the public interest. For purposes of this clause, the Administrator shall also consult with the Secretary of the Interior; and

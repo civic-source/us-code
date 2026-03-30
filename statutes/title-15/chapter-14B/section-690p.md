@@ -3,9 +3,9 @@ title: "Section 690p - Authorizations of appropriations"
 usc_title: 15
 usc_section: "690p"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 690p"
-generated_at: "2026-03-30T05:31:58.536Z"
+generated_at: "2026-03-30T05:35:25.114Z"
 status: "active"
 ---
 

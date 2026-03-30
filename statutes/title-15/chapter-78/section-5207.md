@@ -3,9 +3,9 @@ title: "Section 5207 - Department of Defense"
 usc_title: 15
 usc_section: "5207"
 chapter: 78
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 5207"
-generated_at: "2026-03-30T05:31:58.619Z"
+generated_at: "2026-03-30T05:35:25.198Z"
 status: "active"
 ---
 

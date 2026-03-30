@@ -3,9 +3,9 @@ title: "Section 7802 - Purposes"
 usc_title: 22
 usc_section: "7802"
 chapter: 85
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 7802"
-generated_at: "2026-03-30T05:32:57.137Z"
+generated_at: "2026-03-30T05:35:53.554Z"
 status: "active"
 ---
 

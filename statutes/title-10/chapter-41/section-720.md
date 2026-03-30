@@ -3,9 +3,9 @@ title: "Section 720 - Chief of Staff to President: appointment"
 usc_title: 10
 usc_section: "720"
 chapter: 41
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 720"
-generated_at: "2026-03-30T05:31:52.723Z"
+generated_at: "2026-03-30T05:34:54.615Z"
 status: "active"
 ---
 

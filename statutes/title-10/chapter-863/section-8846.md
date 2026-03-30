@@ -3,9 +3,9 @@ title: "Section 8846 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "8846"
 chapter: 863
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 8846"
-generated_at: "2026-03-30T05:31:52.838Z"
+generated_at: "2026-03-30T05:34:54.722Z"
 status: "repealed"
 ---
 

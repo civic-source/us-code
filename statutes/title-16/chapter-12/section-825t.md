@@ -3,9 +3,9 @@ title: "Section 825t - Utilization of power revenues"
 usc_title: 16
 usc_section: "825t"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 825t"
-generated_at: "2026-03-30T05:32:08.898Z"
+generated_at: "2026-03-30T05:35:31.765Z"
 status: "active"
 ---
 

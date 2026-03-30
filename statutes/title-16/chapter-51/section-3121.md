@@ -3,9 +3,9 @@ title: "Section 3121 - Rural residents engaged in subsistence uses"
 usc_title: 16
 usc_section: "3121"
 chapter: 51
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 3121"
-generated_at: "2026-03-30T05:32:08.957Z"
+generated_at: "2026-03-30T05:35:31.825Z"
 status: "active"
 ---
 

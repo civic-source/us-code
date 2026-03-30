@@ -3,9 +3,9 @@ title: "Section 8579 - Command: commissioned officers in certain designated cate
 usc_title: 10
 usc_section: "8579"
 chapter: 845
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 8579"
-generated_at: "2026-03-30T05:31:52.837Z"
+generated_at: "2026-03-30T05:34:54.721Z"
 status: "active"
 ---
 

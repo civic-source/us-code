@@ -3,9 +3,9 @@ title: "Section 6916 - General authorization"
 usc_title: 42
 usc_section: "6916"
 chapter: 82
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6916"
-generated_at: "2026-03-30T05:34:03.780Z"
+generated_at: "2026-03-30T05:37:41.495Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
   - **(1)** for additional officers or employees of the Environmental Protection Agency authorized by the Administrator to conduct criminal investigations (to investigate, or supervise the investigation of, any activity for which a criminal penalty is provided) under this chapter; and
   - **(2)** for support costs for such additional officers or employees.
 - **(f)**
-  - **(1)** There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX of this chapter (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
-  - **(2)** There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX of this chapter.
+  - **(1)** There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
+  - **(2)** There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX.

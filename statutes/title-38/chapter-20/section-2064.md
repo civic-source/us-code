@@ -3,9 +3,9 @@ title: "Section 2064 - Technical assistance grants for nonprofit community-based
 usc_title: 38
 usc_section: "2064"
 chapter: 20
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 2064"
-generated_at: "2026-03-30T05:33:43.250Z"
+generated_at: "2026-03-30T05:36:57.073Z"
 status: "active"
 ---
 

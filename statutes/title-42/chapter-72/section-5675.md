@@ -3,9 +3,9 @@ title: "Section 5675 - Payments"
 usc_title: 42
 usc_section: "5675"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5675"
-generated_at: "2026-03-30T05:34:03.751Z"
+generated_at: "2026-03-30T05:37:41.468Z"
 status: "active"
 ---
 

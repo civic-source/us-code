@@ -3,9 +3,9 @@ title: "Section 30514 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "30514"
 chapter: 305
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "36 U.S.C. § 30514"
-generated_at: "2026-03-30T05:33:44.596Z"
+generated_at: "2026-03-30T05:37:07.003Z"
 status: "active"
 ---
 

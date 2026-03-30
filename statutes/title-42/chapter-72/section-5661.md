@@ -3,9 +3,9 @@ title: "Section 5661 - Research and evaluation; statistical analyses; informatio
 usc_title: 42
 usc_section: "5661"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5661"
-generated_at: "2026-03-30T05:34:03.751Z"
+generated_at: "2026-03-30T05:37:41.468Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(x)** determining—
         - **(I)** the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b) of this section; and
         - **(II)** the frequency, degree of harm, and morbidity of violent incidents, particularly firearm-related injuries and fatalities, by youth in schools and communities in the States, including information with respect to—
-      - **(xi)** other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+      - **(xi)** other purposes consistent with the purposes of this subchapter and subchapter I.
   - **(2)** The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
   - **(3)** Nothing in this subsection shall be construed to permit the development of a national database of personally identifiable information on individuals involved in studies, or in data-collection efforts, carried out under paragraph (1)(B)(x).
   - **(4)** Not later than 1 year after November 2, 2002 , the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State. Such study shall include—
@@ -40,7 +40,7 @@ status: "active"
     - **(G)** the extent to which case plans identify and address permanency and placement barriers and treatment plans.
 - **(b)** The Administrator may—
   - **(1)** plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
-  - **(2)** undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+  - **(2)** undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I.
 - **(c)** The Administrator may make grants and enter into contracts with public or private agencies, organizations, or individuals and shall use a competitive process, established by rule by the Administrator, to carry out subsections (a) and (b) of this section.
 - **(d)** A Federal agency that makes an agreement under subsections (a)(1)(B) and (b)(2) of this section with the Administrator may carry out such agreement directly or by making grants to or contracts with public and private agencies, institutions, and organizations.
 - **(e)** The Administrator may—

@@ -3,9 +3,9 @@ title: "Section 1832 - Assignment and reassignment of personnel"
 usc_title: 2
 usc_section: "1832"
 chapter: 28
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "2 U.S.C. § 1832"
-generated_at: "2026-03-30T05:31:42.585Z"
+generated_at: "2026-03-30T05:34:47.347Z"
 status: "active"
 ---
 

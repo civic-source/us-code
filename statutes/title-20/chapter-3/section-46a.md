@@ -3,9 +3,9 @@ title: "Section 46a - Employment of aliens by Secretary"
 usc_title: 20
 usc_section: "46a"
 chapter: 3
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "20 U.S.C. § 46a"
-generated_at: "2026-03-30T05:32:06.128Z"
+generated_at: "2026-03-30T05:35:34.186Z"
 status: "active"
 ---
 

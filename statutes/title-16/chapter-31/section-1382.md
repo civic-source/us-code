@@ -3,9 +3,9 @@ title: "Section 1382 - Regulations and administration"
 usc_title: 16
 usc_section: "1382"
 chapter: 31
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 1382"
-generated_at: "2026-03-30T05:32:08.926Z"
+generated_at: "2026-03-30T05:35:31.793Z"
 status: "active"
 ---
 

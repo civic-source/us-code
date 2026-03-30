@@ -3,9 +3,9 @@ title: "Section 1273 - Lake Pontchartrain Basin"
 usc_title: 33
 usc_section: "1273"
 chapter: 26
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "33 U.S.C. § 1273"
-generated_at: "2026-03-30T05:33:32.999Z"
+generated_at: "2026-03-30T05:36:42.529Z"
 status: "active"
 ---
 

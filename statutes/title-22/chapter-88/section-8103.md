@@ -3,9 +3,9 @@ title: "Section 8103 - Severability"
 usc_title: 22
 usc_section: "8103"
 chapter: 88
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 8103"
-generated_at: "2026-03-30T05:32:57.139Z"
+generated_at: "2026-03-30T05:35:53.556Z"
 status: "active"
 ---
 

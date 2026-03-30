@@ -3,9 +3,9 @@ title: "Section 7265 - Contempt authority; assistance to the Court"
 usc_title: 38
 usc_section: "7265"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 7265"
-generated_at: "2026-03-30T05:33:43.274Z"
+generated_at: "2026-03-30T05:36:57.099Z"
 status: "active"
 ---
 

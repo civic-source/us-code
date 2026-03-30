@@ -3,9 +3,9 @@ title: "Section 3009 - Mailing of unordered merchandise"
 usc_title: 39
 usc_section: "3009"
 chapter: 30
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "39 U.S.C. § 3009"
-generated_at: "2026-03-30T05:33:44.762Z"
+generated_at: "2026-03-30T05:36:44.194Z"
 status: "active"
 ---
 

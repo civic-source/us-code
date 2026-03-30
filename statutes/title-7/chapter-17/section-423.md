@@ -3,9 +3,9 @@ title: "Section 423 - Cotton; investigation of new uses; cooperation with State 
 usc_title: 7
 usc_section: "423"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 423"
-generated_at: "2026-03-30T05:31:48.958Z"
+generated_at: "2026-03-30T05:35:07.491Z"
 status: "active"
 ---
 

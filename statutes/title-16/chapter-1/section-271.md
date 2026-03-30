@@ -3,9 +3,9 @@ title: "Section 271 - Establishment; description of area"
 usc_title: 16
 usc_section: "271"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 271"
-generated_at: "2026-03-30T05:32:08.784Z"
+generated_at: "2026-03-30T05:35:31.645Z"
 status: "active"
 ---
 

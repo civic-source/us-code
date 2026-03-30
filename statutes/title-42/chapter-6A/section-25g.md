@@ -1,0 +1,24 @@
+---
+title: "Section 25g - Awareness campaigns"
+usc_title: 42
+usc_section: "25g"
+chapter: 6
+current_through: "PL 114-219"
+classification: "42 U.S.C. § 25g"
+generated_at: "2026-03-30T05:37:41.104Z"
+status: "active"
+---
+
+# § 290bb–25g. Awareness campaigns
+
+- **(a)** The Secretary of Health and Human Services, in coordination with the heads of other departments and agencies, shall, as appropriate, through existing programs and activities, advance the education and awareness of the public (including providers, patients, and consumers) and other appropriate entities regarding the risk of abuse of prescription opioids if such drugs are not taken as prescribed.
+- **(b)** The education and awareness campaigns under subsection (a) shall address—
+  - **(1)** the dangers of opioid abuse;
+  - **(2)** the prevention of opioid abuse, including through safe disposal of prescription medications and other safety precautions; and
+  - **(3)** the detection of early warning signs of addiction.
+- **(c)** The education and awareness campaigns under subsection (a) shall, as appropriate—
+  - **(1)** take into account any association between prescription opioid abuse and heroin use;
+  - **(2)** emphasize—
+    - **(A)** the similarities between heroin and prescription opioids; and
+    - **(B)** the effects of heroin and prescription opioids on the human body; and
+  - **(3)** bring greater public awareness to the dangerous effects of fentanyl when mixed with heroin or abused in a similar manner.

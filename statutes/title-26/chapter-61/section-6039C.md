@@ -3,9 +3,9 @@ title: "Section 6039C - Returns with respect to foreign persons holding direct i
 usc_title: 26
 usc_section: "6039C"
 chapter: 61
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 6039C"
-generated_at: "2026-03-30T05:33:15.453Z"
+generated_at: "2026-03-30T05:36:26.192Z"
 status: "active"
 ---
 

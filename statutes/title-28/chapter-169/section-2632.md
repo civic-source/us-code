@@ -3,9 +3,9 @@ title: "Section 2632 - Commencement of a civil action"
 usc_title: 28
 usc_section: "2632"
 chapter: 169
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "28 U.S.C. § 2632"
-generated_at: "2026-03-30T05:33:25.444Z"
+generated_at: "2026-03-30T05:36:02.005Z"
 status: "active"
 ---
 

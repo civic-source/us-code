@@ -3,9 +3,9 @@ title: "Section 40119 - Security and research and development activities"
 usc_title: 49
 usc_section: "40119"
 chapter: 401
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "49 U.S.C. § 40119"
-generated_at: "2026-03-30T05:34:13.436Z"
+generated_at: "2026-03-30T05:37:48.490Z"
 status: "active"
 ---
 

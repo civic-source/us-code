@@ -3,9 +3,9 @@ title: "Section 2756b - Work colleges"
 usc_title: 42
 usc_section: "2756b"
 chapter: 34
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 2756b"
-generated_at: "2026-03-30T05:34:03.682Z"
+generated_at: "2026-03-30T05:37:41.399Z"
 status: "active"
 ---
 

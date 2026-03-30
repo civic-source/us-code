@@ -3,9 +3,9 @@ title: "Section 1490 - “Rural” and “rural area” defined"
 usc_title: 42
 usc_section: "1490"
 chapter: 8
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1490"
-generated_at: "2026-03-30T05:34:03.626Z"
+generated_at: "2026-03-30T05:37:41.345Z"
 status: "active"
 ---
 

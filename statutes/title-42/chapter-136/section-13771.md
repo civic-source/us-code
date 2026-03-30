@@ -3,9 +3,9 @@ title: "Section 13771 - Grant authorization"
 usc_title: 42
 usc_section: "13771"
 chapter: 136
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 13771"
-generated_at: "2026-03-30T05:34:03.934Z"
+generated_at: "2026-03-30T05:37:41.644Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 281l - Omitted"
 usc_title: 22
 usc_section: "281l"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 281l"
-generated_at: "2026-03-30T05:32:57.019Z"
+generated_at: "2026-03-30T05:35:53.443Z"
 status: "omitted"
 ---
 

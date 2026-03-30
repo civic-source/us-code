@@ -3,9 +3,9 @@ title: "Section 92 - Secretary; general powers"
 usc_title: 14
 usc_section: "92"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "14 U.S.C. § 92"
-generated_at: "2026-03-30T05:31:54.899Z"
+generated_at: "2026-03-30T05:35:10.505Z"
 status: "active"
 ---
 

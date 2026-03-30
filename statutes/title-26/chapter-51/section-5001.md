@@ -3,9 +3,9 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-30T05:33:15.441Z"
+generated_at: "2026-03-30T05:36:26.181Z"
 status: "active"
 ---
 

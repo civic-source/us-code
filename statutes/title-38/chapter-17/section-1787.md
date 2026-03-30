@@ -3,9 +3,9 @@ title: "Section 1787 - Health care of family members of veterans stationed at Ca
 usc_title: 38
 usc_section: "1787"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 1787"
-generated_at: "2026-03-30T05:33:43.245Z"
+generated_at: "2026-03-30T05:36:57.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 673b - National Elk Refuge in Wyoming"
 usc_title: 16
 usc_section: "673b"
 chapter: 6
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 673b"
-generated_at: "2026-03-30T05:32:08.879Z"
+generated_at: "2026-03-30T05:35:31.746Z"
 status: "active"
 ---
 

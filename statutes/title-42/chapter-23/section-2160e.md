@@ -3,9 +3,9 @@ title: "Section 2160e - Congressional review and oversight of agreements with Ir
 usc_title: 42
 usc_section: "2160e"
 chapter: 23
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 2160e"
-generated_at: "2026-03-30T05:34:03.669Z"
+generated_at: "2026-03-30T05:37:41.387Z"
 status: "active"
 ---
 
@@ -98,7 +98,7 @@ status: "active"
     - **(B)** In the House of Representatives, for purposes of this paragraph, the terms “submit” and “submits” mean submit and submits, respectively, to the Speaker of the House of Representatives.
   - **(2)** For purposes of this subsection, the term “qualifying legislation” means only a bill of either House of Congress—
     - **(A)** the title of which is as follows: “A bill reinstating statutory sanctions imposed with respect to Iran.”; and
-    - **(B)** the matter after the enacting clause of which is: “Any statutory sanctions imposed with respect to Iran pursuant to ***BELL-G DELETED*** XXXXXX that were waived, suspended, reduced, or otherwise relieved pursuant to an agreement submitted pursuant to section 135(a) of the Atomic Energy Act of 1954 are hereby reinstated and any action by the United States Government to facilitate the release of funds or assets to Iran pursuant to such agreement, or provide any further waiver, suspension, reduction, or other relief pursuant to such agreement is hereby prohibited.”, with the blank space being filled in with the law or laws under which sanctions are to be reinstated.
+    - **(B)** the matter after the enacting clause of which is: “Any statutory sanctions imposed with respect to Iran pursuant to ______ that were waived, suspended, reduced, or otherwise relieved pursuant to an agreement submitted pursuant to section 135(a) of the Atomic Energy Act of 1954 are hereby reinstated and any action by the United States Government to facilitate the release of funds or assets to Iran pursuant to such agreement, or provide any further waiver, suspension, reduction, or other relief pursuant to such agreement is hereby prohibited.”, with the blank space being filled in with the law or laws under which sanctions are to be reinstated.
   - **(3)** During the 60-calendar day period provided for in paragraph (1), qualifying legislation may be introduced—
     - **(A)** in the House of Representatives, by the majority leader or the minority leader; and
     - **(B)** in the Senate, by the majority leader (or the majority leader’s designee) or the minority leader (or the minority leader’s designee).

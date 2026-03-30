@@ -3,9 +3,9 @@ title: "Section 1479 - Repealed. Pub. L. 98–213 , § 16(w)–(ee), Dec. 8, 198
 usc_title: 48
 usc_section: "1479"
 chapter: 10
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "48 U.S.C. § 1479"
-generated_at: "2026-03-30T05:34:07.702Z"
+generated_at: "2026-03-30T05:37:48.838Z"
 status: "repealed"
 ---
 

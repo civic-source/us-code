@@ -3,9 +3,9 @@ title: "Section 3796dd - Authority to make public safety and community policing 
 usc_title: 42
 usc_section: "3796dd"
 chapter: 46
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3796dd"
-generated_at: "2026-03-30T05:34:03.708Z"
+generated_at: "2026-03-30T05:37:41.425Z"
 status: "active"
 ---
 
@@ -28,8 +28,9 @@ status: "active"
   - **(13)** to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
   - **(14)** to assist a State or Indian tribe in enforcing a law throughout the State or tribal community that requires that a convicted sex offender register his or her address with a State, tribal, or local law enforcement agency and be subject to criminal prosecution for failure to comply;
   - **(15)** to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
-  - **(16)** to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing; and
-  - **(17)** to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (16).
+  - **(16)** to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing;
+  - **(17)** to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities; and
+  - **(18)** to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (17).
 - **(c)** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
   - **(1)** for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25 percent minimum under subsection (g);
   - **(2)** from an applicant in a State that has in effect a law that—

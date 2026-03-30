@@ -3,9 +3,9 @@ title: "Section 1205 - Radiotelephone capability; maintenance; restoration; cons
 usc_title: 33
 usc_section: "1205"
 chapter: 24
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "33 U.S.C. § 1205"
-generated_at: "2026-03-30T05:33:32.995Z"
+generated_at: "2026-03-30T05:36:42.526Z"
 status: "active"
 ---
 

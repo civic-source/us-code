@@ -3,9 +3,9 @@ title: "Section 10804 - Use of allotments"
 usc_title: 42
 usc_section: "10804"
 chapter: 114
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 10804"
-generated_at: "2026-03-30T05:34:03.883Z"
+generated_at: "2026-03-30T05:37:41.594Z"
 status: "active"
 ---
 

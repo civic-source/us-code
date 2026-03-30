@@ -3,9 +3,9 @@ title: "Section 3396 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "3396"
 chapter: 337
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 3396"
-generated_at: "2026-03-30T05:31:52.815Z"
+generated_at: "2026-03-30T05:34:54.700Z"
 status: "repealed"
 ---
 

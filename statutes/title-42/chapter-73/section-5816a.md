@@ -3,9 +3,9 @@ title: "Section 5816a - Repealed. Pub. L. 104–106, div. D, title XLIII , § 43
 usc_title: 42
 usc_section: "5816a"
 chapter: 73
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5816a"
-generated_at: "2026-03-30T05:34:03.755Z"
+generated_at: "2026-03-30T05:37:41.471Z"
 status: "repealed"
 ---
 

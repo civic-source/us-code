@@ -3,9 +3,9 @@ title: "Section 4 - Administration"
 usc_title: 12
 usc_section: "4"
 chapter: 13
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T05:32:00.836Z"
+generated_at: "2026-03-30T05:35:12.275Z"
 status: "active"
 ---
 

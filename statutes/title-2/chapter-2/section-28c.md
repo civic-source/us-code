@@ -3,9 +3,9 @@ title: "Section 28c - Distribution of Precedents by Director of the Government P
 usc_title: 2
 usc_section: "28c"
 chapter: 2
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "2 U.S.C. § 28c"
-generated_at: "2026-03-30T05:31:42.555Z"
+generated_at: "2026-03-30T05:34:47.315Z"
 status: "active"
 ---
 

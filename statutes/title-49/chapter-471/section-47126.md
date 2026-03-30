@@ -3,9 +3,9 @@ title: "Section 47126 - Criminal penalties for false statements"
 usc_title: 49
 usc_section: "47126"
 chapter: 471
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "49 U.S.C. § 47126"
-generated_at: "2026-03-30T05:34:13.456Z"
+generated_at: "2026-03-30T05:37:48.511Z"
 status: "active"
 ---
 

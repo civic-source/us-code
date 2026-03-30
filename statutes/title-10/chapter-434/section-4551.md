@@ -3,9 +3,9 @@ title: "Section 4551 - Definitions"
 usc_title: 10
 usc_section: "4551"
 chapter: 434
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 4551"
-generated_at: "2026-03-30T05:31:52.820Z"
+generated_at: "2026-03-30T05:34:54.704Z"
 status: "active"
 ---
 

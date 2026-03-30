@@ -3,9 +3,9 @@ title: "Section 4908 - Assessment procedures"
 usc_title: 7
 usc_section: "4908"
 chapter: 80
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "7 U.S.C. § 4908"
-generated_at: "2026-03-30T05:31:49.050Z"
+generated_at: "2026-03-30T05:35:07.584Z"
 status: "active"
 ---
 

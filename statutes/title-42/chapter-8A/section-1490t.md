@@ -3,9 +3,9 @@ title: "Section 1490t - Indian tribes"
 usc_title: 42
 usc_section: "1490t"
 chapter: 8
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1490t"
-generated_at: "2026-03-30T05:34:03.629Z"
+generated_at: "2026-03-30T05:37:41.347Z"
 status: "active"
 ---
 

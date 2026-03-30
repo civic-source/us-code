@@ -3,9 +3,9 @@ title: "Section 1338a - Transportation of captured animals; procedures and prohi
 usc_title: 16
 usc_section: "1338a"
 chapter: 30
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 1338a"
-generated_at: "2026-03-30T05:32:08.924Z"
+generated_at: "2026-03-30T05:35:31.790Z"
 status: "active"
 ---
 

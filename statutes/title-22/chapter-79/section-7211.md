@@ -3,9 +3,9 @@ title: "Section 7211 - Technical clarification relating to provision of material
 usc_title: 22
 usc_section: "7211"
 chapter: 79
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 7211"
-generated_at: "2026-03-30T05:32:57.131Z"
+generated_at: "2026-03-30T05:35:53.548Z"
 status: "active"
 ---
 

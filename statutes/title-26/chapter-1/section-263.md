@@ -3,9 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-30T05:33:15.306Z"
+generated_at: "2026-03-30T05:36:26.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 42
 usc_section: "3002"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-03-30T05:34:03.685Z"
+generated_at: "2026-03-30T05:37:41.402Z"
 status: "active"
 ---
 
@@ -161,7 +161,7 @@ For the purposes of this chapter—
   - **(42)** The term “planning and service area” means an area designated by a State agency under section 3025(a)(1)(E) of this title , including a single planning and service area described in section 3025(b)(5)(A) of this title .
   - **(43)** The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title . 3 3 So in original. A closing parenthesis probably should follow “this title”.
   - **(44)** The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
-  - **(45)** The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+  - **(45)** The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
   - **(46)** The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
     - **(A)** such services (including the amount, duration, scope, provider, and location of such services) are planned, budgeted, and purchased under the direction and control of such individual;
     - **(B)** such individual is provided with such information and assistance as are necessary and appropriate to enable such individual to make informed decisions about the individual’s care options;

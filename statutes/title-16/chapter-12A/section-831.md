@@ -3,9 +3,9 @@ title: "Section 831 - Creation; short title"
 usc_title: 16
 usc_section: "831"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 831"
-generated_at: "2026-03-30T05:32:08.898Z"
+generated_at: "2026-03-30T05:35:31.765Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114 - Funeral honors functions at funerals for veterans"
 usc_title: 32
 usc_section: "114"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "32 U.S.C. § 114"
-generated_at: "2026-03-30T05:33:31.700Z"
+generated_at: "2026-03-30T05:36:32.250Z"
 status: "active"
 ---
 

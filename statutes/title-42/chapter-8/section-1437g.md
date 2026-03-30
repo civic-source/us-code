@@ -3,9 +3,9 @@ title: "Section 1437g - Public housing Capital and Operating Funds"
 usc_title: 42
 usc_section: "1437g"
 chapter: 8
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1437g"
-generated_at: "2026-03-30T05:34:03.616Z"
+generated_at: "2026-03-30T05:37:41.334Z"
 status: "active"
 ---
 
@@ -76,7 +76,9 @@ status: "active"
   - **(3)** No portion of any public housing project operated using amounts provided under this subsection, or under this section as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, may be disposed of before the expiration of the 10-year period beginning upon the conclusion of the fiscal year for which such amounts were provided, except as otherwise provided in this chapter.
 - **(f)** The formulas under subsections (d)(2) and (e)(2) of this section shall be developed according to procedures for issuance of regulations under the negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
 - **(g)**
-  - **(1)** Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) of this section for assistance with amounts from the Operating Fund, but only if the public housing agency plan for the agency provides for such use.
+  - **(1)**
+    - **(A)** Of any amounts appropriated for fiscal year 2000 or any fiscal year thereafter that are allocated for fiscal year 2000 or any fiscal year thereafter from the Capital Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (e) of this section for assistance with amounts from the Operating Fund, but only if the public housing agency plan for the agency provides for such use.
+    - **(B)** Of any amounts appropriated for fiscal year 2016 or any fiscal year thereafter that are allocated for fiscal year 2016 or any fiscal year thereafter from the Operating Fund for any public housing agency, the agency may use not more than 20 percent for activities that are eligible under subsection (d) for assistance with amounts from the Capital Fund, but only if the public housing plan under section 1437c–1 of this title for the agency provides for such use.
   - **(2)** Of any amounts allocated for any fiscal year for any public housing agency that owns or operates less than 250 public housing dwelling units, is not designated pursuant to section 1437d(j)(2) of this title as a troubled public housing agency, and (in the determination of the Secretary) is operating and maintaining its public housing in a safe, clean, and healthy condition, the agency may use any such amounts for any eligible activities under subsections (d)(1) and (e)(1) of this section, regardless of the fund from which the amounts were allocated and provided. This subsection shall take effect on October 21, 1998 .
   - **(3)**
     - **(A)** Except as provided in subparagraphs (B) and (C), a public housing agency may not use any of the amounts allocated for the agency from the Capital Fund or Operating Fund for the purpose of constructing any public housing unit, if such construction would result in a net increase from the number of public housing units owned, assisted, or operated by the public housing agency on October 1, 1999 , including any public housing units demolished as part of any revitalization effort.
@@ -125,6 +127,7 @@ status: "active"
     - **(A)** A public housing agency shall spend any assistance received under this section not later than 4 years (plus the period of any extension approved by the Secretary under paragraph (2)) after the date on which funds become available to the agency for obligation.
     - **(B)** The Secretary shall enforce the requirement of subparagraph (A) through default remedies up to and including withdrawal of the funding.
   - **(6)** Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligated amounts for violation by the public housing agency of the requirements of this subsection.
+  - **(7)** The requirements of this subsection shall not apply to funds held in replacement reserves established pursuant to subsection (n).
 - **(k)** A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
 - **(l)**
   - **(1)** In appropriate circumstances, as determined by the Secretary, a public housing agency may commit capital assistance only, or operating assistance only, for public housing units, which assistance shall be subject to all of the requirements applicable to public housing except as otherwise provided in this subsection.
@@ -134,3 +137,14 @@ status: "active"
   - **(2)** Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding 2 2 So in original. $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
   - **(3)** Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
   - **(4)** This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
+- **(n)**
+  - **(1)** Public housing agencies shall be permitted to establish a replacement reserve to fund any of the capital activities listed in subsection (d)(1).
+  - **(2)** At any time, a public housing agency may deposit funds from such agency’s Capital Fund into a replacement reserve, subject to the following:
+    - **(A)** At the discretion of the Secretary, public housing agencies may transfer and hold in a replacement reserve funds originating from additional sources.
+    - **(B)** No minimum transfer of funds to a replacement reserve shall be required.
+    - **(C)** At any time, a public housing agency may not hold in a replacement reserve more than the amount the public housing authority has determined necessary to satisfy the anticipated capital needs of properties in its portfolio assisted under this section, as outlined in its Capital Fund 5-Year Action Plan, or a comparable plan, as determined by the Secretary.
+    - **(D)** The Secretary may establish, by regulation, a maximum replacement reserve level or levels that are below amounts determined under subparagraph (C), which may be based upon the size of the portfolio assisted under this section or other factors.
+  - **(3)** In first establishing a replacement reserve, the Secretary may allow public housing agencies to transfer more than 20 percent of its operating funds into its replacement reserve.
+  - **(4)** Funds in a replacement reserve may be used for purposes authorized by subsection (d)(1) and contained in its Capital Fund 5-Year Action Plan.
+  - **(5)** The Secretary shall establish appropriate accounting and reporting requirements to ensure that public housing agencies are spending funds on eligible projects and that funds in the replacement reserve are connected to capital needs.
+- **(o)** The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.

@@ -3,9 +3,9 @@ title: "Section 17333 - United States trade missions to encourage private sector
 usc_title: 42
 usc_section: "17333"
 chapter: 152
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 17333"
-generated_at: "2026-03-30T05:34:03.983Z"
+generated_at: "2026-03-30T05:37:41.696Z"
 status: "active"
 ---
 

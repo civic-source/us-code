@@ -3,9 +3,9 @@ title: "Section 1761 - Foreign student monitoring program"
 usc_title: 8
 usc_section: "1761"
 chapter: 15
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "8 U.S.C. § 1761"
-generated_at: "2026-03-30T05:31:46.793Z"
+generated_at: "2026-03-30T05:35:00.883Z"
 status: "active"
 ---
 

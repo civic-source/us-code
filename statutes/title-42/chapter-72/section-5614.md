@@ -3,9 +3,9 @@ title: "Section 5614 - Concentration of Federal efforts"
 usc_title: 42
 usc_section: "5614"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5614"
-generated_at: "2026-03-30T05:34:03.750Z"
+generated_at: "2026-03-30T05:37:41.466Z"
 status: "active"
 ---
 
@@ -26,8 +26,8 @@ status: "active"
   - **(3)** conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
   - **(4)** implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
   - **(5)**
-    - **(A)** develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter; and
-    - **(B)** taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter;
+    - **(A)** develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
+    - **(B)** taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
   - **(6)** provide for the auditing of monitoring systems required under section 5633(a)(15) 1 1 See References in Text note below. of this title to review the adequacy of such systems; and
   - **(7)** not later than 1 year after November 2, 2002 , issue model standards for providing mental health care to incarcerated juveniles.
 - **(c)** The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency.

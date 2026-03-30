@@ -3,9 +3,9 @@ title: "Section 6698 - Failure to file partnership return"
 usc_title: 26
 usc_section: "6698"
 chapter: 68
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 6698"
-generated_at: "2026-03-30T05:33:15.479Z"
+generated_at: "2026-03-30T05:36:26.217Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2306 - Special rule"
 usc_title: 20
 usc_section: "2306"
 chapter: 44
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "20 U.S.C. § 2306"
-generated_at: "2026-03-30T05:32:06.210Z"
+generated_at: "2026-03-30T05:35:34.266Z"
 status: "active"
 ---
 

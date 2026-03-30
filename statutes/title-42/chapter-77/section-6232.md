@@ -3,15 +3,15 @@ title: "Section 6232 - Definitions"
 usc_title: 42
 usc_section: "6232"
 chapter: 77
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6232"
-generated_at: "2026-03-30T05:34:03.758Z"
+generated_at: "2026-03-30T05:37:41.475Z"
 status: "active"
 ---
 
 # § 6232. Definitions
 
-As used in this part and part C of this subchapter:
+As used in this part and part C:
 
   - **(1)** Repealed. Pub. L. 106–469, title I , § 103(5)(A), Nov. 9, 2000 , 114 Stat. 2029 .
   - **(2)** The term “importer” means any person who owns, at the first place of storage, any petroleum product imported into the United States.

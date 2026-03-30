@@ -3,9 +3,9 @@ title: "Section 14135 - The Debbie Smith DNA Backlog Grant Program"
 usc_title: 42
 usc_section: "14135"
 chapter: 136
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 14135"
-generated_at: "2026-03-30T05:34:03.943Z"
+generated_at: "2026-03-30T05:37:41.654Z"
 status: "active"
 ---
 

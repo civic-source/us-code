@@ -3,9 +3,9 @@ title: "Section 157b - Additional lands within park boundaries"
 usc_title: 16
 usc_section: "157b"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 157b"
-generated_at: "2026-03-30T05:32:08.777Z"
+generated_at: "2026-03-30T05:35:31.637Z"
 status: "active"
 ---
 

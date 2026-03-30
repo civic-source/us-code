@@ -3,9 +3,9 @@ title: "Section 4126 - Administrative expenses"
 usc_title: 42
 usc_section: "4126"
 chapter: 50
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 4126"
-generated_at: "2026-03-30T05:34:03.720Z"
+generated_at: "2026-03-30T05:37:41.438Z"
 status: "active"
 ---
 

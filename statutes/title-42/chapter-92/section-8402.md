@@ -3,9 +3,9 @@ title: "Section 8402 - Loans to assist powerplant acquisitions of air pollution 
 usc_title: 42
 usc_section: "8402"
 chapter: 92
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 8402"
-generated_at: "2026-03-30T05:34:03.839Z"
+generated_at: "2026-03-30T05:37:41.552Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(D)** competition among private entities for the provision of air pollution control devices for electric powerplants using coal as their primary energy source to be assisted under this section will be in no way limited or precluded.
 - **(c)** In making loans or commitments to loan pursuant to this section, the Secretary shall—
   - **(1)** allocate a minimum of 25 percent of available financial assistance to existing small municipal and rural powerplants; and
-  - **(2)** give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III of this chapter (or under section 792 of title 15 ).
+  - **(2)** give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III (or under section 792 of title 15 ).
 - **(d)** For purposes of this section—
   - **(1)** The term “certified pollution control device” means a new identifiable device which—
     - **(A)** is used, in connection with a powerplant, to abate or control atmospheric pollution by removing, altering, disposing, storing, or preventing the emission of pollutants;

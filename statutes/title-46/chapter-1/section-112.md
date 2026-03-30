@@ -3,9 +3,9 @@ title: "Section 112 - State"
 usc_title: 46
 usc_section: "112"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "46 U.S.C. § 112"
-generated_at: "2026-03-30T05:34:08.301Z"
+generated_at: "2026-03-30T05:37:44.892Z"
 status: "active"
 ---
 

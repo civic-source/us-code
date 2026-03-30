@@ -3,9 +3,9 @@ title: "Section 3012 - Functions of Assistant Secretary"
 usc_title: 42
 usc_section: "3012"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3012"
-generated_at: "2026-03-30T05:34:03.686Z"
+generated_at: "2026-03-30T05:37:41.402Z"
 status: "active"
 ---
 
@@ -138,7 +138,7 @@ status: "active"
 - **(e)**
   - **(1)**
     - **(A)** The Assistant Secretary shall make grants or enter into contracts with eligible entities to establish the National Aging Information Center (in this subsection referred to as the “Center”) to—
-      - **(i)** provide information about grants and projects under subchapter IV of this chapter;
+      - **(i)** provide information about grants and projects under subchapter IV;
       - **(ii)** annually compile, analyze, publish, and disseminate—
         - **(I)** statistical data collected under subsection (a)(19) of this section;
         - **(II)** census data on aging demographics; and

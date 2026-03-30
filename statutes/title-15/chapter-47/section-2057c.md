@@ -3,9 +3,9 @@ title: "Section 2057c - Prohibition on sale of certain products containing speci
 usc_title: 15
 usc_section: "2057c"
 chapter: 47
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 2057c"
-generated_at: "2026-03-30T05:31:58.582Z"
+generated_at: "2026-03-30T05:35:25.161Z"
 status: "active"
 ---
 

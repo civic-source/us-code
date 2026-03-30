@@ -3,9 +3,9 @@ title: "Section 132 - Departments of Library"
 usc_title: 2
 usc_section: "132"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "2 U.S.C. § 132"
-generated_at: "2026-03-30T05:31:42.557Z"
+generated_at: "2026-03-30T05:34:47.321Z"
 status: "active"
 ---
 

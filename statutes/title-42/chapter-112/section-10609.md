@@ -3,9 +3,9 @@ title: "Section 10609 - Justice for United States victims of state sponsored ter
 usc_title: 42
 usc_section: "10609"
 chapter: 112
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 10609"
-generated_at: "2026-03-30T05:34:03.881Z"
+generated_at: "2026-03-30T05:37:41.592Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
   - **(1)** There is established in the Treasury a fund, to be designated as the United States Victims of State Sponsored Terrorism Fund.
   - **(2)** Beginning on December 18, 2015 , the following shall be deposited or transferred into the Fund for distribution under this section:
     - **(A)**
-      - **(i)** All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015 , as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.], or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+      - **(i)** All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015 , as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.), 1 1 See References in Text note below. or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
       - **(ii)** One-half of all funds, and one-half of the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015 , as a civil penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.], or any related conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
     - **(B)**
       - **(i)**

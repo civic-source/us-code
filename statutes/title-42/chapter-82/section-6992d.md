@@ -3,9 +3,9 @@ title: "Section 6992d - Enforcement"
 usc_title: 42
 usc_section: "6992d"
 chapter: 82
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6992d"
-generated_at: "2026-03-30T05:34:03.789Z"
+generated_at: "2026-03-30T05:37:41.505Z"
 status: "active"
 ---
 

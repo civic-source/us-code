@@ -3,9 +3,9 @@ title: "Section 18 - Authorization of appropriations"
 usc_title: 33
 usc_section: "18"
 chapter: 17
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "33 U.S.C. § 18"
-generated_at: "2026-03-30T05:33:32.989Z"
+generated_at: "2026-03-30T05:36:42.519Z"
 status: "active"
 ---
 

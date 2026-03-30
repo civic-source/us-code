@@ -3,9 +3,9 @@ title: "Section 3314 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "3314"
 chapter: 335
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 3314"
-generated_at: "2026-03-30T05:31:52.815Z"
+generated_at: "2026-03-30T05:34:54.700Z"
 status: "repealed"
 ---
 

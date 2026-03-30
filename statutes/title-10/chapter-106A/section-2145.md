@@ -3,9 +3,9 @@ title: "Section 2145 - Adjustments of amount of educational assistance and of su
 usc_title: 10
 usc_section: "2145"
 chapter: 106
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "10 U.S.C. § 2145"
-generated_at: "2026-03-30T05:31:52.770Z"
+generated_at: "2026-03-30T05:34:54.657Z"
 status: "active"
 ---
 

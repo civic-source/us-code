@@ -3,9 +3,9 @@ title: "Section 1775b - Action by Secretary"
 usc_title: 25
 usc_section: "1775b"
 chapter: 19
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 1775b"
-generated_at: "2026-03-30T05:32:42.609Z"
+generated_at: "2026-03-30T05:35:40.117Z"
 status: "active"
 ---
 

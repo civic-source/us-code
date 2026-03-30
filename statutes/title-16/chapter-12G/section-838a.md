@@ -3,9 +3,9 @@ title: "Section 838a - Definitions"
 usc_title: 16
 usc_section: "838a"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 838a"
-generated_at: "2026-03-30T05:32:08.903Z"
+generated_at: "2026-03-30T05:35:31.771Z"
 status: "active"
 ---
 

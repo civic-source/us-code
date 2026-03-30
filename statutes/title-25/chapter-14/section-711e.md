@@ -3,9 +3,9 @@ title: "Section 711e - Reservation"
 usc_title: 25
 usc_section: "711e"
 chapter: 14
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "25 U.S.C. § 711e"
-generated_at: "2026-03-30T05:32:42.579Z"
+generated_at: "2026-03-30T05:35:40.086Z"
 status: "active"
 ---
 

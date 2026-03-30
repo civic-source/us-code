@@ -3,9 +3,9 @@ title: "Section 496 - Time limit on award; report concerning deed"
 usc_title: 14
 usc_section: "496"
 chapter: 13
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "14 U.S.C. § 496"
-generated_at: "2026-03-30T05:31:54.901Z"
+generated_at: "2026-03-30T05:35:10.508Z"
 status: "active"
 ---
 

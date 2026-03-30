@@ -3,9 +3,9 @@ title: "Section 17 - Same; limit of debate in each House"
 usc_title: 3
 usc_section: "17"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "3 U.S.C. § 17"
-generated_at: "2026-03-30T05:31:41.548Z"
+generated_at: "2026-03-30T05:34:38.314Z"
 status: "active"
 ---
 

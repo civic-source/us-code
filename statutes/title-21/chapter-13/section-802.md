@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T05:32:38.958Z"
+generated_at: "2026-03-30T05:35:47.371Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ As used in this subchapter:
     - **(D)** Cocaine, its salts, optical and geometric isomers, and salts of isomers.
     - **(E)** Ecgonine, its derivatives, their salts, isomers, and salts of isomers.
     - **(F)** Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
-  - **(18)** The term “opiate” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+  - **(18)** The term “opiate” or “opioid” means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
   - **(19)** The term “opium poppy” means the plant of the species Papaver somniferum L., except the seed thereof.
   - **(20)** The term “poppy straw” means all parts, except the seeds, of the opium poppy, after mowing.
   - **(21)** The term “practitioner” means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.

@@ -3,9 +3,9 @@ title: "Section 7901 - Findings; purposes"
 usc_title: 15
 usc_section: "7901"
 chapter: 105
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 7901"
-generated_at: "2026-03-30T05:31:58.638Z"
+generated_at: "2026-03-30T05:35:25.217Z"
 status: "active"
 ---
 

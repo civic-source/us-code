@@ -3,9 +3,9 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-30T05:34:03.920Z"
+generated_at: "2026-03-30T05:37:41.630Z"
 status: "active"
 ---
 
@@ -14,13 +14,25 @@ status: "active"
 - **(a)** The Secretary shall, to the extent of amounts approved in appropriations Acts under section 12912 of this title , make grants to States, units of general local government, and nonprofit organizations.
 - **(b)** A grantee shall carry out eligible activities under section 12904 of this title through project sponsors. Any grantee that is a State that enters into a contract with a nonprofit organization to carry out eligible activities in a locality shall obtain the approval of the unit of general local government for the locality before entering into the contract.
 - **(c)**
-  - **(1)** The Secretary shall allocate 90 percent of the amounts approved in appropriation Acts under section 12912 of this title among States and cities whose most recent comprehensive housing affordability strategy (or abbreviated strategy) has been approved by the Secretary under section 12705 of this title . Such amounts shall be allocated as follows:
-    - **(A)** 75 percent among—
-      - **(i)** cities that are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome; and
-      - **(ii)** States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in clause (i); and
-    - **(B)** 25 percent among cities that (i) are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, and (ii) have a higher than average per capita incidence of acquired immunodeficiency syndrome.
-  - **(2)** Subject only to the availability of amounts pursuant to appropriations Acts under section 12912 of this title , for each fiscal year each eligible grantee under paragraph (1) shall receive funding according to its proportionate share of the total, except that each entity shall receive a minimum allocation of $200,000 from subparagraphs (A) and (B) of paragraph (1) combined, and any increase this entails from the formula amount will be deducted from all other allocations exceeding $200,000 on a pro rata basis. If allocation under subparagraph (A) of paragraph (1) would allocate less than $200,000 for any State, the allocation for such State shall be $200,000 and the amount of the increase under this sentence shall be deducted on a pro rata basis from the allocations of the other States, except that a reduction under this subparagraph may not reduce the amount allocated to any eligible entity to less than $200,000.
+  - **(1)**
+    - **(A)** The Secretary shall allocate 90 percent of the amount approved in appropriations Acts under section 12912 of this title among States and metropolitan statistical areas as follows:
+        - **(I)** 1 1 So in original. Probably should be “(i)”. 75 percent of such amounts among—
+- **(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
+- **(ii)** differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation.
+- **(ii)** approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of title; 2 2 See References in Text note below. and
+- **(iii)** the requirements of subparagraph (C).
   - **(3)**
+    - **(A)** The Secretary may award funds reserved for a grantee eligible under paragraph (1) to an alternative grantee if—
+      - **(ii)** the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
+        - **(I)** 1 the grantee submits to the Secretary a written agreement between the grantee and the alternative grantee that describes how the alternative grantee will take actions consistent with the applicable comprehensive housing affordability strategy approved under section 12705 of this title ; 2
+- **(iii)** the written agreement does not exceed a term of 10 years.
+  - **(4)** If a State or metropolitan statistical area declines an allocation under paragraph (1)(A), or the Secretary determines, in accordance with criteria specified in regulation, that a State or metropolitan statistical area that is eligible for an allocation under paragraph (1)(A) is unable to properly administer such allocation, the Secretary shall reallocate any funds reserved for such State or metropolitan statistical area as follows:
+    - **(A)** For funds reserved for a State—
+      - **(ii)** if there is no eligible metropolitan statistical areas within a State, to metropolitan cities and urban counties within the State that are eligible for grant under section 5306 of this title , on a pro rata basis.
+        - **(I)** 1 to eligible metropolitan statistical areas within the State on a pro rata basis; or
+    - **(B)** For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
+    - **(C)** If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
+  - **(5)**
     - **(A)** The Secretary shall allocate 10 percent of the amounts appropriated under section 12912 of this title among—
       - **(i)** States and units of general local government that do not qualify for allocation of amounts under paragraph (1); and
       - **(ii)** States, units of general local government, and nonprofit organizations, to fund special projects of national significance.

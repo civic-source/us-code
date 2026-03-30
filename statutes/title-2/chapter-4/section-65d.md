@@ -3,9 +3,9 @@ title: "Section 65d - Transferred"
 usc_title: 2
 usc_section: "65d"
 chapter: 4
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "2 U.S.C. § 65d"
-generated_at: "2026-03-30T05:31:42.556Z"
+generated_at: "2026-03-30T05:34:47.318Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18 - Repealed or Omitted"
 usc_title: 8
 usc_section: "18"
 chapter: 1
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "8 U.S.C. § 18"
-generated_at: "2026-03-30T05:31:46.760Z"
+generated_at: "2026-03-30T05:35:00.848Z"
 status: "repealed"
 ---
 

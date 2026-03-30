@@ -3,9 +3,9 @@ title: "Section 322 - Odd jobs for part-time employees"
 usc_title: 15
 usc_section: "322"
 chapter: 9
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "15 U.S.C. § 322"
-generated_at: "2026-03-30T05:31:58.511Z"
+generated_at: "2026-03-30T05:35:25.089Z"
 status: "active"
 ---
 

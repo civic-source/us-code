@@ -3,9 +3,9 @@ title: "Section 1392 - Obligation to contribute"
 usc_title: 29
 usc_section: "1392"
 chapter: 18
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "29 U.S.C. § 1392"
-generated_at: "2026-03-30T05:33:00.829Z"
+generated_at: "2026-03-30T05:35:57.171Z"
 status: "active"
 ---
 

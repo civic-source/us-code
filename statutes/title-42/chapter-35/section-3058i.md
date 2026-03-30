@@ -3,9 +3,9 @@ title: "Section 3058i - Prevention of elder abuse, neglect, and exploitation"
 usc_title: 42
 usc_section: "3058i"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3058i"
-generated_at: "2026-03-30T05:34:03.694Z"
+generated_at: "2026-03-30T05:37:41.411Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** promoting the development of information and data systems, including elder abuse reporting systems, to quantify the extent of elder abuse, neglect, and exploitation in the State;
   - **(5)** promoting the submission of data on elder abuse, neglect, and exploitation for the appropriate database of the Administration or another database specified by the Assistant Secretary;
   - **(6)** conducting analyses of State information concerning elder abuse, neglect, and exploitation and identifying unmet service, enforcement, or intervention needs;
-  - **(7)** conducting training for individuals, including caregivers described in part E of subchapter III of this chapter, professionals, and paraprofessionals, in relevant fields on the identification, prevention, and treatment of elder abuse, neglect, and exploitation, with particular focus on prevention and enhancement of self-determination and autonomy;
+  - **(7)** conducting training for individuals, including caregivers described in part E of subchapter III, professionals, and paraprofessionals, in relevant fields on the identification, prevention, and treatment of elder abuse, neglect, and exploitation, with particular focus on prevention and enhancement of self-determination and autonomy;
   - **(8)** providing technical assistance to programs that provide or have the potential to provide services for victims of elder abuse, neglect, and exploitation and for family members of the victims;
   - **(9)** conducting special and on-going training, for individuals involved in serving victims of elder abuse, neglect, and exploitation, on the topics of self-determination, individual rights, State and Federal requirements concerning confidentiality, and other topics determined by a State agency to be appropriate;
   - **(10)** promoting the development of an elder abuse, neglect, and exploitation system—

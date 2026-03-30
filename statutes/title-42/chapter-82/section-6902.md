@@ -3,9 +3,9 @@ title: "Section 6902 - Objectives and national policy"
 usc_title: 42
 usc_section: "6902"
 chapter: 82
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 6902"
-generated_at: "2026-03-30T05:34:03.779Z"
+generated_at: "2026-03-30T05:37:41.495Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** assuring that hazardous waste management practices are conducted in a manner which protects human health and the environment;
   - **(5)** requiring that hazardous waste be properly managed in the first instance thereby reducing the need for corrective action at a future date;
   - **(6)** minimizing the generation of hazardous waste and the land disposal of hazardous waste by encouraging process substitution, materials recovery, properly conducted recycling and reuse, and treatment;
-  - **(7)** establishing a viable Federal-State partnership to carry out the purposes of this chapter and insuring that the Administrator will, in carrying out the provisions of subchapter III of this chapter, give a high priority to assisting and cooperating with States in obtaining full authorization of State programs under subchapter III of this chapter;
+  - **(7)** establishing a viable Federal-State partnership to carry out the purposes of this chapter and insuring that the Administrator will, in carrying out the provisions of subchapter III of this chapter, give a high priority to assisting and cooperating with States in obtaining full authorization of State programs under subchapter III;
   - **(8)** providing for the promulgation of guidelines for solid waste collection, transport, separation, recovery, and disposal practices and systems;
   - **(9)** promoting a national research and development program for improved solid waste management and resource conservation techniques, more effective organizational arrangements, and new and improved methods of collection, separation, and recovery, and recycling of solid wastes and environmentally safe disposal of nonrecoverable residues;
   - **(10)** promoting the demonstration, construction, and application of solid waste management, resource recovery, and resource conservation systems which preserve and enhance the quality of air, water, and land resources; and

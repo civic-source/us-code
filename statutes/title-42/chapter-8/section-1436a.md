@@ -3,9 +3,9 @@ title: "Section 1436a - Restriction on use of assisted housing by non-resident a
 usc_title: 42
 usc_section: "1436a"
 chapter: 8
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 1436a"
-generated_at: "2026-03-30T05:34:03.610Z"
+generated_at: "2026-03-30T05:37:41.328Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8 ;
   - **(5)** an alien who is lawfully present in the United States as a result of the Attorney General’s withholding deportation pursuant to section 1231(b)(3) of title 8 ;
   - **(6)** an alien lawfully admitted for temporary or permanent residence under section 1255a of title 8 ; or
-  - **(7)** an alien who is lawfully resident in the United States and its territories and possessions under section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Marshall Islands, the Federated States of Micronesia ( 48 U.S.C. 1901 note) and Palau ( 48 U.S.C. 1931 note) while the applicable section is in effect: Provided , That, within Guam any such alien shall not be entitled to a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance.
+  - **(7)** an alien who is lawfully resident in the United States and its territories and possessions under section 141 of the Compacts of Free Association between the Government of the United States and the Governments of the Marshall Islands, the Federated States of Micronesia ( 48 U.S.C. 1901 note) and Palau ( 48 U.S.C. 1931 note) while the applicable section is in effect: Provided , That, within Guam any any 1 1 So in original. citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance.
 - **(b)**
   - **(1)** For purposes of this section the term “financial assistance” means financial assistance made available pursuant to the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], section 1715z or 1715z–1 of title 12, the direct loan program under section 1472 of this title or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12851 et seq.], or section 101 of the Housing and Urban Development Act of 1965 [ 12 U.S.C. 1701s ].
   - **(2)** If the eligibility for financial assistance of at least one member of a family has been affirmatively established under the program of financial assistance and under this section, and the ineligibility of one or more family members has not been affirmatively established under this section, any financial assistance made available to that family by the applicable Secretary shall be prorated, based on the number of individuals in the family for whom eligibility has been affirmatively established under the program of financial assistance and under this section, as compared with the total number of individuals who are members of the family.
@@ -75,7 +75,7 @@ status: "active"
 - **(i)**
   - **(1)** No individual or family applying for financial assistance may receive such financial assistance prior to the affirmative establishment and verification of eligibility of at least the individual or one family member under subsection (d) of this section by the applicable Secretary or other appropriate entity.
   - **(2)** A public housing agency (as that term is defined in section 3 of the United States Housing Act of 1937 [ 42 U.S.C. 1437a ])—
-    - **(A)** may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance 1 1 So in original. Probably should be followed by “; and”.
+    - **(A)** may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance 2 2 So in original. Probably should be followed by “; and”.
     - **(B)** in carrying out subsection (d) of this section—
       - **(i)** may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housing agency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
       - **(ii)** may affirmatively establish or verify the eligibility of an individual or family under this section in accordance with the procedures set forth in section 1324a(b)(1) of title 8 ; and

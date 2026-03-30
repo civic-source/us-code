@@ -3,9 +3,9 @@ title: "Section 4370m - Definitions"
 usc_title: 42
 usc_section: "4370m"
 chapter: 55
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 4370m"
-generated_at: "2026-03-30T05:34:03.723Z"
+generated_at: "2026-03-30T05:37:41.439Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ In this subchapter:
     - **(B)** The term “environmental document” includes—
       - **(i)** any document that is a supplement to a document described in subparagraph (A); and
       - **(ii)** a document prepared pursuant to a court order.
-  - **(10)** The term “environmental impact statement” means the detailed written statement required under section 102(2)(C) of NEPA.
+  - **(10)** The term “environmental impact statement” means the detailed written statement required under section 102(2)(C) of NEPA [ 42 U.S.C. 4332(2)(C) ].
   - **(11)** The term “environmental review” means the agency procedures and processes for applying a categorical exclusion or for preparing an environmental assessment, an environmental impact statement, or other document required under NEPA.
   - **(12)** The term “Executive Director” means the Executive Director appointed by the President under section 4370m–1(b)(1)(A) of this title .
   - **(13)** The term “facilitating agency” means the agency that receives the initial notification from the project sponsor required under section 4370m–2(a) of this title .

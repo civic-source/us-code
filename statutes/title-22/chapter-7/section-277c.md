@@ -3,9 +3,9 @@ title: "Section 277c - Agreements with political subdivisions; acquisition of la
 usc_title: 22
 usc_section: "277c"
 chapter: 7
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 277c"
-generated_at: "2026-03-30T05:32:57.017Z"
+generated_at: "2026-03-30T05:35:53.441Z"
 status: "active"
 ---
 

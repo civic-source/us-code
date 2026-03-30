@@ -3,9 +3,9 @@ title: "Section 12644 - Drug-free workplace requirements"
 usc_title: 42
 usc_section: "12644"
 chapter: 129
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 12644"
-generated_at: "2026-03-30T05:34:03.908Z"
+generated_at: "2026-03-30T05:37:41.620Z"
 status: "active"
 ---
 

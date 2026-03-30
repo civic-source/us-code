@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7"
 chapter: 136
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T05:34:03.939Z"
+generated_at: "2026-03-30T05:37:41.651Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7121 - Closing agreements"
 usc_title: 26
 usc_section: "7121"
 chapter: 74
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "26 U.S.C. § 7121"
-generated_at: "2026-03-30T05:33:15.483Z"
+generated_at: "2026-03-30T05:36:26.220Z"
 status: "active"
 ---
 

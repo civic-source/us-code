@@ -3,9 +3,9 @@ title: "Section 5108 - Reopening disallowed claims"
 usc_title: 38
 usc_section: "5108"
 chapter: 51
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "38 U.S.C. § 5108"
-generated_at: "2026-03-30T05:33:43.269Z"
+generated_at: "2026-03-30T05:36:57.093Z"
 status: "active"
 ---
 

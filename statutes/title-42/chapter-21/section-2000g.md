@@ -3,9 +3,9 @@ title: "Section 2000g - Establishment of Service; Director of Service: appointme
 usc_title: 42
 usc_section: "2000g"
 chapter: 21
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 2000g"
-generated_at: "2026-03-30T05:34:03.658Z"
+generated_at: "2026-03-30T05:37:41.377Z"
 status: "active"
 ---
 

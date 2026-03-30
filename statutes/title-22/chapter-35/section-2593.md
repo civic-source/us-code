@@ -3,9 +3,9 @@ title: "Section 2593 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "2593"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "22 U.S.C. § 2593"
-generated_at: "2026-03-30T05:32:57.075Z"
+generated_at: "2026-03-30T05:35:53.494Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 485 - Declaration of policy"
 usc_title: 43
 usc_section: "485"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "43 U.S.C. § 485"
-generated_at: "2026-03-30T05:34:04.798Z"
+generated_at: "2026-03-30T05:37:11.811Z"
 status: "active"
 ---
 

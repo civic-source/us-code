@@ -3,9 +3,9 @@ title: "Section 9705 - Federal Nuclear Operations Corps’ study"
 usc_title: 42
 usc_section: "9705"
 chapter: 104
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 9705"
-generated_at: "2026-03-30T05:34:03.858Z"
+generated_at: "2026-03-30T05:37:41.570Z"
 status: "active"
 ---
 

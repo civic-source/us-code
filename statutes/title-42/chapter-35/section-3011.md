@@ -3,22 +3,22 @@ title: "Section 3011 - Establishment of Administration on Aging"
 usc_title: 42
 usc_section: "3011"
 chapter: 35
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 3011"
-generated_at: "2026-03-30T05:34:03.685Z"
+generated_at: "2026-03-30T05:37:41.402Z"
 status: "active"
 ---
 
 # § 3011. Establishment of Administration on Aging
 
-- **(a)** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+- **(a)** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 - **(b)** The Assistant Secretary shall be appointed by the President by and with the advice and consent of the Senate.
 - **(c)**
   - **(1)** There is established in the Administration an Office for American Indian, Alaskan Native, and Native Hawaiian Programs.
   - **(2)** The Office shall be headed by a Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging appointed by the Assistant Secretary.
   - **(3)** The Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging shall—
     - **(A)**
-      - **(i)** evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
+      - **(i)** evaluate the adequacy of outreach under subchapter III and subchapter X for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
       - **(ii)** include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
     - **(B)** serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
     - **(C)** coordinate activities between other Federal departments and agencies to assure a continuum of improved services through memoranda of agreements or through other appropriate means of coordination;
@@ -26,10 +26,10 @@ status: "active"
     - **(E)** recommend to the Assistant Secretary policies and priorities with respect to the development and operation of programs and activities conducted under this chapter relating to older individuals who are Native Americans;
     - **(F)** collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans;
     - **(G)** develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
-    - **(H)** develop and provide technical assistance and training programs to grantees under subchapter X of this chapter;
+    - **(H)** develop and provide technical assistance and training programs to grantees under subchapter X;
     - **(I)** promote coordination—
-      - **(i)** between the administration of subchapter III of this chapter and the administration of subchapter X of this chapter; and
-      - **(ii)** between programs established under subchapter III of this chapter by the Assistant Secretary and programs established under subchapter X of this chapter by the Assistant Secretary;
+      - **(i)** between the administration of subchapter III and the administration of subchapter X; and
+      - **(ii)** between programs established under subchapter III by the Assistant Secretary and programs established under subchapter X by the Assistant Secretary;
     - **(J)** serve as the effective and visible advocate on behalf of older individuals who are Indians, Alaskan Natives, and Native Hawaiians, in the States to promote the enhanced delivery of services and implementation of programs, under this chapter and other Federal Acts, for the benefit of such individuals.
 - **(d)**
   - **(1)** There is established in the Administration the Office of Long-Term Care Ombudsman Programs (in this subsection referred to as the “Office”).

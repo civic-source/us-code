@@ -3,9 +3,9 @@ title: "Section 123 - Continuance of land offices when required by public conven
 usc_title: 43
 usc_section: "123"
 chapter: 5
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "43 U.S.C. § 123"
-generated_at: "2026-03-30T05:34:04.786Z"
+generated_at: "2026-03-30T05:37:11.799Z"
 status: "active"
 ---
 

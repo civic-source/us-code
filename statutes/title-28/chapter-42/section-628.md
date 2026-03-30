@@ -3,9 +3,9 @@ title: "Section 628 - Appropriations and accounting"
 usc_title: 28
 usc_section: "628"
 chapter: 42
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "28 U.S.C. § 628"
-generated_at: "2026-03-30T05:33:25.431Z"
+generated_at: "2026-03-30T05:36:01.992Z"
 status: "active"
 ---
 

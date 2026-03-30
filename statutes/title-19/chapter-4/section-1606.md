@@ -3,9 +3,9 @@ title: "Section 1606 - Seizure; appraisement"
 usc_title: 19
 usc_section: "1606"
 chapter: 4
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "19 U.S.C. § 1606"
-generated_at: "2026-03-30T05:32:17.560Z"
+generated_at: "2026-03-30T05:35:28.803Z"
 status: "active"
 ---
 

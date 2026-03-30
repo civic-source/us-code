@@ -3,9 +3,9 @@ title: "Section 17940 - Audits"
 usc_title: 42
 usc_section: "17940"
 chapter: 156
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 17940"
-generated_at: "2026-03-30T05:34:03.989Z"
+generated_at: "2026-03-30T05:37:41.701Z"
 status: "active"
 ---
 

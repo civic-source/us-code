@@ -3,9 +3,9 @@ title: "Section 1 - Taxation and assessments; applicability of State laws"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T05:32:08.902Z"
+generated_at: "2026-03-30T05:35:31.770Z"
 status: "active"
 ---
 

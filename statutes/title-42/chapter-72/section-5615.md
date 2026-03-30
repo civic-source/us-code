@@ -3,9 +3,9 @@ title: "Section 5615 - Joint funding; non-Federal share requirements"
 usc_title: 42
 usc_section: "5615"
 chapter: 72
-current_through: "PL 114-195"
+current_through: "PL 114-219"
 classification: "42 U.S.C. § 5615"
-generated_at: "2026-03-30T05:34:03.750Z"
+generated_at: "2026-03-30T05:37:41.466Z"
 status: "active"
 ---
 
