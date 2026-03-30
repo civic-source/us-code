@@ -3,9 +3,9 @@ title: "Section 14134 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14134"
 chapter: 136
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 14134"
-generated_at: "2026-03-30T05:59:09.077Z"
+generated_at: "2026-03-30T06:05:05.056Z"
 status: "active"
 ---
 

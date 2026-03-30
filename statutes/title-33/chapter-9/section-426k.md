@@ -3,9 +3,9 @@ title: "Section 426k - Five year demonstration program to temporarily increase d
 usc_title: 33
 usc_section: "426k"
 chapter: 9
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 426k"
-generated_at: "2026-03-30T05:58:42.594Z"
+generated_at: "2026-03-30T06:04:44.394Z"
 status: "active"
 ---
 

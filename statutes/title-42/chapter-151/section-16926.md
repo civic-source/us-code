@@ -3,9 +3,9 @@ title: "Section 16926 - Sex Offender Management Assistance (SOMA) program"
 usc_title: 42
 usc_section: "16926"
 chapter: 151
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 16926"
-generated_at: "2026-03-30T05:59:09.107Z"
+generated_at: "2026-03-30T06:05:05.089Z"
 status: "active"
 ---
 

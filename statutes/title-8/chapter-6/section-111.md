@@ -3,9 +3,9 @@ title: "Section 111 - Transferred"
 usc_title: 8
 usc_section: "111"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "8 U.S.C. § 111"
-generated_at: "2026-03-30T05:57:21.797Z"
+generated_at: "2026-03-30T06:01:46.653Z"
 status: "transferred"
 ---
 

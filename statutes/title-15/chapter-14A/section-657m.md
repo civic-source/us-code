@@ -3,9 +3,9 @@ title: "Section 657m - Plans to secure sufficient office space"
 usc_title: 15
 usc_section: "657m"
 chapter: 14
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "15 U.S.C. § 657m"
-generated_at: "2026-03-30T05:57:48.341Z"
+generated_at: "2026-03-30T06:03:23.634Z"
 status: "active"
 ---
 

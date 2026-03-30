@@ -3,9 +3,9 @@ title: "Section 6411 - Enforcement"
 usc_title: 7
 usc_section: "6411"
 chapter: 93
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "7 U.S.C. § 6411"
-generated_at: "2026-03-30T05:57:36.263Z"
+generated_at: "2026-03-30T06:02:22.437Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 225 - Bond to deliver cargo at destination named in clearance"
 usc_title: 50
 usc_section: "225"
 chapter: 13
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "50 U.S.C. § 225"
-generated_at: "2026-03-30T05:59:13.196Z"
+generated_at: "2026-03-30T06:05:14.786Z"
 status: "active"
 ---
 

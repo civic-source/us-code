@@ -3,9 +3,9 @@ title: "Section 1395 - Plan notification to corporation of potentially significa
 usc_title: 29
 usc_section: "1395"
 chapter: 18
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "29 U.S.C. § 1395"
-generated_at: "2026-03-30T05:58:33.514Z"
+generated_at: "2026-03-30T06:04:34.533Z"
 status: "active"
 ---
 

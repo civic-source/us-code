@@ -3,9 +3,9 @@ title: "Section 168b - Computation of maximum amount available from Federal sour
 usc_title: 24
 usc_section: "168b"
 chapter: 4
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "24 U.S.C. § 168b"
-generated_at: "2026-03-30T05:58:21.491Z"
+generated_at: "2026-03-30T06:04:09.823Z"
 status: "active"
 ---
 

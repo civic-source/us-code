@@ -3,9 +3,9 @@ title: "Section 2191 - Graduate fellowships"
 usc_title: 10
 usc_section: "2191"
 chapter: 111
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 2191"
-generated_at: "2026-03-30T05:57:28.099Z"
+generated_at: "2026-03-30T06:02:58.748Z"
 status: "active"
 ---
 

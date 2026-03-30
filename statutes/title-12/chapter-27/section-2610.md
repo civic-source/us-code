@@ -3,9 +3,9 @@ title: "Section 2610 - Prohibition of fees for preparation of truth-in-lending, 
 usc_title: 12
 usc_section: "2610"
 chapter: 27
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 2610"
-generated_at: "2026-03-30T05:57:43.414Z"
+generated_at: "2026-03-30T06:03:04.487Z"
 status: "active"
 ---
 

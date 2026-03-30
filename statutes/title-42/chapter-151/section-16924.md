@@ -3,9 +3,9 @@ title: "Section 16924 - Period for implementation by jurisdictions"
 usc_title: 42
 usc_section: "16924"
 chapter: 151
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 16924"
-generated_at: "2026-03-30T05:59:09.107Z"
+generated_at: "2026-03-30T06:05:05.089Z"
 status: "active"
 ---
 

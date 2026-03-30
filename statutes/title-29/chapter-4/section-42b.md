@@ -3,9 +3,9 @@ title: "Section 42b - Repealed. Pub. L. 93–112, title V , § 500(a), Sept. 26,
 usc_title: 29
 usc_section: "42b"
 chapter: 4
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "29 U.S.C. § 42b"
-generated_at: "2026-03-30T05:58:33.465Z"
+generated_at: "2026-03-30T06:04:34.485Z"
 status: "repealed"
 ---
 

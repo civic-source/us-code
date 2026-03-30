@@ -3,9 +3,9 @@ title: "Section 187a - Oil or gas leases; partial assignments"
 usc_title: 30
 usc_section: "187a"
 chapter: 3
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "30 U.S.C. § 187a"
-generated_at: "2026-03-30T05:58:30.254Z"
+generated_at: "2026-03-30T06:04:35.650Z"
 status: "active"
 ---
 

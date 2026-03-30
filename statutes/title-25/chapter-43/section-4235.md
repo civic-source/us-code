@@ -3,9 +3,9 @@ title: "Section 4235 - Annual allocation"
 usc_title: 25
 usc_section: "4235"
 chapter: 43
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "25 U.S.C. § 4235"
-generated_at: "2026-03-30T05:58:20.356Z"
+generated_at: "2026-03-30T06:04:30.526Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17303 - Enforcement by the Federal Trade Commission"
 usc_title: 42
 usc_section: "17303"
 chapter: 152
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 17303"
-generated_at: "2026-03-30T05:59:09.116Z"
+generated_at: "2026-03-30T06:05:05.098Z"
 status: "active"
 ---
 

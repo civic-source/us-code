@@ -3,9 +3,9 @@ title: "Section 8103 - Biorefinery, renewable chemical, and biobased product man
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-30T05:57:36.292Z"
+generated_at: "2026-03-30T06:02:22.466Z"
 status: "active"
 ---
 

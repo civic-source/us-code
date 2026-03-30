@@ -3,9 +3,9 @@ title: "Section 843 - Prohibited acts C"
 usc_title: 21
 usc_section: "843"
 chapter: 13
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "21 U.S.C. § 843"
-generated_at: "2026-03-30T05:58:21.141Z"
+generated_at: "2026-03-30T06:04:29.487Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 2
 usc_section: "1"
 chapter: 3
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T05:56:57.549Z"
+generated_at: "2026-03-30T06:01:39.146Z"
 status: "transferred"
 ---
 

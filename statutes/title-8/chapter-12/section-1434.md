@@ -3,9 +3,9 @@ title: "Section 1434 - Repealed. Pub. L. 95–417 , § 7, Oct. 5, 1978 , 92 Stat
 usc_title: 8
 usc_section: "1434"
 chapter: 12
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "8 U.S.C. § 1434"
-generated_at: "2026-03-30T05:57:21.826Z"
+generated_at: "2026-03-30T06:01:46.682Z"
 status: "repealed"
 ---
 

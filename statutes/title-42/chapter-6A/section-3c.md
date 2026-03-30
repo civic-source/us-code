@@ -3,9 +3,9 @@ title: "Section 3c - National assistance program for water infrastructure and wa
 usc_title: 42
 usc_section: "3c"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 3c"
-generated_at: "2026-03-30T05:59:08.540Z"
+generated_at: "2026-03-30T06:05:04.503Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21008 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "21008"
 chapter: 210
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "36 U.S.C. § 21008"
-generated_at: "2026-03-30T05:58:44.902Z"
+generated_at: "2026-03-30T06:04:46.973Z"
 status: "active"
 ---
 

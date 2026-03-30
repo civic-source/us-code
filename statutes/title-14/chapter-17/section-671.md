@@ -3,9 +3,9 @@ title: "Section 671 - Air Station Cape Cod Improvements"
 usc_title: 14
 usc_section: "671"
 chapter: 17
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "14 U.S.C. § 671"
-generated_at: "2026-03-30T05:57:39.489Z"
+generated_at: "2026-03-30T06:03:06.808Z"
 status: "active"
 ---
 

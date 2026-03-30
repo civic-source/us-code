@@ -3,9 +3,9 @@ title: "Section 6240 - Application of subchapter"
 usc_title: 26
 usc_section: "6240"
 chapter: 63
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "26 U.S.C. § 6240"
-generated_at: "2026-03-30T05:58:37.575Z"
+generated_at: "2026-03-30T06:04:40.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10b - Secretarial determinations; congressional notification"
 usc_title: 42
 usc_section: "10b"
 chapter: 23
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-30T05:59:08.812Z"
+generated_at: "2026-03-30T06:05:04.779Z"
 status: "active"
 ---
 

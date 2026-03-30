@@ -3,9 +3,9 @@ title: "Section 2145 - Consultation and cooperation with Federal, State, and loc
 usc_title: 7
 usc_section: "2145"
 chapter: 54
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "7 U.S.C. § 2145"
-generated_at: "2026-03-30T05:57:36.226Z"
+generated_at: "2026-03-30T06:02:22.399Z"
 status: "active"
 ---
 

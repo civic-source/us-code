@@ -3,9 +3,9 @@ title: "Section 2738 - North Pacific Marine Research Institute"
 usc_title: 33
 usc_section: "2738"
 chapter: 40
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 2738"
-generated_at: "2026-03-30T05:58:42.654Z"
+generated_at: "2026-03-30T06:04:44.451Z"
 status: "active"
 ---
 

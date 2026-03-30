@@ -3,9 +3,9 @@ title: "Section 1410 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(1),
 usc_title: 22
 usc_section: "1410"
 chapter: 16
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 1410"
-generated_at: "2026-03-30T05:58:27.697Z"
+generated_at: "2026-03-30T06:04:13.758Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3640 - Administrative matters"
 usc_title: 16
 usc_section: "3640"
 chapter: 56
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 3640"
-generated_at: "2026-03-30T05:58:15.523Z"
+generated_at: "2026-03-30T06:04:07.376Z"
 status: "active"
 ---
 

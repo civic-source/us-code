@@ -3,9 +3,9 @@ title: "Section 39 - City of Corona Water Utility, California, water recycling a
 usc_title: 43
 usc_section: "39"
 chapter: 12
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "43 U.S.C. § 39"
-generated_at: "2026-03-30T05:58:49.624Z"
+generated_at: "2026-03-30T06:04:51.073Z"
 status: "active"
 ---
 

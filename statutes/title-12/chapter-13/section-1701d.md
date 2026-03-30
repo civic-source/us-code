@@ -3,9 +3,9 @@ title: "Section 1701d - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80
 usc_title: 12
 usc_section: "1701d"
 chapter: 13
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 1701d"
-generated_at: "2026-03-30T05:57:43.337Z"
+generated_at: "2026-03-30T06:03:04.408Z"
 status: "repealed"
 ---
 

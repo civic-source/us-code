@@ -3,9 +3,9 @@ title: "Section 13386 - Export of domestic energy resource technologies to devel
 usc_title: 42
 usc_section: "13386"
 chapter: 134
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 13386"
-generated_at: "2026-03-30T05:59:09.060Z"
+generated_at: "2026-03-30T06:05:05.039Z"
 status: "active"
 ---
 

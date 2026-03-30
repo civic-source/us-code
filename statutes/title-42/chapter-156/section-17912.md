@@ -3,9 +3,9 @@ title: "Section 17912 - Research and development programs"
 usc_title: 42
 usc_section: "17912"
 chapter: 156
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 17912"
-generated_at: "2026-03-30T05:59:09.121Z"
+generated_at: "2026-03-30T06:05:05.103Z"
 status: "active"
 ---
 

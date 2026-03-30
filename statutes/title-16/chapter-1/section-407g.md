@@ -3,9 +3,9 @@ title: "Section 407g - State right-of-way for park-type road; reconveyance of in
 usc_title: 16
 usc_section: "407g"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 407g"
-generated_at: "2026-03-30T05:58:15.319Z"
+generated_at: "2026-03-30T06:04:07.157Z"
 status: "active"
 ---
 

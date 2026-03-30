@@ -3,9 +3,9 @@ title: "Section 1066 - Findings"
 usc_title: 20
 usc_section: "1066"
 chapter: 28
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "20 U.S.C. § 1066"
-generated_at: "2026-03-30T05:57:56.301Z"
+generated_at: "2026-03-30T06:03:32.857Z"
 status: "active"
 ---
 

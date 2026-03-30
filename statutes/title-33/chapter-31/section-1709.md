@@ -3,9 +3,9 @@ title: "Section 1709 - Repealed. Pub. L. 102–567, title II , § 204, Oct. 29, 
 usc_title: 33
 usc_section: "1709"
 chapter: 31
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 1709"
-generated_at: "2026-03-30T05:58:42.637Z"
+generated_at: "2026-03-30T06:04:44.434Z"
 status: "repealed"
 ---
 

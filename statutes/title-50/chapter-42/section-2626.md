@@ -3,9 +3,9 @@ title: "Section 2626 - Hanford Waste Treatment and Immobilization Plant contract
 usc_title: 50
 usc_section: "2626"
 chapter: 42
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "50 U.S.C. § 2626"
-generated_at: "2026-03-30T05:59:13.220Z"
+generated_at: "2026-03-30T06:05:14.810Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 74 - Rule of construction"
 usc_title: 42
 usc_section: "74"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 74"
-generated_at: "2026-03-30T05:59:08.533Z"
+generated_at: "2026-03-30T06:05:04.496Z"
 status: "active"
 ---
 

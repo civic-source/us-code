@@ -3,9 +3,9 @@ title: "Section 46105 - Regulations and orders"
 usc_title: 49
 usc_section: "46105"
 chapter: 461
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "49 U.S.C. § 46105"
-generated_at: "2026-03-30T05:59:26.626Z"
+generated_at: "2026-03-30T06:05:10.205Z"
 status: "active"
 ---
 

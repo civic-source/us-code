@@ -3,9 +3,9 @@ title: "Section 2201 - General duties of Commission"
 usc_title: 42
 usc_section: "2201"
 chapter: 23
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 2201"
-generated_at: "2026-03-30T05:59:08.805Z"
+generated_at: "2026-03-30T06:05:04.772Z"
 status: "active"
 ---
 

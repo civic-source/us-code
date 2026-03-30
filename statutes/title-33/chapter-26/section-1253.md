@@ -3,9 +3,9 @@ title: "Section 1253 - Interstate cooperation and uniform laws"
 usc_title: 33
 usc_section: "1253"
 chapter: 26
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 1253"
-generated_at: "2026-03-30T05:58:42.615Z"
+generated_at: "2026-03-30T06:04:44.415Z"
 status: "active"
 ---
 

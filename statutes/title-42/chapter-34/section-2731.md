@@ -3,9 +3,9 @@ title: "Section 2731 - Repealed. Pub. L. 89–794, title I , § 112(a), Nov. 8, 
 usc_title: 42
 usc_section: "2731"
 chapter: 34
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 2731"
-generated_at: "2026-03-30T05:59:08.815Z"
+generated_at: "2026-03-30T06:05:04.782Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 126a - Omitted"
 usc_title: 2
 usc_section: "126a"
 chapter: 4
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "2 U.S.C. § 126a"
-generated_at: "2026-03-30T05:56:57.551Z"
+generated_at: "2026-03-30T06:01:39.147Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41908 - Effect on foreign postal arrangements"
 usc_title: 49
 usc_section: "41908"
 chapter: 419
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "49 U.S.C. § 41908"
-generated_at: "2026-03-30T05:59:26.616Z"
+generated_at: "2026-03-30T06:05:10.194Z"
 status: "active"
 ---
 

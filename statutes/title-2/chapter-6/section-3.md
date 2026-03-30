@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. S. Res. 9, § 2, Nov. 5, 1975"
 usc_title: 2
 usc_section: "3"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "2 U.S.C. § 3"
-generated_at: "2026-03-30T05:56:57.554Z"
+generated_at: "2026-03-30T06:01:39.152Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Retention and relocation bonuses for the Federal Bureau of I
 usc_title: 5
 usc_section: "1"
 chapter: 57
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "5 U.S.C. § 1"
-generated_at: "2026-03-30T05:57:16.870Z"
+generated_at: "2026-03-30T06:01:31.396Z"
 status: "active"
 ---
 

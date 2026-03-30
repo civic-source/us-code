@@ -3,9 +3,9 @@ title: "Section 7703 - Establishment and management of the Millennium Challenge 
 usc_title: 22
 usc_section: "7703"
 chapter: 84
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 7703"
-generated_at: "2026-03-30T05:58:27.796Z"
+generated_at: "2026-03-30T06:04:13.858Z"
 status: "active"
 ---
 

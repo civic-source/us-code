@@ -3,9 +3,9 @@ title: "Section 4327 - Attachment or garnishment of funds or property held by Cu
 usc_title: 50
 usc_section: "4327"
 chapter: 53
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "50 U.S.C. § 4327"
-generated_at: "2026-03-30T05:59:13.249Z"
+generated_at: "2026-03-30T06:05:14.842Z"
 status: "active"
 ---
 

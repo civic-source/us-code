@@ -3,9 +3,9 @@ title: "Section 16935f - Implementation plan"
 usc_title: 42
 usc_section: "16935f"
 chapter: 151
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 16935f"
-generated_at: "2026-03-30T05:59:09.108Z"
+generated_at: "2026-03-30T06:05:05.089Z"
 status: "active"
 ---
 

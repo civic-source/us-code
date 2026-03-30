@@ -3,9 +3,9 @@ title: "Section 2191 - Congressional statement of purpose; creation and function
 usc_title: 22
 usc_section: "2191"
 chapter: 32
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 2191"
-generated_at: "2026-03-30T05:58:27.713Z"
+generated_at: "2026-03-30T06:04:13.774Z"
 status: "active"
 ---
 

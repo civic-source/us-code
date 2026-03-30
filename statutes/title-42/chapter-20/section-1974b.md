@@ -3,9 +3,9 @@ title: "Section 1974b - Transferred"
 usc_title: 42
 usc_section: "1974b"
 chapter: 20
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 1974b"
-generated_at: "2026-03-30T05:59:08.788Z"
+generated_at: "2026-03-30T06:05:04.755Z"
 status: "transferred"
 ---
 

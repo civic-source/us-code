@@ -3,9 +3,9 @@ title: "Section 5636 - Cost savings"
 usc_title: 25
 usc_section: "5636"
 chapter: 48
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "25 U.S.C. § 5636"
-generated_at: "2026-03-30T05:58:20.365Z"
+generated_at: "2026-03-30T06:04:30.534Z"
 status: "active"
 ---
 

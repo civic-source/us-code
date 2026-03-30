@@ -3,9 +3,9 @@ title: "Section 70a - Repealed. Dec. 28, 1945, ch. 597 , § 4, 59 Stat. 662"
 usc_title: 42
 usc_section: "70a"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 70a"
-generated_at: "2026-03-30T05:59:08.448Z"
+generated_at: "2026-03-30T06:05:04.413Z"
 status: "repealed"
 ---
 

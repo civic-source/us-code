@@ -3,9 +3,9 @@ title: "Section 7201 - Repealed. Pub. L. 103–160, div. A, title VIII , § 824(
 usc_title: 10
 usc_section: "7201"
 chapter: 631
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 7201"
-generated_at: "2026-03-30T05:57:28.152Z"
+generated_at: "2026-03-30T06:02:58.803Z"
 status: "repealed"
 ---
 

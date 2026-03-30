@@ -3,9 +3,9 @@ title: "Section 1396q - Application of provisions of subchapter II relating to s
 usc_title: 42
 usc_section: "1396q"
 chapter: 7
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 1396q"
-generated_at: "2026-03-30T05:59:08.721Z"
+generated_at: "2026-03-30T06:05:04.686Z"
 status: "active"
 ---
 

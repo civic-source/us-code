@@ -3,9 +3,9 @@ title: "Section 478a - Travel and transportation allowances: inactive duty train
 usc_title: 37
 usc_section: "478a"
 chapter: 8
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "37 U.S.C. § 478a"
-generated_at: "2026-03-30T05:58:45.658Z"
+generated_at: "2026-03-30T06:04:46.377Z"
 status: "active"
 ---
 

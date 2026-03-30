@@ -3,9 +3,9 @@ title: "Section 4503 - Fellowship recipients"
 usc_title: 20
 usc_section: "4503"
 chapter: 57
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "20 U.S.C. § 4503"
-generated_at: "2026-03-30T05:57:56.372Z"
+generated_at: "2026-03-30T06:03:32.929Z"
 status: "active"
 ---
 

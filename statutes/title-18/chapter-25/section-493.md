@@ -3,9 +3,9 @@ title: "Section 493 - Bonds and obligations of certain lending agencies"
 usc_title: 18
 usc_section: "493"
 chapter: 25
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "18 U.S.C. § 493"
-generated_at: "2026-03-30T05:57:53.795Z"
+generated_at: "2026-03-30T06:03:28.232Z"
 status: "active"
 ---
 

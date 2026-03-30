@@ -3,9 +3,9 @@ title: "Section 2 - Grants for programs for drug-endangered children"
 usc_title: 42
 usc_section: "2"
 chapter: 46
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T05:59:08.849Z"
+generated_at: "2026-03-30T06:05:04.818Z"
 status: "active"
 ---
 

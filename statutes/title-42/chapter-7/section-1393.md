@@ -3,9 +3,9 @@ title: "Section 1393 - Applications; single State agency designation; essential 
 usc_title: 42
 usc_section: "1393"
 chapter: 7
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 1393"
-generated_at: "2026-03-30T05:59:08.636Z"
+generated_at: "2026-03-30T06:05:04.602Z"
 status: "active"
 ---
 

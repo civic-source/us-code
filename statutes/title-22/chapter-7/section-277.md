@@ -3,9 +3,9 @@ title: "Section 277 - International Boundary Commission, United States and Mexic
 usc_title: 22
 usc_section: "277"
 chapter: 7
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 277"
-generated_at: "2026-03-30T05:58:27.679Z"
+generated_at: "2026-03-30T06:04:13.739Z"
 status: "active"
 ---
 

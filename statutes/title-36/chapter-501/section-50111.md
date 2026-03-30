@@ -3,9 +3,9 @@ title: "Section 50111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "50111"
 chapter: 501
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "36 U.S.C. § 50111"
-generated_at: "2026-03-30T05:58:44.907Z"
+generated_at: "2026-03-30T06:04:46.978Z"
 status: "active"
 ---
 

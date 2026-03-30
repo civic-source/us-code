@@ -3,9 +3,9 @@ title: "Section 1234 - Repealed. Pub. L. 96–465, title II , § 2205(6), Oct. 1
 usc_title: 22
 usc_section: "1234"
 chapter: 14
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 1234"
-generated_at: "2026-03-30T05:58:27.696Z"
+generated_at: "2026-03-30T06:04:13.757Z"
 status: "repealed"
 ---
 

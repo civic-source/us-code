@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 86–251 , § 1(b), (c)(1), Sept. 9, 1959 
 usc_title: 12
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T05:57:43.306Z"
+generated_at: "2026-03-30T06:03:04.376Z"
 status: "repealed"
 ---
 

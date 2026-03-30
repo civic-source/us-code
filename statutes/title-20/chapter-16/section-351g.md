@@ -3,9 +3,9 @@ title: "Section 351g - Repealed. Pub. L. 104–208, div. A, title I , § 101(e) 
 usc_title: 20
 usc_section: "351g"
 chapter: 16
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "20 U.S.C. § 351g"
-generated_at: "2026-03-30T05:57:56.287Z"
+generated_at: "2026-03-30T06:03:32.844Z"
 status: "repealed"
 ---
 

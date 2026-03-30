@@ -3,9 +3,9 @@ title: "Section 11824 - Applications"
 usc_title: 42
 usc_section: "11824"
 chapter: 123
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 11824"
-generated_at: "2026-03-30T05:59:09.030Z"
+generated_at: "2026-03-30T06:05:05.006Z"
 status: "active"
 ---
 

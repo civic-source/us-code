@@ -3,9 +3,9 @@ title: "Section 5106i - Rule of construction"
 usc_title: 42
 usc_section: "5106i"
 chapter: 67
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 5106i"
-generated_at: "2026-03-30T05:59:08.870Z"
+generated_at: "2026-03-30T06:05:04.838Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8235i - Authorization of appropriations"
 usc_title: 42
 usc_section: "8235i"
 chapter: 91
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 8235i"
-generated_at: "2026-03-30T05:59:08.971Z"
+generated_at: "2026-03-30T06:05:04.944Z"
 status: "active"
 ---
 

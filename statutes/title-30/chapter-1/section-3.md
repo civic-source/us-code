@@ -3,9 +3,9 @@ title: "Section 3 - Duties of United States Bureau of Mines"
 usc_title: 30
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "30 U.S.C. § 3"
-generated_at: "2026-03-30T05:58:30.250Z"
+generated_at: "2026-03-30T06:04:35.646Z"
 status: "active"
 ---
 

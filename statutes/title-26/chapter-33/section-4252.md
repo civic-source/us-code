@@ -3,9 +3,9 @@ title: "Section 4252 - Definitions"
 usc_title: 26
 usc_section: "4252"
 chapter: 33
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "26 U.S.C. § 4252"
-generated_at: "2026-03-30T05:58:37.536Z"
+generated_at: "2026-03-30T06:04:40.227Z"
 status: "active"
 ---
 

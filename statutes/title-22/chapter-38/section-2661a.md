@@ -3,9 +3,9 @@ title: "Section 2661a - Foreign contracts or arrangements; discrimination"
 usc_title: 22
 usc_section: "2661a"
 chapter: 38
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 2661a"
-generated_at: "2026-03-30T05:58:27.735Z"
+generated_at: "2026-03-30T06:04:13.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Relations between courts of United States and courts of Guam
 usc_title: 48
 usc_section: "2"
 chapter: 8
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "48 U.S.C. § 2"
-generated_at: "2026-03-30T05:59:14.401Z"
+generated_at: "2026-03-30T06:05:11.457Z"
 status: "active"
 ---
 

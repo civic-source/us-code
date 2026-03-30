@@ -3,9 +3,9 @@ title: "Section 3262 - Arrest and commitment"
 usc_title: 18
 usc_section: "3262"
 chapter: 212
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "18 U.S.C. § 3262"
-generated_at: "2026-03-30T05:57:53.831Z"
+generated_at: "2026-03-30T06:03:28.269Z"
 status: "active"
 ---
 

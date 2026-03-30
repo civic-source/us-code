@@ -3,9 +3,9 @@ title: "Section 8745 - Medal of honor; Air Force cross; distinguished-service me
 usc_title: 10
 usc_section: "8745"
 chapter: 857
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 8745"
-generated_at: "2026-03-30T05:57:28.159Z"
+generated_at: "2026-03-30T06:02:58.810Z"
 status: "active"
 ---
 

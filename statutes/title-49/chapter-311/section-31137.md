@@ -3,9 +3,9 @@ title: "Section 31137 - Electronic logging devices and brake maintenance regulat
 usc_title: 49
 usc_section: "31137"
 chapter: 311
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "49 U.S.C. § 31137"
-generated_at: "2026-03-30T05:59:26.601Z"
+generated_at: "2026-03-30T06:05:10.177Z"
 status: "active"
 ---
 

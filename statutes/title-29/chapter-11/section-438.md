@@ -3,9 +3,9 @@ title: "Section 438 - Rules and regulations; simplified reports"
 usc_title: 29
 usc_section: "438"
 chapter: 11
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "29 U.S.C. § 438"
-generated_at: "2026-03-30T05:58:33.473Z"
+generated_at: "2026-03-30T06:04:34.493Z"
 status: "active"
 ---
 

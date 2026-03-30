@@ -3,9 +3,9 @@ title: "Section 668 - Contracts for medical care for retirees, dependents, and s
 usc_title: 14
 usc_section: "668"
 chapter: 17
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "14 U.S.C. § 668"
-generated_at: "2026-03-30T05:57:39.489Z"
+generated_at: "2026-03-30T06:03:06.808Z"
 status: "active"
 ---
 

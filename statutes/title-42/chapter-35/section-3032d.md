@@ -3,9 +3,9 @@ title: "Section 3032d - Repealed. Pub. L. 114–144 , § 5(d), Apr. 19, 2016 , 1
 usc_title: 42
 usc_section: "3032d"
 chapter: 35
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 3032d"
-generated_at: "2026-03-30T05:59:08.823Z"
+generated_at: "2026-03-30T06:05:04.790Z"
 status: "repealed"
 ---
 

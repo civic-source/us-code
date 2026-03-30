@@ -3,9 +3,9 @@ title: "Section 8906 - Enhanced security cooperation with Ukraine and other coun
 usc_title: 22
 usc_section: "8906"
 chapter: 96
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 8906"
-generated_at: "2026-03-30T05:58:27.808Z"
+generated_at: "2026-03-30T06:04:13.872Z"
 status: "active"
 ---
 

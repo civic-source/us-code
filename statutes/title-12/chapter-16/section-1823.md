@@ -3,9 +3,9 @@ title: "Section 1823 - Corporation monies"
 usc_title: 12
 usc_section: "1823"
 chapter: 16
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 1823"
-generated_at: "2026-03-30T05:57:43.383Z"
+generated_at: "2026-03-30T06:03:04.456Z"
 status: "active"
 ---
 

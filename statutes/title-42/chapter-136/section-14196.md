@@ -3,9 +3,9 @@ title: "Section 14196 - Staff and support services"
 usc_title: 42
 usc_section: "14196"
 chapter: 136
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 14196"
-generated_at: "2026-03-30T05:59:09.079Z"
+generated_at: "2026-03-30T06:05:05.058Z"
 status: "active"
 ---
 

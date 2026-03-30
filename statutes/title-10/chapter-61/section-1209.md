@@ -3,9 +3,9 @@ title: "Section 1209 - Transfer to inactive status list instead of separation"
 usc_title: 10
 usc_section: "1209"
 chapter: 61
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 1209"
-generated_at: "2026-03-30T05:57:28.079Z"
+generated_at: "2026-03-30T06:02:58.728Z"
 status: "active"
 ---
 

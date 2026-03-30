@@ -3,9 +3,9 @@ title: "Section 403e - Acceptance of title to lands; reservations; leases; right
 usc_title: 16
 usc_section: "403e"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 403e"
-generated_at: "2026-03-30T05:58:15.318Z"
+generated_at: "2026-03-30T06:04:07.155Z"
 status: "active"
 ---
 

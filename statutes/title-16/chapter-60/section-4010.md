@@ -3,9 +3,9 @@ title: "Section 4010 - Functions and powers of councils"
 usc_title: 16
 usc_section: "4010"
 chapter: 60
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 4010"
-generated_at: "2026-03-30T05:58:15.533Z"
+generated_at: "2026-03-30T06:04:07.386Z"
 status: "active"
 ---
 

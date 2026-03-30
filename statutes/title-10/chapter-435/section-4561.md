@@ -3,9 +3,9 @@ title: "Section 4561 - Rations"
 usc_title: 10
 usc_section: "4561"
 chapter: 435
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 4561"
-generated_at: "2026-03-30T05:57:28.143Z"
+generated_at: "2026-03-30T06:02:58.794Z"
 status: "active"
 ---
 

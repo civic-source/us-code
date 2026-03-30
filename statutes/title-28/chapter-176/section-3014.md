@@ -3,9 +3,9 @@ title: "Section 3014 - Exempt property"
 usc_title: 28
 usc_section: "3014"
 chapter: 176
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "28 U.S.C. § 3014"
-generated_at: "2026-03-30T05:58:31.790Z"
+generated_at: "2026-03-30T06:04:33.672Z"
 status: "active"
 ---
 

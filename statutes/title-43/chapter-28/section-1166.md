@@ -3,9 +3,9 @@ title: "Section 1166 - Limitations of suits to annul patents"
 usc_title: 43
 usc_section: "1166"
 chapter: 28
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "43 U.S.C. § 1166"
-generated_at: "2026-03-30T05:58:49.641Z"
+generated_at: "2026-03-30T06:04:51.095Z"
 status: "active"
 ---
 

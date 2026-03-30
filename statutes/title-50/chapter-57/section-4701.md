@@ -3,9 +3,9 @@ title: "Section 4701 - Rights of American seamen on privately owned and operated
 usc_title: 50
 usc_section: "4701"
 chapter: 57
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "50 U.S.C. § 4701"
-generated_at: "2026-03-30T05:59:13.258Z"
+generated_at: "2026-03-30T06:05:14.851Z"
 status: "active"
 ---
 

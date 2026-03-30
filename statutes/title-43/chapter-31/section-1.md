@@ -3,9 +3,9 @@ title: "Section 1 - Transfer of funds from Natural Resource Damage Assessment an
 usc_title: 43
 usc_section: "1"
 chapter: 31
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T05:58:49.648Z"
+generated_at: "2026-03-30T06:04:51.101Z"
 status: "active"
 ---
 

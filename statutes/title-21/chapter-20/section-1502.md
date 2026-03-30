@@ -3,9 +3,9 @@ title: "Section 1502 - Repealed. Pub. L. 100–690, title I , § 1009, Nov. 18, 
 usc_title: 21
 usc_section: "1502"
 chapter: 20
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "21 U.S.C. § 1502"
-generated_at: "2026-03-30T05:58:21.148Z"
+generated_at: "2026-03-30T06:04:29.494Z"
 status: "repealed"
 ---
 

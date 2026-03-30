@@ -3,9 +3,9 @@ title: "Section 4503 - National Urban Policy Report"
 usc_title: 42
 usc_section: "4503"
 chapter: 59
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 4503"
-generated_at: "2026-03-30T05:59:08.860Z"
+generated_at: "2026-03-30T06:05:04.828Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6328 - Computation of years of service: voluntary retirement"
 usc_title: 10
 usc_section: "6328"
 chapter: 571
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 6328"
-generated_at: "2026-03-30T05:57:28.149Z"
+generated_at: "2026-03-30T06:02:58.800Z"
 status: "active"
 ---
 

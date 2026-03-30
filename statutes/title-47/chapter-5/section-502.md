@@ -3,9 +3,9 @@ title: "Section 502 - Violation of rules, regulations, etc."
 usc_title: 47
 usc_section: "502"
 chapter: 5
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "47 U.S.C. § 502"
-generated_at: "2026-03-30T05:59:12.286Z"
+generated_at: "2026-03-30T06:05:15.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3013 - Federal agency cooperation"
 usc_title: 42
 usc_section: "3013"
 chapter: 35
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 3013"
-generated_at: "2026-03-30T05:59:08.819Z"
+generated_at: "2026-03-30T06:05:04.786Z"
 status: "active"
 ---
 

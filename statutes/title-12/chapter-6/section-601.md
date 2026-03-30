@@ -3,9 +3,9 @@ title: "Section 601 - Authorization; conditions and regulations"
 usc_title: 12
 usc_section: "601"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 601"
-generated_at: "2026-03-30T05:57:43.319Z"
+generated_at: "2026-03-30T06:03:04.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2469 - Contracts to perform workloads previously performed by de
 usc_title: 10
 usc_section: "2469"
 chapter: 146
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 2469"
-generated_at: "2026-03-30T05:57:28.119Z"
+generated_at: "2026-03-30T06:02:58.769Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 165 - Value of lands sought to be exchanged"
 usc_title: 16
 usc_section: "165"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 165"
-generated_at: "2026-03-30T05:58:15.305Z"
+generated_at: "2026-03-30T06:04:07.142Z"
 status: "active"
 ---
 

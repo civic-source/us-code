@@ -3,9 +3,9 @@ title: "Section 7609 - Policy review"
 usc_title: 42
 usc_section: "7609"
 chapter: 85
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 7609"
-generated_at: "2026-03-30T05:59:08.957Z"
+generated_at: "2026-03-30T06:05:04.930Z"
 status: "active"
 ---
 

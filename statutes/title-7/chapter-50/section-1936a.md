@@ -3,9 +3,9 @@ title: "Section 1936a - Use of rural development loans and grants for other purp
 usc_title: 7
 usc_section: "1936a"
 chapter: 50
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "7 U.S.C. § 1936a"
-generated_at: "2026-03-30T05:57:36.203Z"
+generated_at: "2026-03-30T06:02:22.376Z"
 status: "active"
 ---
 

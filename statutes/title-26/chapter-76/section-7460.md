@@ -3,9 +3,9 @@ title: "Section 7460 - Provisions of special application to divisions"
 usc_title: 26
 usc_section: "7460"
 chapter: 76
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "26 U.S.C. § 7460"
-generated_at: "2026-03-30T05:58:37.596Z"
+generated_at: "2026-03-30T06:04:40.289Z"
 status: "active"
 ---
 

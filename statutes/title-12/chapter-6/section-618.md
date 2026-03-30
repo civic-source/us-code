@@ -3,9 +3,9 @@ title: "Section 618 - Capital stock; amount; when paid in"
 usc_title: 12
 usc_section: "618"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 618"
-generated_at: "2026-03-30T05:57:43.320Z"
+generated_at: "2026-03-30T06:03:04.391Z"
 status: "active"
 ---
 

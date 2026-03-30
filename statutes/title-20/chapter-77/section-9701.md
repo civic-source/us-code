@@ -3,9 +3,9 @@ title: "Section 9701 - Definitions"
 usc_title: 20
 usc_section: "9701"
 chapter: 77
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "20 U.S.C. § 9701"
-generated_at: "2026-03-30T05:57:56.412Z"
+generated_at: "2026-03-30T06:03:32.968Z"
 status: "active"
 ---
 

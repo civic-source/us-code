@@ -3,9 +3,9 @@ title: "Section 617i - Modification of existing compact relating to Laguna Dam"
 usc_title: 43
 usc_section: "617i"
 chapter: 12
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "43 U.S.C. § 617i"
-generated_at: "2026-03-30T05:58:49.632Z"
+generated_at: "2026-03-30T06:04:51.084Z"
 status: "active"
 ---
 

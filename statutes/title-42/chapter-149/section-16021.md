@@ -3,9 +3,9 @@ title: "Section 16021 - Project establishment"
 usc_title: 42
 usc_section: "16021"
 chapter: 149
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 16021"
-generated_at: "2026-03-30T05:59:09.094Z"
+generated_at: "2026-03-30T06:05:05.075Z"
 status: "active"
 ---
 

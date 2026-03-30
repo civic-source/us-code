@@ -3,9 +3,9 @@ title: "Section 9875 - Application and description of activities; requirements"
 usc_title: 42
 usc_section: "9875"
 chapter: 105
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 9875"
-generated_at: "2026-03-30T05:59:09.005Z"
+generated_at: "2026-03-30T06:05:04.978Z"
 status: "active"
 ---
 

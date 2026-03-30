@@ -3,9 +3,9 @@ title: "Section 1309 - Portability assistance"
 usc_title: 29
 usc_section: "1309"
 chapter: 18
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "29 U.S.C. § 1309"
-generated_at: "2026-03-30T05:58:33.508Z"
+generated_at: "2026-03-30T06:04:34.528Z"
 status: "active"
 ---
 

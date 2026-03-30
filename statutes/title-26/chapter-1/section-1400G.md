@@ -3,9 +3,9 @@ title: "Section 1400G - Renewal community business defined"
 usc_title: 26
 usc_section: "1400G"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "26 U.S.C. § 1400G"
-generated_at: "2026-03-30T05:58:37.511Z"
+generated_at: "2026-03-30T06:04:40.204Z"
 status: "active"
 ---
 

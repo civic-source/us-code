@@ -3,9 +3,9 @@ title: "Section 6807 - State utility regulatory assistance"
 usc_title: 42
 usc_section: "6807"
 chapter: 81
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 6807"
-generated_at: "2026-03-30T05:59:08.914Z"
+generated_at: "2026-03-30T06:05:04.884Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10307 - Types of research and development"
 usc_title: 42
 usc_section: "10307"
 chapter: 109
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 10307"
-generated_at: "2026-03-30T05:59:09.013Z"
+generated_at: "2026-03-30T06:05:04.987Z"
 status: "active"
 ---
 

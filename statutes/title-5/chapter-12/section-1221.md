@@ -3,9 +3,9 @@ title: "Section 1221 - Individual right of action in certain reprisal cases"
 usc_title: 5
 usc_section: "1221"
 chapter: 12
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "5 U.S.C. § 1221"
-generated_at: "2026-03-30T05:57:16.850Z"
+generated_at: "2026-03-30T06:01:31.374Z"
 status: "active"
 ---
 

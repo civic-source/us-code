@@ -3,9 +3,9 @@ title: "Section 3807 - Bounties for induction; substitutes; purchase of release"
 usc_title: 50
 usc_section: "3807"
 chapter: 49
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "50 U.S.C. § 3807"
-generated_at: "2026-03-30T05:59:13.240Z"
+generated_at: "2026-03-30T06:05:14.831Z"
 status: "active"
 ---
 

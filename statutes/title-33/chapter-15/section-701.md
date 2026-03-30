@@ -3,9 +3,9 @@ title: "Section 701 - Flood control generally"
 usc_title: 33
 usc_section: "701"
 chapter: 15
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 701"
-generated_at: "2026-03-30T05:58:42.603Z"
+generated_at: "2026-03-30T06:04:44.402Z"
 status: "active"
 ---
 

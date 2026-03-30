@@ -3,9 +3,9 @@ title: "Section 1781 - Office of Military Family Readiness Policy"
 usc_title: 10
 usc_section: "1781"
 chapter: 88
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 1781"
-generated_at: "2026-03-30T05:57:28.094Z"
+generated_at: "2026-03-30T06:02:58.743Z"
 status: "active"
 ---
 

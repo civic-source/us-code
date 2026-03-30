@@ -3,9 +3,9 @@ title: "Section 1735d - Payment of insurance benefits in cash or debentures; bor
 usc_title: 12
 usc_section: "1735d"
 chapter: 13
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 1735d"
-generated_at: "2026-03-30T05:57:43.361Z"
+generated_at: "2026-03-30T06:03:04.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4127 - Prison Industries report to Congress"
 usc_title: 18
 usc_section: "4127"
 chapter: 307
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "18 U.S.C. § 4127"
-generated_at: "2026-03-30T05:57:53.842Z"
+generated_at: "2026-03-30T06:03:28.278Z"
 status: "active"
 ---
 

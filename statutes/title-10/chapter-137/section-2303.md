@@ -3,9 +3,9 @@ title: "Section 2303 - Applicability of chapter"
 usc_title: 10
 usc_section: "2303"
 chapter: 137
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 2303"
-generated_at: "2026-03-30T05:57:28.104Z"
+generated_at: "2026-03-30T06:02:58.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4201 - Trade negotiating objectives"
 usc_title: 19
 usc_section: "4201"
 chapter: 27
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "19 U.S.C. § 4201"
-generated_at: "2026-03-30T05:57:58.609Z"
+generated_at: "2026-03-30T06:03:27.368Z"
 status: "active"
 ---
 

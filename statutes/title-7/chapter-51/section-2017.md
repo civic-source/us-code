@@ -3,9 +3,9 @@ title: "Section 2017 - Value of allotment"
 usc_title: 7
 usc_section: "2017"
 chapter: 51
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "7 U.S.C. § 2017"
-generated_at: "2026-03-30T05:57:36.218Z"
+generated_at: "2026-03-30T06:02:22.391Z"
 status: "active"
 ---
 

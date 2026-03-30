@@ -3,9 +3,9 @@ title: "Section 296f - Technical assistance"
 usc_title: 42
 usc_section: "296f"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 296f"
-generated_at: "2026-03-30T05:59:08.525Z"
+generated_at: "2026-03-30T06:05:04.487Z"
 status: "active"
 ---
 

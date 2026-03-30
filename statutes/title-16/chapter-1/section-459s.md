@@ -3,9 +3,9 @@ title: "Section 459s - Lands for certain projects added to certain projects"
 usc_title: 16
 usc_section: "459s"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 459s"
-generated_at: "2026-03-30T05:58:15.353Z"
+generated_at: "2026-03-30T06:04:07.190Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9305 - Agreements with Canada"
 usc_title: 46
 usc_section: "9305"
 chapter: 93
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "46 U.S.C. § 9305"
-generated_at: "2026-03-30T05:59:23.043Z"
+generated_at: "2026-03-30T06:05:16.528Z"
 status: "active"
 ---
 

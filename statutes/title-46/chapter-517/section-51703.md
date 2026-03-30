@@ -3,9 +3,9 @@ title: "Section 51703 - Additional training"
 usc_title: 46
 usc_section: "51703"
 chapter: 517
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "46 U.S.C. § 51703"
-generated_at: "2026-03-30T05:59:23.054Z"
+generated_at: "2026-03-30T06:05:16.542Z"
 status: "active"
 ---
 

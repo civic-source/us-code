@@ -3,9 +3,9 @@ title: "Section 55 - Contract, rule, regulation, or device exempting from liabil
 usc_title: 45
 usc_section: "55"
 chapter: 2
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "45 U.S.C. § 55"
-generated_at: "2026-03-30T05:58:51.973Z"
+generated_at: "2026-03-30T06:04:51.945Z"
 status: "active"
 ---
 

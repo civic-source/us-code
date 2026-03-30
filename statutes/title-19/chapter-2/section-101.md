@@ -3,9 +3,9 @@ title: "Section 101 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 19
 usc_section: "101"
 chapter: 2
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "19 U.S.C. § 101"
-generated_at: "2026-03-30T05:57:58.547Z"
+generated_at: "2026-03-30T06:03:27.309Z"
 status: "repealed"
 ---
 

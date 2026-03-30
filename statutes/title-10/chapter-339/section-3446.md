@@ -3,9 +3,9 @@ title: "Section 3446 - Retention on active duty"
 usc_title: 10
 usc_section: "3446"
 chapter: 339
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 3446"
-generated_at: "2026-03-30T05:57:28.138Z"
+generated_at: "2026-03-30T06:02:58.789Z"
 status: "active"
 ---
 

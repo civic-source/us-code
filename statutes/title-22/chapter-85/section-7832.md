@@ -3,9 +3,9 @@ title: "Section 7832 - Assistance provided inside North Korea"
 usc_title: 22
 usc_section: "7832"
 chapter: 85
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "22 U.S.C. § 7832"
-generated_at: "2026-03-30T05:58:27.797Z"
+generated_at: "2026-03-30T06:04:13.860Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10219 - Suicide prevention and resilience program"
 usc_title: 10
 usc_section: "10219"
 chapter: 1007
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 10219"
-generated_at: "2026-03-30T05:57:28.165Z"
+generated_at: "2026-03-30T06:02:58.817Z"
 status: "active"
 ---
 

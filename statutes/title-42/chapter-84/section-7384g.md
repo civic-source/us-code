@@ -3,9 +3,9 @@ title: "Section 7384g - Authorization of appropriations"
 usc_title: 42
 usc_section: "7384g"
 chapter: 84
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 7384g"
-generated_at: "2026-03-30T05:59:08.934Z"
+generated_at: "2026-03-30T06:05:04.905Z"
 status: "active"
 ---
 

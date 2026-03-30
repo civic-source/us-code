@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-30T05:58:30.284Z"
+generated_at: "2026-03-30T06:04:35.679Z"
 status: "active"
 ---
 

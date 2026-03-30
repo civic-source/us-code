@@ -3,9 +3,9 @@ title: "Section 165 - Evaluation and audit of Mediation Board"
 usc_title: 45
 usc_section: "165"
 chapter: 8
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "45 U.S.C. § 165"
-generated_at: "2026-03-30T05:58:51.976Z"
+generated_at: "2026-03-30T06:04:51.948Z"
 status: "active"
 ---
 

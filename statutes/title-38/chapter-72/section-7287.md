@@ -3,9 +3,9 @@ title: "Section 7287 - Administration"
 usc_title: 38
 usc_section: "7287"
 chapter: 72
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "38 U.S.C. § 7287"
-generated_at: "2026-03-30T05:58:47.100Z"
+generated_at: "2026-03-30T06:04:48.208Z"
 status: "active"
 ---
 

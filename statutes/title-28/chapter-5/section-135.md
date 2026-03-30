@@ -3,9 +3,9 @@ title: "Section 135 - Salaries of district judges"
 usc_title: 28
 usc_section: "135"
 chapter: 5
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "28 U.S.C. § 135"
-generated_at: "2026-03-30T05:58:31.765Z"
+generated_at: "2026-03-30T06:04:33.648Z"
 status: "active"
 ---
 

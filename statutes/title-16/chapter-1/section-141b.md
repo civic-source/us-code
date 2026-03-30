@@ -3,9 +3,9 @@ title: "Section 141b - Wind Cave National Game Preserve transferred to park"
 usc_title: 16
 usc_section: "141b"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 141b"
-generated_at: "2026-03-30T05:58:15.303Z"
+generated_at: "2026-03-30T06:04:07.140Z"
 status: "active"
 ---
 

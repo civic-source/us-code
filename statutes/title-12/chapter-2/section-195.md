@@ -3,9 +3,9 @@ title: "Section 195 - Repealed. Pub. L. 103–325, title VI , § 602(e)(36), Sep
 usc_title: 12
 usc_section: "195"
 chapter: 2
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "12 U.S.C. § 195"
-generated_at: "2026-03-30T05:57:43.310Z"
+generated_at: "2026-03-30T06:03:04.382Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 161 - Quinquennial censuses; inclusion of certain data"
 usc_title: 13
 usc_section: "161"
 chapter: 5
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "13 U.S.C. § 161"
-generated_at: "2026-03-30T05:57:39.124Z"
+generated_at: "2026-03-30T06:03:04.605Z"
 status: "active"
 ---
 

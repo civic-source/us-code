@@ -3,9 +3,9 @@ title: "Section 698d - Review of Big Thicket Preserve area by Secretary; report 
 usc_title: 16
 usc_section: "698d"
 chapter: 6
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 698d"
-generated_at: "2026-03-30T05:58:15.410Z"
+generated_at: "2026-03-30T06:04:07.249Z"
 status: "active"
 ---
 

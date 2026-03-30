@@ -3,9 +3,9 @@ title: "Section 5791b - Grant program for notification and communications system
 usc_title: 42
 usc_section: "5791b"
 chapter: 72
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 5791b"
-generated_at: "2026-03-30T05:59:08.889Z"
+generated_at: "2026-03-30T06:05:04.859Z"
 status: "active"
 ---
 

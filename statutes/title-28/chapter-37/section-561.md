@@ -3,9 +3,9 @@ title: "Section 561 - United States Marshals Service"
 usc_title: 28
 usc_section: "561"
 chapter: 37
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "28 U.S.C. § 561"
-generated_at: "2026-03-30T05:58:31.772Z"
+generated_at: "2026-03-30T06:04:33.655Z"
 status: "active"
 ---
 

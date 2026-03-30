@@ -3,9 +3,9 @@ title: "Section 718 - Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561"
 usc_title: 33
 usc_section: "718"
 chapter: 16
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 718"
-generated_at: "2026-03-30T05:58:42.606Z"
+generated_at: "2026-03-30T06:04:44.406Z"
 status: "repealed"
 ---
 

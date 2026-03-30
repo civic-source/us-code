@@ -3,9 +3,9 @@ title: "Section 30902 - Charles “Pete” Conrad Astronomy Awards"
 usc_title: 51
 usc_section: "30902"
 chapter: 309
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "51 U.S.C. § 30902"
-generated_at: "2026-03-30T05:59:28.818Z"
+generated_at: "2026-03-30T06:05:18.946Z"
 status: "active"
 ---
 

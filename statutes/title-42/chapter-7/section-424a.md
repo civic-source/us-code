@@ -3,9 +3,9 @@ title: "Section 424a - Reduction of disability benefits"
 usc_title: 42
 usc_section: "424a"
 chapter: 7
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 424a"
-generated_at: "2026-03-30T05:59:08.589Z"
+generated_at: "2026-03-30T06:05:04.553Z"
 status: "active"
 ---
 

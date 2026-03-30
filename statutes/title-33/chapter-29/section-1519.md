@@ -3,9 +3,9 @@ title: "Section 1519 - Repealed. Pub. L. 104–66, title I , § 1121(a), Dec. 21
 usc_title: 33
 usc_section: "1519"
 chapter: 29
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "33 U.S.C. § 1519"
-generated_at: "2026-03-30T05:58:42.637Z"
+generated_at: "2026-03-30T06:04:44.434Z"
 status: "repealed"
 ---
 

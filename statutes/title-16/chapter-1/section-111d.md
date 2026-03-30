@@ -3,9 +3,9 @@ title: "Section 111d - Acquisition of lands within boundaries of park"
 usc_title: 16
 usc_section: "111d"
 chapter: 1
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "16 U.S.C. § 111d"
-generated_at: "2026-03-30T05:58:15.302Z"
+generated_at: "2026-03-30T06:04:07.140Z"
 status: "active"
 ---
 

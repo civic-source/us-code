@@ -3,9 +3,9 @@ title: "Section 1521 - Retaliating against a Federal judge or Federal law enforc
 usc_title: 18
 usc_section: "1521"
 chapter: 73
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "18 U.S.C. § 1521"
-generated_at: "2026-03-30T05:57:53.812Z"
+generated_at: "2026-03-30T06:03:28.248Z"
 status: "active"
 ---
 

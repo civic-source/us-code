@@ -3,9 +3,9 @@ title: "Section 3682 - Repealed. Pub. L. 90–235 , § 6(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3682"
 chapter: 353
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 3682"
-generated_at: "2026-03-30T05:57:28.139Z"
+generated_at: "2026-03-30T06:02:58.790Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1035 - Deposits of savings"
 usc_title: 10
 usc_section: "1035"
 chapter: 53
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "10 U.S.C. § 1035"
-generated_at: "2026-03-30T05:57:28.067Z"
+generated_at: "2026-03-30T06:02:58.716Z"
 status: "active"
 ---
 

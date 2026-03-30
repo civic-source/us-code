@@ -3,9 +3,9 @@ title: "Section 3196 - Performance evaluations of grant recipients"
 usc_title: 42
 usc_section: "3196"
 chapter: 38
-current_through: "PL 115-14"
+current_through: "PL 115-18"
 classification: "42 U.S.C. § 3196"
-generated_at: "2026-03-30T05:59:08.829Z"
+generated_at: "2026-03-30T06:05:04.797Z"
 status: "active"
 ---
 
