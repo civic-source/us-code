@@ -3,9 +3,9 @@ title: "Section 7139 - Office of Science; establishment; appointment of Director
 usc_title: 42
 usc_section: "7139"
 chapter: 84
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 7139"
-generated_at: "2026-03-30T09:26:18.752Z"
+generated_at: "2026-03-30T09:29:28.279Z"
 status: "active"
 ---
 

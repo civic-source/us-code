@@ -3,9 +3,9 @@ title: "Section 212 - Prescribing rates and practices to prevent discrimination 
 usc_title: 7
 usc_section: "212"
 chapter: 9
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 212"
-generated_at: "2026-03-30T09:23:58.396Z"
+generated_at: "2026-03-30T09:26:58.591Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1231a - Collection and dissemination of information"
 usc_title: 20
 usc_section: "1231a"
 chapter: 31
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "20 U.S.C. § 1231a"
-generated_at: "2026-03-30T09:24:28.712Z"
+generated_at: "2026-03-30T09:27:54.986Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4119 - Training for employees under the Office of the Architect 
 usc_title: 5
 usc_section: "4119"
 chapter: 41
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "5 U.S.C. § 4119"
-generated_at: "2026-03-30T09:23:52.071Z"
+generated_at: "2026-03-30T09:26:52.329Z"
 status: "active"
 ---
 

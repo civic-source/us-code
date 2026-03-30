@@ -3,9 +3,9 @@ title: "Section 883e - Agreements for surveys and investigations; contribution o
 usc_title: 33
 usc_section: "883e"
 chapter: 17
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "33 U.S.C. § 883e"
-generated_at: "2026-03-30T09:25:27.034Z"
+generated_at: "2026-03-30T09:28:38.443Z"
 status: "active"
 ---
 

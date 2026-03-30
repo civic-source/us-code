@@ -3,9 +3,9 @@ title: "Section 12441 - Grants to protect the privacy and confidentiality of vic
 usc_title: 34
 usc_section: "12441"
 chapter: 121
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "34 U.S.C. § 12441"
-generated_at: "2026-03-30T09:25:29.504Z"
+generated_at: "2026-03-30T09:28:40.489Z"
 status: "active"
 ---
 

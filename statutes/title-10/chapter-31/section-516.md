@@ -3,9 +3,9 @@ title: "Section 516 - Effect upon enlisted status of acceptance of appointment a
 usc_title: 10
 usc_section: "516"
 chapter: 31
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 516"
-generated_at: "2026-03-30T09:24:14.580Z"
+generated_at: "2026-03-30T09:27:12.412Z"
 status: "active"
 ---
 

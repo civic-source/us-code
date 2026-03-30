@@ -3,9 +3,9 @@ title: "Section 3055 - Repealed. Pub. L. 93–29, title II, § 202 , May 3, 1973
 usc_title: 42
 usc_section: "3055"
 chapter: 35
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 3055"
-generated_at: "2026-03-30T09:26:18.665Z"
+generated_at: "2026-03-30T09:29:28.187Z"
 status: "repealed"
 ---
 

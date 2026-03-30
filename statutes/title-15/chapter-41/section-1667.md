@@ -3,9 +3,9 @@ title: "Section 1667 - Definitions"
 usc_title: 15
 usc_section: "1667"
 chapter: 41
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 1667"
-generated_at: "2026-03-30T09:24:21.206Z"
+generated_at: "2026-03-30T09:27:45.690Z"
 status: "active"
 ---
 

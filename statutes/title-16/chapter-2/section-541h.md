@@ -3,9 +3,9 @@ title: "Section 541h - Cooperation with State of Oregon in administration and pr
 usc_title: 16
 usc_section: "541h"
 chapter: 2
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 541h"
-generated_at: "2026-03-30T09:24:32.369Z"
+generated_at: "2026-03-30T09:27:52.978Z"
 status: "active"
 ---
 

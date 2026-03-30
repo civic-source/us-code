@@ -3,9 +3,9 @@ title: "Section 262 - Ensuring the integrity of voice communications"
 usc_title: 47
 usc_section: "262"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "47 U.S.C. § 262"
-generated_at: "2026-03-30T09:26:21.798Z"
+generated_at: "2026-03-30T09:29:31.751Z"
 status: "active"
 ---
 

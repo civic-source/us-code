@@ -3,9 +3,9 @@ title: "Section 780a - Independent status of National Council on the Handicapped
 usc_title: 29
 usc_section: "780a"
 chapter: 16
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "29 U.S.C. § 780a"
-generated_at: "2026-03-30T09:25:16.444Z"
+generated_at: "2026-03-30T09:28:32.479Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 92 - Definitions"
 usc_title: 7
 usc_section: "92"
 chapter: 4
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 92"
-generated_at: "2026-03-30T09:23:58.379Z"
+generated_at: "2026-03-30T09:26:58.574Z"
 status: "active"
 ---
 

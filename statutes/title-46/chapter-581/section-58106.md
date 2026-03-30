@@ -3,9 +3,9 @@ title: "Section 58106 - Concerted discriminatory activities"
 usc_title: 46
 usc_section: "58106"
 chapter: 581
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "46 U.S.C. § 58106"
-generated_at: "2026-03-30T09:26:23.990Z"
+generated_at: "2026-03-30T09:29:32.552Z"
 status: "active"
 ---
 

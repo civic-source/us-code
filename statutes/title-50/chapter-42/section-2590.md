@@ -3,9 +3,9 @@ title: "Section 2590 - Estimation of costs of meeting defense environmental clea
 usc_title: 50
 usc_section: "2590"
 chapter: 42
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 2590"
-generated_at: "2026-03-30T09:26:23.261Z"
+generated_at: "2026-03-30T09:29:35.090Z"
 status: "active"
 ---
 

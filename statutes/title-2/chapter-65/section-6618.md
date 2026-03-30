@@ -3,9 +3,9 @@ title: "Section 6618 - Data processing equipment, software, and services"
 usc_title: 2
 usc_section: "6618"
 chapter: 65
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "2 U.S.C. § 6618"
-generated_at: "2026-03-30T09:23:44.944Z"
+generated_at: "2026-03-30T09:26:43.520Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-30T09:25:41.342Z"
+generated_at: "2026-03-30T09:28:49.503Z"
 status: "active"
 ---
 

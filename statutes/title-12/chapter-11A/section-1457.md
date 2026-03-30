@@ -3,9 +3,9 @@ title: "Section 1457 - Prohibited activities; penalties for violations by organi
 usc_title: 12
 usc_section: "1457"
 chapter: 11
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "12 U.S.C. § 1457"
-generated_at: "2026-03-30T09:24:23.664Z"
+generated_at: "2026-03-30T09:27:22.586Z"
 status: "active"
 ---
 

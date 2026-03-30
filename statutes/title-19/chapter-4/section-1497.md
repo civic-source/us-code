@@ -3,9 +3,9 @@ title: "Section 1497 - Penalties for failure to declare"
 usc_title: 19
 usc_section: "1497"
 chapter: 4
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "19 U.S.C. § 1497"
-generated_at: "2026-03-30T09:24:40.777Z"
+generated_at: "2026-03-30T09:27:59.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 295l - Repealed. Pub. L. 105–392, title I, § 106(a)(2)(C) , N
 usc_title: 42
 usc_section: "295l"
 chapter: 6
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 295l"
-generated_at: "2026-03-30T09:26:18.350Z"
+generated_at: "2026-03-30T09:29:27.866Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3c - Expedited development and review of medical products for em
 usc_title: 21
 usc_section: "3c"
 chapter: 9
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "21 U.S.C. § 3c"
-generated_at: "2026-03-30T09:24:53.841Z"
+generated_at: "2026-03-30T09:28:12.472Z"
 status: "active"
 ---
 

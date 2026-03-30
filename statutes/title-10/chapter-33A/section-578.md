@@ -3,9 +3,9 @@ title: "Section 578 - Promotions: how made; effective date"
 usc_title: 10
 usc_section: "578"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 578"
-generated_at: "2026-03-30T09:24:14.582Z"
+generated_at: "2026-03-30T09:27:12.415Z"
 status: "active"
 ---
 

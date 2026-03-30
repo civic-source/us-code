@@ -3,9 +3,9 @@ title: "Section 40 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(2), (3
 usc_title: 22
 usc_section: "40"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 40"
-generated_at: "2026-03-30T09:24:59.272Z"
+generated_at: "2026-03-30T09:28:09.912Z"
 status: "repealed"
 ---
 

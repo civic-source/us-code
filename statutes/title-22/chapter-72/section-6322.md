@@ -3,9 +3,9 @@ title: "Section 6322 - IAEA internal reforms"
 usc_title: 22
 usc_section: "6322"
 chapter: 72
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 6322"
-generated_at: "2026-03-30T09:24:59.379Z"
+generated_at: "2026-03-30T09:28:10.016Z"
 status: "active"
 ---
 

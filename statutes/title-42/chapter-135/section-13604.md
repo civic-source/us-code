@@ -3,9 +3,9 @@ title: "Section 13604 - Assisted applications"
 usc_title: 42
 usc_section: "13604"
 chapter: 135
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 13604"
-generated_at: "2026-03-30T09:26:18.890Z"
+generated_at: "2026-03-30T09:29:28.420Z"
 status: "active"
 ---
 

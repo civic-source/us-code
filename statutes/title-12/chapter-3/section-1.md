@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 89–597, § 2(d) , Sept. 21, 1966 , 80 St
 usc_title: 12
 usc_section: "1"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T09:24:23.652Z"
+generated_at: "2026-03-30T09:27:22.573Z"
 status: "repealed"
 ---
 

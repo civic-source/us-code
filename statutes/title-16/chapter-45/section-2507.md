@@ -3,9 +3,9 @@ title: "Section 2507 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2507"
 chapter: 45
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 2507"
-generated_at: "2026-03-30T09:24:32.558Z"
+generated_at: "2026-03-30T09:27:53.066Z"
 status: "repealed"
 ---
 

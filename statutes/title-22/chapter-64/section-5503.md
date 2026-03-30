@@ -3,9 +3,9 @@ title: "Section 5503 - Department of State notification of families of victims"
 usc_title: 22
 usc_section: "5503"
 chapter: 64
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 5503"
-generated_at: "2026-03-30T09:24:59.371Z"
+generated_at: "2026-03-30T09:28:10.009Z"
 status: "active"
 ---
 

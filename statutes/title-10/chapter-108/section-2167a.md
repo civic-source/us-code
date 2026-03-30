@@ -3,9 +3,9 @@ title: "Section 2167a - Defense Cyber Investigations Training Academy: admission
 usc_title: 10
 usc_section: "2167a"
 chapter: 108
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2167a"
-generated_at: "2026-03-30T09:24:14.632Z"
+generated_at: "2026-03-30T09:27:12.472Z"
 status: "active"
 ---
 

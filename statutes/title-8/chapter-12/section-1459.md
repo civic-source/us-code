@@ -3,9 +3,9 @@ title: "Section 1459 - Repealed. Pub. L. 101–649, title IV, § 407(d)(20) , No
 usc_title: 8
 usc_section: "1459"
 chapter: 12
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "8 U.S.C. § 1459"
-generated_at: "2026-03-30T09:24:05.482Z"
+generated_at: "2026-03-30T09:26:55.307Z"
 status: "repealed"
 ---
 

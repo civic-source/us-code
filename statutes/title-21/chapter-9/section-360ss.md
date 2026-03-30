@@ -3,9 +3,9 @@ title: "Section 360ss - State standards"
 usc_title: 21
 usc_section: "360ss"
 chapter: 9
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "21 U.S.C. § 360ss"
-generated_at: "2026-03-30T09:24:53.840Z"
+generated_at: "2026-03-30T09:28:12.471Z"
 status: "active"
 ---
 

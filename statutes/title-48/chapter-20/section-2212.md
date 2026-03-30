@@ -3,9 +3,9 @@ title: "Section 2212 - Position of Revitalization Coordinator"
 usc_title: 48
 usc_section: "2212"
 chapter: 20
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "48 U.S.C. § 2212"
-generated_at: "2026-03-30T09:26:22.244Z"
+generated_at: "2026-03-30T09:29:31.241Z"
 status: "active"
 ---
 

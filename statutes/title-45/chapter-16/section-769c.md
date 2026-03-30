@@ -3,9 +3,9 @@ title: "Section 769c - Repealed. Pub. L. 99–509, title IV, § 4033(a)(1) , Oct
 usc_title: 45
 usc_section: "769c"
 chapter: 16
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "45 U.S.C. § 769c"
-generated_at: "2026-03-30T09:25:59.376Z"
+generated_at: "2026-03-30T09:28:51.981Z"
 status: "repealed"
 ---
 

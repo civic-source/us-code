@@ -3,9 +3,9 @@ title: "Section 6346 - Repealed. Pub. L. 99–509, title III, § 3101(b) , Oct. 
 usc_title: 42
 usc_section: "6346"
 chapter: 77
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 6346"
-generated_at: "2026-03-30T09:26:18.731Z"
+generated_at: "2026-03-30T09:29:28.258Z"
 status: "repealed"
 ---
 

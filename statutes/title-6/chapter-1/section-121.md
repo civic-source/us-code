@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T09:24:07.801Z"
+generated_at: "2026-03-30T09:26:54.645Z"
 status: "active"
 ---
 

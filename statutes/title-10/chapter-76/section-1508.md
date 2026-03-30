@@ -3,9 +3,9 @@ title: "Section 1508 - Judicial review"
 usc_title: 10
 usc_section: "1508"
 chapter: 76
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 1508"
-generated_at: "2026-03-30T09:24:14.621Z"
+generated_at: "2026-03-30T09:27:12.460Z"
 status: "active"
 ---
 

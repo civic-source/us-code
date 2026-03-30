@@ -3,9 +3,9 @@ title: "Section 35 - Construction, operation, and maintenance of works; property
 usc_title: 22
 usc_section: "35"
 chapter: 7
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 35"
-generated_at: "2026-03-30T09:24:59.280Z"
+generated_at: "2026-03-30T09:28:09.920Z"
 status: "active"
 ---
 

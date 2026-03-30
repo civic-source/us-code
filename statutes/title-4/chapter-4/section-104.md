@@ -3,9 +3,9 @@ title: "Section 104 - Tax on motor fuel sold on military or other reservation 1 
 usc_title: 4
 usc_section: "104"
 chapter: 4
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "4 U.S.C. § 104"
-generated_at: "2026-03-30T09:23:23.045Z"
+generated_at: "2026-03-30T09:26:47.769Z"
 status: "active"
 ---
 

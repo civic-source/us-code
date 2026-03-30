@@ -3,9 +3,9 @@ title: "Section 7a - Youth prevention and recovery"
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T09:26:18.333Z"
+generated_at: "2026-03-30T09:29:27.848Z"
 status: "active"
 ---
 

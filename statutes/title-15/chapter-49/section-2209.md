@@ -3,9 +3,9 @@ title: "Section 2209 - Master plans"
 usc_title: 15
 usc_section: "2209"
 chapter: 49
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 2209"
-generated_at: "2026-03-30T09:24:21.228Z"
+generated_at: "2026-03-30T09:27:45.710Z"
 status: "active"
 ---
 

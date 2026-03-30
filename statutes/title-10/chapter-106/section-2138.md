@@ -3,9 +3,9 @@ title: "Section 2138 - Savings provision"
 usc_title: 10
 usc_section: "2138"
 chapter: 106
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2138"
-generated_at: "2026-03-30T09:24:14.631Z"
+generated_at: "2026-03-30T09:27:12.470Z"
 status: "active"
 ---
 

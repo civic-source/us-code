@@ -3,9 +3,9 @@ title: "Section 77d - Transfer or loan of aeronautical or space flight equipment
 usc_title: 20
 usc_section: "77d"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "20 U.S.C. § 77d"
-generated_at: "2026-03-30T09:24:28.646Z"
+generated_at: "2026-03-30T09:27:54.900Z"
 status: "active"
 ---
 

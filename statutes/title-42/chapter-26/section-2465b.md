@@ -3,9 +3,9 @@ title: "Section 2465b - Repealed. Pub. L. 105–303, title II, § 203(1) , Oct. 
 usc_title: 42
 usc_section: "2465b"
 chapter: 26
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 2465b"
-generated_at: "2026-03-30T09:26:18.653Z"
+generated_at: "2026-03-30T09:29:28.176Z"
 status: "repealed"
 ---
 

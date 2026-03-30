@@ -3,9 +3,9 @@ title: "Section 13 - Authority to issue obligations to cover guarantee losses of
 usc_title: 12
 usc_section: "13"
 chapter: 23
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T09:24:23.744Z"
+generated_at: "2026-03-30T09:27:22.666Z"
 status: "active"
 ---
 

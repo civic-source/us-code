@@ -3,9 +3,9 @@ title: "Section 41304 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41304"
 chapter: 413
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "49 U.S.C. § 41304"
-generated_at: "2026-03-30T09:26:28.367Z"
+generated_at: "2026-03-30T09:29:40.220Z"
 status: "active"
 ---
 

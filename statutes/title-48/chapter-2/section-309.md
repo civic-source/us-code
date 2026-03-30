@@ -3,9 +3,9 @@ title: "Section 309 - Repealed. Feb. 10, 1939, ch. 2, § 4(a) , 53 Stat. 1"
 usc_title: 48
 usc_section: "309"
 chapter: 2
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "48 U.S.C. § 309"
-generated_at: "2026-03-30T09:26:22.223Z"
+generated_at: "2026-03-30T09:29:31.221Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6039 - Authorization of support for democratic and human rights 
 usc_title: 22
 usc_section: "6039"
 chapter: 69
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 6039"
-generated_at: "2026-03-30T09:24:59.375Z"
+generated_at: "2026-03-30T09:28:10.013Z"
 status: "active"
 ---
 

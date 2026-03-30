@@ -3,9 +3,9 @@ title: "Section 200304 - Statement of estimated requirements"
 usc_title: 54
 usc_section: "200304"
 chapter: 2003
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "54 U.S.C. § 200304"
-generated_at: "2026-03-30T09:26:30.751Z"
+generated_at: "2026-03-30T09:29:43.479Z"
 status: "active"
 ---
 

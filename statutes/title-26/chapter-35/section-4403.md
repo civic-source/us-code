@@ -3,9 +3,9 @@ title: "Section 4403 - Record requirements"
 usc_title: 26
 usc_section: "4403"
 chapter: 35
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "26 U.S.C. § 4403"
-generated_at: "2026-03-30T09:25:23.310Z"
+generated_at: "2026-03-30T09:28:21.605Z"
 status: "active"
 ---
 

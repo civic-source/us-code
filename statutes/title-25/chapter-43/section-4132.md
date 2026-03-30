@@ -3,9 +3,9 @@ title: "Section 4132 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4132"
 chapter: 43
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 4132"
-generated_at: "2026-03-30T09:24:54.670Z"
+generated_at: "2026-03-30T09:28:07.145Z"
 status: "active"
 ---
 

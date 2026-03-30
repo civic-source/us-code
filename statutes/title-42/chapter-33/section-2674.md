@@ -3,9 +3,9 @@ title: "Section 2674 - Transferred"
 usc_title: 42
 usc_section: "2674"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 2674"
-generated_at: "2026-03-30T09:26:18.654Z"
+generated_at: "2026-03-30T09:29:28.176Z"
 status: "transferred"
 ---
 

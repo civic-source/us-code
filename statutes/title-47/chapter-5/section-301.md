@@ -3,9 +3,9 @@ title: "Section 301 - License for radio communication or transmission of energy"
 usc_title: 47
 usc_section: "301"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "47 U.S.C. § 301"
-generated_at: "2026-03-30T09:26:21.799Z"
+generated_at: "2026-03-30T09:29:31.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 978 - Drug and alcohol abuse and dependency: testing of new entr
 usc_title: 10
 usc_section: "978"
 chapter: 49
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 978"
-generated_at: "2026-03-30T09:24:14.597Z"
+generated_at: "2026-03-30T09:27:12.434Z"
 status: "active"
 ---
 

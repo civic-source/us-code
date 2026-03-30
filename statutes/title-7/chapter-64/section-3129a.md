@@ -3,9 +3,9 @@ title: "Section 3129a - Federal Advisory Committee Act exemption for competitive
 usc_title: 7
 usc_section: "3129a"
 chapter: 64
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 3129a"
-generated_at: "2026-03-30T09:23:58.490Z"
+generated_at: "2026-03-30T09:26:58.680Z"
 status: "active"
 ---
 

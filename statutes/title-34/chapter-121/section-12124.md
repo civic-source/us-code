@@ -3,9 +3,9 @@ title: "Section 12124 - Correctional job training and placement"
 usc_title: 34
 usc_section: "12124"
 chapter: 121
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "34 U.S.C. § 12124"
-generated_at: "2026-03-30T09:25:29.500Z"
+generated_at: "2026-03-30T09:28:40.484Z"
 status: "active"
 ---
 

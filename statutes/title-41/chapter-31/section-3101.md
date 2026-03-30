@@ -3,9 +3,9 @@ title: "Section 3101 - Applicability"
 usc_title: 41
 usc_section: "3101"
 chapter: 31
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "41 U.S.C. § 3101"
-generated_at: "2026-03-30T09:25:55.505Z"
+generated_at: "2026-03-30T09:28:55.639Z"
 status: "active"
 ---
 

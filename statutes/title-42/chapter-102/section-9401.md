@@ -3,9 +3,9 @@ title: "Section 9401 - Congressional statement of findings"
 usc_title: 42
 usc_section: "9401"
 chapter: 102
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 9401"
-generated_at: "2026-03-30T09:26:18.808Z"
+generated_at: "2026-03-30T09:29:28.336Z"
 status: "active"
 ---
 

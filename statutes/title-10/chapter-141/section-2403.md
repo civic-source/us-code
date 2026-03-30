@@ -3,9 +3,9 @@ title: "Section 2403 - Repealed. Pub. L. 105–85, div. A, title VIII, § 847(a)
 usc_title: 10
 usc_section: "2403"
 chapter: 141
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2403"
-generated_at: "2026-03-30T09:24:14.651Z"
+generated_at: "2026-03-30T09:27:12.491Z"
 status: "repealed"
 ---
 

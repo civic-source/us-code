@@ -3,9 +3,9 @@ title: "Section 1107 - Limitation with respect to acquisition and holding of emp
 usc_title: 29
 usc_section: "1107"
 chapter: 18
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "29 U.S.C. § 1107"
-generated_at: "2026-03-30T09:25:16.462Z"
+generated_at: "2026-03-30T09:28:32.497Z"
 status: "active"
 ---
 

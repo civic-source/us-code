@@ -3,9 +3,9 @@ title: "Section 6215 - Assessment of deficiency found by Tax Court"
 usc_title: 26
 usc_section: "6215"
 chapter: 63
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "26 U.S.C. § 6215"
-generated_at: "2026-03-30T09:25:23.344Z"
+generated_at: "2026-03-30T09:28:21.640Z"
 status: "active"
 ---
 

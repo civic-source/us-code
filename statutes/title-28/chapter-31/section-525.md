@@ -3,9 +3,9 @@ title: "Section 525 - Procurement of law books, reference books, and periodicals
 usc_title: 28
 usc_section: "525"
 chapter: 31
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "28 U.S.C. § 525"
-generated_at: "2026-03-30T09:25:07.443Z"
+generated_at: "2026-03-30T09:28:17.570Z"
 status: "active"
 ---
 

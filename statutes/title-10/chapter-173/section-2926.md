@@ -3,9 +3,9 @@ title: "Section 2926 - Operational energy"
 usc_title: 10
 usc_section: "2926"
 chapter: 173
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2926"
-generated_at: "2026-03-30T09:24:14.676Z"
+generated_at: "2026-03-30T09:27:12.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1715 - Administration"
 usc_title: 15
 usc_section: "1715"
 chapter: 42
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 1715"
-generated_at: "2026-03-30T09:24:21.219Z"
+generated_at: "2026-03-30T09:27:45.702Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2534 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(c
 usc_title: 50
 usc_section: "2534"
 chapter: 42
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 2534"
-generated_at: "2026-03-30T09:26:23.260Z"
+generated_at: "2026-03-30T09:29:35.088Z"
 status: "repealed"
 ---
 

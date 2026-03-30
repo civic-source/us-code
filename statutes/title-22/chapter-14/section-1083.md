@@ -3,9 +3,9 @@ title: "Section 1083 - Repealed. Pub. L. 94–350, title V, § 516 , July 12, 19
 usc_title: 22
 usc_section: "1083"
 chapter: 14
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 1083"
-generated_at: "2026-03-30T09:24:59.296Z"
+generated_at: "2026-03-30T09:28:09.935Z"
 status: "repealed"
 ---
 

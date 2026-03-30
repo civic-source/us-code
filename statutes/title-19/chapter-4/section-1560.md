@@ -3,9 +3,9 @@ title: "Section 1560 - Leasing of warehouses"
 usc_title: 19
 usc_section: "1560"
 chapter: 4
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "19 U.S.C. § 1560"
-generated_at: "2026-03-30T09:24:40.782Z"
+generated_at: "2026-03-30T09:27:59.217Z"
 status: "active"
 ---
 

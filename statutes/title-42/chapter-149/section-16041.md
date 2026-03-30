@@ -3,9 +3,9 @@ title: "Section 16041 - Nuclear facility and materials security"
 usc_title: 42
 usc_section: "16041"
 chapter: 149
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 16041"
-generated_at: "2026-03-30T09:26:18.906Z"
+generated_at: "2026-03-30T09:29:28.435Z"
 status: "active"
 ---
 

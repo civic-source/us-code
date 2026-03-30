@@ -3,9 +3,9 @@ title: "Section 1a - Boundary revision"
 usc_title: 16
 usc_section: "1a"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 1a"
-generated_at: "2026-03-30T09:24:32.294Z"
+generated_at: "2026-03-30T09:27:52.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1247a - Transferred"
 usc_title: 48
 usc_section: "1247a"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "48 U.S.C. § 1247a"
-generated_at: "2026-03-30T09:26:22.226Z"
+generated_at: "2026-03-30T09:29:31.224Z"
 status: "transferred"
 ---
 

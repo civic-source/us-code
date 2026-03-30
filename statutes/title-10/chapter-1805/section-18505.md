@@ -3,9 +3,9 @@ title: "Section 18505 - Reserves traveling for inactive-duty training: space-req
 usc_title: 10
 usc_section: "18505"
 chapter: 1805
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 18505"
-generated_at: "2026-03-30T09:24:14.714Z"
+generated_at: "2026-03-30T09:27:12.554Z"
 status: "active"
 ---
 

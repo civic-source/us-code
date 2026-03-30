@@ -3,9 +3,9 @@ title: "Section 973 - Authorization of appropriations"
 usc_title: 6
 usc_section: "973"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "6 U.S.C. § 973"
-generated_at: "2026-03-30T09:24:07.831Z"
+generated_at: "2026-03-30T09:26:54.673Z"
 status: "active"
 ---
 

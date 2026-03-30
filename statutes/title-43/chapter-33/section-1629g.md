@@ -3,9 +3,9 @@ title: "Section 1629g - Open season for certain Alaska Native veterans for allot
 usc_title: 43
 usc_section: "1629g"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "43 U.S.C. § 1629g"
-generated_at: "2026-03-30T09:26:01.187Z"
+generated_at: "2026-03-30T09:28:52.569Z"
 status: "active"
 ---
 

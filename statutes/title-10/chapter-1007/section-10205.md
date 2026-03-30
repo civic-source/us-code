@@ -3,9 +3,9 @@ title: "Section 10205 - Members of Ready Reserve: requirement of notification of
 usc_title: 10
 usc_section: "10205"
 chapter: 1007
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 10205"
-generated_at: "2026-03-30T09:24:14.702Z"
+generated_at: "2026-03-30T09:27:12.543Z"
 status: "active"
 ---
 

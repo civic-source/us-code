@@ -3,9 +3,9 @@ title: "Section 2341 - Authority to acquire logistic support, supplies, and serv
 usc_title: 10
 usc_section: "2341"
 chapter: 138
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2341"
-generated_at: "2026-03-30T09:24:14.645Z"
+generated_at: "2026-03-30T09:27:12.485Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 112b - United States international agreements; transmission to C
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-03-30T09:23:28.792Z"
+generated_at: "2026-03-30T09:26:42.077Z"
 status: "active"
 ---
 

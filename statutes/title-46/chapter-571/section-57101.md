@@ -3,9 +3,9 @@ title: "Section 57101 - Placement of vessels in National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57101"
 chapter: 571
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "46 U.S.C. § 57101"
-generated_at: "2026-03-30T09:26:23.989Z"
+generated_at: "2026-03-30T09:29:32.551Z"
 status: "active"
 ---
 

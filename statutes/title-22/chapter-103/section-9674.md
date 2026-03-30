@@ -3,9 +3,9 @@ title: "Section 9674 - Applicability of certain provisions of law"
 usc_title: 22
 usc_section: "9674"
 chapter: 103
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 9674"
-generated_at: "2026-03-30T09:24:59.418Z"
+generated_at: "2026-03-30T09:28:10.054Z"
 status: "active"
 ---
 

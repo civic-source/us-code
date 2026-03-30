@@ -3,9 +3,9 @@ title: "Section 5036 - Speedy trial"
 usc_title: 18
 usc_section: "5036"
 chapter: 403
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "18 U.S.C. § 5036"
-generated_at: "2026-03-30T09:24:49.358Z"
+generated_at: "2026-03-30T09:28:01.339Z"
 status: "active"
 ---
 

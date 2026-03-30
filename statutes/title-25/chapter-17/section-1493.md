@@ -3,9 +3,9 @@ title: "Section 1493 - Loan refusal; conditions; prohibition against acquisition
 usc_title: 25
 usc_section: "1493"
 chapter: 17
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 1493"
-generated_at: "2026-03-30T09:24:54.634Z"
+generated_at: "2026-03-30T09:28:07.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 49 - Enforcement of animal fighting prohibitions"
 usc_title: 18
 usc_section: "49"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "18 U.S.C. § 49"
-generated_at: "2026-03-30T09:24:49.303Z"
+generated_at: "2026-03-30T09:28:01.281Z"
 status: "active"
 ---
 

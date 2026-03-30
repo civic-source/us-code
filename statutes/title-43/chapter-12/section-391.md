@@ -3,9 +3,9 @@ title: "Section 391 - Establishment of “reclamation fund”"
 usc_title: 43
 usc_section: "391"
 chapter: 12
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "43 U.S.C. § 391"
-generated_at: "2026-03-30T09:26:01.157Z"
+generated_at: "2026-03-30T09:28:52.538Z"
 status: "active"
 ---
 

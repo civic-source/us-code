@@ -3,9 +3,9 @@ title: "Section 5727 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5727"
 chapter: 77
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 5727"
-generated_at: "2026-03-30T09:24:32.589Z"
+generated_at: "2026-03-30T09:27:53.098Z"
 status: "active"
 ---
 

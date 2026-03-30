@@ -3,9 +3,9 @@ title: "Section 8264 - Shore patrol duty: payment of expenses"
 usc_title: 10
 usc_section: "8264"
 chapter: 831
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 8264"
-generated_at: "2026-03-30T09:24:14.686Z"
+generated_at: "2026-03-30T09:27:12.526Z"
 status: "active"
 ---
 

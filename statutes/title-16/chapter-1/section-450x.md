@@ -3,9 +3,9 @@ title: "Section 450x - Authorization of annual appropriations"
 usc_title: 16
 usc_section: "450x"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 450x"
-generated_at: "2026-03-30T09:24:32.320Z"
+generated_at: "2026-03-30T09:27:52.932Z"
 status: "active"
 ---
 

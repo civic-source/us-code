@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-30T09:24:54.649Z"
+generated_at: "2026-03-30T09:28:07.124Z"
 status: "active"
 ---
 

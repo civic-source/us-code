@@ -3,9 +3,9 @@ title: "Section 1706c - Insurance of mortgages"
 usc_title: 12
 usc_section: "1706c"
 chapter: 13
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "12 U.S.C. § 1706c"
-generated_at: "2026-03-30T09:24:23.677Z"
+generated_at: "2026-03-30T09:27:22.599Z"
 status: "active"
 ---
 

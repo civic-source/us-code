@@ -3,9 +3,9 @@ title: "Section 2011 - Grants"
 usc_title: 38
 usc_section: "2011"
 chapter: 20
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 2011"
-generated_at: "2026-03-30T09:25:41.339Z"
+generated_at: "2026-03-30T09:28:49.500Z"
 status: "active"
 ---
 

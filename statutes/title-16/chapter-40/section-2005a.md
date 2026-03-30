@@ -3,9 +3,9 @@ title: "Section 2005a - Repealed. Pub. L. 104–127, title III, § 336(e) , Apr.
 usc_title: 16
 usc_section: "2005a"
 chapter: 40
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 2005a"
-generated_at: "2026-03-30T09:24:32.553Z"
+generated_at: "2026-03-30T09:27:53.061Z"
 status: "repealed"
 ---
 

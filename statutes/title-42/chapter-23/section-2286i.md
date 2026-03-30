@@ -3,9 +3,9 @@ title: "Section 2286i - Annual authorization of appropriations"
 usc_title: 42
 usc_section: "2286i"
 chapter: 23
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 2286i"
-generated_at: "2026-03-30T09:26:18.650Z"
+generated_at: "2026-03-30T09:29:28.171Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2276 - Breaking and entering vessel"
 usc_title: 18
 usc_section: "2276"
 chapter: 111
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "18 U.S.C. § 2276"
-generated_at: "2026-03-30T09:24:49.334Z"
+generated_at: "2026-03-30T09:28:01.314Z"
 status: "active"
 ---
 

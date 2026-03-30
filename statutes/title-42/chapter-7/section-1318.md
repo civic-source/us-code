@@ -3,9 +3,9 @@ title: "Section 1318 - Alternative Federal payment with respect to public assist
 usc_title: 42
 usc_section: "1318"
 chapter: 7
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 1318"
-generated_at: "2026-03-30T09:26:18.450Z"
+generated_at: "2026-03-30T09:29:27.970Z"
 status: "active"
 ---
 

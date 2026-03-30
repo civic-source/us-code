@@ -3,9 +3,9 @@ title: "Section 112 - Procurement system"
 usc_title: 41
 usc_section: "112"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "41 U.S.C. § 112"
-generated_at: "2026-03-30T09:25:55.500Z"
+generated_at: "2026-03-30T09:28:55.634Z"
 status: "active"
 ---
 

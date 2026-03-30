@@ -3,9 +3,9 @@ title: "Section 2504 - Extent of foregoing provisions"
 usc_title: 43
 usc_section: "2504"
 chapter: 43
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "43 U.S.C. § 2504"
-generated_at: "2026-03-30T09:26:01.200Z"
+generated_at: "2026-03-30T09:28:52.583Z"
 status: "active"
 ---
 

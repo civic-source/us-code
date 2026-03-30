@@ -3,9 +3,9 @@ title: "Section 3507 - Definitions"
 usc_title: 33
 usc_section: "3507"
 chapter: 48
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "33 U.S.C. § 3507"
-generated_at: "2026-03-30T09:25:27.085Z"
+generated_at: "2026-03-30T09:28:38.491Z"
 status: "active"
 ---
 

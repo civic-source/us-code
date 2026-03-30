@@ -3,9 +3,9 @@ title: "Section 5062 - Audit"
 usc_title: 42
 usc_section: "5062"
 chapter: 66
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 5062"
-generated_at: "2026-03-30T09:26:18.696Z"
+generated_at: "2026-03-30T09:29:28.220Z"
 status: "active"
 ---
 

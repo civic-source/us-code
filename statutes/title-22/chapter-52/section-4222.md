@@ -3,9 +3,9 @@ title: "Section 4222 - Authentication of documents of State of Vatican City by c
 usc_title: 22
 usc_section: "4222"
 chapter: 52
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 4222"
-generated_at: "2026-03-30T09:24:59.363Z"
+generated_at: "2026-03-30T09:28:10.001Z"
 status: "active"
 ---
 

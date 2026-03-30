@@ -3,9 +3,9 @@ title: "Section 2417 - Criteria for participating parties"
 usc_title: 15
 usc_section: "2417"
 chapter: 51
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 2417"
-generated_at: "2026-03-30T09:24:21.233Z"
+generated_at: "2026-03-30T09:27:45.714Z"
 status: "active"
 ---
 

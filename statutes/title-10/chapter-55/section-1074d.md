@@ -3,9 +3,9 @@ title: "Section 1074d - Certain primary and preventive health care services"
 usc_title: 10
 usc_section: "1074d"
 chapter: 55
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 1074d"
-generated_at: "2026-03-30T09:24:14.602Z"
+generated_at: "2026-03-30T09:27:12.439Z"
 status: "active"
 ---
 

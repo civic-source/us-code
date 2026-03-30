@@ -3,9 +3,9 @@ title: "Section 2737 - Limitation"
 usc_title: 33
 usc_section: "2737"
 chapter: 40
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "33 U.S.C. § 2737"
-generated_at: "2026-03-30T09:25:27.079Z"
+generated_at: "2026-03-30T09:28:38.486Z"
 status: "active"
 ---
 

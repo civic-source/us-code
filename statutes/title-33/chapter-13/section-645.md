@@ -3,9 +3,9 @@ title: "Section 645 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 33
 usc_section: "645"
 chapter: 13
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "33 U.S.C. § 645"
-generated_at: "2026-03-30T09:25:27.028Z"
+generated_at: "2026-03-30T09:28:38.436Z"
 status: "repealed"
 ---
 

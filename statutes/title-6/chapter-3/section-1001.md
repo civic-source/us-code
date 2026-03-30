@@ -3,9 +3,9 @@ title: "Section 1001 - Designation of liaison office of Department of State"
 usc_title: 6
 usc_section: "1001"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "6 U.S.C. § 1001"
-generated_at: "2026-03-30T09:24:07.831Z"
+generated_at: "2026-03-30T09:26:54.673Z"
 status: "active"
 ---
 

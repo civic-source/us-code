@@ -3,9 +3,9 @@ title: "Section 294b - Continuing educational support for health professionals s
 usc_title: 42
 usc_section: "294b"
 chapter: 6
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 294b"
-generated_at: "2026-03-30T09:26:18.347Z"
+generated_at: "2026-03-30T09:29:27.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1029 - Repealed. Pub. L. 87–128, title III, § 341(a) , Aug. 8
 usc_title: 7
 usc_section: "1029"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 1029"
-generated_at: "2026-03-30T09:23:58.418Z"
+generated_at: "2026-03-30T09:26:58.609Z"
 status: "repealed"
 ---
 

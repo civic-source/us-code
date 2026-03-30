@@ -3,9 +3,9 @@ title: "Section 2309 - Protection of constitutional rights of contractors"
 usc_title: 41
 usc_section: "2309"
 chapter: 23
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "41 U.S.C. § 2309"
-generated_at: "2026-03-30T09:25:55.505Z"
+generated_at: "2026-03-30T09:28:55.638Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5155 - Duplication of benefits"
 usc_title: 42
 usc_section: "5155"
 chapter: 68
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 5155"
-generated_at: "2026-03-30T09:26:18.701Z"
+generated_at: "2026-03-30T09:29:28.225Z"
 status: "active"
 ---
 

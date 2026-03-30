@@ -3,9 +3,9 @@ title: "Section 41104 - Common carriers"
 usc_title: 46
 usc_section: "41104"
 chapter: 411
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "46 U.S.C. § 41104"
-generated_at: "2026-03-30T09:26:23.979Z"
+generated_at: "2026-03-30T09:29:32.538Z"
 status: "active"
 ---
 

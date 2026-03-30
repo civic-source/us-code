@@ -3,9 +3,9 @@ title: "Section 8334 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "8334"
 chapter: 841
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 8334"
-generated_at: "2026-03-30T09:24:14.687Z"
+generated_at: "2026-03-30T09:27:12.527Z"
 status: "active"
 ---
 

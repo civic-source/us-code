@@ -3,9 +3,9 @@ title: "Section 792 - Architectural and Transportation Barriers Compliance Board
 usc_title: 29
 usc_section: "792"
 chapter: 16
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "29 U.S.C. § 792"
-generated_at: "2026-03-30T09:25:16.445Z"
+generated_at: "2026-03-30T09:28:32.480Z"
 status: "active"
 ---
 

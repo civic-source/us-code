@@ -3,9 +3,9 @@ title: "Section 3503 - Office of Information and Regulatory Affairs"
 usc_title: 44
 usc_section: "3503"
 chapter: 35
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "44 U.S.C. § 3503"
-generated_at: "2026-03-30T09:25:59.579Z"
+generated_at: "2026-03-30T09:28:51.665Z"
 status: "active"
 ---
 

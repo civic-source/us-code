@@ -3,9 +3,9 @@ title: "Section 1205 - Omitted"
 usc_title: 42
 usc_section: "1205"
 chapter: 7
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 1205"
-generated_at: "2026-03-30T09:26:18.447Z"
+generated_at: "2026-03-30T09:29:27.967Z"
 status: "omitted"
 ---
 

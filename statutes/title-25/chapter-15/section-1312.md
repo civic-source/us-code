@@ -3,9 +3,9 @@ title: "Section 1312 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1312"
 chapter: 15
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 1312"
-generated_at: "2026-03-30T09:24:54.634Z"
+generated_at: "2026-03-30T09:28:07.107Z"
 status: "active"
 ---
 

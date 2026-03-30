@@ -3,9 +3,9 @@ title: "Section 2400 - Low-rate initial production of new systems"
 usc_title: 10
 usc_section: "2400"
 chapter: 141
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2400"
-generated_at: "2026-03-30T09:24:14.650Z"
+generated_at: "2026-03-30T09:27:12.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7441 - Faculty and other officers: leaves of absence"
 usc_title: 10
 usc_section: "7441"
 chapter: 753
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 7441"
-generated_at: "2026-03-30T09:24:14.680Z"
+generated_at: "2026-03-30T09:27:12.520Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1512 - Relationship to Middle Class Tax Relief and Job Creation 
 usc_title: 47
 usc_section: "1512"
 chapter: 14
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "47 U.S.C. § 1512"
-generated_at: "2026-03-30T09:26:21.825Z"
+generated_at: "2026-03-30T09:29:31.780Z"
 status: "active"
 ---
 

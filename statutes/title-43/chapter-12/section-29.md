@@ -3,9 +3,9 @@ title: "Section 29 - Redwood City recycled water project"
 usc_title: 43
 usc_section: "29"
 chapter: 12
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "43 U.S.C. § 29"
-generated_at: "2026-03-30T09:26:01.155Z"
+generated_at: "2026-03-30T09:28:52.536Z"
 status: "active"
 ---
 

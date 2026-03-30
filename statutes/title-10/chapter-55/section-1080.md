@@ -3,9 +3,9 @@ title: "Section 1080 - Contracts for medical care for spouses and children: elec
 usc_title: 10
 usc_section: "1080"
 chapter: 55
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 1080"
-generated_at: "2026-03-30T09:24:14.605Z"
+generated_at: "2026-03-30T09:27:12.443Z"
 status: "active"
 ---
 

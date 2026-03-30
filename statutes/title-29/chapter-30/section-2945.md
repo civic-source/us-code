@@ -3,9 +3,9 @@ title: "Section 2945 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2945"
 chapter: 30
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "29 U.S.C. § 2945"
-generated_at: "2026-03-30T09:25:16.482Z"
+generated_at: "2026-03-30T09:28:32.515Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6339 - Additional leave transfer programs"
 usc_title: 5
 usc_section: "6339"
 chapter: 63
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "5 U.S.C. § 6339"
-generated_at: "2026-03-30T09:23:52.087Z"
+generated_at: "2026-03-30T09:26:52.345Z"
 status: "active"
 ---
 

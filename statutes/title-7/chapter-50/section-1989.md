@@ -3,9 +3,9 @@ title: "Section 1989 - Rules and regulations"
 usc_title: 7
 usc_section: "1989"
 chapter: 50
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 1989"
-generated_at: "2026-03-30T09:23:58.457Z"
+generated_at: "2026-03-30T09:26:58.648Z"
 status: "active"
 ---
 

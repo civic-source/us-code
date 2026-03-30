@@ -3,9 +3,9 @@ title: "Section 142l - Disbursing Officer of Library of Congress; disbursements 
 usc_title: 2
 usc_section: "142l"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "2 U.S.C. § 142l"
-generated_at: "2026-03-30T09:23:44.899Z"
+generated_at: "2026-03-30T09:26:43.474Z"
 status: "active"
 ---
 

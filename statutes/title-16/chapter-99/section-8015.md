@@ -3,9 +3,9 @@ title: "Section 8015 - Improvement of transparency and traceability programs"
 usc_title: 16
 usc_section: "8015"
 chapter: 99
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 8015"
-generated_at: "2026-03-30T09:24:32.602Z"
+generated_at: "2026-03-30T09:27:53.112Z"
 status: "active"
 ---
 

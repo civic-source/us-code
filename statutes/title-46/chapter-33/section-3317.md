@@ -3,9 +3,9 @@ title: "Section 3317 - Fees"
 usc_title: 46
 usc_section: "3317"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "46 U.S.C. § 3317"
-generated_at: "2026-03-30T09:26:23.963Z"
+generated_at: "2026-03-30T09:29:32.521Z"
 status: "active"
 ---
 

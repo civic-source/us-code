@@ -3,9 +3,9 @@ title: "Section 7628 - Airplane parts and accessories: civilian flying schools"
 usc_title: 10
 usc_section: "7628"
 chapter: 769
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 7628"
-generated_at: "2026-03-30T09:24:14.683Z"
+generated_at: "2026-03-30T09:27:12.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4064 - Gas guzzler tax"
 usc_title: 26
 usc_section: "4064"
 chapter: 32
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "26 U.S.C. § 4064"
-generated_at: "2026-03-30T09:25:23.307Z"
+generated_at: "2026-03-30T09:28:21.602Z"
 status: "active"
 ---
 

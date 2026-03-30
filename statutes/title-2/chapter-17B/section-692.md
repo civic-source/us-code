@@ -3,9 +3,9 @@ title: "Section 692 - Omitted"
 usc_title: 2
 usc_section: "692"
 chapter: 17
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "2 U.S.C. § 692"
-generated_at: "2026-03-30T09:23:44.913Z"
+generated_at: "2026-03-30T09:26:43.488Z"
 status: "omitted"
 ---
 

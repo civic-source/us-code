@@ -3,9 +3,9 @@ title: "Section 3697 - Funding of contract educational and vocational counseling
 usc_title: 38
 usc_section: "3697"
 chapter: 36
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 3697"
-generated_at: "2026-03-30T09:25:41.354Z"
+generated_at: "2026-03-30T09:28:49.515Z"
 status: "active"
 ---
 

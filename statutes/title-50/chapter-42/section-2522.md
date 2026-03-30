@@ -3,9 +3,9 @@ title: "Section 2522 - Stockpile stewardship criteria"
 usc_title: 50
 usc_section: "2522"
 chapter: 42
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 2522"
-generated_at: "2026-03-30T09:26:23.259Z"
+generated_at: "2026-03-30T09:29:35.087Z"
 status: "active"
 ---
 

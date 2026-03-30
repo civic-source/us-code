@@ -3,9 +3,9 @@ title: "Section 1827 - Utilization of personnel of Department of Agriculture and
 usc_title: 15
 usc_section: "1827"
 chapter: 44
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 1827"
-generated_at: "2026-03-30T09:24:21.220Z"
+generated_at: "2026-03-30T09:27:45.703Z"
 status: "active"
 ---
 

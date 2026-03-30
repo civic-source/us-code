@@ -3,9 +3,9 @@ title: "Section 289 - Dividends and surplus funds of reserve banks; transfer for
 usc_title: 12
 usc_section: "289"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "12 U.S.C. § 289"
-generated_at: "2026-03-30T09:24:23.647Z"
+generated_at: "2026-03-30T09:27:22.569Z"
 status: "active"
 ---
 

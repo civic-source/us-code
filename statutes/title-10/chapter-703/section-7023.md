@@ -3,9 +3,9 @@ title: "Section 7023 - Chief of Legislative Liaison"
 usc_title: 10
 usc_section: "7023"
 chapter: 703
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 7023"
-generated_at: "2026-03-30T09:24:14.677Z"
+generated_at: "2026-03-30T09:27:12.517Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "566"
 chapter: 14
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "45 U.S.C. § 566"
-generated_at: "2026-03-30T09:25:59.372Z"
+generated_at: "2026-03-30T09:28:51.977Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16203 - Penalties and limitations"
 usc_title: 10
 usc_section: "16203"
 chapter: 1608
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 16203"
-generated_at: "2026-03-30T09:24:14.714Z"
+generated_at: "2026-03-30T09:27:12.554Z"
 status: "active"
 ---
 

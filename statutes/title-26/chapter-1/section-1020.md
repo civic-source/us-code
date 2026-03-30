@@ -3,9 +3,9 @@ title: "Section 1020 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(125) , 
 usc_title: 26
 usc_section: "1020"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "26 U.S.C. § 1020"
-generated_at: "2026-03-30T09:25:23.274Z"
+generated_at: "2026-03-30T09:28:21.567Z"
 status: "repealed"
 ---
 

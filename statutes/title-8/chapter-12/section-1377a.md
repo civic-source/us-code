@@ -3,9 +3,9 @@ title: "Section 1377a - Report on aliens determined to have credible or reasonab
 usc_title: 8
 usc_section: "1377a"
 chapter: 12
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "8 U.S.C. § 1377a"
-generated_at: "2026-03-30T09:24:05.478Z"
+generated_at: "2026-03-30T09:26:55.303Z"
 status: "active"
 ---
 

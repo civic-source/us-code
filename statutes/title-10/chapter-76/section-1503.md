@@ -3,9 +3,9 @@ title: "Section 1503 - Actions of Secretary concerned; initial board inquiry"
 usc_title: 10
 usc_section: "1503"
 chapter: 76
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 1503"
-generated_at: "2026-03-30T09:24:14.620Z"
+generated_at: "2026-03-30T09:27:12.459Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3096 - Specificity of National Intelligence Program budget amoun
 usc_title: 50
 usc_section: "3096"
 chapter: 44
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 3096"
-generated_at: "2026-03-30T09:26:23.271Z"
+generated_at: "2026-03-30T09:29:35.100Z"
 status: "active"
 ---
 

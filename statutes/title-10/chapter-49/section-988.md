@@ -3,9 +3,9 @@ title: "Section 988 - Prohibition on ownership or trading of stocks in certain c
 usc_title: 10
 usc_section: "988"
 chapter: 49
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 988"
-generated_at: "2026-03-30T09:24:14.598Z"
+generated_at: "2026-03-30T09:27:12.435Z"
 status: "active"
 ---
 

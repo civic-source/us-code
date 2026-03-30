@@ -3,9 +3,9 @@ title: "Section 4122 - Studies of other natural disasters; cooperation and consu
 usc_title: 42
 usc_section: "4122"
 chapter: 50
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 4122"
-generated_at: "2026-03-30T09:26:18.684Z"
+generated_at: "2026-03-30T09:29:28.208Z"
 status: "active"
 ---
 

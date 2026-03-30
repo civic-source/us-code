@@ -3,9 +3,9 @@ title: "Section 151301 - Organization"
 usc_title: 36
 usc_section: "151301"
 chapter: 1513
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "36 U.S.C. § 151301"
-generated_at: "2026-03-30T09:25:39.391Z"
+generated_at: "2026-03-30T09:28:43.550Z"
 status: "active"
 ---
 

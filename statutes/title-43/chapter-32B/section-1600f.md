@@ -3,9 +3,9 @@ title: "Section 1600f - Certification of compliance"
 usc_title: 43
 usc_section: "1600f"
 chapter: 32
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "43 U.S.C. § 1600f"
-generated_at: "2026-03-30T09:26:01.182Z"
+generated_at: "2026-03-30T09:28:52.564Z"
 status: "active"
 ---
 

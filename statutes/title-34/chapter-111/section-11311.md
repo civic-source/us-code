@@ -3,9 +3,9 @@ title: "Section 11311 - Definitions"
 usc_title: 34
 usc_section: "11311"
 chapter: 111
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "34 U.S.C. § 11311"
-generated_at: "2026-03-30T09:25:29.498Z"
+generated_at: "2026-03-30T09:28:40.483Z"
 status: "active"
 ---
 

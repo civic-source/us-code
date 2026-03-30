@@ -3,9 +3,9 @@ title: "Section 278q - Appropriations; availability"
 usc_title: 15
 usc_section: "278q"
 chapter: 7
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 278q"
-generated_at: "2026-03-30T09:24:21.142Z"
+generated_at: "2026-03-30T09:27:45.629Z"
 status: "active"
 ---
 

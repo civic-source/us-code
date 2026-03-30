@@ -3,9 +3,9 @@ title: "Section 11371 - Definitions"
 usc_title: 42
 usc_section: "11371"
 chapter: 119
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 11371"
-generated_at: "2026-03-30T09:26:18.849Z"
+generated_at: "2026-03-30T09:29:28.377Z"
 status: "active"
 ---
 

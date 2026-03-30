@@ -3,9 +3,9 @@ title: "Section 1667d - Civil liability of lessors"
 usc_title: 15
 usc_section: "1667d"
 chapter: 41
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 1667d"
-generated_at: "2026-03-30T09:24:21.206Z"
+generated_at: "2026-03-30T09:27:45.690Z"
 status: "active"
 ---
 

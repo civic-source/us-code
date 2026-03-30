@@ -3,9 +3,9 @@ title: "Section 3108 - Allowances 1 1 See Extension of Payment of Vocational Reh
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-30T09:25:41.346Z"
+generated_at: "2026-03-30T09:28:49.507Z"
 status: "active"
 ---
 

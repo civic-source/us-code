@@ -3,9 +3,9 @@ title: "Section 180 - Settling on or surveying lands belonging to Indians by tre
 usc_title: 25
 usc_section: "180"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 180"
-generated_at: "2026-03-30T09:24:54.621Z"
+generated_at: "2026-03-30T09:28:07.094Z"
 status: "active"
 ---
 

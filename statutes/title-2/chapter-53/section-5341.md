@@ -3,9 +3,9 @@ title: "Section 5341 - Representational allowance for Members of House of Repres
 usc_title: 2
 usc_section: "5341"
 chapter: 53
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "2 U.S.C. § 5341"
-generated_at: "2026-03-30T09:23:44.940Z"
+generated_at: "2026-03-30T09:26:43.515Z"
 status: "active"
 ---
 

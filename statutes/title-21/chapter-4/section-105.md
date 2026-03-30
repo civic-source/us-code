@@ -3,9 +3,9 @@ title: "Section 105 - Repealed. Pub. L. 107–171, title X, § 10418(a)(6) , May
 usc_title: 21
 usc_section: "105"
 chapter: 4
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "21 U.S.C. § 105"
-generated_at: "2026-03-30T09:24:53.808Z"
+generated_at: "2026-03-30T09:28:12.439Z"
 status: "repealed"
 ---
 

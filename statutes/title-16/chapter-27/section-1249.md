@@ -3,9 +3,9 @@ title: "Section 1249 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1249"
 chapter: 27
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 1249"
-generated_at: "2026-03-30T09:24:32.524Z"
+generated_at: "2026-03-30T09:27:53.031Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1033 - Participation in management of specified non-Federal enti
 usc_title: 10
 usc_section: "1033"
 chapter: 53
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 1033"
-generated_at: "2026-03-30T09:24:14.599Z"
+generated_at: "2026-03-30T09:27:12.435Z"
 status: "active"
 ---
 

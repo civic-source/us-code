@@ -3,9 +3,9 @@ title: "Section 1395ddd - Medicare Integrity Program"
 usc_title: 42
 usc_section: "1395ddd"
 chapter: 7
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 1395ddd"
-generated_at: "2026-03-30T09:26:18.540Z"
+generated_at: "2026-03-30T09:29:28.061Z"
 status: "active"
 ---
 

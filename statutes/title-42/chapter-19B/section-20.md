@@ -3,9 +3,9 @@ title: "Section 20 - Prohibition on Great Lakes diversions"
 usc_title: 42
 usc_section: "20"
 chapter: 19
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-30T09:26:18.627Z"
+generated_at: "2026-03-30T09:29:28.149Z"
 status: "active"
 ---
 

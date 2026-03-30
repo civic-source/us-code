@@ -3,9 +3,9 @@ title: "Section 41a - Indian inspectors"
 usc_title: 25
 usc_section: "41a"
 chapter: 2
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "25 U.S.C. § 41a"
-generated_at: "2026-03-30T09:24:54.619Z"
+generated_at: "2026-03-30T09:28:07.091Z"
 status: "active"
 ---
 

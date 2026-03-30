@@ -3,9 +3,9 @@ title: "Section 21305 - Grant increase"
 usc_title: 34
 usc_section: "21305"
 chapter: 213
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "34 U.S.C. § 21305"
-generated_at: "2026-03-30T09:25:29.518Z"
+generated_at: "2026-03-30T09:28:40.502Z"
 status: "active"
 ---
 

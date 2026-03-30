@@ -3,9 +3,9 @@ title: "Section 405 - Repealed. Aug. 13, 1953, ch. 434, § 2 , 67 Stat. 577"
 usc_title: 22
 usc_section: "405"
 chapter: 9
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "22 U.S.C. § 405"
-generated_at: "2026-03-30T09:24:59.293Z"
+generated_at: "2026-03-30T09:28:09.932Z"
 status: "repealed"
 ---
 

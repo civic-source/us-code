@@ -3,9 +3,9 @@ title: "Section 5374 - Miscellaneous positions in the executive branch"
 usc_title: 5
 usc_section: "5374"
 chapter: 53
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "5 U.S.C. § 5374"
-generated_at: "2026-03-30T09:23:52.076Z"
+generated_at: "2026-03-30T09:26:52.334Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3708 - Authority to buy down interest rates: pilot program"
 usc_title: 38
 usc_section: "3708"
 chapter: 37
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 3708"
-generated_at: "2026-03-30T09:25:41.355Z"
+generated_at: "2026-03-30T09:28:49.516Z"
 status: "active"
 ---
 

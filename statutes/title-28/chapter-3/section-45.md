@@ -3,9 +3,9 @@ title: "Section 45 - Chief judges; precedence of judges"
 usc_title: 28
 usc_section: "45"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "28 U.S.C. § 45"
-generated_at: "2026-03-30T09:25:07.432Z"
+generated_at: "2026-03-30T09:28:17.561Z"
 status: "active"
 ---
 

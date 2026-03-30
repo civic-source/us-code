@@ -3,9 +3,9 @@ title: "Section 511d - Designation of markets; manner; inspection and related se
 usc_title: 7
 usc_section: "511d"
 chapter: 21
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 511d"
-generated_at: "2026-03-30T09:23:58.404Z"
+generated_at: "2026-03-30T09:26:58.598Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8854 - Effect of failure to start proceedings"
 usc_title: 10
 usc_section: "8854"
 chapter: 883
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 8854"
-generated_at: "2026-03-30T09:24:14.693Z"
+generated_at: "2026-03-30T09:27:12.534Z"
 status: "active"
 ---
 

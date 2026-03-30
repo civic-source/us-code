@@ -3,9 +3,9 @@ title: "Section 4276 - Powers and administrative provisions"
 usc_title: 42
 usc_section: "4276"
 chapter: 53
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 4276"
-generated_at: "2026-03-30T09:26:18.685Z"
+generated_at: "2026-03-30T09:29:28.208Z"
 status: "active"
 ---
 

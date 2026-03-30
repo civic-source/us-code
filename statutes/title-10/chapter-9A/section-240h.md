@@ -3,9 +3,9 @@ title: "Section 240h - Annual report on auditable financial statements"
 usc_title: 10
 usc_section: "240h"
 chapter: 9
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 240h"
-generated_at: "2026-03-30T09:24:14.573Z"
+generated_at: "2026-03-30T09:27:12.401Z"
 status: "active"
 ---
 

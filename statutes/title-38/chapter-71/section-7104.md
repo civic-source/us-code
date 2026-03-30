@@ -3,9 +3,9 @@ title: "Section 7104 - Jurisdiction of the Board"
 usc_title: 38
 usc_section: "7104"
 chapter: 71
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "38 U.S.C. § 7104"
-generated_at: "2026-03-30T09:25:41.366Z"
+generated_at: "2026-03-30T09:28:49.527Z"
 status: "active"
 ---
 

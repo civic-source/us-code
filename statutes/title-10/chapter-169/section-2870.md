@@ -3,9 +3,9 @@ title: "Section 2870 - Use of qualified apprentices by military construction con
 usc_title: 10
 usc_section: "2870"
 chapter: 169
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 2870"
-generated_at: "2026-03-30T09:24:14.673Z"
+generated_at: "2026-03-30T09:27:12.513Z"
 status: "active"
 ---
 

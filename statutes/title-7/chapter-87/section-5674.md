@@ -3,9 +3,9 @@ title: "Section 5674 - Trade consultations concerning imports"
 usc_title: 7
 usc_section: "5674"
 chapter: 87
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 5674"
-generated_at: "2026-03-30T09:23:58.508Z"
+generated_at: "2026-03-30T09:26:58.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2814 - Department of Energy energy parks program"
 usc_title: 50
 usc_section: "2814"
 chapter: 42
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 2814"
-generated_at: "2026-03-30T09:26:23.266Z"
+generated_at: "2026-03-30T09:29:35.093Z"
 status: "active"
 ---
 

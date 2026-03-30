@@ -3,9 +3,9 @@ title: "Section 612 - Reports and intervention rights"
 usc_title: 5
 usc_section: "612"
 chapter: 6
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "5 U.S.C. § 612"
-generated_at: "2026-03-30T09:23:52.061Z"
+generated_at: "2026-03-30T09:26:52.317Z"
 status: "active"
 ---
 

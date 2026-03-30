@@ -3,9 +3,9 @@ title: "Section 5684 - Penalties relating to the payment and collection of liquo
 usc_title: 26
 usc_section: "5684"
 chapter: 51
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "26 U.S.C. § 5684"
-generated_at: "2026-03-30T09:25:23.328Z"
+generated_at: "2026-03-30T09:28:21.623Z"
 status: "active"
 ---
 

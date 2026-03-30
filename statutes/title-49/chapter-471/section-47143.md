@@ -3,9 +3,9 @@ title: "Section 47143 - Non-movement area surveillance surface display systems p
 usc_title: 49
 usc_section: "47143"
 chapter: 471
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "49 U.S.C. § 47143"
-generated_at: "2026-03-30T09:26:28.390Z"
+generated_at: "2026-03-30T09:29:40.244Z"
 status: "active"
 ---
 

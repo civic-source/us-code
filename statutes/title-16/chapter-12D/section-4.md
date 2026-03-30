@@ -3,9 +3,9 @@ title: "Section 4 - General powers of Secretary of the Interior; delegation to a
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T09:24:32.511Z"
+generated_at: "2026-03-30T09:27:53.018Z"
 status: "active"
 ---
 

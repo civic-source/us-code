@@ -3,9 +3,9 @@ title: "Section 2145 - Regular lieutenant commanders and commanders; retirement 
 usc_title: 14
 usc_section: "2145"
 chapter: 21
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "14 U.S.C. § 2145"
-generated_at: "2026-03-30T09:24:21.528Z"
+generated_at: "2026-03-30T09:27:14.782Z"
 status: "active"
 ---
 

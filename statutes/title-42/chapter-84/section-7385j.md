@@ -3,9 +3,9 @@ title: "Section 7385j - Coordination with other Federal radiation compensation l
 usc_title: 42
 usc_section: "7385j"
 chapter: 84
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 7385j"
-generated_at: "2026-03-30T09:26:18.759Z"
+generated_at: "2026-03-30T09:29:28.286Z"
 status: "active"
 ---
 

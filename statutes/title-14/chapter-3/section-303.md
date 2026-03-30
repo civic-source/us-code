@@ -3,9 +3,9 @@ title: "Section 303 - Retirement of Commandant or Vice Commandant"
 usc_title: 14
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "14 U.S.C. § 303"
-generated_at: "2026-03-30T09:24:21.520Z"
+generated_at: "2026-03-30T09:27:14.775Z"
 status: "active"
 ---
 

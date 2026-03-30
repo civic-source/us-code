@@ -3,9 +3,9 @@ title: "Section 10705 - Grants and contracts"
 usc_title: 42
 usc_section: "10705"
 chapter: 113
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 10705"
-generated_at: "2026-03-30T09:26:18.841Z"
+generated_at: "2026-03-30T09:29:28.370Z"
 status: "active"
 ---
 

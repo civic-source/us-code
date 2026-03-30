@@ -3,9 +3,9 @@ title: "Section 1499 - Liquidated damages withheld from contractors under chapte
 usc_title: 28
 usc_section: "1499"
 chapter: 91
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "28 U.S.C. § 1499"
-generated_at: "2026-03-30T09:25:07.452Z"
+generated_at: "2026-03-30T09:28:17.580Z"
 status: "active"
 ---
 

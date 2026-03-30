@@ -3,9 +3,9 @@ title: "Section 7309 - National Institute of Standards and Technology annual rep
 usc_title: 15
 usc_section: "7309"
 chapter: 99
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "15 U.S.C. § 7309"
-generated_at: "2026-03-30T09:24:21.278Z"
+generated_at: "2026-03-30T09:27:45.756Z"
 status: "active"
 ---
 

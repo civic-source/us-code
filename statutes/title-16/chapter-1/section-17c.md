@@ -3,9 +3,9 @@ title: "Section 17c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17c"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 17c"
-generated_at: "2026-03-30T09:24:32.267Z"
+generated_at: "2026-03-30T09:27:52.882Z"
 status: "repealed"
 ---
 

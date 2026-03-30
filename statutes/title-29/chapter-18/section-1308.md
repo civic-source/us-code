@@ -3,9 +3,9 @@ title: "Section 1308 - Annual report by the corporation"
 usc_title: 29
 usc_section: "1308"
 chapter: 18
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "29 U.S.C. § 1308"
-generated_at: "2026-03-30T09:25:16.470Z"
+generated_at: "2026-03-30T09:28:32.504Z"
 status: "active"
 ---
 

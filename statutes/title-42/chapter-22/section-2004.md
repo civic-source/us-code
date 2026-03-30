@@ -3,9 +3,9 @@ title: "Section 2004 - Transfer of personnel, property, records, monies"
 usc_title: 42
 usc_section: "2004"
 chapter: 22
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "42 U.S.C. § 2004"
-generated_at: "2026-03-30T09:26:18.635Z"
+generated_at: "2026-03-30T09:29:28.157Z"
 status: "active"
 ---
 

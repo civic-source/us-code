@@ -3,9 +3,9 @@ title: "Section 303 - Special pay: veterinarians"
 usc_title: 37
 usc_section: "303"
 chapter: 5
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "37 U.S.C. § 303"
-generated_at: "2026-03-30T09:25:40.101Z"
+generated_at: "2026-03-30T09:28:44.055Z"
 status: "active"
 ---
 

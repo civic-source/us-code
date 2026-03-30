@@ -3,9 +3,9 @@ title: "Section 8137 - Regular Navy: officers designated for engineering duty, a
 usc_title: 10
 usc_section: "8137"
 chapter: 815
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "10 U.S.C. § 8137"
-generated_at: "2026-03-30T09:24:14.685Z"
+generated_at: "2026-03-30T09:27:12.525Z"
 status: "active"
 ---
 

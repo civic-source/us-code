@@ -3,9 +3,9 @@ title: "Section 3095 - Notice to Congress of certain transfers of defense articl
 usc_title: 50
 usc_section: "3095"
 chapter: 44
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "50 U.S.C. § 3095"
-generated_at: "2026-03-30T09:26:23.271Z"
+generated_at: "2026-03-30T09:29:35.100Z"
 status: "active"
 ---
 

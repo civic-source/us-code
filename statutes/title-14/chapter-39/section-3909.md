@@ -3,9 +3,9 @@ title: "Section 3909 - Aircraft deemed public aircraft"
 usc_title: 14
 usc_section: "3909"
 chapter: 39
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "14 U.S.C. § 3909"
-generated_at: "2026-03-30T09:24:21.561Z"
+generated_at: "2026-03-30T09:27:14.787Z"
 status: "active"
 ---
 

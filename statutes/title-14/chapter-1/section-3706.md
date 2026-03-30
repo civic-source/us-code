@@ -3,9 +3,9 @@ title: "Section 3706 - Temporary members of the Reserve; eligibility and compens
 usc_title: 14
 usc_section: "3706"
 chapter: 1
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "14 U.S.C. § 3706"
-generated_at: "2026-03-30T09:24:21.531Z"
+generated_at: "2026-03-30T09:27:14.785Z"
 status: "active"
 ---
 

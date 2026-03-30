@@ -3,9 +3,9 @@ title: "Section 5155 - Continuing studies of striped bass populations"
 usc_title: 16
 usc_section: "5155"
 chapter: 71
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "16 U.S.C. § 5155"
-generated_at: "2026-03-30T09:24:32.586Z"
+generated_at: "2026-03-30T09:27:53.096Z"
 status: "active"
 ---
 

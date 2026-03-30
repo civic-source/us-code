@@ -3,9 +3,9 @@ title: "Section 1000 - Short title"
 usc_title: 7
 usc_section: "1000"
 chapter: 33
-current_through: "PL 116-148"
+current_through: "PL 116-149"
 classification: "7 U.S.C. § 1000"
-generated_at: "2026-03-30T09:23:58.417Z"
+generated_at: "2026-03-30T09:26:58.608Z"
 status: "active"
 ---
 
