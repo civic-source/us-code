@@ -3,9 +3,9 @@ title: "Section 22 - Repealed. Pub. L. 115–271, title VII, § 7065(b) , Oct. 2
 usc_title: 42
 usc_section: "22"
 chapter: 67
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T08:31:59.661Z"
+generated_at: "2026-03-30T08:34:08.737Z"
 status: "repealed"
 ---
 

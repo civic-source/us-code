@@ -3,9 +3,9 @@ title: "Section 132 - Repealed. Pub. L. 85–56, title XXII, § 2202(100) , June
 usc_title: 24
 usc_section: "132"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "24 U.S.C. § 132"
-generated_at: "2026-03-30T08:30:02.620Z"
+generated_at: "2026-03-30T08:33:09.220Z"
 status: "repealed"
 ---
 

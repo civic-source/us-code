@@ -3,9 +3,9 @@ title: "Section 64o - Repealed. Aug. 27, 1935, ch. 740 , title II, § 202(a), 49
 usc_title: 27
 usc_section: "64o"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "27 U.S.C. § 64o"
-generated_at: "2026-03-30T08:30:22.435Z"
+generated_at: "2026-03-30T08:33:20.479Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5496b - GAO study of financial regulations"
 usc_title: 12
 usc_section: "5496b"
 chapter: 53
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 5496b"
-generated_at: "2026-03-30T08:29:34.816Z"
+generated_at: "2026-03-30T08:32:41.269Z"
 status: "active"
 ---
 

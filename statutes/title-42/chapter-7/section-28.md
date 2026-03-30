@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T08:31:59.463Z"
+generated_at: "2026-03-30T08:34:08.532Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
       - **(ii)** is entitled to medical assistance under a State plan under subchapter XIX; or
       - **(iii)** meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions who—
         - **(I)** before January 1, 2022 , have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care; and
-        - **(II)** on or after January 1, 2022 , have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
+        - **(II)** on or after January 1, 2022 , have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits 1 1 So in original. Probably should be “that are life threatening or significantly limit”. overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
 - **(c)**
   - **(1)** The term “Medicare+Choice eligible individual” is defined in section 1395w–21(a)(3) of this title .
   - **(2)** The term “Medicare+Choice payment area” is defined in section 1395w–23(d) of this title .
@@ -70,7 +70,7 @@ status: "active"
     - **(B)** The plan meets the requirements described in paragraph (5).
     - **(C)** If applicable, the plan meets the requirement described in paragraph (7).
   - **(3)** In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii), the applicable requirements described in this paragraph are as follows:
-    - **(A)** Each individual that enrolls in the plan on or after January 1, 2010 , is a special needs individuals 1 1 So in original. Probably should be “individual”. described in subsection (b)(6)(B)(ii).
+    - **(A)** Each individual that enrolls in the plan on or after January 1, 2010 , is a special needs individuals 2 2 So in original. Probably should be “individual”. described in subsection (b)(6)(B)(ii).
     - **(B)** The plan meets the requirements described in paragraph (5).
     - **(C)** The plan provides each prospective enrollee, prior to enrollment, with a comprehensive written statement (using standardized content and format established by the Secretary) that describes—
       - **(i)** the benefits and cost-sharing protections that the individual is entitled to under the State Medicaid program under subchapter XIX; and

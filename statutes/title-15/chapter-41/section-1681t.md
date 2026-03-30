@@ -3,9 +3,9 @@ title: "Section 1681t - Relation to State laws"
 usc_title: 15
 usc_section: "1681t"
 chapter: 41
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 1681t"
-generated_at: "2026-03-30T08:29:19.515Z"
+generated_at: "2026-03-30T08:32:57.663Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(G)** section 1681g(e) of this title , relating to information available to victims under section 1681g(e) of this title ;
     - **(H)** section 1681s–3 of this title , relating to the exchange and use of information to make a solicitation for marketing purposes;
     - **(I)** section 1681m(h) of this title , relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;
-    - **(J)** subsections (i) and (j) of section 1681c–1 of this title relating to security freezes; or 1 1 So in original. See Amendment of Subsection (b)(1) note below.
+    - **(J)** subsections (i) and (j) of section 1681c–1 of this title relating to security freezes; or
     - **(K)** subsection (k) of section 1681c–1 of this title , relating to credit monitoring for active duty military consumers, as defined in that subsection;
   - **(2)** with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of section 2480e of title 9 , Vermont Statutes Annotated (as in effect on September 30, 1996 );
   - **(3)** with respect to the disclosures required to be made under subsection (c), (d), (e), or (g) of section 1681g of this title , or subsection (f) of section 1681g of this title relating to the disclosure of credit scores for credit granting purposes, except that this paragraph—

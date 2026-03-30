@@ -3,9 +3,9 @@ title: "Section 825e - Complaints"
 usc_title: 16
 usc_section: "825e"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 825e"
-generated_at: "2026-03-30T08:29:45.583Z"
+generated_at: "2026-03-30T08:33:07.287Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31 - Tax withheld on wages"
 usc_title: 26
 usc_section: "31"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 31"
-generated_at: "2026-03-30T08:30:54.669Z"
+generated_at: "2026-03-30T08:33:25.557Z"
 status: "active"
 ---
 

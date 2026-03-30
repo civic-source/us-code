@@ -3,9 +3,9 @@ title: "Section 2223d - Annual revision of recommendations"
 usc_title: 15
 usc_section: "2223d"
 chapter: 49
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 2223d"
-generated_at: "2026-03-30T08:29:19.529Z"
+generated_at: "2026-03-30T08:32:57.676Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130g - Renumbered § 394]"
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-03-30T08:29:03.466Z"
+generated_at: "2026-03-30T08:32:32.842Z"
 status: "renumbered"
 ---
 

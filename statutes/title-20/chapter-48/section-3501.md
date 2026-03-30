@@ -3,9 +3,9 @@ title: "Section 3501 - Transfer and allocation of appropriations and personnel"
 usc_title: 20
 usc_section: "3501"
 chapter: 48
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 3501"
-generated_at: "2026-03-30T08:30:00.563Z"
+generated_at: "2026-03-30T08:33:02.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 522 - Conflicting periods of location of claims"
 usc_title: 30
 usc_section: "522"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "30 U.S.C. § 522"
-generated_at: "2026-03-30T08:30:23.188Z"
+generated_at: "2026-03-30T08:33:18.268Z"
 status: "active"
 ---
 

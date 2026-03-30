@@ -3,9 +3,9 @@ title: "Section 1706e - Repealed. Pub. L. 101–625, title II, § 289(b) , Nov. 
 usc_title: 12
 usc_section: "1706e"
 chapter: 13
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 1706e"
-generated_at: "2026-03-30T08:29:34.702Z"
+generated_at: "2026-03-30T08:32:41.154Z"
 status: "repealed"
 ---
 

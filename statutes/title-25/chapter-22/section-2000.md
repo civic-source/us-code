@@ -3,9 +3,9 @@ title: "Section 2000 - Declaration of policy"
 usc_title: 25
 usc_section: "2000"
 chapter: 22
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "25 U.S.C. § 2000"
-generated_at: "2026-03-30T08:30:03.836Z"
+generated_at: "2026-03-30T08:33:15.934Z"
 status: "active"
 ---
 

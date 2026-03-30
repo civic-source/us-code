@@ -3,9 +3,9 @@ title: "Section 2649 - Civilian passengers and commercial cargoes: transportatio
 usc_title: 10
 usc_section: "2649"
 chapter: 157
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 2649"
-generated_at: "2026-03-30T08:29:03.562Z"
+generated_at: "2026-03-30T08:32:32.943Z"
 status: "active"
 ---
 

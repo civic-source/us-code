@@ -3,9 +3,9 @@ title: "Section 303 - Distributions in redemption of stock to pay death taxes"
 usc_title: 26
 usc_section: "303"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 303"
-generated_at: "2026-03-30T08:30:54.727Z"
+generated_at: "2026-03-30T08:33:25.611Z"
 status: "active"
 ---
 

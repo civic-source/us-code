@@ -3,9 +3,9 @@ title: "Section 409 - “Wages” defined"
 usc_title: 42
 usc_section: "409"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 409"
-generated_at: "2026-03-30T08:31:59.372Z"
+generated_at: "2026-03-30T08:34:08.437Z"
 status: "active"
 ---
 

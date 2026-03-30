@@ -3,9 +3,9 @@ title: "Section 49j - Notice of strikes and lockouts to applicants"
 usc_title: 29
 usc_section: "49j"
 chapter: 4
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 49j"
-generated_at: "2026-03-30T08:30:39.381Z"
+generated_at: "2026-03-30T08:33:20.023Z"
 status: "active"
 ---
 

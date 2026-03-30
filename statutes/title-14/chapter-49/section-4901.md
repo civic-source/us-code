@@ -3,9 +3,9 @@ title: "Section 4901 - Requirement for prior authorization of appropriations"
 usc_title: 14
 usc_section: "4901"
 chapter: 49
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "14 U.S.C. § 4901"
-generated_at: "2026-03-30T08:29:11.770Z"
+generated_at: "2026-03-30T08:32:38.301Z"
 status: "active"
 ---
 

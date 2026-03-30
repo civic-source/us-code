@@ -3,9 +3,9 @@ title: "Section 11201 - Findings"
 usc_title: 42
 usc_section: "11201"
 chapter: 118
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 11201"
-generated_at: "2026-03-30T08:31:59.813Z"
+generated_at: "2026-03-30T08:34:08.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119a - Boundaries"
 usc_title: 16
 usc_section: "119a"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 119a"
-generated_at: "2026-03-30T08:29:45.469Z"
+generated_at: "2026-03-30T08:33:07.118Z"
 status: "active"
 ---
 

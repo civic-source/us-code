@@ -3,9 +3,9 @@ title: "Section 1428 - Permanent self-funding; duty to assess and collect fees f
 usc_title: 47
 usc_section: "1428"
 chapter: 13
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "47 U.S.C. § 1428"
-generated_at: "2026-03-30T08:32:03.708Z"
+generated_at: "2026-03-30T08:34:12.172Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2210 - Indemnification and limitation of liability"
 usc_title: 42
 usc_section: "2210"
 chapter: 23
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 2210"
-generated_at: "2026-03-30T08:31:59.609Z"
+generated_at: "2026-03-30T08:34:08.679Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2125 - Dividends"
 usc_title: 12
 usc_section: "2125"
 chapter: 23
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 2125"
-generated_at: "2026-03-30T08:29:34.757Z"
+generated_at: "2026-03-30T08:32:41.211Z"
 status: "active"
 ---
 

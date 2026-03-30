@@ -3,9 +3,9 @@ title: "Section 18081 - Procedures for determining eligibility for Exchange part
 usc_title: 42
 usc_section: "18081"
 chapter: 157
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 18081"
-generated_at: "2026-03-30T08:31:59.903Z"
+generated_at: "2026-03-30T08:34:08.985Z"
 status: "active"
 ---
 
@@ -109,4 +109,4 @@ status: "active"
   - **(1)** The Secretary of Health and Human Services shall, in consultation with the Secretary of the Treasury, conduct a study of the procedures that are necessary to ensure that in the administration of this title 1 and section 4980H of title 26 (as added by section 1513) 1 that the following rights are protected:
     - **(A)** The rights of employees to preserve their right to confidentiality of their taxpayer return information and their right to enroll in a qualified health plan through an Exchange if an employer does not provide affordable coverage.
     - **(B)** The rights of employers to adequate due process and access to information necessary to accurately determine any payment assessed on employers.
-  - **(2)** Not later than January 1, 2013 , the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of Education and Labor and Ways and Means of the House of Representatives.
+  - **(2)** Not later than January 1, 2013 , the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of 4 4 So in original. Probably should be “on”. Education and Labor and Ways and Means of the House of Representatives.

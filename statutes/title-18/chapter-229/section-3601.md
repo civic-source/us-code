@@ -3,9 +3,9 @@ title: "Section 3601 - Supervision of probation"
 usc_title: 18
 usc_section: "3601"
 chapter: 229
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "18 U.S.C. § 3601"
-generated_at: "2026-03-30T08:29:55.477Z"
+generated_at: "2026-03-30T08:33:04.950Z"
 status: "active"
 ---
 

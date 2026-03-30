@@ -3,9 +3,9 @@ title: "Section 3713 - Transferred"
 usc_title: 42
 usc_section: "3713"
 chapter: 46
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 3713"
-generated_at: "2026-03-30T08:31:59.639Z"
+generated_at: "2026-03-30T08:34:08.712Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 665 - Variations, tolerances, and exemptions from required provi
 usc_title: 29
 usc_section: "665"
 chapter: 15
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 665"
-generated_at: "2026-03-30T08:30:39.392Z"
+generated_at: "2026-03-30T08:33:20.034Z"
 status: "active"
 ---
 

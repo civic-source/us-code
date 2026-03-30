@@ -3,9 +3,9 @@ title: "Section 1934 - Waiver by Chief of Capitol Police of claims arising out o
 usc_title: 2
 usc_section: "1934"
 chapter: 29
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "2 U.S.C. § 1934"
-generated_at: "2026-03-30T08:28:11.634Z"
+generated_at: "2026-03-30T08:32:22.102Z"
 status: "active"
 ---
 

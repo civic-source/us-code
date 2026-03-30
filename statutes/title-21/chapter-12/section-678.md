@@ -3,9 +3,9 @@ title: "Section 678 - Non-Federal jurisdiction of federally regulated matters; p
 usc_title: 21
 usc_section: "678"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "21 U.S.C. § 678"
-generated_at: "2026-03-30T08:30:20.563Z"
+generated_at: "2026-03-30T08:33:15.140Z"
 status: "active"
 ---
 

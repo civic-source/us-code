@@ -3,9 +3,9 @@ title: "Section 56 - Transactions with certain affiliates"
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T08:29:19.445Z"
+generated_at: "2026-03-30T08:32:57.590Z"
 status: "active"
 ---
 

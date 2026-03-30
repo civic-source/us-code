@@ -3,9 +3,9 @@ title: "Section 1831 - Definitions"
 usc_title: 38
 usc_section: "1831"
 chapter: 18
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1831"
-generated_at: "2026-03-30T08:31:35.511Z"
+generated_at: "2026-03-30T08:33:42.442Z"
 status: "active"
 ---
 

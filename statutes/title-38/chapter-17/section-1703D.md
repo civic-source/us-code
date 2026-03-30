@@ -3,9 +3,9 @@ title: "Section 1703D - Prompt payment standard"
 usc_title: 38
 usc_section: "1703D"
 chapter: 17
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1703D"
-generated_at: "2026-03-30T08:31:35.504Z"
+generated_at: "2026-03-30T08:33:42.436Z"
 status: "active"
 ---
 
@@ -38,12 +38,12 @@ status: "active"
   - **(3)** If the Secretary modifies the information and documentation included in the list under paragraph (1), the Secretary shall notify all health care entities and providers described in paragraph (1) not later than 30 days before such modifications take effect.
 - **(g)**
   - **(1)** In processing a claim for compensation for hospital care, medical services, or extended care services furnished by a non-Department health care entity or provider under this chapter, the Secretary may act through—
-    - **(A)** a non-Department entity that is under contract or agreement for the program established under section 1703(a) 1 1 See References in Text note below. of this title; or
+    - **(A)** a non-Department entity that is under contract or agreement for the program established under section 1703(a) of this title ; or
     - **(B)** a non-Department entity that specializes in such processing for other Federal agency health care systems.
   - **(2)** The Secretary shall seek to contract with a third party to conduct a review of claims described in paragraph (3) that includes—
     - **(A)** a feasibility assessment to determine the capacity of the Department to process such claims in a timely manner; and
     - **(B)** a cost benefit analysis comparing the capacity of the Department to a third party entity capable of processing such claims.
-  - **(3)** The review required under paragraph (2) shall apply to claims for hospital care, medical services, or extended care services furnished under section 1703 1 of this title that are processed by the Department.
+  - **(3)** The review required under paragraph (2) shall apply to claims for hospital care, medical services, or extended care services furnished under section 1703 of this title that are processed by the Department.
 - **(h)**
   - **(1)** Not later than 90 days after the date of the enactment of the Caring for Our Veterans Act of 2018, the Secretary shall submit to the appropriate committees of Congress a report on the feasibility and advisability of adopting a funding mechanism similar to what is utilized by other Federal agencies to allow a contracted entity to act as a fiscal intermediary for the Federal Government to distribute, or pass through, Federal Government funds for certain non-underwritten hospital care, medical services, or extended care services.
   - **(2)** The Secretary may coordinate with the Department of Defense, the Department of Health and Human Services, and the Department of the Treasury in developing the report required by paragraph (1).

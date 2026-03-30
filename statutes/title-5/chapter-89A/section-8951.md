@@ -3,9 +3,9 @@ title: "Section 8951 - Definitions"
 usc_title: 5
 usc_section: "8951"
 chapter: 89
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 8951"
-generated_at: "2026-03-30T08:28:34.333Z"
+generated_at: "2026-03-30T08:32:24.603Z"
 status: "active"
 ---
 

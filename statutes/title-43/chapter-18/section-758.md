@@ -3,9 +3,9 @@ title: "Section 758 - Delivery of patent contingent on refund of cost of survey"
 usc_title: 43
 usc_section: "758"
 chapter: 18
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "43 U.S.C. § 758"
-generated_at: "2026-03-30T08:31:39.050Z"
+generated_at: "2026-03-30T08:33:46.525Z"
 status: "active"
 ---
 

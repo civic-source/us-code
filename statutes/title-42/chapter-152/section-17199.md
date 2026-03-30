@@ -3,9 +3,9 @@ title: "Section 17199 - Educational pilot program"
 usc_title: 42
 usc_section: "17199"
 chapter: 152
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 17199"
-generated_at: "2026-03-30T08:31:59.892Z"
+generated_at: "2026-03-30T08:34:08.973Z"
 status: "active"
 ---
 

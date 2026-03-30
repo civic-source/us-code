@@ -3,9 +3,9 @@ title: "Section 2203 - Emergency watershed program"
 usc_title: 16
 usc_section: "2203"
 chapter: 42
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 2203"
-generated_at: "2026-03-30T08:29:45.636Z"
+generated_at: "2026-03-30T08:33:07.341Z"
 status: "active"
 ---
 

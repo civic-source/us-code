@@ -3,9 +3,9 @@ title: "Section 46 - Tchula Lake, Mississippi"
 usc_title: 33
 usc_section: "46"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 46"
-generated_at: "2026-03-30T08:31:18.902Z"
+generated_at: "2026-03-30T08:33:34.567Z"
 status: "active"
 ---
 

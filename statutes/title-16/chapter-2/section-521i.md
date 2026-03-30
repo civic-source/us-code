@@ -3,9 +3,9 @@ title: "Section 521i - Unaffected lands"
 usc_title: 16
 usc_section: "521i"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 521i"
-generated_at: "2026-03-30T08:29:45.546Z"
+generated_at: "2026-03-30T08:33:07.247Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 193 - Combat support agencies: oversight"
 usc_title: 10
 usc_section: "193"
 chapter: 8
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 193"
-generated_at: "2026-03-30T08:29:03.470Z"
+generated_at: "2026-03-30T08:32:32.847Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 547 - Preferences"
 usc_title: 11
 usc_section: "547"
 chapter: 5
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "11 U.S.C. § 547"
-generated_at: "2026-03-30T08:29:24.971Z"
+generated_at: "2026-03-30T08:32:44.531Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** “new value” means money or money’s worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
   - **(3)** “receivable” means right to payment, whether or not such right has been earned by performance; and
   - **(4)** a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
-- **(b)** Except as provided in subsections (c) and (i) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
+- **(b)** Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
   - **(1)** to or for the benefit of a creditor;
   - **(2)** for or on account of an antecedent debt owed by the debtor before such transfer was made;
   - **(3)** made while the debtor was insolvent;

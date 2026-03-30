@@ -3,9 +3,9 @@ title: "Section 191a - Transfer of Secretary of Transportation’s powers to Sec
 usc_title: 50
 usc_section: "191a"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 191a"
-generated_at: "2026-03-30T08:32:04.860Z"
+generated_at: "2026-03-30T08:34:13.895Z"
 status: "active"
 ---
 

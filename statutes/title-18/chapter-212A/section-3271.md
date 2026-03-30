@@ -3,9 +3,9 @@ title: "Section 3271 - Trafficking in persons offenses committed by persons empl
 usc_title: 18
 usc_section: "3271"
 chapter: 212
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "18 U.S.C. § 3271"
-generated_at: "2026-03-30T08:29:55.471Z"
+generated_at: "2026-03-30T08:33:04.945Z"
 status: "active"
 ---
 

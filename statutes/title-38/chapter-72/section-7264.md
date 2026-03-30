@@ -3,9 +3,9 @@ title: "Section 7264 - Rules of practice and procedure"
 usc_title: 38
 usc_section: "7264"
 chapter: 72
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 7264"
-generated_at: "2026-03-30T08:31:35.542Z"
+generated_at: "2026-03-30T08:33:42.471Z"
 status: "active"
 ---
 

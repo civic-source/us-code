@@ -3,9 +3,9 @@ title: "Section 1427 - Requirements of naturalization"
 usc_title: 8
 usc_section: "1427"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "8 U.S.C. § 1427"
-generated_at: "2026-03-30T08:28:59.356Z"
+generated_at: "2026-03-30T08:32:27.303Z"
 status: "active"
 ---
 

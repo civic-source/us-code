@@ -3,9 +3,9 @@ title: "Section 1337 - Leases, easements, and rights-of-way on the outer Contine
 usc_title: 43
 usc_section: "1337"
 chapter: 29
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "43 U.S.C. § 1337"
-generated_at: "2026-03-30T08:31:39.056Z"
+generated_at: "2026-03-30T08:33:46.532Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions; application"
 usc_title: 5
 usc_section: "5102"
 chapter: 51
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-30T08:28:34.293Z"
+generated_at: "2026-03-30T08:32:24.563Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
   - **(3)** physicians, dentists, nurses, and other employees in the Veterans Health Administration of the Department of Veterans Affairs whose pay is fixed under chapter 73 of title 38;
   - **(4)** teachers, school officials, and employees of the Board of Education of the District of Columbia whose pay is fixed under chapter 15 of title 31, District of Columbia Code; the chief judges and the associate judges of the Superior Court of the District of Columbia and the District of Columbia Court of Appeals; and nonjudicial employees of the District of Columbia court system whose pay is fixed under title 11 of the District of Columbia Code;
   - **(5)** members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the United States Secret Service Uniformed Division; members of the police force of the National Zoological Park whose pay is fixed under section 5375 of this title ; and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title ;
-  - **(6)** lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+  - **(6)** lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) 1 1 See References in Text note below. of title 14;
   - **(7)** employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
   - **(8)** officers and members of crews of vessels;
   - **(9)** employees of the Government Publishing Office whose pay is fixed under section 305 of title 44 ;

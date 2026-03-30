@@ -3,9 +3,9 @@ title: "Section 563d - Small business contracting goals"
 usc_title: 6
 usc_section: "563d"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "6 U.S.C. § 563d"
-generated_at: "2026-03-30T08:28:56.788Z"
+generated_at: "2026-03-30T08:32:26.651Z"
 status: "active"
 ---
 

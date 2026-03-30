@@ -3,9 +3,9 @@ title: "Section 4202 - Statement of the Congress"
 usc_title: 50
 usc_section: "4202"
 chapter: 52
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 4202"
-generated_at: "2026-03-30T08:32:04.914Z"
+generated_at: "2026-03-30T08:34:13.950Z"
 status: "active"
 ---
 

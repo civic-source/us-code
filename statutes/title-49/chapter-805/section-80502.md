@@ -3,9 +3,9 @@ title: "Section 80502 - Transportation of animals"
 usc_title: 49
 usc_section: "80502"
 chapter: 805
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "49 U.S.C. § 80502"
-generated_at: "2026-03-30T08:32:08.184Z"
+generated_at: "2026-03-30T08:34:16.020Z"
 status: "active"
 ---
 

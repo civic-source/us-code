@@ -3,9 +3,9 @@ title: "Section 1087mm - Family contribution"
 usc_title: 20
 usc_section: "1087mm"
 chapter: 28
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 1087mm"
-generated_at: "2026-03-30T08:30:00.522Z"
+generated_at: "2026-03-30T08:33:02.755Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(i)** verify with the student that the student is eligible for the adjustment;
       - **(ii)** adjust the expected family contribution in accordance with this subsection; and
       - **(iii)** notify the Secretary of the adjustment and the student’s eligibility for the adjustment.
-  - **(4)** Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796d–1 ), 1 in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act. 1 See References in Text note below.
+  - **(4)** Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796d–1 ), 1 1 See References in Text note below. in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act.
   - **(5)** For purposes of this subsection, the term “public safety officer” means—
     - **(A)** a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b ); 1 or
     - **(B)** a fire police officer, defined as an individual who—

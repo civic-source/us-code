@@ -3,9 +3,9 @@ title: "Section 3 - Labor organization practices"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T08:31:59.597Z"
+generated_at: "2026-03-30T08:34:08.668Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Postal policy"
 usc_title: 39
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "39 U.S.C. § 101"
-generated_at: "2026-03-30T08:31:20.775Z"
+generated_at: "2026-03-30T08:33:38.955Z"
 status: "active"
 ---
 

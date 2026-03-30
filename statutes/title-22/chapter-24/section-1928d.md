@@ -3,9 +3,9 @@ title: "Section 1928d - Auditing and accounting"
 usc_title: 22
 usc_section: "1928d"
 chapter: 24
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 1928d"
-generated_at: "2026-03-30T08:30:06.673Z"
+generated_at: "2026-03-30T08:33:13.132Z"
 status: "active"
 ---
 

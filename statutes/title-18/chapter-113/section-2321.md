@@ -3,9 +3,9 @@ title: "Section 2321 - Trafficking in certain motor vehicles or motor vehicle pa
 usc_title: 18
 usc_section: "2321"
 chapter: 113
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "18 U.S.C. § 2321"
-generated_at: "2026-03-30T08:29:55.461Z"
+generated_at: "2026-03-30T08:33:04.934Z"
 status: "active"
 ---
 

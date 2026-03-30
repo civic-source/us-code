@@ -3,9 +3,9 @@ title: "Section 12561a - Campuses of Service"
 usc_title: 42
 usc_section: "12561a"
 chapter: 129
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 12561a"
-generated_at: "2026-03-30T08:31:59.830Z"
+generated_at: "2026-03-30T08:34:08.909Z"
 status: "active"
 ---
 

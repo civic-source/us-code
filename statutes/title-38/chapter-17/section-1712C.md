@@ -3,9 +3,9 @@ title: "Section 1712C - Dental insurance plan for veterans and survivors and dep
 usc_title: 38
 usc_section: "1712C"
 chapter: 17
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1712C"
-generated_at: "2026-03-30T08:31:35.507Z"
+generated_at: "2026-03-30T08:33:42.438Z"
 status: "active"
 ---
 

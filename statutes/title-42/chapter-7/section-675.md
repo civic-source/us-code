@@ -3,9 +3,9 @@ title: "Section 675 - Definitions"
 usc_title: 42
 usc_section: "675"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 675"
-generated_at: "2026-03-30T08:31:59.397Z"
+generated_at: "2026-03-30T08:34:08.463Z"
 status: "active"
 ---
 
@@ -80,8 +80,8 @@ As used in this part or part B of this subchapter:
         - **(IV)** employed for at least 80 hours per month; or
         - **(V)** incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
   - **(9)** The term “sex trafficking victim” means a victim of—
-    - **(A)** sex trafficking (as defined in section 7102(10) of title 22 ); or
-    - **(B)** a severe form of trafficking in persons described in section 7102(9)(A) of title 22 .
+    - **(A)** sex trafficking (as defined in section 7102(10) 1 of title 22); or
+    - **(B)** a severe form of trafficking in persons described in section 7102(9)(A) 1 of title 22.
   - **(10)**
     - **(A)** The term “reasonable and prudent parent standard” means the standard characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child while at the same time encouraging the emotional and developmental growth of the child, that a caregiver shall use when determining whether to allow a child in foster care under the responsibility of the State to participate in extracurricular, enrichment, cultural, and social activities.
     - **(B)** For purposes of subparagraph (A), the term “caregiver” means a foster parent with whom a child in foster care has been placed or a designated official for a child care institution in which a child in foster care has been placed.

@@ -3,9 +3,9 @@ title: "Section 2124c - Rural Tourism Development Foundation"
 usc_title: 22
 usc_section: "2124c"
 chapter: 31
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 2124c"
-generated_at: "2026-03-30T08:30:06.676Z"
+generated_at: "2026-03-30T08:33:13.134Z"
 status: "active"
 ---
 

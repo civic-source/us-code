@@ -3,9 +3,9 @@ title: "Section 2004 - Sale of personalty generally"
 usc_title: 28
 usc_section: "2004"
 chapter: 127
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "28 U.S.C. § 2004"
-generated_at: "2026-03-30T08:30:33.904Z"
+generated_at: "2026-03-30T08:33:21.135Z"
 status: "active"
 ---
 

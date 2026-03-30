@@ -3,9 +3,9 @@ title: "Section 60120 - Enforcement"
 usc_title: 49
 usc_section: "60120"
 chapter: 601
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "49 U.S.C. § 60120"
-generated_at: "2026-03-30T08:32:08.181Z"
+generated_at: "2026-03-30T08:34:16.017Z"
 status: "active"
 ---
 

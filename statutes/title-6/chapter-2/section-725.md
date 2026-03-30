@@ -3,9 +3,9 @@ title: "Section 725 - Prepositioned equipment program"
 usc_title: 6
 usc_section: "725"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "6 U.S.C. § 725"
-generated_at: "2026-03-30T08:28:56.795Z"
+generated_at: "2026-03-30T08:32:26.657Z"
 status: "active"
 ---
 

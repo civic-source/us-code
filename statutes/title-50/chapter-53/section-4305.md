@@ -3,9 +3,9 @@ title: "Section 4305 - Suspension of provisions relating to ally of enemy; regul
 usc_title: 50
 usc_section: "4305"
 chapter: 53
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 4305"
-generated_at: "2026-03-30T08:32:04.916Z"
+generated_at: "2026-03-30T08:34:13.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7805 - Rules and regulations"
 usc_title: 26
 usc_section: "7805"
 chapter: 80
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 7805"
-generated_at: "2026-03-30T08:30:54.928Z"
+generated_at: "2026-03-30T08:33:25.796Z"
 status: "active"
 ---
 

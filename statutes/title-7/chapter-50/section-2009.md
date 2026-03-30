@@ -3,9 +3,9 @@ title: "Section 2009 - Definitions"
 usc_title: 7
 usc_section: "2009"
 chapter: 50
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 2009"
-generated_at: "2026-03-30T08:28:41.790Z"
+generated_at: "2026-03-30T08:32:36.082Z"
 status: "active"
 ---
 

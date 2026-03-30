@@ -3,9 +3,9 @@ title: "Section 284p - Seventh replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284p"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 284p"
-generated_at: "2026-03-30T08:30:06.653Z"
+generated_at: "2026-03-30T08:33:13.112Z"
 status: "active"
 ---
 

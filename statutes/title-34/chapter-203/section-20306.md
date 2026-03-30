@@ -3,9 +3,9 @@ title: "Section 20306 - Authorization of appropriations"
 usc_title: 34
 usc_section: "20306"
 chapter: 203
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 20306"
-generated_at: "2026-03-30T08:30:58.939Z"
+generated_at: "2026-03-30T08:33:32.785Z"
 status: "active"
 ---
 

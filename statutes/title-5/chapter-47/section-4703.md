@@ -3,9 +3,9 @@ title: "Section 4703 - Demonstration projects"
 usc_title: 5
 usc_section: "4703"
 chapter: 47
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 4703"
-generated_at: "2026-03-30T08:28:34.293Z"
+generated_at: "2026-03-30T08:32:24.563Z"
 status: "active"
 ---
 
@@ -63,7 +63,7 @@ status: "active"
 - **(g)** Employees within any unit with respect to which a labor organization has not been accorded exclusive recognition under chapter 71 of this title shall not be included within any proj­ect under subsection (a) of this section unless there has been agency consultation regarding the project with the employees in the unit.
 - **(h)** The Office shall provide for an evaluation of the results of each demonstration project and its impact on improving public management.
 - **(i)** Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
-- **(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
+- **(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and 1 1 So in original. Probably should be “of”. Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
   - **(1)** the aggregate performance appraisal ratings and compensation costs for employees under a demonstration project;
   - **(2)** an assessment of the results of the demonstration project, including its impact on mission goals, employee recruitment, retention, and satisfaction, and which may include the results of the survey authorized under section 1128 of the National Defense Authorization Act for Fiscal Year 2004 ( Public Law 108–136 ; 5 U.S.C. 7101 note), commonly referred to as the Federal Employee Viewpoint Survey, and performance management for employees; and
   - **(3)** a comparison of the items listed in (1) and (2) with employees not covered by the demonstration project.

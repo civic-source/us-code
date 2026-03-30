@@ -3,9 +3,9 @@ title: "Section 346a - Extension of boundaries"
 usc_title: 16
 usc_section: "346a"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 346a"
-generated_at: "2026-03-30T08:29:45.478Z"
+generated_at: "2026-03-30T08:33:07.171Z"
 status: "active"
 ---
 

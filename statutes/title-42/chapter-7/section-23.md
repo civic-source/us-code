@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T08:31:59.459Z"
+generated_at: "2026-03-30T08:34:08.528Z"
 status: "active"
 ---
 
@@ -444,7 +444,7 @@ status: "active"
     - **(D)**
       - **(i)** If—
         - **(I)** a Medicare Advantage organization has entered into more than one contract with the Secretary with respect to the offering of Medicare Advantage plans; and
-        - **(II)** on or after January 1, 2019 , the Secretary approves a request from the organization to consolidate the plans under one or more contract (in this subparagraph referred to as a “closed contract”) with the plans offered under a separate contract (in this subparagraph referred to as the “continuing contract”);
+        - **(II)** on or after January 1, 2019 , the Secretary approves a request from the organization to consolidate the plans under one or more contract 8 8 So in original. Probably should be “contracts”. (in this subparagraph referred to as a “closed contract”) with the plans offered under a separate contract (in this subparagraph referred to as the “continuing contract”);
       - **(ii)** An adjustment under clause (i) shall apply for any year for which the quality rating of the continuing contract is based primarily on a measurement period that is prior to the first year in which a closed contract is no longer offered.
   - **(5)** This subsection shall not apply to payments to a PACE program under section 1395eee of this title .
   - **(6)**

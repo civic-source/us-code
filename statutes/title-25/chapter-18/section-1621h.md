@@ -3,9 +3,9 @@ title: "Section 1621h - Mental health prevention and treatment services"
 usc_title: 25
 usc_section: "1621h"
 chapter: 18
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "25 U.S.C. § 1621h"
-generated_at: "2026-03-30T08:30:03.827Z"
+generated_at: "2026-03-30T08:33:15.922Z"
 status: "active"
 ---
 

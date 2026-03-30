@@ -3,9 +3,9 @@ title: "Section 5321 - Short title"
 usc_title: 22
 usc_section: "5321"
 chapter: 62
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 5321"
-generated_at: "2026-03-30T08:30:06.739Z"
+generated_at: "2026-03-30T08:33:13.198Z"
 status: "active"
 ---
 

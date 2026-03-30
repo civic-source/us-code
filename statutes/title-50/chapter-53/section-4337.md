@@ -3,9 +3,9 @@ title: "Section 4337 - Intercustodial conflicts involving enemy property; author
 usc_title: 50
 usc_section: "4337"
 chapter: 53
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 4337"
-generated_at: "2026-03-30T08:32:04.920Z"
+generated_at: "2026-03-30T08:34:13.956Z"
 status: "active"
 ---
 

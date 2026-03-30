@@ -3,9 +3,9 @@ title: "Section 58104 - Willful violation constitutes breach of contract or char
 usc_title: 46
 usc_section: "58104"
 chapter: 581
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "46 U.S.C. § 58104"
-generated_at: "2026-03-30T08:32:03.311Z"
+generated_at: "2026-03-30T08:34:12.963Z"
 status: "active"
 ---
 

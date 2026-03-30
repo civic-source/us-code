@@ -3,9 +3,9 @@ title: "Section 666c - Applicability to Tennessee Valley Authority"
 usc_title: 16
 usc_section: "666c"
 chapter: 5
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 666c"
-generated_at: "2026-03-30T08:29:45.562Z"
+generated_at: "2026-03-30T08:33:07.265Z"
 status: "active"
 ---
 

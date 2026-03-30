@@ -3,9 +3,9 @@ title: "Section 2303 - Death in Department facility; plot allowance"
 usc_title: 38
 usc_section: "2303"
 chapter: 23
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 2303"
-generated_at: "2026-03-30T08:31:35.517Z"
+generated_at: "2026-03-30T08:33:42.448Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** A facility described in this paragraph is—
     - **(A)** a facility of the Department (as defined in section 1701(3) of this title ) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
     - **(B)** an institution at which the deceased veteran was, at the time of death, receiving—
-      - **(i)** hospital care in accordance with section 1703 of this title ;
+      - **(i)** hospital care in accordance with sections 1703A, 8111, and 8153 of this title;
       - **(ii)** nursing home care under section 1720 of this title ; or
       - **(iii)** nursing home care for which payments are made under section 1741 of this title .
 - **(b)** In addition to the benefits provided for under section 2302 of this title and subsection (a) of this section, in the case of a veteran who is eligible for burial in a national cemetery under section 2402 of this title and who is not buried in a national cemetery or other cemetery under the jurisdiction of the United States—

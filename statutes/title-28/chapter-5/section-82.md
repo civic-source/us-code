@@ -3,13 +3,13 @@ title: "Section 82 - Arizona"
 usc_title: 28
 usc_section: "82"
 chapter: 5
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "28 U.S.C. § 82"
-generated_at: "2026-03-30T08:30:33.883Z"
+generated_at: "2026-03-30T08:33:21.112Z"
 status: "active"
 ---
 
 # § 82. Arizona
 
-Arizona constitutes one judicial district. Court shall be held at Globe, Phoenix, Prescott, and Tucson.
+Arizona constitutes one judicial district. Court shall be held at Flagstaff, Globe, Phoenix, Prescott, Tucson, and Yuma.
 

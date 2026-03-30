@@ -3,9 +3,9 @@ title: "Section 244 - Maritime security capabilities assessments"
 usc_title: 6
 usc_section: "244"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "6 U.S.C. § 244"
-generated_at: "2026-03-30T08:28:56.775Z"
+generated_at: "2026-03-30T08:32:26.639Z"
 status: "active"
 ---
 

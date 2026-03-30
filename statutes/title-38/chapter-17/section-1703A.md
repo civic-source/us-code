@@ -3,9 +3,9 @@ title: "Section 1703A - Agreements with eligible entities or providers; certific
 usc_title: 38
 usc_section: "1703A"
 chapter: 17
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1703A"
-generated_at: "2026-03-30T08:31:35.503Z"
+generated_at: "2026-03-30T08:33:42.436Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** require the denial of certification if the Secretary determines the eligible entity or provider is excluded from participation in a Federal health care program under section 1128 or section 1128A of the Social Security Act ( 42 U.S.C. 1320a–7 or 1320a–7a) or is currently identified as an excluded source on the System for Award Management Exclusions list described in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or successor regulations;
   - **(4)** establish procedures for screening eligible entities or providers according to the risk of fraud, waste, and abuse that are similar to the standards under section 1866(j)(2)(B) of the Social Security Act ( 42 U.S.C. 1395cc(j)(2)(B) ) and section 9.104 of title 48, Code of Federal Regulations, or successor regulations; and
   - **(5)** incorporate and apply the restrictions and penalties set forth in chapter 21 of title 41 and treat this section as a procurement program only for purposes of applying such provisions.
-- **(d)** To the extent practicable, the rates paid by the Secretary for hospital care, medical services, and extended care services provided under a Veterans Care Agreement shall be in accordance with the rates paid by the United States under section 1703(i) 1 1 See References in Text note below. of this title.
+- **(d)** To the extent practicable, the rates paid by the Secretary for hospital care, medical services, and extended care services provided under a Veterans Care Agreement shall be in accordance with the rates paid by the United States under section 1703(i) of this title .
 - **(e)**
   - **(1)** Pursuant to regulations promulgated under subsection (k), the Secretary may define the requirements for providers and entities entering into agreements under this section based upon such factors as the number of patients receiving care or services, the number of employees employed by the entity or provider furnishing such care or services, the amount paid by the Secretary to the provider or entity, or other factors as determined by the Secretary.
   - **(2)** To furnish hospital care, medical services, or extended care services under this section, an eligible entity or provider shall agree—

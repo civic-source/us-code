@@ -3,9 +3,9 @@ title: "Section 5177 - Unemployment assistance"
 usc_title: 42
 usc_section: "5177"
 chapter: 68
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 5177"
-generated_at: "2026-03-30T08:31:59.666Z"
+generated_at: "2026-03-30T08:34:08.741Z"
 status: "active"
 ---
 

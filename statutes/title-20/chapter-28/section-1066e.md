@@ -3,9 +3,9 @@ title: "Section 1066e - Repealed. Pub. L. 105–244, title III, § 306(d) , Oct.
 usc_title: 20
 usc_section: "1066e"
 chapter: 28
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 1066e"
-generated_at: "2026-03-30T08:30:00.502Z"
+generated_at: "2026-03-30T08:33:02.733Z"
 status: "repealed"
 ---
 

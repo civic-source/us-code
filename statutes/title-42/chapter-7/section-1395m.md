@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T08:31:59.440Z"
+generated_at: "2026-03-30T08:34:08.507Z"
 status: "active"
 ---
 
@@ -798,7 +798,7 @@ status: "active"
   - **(6)** Prior to the furnishing of home infusion therapy to an individual, the physician who establishes the plan described in section 1395x(iii)(1) of this title for the individual shall provide notification (in a form, manner, and frequency determined appropriate by the Secretary) of the options available (such as home, physician’s office, hospital outpatient department) for the furnishing of infusion therapy under this part.
   - **(7)**
     - **(A)**
-      - **(i)** The Secretary shall, in accordance with the payment methodology described in subparagraph (B) and subject to the provisions of this paragraph, provide a home infusion therapy services temporary transitional payment under this part to an eligible home infusion supplier (as defined in subparagraph (F)) for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2) of this title ) furnished during the period specified in clause (ii) by such supplier in coordination with the furnishing of transitional home infusion drugs (as defined in clause (iii)).
+      - **(i)** The Secretary shall, in accordance with the payment methodology described in subparagraph (B) and subject to the provisions of this paragraph, provide a home infusion therapy services temporary transitional payment under this part to an eligible home infusion supplier (as defined in subparagraph (F)) for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 6 of this title furnished during the period specified in clause (ii) by such supplier in coordination with the furnishing of transitional home infusion drugs (as defined in clause (iii)).
       - **(ii)** For purposes of clause (i), the period specified in this clause is the period beginning on January 1, 2019 , and ending on the day before the date of the implementation of the payment system under paragraph (1)(A).
       - **(iii)** For purposes of this paragraph, the term “transitional home infusion drug” has the meaning given to the term “home infusion drug” under section 1395x(iii)(3)(C)) 6 of this title, except that clause (ii) of such section shall not apply if a drug described in such clause is identified in clauses (i), (ii), (iii) or (iv) of subparagraph (C) as of February 9, 2018 .
     - **(B)** For purposes of this paragraph, the Secretary shall establish a payment methodology, with respect to items and services described in subparagraph (A)(i). Under such payment methodology the Secretary shall—
@@ -831,5 +831,5 @@ status: "active"
   - **(3)** The Secretary shall implement this subsection through notice and comment rulemaking.
 - **(w)**
   - **(1)** The Secretary shall pay to an opioid treatment program (as defined in paragraph (2) of section 1395x(jjj) of this title ) an amount that is equal to 100 percent of a bundled payment under this part for opioid use disorder treatment services (as defined in paragraph (1) of such section) that are furnished by such program to an individual during an episode of care (as defined by the Secretary) beginning on or after January 1, 2020 . The Secretary shall ensure, as determined appropriate by the Secretary, that no duplicative payments are made under this part or part D for items and services furnished by an opioid treatment program.
-  - **(2)** The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
+  - **(2)** The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine 7 7 So in original. Probably should be “determines”. appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
   - **(3)** The Secretary shall provide an update each year to the bundled payment amounts under this subsection.

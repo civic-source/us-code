@@ -3,9 +3,9 @@ title: "Section 3493 - Effect on educational entitlement"
 usc_title: 38
 usc_section: "3493"
 chapter: 34
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 3493"
-generated_at: "2026-03-30T08:31:35.526Z"
+generated_at: "2026-03-30T08:33:42.455Z"
 status: "active"
 ---
 

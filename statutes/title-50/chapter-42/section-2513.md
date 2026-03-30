@@ -3,9 +3,9 @@ title: "Section 2513 - Restriction on licensing requirement for certain defense 
 usc_title: 50
 usc_section: "2513"
 chapter: 42
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 2513"
-generated_at: "2026-03-30T08:32:04.882Z"
+generated_at: "2026-03-30T08:34:13.917Z"
 status: "active"
 ---
 

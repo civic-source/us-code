@@ -3,9 +3,9 @@ title: "Section 9069 - Air Force nurses: Chief; appointment"
 usc_title: 10
 usc_section: "9069"
 chapter: 907
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 9069"
-generated_at: "2026-03-30T08:29:03.592Z"
+generated_at: "2026-03-30T08:32:32.972Z"
 status: "active"
 ---
 

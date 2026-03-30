@@ -3,9 +3,9 @@ title: "Section 1313a - Appropriations for refunds, drawbacks, bounties, etc."
 usc_title: 19
 usc_section: "1313a"
 chapter: 4
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "19 U.S.C. § 1313a"
-generated_at: "2026-03-30T08:29:57.425Z"
+generated_at: "2026-03-30T08:33:03.918Z"
 status: "active"
 ---
 

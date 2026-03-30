@@ -3,9 +3,9 @@ title: "Section 1827 - Observer program regarding certain foreign fishing"
 usc_title: 16
 usc_section: "1827"
 chapter: 38
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 1827"
-generated_at: "2026-03-30T08:29:45.627Z"
+generated_at: "2026-03-30T08:33:07.332Z"
 status: "active"
 ---
 

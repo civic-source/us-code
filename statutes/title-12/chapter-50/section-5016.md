@@ -3,9 +3,9 @@ title: "Section 5016 - Statistical reporting of costs and revenues for transport
 usc_title: 12
 usc_section: "5016"
 chapter: 50
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 5016"
-generated_at: "2026-03-30T08:29:34.799Z"
+generated_at: "2026-03-30T08:32:41.253Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1131e - Gifts and donations"
 usc_title: 20
 usc_section: "1131e"
 chapter: 28
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 1131e"
-generated_at: "2026-03-30T08:30:00.535Z"
+generated_at: "2026-03-30T08:33:02.768Z"
 status: "active"
 ---
 

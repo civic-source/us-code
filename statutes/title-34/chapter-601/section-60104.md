@@ -3,9 +3,9 @@ title: "Section 60104 - Enforcement"
 usc_title: 34
 usc_section: "60104"
 chapter: 601
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 60104"
-generated_at: "2026-03-30T08:30:58.959Z"
+generated_at: "2026-03-30T08:33:32.801Z"
 status: "active"
 ---
 

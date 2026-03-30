@@ -3,9 +3,9 @@ title: "Section 2060 - Judicial review of consumer product safety rules"
 usc_title: 15
 usc_section: "2060"
 chapter: 47
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 2060"
-generated_at: "2026-03-30T08:29:19.524Z"
+generated_at: "2026-03-30T08:32:57.671Z"
 status: "active"
 ---
 

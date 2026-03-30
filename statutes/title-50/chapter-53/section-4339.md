@@ -3,9 +3,9 @@ title: "Section 4339 - Claims for proceeds from sale of certain certificates: ju
 usc_title: 50
 usc_section: "4339"
 chapter: 53
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 4339"
-generated_at: "2026-03-30T08:32:04.920Z"
+generated_at: "2026-03-30T08:34:13.956Z"
 status: "active"
 ---
 

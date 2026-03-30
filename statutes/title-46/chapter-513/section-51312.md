@@ -3,9 +3,9 @@ title: "Section 51312 - Board of Visitors"
 usc_title: 46
 usc_section: "51312"
 chapter: 513
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "46 U.S.C. § 51312"
-generated_at: "2026-03-30T08:32:03.301Z"
+generated_at: "2026-03-30T08:34:12.953Z"
 status: "active"
 ---
 

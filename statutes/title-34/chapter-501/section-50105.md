@@ -3,9 +3,9 @@ title: "Section 50105 - Confidentiality of information"
 usc_title: 34
 usc_section: "50105"
 chapter: 501
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 50105"
-generated_at: "2026-03-30T08:30:58.958Z"
+generated_at: "2026-03-30T08:33:32.800Z"
 status: "active"
 ---
 

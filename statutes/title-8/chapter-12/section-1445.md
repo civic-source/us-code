@@ -3,9 +3,9 @@ title: "Section 1445 - Application for naturalization; declaration of intention"
 usc_title: 8
 usc_section: "1445"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "8 U.S.C. § 1445"
-generated_at: "2026-03-30T08:28:59.358Z"
+generated_at: "2026-03-30T08:32:27.304Z"
 status: "active"
 ---
 

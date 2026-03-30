@@ -3,9 +3,9 @@ title: "Section 20306 - Prohibition of refusal of applications on grounds of ear
 usc_title: 52
 usc_section: "20306"
 chapter: 203
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "52 U.S.C. § 20306"
-generated_at: "2026-03-30T08:32:10.127Z"
+generated_at: "2026-03-30T08:34:17.720Z"
 status: "active"
 ---
 

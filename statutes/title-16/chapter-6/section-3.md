@@ -3,9 +3,9 @@ title: "Section 3 - Administration of National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T08:29:45.569Z"
+generated_at: "2026-03-30T08:33:07.273Z"
 status: "active"
 ---
 

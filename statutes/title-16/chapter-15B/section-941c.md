@@ -3,9 +3,9 @@ title: "Section 941c - Identification, review, and implementation of proposals a
 usc_title: 16
 usc_section: "941c"
 chapter: 15
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 941c"
-generated_at: "2026-03-30T08:29:45.594Z"
+generated_at: "2026-03-30T08:33:07.298Z"
 status: "active"
 ---
 

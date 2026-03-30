@@ -3,9 +3,9 @@ title: "Section 460lll - Definitions"
 usc_title: 16
 usc_section: "460lll"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 460lll"
-generated_at: "2026-03-30T08:29:45.533Z"
+generated_at: "2026-03-30T08:33:07.233Z"
 status: "active"
 ---
 

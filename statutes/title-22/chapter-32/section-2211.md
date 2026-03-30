@@ -3,9 +3,9 @@ title: "Section 2211 - Findings and policy"
 usc_title: 22
 usc_section: "2211"
 chapter: 32
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 2211"
-generated_at: "2026-03-30T08:30:06.684Z"
+generated_at: "2026-03-30T08:33:13.143Z"
 status: "active"
 ---
 

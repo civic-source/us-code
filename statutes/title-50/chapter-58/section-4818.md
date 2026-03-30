@@ -3,9 +3,9 @@ title: "Section 4818 - Review relating to countries subject to comprehensive Uni
 usc_title: 50
 usc_section: "4818"
 chapter: 58
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 4818"
-generated_at: "2026-03-30T08:32:04.926Z"
+generated_at: "2026-03-30T08:34:13.962Z"
 status: "active"
 ---
 

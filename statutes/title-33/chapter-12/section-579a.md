@@ -3,9 +3,9 @@ title: "Section 579a - Corps budgeting; project deauthorizations; comprehensive 
 usc_title: 33
 usc_section: "579a"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 579a"
-generated_at: "2026-03-30T08:31:18.912Z"
+generated_at: "2026-03-30T08:33:34.578Z"
 status: "active"
 ---
 

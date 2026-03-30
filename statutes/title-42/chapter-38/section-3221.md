@@ -3,9 +3,9 @@ title: "Section 3221 - Brownfields redevelopment report"
 usc_title: 42
 usc_section: "3221"
 chapter: 38
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 3221"
-generated_at: "2026-03-30T08:31:59.633Z"
+generated_at: "2026-03-30T08:34:08.706Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1703C - Standards for quality"
 usc_title: 38
 usc_section: "1703C"
 chapter: 17
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1703C"
-generated_at: "2026-03-30T08:31:35.504Z"
+generated_at: "2026-03-30T08:33:42.436Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
-  - **(2)** The term “covered veterans” means veterans described in section 1703(b) 1 1 See References in Text note below. of this title.
+  - **(2)** The term “covered veterans” means veterans described in section 1703(b) of this title .

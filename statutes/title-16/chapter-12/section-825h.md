@@ -3,9 +3,9 @@ title: "Section 825h - Administrative powers of Commission; rules, regulations, 
 usc_title: 16
 usc_section: "825h"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 825h"
-generated_at: "2026-03-30T08:29:45.584Z"
+generated_at: "2026-03-30T08:33:07.288Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8902 - Small passenger vessels"
 usc_title: 46
 usc_section: "8902"
 chapter: 89
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "46 U.S.C. § 8902"
-generated_at: "2026-03-30T08:32:03.287Z"
+generated_at: "2026-03-30T08:34:12.941Z"
 status: "active"
 ---
 

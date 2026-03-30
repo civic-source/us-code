@@ -3,9 +3,9 @@ title: "Section 37 - Immunity from antitrust laws"
 usc_title: 15
 usc_section: "37"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 37"
-generated_at: "2026-03-30T08:29:19.401Z"
+generated_at: "2026-03-30T08:32:57.547Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2109a - State and private forest landscape-scale restoration pro
 usc_title: 16
 usc_section: "2109a"
 chapter: 41
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 2109a"
-generated_at: "2026-03-30T08:29:45.635Z"
+generated_at: "2026-03-30T08:33:07.341Z"
 status: "active"
 ---
 

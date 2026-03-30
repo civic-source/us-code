@@ -3,9 +3,9 @@ title: "Section 200303 - Appropriations for expenditure of Fund amounts"
 usc_title: 54
 usc_section: "200303"
 chapter: 2003
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "54 U.S.C. § 200303"
-generated_at: "2026-03-30T08:32:09.997Z"
+generated_at: "2026-03-30T08:34:17.995Z"
 status: "active"
 ---
 

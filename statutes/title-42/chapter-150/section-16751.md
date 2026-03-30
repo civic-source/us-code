@@ -3,9 +3,9 @@ title: "Section 16751 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16751"
 chapter: 150
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 16751"
-generated_at: "2026-03-30T08:31:59.886Z"
+generated_at: "2026-03-30T08:34:08.968Z"
 status: "repealed"
 ---
 

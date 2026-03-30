@@ -3,9 +3,9 @@ title: "Section 195 - Omitted"
 usc_title: 15
 usc_section: "195"
 chapter: 5
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 195"
-generated_at: "2026-03-30T08:29:19.449Z"
+generated_at: "2026-03-30T08:32:57.595Z"
 status: "omitted"
 ---
 

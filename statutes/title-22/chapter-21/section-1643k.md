@@ -3,9 +3,9 @@ title: "Section 1643k - Fees for services; limitation; penalty"
 usc_title: 22
 usc_section: "1643k"
 chapter: 21
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 1643k"
-generated_at: "2026-03-30T08:30:06.671Z"
+generated_at: "2026-03-30T08:33:13.130Z"
 status: "active"
 ---
 

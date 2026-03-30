@@ -3,9 +3,9 @@ title: "Section 28f - Fee"
 usc_title: 30
 usc_section: "28f"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "30 U.S.C. § 28f"
-generated_at: "2026-03-30T08:30:23.180Z"
+generated_at: "2026-03-30T08:33:18.259Z"
 status: "active"
 ---
 

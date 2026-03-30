@@ -3,9 +3,9 @@ title: "Section 939 - Loan terms and conditions"
 usc_title: 7
 usc_section: "939"
 chapter: 31
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 939"
-generated_at: "2026-03-30T08:28:41.744Z"
+generated_at: "2026-03-30T08:32:36.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 305 - Director of the Government Publishing Office: employees; p
 usc_title: 44
 usc_section: "305"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "44 U.S.C. § 305"
-generated_at: "2026-03-30T08:31:40.666Z"
+generated_at: "2026-03-30T08:33:44.904Z"
 status: "active"
 ---
 

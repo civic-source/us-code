@@ -3,9 +3,9 @@ title: "Section 75a - Definitions"
 usc_title: 20
 usc_section: "75a"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 75a"
-generated_at: "2026-03-30T08:30:00.483Z"
+generated_at: "2026-03-30T08:33:02.714Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18c - Transferred"
 usc_title: 29
 usc_section: "18c"
 chapter: 2
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 18c"
-generated_at: "2026-03-30T08:30:39.380Z"
+generated_at: "2026-03-30T08:33:20.022Z"
 status: "transferred"
 ---
 

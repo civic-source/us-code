@@ -3,9 +3,9 @@ title: "Section 1592b - Maximum construction costs; determinations by Secretary 
 usc_title: 42
 usc_section: "1592b"
 chapter: 9
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 1592b"
-generated_at: "2026-03-30T08:31:59.565Z"
+generated_at: "2026-03-30T08:34:08.635Z"
 status: "active"
 ---
 

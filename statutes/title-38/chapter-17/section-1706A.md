@@ -3,15 +3,15 @@ title: "Section 1706A - Remediation of medical service lines"
 usc_title: 38
 usc_section: "1706A"
 chapter: 17
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 1706A"
-generated_at: "2026-03-30T08:31:35.505Z"
+generated_at: "2026-03-30T08:33:42.437Z"
 status: "active"
 ---
 
 # § 1706A. Remediation of medical service lines
 
-- **(a)** Not later than 30 days after determining under section 1703(e)(1) 1 1 See References in Text note below. of this title that a medical service line of the Department is providing hospital care, medical services, or extended care services that does not comply with the standards for quality established by the Secretary, the Secretary shall submit to Congress an assessment of the factors that led the Secretary to make such determination and a plan with specific actions, and the time to complete them, to be taken to comply with such standards for quality, including the following:
+- **(a)** Not later than 30 days after determining under section 1703(e)(1) of this title that a medical service line of the Department is providing hospital care, medical services, or extended care services that does not comply with the standards for quality established by the Secretary, the Secretary shall submit to Congress an assessment of the factors that led the Secretary to make such determination and a plan with specific actions, and the time to complete them, to be taken to comply with such standards for quality, including the following:
   - **(1)** Increasing personnel or temporary personnel assistance, including mobile deployment teams.
   - **(2)** Special hiring incentives, including the Education Debt Reduction Program under subchapter VII of chapter 76 of this title and recruitment, relocation, and retention incentives.
   - **(3)** Utilizing direct hiring authority.

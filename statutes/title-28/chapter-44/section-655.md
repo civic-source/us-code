@@ -3,9 +3,9 @@ title: "Section 655 - Arbitrators"
 usc_title: 28
 usc_section: "655"
 chapter: 44
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "28 U.S.C. § 655"
-generated_at: "2026-03-30T08:30:33.895Z"
+generated_at: "2026-03-30T08:33:21.125Z"
 status: "active"
 ---
 

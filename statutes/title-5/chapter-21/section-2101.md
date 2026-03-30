@@ -3,9 +3,9 @@ title: "Section 2101 - Civil service; armed forces; uniformed services"
 usc_title: 5
 usc_section: "2101"
 chapter: 21
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 2101"
-generated_at: "2026-03-30T08:28:34.283Z"
+generated_at: "2026-03-30T08:32:24.554Z"
 status: "active"
 ---
 

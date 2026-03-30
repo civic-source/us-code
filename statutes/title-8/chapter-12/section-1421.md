@@ -3,9 +3,9 @@ title: "Section 1421 - Naturalization authority"
 usc_title: 8
 usc_section: "1421"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "8 U.S.C. § 1421"
-generated_at: "2026-03-30T08:28:59.356Z"
+generated_at: "2026-03-30T08:32:27.303Z"
 status: "active"
 ---
 

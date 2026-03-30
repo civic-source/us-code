@@ -3,9 +3,9 @@ title: "Section 7118 - Activities to support safe and healthy students"
 usc_title: 20
 usc_section: "7118"
 chapter: 70
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 7118"
-generated_at: "2026-03-30T08:30:00.584Z"
+generated_at: "2026-03-30T08:33:02.821Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ Subject to section 7116(f) of this title , each local educational agency, or con
       - **(i)** suicide prevention;
       - **(ii)** effective and trauma-informed practices in classroom management;
       - **(iii)** crisis management and conflict resolution techniques;
-      - **(iv)** human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) of section 7102 of title 22 );
+      - **(iv)** human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) 1 1 See References in Text note below. of section 7102 of title 22 );
       - **(v)** school-based violence prevention strategies;
       - **(vi)** drug abuse prevention, including educating children facing substance abuse at home; and
       - **(vii)** bullying and harassment prevention;

@@ -3,9 +3,9 @@ title: "Section 53905 - Agency insurance"
 usc_title: 46
 usc_section: "53905"
 chapter: 539
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "46 U.S.C. § 53905"
-generated_at: "2026-03-30T08:32:03.308Z"
+generated_at: "2026-03-30T08:34:12.959Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 955 - Repealed. Pub. L. 115–97, title I, § 14212(a) , Dec. 22
 usc_title: 26
 usc_section: "955"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 955"
-generated_at: "2026-03-30T08:30:54.803Z"
+generated_at: "2026-03-30T08:33:25.681Z"
 status: "repealed"
 ---
 

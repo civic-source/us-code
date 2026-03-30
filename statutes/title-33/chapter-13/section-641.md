@@ -3,9 +3,9 @@ title: "Section 641 - Creation of Mississippi River Commission"
 usc_title: 33
 usc_section: "641"
 chapter: 13
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 641"
-generated_at: "2026-03-30T08:31:18.915Z"
+generated_at: "2026-03-30T08:33:34.580Z"
 status: "active"
 ---
 

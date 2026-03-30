@@ -3,9 +3,9 @@ title: "Section 7425 - Authorized services and activities"
 usc_title: 20
 usc_section: "7425"
 chapter: 70
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 7425"
-generated_at: "2026-03-30T08:30:00.589Z"
+generated_at: "2026-03-30T08:33:02.827Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(3)** early childhood and family programs that emphasize school readiness;
   - **(4)** enrichment programs that focus on problem solving and cognitive skills development and directly support the attainment of challenging State academic standards;
   - **(5)** integrated educational services in combination with other programs that meet the needs of Indian children and their families, including programs that promote parental involvement in school activities and increase student achievement;
-  - **(6)** career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.), including programs for tech-prep education, mentoring, and apprenticeship;
+  - **(6)** career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.), including programs for mentoring and apprenticeship;
   - **(7)** activities to educate individuals so as to prevent violence, suicide, and substance abuse;
   - **(8)** the acquisition of equipment, but only if the acquisition of the equipment is essential to achieve the purpose described in section 7421 of this title ;
   - **(9)** activities that promote the incorporation of culturally responsive teaching and learning strategies into the educational program of the local educational agency;

@@ -3,9 +3,9 @@ title: "Section 5107 - Classification of positions"
 usc_title: 5
 usc_section: "5107"
 chapter: 51
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 5107"
-generated_at: "2026-03-30T08:28:34.294Z"
+generated_at: "2026-03-30T08:32:24.564Z"
 status: "active"
 ---
 

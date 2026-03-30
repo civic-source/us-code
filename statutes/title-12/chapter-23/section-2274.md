@@ -3,9 +3,9 @@ title: "Section 2274 - Power to remove directors and officers"
 usc_title: 12
 usc_section: "2274"
 chapter: 23
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 2274"
-generated_at: "2026-03-30T08:29:34.761Z"
+generated_at: "2026-03-30T08:32:41.216Z"
 status: "active"
 ---
 

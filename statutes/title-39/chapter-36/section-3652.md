@@ -3,9 +3,9 @@ title: "Section 3652 - Annual reports to the Commission"
 usc_title: 39
 usc_section: "3652"
 chapter: 36
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "39 U.S.C. § 3652"
-generated_at: "2026-03-30T08:31:20.782Z"
+generated_at: "2026-03-30T08:33:38.962Z"
 status: "active"
 ---
 

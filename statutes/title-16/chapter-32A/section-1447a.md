@@ -3,9 +3,9 @@ title: "Section 1447a - Definitions"
 usc_title: 16
 usc_section: "1447a"
 chapter: 32
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 1447a"
-generated_at: "2026-03-30T08:29:45.616Z"
+generated_at: "2026-03-30T08:33:07.321Z"
 status: "active"
 ---
 

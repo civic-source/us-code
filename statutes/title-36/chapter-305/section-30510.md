@@ -3,9 +3,9 @@ title: "Section 30510 - Records and inspection"
 usc_title: 36
 usc_section: "30510"
 chapter: 305
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "36 U.S.C. § 30510"
-generated_at: "2026-03-30T08:31:26.665Z"
+generated_at: "2026-03-30T08:33:40.010Z"
 status: "active"
 ---
 

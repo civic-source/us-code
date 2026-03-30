@@ -3,9 +3,9 @@ title: "Section 13032 - Repealed. Pub. L. 110–401, title V, § 501(b)(1) , Oct
 usc_title: 42
 usc_section: "13032"
 chapter: 132
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 13032"
-generated_at: "2026-03-30T08:31:59.848Z"
+generated_at: "2026-03-30T08:34:08.929Z"
 status: "repealed"
 ---
 

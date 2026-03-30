@@ -3,9 +3,9 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T08:31:59.659Z"
+generated_at: "2026-03-30T08:34:08.735Z"
 status: "active"
 ---
 
@@ -97,7 +97,7 @@ status: "active"
       - **(xxi)** provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.);
       - **(xxii)** provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ( 42 U.S.C. 671(a)(20) ) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household;
       - **(xxiii)** provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
-      - **(xxiv)** provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22 ); and
+      - **(xxiv)** provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) 2 2 See References in Text note below. of title 22); and
       - **(xxv)** provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
     - **(C)** an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
       - **(i)** coordination and consultation with individuals designated by and within appropriate health-care facilities;

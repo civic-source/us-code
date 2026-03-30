@@ -3,9 +3,9 @@ title: "Section 1314 - Amount and method of adjustment"
 usc_title: 26
 usc_section: "1314"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 1314"
-generated_at: "2026-03-30T08:30:54.819Z"
+generated_at: "2026-03-30T08:33:25.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 916b - Acceptance or rejection by United States Government of re
 usc_title: 16
 usc_section: "916b"
 chapter: 14
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 916b"
-generated_at: "2026-03-30T08:29:45.593Z"
+generated_at: "2026-03-30T08:33:07.297Z"
 status: "active"
 ---
 

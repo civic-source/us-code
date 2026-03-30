@@ -3,9 +3,9 @@ title: "Section 5 - Patent and Trademark Office Public Advisory Committees"
 usc_title: 35
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "35 U.S.C. § 5"
-generated_at: "2026-03-30T08:30:59.875Z"
+generated_at: "2026-03-30T08:33:28.602Z"
 status: "active"
 ---
 

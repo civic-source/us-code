@@ -3,9 +3,9 @@ title: "Section 6152 - Appointment and compensation of employees by Secretaries 
 usc_title: 2
 usc_section: "6152"
 chapter: 61
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "2 U.S.C. § 6152"
-generated_at: "2026-03-30T08:28:11.648Z"
+generated_at: "2026-03-30T08:32:22.116Z"
 status: "active"
 ---
 

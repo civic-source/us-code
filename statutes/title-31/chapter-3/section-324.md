@@ -3,9 +3,9 @@ title: "Section 324 - Disposing and extending the maturity of obligations"
 usc_title: 31
 usc_section: "324"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "31 U.S.C. § 324"
-generated_at: "2026-03-30T08:31:01.089Z"
+generated_at: "2026-03-30T08:33:28.329Z"
 status: "active"
 ---
 

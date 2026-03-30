@@ -3,9 +3,9 @@ title: "Section 223a - Repealed. Aug. 8, 1946, ch. 916, § 14 , 60 Stat. 958"
 usc_title: 30
 usc_section: "223a"
 chapter: 3
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "30 U.S.C. § 223a"
-generated_at: "2026-03-30T08:30:23.185Z"
+generated_at: "2026-03-30T08:33:18.264Z"
 status: "repealed"
 ---
 

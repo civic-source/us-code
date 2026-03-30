@@ -3,9 +3,9 @@ title: "Section 56101 - Approval required to transfer vessel to noncitizen"
 usc_title: 46
 usc_section: "56101"
 chapter: 561
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "46 U.S.C. § 56101"
-generated_at: "2026-03-30T08:32:03.309Z"
+generated_at: "2026-03-30T08:34:12.961Z"
 status: "active"
 ---
 

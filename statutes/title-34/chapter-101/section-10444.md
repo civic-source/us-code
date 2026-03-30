@@ -3,9 +3,9 @@ title: "Section 10444 - Duties and functions of Director of Violence Against Wom
 usc_title: 34
 usc_section: "10444"
 chapter: 101
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 10444"
-generated_at: "2026-03-30T08:30:58.908Z"
+generated_at: "2026-03-30T08:33:32.761Z"
 status: "active"
 ---
 

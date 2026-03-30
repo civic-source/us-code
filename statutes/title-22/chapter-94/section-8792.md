@@ -3,9 +3,9 @@ title: "Section 8792 - Imposition of sanctions with respect to the transfer of g
 usc_title: 22
 usc_section: "8792"
 chapter: 94
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 8792"
-generated_at: "2026-03-30T08:30:06.777Z"
+generated_at: "2026-03-30T08:33:13.236Z"
 status: "active"
 ---
 

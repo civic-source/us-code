@@ -3,9 +3,9 @@ title: "Section 21003 - Condition for receipt of funds"
 usc_title: 52
 usc_section: "21003"
 chapter: 209
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "52 U.S.C. § 21003"
-generated_at: "2026-03-30T08:32:10.132Z"
+generated_at: "2026-03-30T08:34:17.724Z"
 status: "active"
 ---
 

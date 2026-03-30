@@ -3,9 +3,9 @@ title: "Section 5165f - National Urban Search and Rescue Response System"
 usc_title: 42
 usc_section: "5165f"
 chapter: 68
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 5165f"
-generated_at: "2026-03-30T08:31:59.664Z"
+generated_at: "2026-03-30T08:34:08.738Z"
 status: "active"
 ---
 
@@ -65,3 +65,4 @@ status: "active"
 - **(m)** The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoring agency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
 - **(n)** The Administrator may incur all necessary obligations consistent with this section in order to ensure the effectiveness of the System.
 - **(o)** Not later than 180 days after December 16, 2016 , the Administrator shall submit to the appropriate congressional committees (as defined in section 101 of title 6 ) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
+- **(p)** Nothing in this section shall be construed to mean that a task force may not include Federal employees. In the case of a Federal employee detailed to a task force, the sponsoring agency shall enter into an agreement with the relevant employing Federal agency.

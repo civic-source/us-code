@@ -3,9 +3,9 @@ title: "Section 2169 - Capitol complex E–85 refueling station"
 usc_title: 2
 usc_section: "2169"
 chapter: 30
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "2 U.S.C. § 2169"
-generated_at: "2026-03-30T08:28:11.638Z"
+generated_at: "2026-03-30T08:32:22.107Z"
 status: "active"
 ---
 

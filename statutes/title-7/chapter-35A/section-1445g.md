@@ -3,9 +3,9 @@ title: "Section 1445g - Production of commodities for conversion into industrial
 usc_title: 7
 usc_section: "1445g"
 chapter: 35
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 1445g"
-generated_at: "2026-03-30T08:28:41.758Z"
+generated_at: "2026-03-30T08:32:36.048Z"
 status: "active"
 ---
 

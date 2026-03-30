@@ -3,9 +3,9 @@ title: "Section 648 - Small business development center program authorization"
 usc_title: 15
 usc_section: "648"
 chapter: 14
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 648"
-generated_at: "2026-03-30T08:29:19.469Z"
+generated_at: "2026-03-30T08:32:57.617Z"
 status: "active"
 ---
 
@@ -178,7 +178,7 @@ status: "active"
   - **(3)**
     - **(A)** In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and accreditation program conducted pursuant to paragraphs (1) and (2).
     - **(B)** After September 30, 2000 , the Administration may not renew or extend any cooperative agreement with a small business development center unless the center has been approved under the accreditation program conducted pursuant to this subsection, except that the Associate Administrator for Small Business Development Centers may waive such accreditation requirement, in the discretion of the Associate Administrator, upon a showing that the center is making a good faith effort to obtain accreditation.
-- **(l)** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 7 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
+- **(l)** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 8 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
 - **(m)** A small business development center shall not impose or otherwise collect a fee or other compensation in connection with the provision of counseling services under this section.
 - **(n)**
   - **(1)** A small business development center may apply for a grant under this subsection to carry out a veterans assistance and services program.

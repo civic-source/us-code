@@ -3,9 +3,9 @@ title: "Section 3534 - Apprenticeship or other on-job training; correspondence c
 usc_title: 38
 usc_section: "3534"
 chapter: 35
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 3534"
-generated_at: "2026-03-30T08:31:35.526Z"
+generated_at: "2026-03-30T08:33:42.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7330C - Quadrennial Veterans Health Administration review"
 usc_title: 38
 usc_section: "7330C"
 chapter: 73
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 7330C"
-generated_at: "2026-03-30T08:31:35.546Z"
+generated_at: "2026-03-30T08:33:42.474Z"
 status: "active"
 ---
 
@@ -29,10 +29,10 @@ status: "active"
     - **(B)** The Secretary also shall submit to the appropriate committees of Congress the market area assessments completed by or being performed on the day before the date of the enactment of the Caring for Our Veterans Act of 2018.
   - **(4)**
     - **(A)** The Secretary shall use the market area assessments established under paragraph (1) to—
-      - **(i)** determine the capacity of the health care provider networks established under section 1703(h) 1 1 See References in Text note below. of this title;
+      - **(i)** determine the capacity of the health care provider networks established under section 1703(h) of this title ;
       - **(ii)** inform the Department budget, in accordance with subparagraph (B); and
       - **(iii)** inform and assess the appropriateness of the access standards established under section 1703B of this title and standards for quality under section 1703C of this title and to make recommendations for any changes to such standards.
-    - **(B)** The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) 1 of this title.
+    - **(B)** The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) of this title .
 - **(b)**
   - **(1)** Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once every 4 years thereafter, the Secretary shall submit to the appropriate committees of Congress a strategic plan that specifies a 4-year forecast of—
     - **(A)** the demand for health care from the Department, disaggregated by geographic area as determined by the Secretary;

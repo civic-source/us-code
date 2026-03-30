@@ -3,9 +3,9 @@ title: "Section 651 - Congressional statement of findings and declaration of pur
 usc_title: 29
 usc_section: "651"
 chapter: 15
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 651"
-generated_at: "2026-03-30T08:30:39.391Z"
+generated_at: "2026-03-30T08:33:20.033Z"
 status: "active"
 ---
 

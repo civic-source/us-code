@@ -3,9 +3,9 @@ title: "Section 1513 - Loan interest rates; repayment periods"
 usc_title: 30
 usc_section: "1513"
 chapter: 27
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "30 U.S.C. § 1513"
-generated_at: "2026-03-30T08:30:23.210Z"
+generated_at: "2026-03-30T08:33:18.292Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1326 - Thermal discharges"
 usc_title: 33
 usc_section: "1326"
 chapter: 26
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 1326"
-generated_at: "2026-03-30T08:31:18.942Z"
+generated_at: "2026-03-30T08:33:34.608Z"
 status: "active"
 ---
 

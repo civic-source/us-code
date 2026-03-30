@@ -3,9 +3,9 @@ title: "Section 3 - Construction of provisions not to affect authority of Attorn
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T08:31:59.595Z"
+generated_at: "2026-03-30T08:34:08.666Z"
 status: "active"
 ---
 

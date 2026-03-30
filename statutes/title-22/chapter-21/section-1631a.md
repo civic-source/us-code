@@ -3,9 +3,9 @@ title: "Section 1631a - Property owned by Bulgaria, Hungary, and Rumania or any 
 usc_title: 22
 usc_section: "1631a"
 chapter: 21
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "22 U.S.C. § 1631a"
-generated_at: "2026-03-30T08:30:06.669Z"
+generated_at: "2026-03-30T08:33:13.128Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1118 - Authorization of appropriations"
 usc_title: 49
 usc_section: "1118"
 chapter: 11
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "49 U.S.C. § 1118"
-generated_at: "2026-03-30T08:32:08.082Z"
+generated_at: "2026-03-30T08:34:15.934Z"
 status: "active"
 ---
 

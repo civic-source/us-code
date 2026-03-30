@@ -3,9 +3,9 @@ title: "Section 2008i - Short form certification of farm program borrower compli
 usc_title: 7
 usc_section: "2008i"
 chapter: 50
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 2008i"
-generated_at: "2026-03-30T08:28:41.789Z"
+generated_at: "2026-03-30T08:32:36.081Z"
 status: "active"
 ---
 

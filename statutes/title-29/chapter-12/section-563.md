@@ -3,9 +3,9 @@ title: "Section 563 - Working capital fund; establishment; availability; capital
 usc_title: 29
 usc_section: "563"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 563"
-generated_at: "2026-03-30T08:30:39.389Z"
+generated_at: "2026-03-30T08:33:20.032Z"
 status: "active"
 ---
 

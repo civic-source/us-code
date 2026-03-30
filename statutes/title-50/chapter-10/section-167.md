@@ -3,9 +3,9 @@ title: "Section 167 - Definitions"
 usc_title: 50
 usc_section: "167"
 chapter: 10
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "50 U.S.C. § 167"
-generated_at: "2026-03-30T08:32:04.857Z"
+generated_at: "2026-03-30T08:34:13.894Z"
 status: "active"
 ---
 

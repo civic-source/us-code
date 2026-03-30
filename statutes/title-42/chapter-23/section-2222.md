@@ -3,9 +3,9 @@ title: "Section 2222 - Condemnation of real property"
 usc_title: 42
 usc_section: "2222"
 chapter: 23
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 2222"
-generated_at: "2026-03-30T08:31:59.610Z"
+generated_at: "2026-03-30T08:34:08.681Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12531 - Juvenile anti-drug and anti-gang grants in federally ass
 usc_title: 34
 usc_section: "12531"
 chapter: 121
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 12531"
-generated_at: "2026-03-30T08:30:58.932Z"
+generated_at: "2026-03-30T08:33:32.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 835e - Payment for lands acquired from Spokane and Colville Rese
 usc_title: 16
 usc_section: "835e"
 chapter: 12
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 835e"
-generated_at: "2026-03-30T08:29:45.589Z"
+generated_at: "2026-03-30T08:33:07.293Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114 - Multiyear procurement"
 usc_title: 38
 usc_section: "114"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 114"
-generated_at: "2026-03-30T08:31:35.496Z"
+generated_at: "2026-03-30T08:33:42.429Z"
 status: "active"
 ---
 

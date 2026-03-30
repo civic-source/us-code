@@ -3,9 +3,9 @@ title: "Section 2207A - Right of recovery in the case of certain marital deducti
 usc_title: 26
 usc_section: "2207A"
 chapter: 11
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 2207A"
-generated_at: "2026-03-30T08:30:54.833Z"
+generated_at: "2026-03-30T08:33:25.710Z"
 status: "active"
 ---
 

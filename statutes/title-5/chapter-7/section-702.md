@@ -3,9 +3,9 @@ title: "Section 702 - Right of review"
 usc_title: 5
 usc_section: "702"
 chapter: 7
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "5 U.S.C. § 702"
-generated_at: "2026-03-30T08:28:34.278Z"
+generated_at: "2026-03-30T08:32:24.551Z"
 status: "active"
 ---
 

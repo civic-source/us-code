@@ -3,9 +3,9 @@ title: "Section 395 - Loan repayment program"
 usc_title: 21
 usc_section: "395"
 chapter: 9
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "21 U.S.C. § 395"
-generated_at: "2026-03-30T08:30:20.558Z"
+generated_at: "2026-03-30T08:33:15.135Z"
 status: "active"
 ---
 

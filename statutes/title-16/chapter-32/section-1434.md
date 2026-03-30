@@ -3,9 +3,9 @@ title: "Section 1434 - Procedures for designation and implementation"
 usc_title: 16
 usc_section: "1434"
 chapter: 32
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 1434"
-generated_at: "2026-03-30T08:29:45.614Z"
+generated_at: "2026-03-30T08:33:07.320Z"
 status: "active"
 ---
 

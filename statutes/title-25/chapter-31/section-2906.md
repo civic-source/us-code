@@ -3,9 +3,9 @@ title: "Section 2906 - Use of English"
 usc_title: 25
 usc_section: "2906"
 chapter: 31
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "25 U.S.C. § 2906"
-generated_at: "2026-03-30T08:30:03.849Z"
+generated_at: "2026-03-30T08:33:15.946Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 602 - Seizure of timber cut"
 usc_title: 16
 usc_section: "602"
 chapter: 4
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 602"
-generated_at: "2026-03-30T08:29:45.560Z"
+generated_at: "2026-03-30T08:33:07.263Z"
 status: "active"
 ---
 

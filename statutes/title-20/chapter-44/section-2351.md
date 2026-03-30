@@ -3,9 +3,9 @@ title: "Section 2351 - Distribution of funds to secondary education programs"
 usc_title: 20
 usc_section: "2351"
 chapter: 44
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "20 U.S.C. § 2351"
-generated_at: "2026-03-30T08:30:00.559Z"
+generated_at: "2026-03-30T08:33:02.795Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** Seventy percent shall be allocated to such local educational agencies in proportion to the number of individuals aged 5 through 17, inclusive, who reside in the school district served by such local educational agency and are from families below the poverty level for the preceding fiscal year, as determined on the basis of the most recent satisfactory data used under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6333(c)(1)(A) ], compared to the total number of such individuals who reside in the school districts served by all the local educational agencies in the State for such preceding fiscal year.
   - **(3)** Each eligible agency, in making the allocations under paragraphs (1) and (2), shall adjust the data used to make the allocations to—
     - **(A)** reflect any change in school district boundaries that may have occurred since the data were collected; and
-    - **(B)** include local educational agencies without geographical boundaries, such as charter schools and secondary schools funded by the Bureau of Indian Affairs.
+    - **(B)** include local educational agencies without geographical boundaries, such as charter schools and secondary schools funded by the Bureau of Indian Education.
 - **(b)** The Secretary may waive the application of subsection (a) in the case of any eligible agency that submits to the Secretary an application for such a waiver that—
   - **(1)** demonstrates that a proposed alternative formula more effectively targets funds on the basis of poverty (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42 ) to local educational agencies within the State than the formula described in subsection (a); and
   - **(2)** includes a proposal for such an alternative formula.
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** The eligible agency shall waive the application of paragraph (1) in any case in which the local educational agency—
     - **(A)**
       - **(i)** is located in a rural, sparsely populated area; or
-      - **(ii)** is a public charter school operating secondary school career and technical education programs; and
+      - **(ii)** is a public charter school operating secondary school career and technical education programs or programs of study; and
     - **(B)** demonstrates that the local educational agency is unable to enter into a consortium for purposes of providing activities under this part.
   - **(3)** Any amounts that are not allocated by reason of paragraph (1) or paragraph (2) shall be redistributed to local educational agencies that meet the requirements of paragraph (1) or (2) in accordance with the provisions of this section.
 - **(d)**
@@ -45,5 +45,5 @@ status: "active"
     - **(B)** transfer such allocation to the area career and technical education school or educational service agency; and
     - **(C)** operate programs that are of sufficient size, scope, and quality to be effective.
   - **(2)** Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
-- **(g)** The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
-- **(h)** Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Affairs within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
+- **(g)** The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs and programs of study under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
+- **(h)** Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Education within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.

@@ -3,9 +3,9 @@ title: "Section 1702 - Under Secretary of Defense for Acquisition, Technology, a
 usc_title: 10
 usc_section: "1702"
 chapter: 87
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 1702"
-generated_at: "2026-03-30T08:29:03.526Z"
+generated_at: "2026-03-30T08:32:32.905Z"
 status: "active"
 ---
 

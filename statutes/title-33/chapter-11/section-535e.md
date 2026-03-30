@@ -3,9 +3,9 @@ title: "Section 535e - Ownership"
 usc_title: 33
 usc_section: "535e"
 chapter: 11
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 535e"
-generated_at: "2026-03-30T08:31:18.910Z"
+generated_at: "2026-03-30T08:33:34.576Z"
 status: "active"
 ---
 

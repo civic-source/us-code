@@ -3,9 +3,9 @@ title: "Section 3319f - Repealed. Pub. L. 115–334, title XII, § 12301(a)(1) ,
 usc_title: 7
 usc_section: "3319f"
 chapter: 64
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 3319f"
-generated_at: "2026-03-30T08:28:41.825Z"
+generated_at: "2026-03-30T08:32:36.117Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3292b - Competitive grants for international agricultural scienc
 usc_title: 7
 usc_section: "3292b"
 chapter: 64
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 3292b"
-generated_at: "2026-03-30T08:28:41.824Z"
+generated_at: "2026-03-30T08:32:36.116Z"
 status: "active"
 ---
 

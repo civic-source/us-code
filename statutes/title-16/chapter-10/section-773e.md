@@ -3,9 +3,9 @@ title: "Section 773e - Prohibited acts"
 usc_title: 16
 usc_section: "773e"
 chapter: 10
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 773e"
-generated_at: "2026-03-30T08:29:45.575Z"
+generated_at: "2026-03-30T08:33:07.278Z"
 status: "active"
 ---
 

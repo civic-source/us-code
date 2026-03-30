@@ -3,9 +3,9 @@ title: "Section 8203 - Assistance"
 usc_title: 7
 usc_section: "8203"
 chapter: 108
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 8203"
-generated_at: "2026-03-30T08:28:41.880Z"
+generated_at: "2026-03-30T08:32:36.180Z"
 status: "active"
 ---
 

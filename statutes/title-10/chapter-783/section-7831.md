@@ -3,9 +3,9 @@ title: "Section 7831 - Custody of departmental records and property"
 usc_title: 10
 usc_section: "7831"
 chapter: 783
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 7831"
-generated_at: "2026-03-30T08:29:03.579Z"
+generated_at: "2026-03-30T08:32:32.960Z"
 status: "active"
 ---
 

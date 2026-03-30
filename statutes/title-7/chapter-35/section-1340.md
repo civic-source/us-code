@@ -3,9 +3,9 @@ title: "Section 1340 - Supplemental provisions relating to wheat marketing quota
 usc_title: 7
 usc_section: "1340"
 chapter: 35
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "7 U.S.C. § 1340"
-generated_at: "2026-03-30T08:28:41.750Z"
+generated_at: "2026-03-30T08:32:36.040Z"
 status: "active"
 ---
 

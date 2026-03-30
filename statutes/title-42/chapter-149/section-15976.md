@@ -3,9 +3,9 @@ title: "Section 15976 - Electron scrubbing demonstration"
 usc_title: 42
 usc_section: "15976"
 chapter: 149
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "42 U.S.C. § 15976"
-generated_at: "2026-03-30T08:31:59.872Z"
+generated_at: "2026-03-30T08:34:08.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10103 - Office of Weed and Seed Strategies"
 usc_title: 34
 usc_section: "10103"
 chapter: 101
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "34 U.S.C. § 10103"
-generated_at: "2026-03-30T08:30:58.900Z"
+generated_at: "2026-03-30T08:33:32.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 190 - Expenditures to remove architectural and transportation ba
 usc_title: 26
 usc_section: "190"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 190"
-generated_at: "2026-03-30T08:30:54.715Z"
+generated_at: "2026-03-30T08:33:25.600Z"
 status: "active"
 ---
 

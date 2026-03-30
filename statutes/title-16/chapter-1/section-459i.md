@@ -3,9 +3,9 @@ title: "Section 459i - Cumberland Island National Seashore; establishment; bound
 usc_title: 16
 usc_section: "459i"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 459i"
-generated_at: "2026-03-30T08:29:45.514Z"
+generated_at: "2026-03-30T08:33:07.211Z"
 status: "active"
 ---
 

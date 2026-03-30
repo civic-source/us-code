@@ -3,9 +3,9 @@ title: "Section 1681s - Administrative enforcement"
 usc_title: 15
 usc_section: "1681s"
 chapter: 41
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "15 U.S.C. § 1681s"
-generated_at: "2026-03-30T08:29:19.514Z"
+generated_at: "2026-03-30T08:32:57.661Z"
 status: "active"
 ---
 

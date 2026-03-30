@@ -3,9 +3,9 @@ title: "Section 2003 - The Postal Service Fund"
 usc_title: 39
 usc_section: "2003"
 chapter: 20
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "39 U.S.C. § 2003"
-generated_at: "2026-03-30T08:31:20.777Z"
+generated_at: "2026-03-30T08:33:38.957Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3903 - Strengthened supervision of international lending"
 usc_title: 12
 usc_section: "3903"
 chapter: 40
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "12 U.S.C. § 3903"
-generated_at: "2026-03-30T08:29:34.779Z"
+generated_at: "2026-03-30T08:32:41.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5721 - Purpose"
 usc_title: 38
 usc_section: "5721"
 chapter: 57
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "38 U.S.C. § 5721"
-generated_at: "2026-03-30T08:31:35.540Z"
+generated_at: "2026-03-30T08:33:42.469Z"
 status: "active"
 ---
 

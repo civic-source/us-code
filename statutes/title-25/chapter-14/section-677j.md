@@ -3,9 +3,9 @@ title: "Section 677j - Omitted"
 usc_title: 25
 usc_section: "677j"
 chapter: 14
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "25 U.S.C. § 677j"
-generated_at: "2026-03-30T08:30:03.820Z"
+generated_at: "2026-03-30T08:33:15.914Z"
 status: "omitted"
 ---
 

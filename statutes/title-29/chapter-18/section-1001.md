@@ -3,9 +3,9 @@ title: "Section 1001 - Congressional findings and declaration of policy"
 usc_title: 29
 usc_section: "1001"
 chapter: 18
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "29 U.S.C. § 1001"
-generated_at: "2026-03-30T08:30:39.404Z"
+generated_at: "2026-03-30T08:33:20.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 471 - General rule for inventories"
 usc_title: 26
 usc_section: "471"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "26 U.S.C. § 471"
-generated_at: "2026-03-30T08:30:54.765Z"
+generated_at: "2026-03-30T08:33:25.645Z"
 status: "active"
 ---
 

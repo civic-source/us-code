@@ -3,9 +3,9 @@ title: "Section 7594 - Furnishing of heraldic services"
 usc_title: 10
 usc_section: "7594"
 chapter: 767
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "10 U.S.C. § 7594"
-generated_at: "2026-03-30T08:29:03.578Z"
+generated_at: "2026-03-30T08:32:32.959Z"
 status: "active"
 ---
 

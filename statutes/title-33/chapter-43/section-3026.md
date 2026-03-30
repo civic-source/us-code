@@ -3,9 +3,9 @@ title: "Section 3026 - Appointments and promotions to permanent grades"
 usc_title: 33
 usc_section: "3026"
 chapter: 43
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "33 U.S.C. § 3026"
-generated_at: "2026-03-30T08:31:18.972Z"
+generated_at: "2026-03-30T08:33:34.636Z"
 status: "active"
 ---
 

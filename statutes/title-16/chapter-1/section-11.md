@@ -3,9 +3,9 @@ title: "Section 11 - Designation of Steens Mountain Cooperative Management and P
 usc_title: 16
 usc_section: "11"
 chapter: 1
-current_through: "PL 116-38"
+current_through: "PL 116-56"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T08:29:45.535Z"
+generated_at: "2026-03-30T08:33:07.235Z"
 status: "active"
 ---
 
