@@ -3,9 +3,9 @@ title: "Section 10508 - General penalties"
 usc_title: 46
 usc_section: "10508"
 chapter: 105
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "46 U.S.C. § 10508"
-generated_at: "2026-03-30T05:45:36.026Z"
+generated_at: "2026-03-30T05:48:56.930Z"
 status: "active"
 ---
 

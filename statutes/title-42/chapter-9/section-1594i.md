@@ -3,9 +3,9 @@ title: "Section 1594i - Repealed. Pub. L. 97–214 , § 7(3), (5), (9), (17), Ju
 usc_title: 42
 usc_section: "1594i"
 chapter: 9
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 1594i"
-generated_at: "2026-03-30T05:45:31.689Z"
+generated_at: "2026-03-30T05:48:46.935Z"
 status: "repealed"
 ---
 

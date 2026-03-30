@@ -3,9 +3,9 @@ title: "Section 15834 - Report on failure to comply with deadlines for new or re
 usc_title: 42
 usc_section: "15834"
 chapter: 149
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 15834"
-generated_at: "2026-03-30T05:45:32.092Z"
+generated_at: "2026-03-30T05:48:47.277Z"
 status: "active"
 ---
 

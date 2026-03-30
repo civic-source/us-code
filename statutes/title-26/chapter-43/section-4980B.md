@@ -3,9 +3,9 @@ title: "Section 4980B - Failure to satisfy continuation coverage requirements of
 usc_title: 26
 usc_section: "4980B"
 chapter: 43
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 4980B"
-generated_at: "2026-03-30T05:44:41.469Z"
+generated_at: "2026-03-30T05:47:59.854Z"
 status: "active"
 ---
 

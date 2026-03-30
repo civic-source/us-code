@@ -3,9 +3,9 @@ title: "Section 508 - Reenlistment: qualifications"
 usc_title: 10
 usc_section: "508"
 chapter: 31
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 508"
-generated_at: "2026-03-30T05:43:26.601Z"
+generated_at: "2026-03-30T05:46:47.659Z"
 status: "active"
 ---
 

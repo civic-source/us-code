@@ -3,9 +3,9 @@ title: "Section 211a - Authority to grant, issue, and verify passports"
 usc_title: 22
 usc_section: "211a"
 chapter: 4
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 211a"
-generated_at: "2026-03-30T05:44:32.099Z"
+generated_at: "2026-03-30T05:47:39.311Z"
 status: "active"
 ---
 

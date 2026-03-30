@@ -3,9 +3,9 @@ title: "Section 1535 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "1535"
 chapter: 40
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 1535"
-generated_at: "2026-03-30T05:43:51.950Z"
+generated_at: "2026-03-30T05:46:56.168Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 12
 usc_section: "1"
 chapter: 13
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T05:43:40.584Z"
+generated_at: "2026-03-30T05:47:03.107Z"
 status: "omitted"
 ---
 

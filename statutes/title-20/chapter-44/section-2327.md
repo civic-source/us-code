@@ -3,9 +3,9 @@ title: "Section 2327 - Tribally controlled postsecondary career and technical in
 usc_title: 20
 usc_section: "2327"
 chapter: 44
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 2327"
-generated_at: "2026-03-30T05:44:02.662Z"
+generated_at: "2026-03-30T05:47:09.438Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(D)** institutional support of career and technical education.
   - **(2)** Each institution receiving a grant under this section shall provide annually to the Secretary an accurate and detailed accounting of the institution’s operating and maintenance expenses and such other information concerning costs as the Secretary may reasonably require.
 - **(f)**
-  - **(1)** Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
+  - **(1)** Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
   - **(2)** The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25 .
   - **(3)** No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 , may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 - **(g)** The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.

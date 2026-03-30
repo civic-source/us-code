@@ -3,9 +3,9 @@ title: "Section 5345 - Funding"
 usc_title: 12
 usc_section: "5345"
 chapter: 53
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 5345"
-generated_at: "2026-03-30T05:43:40.668Z"
+generated_at: "2026-03-30T05:47:03.195Z"
 status: "active"
 ---
 

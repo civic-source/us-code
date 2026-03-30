@@ -3,9 +3,9 @@ title: "Section 3623 - Transfer of a prisoner to State authority"
 usc_title: 18
 usc_section: "3623"
 chapter: 229
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 3623"
-generated_at: "2026-03-30T05:43:56.018Z"
+generated_at: "2026-03-30T05:47:06.654Z"
 status: "active"
 ---
 

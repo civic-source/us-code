@@ -3,9 +3,9 @@ title: "Section 1d - Increase in capital stock of Bank; subscription to addition
 usc_title: 22
 usc_section: "1d"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 1d"
-generated_at: "2026-03-30T05:44:32.111Z"
+generated_at: "2026-03-30T05:47:39.323Z"
 status: "active"
 ---
 

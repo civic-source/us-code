@@ -3,9 +3,9 @@ title: "Section 1141d - Revolving fund"
 usc_title: 12
 usc_section: "1141d"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 1141d"
-generated_at: "2026-03-30T05:43:40.545Z"
+generated_at: "2026-03-30T05:47:03.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-30T05:44:02.618Z"
+generated_at: "2026-03-30T05:47:09.395Z"
 status: "active"
 ---
 
@@ -134,7 +134,7 @@ status: "active"
   - **(6)** The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
     - **(A)** that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103( l )(13) of title 26; and
     - **(B)** that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
-  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part C, or part D—
+  - **(7)** In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part D, or part E—
     - **(A)** is not in default on any loan that is included in the income contingent repayment plan; and
     - **(B)**
       - **(i)** is in deferment due to an economic hardship described in section 1085( o ) of this title;

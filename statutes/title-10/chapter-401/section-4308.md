@@ -3,9 +3,9 @@ title: "Section 4308 - Repealed. Pub. L. 104–106, div. A, title XVI , § 1624(
 usc_title: 10
 usc_section: "4308"
 chapter: 401
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 4308"
-generated_at: "2026-03-30T05:43:26.687Z"
+generated_at: "2026-03-30T05:46:47.756Z"
 status: "repealed"
 ---
 

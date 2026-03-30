@@ -3,9 +3,9 @@ title: "Section 1087oo - Family contribution for dependent students"
 usc_title: 20
 usc_section: "1087oo"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087oo"
-generated_at: "2026-03-30T05:44:02.622Z"
+generated_at: "2026-03-30T05:47:09.399Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(A)** the parents’ available income (determined in accordance with subsection (c)); and
     - **(B)** the parents’ contribution from assets (determined in accordance with subsection (d));
   - **(2)** assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and
-  - **(3)** dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student’s parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+  - **(3)** dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student’s parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter is requested;
 - **(c)**
   - **(1)** The parents’ available income is determined by deducting from total income (as defined in section 1087vv of this title )—
     - **(A)** Federal income taxes;

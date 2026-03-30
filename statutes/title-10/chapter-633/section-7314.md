@@ -3,9 +3,9 @@ title: "Section 7314 - Overhaul of naval vessels: competition between public and
 usc_title: 10
 usc_section: "7314"
 chapter: 633
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 7314"
-generated_at: "2026-03-30T05:43:26.700Z"
+generated_at: "2026-03-30T05:46:47.770Z"
 status: "active"
 ---
 

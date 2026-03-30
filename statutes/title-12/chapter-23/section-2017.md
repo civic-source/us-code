@@ -3,9 +3,9 @@ title: "Section 2017 - Eligibility"
 usc_title: 12
 usc_section: "2017"
 chapter: 23
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 2017"
-generated_at: "2026-03-30T05:43:40.618Z"
+generated_at: "2026-03-30T05:47:03.141Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5558 - Scientific and technical education programs"
 usc_title: 42
 usc_section: "5558"
 chapter: 71
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 5558"
-generated_at: "2026-03-30T05:45:31.850Z"
+generated_at: "2026-03-30T05:48:47.058Z"
 status: "active"
 ---
 

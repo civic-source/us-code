@@ -3,9 +3,9 @@ title: "Section 1161c - Business workforce partnerships for job skill training i
 usc_title: 20
 usc_section: "1161c"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1161c"
-generated_at: "2026-03-30T05:44:02.640Z"
+generated_at: "2026-03-30T05:47:09.416Z"
 status: "active"
 ---
 
@@ -41,8 +41,8 @@ status: "active"
 - **(g)** The Secretary shall provide technical assistance to grantees under this section throughout the grant period.
 - **(h)** The Secretary shall conduct an evaluation of the effectiveness of the program under this section based on performance standards developed in consultation with the Department of Labor, and shall disseminate to the public the findings of such evaluation and information related to promising practices developed under this section.
 - **(i)** Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
-  - **(1)** for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.] and the Workforce Innovation and Opportunity Act (including titles I and II [ 29 U.S.C. 3111 et seq., 3271 et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
-  - **(2)** for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
+  - **(1)** for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.] and the Workforce Innovation and Opportunity Act (including titles I and II [ 29 U.S.C. 3111 et seq., 3271 et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+  - **(2)** for other changes to this chapter and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 - **(j)** In this section:
   - **(1)**
     - **(A)** The term “eligible partnership” means a partnership that includes—

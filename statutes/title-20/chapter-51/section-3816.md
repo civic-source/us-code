@@ -3,9 +3,9 @@ title: "Section 3816 - Repealed. Pub. L. 100–297, title I , § 1003(a), Apr. 2
 usc_title: 20
 usc_section: "3816"
 chapter: 51
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 3816"
-generated_at: "2026-03-30T05:44:02.669Z"
+generated_at: "2026-03-30T05:47:09.444Z"
 status: "repealed"
 ---
 

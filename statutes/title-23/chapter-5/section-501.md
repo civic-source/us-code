@@ -3,9 +3,9 @@ title: "Section 501 - Definitions"
 usc_title: 23
 usc_section: "501"
 chapter: 5
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "23 U.S.C. § 501"
-generated_at: "2026-03-30T05:44:20.659Z"
+generated_at: "2026-03-30T05:47:43.156Z"
 status: "active"
 ---
 

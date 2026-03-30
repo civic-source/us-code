@@ -3,9 +3,9 @@ title: "Section 1123 - National sea grant college program"
 usc_title: 33
 usc_section: "1123"
 chapter: 22
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "33 U.S.C. § 1123"
-generated_at: "2026-03-30T05:44:46.458Z"
+generated_at: "2026-03-30T05:48:03.007Z"
 status: "active"
 ---
 

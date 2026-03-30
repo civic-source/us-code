@@ -3,9 +3,9 @@ title: "Section 6503 - Payments from Senate contingent fund"
 usc_title: 2
 usc_section: "6503"
 chapter: 65
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 6503"
-generated_at: "2026-03-30T05:43:14.028Z"
+generated_at: "2026-03-30T05:46:13.927Z"
 status: "active"
 ---
 

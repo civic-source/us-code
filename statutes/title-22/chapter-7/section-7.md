@@ -3,9 +3,9 @@ title: "Section 7 - Exemption from securities laws for certain securities issued
 usc_title: 22
 usc_section: "7"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-03-30T05:44:32.118Z"
+generated_at: "2026-03-30T05:47:39.330Z"
 status: "active"
 ---
 

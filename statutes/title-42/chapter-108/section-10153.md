@@ -3,9 +3,9 @@ title: "Section 10153 - Interim at-reactor storage"
 usc_title: 42
 usc_section: "10153"
 chapter: 108
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 10153"
-generated_at: "2026-03-30T05:45:31.993Z"
+generated_at: "2026-03-30T05:48:47.188Z"
 status: "active"
 ---
 

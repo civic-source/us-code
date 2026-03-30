@@ -3,13 +3,13 @@ title: "Section 1088a - Clock and credit hour treatment of diploma nursing schoo
 usc_title: 20
 usc_section: "1088a"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1088a"
-generated_at: "2026-03-30T05:44:02.625Z"
+generated_at: "2026-03-30T05:47:09.402Z"
 status: "active"
 ---
 
 # § 1088a. Clock and credit hour treatment of diploma nursing schools
 
-Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, any regulations promulgated by the Secretary concerning the relationship between clock hours and semester, trimester, or quarter hours in calculating student grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, shall not apply to a public or private nonprofit hospital-based school of nursing that awards a diploma at the completion of the school’s program of education.
+Notwithstanding any other provision of this chapter, any regulations promulgated by the Secretary concerning the relationship between clock hours and semester, trimester, or quarter hours in calculating student grant, loan, or work assistance under this subchapter, shall not apply to a public or private nonprofit hospital-based school of nursing that awards a diploma at the completion of the school’s program of education.
 

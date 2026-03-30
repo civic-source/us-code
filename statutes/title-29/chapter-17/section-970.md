@@ -3,9 +3,9 @@ title: "Section 970 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "970"
 chapter: 17
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "29 U.S.C. § 970"
-generated_at: "2026-03-30T05:44:42.644Z"
+generated_at: "2026-03-30T05:47:51.340Z"
 status: "repealed"
 ---
 

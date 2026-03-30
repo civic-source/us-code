@@ -3,9 +3,9 @@ title: "Section 1972 - Contributions of comfort and other incidental items and s
 usc_title: 2
 usc_section: "1972"
 chapter: 29
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 1972"
-generated_at: "2026-03-30T05:43:14.015Z"
+generated_at: "2026-03-30T05:46:13.910Z"
 status: "active"
 ---
 

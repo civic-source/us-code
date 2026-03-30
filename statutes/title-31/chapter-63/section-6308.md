@@ -3,9 +3,9 @@ title: "Section 6308 - Use of multiple relationships for different parts of join
 usc_title: 31
 usc_section: "6308"
 chapter: 63
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "31 U.S.C. § 6308"
-generated_at: "2026-03-30T05:44:45.611Z"
+generated_at: "2026-03-30T05:48:15.199Z"
 status: "active"
 ---
 

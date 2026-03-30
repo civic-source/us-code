@@ -3,9 +3,9 @@ title: "Section 9111 - Administrative funds"
 usc_title: 20
 usc_section: "9111"
 chapter: 72
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 9111"
-generated_at: "2026-03-30T05:44:02.708Z"
+generated_at: "2026-03-30T05:47:09.482Z"
 status: "active"
 ---
 

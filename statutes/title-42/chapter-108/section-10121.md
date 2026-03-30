@@ -3,9 +3,9 @@ title: "Section 10121 - State and affected Indian tribe participation in develop
 usc_title: 42
 usc_section: "10121"
 chapter: 108
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 10121"
-generated_at: "2026-03-30T05:45:31.992Z"
+generated_at: "2026-03-30T05:48:47.186Z"
 status: "active"
 ---
 

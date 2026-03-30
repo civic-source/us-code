@@ -3,9 +3,9 @@ title: "Section 5116f - Performance measures"
 usc_title: 42
 usc_section: "5116f"
 chapter: 67
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 5116f"
-generated_at: "2026-03-30T05:45:31.836Z"
+generated_at: "2026-03-30T05:48:47.044Z"
 status: "active"
 ---
 

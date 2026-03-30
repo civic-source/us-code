@@ -3,9 +3,9 @@ title: "Section 4006 - Miscellaneous provisions"
 usc_title: 12
 usc_section: "4006"
 chapter: 41
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 4006"
-generated_at: "2026-03-30T05:43:40.643Z"
+generated_at: "2026-03-30T05:47:03.168Z"
 status: "active"
 ---
 

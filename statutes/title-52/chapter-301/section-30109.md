@@ -3,9 +3,9 @@ title: "Section 30109 - Enforcement"
 usc_title: 52
 usc_section: "30109"
 chapter: 301
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "52 U.S.C. § 30109"
-generated_at: "2026-03-30T05:45:41.278Z"
+generated_at: "2026-03-30T05:48:59.068Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
     - **(B)** Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
     - **(C)** In any proceeding under this paragraph the court may declare that the dismissal of the complaint or the failure to act is contrary to law, and may direct the Commission to conform with such declaration within 30 days, failing which the complainant may bring, in the name of such complainant, a civil action to remedy the violation involved in the original complaint.
   - **(9)** Any judgment of a district court under this subsection may be appealed to the court of appeals, and the judgment of the court of appeals affirming or setting aside, in whole or in part, any such order of the district court shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
-  - **(10)** Repealed. Pub. L. 98–620, title IV, § 402(1)(A) , Nov. 8, 1984 , 98 Stat. 3357 .
+  - **(10)** Repealed. Pub. L. 98–620, title IV , § 402(1)(A), Nov. 8, 1984 , 98 Stat. 3357 .
   - **(11)** If the Commission determines after an investigation that any person has violated an order of the court entered in a proceeding brought under paragraph (6), it may petition the court for an order to hold such person in civil contempt, but if it believes the violation to be knowing and willful it may petition the court for an order to hold such person in criminal contempt.
   - **(12)**
     - **(A)** Any notification or investigation made under this section shall not be made public by the Commission or by any person without the written consent of the person receiving such notification or the person with respect to whom such investigation is made.

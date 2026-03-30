@@ -3,15 +3,15 @@ title: "Section 4104 - Internees"
 usc_title: 50
 usc_section: "4104"
 chapter: 51
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4104"
-generated_at: "2026-03-30T05:45:37.460Z"
+generated_at: "2026-03-30T05:48:52.386Z"
 status: "active"
 ---
 
 # § 4104. Internees
 
-- **(a)** As used in subsections (b) and (f) of this section, the term “civilian American citizen” means any person who, being then a citizen of the United States, was captured by the Imperial Japanese Government on or after December 7, 1941 , at Midway. Guam, Wake Island, the Philippine Islands, or any Territory or possession of the United States attacked or invaded by such government, or while in transit to or from any such place, or who went into hiding at any such place in order to avoid capture or internment by such government; except (1) a person who at any time voluntarily gave aid to, collaborated with, or in any manner served such government, or (2) a person who at the time of his capture or entrance into hiding was a regularly appointed, enrolled, enlisted, or inducted member of any military or naval force.
+- **(a)** As used in subsections (b) and (f) of this section, the term “civilian American citizen” means any person who, being then a citizen of the United States, was captured by the Imperial Japanese Government on or after December 7, 1941 , at Midway, Guam, Wake Island, the Philippine Islands, or any Territory or possession of the United States attacked or invaded by such government, or while in transit to or from any such place, or who went into hiding at any such place in order to avoid capture or internment by such government; except (1) a person who at any time voluntarily gave aid to, collaborated with, or in any manner served such government, or (2) a person who at the time of his capture or entrance into hiding was a regularly appointed, enrolled, enlisted, or inducted member of any military or naval force.
 - **(b)** The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December 6, 1941 , during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
 - **(c)** The detention benefit allowed to any person under the provisions of subsection (b) shall be at the rate of $60 for each calendar month during which such person was at least eighteen years of age and at the rate of $25 per month for each calendar month during which such person was less than eighteen years of age.
 - **(d)** The detention benefits allowed under subsection (b) shall be allowed to the person entitled thereto, or, in the event of his death, only to the following persons:

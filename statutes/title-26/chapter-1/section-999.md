@@ -3,9 +3,9 @@ title: "Section 999 - Reports by taxpayers; determinations"
 usc_title: 26
 usc_section: "999"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 999"
-generated_at: "2026-03-30T05:44:41.415Z"
+generated_at: "2026-03-30T05:47:59.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1245 - Ballistic knives"
 usc_title: 15
 usc_section: "1245"
 chapter: 29
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 1245"
-generated_at: "2026-03-30T05:43:51.943Z"
+generated_at: "2026-03-30T05:46:56.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T05:43:22.182Z"
+generated_at: "2026-03-30T05:46:16.833Z"
 status: "active"
 ---
 
@@ -148,7 +148,7 @@ status: "active"
     - **(D)** Title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.].
     - **(E)** The Headstart-Follow Through Act [ 42 U.S.C. 2921 et seq.].
     - **(F)** Title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].
-    - **(G)** Title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.].
+    - **(G)** Title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].
     - **(H)** The Public Health Service Act [ 42 U.S.C. 201 et seq.].
     - **(I)** Titles V, XVI, and XX [ 42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.], and parts B, D, and E of title IV [ 42 U.S.C. 620 et seq., 651 et seq., 670 et seq.], of the Social Security Act (and titles I, X, XIV, and XVI of such Act [ 42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
   - **(5)** For the purpose of section 501 of the Refugee Education Assistance Act of 1980 ( Public Law 96–122 ) 2 2 So in original. Probably should be “( Public Law 96–422 )”. [ 8 U.S.C. 1255 note], assistance shall be continued under such section with respect to an alien without regard to the alien’s adjustment of status under this section.

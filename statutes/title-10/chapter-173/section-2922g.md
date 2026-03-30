@@ -3,9 +3,9 @@ title: "Section 2922g - Preference for motor vehicles using electric or hybrid p
 usc_title: 10
 usc_section: "2922g"
 chapter: 173
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 2922g"
-generated_at: "2026-03-30T05:43:26.683Z"
+generated_at: "2026-03-30T05:46:47.752Z"
 status: "active"
 ---
 

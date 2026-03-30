@@ -3,9 +3,9 @@ title: "Section 44108 - Validity of conveyances, leases, and security instrument
 usc_title: 49
 usc_section: "44108"
 chapter: 441
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "49 U.S.C. § 44108"
-generated_at: "2026-03-30T05:45:39.374Z"
+generated_at: "2026-03-30T05:48:54.592Z"
 status: "active"
 ---
 

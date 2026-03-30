@@ -3,9 +3,9 @@ title: "Section 997 - Annual report"
 usc_title: 28
 usc_section: "997"
 chapter: 58
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "28 U.S.C. § 997"
-generated_at: "2026-03-30T05:44:37.078Z"
+generated_at: "2026-03-30T05:47:50.521Z"
 status: "active"
 ---
 

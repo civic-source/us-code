@@ -3,9 +3,9 @@ title: "Section 4309 - Claims to property transferred to custodian; notice of cl
 usc_title: 50
 usc_section: "4309"
 chapter: 53
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4309"
-generated_at: "2026-03-30T05:45:37.465Z"
+generated_at: "2026-03-30T05:48:52.389Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(10)** A partnership, association, other unincorporated body of individuals, or corporation, and that it is not otherwise entitled to the return of its money or other property, or any part thereof, under this section, and that such money or other property, or the proceeds thereof, if the same has been converted, does not exceed in value the sum of $10,000, or although exceeding in value the sum of $10,000, is nevertheless susceptible of division, and the part thereof to be returned hereunder does not exceed in value the sum of $10,000; or
   - **(11)** A partnership, association, or other unincorporated body of individuals, having its principal place of business within any country other than Germany, Austria, Hungary, or Austria-Hungary, or a corporation, organized or incorporated within any country other than Germany, Austria, Hungary, or Austria-Hungary, and that the control of, or more than 50 per centum of the interests or voting power in, any such partnership, association, other unincorporated body of individuals, or corporation, was at such time, and is at the time of the return of any money or other property, vested in citizens or subjects of nations, States, or free cities other than Germany, Austria, Hungary, or Austria-Hungary: Provided, however , That this subsection shall not affect any rights which any citizen or subject may have under paragraph (1) of this subsection; or
   - **(12)** A partnership, association, or other unincorporated body of individuals, or a corporation, and was entirely owned at such time by subjects or citizens of nations, States, or free cities other than Austria or Hungary, or Austria-Hungary and is so owned at the time of the return of its money or other property, and has filed the written consent provided for in subsection (m); or
-  - **(13)** A partnership, association or other unincorporated body of individuals, having its principal place of business at such time within any country other than Austria, Hungary, or Austria-Hungary, or a corporation organized or incorporated within any country other than Austria, Hungary, or Austria-Hungary, and that the written consent provided for in subsection (m) has been filed; or
+  - **(13)** A partnership, association, or other unincorporated body of individuals, having its principal place of business at such time within any country other than Austria, Hungary, or Austria-Hungary, or a corporation organized or incorporated within any country other than Austria, Hungary, or Austria-Hungary, and that the written consent provided for in subsection (m) has been filed; or
   - **(14)** An individual who at such time was a citizen or subject of Germany or who, at the time of the return of any money or other property, is a citizen or subject of Germany or is not a citizen or subject of any nation, State, or free city, and that the written consent provided for in subsection (m) has been filed; or
   - **(15)** Repealed. Aug. 6, 1956, ch. 1016 , § 3, 70 Stat. 1073 .
   - **(16)** An individual, partnership, association, or other unincorporated body of individuals, or a corporation, and that the written consent provided for in subsection (m) has been filed, and that no suit or proceeding against the United States or any agency thereof is pending in respect of such return, and that such individual has filed a written waiver renouncing on behalf of himself, his heirs, successors, and assigns any claim based upon the fact that at the time of such return he was in fact entitled to such return under any other provision of this chapter; or

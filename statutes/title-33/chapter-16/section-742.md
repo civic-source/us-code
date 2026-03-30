@@ -3,9 +3,9 @@ title: "Section 742 - Repealed. June 6, 1940, ch. 257 , §§ 5, 6, 54 Stat. 247"
 usc_title: 33
 usc_section: "742"
 chapter: 16
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "33 U.S.C. § 742"
-generated_at: "2026-03-30T05:44:46.450Z"
+generated_at: "2026-03-30T05:48:03.001Z"
 status: "repealed"
 ---
 

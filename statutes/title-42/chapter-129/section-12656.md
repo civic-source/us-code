@@ -3,9 +3,9 @@ title: "Section 12656 - Urban Youth Corps"
 usc_title: 42
 usc_section: "12656"
 chapter: 129
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 12656"
-generated_at: "2026-03-30T05:45:32.043Z"
+generated_at: "2026-03-30T05:48:47.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 568 - Transferred"
 usc_title: 7
 usc_section: "568"
 chapter: 24
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 568"
-generated_at: "2026-03-30T05:43:34.957Z"
+generated_at: "2026-03-30T05:46:20.145Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8309 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "8309"
 chapter: 835
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 8309"
-generated_at: "2026-03-30T05:43:26.705Z"
+generated_at: "2026-03-30T05:46:47.775Z"
 status: "repealed"
 ---
 

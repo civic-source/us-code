@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T05:44:02.600Z"
+generated_at: "2026-03-30T05:47:09.378Z"
 status: "active"
 ---
 
@@ -90,5 +90,5 @@ status: "active"
   - **(2)** If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by more than 15 percent, then all of such funds shall remain available for making such payments but payments may be made under this paragraph only with respect to entitlements for that fiscal year.
 - **(i)** Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, by virtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of chapter 81 of title 41.
 - **(j)**
-  - **(1)** No institution of higher education shall be an eligible institution for purposes of this subpart if such institution of higher education is ineligible to participate in a loan program under part B or C as a result of a final default rate determination made by the Secretary under part B or C after the final publication of cohort default rates for fiscal year 1996 or a succeeding fiscal year.
-  - **(2)** No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution’s default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C on October 7, 1998 , unless the institution subsequently participates in the loan programs.
+  - **(1)** No institution of higher education shall be an eligible institution for purposes of this subpart if such institution of higher education is ineligible to participate in a loan program under part B or D as a result of a final default rate determination made by the Secretary under part B or D after the final publication of cohort default rates for fiscal year 1996 or a succeeding fiscal year.
+  - **(2)** No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution’s default rate determination under regulations issued by the Secretary for the loan program authorized under part B or D, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or D on October 7, 1998 , unless the institution subsequently participates in the loan programs.

@@ -3,9 +3,9 @@ title: "Section 1528 - Commencement of a case under this title after recognition
 usc_title: 11
 usc_section: "1528"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "11 U.S.C. § 1528"
-generated_at: "2026-03-30T05:43:37.891Z"
+generated_at: "2026-03-30T05:46:57.565Z"
 status: "active"
 ---
 

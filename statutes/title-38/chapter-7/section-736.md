@@ -3,9 +3,9 @@ title: "Section 736 - Reports to Congress"
 usc_title: 38
 usc_section: "736"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "38 U.S.C. § 736"
-generated_at: "2026-03-30T05:44:54.020Z"
+generated_at: "2026-03-30T05:48:20.656Z"
 status: "active"
 ---
 

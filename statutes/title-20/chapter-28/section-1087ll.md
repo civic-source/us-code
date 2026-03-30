@@ -3,15 +3,15 @@ title: "Section 1087ll - Cost of attendance"
 usc_title: 20
 usc_section: "1087ll"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087ll"
-generated_at: "2026-03-30T05:44:02.622Z"
+generated_at: "2026-03-30T05:47:09.399Z"
 status: "active"
 ---
 
 # § 1087ll. Cost of attendance
 
-For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “cost of attendance” means—
+For the purpose of this subchapter, the term “cost of attendance” means—
 
   - **(1)** tuition and fees normally assessed a student carrying the same academic workload as determined by the institution, and including costs for rental or purchase of any equipment, materials, or supplies required of all students in the same course of study;
   - **(2)** an allowance for books, supplies, transportation, and miscellaneous personal expenses, including a reasonable allowance for the documented rental or purchase of a personal computer, for a student attending the institution on at least a half-time basis, as determined by the institution;

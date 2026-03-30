@@ -3,9 +3,9 @@ title: "Section 2444 - Nonproliferation and national security scholarship and fe
 usc_title: 50
 usc_section: "2444"
 chapter: 41
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 2444"
-generated_at: "2026-03-30T05:45:37.426Z"
+generated_at: "2026-03-30T05:48:52.356Z"
 status: "active"
 ---
 
@@ -37,6 +37,6 @@ status: "active"
   - **(3)** The Administrator may waive, in whole or in part, repayment by an individual under this subsection if the Administrator determines that seeking recovery under paragraph (2) would be against equity and good conscience or would be contrary to the best interests of the United States.
   - **(4)** For purposes of repayment under this subsection, the total amount of educational assistance provided to an individual under the program established under this section shall bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 ( 20 U.S.C. 1077a(c) ).
 - **(e)** In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who is enrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
-- **(f)** A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.].
+- **(f)** A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(g)** Not later than January 1, 2010 , the Administrator shall submit to the congressional defense committees a report on the activities carried out under the program established under this section, including any recommendations for future activities under such program.
 - **(h)** Of the amounts authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for defense nuclear nonproliferation activities, $3,000,000 shall be available to carry out the program established under this section.

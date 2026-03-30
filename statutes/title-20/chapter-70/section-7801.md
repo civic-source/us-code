@@ -3,9 +3,9 @@ title: "Section 7801 - Definitions"
 usc_title: 20
 usc_section: "7801"
 chapter: 70
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 7801"
-generated_at: "2026-03-30T05:44:02.702Z"
+generated_at: "2026-03-30T05:47:09.477Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ Except as otherwise provided, in this chapter:
   - **(14)** The term “distance learning” means the transmission of educational or instructional programming to geographically dispersed individuals and groups via telecommunications.
   - **(15)** The term “dual or concurrent enrollment program” means a program offered by a partnership between at least one institution of higher education and at least one local educational agency through which a secondary school student who has not graduated from high school with a regular high school diploma is able to enroll in one or more postsecondary courses and earn postsecondary credit that—
     - **(A)** is transferable to the institutions of higher education in the partnership; and
-    - **(B)** applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.) [and 42 U.S.C. 2751 et seq.].
+    - **(B)** applies toward completion of a degree or recognized educational credential as described in the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.).
   - **(16)** The term “early childhood education program” has the meaning given the term in section 103 of the Higher Education Act of 1965 ( 20 U.S.C. 1003 ).
   - **(17)** The term “early college high school” means a partnership between at least one local educational agency and at least one institution of higher education that allows participants to simultaneously complete requirements toward earning a regular high school diploma and earn not less than 12 credits that are transferable to the institutions of higher education in the partnership as part of an organized course of study toward a postsecondary degree or credential at no cost to the participant or participant’s family.
   - **(18)** The term “educational service agency” means a regional public multiservice agency authorized by State statute to develop, manage, and provide services or programs to local educational agencies.

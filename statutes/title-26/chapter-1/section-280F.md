@@ -3,9 +3,9 @@ title: "Section 280F - Limitation on depreciation for luxury automobiles; limita
 usc_title: 26
 usc_section: "280F"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 280F"
-generated_at: "2026-03-30T05:44:41.339Z"
+generated_at: "2026-03-30T05:47:59.721Z"
 status: "active"
 ---
 

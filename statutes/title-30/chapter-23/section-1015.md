@@ -3,9 +3,9 @@ title: "Section 1015 - Requirement for lessees"
 usc_title: 30
 usc_section: "1015"
 chapter: 23
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "30 U.S.C. § 1015"
-generated_at: "2026-03-30T05:44:36.445Z"
+generated_at: "2026-03-30T05:47:49.811Z"
 status: "active"
 ---
 

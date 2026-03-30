@@ -3,9 +3,9 @@ title: "Section 1724 - Personnel management authorities for positions involved i
 usc_title: 8
 usc_section: "1724"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "8 U.S.C. § 1724"
-generated_at: "2026-03-30T05:43:22.196Z"
+generated_at: "2026-03-30T05:46:16.847Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3161 - General authorization"
 usc_title: 29
 usc_section: "3161"
 chapter: 32
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "29 U.S.C. § 3161"
-generated_at: "2026-03-30T05:44:42.683Z"
+generated_at: "2026-03-30T05:47:51.377Z"
 status: "active"
 ---
 

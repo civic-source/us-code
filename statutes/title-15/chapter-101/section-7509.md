@@ -3,9 +3,9 @@ title: "Section 7509 - Definitions"
 usc_title: 15
 usc_section: "7509"
 chapter: 101
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 7509"
-generated_at: "2026-03-30T05:43:52.024Z"
+generated_at: "2026-03-30T05:46:56.246Z"
 status: "active"
 ---
 

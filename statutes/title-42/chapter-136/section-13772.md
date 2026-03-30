@@ -3,9 +3,9 @@ title: "Section 13772 - Uses of funds"
 usc_title: 42
 usc_section: "13772"
 chapter: 136
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 13772"
-generated_at: "2026-03-30T05:45:32.066Z"
+generated_at: "2026-03-30T05:48:47.252Z"
 status: "active"
 ---
 

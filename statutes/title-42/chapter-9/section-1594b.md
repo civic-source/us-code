@@ -3,9 +3,9 @@ title: "Section 1594b - Maintenance and operation of housing; use of quarters; p
 usc_title: 42
 usc_section: "1594b"
 chapter: 9
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 1594b"
-generated_at: "2026-03-30T05:45:31.689Z"
+generated_at: "2026-03-30T05:48:46.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 541 - Property of the estate"
 usc_title: 11
 usc_section: "541"
 chapter: 5
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "11 U.S.C. § 541"
-generated_at: "2026-03-30T05:43:37.883Z"
+generated_at: "2026-03-30T05:46:57.556Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
 - **(b)** Property of the estate does not include—
   - **(1)** any power that the debtor may exercise solely for the benefit of an entity other than the debtor;
   - **(2)** any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease before the commencement of the case under this title, and ceases to include any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease during the case;
-  - **(3)** any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.), or any accreditation status or State licensure of the debtor as an educational institution;
+  - **(3)** any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.), 1 1 See References in Text note below. or any accreditation status or State licensure of the debtor as an educational institution;
   - **(4)** any interest of the debtor in liquid or gaseous hydrocarbons to the extent that—
     - **(A)**
       - **(i)** the debtor has transferred or has agreed to transfer such interest pursuant to a farmout agreement or any written agreement directly related to a farmout agreement; and

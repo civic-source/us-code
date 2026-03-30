@@ -3,9 +3,9 @@ title: "Section 1036 - Graduate fellowships to prepare faculty in high-need area
 usc_title: 20
 usc_section: "1036"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1036"
-generated_at: "2026-03-30T05:44:02.595Z"
+generated_at: "2026-03-30T05:47:09.374Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** Each individual who receives a graduate fellowship under this section and earns a doctoral degree shall teach for one year at an institution of higher education that has a teacher preparation program for each year of fellowship support received under this section.
     - **(B)** Each eligible institution that receives a grant under this section shall provide an assurance to the Secretary that the institution has inquired of and determined the decision of each individual who has received a graduate fellowship to, within three years of receiving a doctoral degree, begin employment at an institution of higher education that has a teacher preparation program, as required by this section.
     - **(C)** Prior to receiving an initial graduate fellowship award, and upon the annual renewal of the graduate fellowship award, an individual selected to receive a graduate fellowship under this section shall sign an agreement with the Secretary agreeing to pursue a career in instruction at an institution of higher education that has a teacher preparation program in accordance with subparagraph (A).
-    - **(D)** If an individual who receives a graduate fellowship award under this section fails to comply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part C of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
+    - **(D)** If an individual who receives a graduate fellowship award under this section fails to comply with the agreement signed pursuant to subparagraph (C), the sum of the amounts of any graduate fellowship award received by such recipient shall, upon a determination of such a failure, be treated as a Federal Direct Unsubsidized Stafford Loan under part D of subchapter IV, and shall be subject to repayment, together with interest thereon accruing from the date of the fellowship award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
     - **(E)** The Secretary may waive or modify the service requirement of this paragraph in accordance with regulations promulgated by the Secretary with respect to the criteria to determine the circumstances under which compliance with such service requirement is inequitable or represents a substantial hardship. The Secretary may waive the service requirement if compliance by the fellowship recipient is determined to be inequitable or represent a substantial hardship—
       - **(i)** because the individual is permanently and totally disabled at the time of the waiver request; or
       - **(ii)** based on documentation presented to the Secretary of substantial economic or personal hardship.

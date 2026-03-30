@@ -3,9 +3,9 @@ title: "Section 1558 - No remission or refund after release of merchandise"
 usc_title: 19
 usc_section: "1558"
 chapter: 4
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "19 U.S.C. § 1558"
-generated_at: "2026-03-30T05:44:17.832Z"
+generated_at: "2026-03-30T05:47:25.970Z"
 status: "active"
 ---
 

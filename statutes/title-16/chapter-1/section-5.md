@@ -3,9 +3,9 @@ title: "Section 5 - Management plan"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T05:43:59.051Z"
+generated_at: "2026-03-30T05:47:33.835Z"
 status: "active"
 ---
 

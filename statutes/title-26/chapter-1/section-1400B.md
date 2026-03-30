@@ -3,9 +3,9 @@ title: "Section 1400B - Zero percent capital gains rate"
 usc_title: 26
 usc_section: "1400B"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 1400B"
-generated_at: "2026-03-30T05:44:41.433Z"
+generated_at: "2026-03-30T05:47:59.817Z"
 status: "active"
 ---
 

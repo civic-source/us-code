@@ -3,9 +3,9 @@ title: "Section 9602 - Comprehensive centers"
 usc_title: 20
 usc_section: "9602"
 chapter: 76
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 9602"
-generated_at: "2026-03-30T05:44:02.712Z"
+generated_at: "2026-03-30T05:47:09.487Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002 ); and
     - **(B)** after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(d) ] in the population served by the local entity or consortium of such entities.
 - **(b)**
-  - **(1)** Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f) of this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002 ) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002 ).
+  - **(1)** Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f), including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002 ) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002 ).
   - **(2)** In conducting competitions for grants under this section, the Secretary shall actively encourage potential applicants to compete for such awards by making widely available information and technical assistance relating to the competition.
   - **(3)** Before awarding a grant under this section, the Secretary shall design specific objectives and measurable indicators, using the results of the assessment conducted under section 9605 of this title , to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional entities, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices are being carried out as part of school improvement efforts.
 - **(c)**
@@ -43,7 +43,7 @@ status: "active"
 - **(g)**
   - **(1)** Each comprehensive center established under this section shall have an advisory board that shall support the priorities of such center.
   - **(2)** Each advisory board established under paragraph (1) shall advise the comprehensive center—
-    - **(A)** concerning the activities described in subsection (d) of this section;
+    - **(A)** concerning the activities described in subsection (d);
     - **(B)** on strategies for monitoring and addressing the educational needs of the region, on an ongoing basis;
     - **(C)** on maintaining a high standard of quality in the performance of the center’s activities; and
     - **(D)** on carrying out the center’s duties in a manner that promotes progress toward improving student academic achievement.

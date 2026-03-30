@@ -3,9 +3,9 @@ title: "Section 1001 - General definition of institution of higher education"
 usc_title: 20
 usc_section: "1001"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1001"
-generated_at: "2026-03-30T05:44:02.588Z"
+generated_at: "2026-03-30T05:47:09.367Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
   - **(2)** a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1), admits as regular students individuals—
     - **(A)** who are beyond the age of compulsory school attendance in the State in which the institution is located; or
     - **(B)** who will be dually or concurrently enrolled in the institution and a secondary school.
-- **(c)** For purposes of this section and section 1002 of this title , the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part G of subchapter IV, to be reliable authority as to the quality of the education or training offered.
+- **(c)** For purposes of this section and section 1002 of this title , the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.

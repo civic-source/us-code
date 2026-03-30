@@ -3,9 +3,9 @@ title: "Section 1453 - Applications"
 usc_title: 20
 usc_section: "1453"
 chapter: 33
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1453"
-generated_at: "2026-03-30T05:44:02.656Z"
+generated_at: "2026-03-30T05:47:09.432Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** is based on an assessment of State and local needs that identifies critical aspects and areas in need of improvement related to the preparation, ongoing training, and professional development of personnel who serve infants, toddlers, preschoolers, and children with disabilities within the State, including—
       - **(i)** current and anticipated personnel vacancies and shortages; and
       - **(ii)** the number of preservice and inservice programs; and
-    - **(C)** is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.], the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.], and the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.].
+    - **(C)** is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.], the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.], and the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.].
   - **(3)** The State application shall contain an assurance that the State educational agency will carry out each of the strategies described in subsection (b)(4).
 - **(b)** Each State personnel development plan under subsection (a)(2) shall—
   - **(1)** describe a partnership agreement that is in effect for the period of the grant, which agreement shall specify—

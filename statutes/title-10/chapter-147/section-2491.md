@@ -3,9 +3,9 @@ title: "Section 2491 - Uniform funding and management of morale, welfare, and re
 usc_title: 10
 usc_section: "2491"
 chapter: 147
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 2491"
-generated_at: "2026-03-30T05:43:26.668Z"
+generated_at: "2026-03-30T05:46:47.735Z"
 status: "active"
 ---
 

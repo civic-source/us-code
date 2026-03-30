@@ -3,9 +3,9 @@ title: "Section 704b - Nonavailability of allotments after close of fiscal year"
 usc_title: 42
 usc_section: "704b"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 704b"
-generated_at: "2026-03-30T05:45:31.513Z"
+generated_at: "2026-03-30T05:48:46.780Z"
 status: "active"
 ---
 

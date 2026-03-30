@@ -3,9 +3,9 @@ title: "Section 1638 - Transactions other than under an open end credit plan"
 usc_title: 15
 usc_section: "1638"
 chapter: 41
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 1638"
-generated_at: "2026-03-30T05:43:51.954Z"
+generated_at: "2026-03-30T05:46:56.171Z"
 status: "active"
 ---
 
@@ -89,8 +89,8 @@ status: "active"
       - **(i)** which shall be calculated using the principal amount and the maximum rate of interest actually offered by the private educational lender; and
       - **(ii)** calculated both with and without capitalization of interest, if an option exists for postponing interest payments;
     - **(L)** that a covered educational institution may have school-specific education loan benefits and terms not detailed on the disclosure form;
-    - **(M)** that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.], in lieu of, or in addition to, a loan from a non-Federal source;
-    - **(N)** the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.];
+    - **(M)** that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source;
+    - **(N)** the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.);
     - **(O)** that, as provided in paragraph (6)—
       - **(i)** the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan; and
       - **(ii)** except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not be changed by the private educational lender during the period described in clause (i);
@@ -113,9 +113,9 @@ status: "active"
       - **(i)** the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan; and
       - **(ii)** except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not be changed by the private educational lender during the period described in clause (i);
     - **(M)** that the borrower—
-      - **(i)** may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.], in lieu of, or in addition to, a loan from a non-Federal source; and
+      - **(i)** may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
       - **(ii)** may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
-    - **(N)** the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.];
+    - **(N)** the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.);
     - **(O)** the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
     - **(P)** such other information as the Bureau shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
   - **(3)**

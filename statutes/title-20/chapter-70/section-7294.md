@@ -3,9 +3,9 @@ title: "Section 7294 - Supporting high-ability learners and learning"
 usc_title: 20
 usc_section: "7294"
 chapter: 70
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 7294"
-generated_at: "2026-03-30T05:44:02.696Z"
+generated_at: "2026-03-30T05:47:09.471Z"
 status: "active"
 ---
 

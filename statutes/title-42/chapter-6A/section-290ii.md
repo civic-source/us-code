@@ -3,9 +3,9 @@ title: "Section 290ii - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290ii"
 chapter: 6
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 290ii"
-generated_at: "2026-03-30T05:45:31.414Z"
+generated_at: "2026-03-30T05:48:46.683Z"
 status: "active"
 ---
 

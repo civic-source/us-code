@@ -3,9 +3,9 @@ title: "Section 5230 - Termination of authority"
 usc_title: 12
 usc_section: "5230"
 chapter: 52
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 5230"
-generated_at: "2026-03-30T05:43:40.665Z"
+generated_at: "2026-03-30T05:47:03.191Z"
 status: "active"
 ---
 

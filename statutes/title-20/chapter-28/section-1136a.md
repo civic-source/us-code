@@ -3,9 +3,9 @@ title: "Section 1136a - Masters degree programs at historically Black colleges a
 usc_title: 20
 usc_section: "1136a"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1136a"
-generated_at: "2026-03-30T05:44:02.637Z"
+generated_at: "2026-03-30T05:47:09.413Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
   - **(6)** assisting in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title ;
   - **(7)** funds and administrative management, and the acquisition of equipment, including software, for use in strengthening funds management and management information systems;
   - **(8)** acquisition of real property that is adjacent to the campus in connection with the construction, renovation, or improvement of, or an addition to, campus facilities;
-  - **(9)** education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+  - **(9)** education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV;
   - **(10)** tutoring, counseling, and student service programs designed to improve academic success;
   - **(11)** faculty professional development, faculty exchanges, and faculty participation in professional conferences and meetings; and
   - **(12)** other activities proposed in the application submitted under subsection (c) that—

@@ -3,9 +3,9 @@ title: "Section 3203 - Tsunami forecasting and warning program"
 usc_title: 33
 usc_section: "3203"
 chapter: 45
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "33 U.S.C. § 3203"
-generated_at: "2026-03-30T05:44:46.500Z"
+generated_at: "2026-03-30T05:48:03.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 968 - Service of subpena; proof of service"
 usc_title: 21
 usc_section: "968"
 chapter: 13
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "21 U.S.C. § 968"
-generated_at: "2026-03-30T05:44:28.685Z"
+generated_at: "2026-03-30T05:47:42.364Z"
 status: "active"
 ---
 

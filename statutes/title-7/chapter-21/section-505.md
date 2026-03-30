@@ -3,9 +3,9 @@ title: "Section 505 - Access to internal-revenue records"
 usc_title: 7
 usc_section: "505"
 chapter: 21
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 505"
-generated_at: "2026-03-30T05:43:34.956Z"
+generated_at: "2026-03-30T05:46:20.143Z"
 status: "active"
 ---
 

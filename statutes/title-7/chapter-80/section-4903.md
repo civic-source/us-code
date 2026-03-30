@@ -3,9 +3,9 @@ title: "Section 4903 - Issuance of plans"
 usc_title: 7
 usc_section: "4903"
 chapter: 80
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 4903"
-generated_at: "2026-03-30T05:43:35.042Z"
+generated_at: "2026-03-30T05:46:20.252Z"
 status: "active"
 ---
 

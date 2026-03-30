@@ -3,9 +3,9 @@ title: "Section 1062 - Grants to institutions"
 usc_title: 20
 usc_section: "1062"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1062"
-generated_at: "2026-03-30T05:44:02.597Z"
+generated_at: "2026-03-30T05:47:09.375Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(10)** Establishing or enhancing a program of teacher education designed to qualify students to teach in a public elementary or secondary school in the State that shall include, as part of such program, preparation for teacher certification.
   - **(11)** Establishing community outreach programs which will encourage elementary and secondary students to develop the academic skills and the interest to pursue postsecondary education.
   - **(12)** Acquisition of real property in connection with the construction, renovation, or addition to or improvement of campus facilities.
-  - **(13)** Education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+  - **(13)** Education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV.
   - **(14)** Services necessary for the implementation of projects or activities that are described in the grant application and that are approved, in advance, by the Secretary, except that not more than two percent of the grant amount may be used for this purpose.
   - **(15)** Other activities proposed in the application submitted pursuant to section 1063a of this title that—
     - **(A)** contribute to carrying out the purposes of this part; and
@@ -34,5 +34,5 @@ status: "active"
   - **(2)** In order to be eligible to use grant funds in accordance with paragraph (1), the eligible institution shall provide matching funds from non-Federal sources, in an amount equal to or greater than the Federal funds used in accordance with paragraph (1), for the establishment or increase of the endowment fund.
   - **(3)** The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 - **(c)**
-  - **(1)** No grant may be made under this chapter and part C of subchapter I of chapter 34 of title 42 for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
+  - **(1)** No grant may be made under this chapter for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
   - **(2)** Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.

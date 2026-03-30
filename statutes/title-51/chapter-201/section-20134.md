@@ -3,9 +3,9 @@ title: "Section 20134 - Arrest authority"
 usc_title: 51
 usc_section: "20134"
 chapter: 201
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "51 U.S.C. § 20134"
-generated_at: "2026-03-30T05:45:42.412Z"
+generated_at: "2026-03-30T05:48:58.623Z"
 status: "active"
 ---
 

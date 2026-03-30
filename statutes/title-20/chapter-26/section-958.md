@@ -3,9 +3,9 @@ title: "Section 958 - Federal Council on the Arts and the Humanities"
 usc_title: 20
 usc_section: "958"
 chapter: 26
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 958"
-generated_at: "2026-03-30T05:44:02.587Z"
+generated_at: "2026-03-30T05:47:09.367Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6014 - Enlisted members: authority for transfer between Marine C
 usc_title: 10
 usc_section: "6014"
 chapter: 555
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 6014"
-generated_at: "2026-03-30T05:43:26.694Z"
+generated_at: "2026-03-30T05:46:47.764Z"
 status: "active"
 ---
 

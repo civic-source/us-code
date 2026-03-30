@@ -3,9 +3,9 @@ title: "Section 38a - Transferred"
 usc_title: 2
 usc_section: "38a"
 chapter: 3
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 38a"
-generated_at: "2026-03-30T05:43:13.946Z"
+generated_at: "2026-03-30T05:46:13.856Z"
 status: "transferred"
 ---
 

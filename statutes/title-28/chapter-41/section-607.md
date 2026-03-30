@@ -3,9 +3,9 @@ title: "Section 607 - Practice of law prohibited"
 usc_title: 28
 usc_section: "607"
 chapter: 41
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "28 U.S.C. § 607"
-generated_at: "2026-03-30T05:44:37.075Z"
+generated_at: "2026-03-30T05:47:50.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2010 - Negotiations with Government of Canada"
 usc_title: 43
 usc_section: "2010"
 chapter: 38
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "43 U.S.C. § 2010"
-generated_at: "2026-03-30T05:44:56.782Z"
+generated_at: "2026-03-30T05:48:30.864Z"
 status: "active"
 ---
 

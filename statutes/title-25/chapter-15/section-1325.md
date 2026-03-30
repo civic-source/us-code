@@ -3,9 +3,9 @@ title: "Section 1325 - Abatement of actions"
 usc_title: 25
 usc_section: "1325"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 1325"
-generated_at: "2026-03-30T05:44:21.433Z"
+generated_at: "2026-03-30T05:47:37.023Z"
 status: "active"
 ---
 

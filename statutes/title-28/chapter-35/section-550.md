@@ -3,9 +3,9 @@ title: "Section 550 - Clerical assistants, messengers, and private process serve
 usc_title: 28
 usc_section: "550"
 chapter: 35
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "28 U.S.C. § 550"
-generated_at: "2026-03-30T05:44:37.073Z"
+generated_at: "2026-03-30T05:47:50.516Z"
 status: "active"
 ---
 

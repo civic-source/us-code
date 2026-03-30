@@ -3,9 +3,9 @@ title: "Section 266 - Authorization of appropriations for acquisition of additio
 usc_title: 16
 usc_section: "266"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 266"
-generated_at: "2026-03-30T05:43:58.982Z"
+generated_at: "2026-03-30T05:47:33.770Z"
 status: "active"
 ---
 

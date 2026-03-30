@@ -3,9 +3,9 @@ title: "Section 3541 - Entitlement to special restorative training"
 usc_title: 38
 usc_section: "3541"
 chapter: 35
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "38 U.S.C. § 3541"
-generated_at: "2026-03-30T05:44:54.044Z"
+generated_at: "2026-03-30T05:48:20.677Z"
 status: "active"
 ---
 

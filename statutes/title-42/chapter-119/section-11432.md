@@ -3,9 +3,9 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T05:45:32.017Z"
+generated_at: "2026-03-30T05:48:47.208Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
     - **(E)** For the State to be eligible to receive the funds described in subparagraph (B), the local educational agency described in subparagraph (B)(ii) shall—
       - **(i)** implement a coordinated system for ensuring that homeless children and youths—
         - **(I)** are advised of the choice of schools provided in subsection (g)(3)(A);
-        - **(II)** are immediately enrolled, in accordance with subsection (g)(3)(C) of this section, in the school selected under subsection (g)(3)(A); and
+        - **(II)** are immediately enrolled, in accordance with subsection (g)(3)(C), in the school selected under subsection (g)(3)(A); and
         - **(III)** are promptly provided necessary services described in subsection (g)(4), including transportation, to allow homeless children and youths to exercise their choices of schools under subsection (g)(3)(A);
       - **(ii)** document that written notice has been provided—
         - **(I)** in accordance with subparagraph (C)(i) for each child or youth enrolled in a separate school under subparagraph (B); and

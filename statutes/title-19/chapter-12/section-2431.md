@@ -3,9 +3,9 @@ title: "Section 2431 - Exception of products of certain countries or areas"
 usc_title: 19
 usc_section: "2431"
 chapter: 12
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "19 U.S.C. § 2431"
-generated_at: "2026-03-30T05:44:17.860Z"
+generated_at: "2026-03-30T05:47:25.996Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4723 - Regional coordination"
 usc_title: 16
 usc_section: "4723"
 chapter: 67
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 4723"
-generated_at: "2026-03-30T05:43:59.182Z"
+generated_at: "2026-03-30T05:47:33.961Z"
 status: "active"
 ---
 

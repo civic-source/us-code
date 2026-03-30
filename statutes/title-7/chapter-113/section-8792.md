@@ -3,9 +3,9 @@ title: "Section 8792 - Geographically disadvantaged farmers and ranchers"
 usc_title: 7
 usc_section: "8792"
 chapter: 113
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 8792"
-generated_at: "2026-03-30T05:43:35.089Z"
+generated_at: "2026-03-30T05:46:20.311Z"
 status: "active"
 ---
 

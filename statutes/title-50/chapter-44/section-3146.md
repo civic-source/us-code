@@ -3,9 +3,9 @@ title: "Section 3146 - Protection of certain files of the Office of the Director
 usc_title: 50
 usc_section: "3146"
 chapter: 44
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 3146"
-generated_at: "2026-03-30T05:45:37.444Z"
+generated_at: "2026-03-30T05:48:52.372Z"
 status: "active"
 ---
 

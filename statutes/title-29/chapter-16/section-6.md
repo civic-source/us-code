@@ -3,9 +3,9 @@ title: "Section 6 - Authorization of appropriations"
 usc_title: 29
 usc_section: "6"
 chapter: 16
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "29 U.S.C. § 6"
-generated_at: "2026-03-30T05:44:42.644Z"
+generated_at: "2026-03-30T05:47:51.339Z"
 status: "active"
 ---
 

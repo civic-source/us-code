@@ -3,14 +3,14 @@ title: "Section 9176 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9176"
 chapter: 72
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 9176"
-generated_at: "2026-03-30T05:44:02.709Z"
+generated_at: "2026-03-30T05:47:09.483Z"
 status: "active"
 ---
 
 # § 9176. Authorization of appropriations
 
 - **(a)** For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016.
-- **(b)** Sums appropriated pursuant to subsection (a) of this section for any fiscal year shall remain available for obligation until expended.
+- **(b)** Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation until expended.
 - **(c)** Notwithstanding any other provision of this subchapter, if the amount appropriated under subsection (a) for a fiscal year is greater than the amount appropriated under such subsection for fiscal year 2011 by more than $10,000,000, then an amount of not less than 30 percent but not more than 50 percent of the increase in appropriated funds shall be available, from the funds appropriated under such subsection for the fiscal year, to enter into arrangements under section 9173 of this title to carry out the State assessments described in section 9173(a)(4) of this title and to assist States in the implementation of such plans.

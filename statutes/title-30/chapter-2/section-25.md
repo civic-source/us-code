@@ -3,9 +3,9 @@ title: "Section 25 - Affidavit of citizenship"
 usc_title: 30
 usc_section: "25"
 chapter: 2
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "30 U.S.C. § 25"
-generated_at: "2026-03-30T05:44:36.426Z"
+generated_at: "2026-03-30T05:47:49.793Z"
 status: "active"
 ---
 

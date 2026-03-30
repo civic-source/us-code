@@ -3,9 +3,9 @@ title: "Section 4902 - Termination of private mortgage insurance"
 usc_title: 12
 usc_section: "4902"
 chapter: 49
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 4902"
-generated_at: "2026-03-30T05:43:40.660Z"
+generated_at: "2026-03-30T05:47:03.186Z"
 status: "active"
 ---
 

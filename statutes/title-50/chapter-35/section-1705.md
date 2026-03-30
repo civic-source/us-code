@@ -3,9 +3,9 @@ title: "Section 1705 - Penalties"
 usc_title: 50
 usc_section: "1705"
 chapter: 35
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 1705"
-generated_at: "2026-03-30T05:45:37.411Z"
+generated_at: "2026-03-30T05:48:52.341Z"
 status: "active"
 ---
 

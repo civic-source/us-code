@@ -3,9 +3,9 @@ title: "Section 252 - Disposal of mineral rights"
 usc_title: 16
 usc_section: "252"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 252"
-generated_at: "2026-03-30T05:43:58.982Z"
+generated_at: "2026-03-30T05:47:33.770Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 168 - Constitution of the United States; preparation and publica
 usc_title: 2
 usc_section: "168"
 chapter: 5
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 168"
-generated_at: "2026-03-30T05:43:13.988Z"
+generated_at: "2026-03-30T05:46:13.865Z"
 status: "active"
 ---
 

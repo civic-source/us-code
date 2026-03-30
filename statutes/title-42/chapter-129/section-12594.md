@@ -3,9 +3,9 @@ title: "Section 12594 - Living allowances for national service participants"
 usc_title: 42
 usc_section: "12594"
 chapter: 129
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 12594"
-generated_at: "2026-03-30T05:45:32.035Z"
+generated_at: "2026-03-30T05:48:47.223Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** Subject to paragraphs (2) and (3), a national service program carried out using assistance provided under section 12571 of this title shall provide to each participant who participates on a full-time basis in the program a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title .
   - **(2)** Except as provided in subsection (c), the total amount of an annual living allowance that may be provided to a participant in a national service program shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title .
-  - **(3)** The living allowance that may be provided under paragraph (1) to an individual whose term of service includes hours for which the individual receives a Federal work-study award under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) shall be reduced by the amount of the individual’s Federal work study award.
+  - **(3)** The living allowance that may be provided under paragraph (1) to an individual whose term of service includes hours for which the individual receives a Federal work-study award under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) 1 1 See References in Text note below. shall be reduced by the amount of the individual’s Federal work study award.
   - **(4)** The amount provided as a living allowance under this subsection shall be prorated in the case of a participant who is authorized to serve a term of service that is less than 12 months.
   - **(5)** The Corporation may waive or reduce the requirement of paragraph (1) with respect to such national service program if such program demonstrates that—
     - **(A)** such requirement is inconsistent with the objectives of the program; and
@@ -32,4 +32,4 @@ status: "active"
     - **(A)** make child care available for children of each full-time participant who needs child care in order to participate in a national service program carried out or supported by the recipient using the assistance; or
     - **(B)** provide a child care allowance to each full-time participant in a national service program who needs such assistance in order to participate in the program.
   - **(2)** The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any allowance to be provided.
-- **(f)** A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) 1 1 See References in Text note below. of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title ).
+- **(f)** A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) 1 of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title ).

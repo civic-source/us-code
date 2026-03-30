@@ -3,9 +3,9 @@ title: "Section 467 - Deposits of gold coin, gold certificates, and Special Draw
 usc_title: 12
 usc_section: "467"
 chapter: 3
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 467"
-generated_at: "2026-03-30T05:43:40.538Z"
+generated_at: "2026-03-30T05:47:03.061Z"
 status: "active"
 ---
 

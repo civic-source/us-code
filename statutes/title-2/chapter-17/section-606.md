@@ -3,9 +3,9 @@ title: "Section 606 - Disposition of surplus or obsolete property"
 usc_title: 2
 usc_section: "606"
 chapter: 17
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 606"
-generated_at: "2026-03-30T05:43:13.995Z"
+generated_at: "2026-03-30T05:46:13.875Z"
 status: "active"
 ---
 

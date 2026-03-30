@@ -3,9 +3,9 @@ title: "Section 7923 - Limitation of contractual authority"
 usc_title: 42
 usc_section: "7923"
 chapter: 88
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 7923"
-generated_at: "2026-03-30T05:45:31.942Z"
+generated_at: "2026-03-30T05:48:47.143Z"
 status: "active"
 ---
 

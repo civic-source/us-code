@@ -3,9 +3,9 @@ title: "Section 4350 - Information for travelers regarding violations of intelle
 usc_title: 19
 usc_section: "4350"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "19 U.S.C. § 4350"
-generated_at: "2026-03-30T05:44:17.891Z"
+generated_at: "2026-03-30T05:47:26.025Z"
 status: "active"
 ---
 

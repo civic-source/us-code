@@ -3,9 +3,9 @@ title: "Section 4105 - Prisoners of war"
 usc_title: 50
 usc_section: "4105"
 chapter: 51
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4105"
-generated_at: "2026-03-30T05:45:37.461Z"
+generated_at: "2026-03-30T05:48:52.386Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
 - **(f)**
   - **(1)** As used in this subsection—
     - **(A)** the term “Vietnam conflict” relates to the period beginning February 28, 1961 , and ending on such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress; and
-    - **(B)** the term “prisoner of war” means any regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States who was held as a prisoner of war for any period of time during the Vietnam conflict by any force hostile to the United States, except any such member who, at any time, voluntarily, knowingly, and without duress, gave aid to collaborated with, or in any manner served, such hostile force.
+    - **(B)** the term “prisoner of war” means any regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States who was held as a prisoner of war for any period of time during the Vietnam conflict by any force hostile to the United States, except any such member who, at any time, voluntarily, knowingly, and without duress, gave aid to or collaborated with, or in any manner served, such hostile force.
   - **(2)** The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by any prisoner of war for compensation for the failure of the hostile force by which he was held as a prisoner of war, or its agents, to furnish him the quantity or quality of food prescribed for prisoners of war under the terms of the Geneva Convention of August 12, 1949 . The compensation allowed to any prisoner of war under the provisions of this paragraph shall be at the rate of $2 for each day on which he was held as a prisoner of war and on which such hostile force, or its agents, failed to furnish him such quantity or quality of food.
   - **(3)** The Commission is authorized to receive and to determine, according to law, the amount and validity and provide for the payment of any claim filed by any prisoner of war for compensation—
     - **(A)** for the failure of the hostile force by which he was held as a prisoner of war, or its agents, to meet the conditions and requirements prescribed under chapter VIII, section III, of the Geneva Convention of August 12, 1949 , relating to labor of prisoners of war; or

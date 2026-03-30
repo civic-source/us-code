@@ -3,9 +3,9 @@ title: "Section 5661 - Research and evaluation; statistical analyses; informatio
 usc_title: 42
 usc_section: "5661"
 chapter: 72
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 5661"
-generated_at: "2026-03-30T05:45:31.853Z"
+generated_at: "2026-03-30T05:48:47.060Z"
 status: "active"
 ---
 

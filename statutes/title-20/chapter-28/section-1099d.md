@@ -3,9 +3,9 @@ title: "Section 1099d - Competitive loan auction pilot program"
 usc_title: 20
 usc_section: "1099d"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1099d"
-generated_at: "2026-03-30T05:44:02.633Z"
+generated_at: "2026-03-30T05:47:09.409Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
         - **(I)** the borrower includes in the notification in clause (ii) verification of consolidation terms and conditions offered by an eligible lender other than the eligible lender described in clause (i); and
         - **(II)** not later than 10 days after receiving such notification from the borrower, the eligible lender described in clause (i) does not agree to match such terms and conditions, or provide more favorable terms and conditions to such borrower than the offered terms and conditions described in subclause (I).
       - **(iv)** If a borrower has a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title and seeks to consolidate such loan with an eligible Federal PLUS Loan made under this paragraph, then the eligible lender that originated the borrower’s loan under this paragraph may include in the consolidation under this subparagraph a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title , but only if—
-        - **(I)** in the case of a Federal Direct PLUS Loan, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions that would otherwise be available to the borrower if the borrower consolidated such loans in the loan program under part C; or
+        - **(I)** in the case of a Federal Direct PLUS Loan, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions that would otherwise be available to the borrower if the borrower consolidated such loans in the loan program under part D; or
         - **(II)** in the case of a loan made on behalf of a dependent student under section 1078–2 of this title , the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions offered by an eligible lender other than the eligible lender that originated the borrower’s loans under this paragraph.
       - **(v)** The applicable special allowance payment for loans consolidated under this paragraph shall be equal to the lesser of—
         - **(I)** the weighted average of the special allowance payment on such loans, except that in calculating such weighted average the Secretary shall exclude any Federal Direct PLUS Loan included in the consolidation; or

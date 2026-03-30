@@ -3,9 +3,9 @@ title: "Section 4022 - Power of attorney"
 usc_title: 50
 usc_section: "4022"
 chapter: 50
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4022"
-generated_at: "2026-03-30T05:45:37.460Z"
+generated_at: "2026-03-30T05:48:52.386Z"
 status: "active"
 ---
 

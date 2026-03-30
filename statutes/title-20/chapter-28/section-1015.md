@@ -3,9 +3,9 @@ title: "Section 1015 - Improvements in market information and public accountabil
 usc_title: 20
 usc_section: "1015"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1015"
-generated_at: "2026-03-30T05:44:02.590Z"
+generated_at: "2026-03-30T05:47:09.368Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
         - **(III)** institutional and other assistance; and
       - **(iv)** number of students receiving financial assistance described in each of subclauses (I), (II), and (III) of clause (iii);
     - **(B)** not later than 90 days after October 7, 1998 , report the definitions to each institution of higher education and within a reasonable period of time thereafter inform the authorizing committees of those definitions; and
-    - **(C)** collect information regarding the data elements described in subparagraph (A) with respect to at least all institutions of higher education participating in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, beginning with the information from academic year 2000–2001 and annually thereafter.
+    - **(C)** collect information regarding the data elements described in subparagraph (A) with respect to at least all institutions of higher education participating in programs under subchapter IV, beginning with the information from academic year 2000–2001 and annually thereafter.
 - **(b)** The Secretary shall make available the data collected pursuant to subsection (a). Such data shall be available in a form that permits the review and comparison of the data submissions of individual institutions of higher education. Such data shall be presented in a form that is easily understandable and allows parents and students to make informed decisions based on the costs for typical full-time undergraduate students.
 - **(c)**
   - **(1)** The Commissioner of Education Statistics shall conduct a national study of expenditures at institutions of higher education. Such study shall include information with respect to—

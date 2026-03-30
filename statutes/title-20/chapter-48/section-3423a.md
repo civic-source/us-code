@@ -3,9 +3,9 @@ title: "Section 3423a - Office of Correctional Education"
 usc_title: 20
 usc_section: "3423a"
 chapter: 48
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 3423a"
-generated_at: "2026-03-30T05:44:02.666Z"
+generated_at: "2026-03-30T05:47:09.441Z"
 status: "active"
 ---
 

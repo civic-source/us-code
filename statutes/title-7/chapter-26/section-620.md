@@ -3,9 +3,9 @@ title: "Section 620 - Falsely ascribing deductions or charges to taxes; penalty"
 usc_title: 7
 usc_section: "620"
 chapter: 26
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 620"
-generated_at: "2026-03-30T05:43:34.960Z"
+generated_at: "2026-03-30T05:46:20.150Z"
 status: "active"
 ---
 

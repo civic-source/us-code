@@ -3,9 +3,9 @@ title: "Section 4604 - Certification"
 usc_title: 42
 usc_section: "4604"
 chapter: 61
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 4604"
-generated_at: "2026-03-30T05:45:31.824Z"
+generated_at: "2026-03-30T05:48:47.033Z"
 status: "active"
 ---
 

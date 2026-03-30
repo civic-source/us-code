@@ -3,9 +3,9 @@ title: "Section 4310 - Repair and replacement of defects"
 usc_title: 46
 usc_section: "4310"
 chapter: 43
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "46 U.S.C. § 4310"
-generated_at: "2026-03-30T05:45:36.019Z"
+generated_at: "2026-03-30T05:48:56.924Z"
 status: "active"
 ---
 

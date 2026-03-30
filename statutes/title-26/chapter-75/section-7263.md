@@ -3,9 +3,9 @@ title: "Section 7263 - Repealed. Pub. L. 94–455, title XIX , § 1952(n)(3)(A),
 usc_title: 26
 usc_section: "7263"
 chapter: 75
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 7263"
-generated_at: "2026-03-30T05:44:41.514Z"
+generated_at: "2026-03-30T05:47:59.901Z"
 status: "repealed"
 ---
 

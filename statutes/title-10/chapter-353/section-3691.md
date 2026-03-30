@@ -3,9 +3,9 @@ title: "Section 3691 - Flying officer rating: qualifications"
 usc_title: 10
 usc_section: "3691"
 chapter: 353
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 3691"
-generated_at: "2026-03-30T05:43:26.686Z"
+generated_at: "2026-03-30T05:46:47.755Z"
 status: "active"
 ---
 

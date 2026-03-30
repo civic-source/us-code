@@ -3,9 +3,9 @@ title: "Section 4026 - Return of withdrawn funds"
 usc_title: 25
 usc_section: "4026"
 chapter: 42
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 4026"
-generated_at: "2026-03-30T05:44:21.468Z"
+generated_at: "2026-03-30T05:47:37.057Z"
 status: "active"
 ---
 

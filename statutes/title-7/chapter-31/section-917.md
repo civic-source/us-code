@@ -3,9 +3,9 @@ title: "Section 917 - Prohibition on restricting water and waste facility servic
 usc_title: 7
 usc_section: "917"
 chapter: 31
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 917"
-generated_at: "2026-03-30T05:43:34.962Z"
+generated_at: "2026-03-30T05:46:20.151Z"
 status: "active"
 ---
 

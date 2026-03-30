@@ -3,9 +3,9 @@ title: "Section 5539 - Repealed. Pub. L. 90–235 , § 2(a)(3), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "5539"
 chapter: 537
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 5539"
-generated_at: "2026-03-30T05:43:26.693Z"
+generated_at: "2026-03-30T05:46:47.762Z"
 status: "repealed"
 ---
 

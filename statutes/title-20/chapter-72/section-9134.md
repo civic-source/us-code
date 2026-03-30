@@ -3,9 +3,9 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-03-30T05:44:02.708Z"
+generated_at: "2026-03-30T05:47:09.483Z"
 status: "active"
 ---
 
@@ -30,10 +30,10 @@ status: "active"
       - **(i)** the activities carried out by the State workforce development board under section 3111 of title 29 ; and
       - **(ii)** the State’s one-stop delivery system established under section 3151(e) of title 29 ; and
     - **(D)** other Federal programs and activities that relate to library services, including economic and community development and health information;
-  - **(7)** provide assurances that the State will comply with subsection (f) of this section; and
+  - **(7)** provide assurances that the State will comply with subsection (f); and
   - **(8)** provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
 - **(c)** Each State library administrative agency receiving a grant under this subchapter shall independently evaluate, and report to the Director regarding, the activities assisted under this subchapter, prior to the end of the 5-year plan.
-- **(d)** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c) of this section.
+- **(d)** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c).
 - **(e)**
   - **(1)** The Director shall approve any State plan under this subchapter that meets the requirements of this subchapter and provides satisfactory assurances that the provisions of such plan will be carried out.
   - **(2)** Each State library administrative agency receiving a grant under this subchapter shall make the State plan available to the public, including through electronic means.

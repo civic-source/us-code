@@ -3,9 +3,9 @@ title: "Section 311 - Omitted"
 usc_title: 20
 usc_section: "311"
 chapter: 14
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 311"
-generated_at: "2026-03-30T05:44:02.584Z"
+generated_at: "2026-03-30T05:47:09.362Z"
 status: "omitted"
 ---
 

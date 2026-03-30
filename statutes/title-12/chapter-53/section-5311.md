@@ -3,9 +3,9 @@ title: "Section 5311 - Definitions"
 usc_title: 12
 usc_section: "5311"
 chapter: 53
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 5311"
-generated_at: "2026-03-30T05:43:40.666Z"
+generated_at: "2026-03-30T05:47:03.193Z"
 status: "active"
 ---
 

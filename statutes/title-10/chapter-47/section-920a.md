@@ -3,9 +3,9 @@ title: "Section 920a - Art. 120a. Stalking"
 usc_title: 10
 usc_section: "920a"
 chapter: 47
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 920a"
-generated_at: "2026-03-30T05:43:26.613Z"
+generated_at: "2026-03-30T05:46:47.672Z"
 status: "active"
 ---
 

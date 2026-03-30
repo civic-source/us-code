@@ -3,15 +3,15 @@ title: "Section 1809 - Effect on other programs"
 usc_title: 25
 usc_section: "1809"
 chapter: 20
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 1809"
-generated_at: "2026-03-30T05:44:21.446Z"
+generated_at: "2026-03-30T05:47:37.036Z"
 status: "active"
 ---
 
 # § 1809. Effect on other programs
 
-- **(a)** Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+- **(a)** Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 - **(b)**
   - **(1)** The amount of any grant for which tribally controlled colleges or universities are eligible under section 1808 of this title shall not be altered because of funds allocated to any such colleges or universities from funds appropriated under section 13 of this title .
   - **(2)** No tribally controlled college or university shall be denied funds appropriated under section 13 of this title because of the funds it receives under this chapter.

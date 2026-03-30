@@ -3,9 +3,9 @@ title: "Section 450i - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "450i"
 chapter: 17
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 450i"
-generated_at: "2026-03-30T05:43:34.953Z"
+generated_at: "2026-03-30T05:46:20.140Z"
 status: "active"
 ---
 

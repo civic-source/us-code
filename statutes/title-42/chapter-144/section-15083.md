@@ -3,9 +3,9 @@ title: "Section 15083 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15083"
 chapter: 144
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 15083"
-generated_at: "2026-03-30T05:45:32.088Z"
+generated_at: "2026-03-30T05:48:47.273Z"
 status: "active"
 ---
 

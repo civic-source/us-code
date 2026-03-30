@@ -3,9 +3,9 @@ title: "Section 2011 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2011"
 chapter: 51
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-30T05:43:35.010Z"
+generated_at: "2026-03-30T05:46:20.211Z"
 status: "active"
 ---
 

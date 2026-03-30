@@ -3,9 +3,9 @@ title: "Section 4029 - Colorado River Floodway"
 usc_title: 42
 usc_section: "4029"
 chapter: 50
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 4029"
-generated_at: "2026-03-30T05:45:31.815Z"
+generated_at: "2026-03-30T05:48:47.025Z"
 status: "active"
 ---
 

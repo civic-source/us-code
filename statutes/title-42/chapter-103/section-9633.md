@@ -3,9 +3,9 @@ title: "Section 9633 - Repealed. Pub. L. 99–499, title V , § 517(c)(1), Oct. 
 usc_title: 42
 usc_section: "9633"
 chapter: 103
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 9633"
-generated_at: "2026-03-30T05:45:31.974Z"
+generated_at: "2026-03-30T05:48:47.171Z"
 status: "repealed"
 ---
 

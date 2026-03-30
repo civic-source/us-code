@@ -3,9 +3,9 @@ title: "Section 2000aa - Searches and seizures by government officers and employ
 usc_title: 42
 usc_section: "2000aa"
 chapter: 21
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 2000aa"
-generated_at: "2026-03-30T05:45:31.726Z"
+generated_at: "2026-03-30T05:48:46.962Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(4)** such materials have not been produced in response to a court order directing compliance with a subpena duces tecum, and—
     - **(A)** all appellate remedies have been exhausted; or
     - **(B)** there is reason to believe that the delay in an investigation or trial occasioned by further proceedings relating to the subpena would threaten the interests of justice.
-- **(c)** In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b) of this section, the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
+- **(c)** In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b), the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.

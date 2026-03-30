@@ -3,9 +3,9 @@ title: "Section 7703b - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703b"
 chapter: 70
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 7703b"
-generated_at: "2026-03-30T05:44:02.701Z"
+generated_at: "2026-03-30T05:47:09.476Z"
 status: "active"
 ---
 

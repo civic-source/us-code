@@ -3,9 +3,9 @@ title: "Section 112 - Prohibition on disclosure of name of minor children"
 usc_title: 11
 usc_section: "112"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "11 U.S.C. § 112"
-generated_at: "2026-03-30T05:43:37.878Z"
+generated_at: "2026-03-30T05:46:57.550Z"
 status: "active"
 ---
 

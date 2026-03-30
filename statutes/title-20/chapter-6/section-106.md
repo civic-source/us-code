@@ -3,9 +3,9 @@ title: "Section 106 - Purchases through the General Services Administration"
 usc_title: 20
 usc_section: "106"
 chapter: 6
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 106"
-generated_at: "2026-03-30T05:44:02.582Z"
+generated_at: "2026-03-30T05:47:09.361Z"
 status: "active"
 ---
 

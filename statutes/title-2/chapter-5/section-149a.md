@@ -3,9 +3,9 @@ title: "Section 149a - Permitting use of proceeds from disposition of surplus or
 usc_title: 2
 usc_section: "149a"
 chapter: 5
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 149a"
-generated_at: "2026-03-30T05:43:13.951Z"
+generated_at: "2026-03-30T05:46:13.863Z"
 status: "active"
 ---
 

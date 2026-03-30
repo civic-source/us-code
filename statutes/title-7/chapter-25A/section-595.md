@@ -3,9 +3,9 @@ title: "Section 595 - Fees for inspection and certification; certificates as pri
 usc_title: 7
 usc_section: "595"
 chapter: 25
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 595"
-generated_at: "2026-03-30T05:43:34.957Z"
+generated_at: "2026-03-30T05:46:20.146Z"
 status: "active"
 ---
 

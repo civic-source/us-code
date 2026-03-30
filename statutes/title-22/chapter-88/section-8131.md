@@ -3,9 +3,9 @@ title: "Section 8131 - Protection of confidentiality of information"
 usc_title: 22
 usc_section: "8131"
 chapter: 88
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 8131"
-generated_at: "2026-03-30T05:44:32.220Z"
+generated_at: "2026-03-30T05:47:39.432Z"
 status: "active"
 ---
 

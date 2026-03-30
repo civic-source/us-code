@@ -3,9 +3,9 @@ title: "Section 3391 - Repealed. Pub. L. 90–130 , § 1(11)(F), Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "3391"
 chapter: 337
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 3391"
-generated_at: "2026-03-30T05:43:26.685Z"
+generated_at: "2026-03-30T05:46:47.754Z"
 status: "repealed"
 ---
 

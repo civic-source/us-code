@@ -3,9 +3,9 @@ title: "Section 1161y - Early Federal Pell Grant Commitment Demonstration Progra
 usc_title: 20
 usc_section: "1161y"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1161y"
-generated_at: "2026-03-30T05:44:02.644Z"
+generated_at: "2026-03-30T05:47:09.421Z"
 status: "active"
 ---
 
@@ -84,7 +84,7 @@ status: "active"
       - **(iii)** State-specific postsecondary education savings programs;
       - **(iv)** State merit-based financial aid;
       - **(v)** State need-based financial aid; and
-      - **(vi)** Federal financial aid available to students, including eligibility criteria for such aid and an explanation of the Federal financial aid programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, such as the Student Guide published by the Department (or any successor to such document).
+      - **(vi)** Federal financial aid available to students, including eligibility criteria for such aid and an explanation of the Federal financial aid programs under subchapter IV, such as the Student Guide published by the Department (or any successor to such document).
   - **(3)** The information described in paragraph (2)(C) shall be provided annually to the two successive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
   - **(4)** Each State educational agency receiving a grant under this section shall reserve not more than 15 percent of the grant funds received each fiscal year to carry out the targeted information campaign described in this subsection.
 - **(g)** A State educational agency shall use grant funds received under this section only to supplement the funds that would, in the absence of such grant funds, be made available from non-Federal sources for students participating in the demonstration project under this section, and not to supplant such funds.

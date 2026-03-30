@@ -3,9 +3,9 @@ title: "Section 386 - Repealed. Pub. L. 100–647, title I , § 1006(e)(8)(A), N
 usc_title: 26
 usc_section: "386"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 386"
-generated_at: "2026-03-30T05:44:41.346Z"
+generated_at: "2026-03-30T05:47:59.728Z"
 status: "repealed"
 ---
 

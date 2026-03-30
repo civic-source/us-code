@@ -3,9 +3,9 @@ title: "Section 1101b - Authorized activities"
 usc_title: 20
 usc_section: "1101b"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1101b"
-generated_at: "2026-03-30T05:44:02.634Z"
+generated_at: "2026-03-30T05:47:09.410Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(12)** Establishing or enhancing a program of teacher education designed to qualify students to teach in public elementary schools and secondary schools.
   - **(13)** Establishing community outreach programs that will encourage elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education.
   - **(14)** Expanding the number of Hispanic and other underrepresented graduate and professional students that can be served by the institution by expanding courses and institutional resources.
-  - **(15)** Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+  - **(15)** Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV.
   - **(16)** Other activities proposed in the application submitted pursuant to section 1101c of this title that—
     - **(A)** contribute to carrying out the purposes of this subchapter; and
     - **(B)** are approved by the Secretary as part of the review and acceptance of such application.

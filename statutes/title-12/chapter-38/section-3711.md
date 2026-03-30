@@ -3,9 +3,9 @@ title: "Section 3711 - Foreclosure costs"
 usc_title: 12
 usc_section: "3711"
 chapter: 38
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 3711"
-generated_at: "2026-03-30T05:43:40.640Z"
+generated_at: "2026-03-30T05:47:03.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-30T05:44:02.607Z"
+generated_at: "2026-03-30T05:47:09.384Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(H)** provides that, no more than 6 months prior to the date on which the borrower’s first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
     - **(I)** contains such other terms and conditions, consistent with the provisions of this part and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan;
   - **(3)** the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except—
-    - **(A)** that nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted—
+    - **(A)** that nothing in this subchapter shall be interpreted—
       - **(i)** to allow the Secretary to require checks to be made copayable to the institution and the borrower; or
       - **(ii)** to prohibit the disbursement of loan proceeds by means other than by check; and
     - **(B)** in the case of any student who is studying outside the United States in a program of study abroad that is approved for credit by the home institution at which such student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney; and

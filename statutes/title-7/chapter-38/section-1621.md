@@ -3,9 +3,9 @@ title: "Section 1621 - Congressional declaration of purpose; use of existing fac
 usc_title: 7
 usc_section: "1621"
 chapter: 38
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 1621"
-generated_at: "2026-03-30T05:43:34.986Z"
+generated_at: "2026-03-30T05:46:20.182Z"
 status: "active"
 ---
 

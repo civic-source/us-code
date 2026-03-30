@@ -3,9 +3,9 @@ title: "Section 1615 - Withdrawal and selection of public lands; funds in lieu o
 usc_title: 43
 usc_section: "1615"
 chapter: 33
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "43 U.S.C. § 1615"
-generated_at: "2026-03-30T05:44:56.771Z"
+generated_at: "2026-03-30T05:48:30.853Z"
 status: "active"
 ---
 

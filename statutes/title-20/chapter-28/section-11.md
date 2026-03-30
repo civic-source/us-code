@@ -3,9 +3,9 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T05:44:02.611Z"
+generated_at: "2026-03-30T05:47:09.388Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** is not in default on a loan for which the borrower seeks forgiveness.
   - **(2)** To provide loan forgiveness under paragraph (1), the Secretary is authorized to carry out a program—
     - **(A)** through the holder of the loan, to assume the obligation to repay a qualified loan amount for a loan made, insured, or guaranteed under this part (other than an excepted PLUS loan or an excepted consolidation loan (as such terms are defined in section 1098e(a) of this title )); and
-    - **(B)** to cancel a qualified loan amount for a loan made under part C of this subchapter (other than an excepted PLUS loan or an excepted consolidation loan).
+    - **(B)** to cancel a qualified loan amount for a loan made under part D of this subchapter (other than an excepted PLUS loan or an excepted consolidation loan).
   - **(3)** The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
 - **(b)** For purposes of this section, an individual is employed in an area of national need if the individual meets the requirements of one of the following:
   - **(1)** The individual is employed full-time as an early childhood educator.

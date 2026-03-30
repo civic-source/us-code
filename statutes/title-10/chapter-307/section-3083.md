@@ -3,9 +3,9 @@ title: "Section 3083 - Public Affairs Specialty"
 usc_title: 10
 usc_section: "3083"
 chapter: 307
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 3083"
-generated_at: "2026-03-30T05:43:26.685Z"
+generated_at: "2026-03-30T05:46:47.754Z"
 status: "active"
 ---
 

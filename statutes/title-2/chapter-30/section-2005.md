@@ -3,9 +3,9 @@ title: "Section 2005 - Vacant rooms; assignment to Representatives"
 usc_title: 2
 usc_section: "2005"
 chapter: 30
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 2005"
-generated_at: "2026-03-30T05:43:14.016Z"
+generated_at: "2026-03-30T05:46:13.911Z"
 status: "active"
 ---
 

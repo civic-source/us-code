@@ -3,9 +3,9 @@ title: "Section 653 - Federal Parent Locator Service"
 usc_title: 42
 usc_section: "653"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 653"
-generated_at: "2026-03-30T05:45:31.503Z"
+generated_at: "2026-03-30T05:48:46.771Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
   - **(5)** The Secretary may provide access to data in each component of the Federal Parent Locator Service maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A of this subchapter or this part, but without personal identifiers.
   - **(6)**
     - **(A)** The Secretary of Education shall furnish to the Secretary, on a quarterly basis or at such less frequent intervals as may be determined by the Secretary of Education, information in the custody of the Secretary of Education for comparison with information in the National Directory of New Hires, in order to obtain the information in such directory with respect to individuals who—
-      - **(i)** are borrowers of loans made under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.] that are in default; or
+      - **(i)** are borrowers of loans made under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.] that are in default; or
       - **(ii)** owe an obligation to refund an overpayment of a grant awarded under such title.
     - **(B)** The Secretary of Education shall seek information pursuant to this section only to the extent essential to improving collection of the debt described in subparagraph (A).
     - **(C)**
@@ -88,7 +88,7 @@ status: "active"
         - **(II)** a contractor or agent of the guaranty agency described in subclause (I);
         - **(III)** a contractor or agent of the Secretary; and
         - **(IV)** the Attorney General.
-      - **(ii)** The Secretary of Education may make a disclosure under clause (i) only for the purpose of collection of the debts owed on defaulted student loans, or overpayments of grants, made under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.].
+      - **(ii)** The Secretary of Education may make a disclosure under clause (i) only for the purpose of collection of the debts owed on defaulted student loans, or overpayments of grants, made under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].
       - **(iii)** An entity to which information is disclosed under clause (i) may use or disclose such information only as needed for the purpose of collecting on defaulted student loans, or overpayments of grants, made under title IV of the Higher Education Act of 1965.
     - **(F)** The Secretary of Education shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the additional costs incurred by the Secretary in furnishing the information requested under this subparagraph.
   - **(7)**

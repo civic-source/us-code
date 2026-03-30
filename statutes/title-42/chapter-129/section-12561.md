@@ -3,9 +3,9 @@ title: "Section 12561 - Higher education innovative programs for community servi
 usc_title: 42
 usc_section: "12561"
 chapter: 129
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 12561"
-generated_at: "2026-03-30T05:45:32.029Z"
+generated_at: "2026-03-30T05:48:47.219Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** including service-learning as a component of other curricula or academic programs (other than education curricula or programs), such as curricula or programs relating to nursing, medicine, criminal justice, or public policy; and
     - **(C)** encouraging the faculty of the institution to use service-learning methods throughout their curriculum;
   - **(4)** facilitating the integration of community service carried out under the program into academic curricula, including integration of clinical programs into the curriculum for students in professional schools, so that students can obtain credit for their community service projects;
-  - **(5)** supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) to support service-learning and community service through the community service program;
+  - **(5)** supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) 1 1 See References in Text note below. to support service-learning and community service through the community service program;
   - **(6)** strengthening the service infrastructure within institutions of higher education in the United States through the program; and
   - **(7)** providing for the training of teachers, prospective teachers, related education personnel, and community leaders in the skills necessary to develop, supervise, and organize service-learning.
 - **(c)**
@@ -70,6 +70,6 @@ status: "active"
   - **(8)** specify that the institution or partnership will use the assistance provided through the grant or contract to strengthen the service infrastructure in institutions of higher education;
   - **(9)** with respect to projects involving delivery of services, specify projects that involve leadership development of school-age youth; or
   - **(10)** describe the needs that the proposed projects are designed to address, such as housing, economic development, infrastructure, health care, job training, education, crime prevention, urban planning, transportation, information technology, or child welfare.
-- **(g)** To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 ( 42 U.S.C. 2753(b)(2)(A) ) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) (relating to Federal Work-Study 1 1 So in original. Probably should not be capitalized. programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
+- **(g)** To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 ( 42 U.S.C. 2753(b)(2)(A) ) 1 relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.) 1 (relating to Federal Work-Study 2 2 So in original. Probably should not be capitalized. programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
 - **(h)** Notwithstanding section 12511 of this title , as used in this part, the term “student” means an individual who is enrolled in an institution of higher education on a full- or part-time basis.
 - **(i)** A participant in a program funded under this part shall be eligible for the national service educational award described in division D, if the participant served in an approved national service position.

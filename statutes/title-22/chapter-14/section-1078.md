@@ -3,9 +3,9 @@ title: "Section 1078 - Repealed. Pub. L. 96–465, title II , § 2205(12), Oct. 
 usc_title: 22
 usc_section: "1078"
 chapter: 14
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 1078"
-generated_at: "2026-03-30T05:44:32.121Z"
+generated_at: "2026-03-30T05:47:39.333Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Examinations and sanctions for certain violations"
 usc_title: 12
 usc_section: "17"
 chapter: 13
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 17"
-generated_at: "2026-03-30T05:43:40.581Z"
+generated_at: "2026-03-30T05:47:03.104Z"
 status: "active"
 ---
 

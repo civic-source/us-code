@@ -3,9 +3,9 @@ title: "Section 5383 - Setting individual senior executive pay"
 usc_title: 5
 usc_section: "5383"
 chapter: 53
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "5 U.S.C. § 5383"
-generated_at: "2026-03-30T05:43:17.352Z"
+generated_at: "2026-03-30T05:45:59.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5901 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5901"
 chapter: 79
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 5901"
-generated_at: "2026-03-30T05:43:59.187Z"
+generated_at: "2026-03-30T05:47:33.965Z"
 status: "repealed"
 ---
 

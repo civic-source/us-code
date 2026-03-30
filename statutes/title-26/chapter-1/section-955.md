@@ -3,9 +3,9 @@ title: "Section 955 - Withdrawal of previously excluded subpart F income from qu
 usc_title: 26
 usc_section: "955"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 955"
-generated_at: "2026-03-30T05:44:41.411Z"
+generated_at: "2026-03-30T05:47:59.795Z"
 status: "active"
 ---
 

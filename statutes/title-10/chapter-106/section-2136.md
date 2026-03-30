@@ -3,9 +3,9 @@ title: "Section 2136 - Renumbered § 16136]"
 usc_title: 10
 usc_section: "2136"
 chapter: 106
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 2136"
-generated_at: "2026-03-30T05:43:26.647Z"
+generated_at: "2026-03-30T05:46:47.712Z"
 status: "renumbered"
 ---
 

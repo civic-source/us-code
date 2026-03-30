@@ -3,9 +3,9 @@ title: "Section 5408 - Remedies and penalties"
 usc_title: 15
 usc_section: "5408"
 chapter: 80
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 5408"
-generated_at: "2026-03-30T05:43:52.007Z"
+generated_at: "2026-03-30T05:46:56.229Z"
 status: "active"
 ---
 

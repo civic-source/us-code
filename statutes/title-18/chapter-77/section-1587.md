@@ -3,9 +3,9 @@ title: "Section 1587 - Possession of slaves aboard vessel"
 usc_title: 18
 usc_section: "1587"
 chapter: 77
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 1587"
-generated_at: "2026-03-30T05:43:55.993Z"
+generated_at: "2026-03-30T05:47:06.626Z"
 status: "active"
 ---
 

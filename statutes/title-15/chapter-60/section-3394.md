@@ -3,9 +3,9 @@ title: "Section 3394 - Limitation on revoking or amending certain pre-1969 certi
 usc_title: 15
 usc_section: "3394"
 chapter: 60
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 3394"
-generated_at: "2026-03-30T05:43:51.995Z"
+generated_at: "2026-03-30T05:46:56.216Z"
 status: "active"
 ---
 

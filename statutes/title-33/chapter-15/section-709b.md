@@ -3,9 +3,9 @@ title: "Section 709b - Flood hazard information"
 usc_title: 33
 usc_section: "709b"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "33 U.S.C. § 709b"
-generated_at: "2026-03-30T05:44:46.450Z"
+generated_at: "2026-03-30T05:48:03.001Z"
 status: "active"
 ---
 

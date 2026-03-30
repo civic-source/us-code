@@ -3,9 +3,9 @@ title: "Section 4914 - Marking and recordkeeping"
 usc_title: 16
 usc_section: "4914"
 chapter: 69
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 4914"
-generated_at: "2026-03-30T05:43:59.183Z"
+generated_at: "2026-03-30T05:47:33.962Z"
 status: "active"
 ---
 

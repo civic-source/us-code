@@ -3,9 +3,9 @@ title: "Section 1751 - Study of the feasibility of a North American National Sec
 usc_title: 8
 usc_section: "1751"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "8 U.S.C. § 1751"
-generated_at: "2026-03-30T05:43:22.196Z"
+generated_at: "2026-03-30T05:46:16.848Z"
 status: "active"
 ---
 

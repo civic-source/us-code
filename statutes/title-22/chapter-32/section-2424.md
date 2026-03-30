@@ -3,9 +3,9 @@ title: "Section 2424 - Repealed. Pub. L. 95–88, title I , § 123(c), Aug. 3, 1
 usc_title: 22
 usc_section: "2424"
 chapter: 32
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 2424"
-generated_at: "2026-03-30T05:44:32.153Z"
+generated_at: "2026-03-30T05:47:39.364Z"
 status: "repealed"
 ---
 

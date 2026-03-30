@@ -3,9 +3,9 @@ title: "Section 5412 - Noncompliance with standards or defective nature of manuf
 usc_title: 42
 usc_section: "5412"
 chapter: 70
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 5412"
-generated_at: "2026-03-30T05:45:31.847Z"
+generated_at: "2026-03-30T05:48:47.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15977 - Department of Energy transportation fuels from Illinois 
 usc_title: 42
 usc_section: "15977"
 chapter: 149
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 15977"
-generated_at: "2026-03-30T05:45:32.097Z"
+generated_at: "2026-03-30T05:48:47.281Z"
 status: "active"
 ---
 

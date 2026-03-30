@@ -3,9 +3,9 @@ title: "Section 1087c - Selection of institutions for participation and originat
 usc_title: 20
 usc_section: "1087c"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087c"
-generated_at: "2026-03-30T05:44:02.618Z"
+generated_at: "2026-03-30T05:47:09.395Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(B)** desires to originate loans under this part; and
     - **(C)** meets the criteria described in paragraph (2).
   - **(2)** The Secretary may approve an institution to originate loans only if such institution—
-    - **(A)** is not on the reimbursement system of payment for any of the programs under subpart 1 or 3 of part A of this subchapter, part C of subchapter I of chapter 34 of title 42, or part D of this subchapter;
+    - **(A)** is not on the reimbursement system of payment for any of the programs under subpart 1 or 3 of part A, part C, or part E of this subchapter;
     - **(B)** is not overdue on program or financial reports or audits required under this subchapter;
     - **(C)** is not subject to an emergency action, or a limitation, suspension, or termination under section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
     - **(D)** in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;

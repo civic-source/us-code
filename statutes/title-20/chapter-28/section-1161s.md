@@ -3,9 +3,9 @@ title: "Section 1161s - Program to promote training and job placement of realtim
 usc_title: 20
 usc_section: "1161s"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1161s"
-generated_at: "2026-03-30T05:44:02.643Z"
+generated_at: "2026-03-30T05:47:09.419Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** For purposes of this section, an eligible entity is a court reporting program that—
     - **(A)** has a curriculum capable of training realtime writers qualified to provide captioning services;
     - **(B)** is accredited by an accrediting agency or association recognized by the Secretary; and
-    - **(C)** is participating in student aid programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+    - **(C)** is participating in student aid programs under subchapter IV.
   - **(3)** In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
     - **(A)** possess the most substantial capability to increase their capacity to train realtime writers;
     - **(B)** demonstrate the most promising collaboration with educational institutions, businesses, labor organizations, or other community groups having the potential to train or provide job placement assistance to realtime writers; or
@@ -43,7 +43,7 @@ status: "active"
     - **(F)** encouraging individuals with disabilities to pursue a career in realtime writing; and
     - **(G)** the employment and payment of personnel for the purposes described in this paragraph.
   - **(2)**
-    - **(A)** The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part E of subchapter IV.
+    - **(A)** The amount of a scholarship under paragraph (1)(B) shall be based on the amount of need of the scholarship recipient for financial assistance, as determined in accordance with part F of subchapter IV.
     - **(B)** Each recipient of a scholarship under paragraph (1)(B) shall enter into an agreement with the school in which the recipient is enrolled to provide realtime writing services for the purposes described in subsection (a)(1) for a period of time appropriate (as determined by the Secretary) for the amount of the scholarship received.
     - **(C)** The Secretary shall establish requirements for coursework and employment for recipients of scholarships under paragraph (1)(B), including requirements for repayment of scholarship amounts in the event of failure to meet such requirements for coursework and employment. The Secretary may waive, in whole or in part, the requirements for repayment of scholarship amounts on the basis of economic conditions which may affect the ability of scholarship recipients to find work as realtime writers.
   - **(3)** The recipient of a grant under this section may not use more than five percent of the grant amount to pay administrative costs associated with activities funded by the grant. The Secretary shall use not more than five percent of the amount available for grants under this section in any fiscal year for administrative costs of the program.

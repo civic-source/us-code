@@ -3,9 +3,9 @@ title: "Section 2602 - Reports in connection with permanent closures of Departme
 usc_title: 50
 usc_section: "2602"
 chapter: 42
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 2602"
-generated_at: "2026-03-30T05:45:37.431Z"
+generated_at: "2026-03-30T05:48:52.360Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1381 - Enticing desertion and harboring deserters"
 usc_title: 18
 usc_section: "1381"
 chapter: 67
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 1381"
-generated_at: "2026-03-30T05:43:55.991Z"
+generated_at: "2026-03-30T05:47:06.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14214 - Flexibility in making of appropriations"
 usc_title: 42
 usc_section: "14214"
 chapter: 136
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 14214"
-generated_at: "2026-03-30T05:45:32.080Z"
+generated_at: "2026-03-30T05:48:47.265Z"
 status: "active"
 ---
 

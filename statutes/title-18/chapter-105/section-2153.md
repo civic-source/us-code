@@ -3,9 +3,9 @@ title: "Section 2153 - Destruction of war material, war premises, or war utiliti
 usc_title: 18
 usc_section: "2153"
 chapter: 105
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 2153"
-generated_at: "2026-03-30T05:43:56.000Z"
+generated_at: "2026-03-30T05:47:06.633Z"
 status: "active"
 ---
 

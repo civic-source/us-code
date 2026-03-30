@@ -3,80 +3,80 @@ title: "Section 1091b - Institutional refunds"
 usc_title: 20
 usc_section: "1091b"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1091b"
-generated_at: "2026-03-30T05:44:02.627Z"
+generated_at: "2026-03-30T05:47:09.403Z"
 status: "active"
 ---
 
 # § 1091b. Institutional refunds
 
 - **(a)**
-  - **(1)** If a recipient of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 withdraws from an institution during a payment period or period of enrollment in which the recipient began attendance, the amount of grant or loan assistance (other than assistance received under part C of subchapter I of chapter 34 of title 42) to be returned to the title IV programs is calculated according to paragraph (3) and returned in accordance with subsection (b).
+  - **(1)** If a recipient of assistance under this subchapter withdraws from an institution during a payment period or period of enrollment in which the recipient began attendance, the amount of grant or loan assistance (other than assistance received under part C) to be returned to the subchapter IV programs is calculated according to paragraph (3) and returned in accordance with subsection (b).
   - **(2)**
-    - **(A)** In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
+    - **(A)** In the case of a student who takes 1 or more leaves of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter that is to be returned in accordance with this section if—
       - **(i)** the institution has a formal policy regarding leaves of absence;
       - **(ii)** the student followed the institution’s policy in requesting a leave of absence; and
       - **(iii)** the institution approved the student’s request in accordance with the institution’s policy.
-    - **(B)** If a student does not return to the institution at the expiration of an approved leave of absence that meets the requirements of subparagraph (A), the institution shall calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section based on the day the student withdrew (as determined under subsection (c)).
+    - **(B)** If a student does not return to the institution at the expiration of an approved leave of absence that meets the requirements of subparagraph (A), the institution shall calculate the amount of grant and loan assistance provided under this subchapter that is to be returned in accordance with this section based on the day the student withdrew (as determined under subsection (c)).
   - **(3)**
-    - **(A)** The amount of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that is earned by the recipient for purposes of this section is calculated by—
-      - **(i)** determining the percentage of grant and loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student, as described in subparagraph (B); and
+    - **(A)** The amount of grant or loan assistance under this subchapter that is earned by the recipient for purposes of this section is calculated by—
+      - **(i)** determining the percentage of grant and loan assistance under this subchapter that has been earned by the student, as described in subparagraph (B); and
       - **(ii)** applying such percentage to the total amount of such grant and loan assistance that was disbursed (and that could have been disbursed) to the student, or on the student’s behalf, for the payment period or period of enrollment for which the assistance was awarded, as of the day the student withdrew.
-    - **(B)** For purposes of subparagraph (A)(i), the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student is—
+    - **(B)** For purposes of subparagraph (A)(i), the percentage of grant or loan assistance under this subchapter that has been earned by the student is—
       - **(i)** equal to the percentage of the payment period or period of enrollment for which assistance was awarded that was completed (as determined in accordance with subsection (d)) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
       - **(ii)** 100 percent, if the day the student withdrew occurs after the student has completed (as determined in accordance with subsection (d)) 60 percent of the payment period or period of enrollment.
-    - **(C)** For purposes of subsection (b), the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student shall be calculated by—
-      - **(i)** determining the complement of the percentage of grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D, that has been earned by the student described in subparagraph (B); and
+    - **(C)** For purposes of subsection (b), the amount of grant and loan assistance awarded under this subchapter that has not been earned by the student shall be calculated by—
+      - **(i)** determining the complement of the percentage of grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, D, and E, that has been earned by the student described in subparagraph (B); and
       - **(ii)** applying the percentage determined under clause (i) to the total amount of such grant and loan assistance that was disbursed (and that could have been disbursed) to the student, or on the student’s behalf, for the payment period or period of enrollment, as of the day the student withdrew.
   - **(4)**
     - **(A)** After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower’s obligation to repay the funds following any such disbursement. The institution shall document in the borrower’s file the result of such contact and the final determination made concerning such disbursement.
-    - **(B)** If the student has received more grant or loan assistance than the amount earned as calculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b), to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3).
+    - **(B)** If the student has received more grant or loan assistance than the amount earned as calculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b), to the programs under this subchapter in the order specified in subsection (b)(3).
 - **(b)**
   - **(1)** The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
-    - **(A)** the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C); or
+    - **(A)** the amount of grant and loan assistance awarded under this subchapter that has not been earned by the student, as calculated under subsection (a)(3)(C); or
     - **(B)** an amount equal to—
       - **(i)** the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
-      - **(ii)** the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i).
+      - **(ii)** the percentage of grant and loan assistance awarded under this subchapter that has not been earned by the student, as described in subsection (a)(3)(C)(i).
   - **(2)**
     - **(A)** The student shall return assistance that has not been earned by the student as described in subsection (a)(3)(C)(ii) in the order specified in paragraph (3) minus the amount the institution is required to return under paragraph (1).
-    - **(B)** The student (or parent in the case of funds due to a loan borrowed by a parent under part B or C) shall return or repay, as appropriate, the amount determined under subparagraph (A) to—
-      - **(i)** a loan program under this subchapter and part C of subchapter I of chapter 34 of title 42 in accordance with the terms of the loan; and
-      - **(ii)** a grant program under this subchapter and part C of subchapter I of chapter 34 of title 42, as an overpayment of such grant and shall be subject to—
+    - **(B)** The student (or parent in the case of funds due to a loan borrowed by a parent under part B or D) shall return or repay, as appropriate, the amount determined under subparagraph (A) to—
+      - **(i)** a loan program under this subchapter in accordance with the terms of the loan; and
+      - **(ii)** a grant program under this subchapter, as an overpayment of such grant and shall be subject to—
         - **(I)** repayment arrangements satisfactory to the institution; or
         - **(II)** overpayment collection procedures prescribed by the Secretary.
     - **(C)**
       - **(i)** Notwithstanding subparagraphs (A) and (B), a student shall only be required to return grant assistance in the amount (if any) by which—
         - **(I)** the amount to be returned by the student (as determined under subparagraphs (A) and (B)), exceeds
-        - **(II)** 50 percent of the total grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42 for the payment period or period of enrollment.
+        - **(II)** 50 percent of the total grant assistance received by the student under this subchapter for the payment period or period of enrollment.
       - **(ii)** A student shall not be required to return amounts of $50 or less.
     - **(D)** The Secretary may waive the amounts that students are required to return under this section with respect to Federal Pell Grants if the withdrawals on which the returns are based are withdrawals by students—
       - **(i)** who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42 ;
       - **(ii)** whose attendance was interrupted because of the impact of the disaster on the student or the institution; and
       - **(iii)** whose withdrawal ended within the academic year during which the designation occurred or during the next succeeding academic year.
-    - **(E)** In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
+    - **(E)** In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter if the withdrawals on which the returns are based are withdrawals by students—
       - **(i)** who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42 ;
       - **(ii)** whose attendance was interrupted because of the impact of the disaster on the student or the institution; and
       - **(iii)** whose withdrawal ended within the academic year during which the designation occurred or during the next succeeding academic year.
   - **(3)**
-    - **(A)** Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+    - **(A)** Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
       - **(i)** To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
       - **(ii)** To outstanding balances on loans made under section 1078 of this title for the payment period or period of enrollment for which a return of funds is required.
-      - **(iii)** To outstanding balances on unsubsidized loans (other than parent loans) made under part C for the payment period or period of enrollment for which a return of funds is required.
-      - **(iv)** To outstanding balances on subsidized loans made under part C for the payment period or period of enrollment for which a return of funds is required.
-      - **(v)** To outstanding balances on loans made under part D for the payment period or period of enrollment for which a return of funds is required.
+      - **(iii)** To outstanding balances on unsubsidized loans (other than parent loans) made under part D for the payment period or period of enrollment for which a return of funds is required.
+      - **(iv)** To outstanding balances on subsidized loans made under part D for the payment period or period of enrollment for which a return of funds is required.
+      - **(v)** To outstanding balances on loans made under part E for the payment period or period of enrollment for which a return of funds is required.
       - **(vi)** To outstanding balances on loans made under section 1078–2 of this title for the payment period or period of enrollment for which a return of funds is required.
-      - **(vii)** To outstanding balances on parent loans made under part C for the payment period or period of enrollment for which a return of funds is required.
+      - **(vii)** To outstanding balances on parent loans made under part D for the payment period or period of enrollment for which a return of funds is required.
     - **(B)** If excess funds remain after repaying all outstanding loan amounts, the remaining excess shall be credited in the following order:
       - **(i)** To awards under subpart 1 of part A for the payment period or period of enrollment for which a return of funds is required.
       - **(ii)** To awards under subpart 3 of part A for the payment period or period of enrollment for which a return of funds is required.
-      - **(iii)** To other assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 for which a return of funds is required.
+      - **(iii)** To other assistance awarded under this subchapter for which a return of funds is required.
 - **(c)**
   - **(1)** In this section, the term “day the student withdrew”—
     - **(A)** is the date that the institution determines—
       - **(i)** the student began the withdrawal process prescribed by the institution;
       - **(ii)** the student otherwise provided official notification to the institution of the intent to withdraw; or
-      - **(iii)** in the case of a student who does not begin the withdrawal process or otherwise notify the institution of the intent to withdraw, the date that is the mid-point of the payment period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 was disbursed or a later date documented by the institution; or
+      - **(iii)** in the case of a student who does not begin the withdrawal process or otherwise notify the institution of the intent to withdraw, the date that is the mid-point of the payment period for which assistance under this subchapter was disbursed or a later date documented by the institution; or
     - **(B)** for institutions required to take attendance, is determined by the institution from such attendance records.
   - **(2)** Notwithstanding paragraph (1), if the institution determines that a student did not begin the withdrawal process, or otherwise notify the institution of the intent to withdraw, due to illness, accident, grievous personal loss, or other such circumstances beyond the student’s control, the institution may determine the appropriate withdrawal date.
 - **(d)** For purposes of subsection (a)(3)(B), the percentage of the payment period or period of enrollment for which assistance was awarded that was completed, is determined—

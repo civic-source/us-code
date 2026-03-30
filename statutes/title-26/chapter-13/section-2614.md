@@ -3,9 +3,9 @@ title: "Section 2614 - Omitted]"
 usc_title: 26
 usc_section: "2614"
 chapter: 13
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 2614"
-generated_at: "2026-03-30T05:44:41.446Z"
+generated_at: "2026-03-30T05:47:59.830Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1087d - Agreements with institutions"
 usc_title: 20
 usc_section: "1087d"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087d"
-generated_at: "2026-03-30T05:44:02.618Z"
+generated_at: "2026-03-30T05:47:09.395Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** An agreement with any institution of higher education for participation in the direct student loan program under this part shall—
   - **(1)** provide for the establishment and maintenance of a direct student loan program at the institution under which the institution will—
     - **(A)** identify eligible students who seek student financial assistance at such institution in accordance with section 1091 of this title ;
-    - **(B)** estimate the need of each such student as required by part E of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
-    - **(C)** provide a statement that certifies the eligibility of any student to receive a loan under this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student’s determination of need (as determined under part E of this subchapter), if the reason for such action is documented and provided in written form to such student;
+    - **(B)** estimate the need of each such student as required by part F of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
+    - **(C)** provide a statement that certifies the eligibility of any student to receive a loan under this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student’s determination of need (as determined under part F of this subchapter), if the reason for such action is documented and provided in written form to such student;
     - **(D)** set forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078–7 of this title ; and
     - **(E)** provide timely and accurate information—
       - **(i)** concerning the status of student borrowers (and students on whose behalf parents borrow under this part) while such students are in attendance at the institution and concerning any new information of which the institution becomes aware for such students (or their parents) after such borrowers leave the institution, to the Secretary for the servicing and collecting of loans made under this part; and

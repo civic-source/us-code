@@ -3,16 +3,16 @@ title: "Section 1098bb - Waiver authority for response to military contingencies
 usc_title: 20
 usc_section: "1098bb"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1098bb"
-generated_at: "2026-03-30T05:44:02.632Z"
+generated_at: "2026-03-30T05:47:09.408Z"
 status: "active"
 ---
 
 # § 1098bb. Waiver authority for response to military contingencies and national emergencies
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+  - **(1)** Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act [ 20 U.S.C. 1070 et seq.] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
   - **(2)** The Secretary is authorized to waive or modify any provision described in paragraph (1) as may be necessary to ensure that—
     - **(A)** recipients of student financial assistance under title IV of the Act who are affected individuals are not placed in a worse position financially in relation to that financial assistance because of their status as affected individuals;
     - **(B)** administrative requirements placed on affected individuals who are recipients of student financial assistance are minimized, to the extent possible without impairing the integrity of the student financial assistance programs, to ease the burden on such students and avoid inadvertent, technical violations or defaults;
@@ -23,5 +23,5 @@ status: "active"
   - **(1)** Notwithstanding section 1232 of this title and section 553 of title 5 , the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
   - **(2)** The notice under paragraph (1) shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions.
   - **(3)** The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
-- **(c)** The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.], and the basis for such determination, and include in such report the Secretary’s recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+- **(c)** The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act [ 20 U.S.C. 1070 et seq.], and the basis for such determination, and include in such report the Secretary’s recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 - **(d)** Sections 482(c) and 492 of the Higher Education Act of 1965 ( 20 U.S.C. 1089(c) , 1098a) shall not apply to the waivers and modifications authorized or required by this part.

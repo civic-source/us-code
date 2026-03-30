@@ -3,9 +3,9 @@ title: "Section 3533 - Corps of Engineers: assignment or transfer of officers to
 usc_title: 10
 usc_section: "3533"
 chapter: 343
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 3533"
-generated_at: "2026-03-30T05:43:26.685Z"
+generated_at: "2026-03-30T05:46:47.754Z"
 status: "active"
 ---
 

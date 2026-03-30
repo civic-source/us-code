@@ -3,9 +3,9 @@ title: "Section 1603 - Exempted transactions"
 usc_title: 15
 usc_section: "1603"
 chapter: 41
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "15 U.S.C. § 1603"
-generated_at: "2026-03-30T05:43:51.951Z"
+generated_at: "2026-03-30T05:46:56.169Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ This subchapter does not apply to the following:
   - **(4)** Transactions under public utility tariffs, if the Bureau determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
   - **(5)** Transactions for which the Bureau, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
   - **(6)** Repealed. Pub. L. 96–221, title VI , § 603(c)(3), Mar. 31, 1980 , 94 Stat. 169 .
-  - **(7)** Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.].
+  - **(7)** Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].

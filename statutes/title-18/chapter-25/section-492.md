@@ -3,9 +3,9 @@ title: "Section 492 - Forfeiture of counterfeit paraphernalia"
 usc_title: 18
 usc_section: "492"
 chapter: 25
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 492"
-generated_at: "2026-03-30T05:43:55.976Z"
+generated_at: "2026-03-30T05:47:06.606Z"
 status: "active"
 ---
 

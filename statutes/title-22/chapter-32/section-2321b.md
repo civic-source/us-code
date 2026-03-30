@@ -3,9 +3,9 @@ title: "Section 2321b - Excess defense article"
 usc_title: 22
 usc_section: "2321b"
 chapter: 32
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 2321b"
-generated_at: "2026-03-30T05:44:32.145Z"
+generated_at: "2026-03-30T05:47:39.357Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 323 - Racial discrimination by colleges restricted"
 usc_title: 7
 usc_section: "323"
 chapter: 13
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 323"
-generated_at: "2026-03-30T05:43:34.950Z"
+generated_at: "2026-03-30T05:46:20.136Z"
 status: "active"
 ---
 

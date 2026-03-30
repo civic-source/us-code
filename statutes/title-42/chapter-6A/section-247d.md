@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-30T05:45:31.357Z"
+generated_at: "2026-03-30T05:48:46.633Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6957a - Exchange program with foreign military academies"
 usc_title: 10
 usc_section: "6957a"
 chapter: 603
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 6957a"
-generated_at: "2026-03-30T05:43:26.697Z"
+generated_at: "2026-03-30T05:46:47.767Z"
 status: "active"
 ---
 

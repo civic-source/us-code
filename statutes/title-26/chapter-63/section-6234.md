@@ -3,9 +3,9 @@ title: "Section 6234 - Declaratory judgment relating to treatment of items other
 usc_title: 26
 usc_section: "6234"
 chapter: 63
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 6234"
-generated_at: "2026-03-30T05:44:41.497Z"
+generated_at: "2026-03-30T05:47:59.882Z"
 status: "active"
 ---
 

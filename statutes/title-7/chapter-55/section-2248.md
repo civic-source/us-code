@@ -3,9 +3,9 @@ title: "Section 2248 - Statistics relating to turpentine and rosin"
 usc_title: 7
 usc_section: "2248"
 chapter: 55
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 2248"
-generated_at: "2026-03-30T05:43:35.023Z"
+generated_at: "2026-03-30T05:46:20.228Z"
 status: "active"
 ---
 

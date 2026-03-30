@@ -3,9 +3,9 @@ title: "Section 695b - Applicability of certain statutes"
 usc_title: 16
 usc_section: "695b"
 chapter: 6
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 695b"
-generated_at: "2026-03-30T05:43:59.081Z"
+generated_at: "2026-03-30T05:47:33.863Z"
 status: "active"
 ---
 

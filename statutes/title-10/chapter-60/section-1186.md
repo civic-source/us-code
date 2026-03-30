@@ -3,9 +3,9 @@ title: "Section 1186 - Officer considered for removal: voluntary retirement or d
 usc_title: 10
 usc_section: "1186"
 chapter: 60
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 1186"
-generated_at: "2026-03-30T05:43:26.629Z"
+generated_at: "2026-03-30T05:46:47.690Z"
 status: "active"
 ---
 

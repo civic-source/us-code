@@ -3,9 +3,9 @@ title: "Section 1101a - Definitions; eligibility"
 usc_title: 20
 usc_section: "1101a"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1101a"
-generated_at: "2026-03-30T05:44:02.634Z"
+generated_at: "2026-03-30T05:47:09.410Z"
 status: "active"
 ---
 
@@ -39,5 +39,5 @@ status: "active"
       - **(i)** provides an educational program of not less than 2 years in duration that is acceptable for full credit toward such a degree; or
       - **(ii)** offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 - **(b)** For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—
-  - **(1)** at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title ); or
+  - **(1)** at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title ); or
   - **(2)** a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which the determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title .

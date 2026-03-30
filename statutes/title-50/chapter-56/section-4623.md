@@ -3,9 +3,9 @@ title: "Section 4623 - Savings provisions"
 usc_title: 50
 usc_section: "4623"
 chapter: 56
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4623"
-generated_at: "2026-03-30T05:45:37.479Z"
+generated_at: "2026-03-30T05:48:52.400Z"
 status: "active"
 ---
 

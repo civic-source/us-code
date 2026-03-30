@@ -3,9 +3,9 @@ title: "Section 4605 - Foreign policy controls"
 usc_title: 50
 usc_section: "4605"
 chapter: 56
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4605"
-generated_at: "2026-03-30T05:45:37.474Z"
+generated_at: "2026-03-30T05:48:52.397Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 701 - Findings"
 usc_title: 36
 usc_section: "701"
 chapter: 7
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "36 U.S.C. § 701"
-generated_at: "2026-03-30T05:44:48.870Z"
+generated_at: "2026-03-30T05:48:19.563Z"
 status: "active"
 ---
 

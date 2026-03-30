@@ -3,16 +3,16 @@ title: "Section 1022d - Accountability for programs that prepare teachers"
 usc_title: 20
 usc_section: "1022d"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1022d"
-generated_at: "2026-03-30T05:44:02.594Z"
+generated_at: "2026-03-30T05:47:09.372Z"
 status: "active"
 ---
 
 # § 1022d. Accountability for programs that prepare teachers
 
 - **(a)**
-  - **(1)** Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter and part C of subchapter I of chapter 34 of title 42 shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
+  - **(1)** Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
     - **(A)**
       - **(i)** For the most recent year for which the information is available for the institution—
         - **(I)** whether the goals set under section 1022e of this title have been met; and
@@ -40,7 +40,7 @@ status: "active"
   - **(3)** The Secretary may impose a fine not to exceed $27,500 on an institution of higher education for failure to provide the information described in this subsection in a timely or accurate manner.
   - **(4)** In the case of an institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and has fewer than 10 scores reported on any single initial teacher certification or licensure assessment during an academic year, the institution shall collect and publish information, as required under paragraph (1)(B), with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
 - **(b)**
-  - **(1)** Each State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42 shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
+  - **(1)** Each State that receives funds under this chapter shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
     - **(A)** A description of the reliability and validity of the teacher certification and licensure assessments, and any other certification and licensure requirements, used by the State.
     - **(B)** The standards and criteria that prospective teachers must meet to attain initial teacher certification or licensure and to be certified or licensed to teach particular academic subjects, areas, or grades within the State.
     - **(C)** A description of how the assessments and requirements described in subparagraph (A) are aligned with the challenging State academic standards required under section 6311(b)(1) of this title and, as applicable, State early learning standards for early childhood education programs.

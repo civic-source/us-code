@@ -3,9 +3,9 @@ title: "Section 1135b - Criteria for applications"
 usc_title: 20
 usc_section: "1135b"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1135b"
-generated_at: "2026-03-30T05:44:02.636Z"
+generated_at: "2026-03-30T05:47:09.413Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** set forth policies and procedures to assure that, in making fellowship awards under this subpart, the institution will seek talented students from traditionally underrepresented backgrounds, as determined by the Secretary;
   - **(4)** describe the number, types, and amounts of the fellowships that the applicant intends to offer with grant funds provided under this part;
   - **(5)** set forth policies and procedures to assure that, in making fellowship awards under this subpart, the institution will make awards to individuals who—
-    - **(A)** have financial need, as determined under part E of subchapter IV;
+    - **(A)** have financial need, as determined under part F of subchapter IV;
     - **(B)** have excellent academic records in their previous programs of study; and
     - **(C)** plan to pursue the highest possible degree available in their course of study at the institution;
   - **(6)** set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;

@@ -3,9 +3,9 @@ title: "Section 1565 - Cartage"
 usc_title: 19
 usc_section: "1565"
 chapter: 4
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "19 U.S.C. § 1565"
-generated_at: "2026-03-30T05:44:17.833Z"
+generated_at: "2026-03-30T05:47:25.971Z"
 status: "active"
 ---
 

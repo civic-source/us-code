@@ -3,9 +3,9 @@ title: "Section 1680p - Annual budget submission"
 usc_title: 25
 usc_section: "1680p"
 chapter: 18
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 1680p"
-generated_at: "2026-03-30T05:44:21.445Z"
+generated_at: "2026-03-30T05:47:37.034Z"
 status: "active"
 ---
 

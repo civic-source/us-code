@@ -3,9 +3,9 @@ title: "Section 972 - Omitted"
 usc_title: 25
 usc_section: "972"
 chapter: 14
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 972"
-generated_at: "2026-03-30T05:44:21.431Z"
+generated_at: "2026-03-30T05:47:37.021Z"
 status: "omitted"
 ---
 

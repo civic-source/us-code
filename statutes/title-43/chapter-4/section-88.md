@@ -3,9 +3,9 @@ title: "Section 88 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 43
 usc_section: "88"
 chapter: 4
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "43 U.S.C. § 88"
-generated_at: "2026-03-30T05:44:56.733Z"
+generated_at: "2026-03-30T05:48:30.816Z"
 status: "repealed"
 ---
 

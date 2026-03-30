@@ -3,9 +3,9 @@ title: "Section 4231 - Short title"
 usc_title: 50
 usc_section: "4231"
 chapter: 52
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "50 U.S.C. § 4231"
-generated_at: "2026-03-30T05:45:37.463Z"
+generated_at: "2026-03-30T05:48:52.388Z"
 status: "active"
 ---
 

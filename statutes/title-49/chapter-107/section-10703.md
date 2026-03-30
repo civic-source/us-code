@@ -3,9 +3,9 @@ title: "Section 10703 - Authority for rail carriers to establish through routes"
 usc_title: 49
 usc_section: "10703"
 chapter: 107
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "49 U.S.C. § 10703"
-generated_at: "2026-03-30T05:45:39.327Z"
+generated_at: "2026-03-30T05:48:54.549Z"
 status: "active"
 ---
 

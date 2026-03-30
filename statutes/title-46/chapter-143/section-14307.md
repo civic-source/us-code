@@ -3,9 +3,9 @@ title: "Section 14307 - Inspection of foreign vessels"
 usc_title: 46
 usc_section: "14307"
 chapter: 143
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "46 U.S.C. § 14307"
-generated_at: "2026-03-30T05:45:36.030Z"
+generated_at: "2026-03-30T05:48:56.935Z"
 status: "active"
 ---
 

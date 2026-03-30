@@ -3,9 +3,9 @@ title: "Section 12604 - Disbursement of educational awards"
 usc_title: 42
 usc_section: "12604"
 chapter: 129
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 12604"
-generated_at: "2026-03-30T05:45:32.035Z"
+generated_at: "2026-03-30T05:48:47.223Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(5)** The Corporation upon disbursing the national service educational award, the summer of service educational award, or the silver scholar educational award, as applicable, shall notify the individual of the amount paid for each outstanding loan and the date of payment.
   - **(6)** The Corporation may, by regulation, provide for the aggregation of payments to holders under this subsection.
   - **(7)** As used in this subsection, the term “qualified student loans” means—
-    - **(A)** any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq. [and 42 U.S.C. 2751 et seq.]), other than a loan to a parent of a student pursuant to section 428B of such Act ( 20 U.S.C. 1078–2 );
+    - **(A)** any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.), other than a loan to a parent of a student pursuant to section 428B of such Act ( 20 U.S.C. 1078–2 );
     - **(B)** any loan made pursuant to title VII or VIII of the Public Health Service Act [ 42 U.S.C. 292 et seq., 296 et seq.]; and
     - **(C)** any loan (other than a loan described in subparagraph (A) or (B)) determined by an institution of higher education to be necessary to cover a student’s educational expenses and made, insured, or guaranteed by—
       - **(i)** an eligible lender, as defined in section 435 of the Higher Education Act of 1965 ( 20 U.S.C. 1085 );
@@ -44,7 +44,7 @@ status: "active"
     - **(B)** specifies the amounts for which such eligible individuals are, consistent with paragraph (6), qualified for disbursement under this subsection;
     - **(C)** certifies that—
       - **(i)** the institution of higher education has in effect a program participation agreement under section 487 of the Higher Education Act of 1965 ( 20 U.S.C. 1094 );
-      - **(ii)** the institution’s eligibility to participate in any of the programs under title IV of such Act ( 20 U.S.C. 1070 et seq. [and 42 U.S.C. 2751 et seq.]) has not been limited, suspended, or terminated; and
+      - **(ii)** the institution’s eligibility to participate in any of the programs under title IV of such Act ( 20 U.S.C. 1070 et seq.) has not been limited, suspended, or terminated; and
       - **(iii)** individuals using national service educational awards, summer of service educational awards, or silver scholar educational awards, as applicable, received under this division to pay for educational costs do not comprise more than 15 percent of the total student population of the institution; and
     - **(D)** contains such provisions concerning financial compliance as the Corporation may require.
   - **(3)** Upon receipt of a statement from an institution of higher education that complies with paragraph (2), the Corporation shall, subject to paragraph (4), disburse the total amount of the national service educational awards 1 1 So in original. Probably should be followed by a comma. summer of service educational awards, or silver scholar educational awards for which eligible individuals who have submitted applications to that institution under paragraph (1) are scheduled to receive. Such disbursement shall be made by check or other means that is payable to the institution and requires the endorsement or other certification by the eligible individual.

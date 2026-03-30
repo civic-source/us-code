@@ -3,9 +3,9 @@ title: "Section 5328 - Authority to prescribe regulations"
 usc_title: 2
 usc_section: "5328"
 chapter: 53
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 5328"
-generated_at: "2026-03-30T05:43:14.025Z"
+generated_at: "2026-03-30T05:46:13.924Z"
 status: "active"
 ---
 

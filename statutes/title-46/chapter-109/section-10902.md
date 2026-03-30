@@ -3,9 +3,9 @@ title: "Section 10902 - Complaints of unfitness"
 usc_title: 46
 usc_section: "10902"
 chapter: 109
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "46 U.S.C. § 10902"
-generated_at: "2026-03-30T05:45:36.026Z"
+generated_at: "2026-03-30T05:48:56.931Z"
 status: "active"
 ---
 

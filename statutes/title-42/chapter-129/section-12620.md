@@ -3,9 +3,9 @@ title: "Section 12620 - Status of Corps members and Corps personnel under Federa
 usc_title: 42
 usc_section: "12620"
 chapter: 129
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 12620"
-generated_at: "2026-03-30T05:45:32.036Z"
+generated_at: "2026-03-30T05:48:47.224Z"
 status: "active"
 ---
 

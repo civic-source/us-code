@@ -3,9 +3,9 @@ title: "Section 2323 - Technical assistance to private entities"
 usc_title: 33
 usc_section: "2323"
 chapter: 36
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "33 U.S.C. § 2323"
-generated_at: "2026-03-30T05:44:46.490Z"
+generated_at: "2026-03-30T05:48:03.036Z"
 status: "active"
 ---
 

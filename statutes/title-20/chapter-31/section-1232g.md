@@ -3,9 +3,9 @@ title: "Section 1232g - Family educational and privacy rights"
 usc_title: 20
 usc_section: "1232g"
 chapter: 31
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1232g"
-generated_at: "2026-03-30T05:44:02.647Z"
+generated_at: "2026-03-30T05:47:09.423Z"
 status: "active"
 ---
 
@@ -87,7 +87,7 @@ status: "active"
   - **(1)** including appropriate information in the education record of any student concerning disciplinary action taken against such student for conduct that posed a significant risk to the safety or well-being of that student, other students, or other members of the school community; or
   - **(2)** disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student.
 - **(i)**
-  - **(1)** Nothing in this Act or the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student’s education records, if—
+  - **(1)** Nothing in this Act or the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student’s education records, if—
     - **(A)** the student is under the age of 21; and
     - **(B)** the institution determines that the student has committed a disciplinary violation with respect to such use or possession.
   - **(2)** Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a).

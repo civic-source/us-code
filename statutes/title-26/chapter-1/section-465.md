@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T05:44:41.372Z"
+generated_at: "2026-03-30T05:47:59.755Z"
 status: "active"
 ---
 
@@ -55,8 +55,8 @@ status: "active"
     - **(A)** holding, producing, or distributing motion picture films or video tapes,
     - **(B)** farming (as defined in section 464(e)),
     - **(C)** leasing any section 1245 property (as defined in section 1245(a)(3)),
-    - **(D)** exploring for, or exploiting, oil and gas resources as a trade or business or for the production of income, or
-    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)).
+    - **(D)** exploring for, or exploiting, oil and gas resources, or
+    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)) 1 1 So in original. Probably should be followed by a comma.
   - **(2)** For purposes of this section—
     - **(A)** Except as provided in subparagraph (B), a taxpayer’s activity with respect to each—
       - **(i)** film or video tape,

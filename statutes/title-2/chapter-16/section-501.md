@@ -3,9 +3,9 @@ title: "Section 501 - House Commission on Congressional Mailing Standards"
 usc_title: 2
 usc_section: "501"
 chapter: 16
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 501"
-generated_at: "2026-03-30T05:43:13.994Z"
+generated_at: "2026-03-30T05:46:13.873Z"
 status: "active"
 ---
 

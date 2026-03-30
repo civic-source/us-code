@@ -3,9 +3,9 @@ title: "Section 16051 - Joint flexible fuel/hybrid vehicle commercialization ini
 usc_title: 42
 usc_section: "16051"
 chapter: 149
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 16051"
-generated_at: "2026-03-30T05:45:32.098Z"
+generated_at: "2026-03-30T05:48:47.282Z"
 status: "active"
 ---
 

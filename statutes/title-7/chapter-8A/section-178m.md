@@ -3,9 +3,9 @@ title: "Section 178m - Report to President and Congress"
 usc_title: 7
 usc_section: "178m"
 chapter: 8
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "7 U.S.C. § 178m"
-generated_at: "2026-03-30T05:43:34.946Z"
+generated_at: "2026-03-30T05:46:20.131Z"
 status: "active"
 ---
 

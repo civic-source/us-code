@@ -3,9 +3,9 @@ title: "Section 134 - Appeal to the Patent Trial and Appeal Board"
 usc_title: 35
 usc_section: "134"
 chapter: 12
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "35 U.S.C. § 134"
-generated_at: "2026-03-30T05:44:44.531Z"
+generated_at: "2026-03-30T05:48:02.057Z"
 status: "active"
 ---
 

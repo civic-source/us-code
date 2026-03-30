@@ -3,9 +3,9 @@ title: "Section 17 - Staff development activities"
 usc_title: 20
 usc_section: "17"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 17"
-generated_at: "2026-03-30T05:44:02.601Z"
+generated_at: "2026-03-30T05:47:09.379Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** For the purpose of improving the operation of the programs and projects authorized by this division, the Secretary is authorized to make grants to institutions of higher education and other public and private nonprofit institutions and organizations to provide training for staff and leadership personnel employed in, participating in, or preparing for employment in, such programs and projects.
 - **(b)** Such training shall include conferences, internships, seminars, workshops, and the publication of manuals designed to improve the operation of such programs and projects and shall be carried out in the various regions of the Nation in order to ensure that the training opportunities are appropriate to meet the needs in the local areas being served by such programs and projects. Such training shall be offered annually for new directors of projects funded under this division as well as annually on the following topics and other topics chosen by the Secretary:
   - **(1)** Legislative and regulatory requirements for the operation of programs funded under this division.
-  - **(2)** Assisting students in receiving adequate financial aid from programs assisted under this subchapter and part C of subchapter I of chapter 34 of title 42 and other programs.
+  - **(2)** Assisting students in receiving adequate financial aid from programs assisted under this subchapter and other programs.
   - **(3)** The design and operation of model programs for projects funded under this division.
   - **(4)** The use of appropriate educational technology in the operation of projects assisted under this division.
   - **(5)** Strategies for recruiting and serving hard to reach populations, including students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42 ), students who are in foster care or are aging out of the foster care system, or other disconnected students.

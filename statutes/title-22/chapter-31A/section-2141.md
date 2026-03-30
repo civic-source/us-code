@@ -3,9 +3,9 @@ title: "Section 2141 - Omitted"
 usc_title: 22
 usc_section: "2141"
 chapter: 31
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "22 U.S.C. § 2141"
-generated_at: "2026-03-30T05:44:32.132Z"
+generated_at: "2026-03-30T05:47:39.344Z"
 status: "omitted"
 ---
 

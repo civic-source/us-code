@@ -3,9 +3,9 @@ title: "Section 1957 - Extra hazard costs"
 usc_title: 38
 usc_section: "1957"
 chapter: 19
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "38 U.S.C. § 1957"
-generated_at: "2026-03-30T05:44:54.030Z"
+generated_at: "2026-03-30T05:48:20.665Z"
 status: "active"
 ---
 

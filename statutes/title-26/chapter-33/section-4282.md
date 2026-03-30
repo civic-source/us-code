@@ -3,9 +3,9 @@ title: "Section 4282 - Transportation by air for other members of affiliated gro
 usc_title: 26
 usc_section: "4282"
 chapter: 33
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 4282"
-generated_at: "2026-03-30T05:44:41.459Z"
+generated_at: "2026-03-30T05:47:59.844Z"
 status: "active"
 ---
 

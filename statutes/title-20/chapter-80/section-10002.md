@@ -3,9 +3,9 @@ title: "Section 10002 - State uses of funds"
 usc_title: 20
 usc_section: "10002"
 chapter: 80
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 10002"
-generated_at: "2026-03-30T05:44:02.717Z"
+generated_at: "2026-03-30T05:47:09.491Z"
 status: "active"
 ---
 
@@ -26,5 +26,5 @@ status: "active"
   - **(1)** The Governor shall use 18.2 percent of the State’s allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair of public school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
   - **(2)** A Governor shall not consider the type or mission of an institution of higher education, and shall consider any institution for funding for modernization, renovation, and repairs within the State that—
     - **(A)** qualifies as an institution of higher education, as defined in subsection 1 1 So in original. Probably should be “section”. 10013(3) of this title; and
-    - **(B)** continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965.
+    - **(B)** continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].
 - **(c)** Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.

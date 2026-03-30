@@ -3,9 +3,9 @@ title: "Section 14045a - Enhancing culturally specific services for victims of d
 usc_title: 42
 usc_section: "14045a"
 chapter: 136
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 14045a"
-generated_at: "2026-03-30T05:45:32.074Z"
+generated_at: "2026-03-30T05:48:47.260Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 709 - Transferred"
 usc_title: 2
 usc_section: "709"
 chapter: 18
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 709"
-generated_at: "2026-03-30T05:43:13.999Z"
+generated_at: "2026-03-30T05:46:13.880Z"
 status: "transferred"
 ---
 

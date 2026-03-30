@@ -3,9 +3,9 @@ title: "Section 9707 - Failure to pay premium"
 usc_title: 26
 usc_section: "9707"
 chapter: 99
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 9707"
-generated_at: "2026-03-30T05:44:41.534Z"
+generated_at: "2026-03-30T05:47:59.920Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5962 - Safe schools program authorized"
 usc_title: 20
 usc_section: "5962"
 chapter: 68
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 5962"
-generated_at: "2026-03-30T05:44:02.678Z"
+generated_at: "2026-03-30T05:47:09.453Z"
 status: "active"
 ---
 

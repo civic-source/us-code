@@ -3,9 +3,9 @@ title: "Section 7274e - Scholarship and fellowship program for environmental res
 usc_title: 42
 usc_section: "7274e"
 chapter: 84
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 7274e"
-generated_at: "2026-03-30T05:45:31.902Z"
+generated_at: "2026-03-30T05:48:47.105Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(3)** The Secretary may waive in whole or in part a required repayment under this subsection if the Secretary determines the recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
   - **(4)** For purposes of repayment under this section, the total amount of educational assistance provided to a person under the program shall bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 ( 20 U.S.C. 1077a(c) ).
 - **(e)** In evaluating applicants for award of scholarships and fellowships under the program, the Secretary of Energy may give a preference to an individual who is enrolled in, or accepted for enrollment in, an educational institution that has a cooperative education program with the Department of Energy.
-- **(f)** A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the student for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq. [and 42 U.S.C. 2751 et seq.]).
+- **(f)** A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the student for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(g)**
   - **(1)** Subject to paragraph (2), the Secretary shall award at least 20 scholarships (for undergraduate students) and 20 fellowships (for graduate students) during fiscal year 1992.
   - **(2)** The requirement to award 20 scholarships and 20 fellowships under paragraph (1) applies only to the extent there is a sufficient number of applicants qualified for such awards.

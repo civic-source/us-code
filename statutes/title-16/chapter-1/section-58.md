@@ -3,9 +3,9 @@ title: "Section 58 - Mojave National Preserve Advisory Commission"
 usc_title: 16
 usc_section: "58"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 58"
-generated_at: "2026-03-30T05:43:59.001Z"
+generated_at: "2026-03-30T05:47:33.789Z"
 status: "active"
 ---
 

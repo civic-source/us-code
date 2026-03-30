@@ -3,9 +3,9 @@ title: "Section 1505 - Obstruction of proceedings before departments, agencies, 
 usc_title: 18
 usc_section: "1505"
 chapter: 73
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "18 U.S.C. § 1505"
-generated_at: "2026-03-30T05:43:55.992Z"
+generated_at: "2026-03-30T05:47:06.624Z"
 status: "active"
 ---
 

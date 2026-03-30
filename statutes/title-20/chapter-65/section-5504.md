@@ -3,9 +3,9 @@ title: "Section 5504 - Environmental Education and Training Program"
 usc_title: 20
 usc_section: "5504"
 chapter: 65
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 5504"
-generated_at: "2026-03-30T05:44:02.674Z"
+generated_at: "2026-03-30T05:47:09.450Z"
 status: "active"
 ---
 

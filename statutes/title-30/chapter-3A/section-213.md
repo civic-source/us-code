@@ -3,9 +3,9 @@ title: "Section 213 - Royalties for use of deposits of silica, limestone, or oth
 usc_title: 30
 usc_section: "213"
 chapter: 3
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "30 U.S.C. § 213"
-generated_at: "2026-03-30T05:44:36.432Z"
+generated_at: "2026-03-30T05:47:49.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1070h - Scholarships for veteran’s dependents"
 usc_title: 20
 usc_section: "1070h"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1070h"
-generated_at: "2026-03-30T05:44:02.605Z"
+generated_at: "2026-03-30T05:47:09.383Z"
 status: "active"
 ---
 
@@ -26,5 +26,5 @@ status: "active"
   - **(3)** a grant made under this section to an eligible veteran’s dependent for any award year shall equal the maximum Federal Pell Grant available for that award year, except that such a grant under this section—
     - **(A)** shall not exceed the cost of attendance of the eligible veteran’s dependent for that award year; and
     - **(B)** shall be adjusted to reflect the attendance by the eligible veteran’s dependent on a less than full-time basis in the same manner as such adjustments are made under section 1070a of this title .
-- **(e)** For purposes of determinations of need under part E, a grant awarded under this section shall not be treated as estimated financial assistance as described in sections 1087kk(3) and 1087vv(j) of this title.
+- **(e)** For purposes of determinations of need under part F, a grant awarded under this section shall not be treated as estimated financial assistance as described in sections 1087kk(3) and 1087vv(j) of this title.
 - **(f)** There are authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, for the Secretary to carry out this section, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.

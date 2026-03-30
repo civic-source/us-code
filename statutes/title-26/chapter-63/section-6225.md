@@ -3,9 +3,9 @@ title: "Section 6225 - Assessments made only after partnership level proceedings
 usc_title: 26
 usc_section: "6225"
 chapter: 63
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 6225"
-generated_at: "2026-03-30T05:44:41.496Z"
+generated_at: "2026-03-30T05:47:59.881Z"
 status: "active"
 ---
 

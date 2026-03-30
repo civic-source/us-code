@@ -1,33 +1,36 @@
 ---
-title: "Section 2 - Corporate powers and obligations"
+title: "Section 2 - National Forest System Trails Volunteer and Partnership Strategy"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T05:43:59.071Z"
+generated_at: "2026-03-30T05:47:33.854Z"
 status: "active"
 ---
 
-# § 583j–2. Corporate powers and obligations
+# § 583k–2. National Forest System Trails Volunteer and Partnership Strategy
 
-- **(a)** The Foundation—
-  - **(1)** shall have perpetual succession;
-  - **(2)** may conduct business throughout the several States, territories, and possessions of the United States and in foreign countries;
-  - **(3)** shall have its principal offices in the Washington, D.C. metropolitan area; and
-  - **(4)** shall at all times maintain a designated agent in the District of Columbia authorized to accept notice or service of process for the Foundation.
-- **(b)** The serving of notice to, or service of process upon, the agent required by subsection (a)(4), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
-- **(c)** The Foundation shall have an official seal selected by the Board which shall be judicially noticed.
-- **(d)** To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powers of a corporation in the District of Columbia, including the power to—
-  - **(1)** accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, or real or personal property or any income therefrom or other interest therein;
-  - **(2)** acquire by donation, gift, devise, purchase or exchange any real or personal property or interest therein;
-  - **(3)** unless otherwise required by the instrument of transfer, sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
-  - **(4)** borrow money and issue bonds, debentures, or other debt instruments;
-  - **(5)** sue and be sued, and complain and defend itself in any court of competent jurisdiction (except that the Directors of the Board shall not be personally liable, except for gross negligence);
-  - **(6)** enter into contracts or other arrangements with public agencies, private organizations, and persons and to make such payments as may be necessary to carry out the purposes thereof; and
-  - **(7)** do any and all acts necessary and proper to carry out the purposes of the Foundation.
-- **(e)**
-  - **(1)** The Foundation may acquire, hold and dispose of lands, waters, or other interests in real property by donation, gift, devise, purchase or exchange. For the purposes of this subchapter, an interest in real property shall include, but not be limited to, mineral and water rights, rights of way, and easements appurtenant or in gross. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
-  - **(2)** No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Chief of the United States Forest Service to be valuable for purposes established in this subchapter shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
-  - **(3)** The Foundation and any income or property received or owned by it, and all transactions relating to such income or property, shall be exempt from all Federal, State, and local taxation with respect thereto.
-  - **(4)** Contributions, gifts, and other transfers made to or for the use of the Foundation shall be treated as contributions, gifts, or transfers to an organization exempt from taxation under section 501(c)(3) of title 26 .
+- **(a)** Not later than 2 years after November 28, 2016 , the Secretary shall publish in the Federal Register a strategy to significantly increase the role of volunteers and partners in trail maintenance.
+- **(b)** The strategy required by subsection (a) shall—
+  - **(1)** augment and support the capabilities of Federal employees to carry out or contribute to trail maintenance;
+  - **(2)** provide meaningful opportunities for volunteers and partners to carry out trail maintenance in each region of the Forest Service;
+  - **(3)** address the barriers to increased volunteerism and partnerships in trail maintenance identified by volunteers, partners, and others;
+  - **(4)** prioritize increased volunteerism and partnerships in trail maintenance in those regions with the most severe trail maintenance needs, and where trail maintenance backlogs are jeopardizing access to National Forest lands; and
+  - **(5)** aim to increase trail maintenance by volunteers and partners by 100 percent by the date that is 5 years after November 28, 2016 .
+- **(c)** As a component of the strategy, the Secretary shall study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities in a manner that does not jeopardize firefighting capabilities, public safety, or resource protection. Upon a determination that trail maintenance would be advanced by use of fire crews in trail maintenance, the Secretary shall incorporate these proposals into the strategy, subject to such terms and conditions as the Secretary determines to be necessary.
+- **(d)**
+  - **(1)**
+  - **(2)** Not later than 2 years after November 28, 2016 , the Secretary shall adopt regulations implementing this section. These regulations shall ensure that the financial risk from claims or liability associated with volunteers undertaking trail maintenance is shared by all administrative units.
+- **(e)** The Secretary shall develop the strategy in consultation with volunteer and partner trail maintenance organizations, a broad array of outdoor recreation stakeholders, and other relevant stakeholders.
+- **(f)** The Secretary shall require each administrative unit to develop a volunteer and partner coordination implementation plan for the strategy which clearly defines roles and responsibilities for the administrative unit and district staff, and includes strategies to ensure sufficient coordination, assistance, and support for volunteers and partners to improve trail maintenance.
+- **(g)**
+  - **(1)** The Secretary shall prepare a report on—
+    - **(A)** the effectiveness of the strategy in addressing the trail maintenance backlog;
+    - **(B)** the increase in volunteerism and partnership efforts on trail maintenance as a result of the strategy;
+    - **(C)** the miles of National Forest System trails maintained by volunteers and partners, and the approximate value of the volunteer and partnership efforts;
+    - **(D)** the status of the stewardship credits for outfitters and guides pilot program described in section 583k–5 of this title that includes the number of participating sites, total amount of the credits offered, estimated value of trail maintenance performed, and suggestions for revising the program; and
+    - **(E)** recommendations for further increasing volunteerism and partnerships in trail maintenance.
+  - **(2)** Not later than 3 years after November 28, 2016 , the Secretary shall submit the report required by paragraph (1) to—
+    - **(A)** the Committee on Agriculture, Nutrition, and Forestry and the Committee on Energy and Natural Resources of the Senate; and
+    - **(B)** the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives.

@@ -3,9 +3,9 @@ title: "Section 13704 - Truth-in-sentencing incentive grants"
 usc_title: 42
 usc_section: "13704"
 chapter: 136
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 13704"
-generated_at: "2026-03-30T05:45:32.064Z"
+generated_at: "2026-03-30T05:48:47.250Z"
 status: "active"
 ---
 

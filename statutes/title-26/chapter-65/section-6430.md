@@ -3,9 +3,9 @@ title: "Section 6430 - Treatment of tax imposed at Leaking Underground Storage T
 usc_title: 26
 usc_section: "6430"
 chapter: 65
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "26 U.S.C. § 6430"
-generated_at: "2026-03-30T05:44:41.504Z"
+generated_at: "2026-03-30T05:47:59.890Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 515 - Examination, location, and purchase of forested, cut-over,
 usc_title: 16
 usc_section: "515"
 chapter: 2
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 515"
-generated_at: "2026-03-30T05:43:59.057Z"
+generated_at: "2026-03-30T05:47:33.841Z"
 status: "active"
 ---
 

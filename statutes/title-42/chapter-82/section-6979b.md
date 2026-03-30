@@ -3,9 +3,9 @@ title: "Section 6979b - Law enforcement authority"
 usc_title: 42
 usc_section: "6979b"
 chapter: 82
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 6979b"
-generated_at: "2026-03-30T05:45:31.893Z"
+generated_at: "2026-03-30T05:48:47.098Z"
 status: "active"
 ---
 

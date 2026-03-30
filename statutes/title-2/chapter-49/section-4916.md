@@ -3,9 +3,9 @@ title: "Section 4916 - Definitions"
 usc_title: 2
 usc_section: "4916"
 chapter: 49
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 4916"
-generated_at: "2026-03-30T05:43:14.024Z"
+generated_at: "2026-03-30T05:46:13.922Z"
 status: "active"
 ---
 

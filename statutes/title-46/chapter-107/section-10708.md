@@ -3,9 +3,9 @@ title: "Section 10708 - Sale of property"
 usc_title: 46
 usc_section: "10708"
 chapter: 107
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "46 U.S.C. § 10708"
-generated_at: "2026-03-30T05:45:36.026Z"
+generated_at: "2026-03-30T05:48:56.931Z"
 status: "active"
 ---
 

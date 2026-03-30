@@ -3,9 +3,9 @@ title: "Section 2250 - Indigent petitioner entitled to documents without cost"
 usc_title: 28
 usc_section: "2250"
 chapter: 153
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "28 U.S.C. § 2250"
-generated_at: "2026-03-30T05:44:37.087Z"
+generated_at: "2026-03-30T05:47:50.529Z"
 status: "active"
 ---
 

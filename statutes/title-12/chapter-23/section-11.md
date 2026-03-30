@@ -3,9 +3,9 @@ title: "Section 11 - Supervision, examination, and report of condition"
 usc_title: 12
 usc_section: "11"
 chapter: 23
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-30T05:43:40.629Z"
+generated_at: "2026-03-30T05:47:03.153Z"
 status: "active"
 ---
 

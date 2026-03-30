@@ -3,9 +3,9 @@ title: "Section 953 - Assistance to States"
 usc_title: 30
 usc_section: "953"
 chapter: 22
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "30 U.S.C. § 953"
-generated_at: "2026-03-30T05:44:36.444Z"
+generated_at: "2026-03-30T05:47:49.809Z"
 status: "active"
 ---
 

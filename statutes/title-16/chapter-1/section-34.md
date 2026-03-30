@@ -3,9 +3,9 @@ title: "Section 34 - Protection of authorized purposes of reclamation projects"
 usc_title: 16
 usc_section: "34"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 34"
-generated_at: "2026-03-30T05:43:59.026Z"
+generated_at: "2026-03-30T05:47:33.811Z"
 status: "active"
 ---
 

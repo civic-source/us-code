@@ -3,9 +3,9 @@ title: "Section 1022g - General provisions"
 usc_title: 20
 usc_section: "1022g"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1022g"
-generated_at: "2026-03-30T05:44:02.595Z"
+generated_at: "2026-03-30T05:47:09.373Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** to the extent practicable, collect data comparable to the data required under this part from States, local educational agencies, institutions of higher education, or other entities that administer such assessments to teachers or prospective teachers; and
   - **(2)** notwithstanding any other provision of this part, use such data to carry out requirements of this part related to assessments, pass rates, and scaled scores.
 - **(c)**
-  - **(1)** For the purpose of improving teacher preparation programs, a State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
+  - **(1)** For the purpose of improving teacher preparation programs, a State that receives funds under this chapter, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
     - **(A)** may enable the teacher preparation program to evaluate the effectiveness of the program’s graduates or the program itself; and
     - **(B)** is possessed, controlled, or accessible by the State.
   - **(2)** The information described in paragraph (1)—

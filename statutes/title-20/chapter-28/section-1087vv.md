@@ -3,9 +3,9 @@ title: "Section 1087vv - Definitions"
 usc_title: 20
 usc_section: "1087vv"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1087vv"
-generated_at: "2026-03-30T05:44:02.624Z"
+generated_at: "2026-03-30T05:47:09.401Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ As used in this part:
   - **(1)**
     - **(A)** Except as provided in subparagraph (B) and paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e)).
     - **(B)** Notwithstanding section 1087rr(a) of this title , the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
-  - **(2)** No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26 , and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
+  - **(2)** No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26 , and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
 - **(b)**
   - **(1)** The term “untaxed income and benefits” means—
     - **(A)** child support received;
@@ -70,7 +70,7 @@ As used in this part:
     - **(I)** is a student for whom a financial aid administrator makes a documented determination of independence by reason of other unusual circumstances.
   - **(2)** A financial aid administrator may make a determination of independence under paragraph (1)(I) based upon a documented determination of independence that was previously made by another financial aid administrator under such paragraph in the same award year.
 - **(e)** The term “excludable income” means—
-  - **(1)** any student financial assistance awarded based on need as determined in accordance with the provisions of this part, including any income earned from work under part C of subchapter I of chapter 34 of title 42;
+  - **(1)** any student financial assistance awarded based on need as determined in accordance with the provisions of this part, including any income earned from work under part C of this subchapter;
   - **(2)** any income earned from work under a cooperative education program offered by an institution of higher education;
   - **(3)** any living allowance received by a participant in a program established under the National and Community Service Act of 1990 [ 42 U.S.C. 12501 et seq.];
   - **(4)** child support payments made by the student or parent;
@@ -78,14 +78,14 @@ As used in this part:
   - **(6)** special combat pay.
 - **(f)**
   - **(1)** The term “assets” means cash on hand, including the amount in checking and savings accounts, time deposits, money market funds, trusts, stocks, bonds, other securities, mutual funds, tax shelters, qualified education benefits (except as provided in paragraph (3)), and the net value of real estate, income producing property, and business and farm assets.
-  - **(2)** With respect to determinations of need under this subchapter and part C of subchapter I of chapter 34 of title 42, other than for subpart 4 of part A of this subchapter, the term “assets” shall not include the net value of—
+  - **(2)** With respect to determinations of need under this subchapter, other than for subpart 4 of part A of this subchapter, the term “assets” shall not include the net value of—
     - **(A)** the family’s principal place of residence;
     - **(B)** a family farm on which the family resides; or
     - **(C)** a small business with not more than 100 full-time or full-time equivalent employees (or any part of such a small business) that is owned and controlled by the family.
   - **(3)** A qualified education benefit shall be considered an asset of—
     - **(A)** the student if the student is an independent student; or
     - **(B)** the parent if the student is a dependent student, regardless of whether the owner of the account is the student or the parent.
-  - **(4)** In determining the value of assets in a determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42 (other than for subpart 4 of part A of this subchapter), the value of a qualified education benefit shall be—
+  - **(4)** In determining the value of assets in a determination of need under this subchapter (other than for subpart 4 of part A of this subchapter), the value of a qualified education benefit shall be—
     - **(A)** the refund value of any tuition credits or certificates purchased under a qualified education benefit; and
     - **(B)** in the case of a program in which contributions are made to an account that is established for the purpose of meeting the qualified higher education expenses of the designated beneficiary of the account, the current balance of such account.
   - **(5)** In this subsection:
@@ -99,12 +99,12 @@ As used in this part:
   - **(2)** References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 - **(i)** The term “current balance of checking and savings accounts” does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
 - **(j)**
-  - **(1)** For purposes of determining a student’s eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student’s need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
+  - **(1)** For purposes of determining a student’s eligibility for funds under this subchapter, estimated financial assistance not received under this subchapter shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student’s need is made, including national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12511 et seq.), but excluding veterans’ education benefits as defined in subsection (c).
   - **(2)** Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 , or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title, shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title .
-  - **(3)** Notwithstanding paragraph (1) and section 1087 ll of this title, assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 may be excluded from both estimated financial assistance and cost of attendance, if that assistance is provided by a State and is designated by such State to offset a specific component of the cost of attendance. If that assistance is excluded from either estimated financial assistance or cost of attendance, it shall be excluded from both.
+  - **(3)** Notwithstanding paragraph (1) and section 1087 ll of this title, assistance not received under this subchapter may be excluded from both estimated financial assistance and cost of attendance, if that assistance is provided by a State and is designated by such State to offset a specific component of the cost of attendance. If that assistance is excluded from either estimated financial assistance or cost of attendance, it shall be excluded from both.
   - **(4)** Notwithstanding paragraph (1), special combat pay shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title .
 - **(k)**
-  - **(1)** Except as otherwise provided, the term “dependent of the parent” means the student, dependent children of the student’s parents, including those children who are deemed to be dependent students when applying for aid under this subchapter and part C of subchapter I of chapter 34 of title 42, and other persons who live with and receive more than one-half of their support from the parent and will continue to receive more than half of their support from the parent during the award year.
+  - **(1)** Except as otherwise provided, the term “dependent of the parent” means the student, dependent children of the student’s parents, including those children who are deemed to be dependent students when applying for aid under this subchapter, and other persons who live with and receive more than one-half of their support from the parent and will continue to receive more than half of their support from the parent during the award year.
   - **(2)** Except as otherwise provided, the term “dependent of the student” means the student’s dependent children and other persons (except the student’s spouse) who live with and receive more than one-half of their support from the student and will continue to receive more than half of their support from the student during the award year.
 - **(l)**
   - **(1)** In determining family size in the case of a dependent student—

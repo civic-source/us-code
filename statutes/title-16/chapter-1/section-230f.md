@@ -3,9 +3,9 @@ title: "Section 230f - Delta Region Preservation Commission"
 usc_title: 16
 usc_section: "230f"
 chapter: 1
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 230f"
-generated_at: "2026-03-30T05:43:58.981Z"
+generated_at: "2026-03-30T05:47:33.768Z"
 status: "active"
 ---
 

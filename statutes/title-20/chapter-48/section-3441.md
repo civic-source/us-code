@@ -3,9 +3,9 @@ title: "Section 3441 - Transfers from Department of Health, Education, and Welfa
 usc_title: 20
 usc_section: "3441"
 chapter: 48
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 3441"
-generated_at: "2026-03-30T05:44:02.666Z"
+generated_at: "2026-03-30T05:47:09.441Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** all functions of the Secretary of Health, Education, and Welfare and of the Department of Health, Education, and Welfare under—
     - **(A)** the General Education Provisions Act [ 20 U.S.C. 1221 et seq.];
     - **(B)** the Elementary and Secondary Education Act of 1965;
-    - **(C)** the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.];
+    - **(C)** the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.];
     - **(D)** the Education Amendments of 1978;
     - **(E)** the Act of August 30, 1890 ( 7 U.S.C. 321–328 );
     - **(F)** the National Defense Education Act of 1958;

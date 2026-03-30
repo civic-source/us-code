@@ -3,9 +3,9 @@ title: "Section 5140 - Repealed. Pub. L. 96–513, title III , § 352(a), Dec. 1
 usc_title: 10
 usc_section: "5140"
 chapter: 513
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 5140"
-generated_at: "2026-03-30T05:43:26.693Z"
+generated_at: "2026-03-30T05:46:47.762Z"
 status: "repealed"
 ---
 

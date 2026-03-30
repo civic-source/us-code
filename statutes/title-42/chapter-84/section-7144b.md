@@ -3,9 +3,9 @@ title: "Section 7144b - Office of Counterintelligence"
 usc_title: 42
 usc_section: "7144b"
 chapter: 84
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 7144b"
-generated_at: "2026-03-30T05:45:31.898Z"
+generated_at: "2026-03-30T05:48:47.102Z"
 status: "active"
 ---
 

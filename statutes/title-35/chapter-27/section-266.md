@@ -3,9 +3,9 @@ title: "Section 266 - Repealed. Pub. L. 89–83 , § 8, July 24, 1965 , 79 Stat.
 usc_title: 35
 usc_section: "266"
 chapter: 27
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "35 U.S.C. § 266"
-generated_at: "2026-03-30T05:44:44.534Z"
+generated_at: "2026-03-30T05:48:02.060Z"
 status: "repealed"
 ---
 

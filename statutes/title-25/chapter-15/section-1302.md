@@ -3,9 +3,9 @@ title: "Section 1302 - Constitutional rights"
 usc_title: 25
 usc_section: "1302"
 chapter: 15
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 1302"
-generated_at: "2026-03-30T05:44:21.432Z"
+generated_at: "2026-03-30T05:47:37.022Z"
 status: "active"
 ---
 

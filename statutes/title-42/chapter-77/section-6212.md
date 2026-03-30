@@ -3,9 +3,9 @@ title: "Section 6212 - Repealed. Pub. L. 114–113, div. O, title I , § 101(a),
 usc_title: 42
 usc_section: "6212"
 chapter: 77
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 6212"
-generated_at: "2026-03-30T05:45:31.861Z"
+generated_at: "2026-03-30T05:48:47.067Z"
 status: "repealed"
 ---
 

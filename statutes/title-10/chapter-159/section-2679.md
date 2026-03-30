@@ -3,9 +3,9 @@ title: "Section 2679 - Installation-support services: intergovernmental support 
 usc_title: 10
 usc_section: "2679"
 chapter: 159
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "10 U.S.C. § 2679"
-generated_at: "2026-03-30T05:43:26.676Z"
+generated_at: "2026-03-30T05:46:47.743Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5805 - Corporate powers and obligations of Foundation"
 usc_title: 16
 usc_section: "5805"
 chapter: 78
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "16 U.S.C. § 5805"
-generated_at: "2026-03-30T05:43:59.187Z"
+generated_at: "2026-03-30T05:47:33.965Z"
 status: "active"
 ---
 

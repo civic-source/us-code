@@ -3,9 +3,9 @@ title: "Section 902 - Enforcing pay-as-you-go"
 usc_title: 2
 usc_section: "902"
 chapter: 20
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "2 U.S.C. § 902"
-generated_at: "2026-03-30T05:43:14.001Z"
+generated_at: "2026-03-30T05:46:13.882Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1421f - Title to property transferred"
 usc_title: 48
 usc_section: "1421f"
 chapter: 8
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "48 U.S.C. § 1421f"
-generated_at: "2026-03-30T05:45:36.395Z"
+generated_at: "2026-03-30T05:48:50.332Z"
 status: "active"
 ---
 

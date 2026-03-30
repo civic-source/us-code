@@ -3,9 +3,9 @@ title: "Section 313 - Width of rights-of-way"
 usc_title: 25
 usc_section: "313"
 chapter: 8
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "25 U.S.C. § 313"
-generated_at: "2026-03-30T05:44:21.422Z"
+generated_at: "2026-03-30T05:47:37.011Z"
 status: "active"
 ---
 

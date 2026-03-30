@@ -3,9 +3,9 @@ title: "Section 294f - Advisory Committee on Interdisciplinary, Community-Based 
 usc_title: 42
 usc_section: "294f"
 chapter: 6
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "42 U.S.C. § 294f"
-generated_at: "2026-03-30T05:45:31.422Z"
+generated_at: "2026-03-30T05:48:46.691Z"
 status: "active"
 ---
 

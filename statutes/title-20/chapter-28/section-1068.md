@@ -3,9 +3,9 @@ title: "Section 1068 - Applications for assistance"
 usc_title: 20
 usc_section: "1068"
 chapter: 28
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 1068"
-generated_at: "2026-03-30T05:44:02.599Z"
+generated_at: "2026-03-30T05:47:09.377Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ status: "active"
     - **(E)** a detailed description of any activity which involves the expenditure of more than $25,000, as identified in the budget referred to in subparagraph (D); and
   - **(8)** include such other information as the Secretary may prescribe.
 - **(c)** The Secretary shall publish in the Federal Register, pursuant to chapter 5 of title 5, all policies and procedures required to exercise the authority set forth in subsection (a). No other criteria, policies, or procedures shall apply.
-- **(d)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
+- **(d)** The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV of this chapter in making eligibility determinations under section 1058 of this title and shall advance the base-year forward following each annual grant cycle.
 - **(e)** The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this subchapter.

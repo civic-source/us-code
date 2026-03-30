@@ -3,9 +3,9 @@ title: "Section 9605 - Regional advisory committees"
 usc_title: 20
 usc_section: "9605"
 chapter: 76
-current_through: "PL 114-243"
+current_through: "PL 114-248"
 classification: "20 U.S.C. § 9605"
-generated_at: "2026-03-30T05:44:02.713Z"
+generated_at: "2026-03-30T05:47:09.488Z"
 status: "active"
 ---
 
@@ -27,10 +27,10 @@ status: "active"
   - **(3)** In choosing individuals for membership on a regional advisory committee, the Secretary shall consult with, and solicit recommendations from, the chief executive officers of States, chief State school officers, and education stakeholders within the applicable region.
   - **(4)**
     - **(A)** The total number of members on each committee who are selected under subparagraphs (A), (C), and (D) of paragraph (2), collectively, shall exceed the total number of members who are selected under paragraph (1)(C) and subparagraphs (B), (E), and (F) of paragraph (2), collectively.
-    - **(B)** Each regional advisory committee shall be dissolved by the Secretary after submission of such committee’s report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
+    - **(B)** Each regional advisory committee shall be dissolved by the Secretary after submission of such committee’s report described in subsection (c)(2) to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
 - **(c)** Each regional advisory committee shall advise the Secretary on the following:
-  - **(1)** An educational needs assessment of its region (using the results of the assessment conducted under subsection (d) of this section), in order to assist in making decisions regarding the regional educational priorities.
-  - **(2)** Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d) of this section.
+  - **(1)** An educational needs assessment of its region (using the results of the assessment conducted under subsection (d)), in order to assist in making decisions regarding the regional educational priorities.
+  - **(2)** Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d).
 - **(d)** Each regional advisory committee shall—
   - **(1)** assess the educational needs within the region to be served;
   - **(2)** in conducting the assessment under paragraph (1), seek input from chief executive officers of States, chief State school officers, educators, and parents (including through a process of open hearings to solicit the views and needs of schools (including public charter schools), teachers, administrators, members of the regional educational laboratory governing board, parents, local educational agencies, librarians, businesses, State educational agencies, and other customers (such as adult education programs) within the region) regarding the need for the activities described in section 9564 of this title and section 9602 of this title and how those needs would be most effectively addressed; and
