@@ -3,9 +3,9 @@ title: "Section 3411 - Transportation"
 usc_title: 19
 usc_section: "3411"
 chapter: 21
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 3411"
-generated_at: "2026-03-30T07:55:55.652Z"
+generated_at: "2026-03-30T07:59:25.262Z"
 status: "active"
 ---
 

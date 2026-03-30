@@ -3,9 +3,9 @@ title: "Section 2117 - Limitation on liability"
 usc_title: 44
 usc_section: "2117"
 chapter: 21
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "44 U.S.C. § 2117"
-generated_at: "2026-03-30T07:58:07.038Z"
+generated_at: "2026-03-30T08:00:07.828Z"
 status: "active"
 ---
 

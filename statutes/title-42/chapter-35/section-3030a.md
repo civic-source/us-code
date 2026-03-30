@@ -3,9 +3,9 @@ title: "Section 3030a - Nutrition services incentive program"
 usc_title: 42
 usc_section: "3030a"
 chapter: 35
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3030a"
-generated_at: "2026-03-30T07:58:06.538Z"
+generated_at: "2026-03-30T08:00:21.577Z"
 status: "active"
 ---
 

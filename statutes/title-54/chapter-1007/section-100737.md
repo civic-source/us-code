@@ -3,9 +3,9 @@ title: "Section 100737 - Financial disclosure by officer or employee of Secretar
 usc_title: 54
 usc_section: "100737"
 chapter: 1007
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "54 U.S.C. § 100737"
-generated_at: "2026-03-30T07:58:23.837Z"
+generated_at: "2026-03-30T08:00:33.340Z"
 status: "active"
 ---
 

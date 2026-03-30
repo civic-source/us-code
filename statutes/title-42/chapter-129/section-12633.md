@@ -3,9 +3,9 @@ title: "Section 12633 - Supplementation"
 usc_title: 42
 usc_section: "12633"
 chapter: 129
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 12633"
-generated_at: "2026-03-30T07:58:06.750Z"
+generated_at: "2026-03-30T08:00:21.784Z"
 status: "active"
 ---
 

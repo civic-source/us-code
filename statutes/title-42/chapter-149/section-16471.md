@@ -3,9 +3,9 @@ title: "Section 16471 - Consumer privacy and unfair trade practices"
 usc_title: 42
 usc_section: "16471"
 chapter: 149
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 16471"
-generated_at: "2026-03-30T07:58:06.798Z"
+generated_at: "2026-03-30T08:00:21.832Z"
 status: "active"
 ---
 

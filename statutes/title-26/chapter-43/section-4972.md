@@ -3,9 +3,9 @@ title: "Section 4972 - Tax on nondeductible contributions to qualified employer 
 usc_title: 26
 usc_section: "4972"
 chapter: 43
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 4972"
-generated_at: "2026-03-30T07:57:29.810Z"
+generated_at: "2026-03-30T07:59:44.467Z"
 status: "active"
 ---
 

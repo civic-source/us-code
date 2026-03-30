@@ -3,9 +3,9 @@ title: "Section 462c - Omitted"
 usc_title: 12
 usc_section: "462c"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 462c"
-generated_at: "2026-03-30T07:55:50.726Z"
+generated_at: "2026-03-30T07:59:10.191Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53309 - Accumulation of deposits"
 usc_title: 46
 usc_section: "53309"
 chapter: 533
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 53309"
-generated_at: "2026-03-30T07:58:11.879Z"
+generated_at: "2026-03-30T08:00:25.949Z"
 status: "active"
 ---
 

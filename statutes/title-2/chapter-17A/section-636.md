@@ -3,9 +3,9 @@ title: "Section 636 - Provisions relating to consideration of concurrent resolut
 usc_title: 2
 usc_section: "636"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "2 U.S.C. § 636"
-generated_at: "2026-03-30T07:55:02.749Z"
+generated_at: "2026-03-30T07:58:38.833Z"
 status: "active"
 ---
 

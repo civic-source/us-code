@@ -3,9 +3,9 @@ title: "Section 0 - Additional prohibition on cruel, inhuman, or degrading treat
 usc_title: 42
 usc_section: "0"
 chapter: 21
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T07:58:06.509Z"
+generated_at: "2026-03-30T08:00:21.549Z"
 status: "active"
 ---
 

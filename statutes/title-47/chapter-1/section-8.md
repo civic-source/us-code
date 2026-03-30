@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. July 16, 1947, ch. 256 , § 1, 61 Stat. 327"
 usc_title: 47
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "47 U.S.C. § 8"
-generated_at: "2026-03-30T07:58:14.292Z"
+generated_at: "2026-03-30T08:00:25.201Z"
 status: "repealed"
 ---
 

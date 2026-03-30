@@ -3,9 +3,9 @@ title: "Section 70102a - Port, harbor, and coastal facility security"
 usc_title: 46
 usc_section: "70102a"
 chapter: 701
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 70102a"
-generated_at: "2026-03-30T07:58:11.887Z"
+generated_at: "2026-03-30T08:00:25.958Z"
 status: "active"
 ---
 

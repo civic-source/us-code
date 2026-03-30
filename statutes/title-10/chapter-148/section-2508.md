@@ -3,9 +3,9 @@ title: "Section 2508 - Industrial Base Fund"
 usc_title: 10
 usc_section: "2508"
 chapter: 148
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 2508"
-generated_at: "2026-03-30T07:55:12.968Z"
+generated_at: "2026-03-30T07:59:04.063Z"
 status: "active"
 ---
 

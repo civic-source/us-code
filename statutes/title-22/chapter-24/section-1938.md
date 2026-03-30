@@ -3,9 +3,9 @@ title: "Section 1938 - Repealed. July 18, 1956, ch. 627 , § 8(m), 70 Stat. 559"
 usc_title: 22
 usc_section: "1938"
 chapter: 24
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 1938"
-generated_at: "2026-03-30T07:56:40.743Z"
+generated_at: "2026-03-30T07:59:32.613Z"
 status: "repealed"
 ---
 

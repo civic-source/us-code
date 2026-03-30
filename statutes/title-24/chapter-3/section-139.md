@@ -3,9 +3,9 @@ title: "Section 139 - Repealed. Pub. L. 85–857 , § 14(4), (5), (26), Sept. 2,
 usc_title: 24
 usc_section: "139"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "24 U.S.C. § 139"
-generated_at: "2026-03-30T07:56:41.541Z"
+generated_at: "2026-03-30T07:59:27.429Z"
 status: "repealed"
 ---
 

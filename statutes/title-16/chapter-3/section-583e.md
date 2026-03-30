@@ -3,9 +3,9 @@ title: "Section 583e - Remedies against private owners; jurisdiction; final orde
 usc_title: 16
 usc_section: "583e"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 583e"
-generated_at: "2026-03-30T07:56:29.806Z"
+generated_at: "2026-03-30T07:59:23.092Z"
 status: "active"
 ---
 

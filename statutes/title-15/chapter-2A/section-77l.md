@@ -3,9 +3,9 @@ title: "Section 77l - Civil liabilities arising in connection with prospectuses 
 usc_title: 15
 usc_section: "77l"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 77l"
-generated_at: "2026-03-30T07:55:36.879Z"
+generated_at: "2026-03-30T07:59:12.282Z"
 status: "active"
 ---
 

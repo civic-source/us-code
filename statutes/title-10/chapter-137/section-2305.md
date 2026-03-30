@@ -3,9 +3,9 @@ title: "Section 2305 - Contracts: planning, solicitation, evaluation, and award 
 usc_title: 10
 usc_section: "2305"
 chapter: 137
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 2305"
-generated_at: "2026-03-30T07:55:12.951Z"
+generated_at: "2026-03-30T07:59:04.044Z"
 status: "active"
 ---
 

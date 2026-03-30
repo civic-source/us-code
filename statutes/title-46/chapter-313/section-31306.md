@@ -3,9 +3,9 @@ title: "Section 31306 - Declaration of citizenship"
 usc_title: 46
 usc_section: "31306"
 chapter: 313
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 31306"
-generated_at: "2026-03-30T07:58:11.872Z"
+generated_at: "2026-03-30T08:00:25.942Z"
 status: "active"
 ---
 

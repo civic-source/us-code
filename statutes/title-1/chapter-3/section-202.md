@@ -3,9 +3,9 @@ title: "Section 202 - Preparation and publication of Codes and Supplements"
 usc_title: 1
 usc_section: "202"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "1 U.S.C. § 202"
-generated_at: "2026-03-30T07:54:52.543Z"
+generated_at: "2026-03-30T07:58:35.493Z"
 status: "active"
 ---
 

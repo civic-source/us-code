@@ -3,9 +3,9 @@ title: "Section 5117aa - Repealed. Pub. L. 115–271, title VII , § 7065(b), Oc
 usc_title: 42
 usc_section: "5117aa"
 chapter: 67
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 5117aa"
-generated_at: "2026-03-30T07:58:06.578Z"
+generated_at: "2026-03-30T08:00:21.614Z"
 status: "repealed"
 ---
 

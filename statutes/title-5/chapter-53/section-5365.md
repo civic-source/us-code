@@ -3,9 +3,9 @@ title: "Section 5365 - Regulations"
 usc_title: 5
 usc_section: "5365"
 chapter: 53
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "5 U.S.C. § 5365"
-generated_at: "2026-03-30T07:54:54.953Z"
+generated_at: "2026-03-30T07:58:45.193Z"
 status: "active"
 ---
 

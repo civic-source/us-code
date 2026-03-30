@@ -3,9 +3,9 @@ title: "Section 6764 - Definitions"
 usc_title: 15
 usc_section: "6764"
 chapter: 93
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 6764"
-generated_at: "2026-03-30T07:55:37.031Z"
+generated_at: "2026-03-30T07:59:12.447Z"
 status: "active"
 ---
 

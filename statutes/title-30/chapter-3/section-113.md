@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1028"
 usc_title: 30
 usc_section: "113"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "30 U.S.C. § 113"
-generated_at: "2026-03-30T07:57:17.986Z"
+generated_at: "2026-03-30T07:59:35.282Z"
 status: "repealed"
 ---
 

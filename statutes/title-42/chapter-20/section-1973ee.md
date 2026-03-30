@@ -3,9 +3,9 @@ title: "Section 1973ee - Transferred"
 usc_title: 42
 usc_section: "1973ee"
 chapter: 20
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1973ee"
-generated_at: "2026-03-30T07:58:06.503Z"
+generated_at: "2026-03-30T08:00:21.543Z"
 status: "transferred"
 ---
 

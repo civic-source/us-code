@@ -3,9 +3,9 @@ title: "Section 7409 - Action to enjoin flagrant political expenditures of secti
 usc_title: 26
 usc_section: "7409"
 chapter: 76
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 7409"
-generated_at: "2026-03-30T07:57:29.858Z"
+generated_at: "2026-03-30T07:59:44.516Z"
 status: "active"
 ---
 

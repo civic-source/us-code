@@ -3,9 +3,9 @@ title: "Section 25b - Programs to reduce underage drinking"
 usc_title: 42
 usc_section: "25b"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 25b"
-generated_at: "2026-03-30T07:58:06.209Z"
+generated_at: "2026-03-30T08:00:21.254Z"
 status: "active"
 ---
 

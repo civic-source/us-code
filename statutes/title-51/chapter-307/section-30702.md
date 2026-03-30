@@ -3,9 +3,9 @@ title: "Section 30702 - Foreign contract limitation"
 usc_title: 51
 usc_section: "30702"
 chapter: 307
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "51 U.S.C. § 30702"
-generated_at: "2026-03-30T07:58:24.231Z"
+generated_at: "2026-03-30T08:00:33.065Z"
 status: "active"
 ---
 

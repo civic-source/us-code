@@ -3,9 +3,9 @@ title: "Section 4980A - Repealed. Pub. L. 105–34, title X , § 1073(a), Aug. 5
 usc_title: 26
 usc_section: "4980A"
 chapter: 43
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 4980A"
-generated_at: "2026-03-30T07:57:29.812Z"
+generated_at: "2026-03-30T07:59:44.469Z"
 status: "repealed"
 ---
 

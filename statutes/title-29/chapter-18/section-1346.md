@@ -3,9 +3,9 @@ title: "Section 1346 - Reports to trustee"
 usc_title: 29
 usc_section: "1346"
 chapter: 18
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "29 U.S.C. § 1346"
-generated_at: "2026-03-30T07:57:32.050Z"
+generated_at: "2026-03-30T07:59:38.727Z"
 status: "active"
 ---
 

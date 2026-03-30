@@ -3,9 +3,9 @@ title: "Section 1 - Time of appointing electors"
 usc_title: 3
 usc_section: "1"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "3 U.S.C. § 1"
-generated_at: "2026-03-30T07:54:52.679Z"
+generated_at: "2026-03-30T07:58:34.844Z"
 status: "active"
 ---
 

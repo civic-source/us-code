@@ -3,9 +3,9 @@ title: "Section 107 - Exclusive economic zone"
 usc_title: 46
 usc_section: "107"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 107"
-generated_at: "2026-03-30T07:58:11.857Z"
+generated_at: "2026-03-30T08:00:25.924Z"
 status: "active"
 ---
 

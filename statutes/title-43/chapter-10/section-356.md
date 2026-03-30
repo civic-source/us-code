@@ -3,9 +3,9 @@ title: "Section 356 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21
 usc_title: 43
 usc_section: "356"
 chapter: 10
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "43 U.S.C. § 356"
-generated_at: "2026-03-30T07:57:46.415Z"
+generated_at: "2026-03-30T08:00:10.893Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3847 - Data on conservation practices"
 usc_title: 16
 usc_section: "3847"
 chapter: 58
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 3847"
-generated_at: "2026-03-30T07:56:29.908Z"
+generated_at: "2026-03-30T07:59:23.198Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
   - **(2)** a summary of the steps the Secretary would have to take to provide access to such data sets by university researchers, including taking into account any technical, privacy, or administrative considerations;
   - **(3)** a summary of safeguards the Secretary employs when providing access to data to university researchers;
   - **(4)** a summary of appropriate procedures to maximize the potential for research benefits while preventing any violations of privacy or confidentiality; and
-  - **(5)** recommendations for any necessary authorizations or clarifications of Federal law to allow access to such data sets to maximize the potential for research benefits
+  - **(5)** recommendations for any necessary authorizations or clarifications of Federal law to allow access to such data sets to maximize the potential for research benefits.

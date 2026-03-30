@@ -3,9 +3,9 @@ title: "Section 1 - Special rule for certain aircraft operations. 2 2 So in orig
 usc_title: 49
 usc_section: "1"
 chapter: 447
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "49 U.S.C. § 1"
-generated_at: "2026-03-30T07:58:21.938Z"
+generated_at: "2026-03-30T08:00:30.880Z"
 status: "active"
 ---
 

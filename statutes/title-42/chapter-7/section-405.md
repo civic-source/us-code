@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T07:58:06.288Z"
+generated_at: "2026-03-30T08:00:21.330Z"
 status: "active"
 ---
 

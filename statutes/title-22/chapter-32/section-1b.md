@@ -3,9 +3,9 @@ title: "Section 1b - Transferred"
 usc_title: 22
 usc_section: "1b"
 chapter: 32
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 1b"
-generated_at: "2026-03-30T07:56:40.773Z"
+generated_at: "2026-03-30T07:59:32.637Z"
 status: "transferred"
 ---
 

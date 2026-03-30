@@ -3,9 +3,9 @@ title: "Section 1371 - Reports"
 usc_title: 8
 usc_section: "1371"
 chapter: 12
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "8 U.S.C. § 1371"
-generated_at: "2026-03-30T07:55:07.037Z"
+generated_at: "2026-03-30T07:58:47.797Z"
 status: "active"
 ---
 

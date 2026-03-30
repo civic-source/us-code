@@ -3,9 +3,9 @@ title: "Section 10302 - Basic eligibility"
 usc_title: 34
 usc_section: "10302"
 chapter: 101
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 10302"
-generated_at: "2026-03-30T07:57:36.467Z"
+generated_at: "2026-03-30T07:59:57.238Z"
 status: "active"
 ---
 

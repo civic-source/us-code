@@ -3,9 +3,9 @@ title: "Section 1234A - Gains or losses from certain terminations"
 usc_title: 26
 usc_section: "1234A"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 1234A"
-generated_at: "2026-03-30T07:57:29.769Z"
+generated_at: "2026-03-30T07:59:44.426Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2961 - Study and decision aid"
 usc_title: 15
 usc_section: "2961"
 chapter: 56
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 2961"
-generated_at: "2026-03-30T07:55:37.009Z"
+generated_at: "2026-03-30T07:59:12.425Z"
 status: "active"
 ---
 

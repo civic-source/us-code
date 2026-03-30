@@ -3,9 +3,9 @@ title: "Section 7014 - Office of the Secretary of the Army"
 usc_title: 10
 usc_section: "7014"
 chapter: 703
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 7014"
-generated_at: "2026-03-30T07:55:12.985Z"
+generated_at: "2026-03-30T07:59:04.079Z"
 status: "active"
 ---
 

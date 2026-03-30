@@ -3,9 +3,9 @@ title: "Section 1941 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), (7), 
 usc_title: 22
 usc_section: "1941"
 chapter: 24
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 1941"
-generated_at: "2026-03-30T07:56:40.743Z"
+generated_at: "2026-03-30T07:59:32.613Z"
 status: "repealed"
 ---
 

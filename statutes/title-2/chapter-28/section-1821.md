@@ -3,9 +3,9 @@ title: "Section 1821 - Small purchase contracting authority"
 usc_title: 2
 usc_section: "1821"
 chapter: 28
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "2 U.S.C. § 1821"
-generated_at: "2026-03-30T07:55:02.763Z"
+generated_at: "2026-03-30T07:58:38.848Z"
 status: "active"
 ---
 

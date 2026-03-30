@@ -3,9 +3,9 @@ title: "Section 410xxx - Ste. Genevieve National Historical Park"
 usc_title: 16
 usc_section: "410xxx"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 410xxx"
-generated_at: "2026-03-30T07:56:29.741Z"
+generated_at: "2026-03-30T07:59:23.025Z"
 status: "active"
 ---
 

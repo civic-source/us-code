@@ -3,9 +3,9 @@ title: "Section 6483 - Sense of Congress regarding national security strategy to
 usc_title: 22
 usc_section: "6483"
 chapter: 73
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 6483"
-generated_at: "2026-03-30T07:56:40.830Z"
+generated_at: "2026-03-30T07:59:32.694Z"
 status: "active"
 ---
 

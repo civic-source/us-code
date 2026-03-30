@@ -3,9 +3,9 @@ title: "Section 182 - Repealed. Pub. L. 99–514, title IV , § 402(a), Oct. 22,
 usc_title: 26
 usc_section: "182"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 182"
-generated_at: "2026-03-30T07:57:29.680Z"
+generated_at: "2026-03-30T07:59:44.336Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9301 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "9301"
 chapter: 101
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 9301"
-generated_at: "2026-03-30T07:58:06.690Z"
+generated_at: "2026-03-30T08:00:21.724Z"
 status: "active"
 ---
 

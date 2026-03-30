@@ -3,9 +3,9 @@ title: "Section 563 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 
 usc_title: 45
 usc_section: "563"
 chapter: 14
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "45 U.S.C. § 563"
-generated_at: "2026-03-30T07:57:50.511Z"
+generated_at: "2026-03-30T08:00:04.539Z"
 status: "repealed"
 ---
 

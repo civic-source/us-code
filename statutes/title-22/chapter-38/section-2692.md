@@ -3,9 +3,9 @@ title: "Section 2692 - Compensation for persons participating in State Departmen
 usc_title: 22
 usc_section: "2692"
 chapter: 38
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 2692"
-generated_at: "2026-03-30T07:56:40.784Z"
+generated_at: "2026-03-30T07:59:32.648Z"
 status: "active"
 ---
 

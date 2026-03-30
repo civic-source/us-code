@@ -3,9 +3,9 @@ title: "Section 21141 - “State” defined"
 usc_title: 52
 usc_section: "21141"
 chapter: 209
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "52 U.S.C. § 21141"
-generated_at: "2026-03-30T07:58:23.577Z"
+generated_at: "2026-03-30T08:00:32.835Z"
 status: "active"
 ---
 

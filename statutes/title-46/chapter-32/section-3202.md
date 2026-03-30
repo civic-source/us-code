@@ -3,9 +3,9 @@ title: "Section 3202 - Application"
 usc_title: 46
 usc_section: "3202"
 chapter: 32
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 3202"
-generated_at: "2026-03-30T07:58:11.859Z"
+generated_at: "2026-03-30T08:00:25.926Z"
 status: "active"
 ---
 

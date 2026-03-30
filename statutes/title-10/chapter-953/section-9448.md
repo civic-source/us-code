@@ -3,9 +3,9 @@ title: "Section 9448 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "9448"
 chapter: 953
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 9448"
-generated_at: "2026-03-30T07:55:13.006Z"
+generated_at: "2026-03-30T07:59:04.100Z"
 status: "active"
 ---
 

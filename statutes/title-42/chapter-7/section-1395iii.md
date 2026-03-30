@@ -3,9 +3,9 @@ title: "Section 1395iii - Medicare Improvement Fund"
 usc_title: 42
 usc_section: "1395iii"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1395iii"
-generated_at: "2026-03-30T07:58:06.418Z"
+generated_at: "2026-03-30T08:00:21.460Z"
 status: "active"
 ---
 

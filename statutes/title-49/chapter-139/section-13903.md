@@ -3,9 +3,9 @@ title: "Section 13903 - Registration of freight forwarders"
 usc_title: 49
 usc_section: "13903"
 chapter: 139
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "49 U.S.C. § 13903"
-generated_at: "2026-03-30T07:58:21.898Z"
+generated_at: "2026-03-30T08:00:30.838Z"
 status: "active"
 ---
 

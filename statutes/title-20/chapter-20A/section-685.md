@@ -1,13 +1,13 @@
 ---
-title: "Section 685 - Repealed. Pub. L. 99–371, title II , § 210(d), formerly title IV, § 410(d), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(d), Pub. L. 102–421, title I , § 101(b)(5), (6), Oct. 16, 1992 , 106 Stat. 2151"
+title: "Section 685 - Repealed. Pub. L. 99–371, title II, § 210(d) , formerly title IV, § 410(d), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(d), Pub. L. 102–421, title I, § 101(b)(5) , (6), Oct. 16, 1992 , 106 Stat. 2151"
 usc_title: 20
 usc_section: "685"
 chapter: 20
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 685"
-generated_at: "2026-03-30T07:56:07.948Z"
+generated_at: "2026-03-30T07:59:17.837Z"
 status: "repealed"
 ---
 
-# §§ 681 to 685. Repealed. Pub. L. 99–371, title II , § 210(d), formerly title IV, § 410(d), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(d), Pub. L. 102–421, title I , § 101(b)(5), (6), Oct. 16, 1992 , 106 Stat. 2151
+# §§ 681 to 685. Repealed. Pub. L. 99–371, title II, § 210(d) , formerly title IV, § 410(d), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(d), Pub. L. 102–421, title I, § 101(b)(5) , (6), Oct. 16, 1992 , 106 Stat. 2151
 

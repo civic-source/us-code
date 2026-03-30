@@ -3,9 +3,9 @@ title: "Section 1444 - Withholding on Virgin Islands source income"
 usc_title: 26
 usc_section: "1444"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 1444"
-generated_at: "2026-03-30T07:57:29.782Z"
+generated_at: "2026-03-30T07:59:44.438Z"
 status: "active"
 ---
 

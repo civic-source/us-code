@@ -3,9 +3,9 @@ title: "Section 3522 - Liquidation or reliquidation and refund of duty paid on c
 usc_title: 19
 usc_section: "3522"
 chapter: 22
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 3522"
-generated_at: "2026-03-30T07:55:55.654Z"
+generated_at: "2026-03-30T07:59:25.265Z"
 status: "active"
 ---
 

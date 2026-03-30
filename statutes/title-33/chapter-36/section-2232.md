@@ -3,9 +3,9 @@ title: "Section 2232 - Construction of water resources development projects by n
 usc_title: 33
 usc_section: "2232"
 chapter: 36
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 2232"
-generated_at: "2026-03-30T07:57:37.889Z"
+generated_at: "2026-03-30T07:59:48.378Z"
 status: "active"
 ---
 

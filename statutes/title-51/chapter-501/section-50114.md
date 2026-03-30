@@ -3,9 +3,9 @@ title: "Section 50114 - Administration of commercial space centers"
 usc_title: 51
 usc_section: "50114"
 chapter: 501
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "51 U.S.C. § 50114"
-generated_at: "2026-03-30T07:58:24.233Z"
+generated_at: "2026-03-30T08:00:33.068Z"
 status: "active"
 ---
 

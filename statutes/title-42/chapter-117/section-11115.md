@@ -3,9 +3,9 @@ title: "Section 11115 - Construction"
 usc_title: 42
 usc_section: "11115"
 chapter: 117
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 11115"
-generated_at: "2026-03-30T07:58:06.727Z"
+generated_at: "2026-03-30T08:00:21.761Z"
 status: "active"
 ---
 

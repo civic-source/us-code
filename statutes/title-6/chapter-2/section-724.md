@@ -3,9 +3,9 @@ title: "Section 724 - Logistics"
 usc_title: 6
 usc_section: "724"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "6 U.S.C. § 724"
-generated_at: "2026-03-30T07:55:17.894Z"
+generated_at: "2026-03-30T07:58:54.215Z"
 status: "active"
 ---
 

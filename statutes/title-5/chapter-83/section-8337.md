@@ -3,9 +3,9 @@ title: "Section 8337 - Disability retirement"
 usc_title: 5
 usc_section: "8337"
 chapter: 83
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "5 U.S.C. § 8337"
-generated_at: "2026-03-30T07:54:54.974Z"
+generated_at: "2026-03-30T07:58:45.215Z"
 status: "active"
 ---
 

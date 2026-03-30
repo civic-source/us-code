@@ -3,9 +3,9 @@ title: "Section 105 - Depositions of witnesses residing outside county"
 usc_title: 43
 usc_section: "105"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "43 U.S.C. § 105"
-generated_at: "2026-03-30T07:57:46.412Z"
+generated_at: "2026-03-30T08:00:10.888Z"
 status: "active"
 ---
 

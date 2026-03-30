@@ -3,9 +3,9 @@ title: "Section 53735 - Fisheries financing and capacity reduction"
 usc_title: 46
 usc_section: "53735"
 chapter: 537
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 53735"
-generated_at: "2026-03-30T07:58:11.881Z"
+generated_at: "2026-03-30T08:00:25.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8541 - Definitions"
 usc_title: 22
 usc_section: "8541"
 chapter: 92
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 8541"
-generated_at: "2026-03-30T07:56:40.853Z"
+generated_at: "2026-03-30T07:59:32.717Z"
 status: "active"
 ---
 

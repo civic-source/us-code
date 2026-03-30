@@ -3,9 +3,9 @@ title: "Section 4306 - Alien Property Custodian; general powers and duties"
 usc_title: 50
 usc_section: "4306"
 chapter: 53
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "50 U.S.C. § 4306"
-generated_at: "2026-03-30T07:58:11.058Z"
+generated_at: "2026-03-30T08:00:28.984Z"
 status: "active"
 ---
 

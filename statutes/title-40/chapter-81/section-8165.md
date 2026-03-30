@@ -3,9 +3,9 @@ title: "Section 8165 - Services for Office of Personnel Management"
 usc_title: 40
 usc_section: "8165"
 chapter: 81
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "40 U.S.C. § 8165"
-generated_at: "2026-03-30T07:57:42.236Z"
+generated_at: "2026-03-30T08:00:00.449Z"
 status: "active"
 ---
 

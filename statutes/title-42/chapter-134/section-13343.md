@@ -3,9 +3,9 @@ title: "Section 13343 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13343"
 chapter: 134
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 13343"
-generated_at: "2026-03-30T07:58:06.767Z"
+generated_at: "2026-03-30T08:00:21.802Z"
 status: "active"
 ---
 

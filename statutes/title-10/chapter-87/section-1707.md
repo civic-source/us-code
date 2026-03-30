@@ -3,9 +3,9 @@ title: "Section 1707 - Repealed. Pub. L. 108–136, div. A, title VIII , § 831(
 usc_title: 10
 usc_section: "1707"
 chapter: 87
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 1707"
-generated_at: "2026-03-30T07:55:12.937Z"
+generated_at: "2026-03-30T07:59:04.029Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7651j - Excess emissions penalty"
 usc_title: 42
 usc_section: "7651j"
 chapter: 85
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 7651j"
-generated_at: "2026-03-30T07:58:06.667Z"
+generated_at: "2026-03-30T08:00:21.701Z"
 status: "active"
 ---
 

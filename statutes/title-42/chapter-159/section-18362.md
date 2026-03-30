@@ -3,9 +3,9 @@ title: "Section 18362 - Retirement of Space Shuttle orbiters and transition of S
 usc_title: 42
 usc_section: "18362"
 chapter: 159
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 18362"
-generated_at: "2026-03-30T07:58:06.823Z"
+generated_at: "2026-03-30T08:00:21.854Z"
 status: "active"
 ---
 

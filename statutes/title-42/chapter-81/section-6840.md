@@ -3,9 +3,9 @@ title: "Section 6840 - Repealed. Pub. L. 102–486, title I , § 101(a)(2), Oct.
 usc_title: 42
 usc_section: "6840"
 chapter: 81
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 6840"
-generated_at: "2026-03-30T07:58:06.619Z"
+generated_at: "2026-03-30T08:00:21.654Z"
 status: "repealed"
 ---
 

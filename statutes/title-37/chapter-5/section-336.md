@@ -3,9 +3,9 @@ title: "Section 336 - Contracting bonus for cadets and midshipmen enrolled in th
 usc_title: 37
 usc_section: "336"
 chapter: 5
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "37 U.S.C. § 336"
-generated_at: "2026-03-30T07:57:41.663Z"
+generated_at: "2026-03-30T07:59:59.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1795g - Depositories, custodians, and fiscal agents"
 usc_title: 12
 usc_section: "1795g"
 chapter: 14
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 1795g"
-generated_at: "2026-03-30T07:55:50.780Z"
+generated_at: "2026-03-30T07:59:10.247Z"
 status: "active"
 ---
 

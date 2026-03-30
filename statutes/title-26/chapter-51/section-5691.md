@@ -3,9 +3,9 @@ title: "Section 5691 - Repealed. Pub. L. 109–59, title XI , § 11125(b)(19)(A)
 usc_title: 26
 usc_section: "5691"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 5691"
-generated_at: "2026-03-30T07:57:29.823Z"
+generated_at: "2026-03-30T07:59:44.480Z"
 status: "repealed"
 ---
 

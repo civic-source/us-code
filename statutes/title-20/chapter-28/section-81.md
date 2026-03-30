@@ -1,13 +1,13 @@
 ---
-title: "Section 81 - Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 1998 , 112 Stat. 1664"
+title: "Section 81 - Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664"
 usc_title: 20
 usc_section: "81"
 chapter: 28
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 81"
-generated_at: "2026-03-30T07:56:07.965Z"
+generated_at: "2026-03-30T07:59:17.854Z"
 status: "repealed"
 ---
 
-# § 1070a–81. Repealed. Pub. L. 105–244, title IV , § 405, Oct. 7, 1998 , 112 Stat. 1664
+# § 1070a–81. Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664
 

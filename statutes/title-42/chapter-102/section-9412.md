@@ -3,9 +3,9 @@ title: "Section 9412 - Definitions"
 usc_title: 42
 usc_section: "9412"
 chapter: 102
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 9412"
-generated_at: "2026-03-30T07:58:06.691Z"
+generated_at: "2026-03-30T08:00:21.724Z"
 status: "active"
 ---
 

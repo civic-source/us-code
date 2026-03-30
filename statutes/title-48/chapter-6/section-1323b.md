@@ -3,9 +3,9 @@ title: "Section 1323b - Repealed. Pub. L. 87–845 , § 26(b), Oct. 18, 1962 , 7
 usc_title: 48
 usc_section: "1323b"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "48 U.S.C. § 1323b"
-generated_at: "2026-03-30T07:58:15.974Z"
+generated_at: "2026-03-30T08:00:24.824Z"
 status: "repealed"
 ---
 

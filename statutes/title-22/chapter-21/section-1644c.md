@@ -3,9 +3,9 @@ title: "Section 1644c - Ownership of claims by nationals"
 usc_title: 22
 usc_section: "1644c"
 chapter: 21
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 1644c"
-generated_at: "2026-03-30T07:56:40.741Z"
+generated_at: "2026-03-30T07:59:32.611Z"
 status: "active"
 ---
 

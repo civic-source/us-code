@@ -3,9 +3,9 @@ title: "Section 286tt - Restrictions on use of United States funds for foreign g
 usc_title: 22
 usc_section: "286tt"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 286tt"
-generated_at: "2026-03-30T07:56:40.725Z"
+generated_at: "2026-03-30T07:59:32.596Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 192 - Repealed. Pub. L. 98–621 , § 10(k), Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "192"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "24 U.S.C. § 192"
-generated_at: "2026-03-30T07:56:41.541Z"
+generated_at: "2026-03-30T07:59:27.429Z"
 status: "repealed"
 ---
 

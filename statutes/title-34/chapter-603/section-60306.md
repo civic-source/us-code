@@ -3,9 +3,9 @@ title: "Section 60306 - Authorization of appropriations"
 usc_title: 34
 usc_section: "60306"
 chapter: 603
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 60306"
-generated_at: "2026-03-30T07:57:36.514Z"
+generated_at: "2026-03-30T07:59:57.284Z"
 status: "active"
 ---
 

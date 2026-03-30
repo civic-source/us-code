@@ -3,9 +3,9 @@ title: "Section 910 - Congressional Record: subscriptions; sale of current, indi
 usc_title: 44
 usc_section: "910"
 chapter: 9
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "44 U.S.C. § 910"
-generated_at: "2026-03-30T07:58:07.034Z"
+generated_at: "2026-03-30T08:00:07.825Z"
 status: "active"
 ---
 

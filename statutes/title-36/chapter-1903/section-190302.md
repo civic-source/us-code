@@ -3,9 +3,9 @@ title: "Section 190302 - Organization"
 usc_title: 36
 usc_section: "190302"
 chapter: 1903
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "36 U.S.C. § 190302"
-generated_at: "2026-03-30T07:57:40.120Z"
+generated_at: "2026-03-30T07:59:59.923Z"
 status: "active"
 ---
 

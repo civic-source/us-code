@@ -3,9 +3,9 @@ title: "Section 123 - Repealed. June 27, 1956, ch. 453 , § 105(m), 70 Stat. 372
 usc_title: 2
 usc_section: "123"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "2 U.S.C. § 123"
-generated_at: "2026-03-30T07:55:02.740Z"
+generated_at: "2026-03-30T07:58:38.823Z"
 status: "repealed"
 ---
 

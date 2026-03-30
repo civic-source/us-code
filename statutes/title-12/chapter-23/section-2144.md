@@ -3,9 +3,9 @@ title: "Section 2144 - Consolidation of functions"
 usc_title: 12
 usc_section: "2144"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 2144"
-generated_at: "2026-03-30T07:55:50.807Z"
+generated_at: "2026-03-30T07:59:10.276Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3756 - Grade on entry upon active duty"
 usc_title: 14
 usc_section: "3756"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "14 U.S.C. § 3756"
-generated_at: "2026-03-30T07:55:38.758Z"
+generated_at: "2026-03-30T07:59:06.936Z"
 status: "active"
 ---
 

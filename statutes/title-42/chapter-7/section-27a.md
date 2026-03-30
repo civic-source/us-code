@@ -3,9 +3,9 @@ title: "Section 27a - Special rules for MA regional plans"
 usc_title: 42
 usc_section: "27a"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 27a"
-generated_at: "2026-03-30T07:58:06.379Z"
+generated_at: "2026-03-30T08:00:21.421Z"
 status: "active"
 ---
 

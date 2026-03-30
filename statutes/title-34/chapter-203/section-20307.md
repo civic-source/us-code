@@ -3,9 +3,9 @@ title: "Section 20307 - Accountability"
 usc_title: 34
 usc_section: "20307"
 chapter: 203
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 20307"
-generated_at: "2026-03-30T07:57:36.496Z"
+generated_at: "2026-03-30T07:59:57.266Z"
 status: "active"
 ---
 

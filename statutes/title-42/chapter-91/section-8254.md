@@ -3,9 +3,9 @@ title: "Section 8254 - Establishment and use of life cycle cost methods and proc
 usc_title: 42
 usc_section: "8254"
 chapter: 91
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 8254"
-generated_at: "2026-03-30T07:58:06.678Z"
+generated_at: "2026-03-30T08:00:21.711Z"
 status: "active"
 ---
 

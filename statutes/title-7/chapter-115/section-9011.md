@@ -3,9 +3,9 @@ title: "Section 9011 - Definitions"
 usc_title: 7
 usc_section: "9011"
 chapter: 115
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 9011"
-generated_at: "2026-03-30T07:55:30.960Z"
+generated_at: "2026-03-30T07:58:53.643Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1400v - Omitted"
 usc_title: 42
 usc_section: "1400v"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1400v"
-generated_at: "2026-03-30T07:58:06.455Z"
+generated_at: "2026-03-30T08:00:21.496Z"
 status: "omitted"
 ---
 

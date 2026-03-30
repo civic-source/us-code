@@ -3,9 +3,9 @@ title: "Section 3175 - Nutrition education program"
 usc_title: 7
 usc_section: "3175"
 chapter: 64
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 3175"
-generated_at: "2026-03-30T07:55:30.896Z"
+generated_at: "2026-03-30T07:58:53.577Z"
 status: "active"
 ---
 

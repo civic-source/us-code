@@ -3,9 +3,9 @@ title: "Section 1342 - Exemption from liability"
 usc_title: 45
 usc_section: "1342"
 chapter: 22
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "45 U.S.C. § 1342"
-generated_at: "2026-03-30T07:57:50.521Z"
+generated_at: "2026-03-30T08:00:04.549Z"
 status: "active"
 ---
 

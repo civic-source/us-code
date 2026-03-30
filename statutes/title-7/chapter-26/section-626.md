@@ -3,9 +3,9 @@ title: "Section 626 - Import inventory"
 usc_title: 7
 usc_section: "626"
 chapter: 26
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 626"
-generated_at: "2026-03-30T07:55:30.818Z"
+generated_at: "2026-03-30T07:58:53.498Z"
 status: "active"
 ---
 

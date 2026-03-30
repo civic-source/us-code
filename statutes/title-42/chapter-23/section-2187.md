@@ -3,9 +3,9 @@ title: "Section 2187 - Compensation, awards, and royalties"
 usc_title: 42
 usc_section: "2187"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 2187"
-generated_at: "2026-03-30T07:58:06.520Z"
+generated_at: "2026-03-30T08:00:21.560Z"
 status: "active"
 ---
 

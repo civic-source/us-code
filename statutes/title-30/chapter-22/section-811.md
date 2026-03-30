@@ -3,9 +3,9 @@ title: "Section 811 - Mandatory safety and health standards"
 usc_title: 30
 usc_section: "811"
 chapter: 22
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "30 U.S.C. § 811"
-generated_at: "2026-03-30T07:57:17.994Z"
+generated_at: "2026-03-30T07:59:35.290Z"
 status: "active"
 ---
 

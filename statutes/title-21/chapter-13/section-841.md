@@ -3,9 +3,9 @@ title: "Section 841 - Prohibited acts A"
 usc_title: 21
 usc_section: "841"
 chapter: 13
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "21 U.S.C. § 841"
-generated_at: "2026-03-30T07:56:37.691Z"
+generated_at: "2026-03-30T07:59:29.415Z"
 status: "active"
 ---
 

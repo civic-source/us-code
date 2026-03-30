@@ -3,9 +3,9 @@ title: "Section 12 - Notice of motions to vacate or modify; service; stay of pro
 usc_title: 9
 usc_section: "12"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "9 U.S.C. § 12"
-generated_at: "2026-03-30T07:55:05.924Z"
+generated_at: "2026-03-30T07:58:51.120Z"
 status: "active"
 ---
 

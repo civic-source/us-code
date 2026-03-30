@@ -3,9 +3,9 @@ title: "Section 3142 - Base closings and realignments"
 usc_title: 42
 usc_section: "3142"
 chapter: 38
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3142"
-generated_at: "2026-03-30T07:58:06.545Z"
+generated_at: "2026-03-30T08:00:21.583Z"
 status: "active"
 ---
 

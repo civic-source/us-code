@@ -3,9 +3,9 @@ title: "Section 1801 - Congressional declaration of policy"
 usc_title: 15
 usc_section: "1801"
 chapter: 43
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 1801"
-generated_at: "2026-03-30T07:55:36.985Z"
+generated_at: "2026-03-30T07:59:12.400Z"
 status: "active"
 ---
 

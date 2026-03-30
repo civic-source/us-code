@@ -3,9 +3,9 @@ title: "Section 715 - Audit of accounts and operations of the District of Columb
 usc_title: 31
 usc_section: "715"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "31 U.S.C. § 715"
-generated_at: "2026-03-30T07:57:34.650Z"
+generated_at: "2026-03-30T07:59:47.262Z"
 status: "active"
 ---
 

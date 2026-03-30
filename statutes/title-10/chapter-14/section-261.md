@@ -3,9 +3,9 @@ title: "Section 261 - During war or threat to national security"
 usc_title: 10
 usc_section: "261"
 chapter: 14
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 261"
-generated_at: "2026-03-30T07:55:12.883Z"
+generated_at: "2026-03-30T07:59:03.972Z"
 status: "active"
 ---
 

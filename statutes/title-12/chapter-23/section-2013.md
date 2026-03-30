@@ -3,9 +3,9 @@ title: "Section 2013 - General corporate powers"
 usc_title: 12
 usc_section: "2013"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 2013"
-generated_at: "2026-03-30T07:55:50.805Z"
+generated_at: "2026-03-30T07:59:10.274Z"
 status: "active"
 ---
 

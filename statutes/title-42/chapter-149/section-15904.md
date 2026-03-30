@@ -3,9 +3,9 @@ title: "Section 15904 - Incentives for natural gas production from deep wells in
 usc_title: 42
 usc_section: "15904"
 chapter: 149
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 15904"
-generated_at: "2026-03-30T07:58:06.785Z"
+generated_at: "2026-03-30T08:00:21.819Z"
 status: "active"
 ---
 

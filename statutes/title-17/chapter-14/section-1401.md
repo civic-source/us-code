@@ -3,9 +3,9 @@ title: "Section 1401 - Unauthorized use of pre-1972 sound recordings"
 usc_title: 17
 usc_section: "1401"
 chapter: 14
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "17 U.S.C. § 1401"
-generated_at: "2026-03-30T07:55:56.685Z"
+generated_at: "2026-03-30T07:59:24.215Z"
 status: "active"
 ---
 

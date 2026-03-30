@@ -3,9 +3,9 @@ title: "Section 4809 - Definitions"
 usc_title: 15
 usc_section: "4809"
 chapter: 74
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 4809"
-generated_at: "2026-03-30T07:55:37.021Z"
+generated_at: "2026-03-30T07:59:12.438Z"
 status: "active"
 ---
 

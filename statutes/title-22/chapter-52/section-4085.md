@@ -3,9 +3,9 @@ title: "Section 4085 - Entertainment and representation expenses"
 usc_title: 22
 usc_section: "4085"
 chapter: 52
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 4085"
-generated_at: "2026-03-30T07:56:40.808Z"
+generated_at: "2026-03-30T07:59:32.672Z"
 status: "active"
 ---
 

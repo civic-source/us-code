@@ -3,9 +3,9 @@ title: "Section 175a - Omitted"
 usc_title: 48
 usc_section: "175a"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "48 U.S.C. § 175a"
-generated_at: "2026-03-30T07:58:15.972Z"
+generated_at: "2026-03-30T08:00:24.821Z"
 status: "omitted"
 ---
 

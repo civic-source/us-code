@@ -3,9 +3,9 @@ title: "Section 8026 - Consultation with Commandant of the Marine Corps on major
 usc_title: 10
 usc_section: "8026"
 chapter: 803
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 8026"
-generated_at: "2026-03-30T07:55:12.992Z"
+generated_at: "2026-03-30T07:59:04.086Z"
 status: "active"
 ---
 

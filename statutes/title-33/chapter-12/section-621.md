@@ -3,9 +3,9 @@ title: "Section 621 - By what methods river and harbor work may be authorized to
 usc_title: 33
 usc_section: "621"
 chapter: 12
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 621"
-generated_at: "2026-03-30T07:57:37.848Z"
+generated_at: "2026-03-30T07:59:48.337Z"
 status: "active"
 ---
 

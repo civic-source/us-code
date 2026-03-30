@@ -3,9 +3,9 @@ title: "Section 7808 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7808"
 chapter: 105
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 7808"
-generated_at: "2026-03-30T07:55:30.946Z"
+generated_at: "2026-03-30T07:58:53.628Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1660 - Receipt of pirate property"
 usc_title: 18
 usc_section: "1660"
 chapter: 81
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "18 U.S.C. § 1660"
-generated_at: "2026-03-30T07:55:54.262Z"
+generated_at: "2026-03-30T07:59:20.850Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 320 - Acquisition of lands for reservoirs or materials"
 usc_title: 25
 usc_section: "320"
 chapter: 8
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "25 U.S.C. § 320"
-generated_at: "2026-03-30T07:57:04.499Z"
+generated_at: "2026-03-30T07:59:30.175Z"
 status: "active"
 ---
 

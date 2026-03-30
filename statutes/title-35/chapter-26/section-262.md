@@ -3,9 +3,9 @@ title: "Section 262 - Joint owners"
 usc_title: 35
 usc_section: "262"
 chapter: 26
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "35 U.S.C. § 262"
-generated_at: "2026-03-30T07:57:35.852Z"
+generated_at: "2026-03-30T07:59:46.358Z"
 status: "active"
 ---
 

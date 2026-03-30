@@ -3,9 +3,9 @@ title: "Section 1498 - Rules and regulations"
 usc_title: 25
 usc_section: "1498"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "25 U.S.C. § 1498"
-generated_at: "2026-03-30T07:57:04.513Z"
+generated_at: "2026-03-30T07:59:30.186Z"
 status: "active"
 ---
 

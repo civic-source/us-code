@@ -3,9 +3,9 @@ title: "Section 2 - Prohibited foreign trade practices by domestic concerns"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T07:55:36.902Z"
+generated_at: "2026-03-30T07:59:12.308Z"
 status: "active"
 ---
 

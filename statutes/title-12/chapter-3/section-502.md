@@ -3,9 +3,9 @@ title: "Section 502 - Liability of shareholders of Federal reserve banks on cont
 usc_title: 12
 usc_section: "502"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 502"
-generated_at: "2026-03-30T07:55:50.727Z"
+generated_at: "2026-03-30T07:59:10.191Z"
 status: "active"
 ---
 

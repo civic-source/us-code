@@ -3,9 +3,9 @@ title: "Section 9132 - Regular Air Force: gender-free basis for acceptance of or
 usc_title: 10
 usc_section: "9132"
 chapter: 913
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 9132"
-generated_at: "2026-03-30T07:55:13.004Z"
+generated_at: "2026-03-30T07:59:04.098Z"
 status: "active"
 ---
 

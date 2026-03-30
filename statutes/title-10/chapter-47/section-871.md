@@ -3,9 +3,9 @@ title: "Section 871 - Repealed. Pub. L. 114–328, div. E, title LVIII , § 5302
 usc_title: 10
 usc_section: "871"
 chapter: 47
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 871"
-generated_at: "2026-03-30T07:55:12.903Z"
+generated_at: "2026-03-30T07:59:03.991Z"
 status: "repealed"
 ---
 

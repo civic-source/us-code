@@ -3,9 +3,9 @@ title: "Section 773 - Definitions"
 usc_title: 16
 usc_section: "773"
 chapter: 10
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 773"
-generated_at: "2026-03-30T07:56:29.824Z"
+generated_at: "2026-03-30T07:59:23.111Z"
 status: "active"
 ---
 

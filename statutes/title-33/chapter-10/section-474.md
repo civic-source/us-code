@@ -3,9 +3,9 @@ title: "Section 474 - Anchorage and general regulations for St. Marys River"
 usc_title: 33
 usc_section: "474"
 chapter: 10
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 474"
-generated_at: "2026-03-30T07:57:37.843Z"
+generated_at: "2026-03-30T07:59:48.331Z"
 status: "active"
 ---
 

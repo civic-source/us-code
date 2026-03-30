@@ -3,9 +3,9 @@ title: "Section 1059a - Applications"
 usc_title: 20
 usc_section: "1059a"
 chapter: 28
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 1059a"
-generated_at: "2026-03-30T07:56:07.959Z"
+generated_at: "2026-03-30T07:59:17.848Z"
 status: "active"
 ---
 

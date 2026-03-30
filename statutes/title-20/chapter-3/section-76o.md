@@ -3,9 +3,9 @@ title: "Section 76o - Borrowing authority to finance parking facilities"
 usc_title: 20
 usc_section: "76o"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 76o"
-generated_at: "2026-03-30T07:56:07.943Z"
+generated_at: "2026-03-30T07:59:17.832Z"
 status: "active"
 ---
 

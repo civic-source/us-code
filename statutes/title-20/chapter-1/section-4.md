@@ -1,13 +1,13 @@
 ---
-title: "Section 4 - Repealed. Pub. L. 91–230, title IV , § 401(d)(1), (2), Apr. 13, 1970 , 84 Stat. 173"
+title: "Section 4 - Repealed. Pub. L. 91–230, title IV, § 401(d)(1) , (2), Apr. 13, 1970 , 84 Stat. 173"
 usc_title: 20
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-30T07:56:07.941Z"
+generated_at: "2026-03-30T07:59:17.830Z"
 status: "repealed"
 ---
 
-# §§ 3, 4. Repealed. Pub. L. 91–230, title IV , § 401(d)(1), (2), Apr. 13, 1970 , 84 Stat. 173
+# §§ 3, 4. Repealed. Pub. L. 91–230, title IV, § 401(d)(1) , (2), Apr. 13, 1970 , 84 Stat. 173
 

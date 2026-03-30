@@ -3,9 +3,9 @@ title: "Section 4610a - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "4610a"
 chapter: 77
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 4610a"
-generated_at: "2026-03-30T07:55:30.906Z"
+generated_at: "2026-03-30T07:58:53.587Z"
 status: "active"
 ---
 

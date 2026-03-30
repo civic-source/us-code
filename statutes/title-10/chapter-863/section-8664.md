@@ -3,9 +3,9 @@ title: "Section 8664 - Suspension of construction in case of treaty"
 usc_title: 10
 usc_section: "8664"
 chapter: 863
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 8664"
-generated_at: "2026-03-30T07:55:12.998Z"
+generated_at: "2026-03-30T07:59:04.093Z"
 status: "active"
 ---
 

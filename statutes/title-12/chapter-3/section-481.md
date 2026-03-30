@@ -3,9 +3,9 @@ title: "Section 481 - Appointment of examiners; examination of member banks, Sta
 usc_title: 12
 usc_section: "481"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 481"
-generated_at: "2026-03-30T07:55:50.726Z"
+generated_at: "2026-03-30T07:59:10.191Z"
 status: "active"
 ---
 

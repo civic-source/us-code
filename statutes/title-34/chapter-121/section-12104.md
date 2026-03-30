@@ -3,9 +3,9 @@ title: "Section 12104 - Truth-in-sentencing incentive grants"
 usc_title: 34
 usc_section: "12104"
 chapter: 121
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 12104"
-generated_at: "2026-03-30T07:57:36.482Z"
+generated_at: "2026-03-30T07:59:57.253Z"
 status: "active"
 ---
 

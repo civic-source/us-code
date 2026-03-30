@@ -3,9 +3,9 @@ title: "Section 220 - Repealed. Pub. L. 88–597 , § 19(c), Sept. 15, 1964 , 78
 usc_title: 24
 usc_section: "220"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "24 U.S.C. § 220"
-generated_at: "2026-03-30T07:56:41.541Z"
+generated_at: "2026-03-30T07:59:27.429Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8833 - Guaranteed construction loans"
 usc_title: 42
 usc_section: "8833"
 chapter: 96
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 8833"
-generated_at: "2026-03-30T07:58:06.686Z"
+generated_at: "2026-03-30T08:00:21.719Z"
 status: "active"
 ---
 

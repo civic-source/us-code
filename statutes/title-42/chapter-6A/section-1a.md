@@ -3,9 +3,9 @@ title: "Section 1a - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "1a"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T07:58:06.251Z"
+generated_at: "2026-03-30T08:00:21.293Z"
 status: "active"
 ---
 

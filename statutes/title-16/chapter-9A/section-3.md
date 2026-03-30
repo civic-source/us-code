@@ -3,9 +3,9 @@ title: "Section 3 - Establishment of trout hatchery in Pisgah National Forest"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T07:56:29.824Z"
+generated_at: "2026-03-30T07:59:23.110Z"
 status: "active"
 ---
 

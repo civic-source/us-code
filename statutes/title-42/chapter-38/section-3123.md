@@ -3,9 +3,9 @@ title: "Section 3123 - Discrimination on basis of sex prohibited in federally as
 usc_title: 42
 usc_section: "3123"
 chapter: 38
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3123"
-generated_at: "2026-03-30T07:58:06.545Z"
+generated_at: "2026-03-30T08:00:21.583Z"
 status: "active"
 ---
 

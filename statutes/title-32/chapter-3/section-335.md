@@ -3,9 +3,9 @@ title: "Section 335 - Repealed. Pub. L. 98–525, title IV , § 414(b)(2)(A), Oc
 usc_title: 32
 usc_section: "335"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "32 U.S.C. § 335"
-generated_at: "2026-03-30T07:57:33.652Z"
+generated_at: "2026-03-30T07:59:46.155Z"
 status: "repealed"
 ---
 

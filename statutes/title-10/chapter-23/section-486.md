@@ -3,9 +3,9 @@ title: "Section 486 - Repealed. Pub. L. 112–81, div. A, title X , § 1061(8)(A
 usc_title: 10
 usc_section: "486"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 486"
-generated_at: "2026-03-30T07:55:12.889Z"
+generated_at: "2026-03-30T07:59:03.977Z"
 status: "repealed"
 ---
 

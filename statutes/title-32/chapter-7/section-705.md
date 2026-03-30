@@ -3,9 +3,9 @@ title: "Section 705 - Purchase of uniforms and equipment by officers of National
 usc_title: 32
 usc_section: "705"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "32 U.S.C. § 705"
-generated_at: "2026-03-30T07:57:33.653Z"
+generated_at: "2026-03-30T07:59:46.156Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80104 - Property"
 usc_title: 36
 usc_section: "80104"
 chapter: 801
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "36 U.S.C. § 80104"
-generated_at: "2026-03-30T07:57:40.112Z"
+generated_at: "2026-03-30T07:59:59.915Z"
 status: "active"
 ---
 

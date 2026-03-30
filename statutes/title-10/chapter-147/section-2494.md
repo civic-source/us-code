@@ -3,9 +3,9 @@ title: "Section 2494 - Nonappropriated fund instrumentalities: furnishing utilit
 usc_title: 10
 usc_section: "2494"
 chapter: 147
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 2494"
-generated_at: "2026-03-30T07:55:12.967Z"
+generated_at: "2026-03-30T07:59:04.062Z"
 status: "active"
 ---
 

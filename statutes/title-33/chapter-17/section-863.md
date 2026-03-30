@@ -3,9 +3,9 @@ title: "Section 863 - Repealed. June 21, 1955, ch. 172 , § 5(4), 69 Stat. 170"
 usc_title: 33
 usc_section: "863"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 863"
-generated_at: "2026-03-30T07:57:37.855Z"
+generated_at: "2026-03-30T07:59:48.344Z"
 status: "repealed"
 ---
 

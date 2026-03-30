@@ -3,9 +3,9 @@ title: "Section 3821 - Vessels subject to inspection"
 usc_title: 22
 usc_section: "3821"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 3821"
-generated_at: "2026-03-30T07:56:40.800Z"
+generated_at: "2026-03-30T07:59:32.664Z"
 status: "active"
 ---
 

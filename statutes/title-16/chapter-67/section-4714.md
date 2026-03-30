@@ -3,9 +3,9 @@ title: "Section 4714 - Ballast water management demonstration program"
 usc_title: 16
 usc_section: "4714"
 chapter: 67
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 4714"
-generated_at: "2026-03-30T07:56:29.916Z"
+generated_at: "2026-03-30T07:59:23.206Z"
 status: "active"
 ---
 

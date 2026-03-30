@@ -3,9 +3,9 @@ title: "Section 2077 - Unauthorized dealings in special nuclear material"
 usc_title: 42
 usc_section: "2077"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 2077"
-generated_at: "2026-03-30T07:58:06.515Z"
+generated_at: "2026-03-30T08:00:21.554Z"
 status: "active"
 ---
 

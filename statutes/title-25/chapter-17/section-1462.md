@@ -3,9 +3,9 @@ title: "Section 1462 - Economic development; educational loans; limitation of lo
 usc_title: 25
 usc_section: "1462"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "25 U.S.C. § 1462"
-generated_at: "2026-03-30T07:57:04.512Z"
+generated_at: "2026-03-30T07:59:30.186Z"
 status: "active"
 ---
 

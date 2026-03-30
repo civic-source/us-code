@@ -3,9 +3,9 @@ title: "Section 5107 - Major acquisition program risk assessment"
 usc_title: 14
 usc_section: "5107"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "14 U.S.C. § 5107"
-generated_at: "2026-03-30T07:55:38.759Z"
+generated_at: "2026-03-30T07:59:06.938Z"
 status: "active"
 ---
 

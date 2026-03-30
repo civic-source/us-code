@@ -3,9 +3,9 @@ title: "Section 9058 - Effect of failure to pay administrative fees or premiums"
 usc_title: 7
 usc_section: "9058"
 chapter: 115
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 9058"
-generated_at: "2026-03-30T07:55:30.963Z"
+generated_at: "2026-03-30T07:58:53.646Z"
 status: "active"
 ---
 

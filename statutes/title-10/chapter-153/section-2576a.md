@@ -3,9 +3,9 @@ title: "Section 2576a - Excess personal property: sale or donation for law enfor
 usc_title: 10
 usc_section: "2576a"
 chapter: 153
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 2576a"
-generated_at: "2026-03-30T07:55:12.971Z"
+generated_at: "2026-03-30T07:59:04.066Z"
 status: "active"
 ---
 

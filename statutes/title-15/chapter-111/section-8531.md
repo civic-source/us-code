@@ -3,9 +3,9 @@ title: "Section 8531 - National Oceanic and Atmospheric Administration satellite
 usc_title: 15
 usc_section: "8531"
 chapter: 111
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "15 U.S.C. § 8531"
-generated_at: "2026-03-30T07:55:37.044Z"
+generated_at: "2026-03-30T07:59:12.460Z"
 status: "active"
 ---
 

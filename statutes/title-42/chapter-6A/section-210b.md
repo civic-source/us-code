@@ -3,9 +3,9 @@ title: "Section 210b - Professional categories"
 usc_title: 42
 usc_section: "210b"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 210b"
-generated_at: "2026-03-30T07:58:06.148Z"
+generated_at: "2026-03-30T08:00:21.194Z"
 status: "active"
 ---
 

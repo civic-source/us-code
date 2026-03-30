@@ -3,9 +3,9 @@ title: "Section 344 - Participation in multinational military centers of excelle
 usc_title: 10
 usc_section: "344"
 chapter: 16
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 344"
-generated_at: "2026-03-30T07:55:12.884Z"
+generated_at: "2026-03-30T07:59:03.973Z"
 status: "active"
 ---
 

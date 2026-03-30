@@ -3,9 +3,9 @@ title: "Section 4033 - Rules of origin"
 usc_title: 19
 usc_section: "4033"
 chapter: 26
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 4033"
-generated_at: "2026-03-30T07:55:55.660Z"
+generated_at: "2026-03-30T07:59:25.270Z"
 status: "active"
 ---
 

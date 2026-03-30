@@ -3,9 +3,9 @@ title: "Section 20106 - Relationship to Voting Rights Act of 1965"
 usc_title: 52
 usc_section: "20106"
 chapter: 201
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "52 U.S.C. § 20106"
-generated_at: "2026-03-30T07:58:23.571Z"
+generated_at: "2026-03-30T08:00:32.828Z"
 status: "active"
 ---
 

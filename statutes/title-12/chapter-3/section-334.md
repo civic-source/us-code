@@ -3,9 +3,9 @@ title: "Section 334 - Reports from affiliates; penalty for failure to furnish"
 usc_title: 12
 usc_section: "334"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 334"
-generated_at: "2026-03-30T07:55:50.722Z"
+generated_at: "2026-03-30T07:59:10.186Z"
 status: "active"
 ---
 

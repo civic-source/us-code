@@ -3,9 +3,9 @@ title: "Section 1395 - Prohibition against any Federal interference"
 usc_title: 42
 usc_section: "1395"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1395"
-generated_at: "2026-03-30T07:58:06.345Z"
+generated_at: "2026-03-30T08:00:21.387Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1866 - Divisions within Foundation"
 usc_title: 42
 usc_section: "1866"
 chapter: 16
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1866"
-generated_at: "2026-03-30T07:58:06.499Z"
+generated_at: "2026-03-30T08:00:21.539Z"
 status: "active"
 ---
 

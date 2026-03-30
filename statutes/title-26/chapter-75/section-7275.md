@@ -3,9 +3,9 @@ title: "Section 7275 - Penalty for offenses relating to certain airline tickets 
 usc_title: 26
 usc_section: "7275"
 chapter: 75
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 7275"
-generated_at: "2026-03-30T07:57:29.857Z"
+generated_at: "2026-03-30T07:59:44.514Z"
 status: "active"
 ---
 

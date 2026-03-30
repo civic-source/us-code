@@ -3,9 +3,9 @@ title: "Section 1631 - Establishment and maintenance; scope"
 usc_title: 48
 usc_section: "1631"
 chapter: 12
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "48 U.S.C. § 1631"
-generated_at: "2026-03-30T07:58:15.980Z"
+generated_at: "2026-03-30T08:00:24.830Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3a - Requirements relating to qualified prescription drug monito
 usc_title: 42
 usc_section: "3a"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T07:58:06.446Z"
+generated_at: "2026-03-30T08:00:21.487Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9104 - Authorization of appropriations"
 usc_title: 40
 usc_section: "9104"
 chapter: 91
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "40 U.S.C. § 9104"
-generated_at: "2026-03-30T07:57:42.239Z"
+generated_at: "2026-03-30T08:00:00.451Z"
 status: "active"
 ---
 

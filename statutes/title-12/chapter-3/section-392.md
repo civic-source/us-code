@@ -3,9 +3,9 @@ title: "Section 392 - Depositaries of Government funds as confined to banks in F
 usc_title: 12
 usc_section: "392"
 chapter: 3
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 392"
-generated_at: "2026-03-30T07:55:50.725Z"
+generated_at: "2026-03-30T07:59:10.190Z"
 status: "active"
 ---
 

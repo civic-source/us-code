@@ -3,9 +3,9 @@ title: "Section 307 - Relationship to general census law"
 usc_title: 13
 usc_section: "307"
 chapter: 9
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "13 U.S.C. § 307"
-generated_at: "2026-03-30T07:55:37.298Z"
+generated_at: "2026-03-30T07:59:06.116Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1134 - Award of Jacob K. Javits fellowships"
 usc_title: 20
 usc_section: "1134"
 chapter: 28
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 1134"
-generated_at: "2026-03-30T07:56:07.996Z"
+generated_at: "2026-03-30T07:59:17.886Z"
 status: "active"
 ---
 

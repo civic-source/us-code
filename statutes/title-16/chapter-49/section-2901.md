@@ -3,9 +3,9 @@ title: "Section 2901 - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "2901"
 chapter: 49
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 2901"
-generated_at: "2026-03-30T07:56:29.891Z"
+generated_at: "2026-03-30T07:59:23.181Z"
 status: "active"
 ---
 

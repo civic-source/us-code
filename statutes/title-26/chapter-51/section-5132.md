@@ -3,9 +3,9 @@ title: "Section 5132 - Prohibited purchases by dealers"
 usc_title: 26
 usc_section: "5132"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 5132"
-generated_at: "2026-03-30T07:57:29.818Z"
+generated_at: "2026-03-30T07:59:44.475Z"
 status: "active"
 ---
 

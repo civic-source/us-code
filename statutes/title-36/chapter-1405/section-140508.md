@@ -3,9 +3,9 @@ title: "Section 140508 - Records and inspection"
 usc_title: 36
 usc_section: "140508"
 chapter: 1405
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "36 U.S.C. § 140508"
-generated_at: "2026-03-30T07:57:40.115Z"
+generated_at: "2026-03-30T07:59:59.918Z"
 status: "active"
 ---
 

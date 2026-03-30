@@ -3,9 +3,9 @@ title: "Section 108 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat.
 usc_title: 27
 usc_section: "108"
 chapter: 5
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "27 U.S.C. § 108"
-generated_at: "2026-03-30T07:57:17.709Z"
+generated_at: "2026-03-30T07:59:34.323Z"
 status: "repealed"
 ---
 

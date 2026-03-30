@@ -3,9 +3,9 @@ title: "Section 3205 - Repealed. Pub. L. 113–188, title XII , § 1201, Nov. 26
 usc_title: 19
 usc_section: "3205"
 chapter: 20
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 3205"
-generated_at: "2026-03-30T07:55:55.649Z"
+generated_at: "2026-03-30T07:59:25.260Z"
 status: "repealed"
 ---
 

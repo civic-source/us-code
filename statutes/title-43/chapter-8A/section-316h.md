@@ -3,9 +3,9 @@ title: "Section 316h - Dispositions of receipts"
 usc_title: 43
 usc_section: "316h"
 chapter: 8
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "43 U.S.C. § 316h"
-generated_at: "2026-03-30T07:57:46.414Z"
+generated_at: "2026-03-30T08:00:10.892Z"
 status: "active"
 ---
 

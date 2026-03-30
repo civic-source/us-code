@@ -3,9 +3,9 @@ title: "Section 7279 - Identification in budget materials of amounts for certain
 usc_title: 42
 usc_section: "7279"
 chapter: 84
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 7279"
-generated_at: "2026-03-30T07:58:06.637Z"
+generated_at: "2026-03-30T08:00:21.671Z"
 status: "active"
 ---
 

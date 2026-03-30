@@ -3,9 +3,9 @@ title: "Section 11381 - Purposes"
 usc_title: 42
 usc_section: "11381"
 chapter: 119
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 11381"
-generated_at: "2026-03-30T07:58:06.731Z"
+generated_at: "2026-03-30T08:00:21.765Z"
 status: "active"
 ---
 

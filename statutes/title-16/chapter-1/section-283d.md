@@ -3,9 +3,9 @@ title: "Section 283d - Availability of funds"
 usc_title: 16
 usc_section: "283d"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 283d"
-generated_at: "2026-03-30T07:56:29.716Z"
+generated_at: "2026-03-30T07:59:22.999Z"
 status: "active"
 ---
 

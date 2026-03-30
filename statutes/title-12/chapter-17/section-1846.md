@@ -3,9 +3,9 @@ title: "Section 1846 - Reservation of rights to States"
 usc_title: 12
 usc_section: "1846"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 1846"
-generated_at: "2026-03-30T07:55:50.803Z"
+generated_at: "2026-03-30T07:59:10.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2614 - Emergency communications equipment: acceptance from local
 usc_title: 10
 usc_section: "2614"
 chapter: 155
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 2614"
-generated_at: "2026-03-30T07:55:12.973Z"
+generated_at: "2026-03-30T07:59:04.067Z"
 status: "active"
 ---
 

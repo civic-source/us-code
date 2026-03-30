@@ -1,13 +1,13 @@
 ---
-title: "Section 1226 - Repealed. Pub. L. 103–382, title II , § 212(a)(1), Oct. 20, 1994 , 108 Stat. 3913"
+title: "Section 1226 - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913"
 usc_title: 20
 usc_section: "1226"
 chapter: 31
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 1226"
-generated_at: "2026-03-30T07:56:08.004Z"
+generated_at: "2026-03-30T07:59:17.894Z"
 status: "repealed"
 ---
 
-# § 1226. Repealed. Pub. L. 103–382, title II , § 212(a)(1), Oct. 20, 1994 , 108 Stat. 3913
+# § 1226. Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913
 

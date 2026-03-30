@@ -3,9 +3,9 @@ title: "Section 153709 - Records and inspection"
 usc_title: 36
 usc_section: "153709"
 chapter: 1537
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "36 U.S.C. § 153709"
-generated_at: "2026-03-30T07:57:40.119Z"
+generated_at: "2026-03-30T07:59:59.922Z"
 status: "active"
 ---
 

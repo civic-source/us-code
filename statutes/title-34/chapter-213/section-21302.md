@@ -3,9 +3,9 @@ title: "Section 21302 - Findings"
 usc_title: 34
 usc_section: "21302"
 chapter: 213
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 21302"
-generated_at: "2026-03-30T07:57:36.502Z"
+generated_at: "2026-03-30T07:59:57.272Z"
 status: "active"
 ---
 

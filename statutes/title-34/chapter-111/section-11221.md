@@ -3,9 +3,9 @@ title: "Section 11221 - Authority for program"
 usc_title: 34
 usc_section: "11221"
 chapter: 111
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 11221"
-generated_at: "2026-03-30T07:57:36.480Z"
+generated_at: "2026-03-30T07:59:57.250Z"
 status: "active"
 ---
 

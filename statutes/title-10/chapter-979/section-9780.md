@@ -3,9 +3,9 @@ title: "Section 9780 - Acquisition of buildings in District of Columbia"
 usc_title: 10
 usc_section: "9780"
 chapter: 979
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 9780"
-generated_at: "2026-03-30T07:55:13.009Z"
+generated_at: "2026-03-30T07:59:04.103Z"
 status: "active"
 ---
 

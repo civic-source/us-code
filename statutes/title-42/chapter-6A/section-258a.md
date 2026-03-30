@@ -3,9 +3,9 @@ title: "Section 258a - Transferred"
 usc_title: 42
 usc_section: "258a"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 258a"
-generated_at: "2026-03-30T07:58:06.176Z"
+generated_at: "2026-03-30T08:00:21.221Z"
 status: "transferred"
 ---
 

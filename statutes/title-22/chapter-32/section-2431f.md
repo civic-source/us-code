@@ -3,9 +3,9 @@ title: "Section 2431f - Authority to engage in debt-for-nature swaps and debt bu
 usc_title: 22
 usc_section: "2431f"
 chapter: 32
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 2431f"
-generated_at: "2026-03-30T07:56:40.776Z"
+generated_at: "2026-03-30T07:59:32.640Z"
 status: "active"
 ---
 

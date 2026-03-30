@@ -3,9 +3,9 @@ title: "Section 6501 - Appointment of consultants by Majority Leader, Minority L
 usc_title: 2
 usc_section: "6501"
 chapter: 65
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "2 U.S.C. § 6501"
-generated_at: "2026-03-30T07:55:02.778Z"
+generated_at: "2026-03-30T07:58:38.866Z"
 status: "active"
 ---
 

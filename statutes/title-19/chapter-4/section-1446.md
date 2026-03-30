@@ -3,9 +3,9 @@ title: "Section 1446 - Supplies and stores retained on board"
 usc_title: 19
 usc_section: "1446"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 1446"
-generated_at: "2026-03-30T07:55:55.606Z"
+generated_at: "2026-03-30T07:59:25.218Z"
 status: "active"
 ---
 

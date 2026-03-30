@@ -3,9 +3,9 @@ title: "Section 7d - Guidance regarding application of health care fraud and abu
 usc_title: 42
 usc_section: "7d"
 chapter: 7
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-30T07:58:06.329Z"
+generated_at: "2026-03-30T08:00:21.371Z"
 status: "active"
 ---
 

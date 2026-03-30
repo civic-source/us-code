@@ -3,9 +3,9 @@ title: "Section 20141 - Services to victims"
 usc_title: 34
 usc_section: "20141"
 chapter: 201
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 20141"
-generated_at: "2026-03-30T07:57:36.495Z"
+generated_at: "2026-03-30T07:59:57.264Z"
 status: "active"
 ---
 

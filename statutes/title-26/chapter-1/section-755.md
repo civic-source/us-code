@@ -3,9 +3,9 @@ title: "Section 755 - Rules for allocation of basis"
 usc_title: 26
 usc_section: "755"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 755"
-generated_at: "2026-03-30T07:57:29.741Z"
+generated_at: "2026-03-30T07:59:44.397Z"
 status: "active"
 ---
 

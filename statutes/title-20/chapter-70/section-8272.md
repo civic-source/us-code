@@ -1,13 +1,13 @@
 ---
-title: "Section 8272 - Repealed. Pub. L. 107–110, title X , § 1011(5)(A), Jan. 8, 2002 , 115 Stat. 1986"
+title: "Section 8272 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986"
 usc_title: 20
 usc_section: "8272"
 chapter: 70
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "20 U.S.C. § 8272"
-generated_at: "2026-03-30T07:56:08.060Z"
+generated_at: "2026-03-30T07:59:17.953Z"
 status: "repealed"
 ---
 
-# §§ 8271, 8272. Repealed. Pub. L. 107–110, title X , § 1011(5)(A), Jan. 8, 2002 , 115 Stat. 1986
+# §§ 8271, 8272. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986
 

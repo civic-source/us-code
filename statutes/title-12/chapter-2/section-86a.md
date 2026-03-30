@@ -3,9 +3,9 @@ title: "Section 86a - Omitted"
 usc_title: 12
 usc_section: "86a"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 86a"
-generated_at: "2026-03-30T07:55:50.717Z"
+generated_at: "2026-03-30T07:59:10.181Z"
 status: "omitted"
 ---
 

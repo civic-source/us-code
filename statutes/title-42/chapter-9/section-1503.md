@@ -3,9 +3,9 @@ title: "Section 1503 - Development of projects by Secretary; financial assistanc
 usc_title: 42
 usc_section: "1503"
 chapter: 9
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 1503"
-generated_at: "2026-03-30T07:58:06.475Z"
+generated_at: "2026-03-30T08:00:21.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2451a - Repealed. Pub. L. 91–269 , § 7, May 27, 1970 , 84 Sta
 usc_title: 22
 usc_section: "2451a"
 chapter: 33
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 2451a"
-generated_at: "2026-03-30T07:56:40.776Z"
+generated_at: "2026-03-30T07:59:32.640Z"
 status: "repealed"
 ---
 

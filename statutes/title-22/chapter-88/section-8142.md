@@ -3,9 +3,9 @@ title: "Section 8142 - Penalties"
 usc_title: 22
 usc_section: "8142"
 chapter: 88
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "22 U.S.C. § 8142"
-generated_at: "2026-03-30T07:56:40.848Z"
+generated_at: "2026-03-30T07:59:32.712Z"
 status: "active"
 ---
 

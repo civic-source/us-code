@@ -3,9 +3,9 @@ title: "Section 2459a - Omitted"
 usc_title: 42
 usc_section: "2459a"
 chapter: 26
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 2459a"
-generated_at: "2026-03-30T07:58:06.530Z"
+generated_at: "2026-03-30T08:00:21.569Z"
 status: "omitted"
 ---
 

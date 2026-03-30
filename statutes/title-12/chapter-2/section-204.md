@@ -3,9 +3,9 @@ title: "Section 204 - Examinations"
 usc_title: 12
 usc_section: "204"
 chapter: 2
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 204"
-generated_at: "2026-03-30T07:55:50.719Z"
+generated_at: "2026-03-30T07:59:10.183Z"
 status: "active"
 ---
 

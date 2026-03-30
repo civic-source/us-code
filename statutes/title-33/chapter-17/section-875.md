@@ -3,9 +3,9 @@ title: "Section 875 - Powers of officers as notaries"
 usc_title: 33
 usc_section: "875"
 chapter: 17
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 875"
-generated_at: "2026-03-30T07:57:37.855Z"
+generated_at: "2026-03-30T07:59:48.344Z"
 status: "active"
 ---
 

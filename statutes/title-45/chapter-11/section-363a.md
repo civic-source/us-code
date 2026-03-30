@@ -3,9 +3,9 @@ title: "Section 363a - Refunds of State unemployment contributions by employees;
 usc_title: 45
 usc_section: "363a"
 chapter: 11
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "45 U.S.C. § 363a"
-generated_at: "2026-03-30T07:57:50.511Z"
+generated_at: "2026-03-30T08:00:04.539Z"
 status: "active"
 ---
 

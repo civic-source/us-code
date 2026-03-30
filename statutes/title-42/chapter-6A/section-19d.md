@@ -3,9 +3,9 @@ title: "Section 19d - Review of technologies"
 usc_title: 42
 usc_section: "19d"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 19d"
-generated_at: "2026-03-30T07:58:06.249Z"
+generated_at: "2026-03-30T08:00:21.291Z"
 status: "active"
 ---
 

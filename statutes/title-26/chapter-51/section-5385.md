@@ -3,9 +3,9 @@ title: "Section 5385 - Specially sweetened natural wines"
 usc_title: 26
 usc_section: "5385"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 5385"
-generated_at: "2026-03-30T07:57:29.821Z"
+generated_at: "2026-03-30T07:59:44.478Z"
 status: "active"
 ---
 

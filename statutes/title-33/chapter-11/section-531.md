@@ -3,9 +3,9 @@ title: "Section 531 - International bridges"
 usc_title: 33
 usc_section: "531"
 chapter: 11
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "33 U.S.C. § 531"
-generated_at: "2026-03-30T07:57:37.844Z"
+generated_at: "2026-03-30T07:59:48.333Z"
 status: "active"
 ---
 

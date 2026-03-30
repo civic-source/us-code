@@ -3,9 +3,9 @@ title: "Section 1118 - Murder by a Federal prisoner"
 usc_title: 18
 usc_section: "1118"
 chapter: 51
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "18 U.S.C. § 1118"
-generated_at: "2026-03-30T07:55:54.258Z"
+generated_at: "2026-03-30T07:59:20.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2212 - Transmission of agreements to Congress"
 usc_title: 19
 usc_section: "2212"
 chapter: 12
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 2212"
-generated_at: "2026-03-30T07:55:55.630Z"
+generated_at: "2026-03-30T07:59:25.241Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 189 - Repealed. Pub. L. 99–514, title VIII , § 803(b)(1), Oct
 usc_title: 26
 usc_section: "189"
 chapter: 1
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "26 U.S.C. § 189"
-generated_at: "2026-03-30T07:57:29.681Z"
+generated_at: "2026-03-30T07:59:44.336Z"
 status: "repealed"
 ---
 

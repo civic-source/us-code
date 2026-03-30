@@ -3,9 +3,9 @@ title: "Section 7425 - Measures to prevent economic disruption or unemployment"
 usc_title: 42
 usc_section: "7425"
 chapter: 85
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 7425"
-generated_at: "2026-03-30T07:58:06.649Z"
+generated_at: "2026-03-30T08:00:21.683Z"
 status: "active"
 ---
 

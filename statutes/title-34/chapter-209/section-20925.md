@@ -3,9 +3,9 @@ title: "Section 20925 - Development and availability of registry management and 
 usc_title: 34
 usc_section: "20925"
 chapter: 209
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 20925"
-generated_at: "2026-03-30T07:57:36.499Z"
+generated_at: "2026-03-30T07:59:57.270Z"
 status: "active"
 ---
 

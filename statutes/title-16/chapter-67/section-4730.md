@@ -3,15 +3,15 @@ title: "Section 4730 - Great Lakes and Lake Champlain Invasive Species Program"
 usc_title: 16
 usc_section: "4730"
 chapter: 67
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 4730"
-generated_at: "2026-03-30T07:56:29.917Z"
+generated_at: "2026-03-30T07:59:23.207Z"
 status: "active"
 ---
 
 # § 4730. Great Lakes and Lake Champlain Invasive Species Program
 
-  - **(1)** In this subsection:
+  - **(1)** In this section:
     - **(A)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
     - **(B)** The term “aquatic nuisance species” has the meaning given that term in subsection (p)(1) of section 1322 of title 33 .
     - **(C)** The term “Director” means the Director of the Great Lakes National Program Office established by section 1268(b) of title 33 .
@@ -39,7 +39,7 @@ status: "active"
       - **(v)** to monitor vectors likely to be contributing to the introduction or spread of aquatic nuisance species, including ballast water operations;
       - **(vi)** to work collaboratively with the Federal, State, local, and Tribal agencies to develop criteria for prioritizing and distributing monitoring efforts;
       - **(vii)** to develop, achieve type approval for, and pilot shipboard or land-based ballast water management systems installed on, or available for use by, commercial vessels operating solely within the Great Lakes and Lake Champlain Systems to prevent the spread of aquatic nuisance species populations within the Great Lakes and Lake Champlain Systems; and
-      - **(viii)** to facilitate meaningful Federal and State implementation of the regulatory framework in this subsection, including monitoring, shipboard education, inspection, and compliance conducted by States.
+      - **(viii)** to facilitate meaningful Federal and State implementation of the regulatory framework in this section, including monitoring, shipboard education, inspection, and compliance conducted by States.
   - **(3)** The Program shall seek—
     - **(A)** to build on—
       - **(i)** existing aquatic nuisance species monitoring efforts; and

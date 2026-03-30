@@ -3,9 +3,9 @@ title: "Section 4703 - Penalty for unlawful abandonment of barge"
 usc_title: 46
 usc_section: "4703"
 chapter: 47
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "46 U.S.C. § 4703"
-generated_at: "2026-03-30T07:58:11.862Z"
+generated_at: "2026-03-30T08:00:25.931Z"
 status: "active"
 ---
 

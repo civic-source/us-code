@@ -3,9 +3,9 @@ title: "Section 4910 - Prohibited acts"
 usc_title: 16
 usc_section: "4910"
 chapter: 69
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 4910"
-generated_at: "2026-03-30T07:56:29.918Z"
+generated_at: "2026-03-30T07:59:23.208Z"
 status: "active"
 ---
 

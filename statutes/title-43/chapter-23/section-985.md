@@ -3,9 +3,9 @@ title: "Section 985 - Omitted"
 usc_title: 43
 usc_section: "985"
 chapter: 23
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "43 U.S.C. § 985"
-generated_at: "2026-03-30T07:57:46.439Z"
+generated_at: "2026-03-30T08:00:10.915Z"
 status: "omitted"
 ---
 

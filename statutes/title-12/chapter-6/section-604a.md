@@ -3,9 +3,9 @@ title: "Section 604a - Regulations authorizing exercise by foreign branches of u
 usc_title: 12
 usc_section: "604a"
 chapter: 6
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "12 U.S.C. § 604a"
-generated_at: "2026-03-30T07:55:50.727Z"
+generated_at: "2026-03-30T07:59:10.192Z"
 status: "active"
 ---
 

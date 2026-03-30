@@ -3,9 +3,9 @@ title: "Section 1097 - Contracts for medical care for retirees, dependents, and 
 usc_title: 10
 usc_section: "1097"
 chapter: 55
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 1097"
-generated_at: "2026-03-30T07:55:12.919Z"
+generated_at: "2026-03-30T07:59:04.009Z"
 status: "active"
 ---
 

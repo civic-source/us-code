@@ -3,9 +3,9 @@ title: "Section 3333 - Rangeland research grants"
 usc_title: 7
 usc_section: "3333"
 chapter: 64
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "7 U.S.C. § 3333"
-generated_at: "2026-03-30T07:55:30.900Z"
+generated_at: "2026-03-30T07:58:53.581Z"
 status: "active"
 ---
 

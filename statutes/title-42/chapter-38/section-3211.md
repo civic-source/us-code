@@ -3,9 +3,9 @@ title: "Section 3211 - Powers of Secretary"
 usc_title: 42
 usc_section: "3211"
 chapter: 38
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3211"
-generated_at: "2026-03-30T07:58:06.546Z"
+generated_at: "2026-03-30T08:00:21.584Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1517 - Procedures for investigating claims of evasion of antidum
 usc_title: 19
 usc_section: "1517"
 chapter: 4
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "19 U.S.C. § 1517"
-generated_at: "2026-03-30T07:55:55.611Z"
+generated_at: "2026-03-30T07:59:25.223Z"
 status: "active"
 ---
 

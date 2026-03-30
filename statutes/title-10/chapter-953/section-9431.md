@@ -3,9 +3,9 @@ title: "Section 9431 - Establishment; Superintendent; faculty"
 usc_title: 10
 usc_section: "9431"
 chapter: 953
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 9431"
-generated_at: "2026-03-30T07:55:13.006Z"
+generated_at: "2026-03-30T07:59:04.100Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 856a - Repealed. Pub. L. 114–328, div. E, title LVIII , § 530
 usc_title: 10
 usc_section: "856a"
 chapter: 47
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "10 U.S.C. § 856a"
-generated_at: "2026-03-30T07:55:12.902Z"
+generated_at: "2026-03-30T07:59:03.989Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1055 - Omitted"
 usc_title: 48
 usc_section: "1055"
 chapter: 5
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "48 U.S.C. § 1055"
-generated_at: "2026-03-30T07:58:15.974Z"
+generated_at: "2026-03-30T08:00:24.823Z"
 status: "omitted"
 ---
 

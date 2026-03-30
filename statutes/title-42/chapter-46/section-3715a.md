@@ -3,9 +3,9 @@ title: "Section 3715a - Transferred"
 usc_title: 42
 usc_section: "3715a"
 chapter: 46
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "42 U.S.C. § 3715a"
-generated_at: "2026-03-30T07:58:06.553Z"
+generated_at: "2026-03-30T08:00:21.591Z"
 status: "transferred"
 ---
 

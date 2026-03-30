@@ -3,9 +3,9 @@ title: "Section 3503 - Establishment of John H. Chafee Coastal Barrier Resources
 usc_title: 16
 usc_section: "3503"
 chapter: 55
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "16 U.S.C. § 3503"
-generated_at: "2026-03-30T07:56:29.898Z"
+generated_at: "2026-03-30T07:59:23.188Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** section 4 of the Coastal Barrier Improvement Act of 1990 ( 16 U.S.C. 3503 note; Public Law 101–591 ); or
   - **(3)** any other provision of law enacted on or after November 16, 1990 , that specifically replaces such a map or authorizes the modification, revision, or correction.
 - **(b)**
-  - **(1)**
+  - **(1)** The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
   - **(2)**
     - **(A)** The Secretary shall make available to the public on the Internet web site of the United States Fish and Wildlife Service digital versions of the maps included in the set of maps referred to in subsection (a).
     - **(B)** Any determination as to whether a location is inside or outside the System shall be made without regard to the digital maps available under this paragraph, except that this subparagraph does not apply with respect to any printed version of such a digital map if the printed version is included in the maps referred to in subsection (a).

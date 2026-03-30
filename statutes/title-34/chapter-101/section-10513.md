@@ -3,9 +3,9 @@ title: "Section 10513 - Application requirements"
 usc_title: 34
 usc_section: "10513"
 chapter: 101
-current_through: "PL 116-16"
+current_through: "PL 116-17"
 classification: "34 U.S.C. § 10513"
-generated_at: "2026-03-30T07:57:36.472Z"
+generated_at: "2026-03-30T07:59:57.242Z"
 status: "active"
 ---
 
