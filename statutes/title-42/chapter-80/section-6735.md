@@ -3,9 +3,9 @@ title: "Section 6735 - Program studies and recommendations; evaluation; counterc
 usc_title: 42
 usc_section: "6735"
 chapter: 80
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 6735"
-generated_at: "2026-03-30T07:07:06.636Z"
+generated_at: "2026-03-30T07:08:38.825Z"
 status: "active"
 ---
 

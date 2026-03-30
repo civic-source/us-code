@@ -3,9 +3,9 @@ title: "Section 16137 - Repealed. Pub. L. 112–81, div. A, title X , § 1061(29
 usc_title: 10
 usc_section: "16137"
 chapter: 1606
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 16137"
-generated_at: "2026-03-30T07:05:55.714Z"
+generated_at: "2026-03-30T07:07:40.128Z"
 status: "repealed"
 ---
 

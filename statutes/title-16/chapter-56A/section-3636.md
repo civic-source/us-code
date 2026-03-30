@@ -3,9 +3,9 @@ title: "Section 3636 - Rulemaking"
 usc_title: 16
 usc_section: "3636"
 chapter: 56
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 3636"
-generated_at: "2026-03-30T07:06:11.461Z"
+generated_at: "2026-03-30T07:07:59.297Z"
 status: "active"
 ---
 

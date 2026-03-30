@@ -3,9 +3,9 @@ title: "Section 3806 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "3806"
 chapter: 24
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "19 U.S.C. § 3806"
-generated_at: "2026-03-30T07:06:06.864Z"
+generated_at: "2026-03-30T07:07:56.327Z"
 status: "active"
 ---
 

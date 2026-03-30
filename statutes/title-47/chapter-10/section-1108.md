@@ -3,9 +3,9 @@ title: "Section 1108 - Omitted"
 usc_title: 47
 usc_section: "1108"
 chapter: 10
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "47 U.S.C. § 1108"
-generated_at: "2026-03-30T07:07:09.511Z"
+generated_at: "2026-03-30T07:08:46.380Z"
 status: "omitted"
 ---
 

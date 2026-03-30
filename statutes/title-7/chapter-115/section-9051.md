@@ -3,9 +3,9 @@ title: "Section 9051 - Definitions"
 usc_title: 7
 usc_section: "9051"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9051"
-generated_at: "2026-03-30T07:05:50.896Z"
+generated_at: "2026-03-30T07:07:35.054Z"
 status: "active"
 ---
 
@@ -19,15 +19,14 @@ In this part and part B:
     - **(A)** The product determined by multiplying 1.0728 by the price of corn per bushel.
     - **(B)** The product determined by multiplying 0.00735 by the price of soybean meal per ton.
     - **(C)** The product determined by multiplying 0.0137 by the price of alfalfa hay per ton.
-  - **(4)** The term “consecutive 2-month period” refers to the 2-month period consisting of the months of January and February, March and April, May and June, July and August, September and October, or November and December, respectively.
-  - **(5)**
+  - **(4)**
     - **(A)** The term “dairy operation” means, as determined by the Secretary, 1 or more dairy producers that produce and market milk as a single dairy operation in which each dairy producer—
       - **(i)** shares in the risk of producing milk; and
       - **(ii)** makes contributions (including land, labor, management, equipment, or capital) to the dairy operation of the individual or entity, which are at least commensurate with the individual or entity’s share of the proceeds of the operation.
     - **(B)** The Secretary shall determine additional ownership structures to be covered by the definition of dairy operation.
-  - **(6)** The term “margin protection program” means the margin protection program required by section 9053 of this title .
-  - **(7)** The term “margin protection program payment” means a payment made to a participating dairy operation under the margin protection program pursuant to section 9056 of this title .
-  - **(8)** The term “participating dairy operation” means a dairy operation that registers under section 9054 of this title to participate in the margin protection program.
-  - **(9)** The term “production history” means the production history determined for a participating dairy operation under subsection (a) or (b) of section 9055 of this title when the participating dairy operation first registers to participate in the margin protection program.
-  - **(10)** The term “Secretary” means the Secretary of Agriculture.
-  - **(11)** The term “United States”, in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+  - **(5)** The term “margin protection program” means the margin protection program required by section 9053 of this title .
+  - **(6)** The term “margin protection program payment” means a payment made to a participating dairy operation under the margin protection program pursuant to section 9056 of this title .
+  - **(7)** The term “participating dairy operation” means a dairy operation that registers under section 9054 of this title to participate in the margin protection program.
+  - **(8)** The term “production history” means the production history determined for a participating dairy operation under subsection (a) or (b) of section 9055 of this title when the participating dairy operation first registers to participate in the margin protection program.
+  - **(9)** The term “Secretary” means the Secretary of Agriculture.
+  - **(10)** The term “United States”, in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.

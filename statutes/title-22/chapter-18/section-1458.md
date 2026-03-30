@@ -3,9 +3,9 @@ title: "Section 1458 - Policy governing rendition of services"
 usc_title: 22
 usc_section: "1458"
 chapter: 18
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 1458"
-generated_at: "2026-03-30T07:06:26.336Z"
+generated_at: "2026-03-30T07:08:06.093Z"
 status: "active"
 ---
 

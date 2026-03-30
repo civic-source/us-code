@@ -3,9 +3,9 @@ title: "Section 2 - Program allocation and covered housing assistance"
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T07:07:06.486Z"
+generated_at: "2026-03-30T07:08:38.670Z"
 status: "active"
 ---
 

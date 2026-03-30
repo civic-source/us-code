@@ -3,9 +3,9 @@ title: "Section 462 - Reporting of violations; notice; opportunity to present vi
 usc_title: 21
 usc_section: "462"
 chapter: 10
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "21 U.S.C. § 462"
-generated_at: "2026-03-30T07:06:24.191Z"
+generated_at: "2026-03-30T07:08:02.815Z"
 status: "active"
 ---
 

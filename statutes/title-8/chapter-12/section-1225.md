@@ -3,9 +3,9 @@ title: "Section 1225 - Inspection by immigration officers; expedited removal of 
 usc_title: 8
 usc_section: "1225"
 chapter: 12
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "8 U.S.C. § 1225"
-generated_at: "2026-03-30T07:05:48.188Z"
+generated_at: "2026-03-30T07:07:36.277Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7082 - Deferred annuity policy required"
 usc_title: 10
 usc_section: "7082"
 chapter: 607
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 7082"
-generated_at: "2026-03-30T07:05:55.689Z"
+generated_at: "2026-03-30T07:07:40.105Z"
 status: "active"
 ---
 

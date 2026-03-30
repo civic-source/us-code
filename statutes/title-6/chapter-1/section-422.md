@@ -3,9 +3,9 @@ title: "Section 422 - Procurements for defense against or recovery from terroris
 usc_title: 6
 usc_section: "422"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "6 U.S.C. § 422"
-generated_at: "2026-03-30T07:05:47.617Z"
+generated_at: "2026-03-30T07:07:35.756Z"
 status: "active"
 ---
 

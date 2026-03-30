@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T07:06:35.515Z"
+generated_at: "2026-03-30T07:08:15.577Z"
 status: "active"
 ---
 
@@ -65,8 +65,8 @@ status: "active"
   - **(3)**
     - **(A)** The term “3-year property” includes—
       - **(i)** any race horse—
-        - **(I)** which is placed in service before January 1, 2017 , and
-        - **(II)** which is placed in service after December 31, 2016 , and which is more than 2 years old at the time such horse is placed in service by such purchaser,
+        - **(I)** which is placed in service before January 1, 2018 , and
+        - **(II)** which is placed in service after December 31, 2017 , and which is more than 2 years old at the time such horse is placed in service by such purchaser,
       - **(ii)** any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
       - **(iii)** any qualified rent-to-own property.
     - **(B)** The term “5-year property” includes—
@@ -144,7 +144,7 @@ status: "active"
     - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Residential rental property 30 years (iv) Nonresidential real property 40 years (v) Any railroad grading or tunnel bore or water utility property 50 years
   - **(3)**
     - **(A)** In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
-    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 24 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 24 20 (E)(v) 24 30 (E)(vi) 24 35 (F) 25
+    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (F) 25
     - **(C)** In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(D)** In the case of any automobile or light general purpose truck, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(E)** In the case of any section 1245 property which is real property with no class life, the recovery period used for purposes of paragraph (2) shall be 40 years.
@@ -373,7 +373,7 @@ status: "active"
       - **(ii)** support facilities (including food and beverage retailing, souvenir vending, and other nonlodging accommodations), and
       - **(iii)** appurtenances associated with such facilities and related attractions and amusements (including ticket booths, race track surfaces, suites and hospitality facilities, grandstands and viewing structures, props, walls, facilities that support the delivery of entertainment services, other special purpose structures, facades, shop interiors, and buildings).
     - **(C)** Such term shall not include any transportation equipment, administrative services assets, warehouses, administrative buildings, hotels, or motels.
-    - **(D)** Such term shall not include any property placed in service after December 31, 2016 .
+    - **(D)** Such term shall not include any property placed in service after December 31, 2017 .
   - **(16)** The term “Alaska natural gas pipeline” means the natural gas pipeline system located in the State of Alaska which—
     - **(A)** has a capacity of more than 500,000,000,000 Btu of natural gas per day, and
     - **(B)** is—
@@ -428,7 +428,7 @@ status: "active"
     - **(B)** section 4(10) of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1903(10) ).
   - **(7)** Any reference in this subsection to a provision not contained in this title shall be treated for purposes of this subsection as a reference to such provision as in effect on the date of the enactment of this paragraph.
   - **(8)** If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
-  - **(9)** This subsection shall not apply to property placed in service after December 31, 2016 .
+  - **(9)** This subsection shall not apply to property placed in service after December 31, 2017 .
 - **(k)**
   - **(1)** In the case of any qualified property—
     - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to the applicable percentage of the adjusted basis of the qualified property, and
@@ -544,7 +544,7 @@ status: "active"
     - **(A)** which is used in the United States solely to produce second generation biofuel (as defined in section 40(b)(6)(E)),
     - **(B)** the original use of which commences with the taxpayer after the date of the enactment of this subsection,
     - **(C)** which is acquired by the taxpayer by purchase (as defined in section 179(d)) after the date of the enactment of this subsection, but only if no written binding contract for the acquisition was in effect on or before the date of the enactment of this subsection, and
-    - **(D)** which is placed in service by the taxpayer before January 1, 2017 .
+    - **(D)** which is placed in service by the taxpayer before January 1, 2018 .
   - **(3)**
     - **(A)** Such term shall not include any property to which subsection (k) applies.
     - **(B)** Such term shall not include any property described in subsection (k)(2)(D).

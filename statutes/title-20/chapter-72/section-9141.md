@@ -3,9 +3,9 @@ title: "Section 9141 - Grants to States"
 usc_title: 20
 usc_section: "9141"
 chapter: 72
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 9141"
-generated_at: "2026-03-30T07:06:20.036Z"
+generated_at: "2026-03-30T07:07:52.934Z"
 status: "active"
 ---
 

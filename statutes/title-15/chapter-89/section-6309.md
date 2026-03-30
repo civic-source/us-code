@@ -3,9 +3,9 @@ title: "Section 6309 - Enforcement"
 usc_title: 15
 usc_section: "6309"
 chapter: 89
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 6309"
-generated_at: "2026-03-30T07:06:03.026Z"
+generated_at: "2026-03-30T07:07:48.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 713 - Personal responsibility education"
 usc_title: 42
 usc_section: "713"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 713"
-generated_at: "2026-03-30T07:07:06.339Z"
+generated_at: "2026-03-30T07:08:38.515Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2017, the Secretary shall allot to each State an amount equal to the product of—
+    - **(A)** For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2019, the Secretary shall allot to each State an amount equal to the product of—
       - **(i)** the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
       - **(ii)** the State youth population percentage determined under paragraph (2).
     - **(B)**
@@ -32,9 +32,9 @@ status: "active"
     - **(B)** The number of individuals described in clauses (i) and (ii) of subparagraph (A) in a State shall be determined on the basis of the most recent Bureau of the Census data.
   - **(3)** Subject to paragraph (4)(A), amounts allotted to a State pursuant to this subsection for a fiscal year shall remain available for expenditure by the State through the end of the second succeeding fiscal year.
   - **(4)**
-    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2017 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2017. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+    - **(A)** If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2019 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2019. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
     - **(B)**
-      - **(i)** The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+      - **(i)** The Secretary shall continue through fiscal year 2019 grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
       - **(ii)** The Secretary may solicit and award grants under this paragraph to faith-based organizations or consortia.
     - **(C)** An organization or entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation.
   - **(5)** No payment shall be made to a State from the allotment determined for the State under this subsection or to a local organization or entity awarded a grant under paragraph (4), if the expenditure of non-federal funds by the State, organization, or entity for activities, programs, or initiatives for which amounts from allotments and grants under this subsection may be expended is less than the amount expended by the State, organization, or entity for such programs or initiatives for fiscal year 2009.
@@ -60,7 +60,7 @@ status: "active"
       - **(v)** Educational and career success, such as developing skills for employment preparation, job seeking, independent living, financial self-sufficiency, and workplace productivity.
       - **(vi)** Healthy life skills, such as goal-setting, decision making, negotiation, communication and interpersonal skills, and stress management.
 - **(c)**
-  - **(1)** From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+  - **(1)** From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
   - **(2)** From the amount appropriated under subsection (f) for the fiscal year that remains after the application of paragraph (1), the Secretary shall reserve the following amounts:
     - **(A)** The Secretary shall reserve 5 percent of such remainder for purposes of awarding grants to Indian tribes and tribal organizations in such manner, and subject to such requirements, as the Secretary, in consultation with Indian tribes and tribal organizations, determines appropriate.
     - **(B)**
@@ -85,4 +85,4 @@ status: "active"
     - **(B)** comprising information that leading professional organizations and agencies with relevant expertise in the field recognize as accurate, objective, and complete.
   - **(3)** The terms “Indian tribe” and “Tribal organization” have the meanings given such terms in section 1603 of title 25 .
   - **(4)** The term “youth” means an individual who has attained age 10 but has not attained age 20.
-- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2017. Amounts appropriated under this subsection shall remain available until expended.
+- **(f)** For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2019. Amounts appropriated under this subsection shall remain available until expended.

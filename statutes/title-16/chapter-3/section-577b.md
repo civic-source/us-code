@@ -3,9 +3,9 @@ title: "Section 577b - Preserving water level of lakes and streams of public lan
 usc_title: 16
 usc_section: "577b"
 chapter: 3
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 577b"
-generated_at: "2026-03-30T07:06:11.371Z"
+generated_at: "2026-03-30T07:07:59.200Z"
 status: "active"
 ---
 

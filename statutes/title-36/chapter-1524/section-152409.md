@@ -3,9 +3,9 @@ title: "Section 152409 - Civil action by Attorney General for equitable relief"
 usc_title: 36
 usc_section: "152409"
 chapter: 1524
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "36 U.S.C. § 152409"
-generated_at: "2026-03-30T07:06:42.603Z"
+generated_at: "2026-03-30T07:08:24.294Z"
 status: "active"
 ---
 

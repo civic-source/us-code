@@ -3,9 +3,9 @@ title: "Section 638a - Modification to rules for continuation on active duty; en
 usc_title: 10
 usc_section: "638a"
 chapter: 36
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 638a"
-generated_at: "2026-03-30T07:05:55.580Z"
+generated_at: "2026-03-30T07:07:40.006Z"
 status: "active"
 ---
 

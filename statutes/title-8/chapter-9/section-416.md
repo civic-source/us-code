@@ -3,9 +3,9 @@ title: "Section 416 - Repealed or transferred"
 usc_title: 8
 usc_section: "416"
 chapter: 9
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "8 U.S.C. § 416"
-generated_at: "2026-03-30T07:05:48.174Z"
+generated_at: "2026-03-30T07:07:36.263Z"
 status: "repealed"
 ---
 

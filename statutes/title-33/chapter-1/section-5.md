@@ -3,9 +3,9 @@ title: "Section 5 - Abolition of tolls on Government canals, canalized rivers, e
 usc_title: 33
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 5"
-generated_at: "2026-03-30T07:06:40.372Z"
+generated_at: "2026-03-30T07:08:19.179Z"
 status: "active"
 ---
 

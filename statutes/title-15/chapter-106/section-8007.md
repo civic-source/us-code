@@ -3,9 +3,9 @@ title: "Section 8007 - CPSC report"
 usc_title: 15
 usc_section: "8007"
 chapter: 106
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 8007"
-generated_at: "2026-03-30T07:06:03.041Z"
+generated_at: "2026-03-30T07:07:48.061Z"
 status: "active"
 ---
 

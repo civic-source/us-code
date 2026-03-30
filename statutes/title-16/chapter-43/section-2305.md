@@ -3,9 +3,9 @@ title: "Section 2305 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2305"
 chapter: 43
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 2305"
-generated_at: "2026-03-30T07:06:11.449Z"
+generated_at: "2026-03-30T07:07:59.284Z"
 status: "repealed"
 ---
 

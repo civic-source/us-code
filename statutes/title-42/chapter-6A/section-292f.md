@@ -3,9 +3,9 @@ title: "Section 292f - Default of borrower"
 usc_title: 42
 usc_section: "292f"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 292f"
-generated_at: "2026-03-30T07:07:06.241Z"
+generated_at: "2026-03-30T07:08:38.411Z"
 status: "active"
 ---
 

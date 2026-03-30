@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T07:07:06.394Z"
+generated_at: "2026-03-30T07:08:38.574Z"
 status: "active"
 ---
 
@@ -441,4 +441,22 @@ status: "active"
     - **(C)** For purposes of applying paragraph (1) and section 1395w–24(b)(1)(C) of this title for the first 3 plan years under this part in the case of an MA plan to which deemed enrollment applies under section 1395w–21(c)(4) of this title —
       - **(i)** such plan shall not be treated as a new MA plan (as defined in paragraph (3)(A)(iii)(II)); and
       - **(ii)** in determining the star rating of the plan under subparagraph (A), to the extent that Medicare Advantage data for such plan is not available for a measure used to determine such star rating, the Secretary shall use data from the period in which such plan was a reasonable cost reimbursement contract.
+    - **(D)**
+      - **(i)** If—
+        - **(I)** a Medicare Advantage organization has entered into more than one contract with the Secretary with respect to the offering of Medicare Advantage plans; and
+        - **(II)** on or after January 1, 2019 , the Secretary approves a request from the organization to consolidate the plans under one or more contract (in this subparagraph referred to as a “closed contract”) with the plans offered under a separate contract (in this subparagraph referred to as the “continuing contract”);
+      - **(ii)** An adjustment under clause (i) shall apply for any year for which the quality rating of the continuing contract is based primarily on a measurement period that is prior to the first year in which a closed contract is no longer offered.
   - **(5)** This subsection shall not apply to payments to a PACE program under section 1395eee of this title .
+  - **(6)**
+    - **(A)** Subject to subparagraph (B), the Secretary may require reporting of data under section 1395w–22(e) of this title for, and apply under this subsection, quality measures at the plan level for specialized MA plans for special needs individuals instead of at the contract level.
+    - **(B)** Prior to applying quality measurement at the plan level under this paragraph, the Secretary shall—
+      - **(i)** take into consideration the minimum number of enrollees in a specialized MA plan for special needs individuals in order to determine if a statistically significant or valid measurement of quality at the plan level is possible under this paragraph;
+      - **(ii)** take into consideration the impact of such application on plans that serve a disproportionate number of individuals dually eligible for benefits under this subchapter and under subchapter XIX;
+      - **(iii)** if quality measures are reported at the plan level, ensure that MA plans are not required to provide duplicative information; and
+      - **(iv)** ensure that such reporting does not interfere with the collection of encounter data submitted by MA organizations or the administration of any changes to the program under this part as a result of the collection of such data.
+    - **(C)** If the Secretary applies quality measurement at the plan level under this paragraph—
+      - **(i)** such quality measurement may include Medicare Health Outcomes Survey (HOS), Healthcare Effectiveness Data and Information Set (HEDIS), Consumer Assessment of Healthcare Providers and Systems (CAHPS) measures and quality measures under part D; and
+      - **(ii)** the Secretary shall consider applying administrative actions, such as remedies described in section 1395w–27(g)(2) of this title , at the plan level.
+  - **(7)**
+    - **(A)** The Secretary shall determine the feasibility of requiring reporting of data under section 1395w–22(e) of this title for, and applying under this subsection, quality measures at the plan level for all MA plans under this part.
+    - **(B)** After making a determination under subparagraph (A), the Secretary shall consider requiring such reporting and applying such quality measures at the plan level as described in such subparagraph

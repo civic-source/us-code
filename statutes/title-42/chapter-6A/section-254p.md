@@ -3,9 +3,9 @@ title: "Section 254p - Special loans for former Corps members to enter private p
 usc_title: 42
 usc_section: "254p"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 254p"
-generated_at: "2026-03-30T07:07:06.197Z"
+generated_at: "2026-03-30T07:08:38.364Z"
 status: "active"
 ---
 

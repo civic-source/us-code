@@ -3,9 +3,9 @@ title: "Section 44306 - Premiums and limitations on coverage and claims"
 usc_title: 49
 usc_section: "44306"
 chapter: 443
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 44306"
-generated_at: "2026-03-30T07:07:14.389Z"
+generated_at: "2026-03-30T07:08:49.154Z"
 status: "active"
 ---
 

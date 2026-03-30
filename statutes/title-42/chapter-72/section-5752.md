@@ -3,9 +3,9 @@ title: "Section 5752 - Transferred"
 usc_title: 42
 usc_section: "5752"
 chapter: 72
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 5752"
-generated_at: "2026-03-30T07:07:06.611Z"
+generated_at: "2026-03-30T07:08:38.799Z"
 status: "transferred"
 ---
 

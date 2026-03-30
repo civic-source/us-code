@@ -3,9 +3,9 @@ title: "Section 2054 - Statement of purpose"
 usc_title: 22
 usc_section: "2054"
 chapter: 29
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 2054"
-generated_at: "2026-03-30T07:06:26.344Z"
+generated_at: "2026-03-30T07:08:06.101Z"
 status: "active"
 ---
 

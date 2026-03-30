@@ -3,9 +3,9 @@ title: "Section 5903 - Relation to other laws"
 usc_title: 15
 usc_section: "5903"
 chapter: 85
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 5903"
-generated_at: "2026-03-30T07:06:03.024Z"
+generated_at: "2026-03-30T07:07:48.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 290h - Congressional findings"
 usc_title: 22
 usc_section: "290h"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 290h"
-generated_at: "2026-03-30T07:06:26.329Z"
+generated_at: "2026-03-30T07:08:06.086Z"
 status: "active"
 ---
 

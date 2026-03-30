@@ -3,9 +3,9 @@ title: "Section 30D - New qualified plug-in electric drive motor vehicles"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T07:06:35.481Z"
+generated_at: "2026-03-30T07:08:15.539Z"
 status: "active"
 ---
 
@@ -64,4 +64,4 @@ status: "active"
     - **(D)** is capable of achieving a speed of 45 miles per hour or greater, and
     - **(E)** is acquired—
       - **(i)** after December 31, 2011 , and before January 1, 2014 , or
-      - **(ii)** in the case of a vehicle that has 2 wheels, after December 31, 2014 , and before January 1, 2017 .
+      - **(ii)** in the case of a vehicle that has 2 wheels, after December 31, 2014 , and before January 1, 2018 .

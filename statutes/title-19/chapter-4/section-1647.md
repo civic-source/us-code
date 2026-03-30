@@ -3,9 +3,9 @@ title: "Section 1647 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 19
 usc_section: "1647"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "19 U.S.C. § 1647"
-generated_at: "2026-03-30T07:06:06.820Z"
+generated_at: "2026-03-30T07:07:56.284Z"
 status: "repealed"
 ---
 

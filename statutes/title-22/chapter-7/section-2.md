@@ -3,9 +3,9 @@ title: "Section 2 - Applicability of certain provisions of Bretton Woods Agreeme
 usc_title: 22
 usc_section: "2"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T07:06:26.331Z"
+generated_at: "2026-03-30T07:08:06.087Z"
 status: "active"
 ---
 

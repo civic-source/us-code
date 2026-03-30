@@ -3,9 +3,9 @@ title: "Section 3071 - Applicability of certain provisions of title 10"
 usc_title: 33
 usc_section: "3071"
 chapter: 43
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 3071"
-generated_at: "2026-03-30T07:06:40.445Z"
+generated_at: "2026-03-30T07:08:19.252Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9a - Child health quality measures"
 usc_title: 42
 usc_section: "9a"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T07:07:06.352Z"
+generated_at: "2026-03-30T07:08:38.529Z"
 status: "active"
 ---
 
@@ -21,14 +21,16 @@ status: "active"
       - **(ii)** treatments to correct or ameliorate the effects of physical and mental conditions, including chronic conditions and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health, in infants, young children, school-age children, and adolescents.
     - **(C)** The availability of care in a range of ambulatory and inpatient health care settings in which such care is furnished.
     - **(D)** The types of measures that, taken together, can be used to estimate the overall national quality of health care for children, including children with special needs, and to perform comparative analyses of pediatric health care quality and racial, ethnic, and socioeconomic disparities in child health and health care for children.
-  - **(4)** Not later than 2 years after February 4, 2009 , the Secretary, in consultation with States, shall develop a standardized format for reporting information and procedures and approaches that encourage States to use the initial core measurement set to voluntarily report information regarding the quality of pediatric health care under subchapters XIX and XXI.
+  - **(4)**
+    - **(A)** Not later than 2 years after February 4, 2009 , the Secretary, in consultation with States, shall develop a standardized format for reporting information and procedures and approaches that encourage States to use the initial core measurement set to voluntarily report information regarding the quality of pediatric health care under subchapters XIX and XXI.
+    - **(B)** Beginning with the annual State report on fiscal year 2024 required under subsection (c)(1), the Secretary shall require States to use the initial core measurement set and any updates or changes to that set to report information regarding the quality of pediatric health care under subchapters XIX and XXI using the standardized format for reporting information and procedures developed under subparagraph (A).
   - **(5)** The Secretary shall disseminate information to States regarding best practices among States with respect to measuring and reporting on the quality of health care for children, and shall facilitate the adoption of such best practices. In developing best practices approaches, the Secretary shall give particular attention to State measurement techniques that ensure the timeliness and accuracy of provider reporting, encourage provider reporting compliance, encourage successful quality improvement strategies, and improve efficiency in data collection using health information technology.
   - **(6)** Not later than January 1, 2011 , and every 3 years thereafter, the Secretary shall report to Congress on—
     - **(A)** the status of the Secretary’s efforts to improve—
       - **(i)** quality related to the duration and stability of health insurance coverage for children under subchapters XIX and XXI;
       - **(ii)** the quality of children’s health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate the effects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
       - **(iii)** the quality of children’s health care under such subchapters across the domains of quality, including clinical quality, health care safety, family experience with health care, health care in the most integrated setting, and elimination of racial, ethnic, and socioeconomic disparities in health and health care;
-    - **(B)** the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set; and
+    - **(B)** the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and, beginning with the report required on January 1, 2025 , and for each annual report thereafter, the status of mandatory reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and any updates or changes to that set; and
     - **(C)** any recommendations for legislative changes needed to improve the quality of care provided to children under subchapters XIX and XXI, including recommendations for quality reporting by States.
   - **(7)** The Secretary shall provide technical assistance to States to assist them in adopting and utilizing core child health quality measures in administering the State plans under subchapters XIX and XXI.
   - **(8)** In this section, the term “core set” means a group of valid, reliable, and evidence-based quality measures that, taken together—
@@ -66,7 +68,7 @@ status: "active"
   - **(7)** Nothing in this section shall be construed as supporting the restriction of coverage, under subchapter XIX or XXI or otherwise, to only those services that are evidence-based.
 - **(c)**
   - **(1)** Each State with a State plan approved under subchapter XIX or a State child health plan approved under subchapter XXI shall annually report to the Secretary on the—
-    - **(A)** State-specific child health quality measures applied by the States under such plans, including measures described in subparagraphs (A) and (B) of subsection (a)(6); and
+    - **(A)** State-specific child health quality measures applied by the States under such plans, including measures described in subparagraphs (A) and (B) of subsection (a)(6) and, beginning with the annual report on fiscal year 2024, all of the core measures described in subsection (a) and any updates or changes to those measures; and
     - **(B)** State-specific information on the quality of health care furnished to children under such plans, including information collected through external quality reviews of managed care organizations under section 1396u–2 of this title and benchmark plans under sections 1396u–7 and 1397cc of this title.
   - **(2)** Not later than September 30, 2010 , and annually thereafter, the Secretary shall collect, analyze, and make publicly available the information reported by States under paragraph (1).
 - **(d)**
@@ -173,6 +175,7 @@ status: "active"
 - **(i)**
   - **(1)** Out of any funds in the Treasury not otherwise appropriated, there is appropriated—
     - **(A)** for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e));
-    - **(B)** for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
-    - **(C)** for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
+    - **(B)** for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
+    - **(C)** for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
+    - **(D)** for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
   - **(2)** Funds appropriated under this subsection shall remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 401 - Payment of compensation; eligibility; duration; maximum ag
 usc_title: 45
 usc_section: "401"
 chapter: 12
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "45 U.S.C. § 401"
-generated_at: "2026-03-30T07:06:49.758Z"
+generated_at: "2026-03-30T07:08:28.604Z"
 status: "active"
 ---
 

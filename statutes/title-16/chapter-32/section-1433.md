@@ -3,9 +3,9 @@ title: "Section 1433 - Sanctuary designation standards"
 usc_title: 16
 usc_section: "1433"
 chapter: 32
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 1433"
-generated_at: "2026-03-30T07:06:11.428Z"
+generated_at: "2026-03-30T07:07:59.260Z"
 status: "active"
 ---
 

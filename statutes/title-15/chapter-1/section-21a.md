@@ -3,9 +3,9 @@ title: "Section 21a - Actions and proceedings pending prior to June 19, 1936 ; a
 usc_title: 15
 usc_section: "21a"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 21a"
-generated_at: "2026-03-30T07:06:02.853Z"
+generated_at: "2026-03-30T07:07:47.886Z"
 status: "active"
 ---
 

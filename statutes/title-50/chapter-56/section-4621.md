@@ -3,9 +3,9 @@ title: "Section 4621 - Effective date"
 usc_title: 50
 usc_section: "4621"
 chapter: 56
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 4621"
-generated_at: "2026-03-30T07:07:12.655Z"
+generated_at: "2026-03-30T07:08:43.721Z"
 status: "active"
 ---
 

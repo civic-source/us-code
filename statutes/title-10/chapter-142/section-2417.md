@@ -3,9 +3,9 @@ title: "Section 2417 - Administrative costs"
 usc_title: 10
 usc_section: "2417"
 chapter: 142
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 2417"
-generated_at: "2026-03-30T07:05:55.650Z"
+generated_at: "2026-03-30T07:07:40.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13632 - Grants for costs of providing service coordinators in ce
 usc_title: 42
 usc_section: "13632"
 chapter: 135
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 13632"
-generated_at: "2026-03-30T07:07:06.795Z"
+generated_at: "2026-03-30T07:08:38.990Z"
 status: "active"
 ---
 

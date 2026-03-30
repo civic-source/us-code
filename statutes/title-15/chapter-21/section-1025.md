@@ -3,9 +3,9 @@ title: "Section 1025 - Printing of monthly publication by Joint Economic Committ
 usc_title: 15
 usc_section: "1025"
 chapter: 21
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 1025"
-generated_at: "2026-03-30T07:06:02.948Z"
+generated_at: "2026-03-30T07:07:47.973Z"
 status: "active"
 ---
 

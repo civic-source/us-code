@@ -3,9 +3,9 @@ title: "Section 292 - Voluntary separation incentive payments"
 usc_title: 6
 usc_section: "292"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "6 U.S.C. § 292"
-generated_at: "2026-03-30T07:05:47.611Z"
+generated_at: "2026-03-30T07:07:35.751Z"
 status: "active"
 ---
 

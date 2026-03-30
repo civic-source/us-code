@@ -3,9 +3,9 @@ title: "Section 3131 - Establishment of economic development partnerships"
 usc_title: 42
 usc_section: "3131"
 chapter: 38
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 3131"
-generated_at: "2026-03-30T07:07:06.565Z"
+generated_at: "2026-03-30T07:08:38.751Z"
 status: "active"
 ---
 

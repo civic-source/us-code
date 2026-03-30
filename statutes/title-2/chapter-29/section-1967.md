@@ -3,9 +3,9 @@ title: "Section 1967 - Law enforcement authority"
 usc_title: 2
 usc_section: "1967"
 chapter: 29
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 1967"
-generated_at: "2026-03-30T07:05:44.273Z"
+generated_at: "2026-03-30T07:07:28.497Z"
 status: "active"
 ---
 

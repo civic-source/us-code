@@ -3,9 +3,9 @@ title: "Section 289d - Animals in research"
 usc_title: 42
 usc_section: "289d"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 289d"
-generated_at: "2026-03-30T07:07:06.228Z"
+generated_at: "2026-03-30T07:08:38.398Z"
 status: "active"
 ---
 

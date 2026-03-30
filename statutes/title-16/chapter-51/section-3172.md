@@ -3,9 +3,9 @@ title: "Section 3172 - North Slope Haul Road"
 usc_title: 16
 usc_section: "3172"
 chapter: 51
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 3172"
-generated_at: "2026-03-30T07:06:11.456Z"
+generated_at: "2026-03-30T07:07:59.292Z"
 status: "active"
 ---
 

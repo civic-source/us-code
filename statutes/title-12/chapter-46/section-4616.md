@@ -3,9 +3,9 @@ title: "Section 4616 - Supervisory actions applicable to significantly undercapi
 usc_title: 12
 usc_section: "4616"
 chapter: 46
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 4616"
-generated_at: "2026-03-30T07:06:01.090Z"
+generated_at: "2026-03-30T07:07:44.800Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 650 - Supervisory and enforcement authority for small business l
 usc_title: 15
 usc_section: "650"
 chapter: 14
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 650"
-generated_at: "2026-03-30T07:06:02.928Z"
+generated_at: "2026-03-30T07:07:47.955Z"
 status: "active"
 ---
 

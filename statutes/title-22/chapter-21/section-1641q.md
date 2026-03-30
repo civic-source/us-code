@@ -3,9 +3,9 @@ title: "Section 1641q - Applicability of administrative provisions of subchapter
 usc_title: 22
 usc_section: "1641q"
 chapter: 21
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 1641q"
-generated_at: "2026-03-30T07:06:26.340Z"
+generated_at: "2026-03-30T07:08:06.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 28 - Penalties not to bar suits for damages"
 usc_title: 47
 usc_section: "28"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "47 U.S.C. § 28"
-generated_at: "2026-03-30T07:07:09.479Z"
+generated_at: "2026-03-30T07:08:46.347Z"
 status: "active"
 ---
 

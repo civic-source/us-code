@@ -3,9 +3,9 @@ title: "Section 6398 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6398"
 chapter: 77
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 6398"
-generated_at: "2026-03-30T07:07:06.633Z"
+generated_at: "2026-03-30T07:08:38.821Z"
 status: "active"
 ---
 

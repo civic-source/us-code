@@ -3,9 +3,9 @@ title: "Section 5706c - Reimbursement for taxes incurred on money received for t
 usc_title: 5
 usc_section: "5706c"
 chapter: 57
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "5 U.S.C. § 5706c"
-generated_at: "2026-03-30T07:05:45.639Z"
+generated_at: "2026-03-30T07:07:30.141Z"
 status: "active"
 ---
 

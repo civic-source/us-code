@@ -3,9 +3,9 @@ title: "Section 192c - Vested rights"
 usc_title: 16
 usc_section: "192c"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 192c"
-generated_at: "2026-03-30T07:06:11.284Z"
+generated_at: "2026-03-30T07:07:59.108Z"
 status: "active"
 ---
 

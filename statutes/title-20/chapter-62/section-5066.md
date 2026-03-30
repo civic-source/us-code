@@ -3,9 +3,9 @@ title: "Section 5066 - Repealed. Pub. L. 103–382, title III , § 391(i), (k), 
 usc_title: 20
 usc_section: "5066"
 chapter: 62
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 5066"
-generated_at: "2026-03-30T07:06:20.002Z"
+generated_at: "2026-03-30T07:07:52.901Z"
 status: "repealed"
 ---
 

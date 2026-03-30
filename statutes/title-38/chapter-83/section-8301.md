@@ -3,9 +3,9 @@ title: "Section 8301 - Authority to accept gifts, devises, and bequests"
 usc_title: 38
 usc_section: "8301"
 chapter: 83
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "38 U.S.C. § 8301"
-generated_at: "2026-03-30T07:06:44.707Z"
+generated_at: "2026-03-30T07:08:25.671Z"
 status: "active"
 ---
 

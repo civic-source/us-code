@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-30T07:07:06.443Z"
+generated_at: "2026-03-30T07:08:38.625Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(E)** an amount equal to 75 percent of so much of the sums expended during such quarter (as found necessary by the Secretary for the proper and efficient administration of the State plan) as are attributable to translation or interpretation services in connection with the enrollment of, retention of, and use of services under this subchapter by, children of families for whom English is not the primary language; plus
   - **(3)** an amount equal to—
     - **(A)**
-      - **(i)** 90 per centum of so much of the sums expended during such quarter as are attributable to the design, development, or installation of such mechanized claims processing and information retrieval systems as the Secretary determines are likely to provide more efficient, economical, and effective administration of the plan and to be compatible with the claims processing and information retrieval systems utilized in the administration of subchapter XVIII, including the State’s share of the cost of installing such a system to be used jointly in the administration of such State’s plan and the plan of any other State approved under this chapter,
+      - **(i)** 90 per centum of so much of the sums expended during such quarter as are attributable to the design, development, or installation of such mechanized claims processing and information retrieval systems as the Secretary determines are likely to provide more efficient, economical, and effective administration of the plan and to be compatible with the claims processing and information retrieval systems utilized in the administration of subchapter XVIII, including the State’s share of the cost of installing such a system to be used jointly in the administration of such State’s plan and the plan of any other State approved under this subchapter,
       - **(ii)** 90 per centum of so much of the sums expended during any such quarter in the fiscal year ending June 30, 1972 , or the fiscal year ending June 30, 1973 , as are attributable to the design, development, or installation of cost determination systems for State-owned general hospitals (except that the total amount paid to all States under this clause for either such fiscal year shall not exceed $150,000), and
       - **(iii)** an amount equal to the Federal medical assistance percentage (as defined in section 1396d(b) of this title ) of so much of the sums expended during such quarter (as found necessary by the Secretary for the proper and efficient administration of the State plan) as are attributable to such developments or modifications of systems of the type described in clause (i) as are necessary for the efficient collection and reporting on child health measures; and
     - **(B)** 75 per centum of so much of the sums expended during such quarter as are attributable to the operation of systems (whether such systems are operated directly by the State or by another person under a contract with the State) of the type described in subparagraph (A)(i) (whether or not designed, developed, or installed with assistance under such subparagraph) which are approved by the Secretary and which include provision for prompt written notice to each individual who is furnished services covered by the plan, or to each individual in a sample group of individuals who are furnished such services, of the specific services (other than confidential services) so covered, the name of the person or persons furnishing the services, the date or dates on which the services were furnished, and the amount of the payment or payments made under the plan on account of the services; and

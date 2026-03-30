@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T07:07:06.407Z"
+generated_at: "2026-03-30T07:08:38.588Z"
 status: "active"
 ---
 
@@ -706,8 +706,10 @@ For purposes of this subchapter—
       - **(ii)** had coronary bypass surgery;
       - **(iii)** stable angina pectoris;
       - **(iv)** had heart valve repair or replacement;
-      - **(v)** had percutaneous transluminal coronary angioplasty (PTCA) or coronary stenting; or
-      - **(vi)** had a heart or heart-lung transplant.
+      - **(v)** had percutaneous transluminal coronary angioplasty (PTCA) or coronary stenting;
+      - **(vi)** had a heart or heart-lung transplant;
+      - **(vii)** stable, chronic heart failure (defined as patients with left ventricular ejection fraction of 35 percent or less and New York Heart Association (NYHA) class II to IV symptoms despite being on optimal heart failure therapy for at least 6 weeks); or
+      - **(viii)** any additional condition for which the Secretary has determined that a cardiac rehabilitation program shall be covered, unless the Secretary determines, using the same process used to determine that the condition is covered for a cardiac rehabilitation program, that such coverage is not supported by the clinical evidence.
     - **(C)** An intensive cardiac rehabilitation program may be provided in a series of 72 one-hour sessions (as defined in section 1395w–4(b)(5) of this title ), up to 6 sessions per day, over a period of up to 18 weeks.
   - **(5)** The Secretary shall establish standards to ensure that a physician with expertise in the management of individuals with cardiac pathophysiology who is licensed to practice medicine in the State in which a cardiac rehabilitation program (or the intensive cardiac rehabilitation program, as the case may be) is offered—
     - **(A)** is responsible for such program; and

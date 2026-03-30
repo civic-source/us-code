@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-30T07:07:06.418Z"
+generated_at: "2026-03-30T07:08:38.600Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(i)** At least 45 days before making the announcement under subparagraph (A) for a year (beginning with the announcement for 1991), the Secretary shall provide for notice to eligible organizations of proposed changes to be made in the methodology or benefit coverage assumptions from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity to comment on such proposed changes.
       - **(ii)** In each announcement made under subparagraph (A) for a year (beginning with the announcement for 1991), the Secretary shall include an explanation of the assumptions (including any benefit coverage assumptions) and changes in methodology used in the announcement in sufficient detail so that eligible organizations can compute per capita rates of payment for classes of individuals located in each county (or equivalent area) which is in whole or in part within the service area of such an organization.
   - **(2)** With respect to any eligible organization which has entered into a reasonable cost reimbursement contract, payments shall be made to such plan in accordance with subsection (h)(2) rather than paragraph (1).
-  - **(3)** Subject to subsections (c)(2)(B)(ii) and (c)(7), payments under a contract to an eligible organization under paragraph (1) or (2) shall be instead of the amounts which (in the absence of the contract) would be otherwise payable, pursuant to sections 1395f(b) and 1395l(a) of this title, for services furnished by or through the organization to individuals enrolled with the organization under this section.
+  - **(3)** Subject to subsections (c)(2)(B)(ii) and (c)(7), payments under a contract to an eligible organization under paragraph (1) or (2) shall be instead of the amounts which (in the absence of the contract) would be otherwise payable, pursuant to sections 1395f(b) and 1395 l (a) of this title, for services furnished by or through the organization to individuals enrolled with the organization under this section.
   - **(4)** For purposes of this section, the term “adjusted average per capita cost” means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for services covered under parts A and B, or part B only, and types of expenses otherwise reimbursable under parts A and B, or part B only (including administrative costs incurred by organizations described in sections 1395h and 1395u of this title), if the services were to be furnished by other than an eligible organization or, in the case of services covered only under section 1395x(s)(2)(H) of this title , if the services were to be furnished by a physician or as an incident to a physician’s service.
   - **(5)** The payment to an eligible organization under this section for individuals enrolled under this section with the organization and entitled to benefits under part A and enrolled under part B shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The portion of that payment to the organization for a month to be paid by each trust fund shall be determined as follows:
     - **(A)** In regard to expenditures by eligible organizations having risk-sharing contracts, the allocation shall be determined each year by the Secretary based on the relative weight that benefits from each fund contribute to the adjusted average per capita cost.

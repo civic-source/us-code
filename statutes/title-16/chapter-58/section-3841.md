@@ -3,15 +3,15 @@ title: "Section 3841 - Commodity Credit Corporation"
 usc_title: 16
 usc_section: "3841"
 chapter: 58
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 3841"
-generated_at: "2026-03-30T07:06:11.467Z"
+generated_at: "2026-03-30T07:07:59.303Z"
 status: "active"
 ---
 
 # § 3841. Commodity Credit Corporation
 
-- **(a)** For each of fiscal years 2014 through 2018, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
+- **(a)** For each of fiscal years 2014 through 2018 (and fiscal year 2019 in the case of the program specified in paragraph (5)), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
   - **(1)** The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
     - **(A)** $10,000,000 for the period of fiscal years 2014 through 2018 to provide payments under section 3834(c) of this title ; and
     - **(B)** $33,000,000 for the period of fiscal years 2014 through 2018 to carry out section 3835(f) of this title to facilitate the transfer of land subject to contracts from retired or retiring owners and operators to beginning farmers or ranchers and socially disadvantaged farmers or ranchers.
@@ -28,8 +28,8 @@ status: "active"
     - **(B)** $1,600,000,000 for fiscal year 2015;
     - **(C)** $1,650,000,000 for fiscal year 2016;
     - **(D)** $1,650,000,000 for fiscal year 2017; and
-    - **(E)** $1,750,000,000 for fiscal year 2018.
-- **(b)** Amounts made available by subsection (a) for fiscal years 2014 through 2018 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
+    - **(E)** $1,750,000,000 for each of fiscal years 2018 through 2019.
+- **(b)** Amounts made available by subsection (a) for fiscal years 2014 through 2018 (and fiscal year 2019 in the case of the program specified in subsection (a)(5)) shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
 - **(c)**
   - **(1)** Commodity Credit Corporation funds made available for a fiscal year for each of the programs specified in subsection (a)—
     - **(A)** shall be available for the provision of technical assistance for the programs for which funds are made available as necessary to implement the programs effectively;

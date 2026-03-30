@@ -3,9 +3,9 @@ title: "Section 205h - Compensation of Board members; travel expenses"
 usc_title: 15
 usc_section: "205h"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 205h"
-generated_at: "2026-03-30T07:06:02.904Z"
+generated_at: "2026-03-30T07:07:47.932Z"
 status: "active"
 ---
 

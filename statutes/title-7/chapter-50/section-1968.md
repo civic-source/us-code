@@ -3,9 +3,9 @@ title: "Section 1968 - Repealed. Pub. L. 104–127, title VI , § 626, Apr. 4, 1
 usc_title: 7
 usc_section: "1968"
 chapter: 50
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 1968"
-generated_at: "2026-03-30T07:05:50.799Z"
+generated_at: "2026-03-30T07:07:34.953Z"
 status: "repealed"
 ---
 

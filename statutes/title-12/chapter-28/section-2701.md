@@ -3,9 +3,9 @@ title: "Section 2701 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "2701"
 chapter: 28
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 2701"
-generated_at: "2026-03-30T07:06:01.068Z"
+generated_at: "2026-03-30T07:07:44.778Z"
 status: "active"
 ---
 

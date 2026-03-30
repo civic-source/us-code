@@ -3,9 +3,9 @@ title: "Section 1902a - Discharge of agricultural cargo residue"
 usc_title: 33
 usc_section: "1902a"
 chapter: 33
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 1902a"
-generated_at: "2026-03-30T07:06:40.424Z"
+generated_at: "2026-03-30T07:08:19.230Z"
 status: "active"
 ---
 

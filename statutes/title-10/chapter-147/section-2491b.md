@@ -3,9 +3,9 @@ title: "Section 2491b - Use of appropriated funds for operation of Armed Forces 
 usc_title: 10
 usc_section: "2491b"
 chapter: 147
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 2491b"
-generated_at: "2026-03-30T07:05:55.655Z"
+generated_at: "2026-03-30T07:07:40.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 717d - Fixing rates and charges; determination of cost of produc
 usc_title: 15
 usc_section: "717d"
 chapter: 15
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 717d"
-generated_at: "2026-03-30T07:06:02.940Z"
+generated_at: "2026-03-30T07:07:47.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 926 - School system for dependents in overseas areas"
 usc_title: 20
 usc_section: "926"
 chapter: 25
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 926"
-generated_at: "2026-03-30T07:06:19.919Z"
+generated_at: "2026-03-30T07:07:52.816Z"
 status: "active"
 ---
 

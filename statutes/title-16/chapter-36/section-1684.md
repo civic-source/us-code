@@ -3,9 +3,9 @@ title: "Section 1684 - Annual reports"
 usc_title: 16
 usc_section: "1684"
 chapter: 36
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 1684"
-generated_at: "2026-03-30T07:06:11.437Z"
+generated_at: "2026-03-30T07:07:59.270Z"
 status: "active"
 ---
 

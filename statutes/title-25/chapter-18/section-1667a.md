@@ -3,9 +3,9 @@ title: "Section 1667a - Definitions"
 usc_title: 25
 usc_section: "1667a"
 chapter: 18
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "25 U.S.C. § 1667a"
-generated_at: "2026-03-30T07:06:23.015Z"
+generated_at: "2026-03-30T07:08:03.605Z"
 status: "active"
 ---
 

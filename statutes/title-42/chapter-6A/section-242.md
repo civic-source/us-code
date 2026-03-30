@@ -3,9 +3,9 @@ title: "Section 242 - Studies and investigations on use and misuse of narcotic d
 usc_title: 42
 usc_section: "242"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 242"
-generated_at: "2026-03-30T07:07:06.178Z"
+generated_at: "2026-03-30T07:08:38.345Z"
 status: "active"
 ---
 

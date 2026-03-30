@@ -3,9 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-30T07:07:06.432Z"
+generated_at: "2026-03-30T07:08:38.615Z"
 status: "active"
 ---
 
@@ -101,9 +101,10 @@ status: "active"
   - **(5)** For purposes of this subsection:
     - **(A)** The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of an appropriate mix of goods and services included in covered skilled nursing facility services.
     - **(B)**
-      - **(i)** Subject to clauses (ii) and (iii), the term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
-      - **(ii)** For fiscal year 2012 and each subsequent fiscal year, subject to clause (iii), after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title . The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
+      - **(i)** Subject to clauses (ii), (iii), and (iv), the term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+      - **(ii)** For fiscal year 2012 and each subsequent fiscal year, subject to clauses (iii) and (iv), after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title . The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
       - **(iii)** For fiscal year 2018 (or other similar annual period specified in clause (i)), the skilled nursing facility market basket percentage, after application of clause (ii), is equal to 1 percent.
+      - **(iv)** For fiscal year 2019 (or other similar annual period specified in clause (i)), the skilled nursing facility market basket percentage, after application of clause (ii), is equal to 2.4 percent.
   - **(6)**
     - **(A)**
       - **(i)** For fiscal years beginning with fiscal year 2018, in the case of a skilled nursing facility that does not submit data, as applicable, in accordance with subclauses (II) and (III) of subparagraph (B)(i) with respect to such a fiscal year, after determining the percentage described in paragraph (5)(B)(i), and after application of clauses (ii) and (iii) of paragraph (5)(B), the Secretary shall reduce such percentage for payment rates during such fiscal year by 2 percentage points.

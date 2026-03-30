@@ -3,9 +3,9 @@ title: "Section 5721 - “Eligible trade organization” defined"
 usc_title: 7
 usc_section: "5721"
 chapter: 87
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 5721"
-generated_at: "2026-03-30T07:05:50.848Z"
+generated_at: "2026-03-30T07:07:35.006Z"
 status: "active"
 ---
 

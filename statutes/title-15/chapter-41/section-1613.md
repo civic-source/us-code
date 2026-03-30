@@ -3,9 +3,9 @@ title: "Section 1613 - Annual reports to Congress by Bureau"
 usc_title: 15
 usc_section: "1613"
 chapter: 41
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 1613"
-generated_at: "2026-03-30T07:06:02.962Z"
+generated_at: "2026-03-30T07:07:47.986Z"
 status: "active"
 ---
 

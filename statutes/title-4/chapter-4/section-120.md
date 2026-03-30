@@ -3,9 +3,9 @@ title: "Section 120 - Procedure if no electronic database provided"
 usc_title: 4
 usc_section: "120"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "4 U.S.C. § 120"
-generated_at: "2026-03-30T07:05:43.102Z"
+generated_at: "2026-03-30T07:07:27.201Z"
 status: "active"
 ---
 

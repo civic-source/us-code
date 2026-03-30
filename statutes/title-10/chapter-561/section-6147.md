@@ -3,9 +3,9 @@ title: "Section 6147 - Repealed. Pub. L. 87–649 , § 14c(38–43), Sept. 7, 19
 usc_title: 10
 usc_section: "6147"
 chapter: 561
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 6147"
-generated_at: "2026-03-30T07:05:55.685Z"
+generated_at: "2026-03-30T07:07:40.101Z"
 status: "repealed"
 ---
 

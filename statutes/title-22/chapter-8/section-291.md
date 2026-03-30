@@ -3,9 +3,9 @@ title: "Section 291 - Lease of buildings, etc., for offices, living quarters, he
 usc_title: 22
 usc_section: "291"
 chapter: 8
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 291"
-generated_at: "2026-03-30T07:06:26.331Z"
+generated_at: "2026-03-30T07:08:06.088Z"
 status: "active"
 ---
 

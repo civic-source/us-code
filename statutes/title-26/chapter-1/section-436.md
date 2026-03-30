@@ -3,9 +3,9 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T07:06:35.558Z"
+generated_at: "2026-03-30T07:08:15.624Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10365 - Hydroelectric power assessment"
 usc_title: 42
 usc_section: "10365"
 chapter: 109
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 10365"
-generated_at: "2026-03-30T07:07:06.742Z"
+generated_at: "2026-03-30T07:08:38.933Z"
 status: "active"
 ---
 

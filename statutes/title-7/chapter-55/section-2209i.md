@@ -3,9 +3,9 @@ title: "Section 2209i - Funding for preparation of final agency decisions regard
 usc_title: 7
 usc_section: "2209i"
 chapter: 55
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 2209i"
-generated_at: "2026-03-30T07:05:50.822Z"
+generated_at: "2026-03-30T07:07:34.977Z"
 status: "active"
 ---
 

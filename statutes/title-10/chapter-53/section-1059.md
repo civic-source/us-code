@@ -3,9 +3,9 @@ title: "Section 1059 - Dependents of members separated for dependent abuse: tran
 usc_title: 10
 usc_section: "1059"
 chapter: 53
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-30T07:05:55.597Z"
+generated_at: "2026-03-30T07:07:40.021Z"
 status: "active"
 ---
 

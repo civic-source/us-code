@@ -3,9 +3,9 @@ title: "Section 32919 - Preemption"
 usc_title: 49
 usc_section: "32919"
 chapter: 329
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 32919"
-generated_at: "2026-03-30T07:07:14.377Z"
+generated_at: "2026-03-30T07:08:49.143Z"
 status: "active"
 ---
 

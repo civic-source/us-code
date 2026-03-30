@@ -3,9 +3,9 @@ title: "Section 1524 - Declaration of policy; disposal of housing"
 usc_title: 42
 usc_section: "1524"
 chapter: 9
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1524"
-generated_at: "2026-03-30T07:07:06.494Z"
+generated_at: "2026-03-30T07:08:38.678Z"
 status: "active"
 ---
 

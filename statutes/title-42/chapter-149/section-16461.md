@@ -3,9 +3,9 @@ title: "Section 16461 - Transfer of resources"
 usc_title: 42
 usc_section: "16461"
 chapter: 149
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 16461"
-generated_at: "2026-03-30T07:07:06.820Z"
+generated_at: "2026-03-30T07:08:39.016Z"
 status: "active"
 ---
 

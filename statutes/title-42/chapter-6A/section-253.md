@@ -3,9 +3,9 @@ title: "Section 253 - Medical services to Coast Guard, National Oceanic and Atmo
 usc_title: 42
 usc_section: "253"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 253"
-generated_at: "2026-03-30T07:07:06.191Z"
+generated_at: "2026-03-30T07:08:38.358Z"
 status: "active"
 ---
 

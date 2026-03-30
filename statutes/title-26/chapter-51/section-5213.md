@@ -3,9 +3,9 @@ title: "Section 5213 - Withdrawal of distilled spirits from bonded premises on d
 usc_title: 26
 usc_section: "5213"
 chapter: 51
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 5213"
-generated_at: "2026-03-30T07:06:35.663Z"
+generated_at: "2026-03-30T07:08:15.738Z"
 status: "active"
 ---
 

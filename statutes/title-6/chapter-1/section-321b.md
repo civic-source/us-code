@@ -3,9 +3,9 @@ title: "Section 321b - Disability Coordinator"
 usc_title: 6
 usc_section: "321b"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "6 U.S.C. § 321b"
-generated_at: "2026-03-30T07:05:47.613Z"
+generated_at: "2026-03-30T07:07:35.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7905 - Greenhouse Gas Intensity Reducing Technology Export Initi
 usc_title: 22
 usc_section: "7905"
 chapter: 86
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 7905"
-generated_at: "2026-03-30T07:06:26.437Z"
+generated_at: "2026-03-30T07:08:06.196Z"
 status: "active"
 ---
 

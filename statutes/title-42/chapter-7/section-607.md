@@ -3,9 +3,9 @@ title: "Section 607 - Mandatory work requirements"
 usc_title: 42
 usc_section: "607"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 607"
-generated_at: "2026-03-30T07:07:06.321Z"
+generated_at: "2026-03-30T07:08:38.495Z"
 status: "active"
 ---
 

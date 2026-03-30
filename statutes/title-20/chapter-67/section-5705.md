@@ -3,9 +3,9 @@ title: "Section 5705 - Christopher Columbus Fellowship Fund"
 usc_title: 20
 usc_section: "5705"
 chapter: 67
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 5705"
-generated_at: "2026-03-30T07:06:20.004Z"
+generated_at: "2026-03-30T07:07:52.903Z"
 status: "active"
 ---
 

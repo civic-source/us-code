@@ -3,9 +3,9 @@ title: "Section 5759 - Repealed. Pub. L. 87–123 , § 5(17), Aug. 3, 1961 , 75 
 usc_title: 10
 usc_section: "5759"
 chapter: 545
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 5759"
-generated_at: "2026-03-30T07:05:55.684Z"
+generated_at: "2026-03-30T07:07:40.100Z"
 status: "repealed"
 ---
 

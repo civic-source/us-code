@@ -3,9 +3,9 @@ title: "Section 2301 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "2301"
 chapter: 24
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 2301"
-generated_at: "2026-03-30T07:07:06.548Z"
+generated_at: "2026-03-30T07:08:38.733Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1544 - Congressional action"
 usc_title: 50
 usc_section: "1544"
 chapter: 33
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 1544"
-generated_at: "2026-03-30T07:07:12.595Z"
+generated_at: "2026-03-30T07:08:43.660Z"
 status: "active"
 ---
 

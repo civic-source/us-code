@@ -3,9 +3,9 @@ title: "Section 465 - Limitations upon entry of poultry products and other mater
 usc_title: 21
 usc_section: "465"
 chapter: 10
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "21 U.S.C. § 465"
-generated_at: "2026-03-30T07:06:24.191Z"
+generated_at: "2026-03-30T07:08:02.816Z"
 status: "active"
 ---
 

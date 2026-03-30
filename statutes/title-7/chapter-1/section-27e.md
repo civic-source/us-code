@@ -3,9 +3,9 @@ title: "Section 27e - Repealed. Pub. L. 111–203, title VII , § 725(g)(1)(A), 
 usc_title: 7
 usc_section: "27e"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 27e"
-generated_at: "2026-03-30T07:05:50.729Z"
+generated_at: "2026-03-30T07:07:34.879Z"
 status: "repealed"
 ---
 

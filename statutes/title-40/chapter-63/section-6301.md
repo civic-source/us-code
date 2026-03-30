@@ -3,9 +3,9 @@ title: "Section 6301 - Definition"
 usc_title: 40
 usc_section: "6301"
 chapter: 63
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "40 U.S.C. § 6301"
-generated_at: "2026-03-30T07:06:43.444Z"
+generated_at: "2026-03-30T07:08:23.247Z"
 status: "active"
 ---
 

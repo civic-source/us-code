@@ -3,15 +3,15 @@ title: "Section 9015 - Producer election"
 usc_title: 7
 usc_section: "9015"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9015"
-generated_at: "2026-03-30T07:05:50.894Z"
+generated_at: "2026-03-30T07:07:35.053Z"
 status: "active"
 ---
 
 # § 9015. Producer election
 
-- **(a)** For the 2014 through 2018 crop years, all of the producers on a farm shall make a 1-time, irrevocable election to obtain—
+- **(a)** Except as provided in subsection (g), for the 2014 through 2018 crop years, all of the producers on a farm shall make a 1-time, irrevocable election to obtain—
   - **(1)** price loss coverage under section 9016 of this title on a covered commodity-by-covered-commodity basis; or
   - **(2)** agriculture risk coverage under section 9017 of this title .
 - **(b)** In the election under subsection (a), the producers on a farm that elect under paragraph (2) of such subsection to obtain agriculture risk coverage under section 9017 of this title shall unanimously select whether to receive agriculture risk coverage payments based on—
@@ -25,3 +25,6 @@ status: "active"
   - **(1)** in which the producer has an interest; and
   - **(2)** for which individual coverage has been selected.
 - **(f)** The Secretary shall ensure that producers on a farm do not reconstitute the farm to void or change an election or selection made under this section.
+- **(g)**
+  - **(1)** In the case of acres allocated to seed cotton on a farm, all of the producers on the farm shall be given the opportunity to make a new 1-time election under subsection (a) to reflect the designation of seed cotton as a covered commodity for that crop year under section 9011(6)(B) of this title .
+  - **(2)** If all the producers on a farm fail to make a unanimous election under paragraph (1), the producers on the farm shall be deemed to have elected price loss coverage under section 9016 of this title for acres allocated on the farm to seed cotton.

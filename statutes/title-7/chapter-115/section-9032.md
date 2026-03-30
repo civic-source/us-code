@@ -3,9 +3,9 @@ title: "Section 9032 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "9032"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9032"
-generated_at: "2026-03-30T07:05:50.895Z"
+generated_at: "2026-03-30T07:07:35.053Z"
 status: "active"
 ---
 
@@ -42,3 +42,6 @@ status: "active"
   - **(19)** In the case of honey, $0.69 per pound.
   - **(20)** In the case of peanuts, $355 per ton.
 - **(b)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsection (a)(11).
+- **(c)**
+  - **(1)** For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title , the loan rate for seed cotton shall be deemed to be equal to $0.25 per pound.
+  - **(2)** Nothing in this subsection authorizes any nonrecourse marketing assistance loan under this subchapter for seed cotton.

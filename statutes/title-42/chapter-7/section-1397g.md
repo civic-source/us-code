@@ -3,9 +3,9 @@ title: "Section 1397g - Demonstration projects to address health professions wor
 usc_title: 42
 usc_section: "1397g"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1397g"
-generated_at: "2026-03-30T07:07:06.466Z"
+generated_at: "2026-03-30T07:08:38.648Z"
 status: "active"
 ---
 
@@ -93,7 +93,7 @@ status: "active"
     - **(C)** The term “personal or home care aide” means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer’s disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
     - **(D)** The term “State” has the meaning given that term for purposes of subchapter XIX.
 - **(c)**
-  - **(1)** Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2017.
+  - **(1)** Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2019.
   - **(2)** With respect to the demonstration projects under subsection (b), the Secretary shall use $5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the preceding sections of this division shall not apply to grant 2 2 So in original. awarded under this section.

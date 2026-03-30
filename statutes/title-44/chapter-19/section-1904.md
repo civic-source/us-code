@@ -3,9 +3,9 @@ title: "Section 1904 - Classified list of Government publications for selection 
 usc_title: 44
 usc_section: "1904"
 chapter: 19
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "44 U.S.C. § 1904"
-generated_at: "2026-03-30T07:06:48.323Z"
+generated_at: "2026-03-30T07:08:27.474Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 433d - Repealed. Pub. L. 92–568 , § 3(2), Oct. 26, 1972 , 86 
 usc_title: 16
 usc_section: "433d"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 433d"
-generated_at: "2026-03-30T07:06:11.319Z"
+generated_at: "2026-03-30T07:07:59.144Z"
 status: "repealed"
 ---
 

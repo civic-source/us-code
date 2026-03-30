@@ -3,9 +3,9 @@ title: "Section 2013 - Participants in CIARDS system"
 usc_title: 50
 usc_section: "2013"
 chapter: 38
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 2013"
-generated_at: "2026-03-30T07:07:12.604Z"
+generated_at: "2026-03-30T07:08:43.669Z"
 status: "active"
 ---
 

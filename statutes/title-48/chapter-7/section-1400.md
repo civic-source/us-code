@@ -3,9 +3,9 @@ title: "Section 1400 - Repealed. Pub. L. 98–454, title VII , § 709, Oct. 5, 1
 usc_title: 48
 usc_section: "1400"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "48 U.S.C. § 1400"
-generated_at: "2026-03-30T07:07:09.999Z"
+generated_at: "2026-03-30T07:08:45.977Z"
 status: "repealed"
 ---
 

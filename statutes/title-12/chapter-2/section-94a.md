@@ -3,9 +3,9 @@ title: "Section 94a - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , e
 usc_title: 12
 usc_section: "94a"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 94a"
-generated_at: "2026-03-30T07:06:00.965Z"
+generated_at: "2026-03-30T07:07:44.674Z"
 status: "repealed"
 ---
 

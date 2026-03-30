@@ -3,9 +3,9 @@ title: "Section 1151 - Aviation enforcement"
 usc_title: 49
 usc_section: "1151"
 chapter: 11
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 1151"
-generated_at: "2026-03-30T07:07:14.326Z"
+generated_at: "2026-03-30T07:08:49.094Z"
 status: "active"
 ---
 

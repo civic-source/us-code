@@ -3,9 +3,9 @@ title: "Section 2612 - National Defense University: acceptance of gifts"
 usc_title: 10
 usc_section: "2612"
 chapter: 155
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 2612"
-generated_at: "2026-03-30T07:05:55.660Z"
+generated_at: "2026-03-30T07:07:40.078Z"
 status: "active"
 ---
 

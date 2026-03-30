@@ -3,9 +3,9 @@ title: "Section 82 - Procurement of ships and material during war"
 usc_title: 50
 usc_section: "82"
 chapter: 5
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 82"
-generated_at: "2026-03-30T07:07:12.587Z"
+generated_at: "2026-03-30T07:08:43.653Z"
 status: "active"
 ---
 

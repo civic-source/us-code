@@ -3,9 +3,9 @@ title: "Section 451 - General rule for taxable year of inclusion"
 usc_title: 26
 usc_section: "451"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 451"
-generated_at: "2026-03-30T07:06:35.559Z"
+generated_at: "2026-03-30T07:08:15.626Z"
 status: "active"
 ---
 
@@ -107,7 +107,7 @@ status: "active"
   - **(2)** For purposes of this subsection, the term “qualified gain” means, with respect to any qualifying electric transmission transaction in any taxable year—
     - **(A)** any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
     - **(B)** any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
-  - **(3)** For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2017 , in the case of a qualified electric utility), of—
+  - **(3)** For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2018 , in the case of a qualified electric utility), of—
     - **(A)** property used in the trade or business of providing electric transmission services, or
     - **(B)** any stock or partnership interest in a corporation or partnership, as the case may be, whose principal trade or business consists of providing electric transmission services,
   - **(4)** For purposes of this subsection, the term “independent transmission company” means—

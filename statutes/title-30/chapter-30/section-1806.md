@@ -3,9 +3,9 @@ title: "Section 1806 - Compensation of members and reimbursement"
 usc_title: 30
 usc_section: "1806"
 chapter: 30
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "30 U.S.C. § 1806"
-generated_at: "2026-03-30T07:06:36.213Z"
+generated_at: "2026-03-30T07:08:10.374Z"
 status: "active"
 ---
 

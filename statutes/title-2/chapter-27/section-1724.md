@@ -3,9 +3,9 @@ title: "Section 1724 - Responsibilities of Board"
 usc_title: 2
 usc_section: "1724"
 chapter: 27
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 1724"
-generated_at: "2026-03-30T07:05:44.268Z"
+generated_at: "2026-03-30T07:07:28.492Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T07:05:44.259Z"
+generated_at: "2026-03-30T07:07:28.481Z"
 status: "active"
 ---
 
@@ -67,6 +67,13 @@ status: "active"
       - **(ii)** OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after August 2, 2011 .
       - **(iii)** For the purposes of this subparagraph, the term “disaster relief” means activities carried out pursuant to a determination under section 5122(2) of title 42 .
       - **(iv)** Appropriations considered disaster relief under this subparagraph in a fiscal year shall not be eligible for adjustments under subparagraph (A) for the fiscal year.
+    - **(E)**
+      - **(i)** If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for grants to States under section 306 of the Social Security Act [ 42 U.S.C. 506 ], then the adjustment for that fiscal year shall be the additional new budget authority provided in that Act for such grants for that fiscal year, but shall not exceed—
+        - **(I)** for fiscal year 2018, $0;
+        - **(II)** for fiscal year 2019, $33,000,000;
+        - **(III)** for fiscal year 2020, $58,000,000; and
+        - **(IV)** for fiscal year 2021, $83,000,000.
+      - **(ii)** As used in this subparagraph, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation Act and specified to pay for grants to States under section 306 of the Social Security Act [ 42 U.S.C. 506 ].
 - **(c)** As used in this subchapter, the term “discretionary spending limit” means—
   - **(1)** for fiscal year 2014—
     - **(A)** for the revised security category, $520,464,000,000 in new budget authority; and
@@ -81,11 +88,11 @@ status: "active"
     - **(A)** for the revised security category, $551,068,000,000 in new budget authority; and
     - **(B)** for the revised nonsecurity category, $518,531,000,000 in new budget authority;
   - **(5)** for fiscal year 2018—
-    - **(A)** for the revised security category, $603,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $553,000,000,000 in new budget authority;
+    - **(A)** for the revised security category, $629,000,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category $579,000,000,000 in new budget authority;
   - **(6)** for fiscal year 2019—
-    - **(A)** for the revised security category, $616,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+    - **(A)** for the revised security category, $647,000,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category, $597,000,000,000 in new budget authority;
   - **(7)** for fiscal year 2020—
     - **(A)** for the revised security category, $630,000,000,000 in new budget authority; and
     - **(B)** for the revised nonsecurity category, $578,000,000,000 in new budget authority; and

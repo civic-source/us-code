@@ -3,9 +3,9 @@ title: "Section 5935 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5935"
 chapter: 79
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 5935"
-generated_at: "2026-03-30T07:06:11.480Z"
+generated_at: "2026-03-30T07:07:59.318Z"
 status: "repealed"
 ---
 

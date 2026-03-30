@@ -3,9 +3,9 @@ title: "Section 2715c - Conservation and disposition of estates"
 usc_title: 22
 usc_section: "2715c"
 chapter: 38
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 2715c"
-generated_at: "2026-03-30T07:06:26.377Z"
+generated_at: "2026-03-30T07:08:06.136Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 703 - Uniform of friendly nation"
 usc_title: 18
 usc_section: "703"
 chapter: 33
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 703"
-generated_at: "2026-03-30T07:06:08.109Z"
+generated_at: "2026-03-30T07:07:51.099Z"
 status: "active"
 ---
 

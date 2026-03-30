@@ -3,9 +3,9 @@ title: "Section 7914 - Civil rights"
 usc_title: 20
 usc_section: "7914"
 chapter: 70
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 7914"
-generated_at: "2026-03-30T07:06:20.032Z"
+generated_at: "2026-03-30T07:07:52.931Z"
 status: "active"
 ---
 

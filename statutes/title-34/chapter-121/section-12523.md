@@ -3,9 +3,9 @@ title: "Section 12523 - Violent crime and drug emergency areas"
 usc_title: 34
 usc_section: "12523"
 chapter: 121
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "34 U.S.C. § 12523"
-generated_at: "2026-03-30T07:06:39.485Z"
+generated_at: "2026-03-30T07:08:21.288Z"
 status: "active"
 ---
 

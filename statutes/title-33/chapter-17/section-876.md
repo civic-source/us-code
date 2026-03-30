@@ -3,9 +3,9 @@ title: "Section 876 - Fees for notarial acts; prima facie evidence of authority"
 usc_title: 33
 usc_section: "876"
 chapter: 17
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 876"
-generated_at: "2026-03-30T07:06:40.394Z"
+generated_at: "2026-03-30T07:08:19.199Z"
 status: "active"
 ---
 

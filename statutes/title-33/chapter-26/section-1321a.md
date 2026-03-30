@@ -3,9 +3,9 @@ title: "Section 1321a - Prevention of small oil spills"
 usc_title: 33
 usc_section: "1321a"
 chapter: 26
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 1321a"
-generated_at: "2026-03-30T07:06:40.414Z"
+generated_at: "2026-03-30T07:08:19.218Z"
 status: "active"
 ---
 

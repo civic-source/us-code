@@ -3,9 +3,9 @@ title: "Section 6b - Repealed. Pub. L. 100–203, title V , § 5201(d)(2), Dec. 
 usc_title: 16
 usc_section: "6b"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 6b"
-generated_at: "2026-03-30T07:06:11.329Z"
+generated_at: "2026-03-30T07:07:59.155Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5945 - Staff corps officers: limitation on power to command"
 usc_title: 10
 usc_section: "5945"
 chapter: 551
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 5945"
-generated_at: "2026-03-30T07:05:55.684Z"
+generated_at: "2026-03-30T07:07:40.100Z"
 status: "active"
 ---
 

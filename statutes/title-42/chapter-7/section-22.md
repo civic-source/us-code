@@ -3,9 +3,9 @@ title: "Section 22 - Benefits and beneficiary protections"
 usc_title: 42
 usc_section: "22"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T07:07:06.393Z"
+generated_at: "2026-03-30T07:08:38.573Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** Except as provided in section 1395w–28(b)(3) of this title for MSA plans and except as provided in paragraph (6) for MA regional plans, each Medicare+Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title ).
     - **(B)**
-      - **(i)** For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title ) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
+      - **(i)** For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means, subject to subsection (m), those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title ) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
       - **(ii)** In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title , such expenses only with respect to subparagraph (A) of such section.
       - **(iii)** Subject to clause (v), cost-sharing for services described in clause (iv) shall not exceed the cost-sharing required for those services under parts A and B.
       - **(iv)** The following services are described in this clause:
@@ -33,11 +33,20 @@ status: "active"
       - **(ii)** limiting actuarial value of enrollee liability for covered benefits, see section 1395w–24(e) of this title .
     - **(C)** In the case of a Medicare+Choice organization that offers a Medicare+Choice plan in an area in which more than one local coverage determination is applied with respect to different parts of the area, the organization may elect to have the local coverage determination for the part of the area that is most beneficial to Medicare+Choice enrollees (as identified by the Secretary) apply with respect to all Medicare+Choice enrollees enrolled in the plan.
   - **(3)**
-    - **(A)** Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
+    - **(A)** Subject to subparagraph (D), each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
     - **(B)**
       - **(i)** Subject to clause (ii), a Medicare+Choice organization may provide to individuals enrolled under this part supplemental health care benefits that the individuals may elect, at their option, to have covered.
       - **(ii)** A Medicare+Choice organization may not provide, under an MSA plan, supplemental health care benefits that cover the deductible described in section 1395w–28(b)(2)(B) of this title . In applying the previous sentence, health benefits described in section 1395ss(u)(2)(B) of this title shall not be treated as covering such deductible.
     - **(C)** Nothing in this paragraph shall be construed as preventing a Medicare+Choice private fee-for-service plan from offering supplemental benefits that include payment for some or all of the balance billing amounts permitted consistent with subsection (k) and coverage of additional services that the plan finds to be medically necessary. Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title .
+    - **(D)**
+      - **(i)** For plan year 2020 and subsequent plan years, in addition to any supplemental health care benefits otherwise provided under this paragraph, an MA plan, including a specialized MA plan for special needs individuals (as defined in section 1395w–28(b)(6) of this title ), may provide supplemental benefits described in clause (ii) to a chronically ill enrollee (as defined in clause (iii)).
+      - **(ii)**
+        - **(I)** Supplemental benefits described in this clause are supplemental benefits that, with respect to a chronically ill enrollee, have a reasonable expectation of improving or maintaining the health or overall function of the chronically ill enrollee and may not be limited to being primarily health related benefits.
+        - **(II)** The Secretary may, only with respect to supplemental benefits provided to a chronically ill enrollee under this subparagraph, waive the uniformity requirements under this part, as determined appropriate by the Secretary.
+      - **(iii)** In this subparagraph, the term “chronically ill enrollee” means an enrollee in an MA plan that the Secretary determines—
+        - **(I)** has one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits the overall health or function of the enrollee;
+        - **(II)** has a high risk of hospitalization or other adverse health outcomes; and
+        - **(III)** requires intensive care coordination.
   - **(4)** Notwithstanding any other provision of law, a Medicare+Choice organization may (in the case of the provision of items and services to an individual under a Medicare+Choice plan under circumstances in which payment under this subchapter is made secondary pursuant to section 1395y(b)(2) of this title ) charge or authorize the provider of such services to charge, in accordance with the charges allowed under a law, plan, or policy described in such section—
     - **(A)** the insurance carrier, employer, or other entity which under such law, plan, or policy is to pay for the provision of such services, or
     - **(B)** such individual to the extent that the individual has been paid under such law, plan, or policy for such services.
@@ -219,3 +228,23 @@ status: "active"
       - **(ii)** A skilled nursing facility that is providing such services through a continuing care retirement community (as defined in subparagraph (B)) which provided residence to the enrollee at the time of such admission.
       - **(iii)** The skilled nursing facility in which the spouse of the enrollee is residing at the time of discharge from such hospital.
     - **(B)** The term “continuing care retirement community” means, with respect to an enrollee in a Medicare+Choice plan, an arrangement under which housing and health-related services are provided (or arranged) through an organization for the enrollee under an agreement that is effective for the life of the enrollee or for a specified period.
+- **(m)**
+  - **(1)** For plan year 2020 and subsequent plan years, subject to the requirements of paragraph (3), an MA plan may provide additional telehealth benefits (as defined in paragraph (2)) to individuals enrolled under this part.
+  - **(2)**
+    - **(A)** For purposes of this subsection and section 1395w–24 of this title :
+      - **(i)** The term “additional telehealth benefits” means services—
+        - **(I)** for which benefits are available under part B, including services for which payment is not made under section 1395m(m) of this title due to the conditions for payment under such section; and
+        - **(II)** that are identified for such year as clinically appropriate to furnish using electronic information and telecommunications technology when a physician (as defined in section 1395x(r) of this title ) or practitioner (described in section 1395u(b)(18)(C) of this title ) providing the service is not at the same location as the plan enrollee.
+      - **(ii)** The term “additional telehealth benefits” does not include capital and infrastructure costs and investments relating to such benefits.
+    - **(B)** Not later than November 30, 2018 , the Secretary shall solicit comments on—
+      - **(i)** what types of items and services (including those provided through supplemental health care benefits, such as remote patient monitoring, secure messaging, store and forward technologies, and other non-face-to-face communication) should be considered to be additional telehealth benefits; and
+      - **(ii)** the requirements for the provision or furnishing of such benefits (such as training and coordination requirements).
+  - **(3)** The Secretary shall specify requirements for the provision or furnishing of additional telehealth benefits, including with respect to the following:
+    - **(A)** Physician or practitioner qualifications (other than licensure) and other requirements such as specific training.
+    - **(B)** Factors necessary for the coordination of such benefits with other items and services including those furnished in-person.
+    - **(C)** Such other areas as determined by the Secretary.
+  - **(4)** If an MA plan provides a service as an additional telehealth benefit (as defined in paragraph (2))—
+    - **(A)** the MA plan shall also provide access to such benefit through an in-person visit (and not only as an additional telehealth benefit); and
+    - **(B)** an individual enrollee shall have discretion as to whether to receive such service through the in-person visit or as an additional telehealth benefit.
+  - **(5)** For purposes of this subsection and section 1395w–24 of this title , if a plan provides additional telehealth benefits, such additional telehealth benefits shall be treated as if they were benefits under the original Medicare fee-for-service program option.
+  - **(6)** Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospice care) for which benefits are available under parts A and B, including benefits available under section 1395m(m) of this title .

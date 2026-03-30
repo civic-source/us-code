@@ -3,9 +3,9 @@ title: "Section 2231 - Official expenses of employees stationed abroad"
 usc_title: 7
 usc_section: "2231"
 chapter: 55
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 2231"
-generated_at: "2026-03-30T07:05:50.822Z"
+generated_at: "2026-03-30T07:07:34.978Z"
 status: "active"
 ---
 

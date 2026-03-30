@@ -3,9 +3,9 @@ title: "Section 2384 - Supplies: identification of supplier and sources"
 usc_title: 10
 usc_section: "2384"
 chapter: 141
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 2384"
-generated_at: "2026-03-30T07:05:55.648Z"
+generated_at: "2026-03-30T07:07:40.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3126 - Closure to subsistence uses"
 usc_title: 16
 usc_section: "3126"
 chapter: 51
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 3126"
-generated_at: "2026-03-30T07:06:11.455Z"
+generated_at: "2026-03-30T07:07:59.290Z"
 status: "active"
 ---
 

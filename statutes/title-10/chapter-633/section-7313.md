@@ -3,9 +3,9 @@ title: "Section 7313 - Ship overhaul work: availability of appropriations for un
 usc_title: 10
 usc_section: "7313"
 chapter: 633
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 7313"
-generated_at: "2026-03-30T07:05:55.691Z"
+generated_at: "2026-03-30T07:07:40.107Z"
 status: "active"
 ---
 

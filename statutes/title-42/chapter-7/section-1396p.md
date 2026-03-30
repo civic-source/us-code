@@ -3,9 +3,9 @@ title: "Section 1396p - Liens, adjustments and recoveries, and transfers of asse
 usc_title: 42
 usc_section: "1396p"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1396p"
-generated_at: "2026-03-30T07:07:06.451Z"
+generated_at: "2026-03-30T07:08:38.633Z"
 status: "active"
 ---
 
@@ -13,9 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** No lien may be imposed against the property of any individual prior to his death on account of medical assistance paid or to be paid on his behalf under the State plan, except—
-    - **(A)** pursuant to—
-      - **(i)** the judgment of a court on account of benefits incorrectly paid on behalf of such individual, or
-      - **(ii)** rights acquired by or assigned to the State in accordance with section 1396a(a)(25)(H) of this title or section 1396k(a)(1)(A) of this title , or
+    - **(A)** pursuant to the judgment of a court on account of benefits incorrectly paid on behalf of such individual, or
     - **(B)** in the case of the real property of an individual—
       - **(i)** who is an inpatient in a nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs, and
       - **(ii)** with respect to whom the State determines, after notice and opportunity for a hearing (in accordance with procedures established by the State), that he cannot reasonably be expected to be discharged from the medical institution and to return home,

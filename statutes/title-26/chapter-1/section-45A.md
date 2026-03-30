@@ -3,9 +3,9 @@ title: "Section 45A - Indian employment credit"
 usc_title: 26
 usc_section: "45A"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 45A"
-generated_at: "2026-03-30T07:06:35.489Z"
+generated_at: "2026-03-30T07:08:15.548Z"
 status: "active"
 ---
 
@@ -62,4 +62,4 @@ status: "active"
   - **(3)** Rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply.
   - **(4)** Any reference in this section to a provision not contained in this title shall be treated for purposes of this section as a reference to such provision as in effect on the date of the enactment of this paragraph.
   - **(5)** For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
-- **(f)** This section shall not apply to taxable years beginning after December 31, 2016 .
+- **(f)** This section shall not apply to taxable years beginning after December 31, 2017 .

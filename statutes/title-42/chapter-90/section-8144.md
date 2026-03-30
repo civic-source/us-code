@@ -3,9 +3,9 @@ title: "Section 8144 - Grants to or contracts with organizations"
 usc_title: 42
 usc_section: "8144"
 chapter: 90
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 8144"
-generated_at: "2026-03-30T07:07:06.697Z"
+generated_at: "2026-03-30T07:08:38.885Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1683 - Auditing of transactions of Trust Territory of the Pacifi
 usc_title: 48
 usc_section: "1683"
 chapter: 14
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "48 U.S.C. § 1683"
-generated_at: "2026-03-30T07:07:10.006Z"
+generated_at: "2026-03-30T07:08:45.984Z"
 status: "active"
 ---
 

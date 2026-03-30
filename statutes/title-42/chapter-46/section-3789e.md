@@ -3,9 +3,9 @@ title: "Section 3789e - Transferred"
 usc_title: 42
 usc_section: "3789e"
 chapter: 46
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 3789e"
-generated_at: "2026-03-30T07:07:06.574Z"
+generated_at: "2026-03-30T07:08:38.760Z"
 status: "transferred"
 ---
 

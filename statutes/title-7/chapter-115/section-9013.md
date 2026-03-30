@@ -3,9 +3,9 @@ title: "Section 9013 - Payment yields"
 usc_title: 7
 usc_section: "9013"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9013"
-generated_at: "2026-03-30T07:05:50.894Z"
+generated_at: "2026-03-30T07:07:35.052Z"
 status: "active"
 ---
 
@@ -28,3 +28,6 @@ status: "active"
   - **(2)** The election under paragraph (1) shall be made at a time and manner to be in effect beginning with the 2014 crop year as determined by the Secretary.
   - **(3)** If the owner of a farm elects to update yields under this subsection, the payment yield for a covered commodity on the farm, for the purpose of calculating price loss coverage payments only, shall be equal to 90 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 2008 through 2012 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
   - **(4)** If the yield per planted acre for a crop of the covered commodity for a farm for any of the 2008 through 2012 crop years was less than 75 percent of the average of the 2008 through 2012 county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the average of the 2008 through 2012 county yield for the purposes of determining the average yield under paragraph (3).
+- **(e)**
+  - **(1)** Subject to paragraph (2), the payment yield for seed cotton for a farm shall be equal to 2.4 times the payment yield for upland cotton for the farm established under section 8714(e)(3) 1 1 See References in Text note below. of this title (as in effect on September 30, 2013 ).
+  - **(2)** At the sole discretion of the owner of a farm with a yield for upland cotton described in paragraph (1), the owner of the farm shall have a 1-time opportunity to update the payment yield for upland cotton for the farm, as provided in subsection (d), for the purpose of calculating the payment yield for seed cotton under paragraph (1).

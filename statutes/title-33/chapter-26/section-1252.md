@@ -3,9 +3,9 @@ title: "Section 1252 - Comprehensive programs for water pollution control"
 usc_title: 33
 usc_section: "1252"
 chapter: 26
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 1252"
-generated_at: "2026-03-30T07:06:40.401Z"
+generated_at: "2026-03-30T07:08:19.206Z"
 status: "active"
 ---
 

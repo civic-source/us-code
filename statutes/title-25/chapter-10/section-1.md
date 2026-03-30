@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 101–301 , § 12(a), May 24, 1990 , 104 S
 usc_title: 25
 usc_section: "1"
 chapter: 10
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T07:06:22.997Z"
+generated_at: "2026-03-30T07:08:03.587Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6157 - Repealed. Pub. L. 87–651, title I , § 123(b), Sept. 7,
 usc_title: 10
 usc_section: "6157"
 chapter: 561
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 6157"
-generated_at: "2026-03-30T07:05:55.685Z"
+generated_at: "2026-03-30T07:07:40.102Z"
 status: "repealed"
 ---
 

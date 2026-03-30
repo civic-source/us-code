@@ -3,9 +3,9 @@ title: "Section 156 - Licenses conditioned on permitting inspection; suspension 
 usc_title: 21
 usc_section: "156"
 chapter: 5
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "21 U.S.C. § 156"
-generated_at: "2026-03-30T07:06:24.138Z"
+generated_at: "2026-03-30T07:08:02.763Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 139 - Injunctions regarding violation of prohibition"
 usc_title: 42
 usc_section: "139"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 139"
-generated_at: "2026-03-30T07:07:06.290Z"
+generated_at: "2026-03-30T07:08:38.462Z"
 status: "active"
 ---
 

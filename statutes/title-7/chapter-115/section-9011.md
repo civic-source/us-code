@@ -3,9 +3,9 @@ title: "Section 9011 - Definitions"
 usc_title: 7
 usc_section: "9011"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9011"
-generated_at: "2026-03-30T07:05:50.894Z"
+generated_at: "2026-03-30T07:07:35.052Z"
 status: "active"
 ---
 
@@ -20,7 +20,9 @@ In this subchapter and subchapter II:
     - **(A)** The term “base acres”, with respect to a covered commodity on a farm, means the number of acres in effect under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8718, and 8752 of this title, as in effect on September 30, 2013 , subject to any reallocation, adjustment, or reduction under section 9012 of this title .
     - **(B)** The term “base acres” includes any generic base acres planted to a covered commodity as determined in section 9014(b) of this title .
   - **(5)** The term “county coverage” means agriculture risk coverage selected under section 9015(b)(1) of this title to be obtained at the county level.
-  - **(6)** The term “covered commodity” means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+  - **(6)**
+    - **(A)** The term “covered commodity” means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+    - **(B)** Effective beginning with the 2018 crop year, the term “covered commodity” includes seed cotton.
   - **(7)** The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.
   - **(8)** The term “extra long staple cotton” means cotton that—
     - **(A)** is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
@@ -55,16 +57,18 @@ In this subchapter and subchapter II:
     - **(L)** For lentils, $19.97 per hundredweight.
     - **(M)** For small chickpeas, $19.04 per hundredweight.
     - **(N)** For large chickpeas, $21.54 per hundredweight.
+    - **(O)** For seed cotton, $0.367 per pound.
   - **(19)** The term “Secretary” means the Secretary of Agriculture.
-  - **(20)** The term “State” means—
+  - **(20)** The term “seed cotton” means unginned upland cotton that includes both lint and seed.
+  - **(21)** The term “State” means—
     - **(A)** a State;
     - **(B)** the District of Columbia;
     - **(C)** the Commonwealth of Puerto Rico; and
     - **(D)** any other territory or possession of the United States.
-  - **(21)** The term “temperate japonica rice” means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by the Secretary, for the purpose of—
+  - **(22)** The term “temperate japonica rice” means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by the Secretary, for the purpose of—
     - **(A)** the reallocation of base acres under section 9012 of this title ;
     - **(B)** the establishment of a reference price (as required under section 9016(g) of this title ) and an effective price pursuant to section 9016 of this title ; and
     - **(C)** the determination of the actual crop revenue and agriculture risk coverage guarantee pursuant to section 9017 of this title .
-  - **(22)** The term “transitional yield” has the meaning given the term in section 1502(b) of this title .
-  - **(23)** The term “United States”, when used in a geographical sense, means all of the States.
-  - **(24)** The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 1 3 ⁄ 32 -inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+  - **(23)** The term “transitional yield” has the meaning given the term in section 1502(b) of this title .
+  - **(24)** The term “United States”, when used in a geographical sense, means all of the States.
+  - **(25)** The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 1 3 ⁄ 32 -inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.

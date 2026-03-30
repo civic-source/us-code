@@ -3,9 +3,9 @@ title: "Section 6091 - Place for filing returns or other documents"
 usc_title: 26
 usc_section: "6091"
 chapter: 61
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 6091"
-generated_at: "2026-03-30T07:06:35.676Z"
+generated_at: "2026-03-30T07:08:15.753Z"
 status: "active"
 ---
 

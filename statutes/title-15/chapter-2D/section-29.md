@@ -3,9 +3,9 @@ title: "Section 29 - Reports and financial statements of investment companies an
 usc_title: 15
 usc_section: "29"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-30T07:06:02.897Z"
+generated_at: "2026-03-30T07:07:47.927Z"
 status: "active"
 ---
 

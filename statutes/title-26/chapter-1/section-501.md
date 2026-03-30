@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T07:06:35.566Z"
+generated_at: "2026-03-30T07:08:15.633Z"
 status: "active"
 ---
 
@@ -77,6 +77,7 @@ status: "active"
       - **(vii)** For purposes of this subparagraph, the start-up year is the first year that the mutual or cooperative electric company offers nondiscriminatory open access or the calendar year which includes the date of the enactment of this subparagraph, if later, at the election of such company.
       - **(viii)** A company shall not fail to be treated as a mutual or cooperative electric company for purposes of this paragraph or as a corporation operating on a cooperative basis for purposes of section 1381(a)(2)(C) by reason of the treatment under clause (i).
       - **(ix)** For purposes of subparagraph (A), in the case of a mutual or cooperative electric company, income received, or accrued, indirectly from a member shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
+    - **(I)** In the case of a mutual or cooperative electric company described in this paragraph or an organization described in section 1381(a)(2), income received or accrued in connection with an election under section 45J(e)(1) shall be treated as an amount collected from members for the sole purpose of meeting losses and expenses.
   - **(13)** Cemetery companies owned and operated exclusively for the benefit of their members or which are not operated for profit; and any corporation chartered solely for the purpose of the disposal of bodies by burial or cremation which is not permitted by its charter to engage in any business not necessarily incident to that purpose and no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **(14)**
     - **(A)** Credit unions without capital stock organized and operated for mutual purposes and without profit.

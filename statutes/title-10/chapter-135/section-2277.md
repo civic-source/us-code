@@ -3,9 +3,9 @@ title: "Section 2277 - Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(
 usc_title: 10
 usc_section: "2277"
 chapter: 135
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 2277"
-generated_at: "2026-03-30T07:05:55.636Z"
+generated_at: "2026-03-30T07:07:40.056Z"
 status: "repealed"
 ---
 

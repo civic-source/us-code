@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T07:06:35.502Z"
+generated_at: "2026-03-30T07:08:15.562Z"
 status: "active"
 ---
 
@@ -18,8 +18,8 @@ status: "active"
     - **(C)** the indebtedness discharged is qualified farm indebtedness,
     - **(D)** in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
     - **(E)** the indebtedness discharged is qualified principal residence indebtedness which is discharged—
-      - **(i)** before January 1, 2017 , or
-      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2017 .
+      - **(i)** before January 1, 2018 , or
+      - **(ii)** subject to an arrangement that is entered into and evidenced in writing before January 1, 2018 .
   - **(2)**
     - **(A)** Subparagraphs (B), (C), (D), and (E) of paragraph (1) shall not apply to a discharge which occurs in a title 11 case.
     - **(B)** Subparagraphs (C) and (D) of paragraph (1) shall not apply to a discharge to the extent the taxpayer is insolvent.

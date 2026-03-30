@@ -3,9 +3,9 @@ title: "Section 507 - Disposition of effects of decedents"
 usc_title: 14
 usc_section: "507"
 chapter: 13
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "14 U.S.C. § 507"
-generated_at: "2026-03-30T07:05:57.745Z"
+generated_at: "2026-03-30T07:07:42.514Z"
 status: "active"
 ---
 

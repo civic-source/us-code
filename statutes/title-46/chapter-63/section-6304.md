@@ -3,9 +3,9 @@ title: "Section 6304 - Subpena authority"
 usc_title: 46
 usc_section: "6304"
 chapter: 63
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "46 U.S.C. § 6304"
-generated_at: "2026-03-30T07:07:11.099Z"
+generated_at: "2026-03-30T07:08:47.046Z"
 status: "active"
 ---
 

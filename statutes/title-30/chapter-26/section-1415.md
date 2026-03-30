@@ -3,9 +3,9 @@ title: "Section 1415 - License and permit terms, conditions, and restrictions; i
 usc_title: 30
 usc_section: "1415"
 chapter: 26
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "30 U.S.C. § 1415"
-generated_at: "2026-03-30T07:06:36.208Z"
+generated_at: "2026-03-30T07:08:10.369Z"
 status: "active"
 ---
 

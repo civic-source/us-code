@@ -3,9 +3,9 @@ title: "Section 1021 - Definitions"
 usc_title: 20
 usc_section: "1021"
 chapter: 28
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 1021"
-generated_at: "2026-03-30T07:06:19.926Z"
+generated_at: "2026-03-30T07:07:52.823Z"
 status: "active"
 ---
 

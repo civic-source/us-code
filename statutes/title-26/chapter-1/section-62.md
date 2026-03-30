@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T07:06:35.497Z"
+generated_at: "2026-03-30T07:08:15.557Z"
 status: "active"
 ---
 
@@ -39,7 +39,14 @@ status: "active"
   - **(18)** The deduction allowed by section 222.
   - **(19)** The deduction allowed by section 223.
   - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code 2 2 So in original. Probably should be followed by a comma. or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
-  - **(21)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
+  - **(21)**
+    - **(A)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under—
+      - **(i)** section 7623(b), or
+      - **(ii)** in the case of taxable years beginning after December 31, 2017 , any action brought under—
+        - **(I)** section 21F of the Securities Exchange Act of 1934 ( 15 U.S.C. 78u–6 ),
+        - **(II)** a State false claims act, including a State false claims act with qui tam provisions, or
+        - **(III)** section 23 of the Commodity Exchange Act ( 7 U.S.C. 26 ).
+    - **(B)** Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
 - **(b)**
   - **(1)** For purposes of subsection (a)(2)(B), the term “qualified performing artist” means, with respect to any taxable year, any individual if—
     - **(A)** such individual performed services in the performing arts as an employee during the taxable year for at least 2 employers,

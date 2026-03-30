@@ -3,9 +3,9 @@ title: "Section 9631 - National Center for Research in Advanced Information and 
 usc_title: 20
 usc_section: "9631"
 chapter: 76
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 9631"
-generated_at: "2026-03-30T07:06:20.041Z"
+generated_at: "2026-03-30T07:07:52.940Z"
 status: "active"
 ---
 

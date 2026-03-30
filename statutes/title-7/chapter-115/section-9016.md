@@ -3,9 +3,9 @@ title: "Section 9016 - Price loss coverage"
 usc_title: 7
 usc_section: "9016"
 chapter: 115
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 9016"
-generated_at: "2026-03-30T07:05:50.895Z"
+generated_at: "2026-03-30T07:07:35.053Z"
 status: "active"
 ---
 
@@ -27,3 +27,16 @@ status: "active"
 - **(e)** If the Secretary determines under this section that price loss coverage payments are required to be provided for the covered commodity, the payments shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
 - **(f)** In determining the effective price for barley under subsection (b), the Secretary shall use the all-barley price.
 - **(g)** The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of section 9011(18) of this title in order to reflect price premiums.
+- **(h)**
+  - **(1)** The effective price for seed cotton under subsection (b) shall be equal to the marketing year average price for seed cotton, as calculated under paragraph (2).
+  - **(2)** The marketing year average price for seed cotton for a crop year shall be equal to the quotient obtained by dividing—
+    - **(A)** the sum obtained by adding—
+      - **(i)** the product obtained by multiplying—
+        - **(I)** the upland cotton lint marketing year average price; and
+        - **(II)** the total United States upland cotton lint production, measured in pounds; and
+      - **(ii)** the product obtained by multiplying—
+        - **(I)** the cottonseed marketing year average price; and
+        - **(II)** the total United States cottonseed production, measured in pounds; by
+    - **(B)** the sum obtained by adding—
+      - **(i)** the total United States upland cotton lint production, measured in pounds; and
+      - **(ii)** the total United States cottonseed production, measured in pounds.

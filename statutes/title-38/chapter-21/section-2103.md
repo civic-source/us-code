@@ -3,9 +3,9 @@ title: "Section 2103 - Furnishing of plans and specifications"
 usc_title: 38
 usc_section: "2103"
 chapter: 21
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "38 U.S.C. § 2103"
-generated_at: "2026-03-30T07:06:44.666Z"
+generated_at: "2026-03-30T07:08:25.631Z"
 status: "active"
 ---
 

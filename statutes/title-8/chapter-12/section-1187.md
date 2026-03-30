@@ -3,9 +3,9 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-03-30T07:05:48.185Z"
+generated_at: "2026-03-30T07:07:36.274Z"
 status: "active"
 ---
 
@@ -230,7 +230,7 @@ status: "active"
         - **(I)** $10 per travel authorization; and
         - **(II)** an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
       - **(ii)** Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22 . Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
-      - **(iii)** The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2020 .
+      - **(iii)** The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027 .
     - **(C)**
       - **(i)** The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
       - **(ii)** A determination by the Secretary of Homeland Security that an alien is eligible to travel to the United States under the program is not a determination that the alien is admissible to the United States.

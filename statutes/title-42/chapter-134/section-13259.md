@@ -3,9 +3,9 @@ title: "Section 13259 - Secretary’s recommendations to Congress"
 usc_title: 42
 usc_section: "13259"
 chapter: 134
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 13259"
-generated_at: "2026-03-30T07:07:06.787Z"
+generated_at: "2026-03-30T07:08:38.982Z"
 status: "active"
 ---
 

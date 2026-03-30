@@ -3,9 +3,9 @@ title: "Section 792 - Limitations on tiering of subcontractors"
 usc_title: 6
 usc_section: "792"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "6 U.S.C. § 792"
-generated_at: "2026-03-30T07:05:47.627Z"
+generated_at: "2026-03-30T07:07:35.768Z"
 status: "active"
 ---
 

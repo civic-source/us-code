@@ -3,9 +3,9 @@ title: "Section 942 - Annual report"
 usc_title: 33
 usc_section: "942"
 chapter: 18
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 942"
-generated_at: "2026-03-30T07:06:40.399Z"
+generated_at: "2026-03-30T07:08:19.203Z"
 status: "active"
 ---
 

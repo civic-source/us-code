@@ -3,9 +3,9 @@ title: "Section 138 - Goods withheld from chiefs violating treaty stipulations"
 usc_title: 25
 usc_section: "138"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "25 U.S.C. § 138"
-generated_at: "2026-03-30T07:06:22.992Z"
+generated_at: "2026-03-30T07:08:03.583Z"
 status: "active"
 ---
 

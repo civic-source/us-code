@@ -3,9 +3,9 @@ title: "Section 1831s - Transferred"
 usc_title: 12
 usc_section: "1831s"
 chapter: 16
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 1831s"
-generated_at: "2026-03-30T07:06:01.045Z"
+generated_at: "2026-03-30T07:07:44.755Z"
 status: "transferred"
 ---
 

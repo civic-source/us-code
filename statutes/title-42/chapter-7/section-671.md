@@ -3,9 +3,9 @@ title: "Section 671 - State plan for foster care and adoption assistance"
 usc_title: 42
 usc_section: "671"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 671"
-generated_at: "2026-03-30T07:07:06.333Z"
+generated_at: "2026-03-30T07:08:38.508Z"
 status: "active"
 ---
 
@@ -109,14 +109,19 @@ status: "active"
   - **(33)** provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a child who is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
   - **(34)** provides that, for each child or youth described in paragraph (9)(C)(i)(I), the State agency shall—
     - **(A)** not later than 2 years after September 29, 2014 , report immediately, and in no case later than 24 hours after receiving information on children or youth who have been identified as being a sex trafficking victim, to the law enforcement authorities; and
-    - **(B)** not later than 3 years after September 29, 2014 , and annually thereafter, report to the Secretary the total number of children and youth who are sex trafficking victims; and
+    - **(B)** not later than 3 years after September 29, 2014 , and annually thereafter, report to the Secretary the total number of children and youth who are sex trafficking victims;
   - **(35)** provides that—
     - **(A)** not later than 1 year after September 29, 2014 , the State shall develop and implement specific protocols for—
       - **(i)** expeditiously locating any child missing from foster care;
       - **(ii)** determining the primary factors that contributed to the child’s running away or otherwise being absent from care, and to the extent possible and appropriate, responding to those factors in current and subsequent placements;
       - **(iii)** determining the child’s experiences while absent from care, including screening the child to determine if the child is a possible sex trafficking victim (as defined in section 675(9)(A) of this title ); and
       - **(iv)** reporting such related information as required by the Secretary; and
-    - **(B)** not later than 2 years after September 29, 2014 , for each child and youth described in paragraph (9)(C)(i)(I) of this subsection, the State agency shall report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children or youth to the law enforcement authorities for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, established pursuant to section 534 of title 28 , and to the National Center for Missing and Exploited Children.
+    - **(B)** not later than 2 years after September 29, 2014 , for each child and youth described in paragraph (9)(C)(i)(I) of this subsection, the State agency shall report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children or youth to the law enforcement authorities for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, established pursuant to section 534 of title 28 , and to the National Center for Missing and Exploited Children;
+  - **(36)** provides that, not later than April 1, 2019 , the State shall submit to the Secretary information addressing—
+    - **(A)** whether the State licensing standards are in accord with model standards identified by the Secretary, and if not, the reason for the specific deviation and a description as to why having a standard that is reasonably in accord with the corresponding national model standards is not appropriate for the State;
+    - **(B)** whether the State has elected to waive standards established in 671(a)(10)(A) 5 5 So in original. Probably should be preceded by “section”. of this title for relative foster family homes (pursuant to waiver authority provided by 671(a)(10)(D) 5 of this title), a description of which standards the State most commonly waives, and if the State has not elected to waive the standards, the reason for not waiving these standards;
+    - **(C)** if the State has elected to waive standards specified in subparagraph (B), how caseworkers are trained to use the waiver authority and whether the State has developed a process or provided tools to assist caseworkers in waiving nonsafety standards per the authority provided in 671(a)(10)(D) 5 of this title to quickly place children with relatives; and
+    - **(D)** a description of the steps the State is taking to improve caseworker training or the process, if any; and 6 6 Par. (37) added by Pub. L. 115–123 , see Amendment of Section note below.
 - **(b)** The Secretary shall approve any plan which complies with the provisions of subsection (a) of this section.
 - **(c)** Subsection (a)(8) shall not be construed to limit the flexibility of a State in determining State policies relating to public access to court proceedings to determine child abuse and neglect or other court hearings held pursuant to part B or this part, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and family.
 - **(d)** Not later than 4 years after September 29, 2014 , and annually thereafter, the Secretary shall report to the Congress and make available to the public on the Internet website of the Department of Health and Human Services the number of children and youth reported in accordance with subsection (a)(34)(B) of this section to be sex trafficking victims (as defined in section 675(9)(A) of this title ).

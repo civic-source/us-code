@@ -3,9 +3,9 @@ title: "Section 6c - Transferred"
 usc_title: 42
 usc_section: "6c"
 chapter: 15
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 6c"
-generated_at: "2026-03-30T07:07:06.512Z"
+generated_at: "2026-03-30T07:08:38.697Z"
 status: "transferred"
 ---
 

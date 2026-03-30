@@ -3,9 +3,9 @@ title: "Section 1561 - Limitation on accumulated earnings credit in the case of 
 usc_title: 26
 usc_section: "1561"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 1561"
-generated_at: "2026-03-30T07:06:35.627Z"
+generated_at: "2026-03-30T07:08:15.700Z"
 status: "active"
 ---
 

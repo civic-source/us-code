@@ -3,9 +3,9 @@ title: "Section 140412 - Definition"
 usc_title: 36
 usc_section: "140412"
 chapter: 1404
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "36 U.S.C. § 140412"
-generated_at: "2026-03-30T07:06:42.601Z"
+generated_at: "2026-03-30T07:08:24.290Z"
 status: "active"
 ---
 

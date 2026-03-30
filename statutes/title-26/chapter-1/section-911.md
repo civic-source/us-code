@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-30T07:06:35.596Z"
+generated_at: "2026-03-30T07:08:15.666Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
   - **(2)**
     - **(A)** The term “earned income” means wages, salaries, or professional fees, and other amounts received as compensation for personal services actually rendered, but does not include that part of the compensation derived by the taxpayer for personal services rendered by him to a corporation which represents a distribution of earnings or profits rather than a reasonable allowance as compensation for the personal services actually rendered.
     - **(B)** In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
-  - **(3)** The term “tax home” means, with respect to any individual, such individual’s home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States.
+  - **(3)** The term “tax home” means, with respect to any individual, such individual’s home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States, unless such individual is serving in an area designated by the President of the United States by Executive order as a combat zone for purposes of section 112 in support of the Armed Forces of the United States.
   - **(4)** Notwithstanding paragraph (1), an individual who—
     - **(A)** is a bona fide resident of, or is present in, a foreign country for any period,
     - **(B)** leaves such foreign country after August 31, 1978 —

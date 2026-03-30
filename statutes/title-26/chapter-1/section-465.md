@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T07:06:35.563Z"
+generated_at: "2026-03-30T07:08:15.630Z"
 status: "active"
 ---
 
@@ -127,7 +127,7 @@ status: "active"
         - **(II)** in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts under section 163 or 591.
       - **(v)**
         - **(I)** Clause (iii) of subparagraph (C) shall not apply to any insurance business of a qualified life insurance company.
-        - **(II)** For purposes of subclause (I), the term “insurance business” means any business which is not a noninsurance business (within the meaning of section 453B(e)(3).
+        - **(II)** For purposes of subclause (I), the term “insurance business” means any business which is not a noninsurance business (within the meaning of section 453B(e)(3)).
         - **(III)** For purposes of subclause (I), the term “qualified life insurance company” means any company which would be a life insurance company as defined in section 816 if unearned premiums were not taken into account under subsections (a)(2) and (c)(2) of section 816.
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “non-owner employee” means any employee who does not own, at any time during the taxable year, more than 5 percent in value of the outstanding stock of the taxpayer. For purposes of the preceding sentence, section 318 shall apply, except that “5 percent” shall be substituted for “50 percent” in section 318(a)(2)(C).

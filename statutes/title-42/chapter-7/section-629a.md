@@ -3,9 +3,9 @@ title: "Section 629a - Definitions"
 usc_title: 42
 usc_section: "629a"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 629a"
-generated_at: "2026-03-30T07:07:06.325Z"
+generated_at: "2026-03-30T07:08:38.499Z"
 status: "active"
 ---
 
@@ -26,10 +26,11 @@ status: "active"
     - **(B)** The purposes described in this subparagraph are the following:
       - **(i)** To promote the safety and well-being of children and families.
       - **(ii)** To increase the strength and stability of families (including adoptive, foster, and extended families).
-      - **(iii)** To increase parents’ confidence and competence in their parenting abilities.
-      - **(iv)** To afford children a safe, stable, and supportive family environment.
-      - **(v)** To strengthen parental relationships and promote healthy marriages.
-      - **(vi)** To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title ).
+      - **(iii)** To support and retain foster families so they can provide quality family-based settings for children in foster care.
+      - **(iv)** To increase parents’ confidence and competence in their parenting abilities.
+      - **(v)** To afford children a safe, stable, and supportive family environment.
+      - **(vi)** To strengthen parental relationships and promote healthy marriages.
+      - **(vii)** To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title ).
   - **(3)** The term “State agency” means the State agency responsible for administering the program under subpart 1.
   - **(4)** The term “State” includes an Indian tribe or tribal organization, in addition to the meaning given such term for purposes of subpart 1.
   - **(5)** The term “Indian tribe” has the meaning given the term in section 628(c) of this title .

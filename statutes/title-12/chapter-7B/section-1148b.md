@@ -3,9 +3,9 @@ title: "Section 1148b - Additional powers of regional agricultural credit corpor
 usc_title: 12
 usc_section: "1148b"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 1148b"
-generated_at: "2026-03-30T07:06:00.979Z"
+generated_at: "2026-03-30T07:07:44.689Z"
 status: "active"
 ---
 

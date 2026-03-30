@@ -3,9 +3,9 @@ title: "Section 5774 - Repealed. Pub. L. 90–130 , § 1(19)(T), Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "5774"
 chapter: 545
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 5774"
-generated_at: "2026-03-30T07:05:55.684Z"
+generated_at: "2026-03-30T07:07:40.100Z"
 status: "repealed"
 ---
 

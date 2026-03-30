@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 113–79, title II , § 2707(a), Feb. 7, 2
 usc_title: 16
 usc_section: "1"
 chapter: 58
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T07:06:11.467Z"
+generated_at: "2026-03-30T07:07:59.303Z"
 status: "repealed"
 ---
 

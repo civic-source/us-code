@@ -3,9 +3,9 @@ title: "Section 430w - Administration, protection, and development"
 usc_title: 16
 usc_section: "430w"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 430w"
-generated_at: "2026-03-30T07:06:11.318Z"
+generated_at: "2026-03-30T07:07:59.143Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1441 - Congressional declaration of national housing policy"
 usc_title: 42
 usc_section: "1441"
 chapter: 8
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1441"
-generated_at: "2026-03-30T07:07:06.487Z"
+generated_at: "2026-03-30T07:08:38.671Z"
 status: "active"
 ---
 

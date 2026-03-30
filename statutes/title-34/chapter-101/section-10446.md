@@ -3,9 +3,9 @@ title: "Section 10446 - State grants"
 usc_title: 34
 usc_section: "10446"
 chapter: 101
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "34 U.S.C. § 10446"
-generated_at: "2026-03-30T07:06:39.466Z"
+generated_at: "2026-03-30T07:08:21.269Z"
 status: "active"
 ---
 
@@ -32,14 +32,14 @@ status: "active"
     - **(H)** victim service providers;
     - **(I)** population specific organizations; and
     - **(J)** other entities that the State or the Attorney General identifies as needed for the planning process;
-  - **(3)** grantees shall coordinate the State implementation plan described in paragraph (2) with the State plans described in section 10407 of title 42 and the programs described in section 20103 of this title and section 280b–1b of title 42 .
-  - **(4)** 2 2 So in original. There are two pars. designated “(4)”. of the amount granted—
+  - **(3)** grantees shall coordinate the State implementation plan described in paragraph (2) with the State plans described in section 10407 of title 42 and the programs described in section 20103 of this title and section 280b–1b of title 42 . 2 2 So in original. The period should probably be a semicolon.
+  - **(4)** 3 3 So in original. There are two pars. designated “(4)”. of the amount granted—
     - **(A)** not less than 25 percent shall be allocated for law enforcement;
     - **(B)** not less than 25 percent shall be allocated for prosecutors;
     - **(C)** not less than 30 percent shall be allocated for victims services of which at least 10 percent shall be distributed to culturally specific community-based organizations; and
-    - **(D)** not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and
-  - **(4)** 2 any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter. 3 3 See References in Text note below.
-  - **(5)** not later than 2 years after the date of enactment of this Act, 3 and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter 3 shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
+    - **(D)** not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and 4 4 So in original. The word “and” probably should not appear.
+  - **(4)** 3 any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter. 2 , 5 5 See References in Text note below.
+  - **(5)** not later than 2 years after the date of enactment of this Act, 5 and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter 5 shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 - **(d)** An application for a grant under this section shall include—
   - **(1)** the certifications of qualification required under subsection (c);
   - **(2)** proof of compliance with the requirements for the payment of forensic medical exams and judicial notification, described in section 10449 of this title ;
@@ -50,14 +50,14 @@ status: "active"
 - **(e)**
   - **(1)** Not later than 60 days after the receipt of an application under this subchapter, the Attorney General shall—
     - **(A)** disburse the appropriate sums provided for under this subchapter; or
-    - **(B)** inform the applicant why the application does not conform to the terms of section 10181 3 of this title or to the requirements of this section.
+    - **(B)** inform the applicant why the application does not conform to the terms of section 10181 5 of this title or to the requirements of this section.
   - **(2)** In disbursing monies under this subchapter, the Attorney General shall issue regulations to ensure that States will—
     - **(A)** give priority to areas of varying geographic size with the greatest showing of need based on the availability of existing domestic violence, dating violence, sexual assault, and stalking programs in the population and geographic area to be served in relation to the availability of such programs in other such populations and geographic areas;
     - **(B)** determine the amount of subgrants based on the population and geographic area to be served;
     - **(C)** equitably distribute monies on a geographic basis including nonurban and rural areas of various geographic sizes; and
     - **(D)** recognize and meaningfully respond to the needs of underserved populations and ensure that monies set aside to fund culturally specific services and activities for underserved populations are distributed equitably among those populations.
   - **(3)** In disbursing grants under this subchapter, the Attorney General may impose reasonable conditions on grant awards to ensure that the States meet statutory, regulatory, and other program requirements.
-- **(f)** The Federal share of a grant made under this subchapter 3 may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 12291(b)(1) of this title shall not count toward the total costs of the projects.
+- **(f)** The Federal share of a grant made under this subchapter 5 may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 12291(b)(1) of this title shall not count toward the total costs of the projects.
 - **(g)** Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter.
 - **(h)**
   - **(1)** Upon completion of the grant period under this subchapter, a State or Indian tribal grantee shall file a performance report with the Attorney General explaining the activities carried out, which report shall include an assessment of the effectiveness of those activities in achieving the purposes of this subchapter.
@@ -83,4 +83,4 @@ status: "active"
     - **(H)** any other information requested by the Attorney General.
 - **(j)** A State may use any returned or remaining funds for any authorized purpose under this subchapter if—
   - **(1)** funds from a subgrant awarded under this subchapter are returned to the State; or
-  - **(2)** the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) 4 4 So in original. Probably should be followed by a period.
+  - **(2)** the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) 6 6 So in original. Probably should be followed by a period.

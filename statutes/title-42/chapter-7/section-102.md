@@ -3,9 +3,9 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-30T07:07:06.399Z"
+generated_at: "2026-03-30T07:08:38.580Z"
 status: "active"
 ---
 
@@ -48,15 +48,14 @@ status: "active"
         - **(III)** 2020 and each subsequent year is 25 percent.
     - **(D)**
       - **(i)** Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title ) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in section 1395w–114a(g)(6) of this title ) of covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title that is—
-        - **(I)** equal to the difference between the applicable gap percentage (specified in clause (ii) for the year) and the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs; or
+        - **(I)** equal to the difference between—
         - **(II)** actuarially equivalent (using processes and methods established under section 1395w–111(c) of this title ) to an average expected payment of such percentage of such costs, for covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title .
       - **(ii)** The applicable gap percentage specified in this clause for—
         - **(I)** 2013 and 2014 is 97.5 percent;
         - **(II)** 2015 and 2016 is 95 percent;
         - **(III)** 2017 is 90 percent;
-        - **(IV)** 2018 is 85 percent;
-        - **(V)** 2019 is 80 percent; and
-        - **(VI)** 2020 and each subsequent year is 75 percent.
+        - **(IV)** 2018 is 85 percent; and
+        - **(V)** 2019 and each subsequent year is 75 percent.
   - **(3)**
     - **(A)** Except as provided in paragraphs (2)(C), (2)(D), and (4), the coverage has an initial coverage limit on the maximum costs that may be recognized for payment purposes (including the annual deductible)—
       - **(i)** for 2006, that is equal to $2,250; or

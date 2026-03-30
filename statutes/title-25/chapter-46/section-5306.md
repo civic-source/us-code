@@ -3,9 +3,9 @@ title: "Section 5306 - Criminal activities involving grants, contracts, etc.; pe
 usc_title: 25
 usc_section: "5306"
 chapter: 46
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "25 U.S.C. § 5306"
-generated_at: "2026-03-30T07:06:23.048Z"
+generated_at: "2026-03-30T07:08:03.639Z"
 status: "active"
 ---
 

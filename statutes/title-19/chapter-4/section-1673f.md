@@ -3,9 +3,9 @@ title: "Section 1673f - Treatment of difference between deposit of estimated ant
 usc_title: 19
 usc_section: "1673f"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "19 U.S.C. § 1673f"
-generated_at: "2026-03-30T07:06:06.823Z"
+generated_at: "2026-03-30T07:07:56.287Z"
 status: "active"
 ---
 

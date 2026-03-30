@@ -3,9 +3,9 @@ title: "Section 505a - Interchange of lands between Department of Agriculture an
 usc_title: 16
 usc_section: "505a"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 505a"
-generated_at: "2026-03-30T07:06:11.360Z"
+generated_at: "2026-03-30T07:07:59.188Z"
 status: "active"
 ---
 

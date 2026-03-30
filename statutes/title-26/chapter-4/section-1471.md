@@ -3,9 +3,9 @@ title: "Section 1471 - Withholdable payments to foreign financial institutions"
 usc_title: 26
 usc_section: "1471"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 1471"
-generated_at: "2026-03-30T07:06:35.626Z"
+generated_at: "2026-03-30T07:08:15.698Z"
 status: "active"
 ---
 

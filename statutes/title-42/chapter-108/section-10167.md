@@ -3,9 +3,9 @@ title: "Section 10167 - Benefits agreement"
 usc_title: 42
 usc_section: "10167"
 chapter: 108
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 10167"
-generated_at: "2026-03-30T07:07:06.738Z"
+generated_at: "2026-03-30T07:08:38.928Z"
 status: "active"
 ---
 

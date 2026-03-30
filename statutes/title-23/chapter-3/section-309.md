@@ -3,9 +3,9 @@ title: "Section 309 - Repealed. Pub. L. 112–141, div. A, title I , § 1519(b)(
 usc_title: 23
 usc_section: "309"
 chapter: 3
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "23 U.S.C. § 309"
-generated_at: "2026-03-30T07:06:23.418Z"
+generated_at: "2026-03-30T07:08:01.840Z"
 status: "repealed"
 ---
 

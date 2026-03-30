@@ -3,9 +3,9 @@ title: "Section 309 - Federal recognition of National Guard officers: officers p
 usc_title: 32
 usc_section: "309"
 chapter: 3
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "32 U.S.C. § 309"
-generated_at: "2026-03-30T07:06:37.740Z"
+generated_at: "2026-03-30T07:08:17.324Z"
 status: "active"
 ---
 

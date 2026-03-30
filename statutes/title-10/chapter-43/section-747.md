@@ -3,9 +3,9 @@ title: "Section 747 - Command: when different commands of Army, Navy, Air Force,
 usc_title: 10
 usc_section: "747"
 chapter: 43
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 747"
-generated_at: "2026-03-30T07:05:55.584Z"
+generated_at: "2026-03-30T07:07:40.008Z"
 status: "active"
 ---
 

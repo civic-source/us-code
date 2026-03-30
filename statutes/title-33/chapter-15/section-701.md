@@ -3,9 +3,9 @@ title: "Section 701 - Flood control generally"
 usc_title: 33
 usc_section: "701"
 chapter: 15
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 701"
-generated_at: "2026-03-30T07:06:40.388Z"
+generated_at: "2026-03-30T07:08:19.193Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** the extent and character of the area to be affected by the proposed improvement;
 - **(b)** the probable effect upon any navigable water or waterway;
 - **(c)** the possible economical development and utilization of water power; and
-- **(d)** such other uses as may be properly related to or coordinated with the project. And the heads of the several departments of the Government may, in their discretion, and shall upon the request of the Secretary of the Army, detail representatives from their respective departments to assist the Engineers of the Army in the study and examination of such watersheds, to the end that duplication of work may be avoided and the various services of the Government economically coordinated therein: Provided , That all reports on preliminary examinations hereafter authorized, together with the report of the Board of Engineers for Rivers and Harbors thereon and the separate report of the representative of any other department, shall be submitted to the Secretary of the Army by the Chief of Engineers, with his recommendations, and shall be transmitted by the Secretary of the Army to the House of Representatives, and are ordered to be printed when so made. Reports by Board of Engineers for Rivers and Harbors —In the consideration of all works and projects relating to flood control which may be submitted to the Board of Engineers for Rivers and Harbors for consideration and recommendation, said board shall, in addition to any other matters upon which it may be required to report, state its opinion as to
+- **(d)** such other uses as may be properly related to or coordinated with the project. And the heads of the several departments of the Government may, in their discretion, and shall upon the request of the Secretary of the Army, detail representatives from their respective departments to assist the Engineers of the Army in the study and examination of such watersheds, to the end that duplication of work may be avoided and the various services of the Government economically coordinated therein: Provided , That all reports on preliminary examinations hereafter authorized, together with the report of the Board of Engineers for Rivers and Harbors thereon and the separate report of the representative of any other department, shall be submitted to the Secretary of the Army by the Chief of Engineers, with his recommendations, and shall be transmitted by the Secretary of the Army to the House of Representatives, and are ordered to be printed when so made. [Reports by Board of Engineers for Rivers and Harbors.] In the consideration of all works and projects relating to flood control which may be submitted to the Board of Engineers for Rivers and Harbors for consideration and recommendation, said board shall, in addition to any other matters upon which it may be required to report, state its opinion as to
 - **(a)** what Federal interest, if any, is involved in the proposed improvement;
 - **(b)** what share of the expense, if any, should be borne by the United States; and
 - **(c)** the advisability of adopting the project.

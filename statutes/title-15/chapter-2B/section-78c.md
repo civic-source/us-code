@@ -3,9 +3,9 @@ title: "Section 78c - Definitions and application"
 usc_title: 15
 usc_section: "78c"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 78c"
-generated_at: "2026-03-30T07:06:02.868Z"
+generated_at: "2026-03-30T07:07:47.899Z"
 status: "active"
 ---
 

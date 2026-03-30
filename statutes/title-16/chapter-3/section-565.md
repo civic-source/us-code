@@ -3,9 +3,9 @@ title: "Section 565 - Repealed. Pub. L. 95–313 , § 16(a)(1), formerly § 13(a
 usc_title: 16
 usc_section: "565"
 chapter: 3
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 565"
-generated_at: "2026-03-30T07:06:11.370Z"
+generated_at: "2026-03-30T07:07:59.199Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9619 - Response action contractors"
 usc_title: 42
 usc_section: "9619"
 chapter: 103
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 9619"
-generated_at: "2026-03-30T07:07:06.718Z"
+generated_at: "2026-03-30T07:08:38.907Z"
 status: "active"
 ---
 

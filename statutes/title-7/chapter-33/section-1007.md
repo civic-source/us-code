@@ -3,9 +3,9 @@ title: "Section 1007 - Repealed. Pub. L. 87–128, title III , § 341(a), Aug. 8
 usc_title: 7
 usc_section: "1007"
 chapter: 33
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 1007"
-generated_at: "2026-03-30T07:05:50.763Z"
+generated_at: "2026-03-30T07:07:34.916Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1466 - Omitted"
 usc_title: 42
 usc_section: "1466"
 chapter: 8
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1466"
-generated_at: "2026-03-30T07:07:06.488Z"
+generated_at: "2026-03-30T07:08:38.671Z"
 status: "omitted"
 ---
 

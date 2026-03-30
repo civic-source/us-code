@@ -3,9 +3,9 @@ title: "Section 4071 - Federal operation of program; determination by Administra
 usc_title: 42
 usc_section: "4071"
 chapter: 50
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 4071"
-generated_at: "2026-03-30T07:07:06.579Z"
+generated_at: "2026-03-30T07:08:38.765Z"
 status: "active"
 ---
 

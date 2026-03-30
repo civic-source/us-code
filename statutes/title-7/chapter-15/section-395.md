@@ -3,9 +3,9 @@ title: "Section 395 - Fees for rabies diagnoses; disposition of moneys"
 usc_title: 7
 usc_section: "395"
 chapter: 15
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 395"
-generated_at: "2026-03-30T07:05:50.750Z"
+generated_at: "2026-03-30T07:07:34.902Z"
 status: "active"
 ---
 

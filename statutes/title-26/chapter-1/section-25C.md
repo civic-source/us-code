@@ -3,9 +3,9 @@ title: "Section 25C - Nonbusiness energy property"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-30T07:06:35.479Z"
+generated_at: "2026-03-30T07:08:15.537Z"
 status: "active"
 ---
 
@@ -69,4 +69,4 @@ status: "active"
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 - **(g)** This section shall not apply with respect to any property placed in service—
   - **(1)** after December 31, 2007 , and before January 1, 2009 , or
-  - **(2)** after December 31, 2016 .. 4 4 So in original.
+  - **(2)** after December 31, 2017 .. 4 4 So in original.

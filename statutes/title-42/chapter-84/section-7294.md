@@ -3,9 +3,9 @@ title: "Section 7294 - Incidental transfers"
 usc_title: 42
 usc_section: "7294"
 chapter: 84
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 7294"
-generated_at: "2026-03-30T07:07:06.657Z"
+generated_at: "2026-03-30T07:08:38.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2794 - Critical technology partnerships and cooperative research
 usc_title: 50
 usc_section: "2794"
 chapter: 42
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 2794"
-generated_at: "2026-03-30T07:07:12.618Z"
+generated_at: "2026-03-30T07:08:43.685Z"
 status: "active"
 ---
 

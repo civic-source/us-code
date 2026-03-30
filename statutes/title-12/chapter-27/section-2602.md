@@ -3,9 +3,9 @@ title: "Section 2602 - Definitions"
 usc_title: 12
 usc_section: "2602"
 chapter: 27
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 2602"
-generated_at: "2026-03-30T07:06:01.067Z"
+generated_at: "2026-03-30T07:07:44.777Z"
 status: "active"
 ---
 

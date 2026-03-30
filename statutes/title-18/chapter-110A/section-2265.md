@@ -3,9 +3,9 @@ title: "Section 2265 - Full faith and credit given to protection orders"
 usc_title: 18
 usc_section: "2265"
 chapter: 110
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 2265"
-generated_at: "2026-03-30T07:06:08.132Z"
+generated_at: "2026-03-30T07:07:51.123Z"
 status: "active"
 ---
 

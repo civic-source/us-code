@@ -3,9 +3,9 @@ title: "Section 2251 - Office of Congressional Accessibility Services"
 usc_title: 2
 usc_section: "2251"
 chapter: 31
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 2251"
-generated_at: "2026-03-30T07:05:44.278Z"
+generated_at: "2026-03-30T07:07:28.503Z"
 status: "active"
 ---
 

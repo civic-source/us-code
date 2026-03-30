@@ -3,9 +3,9 @@ title: "Section 5381 - Definitions"
 usc_title: 5
 usc_section: "5381"
 chapter: 53
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "5 U.S.C. § 5381"
-generated_at: "2026-03-30T07:05:45.634Z"
+generated_at: "2026-03-30T07:07:30.135Z"
 status: "active"
 ---
 

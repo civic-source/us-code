@@ -3,9 +3,9 @@ title: "Section 6533 - Death, resignation, or disability of Secretary of Senate;
 usc_title: 2
 usc_section: "6533"
 chapter: 65
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 6533"
-generated_at: "2026-03-30T07:05:44.287Z"
+generated_at: "2026-03-30T07:07:28.514Z"
 status: "active"
 ---
 

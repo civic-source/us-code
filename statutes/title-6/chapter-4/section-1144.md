@@ -3,9 +3,9 @@ title: "Section 1144 - Limitation on fines and civil penalties"
 usc_title: 6
 usc_section: "1144"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "6 U.S.C. § 1144"
-generated_at: "2026-03-30T07:05:47.633Z"
+generated_at: "2026-03-30T07:07:35.772Z"
 status: "active"
 ---
 

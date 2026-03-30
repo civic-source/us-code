@@ -3,9 +3,9 @@ title: "Section 3303a - Levee safety initiative"
 usc_title: 33
 usc_section: "3303a"
 chapter: 46
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "33 U.S.C. § 3303a"
-generated_at: "2026-03-30T07:06:40.446Z"
+generated_at: "2026-03-30T07:08:19.253Z"
 status: "active"
 ---
 

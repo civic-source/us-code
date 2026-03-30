@@ -3,9 +3,9 @@ title: "Section 12113 - Aimee’s Law"
 usc_title: 34
 usc_section: "12113"
 chapter: 121
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "34 U.S.C. § 12113"
-generated_at: "2026-03-30T07:06:39.478Z"
+generated_at: "2026-03-30T07:08:21.281Z"
 status: "active"
 ---
 

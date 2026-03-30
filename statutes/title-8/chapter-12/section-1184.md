@@ -3,9 +3,9 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T07:05:48.183Z"
+generated_at: "2026-03-30T07:07:36.272Z"
 status: "active"
 ---
 

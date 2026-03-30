@@ -3,9 +3,9 @@ title: "Section 18323 - Multi-purpose crew vehicle"
 usc_title: 42
 usc_section: "18323"
 chapter: 159
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 18323"
-generated_at: "2026-03-30T07:07:06.842Z"
+generated_at: "2026-03-30T07:08:39.038Z"
 status: "active"
 ---
 

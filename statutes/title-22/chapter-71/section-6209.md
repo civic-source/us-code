@@ -3,9 +3,9 @@ title: "Section 6209 - Broadcast entities reporting to Chief Executive Officer"
 usc_title: 22
 usc_section: "6209"
 chapter: 71
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 6209"
-generated_at: "2026-03-30T07:06:26.418Z"
+generated_at: "2026-03-30T07:08:06.176Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5753 - Disposal of forfeited, condemned, and abandoned tobacco p
 usc_title: 26
 usc_section: "5753"
 chapter: 52
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 5753"
-generated_at: "2026-03-30T07:06:35.668Z"
+generated_at: "2026-03-30T07:08:15.743Z"
 status: "active"
 ---
 

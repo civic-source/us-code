@@ -3,9 +3,9 @@ title: "Section 20304 - Assumption of risk by employees"
 usc_title: 49
 usc_section: "20304"
 chapter: 203
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 20304"
-generated_at: "2026-03-30T07:07:14.356Z"
+generated_at: "2026-03-30T07:08:49.121Z"
 status: "active"
 ---
 

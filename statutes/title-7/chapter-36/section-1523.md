@@ -3,9 +3,9 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-30T07:05:50.781Z"
+generated_at: "2026-03-30T07:07:34.934Z"
 status: "active"
 ---
 
@@ -41,10 +41,6 @@ status: "active"
   - **(7)** No action may be undertaken with respect to a risk under this subsection if the Corporation determines that insurance protection for livestock producers against the risk is generally available from private companies.
   - **(8)** The Corporation shall conduct the livestock pilot programs under this subsection in a number of counties that is determined by the Corporation to be adequate to provide a comprehensive evaluation of the feasibility, effectiveness, and demand among producers for the risk management tools evaluated in the pilot programs.
   - **(9)** Any producer of a type of livestock covered by a pilot program under this subsection that owns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
-  - **(10)** The Corporation shall conduct all livestock programs under this subchapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by section 1522 of this title ) are not expected to exceed the following:
-    - **(A)** $10,000,000 for each of fiscal years 2001 and 2002.
-    - **(B)** $15,000,000 for fiscal year 2003.
-    - **(C)** $20,000,000 for fiscal year 2004 and each subsequent fiscal year.
 - **(c)**
   - **(1)** Subject to section 1522(e)(4) of this title , 1 1 See References in Text note below. the Secretary shall carry out a pilot program in a limited number of counties, as determined by the Secretary, for crop years 1997 through 2001, under which a producer of wheat, feed grains, soybeans, or such other commodity as the Secretary considers appropriate may elect to receive insurance against loss of revenue, as determined by the Secretary.
   - **(2)** Revenue insurance under this subsection shall—

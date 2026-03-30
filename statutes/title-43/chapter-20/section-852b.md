@@ -3,9 +3,9 @@ title: "Section 852b - Survey of lands prior to transfer; time for survey; avail
 usc_title: 43
 usc_section: "852b"
 chapter: 20
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "43 U.S.C. § 852b"
-generated_at: "2026-03-30T07:06:48.857Z"
+generated_at: "2026-03-30T07:08:27.993Z"
 status: "active"
 ---
 

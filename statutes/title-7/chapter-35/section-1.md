@@ -3,9 +3,9 @@ title: "Section 1 - Summer fallow farms; upper limit on required set aside acrea
 usc_title: 7
 usc_section: "1"
 chapter: 35
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T07:05:50.767Z"
+generated_at: "2026-03-30T07:07:34.919Z"
 status: "active"
 ---
 

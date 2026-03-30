@@ -3,9 +3,9 @@ title: "Section 7427 - Authority to free members of the Armed Forces of the Unit
 usc_title: 22
 usc_section: "7427"
 chapter: 81
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 7427"
-generated_at: "2026-03-30T07:06:26.430Z"
+generated_at: "2026-03-30T07:08:06.189Z"
 status: "active"
 ---
 

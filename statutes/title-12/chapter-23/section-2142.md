@@ -3,9 +3,9 @@ title: "Section 2142 - Board of directors provisions"
 usc_title: 12
 usc_section: "2142"
 chapter: 23
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 2142"
-generated_at: "2026-03-30T07:06:01.055Z"
+generated_at: "2026-03-30T07:07:44.766Z"
 status: "active"
 ---
 

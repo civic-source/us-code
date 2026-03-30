@@ -1,15 +1,15 @@
 ---
-title: "Section 3013 - Federal agency cooperation"
+title: "Section 3013 - Federal agency consultation"
 usc_title: 42
 usc_section: "3013"
 chapter: 35
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 3013"
-generated_at: "2026-03-30T07:07:06.555Z"
+generated_at: "2026-03-30T07:08:38.741Z"
 status: "active"
 ---
 
-# § 3013. Federal agency cooperation
+# § 3013. Federal agency consultation
 
 - **(a)**
   - **(1)** The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.

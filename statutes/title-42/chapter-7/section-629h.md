@@ -3,9 +3,9 @@ title: "Section 629h - Entitlement funding for State courts to assess and improv
 usc_title: 42
 usc_section: "629h"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 629h"
-generated_at: "2026-03-30T07:07:06.326Z"
+generated_at: "2026-03-30T07:08:38.500Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(A)** to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
     - **(B)** to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.
 - **(b)**
-  - **(1)** In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
+  - **(1)** In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
     - **(A)** in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
     - **(B)** in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title , or the State plan approved under part E; and
     - **(C)** in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
@@ -40,7 +40,7 @@ status: "active"
     - **(C)** the purpose described in subsection (a)(4); or
     - **(D)** the purposes referred to in 2 or more (specifically identified) of subparagraphs (A), (B), and (C) of this paragraph.
 - **(c)**
-  - **(1)** With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2012 through 2016, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+  - **(1)** With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2021, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
   - **(2)** The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.
   - **(3)**
     - **(A)** Of the amounts reserved under section 629f(b)(2) of this title for any fiscal year, the Secretary shall allocate—
@@ -52,7 +52,4 @@ status: "active"
         - **(II)** are seeking to operate a program under part E and have received an implementation grant under section 676 of this title ; or
         - **(III)** has 4 4 So in original. Probably should be “have”. a court responsible for proceedings related to foster care or adoption.
     - **(B)** The Secretary shall allocate all of the amounts reserved under section 629g(b)(2) of this title for grants for the purposes described in paragraphs (1) and (2) of subsection (a).
-- **(d)** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2012 through 2016.
-- **(e)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary, for each of fiscal years 2006 through 2010—
-  - **(1)** $10,000,000 for grants referred to in subsection (b)(2)(B); and
-  - **(2)** $10,000,000 for grants referred to in subsection (b)(2)(C).
+- **(d)** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2017 through 2021.

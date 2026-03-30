@@ -3,9 +3,9 @@ title: "Section 44c - Repealed. Pub. L. 101–189, div. A, title III , § 347(4)
 usc_title: 24
 usc_section: "44c"
 chapter: 2
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "24 U.S.C. § 44c"
-generated_at: "2026-03-30T07:06:21.841Z"
+generated_at: "2026-03-30T07:08:01.203Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7109b - Presidential Award for Extraordinary Efforts To Combat T
 usc_title: 22
 usc_section: "7109b"
 chapter: 78
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 7109b"
-generated_at: "2026-03-30T07:06:26.428Z"
+generated_at: "2026-03-30T07:08:06.187Z"
 status: "active"
 ---
 

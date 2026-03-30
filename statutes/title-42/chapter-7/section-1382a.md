@@ -3,9 +3,9 @@ title: "Section 1382a - Income; earned and unearned income defined; exclusions f
 usc_title: 42
 usc_section: "1382a"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1382a"
-generated_at: "2026-03-30T07:07:06.360Z"
+generated_at: "2026-03-30T07:08:38.537Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-30T07:07:06.325Z"
+generated_at: "2026-03-30T07:08:38.500Z"
 status: "active"
 ---
 
 # § 629g. Discretionary and targeted grants
 
-- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2012 through 2016.
+- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2021.
 - **(b)** From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
   - **(1)** The Secretary shall reserve 3.3 percent for expenditure by the Secretary for the activities described in section 629f(b)(1) of this title .
   - **(2)** The Secretary shall reserve 3.3 percent for grants under section 629h of this title .

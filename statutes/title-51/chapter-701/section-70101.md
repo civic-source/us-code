@@ -3,9 +3,9 @@ title: "Section 70101 - Recovery of fair value of placing Department of Defense 
 usc_title: 51
 usc_section: "70101"
 chapter: 701
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "51 U.S.C. § 70101"
-generated_at: "2026-03-30T07:07:16.667Z"
+generated_at: "2026-03-30T07:08:51.432Z"
 status: "active"
 ---
 

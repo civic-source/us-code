@@ -3,9 +3,9 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-30T07:06:35.675Z"
+generated_at: "2026-03-30T07:08:15.751Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(A)** The term “participating payee” means—
       - **(i)** in the case of a payment card transaction, any person who accepts a payment card as payment, and
       - **(ii)** in the case of a third party network transaction, any person who accepts payment from a third party settlement organization in settlement of such transaction.
-    - **(B)** Except as provided by the Secretary in regulations or other guidance, such term shall not include any person with a foreign address.
+    - **(B)** Except as provided by the Secretary in regulations or other guidance, such term shall not include any person with a foreign address. Notwithstanding the preceding sentence, a person with only a foreign address shall not be treated as a participating payee with respect to any payment settlement entity solely because such person receives payments from such payment settlement entity in dollars.
     - **(C)** The term “person” includes any governmental unit (and any agency or instrumentality thereof).
   - **(2)** The term “payment card” means any card which is issued pursuant to an agreement or arrangement which provides for—
     - **(A)** one or more issuers of such cards,

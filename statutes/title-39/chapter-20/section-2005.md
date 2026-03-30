@@ -3,9 +3,9 @@ title: "Section 2005 - Obligations"
 usc_title: 39
 usc_section: "2005"
 chapter: 20
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "39 U.S.C. § 2005"
-generated_at: "2026-03-30T07:06:42.750Z"
+generated_at: "2026-03-30T07:08:23.425Z"
 status: "active"
 ---
 

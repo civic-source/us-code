@@ -3,9 +3,9 @@ title: "Section 1975a - Overseas travel to accompany members of House leadership
 usc_title: 2
 usc_section: "1975a"
 chapter: 29
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 1975a"
-generated_at: "2026-03-30T07:05:44.273Z"
+generated_at: "2026-03-30T07:07:28.498Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** that travel is with, or in preparation for, travel of a Member of the House of Representatives who holds a position in a House Leadership Office, including travel of the Member as part of a congressional delegation; and
     - **(B)** the Sergeant at Arms of the House of Representatives gives prior approval to the travel of the member of the Capitol Police.
   - **(2)** In this subsection—
-    - **(A)** the term “House Leadership office” 1 1 So in original. Probably should be capitalized. means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
+    - **(A)** the term “House Leadership office” 1 1 So in original. The word “office” probably should be capitalized. means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
     - **(B)** the term “Member of the House of Representatives” includes a Delegate or Resident Commissioner to the Congress; and
     - **(C)** the term “United States” means each of the several States of the United States, the District of Columbia, and the territories and possessions of the United States.
 - **(b)**

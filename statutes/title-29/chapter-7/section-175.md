@@ -3,9 +3,9 @@ title: "Section 175 - National Labor-Management Panel; creation and composition;
 usc_title: 29
 usc_section: "175"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "29 U.S.C. § 175"
-generated_at: "2026-03-30T07:06:30.335Z"
+generated_at: "2026-03-30T07:08:09.835Z"
 status: "active"
 ---
 

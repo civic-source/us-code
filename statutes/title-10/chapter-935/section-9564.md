@@ -3,9 +3,9 @@ title: "Section 9564 - Navy and Marine Corps: camp equipment and transportation;
 usc_title: 10
 usc_section: "9564"
 chapter: 935
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 9564"
-generated_at: "2026-03-30T07:05:55.701Z"
+generated_at: "2026-03-30T07:07:40.116Z"
 status: "active"
 ---
 

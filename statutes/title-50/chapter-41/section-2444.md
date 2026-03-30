@@ -3,9 +3,9 @@ title: "Section 2444 - Nonproliferation and national security scholarship and fe
 usc_title: 50
 usc_section: "2444"
 chapter: 41
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "50 U.S.C. § 2444"
-generated_at: "2026-03-30T07:07:12.611Z"
+generated_at: "2026-03-30T07:08:43.676Z"
 status: "active"
 ---
 

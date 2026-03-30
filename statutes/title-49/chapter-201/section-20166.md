@@ -3,9 +3,9 @@ title: "Section 20166 - Emergency escape breathing apparatus"
 usc_title: 49
 usc_section: "20166"
 chapter: 201
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 20166"
-generated_at: "2026-03-30T07:07:14.356Z"
+generated_at: "2026-03-30T07:08:49.121Z"
 status: "active"
 ---
 

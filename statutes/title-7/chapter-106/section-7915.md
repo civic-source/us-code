@@ -3,9 +3,9 @@ title: "Section 7915 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "7915"
 chapter: 106
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 7915"
-generated_at: "2026-03-30T07:05:50.882Z"
+generated_at: "2026-03-30T07:07:35.039Z"
 status: "active"
 ---
 

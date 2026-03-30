@@ -3,9 +3,9 @@ title: "Section 1714 - Investigations, injunctions, and prosecution of offenses"
 usc_title: 15
 usc_section: "1714"
 chapter: 42
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 1714"
-generated_at: "2026-03-30T07:06:02.980Z"
+generated_at: "2026-03-30T07:07:48.003Z"
 status: "active"
 ---
 

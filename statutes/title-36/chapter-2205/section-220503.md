@@ -3,9 +3,9 @@ title: "Section 220503 - Purposes"
 usc_title: 36
 usc_section: "220503"
 chapter: 2205
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "36 U.S.C. § 220503"
-generated_at: "2026-03-30T07:06:42.608Z"
+generated_at: "2026-03-30T07:08:24.297Z"
 status: "active"
 ---
 
@@ -27,5 +27,6 @@ The purposes of the corporation are—
   - **(10)** to provide and coordinate technical information on physical training, equipment design, coaching, and performance analysis;
   - **(11)** to encourage and support research, development, and dissemination of information in the areas of sports medicine and sports safety;
   - **(12)** to encourage and provide assistance to amateur athletic activities for women;
-  - **(13)** to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes; and
-  - **(14)** to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented.
+  - **(13)** to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes;
+  - **(14)** to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented; and
+  - **(15)** to promote a safe environment in sports that is free from abuse, including emotional, physical, and sexual abuse, of any amateur athlete.

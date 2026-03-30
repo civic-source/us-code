@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T07:07:06.396Z"
+generated_at: "2026-03-30T07:08:38.577Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(A)** For an MA plan (other than an MSA plan) for a plan year beginning on or after January 1, 2006 , the information described in this subparagraph is as follows:
       - **(i)** The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) of this title ) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
       - **(ii)** The proportions of such bid amount that are attributable to—
-        - **(I)** the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title );
+        - **(I)** the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title ), including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in section 1395w–22(m) of this title ;
         - **(II)** the provision of basic prescription drug coverage; and
         - **(III)** the provision of supplemental health care benefits.
       - **(iii)** The actuarial basis for determining the amount under clause (i) and the proportions described in clause (ii) and such additional information as the Secretary may require to verify such actuarial bases and the projected number of enrollees in each MA local area.

@@ -3,9 +3,9 @@ title: "Section 4968 - Excise tax based on investment income of private colleges
 usc_title: 26
 usc_section: "4968"
 chapter: 42
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 4968"
-generated_at: "2026-03-30T07:06:35.654Z"
+generated_at: "2026-03-30T07:08:15.728Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** There is hereby imposed on each applicable educational institution for the taxable year a tax equal to 1.4 percent of the net investment income of such institution for the taxable year.
 - **(b)** For purposes of this subchapter—
   - **(1)** The term “applicable educational institution” means an eligible educational institution (as defined in section 25A(f)(2))—
-    - **(A)** which had at least 500 students during the preceding taxable year,
-    - **(B)** more than 50 percent of the students of which are located in the United States,
+    - **(A)** which had at least 500 tuition-paying students during the preceding taxable year,
+    - **(B)** more than 50 percent of the tuition-paying students of which are located in the United States,
     - **(C)** which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities), and
     - **(D)** the aggregate fair market value of the assets of which at the end of the preceding taxable year (other than those assets which are used directly in carrying out the institution’s exempt purpose) is at least $500,000 per student of the institution.
   - **(2)** For purposes of paragraph (1), the number of students of an institution (including for purposes of determining the number of students at a particular location) shall be based on the daily average number of full-time students attending such institution (with part-time students taken into account on a full-time student equivalent basis).

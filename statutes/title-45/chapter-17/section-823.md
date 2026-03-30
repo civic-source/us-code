@@ -3,9 +3,9 @@ title: "Section 823 - Administration of direct loans and loan guarantees"
 usc_title: 45
 usc_section: "823"
 chapter: 17
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "45 U.S.C. § 823"
-generated_at: "2026-03-30T07:06:49.765Z"
+generated_at: "2026-03-30T07:08:28.610Z"
 status: "active"
 ---
 
@@ -46,6 +46,6 @@ status: "active"
     - **(B)** A servicer appointed under subparagraph (A) shall act as the agent of the Secretary in serving a direct loan or loan guarantee under this subchapter.
     - **(C)** A servicer appointed under subparagraph (A) shall receive a servicing fee from the obligor or other loan party, subject to approval by the Secretary.
   - **(4)** Amounts collected under this subsection shall—
-    - **(A)** be credited directly to the Safety and Operations account of the Federal Railroad Administration; and
+    - **(A)** be credited directly to the National Surface Transportation and Innovative Finance Bureau account; and
     - **(B)** remain available until expended to pay for the costs described in this subsection.
 - **(m)** Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 822 of this title .

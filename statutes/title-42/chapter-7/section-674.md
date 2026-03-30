@@ -3,9 +3,9 @@ title: "Section 674 - Payments to States"
 usc_title: 42
 usc_section: "674"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 674"
-generated_at: "2026-03-30T07:07:06.334Z"
+generated_at: "2026-03-30T07:08:38.510Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
     - **(B)** An action under this paragraph may not be brought more than 2 years after the date the alleged violation occurred.
   - **(4)** This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 [ 25 U.S.C. 1901 et seq.].
 - **(e)** From amounts appropriated pursuant to section 677(h)(2) of this title , the Secretary may make a grant to a State with a plan approved under this part, for a calendar quarter, in an amount equal to the lesser of—
-  - **(1)** 80 percent of the amounts expended by the State during the quarter to carry out programs for the purposes described in section 677(a)(6) of this title ; or
+  - **(1)** 80 percent of the amounts expended by the State during the quarter to carry out programs for the purposes described in section 677(a)(6) 1 1 See References in Text note below. of this title; or
   - **(2)** the amount, if any, allotted to the State under section 677(c)(3) of this title for the fiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this subsection for such purposes for all prior quarters in the fiscal year.
 - **(f)**
   - **(1)** If the Secretary finds that a State has failed to submit to the Secretary data, as required by regulation, for the data collection system implemented under section 679 of this title , the Secretary shall, within 30 days after the date by which the data was due to be so submitted, notify the State of the failure and that payments to the State under this part will be reduced if the State fails to submit the data, as so required, within 6 months after the date the data was originally due to be so submitted.

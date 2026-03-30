@@ -3,9 +3,9 @@ title: "Section 218 - Management of business; inquiries by Commission"
 usc_title: 47
 usc_section: "218"
 chapter: 5
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "47 U.S.C. § 218"
-generated_at: "2026-03-30T07:07:09.484Z"
+generated_at: "2026-03-30T07:08:46.353Z"
 status: "active"
 ---
 

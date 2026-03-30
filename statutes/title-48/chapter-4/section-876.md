@@ -3,9 +3,9 @@ title: "Section 876 - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992"
 usc_title: 48
 usc_section: "876"
 chapter: 4
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "48 U.S.C. § 876"
-generated_at: "2026-03-30T07:07:09.999Z"
+generated_at: "2026-03-30T07:08:45.976Z"
 status: "repealed"
 ---
 

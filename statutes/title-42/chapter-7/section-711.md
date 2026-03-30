@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T07:07:06.338Z"
+generated_at: "2026-03-30T07:08:38.514Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** to improve coordination of services for at risk communities; and
   - **(3)** to identify and provide comprehensive services to improve outcomes for families who reside in at risk communities.
 - **(b)**
-  - **(1)** Not later than 6 months after March 23, 2010 , each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title for fiscal year 2011, conduct a statewide needs assessment (which shall be separate from the statewide needs assessment required under section 705(a) of this title ) that identifies—
+  - **(1)** Each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title , conduct a statewide needs assessment (which may be separate from but in coordination with the statewide needs assessment required under section 705(a) of this title and which shall be reviewed and updated by the State not later than October 1, 2020 ) that identifies—
     - **(A)** communities with concentrations of—
       - **(i)** premature birth, low-birth weight infants, and infant mortality, including infant death due to neglect, or other indicators of at-risk prenatal, maternal, newborn, or child health;
       - **(ii)** poverty;
@@ -38,11 +38,12 @@ status: "active"
 - **(c)**
   - **(1)** In addition to any other payments made under this subchapter to a State, the Secretary shall make grants to eligible entities to enable the entities to deliver services under early childhood home visitation programs that satisfy the requirements of subsection (d) to eligible families in order to promote improvements in maternal and prenatal health, infant health, child health and development, parenting related to child development outcomes, school readiness, and the socioeconomic status of such families, and reductions in child abuse, neglect, and injuries.
   - **(2)** An eligible entity that receives a grant under paragraph (1) may use a portion of the funds made available to the entity during the first 6 months of the period for which the grant is made for planning or implementation activities to assist with the establishment of early childhood home visitation programs that satisfy the requirements of subsection (d).
-  - **(3)** The Secretary shall determine the period of years for which a grant is made to an eligible entity under paragraph (1).
-  - **(4)** The Secretary shall provide an eligible entity that receives a grant under paragraph (1) with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
+  - **(3)** An eligible entity to which a grant is made under paragraph (1) may use up to 25 percent of the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
+  - **(4)** The Secretary shall determine the period of years for which a grant is made to an eligible entity under paragraph (1).
+  - **(5)** The Secretary shall provide an eligible entity that receives a grant under paragraph (1) with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
 - **(d)** The requirements of this subsection for an early childhood home visitation program conducted with a grant made under this section are as follows:
   - **(1)**
-    - **(A)** The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in each of the following areas:
+    - **(A)** The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
       - **(i)** Improved maternal and newborn health.
       - **(ii)** Prevention of child injuries, child abuse, neglect, or maltreatment, and reduction of emergency department visits.
       - **(iii)** Improvement in school readiness and achievement.
@@ -57,6 +58,11 @@ status: "active"
         - **(II)** The Secretary shall establish an advisory panel for purposes of obtaining recommendations regarding the technical assistance provided to entities in accordance with subclause (I).
       - **(iv)** If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity’s grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
     - **(C)** Not later than December 31, 2015 , the eligible entity shall submit a report to the Secretary demonstrating improvements (if any) in each of the areas specified in subparagraph (A).
+    - **(D)**
+      - **(i)** The eligible entity, after demonstrating improvements for eligible families as specified in subparagraphs (A) and (B), shall continue to track and report, not later than 30 days after the end of fiscal year 2020 and every 3 years thereafter, information demonstrating that the program results in improvements for the eligible families participating in the program in at least 4 of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve.
+      - **(ii)** If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receive services under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+      - **(iii)** The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause (ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
+      - **(iv)** If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in at least 4 of the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required by clause (i), the Secretary shall terminate the grant made to the entity under this section and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
   - **(2)**
     - **(A)** The program is designed, with respect to an eligible family participating in the program, to result in the participant outcomes described in subparagraph (B) that the eligible entity identifies on the basis of an individualized assessment of the family, are relevant for that family.
     - **(B)** The participant outcomes described in this subparagraph are the following:
@@ -82,7 +88,7 @@ status: "active"
       - **(v)** The program establishes appropriate linkages and referral networks to other community resources and supports for eligible families.
       - **(vi)** The program monitors the fidelity of program implementation to ensure that services are delivered pursuant to the specified model.
   - **(4)** The eligible entity gives priority to providing services under the program to the following:
-    - **(A)** Eligible families who reside in communities in need of such services, as identified in the statewide needs assessment required under subsection (b)(1)(A).
+    - **(A)** Eligible families who reside in communities in need of such services, as identified in the statewide needs assessment required under subsection (b)(1)(A), taking into account the staffing, community resource, and other requirements to operate at least one approved model of home visiting and demonstrate improvements for eligible families.
     - **(B)** Low-income eligible families.
     - **(C)** Eligible families who are pregnant women who have not attained age 21.
     - **(D)** Eligible families that have a history of child abuse or neglect or have had interactions with child welfare services.
@@ -96,7 +102,7 @@ status: "active"
   - **(2)** An assurance that the entity will give priority to serving low-income eligible families and eligible families who reside in at risk communities identified in the statewide needs assessment required under subsection (b)(1)(A).
   - **(3)** The service delivery model or models described in subsection (d)(3)(A) that the entity will use under the program and the basis for the selection of the model or models.
   - **(4)** A statement identifying how the selection of the populations to be served and the service delivery model or models that the entity will use under the program for such populations is consistent with the results of the statewide needs assessment conducted under subsection (b).
-  - **(5)** The quantifiable, measurable benchmarks established by the State to demonstrate that the program contributes to improvements in the areas specified in subsection (d)(1)(A).
+  - **(5)** The quantifiable, measurable benchmarks established by the State to demonstrate that the program contributes to improvements in the areas specified in subsection (d)(1)(A) that the service delivery model or models selected by the entity are intended to improve.
   - **(6)** An assurance that the entity will obtain and submit documentation or other appropriate evidence from the organization or entity that developed the service delivery model or models used under the program to verify that the program is implemented and services are delivered according to the model specifications.
   - **(7)** Assurances that the entity will establish procedures to ensure that—
     - **(A)** the participation of each eligible family in the program is voluntary; and
@@ -136,7 +142,7 @@ status: "active"
       - **(i)** evaluation of a specific program or project is conducted by persons or individuals not directly involved in the operation of such program or project; and
       - **(ii)** the conduct of research and evaluation activities includes consultation with independent researchers, State officials, and developers and providers of home visiting programs on topics including research design and administrative data matching.
   - **(4)** Not later than December 31, 2015 , the Secretary shall submit a report to Congress regarding the programs conducted with grants under this section. The report required under this paragraph shall include—
-    - **(A)** information regarding the extent to which eligible entities receiving grants under this section demonstrated improvements in each of the areas specified in subsection (d)(1)(A);
+    - **(A)** information regarding the extent to which eligible entities receiving grants under this section demonstrated improvements in the areas specified in subsection (d)(1)(A);
     - **(B)** information regarding any technical assistance provided under subsection (d)(1)(B)(iii)(I), including the type of any such assistance provided; and
     - **(C)** recommendations for such legislative or administrative action as the Secretary determines appropriate.
 - **(i)**
@@ -158,11 +164,14 @@ status: "active"
     - **(E)** $400,000,000 for fiscal year 2014;
     - **(F)** for fiscal year 2015, $400,000,000;
     - **(G)** for fiscal year 2016, $400,000,000; and
-    - **(H)** for fiscal year 2017, $400,000,000.
+    - **(H)** for each of fiscal years 2017 through 2022, $400,000,000.
   - **(2)** Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
     - **(A)** 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
     - **(B)** 3 percent of such amount for purposes of carrying out subsections (d)(1)(B)(iii), (g), and (h)(3).
-  - **(3)** Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B), funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+    - **(B)** Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) for a pay for outcomes initiative shall remain available for expenditure by the eligible entity for not more than 10 years after the funds are so made available.
+  - **(4)** To the extent that the grant amount awarded under this section to an eligible entity is determined on the basis of relative population or poverty considerations, the Secretary shall make the determination using the most accurate Federal data available for the eligible entity.
 - **(k)** In this section:
   - **(1)**
     - **(A)** The term “eligible entity” means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.
@@ -171,3 +180,8 @@ status: "active"
     - **(A)** a woman who is pregnant, and the father of the child if the father is available; or
     - **(B)** a parent or primary caregiver of a child, including grandparents or other relatives of the child, and foster parents, who are serving as the child’s primary caregiver from birth to kindergarten entry, and including a noncustodial parent who has an ongoing relationship with, and at times provides physical care for, the child.
   - **(3)** The terms “Indian Tribe” and “Tribal Organization”, and “Urban Indian Organization” have the meanings given such terms in section 1603 of title 25 .
+  - **(4)** The term “pay for outcomes initiative” means a performance-based grant, contract, cooperative agreement, or other agreement awarded by a public entity in which a commitment is made to pay for improved outcomes achieved as a result of the intervention that result in social benefit and direct cost savings or cost avoidance to the public sector. Such an initiative shall include—
+    - **(A)** a feasibility study that describes how the proposed intervention is based on evidence of effectiveness;
+    - **(B)** a rigorous, third-party evaluation that uses experimental or quasi-experimental design or other research methodologies that allow for the strongest possible causal inferences to determine whether the initiative has met its proposed outcomes as a result of the intervention;
+    - **(C)** an annual, publicly available report on the progress of the initiative; and
+    - **(D)** a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that this requirement shall not apply with respect to payments to a third party conducting the evaluation described in subparagraph (B).

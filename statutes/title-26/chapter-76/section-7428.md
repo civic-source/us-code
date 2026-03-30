@@ -3,9 +3,9 @@ title: "Section 7428 - Declaratory judgments relating to status and classificati
 usc_title: 26
 usc_section: "7428"
 chapter: 76
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 7428"
-generated_at: "2026-03-30T07:06:35.702Z"
+generated_at: "2026-03-30T07:08:15.780Z"
 status: "active"
 ---
 

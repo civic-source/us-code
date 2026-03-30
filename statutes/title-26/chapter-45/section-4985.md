@@ -3,9 +3,9 @@ title: "Section 4985 - Stock compensation of insiders in expatriated corporation
 usc_title: 26
 usc_section: "4985"
 chapter: 45
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 4985"
-generated_at: "2026-03-30T07:06:35.659Z"
+generated_at: "2026-03-30T07:08:15.733Z"
 status: "active"
 ---
 

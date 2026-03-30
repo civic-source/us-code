@@ -3,9 +3,9 @@ title: "Section 16357 - Strategy and plan for science and energy facilities and 
 usc_title: 42
 usc_section: "16357"
 chapter: 149
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 16357"
-generated_at: "2026-03-30T07:07:06.818Z"
+generated_at: "2026-03-30T07:08:39.013Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 959 - Enforcement"
 usc_title: 16
 usc_section: "959"
 chapter: 16
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 959"
-generated_at: "2026-03-30T07:06:11.409Z"
+generated_at: "2026-03-30T07:07:59.240Z"
 status: "active"
 ---
 

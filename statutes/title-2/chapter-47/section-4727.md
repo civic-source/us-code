@@ -3,9 +3,9 @@ title: "Section 4727 - Senate privately paid travel public website"
 usc_title: 2
 usc_section: "4727"
 chapter: 47
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "2 U.S.C. § 4727"
-generated_at: "2026-03-30T07:05:44.282Z"
+generated_at: "2026-03-30T07:07:28.508Z"
 status: "active"
 ---
 

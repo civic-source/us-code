@@ -3,9 +3,9 @@ title: "Section 1455 - Solicitor; appointment; duties"
 usc_title: 43
 usc_section: "1455"
 chapter: 31
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "43 U.S.C. § 1455"
-generated_at: "2026-03-30T07:06:48.867Z"
+generated_at: "2026-03-30T07:08:28.002Z"
 status: "active"
 ---
 

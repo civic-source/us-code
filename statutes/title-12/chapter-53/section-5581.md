@@ -3,9 +3,9 @@ title: "Section 5581 - Transfer of consumer financial protection functions"
 usc_title: 12
 usc_section: "5581"
 chapter: 53
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 5581"
-generated_at: "2026-03-30T07:06:01.121Z"
+generated_at: "2026-03-30T07:07:44.831Z"
 status: "active"
 ---
 

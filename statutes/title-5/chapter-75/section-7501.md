@@ -3,9 +3,9 @@ title: "Section 7501 - Definitions"
 usc_title: 5
 usc_section: "7501"
 chapter: 75
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "5 U.S.C. § 7501"
-generated_at: "2026-03-30T07:05:45.649Z"
+generated_at: "2026-03-30T07:07:30.151Z"
 status: "active"
 ---
 

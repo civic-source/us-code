@@ -3,9 +3,9 @@ title: "Section 666 - Theft or bribery concerning programs receiving Federal fun
 usc_title: 18
 usc_section: "666"
 chapter: 31
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 666"
-generated_at: "2026-03-30T07:06:08.108Z"
+generated_at: "2026-03-30T07:07:51.099Z"
 status: "active"
 ---
 

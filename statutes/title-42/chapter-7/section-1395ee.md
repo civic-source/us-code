@@ -3,9 +3,9 @@ title: "Section 1395ee - Practicing Physicians Advisory Council; Council for Tec
 usc_title: 42
 usc_section: "1395ee"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1395ee"
-generated_at: "2026-03-30T07:07:06.415Z"
+generated_at: "2026-03-30T07:08:38.597Z"
 status: "active"
 ---
 
@@ -43,6 +43,11 @@ status: "active"
       - **(ii)** During the comment period for the proposed rule described in clause (i), the Medicare Payment Advisory Commission may submit comments to the Secretary on the proposed criteria under such clause.
       - **(iii)** The Secretary may update the criteria established under this subparagraph through rulemaking.
     - **(B)** On an ongoing basis, individuals and stakeholder entities may submit to the Committee proposals for physician-focused payment models that such individuals and entities believe meet the criteria described in subparagraph (A).
-    - **(C)** The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.
+    - **(C)** The Committee, on a periodic basis—
+      - **(i)** shall review models submitted under subparagraph (B);
+      - **(ii)** may provide individuals and stakeholder entities who submitted such models with—
+        - **(I)** initial feedback on such models regarding the extent to which such models meet the criteria described in subparagraph (A); and
+        - **(II)** an explanation of the basis for the feedback provided under subclause (I); and
+      - **(iii)** shall prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A) and submit such comments and recommendations to the Secretary.
     - **(D)** The Secretary shall review the comments and recommendations submitted by the Committee under subparagraph (C) and post a detailed response to such comments and recommendations on the Internet website of the Centers for Medicare & Medicaid Services.
   - **(3)** Nothing in this subsection shall be construed to impact the development or testing of models under this subchapter or subchapters XI, XIX, or XXI.

@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T07:07:06.347Z"
+generated_at: "2026-03-30T07:08:38.524Z"
 status: "active"
 ---
 
@@ -38,10 +38,10 @@ status: "active"
   - **(1)** If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit medically necessary services provided with respect to individuals who—
     - **(A)** are entitled to benefits under part A or part B of subchapter XVIII or to medical assistance under a State plan approved under subchapter XIX, and
     - **(B)** are under the direct care of the physician,
-  - **(2)** Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.
+  - **(2)** Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $5,000 for each individual described in such paragraph with respect to whom the payment is made.
   - **(3)**
     - **(A)** Any physician who executes a document described in subparagraph (B) with respect to an individual knowing that all of the requirements referred to in such subparagraph are not met with respect to the individual shall be subject to a civil monetary penalty of not more than the greater of—
-      - **(i)** $5,000, or
+      - **(i)** $10,000, or
       - **(ii)** three times the amount of the payments under subchapter XVIII for home health services which are made pursuant to such certification.
     - **(B)** A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
 - **(c)**
@@ -99,8 +99,12 @@ status: "active"
       - **(i)** the items or services are not offered as part of any advertisement or solicitation;
       - **(ii)** the items or services are not tied to the provision of other services reimbursed in whole or in part by the program under subchapter XVIII or a State health care program (as so defined);
       - **(iii)** there is a reasonable connection between the items or services and the medical care of the individual; and
-      - **(iv)** the person provides the items or services after determining in good faith that the individual is in financial need; or
-    - **(I)** effective on a date specified by the Secretary (but not earlier than January 1, 2011 ), the waiver by a PDP sponsor of a prescription drug plan under part D of subchapter XVIII or an MA organization offering an MA–PD plan under part C of such subchapter of any copayment for the first fill of a covered part D drug (as defined in section 1395w–102(e) of this title ) that is a generic drug for individuals enrolled in the prescription drug plan or MA–PD plan, respectively.
+      - **(iv)** the person provides the items or services after determining in good faith that the individual is in financial need;
+    - **(I)** effective on a date specified by the Secretary (but not earlier than January 1, 2011 ), the waiver by a PDP sponsor of a prescription drug plan under part D of subchapter XVIII or an MA organization offering an MA–PD plan under part C of such subchapter of any copayment for the first fill of a covered part D drug (as defined in section 1395w–102(e) of this title ) that is a generic drug for individuals enrolled in the prescription drug plan or MA–PD plan, respectively; or
+    - **(J)** the provision of telehealth technologies (as defined by the Secretary) on or after January 1, 2019 , by a provider of services or a renal dialysis facility (as such terms are defined for purposes of subchapter XVIII) to an individual with end stage renal disease who is receiving home dialysis for which payment is being made under part B of such subchapter, if—
+      - **(i)** the telehealth technologies are not offered as part of any advertisement or solicitation;
+      - **(ii)** the telehealth technologies are provided for the purpose of furnishing telehealth services related to the individual’s end stage renal disease; and
+      - **(iii)** the provision of the telehealth technologies meets any other requirements set forth in regulations promulgated by the Secretary.
   - **(7)** The term “should know” means that a person, with respect to information—
     - **(A)** acts in deliberate ignorance of the truth or falsity of the information; or
     - **(B)** acts in reckless disregard of the truth or falsity of the information,

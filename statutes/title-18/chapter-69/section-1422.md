@@ -3,9 +3,9 @@ title: "Section 1422 - Fees in naturalization proceedings"
 usc_title: 18
 usc_section: "1422"
 chapter: 69
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 1422"
-generated_at: "2026-03-30T07:06:08.121Z"
+generated_at: "2026-03-30T07:07:51.113Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6212 - Notice of deficiency"
 usc_title: 26
 usc_section: "6212"
 chapter: 63
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 6212"
-generated_at: "2026-03-30T07:06:35.683Z"
+generated_at: "2026-03-30T07:08:15.760Z"
 status: "active"
 ---
 

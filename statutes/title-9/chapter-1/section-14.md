@@ -3,9 +3,9 @@ title: "Section 14 - Contracts not affected"
 usc_title: 9
 usc_section: "14"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "9 U.S.C. § 14"
-generated_at: "2026-03-30T07:05:47.032Z"
+generated_at: "2026-03-30T07:07:31.488Z"
 status: "active"
 ---
 

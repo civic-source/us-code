@@ -1,15 +1,15 @@
 ---
-title: "Section 11 - Exemptions for religious nonmedical health care institutions"
+title: "Section 11 - Regulations"
 usc_title: 42
 usc_section: "11"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:07:06.356Z"
+generated_at: "2026-03-30T07:08:38.651Z"
 status: "active"
 ---
 
-# § 1320c–11. Exemptions for religious nonmedical health care institutions
+# § 1397n–11. Regulations
 
-The provisions of this part shall not apply with respect to a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title ).
+The Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships, may issue regulations as necessary to carry out this division.
 

@@ -3,9 +3,9 @@ title: "Section 1 - Designation"
 usc_title: 26
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T07:06:35.625Z"
+generated_at: "2026-03-30T07:08:15.696Z"
 status: "active"
 ---
 
@@ -19,6 +19,7 @@ status: "active"
       - **(ii)** notifies the Secretary in writing of such nomination, and
     - **(B)** the Secretary certifies such nomination and designates such tract as a qualified opportunity zone before the end of the consideration period.
   - **(2)** A chief executive officer of a State may request that the Secretary extend either the determination or consideration period, or both (determined without regard to this subparagraph), 1 1 So in original. Probably should be “paragraph),”. for an additional 30 days.
+  - **(3)** Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97 .
 - **(c)** For purposes of this subsection—
   - **(1)** The term “low-income community” has the same meaning as when used in section 45D(e).
   - **(2)**
@@ -26,7 +27,7 @@ status: "active"
     - **(B)** The term “determination period” means the 90-day period beginning on the date of the enactment of the Tax Cuts and Jobs Act, as extended under subsection (b)(2).
   - **(3)** For purposes of this section, the term “State” includes any possession of the United States.
 - **(d)**
-  - **(1)** Except as provided by paragraph (2), the number of population census tracts in a State that may be designated as qualified opportunity zones under this section may not exceed 25 percent of the number of low-income communities in the State.
+  - **(1)** Except as provided by paragraph (2) and subsection (b)(3), the number of population census tracts in a State that may be designated as qualified opportunity zones under this section may not exceed 25 percent of the number of low-income communities in the State.
   - **(2)** If the number of low-income communities in a State is less than 100, then a total of 25 of such tracts may be designated as qualified opportunity zones.
 - **(e)**
   - **(1)** A population census tract that is not a low-income community may be designated as a qualified opportunity zone under this section if—

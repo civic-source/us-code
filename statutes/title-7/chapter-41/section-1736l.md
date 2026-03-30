@@ -3,9 +3,9 @@ title: "Section 1736l - Consultation on grain marketing"
 usc_title: 7
 usc_section: "1736l"
 chapter: 41
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 1736l"
-generated_at: "2026-03-30T07:05:50.792Z"
+generated_at: "2026-03-30T07:07:34.945Z"
 status: "active"
 ---
 

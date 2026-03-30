@@ -3,9 +3,9 @@ title: "Section 116 - National Surface Transportation and Innovative Finance Bur
 usc_title: 49
 usc_section: "116"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 116"
-generated_at: "2026-03-30T07:07:14.322Z"
+generated_at: "2026-03-30T07:08:49.089Z"
 status: "active"
 ---
 
@@ -96,8 +96,8 @@ status: "active"
     - **(B)** The Secretary may transfer to the Bureau a position within the Department from any office that is eliminated or consolidated under this subsection if the Secretary determines that the position is necessary to carry out the purposes of the Bureau.
     - **(C)** If the Secretary transfers a position to the Bureau under subparagraph (B), the Secretary, in coordination with the appropriate modal administration, shall ensure that the transfer of the position does not adversely affect the obligations of the modal administration under any Federal law.
     - **(D)**
-      - **(i)** During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau.
-      - **(ii)** During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1).
+      - **(i)** The Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau. Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
+      - **(ii)** The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
   - **(4)** Not later than 90 days after the date of enactment of this section, and every 90 days thereafter, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Commerce, Science, and Transportation of the Senate of—
     - **(A)** the offices eliminated under paragraph (1) and the rationale for elimination of the offices;
     - **(B)** the offices and office functions consolidated under paragraph (2) and the rationale for consolidation of the offices and office functions;

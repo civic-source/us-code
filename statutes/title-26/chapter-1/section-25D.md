@@ -3,20 +3,20 @@ title: "Section 25D - Residential energy efficient property"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-30T07:06:35.479Z"
+generated_at: "2026-03-30T07:08:15.537Z"
 status: "active"
 ---
 
 # § 25D. Residential energy efficient property
 
-- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
-  - **(1)** the applicable percentage of the qualified solar electric property expenditures made by the taxpayer during such year,
-  - **(2)** the applicable percentage of the qualified solar water heating property expenditures made by the taxpayer during such year,
-  - **(3)** 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
-  - **(4)** 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
-  - **(5)** 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
+- **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of—
+  - **(1)** the qualified solar electric property expenditures,
+  - **(2)** the qualified solar water heating property expenditures,
+  - **(3)** the qualified fuel cell property expenditures,
+  - **(4)** the qualified small wind energy property expenditures, and
+  - **(5)** the qualified geothermal heat pump property expenditures,
 - **(b)**
   - **(1)** In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section 48(c)(1)) to which such expenditure relates.
   - **(2)** No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
@@ -51,8 +51,8 @@ status: "active"
     - **(A)** Except as provided in subparagraph (B), an expenditure with respect to an item shall be treated as made when the original installation of the item is completed.
     - **(B)** In the case of an expenditure in connection with the construction or reconstruction of a structure, such expenditure shall be treated as made when the original use of the constructed or reconstructed structure by the taxpayer begins.
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
-- **(g)** For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—
+- **(g)** For purposes of subsection (a), the applicable percentage shall be—
   - **(1)** in the case of property placed in service after December 31, 2016 , and before January 1, 2020 , 30 percent,
   - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2021 , 26 percent, and
   - **(3)** in the case of property placed in service after December 31, 2020 , and before January 1, 2022 , 22 percent.
-- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2016 ( December 31, 2021 , in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures).
+- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2021 .

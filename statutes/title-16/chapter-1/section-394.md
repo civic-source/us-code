@@ -3,9 +3,9 @@ title: "Section 394 - Control; rules and regulations; leases; appropriations"
 usc_title: 16
 usc_section: "394"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 394"
-generated_at: "2026-03-30T07:06:11.293Z"
+generated_at: "2026-03-30T07:07:59.116Z"
 status: "active"
 ---
 

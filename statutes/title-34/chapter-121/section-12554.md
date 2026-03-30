@@ -3,9 +3,9 @@ title: "Section 12554 - Designation of lead agency and submission of State plan"
 usc_title: 34
 usc_section: "12554"
 chapter: 121
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "34 U.S.C. § 12554"
-generated_at: "2026-03-30T07:06:39.485Z"
+generated_at: "2026-03-30T07:08:21.288Z"
 status: "active"
 ---
 

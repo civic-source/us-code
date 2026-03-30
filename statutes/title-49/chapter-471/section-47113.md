@@ -3,9 +3,9 @@ title: "Section 47113 - Minority and disadvantaged business participation"
 usc_title: 49
 usc_section: "47113"
 chapter: 471
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "49 U.S.C. § 47113"
-generated_at: "2026-03-30T07:07:14.402Z"
+generated_at: "2026-03-30T07:08:49.168Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** has the same meaning given that term in section 3 of the Small Business Act ( 15 U.S.C. 632 ); but
     - **(B)** does not include a concern, or group of concerns controlled by the same socially and economically disadvantaged individual, that has average annual gross receipts over the prior 3 fiscal years of more than $16,015,000, as adjusted by the Secretary of Transportation for inflation;
   - **(2)** “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act ( 15 U.S.C. 637(d) ) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
-  - **(3)** the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ( 15 U.S.C. 632 ( o ) 1 1 So in original. Probably should be “632(p)”. ).
+  - **(3)** 1 1 See Amendment of Subsection (a)(3) note below. the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act ( 15 U.S.C. 632 ( o ) 2 2 So in original. Probably should be “632(p)”. ).
 - **(b)** Except to the extent the Secretary decides otherwise, at least 10 percent of amounts available in a fiscal year under section 48103 of this title shall be expended with small business concerns owned and controlled by socially and economically disadvantaged individuals or qualified HUBZone small business concerns.
 - **(c)** The Secretary shall establish minimum uniform criteria for State governments and airport sponsors to use in certifying whether a small business concern qualifies under this section. The criteria shall include on-site visits, personal interviews, licenses, analyses of stock ownership and bonding capacity, listings of equipment and work completed, resumes of principal owners, financial capacity, and type of work preferred.
 - **(d)** Each State or airport sponsor annually shall survey and compile a list of small business concerns referred to in subsection (b) of this section and the location of each concern in the State.

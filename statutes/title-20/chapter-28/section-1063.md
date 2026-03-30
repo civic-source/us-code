@@ -3,9 +3,9 @@ title: "Section 1063 - Allotments to institutions"
 usc_title: 20
 usc_section: "1063"
 chapter: 28
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "20 U.S.C. § 1063"
-generated_at: "2026-03-30T07:06:19.929Z"
+generated_at: "2026-03-30T07:07:52.827Z"
 status: "active"
 ---
 

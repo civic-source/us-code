@@ -3,9 +3,9 @@ title: "Section 7260 - Field offices"
 usc_title: 42
 usc_section: "7260"
 chapter: 84
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 7260"
-generated_at: "2026-03-30T07:07:06.655Z"
+generated_at: "2026-03-30T07:08:38.842Z"
 status: "active"
 ---
 

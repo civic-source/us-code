@@ -3,9 +3,9 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-30T07:07:06.400Z"
+generated_at: "2026-03-30T07:08:38.581Z"
 status: "active"
 ---
 
@@ -86,7 +86,7 @@ status: "active"
     - **(B)** Quality assurance measures and systems to reduce medication errors and adverse drug interactions and improve medication use.
     - **(C)** A medication therapy management program described in paragraph (2).
     - **(D)** A program to control fraud, abuse, and waste.
-    - **(E)** A utilization management tool to prevent drug abuse (as described in paragraph (6)(A)).
+    - **(E)** A utilization management tool to prevent drug abuse (as described in paragraph (6)(A)). 1 1 So in original. Probably means first par. (6) relating to utilization management tool to prevent drug abuse.
   - **(2)**
     - **(A)**
       - **(i)** A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and that is designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
@@ -194,6 +194,19 @@ status: "active"
       - **(i)** any provider of services or supplier described in subparagraph (A)(ii)(II) that is identified by such plan sponsor (or organization) during the 30-day period before such report is submitted; and
       - **(ii)** the name and prescription records of individuals described in paragraph (5)(C).
     - **(C)** The Secretary shall ensure that plan sponsor compliance reviews and program audits biennially include a certification that utilization management tools under this paragraph are in compliance with the requirements for such tools.
+  - **(6)**
+    - **(A)** Subject to subparagraph (B), the Secretary shall establish a process under which a PDP sponsor of a prescription drug plan may submit a request for the Secretary to provide the sponsor, on a periodic basis and in an electronic format, beginning in plan year 2020, data described in subparagraph (D) with respect to enrollees in such plan. Such data shall be provided without regard to whether such enrollees are described in clause (ii) of paragraph (2)(A).
+    - **(B)** A PDP sponsor may use the data provided to the sponsor pursuant to subparagraph (A) for any of the following purposes:
+      - **(i)** To optimize therapeutic outcomes through improved medication use, as such phrase is used in clause (i) of paragraph (2)(A).
+      - **(ii)** To improving care coordination so as to prevent adverse health outcomes, such as preventable emergency department visits and hospital readmissions.
+      - **(iii)** For any other purpose determined appropriate by the Secretary.
+    - **(C)** A PDP sponsor shall not use data provided to the sponsor pursuant to subparagraph (A) for any of the following purposes:
+      - **(i)** To inform coverage determinations under this part.
+      - **(ii)** To conduct retroactive reviews of medically accepted indications determinations.
+      - **(iii)** To facilitate enrollment changes to a different prescription drug plan or an MA–PD plan offered by the same parent organization.
+      - **(iv)** To inform marketing of benefits.
+      - **(v)** For any other purpose that the Secretary determines is necessary to include in order to protect the identity of individuals entitled to, or enrolled for, benefits under this subchapter and to protect the security of personal health information.
+    - **(D)** The data described in this clause are standardized extracts (as determined by the Secretary) of claims data under parts A and B for items and services furnished under such parts for time periods specified by the Secretary. Such data shall include data as current as practicable.
 - **(d)** In order to provide for comparative information under section 1395w–101(c)(3)(A)(v) of this title , the Secretary shall conduct consumer satisfaction surveys with respect to PDP sponsors and prescription drug plans in a manner similar to the manner such surveys are conducted for MA organizations and MA plans under part C.
 - **(e)**
   - **(1)** As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
@@ -223,7 +236,7 @@ status: "active"
   - **(4)**
     - **(A)** Not later than September 1, 2005 , the Secretary shall develop, adopt, recognize, or modify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title ) under subparagraph (B).
     - **(B)** The National Committee on Vital and Health Statistics shall develop recommendations for uniform standards relating to such requirements in consultation with the following:
-      - **(i)** Standard setting organizations (as defined in section 1320d(8) of this title ) 2 2 So in original. Probably should be followed by a period.
+      - **(i)** Standard setting organizations (as defined in section 1320d(8) of this title ) 4 4 So in original. Probably should be followed by a period.
       - **(ii)** Practicing physicians.
       - **(iii)** Hospitals.
       - **(iv)** Pharmacies.

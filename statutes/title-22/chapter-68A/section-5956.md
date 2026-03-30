@@ -3,9 +3,9 @@ title: "Section 5956 - Repealed. Pub. L. 106–398 , § 1 [[div. A], title XIII,
 usc_title: 22
 usc_section: "5956"
 chapter: 68
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 5956"
-generated_at: "2026-03-30T07:06:26.413Z"
+generated_at: "2026-03-30T07:08:06.172Z"
 status: "repealed"
 ---
 

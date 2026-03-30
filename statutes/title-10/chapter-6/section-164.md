@@ -3,9 +3,9 @@ title: "Section 164 - Commanders of combatant commands: assignment; powers and d
 usc_title: 10
 usc_section: "164"
 chapter: 6
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 164"
-generated_at: "2026-03-30T07:05:55.564Z"
+generated_at: "2026-03-30T07:07:39.990Z"
 status: "active"
 ---
 

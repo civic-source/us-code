@@ -3,16 +3,16 @@ title: "Section 5582 - Designated transfer date"
 usc_title: 12
 usc_section: "5582"
 chapter: 53
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 5582"
-generated_at: "2026-03-30T07:06:01.121Z"
+generated_at: "2026-03-30T07:07:44.831Z"
 status: "active"
 ---
 
 # § 5582. Designated transfer date
 
 - **(a)** Not later than 60 days after July 21, 2010 , the Secretary shall—
-  - **(1)** in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date for the transfer of functions to the Bureau under section 5581 of this title ; and
+  - **(1)** in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date 1 1 See Definition of Designated Transfer Date note below. for the transfer of functions to the Bureau under section 5581 of this title ; and
   - **(2)** publish notice of that designated date in the Federal Register.
 - **(b)** The Secretary—
   - **(1)** may, in consultation with the Chairman of the Board of Governors, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, change the date designated under subsection (a); and
@@ -20,7 +20,7 @@ status: "active"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), any date designated under this section shall be not earlier than 180 days, nor later than 12 months, after July 21, 2010 .
   - **(2)** The Secretary may designate a date that is later than 12 months after July 21, 2010 , if the Secretary transmits to appropriate committees of Congress—
-    - **(A)** a written determination that orderly implementation of this title 1 1 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010 ;
+    - **(A)** a written determination that orderly implementation of this title 2 2 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010 ;
     - **(B)** an explanation of why an extension is necessary for the orderly implementation of this title; 1 and
     - **(C)** a description of the steps that will be taken to effect an orderly and timely implementation of this title 1 within the extended time period.
   - **(3)** In no case may any date designated under this section be later than 18 months after July 21, 2010 .

@@ -3,9 +3,9 @@ title: "Section 84 - Repealed. Pub. L. 85–857 , § 14(16), Sept. 2, 1958 , 72 
 usc_title: 24
 usc_section: "84"
 chapter: 3
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "24 U.S.C. § 84"
-generated_at: "2026-03-30T07:06:21.841Z"
+generated_at: "2026-03-30T07:08:01.204Z"
 status: "repealed"
 ---
 

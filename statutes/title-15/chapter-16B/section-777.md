@@ -3,9 +3,9 @@ title: "Section 777 - Economic analysis of proposed actions"
 usc_title: 15
 usc_section: "777"
 chapter: 16
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 777"
-generated_at: "2026-03-30T07:06:02.945Z"
+generated_at: "2026-03-30T07:07:47.971Z"
 status: "active"
 ---
 

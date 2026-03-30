@@ -3,9 +3,9 @@ title: "Section 200301 - Definitions"
 usc_title: 54
 usc_section: "200301"
 chapter: 2003
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "54 U.S.C. § 200301"
-generated_at: "2026-03-30T07:07:16.356Z"
+generated_at: "2026-03-30T07:08:51.123Z"
 status: "active"
 ---
 

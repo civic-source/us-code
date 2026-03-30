@@ -3,9 +3,9 @@ title: "Section 4842 - Settlement of accounts of line officers"
 usc_title: 10
 usc_section: "4842"
 chapter: 453
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 4842"
-generated_at: "2026-03-30T07:05:55.681Z"
+generated_at: "2026-03-30T07:07:40.098Z"
 status: "active"
 ---
 

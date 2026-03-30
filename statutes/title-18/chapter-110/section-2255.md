@@ -3,13 +3,22 @@ title: "Section 2255 - Civil remedy for personal injuries"
 usc_title: 18
 usc_section: "2255"
 chapter: 110
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 2255"
-generated_at: "2026-03-30T07:06:08.131Z"
+generated_at: "2026-03-30T07:07:51.122Z"
 status: "active"
 ---
 
 # § 2255. Civil remedy for personal injuries
 
-- **(a)** Any person who, while a minor, was a victim of a violation of section 1589, 1590, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423 of this title and who suffers personal injury as a result of such violation, regardless of whether the injury occurred while such person was a minor, may sue in any appropriate United States District Court and shall recover the actual damages such person sustains and the cost of the suit, including a reasonable attorney’s fee. Any person as described in the preceding sentence shall be deemed to have sustained damages of no less than $150,000 in value.
-- **(b)** Any action commenced under this section shall be barred unless the complaint is filed within 10 years after the right of action first accrues or in the case of a person under a legal disability, not later than three years after the disability.
+- **(a)** Any person who, while a minor, was a victim of a violation of section 1589, 1590, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423 of this title and who suffers personal injury as a result of such violation, regardless of whether the injury occurred while such person was a minor, may sue in any appropriate United States District Court and shall recover the actual damages such person sustains or liquidated damages in the amount of $150,000, and the cost of the action, including reasonable attorney’s fees and other litigation costs reasonably incurred. The court may also award punitive damages and such other preliminary and equitable relief as the court determines to be appropriate.
+- **(b)** Any action commenced under this section shall be barred unless the complaint is filed—
+  - **(1)** not later than 10 years after the date on which the plaintiff reasonably discovers the later of—
+    - **(A)** the violation that forms the basis for the claim; or
+    - **(B)** the injury that forms the basis for the claim; or
+  - **(2)** not later than 10 years after the date on which the victim reaches 18 years of age.
+- **(c)**
+  - **(1)** Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28 .
+  - **(2)** In an action brought under subsection (a), process may be served in any district in which the defendant—
+    - **(A)** is an inhabitant; or
+    - **(B)** may be found.

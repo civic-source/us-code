@@ -3,9 +3,9 @@ title: "Section 3175 - Assistance to parts of economic development districts not
 usc_title: 42
 usc_section: "3175"
 chapter: 38
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 3175"
-generated_at: "2026-03-30T07:07:06.566Z"
+generated_at: "2026-03-30T07:08:38.752Z"
 status: "active"
 ---
 

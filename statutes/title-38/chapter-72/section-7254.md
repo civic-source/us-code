@@ -3,9 +3,9 @@ title: "Section 7254 - Organization"
 usc_title: 38
 usc_section: "7254"
 chapter: 72
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "38 U.S.C. § 7254"
-generated_at: "2026-03-30T07:06:44.692Z"
+generated_at: "2026-03-30T07:08:25.657Z"
 status: "active"
 ---
 

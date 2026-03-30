@@ -3,9 +3,9 @@ title: "Section 2272 - Group eligibility requirements; agricultural workers; oil
 usc_title: 19
 usc_section: "2272"
 chapter: 12
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "19 U.S.C. § 2272"
-generated_at: "2026-03-30T07:06:06.836Z"
+generated_at: "2026-03-30T07:07:56.300Z"
 status: "active"
 ---
 

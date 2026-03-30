@@ -3,9 +3,9 @@ title: "Section 1984 - Omitted"
 usc_title: 42
 usc_section: "1984"
 chapter: 21
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1984"
-generated_at: "2026-03-30T07:07:06.523Z"
+generated_at: "2026-03-30T07:08:38.708Z"
 status: "omitted"
 ---
 

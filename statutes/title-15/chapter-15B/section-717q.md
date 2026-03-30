@@ -3,9 +3,9 @@ title: "Section 717q - Appointment of officers and employees"
 usc_title: 15
 usc_section: "717q"
 chapter: 15
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "15 U.S.C. § 717q"
-generated_at: "2026-03-30T07:06:02.942Z"
+generated_at: "2026-03-30T07:07:47.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7575 - Repealed. Pub. L. 93–166, title V , § 509(d), Nov. 29,
 usc_title: 10
 usc_section: "7575"
 chapter: 649
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 7575"
-generated_at: "2026-03-30T07:05:55.693Z"
+generated_at: "2026-03-30T07:07:40.108Z"
 status: "repealed"
 ---
 

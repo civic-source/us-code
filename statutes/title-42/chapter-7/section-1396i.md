@@ -3,16 +3,16 @@ title: "Section 1396i - Certification and approval of rural health clinics and i
 usc_title: 42
 usc_section: "1396i"
 chapter: 7
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 1396i"
-generated_at: "2026-03-30T07:07:06.448Z"
+generated_at: "2026-03-30T07:08:38.631Z"
 status: "active"
 ---
 
 # § 1396i. Certification and approval of rural health clinics and intermediate care facilities for mentally retarded
 
 - **(a)**
-  - **(1)** Whenever the Secretary certifies a facility in a State to be qualified as a rural health clinic under subchapter XVIII, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this title.
+  - **(1)** Whenever the Secretary certifies a facility in a State to be qualified as a rural health clinic under subchapter XVIII, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this subchapter.
   - **(2)** The Secretary shall notify the State agency administering the medical assistance plan of his approval or disapproval of any facility in that State which has applied for certification by him as a qualified rural health clinic.
 - **(b)**
   - **(1)** The Secretary may cancel approval of any intermediate care facility for the mentally retarded at any time if he finds on the basis of a determination made by him as provided in section 1396a(a)(33)(B) of this title that a facility fails to meet the requirements contained in section 1396a(a)(31) of this title or section 1396d(d) of this title , or if he finds grounds for termination of his agreement with the facility pursuant to section 1395cc(b) of this title . In that event the Secretary shall notify the State agency and the intermediate care facility for the mentally retarded that approval of eligibility of the facility to participate in the programs established by this subchapter and subchapter XVIII shall be terminated at a time specified by the Secretary. The approval of eligibility of any such facility to participate in such programs may not be reinstated unless the Secretary finds that the reason for termination has been removed and there is reasonable assurance that it will not recur.

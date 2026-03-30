@@ -3,9 +3,9 @@ title: "Section 2009k - Rural development interagency working group"
 usc_title: 7
 usc_section: "2009k"
 chapter: 50
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "7 U.S.C. § 2009k"
-generated_at: "2026-03-30T07:05:50.805Z"
+generated_at: "2026-03-30T07:07:34.960Z"
 status: "active"
 ---
 

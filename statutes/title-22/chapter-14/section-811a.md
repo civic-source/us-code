@@ -3,9 +3,9 @@ title: "Section 811a - Repealed. Pub. L. 103–236, title I , § 162(a), Apr. 30
 usc_title: 22
 usc_section: "811a"
 chapter: 14
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "22 U.S.C. § 811a"
-generated_at: "2026-03-30T07:06:26.334Z"
+generated_at: "2026-03-30T07:08:06.091Z"
 status: "repealed"
 ---
 

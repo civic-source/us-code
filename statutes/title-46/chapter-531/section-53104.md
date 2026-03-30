@@ -3,9 +3,9 @@ title: "Section 53104 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53104"
 chapter: 531
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "46 U.S.C. § 53104"
-generated_at: "2026-03-30T07:07:11.116Z"
+generated_at: "2026-03-30T07:08:47.062Z"
 status: "active"
 ---
 

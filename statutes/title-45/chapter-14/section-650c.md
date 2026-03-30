@@ -3,9 +3,9 @@ title: "Section 650c - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 45
 usc_section: "650c"
 chapter: 14
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "45 U.S.C. § 650c"
-generated_at: "2026-03-30T07:06:49.758Z"
+generated_at: "2026-03-30T07:08:28.604Z"
 status: "repealed"
 ---
 

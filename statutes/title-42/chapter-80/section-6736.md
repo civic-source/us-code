@@ -3,9 +3,9 @@ title: "Section 6736 - Authorization of appropriations for Puerto Rico, Guam, Am
 usc_title: 42
 usc_section: "6736"
 chapter: 80
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 6736"
-generated_at: "2026-03-30T07:07:06.636Z"
+generated_at: "2026-03-30T07:08:38.825Z"
 status: "active"
 ---
 

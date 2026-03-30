@@ -3,9 +3,9 @@ title: "Section 742m - Relinquishment of exclusive legislative jurisdiction"
 usc_title: 16
 usc_section: "742m"
 chapter: 9
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 742m"
-generated_at: "2026-03-30T07:06:11.388Z"
+generated_at: "2026-03-30T07:07:59.219Z"
 status: "active"
 ---
 

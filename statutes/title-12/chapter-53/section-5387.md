@@ -3,9 +3,9 @@ title: "Section 5387 - Directors not liable for acquiescing in appointment of re
 usc_title: 12
 usc_section: "5387"
 chapter: 53
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "12 U.S.C. § 5387"
-generated_at: "2026-03-30T07:06:01.109Z"
+generated_at: "2026-03-30T07:07:44.818Z"
 status: "active"
 ---
 

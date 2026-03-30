@@ -3,9 +3,9 @@ title: "Section 40703 - Research alignment"
 usc_title: 51
 usc_section: "40703"
 chapter: 407
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "51 U.S.C. § 40703"
-generated_at: "2026-03-30T07:07:16.662Z"
+generated_at: "2026-03-30T07:08:51.428Z"
 status: "active"
 ---
 

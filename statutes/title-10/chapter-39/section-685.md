@@ -3,9 +3,9 @@ title: "Section 685 - Renumbered § 12317]"
 usc_title: 10
 usc_section: "685"
 chapter: 39
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "10 U.S.C. § 685"
-generated_at: "2026-03-30T07:05:55.582Z"
+generated_at: "2026-03-30T07:07:40.007Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 296 - Liability of States, instrumentalities of States, and Stat
 usc_title: 35
 usc_section: "296"
 chapter: 29
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "35 U.S.C. § 296"
-generated_at: "2026-03-30T07:06:39.651Z"
+generated_at: "2026-03-30T07:08:17.550Z"
 status: "active"
 ---
 

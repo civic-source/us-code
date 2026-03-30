@@ -3,9 +3,9 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-30T07:06:08.139Z"
+generated_at: "2026-03-30T07:07:51.131Z"
 status: "active"
 ---
 
@@ -36,4 +36,4 @@ status: "active"
     - **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7105 ); and
     - **(C)** section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 1
   - **(3)** Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims under section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 1
-  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 and section 3101(d) of the CHIP and Public Health Funding Extension Act shall continue to apply to the amounts transferred pursuant to paragraph (1).
+  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act shall continue to apply to the amounts transferred pursuant to paragraph (1).

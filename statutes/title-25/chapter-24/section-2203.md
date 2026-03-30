@@ -3,9 +3,9 @@ title: "Section 2203 - Adoption of land consolidation plan with approval of Secr
 usc_title: 25
 usc_section: "2203"
 chapter: 24
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "25 U.S.C. § 2203"
-generated_at: "2026-03-30T07:06:23.024Z"
+generated_at: "2026-03-30T07:08:03.615Z"
 status: "active"
 ---
 

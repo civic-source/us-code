@@ -3,9 +3,9 @@ title: "Section 14521 - Required level of expenditure"
 usc_title: 40
 usc_section: "14521"
 chapter: 145
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "40 U.S.C. § 14521"
-generated_at: "2026-03-30T07:06:43.450Z"
+generated_at: "2026-03-30T07:08:23.252Z"
 status: "active"
 ---
 

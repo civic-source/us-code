@@ -3,9 +3,9 @@ title: "Section 12381 - Authorization of circuit studies; education and training
 usc_title: 34
 usc_section: "12381"
 chapter: 121
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "34 U.S.C. § 12381"
-generated_at: "2026-03-30T07:06:39.482Z"
+generated_at: "2026-03-30T07:08:21.285Z"
 status: "active"
 ---
 

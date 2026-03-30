@@ -3,9 +3,9 @@ title: "Section 1910 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "1910"
 chapter: 39
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "16 U.S.C. § 1910"
-generated_at: "2026-03-30T07:06:11.446Z"
+generated_at: "2026-03-30T07:07:59.280Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1051 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)
 usc_title: 26
 usc_section: "1051"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 1051"
-generated_at: "2026-03-30T07:06:35.606Z"
+generated_at: "2026-03-30T07:08:15.677Z"
 status: "repealed"
 ---
 

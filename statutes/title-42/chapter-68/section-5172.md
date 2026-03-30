@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T07:07:06.600Z"
+generated_at: "2026-03-30T07:08:38.787Z"
 status: "active"
 ---
 
@@ -26,6 +26,7 @@ status: "active"
         - **(I)** has applied for a disaster loan under section 636(b) of title 15 ; and
         - **(II)**
     - **(B)** In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
+    - **(C)** A church, synagogue, mosque, temple, or other house of worship, educational facility, or any other private nonprofit facility, shall be eligible for contributions under paragraph (1)(B), without regard to the religious character of the facility or the primary religious use of the facility. No house of worship, educational facility, or any other private nonprofit facility may be excluded from receiving contributions under paragraph (1)(B) because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
   - **(4)** Before making any contribution under this section in an amount greater than $20,000,000, the President shall notify—
     - **(A)** the Committee on Environment and Public Works of the Senate;
     - **(B)** the Committee on Transportation and Infrastructure of the House of Representatives;
@@ -36,6 +37,16 @@ status: "active"
   - **(2)** The President shall promulgate regulations to reduce the Federal share of assistance under this section to not less than 25 percent in the case of the repair, restoration, reconstruction, or replacement of any eligible public facility or private nonprofit facility following an event associated with a major disaster—
     - **(A)** that has been damaged, on more than one occasion within the preceding 10-year period, by the same type of event; and
     - **(B)** the owner of which has failed to implement appropriate mitigation measures to address the hazard that caused the damage to the facility.
+  - **(3)**
+    - **(A)** The President may provide incentives to a State or Tribal government to invest in measures that increase readiness for, and resilience from, a major disaster by recognizing such investments through a sliding scale that increases the minimum Federal share to 85 percent. Such measures may include—
+      - **(i)** the adoption of a mitigation plan approved under section 5165 of this title ;
+      - **(ii)** investments in disaster relief, insurance, and emergency management programs;
+      - **(iii)** encouraging the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings’ users against disasters;
+      - **(iv)** facilitating participation in the community rating system; and
+      - **(v)** funding mitigation projects or granting tax incentives for projects that reduce risk.
+    - **(B)** Not later than 1 year after February 9, 2018 , the President, acting through the Administrator, shall issue comprehensive guidance to State and Tribal governments regarding the measures and investments, weighted appropriately based on actuarial assessments of eligible actions, that will be recognized for the purpose of increasing the Federal share under this section. Guidance shall ensure that the agency’s review of eligible measures and investments does not unduly delay determining the appropriate Federal cost share.
+    - **(C)** One year after the issuance of the guidance required by subparagraph (B), the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the analysis of the Federal cost shares paid under this section.
+    - **(D)** Nothing in this paragraph prevents the President from increasing the Federal cost share above 85 percent.
 - **(c)**
   - **(1)**
     - **(A)** In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.

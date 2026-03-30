@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 115-122"
+current_through: "PL 115-129"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T07:06:35.537Z"
+generated_at: "2026-03-30T07:08:15.602Z"
 status: "active"
 ---
 
@@ -305,7 +305,7 @@ status: "active"
         - **(I)** severance from employment, death, or disability,
         - **(II)** an event described in paragraph (10),
         - **(III)** in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
-        - **(IV)** in the case of contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies, upon hardship of the employee, or
+        - **(IV)** 5 5 See Amendment of Subsection (k) note below. in the case of contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies, upon hardship of the employee, or
         - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, and
       - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years;
     - **(C)** which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
