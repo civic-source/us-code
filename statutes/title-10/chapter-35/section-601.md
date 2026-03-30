@@ -3,9 +3,9 @@ title: "Section 601 - Positions of importance and responsibility: generals and l
 usc_title: 10
 usc_section: "601"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 601"
-generated_at: "2026-03-30T02:30:23.086Z"
+generated_at: "2026-03-30T02:34:13.634Z"
 ---
 
 # § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals

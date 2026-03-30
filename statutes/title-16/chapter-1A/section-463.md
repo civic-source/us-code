@@ -3,9 +3,9 @@ title: "Section 463 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "463"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 463"
-generated_at: "2026-03-30T02:31:30.098Z"
+generated_at: "2026-03-30T02:35:00.843Z"
 ---
 
 # § 463. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

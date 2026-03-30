@@ -3,9 +3,9 @@ title: "Section 485j - Effect on existing laws"
 usc_title: 43
 usc_section: "485j"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 485j"
-generated_at: "2026-03-30T02:32:50.106Z"
+generated_at: "2026-03-30T02:36:16.851Z"
 ---
 
 # § 485j. Effect on existing laws

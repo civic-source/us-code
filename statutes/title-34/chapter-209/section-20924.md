@@ -3,9 +3,9 @@ title: "Section 20924 - Actions to be taken when sex offender fails to comply"
 usc_title: 34
 usc_section: "20924"
 chapter: 209
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 20924"
-generated_at: "2026-03-30T02:32:37.563Z"
+generated_at: "2026-03-30T02:35:57.274Z"
 ---
 
 # § 20924. Actions to be taken when sex offender fails to comply

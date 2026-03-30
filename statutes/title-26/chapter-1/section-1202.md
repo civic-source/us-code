@@ -3,9 +3,9 @@ title: "Section 1202 - Partial exclusion for gain from certain small business st
 usc_title: 26
 usc_section: "1202"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 1202"
-generated_at: "2026-03-30T02:32:32.736Z"
+generated_at: "2026-03-30T02:35:51.082Z"
 ---
 
 # § 1202. Partial exclusion for gain from certain small business stock
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T02:32:32.736Z"
       - **(i)** the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation and acquired by the taxpayer before, on, or after the applicable date, plus
       - **(ii)** the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for the taxable year and attributable to dispositions of stock issued by such corporation and acquired by the taxpayer on or before the applicable date.
   - **(5)**
-    - **(A)** In the case of any taxable year beginning after 2026, the $15,000,000 amount in paragraph (4)(B) shall be increased by an amount equal to —
+    - **(A)** In the case of any taxable year beginning after 2026, the $15,000,000 amount in paragraph (4)(B) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** If, for any taxable year, the eligible gain attributable to dispositions of stock issued by a corporation and acquired by the taxpayer after the applicable date exceeds the applicable dollar limit, then notwithstanding any increase under subparagraph (A) for any subsequent taxable year, the applicable dollar limit for such subsequent taxable year shall be zero.

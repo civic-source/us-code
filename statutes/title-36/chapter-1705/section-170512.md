@@ -3,9 +3,9 @@ title: "Section 170512 - Annual report"
 usc_title: 36
 usc_section: "170512"
 chapter: 1705
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "36 U.S.C. § 170512"
-generated_at: "2026-03-30T02:32:43.700Z"
+generated_at: "2026-03-30T02:36:09.149Z"
 ---
 
 # § 170512. Annual report

@@ -3,9 +3,9 @@ title: "Section 92 - Regulations"
 usc_title: 42
 usc_section: "92"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 92"
-generated_at: "2026-03-30T02:33:07.414Z"
+generated_at: "2026-03-30T02:37:27.366Z"
 ---
 
 # § 300gg–92. Regulations

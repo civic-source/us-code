@@ -3,9 +3,9 @@ title: "Section 9651 - Repealed. Pub. L. 112–239, div. A, title V, § 552(b) ,
 usc_title: 10
 usc_section: "9651"
 chapter: 971
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 9651"
-generated_at: "2026-03-30T02:30:23.391Z"
+generated_at: "2026-03-30T02:34:13.838Z"
 ---
 
 # [§ 9651. Repealed. Pub. L. 112–239, div. A, title V, § 552(b) , Jan. 2, 2013 , 126 Stat. 1741 ]

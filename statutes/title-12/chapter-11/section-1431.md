@@ -3,9 +3,9 @@ title: "Section 1431 - Powers and duties of banks"
 usc_title: 12
 usc_section: "1431"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 1431"
-generated_at: "2026-03-30T02:31:09.749Z"
+generated_at: "2026-03-30T02:34:45.329Z"
 ---
 
 # § 1431. Powers and duties of banks

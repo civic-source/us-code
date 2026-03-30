@@ -3,9 +3,9 @@ title: "Section 4052 - Mandatory retirement"
 usc_title: 22
 usc_section: "4052"
 chapter: 52
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 4052"
-generated_at: "2026-03-30T02:31:58.238Z"
+generated_at: "2026-03-30T02:35:21.484Z"
 ---
 
 # § 4052. Mandatory retirement

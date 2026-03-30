@@ -3,9 +3,9 @@ title: "Section 6050A - Reporting requirements of certain fishing boat operators
 usc_title: 26
 usc_section: "6050A"
 chapter: 61
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 6050A"
-generated_at: "2026-03-30T02:32:32.997Z"
+generated_at: "2026-03-30T02:35:51.175Z"
 ---
 
 # § 6050A. Reporting requirements of certain fishing boat operators

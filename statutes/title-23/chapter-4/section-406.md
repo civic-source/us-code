@@ -3,9 +3,9 @@ title: "Section 406 - General requirements for Federal assistance"
 usc_title: 23
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "23 U.S.C. § 406"
-generated_at: "2026-03-30T02:32:03.628Z"
+generated_at: "2026-03-30T02:35:13.556Z"
 ---
 
 # § 406. General requirements for Federal assistance

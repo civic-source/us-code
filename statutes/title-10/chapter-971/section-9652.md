@@ -3,9 +3,9 @@ title: "Section 9652 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "9652"
 chapter: 971
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 9652"
-generated_at: "2026-03-30T02:30:23.391Z"
+generated_at: "2026-03-30T02:34:13.838Z"
 ---
 
 # § 9652. Rifles and ammunition for target practice: educational institutions having corps of cadets

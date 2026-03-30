@@ -3,9 +3,9 @@ title: "Section 2309a - Project modifications for improvement of environment or 
 usc_title: 33
 usc_section: "2309a"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 2309a"
-generated_at: "2026-03-30T02:32:39.346Z"
+generated_at: "2026-03-30T02:36:02.601Z"
 ---
 
 # § 2309a. Project modifications for improvement of environment or drought resiliency

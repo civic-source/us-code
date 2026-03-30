@@ -3,9 +3,9 @@ title: "Section 5223 - Redistillation of spirits, articles, and residues"
 usc_title: 26
 usc_section: "5223"
 chapter: 51
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 5223"
-generated_at: "2026-03-30T02:32:32.982Z"
+generated_at: "2026-03-30T02:35:51.159Z"
 ---
 
 # § 5223. Redistillation of spirits, articles, and residues

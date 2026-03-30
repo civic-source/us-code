@@ -3,9 +3,9 @@ title: "Section 7631 - Agricultural biotechnology research and development for d
 usc_title: 7
 usc_section: "7631"
 chapter: 103
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 7631"
-generated_at: "2026-03-30T02:29:33.400Z"
+generated_at: "2026-03-30T02:34:02.544Z"
 ---
 
 # § 7631. Agricultural biotechnology research and development for developing countries

@@ -3,9 +3,9 @@ title: "Section 12150 - Interim accessibility requirements"
 usc_title: 42
 usc_section: "12150"
 chapter: 126
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 12150"
-generated_at: "2026-03-30T02:33:08.270Z"
+generated_at: "2026-03-30T02:37:28.113Z"
 ---
 
 # § 12150. Interim accessibility requirements

@@ -3,9 +3,9 @@ title: "Section 3690 - Overcharges by educational institutions; discontinuance o
 usc_title: 38
 usc_section: "3690"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 3690"
-generated_at: "2026-03-30T02:32:46.055Z"
+generated_at: "2026-03-30T02:36:12.640Z"
 ---
 
 # § 3690. Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements

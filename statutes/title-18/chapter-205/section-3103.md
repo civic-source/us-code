@@ -3,9 +3,9 @@ title: "Section 3103 - Grounds for issuing search warrant—(Rule)"
 usc_title: 18
 usc_section: "3103"
 chapter: 205
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 3103"
-generated_at: "2026-03-30T02:31:31.353Z"
+generated_at: "2026-03-30T02:34:54.319Z"
 ---
 
 # § 3103. Grounds for issuing search warrant—(Rule)

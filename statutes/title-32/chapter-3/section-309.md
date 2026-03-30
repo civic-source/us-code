@@ -3,9 +3,9 @@ title: "Section 309 - Federal recognition of National Guard officers: officers p
 usc_title: 32
 usc_section: "309"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "32 U.S.C. § 309"
-generated_at: "2026-03-30T02:32:35.114Z"
+generated_at: "2026-03-30T02:35:55.603Z"
 ---
 
 # § 309. Federal recognition of National Guard officers: officers promoted to fill vacancies

@@ -3,9 +3,9 @@ title: "Section 2919 - Department of Defense participation in programs for manag
 usc_title: 10
 usc_section: "2919"
 chapter: 173
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2919"
-generated_at: "2026-03-30T02:30:23.277Z"
+generated_at: "2026-03-30T02:34:13.762Z"
 ---
 
 # § 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods

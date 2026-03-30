@@ -3,9 +3,9 @@ title: "Section 1903 - Chief Administrative Officer"
 usc_title: 2
 usc_section: "1903"
 chapter: 29
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 1903"
-generated_at: "2026-03-30T02:29:19.569Z"
+generated_at: "2026-03-30T02:33:44.321Z"
 ---
 
 # § 1903. Chief Administrative Officer

@@ -3,9 +3,9 @@ title: "Section 1863 - Trespass on national forest lands"
 usc_title: 18
 usc_section: "1863"
 chapter: 91
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 1863"
-generated_at: "2026-03-30T02:31:31.337Z"
+generated_at: "2026-03-30T02:34:54.290Z"
 ---
 
 # § 1863. Trespass on national forest lands

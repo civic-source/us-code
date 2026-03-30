@@ -3,9 +3,9 @@ title: "Section 4705 - Notice of contract cancellation or termination relating t
 usc_title: 10
 usc_section: "4705"
 chapter: 365
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4705"
-generated_at: "2026-03-30T02:30:23.318Z"
+generated_at: "2026-03-30T02:34:13.789Z"
 ---
 
 # § 4705. Notice of contract cancellation or termination relating to remote or isolated installations

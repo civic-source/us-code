@@ -3,9 +3,9 @@ title: "Section 4603 - Transition"
 usc_title: 12
 usc_section: "4603"
 chapter: 46
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 4603"
-generated_at: "2026-03-30T02:31:09.879Z"
+generated_at: "2026-03-30T02:34:45.516Z"
 ---
 
 # § 4603. Transition

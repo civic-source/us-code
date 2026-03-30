@@ -3,9 +3,9 @@ title: "Section 242c - Appointment and authority of the Director of the Centers 
 usc_title: 42
 usc_section: "242c"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 242c"
-generated_at: "2026-03-30T02:33:07.202Z"
+generated_at: "2026-03-30T02:37:27.157Z"
 ---
 
 # § 242c. Appointment and authority of the Director of the Centers for Disease Control and Prevention

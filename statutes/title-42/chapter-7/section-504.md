@@ -3,9 +3,9 @@ title: "Section 504 - Judicial review"
 usc_title: 42
 usc_section: "504"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 504"
-generated_at: "2026-03-30T02:33:07.462Z"
+generated_at: "2026-03-30T02:37:27.408Z"
 ---
 
 # § 504. Judicial review

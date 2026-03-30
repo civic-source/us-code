@@ -3,9 +3,9 @@ title: "Section 126 - National Hispanic Heritage Month"
 usc_title: 36
 usc_section: "126"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "36 U.S.C. § 126"
-generated_at: "2026-03-30T02:32:43.674Z"
+generated_at: "2026-03-30T02:36:09.125Z"
 ---
 
 # § 126. National Hispanic Heritage Month

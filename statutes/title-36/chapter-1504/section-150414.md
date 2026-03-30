@@ -3,9 +3,9 @@ title: "Section 150414 - Failure to comply with requirements"
 usc_title: 36
 usc_section: "150414"
 chapter: 1504
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "36 U.S.C. § 150414"
-generated_at: "2026-03-30T02:32:43.692Z"
+generated_at: "2026-03-30T02:36:09.143Z"
 ---
 
 # § 150414. Failure to comply with requirements

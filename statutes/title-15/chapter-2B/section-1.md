@@ -3,9 +3,9 @@ title: "Section 1 - Effective date of certain sections"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:30:38.075Z"
+generated_at: "2026-03-30T02:34:48.950Z"
 ---
 
 # § 78hh–1. Effective date of certain sections

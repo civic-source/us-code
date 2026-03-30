@@ -3,9 +3,9 @@ title: "Section 615 - Powers of corporation"
 usc_title: 12
 usc_section: "615"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 615"
-generated_at: "2026-03-30T02:31:09.739Z"
+generated_at: "2026-03-30T02:34:45.315Z"
 ---
 
 # § 615. Powers of corporation

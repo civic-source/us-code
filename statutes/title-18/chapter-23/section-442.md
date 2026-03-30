@@ -3,9 +3,9 @@ title: "Section 442 - Government Publishing Office"
 usc_title: 18
 usc_section: "442"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 442"
-generated_at: "2026-03-30T02:31:31.309Z"
+generated_at: "2026-03-30T02:34:54.244Z"
 ---
 
 # § 442. Government Publishing Office

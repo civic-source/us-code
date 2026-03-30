@@ -3,9 +3,9 @@ title: "Section 3302 - Findings"
 usc_title: 25
 usc_section: "3302"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 3302"
-generated_at: "2026-03-30T02:32:14.066Z"
+generated_at: "2026-03-30T02:35:15.218Z"
 ---
 
 # § 3302. Findings

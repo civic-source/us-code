@@ -3,9 +3,9 @@ title: "Section 687 - Repealed. Pub. L. 104–193, title I, § 108(e) , Aug. 22,
 usc_title: 42
 usc_section: "687"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 687"
-generated_at: "2026-03-30T02:33:07.496Z"
+generated_at: "2026-03-30T02:37:27.440Z"
 ---
 
 # §§ 681 to 687. Repealed. Pub. L. 104–193, title I, § 108(e) , Aug. 22, 1996 , 110 Stat. 2167

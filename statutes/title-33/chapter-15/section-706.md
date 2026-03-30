@@ -3,9 +3,9 @@ title: "Section 706 - Secretary of Commerce; current precipitation information; 
 usc_title: 33
 usc_section: "706"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 706"
-generated_at: "2026-03-30T02:32:39.279Z"
+generated_at: "2026-03-30T02:36:02.530Z"
 ---
 
 # § 706. Secretary of Commerce; current precipitation information; appropriation

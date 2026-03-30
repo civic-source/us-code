@@ -3,9 +3,9 @@ title: "Section 2000c - Definitions"
 usc_title: 42
 usc_section: "2000c"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 2000c"
-generated_at: "2026-03-30T02:33:07.851Z"
+generated_at: "2026-03-30T02:37:27.757Z"
 ---
 
 # § 2000c. Definitions

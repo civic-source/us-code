@@ -3,15 +3,15 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T02:32:33.058Z"
+generated_at: "2026-03-30T02:35:51.234Z"
 ---
 
 # § 7701. Definitions
 
 - **(a)** When used in this title, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof—
-  - **(1)** The term “person” shall be construed to mean and include an individual, a trust, estate, partnership, association, company or corporation.
+  - **(1)** The term “person” shall be construed to mean an+d include an individual, a trust, estate, partnership, association, company or corporation.
   - **(2)** The term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization, through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a trust or estate or a corporation; and the term “partner” includes a member in such a syndicate, group, pool, joint venture, or organization.
   - **(3)** The term “corporation” includes associations, joint-stock companies, and insurance companies.
   - **(4)** The term “domestic” when applied to a corporation or partnership means created or organized in the United States or under the law of the United States or of any State unless, in the case of a partnership, the Secretary provides otherwise by regulations.

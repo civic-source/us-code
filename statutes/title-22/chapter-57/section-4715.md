@@ -3,9 +3,9 @@ title: "Section 4715 - Compliance with Congressional Budget Act"
 usc_title: 22
 usc_section: "4715"
 chapter: 57
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 4715"
-generated_at: "2026-03-30T02:31:58.251Z"
+generated_at: "2026-03-30T02:35:21.499Z"
 ---
 
 # § 4715. Compliance with Congressional Budget Act

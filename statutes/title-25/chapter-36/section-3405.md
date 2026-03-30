@@ -3,9 +3,9 @@ title: "Section 3405 - Plan requirements"
 usc_title: 25
 usc_section: "3405"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 3405"
-generated_at: "2026-03-30T02:32:14.067Z"
+generated_at: "2026-03-30T02:35:15.219Z"
 ---
 
 # § 3405. Plan requirements

@@ -3,9 +3,9 @@ title: "Section 1323 - Conservation of fishery resources"
 usc_title: 19
 usc_section: "1323"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1323"
-generated_at: "2026-03-30T02:31:48.731Z"
+generated_at: "2026-03-30T02:34:56.404Z"
 ---
 
 # § 1323. Conservation of fishery resources

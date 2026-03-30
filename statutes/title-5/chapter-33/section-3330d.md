@@ -3,9 +3,9 @@ title: "Section 3330d - Appointment of military and Department of Defense, Depar
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T02:29:23.249Z"
+generated_at: "2026-03-30T02:33:47.757Z"
 ---
 
 # § 3330d. Appointment of military and Department of Defense, Department of State, and intelligence community spouses

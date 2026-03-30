@@ -3,9 +3,9 @@ title: "Section 128 - Employer contributions to Trump accounts"
 usc_title: 26
 usc_section: "128"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 128"
-generated_at: "2026-03-30T02:32:32.565Z"
+generated_at: "2026-03-30T02:35:50.916Z"
 ---
 
 # § 128. Employer contributions to Trump accounts

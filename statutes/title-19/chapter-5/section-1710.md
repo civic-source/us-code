@@ -3,9 +3,9 @@ title: "Section 1710 - Separability"
 usc_title: 19
 usc_section: "1710"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1710"
-generated_at: "2026-03-30T02:31:48.773Z"
+generated_at: "2026-03-30T02:34:56.441Z"
 ---
 
 # § 1710. Separability

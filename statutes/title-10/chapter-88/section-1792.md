@@ -3,9 +3,9 @@ title: "Section 1792 - Child care employees"
 usc_title: 10
 usc_section: "1792"
 chapter: 88
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 1792"
-generated_at: "2026-03-30T02:30:23.199Z"
+generated_at: "2026-03-30T02:34:13.709Z"
 ---
 
 # § 1792. Child care employees

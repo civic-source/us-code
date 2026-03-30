@@ -3,9 +3,9 @@ title: "Section 159 - Unauthorized use of legend; penalty"
 usc_title: 15
 usc_section: "159"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 159"
-generated_at: "2026-03-30T02:30:38.095Z"
+generated_at: "2026-03-30T02:34:48.969Z"
 ---
 
 # § 159. Unauthorized use of legend; penalty

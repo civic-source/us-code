@@ -3,9 +3,9 @@ title: "Section 1 - Nursing school clinics"
 usc_title: 25
 usc_section: "1"
 chapter: 18
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T02:32:14.027Z"
+generated_at: "2026-03-30T02:35:15.173Z"
 ---
 
 # § 1616e–1. Nursing school clinics

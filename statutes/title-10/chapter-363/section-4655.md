@@ -3,9 +3,9 @@ title: "Section 4655 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 10
 usc_section: "4655"
 chapter: 363
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4655"
-generated_at: "2026-03-30T02:30:23.316Z"
+generated_at: "2026-03-30T02:34:13.788Z"
 ---
 
 # § 4655. Prohibition of contractors limiting subcontractor sales directly to the United States

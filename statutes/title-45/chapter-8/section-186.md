@@ -3,9 +3,9 @@ title: "Section 186 - Omitted"
 usc_title: 45
 usc_section: "186"
 chapter: 8
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "45 U.S.C. § 186"
-generated_at: "2026-03-30T02:32:49.095Z"
+generated_at: "2026-03-30T02:36:15.933Z"
 ---
 
 # § 186. Omitted

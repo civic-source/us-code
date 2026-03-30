@@ -3,9 +3,9 @@ title: "Section 16359 - Competitive award of management contracts"
 usc_title: 42
 usc_section: "16359"
 chapter: 149
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 16359"
-generated_at: "2026-03-30T02:33:08.375Z"
+generated_at: "2026-03-30T02:37:28.208Z"
 ---
 
 # § 16359. Competitive award of management contracts

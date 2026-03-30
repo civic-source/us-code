@@ -3,9 +3,9 @@ title: "Section 4424 - Mechanisms to speed deployment of successful weapon syste
 usc_title: 10
 usc_section: "4424"
 chapter: 327
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4424"
-generated_at: "2026-03-30T02:30:23.314Z"
+generated_at: "2026-03-30T02:34:13.787Z"
 ---
 
 # § 4424. Mechanisms to speed deployment of successful weapon system component or technology prototypes

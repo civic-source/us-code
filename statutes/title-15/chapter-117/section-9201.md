@@ -3,9 +3,9 @@ title: "Section 9201 - Findings"
 usc_title: 15
 usc_section: "9201"
 chapter: 117
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 9201"
-generated_at: "2026-03-30T02:30:38.374Z"
+generated_at: "2026-03-30T02:34:49.218Z"
 ---
 
 # § 9201. Findings

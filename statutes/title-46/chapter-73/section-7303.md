@@ -3,9 +3,9 @@ title: "Section 7303 - Possession and description of merchant mariners’ docume
 usc_title: 46
 usc_section: "7303"
 chapter: 73
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "46 U.S.C. § 7303"
-generated_at: "2026-03-30T02:33:14.597Z"
+generated_at: "2026-03-30T02:37:37.546Z"
 ---
 
 # § 7303. Possession and description of merchant mariners’ documents

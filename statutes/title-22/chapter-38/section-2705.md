@@ -3,9 +3,9 @@ title: "Section 2705 - Documentation of citizenship"
 usc_title: 22
 usc_section: "2705"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2705"
-generated_at: "2026-03-30T02:31:58.204Z"
+generated_at: "2026-03-30T02:35:21.447Z"
 ---
 
 # § 2705. Documentation of citizenship

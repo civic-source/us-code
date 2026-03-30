@@ -3,9 +3,9 @@ title: "Section 10432 - Acceptance of contributions in support of Australia, Uni
 usc_title: 22
 usc_section: "10432"
 chapter: 111
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 10432"
-generated_at: "2026-03-30T02:31:58.336Z"
+generated_at: "2026-03-30T02:35:21.592Z"
 ---
 
 # § 10432. Acceptance of contributions in support of Australia, United Kingdom, and United States submarine security activities

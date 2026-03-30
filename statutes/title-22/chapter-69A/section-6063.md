@@ -3,9 +3,9 @@ title: "Section 6063 - Coordination of assistance program; implementation and re
 usc_title: 22
 usc_section: "6063"
 chapter: 69
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 6063"
-generated_at: "2026-03-30T02:31:58.264Z"
+generated_at: "2026-03-30T02:35:21.515Z"
 ---
 
 # § 6063. Coordination of assistance program; implementation and reports to Congress; reprogramming

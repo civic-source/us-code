@@ -3,9 +3,9 @@ title: "Section 2719c - Facilitation and encouragement of training and professio
 usc_title: 22
 usc_section: "2719c"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2719c"
-generated_at: "2026-03-30T02:31:58.206Z"
+generated_at: "2026-03-30T02:35:21.450Z"
 ---
 
 # § 2719c. Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel

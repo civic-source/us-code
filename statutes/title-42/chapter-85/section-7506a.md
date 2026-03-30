@@ -3,9 +3,9 @@ title: "Section 7506a - Interstate transport commissions"
 usc_title: 42
 usc_section: "7506a"
 chapter: 85
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 7506a"
-generated_at: "2026-03-30T02:33:08.115Z"
+generated_at: "2026-03-30T02:37:27.978Z"
 ---
 
 # § 7506a. Interstate transport commissions

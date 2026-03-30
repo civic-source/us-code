@@ -3,9 +3,9 @@ title: "Section 660 - Cybersecurity plans"
 usc_title: 6
 usc_section: "660"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "6 U.S.C. § 660"
-generated_at: "2026-03-30T02:29:36.806Z"
+generated_at: "2026-03-30T02:33:52.953Z"
 ---
 
 # § 660. Cybersecurity plans

@@ -3,9 +3,9 @@ title: "Section 1703E - Center for Innovation for Care and Payment"
 usc_title: 38
 usc_section: "1703E"
 chapter: 17
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 1703E"
-generated_at: "2026-03-30T02:32:46.006Z"
+generated_at: "2026-03-30T02:36:12.593Z"
 ---
 
 # § 1703E. Center for Innovation for Care and Payment

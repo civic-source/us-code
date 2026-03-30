@@ -3,9 +3,9 @@ title: "Section 819 - Posting of orders and decisions"
 usc_title: 30
 usc_section: "819"
 chapter: 22
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "30 U.S.C. § 819"
-generated_at: "2026-03-30T02:32:20.878Z"
+generated_at: "2026-03-30T02:35:34.719Z"
 ---
 
 # § 819. Posting of orders and decisions

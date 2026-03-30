@@ -3,9 +3,9 @@ title: "Section 20405 - Force shaping authority"
 usc_title: 10
 usc_section: "20405"
 chapter: 2009
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 20405"
-generated_at: "2026-03-30T02:30:23.427Z"
+generated_at: "2026-03-30T02:34:13.862Z"
 ---
 
 # § 20405. Force shaping authority

@@ -3,9 +3,9 @@ title: "Section 31135 - Duties of employers and employees"
 usc_title: 49
 usc_section: "31135"
 chapter: 311
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 31135"
-generated_at: "2026-03-30T02:33:20.291Z"
+generated_at: "2026-03-30T02:37:41.840Z"
 ---
 
 # § 31135. Duties of employers and employees

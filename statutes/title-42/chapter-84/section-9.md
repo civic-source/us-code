@@ -3,9 +3,9 @@ title: "Section 9 - Attorney fees"
 usc_title: 42
 usc_section: "9"
 chapter: 84
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T02:33:08.096Z"
+generated_at: "2026-03-30T02:37:27.962Z"
 ---
 
 # § 7385s–9. Attorney fees

@@ -3,9 +3,9 @@ title: "Section 300h - Regulations for State programs"
 usc_title: 42
 usc_section: "300h"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 300h"
-generated_at: "2026-03-30T02:33:07.357Z"
+generated_at: "2026-03-30T02:37:27.311Z"
 ---
 
 # § 300h. Regulations for State programs

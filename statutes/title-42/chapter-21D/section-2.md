@@ -3,9 +3,9 @@ title: "Section 2 - Limitation on interrogation techniques"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:33:07.858Z"
+generated_at: "2026-03-30T02:37:27.762Z"
 ---
 
 # § 2000dd–2. Limitation on interrogation techniques

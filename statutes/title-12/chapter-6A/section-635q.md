@@ -3,9 +3,9 @@ title: "Section 635q - Establishment of tied aid credit program in United States
 usc_title: 12
 usc_section: "635q"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 635q"
-generated_at: "2026-03-30T02:31:09.746Z"
+generated_at: "2026-03-30T02:34:45.324Z"
 ---
 
 # § 635q. Establishment of tied aid credit program in United States Export-Import Bank

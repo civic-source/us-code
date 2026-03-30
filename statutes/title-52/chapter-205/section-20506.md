@@ -3,9 +3,9 @@ title: "Section 20506 - Voter registration agencies"
 usc_title: 52
 usc_section: "20506"
 chapter: 205
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "52 U.S.C. § 20506"
-generated_at: "2026-03-30T02:33:26.208Z"
+generated_at: "2026-03-30T02:37:46.153Z"
 ---
 
 # § 20506. Voter registration agencies

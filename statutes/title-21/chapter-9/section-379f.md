@@ -3,9 +3,9 @@ title: "Section 379f - Recovery and retention of fees for freedom of information
 usc_title: 21
 usc_section: "379f"
 chapter: 9
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "21 U.S.C. § 379f"
-generated_at: "2026-03-30T02:32:09.056Z"
+generated_at: "2026-03-30T02:35:31.730Z"
 ---
 
 # § 379f. Recovery and retention of fees for freedom of information requests

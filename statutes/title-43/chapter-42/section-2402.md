@@ -3,9 +3,9 @@ title: "Section 2402 - Rural water supply program"
 usc_title: 43
 usc_section: "2402"
 chapter: 42
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 2402"
-generated_at: "2026-03-30T02:32:50.168Z"
+generated_at: "2026-03-30T02:36:16.913Z"
 ---
 
 # § 2402. Rural water supply program

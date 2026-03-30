@@ -3,9 +3,9 @@ title: "Section 2736f - Efforts to improve retention and prevent retaliation"
 usc_title: 22
 usc_section: "2736f"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2736f"
-generated_at: "2026-03-30T02:31:58.209Z"
+generated_at: "2026-03-30T02:35:21.453Z"
 ---
 
 # § 2736f. Efforts to improve retention and prevent retaliation

@@ -3,9 +3,9 @@ title: "Section 11 - Los Angeles area water reclamation and reuse project"
 usc_title: 43
 usc_section: "11"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 11"
-generated_at: "2026-03-30T02:32:50.093Z"
+generated_at: "2026-03-30T02:36:16.840Z"
 ---
 
 # § 390h–11. Los Angeles area water reclamation and reuse project

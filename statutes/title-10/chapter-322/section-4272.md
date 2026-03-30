@@ -3,9 +3,9 @@ title: "Section 4272 - Independent technical risk assessments"
 usc_title: 10
 usc_section: "4272"
 chapter: 322
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4272"
-generated_at: "2026-03-30T02:30:23.311Z"
+generated_at: "2026-03-30T02:34:13.783Z"
 ---
 
 # § 4272. Independent technical risk assessments

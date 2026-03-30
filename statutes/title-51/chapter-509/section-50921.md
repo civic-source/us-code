@@ -3,9 +3,9 @@ title: "Section 50921 - Office of Commercial Space Transportation"
 usc_title: 51
 usc_section: "50921"
 chapter: 509
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "51 U.S.C. § 50921"
-generated_at: "2026-03-30T02:33:23.415Z"
+generated_at: "2026-03-30T02:37:46.564Z"
 ---
 
 # § 50921. Office of Commercial Space Transportation

@@ -3,9 +3,9 @@ title: "Section 304 - Waiver by license of claims to particular frequency or of 
 usc_title: 47
 usc_section: "304"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "47 U.S.C. § 304"
-generated_at: "2026-03-30T02:33:12.879Z"
+generated_at: "2026-03-30T02:37:32.336Z"
 ---
 
 # § 304. Waiver by license of claims to particular frequency or of electromagnetic spectrum

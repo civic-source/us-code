@@ -3,9 +3,9 @@ title: "Section 4413 - Certain provisions made applicable"
 usc_title: 26
 usc_section: "4413"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 4413"
-generated_at: "2026-03-30T02:32:32.956Z"
+generated_at: "2026-03-30T02:35:51.136Z"
 ---
 
 # § 4413. Certain provisions made applicable

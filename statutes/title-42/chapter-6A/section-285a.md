@@ -3,9 +3,9 @@ title: "Section 285a - National Cancer Program"
 usc_title: 42
 usc_section: "285a"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 285a"
-generated_at: "2026-03-30T02:33:07.280Z"
+generated_at: "2026-03-30T02:37:27.233Z"
 ---
 
 # § 285a. National Cancer Program

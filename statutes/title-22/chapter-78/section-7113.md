@@ -3,9 +3,9 @@ title: "Section 7113 - Accountability"
 usc_title: 22
 usc_section: "7113"
 chapter: 78
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 7113"
-generated_at: "2026-03-30T02:31:58.285Z"
+generated_at: "2026-03-30T02:35:21.537Z"
 ---
 
 # § 7113. Accountability

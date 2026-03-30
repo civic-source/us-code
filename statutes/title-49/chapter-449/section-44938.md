@@ -3,9 +3,9 @@ title: "Section 44938 - Reports"
 usc_title: 49
 usc_section: "44938"
 chapter: 449
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 44938"
-generated_at: "2026-03-30T02:33:20.341Z"
+generated_at: "2026-03-30T02:37:41.897Z"
 ---
 
 # § 44938. Reports

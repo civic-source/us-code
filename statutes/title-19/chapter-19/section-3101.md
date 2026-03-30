@@ -3,9 +3,9 @@ title: "Section 3101 - Findings and purposes"
 usc_title: 19
 usc_section: "3101"
 chapter: 19
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 3101"
-generated_at: "2026-03-30T02:31:48.807Z"
+generated_at: "2026-03-30T02:34:56.476Z"
 ---
 
 # § 3101. Findings and purposes

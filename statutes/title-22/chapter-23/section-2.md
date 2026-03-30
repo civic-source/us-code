@@ -3,9 +3,9 @@ title: "Section 2 - Coordination with transportation authorities and industry on
 usc_title: 22
 usc_section: "2"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T02:31:58.152Z"
+generated_at: "2026-03-30T02:35:21.392Z"
 ---
 
 # § 1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories

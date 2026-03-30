@@ -3,9 +3,9 @@ title: "Section 1260 - Gains from constructive ownership transactions"
 usc_title: 26
 usc_section: "1260"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 1260"
-generated_at: "2026-03-30T02:32:32.742Z"
+generated_at: "2026-03-30T02:35:51.087Z"
 ---
 
 # § 1260. Gains from constructive ownership transactions

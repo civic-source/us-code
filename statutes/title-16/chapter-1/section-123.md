@@ -3,9 +3,9 @@ title: "Section 123 - Settlement, residence, lumbering, or business within park 
 usc_title: 16
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 123"
-generated_at: "2026-03-30T02:31:30.004Z"
+generated_at: "2026-03-30T02:35:00.717Z"
 ---
 
 # § 123. Settlement, residence, lumbering, or business within park punishable; admission of visitors

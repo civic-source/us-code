@@ -3,9 +3,9 @@ title: "Section 8573 - Interagency report on special recreation permits for unde
 usc_title: 16
 usc_section: "8573"
 chapter: 103
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 8573"
-generated_at: "2026-03-30T02:31:30.272Z"
+generated_at: "2026-03-30T02:35:01.081Z"
 ---
 
 # § 8573. Interagency report on special recreation permits for underserved communities

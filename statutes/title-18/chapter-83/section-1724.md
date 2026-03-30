@@ -3,9 +3,9 @@ title: "Section 1724 - Postage on mail delivered by foreign vessels"
 usc_title: 18
 usc_section: "1724"
 chapter: 83
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 1724"
-generated_at: "2026-03-30T02:31:31.335Z"
+generated_at: "2026-03-30T02:34:54.287Z"
 ---
 
 # § 1724. Postage on mail delivered by foreign vessels

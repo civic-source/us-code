@@ -3,9 +3,9 @@ title: "Section 1151 - Administrative summary cease and desist orders and summar
 usc_title: 29
 usc_section: "1151"
 chapter: 18
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "29 U.S.C. § 1151"
-generated_at: "2026-03-30T02:32:20.371Z"
+generated_at: "2026-03-30T02:35:37.974Z"
 ---
 
 # § 1151. Administrative summary cease and desist orders and summary seizure orders against multiple employer welfare arrangements in financially hazardous condition

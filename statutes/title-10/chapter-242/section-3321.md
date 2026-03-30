@@ -3,9 +3,9 @@ title: "Section 3321 - Contracts awarded using procedures other than sealed-bid 
 usc_title: 10
 usc_section: "3321"
 chapter: 242
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 3321"
-generated_at: "2026-03-30T02:30:23.285Z"
+generated_at: "2026-03-30T02:34:13.769Z"
 ---
 
 # § 3321. Contracts awarded using procedures other than sealed-bid procedures

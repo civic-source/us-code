@@ -3,9 +3,9 @@ title: "Section 3412 - Use of information"
 usc_title: 12
 usc_section: "3412"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 3412"
-generated_at: "2026-03-30T02:31:09.863Z"
+generated_at: "2026-03-30T02:34:45.492Z"
 ---
 
 # § 3412. Use of information

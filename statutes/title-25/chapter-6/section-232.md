@@ -3,9 +3,9 @@ title: "Section 232 - Jurisdiction of New York State over offenses committed on 
 usc_title: 25
 usc_section: "232"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 232"
-generated_at: "2026-03-30T02:32:14.006Z"
+generated_at: "2026-03-30T02:35:15.149Z"
 ---
 
 # § 232. Jurisdiction of New York State over offenses committed on reservations within State

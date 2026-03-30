@@ -3,9 +3,9 @@ title: "Section 215 - Omitted"
 usc_title: 22
 usc_section: "215"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 215"
-generated_at: "2026-03-30T02:31:58.107Z"
+generated_at: "2026-03-30T02:35:21.347Z"
 ---
 
 # § 215. Omitted

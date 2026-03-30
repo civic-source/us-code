@@ -3,9 +3,9 @@ title: "Section 10287 - Funds available for appeals and expenses of representati
 usc_title: 34
 usc_section: "10287"
 chapter: 101
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 10287"
-generated_at: "2026-03-30T02:32:37.508Z"
+generated_at: "2026-03-30T02:35:57.217Z"
 ---
 
 # § 10287. Funds available for appeals and expenses of representation of hearing examiners

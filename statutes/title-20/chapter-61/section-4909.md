@@ -3,9 +3,9 @@ title: "Section 4909 - Repealed. Pub. L. 103–382, title III, § 363 , Oct. 20,
 usc_title: 20
 usc_section: "4909"
 chapter: 61
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 4909"
-generated_at: "2026-03-30T02:31:22.687Z"
+generated_at: "2026-03-30T02:35:09.591Z"
 ---
 
 # §§ 4901 to 4909. Repealed. Pub. L. 103–382, title III, § 363 , Oct. 20, 1994 , 108 Stat. 3975

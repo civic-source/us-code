@@ -3,9 +3,9 @@ title: "Section 2704 - Evaluation by Secretary of Transportation on utilization 
 usc_title: 15
 usc_section: "2704"
 chapter: 54
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 2704"
-generated_at: "2026-03-30T02:30:38.272Z"
+generated_at: "2026-03-30T02:34:49.125Z"
 ---
 
 # § 2704. Evaluation by Secretary of Transportation on utilization of advanced technology by automobile industry

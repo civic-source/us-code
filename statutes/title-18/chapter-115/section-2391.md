@@ -3,9 +3,9 @@ title: "Section 2391 - Repealed. Pub. L. 103–322, title XXXIII, § 330004(13) 
 usc_title: 18
 usc_section: "2391"
 chapter: 115
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 2391"
-generated_at: "2026-03-30T02:31:31.349Z"
+generated_at: "2026-03-30T02:34:54.310Z"
 ---
 
 # [§ 2391. Repealed. Pub. L. 103–322, title XXXIII, § 330004(13) , Sept. 13, 1994 , 108 Stat. 2142 ]

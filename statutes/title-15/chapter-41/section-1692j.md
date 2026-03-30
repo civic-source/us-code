@@ -3,9 +3,9 @@ title: "Section 1692j - Furnishing certain deceptive forms"
 usc_title: 15
 usc_section: "1692j"
 chapter: 41
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 1692j"
-generated_at: "2026-03-30T02:30:38.226Z"
+generated_at: "2026-03-30T02:34:49.086Z"
 ---
 
 # § 1692j. Furnishing certain deceptive forms

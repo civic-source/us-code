@@ -3,9 +3,9 @@ title: "Section 1087pp - Student aid index for independent students without depe
 usc_title: 20
 usc_section: "1087pp"
 chapter: 28
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 1087pp"
-generated_at: "2026-03-30T02:31:22.630Z"
+generated_at: "2026-03-30T02:35:09.506Z"
 ---
 
 # § 1087pp. Student aid index for independent students without dependents other than a spouse

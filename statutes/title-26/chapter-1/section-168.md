@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T02:32:32.583Z"
+generated_at: "2026-03-30T02:35:50.933Z"
 ---
 
 # § 168. Accelerated cost recovery system
@@ -440,8 +440,8 @@ generated_at: "2026-03-30T02:32:32.583Z"
         - **(II)** which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,
         - **(III)** which is water utility property, or 2 2 So in original. The word “or” probably should not appear.
         - **(IV)** which is a qualified film or television production (as defined in subsection (d) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (h) of such section or this subsection,
-        - **(V)** which is a qualified live theatrical production (as defined in subsection (e) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (h) of such section or this subsection, or
-        - **(VI)** which is a qualified sound recording production (as defined in subsection (f) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (h) of such section or this subsection, and and 3 3 So in original.
+        - **(V)** which is a qualified live theatrical production (as defined in subsection (e) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (h) of such section or this subsection, and or 3 3 So in original.
+        - **(VI)** which is a qualified sound recording production (as defined in subsection (f) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (h) of such section or this subsection, and
       - **(ii)** the original use of which begins with the taxpayer or the acquisition of which by the taxpayer meets the requirements of clause (i) of subparagraph (E).
     - **(B)**
       - **(i)** The term “qualified property” includes any property if such property—

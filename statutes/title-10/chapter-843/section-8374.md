@@ -3,9 +3,9 @@ title: "Section 8374 - Treatment of fractions of years of service in computing r
 usc_title: 10
 usc_section: "8374"
 chapter: 843
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8374"
-generated_at: "2026-03-30T02:30:23.356Z"
+generated_at: "2026-03-30T02:34:13.816Z"
 ---
 
 # § 8374. Treatment of fractions of years of service in computing retired pay and separation pay

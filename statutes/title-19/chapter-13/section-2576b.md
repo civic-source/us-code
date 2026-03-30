@@ -3,9 +3,9 @@ title: "Section 2576b - Subpart definitions"
 usc_title: 19
 usc_section: "2576b"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 2576b"
-generated_at: "2026-03-30T02:31:48.798Z"
+generated_at: "2026-03-30T02:34:56.466Z"
 ---
 
 # § 2576b. Subpart definitions

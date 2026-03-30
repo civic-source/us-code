@@ -3,9 +3,9 @@ title: "Section 2103 - Ensuring efficient and effective communications during a 
 usc_title: 21
 usc_section: "2103"
 chapter: 26
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "21 U.S.C. § 2103"
-generated_at: "2026-03-30T02:32:09.110Z"
+generated_at: "2026-03-30T02:35:31.791Z"
 ---
 
 # § 2103. Ensuring efficient and effective communications during a recall

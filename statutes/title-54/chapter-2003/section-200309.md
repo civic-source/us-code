@@ -3,9 +3,9 @@ title: "Section 200309 - Contracts for options to acquire land and water in Syst
 usc_title: 54
 usc_section: "200309"
 chapter: 2003
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "54 U.S.C. § 200309"
-generated_at: "2026-03-30T02:33:22.865Z"
+generated_at: "2026-03-30T02:37:47.172Z"
 ---
 
 # § 200309. Contracts for options to acquire land and water in System

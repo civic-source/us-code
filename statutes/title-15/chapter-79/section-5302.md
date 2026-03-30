@@ -3,9 +3,9 @@ title: "Section 5302 - Definitions"
 usc_title: 15
 usc_section: "5302"
 chapter: 79
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 5302"
-generated_at: "2026-03-30T02:30:38.309Z"
+generated_at: "2026-03-30T02:34:49.159Z"
 ---
 
 # § 5302. Definitions

@@ -3,9 +3,9 @@ title: "Section 1713 - Sales of public land tracts"
 usc_title: 43
 usc_section: "1713"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 1713"
-generated_at: "2026-03-30T02:32:50.154Z"
+generated_at: "2026-03-30T02:36:16.898Z"
 ---
 
 # § 1713. Sales of public land tracts

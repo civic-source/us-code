@@ -3,9 +3,9 @@ title: "Section 229B - Criminal forfeitures; destruction of weapons"
 usc_title: 18
 usc_section: "229B"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 229B"
-generated_at: "2026-03-30T02:31:31.306Z"
+generated_at: "2026-03-30T02:34:54.241Z"
 ---
 
 # § 229B. Criminal forfeitures; destruction of weapons

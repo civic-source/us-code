@@ -3,9 +3,9 @@ title: "Section 1882 - Information furnished to Congressional committees"
 usc_title: 42
 usc_section: "1882"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1882"
-generated_at: "2026-03-30T02:33:07.841Z"
+generated_at: "2026-03-30T02:37:27.748Z"
 ---
 
 # § 1882. Information furnished to Congressional committees

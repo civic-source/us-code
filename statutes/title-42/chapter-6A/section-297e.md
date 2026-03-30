@@ -3,9 +3,9 @@ title: "Section 297e - Distribution of assets from loan funds"
 usc_title: 42
 usc_section: "297e"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 297e"
-generated_at: "2026-03-30T02:33:07.335Z"
+generated_at: "2026-03-30T02:37:27.290Z"
 ---
 
 # § 297e. Distribution of assets from loan funds

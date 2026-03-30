@@ -3,9 +3,9 @@ title: "Section 485 - Quarterly briefings on counterterrorism operations, irregu
 usc_title: 10
 usc_section: "485"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 485"
-generated_at: "2026-03-30T02:30:23.076Z"
+generated_at: "2026-03-30T02:34:13.628Z"
 ---
 
 # § 485. Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities

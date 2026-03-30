@@ -3,9 +3,9 @@ title: "Section 379 - Purchase of scientific books, law books, etc."
 usc_title: 43
 usc_section: "379"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 379"
-generated_at: "2026-03-30T02:32:50.089Z"
+generated_at: "2026-03-30T02:36:16.837Z"
 ---
 
 # § 379. Purchase of scientific books, law books, etc.

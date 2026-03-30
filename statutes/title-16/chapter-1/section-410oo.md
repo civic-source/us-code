@@ -3,9 +3,9 @@ title: "Section 410oo - Purposes"
 usc_title: 16
 usc_section: "410oo"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 410oo"
-generated_at: "2026-03-30T02:31:30.031Z"
+generated_at: "2026-03-30T02:35:00.753Z"
 ---
 
 # § 410oo. Purposes

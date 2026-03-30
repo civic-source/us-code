@@ -3,9 +3,9 @@ title: "Section 3294 - Center For North American Studies"
 usc_title: 7
 usc_section: "3294"
 chapter: 64
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 3294"
-generated_at: "2026-03-30T02:29:33.325Z"
+generated_at: "2026-03-30T02:34:02.443Z"
 ---
 
 # § 3294. Center For North American Studies

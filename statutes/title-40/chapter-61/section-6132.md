@@ -3,9 +3,9 @@ title: "Section 6132 - Sale of articles, signs, and solicitation in Supreme Cour
 usc_title: 40
 usc_section: "6132"
 chapter: 61
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "40 U.S.C. § 6132"
-generated_at: "2026-03-30T02:32:42.685Z"
+generated_at: "2026-03-30T02:36:06.813Z"
 ---
 
 # § 6132. Sale of articles, signs, and solicitation in Supreme Court Building and grounds

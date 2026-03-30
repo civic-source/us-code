@@ -3,9 +3,9 @@ title: "Section 17152 - Energy Efficiency and Conservation Block Grant Program"
 usc_title: 42
 usc_section: "17152"
 chapter: 152
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 17152"
-generated_at: "2026-03-30T02:33:08.396Z"
+generated_at: "2026-03-30T02:37:28.229Z"
 ---
 
 # § 17152. Energy Efficiency and Conservation Block Grant Program

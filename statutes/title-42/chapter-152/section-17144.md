@@ -3,9 +3,9 @@ title: "Section 17144 - OMB Government efficiency reports and scorecards"
 usc_title: 42
 usc_section: "17144"
 chapter: 152
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 17144"
-generated_at: "2026-03-30T02:33:08.396Z"
+generated_at: "2026-03-30T02:37:28.228Z"
 ---
 
 # § 17144. OMB Government efficiency reports and scorecards

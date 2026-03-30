@@ -3,9 +3,9 @@ title: "Section 60104 - Requirements and limitations"
 usc_title: 49
 usc_section: "60104"
 chapter: 601
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 60104"
-generated_at: "2026-03-30T02:33:20.362Z"
+generated_at: "2026-03-30T02:37:41.924Z"
 ---
 
 # § 60104. Requirements and limitations

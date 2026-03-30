@@ -3,9 +3,9 @@ title: "Section 8747 - Transportation of dependents and household effects of civ
 usc_title: 10
 usc_section: "8747"
 chapter: 871
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8747"
-generated_at: "2026-03-30T02:30:23.371Z"
+generated_at: "2026-03-30T02:34:13.825Z"
 ---
 
 # § 8747. Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation

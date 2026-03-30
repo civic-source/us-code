@@ -3,9 +3,9 @@ title: "Section 6809 - Definitions"
 usc_title: 15
 usc_section: "6809"
 chapter: 94
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 6809"
-generated_at: "2026-03-30T02:30:38.326Z"
+generated_at: "2026-03-30T02:34:49.174Z"
 ---
 
 # § 6809. Definitions

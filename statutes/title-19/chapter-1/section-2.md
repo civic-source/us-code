@@ -3,9 +3,9 @@ title: "Section 2 - Rearrangement and limitation of districts; changing location
 usc_title: 19
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 2"
-generated_at: "2026-03-30T02:31:48.722Z"
+generated_at: "2026-03-30T02:34:56.396Z"
 ---
 
 # § 2. Rearrangement and limitation of districts; changing locations

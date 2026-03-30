@@ -3,9 +3,9 @@ title: "Section 288a - Privileges, exemptions, and immunities of international o
 usc_title: 22
 usc_section: "288a"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 288a"
-generated_at: "2026-03-30T02:31:58.131Z"
+generated_at: "2026-03-30T02:35:21.371Z"
 ---
 
 # § 288a. Privileges, exemptions, and immunities of international organizations

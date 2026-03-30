@@ -3,9 +3,9 @@ title: "Section 2091 - Organizations; articles; charters; powers of the Farm Cre
 usc_title: 12
 usc_section: "2091"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 2091"
-generated_at: "2026-03-30T02:31:09.839Z"
+generated_at: "2026-03-30T02:34:45.459Z"
 ---
 
 # § 2091. Organizations; articles; charters; powers of the Farm Credit Administration

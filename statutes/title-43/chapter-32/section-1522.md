@@ -3,9 +3,9 @@ title: "Section 1522 - Orme Dam and Reservoir"
 usc_title: 43
 usc_section: "1522"
 chapter: 32
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 1522"
-generated_at: "2026-03-30T02:32:50.137Z"
+generated_at: "2026-03-30T02:36:16.882Z"
 ---
 
 # § 1522. Orme Dam and Reservoir

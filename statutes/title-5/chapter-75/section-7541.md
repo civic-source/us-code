@@ -3,9 +3,9 @@ title: "Section 7541 - Definitions"
 usc_title: 5
 usc_section: "7541"
 chapter: 75
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 7541"
-generated_at: "2026-03-30T02:29:23.273Z"
+generated_at: "2026-03-30T02:33:47.804Z"
 ---
 
 # § 7541. Definitions

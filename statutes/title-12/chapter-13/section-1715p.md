@@ -3,9 +3,9 @@ title: "Section 1715p - Insurance of advances under open-end mortgages; payment 
 usc_title: 12
 usc_section: "1715p"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 1715p"
-generated_at: "2026-03-30T02:31:09.778Z"
+generated_at: "2026-03-30T02:34:45.369Z"
 ---
 
 # § 1715p. Insurance of advances under open-end mortgages; payment of charges; eligibility and conditions

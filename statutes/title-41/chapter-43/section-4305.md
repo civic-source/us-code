@@ -3,9 +3,9 @@ title: "Section 4305 - Required regulations"
 usc_title: 41
 usc_section: "4305"
 chapter: 43
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "41 U.S.C. § 4305"
-generated_at: "2026-03-30T02:32:48.768Z"
+generated_at: "2026-03-30T02:36:15.554Z"
 ---
 
 # § 4305. Required regulations

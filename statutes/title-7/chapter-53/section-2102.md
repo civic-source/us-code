@@ -3,9 +3,9 @@ title: "Section 2102 - Orders of Secretary to cotton handlers"
 usc_title: 7
 usc_section: "2102"
 chapter: 53
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 2102"
-generated_at: "2026-03-30T02:29:33.294Z"
+generated_at: "2026-03-30T02:34:02.405Z"
 ---
 
 # § 2102. Orders of Secretary to cotton handlers

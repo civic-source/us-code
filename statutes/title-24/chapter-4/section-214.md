@@ -3,9 +3,9 @@ title: "Section 214 - Repealed. Pub. L. 98–621, § 10(q) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "214"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "24 U.S.C. § 214"
-generated_at: "2026-03-30T02:31:54.162Z"
+generated_at: "2026-03-30T02:35:12.279Z"
 ---
 
 # §§ 212 to 214. Repealed. Pub. L. 98–621, § 10(q) , Nov. 8, 1984 , 98 Stat. 3381

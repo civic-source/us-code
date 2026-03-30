@@ -3,9 +3,9 @@ title: "Section 5614 - Forest land management and surface leasing activities"
 usc_title: 25
 usc_section: "5614"
 chapter: 48
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 5614"
-generated_at: "2026-03-30T02:32:14.093Z"
+generated_at: "2026-03-30T02:35:15.250Z"
 ---
 
 # § 5614. Forest land management and surface leasing activities

@@ -3,9 +3,9 @@ title: "Section 2284 - Transportation of terrorists"
 usc_title: 18
 usc_section: "2284"
 chapter: 111
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 2284"
-generated_at: "2026-03-30T02:31:31.344Z"
+generated_at: "2026-03-30T02:34:54.303Z"
 ---
 
 # § 2284. Transportation of terrorists

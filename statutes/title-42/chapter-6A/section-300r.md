@@ -3,9 +3,9 @@ title: "Section 300r - Grants for construction or modernization proj­ects"
 usc_title: 42
 usc_section: "300r"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 300r"
-generated_at: "2026-03-30T02:33:07.371Z"
+generated_at: "2026-03-30T02:37:27.324Z"
 ---
 
 # § 300r. Grants for construction or modernization proj­ects

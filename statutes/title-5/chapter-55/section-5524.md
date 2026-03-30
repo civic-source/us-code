@@ -3,9 +3,9 @@ title: "Section 5524 - Review of accounts"
 usc_title: 5
 usc_section: "5524"
 chapter: 55
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 5524"
-generated_at: "2026-03-30T02:29:23.259Z"
+generated_at: "2026-03-30T02:33:47.776Z"
 ---
 
 # § 5524. Review of accounts

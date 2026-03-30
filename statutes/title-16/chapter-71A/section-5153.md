@@ -3,9 +3,9 @@ title: "Section 5153 - Monitoring of implementation and enforcement by coastal S
 usc_title: 16
 usc_section: "5153"
 chapter: 71
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 5153"
-generated_at: "2026-03-30T02:31:30.243Z"
+generated_at: "2026-03-30T02:35:01.044Z"
 ---
 
 # § 5153. Monitoring of implementation and enforcement by coastal States

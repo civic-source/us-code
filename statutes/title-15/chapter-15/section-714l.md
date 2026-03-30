@@ -3,9 +3,9 @@ title: "Section 714l - Interest of Members of Congress"
 usc_title: 15
 usc_section: "714l"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 714l"
-generated_at: "2026-03-30T02:30:38.162Z"
+generated_at: "2026-03-30T02:34:49.030Z"
 ---
 
 # § 714l. Interest of Members of Congress

@@ -3,9 +3,9 @@ title: "Section 617r - Consent given States to negotiate supplemental compacts f
 usc_title: 43
 usc_section: "617r"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 617r"
-generated_at: "2026-03-30T02:32:50.112Z"
+generated_at: "2026-03-30T02:36:16.857Z"
 ---
 
 # § 617r. Consent given States to negotiate supplemental compacts for development of Colorado River

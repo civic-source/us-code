@@ -3,9 +3,9 @@ title: "Section 7101 - Establishment of the Interagency Committee"
 usc_title: 15
 usc_section: "7101"
 chapter: 97
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 7101"
-generated_at: "2026-03-30T02:30:38.330Z"
+generated_at: "2026-03-30T02:34:49.178Z"
 ---
 
 # § 7101. Establishment of the Interagency Committee

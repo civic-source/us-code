@@ -3,9 +3,9 @@ title: "Section 2225 - Decontamination and disposal standards and plans"
 usc_title: 21
 usc_section: "2225"
 chapter: 27
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "21 U.S.C. § 2225"
-generated_at: "2026-03-30T02:32:09.112Z"
+generated_at: "2026-03-30T02:35:31.793Z"
 ---
 
 # § 2225. Decontamination and disposal standards and plans

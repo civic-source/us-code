@@ -3,9 +3,9 @@ title: "Section 137 - Patient-provider dispute resolution"
 usc_title: 42
 usc_section: "137"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 137"
-generated_at: "2026-03-30T02:33:07.420Z"
+generated_at: "2026-03-30T02:37:27.370Z"
 ---
 
 # § 300gg–137. Patient-provider dispute resolution

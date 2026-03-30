@@ -3,9 +3,9 @@ title: "Section 2712 - Reporting on usage and spills of aqueous film-forming foa
 usc_title: 10
 usc_section: "2712"
 chapter: 160
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2712"
-generated_at: "2026-03-30T02:30:23.257Z"
+generated_at: "2026-03-30T02:34:13.748Z"
 ---
 
 # § 2712. Reporting on usage and spills of aqueous film-forming foam

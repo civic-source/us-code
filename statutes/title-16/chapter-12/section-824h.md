@@ -3,9 +3,9 @@ title: "Section 824h - References to State boards by Commission"
 usc_title: 16
 usc_section: "824h"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 824h"
-generated_at: "2026-03-30T02:31:30.145Z"
+generated_at: "2026-03-30T02:35:00.909Z"
 ---
 
 # § 824h. References to State boards by Commission

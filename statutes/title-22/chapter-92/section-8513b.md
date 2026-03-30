@@ -3,9 +3,9 @@ title: "Section 8513b - Expansion of, and reports on, mandatory sanctions with r
 usc_title: 22
 usc_section: "8513b"
 chapter: 92
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 8513b"
-generated_at: "2026-03-30T02:31:58.303Z"
+generated_at: "2026-03-30T02:35:21.557Z"
 ---
 
 # § 8513b. Expansion of, and reports on, mandatory sanctions with respect to financial institutions that engage in certain activities

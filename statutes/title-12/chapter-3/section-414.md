@@ -3,9 +3,9 @@ title: "Section 414 - Authority of Board of Governors respecting issuance of not
 usc_title: 12
 usc_section: "414"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 414"
-generated_at: "2026-03-30T02:31:09.737Z"
+generated_at: "2026-03-30T02:34:45.311Z"
 ---
 
 # § 414. Authority of Board of Governors respecting issuance of notes; interest; lien

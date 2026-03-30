@@ -3,9 +3,9 @@ title: "Section 687 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "687"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 687"
-generated_at: "2026-03-30T02:32:50.117Z"
+generated_at: "2026-03-30T02:36:16.862Z"
 ---
 
 # §§ 683 to 687. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

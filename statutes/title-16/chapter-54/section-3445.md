@@ -3,9 +3,9 @@ title: "Section 3445 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3445"
 chapter: 54
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 3445"
-generated_at: "2026-03-30T02:31:30.220Z"
+generated_at: "2026-03-30T02:35:01.014Z"
 ---
 
 # §§ 3441 to 3445. Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Apr. 4, 1996 , 110 Stat. 1007

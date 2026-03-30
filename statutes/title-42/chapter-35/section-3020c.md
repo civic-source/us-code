@@ -3,9 +3,9 @@ title: "Section 3020c - Contracting and grant authority; private pay relationshi
 usc_title: 42
 usc_section: "3020c"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 3020c"
-generated_at: "2026-03-30T02:33:07.902Z"
+generated_at: "2026-03-30T02:37:27.804Z"
 ---
 
 # § 3020c. Contracting and grant authority; private pay relationships; appropriate use of funds

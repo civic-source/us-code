@@ -3,9 +3,9 @@ title: "Section 360 - Station licenses; inspection of equipment by Commission"
 usc_title: 47
 usc_section: "360"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "47 U.S.C. § 360"
-generated_at: "2026-03-30T02:33:12.889Z"
+generated_at: "2026-03-30T02:37:32.347Z"
 ---
 
 # § 360. Station licenses; inspection of equipment by Commission

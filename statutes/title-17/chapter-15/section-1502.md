@@ -3,9 +3,9 @@ title: "Section 1502 - Copyright Claims Board"
 usc_title: 17
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "17 U.S.C. § 1502"
-generated_at: "2026-03-30T02:31:12.502Z"
+generated_at: "2026-03-30T02:34:52.331Z"
 ---
 
 # § 1502. Copyright Claims Board

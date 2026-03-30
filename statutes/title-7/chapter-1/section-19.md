@@ -3,9 +3,9 @@ title: "Section 19 - Consideration of costs and benefits and antitrust laws"
 usc_title: 7
 usc_section: "19"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 19"
-generated_at: "2026-03-30T02:29:33.131Z"
+generated_at: "2026-03-30T02:34:02.198Z"
 ---
 
 # § 19. Consideration of costs and benefits and antitrust laws

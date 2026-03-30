@@ -3,9 +3,9 @@ title: "Section 723 - Metropolitan Medical Response Grant Program"
 usc_title: 6
 usc_section: "723"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "6 U.S.C. § 723"
-generated_at: "2026-03-30T02:29:36.814Z"
+generated_at: "2026-03-30T02:33:52.963Z"
 ---
 
 # § 723. Metropolitan Medical Response Grant Program

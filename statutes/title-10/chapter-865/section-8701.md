@@ -3,9 +3,9 @@ title: "Section 8701 - Authority to provide for necessary salvage facilities"
 usc_title: 10
 usc_section: "8701"
 chapter: 865
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8701"
-generated_at: "2026-03-30T02:30:23.369Z"
+generated_at: "2026-03-30T02:34:13.824Z"
 ---
 
 # § 8701. Authority to provide for necessary salvage facilities

@@ -3,9 +3,9 @@ title: "Section 3105 - Agricultural research; authorization of additional approp
 usc_title: 7
 usc_section: "3105"
 chapter: 64
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 3105"
-generated_at: "2026-03-30T02:29:33.316Z"
+generated_at: "2026-03-30T02:34:02.431Z"
 ---
 
 # § 3105. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund

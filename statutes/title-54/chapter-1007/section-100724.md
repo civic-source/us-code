@@ -3,9 +3,9 @@ title: "Section 100724 - Use of recovered amounts"
 usc_title: 54
 usc_section: "100724"
 chapter: 1007
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "54 U.S.C. § 100724"
-generated_at: "2026-03-30T02:33:22.855Z"
+generated_at: "2026-03-30T02:37:47.161Z"
 ---
 
 # § 100724. Use of recovered amounts

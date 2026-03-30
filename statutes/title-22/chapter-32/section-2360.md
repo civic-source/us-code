@@ -3,9 +3,9 @@ title: "Section 2360 - Transfer of funds between accounts"
 usc_title: 22
 usc_section: "2360"
 chapter: 32
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2360"
-generated_at: "2026-03-30T02:31:58.180Z"
+generated_at: "2026-03-30T02:35:21.421Z"
 ---
 
 # § 2360. Transfer of funds between accounts

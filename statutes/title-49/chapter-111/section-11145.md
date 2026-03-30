@@ -3,9 +3,9 @@ title: "Section 11145 - Reports by rail carriers, lessors, and associations"
 usc_title: 49
 usc_section: "11145"
 chapter: 111
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 11145"
-generated_at: "2026-03-30T02:33:20.245Z"
+generated_at: "2026-03-30T02:37:41.796Z"
 ---
 
 # § 11145. Reports by rail carriers, lessors, and associations

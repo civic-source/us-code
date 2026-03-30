@@ -3,9 +3,9 @@ title: "Section 8213 - Investigations of violations of international humanitaria
 usc_title: 22
 usc_section: "8213"
 chapter: 89
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 8213"
-generated_at: "2026-03-30T02:31:58.300Z"
+generated_at: "2026-03-30T02:35:21.553Z"
 ---
 
 # § 8213. Investigations of violations of international humanitarian law

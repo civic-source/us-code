@@ -3,9 +3,9 @@ title: "Section 926 - Costs in proceedings brought without reasonable grounds"
 usc_title: 33
 usc_section: "926"
 chapter: 18
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 926"
-generated_at: "2026-03-30T02:32:39.287Z"
+generated_at: "2026-03-30T02:36:02.539Z"
 ---
 
 # § 926. Costs in proceedings brought without reasonable grounds

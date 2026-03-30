@@ -3,9 +3,9 @@ title: "Section 1257 - State courts; certiorari"
 usc_title: 28
 usc_section: "1257"
 chapter: 81
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "28 U.S.C. § 1257"
-generated_at: "2026-03-30T02:32:19.019Z"
+generated_at: "2026-03-30T02:35:53.724Z"
 ---
 
 # § 1257. State courts; certiorari

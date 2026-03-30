@@ -3,9 +3,9 @@ title: "Section 10001 - Allocations"
 usc_title: 20
 usc_section: "10001"
 chapter: 80
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 10001"
-generated_at: "2026-03-30T02:31:22.735Z"
+generated_at: "2026-03-30T02:35:09.661Z"
 ---
 
 # § 10001. Allocations

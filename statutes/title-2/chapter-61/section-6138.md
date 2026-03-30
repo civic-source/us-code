@@ -3,9 +3,9 @@ title: "Section 6138 - Transfer of funds from appropriations account of Majority
 usc_title: 2
 usc_section: "6138"
 chapter: 61
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 6138"
-generated_at: "2026-03-30T02:29:19.586Z"
+generated_at: "2026-03-30T02:33:44.351Z"
 ---
 
 # § 6138. Transfer of funds from appropriations account of Majority and Minority Whips of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund

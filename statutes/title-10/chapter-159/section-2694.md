@@ -3,9 +3,9 @@ title: "Section 2694 - Conservation and cultural activities"
 usc_title: 10
 usc_section: "2694"
 chapter: 159
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2694"
-generated_at: "2026-03-30T02:30:23.253Z"
+generated_at: "2026-03-30T02:34:13.747Z"
 ---
 
 # § 2694. Conservation and cultural activities

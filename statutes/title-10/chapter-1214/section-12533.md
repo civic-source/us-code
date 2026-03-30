@@ -3,9 +3,9 @@ title: "Section 12533 - Termination of program"
 usc_title: 10
 usc_section: "12533"
 chapter: 1214
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 12533"
-generated_at: "2026-03-30T02:30:23.407Z"
+generated_at: "2026-03-30T02:34:13.848Z"
 ---
 
 # § 12533. Termination of program

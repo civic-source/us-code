@@ -3,9 +3,9 @@ title: "Section 618p - Omitted"
 usc_title: 43
 usc_section: "618p"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 618p"
-generated_at: "2026-03-30T02:32:50.113Z"
+generated_at: "2026-03-30T02:36:16.858Z"
 ---
 
 # § 618p. Omitted

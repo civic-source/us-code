@@ -3,9 +3,9 @@ title: "Section 2682 - Facilities for defense agencies"
 usc_title: 10
 usc_section: "2682"
 chapter: 159
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2682"
-generated_at: "2026-03-30T02:30:23.251Z"
+generated_at: "2026-03-30T02:34:13.744Z"
 ---
 
 # § 2682. Facilities for defense agencies

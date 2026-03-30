@@ -3,9 +3,9 @@ title: "Section 2106 - Selection boards; convening of boards"
 usc_title: 14
 usc_section: "2106"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 2106"
-generated_at: "2026-03-30T02:30:32.656Z"
+generated_at: "2026-03-30T02:34:26.218Z"
 ---
 
 # § 2106. Selection boards; convening of boards

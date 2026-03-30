@@ -3,9 +3,9 @@ title: "Section 5107 - Transfer and exchange of restricted Indian lands and shar
 usc_title: 25
 usc_section: "5107"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 5107"
-generated_at: "2026-03-30T02:32:14.082Z"
+generated_at: "2026-03-30T02:35:15.236Z"
 ---
 
 # § 5107. Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations

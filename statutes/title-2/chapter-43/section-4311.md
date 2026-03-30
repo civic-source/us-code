@@ -3,9 +3,9 @@ title: "Section 4311 - Approval of employment and compensation of committee empl
 usc_title: 2
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 4311"
-generated_at: "2026-03-30T02:29:19.578Z"
+generated_at: "2026-03-30T02:33:44.336Z"
 ---
 
 # § 4311. Approval of employment and compensation of committee employees by House standing committees

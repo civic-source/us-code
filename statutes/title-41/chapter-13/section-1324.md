@@ -3,9 +3,9 @@ title: "Section 1324 - Strategic plan"
 usc_title: 41
 usc_section: "1324"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "41 U.S.C. § 1324"
-generated_at: "2026-03-30T02:32:48.758Z"
+generated_at: "2026-03-30T02:36:15.544Z"
 ---
 
 # § 1324. Strategic plan

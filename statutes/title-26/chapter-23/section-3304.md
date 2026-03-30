@@ -3,9 +3,9 @@ title: "Section 3304 - Approval of State laws"
 usc_title: 26
 usc_section: "3304"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 3304"
-generated_at: "2026-03-30T02:32:32.779Z"
+generated_at: "2026-03-30T02:35:51.123Z"
 ---
 
 # § 3304. Approval of State laws

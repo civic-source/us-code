@@ -3,9 +3,9 @@ title: "Section 7276 - Regulations to require integrated resource planning"
 usc_title: 42
 usc_section: "7276"
 chapter: 84
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 7276"
-generated_at: "2026-03-30T02:33:08.088Z"
+generated_at: "2026-03-30T02:37:27.954Z"
 ---
 
 # § 7276. Regulations to require integrated resource planning

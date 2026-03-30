@@ -3,9 +3,9 @@ title: "Section 9008 - Administrative functions"
 usc_title: 5
 usc_section: "9008"
 chapter: 90
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 9008"
-generated_at: "2026-03-30T02:29:23.296Z"
+generated_at: "2026-03-30T02:33:47.847Z"
 ---
 
 # § 9008. Administrative functions

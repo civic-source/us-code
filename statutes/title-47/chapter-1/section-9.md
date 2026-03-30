@@ -3,9 +3,9 @@ title: "Section 9 - Subsidized companies required to construct and operate lines
 usc_title: 47
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "47 U.S.C. § 9"
-generated_at: "2026-03-30T02:33:12.861Z"
+generated_at: "2026-03-30T02:37:32.317Z"
 ---
 
 # § 9. Subsidized companies required to construct and operate lines

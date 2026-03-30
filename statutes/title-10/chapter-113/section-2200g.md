@@ -3,9 +3,9 @@ title: "Section 2200g - Establishment"
 usc_title: 10
 usc_section: "2200g"
 chapter: 113
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2200g"
-generated_at: "2026-03-30T02:30:23.214Z"
+generated_at: "2026-03-30T02:34:13.720Z"
 ---
 
 # § 2200g. Establishment

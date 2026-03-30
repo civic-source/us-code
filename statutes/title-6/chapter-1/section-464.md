@@ -3,9 +3,9 @@ title: "Section 464 - Federal Law Enforcement Training Centers"
 usc_title: 6
 usc_section: "464"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "6 U.S.C. § 464"
-generated_at: "2026-03-30T02:29:36.790Z"
+generated_at: "2026-03-30T02:33:52.935Z"
 ---
 
 # § 464. Federal Law Enforcement Training Centers

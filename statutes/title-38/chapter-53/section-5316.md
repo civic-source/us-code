@@ -3,9 +3,9 @@ title: "Section 5316 - Authority to sue to collect certain debts"
 usc_title: 38
 usc_section: "5316"
 chapter: 53
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 5316"
-generated_at: "2026-03-30T02:32:46.076Z"
+generated_at: "2026-03-30T02:36:12.659Z"
 ---
 
 # § 5316. Authority to sue to collect certain debts

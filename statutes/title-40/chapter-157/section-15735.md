@@ -3,9 +3,9 @@ title: "Section 15735 - Mid-Atlantic Regional Commission."
 usc_title: 40
 usc_section: "15735"
 chapter: 157
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "40 U.S.C. § 15735"
-generated_at: "2026-03-30T02:32:42.697Z"
+generated_at: "2026-03-30T02:36:06.823Z"
 ---
 
 # § 15735. Mid-Atlantic Regional Commission.

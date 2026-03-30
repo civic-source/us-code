@@ -3,9 +3,9 @@ title: "Section 1601 - Enforcement of order"
 usc_title: 7
 usc_section: "1601"
 chapter: 37
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 1601"
-generated_at: "2026-03-30T02:29:33.233Z"
+generated_at: "2026-03-30T02:34:02.325Z"
 ---
 
 # § 1601. Enforcement of order

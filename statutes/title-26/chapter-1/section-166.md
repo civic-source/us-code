@@ -3,9 +3,9 @@ title: "Section 166 - Bad debts"
 usc_title: 26
 usc_section: "166"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 166"
-generated_at: "2026-03-30T02:32:32.583Z"
+generated_at: "2026-03-30T02:35:50.933Z"
 ---
 
 # § 166. Bad debts

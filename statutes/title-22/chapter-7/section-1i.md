@@ -3,9 +3,9 @@ title: "Section 1i - Increase in United States quota; consultations with Congres
 usc_title: 22
 usc_section: "1i"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 1i"
-generated_at: "2026-03-30T02:31:58.125Z"
+generated_at: "2026-03-30T02:35:21.365Z"
 ---
 
 # § 286e–1i. Increase in United States quota; consultations with Congress

@@ -3,9 +3,9 @@ title: "Section 232 - National Institute of Mental Health; authorization of appr
 usc_title: 42
 usc_section: "232"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 232"
-generated_at: "2026-03-30T02:33:07.194Z"
+generated_at: "2026-03-30T02:37:27.148Z"
 ---
 
 # § 232. National Institute of Mental Health; authorization of appropriation; construction; location

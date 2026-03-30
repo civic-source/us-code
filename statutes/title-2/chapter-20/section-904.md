@@ -3,9 +3,9 @@ title: "Section 904 - Reports and orders"
 usc_title: 2
 usc_section: "904"
 chapter: 20
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 904"
-generated_at: "2026-03-30T02:29:19.554Z"
+generated_at: "2026-03-30T02:33:44.298Z"
 ---
 
 # § 904. Reports and orders

@@ -3,9 +3,9 @@ title: "Section 1073 - Repealed. Oct. 31, 1951, ch. 654, § 1(114) , 65 Stat. 70
 usc_title: 43
 usc_section: "1073"
 chapter: 26
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 1073"
-generated_at: "2026-03-30T02:32:50.126Z"
+generated_at: "2026-03-30T02:36:16.871Z"
 ---
 
 # §§ 1071 to 1073. Repealed. Oct. 31, 1951, ch. 654, § 1(114) , 65 Stat. 706

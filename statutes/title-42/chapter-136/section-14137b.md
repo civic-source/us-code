@@ -3,9 +3,9 @@ title: "Section 14137b - Transferred"
 usc_title: 42
 usc_section: "14137b"
 chapter: 136
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 14137b"
-generated_at: "2026-03-30T02:33:08.328Z"
+generated_at: "2026-03-30T02:37:28.165Z"
 ---
 
 # § 14137b. Transferred

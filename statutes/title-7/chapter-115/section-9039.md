@@ -3,9 +3,9 @@ title: "Section 9039 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "9039"
 chapter: 115
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 9039"
-generated_at: "2026-03-30T02:29:33.436Z"
+generated_at: "2026-03-30T02:34:02.590Z"
 ---
 
 # § 9039. Availability of recourse loans for high moisture feed grains and seed cotton

@@ -3,9 +3,9 @@ title: "Section 5107 - Discretionary programs; authorization of appropriations"
 usc_title: 42
 usc_section: "5107"
 chapter: 67
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 5107"
-generated_at: "2026-03-30T02:33:07.969Z"
+generated_at: "2026-03-30T02:37:27.867Z"
 ---
 
 # § 5107. Discretionary programs; authorization of appropriations

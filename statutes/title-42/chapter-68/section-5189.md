@@ -3,9 +3,9 @@ title: "Section 5189 - Simplified procedure"
 usc_title: 42
 usc_section: "5189"
 chapter: 68
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 5189"
-generated_at: "2026-03-30T02:33:07.979Z"
+generated_at: "2026-03-30T02:37:27.875Z"
 ---
 
 # § 5189. Simplified procedure

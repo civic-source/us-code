@@ -3,9 +3,9 @@ title: "Section 4265 - Consideration of marine debris in negotiating internation
 usc_title: 33
 usc_section: "4265"
 chapter: 55
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 4265"
-generated_at: "2026-03-30T02:32:39.382Z"
+generated_at: "2026-03-30T02:36:02.641Z"
 ---
 
 # § 4265. Consideration of marine debris in negotiating international agreements

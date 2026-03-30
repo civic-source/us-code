@@ -3,9 +3,9 @@ title: "Section 4843 - Manufacturing engineering education program"
 usc_title: 10
 usc_section: "4843"
 chapter: 384
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4843"
-generated_at: "2026-03-30T02:30:23.321Z"
+generated_at: "2026-03-30T02:34:13.791Z"
 ---
 
 # § 4843. Manufacturing engineering education program

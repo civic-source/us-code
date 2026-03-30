@@ -3,9 +3,9 @@ title: "Section 1353 - Travel expenses and expense of transporting remains of of
 usc_title: 8
 usc_section: "1353"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "8 U.S.C. § 1353"
-generated_at: "2026-03-30T02:29:28.539Z"
+generated_at: "2026-03-30T02:34:06.833Z"
 ---
 
 # § 1353. Travel expenses and expense of transporting remains of officers and employees dying outside of United States

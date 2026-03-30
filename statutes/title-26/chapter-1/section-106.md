@@ -3,9 +3,9 @@ title: "Section 106 - Contributions by employer to accident and health plans"
 usc_title: 26
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 106"
-generated_at: "2026-03-30T02:32:32.561Z"
+generated_at: "2026-03-30T02:35:50.910Z"
 ---
 
 # § 106. Contributions by employer to accident and health plans

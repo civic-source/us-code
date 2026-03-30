@@ -3,9 +3,9 @@ title: "Section 481 - Plates, stones, or analog, digital, or electronic images f
 usc_title: 18
 usc_section: "481"
 chapter: 25
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 481"
-generated_at: "2026-03-30T02:31:31.310Z"
+generated_at: "2026-03-30T02:34:54.245Z"
 ---
 
 # § 481. Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities

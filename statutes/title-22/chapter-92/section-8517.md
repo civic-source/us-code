@@ -3,9 +3,9 @@ title: "Section 8517 - Increased capacity for efforts to combat unlawful or terr
 usc_title: 22
 usc_section: "8517"
 chapter: 92
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 8517"
-generated_at: "2026-03-30T02:31:58.304Z"
+generated_at: "2026-03-30T02:35:21.558Z"
 ---
 
 # § 8517. Increased capacity for efforts to combat unlawful or terrorist financing

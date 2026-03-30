@@ -3,9 +3,9 @@ title: "Section 4147 - Funding"
 usc_title: 12
 usc_section: "4147"
 chapter: 42
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 4147"
-generated_at: "2026-03-30T02:31:09.871Z"
+generated_at: "2026-03-30T02:34:45.505Z"
 ---
 
 # § 4147. Funding

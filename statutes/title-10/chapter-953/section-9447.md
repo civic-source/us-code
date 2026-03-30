@@ -3,9 +3,9 @@ title: "Section 9447 - Cadets; nominees: effect of redistricting of States"
 usc_title: 10
 usc_section: "9447"
 chapter: 953
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 9447"
-generated_at: "2026-03-30T02:30:23.386Z"
+generated_at: "2026-03-30T02:34:13.835Z"
 ---
 
 # § 9447. Cadets; nominees: effect of redistricting of States

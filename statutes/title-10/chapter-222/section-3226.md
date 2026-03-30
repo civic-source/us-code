@@ -3,9 +3,9 @@ title: "Section 3226 - Estimates for program baseline and analyses and targets f
 usc_title: 10
 usc_section: "3226"
 chapter: 222
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 3226"
-generated_at: "2026-03-30T02:30:23.284Z"
+generated_at: "2026-03-30T02:34:13.767Z"
 ---
 
 # § 3226. Estimates for program baseline and analyses and targets for contract negotiation purposes

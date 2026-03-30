@@ -3,9 +3,9 @@ title: "Section 11 - Foreign government defined"
 usc_title: 18
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 11"
-generated_at: "2026-03-30T02:31:31.302Z"
+generated_at: "2026-03-30T02:34:54.231Z"
 ---
 
 # § 11. Foreign government defined

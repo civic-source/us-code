@@ -3,9 +3,9 @@ title: "Section 6826 - Reports"
 usc_title: 15
 usc_section: "6826"
 chapter: 94
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 6826"
-generated_at: "2026-03-30T02:30:38.326Z"
+generated_at: "2026-03-30T02:34:49.175Z"
 ---
 
 # § 6826. Reports

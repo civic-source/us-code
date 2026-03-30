@@ -3,9 +3,9 @@ title: "Section 1394 - Recognition of Philippine independence"
 usc_title: 22
 usc_section: "1394"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 1394"
-generated_at: "2026-03-30T02:31:58.142Z"
+generated_at: "2026-03-30T02:35:21.382Z"
 ---
 
 # § 1394. Recognition of Philippine independence

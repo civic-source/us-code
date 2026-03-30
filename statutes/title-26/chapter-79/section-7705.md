@@ -3,9 +3,9 @@ title: "Section 7705 - Certified professional employer organizations"
 usc_title: 26
 usc_section: "7705"
 chapter: 79
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 7705"
-generated_at: "2026-03-30T02:32:33.062Z"
+generated_at: "2026-03-30T02:35:51.240Z"
 ---
 
 # § 7705. Certified professional employer organizations

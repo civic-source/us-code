@@ -3,9 +3,9 @@ title: "Section 6101 - Statement of purpose"
 usc_title: 42
 usc_section: "6101"
 chapter: 76
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 6101"
-generated_at: "2026-03-30T02:33:07.999Z"
+generated_at: "2026-03-30T02:37:27.894Z"
 ---
 
 # § 6101. Statement of purpose

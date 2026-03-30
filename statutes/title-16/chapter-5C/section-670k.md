@@ -3,9 +3,9 @@ title: "Section 670k - Definitions"
 usc_title: 16
 usc_section: "670k"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 670k"
-generated_at: "2026-03-30T02:31:30.129Z"
+generated_at: "2026-03-30T02:35:00.885Z"
 ---
 
 # § 670k. Definitions

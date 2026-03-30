@@ -3,9 +3,9 @@ title: "Section 104 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1),
 usc_title: 19
 usc_section: "104"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 104"
-generated_at: "2026-03-30T02:31:48.726Z"
+generated_at: "2026-03-30T02:34:56.399Z"
 ---
 
 # §§ 102 to 104. Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 46 Stat. 762

@@ -3,9 +3,9 @@ title: "Section 44808 - Carriage of property by small unmanned aircraft systems 
 usc_title: 49
 usc_section: "44808"
 chapter: 448
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 44808"
-generated_at: "2026-03-30T02:33:20.333Z"
+generated_at: "2026-03-30T02:37:41.889Z"
 ---
 
 # § 44808. Carriage of property by small unmanned aircraft systems for compensation or hire

@@ -3,9 +3,9 @@ title: "Section 6001 - Short title"
 usc_title: 20
 usc_section: "6001"
 chapter: 68
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 6001"
-generated_at: "2026-03-30T02:31:22.691Z"
+generated_at: "2026-03-30T02:35:09.597Z"
 ---
 
 # § 6001. Short title

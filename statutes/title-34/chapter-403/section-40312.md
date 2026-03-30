@@ -3,9 +3,9 @@ title: "Section 40312 - Definitions"
 usc_title: 34
 usc_section: "40312"
 chapter: 403
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 40312"
-generated_at: "2026-03-30T02:32:37.575Z"
+generated_at: "2026-03-30T02:35:57.288Z"
 ---
 
 # § 40312. Definitions

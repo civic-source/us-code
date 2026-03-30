@@ -3,9 +3,9 @@ title: "Section 2754 - Purposes for which military sales or leases by the United
 usc_title: 22
 usc_section: "2754"
 chapter: 39
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2754"
-generated_at: "2026-03-30T02:31:58.211Z"
+generated_at: "2026-03-30T02:35:21.454Z"
 ---
 
 # § 2754. Purposes for which military sales or leases by the United States are authorized; report to Congress

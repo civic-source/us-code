@@ -3,9 +3,9 @@ title: "Section 106A - Rights of certain authors to attribution and integrity"
 usc_title: 17
 usc_section: "106A"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "17 U.S.C. § 106A"
-generated_at: "2026-03-30T02:31:12.488Z"
+generated_at: "2026-03-30T02:34:52.312Z"
 ---
 
 # § 106A. Rights of certain authors to attribution and integrity

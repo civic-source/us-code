@@ -3,9 +3,9 @@ title: "Section 1738 - Identification documents for certain newly admitted alien
 usc_title: 8
 usc_section: "1738"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "8 U.S.C. § 1738"
-generated_at: "2026-03-30T02:29:28.558Z"
+generated_at: "2026-03-30T02:34:06.855Z"
 ---
 
 # § 1738. Identification documents for certain newly admitted aliens

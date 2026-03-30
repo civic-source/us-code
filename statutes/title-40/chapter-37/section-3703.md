@@ -3,9 +3,9 @@ title: "Section 3703 - Report of violations and withholding of amounts for unpai
 usc_title: 40
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "40 U.S.C. § 3703"
-generated_at: "2026-03-30T02:32:42.683Z"
+generated_at: "2026-03-30T02:36:06.811Z"
 ---
 
 # § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages

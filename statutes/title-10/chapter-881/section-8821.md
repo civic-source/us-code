@@ -3,9 +3,9 @@ title: "Section 8821 - Definitions"
 usc_title: 10
 usc_section: "8821"
 chapter: 881
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8821"
-generated_at: "2026-03-30T02:30:23.373Z"
+generated_at: "2026-03-30T02:34:13.827Z"
 ---
 
 # § 8821. Definitions

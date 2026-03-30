@@ -3,9 +3,9 @@ title: "Section 104 - Commercially available off-the-shelf item"
 usc_title: 41
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "41 U.S.C. § 104"
-generated_at: "2026-03-30T02:32:48.755Z"
+generated_at: "2026-03-30T02:36:15.541Z"
 ---
 
 # § 104. Commercially available off-the-shelf item

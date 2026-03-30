@@ -3,9 +3,9 @@ title: "Section 3981 - Authority of Secretary"
 usc_title: 22
 usc_section: "3981"
 chapter: 52
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 3981"
-generated_at: "2026-03-30T02:31:58.234Z"
+generated_at: "2026-03-30T02:35:21.480Z"
 ---
 
 # § 3981. Authority of Secretary

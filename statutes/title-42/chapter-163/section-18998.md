@@ -3,9 +3,9 @@ title: "Section 18998 - Mandatory cost-sharing"
 usc_title: 42
 usc_section: "18998"
 chapter: 163
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 18998"
-generated_at: "2026-03-30T02:33:08.452Z"
+generated_at: "2026-03-30T02:37:28.280Z"
 ---
 
 # § 18998. Mandatory cost-sharing

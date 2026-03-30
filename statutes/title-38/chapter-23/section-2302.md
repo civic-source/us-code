@@ -3,9 +3,9 @@ title: "Section 2302 - Repealed. Pub. L. 116–315, title II, § 2202(a)(2) , Ja
 usc_title: 38
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 2302"
-generated_at: "2026-03-30T02:32:46.031Z"
+generated_at: "2026-03-30T02:36:12.617Z"
 ---
 
 # [§ 2302. Repealed. Pub. L. 116–315, title II, § 2202(a)(2) , Jan. 5, 2021 , 134 Stat. 4984 ]

@@ -3,9 +3,9 @@ title: "Section 413 - Distinctive letter and serial number of notes; cancellatio
 usc_title: 12
 usc_section: "413"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 413"
-generated_at: "2026-03-30T02:31:09.737Z"
+generated_at: "2026-03-30T02:34:45.311Z"
 ---
 
 # § 413. Distinctive letter and serial number of notes; cancellation of notes unfit for circulation; accounting; apportionment of credit among Federal Reserve banks

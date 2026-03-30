@@ -3,9 +3,9 @@ title: "Section 2103 - Number and distribution of commissioned officers on activ
 usc_title: 14
 usc_section: "2103"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 2103"
-generated_at: "2026-03-30T02:30:32.655Z"
+generated_at: "2026-03-30T02:34:26.217Z"
 ---
 
 # § 2103. Number and distribution of commissioned officers on active duty promotion list

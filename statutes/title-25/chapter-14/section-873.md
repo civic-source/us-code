@@ -3,9 +3,9 @@ title: "Section 873 - Omitted"
 usc_title: 25
 usc_section: "873"
 chapter: 14
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 873"
-generated_at: "2026-03-30T02:32:14.019Z"
+generated_at: "2026-03-30T02:35:15.164Z"
 ---
 
 # § 873. Omitted

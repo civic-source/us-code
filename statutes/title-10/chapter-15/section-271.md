@@ -3,9 +3,9 @@ title: "Section 271 - Use of information collected during military operations"
 usc_title: 10
 usc_section: "271"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 271"
-generated_at: "2026-03-30T02:30:23.058Z"
+generated_at: "2026-03-30T02:34:13.618Z"
 ---
 
 # § 271. Use of information collected during military operations

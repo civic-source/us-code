@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T02:32:32.561Z"
+generated_at: "2026-03-30T02:35:50.911Z"
 ---
 
 # § 108. Income from discharge of indebtedness
@@ -137,7 +137,7 @@ generated_at: "2026-03-30T02:32:32.561Z"
       - **(iii)** otherwise discharged on account of death or total and permanent disability of the student.
     - **(B)** A loan is described in this subparagraph if such loan is—
       - **(i)** a student loan (as defined in paragraph (2)), or
-      - **(ii)** a private education loan (as defined in section 140(a) of the Consumer Credit Protection Act ( 15 U.S.C. 1650(a) ).
+      - **(ii)** a private education loan (as defined in section 140(a) of the Consumer Credit Protection Act ( 15 U.S.C. 1650(a) ). 1 1 So in original. A third closing parenthesis probably should appear.
     - **(C)**
       - **(i)** Subparagraph (A) shall not apply with respect to any discharge during any taxable year unless the taxpayer includes the taxpayer’s social security number on the return of tax for such taxable year.
       - **(ii)** For purposes of this subparagraph, the term “social security number” has the meaning given such term in section 24(h)(7).

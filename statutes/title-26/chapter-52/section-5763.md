@@ -3,9 +3,9 @@ title: "Section 5763 - Forfeitures"
 usc_title: 26
 usc_section: "5763"
 chapter: 52
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 5763"
-generated_at: "2026-03-30T02:32:32.989Z"
+generated_at: "2026-03-30T02:35:51.165Z"
 ---
 
 # § 5763. Forfeitures

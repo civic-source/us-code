@@ -3,9 +3,9 @@ title: "Section 6915 - Expenditure of appropriations"
 usc_title: 22
 usc_section: "6915"
 chapter: 77
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 6915"
-generated_at: "2026-03-30T02:31:58.278Z"
+generated_at: "2026-03-30T02:35:21.530Z"
 ---
 
 # § 6915. Expenditure of appropriations

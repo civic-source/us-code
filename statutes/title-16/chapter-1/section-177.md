@@ -3,9 +3,9 @@ title: "Section 177 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 16
 usc_section: "177"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 177"
-generated_at: "2026-03-30T02:31:30.008Z"
+generated_at: "2026-03-30T02:35:00.721Z"
 ---
 
 # §§ 172 to 177. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

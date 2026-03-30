@@ -3,9 +3,9 @@ title: "Section 3762A - Native community development financial institution relen
 usc_title: 38
 usc_section: "3762A"
 chapter: 37
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 3762A"
-generated_at: "2026-03-30T02:32:46.065Z"
+generated_at: "2026-03-30T02:36:12.649Z"
 ---
 
 # § 3762A. Native community development financial institution relending program

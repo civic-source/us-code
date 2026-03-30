@@ -3,9 +3,9 @@ title: "Section 23 - Closed-end companies"
 usc_title: 15
 usc_section: "23"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 23"
-generated_at: "2026-03-30T02:30:38.084Z"
+generated_at: "2026-03-30T02:34:48.959Z"
 ---
 
 # § 80a–23. Closed-end companies

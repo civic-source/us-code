@@ -3,9 +3,9 @@ title: "Section 577 - Promotions: effect of failure of selection for"
 usc_title: 10
 usc_section: "577"
 chapter: 33
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 577"
-generated_at: "2026-03-30T02:30:23.085Z"
+generated_at: "2026-03-30T02:34:13.634Z"
 ---
 
 # § 577. Promotions: effect of failure of selection for

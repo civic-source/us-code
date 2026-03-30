@@ -3,9 +3,9 @@ title: "Section 715e - Examination of title; easements and reservations"
 usc_title: 16
 usc_section: "715e"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 715e"
-generated_at: "2026-03-30T02:31:30.134Z"
+generated_at: "2026-03-30T02:35:00.893Z"
 ---
 
 # § 715e. Examination of title; easements and reservations

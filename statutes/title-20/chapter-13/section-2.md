@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 197
 usc_title: 20
 usc_section: "2"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T02:31:22.588Z"
+generated_at: "2026-03-30T02:35:09.444Z"
 ---
 
 # §§ 241d to 241d–2. Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 1978 , 92 Stat. 2200

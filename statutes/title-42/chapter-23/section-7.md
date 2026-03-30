@@ -3,9 +3,9 @@ title: "Section 7 - Liabilities"
 usc_title: 42
 usc_section: "7"
 chapter: 23
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:33:07.887Z"
+generated_at: "2026-03-30T02:37:27.790Z"
 ---
 
 # § 2297h–7. Liabilities

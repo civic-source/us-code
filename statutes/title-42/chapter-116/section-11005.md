@@ -3,9 +3,9 @@ title: "Section 11005 - Emergency training and review of emergency systems"
 usc_title: 42
 usc_section: "11005"
 chapter: 116
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 11005"
-generated_at: "2026-03-30T02:33:08.246Z"
+generated_at: "2026-03-30T02:37:28.092Z"
 ---
 
 # § 11005. Emergency training and review of emergency systems

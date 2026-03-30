@@ -3,9 +3,9 @@ title: "Section 6854 - Data consolidation and publication of route and area data
 usc_title: 16
 usc_section: "6854"
 chapter: 87
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 6854"
-generated_at: "2026-03-30T02:31:30.258Z"
+generated_at: "2026-03-30T02:35:01.063Z"
 ---
 
 # § 6854. Data consolidation and publication of route and area data for public recreational use

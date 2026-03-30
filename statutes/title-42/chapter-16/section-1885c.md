@@ -3,9 +3,9 @@ title: "Section 1885c - Committee on Equal Opportunities in Science and Engineer
 usc_title: 42
 usc_section: "1885c"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1885c"
-generated_at: "2026-03-30T02:33:07.842Z"
+generated_at: "2026-03-30T02:37:27.749Z"
 ---
 
 # § 1885c. Committee on Equal Opportunities in Science and Engineering

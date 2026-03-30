@@ -3,9 +3,9 @@ title: "Section 9002 - Entrepreneurial development"
 usc_title: 15
 usc_section: "9002"
 chapter: 116
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 9002"
-generated_at: "2026-03-30T02:30:38.358Z"
+generated_at: "2026-03-30T02:34:49.204Z"
 ---
 
 # § 9002. Entrepreneurial development

@@ -3,9 +3,9 @@ title: "Section 3711 - Appointment or wartime promotion; retention of grade upon
 usc_title: 14
 usc_section: "3711"
 chapter: 37
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 3711"
-generated_at: "2026-03-30T02:30:32.663Z"
+generated_at: "2026-03-30T02:34:26.226Z"
 ---
 
 # § 3711. Appointment or wartime promotion; retention of grade upon release from active duty

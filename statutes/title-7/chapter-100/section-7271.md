@@ -3,9 +3,9 @@ title: "Section 7271 - Repealed. Pub. L. 107–171, title I, § 1310(a)(1) , May
 usc_title: 7
 usc_section: "7271"
 chapter: 100
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 7271"
-generated_at: "2026-03-30T02:29:33.384Z"
+generated_at: "2026-03-30T02:34:02.526Z"
 ---
 
 # § 7271. Repealed. Pub. L. 107–171, title I, § 1310(a)(1) , May 13, 2002 , 116 Stat. 182

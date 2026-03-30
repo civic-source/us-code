@@ -3,9 +3,9 @@ title: "Section 72 - Promoting poison control center utilization"
 usc_title: 42
 usc_section: "72"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 72"
-generated_at: "2026-03-30T02:33:07.348Z"
+generated_at: "2026-03-30T02:37:27.304Z"
 ---
 
 # § 300d–72. Promoting poison control center utilization

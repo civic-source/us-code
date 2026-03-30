@@ -3,9 +3,9 @@ title: "Section 2902 - Trade agreement negotiating authority"
 usc_title: 19
 usc_section: "2902"
 chapter: 17
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 2902"
-generated_at: "2026-03-30T02:31:48.805Z"
+generated_at: "2026-03-30T02:34:56.473Z"
 ---
 
 # § 2902. Trade agreement negotiating authority

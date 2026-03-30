@@ -3,9 +3,9 @@ title: "Section 9039 - Chief of Chaplains: appointment; duties"
 usc_title: 10
 usc_section: "9039"
 chapter: 905
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 9039"
-generated_at: "2026-03-30T02:30:23.380Z"
+generated_at: "2026-03-30T02:34:13.830Z"
 ---
 
 # § 9039. Chief of Chaplains: appointment; duties

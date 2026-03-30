@@ -3,9 +3,9 @@ title: "Section 951A - Net CFC tested income included in gross income of United 
 usc_title: 26
 usc_section: "951A"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 951A"
-generated_at: "2026-03-30T02:32:32.720Z"
+generated_at: "2026-03-30T02:35:51.065Z"
 ---
 
 # § 951A. Net CFC tested income included in gross income of United States shareholders
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T02:32:32.720Z"
 - **(b)** For purposes of this section—
   - **(1)** The term “net CFC tested income” means, with respect to any United States shareholder for any taxable year of such United States shareholder, the excess (if any) of—
     - **(A)** the aggregate of such shareholder’s pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder, over
-    - **(B)** the aggregate of such shareholder’s pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder .
+    - **(B)** the aggregate of such shareholder’s pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder.
   - **(2)** For purposes of this section—
     - **(A)** The term “tested income” means, with respect to any controlled foreign corporation for any taxable year of such controlled foreign corporation, the excess (if any) of—
       - **(i)** the gross income of such corporation determined without regard to—

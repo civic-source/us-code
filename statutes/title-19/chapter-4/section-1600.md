@@ -3,9 +3,9 @@ title: "Section 1600 - Application of the customs laws to other seizures by cust
 usc_title: 19
 usc_section: "1600"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1600"
-generated_at: "2026-03-30T02:31:48.755Z"
+generated_at: "2026-03-30T02:34:56.423Z"
 ---
 
 # § 1600. Application of the customs laws to other seizures by customs officers

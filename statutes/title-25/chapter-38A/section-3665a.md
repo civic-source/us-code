@@ -3,9 +3,9 @@ title: "Section 3665a - Office of Tribal Justice"
 usc_title: 25
 usc_section: "3665a"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 3665a"
-generated_at: "2026-03-30T02:32:14.071Z"
+generated_at: "2026-03-30T02:35:15.223Z"
 ---
 
 # § 3665a. Office of Tribal Justice

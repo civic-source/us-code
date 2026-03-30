@@ -3,9 +3,9 @@ title: "Section 155 - Withdrawal, reservation, or restriction of public lands fo
 usc_title: 43
 usc_section: "155"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 155"
-generated_at: "2026-03-30T02:32:50.081Z"
+generated_at: "2026-03-30T02:36:16.830Z"
 ---
 
 # § 155. Withdrawal, reservation, or restriction of public lands for defense purposes; “public lands” defined; exception

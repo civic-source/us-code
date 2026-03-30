@@ -3,9 +3,9 @@ title: "Section 302 - Repealed. Pub. L. 117–317, § 2(11) , Dec. 27, 2022 , 13
 usc_title: 25
 usc_section: "302"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 302"
-generated_at: "2026-03-30T02:32:14.007Z"
+generated_at: "2026-03-30T02:35:15.150Z"
 ---
 
 # § 302. Repealed. Pub. L. 117–317, § 2(11) , Dec. 27, 2022 , 136 Stat. 4420

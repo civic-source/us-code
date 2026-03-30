@@ -3,9 +3,9 @@ title: "Section 2734h - Increased accountability in assignment restrictions and 
 usc_title: 22
 usc_section: "2734h"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2734h"
-generated_at: "2026-03-30T02:31:58.208Z"
+generated_at: "2026-03-30T02:35:21.451Z"
 ---
 
 # § 2734h. Increased accountability in assignment restrictions and reviews

@@ -3,9 +3,9 @@ title: "Section 218 - National Advisory Councils on Migrant Health"
 usc_title: 42
 usc_section: "218"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 218"
-generated_at: "2026-03-30T02:33:07.194Z"
+generated_at: "2026-03-30T02:37:27.148Z"
 ---
 
 # § 218. National Advisory Councils on Migrant Health

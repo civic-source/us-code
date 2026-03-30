@@ -3,9 +3,9 @@ title: "Section 8219 - Medical Department: composition"
 usc_title: 10
 usc_section: "8219"
 chapter: 825
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8219"
-generated_at: "2026-03-30T02:30:23.352Z"
+generated_at: "2026-03-30T02:34:13.814Z"
 ---
 
 # § 8219. Medical Department: composition

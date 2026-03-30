@@ -3,9 +3,9 @@ title: "Section 2031 - General treatment"
 usc_title: 38
 usc_section: "2031"
 chapter: 20
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 2031"
-generated_at: "2026-03-30T02:32:46.028Z"
+generated_at: "2026-03-30T02:36:12.614Z"
 ---
 
 # § 2031. General treatment

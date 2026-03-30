@@ -3,9 +3,9 @@ title: "Section 402 - Exchange of information between Secretary of Labor and Rai
 usc_title: 45
 usc_section: "402"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "45 U.S.C. § 402"
-generated_at: "2026-03-30T02:32:49.108Z"
+generated_at: "2026-03-30T02:36:15.946Z"
 ---
 
 # § 402. Exchange of information between Secretary of Labor and Railroad Retirement Board

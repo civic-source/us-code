@@ -3,9 +3,9 @@ title: "Section 5910 - Treatment of payment stablecoin issuers in insolvency pro
 usc_title: 12
 usc_section: "5910"
 chapter: 56
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 5910"
-generated_at: "2026-03-30T02:31:09.925Z"
+generated_at: "2026-03-30T02:34:45.578Z"
 ---
 
 # § 5910. Treatment of payment stablecoin issuers in insolvency proceedings

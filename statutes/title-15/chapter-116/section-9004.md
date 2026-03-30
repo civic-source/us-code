@@ -3,9 +3,9 @@ title: "Section 9004 - Waiver of matching funds requirement under the Women’s 
 usc_title: 15
 usc_section: "9004"
 chapter: 116
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 9004"
-generated_at: "2026-03-30T02:30:38.359Z"
+generated_at: "2026-03-30T02:34:49.204Z"
 ---
 
 # § 9004. Waiver of matching funds requirement under the Women’s Business Center program

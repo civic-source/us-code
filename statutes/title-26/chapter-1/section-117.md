@@ -3,9 +3,9 @@ title: "Section 117 - Qualified scholarships"
 usc_title: 26
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 117"
-generated_at: "2026-03-30T02:32:32.563Z"
+generated_at: "2026-03-30T02:35:50.913Z"
 ---
 
 # § 117. Qualified scholarships

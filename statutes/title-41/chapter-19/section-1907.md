@@ -3,9 +3,9 @@ title: "Section 1907 - List of laws inapplicable to procurements of commercially
 usc_title: 41
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "41 U.S.C. § 1907"
-generated_at: "2026-03-30T02:32:48.761Z"
+generated_at: "2026-03-30T02:36:15.547Z"
 ---
 
 # § 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items

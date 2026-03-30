@@ -3,9 +3,9 @@ title: "Section 151 - Allowance of deductions for personal exemptions"
 usc_title: 26
 usc_section: "151"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 151"
-generated_at: "2026-03-30T02:32:32.577Z"
+generated_at: "2026-03-30T02:35:50.928Z"
 ---
 
 # § 151. Allowance of deductions for personal exemptions

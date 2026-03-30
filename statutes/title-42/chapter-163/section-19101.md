@@ -3,9 +3,9 @@ title: "Section 19101 - Establishment"
 usc_title: 42
 usc_section: "19101"
 chapter: 163
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 19101"
-generated_at: "2026-03-30T02:33:08.456Z"
+generated_at: "2026-03-30T02:37:28.282Z"
 ---
 
 # § 19101. Establishment

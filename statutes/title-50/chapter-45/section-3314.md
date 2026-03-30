@@ -3,9 +3,9 @@ title: "Section 3314 - Report on national security systems"
 usc_title: 50
 usc_section: "3314"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 3314"
-generated_at: "2026-03-30T02:33:16.520Z"
+generated_at: "2026-03-30T02:37:43.854Z"
 ---
 
 # § 3314. Report on national security systems

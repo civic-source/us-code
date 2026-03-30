@@ -3,9 +3,9 @@ title: "Section 3206 - Planning and solicitation requirements"
 usc_title: 10
 usc_section: "3206"
 chapter: 221
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 3206"
-generated_at: "2026-03-30T02:30:23.283Z"
+generated_at: "2026-03-30T02:34:13.767Z"
 ---
 
 # § 3206. Planning and solicitation requirements

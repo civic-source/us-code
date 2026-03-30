@@ -3,9 +3,9 @@ title: "Section 188 - Publication of commercial information"
 usc_title: 15
 usc_section: "188"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 188"
-generated_at: "2026-03-30T02:30:38.096Z"
+generated_at: "2026-03-30T02:34:48.969Z"
 ---
 
 # § 188. Publication of commercial information

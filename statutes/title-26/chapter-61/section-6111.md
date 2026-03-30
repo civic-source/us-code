@@ -3,9 +3,9 @@ title: "Section 6111 - Disclosure of reportable transactions"
 usc_title: 26
 usc_section: "6111"
 chapter: 61
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 6111"
-generated_at: "2026-03-30T02:32:33.009Z"
+generated_at: "2026-03-30T02:35:51.186Z"
 ---
 
 # § 6111. Disclosure of reportable transactions

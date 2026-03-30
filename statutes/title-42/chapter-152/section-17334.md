@@ -3,9 +3,9 @@ title: "Section 17334 - Actions by United States International Development Finan
 usc_title: 42
 usc_section: "17334"
 chapter: 152
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 17334"
-generated_at: "2026-03-30T02:33:08.405Z"
+generated_at: "2026-03-30T02:37:28.235Z"
 ---
 
 # § 17334. Actions by United States International Development Finance Corporation

@@ -3,9 +3,9 @@ title: "Section 7561 - Rations"
 usc_title: 10
 usc_section: "7561"
 chapter: 765
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 7561"
-generated_at: "2026-03-30T02:30:23.343Z"
+generated_at: "2026-03-30T02:34:13.805Z"
 ---
 
 # § 7561. Rations

@@ -3,9 +3,9 @@ title: "Section 171 - Congressional declaration of findings and purpose as to Ce
 usc_title: 2
 usc_section: "171"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 171"
-generated_at: "2026-03-30T02:29:19.541Z"
+generated_at: "2026-03-30T02:33:44.273Z"
 ---
 
 # § 171. Congressional declaration of findings and purpose as to Center for the Book

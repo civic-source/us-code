@@ -3,9 +3,9 @@ title: "Section 3772 - Definitions"
 usc_title: 16
 usc_section: "3772"
 chapter: 57
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 3772"
-generated_at: "2026-03-30T02:31:30.224Z"
+generated_at: "2026-03-30T02:35:01.018Z"
 ---
 
 # § 3772. Definitions

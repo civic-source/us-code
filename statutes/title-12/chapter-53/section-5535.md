@@ -3,9 +3,9 @@ title: "Section 5535 - Private Education Loan Ombudsman"
 usc_title: 12
 usc_section: "5535"
 chapter: 53
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 5535"
-generated_at: "2026-03-30T02:31:09.916Z"
+generated_at: "2026-03-30T02:34:45.565Z"
 ---
 
 # § 5535. Private Education Loan Ombudsman

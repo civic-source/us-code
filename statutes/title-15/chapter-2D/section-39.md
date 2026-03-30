@@ -3,9 +3,9 @@ title: "Section 39 - Procedure for issuance of orders"
 usc_title: 15
 usc_section: "39"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 39"
-generated_at: "2026-03-30T02:30:38.089Z"
+generated_at: "2026-03-30T02:34:48.963Z"
 ---
 
 # § 80a–39. Procedure for issuance of orders

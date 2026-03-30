@@ -3,9 +3,9 @@ title: "Section 1932 - Repealed. Pub. L. 86–472 , ch. II, § 204(k), May 14, 1
 usc_title: 22
 usc_section: "1932"
 chapter: 24
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 1932"
-generated_at: "2026-03-30T02:31:58.154Z"
+generated_at: "2026-03-30T02:35:21.394Z"
 ---
 
 # § 1932. Repealed. Pub. L. 86–472 , ch. II, § 204(k), May 14, 1960 , 74 Stat. 138

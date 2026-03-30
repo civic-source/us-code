@@ -3,9 +3,9 @@ title: "Section 390ll - Corps of Engineers projects"
 usc_title: 43
 usc_section: "390ll"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 390ll"
-generated_at: "2026-03-30T02:32:50.097Z"
+generated_at: "2026-03-30T02:36:16.842Z"
 ---
 
 # § 390ll. Corps of Engineers projects

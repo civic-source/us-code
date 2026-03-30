@@ -3,9 +3,9 @@ title: "Section 8483 - Submission of reports"
 usc_title: 42
 usc_section: "8483"
 chapter: 92
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 8483"
-generated_at: "2026-03-30T02:33:08.173Z"
+generated_at: "2026-03-30T02:37:28.027Z"
 ---
 
 # § 8483. Submission of reports

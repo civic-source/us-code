@@ -3,9 +3,9 @@ title: "Section 55116 - Canadian rail lines"
 usc_title: 46
 usc_section: "55116"
 chapter: 551
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "46 U.S.C. § 55116"
-generated_at: "2026-03-30T02:33:14.636Z"
+generated_at: "2026-03-30T02:37:37.589Z"
 ---
 
 # § 55116. Canadian rail lines

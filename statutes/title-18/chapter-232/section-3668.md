@@ -3,9 +3,9 @@ title: "Section 3668 - Remission or mitigation of forfeitures under liquor laws;
 usc_title: 18
 usc_section: "3668"
 chapter: 232
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 3668"
-generated_at: "2026-03-30T02:31:31.365Z"
+generated_at: "2026-03-30T02:34:54.339Z"
 ---
 
 # § 3668. Remission or mitigation of forfeitures under liquor laws; possession pending trial

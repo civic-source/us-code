@@ -3,9 +3,9 @@ title: "Section 77hhh - Integration of procedure with Securities Act and other A
 usc_title: 15
 usc_section: "77hhh"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 77hhh"
-generated_at: "2026-03-30T02:30:38.036Z"
+generated_at: "2026-03-30T02:34:48.914Z"
 ---
 
 # § 77hhh. Integration of procedure with Securities Act and other Acts

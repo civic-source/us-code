@@ -3,9 +3,9 @@ title: "Section 1788 - Team nutrition network"
 usc_title: 42
 usc_section: "1788"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1788"
-generated_at: "2026-03-30T02:33:07.828Z"
+generated_at: "2026-03-30T02:37:27.736Z"
 ---
 
 # § 1788. Team nutrition network

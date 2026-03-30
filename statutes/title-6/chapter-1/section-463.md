@@ -3,9 +3,9 @@ title: "Section 463 - Requirement to comply with laws protecting equal employmen
 usc_title: 6
 usc_section: "463"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "6 U.S.C. § 463"
-generated_at: "2026-03-30T02:29:36.790Z"
+generated_at: "2026-03-30T02:33:52.935Z"
 ---
 
 # § 463. Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections

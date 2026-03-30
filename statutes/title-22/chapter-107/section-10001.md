@@ -3,9 +3,9 @@ title: "Section 10001 - Definitions"
 usc_title: 22
 usc_section: "10001"
 chapter: 107
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 10001"
-generated_at: "2026-03-30T02:31:58.331Z"
+generated_at: "2026-03-30T02:35:21.587Z"
 ---
 
 # § 10001. Definitions

@@ -3,9 +3,9 @@ title: "Section 1904 - Classified list of Government publications for selection 
 usc_title: 44
 usc_section: "1904"
 chapter: 19
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "44 U.S.C. § 1904"
-generated_at: "2026-03-30T02:32:48.238Z"
+generated_at: "2026-03-30T02:36:14.776Z"
 ---
 
 # § 1904. Classified list of Government publications for selection by depositories

@@ -3,9 +3,9 @@ title: "Section 1973i - Transferred"
 usc_title: 42
 usc_section: "1973i"
 chapter: 20
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1973i"
-generated_at: "2026-03-30T02:33:07.848Z"
+generated_at: "2026-03-30T02:37:27.753Z"
 ---
 
 # § 1973i. Transferred

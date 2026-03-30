@@ -3,9 +3,9 @@ title: "Section 649 - Office of International Trade"
 usc_title: 15
 usc_section: "649"
 chapter: 14
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 649"
-generated_at: "2026-03-30T02:30:38.139Z"
+generated_at: "2026-03-30T02:34:49.009Z"
 ---
 
 # § 649. Office of International Trade

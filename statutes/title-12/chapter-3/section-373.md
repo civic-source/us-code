@@ -3,9 +3,9 @@ title: "Section 373 - Acceptance of drafts or bills drawn by banks in foreign co
 usc_title: 12
 usc_section: "373"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 373"
-generated_at: "2026-03-30T02:31:09.736Z"
+generated_at: "2026-03-30T02:34:45.310Z"
 ---
 
 # § 373. Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange

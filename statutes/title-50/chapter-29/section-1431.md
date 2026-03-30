@@ -3,9 +3,9 @@ title: "Section 1431 - Authorization; official approval; Congressional action: n
 usc_title: 50
 usc_section: "1431"
 chapter: 29
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 1431"
-generated_at: "2026-03-30T02:33:16.453Z"
+generated_at: "2026-03-30T02:37:43.785Z"
 ---
 
 # § 1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period

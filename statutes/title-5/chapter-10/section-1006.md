@@ -3,9 +3,9 @@ title: "Section 1006 - Responsibilities of the Administrator"
 usc_title: 5
 usc_section: "1006"
 chapter: 10
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 1006"
-generated_at: "2026-03-30T02:29:23.241Z"
+generated_at: "2026-03-30T02:33:47.744Z"
 ---
 
 # § 1006. Responsibilities of the Administrator

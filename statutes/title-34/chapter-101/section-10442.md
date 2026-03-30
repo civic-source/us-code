@@ -3,9 +3,9 @@ title: "Section 10442 - Establishment of Office on Violence Against Women"
 usc_title: 34
 usc_section: "10442"
 chapter: 101
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 10442"
-generated_at: "2026-03-30T02:32:37.514Z"
+generated_at: "2026-03-30T02:35:57.223Z"
 ---
 
 # § 10442. Establishment of Office on Violence Against Women

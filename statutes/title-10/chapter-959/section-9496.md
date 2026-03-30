@@ -3,9 +3,9 @@ title: "Section 9496 - Miscellaneous personnel authorities"
 usc_title: 10
 usc_section: "9496"
 chapter: 959
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 9496"
-generated_at: "2026-03-30T02:30:23.389Z"
+generated_at: "2026-03-30T02:34:13.836Z"
 ---
 
 # § 9496. Miscellaneous personnel authorities

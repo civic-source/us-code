@@ -3,9 +3,9 @@ title: "Section 1594a - Acquisition of military housing financed under Armed Ser
 usc_title: 42
 usc_section: "1594a"
 chapter: 9
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1594a"
-generated_at: "2026-03-30T02:33:07.807Z"
+generated_at: "2026-03-30T02:37:27.715Z"
 ---
 
 # § 1594a. Acquisition of military housing financed under Armed Services Housing Mortgage Insurance Fund and rental housing at military bases

@@ -3,9 +3,9 @@ title: "Section 90 - Omitted"
 usc_title: 43
 usc_section: "90"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 90"
-generated_at: "2026-03-30T02:32:50.077Z"
+generated_at: "2026-03-30T02:36:16.829Z"
 ---
 
 # § 90. Omitted

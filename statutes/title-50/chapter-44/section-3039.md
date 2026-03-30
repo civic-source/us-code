@@ -3,9 +3,9 @@ title: "Section 3039 - Assistance to United States law enforcement agencies"
 usc_title: 50
 usc_section: "3039"
 chapter: 44
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 3039"
-generated_at: "2026-03-30T02:33:16.505Z"
+generated_at: "2026-03-30T02:37:43.839Z"
 ---
 
 # § 3039. Assistance to United States law enforcement agencies

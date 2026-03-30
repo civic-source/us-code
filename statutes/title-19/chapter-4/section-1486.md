@@ -3,9 +3,9 @@ title: "Section 1486 - Administration of oaths; verification of documents"
 usc_title: 19
 usc_section: "1486"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1486"
-generated_at: "2026-03-30T02:31:48.742Z"
+generated_at: "2026-03-30T02:34:56.412Z"
 ---
 
 # § 1486. Administration of oaths; verification of documents

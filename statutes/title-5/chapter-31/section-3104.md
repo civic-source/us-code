@@ -3,9 +3,9 @@ title: "Section 3104 - Employment of specially qualified scientific and professi
 usc_title: 5
 usc_section: "3104"
 chapter: 31
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 3104"
-generated_at: "2026-03-30T02:29:23.246Z"
+generated_at: "2026-03-30T02:33:47.750Z"
 ---
 
 # § 3104. Employment of specially qualified scientific and professional personnel

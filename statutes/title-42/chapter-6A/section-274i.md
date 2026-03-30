@@ -3,9 +3,9 @@ title: "Section 274i - Eligibility requirements for Stephanie Tubbs Jones Gift o
 usc_title: 42
 usc_section: "274i"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 274i"
-generated_at: "2026-03-30T02:33:07.254Z"
+generated_at: "2026-03-30T02:37:27.207Z"
 ---
 
 # § 274i. Eligibility requirements for Stephanie Tubbs Jones Gift of Life Medal

@@ -3,9 +3,9 @@ title: "Section 1324 - Amendment of State constitutions or statutes to remove le
 usc_title: 25
 usc_section: "1324"
 chapter: 15
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "25 U.S.C. § 1324"
-generated_at: "2026-03-30T02:32:14.023Z"
+generated_at: "2026-03-30T02:35:15.169Z"
 ---
 
 # § 1324. Amendment of State constitutions or statutes to remove legal impediment; effective date

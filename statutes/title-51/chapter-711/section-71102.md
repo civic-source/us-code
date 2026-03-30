@@ -3,9 +3,9 @@ title: "Section 71102 - Requests for information"
 usc_title: 51
 usc_section: "71102"
 chapter: 711
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "51 U.S.C. § 71102"
-generated_at: "2026-03-30T02:33:23.419Z"
+generated_at: "2026-03-30T02:37:46.572Z"
 ---
 
 # § 71102. Requests for information

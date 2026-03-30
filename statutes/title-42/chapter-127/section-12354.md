@@ -3,9 +3,9 @@ title: "Section 12354 - Evaluation"
 usc_title: 42
 usc_section: "12354"
 chapter: 127
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 12354"
-generated_at: "2026-03-30T02:33:08.274Z"
+generated_at: "2026-03-30T02:37:28.117Z"
 ---
 
 # § 12354. Evaluation

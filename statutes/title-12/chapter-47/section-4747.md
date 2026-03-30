@@ -3,9 +3,9 @@ title: "Section 4747 - Reimbursement by Fund"
 usc_title: 12
 usc_section: "4747"
 chapter: 47
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 4747"
-generated_at: "2026-03-30T02:31:09.888Z"
+generated_at: "2026-03-30T02:34:45.528Z"
 ---
 
 # § 4747. Reimbursement by Fund

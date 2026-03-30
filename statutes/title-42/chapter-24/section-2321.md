@@ -3,9 +3,9 @@ title: "Section 2321 - Lots; establishment of boundaries"
 usc_title: 42
 usc_section: "2321"
 chapter: 24
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 2321"
-generated_at: "2026-03-30T02:33:07.889Z"
+generated_at: "2026-03-30T02:37:27.793Z"
 ---
 
 # § 2321. Lots; establishment of boundaries

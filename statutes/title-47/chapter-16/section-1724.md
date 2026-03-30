@@ -3,9 +3,9 @@ title: "Section 1724 - Digital Equity Competitive Grant Program"
 usc_title: 47
 usc_section: "1724"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "47 U.S.C. § 1724"
-generated_at: "2026-03-30T02:33:12.925Z"
+generated_at: "2026-03-30T02:37:32.387Z"
 ---
 
 # § 1724. Digital Equity Competitive Grant Program

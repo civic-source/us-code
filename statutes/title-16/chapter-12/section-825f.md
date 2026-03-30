@@ -3,9 +3,9 @@ title: "Section 825f - Investigations by Commission"
 usc_title: 16
 usc_section: "825f"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 825f"
-generated_at: "2026-03-30T02:31:30.149Z"
+generated_at: "2026-03-30T02:35:00.913Z"
 ---
 
 # § 825f. Investigations by Commission

@@ -3,9 +3,9 @@ title: "Section 301 - Land grant aid of colleges"
 usc_title: 7
 usc_section: "301"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 301"
-generated_at: "2026-03-30T02:29:33.172Z"
+generated_at: "2026-03-30T02:34:02.246Z"
 ---
 
 # § 301. Land grant aid of colleges

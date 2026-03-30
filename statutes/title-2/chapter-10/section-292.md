@@ -3,9 +3,9 @@ title: "Section 292 - Positions affected"
 usc_title: 2
 usc_section: "292"
 chapter: 10
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 292"
-generated_at: "2026-03-30T02:29:19.544Z"
+generated_at: "2026-03-30T02:33:44.278Z"
 ---
 
 # § 292. Positions affected

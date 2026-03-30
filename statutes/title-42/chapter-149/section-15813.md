@@ -3,9 +3,9 @@ title: "Section 15813 - Enhancing energy efficiency in management of Federal lan
 usc_title: 42
 usc_section: "15813"
 chapter: 149
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 15813"
-generated_at: "2026-03-30T02:33:08.342Z"
+generated_at: "2026-03-30T02:37:28.180Z"
 ---
 
 # § 15813. Enhancing energy efficiency in management of Federal lands

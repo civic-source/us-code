@@ -3,9 +3,9 @@ title: "Section 1623 - Bonds and other security"
 usc_title: 19
 usc_section: "1623"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1623"
-generated_at: "2026-03-30T02:31:48.756Z"
+generated_at: "2026-03-30T02:34:56.425Z"
 ---
 
 # § 1623. Bonds and other security

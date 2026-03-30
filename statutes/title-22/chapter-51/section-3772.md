@@ -3,9 +3,9 @@ title: "Section 3772 - Injuries outside locks"
 usc_title: 22
 usc_section: "3772"
 chapter: 51
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 3772"
-generated_at: "2026-03-30T02:31:58.230Z"
+generated_at: "2026-03-30T02:35:21.475Z"
 ---
 
 # § 3772. Injuries outside locks

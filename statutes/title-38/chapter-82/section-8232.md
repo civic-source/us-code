@@ -3,9 +3,9 @@ title: "Section 8232 - Definition"
 usc_title: 38
 usc_section: "8232"
 chapter: 82
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 8232"
-generated_at: "2026-03-30T02:32:46.108Z"
+generated_at: "2026-03-30T02:36:12.689Z"
 ---
 
 # § 8232. Definition

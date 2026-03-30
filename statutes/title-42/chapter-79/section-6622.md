@@ -3,9 +3,9 @@ title: "Section 6622 - Coordination of advanced manufacturing research and devel
 usc_title: 42
 usc_section: "6622"
 chapter: 79
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 6622"
-generated_at: "2026-03-30T02:33:08.043Z"
+generated_at: "2026-03-30T02:37:27.923Z"
 ---
 
 # § 6622. Coordination of advanced manufacturing research and development

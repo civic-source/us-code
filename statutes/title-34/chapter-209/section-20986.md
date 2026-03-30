@@ -3,9 +3,9 @@ title: "Section 20986 - Children’s safety online awareness campaigns"
 usc_title: 34
 usc_section: "20986"
 chapter: 209
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 20986"
-generated_at: "2026-03-30T02:32:37.565Z"
+generated_at: "2026-03-30T02:35:57.277Z"
 ---
 
 # § 20986. Children’s safety online awareness campaigns

@@ -3,9 +3,9 @@ title: "Section 883j - Ocean satellite data"
 usc_title: 33
 usc_section: "883j"
 chapter: 17
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 883j"
-generated_at: "2026-03-30T02:32:39.281Z"
+generated_at: "2026-03-30T02:36:02.534Z"
 ---
 
 # § 883j. Ocean satellite data

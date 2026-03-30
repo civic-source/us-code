@@ -3,9 +3,9 @@ title: "Section 2853 - Authorized cost and scope of work variations"
 usc_title: 10
 usc_section: "2853"
 chapter: 169
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2853"
-generated_at: "2026-03-30T02:30:23.267Z"
+generated_at: "2026-03-30T02:34:13.756Z"
 ---
 
 # § 2853. Authorized cost and scope of work variations

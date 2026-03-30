@@ -3,9 +3,9 @@ title: "Section 3416 - Office of Career, Technical, and Adult Education"
 usc_title: 20
 usc_section: "3416"
 chapter: 48
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 3416"
-generated_at: "2026-03-30T02:31:22.678Z"
+generated_at: "2026-03-30T02:35:09.578Z"
 ---
 
 # § 3416. Office of Career, Technical, and Adult Education

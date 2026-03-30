@@ -3,9 +3,9 @@ title: "Section 1103 - Role of Vice Commandant in major acquisition programs"
 usc_title: 14
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 1103"
-generated_at: "2026-03-30T02:30:32.650Z"
+generated_at: "2026-03-30T02:34:26.215Z"
 ---
 
 # § 1103. Role of Vice Commandant in major acquisition programs

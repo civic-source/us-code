@@ -3,9 +3,9 @@ title: "Section 529 - Annual report of Attorney General"
 usc_title: 28
 usc_section: "529"
 chapter: 31
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "28 U.S.C. § 529"
-generated_at: "2026-03-30T02:32:19.010Z"
+generated_at: "2026-03-30T02:35:53.714Z"
 ---
 
 # § 529. Annual report of Attorney General

@@ -3,9 +3,9 @@ title: "Section 191 - Homeland Security Science and Technology Advisory Committe
 usc_title: 6
 usc_section: "191"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "6 U.S.C. § 191"
-generated_at: "2026-03-30T02:29:36.765Z"
+generated_at: "2026-03-30T02:33:52.906Z"
 ---
 
 # § 191. Homeland Security Science and Technology Advisory Committee

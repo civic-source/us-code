@@ -3,9 +3,9 @@ title: "Section 701 - Interim trustee"
 usc_title: 11
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "11 U.S.C. § 701"
-generated_at: "2026-03-30T02:30:29.621Z"
+generated_at: "2026-03-30T02:34:28.115Z"
 ---
 
 # § 701. Interim trustee

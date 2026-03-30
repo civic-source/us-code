@@ -3,9 +3,9 @@ title: "Section 5713 - Repealed. Pub. L. 113–188, title I, § 101(d) , Nov. 26
 usc_title: 7
 usc_section: "5713"
 chapter: 87
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "7 U.S.C. § 5713"
-generated_at: "2026-03-30T02:29:33.348Z"
+generated_at: "2026-03-30T02:34:02.477Z"
 ---
 
 # § 5713. Repealed. Pub. L. 113–188, title I, § 101(d) , Nov. 26, 2014 , 128 Stat. 2017

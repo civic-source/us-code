@@ -3,9 +3,9 @@ title: "Section 41732 - Basic essential air service"
 usc_title: 49
 usc_section: "41732"
 chapter: 417
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 41732"
-generated_at: "2026-03-30T02:33:20.316Z"
+generated_at: "2026-03-30T02:37:41.866Z"
 ---
 
 # § 41732. Basic essential air service

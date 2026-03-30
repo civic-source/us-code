@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-30T02:32:32.638Z"
+generated_at: "2026-03-30T02:35:50.987Z"
 ---
 
 # § 414. Definitions and special rules
@@ -366,7 +366,7 @@ generated_at: "2026-03-30T02:32:32.638Z"
         - **(II)** an amount equal to 150 percent of the dollar amount which would be in effect under such clause for 2024 for eligible participants not described in the parenthetical in such clause, or
       - **(ii)** in the case of clause (ii) of subparagraph (B), the greater of—
         - **(I)** $5,000, or
-        - **(II)** an amount equal to equal to 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.
+        - **(II)** an amount equal to equal to 3 3 So in original. 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.
   - **(3)** In the case of any contribution to a plan under paragraph (1)—
     - **(A)** such contribution shall not, with respect to the year in which the contribution is made—
       - **(i)** be subject to any otherwise applicable limitation contained in sections 401(a)(30), 402(h), 403(b), 408, 415(c), and 457(b)(2) (determined without regard to section 457(b)(3)), or
@@ -535,7 +535,7 @@ generated_at: "2026-03-30T02:32:32.638Z"
   - **(2)** For purposes of this subsection, the term “corrected error” means a reasonable administrative error—
     - **(A)**
       - **(i)** made in implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee covered by such feature), or
-      - **(ii)** made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], 3 3 So in original. and
+      - **(ii)** made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], 3 and
     - **(B)** that is corrected prospectively by implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee) determined in accordance with the terms of an eligible automatic contribution arrangement (as defined under subsection (w)(3)), provided that—
       - **(i)** such implementation error is corrected not later than—
         - **(I)** the date of the first payment of compensation made by the employer to the employee on or after the last day of the 9½ month-period after the end of the plan year during which such error with respect to the employee first occurred, or

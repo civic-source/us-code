@@ -3,9 +3,9 @@ title: "Section 1708 - Emerging Threats Committee, plan, and media campaign"
 usc_title: 21
 usc_section: "1708"
 chapter: 22
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "21 U.S.C. § 1708"
-generated_at: "2026-03-30T02:32:09.107Z"
+generated_at: "2026-03-30T02:35:31.788Z"
 ---
 
 # § 1708. Emerging Threats Committee, plan, and media campaign

@@ -3,9 +3,9 @@ title: "Section 1631d - Acquittance and discharge of obligation"
 usc_title: 22
 usc_section: "1631d"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 1631d"
-generated_at: "2026-03-30T02:31:58.147Z"
+generated_at: "2026-03-30T02:35:21.387Z"
 ---
 
 # § 1631d. Acquittance and discharge of obligation

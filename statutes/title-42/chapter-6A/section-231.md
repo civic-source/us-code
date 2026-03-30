@@ -3,9 +3,9 @@ title: "Section 231 - Service and supply fund; uses; reimbursement"
 usc_title: 42
 usc_section: "231"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 231"
-generated_at: "2026-03-30T02:33:07.194Z"
+generated_at: "2026-03-30T02:37:27.148Z"
 ---
 
 # § 231. Service and supply fund; uses; reimbursement

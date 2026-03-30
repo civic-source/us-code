@@ -3,9 +3,9 @@ title: "Section 6309 - Voyage data recorder access"
 usc_title: 46
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "46 U.S.C. § 6309"
-generated_at: "2026-03-30T02:33:14.597Z"
+generated_at: "2026-03-30T02:37:37.545Z"
 ---
 
 # § 6309. Voyage data recorder access

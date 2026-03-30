@@ -3,9 +3,9 @@ title: "Section 3796d - Transferred"
 usc_title: 42
 usc_section: "3796d"
 chapter: 46
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 3796d"
-generated_at: "2026-03-30T02:33:07.932Z"
+generated_at: "2026-03-30T02:37:27.833Z"
 ---
 
 # § 3796d. Transferred

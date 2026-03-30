@@ -3,9 +3,9 @@ title: "Section 1135a - Institutional eligibility"
 usc_title: 20
 usc_section: "1135a"
 chapter: 28
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 1135a"
-generated_at: "2026-03-30T02:31:22.645Z"
+generated_at: "2026-03-30T02:35:09.529Z"
 ---
 
 # § 1135a. Institutional eligibility

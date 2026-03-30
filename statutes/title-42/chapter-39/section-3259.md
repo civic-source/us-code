@@ -3,9 +3,9 @@ title: "Section 3259 - Omitted"
 usc_title: 42
 usc_section: "3259"
 chapter: 39
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 3259"
-generated_at: "2026-03-30T02:33:07.922Z"
+generated_at: "2026-03-30T02:37:27.823Z"
 ---
 
 # §§ 3256 to 3259. Omitted

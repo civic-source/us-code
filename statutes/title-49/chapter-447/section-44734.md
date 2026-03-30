@@ -3,9 +3,9 @@ title: "Section 44734 - Training of flight attendants"
 usc_title: 49
 usc_section: "44734"
 chapter: 447
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 44734"
-generated_at: "2026-03-30T02:33:20.330Z"
+generated_at: "2026-03-30T02:37:41.882Z"
 ---
 
 # § 44734. Training of flight attendants

@@ -3,9 +3,9 @@ title: "Section 3805 - Implementation of trade agreements"
 usc_title: 19
 usc_section: "3805"
 chapter: 24
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 3805"
-generated_at: "2026-03-30T02:31:48.819Z"
+generated_at: "2026-03-30T02:34:56.488Z"
 ---
 
 # § 3805. Implementation of trade agreements

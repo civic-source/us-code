@@ -3,9 +3,9 @@ title: "Section 649g - Retirement: retirement for years of service; selective ea
 usc_title: 10
 usc_section: "649g"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 649g"
-generated_at: "2026-03-30T02:30:23.095Z"
+generated_at: "2026-03-30T02:34:13.640Z"
 ---
 
 # § 649g. Retirement: retirement for years of service; selective early retirement

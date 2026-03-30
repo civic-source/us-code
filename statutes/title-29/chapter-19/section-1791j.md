@@ -3,9 +3,9 @@ title: "Section 1791j - Omitted"
 usc_title: 29
 usc_section: "1791j"
 chapter: 19
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "29 U.S.C. § 1791j"
-generated_at: "2026-03-30T02:32:20.393Z"
+generated_at: "2026-03-30T02:35:37.997Z"
 ---
 
 # §§ 1791i, 1791j. Omitted

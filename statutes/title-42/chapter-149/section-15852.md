@@ -3,9 +3,9 @@ title: "Section 15852 - Federal purchase requirement"
 usc_title: 42
 usc_section: "15852"
 chapter: 149
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 15852"
-generated_at: "2026-03-30T02:33:08.343Z"
+generated_at: "2026-03-30T02:37:28.181Z"
 ---
 
 # § 15852. Federal purchase requirement

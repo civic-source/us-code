@@ -3,9 +3,9 @@ title: "Section 12602 - Individuals eligible to receive an educational award fro
 usc_title: 42
 usc_section: "12602"
 chapter: 129
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 12602"
-generated_at: "2026-03-30T02:33:08.283Z"
+generated_at: "2026-03-30T02:37:28.126Z"
 ---
 
 # § 12602. Individuals eligible to receive an educational award from the Trust

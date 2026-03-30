@@ -3,9 +3,9 @@ title: "Section 6456 - Accountability"
 usc_title: 20
 usc_section: "6456"
 chapter: 70
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 6456"
-generated_at: "2026-03-30T02:31:22.701Z"
+generated_at: "2026-03-30T02:35:09.611Z"
 ---
 
 # § 6456. Accountability

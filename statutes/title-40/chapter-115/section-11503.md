@@ -3,9 +3,9 @@ title: "Section 11503 - Report"
 usc_title: 40
 usc_section: "11503"
 chapter: 115
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "40 U.S.C. § 11503"
-generated_at: "2026-03-30T02:32:42.693Z"
+generated_at: "2026-03-30T02:36:06.818Z"
 ---
 
 # § 11503. Report

@@ -3,9 +3,9 @@ title: "Section 409 - Hearings"
 usc_title: 47
 usc_section: "409"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "47 U.S.C. § 409"
-generated_at: "2026-03-30T02:33:12.892Z"
+generated_at: "2026-03-30T02:37:32.350Z"
 ---
 
 # § 409. Hearings

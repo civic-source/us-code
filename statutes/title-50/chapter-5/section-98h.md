@@ -3,9 +3,9 @@ title: "Section 98h - National Defense Stockpile Transaction Fund"
 usc_title: 50
 usc_section: "98h"
 chapter: 5
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 98h"
-generated_at: "2026-03-30T02:33:16.443Z"
+generated_at: "2026-03-30T02:37:43.778Z"
 ---
 
 # § 98h. National Defense Stockpile Transaction Fund

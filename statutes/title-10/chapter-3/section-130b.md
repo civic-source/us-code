@@ -3,9 +3,9 @@ title: "Section 130b - Personnel in overseas, sensitive, or routinely deployable
 usc_title: 10
 usc_section: "130b"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 130b"
-generated_at: "2026-03-30T02:30:23.034Z"
+generated_at: "2026-03-30T02:34:13.603Z"
 ---
 
 # § 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information

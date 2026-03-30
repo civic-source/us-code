@@ -3,9 +3,9 @@ title: "Section 2516 - Repealed. Pub. L. 103–355, title VII, § 7206(c) , Oct.
 usc_title: 19
 usc_section: "2516"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 2516"
-generated_at: "2026-03-30T02:31:48.796Z"
+generated_at: "2026-03-30T02:34:56.465Z"
 ---
 
 # § 2516. Repealed. Pub. L. 103–355, title VII, § 7206(c) , Oct. 13, 1994 , 108 Stat. 3382 ; Pub. L. 103–465, title III, § 342(d) , Dec. 8, 1994 , 108 Stat. 4953

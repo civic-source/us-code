@@ -3,9 +3,9 @@ title: "Section 7355b - Rule of construction"
 usc_title: 20
 usc_section: "7355b"
 chapter: 70
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 7355b"
-generated_at: "2026-03-30T02:31:22.713Z"
+generated_at: "2026-03-30T02:35:09.629Z"
 ---
 
 # § 7355b. Rule of construction

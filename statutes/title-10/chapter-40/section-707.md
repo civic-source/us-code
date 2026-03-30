@@ -3,9 +3,9 @@ title: "Section 707 - Payment upon disapproval of certain court-martial sentence
 usc_title: 10
 usc_section: "707"
 chapter: 40
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 707"
-generated_at: "2026-03-30T02:30:23.099Z"
+generated_at: "2026-03-30T02:34:13.642Z"
 ---
 
 # § 707. Payment upon disapproval of certain court-martial sentences for excess leave required to be taken

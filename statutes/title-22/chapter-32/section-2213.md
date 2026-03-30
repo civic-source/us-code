@@ -3,9 +3,9 @@ title: "Section 2213 - United States Microfinance Loan Facility"
 usc_title: 22
 usc_section: "2213"
 chapter: 32
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2213"
-generated_at: "2026-03-30T02:31:58.168Z"
+generated_at: "2026-03-30T02:35:21.408Z"
 ---
 
 # § 2213. United States Microfinance Loan Facility

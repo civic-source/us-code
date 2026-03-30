@@ -3,9 +3,9 @@ title: "Section 2815a - Stormwater management, shoreline erosion control, and wa
 usc_title: 10
 usc_section: "2815a"
 chapter: 169
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2815a"
-generated_at: "2026-03-30T02:30:23.264Z"
+generated_at: "2026-03-30T02:34:13.754Z"
 ---
 
 # § 2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads

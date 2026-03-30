@@ -3,9 +3,9 @@ title: "Section 2567 - Everett McKinley Dirksen Congressional Leadership Researc
 usc_title: 20
 usc_section: "2567"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 2567"
-generated_at: "2026-03-30T02:31:22.677Z"
+generated_at: "2026-03-30T02:35:09.576Z"
 ---
 
 # § 2567. Everett McKinley Dirksen Congressional Leadership Research Center; grants for development

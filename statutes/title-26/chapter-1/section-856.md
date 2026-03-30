@@ -3,9 +3,9 @@ title: "Section 856 - Definition of real estate investment trust"
 usc_title: 26
 usc_section: "856"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 856"
-generated_at: "2026-03-30T02:32:32.700Z"
+generated_at: "2026-03-30T02:35:51.047Z"
 ---
 
 # § 856. Definition of real estate investment trust

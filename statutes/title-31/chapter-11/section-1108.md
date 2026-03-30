@@ -3,9 +3,9 @@ title: "Section 1108 - Preparation and submission of appropriations requests to 
 usc_title: 31
 usc_section: "1108"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "31 U.S.C. § 1108"
-generated_at: "2026-03-30T02:32:36.421Z"
+generated_at: "2026-03-30T02:36:03.799Z"
 ---
 
 # § 1108. Preparation and submission of appropriations requests to the President

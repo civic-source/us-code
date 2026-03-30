@@ -3,9 +3,9 @@ title: "Section 8506 - Dissemination of information"
 usc_title: 5
 usc_section: "8506"
 chapter: 85
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 8506"
-generated_at: "2026-03-30T02:29:23.291Z"
+generated_at: "2026-03-30T02:33:47.836Z"
 ---
 
 # § 8506. Dissemination of information

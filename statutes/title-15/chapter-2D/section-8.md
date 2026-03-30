@@ -3,9 +3,9 @@ title: "Section 8 - General prohibitions"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T02:30:38.093Z"
+generated_at: "2026-03-30T02:34:48.967Z"
 ---
 
 # § 80b–8. General prohibitions

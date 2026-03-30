@@ -3,9 +3,9 @@ title: "Section 6806 - Special account and distribution of fees and revenues"
 usc_title: 16
 usc_section: "6806"
 chapter: 87
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 6806"
-generated_at: "2026-03-30T02:31:30.257Z"
+generated_at: "2026-03-30T02:35:01.062Z"
 ---
 
 # § 6806. Special account and distribution of fees and revenues

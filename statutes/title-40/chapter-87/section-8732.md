@@ -3,9 +3,9 @@ title: "Section 8732 - Acquiring land subject to limited rights reserved to gran
 usc_title: 40
 usc_section: "8732"
 chapter: 87
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "40 U.S.C. § 8732"
-generated_at: "2026-03-30T02:32:42.691Z"
+generated_at: "2026-03-30T02:36:06.816Z"
 ---
 
 # § 8732. Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property

@@ -3,9 +3,9 @@ title: "Section 3214 - Delegation of functions and transfer of funds among Feder
 usc_title: 42
 usc_section: "3214"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 3214"
-generated_at: "2026-03-30T02:33:07.920Z"
+generated_at: "2026-03-30T02:37:27.822Z"
 ---
 
 # § 3214. Delegation of functions and transfer of funds among Federal agencies

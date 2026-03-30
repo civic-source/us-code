@@ -3,9 +3,9 @@ title: "Section 8754 - Comprehensive strategy to promote Internet freedom and ac
 usc_title: 22
 usc_section: "8754"
 chapter: 94
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 8754"
-generated_at: "2026-03-30T02:31:58.309Z"
+generated_at: "2026-03-30T02:35:21.564Z"
 ---
 
 # § 8754. Comprehensive strategy to promote Internet freedom and access to information in Iran

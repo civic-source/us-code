@@ -3,9 +3,9 @@ title: "Section 3334r - Designation of a chief technology officer within certain
 usc_title: 50
 usc_section: "3334r"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 3334r"
-generated_at: "2026-03-30T02:33:16.525Z"
+generated_at: "2026-03-30T02:37:43.860Z"
 ---
 
 # § 3334r. Designation of a chief technology officer within certain elements of the intelligence community

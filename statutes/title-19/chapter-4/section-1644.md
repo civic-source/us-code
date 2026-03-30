@@ -3,9 +3,9 @@ title: "Section 1644 - Application of the Federal Aviation Act and section 1518(
 usc_title: 19
 usc_section: "1644"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 1644"
-generated_at: "2026-03-30T02:31:48.758Z"
+generated_at: "2026-03-30T02:34:56.427Z"
 ---
 
 # § 1644. Application of the Federal Aviation Act and section 1518(d) of title 33

@@ -3,9 +3,9 @@ title: "Section 695o - Limitation on reduction of areas by diking or other const
 usc_title: 16
 usc_section: "695o"
 chapter: 6
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 695o"
-generated_at: "2026-03-30T02:31:30.131Z"
+generated_at: "2026-03-30T02:35:00.889Z"
 ---
 
 # § 695o. Limitation on reduction of areas by diking or other construction

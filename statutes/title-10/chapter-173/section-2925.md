@@ -3,9 +3,9 @@ title: "Section 2925 - Annual report on energy performance, resilience, and read
 usc_title: 10
 usc_section: "2925"
 chapter: 173
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 2925"
-generated_at: "2026-03-30T02:30:23.278Z"
+generated_at: "2026-03-30T02:34:13.764Z"
 ---
 
 # § 2925. Annual report on energy performance, resilience, and readiness of Department of Defense

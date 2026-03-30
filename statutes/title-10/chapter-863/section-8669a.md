@@ -3,9 +3,9 @@ title: "Section 8669a - Construction of combatant and escort vessels and assignm
 usc_title: 10
 usc_section: "8669a"
 chapter: 863
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 8669a"
-generated_at: "2026-03-30T02:30:23.365Z"
+generated_at: "2026-03-30T02:34:13.821Z"
 ---
 
 # § 8669a. Construction of combatant and escort vessels and assignment of vessel projects

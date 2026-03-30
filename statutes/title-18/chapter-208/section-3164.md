@@ -3,9 +3,9 @@ title: "Section 3164 - Persons detained or designated as being of high risk"
 usc_title: 18
 usc_section: "3164"
 chapter: 208
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 3164"
-generated_at: "2026-03-30T02:31:31.355Z"
+generated_at: "2026-03-30T02:34:54.322Z"
 ---
 
 # § 3164. Persons detained or designated as being of high risk

@@ -3,9 +3,9 @@ title: "Section 431 - Definitions"
 usc_title: 15
 usc_section: "431"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 431"
-generated_at: "2026-03-30T02:30:38.110Z"
+generated_at: "2026-03-30T02:34:48.982Z"
 ---
 
 # § 431. Definitions

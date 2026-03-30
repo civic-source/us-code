@@ -3,9 +3,9 @@ title: "Section 3779 - Insurance"
 usc_title: 22
 usc_section: "3779"
 chapter: 51
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 3779"
-generated_at: "2026-03-30T02:31:58.230Z"
+generated_at: "2026-03-30T02:35:21.475Z"
 ---
 
 # § 3779. Insurance

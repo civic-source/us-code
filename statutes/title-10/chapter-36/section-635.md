@@ -3,9 +3,9 @@ title: "Section 635 - Retirement for years of service: regular and Space Force b
 usc_title: 10
 usc_section: "635"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 635"
-generated_at: "2026-03-30T02:30:23.093Z"
+generated_at: "2026-03-30T02:34:13.638Z"
 ---
 
 # § 635. Retirement for years of service: regular and Space Force brigadier generals; regular Navy rear admirals (lower half)

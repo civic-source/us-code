@@ -3,9 +3,9 @@ title: "Section 1421c - Certain laws continued in force; modification or repeal 
 usc_title: 48
 usc_section: "1421c"
 chapter: 8
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "48 U.S.C. § 1421c"
-generated_at: "2026-03-30T02:33:13.435Z"
+generated_at: "2026-03-30T02:37:38.253Z"
 ---
 
 # § 1421c. Certain laws continued in force; modification or repeal of laws

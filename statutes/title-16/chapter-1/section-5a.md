@@ -3,9 +3,9 @@ title: "Section 5a - Repealed. Pub. L. 100–203, title V, § 5201(d)(1) , Dec. 
 usc_title: 16
 usc_section: "5a"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 5a"
-generated_at: "2026-03-30T02:31:30.066Z"
+generated_at: "2026-03-30T02:35:00.800Z"
 ---
 
 # § 460l–5a. Repealed. Pub. L. 100–203, title V, § 5201(d)(1) , Dec. 22, 1987 , 101 Stat. 1330–266

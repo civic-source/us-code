@@ -3,9 +3,9 @@ title: "Section 3323 - Warrants"
 usc_title: 31
 usc_section: "3323"
 chapter: 33
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "31 U.S.C. § 3323"
-generated_at: "2026-03-30T02:32:36.430Z"
+generated_at: "2026-03-30T02:36:03.806Z"
 ---
 
 # § 3323. Warrants

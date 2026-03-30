@@ -3,9 +3,9 @@ title: "Section 64 - Preventing compliance with subchapter; liability of control
 usc_title: 15
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 64"
-generated_at: "2026-03-30T02:30:38.091Z"
+generated_at: "2026-03-30T02:34:48.965Z"
 ---
 
 # § 80a–64. Preventing compliance with subchapter; liability of controlling persons

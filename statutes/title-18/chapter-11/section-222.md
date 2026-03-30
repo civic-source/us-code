@@ -3,9 +3,9 @@ title: "Section 222 - Renumbered §§ 216, 217]"
 usc_title: 18
 usc_section: "222"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 222"
-generated_at: "2026-03-30T02:31:31.306Z"
+generated_at: "2026-03-30T02:34:54.241Z"
 ---
 
 # [§§ 221, 222. Renumbered §§ 216, 217]

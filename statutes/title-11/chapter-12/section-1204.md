@@ -3,9 +3,9 @@ title: "Section 1204 - Removal of debtor as debtor in possession"
 usc_title: 11
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "11 U.S.C. § 1204"
-generated_at: "2026-03-30T02:30:29.639Z"
+generated_at: "2026-03-30T02:34:28.125Z"
 ---
 
 # § 1204. Removal of debtor as debtor in possession

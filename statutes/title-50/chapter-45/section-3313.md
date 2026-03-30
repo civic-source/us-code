@@ -3,9 +3,9 @@ title: "Section 3313 - Notification of memoranda of understanding"
 usc_title: 50
 usc_section: "3313"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 3313"
-generated_at: "2026-03-30T02:33:16.520Z"
+generated_at: "2026-03-30T02:37:43.854Z"
 ---
 
 # § 3313. Notification of memoranda of understanding

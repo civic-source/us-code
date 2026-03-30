@@ -3,9 +3,9 @@ title: "Section 3593 - Reinstatement in the Senior Executive Service"
 usc_title: 5
 usc_section: "3593"
 chapter: 35
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 3593"
-generated_at: "2026-03-30T02:29:23.251Z"
+generated_at: "2026-03-30T02:33:47.761Z"
 ---
 
 # § 3593. Reinstatement in the Senior Executive Service

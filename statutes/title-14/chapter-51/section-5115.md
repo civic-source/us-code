@@ -3,9 +3,9 @@ title: "Section 5115 - Major grants, contracts, or other transactions"
 usc_title: 14
 usc_section: "5115"
 chapter: 51
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 5115"
-generated_at: "2026-03-30T02:30:32.667Z"
+generated_at: "2026-03-30T02:34:26.229Z"
 ---
 
 # § 5115. Major grants, contracts, or other transactions

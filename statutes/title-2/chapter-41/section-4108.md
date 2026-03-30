@@ -3,9 +3,9 @@ title: "Section 4108 - Semiannual statements of expenditures by Secretary of Sen
 usc_title: 2
 usc_section: "4108"
 chapter: 41
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 4108"
-generated_at: "2026-03-30T02:29:19.577Z"
+generated_at: "2026-03-30T02:33:44.335Z"
 ---
 
 # § 4108. Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House

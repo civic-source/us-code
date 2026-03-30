@@ -3,9 +3,9 @@ title: "Section 7403 - Period of appointments; promotions"
 usc_title: 38
 usc_section: "7403"
 chapter: 74
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "38 U.S.C. § 7403"
-generated_at: "2026-03-30T02:32:46.091Z"
+generated_at: "2026-03-30T02:36:12.674Z"
 ---
 
 # § 7403. Period of appointments; promotions

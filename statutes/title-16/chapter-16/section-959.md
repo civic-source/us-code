@@ -3,9 +3,9 @@ title: "Section 959 - Enforcement"
 usc_title: 16
 usc_section: "959"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 959"
-generated_at: "2026-03-30T02:31:30.160Z"
+generated_at: "2026-03-30T02:35:00.930Z"
 ---
 
 # § 959. Enforcement

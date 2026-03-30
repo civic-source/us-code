@@ -3,9 +3,9 @@ title: "Section 227 - Budget justification for covered military unaccompanied ho
 usc_title: 10
 usc_section: "227"
 chapter: 9
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 227"
-generated_at: "2026-03-30T02:30:23.054Z"
+generated_at: "2026-03-30T02:34:13.614Z"
 ---
 
 # § 227. Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects

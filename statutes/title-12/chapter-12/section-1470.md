@@ -3,9 +3,9 @@ title: "Section 1470 - Federal supervision of insured institutions, State member
 usc_title: 12
 usc_section: "1470"
 chapter: 12
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 1470"
-generated_at: "2026-03-30T02:31:09.761Z"
+generated_at: "2026-03-30T02:34:45.347Z"
 ---
 
 # § 1470. Federal supervision of insured institutions, State member and nonmember banks; access to information; definitions

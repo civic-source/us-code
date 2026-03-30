@@ -3,9 +3,9 @@ title: "Section 112 - Compacts between States for cooperation in prevention of c
 usc_title: 4
 usc_section: "112"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "4 U.S.C. § 112"
-generated_at: "2026-03-30T02:29:16.947Z"
+generated_at: "2026-03-30T02:33:42.402Z"
 ---
 
 # § 112. Compacts between States for cooperation in prevention of crime; consent of Congress

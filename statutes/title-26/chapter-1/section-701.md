@@ -3,9 +3,9 @@ title: "Section 701 - Partners, not partnership, subject to tax"
 usc_title: 26
 usc_section: "701"
 chapter: 1
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "26 U.S.C. § 701"
-generated_at: "2026-03-30T02:32:32.689Z"
+generated_at: "2026-03-30T02:35:51.037Z"
 ---
 
 # § 701. Partners, not partnership, subject to tax

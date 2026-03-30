@@ -3,9 +3,9 @@ title: "Section 1612 - Sense of Senate that lobbying expenses should remain nond
 usc_title: 2
 usc_section: "1612"
 chapter: 26
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 1612"
-generated_at: "2026-03-30T02:29:19.566Z"
+generated_at: "2026-03-30T02:33:44.317Z"
 ---
 
 # § 1612. Sense of Senate that lobbying expenses should remain nondeductible

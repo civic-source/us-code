@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: factors to be conside
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-03-30T02:30:23.310Z"
+generated_at: "2026-03-30T02:34:13.783Z"
 ---
 
 # § 4252. Major defense acquisition programs: factors to be considered before Milestone B approval

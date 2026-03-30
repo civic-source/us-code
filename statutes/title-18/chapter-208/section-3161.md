@@ -3,9 +3,9 @@ title: "Section 3161 - Time limits and exclusions"
 usc_title: 18
 usc_section: "3161"
 chapter: 208
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 3161"
-generated_at: "2026-03-30T02:31:31.355Z"
+generated_at: "2026-03-30T02:34:54.321Z"
 ---
 
 # § 3161. Time limits and exclusions

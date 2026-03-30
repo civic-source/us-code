@@ -3,9 +3,9 @@ title: "Section 5502 - Coordinator for Counterterrorism"
 usc_title: 22
 usc_section: "5502"
 chapter: 64
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 5502"
-generated_at: "2026-03-30T02:31:58.258Z"
+generated_at: "2026-03-30T02:35:21.507Z"
 ---
 
 # § 5502. Coordinator for Counterterrorism

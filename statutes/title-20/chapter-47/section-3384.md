@@ -3,9 +3,9 @@ title: "Section 3384 - Omitted"
 usc_title: 20
 usc_section: "3384"
 chapter: 47
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 3384"
-generated_at: "2026-03-30T02:31:22.677Z"
+generated_at: "2026-03-30T02:35:09.577Z"
 ---
 
 # §§ 3381 to 3384. Omitted

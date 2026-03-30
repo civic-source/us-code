@@ -3,9 +3,9 @@ title: "Section 2295a - Policy and technical standards"
 usc_title: 33
 usc_section: "2295a"
 chapter: 36
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "33 U.S.C. § 2295a"
-generated_at: "2026-03-30T02:32:39.345Z"
+generated_at: "2026-03-30T02:36:02.600Z"
 ---
 
 # § 2295a. Policy and technical standards

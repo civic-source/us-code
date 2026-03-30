@@ -3,9 +3,9 @@ title: "Section 580b - Forest Service telephone lines; correction of inductive i
 usc_title: 16
 usc_section: "580b"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 580b"
-generated_at: "2026-03-30T02:31:30.117Z"
+generated_at: "2026-03-30T02:35:00.870Z"
 ---
 
 # § 580b. Forest Service telephone lines; correction of inductive interference

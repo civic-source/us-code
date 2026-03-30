@@ -3,9 +3,9 @@ title: "Section 319 - Unmanned system program and autonomous control and compute
 usc_title: 14
 usc_section: "319"
 chapter: 3
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "14 U.S.C. § 319"
-generated_at: "2026-03-30T02:30:32.644Z"
+generated_at: "2026-03-30T02:34:26.207Z"
 ---
 
 # § 319. Unmanned system program and autonomous control and computer vision technology project

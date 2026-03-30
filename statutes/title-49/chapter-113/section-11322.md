@@ -3,9 +3,9 @@ title: "Section 11322 - Limitation on pooling and division of transportation or 
 usc_title: 49
 usc_section: "11322"
 chapter: 113
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "49 U.S.C. § 11322"
-generated_at: "2026-03-30T02:33:20.245Z"
+generated_at: "2026-03-30T02:37:41.797Z"
 ---
 
 # § 11322. Limitation on pooling and division of transportation or earnings

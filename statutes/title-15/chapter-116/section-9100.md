@@ -3,9 +3,9 @@ title: "Section 9100 - Coordination"
 usc_title: 15
 usc_section: "9100"
 chapter: 116
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 9100"
-generated_at: "2026-03-30T02:30:38.372Z"
+generated_at: "2026-03-30T02:34:49.216Z"
 ---
 
 # § 9100. Coordination

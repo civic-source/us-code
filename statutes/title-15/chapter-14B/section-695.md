@@ -3,9 +3,9 @@ title: "Section 695 - State development companies"
 usc_title: 15
 usc_section: "695"
 chapter: 14
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 695"
-generated_at: "2026-03-30T02:30:38.157Z"
+generated_at: "2026-03-30T02:34:49.025Z"
 ---
 
 # § 695. State development companies

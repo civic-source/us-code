@@ -3,9 +3,9 @@ title: "Section 2296c - Border control assistance"
 usc_title: 22
 usc_section: "2296c"
 chapter: 32
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 2296c"
-generated_at: "2026-03-30T02:31:58.174Z"
+generated_at: "2026-03-30T02:35:21.415Z"
 ---
 
 # § 2296c. Border control assistance

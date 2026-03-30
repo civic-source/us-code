@@ -3,9 +3,9 @@ title: "Section 758 - Omitted"
 usc_title: 20
 usc_section: "758"
 chapter: 21
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 758"
-generated_at: "2026-03-30T02:31:22.588Z"
+generated_at: "2026-03-30T02:35:09.445Z"
 ---
 
 # § 758. Omitted

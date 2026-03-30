@@ -3,9 +3,9 @@ title: "Section 2007 - Decision of President"
 usc_title: 43
 usc_section: "2007"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "43 U.S.C. § 2007"
-generated_at: "2026-03-30T02:32:50.165Z"
+generated_at: "2026-03-30T02:36:16.909Z"
 ---
 
 # § 2007. Decision of President

@@ -3,9 +3,9 @@ title: "Section 1395xx - Payment of provider-based physicians and payment under 
 usc_title: 42
 usc_section: "1395xx"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 1395xx"
-generated_at: "2026-03-30T02:33:07.679Z"
+generated_at: "2026-03-30T02:37:27.608Z"
 ---
 
 # § 1395xx. Payment of provider-based physicians and payment under certain percentage arrangements

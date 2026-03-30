@@ -3,9 +3,9 @@ title: "Section 3003 - Commission membership"
 usc_title: 22
 usc_section: "3003"
 chapter: 45
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 3003"
-generated_at: "2026-03-30T02:31:58.218Z"
+generated_at: "2026-03-30T02:35:21.462Z"
 ---
 
 # § 3003. Commission membership

@@ -3,9 +3,9 @@ title: "Section 60j - Transferred"
 usc_title: 2
 usc_section: "60j"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 60j"
-generated_at: "2026-03-30T02:29:19.536Z"
+generated_at: "2026-03-30T02:33:44.267Z"
 ---
 
 # § 60j. Transferred

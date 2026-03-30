@@ -3,9 +3,9 @@ title: "Section 3955 - Distribution of appropriations"
 usc_title: 16
 usc_section: "3955"
 chapter: 59
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 3955"
-generated_at: "2026-03-30T02:31:30.235Z"
+generated_at: "2026-03-30T02:35:01.033Z"
 ---
 
 # § 3955. Distribution of appropriations

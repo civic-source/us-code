@@ -3,9 +3,9 @@ title: "Section 11298 - Authority of Inspectors General"
 usc_title: 34
 usc_section: "11298"
 chapter: 111
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "34 U.S.C. § 11298"
-generated_at: "2026-03-30T02:32:37.533Z"
+generated_at: "2026-03-30T02:35:57.242Z"
 ---
 
 # § 11298. Authority of Inspectors General

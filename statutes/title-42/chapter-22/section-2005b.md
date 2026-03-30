@@ -3,9 +3,9 @@ title: "Section 2005b - Conditions of assistance"
 usc_title: 42
 usc_section: "2005b"
 chapter: 22
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 2005b"
-generated_at: "2026-03-30T02:33:07.862Z"
+generated_at: "2026-03-30T02:37:27.766Z"
 ---
 
 # § 2005b. Conditions of assistance

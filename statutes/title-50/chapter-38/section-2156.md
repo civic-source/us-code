@@ -3,9 +3,9 @@ title: "Section 2156 - Regulations"
 usc_title: 50
 usc_section: "2156"
 chapter: 38
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 2156"
-generated_at: "2026-03-30T02:33:16.478Z"
+generated_at: "2026-03-30T02:37:43.811Z"
 ---
 
 # § 2156. Regulations

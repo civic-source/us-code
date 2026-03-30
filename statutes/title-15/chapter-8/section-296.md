@@ -3,9 +3,9 @@ title: "Section 296 - Standard of fineness of silver articles; deviation"
 usc_title: 15
 usc_section: "296"
 chapter: 8
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 296"
-generated_at: "2026-03-30T02:30:38.107Z"
+generated_at: "2026-03-30T02:34:48.980Z"
 ---
 
 # § 296. Standard of fineness of silver articles; deviation

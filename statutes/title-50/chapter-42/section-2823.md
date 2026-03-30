@@ -3,9 +3,9 @@ title: "Section 2823 - University-based defense nuclear policy collaboration pro
 usc_title: 50
 usc_section: "2823"
 chapter: 42
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 2823"
-generated_at: "2026-03-30T02:33:16.496Z"
+generated_at: "2026-03-30T02:37:43.833Z"
 ---
 
 # § 2823. University-based defense nuclear policy collaboration program

@@ -3,9 +3,9 @@ title: "Section 1478 - Reimbursement of program expenses from sources other than
 usc_title: 22
 usc_section: "1478"
 chapter: 18
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "22 U.S.C. § 1478"
-generated_at: "2026-03-30T02:31:58.145Z"
+generated_at: "2026-03-30T02:35:21.385Z"
 ---
 
 # § 1478. Reimbursement of program expenses from sources other than appropriations; disposition of receipts

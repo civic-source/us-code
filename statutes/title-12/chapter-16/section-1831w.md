@@ -3,9 +3,9 @@ title: "Section 1831w - Safety and soundness firewalls applicable to financial s
 usc_title: 12
 usc_section: "1831w"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 1831w"
-generated_at: "2026-03-30T02:31:09.829Z"
+generated_at: "2026-03-30T02:34:45.443Z"
 ---
 
 # § 1831w. Safety and soundness firewalls applicable to financial subsidiaries of banks

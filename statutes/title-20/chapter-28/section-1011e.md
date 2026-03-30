@@ -3,9 +3,9 @@ title: "Section 1011e - Financial responsibility of foreign students"
 usc_title: 20
 usc_section: "1011e"
 chapter: 28
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "20 U.S.C. § 1011e"
-generated_at: "2026-03-30T02:31:22.593Z"
+generated_at: "2026-03-30T02:35:09.453Z"
 ---
 
 # § 1011e. Financial responsibility of foreign students

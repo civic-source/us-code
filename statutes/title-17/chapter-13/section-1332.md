@@ -3,9 +3,9 @@ title: "Section 1332 - No retroactive effect"
 usc_title: 17
 usc_section: "1332"
 chapter: 13
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "17 U.S.C. § 1332"
-generated_at: "2026-03-30T02:31:12.501Z"
+generated_at: "2026-03-30T02:34:52.330Z"
 ---
 
 # § 1332. No retroactive effect

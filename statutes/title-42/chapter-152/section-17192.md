@@ -3,9 +3,9 @@ title: "Section 17192 - Hydrothermal research and development"
 usc_title: 42
 usc_section: "17192"
 chapter: 152
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 17192"
-generated_at: "2026-03-30T02:33:08.397Z"
+generated_at: "2026-03-30T02:37:28.230Z"
 ---
 
 # § 17192. Hydrothermal research and development

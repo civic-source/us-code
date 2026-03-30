@@ -3,9 +3,9 @@ title: "Section 3581 - Sentence of imprisonment"
 usc_title: 18
 usc_section: "3581"
 chapter: 227
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 3581"
-generated_at: "2026-03-30T02:31:31.360Z"
+generated_at: "2026-03-30T02:34:54.333Z"
 ---
 
 # § 3581. Sentence of imprisonment

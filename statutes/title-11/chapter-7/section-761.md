@@ -3,9 +3,9 @@ title: "Section 761 - Definitions for this subchapter"
 usc_title: 11
 usc_section: "761"
 chapter: 7
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "11 U.S.C. § 761"
-generated_at: "2026-03-30T02:30:29.626Z"
+generated_at: "2026-03-30T02:34:28.117Z"
 ---
 
 # § 761. Definitions for this subchapter

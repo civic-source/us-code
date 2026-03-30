@@ -3,9 +3,9 @@ title: "Section 7262 - Management assessment of internal controls"
 usc_title: 15
 usc_section: "7262"
 chapter: 98
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 7262"
-generated_at: "2026-03-30T02:30:38.334Z"
+generated_at: "2026-03-30T02:34:49.182Z"
 ---
 
 # § 7262. Management assessment of internal controls

@@ -3,9 +3,9 @@ title: "Section 1364 - Interference with foreign commerce by violence"
 usc_title: 18
 usc_section: "1364"
 chapter: 65
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "18 U.S.C. § 1364"
-generated_at: "2026-03-30T02:31:31.328Z"
+generated_at: "2026-03-30T02:34:54.277Z"
 ---
 
 # § 1364. Interference with foreign commerce by violence

@@ -3,9 +3,9 @@ title: "Section 47 - Liability of controlling persons; preventing compliance wit
 usc_title: 15
 usc_section: "47"
 chapter: 2
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "15 U.S.C. § 47"
-generated_at: "2026-03-30T02:30:38.089Z"
+generated_at: "2026-03-30T02:34:48.963Z"
 ---
 
 # § 80a–47. Liability of controlling persons; preventing compliance with subchapter

@@ -3,9 +3,9 @@ title: "Section 3330b - Preference eligibles; judicial redress"
 usc_title: 5
 usc_section: "3330b"
 chapter: 33
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "5 U.S.C. § 3330b"
-generated_at: "2026-03-30T02:29:23.249Z"
+generated_at: "2026-03-30T02:33:47.757Z"
 ---
 
 # § 3330b. Preference eligibles; judicial redress

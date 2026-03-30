@@ -3,9 +3,9 @@ title: "Section 19066 - Technology and behavioral science research"
 usc_title: 42
 usc_section: "19066"
 chapter: 163
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 19066"
-generated_at: "2026-03-30T02:33:08.455Z"
+generated_at: "2026-03-30T02:37:28.282Z"
 ---
 
 # § 19066. Technology and behavioral science research

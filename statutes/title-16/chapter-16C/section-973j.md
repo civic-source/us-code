@@ -3,9 +3,9 @@ title: "Section 973j - Reporting requirements; disclosure of information"
 usc_title: 16
 usc_section: "973j"
 chapter: 16
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "16 U.S.C. § 973j"
-generated_at: "2026-03-30T02:31:30.161Z"
+generated_at: "2026-03-30T02:35:00.932Z"
 ---
 
 # § 973j. Reporting requirements; disclosure of information

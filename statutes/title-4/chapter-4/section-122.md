@@ -3,9 +3,9 @@ title: "Section 122 - Determination of place of primary use"
 usc_title: 4
 usc_section: "122"
 chapter: 4
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "4 U.S.C. § 122"
-generated_at: "2026-03-30T02:29:16.948Z"
+generated_at: "2026-03-30T02:33:42.403Z"
 ---
 
 # § 122. Determination of place of primary use

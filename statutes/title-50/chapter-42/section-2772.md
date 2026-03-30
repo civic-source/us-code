@@ -3,9 +3,9 @@ title: "Section 2772 - Reports on financial balances for atomic energy defense a
 usc_title: 50
 usc_section: "2772"
 chapter: 42
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "50 U.S.C. § 2772"
-generated_at: "2026-03-30T02:33:16.494Z"
+generated_at: "2026-03-30T02:37:43.828Z"
 ---
 
 # § 2772. Reports on financial balances for atomic energy defense activities

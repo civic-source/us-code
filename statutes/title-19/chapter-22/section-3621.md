@@ -3,9 +3,9 @@ title: "Section 3621 - Tobacco proclamation authority"
 usc_title: 19
 usc_section: "3621"
 chapter: 22
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "19 U.S.C. § 3621"
-generated_at: "2026-03-30T02:31:48.815Z"
+generated_at: "2026-03-30T02:34:56.483Z"
 ---
 
 # § 3621. Tobacco proclamation authority

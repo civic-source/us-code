@@ -3,9 +3,9 @@ title: "Section 5603 - Transferred"
 usc_title: 42
 usc_section: "5603"
 chapter: 72
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "42 U.S.C. § 5603"
-generated_at: "2026-03-30T02:33:07.994Z"
+generated_at: "2026-03-30T02:37:27.888Z"
 ---
 
 # § 5603. Transferred

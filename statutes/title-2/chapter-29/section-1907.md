@@ -3,9 +3,9 @@ title: "Section 1907 - Transfer of disbursing function"
 usc_title: 2
 usc_section: "1907"
 chapter: 29
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "2 U.S.C. § 1907"
-generated_at: "2026-03-30T02:29:19.570Z"
+generated_at: "2026-03-30T02:33:44.321Z"
 ---
 
 # § 1907. Transfer of disbursing function

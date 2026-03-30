@@ -3,9 +3,9 @@ title: "Section 2 - Authorization for State housing finance agencies and nonprof
 usc_title: 12
 usc_section: "2"
 chapter: 11
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T02:31:09.751Z"
+generated_at: "2026-03-30T02:34:45.333Z"
 ---
 
 # § 1441a–2. Authorization for State housing finance agencies and nonprofit entities to purchase mortgage-related assets

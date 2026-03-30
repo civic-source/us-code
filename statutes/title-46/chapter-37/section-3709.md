@@ -3,9 +3,9 @@ title: "Section 3709 - Exemptions"
 usc_title: 46
 usc_section: "3709"
 chapter: 37
-current_through: "PL 119-34"
+current_through: "PL 119-36"
 classification: "46 U.S.C. § 3709"
-generated_at: "2026-03-30T02:33:14.594Z"
+generated_at: "2026-03-30T02:37:37.538Z"
 ---
 
 # § 3709. Exemptions
