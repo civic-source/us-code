@@ -3,9 +3,9 @@ title: "Section 46 - Validity of contracts"
 usc_title: 15
 usc_section: "46"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-03-30T01:31:32.436Z"
+generated_at: "2026-03-30T01:34:58.918Z"
 ---
 
 # § 80a–46. Validity of contracts

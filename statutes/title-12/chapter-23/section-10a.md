@@ -3,9 +3,9 @@ title: "Section 10a - Oversight actions by Corporation"
 usc_title: 12
 usc_section: "10a"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 10a"
-generated_at: "2026-03-30T01:31:52.625Z"
+generated_at: "2026-03-30T01:35:04.922Z"
 ---
 
 # § 2277a–10a. Oversight actions by Corporation

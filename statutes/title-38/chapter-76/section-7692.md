@@ -3,9 +3,9 @@ title: "Section 7692 - Purpose"
 usc_title: 38
 usc_section: "7692"
 chapter: 76
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 7692"
-generated_at: "2026-03-30T01:33:18.960Z"
+generated_at: "2026-03-30T01:36:22.240Z"
 ---
 
 # § 7692. Purpose

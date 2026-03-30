@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Oct. 31, 1951, ch. 654, § 1(36) , 65 Stat. 702"
 usc_title: 20
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T01:32:23.042Z"
+generated_at: "2026-03-30T01:35:10.308Z"
 ---
 
 # § 5. Repealed. Oct. 31, 1951, ch. 654, § 1(36) , 65 Stat. 702

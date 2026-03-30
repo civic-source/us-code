@@ -3,9 +3,9 @@ title: "Section 2407 - Civil penalties"
 usc_title: 16
 usc_section: "2407"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 2407"
-generated_at: "2026-03-30T01:32:02.293Z"
+generated_at: "2026-03-30T01:35:15.539Z"
 ---
 
 # § 2407. Civil penalties

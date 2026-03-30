@@ -3,9 +3,9 @@ title: "Section 7381 - Findings and purposes"
 usc_title: 42
 usc_section: "7381"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 7381"
-generated_at: "2026-03-30T01:33:40.128Z"
+generated_at: "2026-03-30T01:37:21.062Z"
 ---
 
 # § 7381. Findings and purposes

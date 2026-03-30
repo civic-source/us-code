@@ -3,9 +3,9 @@ title: "Section 672 - Definitions and rules"
 usc_title: 26
 usc_section: "672"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 672"
-generated_at: "2026-03-30T01:33:05.427Z"
+generated_at: "2026-03-30T01:35:53.843Z"
 ---
 
 # § 672. Definitions and rules

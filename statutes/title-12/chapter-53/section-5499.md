@@ -3,9 +3,9 @@ title: "Section 5499 - Open data publication"
 usc_title: 12
 usc_section: "5499"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 5499"
-generated_at: "2026-03-30T01:31:52.701Z"
+generated_at: "2026-03-30T01:35:04.979Z"
 ---
 
 # § 5499. Open data publication

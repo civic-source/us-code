@@ -3,9 +3,9 @@ title: "Section 100804 - Improved use of partners and volunteers in interpretati
 usc_title: 54
 usc_section: "100804"
 chapter: 1008
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "54 U.S.C. § 100804"
-generated_at: "2026-03-30T01:34:10.333Z"
+generated_at: "2026-03-30T01:38:01.859Z"
 ---
 
 # § 100804. Improved use of partners and volunteers in interpretation and education

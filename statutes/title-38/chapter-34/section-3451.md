@@ -3,9 +3,9 @@ title: "Section 3451 - Purpose"
 usc_title: 38
 usc_section: "3451"
 chapter: 34
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 3451"
-generated_at: "2026-03-30T01:33:18.924Z"
+generated_at: "2026-03-30T01:36:22.208Z"
 ---
 
 # § 3451. Purpose

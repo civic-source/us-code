@@ -3,9 +3,9 @@ title: "Section 6337 - Accrual of leave"
 usc_title: 5
 usc_section: "6337"
 chapter: 63
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 6337"
-generated_at: "2026-03-30T01:31:06.787Z"
+generated_at: "2026-03-30T01:34:27.245Z"
 ---
 
 # § 6337. Accrual of leave

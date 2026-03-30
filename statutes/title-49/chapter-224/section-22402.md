@@ -3,9 +3,9 @@ title: "Section 22402 - Direct loans and loan guarantees"
 usc_title: 49
 usc_section: "22402"
 chapter: 224
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 22402"
-generated_at: "2026-03-30T01:33:49.579Z"
+generated_at: "2026-03-30T01:37:42.416Z"
 ---
 
 # § 22402. Direct loans and loan guarantees

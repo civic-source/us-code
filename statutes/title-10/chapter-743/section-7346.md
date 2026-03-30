@@ -3,9 +3,9 @@ title: "Section 7346 - Retired lists"
 usc_title: 10
 usc_section: "7346"
 chapter: 743
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 7346"
-generated_at: "2026-03-30T01:31:16.546Z"
+generated_at: "2026-03-30T01:34:43.573Z"
 ---
 
 # § 7346. Retired lists

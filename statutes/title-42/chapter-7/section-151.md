@@ -3,9 +3,9 @@ title: "Section 151 - Definitions; treatment of references to provisions in part
 usc_title: 42
 usc_section: "151"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 151"
-generated_at: "2026-03-30T01:33:39.816Z"
+generated_at: "2026-03-30T01:37:20.752Z"
 ---
 
 # § 1395w–151. Definitions; treatment of references to provisions in part C

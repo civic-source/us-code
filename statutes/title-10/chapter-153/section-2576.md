@@ -3,9 +3,9 @@ title: "Section 2576 - Surplus military equipment: sale to State and local law e
 usc_title: 10
 usc_section: "2576"
 chapter: 153
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2576"
-generated_at: "2026-03-30T01:31:16.505Z"
+generated_at: "2026-03-30T01:34:43.533Z"
 ---
 
 # § 2576. Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies

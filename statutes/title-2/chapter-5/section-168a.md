@@ -3,9 +3,9 @@ title: "Section 168a - Printing of Constitution Annotated as Senate documents"
 usc_title: 2
 usc_section: "168a"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 168a"
-generated_at: "2026-03-30T01:31:00.754Z"
+generated_at: "2026-03-30T01:34:23.526Z"
 ---
 
 # § 168a. Printing of Constitution Annotated as Senate documents

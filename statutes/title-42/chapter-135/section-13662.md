@@ -3,9 +3,9 @@ title: "Section 13662 - Termination of tenancy and assistance for illegal drug u
 usc_title: 42
 usc_section: "13662"
 chapter: 135
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 13662"
-generated_at: "2026-03-30T01:33:40.300Z"
+generated_at: "2026-03-30T01:37:21.220Z"
 ---
 
 # § 13662. Termination of tenancy and assistance for illegal drug users and alcohol abusers in federally assisted housing

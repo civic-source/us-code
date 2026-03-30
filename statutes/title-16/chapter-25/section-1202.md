@@ -3,9 +3,9 @@ title: "Section 1202 - Authority of Secretary; studies, research, and investigat
 usc_title: 16
 usc_section: "1202"
 chapter: 25
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 1202"
-generated_at: "2026-03-30T01:32:02.249Z"
+generated_at: "2026-03-30T01:35:15.498Z"
 ---
 
 # § 1202. Authority of Secretary; studies, research, and investigations; control measures; execution of program; other actions; costs

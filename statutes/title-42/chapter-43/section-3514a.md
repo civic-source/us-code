@@ -3,9 +3,9 @@ title: "Section 3514a - Nonrecurring expenses fund"
 usc_title: 42
 usc_section: "3514a"
 chapter: 43
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3514a"
-generated_at: "2026-03-30T01:33:40.020Z"
+generated_at: "2026-03-30T01:37:20.957Z"
 ---
 
 # § 3514a. Nonrecurring expenses fund

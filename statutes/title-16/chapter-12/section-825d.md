@@ -3,9 +3,9 @@ title: "Section 825d - Officials dealing in securities"
 usc_title: 16
 usc_section: "825d"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 825d"
-generated_at: "2026-03-30T01:32:02.232Z"
+generated_at: "2026-03-30T01:35:15.481Z"
 ---
 
 # § 825d. Officials dealing in securities

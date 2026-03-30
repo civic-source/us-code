@@ -3,9 +3,9 @@ title: "Section 22908 - Restoration and enhancement grants"
 usc_title: 49
 usc_section: "22908"
 chapter: 229
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 22908"
-generated_at: "2026-03-30T01:33:49.581Z"
+generated_at: "2026-03-30T01:37:42.418Z"
 ---
 
 # § 22908. Restoration and enhancement grants

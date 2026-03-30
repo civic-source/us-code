@@ -3,9 +3,9 @@ title: "Section 19171 - Definition"
 usc_title: 42
 usc_section: "19171"
 chapter: 163
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 19171"
-generated_at: "2026-03-30T01:33:40.397Z"
+generated_at: "2026-03-30T01:37:21.310Z"
 ---
 
 # § 19171. Definition

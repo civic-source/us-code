@@ -3,9 +3,9 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-30T01:34:01.642Z"
+generated_at: "2026-03-30T01:37:59.464Z"
 ---
 
 # § 3955. Termination of residential or motor vehicle leases

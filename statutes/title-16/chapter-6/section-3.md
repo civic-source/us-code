@@ -3,9 +3,9 @@ title: "Section 3 - Administration of National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T01:32:02.217Z"
+generated_at: "2026-03-30T01:35:15.466Z"
 ---
 
 # § 698u–3. Administration of National Preserve

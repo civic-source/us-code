@@ -3,9 +3,9 @@ title: "Section 2101 - Effective date"
 usc_title: 48
 usc_section: "2101"
 chapter: 20
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 2101"
-generated_at: "2026-03-30T01:33:44.447Z"
+generated_at: "2026-03-30T01:37:24.754Z"
 ---
 
 # § 2101. Effective date

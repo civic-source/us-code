@@ -3,9 +3,9 @@ title: "Section 4504 - Authority to make payments; purposes"
 usc_title: 22
 usc_section: "4504"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4504"
-generated_at: "2026-03-30T01:32:53.374Z"
+generated_at: "2026-03-30T01:35:27.066Z"
 ---
 
 # § 4504. Authority to make payments; purposes

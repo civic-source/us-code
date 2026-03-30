@@ -3,9 +3,9 @@ title: "Section 4649 - Consultations on appointment and funding of rapid respons
 usc_title: 19
 usc_section: "4649"
 chapter: 29
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 4649"
-generated_at: "2026-03-30T01:31:58.699Z"
+generated_at: "2026-03-30T01:35:17.931Z"
 ---
 
 # § 4649. Consultations on appointment and funding of rapid response labor panelists

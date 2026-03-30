@@ -3,9 +3,9 @@ title: "Section 320104 - Jurisdiction of States in acquired land"
 usc_title: 54
 usc_section: "320104"
 chapter: 3201
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "54 U.S.C. § 320104"
-generated_at: "2026-03-30T01:34:10.340Z"
+generated_at: "2026-03-30T01:38:01.867Z"
 ---
 
 # § 320104. Jurisdiction of States in acquired land

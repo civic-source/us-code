@@ -3,9 +3,9 @@ title: "Section 1168 - Civil service retirement benefits"
 usc_title: 16
 usc_section: "1168"
 chapter: 24
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 1168"
-generated_at: "2026-03-30T01:32:02.249Z"
+generated_at: "2026-03-30T01:35:15.497Z"
 ---
 
 # § 1168. Civil service retirement benefits

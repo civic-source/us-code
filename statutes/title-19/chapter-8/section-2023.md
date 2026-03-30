@@ -3,9 +3,9 @@ title: "Section 2023 - Omitted"
 usc_title: 19
 usc_section: "2023"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 2023"
-generated_at: "2026-03-30T01:31:58.652Z"
+generated_at: "2026-03-30T01:35:17.889Z"
 ---
 
 # §§ 2022, 2023. Omitted

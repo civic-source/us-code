@@ -3,9 +3,9 @@ title: "Section 85 - Concessions"
 usc_title: 20
 usc_section: "85"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 85"
-generated_at: "2026-03-30T01:32:23.052Z"
+generated_at: "2026-03-30T01:35:10.315Z"
 ---
 
 # § 85. Concessions

@@ -3,9 +3,9 @@ title: "Section 2711 - Application for warrant"
 usc_title: 28
 usc_section: "2711"
 chapter: 173
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 2711"
-generated_at: "2026-03-30T01:33:00.299Z"
+generated_at: "2026-03-30T01:35:43.618Z"
 ---
 
 # § 2711. Application for warrant

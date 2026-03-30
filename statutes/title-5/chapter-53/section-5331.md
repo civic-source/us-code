@@ -3,9 +3,9 @@ title: "Section 5331 - Definitions; application"
 usc_title: 5
 usc_section: "5331"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5331"
-generated_at: "2026-03-30T01:31:06.775Z"
+generated_at: "2026-03-30T01:34:27.232Z"
 ---
 
 # § 5331. Definitions; application

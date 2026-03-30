@@ -3,9 +3,9 @@ title: "Section 3851 - Experienced services program"
 usc_title: 16
 usc_section: "3851"
 chapter: 58
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 3851"
-generated_at: "2026-03-30T01:32:02.316Z"
+generated_at: "2026-03-30T01:35:15.561Z"
 ---
 
 # § 3851. Experienced services program

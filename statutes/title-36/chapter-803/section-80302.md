@@ -3,9 +3,9 @@ title: "Section 80302 - Purposes"
 usc_title: 36
 usc_section: "80302"
 chapter: 803
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "36 U.S.C. § 80302"
-generated_at: "2026-03-30T01:33:17.146Z"
+generated_at: "2026-03-30T01:36:25.168Z"
 ---
 
 # § 80302. Purposes

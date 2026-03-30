@@ -3,9 +3,9 @@ title: "Section 396f - Acquisition of private lands; creation of surplus propert
 usc_title: 16
 usc_section: "396f"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 396f"
-generated_at: "2026-03-30T01:32:02.111Z"
+generated_at: "2026-03-30T01:35:15.362Z"
 ---
 
 # § 396f. Acquisition of private lands; creation of surplus property accounts; transfer and sale of accounts

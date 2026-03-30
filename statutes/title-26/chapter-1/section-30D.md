@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T01:33:05.302Z"
+generated_at: "2026-03-30T01:35:53.723Z"
 ---
 
 # § 30D. Clean vehicle credit

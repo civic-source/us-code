@@ -3,9 +3,9 @@ title: "Section 10367 - Water data enhancement by United States Geological Surve
 usc_title: 42
 usc_section: "10367"
 chapter: 109
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 10367"
-generated_at: "2026-03-30T01:33:40.233Z"
+generated_at: "2026-03-30T01:37:21.160Z"
 ---
 
 # § 10367. Water data enhancement by United States Geological Survey

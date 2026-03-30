@@ -3,9 +3,9 @@ title: "Section 719 - Research projects; transactions other than contracts and g
 usc_title: 14
 usc_section: "719"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "14 U.S.C. § 719"
-generated_at: "2026-03-30T01:31:27.374Z"
+generated_at: "2026-03-30T01:35:02.890Z"
 ---
 
 # § 719. Research projects; transactions other than contracts and grants

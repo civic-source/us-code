@@ -3,9 +3,9 @@ title: "Section 657p - Outreach regarding health insurance options available to 
 usc_title: 15
 usc_section: "657p"
 chapter: 14
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 657p"
-generated_at: "2026-03-30T01:31:32.472Z"
+generated_at: "2026-03-30T01:34:58.955Z"
 ---
 
 # § 657p. Outreach regarding health insurance options available to children

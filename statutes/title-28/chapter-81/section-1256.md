@@ -3,9 +3,9 @@ title: "Section 1256 - Repealed. Pub. L. 97–164, title I, § 123 , Apr. 2, 198
 usc_title: 28
 usc_section: "1256"
 chapter: 81
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 1256"
-generated_at: "2026-03-30T01:33:00.286Z"
+generated_at: "2026-03-30T01:35:43.606Z"
 ---
 
 # [§§ 1255, 1256. Repealed. Pub. L. 97–164, title I, § 123 , Apr. 2, 1982 , 96 Stat. 36 ]

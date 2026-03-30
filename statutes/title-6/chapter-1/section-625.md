@@ -3,9 +3,9 @@ title: "Section 625 - Whistleblower protections"
 usc_title: 6
 usc_section: "625"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "6 U.S.C. § 625"
-generated_at: "2026-03-30T01:31:09.543Z"
+generated_at: "2026-03-30T01:34:38.936Z"
 ---
 
 # § 625. Whistleblower protections

@@ -3,9 +3,9 @@ title: "Section 12872 - Planning grants"
 usc_title: 42
 usc_section: "12872"
 chapter: 130
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 12872"
-generated_at: "2026-03-30T01:33:40.283Z"
+generated_at: "2026-03-30T01:37:21.205Z"
 ---
 
 # § 12872. Planning grants

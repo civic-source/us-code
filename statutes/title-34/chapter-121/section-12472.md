@@ -3,9 +3,9 @@ title: "Section 12472 - Purpose"
 usc_title: 34
 usc_section: "12472"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 12472"
-generated_at: "2026-03-30T01:33:13.199Z"
+generated_at: "2026-03-30T01:36:16.009Z"
 ---
 
 # § 12472. Purpose

@@ -3,9 +3,9 @@ title: "Section 277 - Former Apache military post established as Theodore Roosev
 usc_title: 25
 usc_section: "277"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "25 U.S.C. § 277"
-generated_at: "2026-03-30T01:32:46.553Z"
+generated_at: "2026-03-30T01:35:34.088Z"
 ---
 
 # § 277. Former Apache military post established as Theodore Roosevelt Indian School

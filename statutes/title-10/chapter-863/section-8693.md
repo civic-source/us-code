@@ -3,9 +3,9 @@ title: "Section 8693 - Biennial report on shipbuilder training and the defense i
 usc_title: 10
 usc_section: "8693"
 chapter: 863
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 8693"
-generated_at: "2026-03-30T01:31:16.560Z"
+generated_at: "2026-03-30T01:34:43.587Z"
 ---
 
 # § 8693. Biennial report on shipbuilder training and the defense industrial base

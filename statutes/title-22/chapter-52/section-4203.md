@@ -3,9 +3,9 @@ title: "Section 4203 - Destruction of old invoices"
 usc_title: 22
 usc_section: "4203"
 chapter: 52
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4203"
-generated_at: "2026-03-30T01:32:53.372Z"
+generated_at: "2026-03-30T01:35:27.064Z"
 ---
 
 # § 4203. Destruction of old invoices

@@ -3,9 +3,9 @@ title: "Section 46 - Disclosure to enrollees of individual market coverage"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-30T01:33:39.656Z"
+generated_at: "2026-03-30T01:37:20.600Z"
 ---
 
 # § 300gg–46. Disclosure to enrollees of individual market coverage

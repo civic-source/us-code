@@ -3,9 +3,9 @@ title: "Section 1753 - Voluntary participation; confidentiality"
 usc_title: 38
 usc_section: "1753"
 chapter: 17
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 1753"
-generated_at: "2026-03-30T01:33:18.906Z"
+generated_at: "2026-03-30T01:36:22.191Z"
 ---
 
 # § 1753. Voluntary participation; confidentiality

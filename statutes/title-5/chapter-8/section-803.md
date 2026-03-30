@@ -3,9 +3,9 @@ title: "Section 803 - Special rule on statutory, regulatory, and judicial deadli
 usc_title: 5
 usc_section: "803"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 803"
-generated_at: "2026-03-30T01:31:06.761Z"
+generated_at: "2026-03-30T01:34:27.217Z"
 ---
 
 # § 803. Special rule on statutory, regulatory, and judicial deadlines

@@ -3,9 +3,9 @@ title: "Section 6938 - Export of hazardous wastes"
 usc_title: 42
 usc_section: "6938"
 chapter: 82
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 6938"
-generated_at: "2026-03-30T01:33:40.112Z"
+generated_at: "2026-03-30T01:37:21.045Z"
 ---
 
 # § 6938. Export of hazardous wastes

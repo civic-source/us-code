@@ -3,9 +3,9 @@ title: "Section 3769d - Repealed. Pub. L. 109–162, title XI, § 1154(a) , Jan.
 usc_title: 42
 usc_section: "3769d"
 chapter: 46
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3769d"
-generated_at: "2026-03-30T01:33:40.026Z"
+generated_at: "2026-03-30T01:37:20.962Z"
 ---
 
 # §§ 3769 to 3769d. Repealed. Pub. L. 109–162, title XI, § 1154(a) , Jan. 5, 2006 , 119 Stat. 3113

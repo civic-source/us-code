@@ -3,9 +3,9 @@ title: "Section 3503 - Revolving fund"
 usc_title: 40
 usc_section: "3503"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "40 U.S.C. § 3503"
-generated_at: "2026-03-30T01:33:15.496Z"
+generated_at: "2026-03-30T01:36:18.597Z"
 ---
 
 # § 3503. Revolving fund

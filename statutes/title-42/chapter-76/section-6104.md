@@ -3,9 +3,9 @@ title: "Section 6104 - Enforcement"
 usc_title: 42
 usc_section: "6104"
 chapter: 76
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 6104"
-generated_at: "2026-03-30T01:33:40.078Z"
+generated_at: "2026-03-30T01:37:21.012Z"
 ---
 
 # § 6104. Enforcement

@@ -3,9 +3,9 @@ title: "Section 10a - Consultation"
 usc_title: 15
 usc_section: "10a"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 10a"
-generated_at: "2026-03-30T01:31:32.440Z"
+generated_at: "2026-03-30T01:34:58.922Z"
 ---
 
 # § 80b–10a. Consultation

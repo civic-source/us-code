@@ -3,9 +3,9 @@ title: "Section 421 - Examination of plates and dies"
 usc_title: 12
 usc_section: "421"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 421"
-generated_at: "2026-03-30T01:31:52.499Z"
+generated_at: "2026-03-30T01:35:04.832Z"
 ---
 
 # § 421. Examination of plates and dies

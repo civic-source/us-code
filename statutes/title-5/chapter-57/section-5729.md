@@ -3,9 +3,9 @@ title: "Section 5729 - Transportation expenses; prior return of family"
 usc_title: 5
 usc_section: "5729"
 chapter: 57
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5729"
-generated_at: "2026-03-30T01:31:06.783Z"
+generated_at: "2026-03-30T01:34:27.240Z"
 ---
 
 # § 5729. Transportation expenses; prior return of family

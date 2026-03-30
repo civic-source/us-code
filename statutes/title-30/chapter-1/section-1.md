@@ -3,9 +3,9 @@ title: "Section 1 - United States Bureau of Mines; establishment; director; expe
 usc_title: 30
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-30T01:32:59.479Z"
+generated_at: "2026-03-30T01:35:36.429Z"
 ---
 
 # § 1. United States Bureau of Mines; establishment; director; experts and other employees

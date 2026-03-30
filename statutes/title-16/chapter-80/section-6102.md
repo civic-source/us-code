@@ -3,9 +3,9 @@ title: "Section 6102 - Purposes"
 usc_title: 16
 usc_section: "6102"
 chapter: 80
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 6102"
-generated_at: "2026-03-30T01:32:02.331Z"
+generated_at: "2026-03-30T01:35:15.574Z"
 ---
 
 # § 6102. Purposes

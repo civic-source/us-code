@@ -3,9 +3,9 @@ title: "Section 8783 - Applicability to certain natural gas projects"
 usc_title: 22
 usc_section: "8783"
 chapter: 94
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 8783"
-generated_at: "2026-03-30T01:32:53.429Z"
+generated_at: "2026-03-30T01:35:27.110Z"
 ---
 
 # § 8783. Applicability to certain natural gas projects

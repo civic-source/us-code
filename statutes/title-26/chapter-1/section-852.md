@@ -3,9 +3,9 @@ title: "Section 852 - Taxation of regulated investment companies and their share
 usc_title: 26
 usc_section: "852"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 852"
-generated_at: "2026-03-30T01:33:05.435Z"
+generated_at: "2026-03-30T01:35:53.850Z"
 ---
 
 # § 852. Taxation of regulated investment companies and their shareholders

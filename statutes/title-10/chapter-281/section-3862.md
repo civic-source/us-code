@@ -3,9 +3,9 @@ title: "Section 3862 - Requests for equitable adjustment or other relief"
 usc_title: 10
 usc_section: "3862"
 chapter: 281
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 3862"
-generated_at: "2026-03-30T01:31:16.530Z"
+generated_at: "2026-03-30T01:34:43.558Z"
 ---
 
 # § 3862. Requests for equitable adjustment or other relief

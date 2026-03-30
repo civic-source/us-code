@@ -3,9 +3,9 @@ title: "Section 7276a - Technical assistance"
 usc_title: 42
 usc_section: "7276a"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 7276a"
-generated_at: "2026-03-30T01:33:40.127Z"
+generated_at: "2026-03-30T01:37:21.060Z"
 ---
 
 # § 7276a. Technical assistance

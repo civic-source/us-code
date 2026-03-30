@@ -3,9 +3,9 @@ title: "Section 20214 - Information furnished to selection boards"
 usc_title: 10
 usc_section: "20214"
 chapter: 2005
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 20214"
-generated_at: "2026-03-30T01:31:16.584Z"
+generated_at: "2026-03-30T01:34:43.612Z"
 ---
 
 # § 20214. Information furnished to selection boards

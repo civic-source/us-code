@@ -3,9 +3,9 @@ title: "Section 583b - Establishment of sustained-yield units to stabilize sale 
 usc_title: 16
 usc_section: "583b"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 583b"
-generated_at: "2026-03-30T01:32:02.203Z"
+generated_at: "2026-03-30T01:35:15.451Z"
 ---
 
 # § 583b. Establishment of sustained-yield units to stabilize sale of timber and forest products

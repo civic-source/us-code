@@ -3,9 +3,9 @@ title: "Section 20213 - Notice of convening of selection boards"
 usc_title: 10
 usc_section: "20213"
 chapter: 2005
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 20213"
-generated_at: "2026-03-30T01:31:16.584Z"
+generated_at: "2026-03-30T01:34:43.612Z"
 ---
 
 # § 20213. Notice of convening of selection boards

@@ -3,9 +3,9 @@ title: "Section 2017b - Omitted"
 usc_title: 42
 usc_section: "2017b"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 2017b"
-generated_at: "2026-03-30T01:33:39.973Z"
+generated_at: "2026-03-30T01:37:20.913Z"
 ---
 
 # § 2017b. Omitted

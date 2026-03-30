@@ -3,9 +3,9 @@ title: "Section 491 - Nuclear weapons employment strategy of the United States: 
 usc_title: 10
 usc_section: "491"
 chapter: 24
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 491"
-generated_at: "2026-03-30T01:31:16.429Z"
+generated_at: "2026-03-30T01:34:43.460Z"
 ---
 
 # § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy

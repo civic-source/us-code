@@ -3,9 +3,9 @@ title: "Section 1978 - Reinstatement"
 usc_title: 38
 usc_section: "1978"
 chapter: 19
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 1978"
-generated_at: "2026-03-30T01:33:18.911Z"
+generated_at: "2026-03-30T01:36:22.195Z"
 ---
 
 # § 1978. Reinstatement

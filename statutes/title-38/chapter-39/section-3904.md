@@ -3,9 +3,9 @@ title: "Section 3904 - Research and development"
 usc_title: 38
 usc_section: "3904"
 chapter: 39
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 3904"
-generated_at: "2026-03-30T01:33:18.936Z"
+generated_at: "2026-03-30T01:36:22.219Z"
 ---
 
 # § 3904. Research and development

@@ -3,9 +3,9 @@ title: "Section 2294 - Application of State laws"
 usc_title: 19
 usc_section: "2294"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 2294"
-generated_at: "2026-03-30T01:31:58.658Z"
+generated_at: "2026-03-30T01:35:17.894Z"
 ---
 
 # § 2294. Application of State laws

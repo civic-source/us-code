@@ -3,9 +3,9 @@ title: "Section 3502 - Civil penalty"
 usc_title: 7
 usc_section: "3502"
 chapter: 66
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 3502"
-generated_at: "2026-03-30T01:31:25.106Z"
+generated_at: "2026-03-30T01:34:33.675Z"
 ---
 
 # § 3502. Civil penalty

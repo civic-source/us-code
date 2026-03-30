@@ -3,9 +3,9 @@ title: "Section 7469 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7469"
 chapter: 101
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 7469"
-generated_at: "2026-03-30T01:31:25.145Z"
+generated_at: "2026-03-30T01:34:33.713Z"
 ---
 
 # § 7469. Investigations and power to subpoena

@@ -3,9 +3,9 @@ title: "Section 410 - Special provisions concerning the Nuclear Regulatory Commi
 usc_title: 5
 usc_section: "410"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 410"
-generated_at: "2026-03-30T01:31:06.754Z"
+generated_at: "2026-03-30T01:34:27.209Z"
 ---
 
 # § 410. Special provisions concerning the Nuclear Regulatory Commission

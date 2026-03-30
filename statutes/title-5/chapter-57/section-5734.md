@@ -3,9 +3,9 @@ title: "Section 5734 - Travel, transportation, and relocation expenses of employ
 usc_title: 5
 usc_section: "5734"
 chapter: 57
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5734"
-generated_at: "2026-03-30T01:31:06.783Z"
+generated_at: "2026-03-30T01:34:27.241Z"
 ---
 
 # § 5734. Travel, transportation, and relocation expenses of employees transferred from the Postal Service

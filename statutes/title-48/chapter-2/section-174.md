@@ -3,9 +3,9 @@ title: "Section 174 - Repealed. Oct. 31, 1951, ch. 654, § 1(125) , 65 Stat. 706
 usc_title: 48
 usc_section: "174"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 174"
-generated_at: "2026-03-30T01:33:44.424Z"
+generated_at: "2026-03-30T01:37:24.732Z"
 ---
 
 # § 174. Repealed. Oct. 31, 1951, ch. 654, § 1(125) , 65 Stat. 706

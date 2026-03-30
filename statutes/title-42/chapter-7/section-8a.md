@@ -3,9 +3,9 @@ title: "Section 8a - Administrative procedure for imposing penalties for false o
 usc_title: 42
 usc_section: "8a"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 8a"
-generated_at: "2026-03-30T01:33:39.737Z"
+generated_at: "2026-03-30T01:37:20.679Z"
 ---
 
 # § 1320a–8a. Administrative procedure for imposing penalties for false or misleading statements

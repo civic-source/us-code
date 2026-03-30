@@ -3,9 +3,9 @@ title: "Section 4314 - Limitation on allowance authority of Committee on House O
 usc_title: 2
 usc_section: "4314"
 chapter: 43
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 4314"
-generated_at: "2026-03-30T01:31:00.789Z"
+generated_at: "2026-03-30T01:34:23.560Z"
 ---
 
 # § 4314. Limitation on allowance authority of Committee on House Oversight

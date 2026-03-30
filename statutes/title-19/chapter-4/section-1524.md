@@ -3,9 +3,9 @@ title: "Section 1524 - Deposit of reimbursable charges"
 usc_title: 19
 usc_section: "1524"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 1524"
-generated_at: "2026-03-30T01:31:58.634Z"
+generated_at: "2026-03-30T01:35:17.873Z"
 ---
 
 # § 1524. Deposit of reimbursable charges

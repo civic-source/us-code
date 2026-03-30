@@ -3,9 +3,9 @@ title: "Section 2281 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "2281"
 chapter: 24
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 2281"
-generated_at: "2026-03-30T01:31:52.633Z"
+generated_at: "2026-03-30T01:35:04.928Z"
 ---
 
 # § 2281. Congressional findings and declaration of purpose

@@ -3,9 +3,9 @@ title: "Section 5116g - National network for community-based family resource pro
 usc_title: 42
 usc_section: "5116g"
 chapter: 67
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 5116g"
-generated_at: "2026-03-30T01:33:40.054Z"
+generated_at: "2026-03-30T01:37:20.990Z"
 ---
 
 # § 5116g. National network for community-based family resource programs

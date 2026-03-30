@@ -3,9 +3,9 @@ title: "Section 633 - Retirement for years of service: regular and Space Force l
 usc_title: 10
 usc_section: "633"
 chapter: 36
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 633"
-generated_at: "2026-03-30T01:31:16.436Z"
+generated_at: "2026-03-30T01:34:43.467Z"
 ---
 
 # § 633. Retirement for years of service: regular and Space Force lieutenant colonels; regular Navy commanders

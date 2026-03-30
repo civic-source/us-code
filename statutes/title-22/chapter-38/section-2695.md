@@ -3,9 +3,9 @@ title: "Section 2695 - Administrative services"
 usc_title: 22
 usc_section: "2695"
 chapter: 38
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2695"
-generated_at: "2026-03-30T01:32:53.331Z"
+generated_at: "2026-03-30T01:35:27.032Z"
 ---
 
 # § 2695. Administrative services

@@ -3,9 +3,9 @@ title: "Section 2605 - Cultural Property Advisory Committee"
 usc_title: 19
 usc_section: "2605"
 chapter: 14
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 2605"
-generated_at: "2026-03-30T01:31:58.669Z"
+generated_at: "2026-03-30T01:35:17.904Z"
 ---
 
 # § 2605. Cultural Property Advisory Committee

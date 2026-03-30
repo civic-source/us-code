@@ -3,9 +3,9 @@ title: "Section 136k - Stop sale, use, removal, and seizure"
 usc_title: 7
 usc_section: "136k"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 136k"
-generated_at: "2026-03-30T01:31:24.981Z"
+generated_at: "2026-03-30T01:34:33.564Z"
 ---
 
 # § 136k. Stop sale, use, removal, and seizure

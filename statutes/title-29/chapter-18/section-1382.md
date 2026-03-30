@@ -3,9 +3,9 @@ title: "Section 1382 - Determination and collection of liability; notification o
 usc_title: 29
 usc_section: "1382"
 chapter: 18
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 1382"
-generated_at: "2026-03-30T01:33:06.600Z"
+generated_at: "2026-03-30T01:35:44.687Z"
 ---
 
 # § 1382. Determination and collection of liability; notification of employer

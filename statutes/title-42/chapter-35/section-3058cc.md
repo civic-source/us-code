@@ -3,9 +3,9 @@ title: "Section 3058cc - Administration"
 usc_title: 42
 usc_section: "3058cc"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3058cc"
-generated_at: "2026-03-30T01:33:40.015Z"
+generated_at: "2026-03-30T01:37:20.952Z"
 ---
 
 # § 3058cc. Administration

@@ -3,9 +3,9 @@ title: "Section 6314 - Mail, telegraph, telephone, stationery, office supplies, 
 usc_title: 2
 usc_section: "6314"
 chapter: 63
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 6314"
-generated_at: "2026-03-30T01:31:00.797Z"
+generated_at: "2026-03-30T01:34:23.568Z"
 ---
 
 # § 6314. Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators

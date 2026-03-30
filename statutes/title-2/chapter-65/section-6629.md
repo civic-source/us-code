@@ -3,9 +3,9 @@ title: "Section 6629 - Purchase, lease, exchange, maintenance, and operation of 
 usc_title: 2
 usc_section: "6629"
 chapter: 65
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 6629"
-generated_at: "2026-03-30T01:31:00.799Z"
+generated_at: "2026-03-30T01:34:23.571Z"
 ---
 
 # § 6629. Purchase, lease, exchange, maintenance, and operation of vehicles out of account for Sergeant at Arms and Doorkeeper of Senate within Senate contingent fund; authorization of appropriations

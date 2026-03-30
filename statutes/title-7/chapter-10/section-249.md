@@ -3,9 +3,9 @@ title: "Section 249 - Transfer of stored agricultural products"
 usc_title: 7
 usc_section: "249"
 chapter: 10
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 249"
-generated_at: "2026-03-30T01:31:24.997Z"
+generated_at: "2026-03-30T01:34:33.579Z"
 ---
 
 # § 249. Transfer of stored agricultural products

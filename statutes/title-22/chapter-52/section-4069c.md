@@ -3,9 +3,9 @@ title: "Section 4069c - Health benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069c"
 chapter: 52
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4069c"
-generated_at: "2026-03-30T01:32:53.366Z"
+generated_at: "2026-03-30T01:35:27.059Z"
 ---
 
 # § 4069c. Health benefits for certain former spouses

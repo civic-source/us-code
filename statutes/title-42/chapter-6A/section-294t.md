@@ -3,9 +3,9 @@ title: "Section 294t - Programs to promote mental health among the health profes
 usc_title: 42
 usc_section: "294t"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 294t"
-generated_at: "2026-03-30T01:33:39.594Z"
+generated_at: "2026-03-30T01:37:20.540Z"
 ---
 
 # § 294t. Programs to promote mental health among the health professional workforce

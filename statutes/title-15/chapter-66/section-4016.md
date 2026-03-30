@@ -3,9 +3,9 @@ title: "Section 4016 - Protection conferred by certificate of review"
 usc_title: 15
 usc_section: "4016"
 chapter: 66
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 4016"
-generated_at: "2026-03-30T01:31:32.558Z"
+generated_at: "2026-03-30T01:34:59.044Z"
 ---
 
 # § 4016. Protection conferred by certificate of review

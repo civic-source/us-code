@@ -3,9 +3,9 @@ title: "Section 2205 - Interest rates"
 usc_title: 12
 usc_section: "2205"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 2205"
-generated_at: "2026-03-30T01:31:52.621Z"
+generated_at: "2026-03-30T01:35:04.919Z"
 ---
 
 # § 2205. Interest rates

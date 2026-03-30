@@ -3,9 +3,9 @@ title: "Section 8343a - Alternative forms of annuities"
 usc_title: 5
 usc_section: "8343a"
 chapter: 83
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 8343a"
-generated_at: "2026-03-30T01:31:06.800Z"
+generated_at: "2026-03-30T01:34:27.257Z"
 ---
 
 # § 8343a. Alternative forms of annuities

@@ -3,9 +3,9 @@ title: "Section 20217 - Action on reports of selection boards for promotion to b
 usc_title: 10
 usc_section: "20217"
 chapter: 2005
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 20217"
-generated_at: "2026-03-30T01:31:16.584Z"
+generated_at: "2026-03-30T01:34:43.612Z"
 ---
 
 # § 20217. Action on reports of selection boards for promotion to brigadier general or major general

@@ -3,9 +3,9 @@ title: "Section 1743 - Awards to recognize members of the acquisition workforce"
 usc_title: 10
 usc_section: "1743"
 chapter: 87
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1743"
-generated_at: "2026-03-30T01:31:16.485Z"
+generated_at: "2026-03-30T01:34:43.514Z"
 ---
 
 # § 1743. Awards to recognize members of the acquisition workforce

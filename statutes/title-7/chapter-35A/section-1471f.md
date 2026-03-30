@@ -3,9 +3,9 @@ title: "Section 1471f - Use of Commodity Credit Corporation"
 usc_title: 7
 usc_section: "1471f"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1471f"
-generated_at: "2026-03-30T01:31:25.031Z"
+generated_at: "2026-03-30T01:34:33.607Z"
 ---
 
 # § 1471f. Use of Commodity Credit Corporation

@@ -3,9 +3,9 @@ title: "Section 918a - Energy generation, transmission, and distribution facilit
 usc_title: 7
 usc_section: "918a"
 chapter: 31
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 918a"
-generated_at: "2026-03-30T01:31:25.011Z"
+generated_at: "2026-03-30T01:34:33.590Z"
 ---
 
 # § 918a. Energy generation, transmission, and distribution facilities efficiency grants and loans in rural communities with extremely high energy costs

@@ -3,9 +3,9 @@ title: "Section 5119c - Transferred"
 usc_title: 42
 usc_section: "5119c"
 chapter: 67
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 5119c"
-generated_at: "2026-03-30T01:33:40.056Z"
+generated_at: "2026-03-30T01:37:20.990Z"
 ---
 
 # § 5119c. Transferred

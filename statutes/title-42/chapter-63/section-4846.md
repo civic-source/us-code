@@ -3,9 +3,9 @@ title: "Section 4846 - State laws superseded, and null and void"
 usc_title: 42
 usc_section: "4846"
 chapter: 63
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 4846"
-generated_at: "2026-03-30T01:33:40.044Z"
+generated_at: "2026-03-30T01:37:20.980Z"
 ---
 
 # § 4846. State laws superseded, and null and void

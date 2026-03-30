@@ -3,9 +3,9 @@ title: "Section 221 - Accounts and records of business; punishment for failure t
 usc_title: 7
 usc_section: "221"
 chapter: 9
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 221"
-generated_at: "2026-03-30T01:31:24.996Z"
+generated_at: "2026-03-30T01:34:33.578Z"
 ---
 
 # § 221. Accounts and records of business; punishment for failure to keep

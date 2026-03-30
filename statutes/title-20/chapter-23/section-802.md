@@ -3,9 +3,9 @@ title: "Section 802 - Fellowships for city planning, management, housing special
 usc_title: 20
 usc_section: "802"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 802"
-generated_at: "2026-03-30T01:32:23.056Z"
+generated_at: "2026-03-30T01:35:10.317Z"
 ---
 
 # § 802. Fellowships for city planning, management, housing specialists, and persons with general capacity in urban affairs and problems

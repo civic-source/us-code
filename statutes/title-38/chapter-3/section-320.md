@@ -3,9 +3,9 @@ title: "Section 320 - Department of Veterans Affairs-Department of Defense Joint
 usc_title: 38
 usc_section: "320"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 320"
-generated_at: "2026-03-30T01:33:18.888Z"
+generated_at: "2026-03-30T01:36:22.173Z"
 ---
 
 # § 320. Department of Veterans Affairs-Department of Defense Joint Executive Committee

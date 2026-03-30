@@ -3,9 +3,9 @@ title: "Section 80u - National Museum of the American Latino"
 usc_title: 20
 usc_section: "80u"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 80u"
-generated_at: "2026-03-30T01:32:23.052Z"
+generated_at: "2026-03-30T01:35:10.314Z"
 ---
 
 # § 80u. National Museum of the American Latino

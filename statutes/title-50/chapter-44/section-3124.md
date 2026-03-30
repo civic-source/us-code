@@ -3,9 +3,9 @@ title: "Section 3124 - Extraterritorial jurisdiction"
 usc_title: 50
 usc_section: "3124"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "50 U.S.C. § 3124"
-generated_at: "2026-03-30T01:34:01.619Z"
+generated_at: "2026-03-30T01:37:59.440Z"
 ---
 
 # § 3124. Extraterritorial jurisdiction

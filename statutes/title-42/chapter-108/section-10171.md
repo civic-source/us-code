@@ -3,9 +3,9 @@ title: "Section 10171 - Financial arrangements for low-level radioactive waste s
 usc_title: 42
 usc_section: "10171"
 chapter: 108
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 10171"
-generated_at: "2026-03-30T01:33:40.229Z"
+generated_at: "2026-03-30T01:37:21.156Z"
 ---
 
 # § 10171. Financial arrangements for low-level radioactive waste site closure

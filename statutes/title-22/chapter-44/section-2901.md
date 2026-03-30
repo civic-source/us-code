@@ -3,9 +3,9 @@ title: "Section 2901 - Congressional statement of findings and declaration of pu
 usc_title: 22
 usc_section: "2901"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2901"
-generated_at: "2026-03-30T01:32:53.345Z"
+generated_at: "2026-03-30T01:35:27.043Z"
 ---
 
 # § 2901. Congressional statement of findings and declaration of purpose

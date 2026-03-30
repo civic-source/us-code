@@ -3,9 +3,9 @@ title: "Section 5355 - Authorization of appropriations"
 usc_title: 31
 usc_section: "5355"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "31 U.S.C. § 5355"
-generated_at: "2026-03-30T01:33:09.625Z"
+generated_at: "2026-03-30T01:35:57.175Z"
 ---
 
 # § 5355. Authorization of appropriations

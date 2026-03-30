@@ -3,9 +3,9 @@ title: "Section 19058 - Biological field stations and marine laboratories"
 usc_title: 42
 usc_section: "19058"
 chapter: 163
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 19058"
-generated_at: "2026-03-30T01:33:40.393Z"
+generated_at: "2026-03-30T01:37:21.307Z"
 ---
 
 # § 19058. Biological field stations and marine laboratories

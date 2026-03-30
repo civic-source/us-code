@@ -3,9 +3,9 @@ title: "Section 3020 - Advance funding"
 usc_title: 42
 usc_section: "3020"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3020"
-generated_at: "2026-03-30T01:33:40.003Z"
+generated_at: "2026-03-30T01:37:20.942Z"
 ---
 
 # § 3020. Advance funding

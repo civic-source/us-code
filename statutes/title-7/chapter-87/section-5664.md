@@ -3,9 +3,9 @@ title: "Section 5664 - Repealed. Pub. L. 104–127, title II, § 248 , Apr. 4, 1
 usc_title: 7
 usc_section: "5664"
 chapter: 87
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 5664"
-generated_at: "2026-03-30T01:31:25.116Z"
+generated_at: "2026-03-30T01:34:33.685Z"
 ---
 
 # § 5664. Repealed. Pub. L. 104–127, title II, § 248 , Apr. 4, 1996 , 110 Stat. 969

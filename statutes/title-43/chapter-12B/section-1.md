@@ -3,9 +3,9 @@ title: "Section 1 - Top water bank"
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T01:33:22.118Z"
+generated_at: "2026-03-30T01:36:30.365Z"
 ---
 
 # § 620n–1. Top water bank

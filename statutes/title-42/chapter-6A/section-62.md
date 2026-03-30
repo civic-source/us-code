@@ -3,9 +3,9 @@ title: "Section 62 - Supplemental Fund"
 usc_title: 42
 usc_section: "62"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 62"
-generated_at: "2026-03-30T01:33:39.671Z"
+generated_at: "2026-03-30T01:37:20.616Z"
 ---
 
 # § 300mm–62. Supplemental Fund

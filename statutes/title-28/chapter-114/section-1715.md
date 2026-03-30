@@ -3,9 +3,9 @@ title: "Section 1715 - Notifications to appropriate Federal and State officials"
 usc_title: 28
 usc_section: "1715"
 chapter: 114
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 1715"
-generated_at: "2026-03-30T01:33:00.290Z"
+generated_at: "2026-03-30T01:35:43.611Z"
 ---
 
 # § 1715. Notifications to appropriate Federal and State officials

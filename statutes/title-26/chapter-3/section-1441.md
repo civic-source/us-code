@@ -3,9 +3,9 @@ title: "Section 1441 - Withholding of tax on nonresident aliens"
 usc_title: 26
 usc_section: "1441"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 1441"
-generated_at: "2026-03-30T01:33:05.474Z"
+generated_at: "2026-03-30T01:35:53.889Z"
 ---
 
 # § 1441. Withholding of tax on nonresident aliens

@@ -3,9 +3,9 @@ title: "Section 6725 - Statement of assurances as prerequisite for payments; rul
 usc_title: 42
 usc_section: "6725"
 chapter: 80
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 6725"
-generated_at: "2026-03-30T01:33:40.103Z"
+generated_at: "2026-03-30T01:37:21.037Z"
 ---
 
 # § 6725. Statement of assurances as prerequisite for payments; rules governing time and manner of filing; contents of statement

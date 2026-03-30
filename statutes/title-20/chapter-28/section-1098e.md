@@ -3,9 +3,9 @@ title: "Section 1098e - Income-based repayment"
 usc_title: 20
 usc_section: "1098e"
 chapter: 28
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 1098e"
-generated_at: "2026-03-30T01:32:23.108Z"
+generated_at: "2026-03-30T01:35:10.363Z"
 ---
 
 # § 1098e. Income-based repayment

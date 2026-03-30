@@ -3,9 +3,9 @@ title: "Section 588 - Separability"
 usc_title: 7
 usc_section: "588"
 chapter: 25
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 588"
-generated_at: "2026-03-30T01:31:25.005Z"
+generated_at: "2026-03-30T01:34:33.586Z"
 ---
 
 # § 588. Separability

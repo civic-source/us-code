@@ -3,9 +3,9 @@ title: "Section 1414 - Evaluations, eligibility determinations, individualized e
 usc_title: 20
 usc_section: "1414"
 chapter: 33
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 1414"
-generated_at: "2026-03-30T01:32:23.130Z"
+generated_at: "2026-03-30T01:35:10.383Z"
 ---
 
 # § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements

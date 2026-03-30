@@ -3,9 +3,9 @@ title: "Section 3041 - Involuntary retirement or separation"
 usc_title: 33
 usc_section: "3041"
 chapter: 43
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 3041"
-generated_at: "2026-03-30T01:33:10.840Z"
+generated_at: "2026-03-30T01:35:59.011Z"
 ---
 
 # § 3041. Involuntary retirement or separation

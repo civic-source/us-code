@@ -3,9 +3,9 @@ title: "Section 12808 - Second mortgage assistance for first-time homebuyers"
 usc_title: 42
 usc_section: "12808"
 chapter: 130
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 12808"
-generated_at: "2026-03-30T01:33:40.281Z"
+generated_at: "2026-03-30T01:37:21.204Z"
 ---
 
 # § 12808. Second mortgage assistance for first-time homebuyers

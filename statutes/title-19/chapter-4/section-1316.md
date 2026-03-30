@@ -3,9 +3,9 @@ title: "Section 1316 - Omitted"
 usc_title: 19
 usc_section: "1316"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 1316"
-generated_at: "2026-03-30T01:31:58.622Z"
+generated_at: "2026-03-30T01:35:17.862Z"
 ---
 
 # § 1316. Omitted

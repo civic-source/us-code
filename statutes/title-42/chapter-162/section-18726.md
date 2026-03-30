@@ -3,9 +3,9 @@ title: "Section 18726 - Savings provision"
 usc_title: 42
 usc_section: "18726"
 chapter: 162
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 18726"
-generated_at: "2026-03-30T01:33:40.382Z"
+generated_at: "2026-03-30T01:37:21.295Z"
 ---
 
 # § 18726. Savings provision

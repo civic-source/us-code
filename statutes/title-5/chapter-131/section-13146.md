@@ -3,9 +3,9 @@ title: "Section 13146 - Conditional termination"
 usc_title: 5
 usc_section: "13146"
 chapter: 131
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 13146"
-generated_at: "2026-03-30T01:31:06.819Z"
+generated_at: "2026-03-30T01:34:27.276Z"
 ---
 
 # § 13146. Conditional termination

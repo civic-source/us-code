@@ -3,9 +3,9 @@ title: "Section 214 - Effective date of orders"
 usc_title: 7
 usc_section: "214"
 chapter: 9
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 214"
-generated_at: "2026-03-30T01:31:24.996Z"
+generated_at: "2026-03-30T01:34:33.577Z"
 ---
 
 # § 214. Effective date of orders

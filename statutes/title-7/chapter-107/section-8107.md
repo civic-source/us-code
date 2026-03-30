@@ -3,9 +3,9 @@ title: "Section 8107 - Rural Energy for America Program"
 usc_title: 7
 usc_section: "8107"
 chapter: 107
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 8107"
-generated_at: "2026-03-30T01:31:25.159Z"
+generated_at: "2026-03-30T01:34:33.727Z"
 ---
 
 # § 8107. Rural Energy for America Program

@@ -3,9 +3,9 @@ title: "Section 4551 - USMCA article impact in import relief cases under Trade A
 usc_title: 19
 usc_section: "4551"
 chapter: 29
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 4551"
-generated_at: "2026-03-30T01:31:58.697Z"
+generated_at: "2026-03-30T01:35:17.929Z"
 ---
 
 # § 4551. USMCA article impact in import relief cases under Trade Act of 1974

@@ -3,9 +3,9 @@ title: "Section 1102 - National Domestic Preparedness Consortium"
 usc_title: 6
 usc_section: "1102"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "6 U.S.C. § 1102"
-generated_at: "2026-03-30T01:31:09.554Z"
+generated_at: "2026-03-30T01:34:38.947Z"
 ---
 
 # § 1102. National Domestic Preparedness Consortium

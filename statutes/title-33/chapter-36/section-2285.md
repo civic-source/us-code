@@ -3,9 +3,9 @@ title: "Section 2285 - Environmental Protection and Mitigation Fund"
 usc_title: 33
 usc_section: "2285"
 chapter: 36
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 2285"
-generated_at: "2026-03-30T01:33:10.823Z"
+generated_at: "2026-03-30T01:35:58.996Z"
 ---
 
 # § 2285. Environmental Protection and Mitigation Fund

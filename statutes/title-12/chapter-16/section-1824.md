@@ -3,9 +3,9 @@ title: "Section 1824 - Borrowing authority"
 usc_title: 12
 usc_section: "1824"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 1824"
-generated_at: "2026-03-30T01:31:52.594Z"
+generated_at: "2026-03-30T01:35:04.900Z"
 ---
 
 # § 1824. Borrowing authority

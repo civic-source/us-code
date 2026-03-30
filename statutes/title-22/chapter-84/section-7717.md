@@ -3,9 +3,9 @@ title: "Section 7717 - Personnel outside the United States"
 usc_title: 22
 usc_section: "7717"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 7717"
-generated_at: "2026-03-30T01:32:53.417Z"
+generated_at: "2026-03-30T01:35:27.099Z"
 ---
 
 # § 7717. Personnel outside the United States

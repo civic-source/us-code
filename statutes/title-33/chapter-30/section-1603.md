@@ -3,9 +3,9 @@ title: "Section 1603 - Vessels subject to International Regulations"
 usc_title: 33
 usc_section: "1603"
 chapter: 30
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 1603"
-generated_at: "2026-03-30T01:33:10.813Z"
+generated_at: "2026-03-30T01:35:58.986Z"
 ---
 
 # § 1603. Vessels subject to International Regulations

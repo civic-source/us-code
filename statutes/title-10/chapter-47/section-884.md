@@ -3,9 +3,9 @@ title: "Section 884 - Art. 84. Breach of medical quarantine"
 usc_title: 10
 usc_section: "884"
 chapter: 47
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 884"
-generated_at: "2026-03-30T01:31:16.446Z"
+generated_at: "2026-03-30T01:34:43.476Z"
 ---
 
 # § 884. Art. 84. Breach of medical quarantine

@@ -3,9 +3,9 @@ title: "Section 7018 - Administrative Assistant"
 usc_title: 10
 usc_section: "7018"
 chapter: 703
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 7018"
-generated_at: "2026-03-30T01:31:16.544Z"
+generated_at: "2026-03-30T01:34:43.571Z"
 ---
 
 # § 7018. Administrative Assistant

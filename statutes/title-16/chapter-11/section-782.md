@@ -3,9 +3,9 @@ title: "Section 782 - Sponges of less than prescribed size; possession prima fac
 usc_title: 16
 usc_section: "782"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 782"
-generated_at: "2026-03-30T01:32:02.225Z"
+generated_at: "2026-03-30T01:35:15.474Z"
 ---
 
 # § 782. Sponges of less than prescribed size; possession prima facie evidence

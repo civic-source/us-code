@@ -3,9 +3,9 @@ title: "Section 5624 - Low-cost alternatives to small dollar loans"
 usc_title: 12
 usc_section: "5624"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 5624"
-generated_at: "2026-03-30T01:31:52.707Z"
+generated_at: "2026-03-30T01:35:04.986Z"
 ---
 
 # § 5624. Low-cost alternatives to small dollar loans

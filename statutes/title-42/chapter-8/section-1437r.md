@@ -3,9 +3,9 @@ title: "Section 1437r - Public housing resident management"
 usc_title: 42
 usc_section: "1437r"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1437r"
-generated_at: "2026-03-30T01:33:39.912Z"
+generated_at: "2026-03-30T01:37:20.848Z"
 ---
 
 # § 1437r. Public housing resident management

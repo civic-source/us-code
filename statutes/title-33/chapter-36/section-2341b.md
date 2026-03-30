@@ -3,9 +3,9 @@ title: "Section 2341b - Prioritization of certain projects"
 usc_title: 33
 usc_section: "2341b"
 chapter: 36
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 2341b"
-generated_at: "2026-03-30T01:33:10.830Z"
+generated_at: "2026-03-30T01:35:59.001Z"
 ---
 
 # § 2341b. Prioritization of certain projects

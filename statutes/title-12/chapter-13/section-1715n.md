@@ -3,9 +3,9 @@ title: "Section 1715n - Miscellaneous mortgage insurance"
 usc_title: 12
 usc_section: "1715n"
 chapter: 13
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 1715n"
-generated_at: "2026-03-30T01:31:52.546Z"
+generated_at: "2026-03-30T01:35:04.864Z"
 ---
 
 # § 1715n. Miscellaneous mortgage insurance

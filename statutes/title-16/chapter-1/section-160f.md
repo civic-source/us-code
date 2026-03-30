@@ -3,9 +3,9 @@ title: "Section 160f - Administration"
 usc_title: 16
 usc_section: "160f"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 160f"
-generated_at: "2026-03-30T01:32:02.099Z"
+generated_at: "2026-03-30T01:35:15.351Z"
 ---
 
 # § 160f. Administration

@@ -3,9 +3,9 @@ title: "Section 7517 - Relationship to other authority"
 usc_title: 22
 usc_section: "7517"
 chapter: 82
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 7517"
-generated_at: "2026-03-30T01:32:53.411Z"
+generated_at: "2026-03-30T01:35:27.095Z"
 ---
 
 # § 7517. Relationship to other authority

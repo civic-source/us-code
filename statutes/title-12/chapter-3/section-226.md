@@ -3,9 +3,9 @@ title: "Section 226 - “Federal Reserve Act”"
 usc_title: 12
 usc_section: "226"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 226"
-generated_at: "2026-03-30T01:31:52.490Z"
+generated_at: "2026-03-30T01:35:04.827Z"
 ---
 
 # § 226. “Federal Reserve Act”

@@ -3,9 +3,9 @@ title: "Section 689d - Acceptance of title to privately owned lands within Tahqu
 usc_title: 16
 usc_section: "689d"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 689d"
-generated_at: "2026-03-30T01:32:02.214Z"
+generated_at: "2026-03-30T01:35:15.462Z"
 ---
 
 # § 689d. Acceptance of title to privately owned lands within Tahquitz Preserve

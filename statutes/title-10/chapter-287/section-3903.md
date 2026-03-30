@@ -3,9 +3,9 @@ title: "Section 3903 - Subcontracting plans: credit for certain purchases"
 usc_title: 10
 usc_section: "3903"
 chapter: 287
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 3903"
-generated_at: "2026-03-30T01:31:16.531Z"
+generated_at: "2026-03-30T01:34:43.559Z"
 ---
 
 # § 3903. Subcontracting plans: credit for certain purchases

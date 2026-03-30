@@ -3,9 +3,9 @@ title: "Section 8225 - Female members: congressional review period for assignmen
 usc_title: 10
 usc_section: "8225"
 chapter: 825
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 8225"
-generated_at: "2026-03-30T01:31:16.553Z"
+generated_at: "2026-03-30T01:34:43.580Z"
 ---
 
 # § 8225. Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines

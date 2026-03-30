@@ -3,9 +3,9 @@ title: "Section 986 - Payments to States and local governments in lieu of taxes;
 usc_title: 33
 usc_section: "986"
 chapter: 19
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 986"
-generated_at: "2026-03-30T01:33:10.783Z"
+generated_at: "2026-03-30T01:35:58.960Z"
 ---
 
 # § 986. Payments to States and local governments in lieu of taxes; tax exemption of Corporation

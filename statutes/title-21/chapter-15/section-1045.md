@@ -3,9 +3,9 @@ title: "Section 1045 - Limitation on entry of eggs and egg products and other ma
 usc_title: 21
 usc_section: "1045"
 chapter: 15
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "21 U.S.C. § 1045"
-generated_at: "2026-03-30T01:32:33.294Z"
+generated_at: "2026-03-30T01:35:24.657Z"
 ---
 
 # § 1045. Limitation on entry of eggs and egg products and other materials into official plants

@@ -3,9 +3,9 @@ title: "Section 805 - Participation by Government in costs of locks, etc."
 usc_title: 16
 usc_section: "805"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 805"
-generated_at: "2026-03-30T01:32:02.226Z"
+generated_at: "2026-03-30T01:35:15.475Z"
 ---
 
 # § 805. Participation by Government in costs of locks, etc.

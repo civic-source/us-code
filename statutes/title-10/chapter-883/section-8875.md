@@ -3,9 +3,9 @@ title: "Section 8875 - Commissions of auctioneers"
 usc_title: 10
 usc_section: "8875"
 chapter: 883
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 8875"
-generated_at: "2026-03-30T01:31:16.562Z"
+generated_at: "2026-03-30T01:34:43.590Z"
 ---
 
 # § 8875. Commissions of auctioneers

@@ -3,9 +3,9 @@ title: "Section 25d - Centers of excellence on services for individuals with fet
 usc_title: 42
 usc_section: "25d"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 25d"
-generated_at: "2026-03-30T01:33:39.575Z"
+generated_at: "2026-03-30T01:37:20.520Z"
 ---
 
 # § 290bb–25d. Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families

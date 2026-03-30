@@ -3,9 +3,9 @@ title: "Section 2125 - Members of the program: exclusion from authorized strengt
 usc_title: 10
 usc_section: "2125"
 chapter: 105
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2125"
-generated_at: "2026-03-30T01:31:16.490Z"
+generated_at: "2026-03-30T01:34:43.519Z"
 ---
 
 # § 2125. Members of the program: exclusion from authorized strengths

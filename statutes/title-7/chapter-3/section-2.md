@@ -3,9 +3,9 @@ title: "Section 2 - Reporting requirements"
 usc_title: 7
 usc_section: "2"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T01:31:24.976Z"
+generated_at: "2026-03-30T01:34:33.559Z"
 ---
 
 # § 87f–2. Reporting requirements

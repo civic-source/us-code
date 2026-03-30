@@ -3,9 +3,9 @@ title: "Section 803 - Board organization"
 usc_title: 2
 usc_section: "803"
 chapter: 19
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 803"
-generated_at: "2026-03-30T01:31:00.765Z"
+generated_at: "2026-03-30T01:34:23.537Z"
 ---
 
 # § 803. Board organization

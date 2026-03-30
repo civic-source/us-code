@@ -3,9 +3,9 @@ title: "Section 3103 - National Employment Conference"
 usc_title: 15
 usc_section: "3103"
 chapter: 58
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 3103"
-generated_at: "2026-03-30T01:31:32.548Z"
+generated_at: "2026-03-30T01:34:59.033Z"
 ---
 
 # § 3103. National Employment Conference

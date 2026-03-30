@@ -3,9 +3,9 @@ title: "Section 25A - American Opportunity and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T01:33:05.300Z"
+generated_at: "2026-03-30T01:35:53.721Z"
 ---
 
 # § 25A. American Opportunity and Lifetime Learning credits

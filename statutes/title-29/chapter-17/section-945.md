@@ -3,9 +3,9 @@ title: "Section 945 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "945"
 chapter: 17
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 945"
-generated_at: "2026-03-30T01:33:06.567Z"
+generated_at: "2026-03-30T01:35:44.658Z"
 ---
 
 # §§ 942 to 945. Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 13, 1982 , 96 Stat. 1357

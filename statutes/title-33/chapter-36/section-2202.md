@@ -3,9 +3,9 @@ title: "Section 2202 - Non-Federal engagement and review"
 usc_title: 33
 usc_section: "2202"
 chapter: 36
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 2202"
-generated_at: "2026-03-30T01:33:10.815Z"
+generated_at: "2026-03-30T01:35:58.988Z"
 ---
 
 # § 2202. Non-Federal engagement and review

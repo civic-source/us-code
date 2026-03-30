@@ -3,9 +3,9 @@ title: "Section 12901 - Purpose"
 usc_title: 42
 usc_section: "12901"
 chapter: 131
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 12901"
-generated_at: "2026-03-30T01:33:40.286Z"
+generated_at: "2026-03-30T01:37:21.206Z"
 ---
 
 # § 12901. Purpose

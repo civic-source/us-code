@@ -3,9 +3,9 @@ title: "Section 10174 - Consideration in siting facilities"
 usc_title: 42
 usc_section: "10174"
 chapter: 108
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 10174"
-generated_at: "2026-03-30T01:33:40.230Z"
+generated_at: "2026-03-30T01:37:21.157Z"
 ---
 
 # § 10174. Consideration in siting facilities

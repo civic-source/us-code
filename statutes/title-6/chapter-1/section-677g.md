@@ -3,9 +3,9 @@ title: "Section 677g - Sunset"
 usc_title: 6
 usc_section: "677g"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "6 U.S.C. § 677g"
-generated_at: "2026-03-30T01:31:09.548Z"
+generated_at: "2026-03-30T01:34:38.942Z"
 ---
 
 # § 677g. Sunset

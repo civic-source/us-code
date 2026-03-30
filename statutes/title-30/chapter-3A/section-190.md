@@ -3,9 +3,9 @@ title: "Section 190 - Oath; requirement; form; blanks"
 usc_title: 30
 usc_section: "190"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "30 U.S.C. § 190"
-generated_at: "2026-03-30T01:32:59.483Z"
+generated_at: "2026-03-30T01:35:36.435Z"
 ---
 
 # § 190. Oath; requirement; form; blanks

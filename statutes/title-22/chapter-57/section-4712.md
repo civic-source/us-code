@@ -3,9 +3,9 @@ title: "Section 4712 - Funding of scholarships for fiscal year 1986 and fiscal y
 usc_title: 22
 usc_section: "4712"
 chapter: 57
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4712"
-generated_at: "2026-03-30T01:32:53.376Z"
+generated_at: "2026-03-30T01:35:27.068Z"
 ---
 
 # § 4712. Funding of scholarships for fiscal year 1986 and fiscal year 1987

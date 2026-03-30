@@ -3,9 +3,9 @@ title: "Section 1862c - Procedures, guidelines, and planning activities"
 usc_title: 42
 usc_section: "1862c"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1862c"
-generated_at: "2026-03-30T01:33:39.949Z"
+generated_at: "2026-03-30T01:37:20.888Z"
 ---
 
 # § 1862c. Procedures, guidelines, and planning activities

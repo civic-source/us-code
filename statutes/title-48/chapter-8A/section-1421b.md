@@ -3,9 +3,9 @@ title: "Section 1421b - Bill of rights"
 usc_title: 48
 usc_section: "1421b"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 1421b"
-generated_at: "2026-03-30T01:33:44.429Z"
+generated_at: "2026-03-30T01:37:24.736Z"
 ---
 
 # § 1421b. Bill of rights

@@ -3,9 +3,9 @@ title: "Section 1059 - Renewal of registration"
 usc_title: 15
 usc_section: "1059"
 chapter: 22
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 1059"
-generated_at: "2026-03-30T01:31:32.490Z"
+generated_at: "2026-03-30T01:34:58.972Z"
 ---
 
 # § 1059. Renewal of registration

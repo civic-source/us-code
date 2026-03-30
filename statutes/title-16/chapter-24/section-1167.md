@@ -3,9 +3,9 @@ title: "Section 1167 - Leases, permits, agreements, and contracts with public or
 usc_title: 16
 usc_section: "1167"
 chapter: 24
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 1167"
-generated_at: "2026-03-30T01:32:02.249Z"
+generated_at: "2026-03-30T01:35:15.497Z"
 ---
 
 # § 1167. Leases, permits, agreements, and contracts with public or private agencies or persons

@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T01:31:16.416Z"
+generated_at: "2026-03-30T01:34:43.447Z"
 ---
 
 # § 179. Nuclear Weapons Council

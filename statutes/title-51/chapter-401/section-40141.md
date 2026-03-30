@@ -3,9 +3,9 @@ title: "Section 40141 - Aviation data requests"
 usc_title: 51
 usc_section: "40141"
 chapter: 401
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "51 U.S.C. § 40141"
-generated_at: "2026-03-30T01:34:03.663Z"
+generated_at: "2026-03-30T01:38:09.295Z"
 ---
 
 # § 40141. Aviation data requests

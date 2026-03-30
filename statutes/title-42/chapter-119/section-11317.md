@@ -3,9 +3,9 @@ title: "Section 11317 - Definitions"
 usc_title: 42
 usc_section: "11317"
 chapter: 119
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 11317"
-generated_at: "2026-03-30T01:33:40.245Z"
+generated_at: "2026-03-30T01:37:21.170Z"
 ---
 
 # § 11317. Definitions

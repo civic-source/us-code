@@ -3,9 +3,9 @@ title: "Section 6603 - Deposits made to suspend running of interest on potential
 usc_title: 26
 usc_section: "6603"
 chapter: 67
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 6603"
-generated_at: "2026-03-30T01:33:05.555Z"
+generated_at: "2026-03-30T01:35:53.967Z"
 ---
 
 # § 6603. Deposits made to suspend running of interest on potential underpayments, etc.

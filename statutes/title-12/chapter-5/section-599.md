@@ -3,9 +3,9 @@ title: "Section 599 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 12
 usc_section: "599"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 599"
-generated_at: "2026-03-30T01:31:52.501Z"
+generated_at: "2026-03-30T01:35:04.834Z"
 ---
 
 # §§ 591 to 599. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

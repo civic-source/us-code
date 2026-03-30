@@ -3,9 +3,9 @@ title: "Section 6514 - Credits or refunds after period of limitation"
 usc_title: 26
 usc_section: "6514"
 chapter: 66
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 6514"
-generated_at: "2026-03-30T01:33:05.554Z"
+generated_at: "2026-03-30T01:35:53.967Z"
 ---
 
 # § 6514. Credits or refunds after period of limitation

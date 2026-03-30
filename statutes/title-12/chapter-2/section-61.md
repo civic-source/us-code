@@ -3,9 +3,9 @@ title: "Section 61 - Shareholders’ voting rights; cumulative and distributive 
 usc_title: 12
 usc_section: "61"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 61"
-generated_at: "2026-03-30T01:31:52.485Z"
+generated_at: "2026-03-30T01:35:04.822Z"
 ---
 
 # § 61. Shareholders’ voting rights; cumulative and distributive voting; preferred stock; trust shares; proxies, liability restrictions; percentage requirement exclusion of trust shares

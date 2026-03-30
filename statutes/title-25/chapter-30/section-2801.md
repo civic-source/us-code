@@ -3,9 +3,9 @@ title: "Section 2801 - Definitions"
 usc_title: 25
 usc_section: "2801"
 chapter: 30
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "25 U.S.C. § 2801"
-generated_at: "2026-03-30T01:32:46.600Z"
+generated_at: "2026-03-30T01:35:34.127Z"
 ---
 
 # § 2801. Definitions

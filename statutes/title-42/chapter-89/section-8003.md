@@ -3,9 +3,9 @@ title: "Section 8003 - Contracts to provide congregate services programs"
 usc_title: 42
 usc_section: "8003"
 chapter: 89
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 8003"
-generated_at: "2026-03-30T01:33:40.174Z"
+generated_at: "2026-03-30T01:37:21.106Z"
 ---
 
 # § 8003. Contracts to provide congregate services programs

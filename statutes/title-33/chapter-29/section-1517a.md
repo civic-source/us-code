@@ -3,9 +3,9 @@ title: "Section 1517a - Omitted"
 usc_title: 33
 usc_section: "1517a"
 chapter: 29
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 1517a"
-generated_at: "2026-03-30T01:33:10.813Z"
+generated_at: "2026-03-30T01:35:58.986Z"
 ---
 
 # § 1517a. Omitted

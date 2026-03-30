@@ -3,9 +3,9 @@ title: "Section 14505 - Effect of failure of selection for promotion: reserve ca
 usc_title: 10
 usc_section: "14505"
 chapter: 1407
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 14505"
-generated_at: "2026-03-30T01:31:16.580Z"
+generated_at: "2026-03-30T01:34:43.608Z"
 ---
 
 # § 14505. Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy

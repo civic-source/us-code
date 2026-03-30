@@ -3,9 +3,9 @@ title: "Section 1122 - Functions"
 usc_title: 41
 usc_section: "1122"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "41 U.S.C. § 1122"
-generated_at: "2026-03-30T01:33:21.047Z"
+generated_at: "2026-03-30T01:36:27.001Z"
 ---
 
 # § 1122. Functions

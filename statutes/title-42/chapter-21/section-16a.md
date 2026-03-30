@@ -3,9 +3,9 @@ title: "Section 16a - Short title; purpose; definition"
 usc_title: 42
 usc_section: "16a"
 chapter: 21
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 16a"
-generated_at: "2026-03-30T01:33:39.968Z"
+generated_at: "2026-03-30T01:37:20.908Z"
 ---
 
 # § 2000e–16a. Short title; purpose; definition

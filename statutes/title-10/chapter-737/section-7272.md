@@ -3,9 +3,9 @@ title: "Section 7272 - Distinguished-service cross: award"
 usc_title: 10
 usc_section: "7272"
 chapter: 737
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 7272"
-generated_at: "2026-03-30T01:31:16.545Z"
+generated_at: "2026-03-30T01:34:43.573Z"
 ---
 
 # § 7272. Distinguished-service cross: award

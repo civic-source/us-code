@@ -3,9 +3,9 @@ title: "Section 845 - Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "845"
 chapter: 14
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "25 U.S.C. § 845"
-generated_at: "2026-03-30T01:32:46.565Z"
+generated_at: "2026-03-30T01:35:34.097Z"
 ---
 
 # § 845. Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92 Stat. 246

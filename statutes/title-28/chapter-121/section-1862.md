@@ -3,9 +3,9 @@ title: "Section 1862 - Discrimination prohibited"
 usc_title: 28
 usc_section: "1862"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 1862"
-generated_at: "2026-03-30T01:33:00.293Z"
+generated_at: "2026-03-30T01:35:43.612Z"
 ---
 
 # § 1862. Discrimination prohibited

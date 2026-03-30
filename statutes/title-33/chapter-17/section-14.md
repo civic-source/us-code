@@ -3,9 +3,9 @@ title: "Section 14 - Membership"
 usc_title: 33
 usc_section: "14"
 chapter: 17
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 14"
-generated_at: "2026-03-30T01:33:10.776Z"
+generated_at: "2026-03-30T01:35:58.955Z"
 ---
 
 # § 857–14. Membership

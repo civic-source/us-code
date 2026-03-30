@@ -3,9 +3,9 @@ title: "Section 259 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 22
 usc_section: "259"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 259"
-generated_at: "2026-03-30T01:32:53.250Z"
+generated_at: "2026-03-30T01:35:26.965Z"
 ---
 
 # § 259. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

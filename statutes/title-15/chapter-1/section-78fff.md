@@ -3,9 +3,9 @@ title: "Section 78fff - General provisions of a liquidation proceeding"
 usc_title: 15
 usc_section: "78fff"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 78fff"
-generated_at: "2026-03-30T01:31:32.429Z"
+generated_at: "2026-03-30T01:34:58.911Z"
 ---
 
 # § 78fff. General provisions of a liquidation proceeding

@@ -3,9 +3,9 @@ title: "Section 62 - List of shareholders"
 usc_title: 12
 usc_section: "62"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 62"
-generated_at: "2026-03-30T01:31:52.485Z"
+generated_at: "2026-03-30T01:35:04.823Z"
 ---
 
 # § 62. List of shareholders

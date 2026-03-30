@@ -3,9 +3,9 @@ title: "Section 1338 - Patents, plant variety protection, copyrights, mask works
 usc_title: 28
 usc_section: "1338"
 chapter: 85
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 1338"
-generated_at: "2026-03-30T01:33:00.286Z"
+generated_at: "2026-03-30T01:35:43.607Z"
 ---
 
 # § 1338. Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition

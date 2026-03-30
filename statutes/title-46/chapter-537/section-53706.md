@@ -3,9 +3,9 @@ title: "Section 53706 - Eligible purposes of obligations"
 usc_title: 46
 usc_section: "53706"
 chapter: 537
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 53706"
-generated_at: "2026-03-30T01:33:45.552Z"
+generated_at: "2026-03-30T01:37:55.457Z"
 ---
 
 # § 53706. Eligible purposes of obligations

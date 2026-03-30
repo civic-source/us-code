@@ -3,9 +3,9 @@ title: "Section 8923 - Sanctions relating to the defense and energy sectors of t
 usc_title: 22
 usc_section: "8923"
 chapter: 96
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 8923"
-generated_at: "2026-03-30T01:32:53.433Z"
+generated_at: "2026-03-30T01:35:27.112Z"
 ---
 
 # § 8923. Sanctions relating to the defense and energy sectors of the Russian Federation

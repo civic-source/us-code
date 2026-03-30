@@ -3,9 +3,9 @@ title: "Section 50107 - Restrictions"
 usc_title: 36
 usc_section: "50107"
 chapter: 501
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "36 U.S.C. § 50107"
-generated_at: "2026-03-30T01:33:17.144Z"
+generated_at: "2026-03-30T01:36:25.166Z"
 ---
 
 # § 50107. Restrictions

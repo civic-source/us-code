@@ -3,9 +3,9 @@ title: "Section 3141 - Performance accountability system"
 usc_title: 29
 usc_section: "3141"
 chapter: 32
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 3141"
-generated_at: "2026-03-30T01:33:06.615Z"
+generated_at: "2026-03-30T01:35:44.701Z"
 ---
 
 # § 3141. Performance accountability system

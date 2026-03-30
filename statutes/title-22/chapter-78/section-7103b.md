@@ -3,9 +3,9 @@ title: "Section 7103b - Survivors of Human Trafficking Empowerment Act"
 usc_title: 22
 usc_section: "7103b"
 chapter: 78
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 7103b"
-generated_at: "2026-03-30T01:32:53.404Z"
+generated_at: "2026-03-30T01:35:27.090Z"
 ---
 
 # § 7103b. Survivors of Human Trafficking Empowerment Act

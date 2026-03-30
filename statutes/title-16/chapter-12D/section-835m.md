@@ -3,9 +3,9 @@ title: "Section 835m - Recommendations for changes in limitations on financial a
 usc_title: 16
 usc_section: "835m"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 835m"
-generated_at: "2026-03-30T01:32:02.238Z"
+generated_at: "2026-03-30T01:35:15.486Z"
 ---
 
 # § 835m. Recommendations for changes in limitations on financial assistance; time and frequency of submission

@@ -3,9 +3,9 @@ title: "Section 1223a - Transferred"
 usc_title: 33
 usc_section: "1223a"
 chapter: 25
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 1223a"
-generated_at: "2026-03-30T01:33:10.785Z"
+generated_at: "2026-03-30T01:35:58.962Z"
 ---
 
 # § 1223a. Transferred

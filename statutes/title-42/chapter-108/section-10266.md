@@ -3,9 +3,9 @@ title: "Section 10266 - Staff"
 usc_title: 42
 usc_section: "10266"
 chapter: 108
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 10266"
-generated_at: "2026-03-30T01:33:40.232Z"
+generated_at: "2026-03-30T01:37:21.158Z"
 ---
 
 # § 10266. Staff

@@ -3,9 +3,9 @@ title: "Section 1165 - Choice of sex of medical examiner for certain disabilitie
 usc_title: 38
 usc_section: "1165"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 1165"
-generated_at: "2026-03-30T01:33:18.896Z"
+generated_at: "2026-03-30T01:36:22.180Z"
 ---
 
 # § 1165. Choice of sex of medical examiner for certain disabilities

@@ -3,9 +3,9 @@ title: "Section 17a - Separability of 1936 amendment"
 usc_title: 7
 usc_section: "17a"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 17a"
-generated_at: "2026-03-30T01:31:24.969Z"
+generated_at: "2026-03-30T01:34:33.554Z"
 ---
 
 # § 17a. Separability of 1936 amendment

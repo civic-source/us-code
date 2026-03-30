@@ -3,9 +3,9 @@ title: "Section 7708 - Facilities"
 usc_title: 20
 usc_section: "7708"
 chapter: 70
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 7708"
-generated_at: "2026-03-30T01:32:23.184Z"
+generated_at: "2026-03-30T01:35:10.434Z"
 ---
 
 # § 7708. Facilities

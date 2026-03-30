@@ -3,9 +3,9 @@ title: "Section 2193 - Application of regulation to Puerto Rico"
 usc_title: 48
 usc_section: "2193"
 chapter: 20
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 2193"
-generated_at: "2026-03-30T01:33:44.450Z"
+generated_at: "2026-03-30T01:37:24.759Z"
 ---
 
 # § 2193. Application of regulation to Puerto Rico

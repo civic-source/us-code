@@ -3,9 +3,9 @@ title: "Section 6908 - Parking facility"
 usc_title: 40
 usc_section: "6908"
 chapter: 69
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "40 U.S.C. § 6908"
-generated_at: "2026-03-30T01:33:15.498Z"
+generated_at: "2026-03-30T01:36:18.599Z"
 ---
 
 # § 6908. Parking facility

@@ -3,9 +3,9 @@ title: "Section 692 - Authority of Administration to guarantee payment of rental
 usc_title: 15
 usc_section: "692"
 chapter: 14
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 692"
-generated_at: "2026-03-30T01:31:32.477Z"
+generated_at: "2026-03-30T01:34:58.960Z"
 ---
 
 # § 692. Authority of Administration to guarantee payment of rentals by small business concerns under leases of commercial and industrial property

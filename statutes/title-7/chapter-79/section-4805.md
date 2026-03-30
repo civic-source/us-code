@@ -3,9 +3,9 @@ title: "Section 4805 - Findings and issuance of orders"
 usc_title: 7
 usc_section: "4805"
 chapter: 79
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 4805"
-generated_at: "2026-03-30T01:31:25.112Z"
+generated_at: "2026-03-30T01:34:33.680Z"
 ---
 
 # § 4805. Findings and issuance of orders

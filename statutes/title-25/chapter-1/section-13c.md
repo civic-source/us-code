@@ -3,9 +3,9 @@ title: "Section 13c - Source of funds to pay cost of lunches for nonboarding pub
 usc_title: 25
 usc_section: "13c"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "25 U.S.C. § 13c"
-generated_at: "2026-03-30T01:32:46.545Z"
+generated_at: "2026-03-30T01:35:34.084Z"
 ---
 
 # § 13c. Source of funds to pay cost of lunches for nonboarding public school students

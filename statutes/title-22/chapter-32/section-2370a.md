@@ -3,9 +3,9 @@ title: "Section 2370a - Expropriation of United States property"
 usc_title: 22
 usc_section: "2370a"
 chapter: 32
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2370a"
-generated_at: "2026-03-30T01:32:53.312Z"
+generated_at: "2026-03-30T01:35:27.016Z"
 ---
 
 # § 2370a. Expropriation of United States property

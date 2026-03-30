@@ -3,9 +3,9 @@ title: "Section 31304 - Liability for noncompliance"
 usc_title: 46
 usc_section: "31304"
 chapter: 313
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 31304"
-generated_at: "2026-03-30T01:33:45.539Z"
+generated_at: "2026-03-30T01:37:55.443Z"
 ---
 
 # § 31304. Liability for noncompliance

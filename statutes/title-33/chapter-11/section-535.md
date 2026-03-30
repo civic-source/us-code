@@ -3,9 +3,9 @@ title: "Section 535 - Congressional consent to construction, maintenance, and op
 usc_title: 33
 usc_section: "535"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 535"
-generated_at: "2026-03-30T01:33:10.765Z"
+generated_at: "2026-03-30T01:35:58.944Z"
 ---
 
 # § 535. Congressional consent to construction, maintenance, and operation of international bridges; conditions of consent

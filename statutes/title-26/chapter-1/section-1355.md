@@ -3,9 +3,9 @@ title: "Section 1355 - Definitions and special rules"
 usc_title: 26
 usc_section: "1355"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 1355"
-generated_at: "2026-03-30T01:33:05.467Z"
+generated_at: "2026-03-30T01:35:53.883Z"
 ---
 
 # § 1355. Definitions and special rules

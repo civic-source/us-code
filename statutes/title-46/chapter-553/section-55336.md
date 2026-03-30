@@ -3,9 +3,9 @@ title: "Section 55336 - Civil penalty"
 usc_title: 46
 usc_section: "55336"
 chapter: 553
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 55336"
-generated_at: "2026-03-30T01:33:45.557Z"
+generated_at: "2026-03-30T01:37:55.462Z"
 ---
 
 # § 55336. Civil penalty

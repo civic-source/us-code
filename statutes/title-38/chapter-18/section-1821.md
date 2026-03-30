@@ -3,9 +3,9 @@ title: "Section 1821 - Benefits for children of certain Korea service veterans b
 usc_title: 38
 usc_section: "1821"
 chapter: 18
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 1821"
-generated_at: "2026-03-30T01:33:18.907Z"
+generated_at: "2026-03-30T01:36:22.191Z"
 ---
 
 # § 1821. Benefits for children of certain Korea service veterans born with spina bifida

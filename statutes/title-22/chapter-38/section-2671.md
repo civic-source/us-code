@@ -3,9 +3,9 @@ title: "Section 2671 - Emergency expenditures"
 usc_title: 22
 usc_section: "2671"
 chapter: 38
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2671"
-generated_at: "2026-03-30T01:32:53.330Z"
+generated_at: "2026-03-30T01:35:27.030Z"
 ---
 
 # § 2671. Emergency expenditures

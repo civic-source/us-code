@@ -3,9 +3,9 @@ title: "Section 77yyy - Penalties"
 usc_title: 15
 usc_section: "77yyy"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 77yyy"
-generated_at: "2026-03-30T01:31:32.406Z"
+generated_at: "2026-03-30T01:34:58.887Z"
 ---
 
 # § 77yyy. Penalties

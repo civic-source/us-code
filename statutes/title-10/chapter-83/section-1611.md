@@ -3,9 +3,9 @@ title: "Section 1611 - Postemployment assistance: certain terminated intelligenc
 usc_title: 10
 usc_section: "1611"
 chapter: 83
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1611"
-generated_at: "2026-03-30T01:31:16.483Z"
+generated_at: "2026-03-30T01:34:43.512Z"
 ---
 
 # § 1611. Postemployment assistance: certain terminated intelligence employees

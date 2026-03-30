@@ -3,9 +3,9 @@ title: "Section 24710 - Long-distance routes"
 usc_title: 49
 usc_section: "24710"
 chapter: 247
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 24710"
-generated_at: "2026-03-30T01:33:49.585Z"
+generated_at: "2026-03-30T01:37:42.422Z"
 ---
 
 # § 24710. Long-distance routes

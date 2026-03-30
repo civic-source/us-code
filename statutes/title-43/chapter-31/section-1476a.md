@@ -3,9 +3,9 @@ title: "Section 1476a - Unsworn written statements subject to penalties of prese
 usc_title: 43
 usc_section: "1476a"
 chapter: 31
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "43 U.S.C. § 1476a"
-generated_at: "2026-03-30T01:33:22.133Z"
+generated_at: "2026-03-30T01:36:30.379Z"
 ---
 
 # § 1476a. Unsworn written statements subject to penalties of presenting false claims

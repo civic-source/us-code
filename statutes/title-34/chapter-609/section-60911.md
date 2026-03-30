@@ -3,9 +3,9 @@ title: "Section 60911 - Definitions"
 usc_title: 34
 usc_section: "60911"
 chapter: 609
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 60911"
-generated_at: "2026-03-30T01:33:13.231Z"
+generated_at: "2026-03-30T01:36:16.037Z"
 ---
 
 # § 60911. Definitions

@@ -3,9 +3,9 @@ title: "Section 15504 - Program development criteria"
 usc_title: 40
 usc_section: "15504"
 chapter: 155
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "40 U.S.C. § 15504"
-generated_at: "2026-03-30T01:33:15.504Z"
+generated_at: "2026-03-30T01:36:18.605Z"
 ---
 
 # § 15504. Program development criteria

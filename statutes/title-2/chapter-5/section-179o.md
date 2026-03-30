@@ -3,9 +3,9 @@ title: "Section 179o - Responsibilities and powers of Board"
 usc_title: 2
 usc_section: "179o"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 179o"
-generated_at: "2026-03-30T01:31:00.755Z"
+generated_at: "2026-03-30T01:34:23.526Z"
 ---
 
 # § 179o. Responsibilities and powers of Board

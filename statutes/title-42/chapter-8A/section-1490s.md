@@ -3,9 +3,9 @@ title: "Section 1490s - Enforcement provisions"
 usc_title: 42
 usc_section: "1490s"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1490s"
-generated_at: "2026-03-30T01:33:39.927Z"
+generated_at: "2026-03-30T01:37:20.862Z"
 ---
 
 # § 1490s. Enforcement provisions

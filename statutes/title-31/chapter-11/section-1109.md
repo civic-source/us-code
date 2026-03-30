@@ -3,9 +3,9 @@ title: "Section 1109 - Current programs and activities estimates"
 usc_title: 31
 usc_section: "1109"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "31 U.S.C. § 1109"
-generated_at: "2026-03-30T01:33:09.598Z"
+generated_at: "2026-03-30T01:35:57.153Z"
 ---
 
 # § 1109. Current programs and activities estimates

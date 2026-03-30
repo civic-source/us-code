@@ -3,9 +3,9 @@ title: "Section 9112 - Standards and assistance"
 usc_title: 22
 usc_section: "9112"
 chapter: 98
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 9112"
-generated_at: "2026-03-30T01:32:53.435Z"
+generated_at: "2026-03-30T01:35:27.114Z"
 ---
 
 # § 9112. Standards and assistance

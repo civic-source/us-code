@@ -3,9 +3,9 @@ title: "Section 1116 - Murder or manslaughter of foreign officials, official gue
 usc_title: 18
 usc_section: "1116"
 chapter: 51
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "18 U.S.C. § 1116"
-generated_at: "2026-03-30T01:31:56.769Z"
+generated_at: "2026-03-30T01:35:19.705Z"
 ---
 
 # § 1116. Murder or manslaughter of foreign officials, official guests, or internationally protected persons

@@ -3,9 +3,9 @@ title: "Section 3835a - Repealed. Pub. L. 113–79, title II, § 2007 , Feb. 7, 
 usc_title: 16
 usc_section: "3835a"
 chapter: 58
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 3835a"
-generated_at: "2026-03-30T01:32:02.311Z"
+generated_at: "2026-03-30T01:35:15.557Z"
 ---
 
 # § 3835a. Repealed. Pub. L. 113–79, title II, § 2007 , Feb. 7, 2014 , 128 Stat. 720

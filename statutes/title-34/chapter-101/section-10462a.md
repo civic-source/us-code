@@ -3,9 +3,9 @@ title: "Section 10462a - Grants to State and Tribal courts to implement protecti
 usc_title: 34
 usc_section: "10462a"
 chapter: 101
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 10462a"
-generated_at: "2026-03-30T01:33:13.177Z"
+generated_at: "2026-03-30T01:36:15.992Z"
 ---
 
 # § 10462a. Grants to State and Tribal courts to implement protection order pilot programs

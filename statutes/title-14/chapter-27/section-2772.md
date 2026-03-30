@@ -3,9 +3,9 @@ title: "Section 2772 - Education loan repayment program for members on active du
 usc_title: 14
 usc_section: "2772"
 chapter: 27
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "14 U.S.C. § 2772"
-generated_at: "2026-03-30T01:31:27.382Z"
+generated_at: "2026-03-30T01:35:02.898Z"
 ---
 
 # § 2772. Education loan repayment program for members on active duty in specified military specialties

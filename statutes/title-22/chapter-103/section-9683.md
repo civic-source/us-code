@@ -3,9 +3,9 @@ title: "Section 9683 - Transfer of functions"
 usc_title: 22
 usc_section: "9683"
 chapter: 103
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 9683"
-generated_at: "2026-03-30T01:32:53.444Z"
+generated_at: "2026-03-30T01:35:27.123Z"
 ---
 
 # § 9683. Transfer of functions

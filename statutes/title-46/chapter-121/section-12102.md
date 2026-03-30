@@ -3,9 +3,9 @@ title: "Section 12102 - Vessels requiring documentation"
 usc_title: 46
 usc_section: "12102"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 12102"
-generated_at: "2026-03-30T01:33:45.533Z"
+generated_at: "2026-03-30T01:37:55.437Z"
 ---
 
 # § 12102. Vessels requiring documentation

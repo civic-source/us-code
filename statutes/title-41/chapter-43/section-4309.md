@@ -3,9 +3,9 @@ title: "Section 4309 - Burden of proof on contractor"
 usc_title: 41
 usc_section: "4309"
 chapter: 43
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "41 U.S.C. § 4309"
-generated_at: "2026-03-30T01:33:21.058Z"
+generated_at: "2026-03-30T01:36:27.008Z"
 ---
 
 # § 4309. Burden of proof on contractor

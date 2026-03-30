@@ -3,9 +3,9 @@ title: "Section 9686 - Savings provisions"
 usc_title: 22
 usc_section: "9686"
 chapter: 103
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 9686"
-generated_at: "2026-03-30T01:32:53.445Z"
+generated_at: "2026-03-30T01:35:27.123Z"
 ---
 
 # § 9686. Savings provisions

@@ -3,9 +3,9 @@ title: "Section 45b - Consumer review protection"
 usc_title: 15
 usc_section: "45b"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 45b"
-generated_at: "2026-03-30T01:31:32.393Z"
+generated_at: "2026-03-30T01:34:58.874Z"
 ---
 
 # § 45b. Consumer review protection

@@ -3,9 +3,9 @@ title: "Section 5722 - Advisory committee"
 usc_title: 16
 usc_section: "5722"
 chapter: 77
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 5722"
-generated_at: "2026-03-30T01:32:02.330Z"
+generated_at: "2026-03-30T01:35:15.574Z"
 ---
 
 # § 5722. Advisory committee

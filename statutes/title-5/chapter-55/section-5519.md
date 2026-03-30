@@ -3,9 +3,9 @@ title: "Section 5519 - Crediting amounts received for certain Reserve or Nationa
 usc_title: 5
 usc_section: "5519"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5519"
-generated_at: "2026-03-30T01:31:06.778Z"
+generated_at: "2026-03-30T01:34:27.236Z"
 ---
 
 # § 5519. Crediting amounts received for certain Reserve or National Guard service

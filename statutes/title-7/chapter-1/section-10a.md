@@ -3,9 +3,9 @@ title: "Section 10a - Cooperative associations and corporations, exclusion from 
 usc_title: 7
 usc_section: "10a"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 10a"
-generated_at: "2026-03-30T01:31:24.967Z"
+generated_at: "2026-03-30T01:34:33.552Z"
 ---
 
 # § 10a. Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association

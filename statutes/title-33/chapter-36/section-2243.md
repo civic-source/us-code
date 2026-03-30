@@ -3,9 +3,9 @@ title: "Section 2243 - Arctic deep draft port development partnerships"
 usc_title: 33
 usc_section: "2243"
 chapter: 36
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 2243"
-generated_at: "2026-03-30T01:33:10.820Z"
+generated_at: "2026-03-30T01:35:58.993Z"
 ---
 
 # § 2243. Arctic deep draft port development partnerships

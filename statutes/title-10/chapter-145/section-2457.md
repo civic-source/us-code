@@ -3,9 +3,9 @@ title: "Section 2457 - Standardization of equipment with North Atlantic Treaty O
 usc_title: 10
 usc_section: "2457"
 chapter: 145
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2457"
-generated_at: "2026-03-30T01:31:16.501Z"
+generated_at: "2026-03-30T01:34:43.529Z"
 ---
 
 # § 2457. Standardization of equipment with North Atlantic Treaty Organization members

@@ -3,9 +3,9 @@ title: "Section 2279c - Renumbered § 9081]"
 usc_title: 10
 usc_section: "2279c"
 chapter: 135
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2279c"
-generated_at: "2026-03-30T01:31:16.497Z"
+generated_at: "2026-03-30T01:34:43.525Z"
 ---
 
 # [§ 2279c. Renumbered § 9081]

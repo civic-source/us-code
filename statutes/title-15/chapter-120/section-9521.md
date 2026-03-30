@@ -3,9 +3,9 @@ title: "Section 9521 - Definition"
 usc_title: 15
 usc_section: "9521"
 chapter: 120
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 9521"
-generated_at: "2026-03-30T01:31:32.605Z"
+generated_at: "2026-03-30T01:34:59.096Z"
 ---
 
 # § 9521. Definition

@@ -3,9 +3,9 @@ title: "Section 2204a - Fission product contracts"
 usc_title: 42
 usc_section: "2204a"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 2204a"
-generated_at: "2026-03-30T01:33:39.986Z"
+generated_at: "2026-03-30T01:37:20.924Z"
 ---
 
 # § 2204a. Fission product contracts

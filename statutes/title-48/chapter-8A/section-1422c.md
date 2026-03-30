@@ -3,9 +3,9 @@ title: "Section 1422c - Executive agencies and instrumentalities"
 usc_title: 48
 usc_section: "1422c"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 1422c"
-generated_at: "2026-03-30T01:33:44.430Z"
+generated_at: "2026-03-30T01:37:24.739Z"
 ---
 
 # § 1422c. Executive agencies and instrumentalities

@@ -3,9 +3,9 @@ title: "Section 1150 - Compromise, adjustment, and cancellation of farm loans; c
 usc_title: 12
 usc_section: "1150"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 1150"
-generated_at: "2026-03-30T01:31:52.510Z"
+generated_at: "2026-03-30T01:35:04.840Z"
 ---
 
 # § 1150. Compromise, adjustment, and cancellation of farm loans; conditions; delegation of powers and duties by Secretary of Agriculture

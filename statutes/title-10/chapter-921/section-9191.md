@@ -3,9 +3,9 @@ title: "Section 9191 - Non-regular officers: status"
 usc_title: 10
 usc_section: "9191"
 chapter: 921
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 9191"
-generated_at: "2026-03-30T01:31:16.565Z"
+generated_at: "2026-03-30T01:34:43.592Z"
 ---
 
 # § 9191. Non-regular officers: status

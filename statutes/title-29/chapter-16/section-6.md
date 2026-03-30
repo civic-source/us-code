@@ -3,9 +3,9 @@ title: "Section 6 - Authorization of appropriations"
 usc_title: 29
 usc_section: "6"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 6"
-generated_at: "2026-03-30T01:33:06.566Z"
+generated_at: "2026-03-30T01:35:44.657Z"
 ---
 
 # § 796f–6. Authorization of appropriations

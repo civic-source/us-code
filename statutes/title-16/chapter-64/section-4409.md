@@ -3,9 +3,9 @@ title: "Section 4409 - Report to Congress"
 usc_title: 16
 usc_section: "4409"
 chapter: 64
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 4409"
-generated_at: "2026-03-30T01:32:02.323Z"
+generated_at: "2026-03-30T01:35:15.567Z"
 ---
 
 # § 4409. Report to Congress

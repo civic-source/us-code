@@ -3,9 +3,9 @@ title: "Section 320302 - Permits"
 usc_title: 54
 usc_section: "320302"
 chapter: 3203
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "54 U.S.C. § 320302"
-generated_at: "2026-03-30T01:34:10.341Z"
+generated_at: "2026-03-30T01:38:01.867Z"
 ---
 
 # § 320302. Permits

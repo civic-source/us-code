@@ -3,9 +3,9 @@ title: "Section 413 - Designation of agent for service; method of service"
 usc_title: 47
 usc_section: "413"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "47 U.S.C. § 413"
-generated_at: "2026-03-30T01:33:55.774Z"
+generated_at: "2026-03-30T01:37:33.827Z"
 ---
 
 # § 413. Designation of agent for service; method of service

@@ -3,9 +3,9 @@ title: "Section 1086b - Prohibition against requiring retired members to receive
 usc_title: 10
 usc_section: "1086b"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1086b"
-generated_at: "2026-03-30T01:31:16.462Z"
+generated_at: "2026-03-30T01:34:43.491Z"
 ---
 
 # § 1086b. Prohibition against requiring retired members to receive health care solely through the Department of Defense

@@ -3,9 +3,9 @@ title: "Section 361 - Nonrecognition of gain or loss to corporations; treatment 
 usc_title: 26
 usc_section: "361"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 361"
-generated_at: "2026-03-30T01:33:05.375Z"
+generated_at: "2026-03-30T01:35:53.792Z"
 ---
 
 # § 361. Nonrecognition of gain or loss to corporations; treatment of distributions

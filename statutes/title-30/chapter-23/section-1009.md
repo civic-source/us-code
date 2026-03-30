@@ -3,9 +3,9 @@ title: "Section 1009 - Relinquishment of geothermal rights"
 usc_title: 30
 usc_section: "1009"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "30 U.S.C. § 1009"
-generated_at: "2026-03-30T01:32:59.500Z"
+generated_at: "2026-03-30T01:35:36.450Z"
 ---
 
 # § 1009. Relinquishment of geothermal rights

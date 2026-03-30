@@ -3,9 +3,9 @@ title: "Section 170103 - Membership"
 usc_title: 36
 usc_section: "170103"
 chapter: 1701
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "36 U.S.C. § 170103"
-generated_at: "2026-03-30T01:33:17.156Z"
+generated_at: "2026-03-30T01:36:25.175Z"
 ---
 
 # § 170103. Membership

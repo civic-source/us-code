@@ -3,9 +3,9 @@ title: "Section 3916 - Other functional activities"
 usc_title: 20
 usc_section: "3916"
 chapter: 52
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 3916"
-generated_at: "2026-03-30T01:32:23.148Z"
+generated_at: "2026-03-30T01:35:10.401Z"
 ---
 
 # § 3916. Other functional activities

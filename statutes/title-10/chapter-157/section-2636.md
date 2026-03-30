@@ -3,9 +3,9 @@ title: "Section 2636 - Deductions from amounts due carriers"
 usc_title: 10
 usc_section: "2636"
 chapter: 157
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2636"
-generated_at: "2026-03-30T01:31:16.507Z"
+generated_at: "2026-03-30T01:34:43.535Z"
 ---
 
 # § 2636. Deductions from amounts due carriers

@@ -3,9 +3,9 @@ title: "Section 21142 - Audits and repayment of funds"
 usc_title: 52
 usc_section: "21142"
 chapter: 209
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "52 U.S.C. § 21142"
-generated_at: "2026-03-30T01:34:03.387Z"
+generated_at: "2026-03-30T01:38:01.494Z"
 ---
 
 # § 21142. Audits and repayment of funds

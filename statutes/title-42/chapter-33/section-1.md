@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 42
 usc_section: "1"
 chapter: 33
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:33:39.997Z"
+generated_at: "2026-03-30T01:37:20.935Z"
 ---
 
 # §§ 2681 to 2688j–1. Omitted

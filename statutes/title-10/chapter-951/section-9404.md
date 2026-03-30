@@ -3,9 +3,9 @@ title: "Section 9404 - Aviation students: detail of enlisted members of Air Forc
 usc_title: 10
 usc_section: "9404"
 chapter: 951
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 9404"
-generated_at: "2026-03-30T01:31:16.566Z"
+generated_at: "2026-03-30T01:34:43.594Z"
 ---
 
 # § 9404. Aviation students: detail of enlisted members of Air Force

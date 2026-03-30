@@ -3,9 +3,9 @@ title: "Section 926C - Carrying of concealed firearms by qualified retired law e
 usc_title: 18
 usc_section: "926C"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "18 U.S.C. § 926C"
-generated_at: "2026-03-30T01:31:56.763Z"
+generated_at: "2026-03-30T01:35:19.700Z"
 ---
 
 # § 926C. Carrying of concealed firearms by qualified retired law enforcement officers

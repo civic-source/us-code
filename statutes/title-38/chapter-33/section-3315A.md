@@ -3,9 +3,9 @@ title: "Section 3315A - National tests"
 usc_title: 38
 usc_section: "3315A"
 chapter: 33
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 3315A"
-generated_at: "2026-03-30T01:33:18.923Z"
+generated_at: "2026-03-30T01:36:22.207Z"
 ---
 
 # § 3315A. National tests

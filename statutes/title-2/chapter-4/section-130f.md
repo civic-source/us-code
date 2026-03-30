@@ -3,9 +3,9 @@ title: "Section 130f - Transferred"
 usc_title: 2
 usc_section: "130f"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 130f"
-generated_at: "2026-03-30T01:31:00.751Z"
+generated_at: "2026-03-30T01:34:23.523Z"
 ---
 
 # § 130f. Transferred

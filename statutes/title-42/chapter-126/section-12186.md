@@ -3,9 +3,9 @@ title: "Section 12186 - Regulations"
 usc_title: 42
 usc_section: "12186"
 chapter: 126
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 12186"
-generated_at: "2026-03-30T01:33:40.258Z"
+generated_at: "2026-03-30T01:37:21.182Z"
 ---
 
 # § 12186. Regulations

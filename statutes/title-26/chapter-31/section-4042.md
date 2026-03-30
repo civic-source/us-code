@@ -3,9 +3,9 @@ title: "Section 4042 - Tax on fuel used in commercial transportation on inland w
 usc_title: 26
 usc_section: "4042"
 chapter: 31
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 4042"
-generated_at: "2026-03-30T01:33:05.496Z"
+generated_at: "2026-03-30T01:35:53.910Z"
 ---
 
 # § 4042. Tax on fuel used in commercial transportation on inland waterways

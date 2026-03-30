@@ -3,9 +3,9 @@ title: "Section 295a - Arlington Memorial Amphitheater"
 usc_title: 24
 usc_section: "295a"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "24 U.S.C. § 295a"
-generated_at: "2026-03-30T01:32:25.306Z"
+generated_at: "2026-03-30T01:35:29.045Z"
 ---
 
 # § 295a. Arlington Memorial Amphitheater

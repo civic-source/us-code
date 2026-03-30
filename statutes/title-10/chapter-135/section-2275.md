@@ -3,9 +3,9 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-30T01:31:16.497Z"
+generated_at: "2026-03-30T01:34:43.525Z"
 ---
 
 # § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs

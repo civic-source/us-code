@@ -3,9 +3,9 @@ title: "Section 8 - Unemployment data relating to Americans of Spanish origin or
 usc_title: 29
 usc_section: "8"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 8"
-generated_at: "2026-03-30T01:33:06.542Z"
+generated_at: "2026-03-30T01:35:44.633Z"
 ---
 
 # § 8. Unemployment data relating to Americans of Spanish origin or descent

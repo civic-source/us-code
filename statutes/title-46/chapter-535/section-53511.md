@@ -3,9 +3,9 @@ title: "Section 53511 - Tax treatment of nonqualified withdrawals"
 usc_title: 46
 usc_section: "53511"
 chapter: 535
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 53511"
-generated_at: "2026-03-30T01:33:45.551Z"
+generated_at: "2026-03-30T01:37:55.456Z"
 ---
 
 # § 53511. Tax treatment of nonqualified withdrawals

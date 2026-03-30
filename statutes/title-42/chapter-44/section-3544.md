@@ -3,9 +3,9 @@ title: "Section 3544 - Preventing fraud and abuse in housing and urban developme
 usc_title: 42
 usc_section: "3544"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3544"
-generated_at: "2026-03-30T01:33:40.022Z"
+generated_at: "2026-03-30T01:37:20.959Z"
 ---
 
 # § 3544. Preventing fraud and abuse in housing and urban development programs

@@ -3,9 +3,9 @@ title: "Section 1103 - Repealed. Pub. L. 100–690, title I, § 1007(c)(1) , Nov
 usc_title: 21
 usc_section: "1103"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "21 U.S.C. § 1103"
-generated_at: "2026-03-30T01:32:33.295Z"
+generated_at: "2026-03-30T01:35:24.657Z"
 ---
 
 # § 1103. Repealed. Pub. L. 100–690, title I, § 1007(c)(1) , Nov. 18, 1988 , 102 Stat. 4187

@@ -3,9 +3,9 @@ title: "Section 1930 - Continued availability of appropriated funds for direct r
 usc_title: 7
 usc_section: "1930"
 chapter: 50
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1930"
-generated_at: "2026-03-30T01:31:25.056Z"
+generated_at: "2026-03-30T01:34:33.631Z"
 ---
 
 # § 1930. Continued availability of appropriated funds for direct real estate loans to farmers and ranchers

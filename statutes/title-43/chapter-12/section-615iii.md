@@ -3,9 +3,9 @@ title: "Section 615iii - Omitted"
 usc_title: 43
 usc_section: "615iii"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "43 U.S.C. § 615iii"
-generated_at: "2026-03-30T01:33:22.115Z"
+generated_at: "2026-03-30T01:36:30.362Z"
 ---
 
 # §§ 615aaa to 615iii. Omitted

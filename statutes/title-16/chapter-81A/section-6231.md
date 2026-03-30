@@ -3,9 +3,9 @@ title: "Section 6231 - Findings, purpose, and definitions"
 usc_title: 16
 usc_section: "6231"
 chapter: 81
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 6231"
-generated_at: "2026-03-30T01:32:02.331Z"
+generated_at: "2026-03-30T01:35:15.575Z"
 ---
 
 # § 6231. Findings, purpose, and definitions

@@ -3,9 +3,9 @@ title: "Section 12501 - Establishment of a vessel identification system"
 usc_title: 46
 usc_section: "12501"
 chapter: 125
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 12501"
-generated_at: "2026-03-30T01:33:45.536Z"
+generated_at: "2026-03-30T01:37:55.439Z"
 ---
 
 # § 12501. Establishment of a vessel identification system

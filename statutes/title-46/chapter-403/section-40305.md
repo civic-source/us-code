@@ -3,9 +3,9 @@ title: "Section 40305 - Assessment agreements"
 usc_title: 46
 usc_section: "40305"
 chapter: 403
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 40305"
-generated_at: "2026-03-30T01:33:45.540Z"
+generated_at: "2026-03-30T01:37:55.444Z"
 ---
 
 # § 40305. Assessment agreements

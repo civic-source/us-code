@@ -3,9 +3,9 @@ title: "Section 178m - Report to President and Congress"
 usc_title: 7
 usc_section: "178m"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 178m"
-generated_at: "2026-03-30T01:31:24.995Z"
+generated_at: "2026-03-30T01:34:33.576Z"
 ---
 
 # § 178m. Report to President and Congress

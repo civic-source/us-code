@@ -3,9 +3,9 @@ title: "Section 1917 - Interference with civil service examinations"
 usc_title: 18
 usc_section: "1917"
 chapter: 93
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "18 U.S.C. § 1917"
-generated_at: "2026-03-30T01:31:56.779Z"
+generated_at: "2026-03-30T01:35:19.714Z"
 ---
 
 # § 1917. Interference with civil service examinations

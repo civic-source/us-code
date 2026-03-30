@@ -3,9 +3,9 @@ title: "Section 20102 - Individual ready guardians: designation; mobilization ca
 usc_title: 10
 usc_section: "20102"
 chapter: 2003
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 20102"
-generated_at: "2026-03-30T01:31:16.584Z"
+generated_at: "2026-03-30T01:34:43.612Z"
 ---
 
 # § 20102. Individual ready guardians: designation; mobilization category

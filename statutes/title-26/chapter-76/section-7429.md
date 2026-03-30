@@ -3,9 +3,9 @@ title: "Section 7429 - Review of jeopardy levy or assessment procedures"
 usc_title: 26
 usc_section: "7429"
 chapter: 76
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 7429"
-generated_at: "2026-03-30T01:33:05.567Z"
+generated_at: "2026-03-30T01:35:53.978Z"
 ---
 
 # § 7429. Review of jeopardy levy or assessment procedures

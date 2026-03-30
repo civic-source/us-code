@@ -3,9 +3,9 @@ title: "Section 853a - Art. 53a. Plea agreements"
 usc_title: 10
 usc_section: "853a"
 chapter: 47
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 853a"
-generated_at: "2026-03-30T01:31:16.443Z"
+generated_at: "2026-03-30T01:34:43.474Z"
 ---
 
 # § 853a. Art. 53a. Plea agreements

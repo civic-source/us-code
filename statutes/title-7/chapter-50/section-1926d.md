@@ -3,9 +3,9 @@ title: "Section 1926d - Water systems for rural and Native villages in Alaska"
 usc_title: 7
 usc_section: "1926d"
 chapter: 50
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1926d"
-generated_at: "2026-03-30T01:31:25.055Z"
+generated_at: "2026-03-30T01:34:33.630Z"
 ---
 
 # § 1926d. Water systems for rural and Native villages in Alaska

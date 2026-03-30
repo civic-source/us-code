@@ -3,9 +3,9 @@ title: "Section 1666 - Correction of billing errors"
 usc_title: 15
 usc_section: "1666"
 chapter: 41
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 1666"
-generated_at: "2026-03-30T01:31:32.509Z"
+generated_at: "2026-03-30T01:34:58.992Z"
 ---
 
 # § 1666. Correction of billing errors

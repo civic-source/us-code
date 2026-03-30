@@ -3,9 +3,9 @@ title: "Section 3032 - Program authorized"
 usc_title: 42
 usc_section: "3032"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3032"
-generated_at: "2026-03-30T01:33:40.009Z"
+generated_at: "2026-03-30T01:37:20.947Z"
 ---
 
 # § 3032. Program authorized

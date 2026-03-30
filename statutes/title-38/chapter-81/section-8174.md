@@ -3,9 +3,9 @@ title: "Section 8174 - Submission of annual reviews of information technology"
 usc_title: 38
 usc_section: "8174"
 chapter: 81
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 8174"
-generated_at: "2026-03-30T01:33:18.966Z"
+generated_at: "2026-03-30T01:36:22.246Z"
 ---
 
 # § 8174. Submission of annual reviews of information technology

@@ -3,9 +3,9 @@ title: "Section 3042 - Major defense acquisition program"
 usc_title: 10
 usc_section: "3042"
 chapter: 201
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 3042"
-generated_at: "2026-03-30T01:31:16.522Z"
+generated_at: "2026-03-30T01:34:43.551Z"
 ---
 
 # § 3042. Major defense acquisition program

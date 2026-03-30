@@ -3,9 +3,9 @@ title: "Section 2684 - Cooperative agreements for management of cultural resourc
 usc_title: 10
 usc_section: "2684"
 chapter: 159
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2684"
-generated_at: "2026-03-30T01:31:16.510Z"
+generated_at: "2026-03-30T01:34:43.538Z"
 ---
 
 # § 2684. Cooperative agreements for management of cultural resources

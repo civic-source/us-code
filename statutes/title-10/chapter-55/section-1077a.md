@@ -3,9 +3,9 @@ title: "Section 1077a - Access to military medical treatment facilities and othe
 usc_title: 10
 usc_section: "1077a"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1077a"
-generated_at: "2026-03-30T01:31:16.460Z"
+generated_at: "2026-03-30T01:34:43.490Z"
 ---
 
 # § 1077a. Access to military medical treatment facilities and other facilities

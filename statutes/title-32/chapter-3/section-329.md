@@ -3,9 +3,9 @@ title: "Section 329 - Prohibition on private funding for interstate deployment"
 usc_title: 32
 usc_section: "329"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "32 U.S.C. § 329"
-generated_at: "2026-03-30T01:33:09.731Z"
+generated_at: "2026-03-30T01:35:57.336Z"
 ---
 
 # § 329. Prohibition on private funding for interstate deployment

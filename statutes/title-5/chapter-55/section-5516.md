@@ -3,9 +3,9 @@ title: "Section 5516 - Withholding District of Columbia income taxes"
 usc_title: 5
 usc_section: "5516"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5516"
-generated_at: "2026-03-30T01:31:06.778Z"
+generated_at: "2026-03-30T01:34:27.236Z"
 ---
 
 # § 5516. Withholding District of Columbia income taxes

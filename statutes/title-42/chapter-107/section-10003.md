@@ -3,9 +3,9 @@ title: "Section 10003 - Definitions"
 usc_title: 42
 usc_section: "10003"
 chapter: 107
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 10003"
-generated_at: "2026-03-30T01:33:40.226Z"
+generated_at: "2026-03-30T01:37:21.152Z"
 ---
 
 # § 10003. Definitions

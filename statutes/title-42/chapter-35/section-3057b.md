@@ -3,9 +3,9 @@ title: "Section 3057b - Findings"
 usc_title: 42
 usc_section: "3057b"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 3057b"
-generated_at: "2026-03-30T01:33:40.012Z"
+generated_at: "2026-03-30T01:37:20.950Z"
 ---
 
 # § 3057b. Findings

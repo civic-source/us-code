@@ -3,9 +3,9 @@ title: "Section 153107 - Annual report"
 usc_title: 36
 usc_section: "153107"
 chapter: 1531
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "36 U.S.C. § 153107"
-generated_at: "2026-03-30T01:33:17.154Z"
+generated_at: "2026-03-30T01:36:25.173Z"
 ---
 
 # § 153107. Annual report

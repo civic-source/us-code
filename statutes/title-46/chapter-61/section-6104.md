@@ -3,9 +3,9 @@ title: "Section 6104 - Commercial fishing industry vessel casualty statistics"
 usc_title: 46
 usc_section: "6104"
 chapter: 61
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 6104"
-generated_at: "2026-03-30T01:33:45.526Z"
+generated_at: "2026-03-30T01:37:55.429Z"
 ---
 
 # § 6104. Commercial fishing industry vessel casualty statistics

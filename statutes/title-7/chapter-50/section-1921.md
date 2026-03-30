@@ -3,9 +3,9 @@ title: "Section 1921 - Congressional findings"
 usc_title: 7
 usc_section: "1921"
 chapter: 50
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1921"
-generated_at: "2026-03-30T01:31:25.054Z"
+generated_at: "2026-03-30T01:34:33.629Z"
 ---
 
 # § 1921. Congressional findings

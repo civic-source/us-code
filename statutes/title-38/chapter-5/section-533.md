@@ -3,9 +3,9 @@ title: "Section 533 - Anti-harassment and anti-sexual assault policy"
 usc_title: 38
 usc_section: "533"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 533"
-generated_at: "2026-03-30T01:33:18.889Z"
+generated_at: "2026-03-30T01:36:22.175Z"
 ---
 
 # § 533. Anti-harassment and anti-sexual assault policy

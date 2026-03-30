@@ -3,9 +3,9 @@ title: "Section 283f - Requirements regarding surveys of sexual behavior"
 usc_title: 42
 usc_section: "283f"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 283f"
-generated_at: "2026-03-30T01:33:39.550Z"
+generated_at: "2026-03-30T01:37:20.497Z"
 ---
 
 # § 283f. Requirements regarding surveys of sexual behavior

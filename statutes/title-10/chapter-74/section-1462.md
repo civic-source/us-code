@@ -3,9 +3,9 @@ title: "Section 1462 - Assets of Fund"
 usc_title: 10
 usc_section: "1462"
 chapter: 74
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1462"
-generated_at: "2026-03-30T01:31:16.476Z"
+generated_at: "2026-03-30T01:34:43.505Z"
 ---
 
 # § 1462. Assets of Fund

@@ -3,9 +3,9 @@ title: "Section 1214 - Omitted"
 usc_title: 25
 usc_section: "1214"
 chapter: 14
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "25 U.S.C. § 1214"
-generated_at: "2026-03-30T01:32:46.567Z"
+generated_at: "2026-03-30T01:35:34.098Z"
 ---
 
 # § 1214. Omitted

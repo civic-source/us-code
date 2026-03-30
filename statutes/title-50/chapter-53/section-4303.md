@@ -3,9 +3,9 @@ title: "Section 4303 - Acts prohibited"
 usc_title: 50
 usc_section: "4303"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "50 U.S.C. § 4303"
-generated_at: "2026-03-30T01:34:01.648Z"
+generated_at: "2026-03-30T01:37:59.470Z"
 ---
 
 # § 4303. Acts prohibited

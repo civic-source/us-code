@@ -3,9 +3,9 @@ title: "Section 7373 - Coordinated dissemination of information on renewable ene
 usc_title: 42
 usc_section: "7373"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 7373"
-generated_at: "2026-03-30T01:33:40.128Z"
+generated_at: "2026-03-30T01:37:21.062Z"
 ---
 
 # § 7373. Coordinated dissemination of information on renewable energy resources and conservation

@@ -3,9 +3,9 @@ title: "Section 1136 - Legal educational opportunity program"
 usc_title: 20
 usc_section: "1136"
 chapter: 28
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 1136"
-generated_at: "2026-03-30T01:32:23.114Z"
+generated_at: "2026-03-30T01:35:10.369Z"
 ---
 
 # § 1136. Legal educational opportunity program

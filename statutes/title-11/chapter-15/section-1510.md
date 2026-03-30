@@ -3,9 +3,9 @@ title: "Section 1510 - Limited jurisdiction"
 usc_title: 11
 usc_section: "1510"
 chapter: 15
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "11 U.S.C. § 1510"
-generated_at: "2026-03-30T01:31:48.551Z"
+generated_at: "2026-03-30T01:35:01.346Z"
 ---
 
 # § 1510. Limited jurisdiction

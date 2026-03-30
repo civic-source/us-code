@@ -3,9 +3,9 @@ title: "Section 134b - Repealed. Pub. L. 111–84, div. A, title IX, § 905(a)(1
 usc_title: 10
 usc_section: "134b"
 chapter: 4
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 134b"
-generated_at: "2026-03-30T01:31:16.411Z"
+generated_at: "2026-03-30T01:34:43.444Z"
 ---
 
 # [§ 134b. Repealed. Pub. L. 111–84, div. A, title IX, § 905(a)(1) , Oct. 28, 2009 , 123 Stat. 2425 ]

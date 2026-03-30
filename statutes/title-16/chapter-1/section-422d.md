@@ -3,9 +3,9 @@ title: "Section 422d - Monuments, etc., protected"
 usc_title: 16
 usc_section: "422d"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 422d"
-generated_at: "2026-03-30T01:32:02.137Z"
+generated_at: "2026-03-30T01:35:15.388Z"
 ---
 
 # § 422d. Monuments, etc., protected

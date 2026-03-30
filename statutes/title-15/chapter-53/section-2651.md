@@ -3,9 +3,9 @@ title: "Section 2651 - Public protection"
 usc_title: 15
 usc_section: "2651"
 chapter: 53
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 2651"
-generated_at: "2026-03-30T01:31:32.541Z"
+generated_at: "2026-03-30T01:34:59.025Z"
 ---
 
 # § 2651. Public protection

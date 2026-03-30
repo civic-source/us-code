@@ -3,9 +3,9 @@ title: "Section 653 - Geographic applicability; judicial enforcement; applicabil
 usc_title: 29
 usc_section: "653"
 chapter: 15
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 653"
-generated_at: "2026-03-30T01:33:06.553Z"
+generated_at: "2026-03-30T01:35:44.645Z"
 ---
 
 # § 653. Geographic applicability; judicial enforcement; applicability to existing standards; report to Congress on duplication and coordination of Federal laws; workmen’s compensation law or common law or statutory rights, duties, or liabilities of employers and employees unaffected

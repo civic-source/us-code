@@ -3,9 +3,9 @@ title: "Section 5923 - Quarters allowances"
 usc_title: 5
 usc_section: "5923"
 chapter: 59
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 5923"
-generated_at: "2026-03-30T01:31:06.785Z"
+generated_at: "2026-03-30T01:34:27.242Z"
 ---
 
 # § 5923. Quarters allowances

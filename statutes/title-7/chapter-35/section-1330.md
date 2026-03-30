@@ -3,9 +3,9 @@ title: "Section 1330 - Omitted"
 usc_title: 7
 usc_section: "1330"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1330"
-generated_at: "2026-03-30T01:31:25.018Z"
+generated_at: "2026-03-30T01:34:33.597Z"
 ---
 
 # § 1330. Omitted

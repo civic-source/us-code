@@ -3,9 +3,9 @@ title: "Section 2057c - Prohibition on sale of certain products containing speci
 usc_title: 15
 usc_section: "2057c"
 chapter: 47
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 2057c"
-generated_at: "2026-03-30T01:31:32.525Z"
+generated_at: "2026-03-30T01:34:59.008Z"
 ---
 
 # § 2057c. Prohibition on sale of certain products containing specified phthalates

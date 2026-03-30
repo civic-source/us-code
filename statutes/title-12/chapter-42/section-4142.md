@@ -3,9 +3,9 @@ title: "Section 4142 - Purposes"
 usc_title: 12
 usc_section: "4142"
 chapter: 42
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 4142"
-generated_at: "2026-03-30T01:31:52.655Z"
+generated_at: "2026-03-30T01:35:04.944Z"
 ---
 
 # § 4142. Purposes

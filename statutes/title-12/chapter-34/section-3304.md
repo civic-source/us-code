@@ -3,9 +3,9 @@ title: "Section 3304 - Costs and expenses of Council"
 usc_title: 12
 usc_section: "3304"
 chapter: 34
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 3304"
-generated_at: "2026-03-30T01:31:52.643Z"
+generated_at: "2026-03-30T01:35:04.935Z"
 ---
 
 # § 3304. Costs and expenses of Council

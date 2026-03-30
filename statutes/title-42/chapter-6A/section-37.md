@@ -3,9 +3,9 @@ title: "Section 37 - General grant and loan provisions"
 usc_title: 42
 usc_section: "37"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 37"
-generated_at: "2026-03-30T01:33:39.668Z"
+generated_at: "2026-03-30T01:37:20.613Z"
 ---
 
 # § 300jj–37. General grant and loan provisions

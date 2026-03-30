@@ -3,9 +3,9 @@ title: "Section 7423 - Effect on other laws"
 usc_title: 7
 usc_section: "7423"
 chapter: 101
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 7423"
-generated_at: "2026-03-30T01:31:25.143Z"
+generated_at: "2026-03-30T01:34:33.711Z"
 ---
 
 # § 7423. Effect on other laws

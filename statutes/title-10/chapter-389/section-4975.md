@@ -3,9 +3,9 @@ title: "Section 4975 - Definitions"
 usc_title: 10
 usc_section: "4975"
 chapter: 389
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 4975"
-generated_at: "2026-03-30T01:31:16.543Z"
+generated_at: "2026-03-30T01:34:43.571Z"
 ---
 
 # § 4975. Definitions

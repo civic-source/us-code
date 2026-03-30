@@ -3,9 +3,9 @@ title: "Section 70002 - Special powers"
 usc_title: 46
 usc_section: "70002"
 chapter: 700
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 70002"
-generated_at: "2026-03-30T01:33:45.560Z"
+generated_at: "2026-03-30T01:37:55.465Z"
 ---
 
 # § 70002. Special powers

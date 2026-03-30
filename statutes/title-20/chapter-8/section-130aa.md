@@ -3,9 +3,9 @@ title: "Section 130aa - Definitions"
 usc_title: 20
 usc_section: "130aa"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 130aa"
-generated_at: "2026-03-30T01:32:23.054Z"
+generated_at: "2026-03-30T01:35:10.316Z"
 ---
 
 # § 130aa. Definitions

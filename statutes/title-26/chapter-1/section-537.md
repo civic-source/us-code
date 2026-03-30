@@ -3,9 +3,9 @@ title: "Section 537 - Reasonable needs of the business"
 usc_title: 26
 usc_section: "537"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 537"
-generated_at: "2026-03-30T01:33:05.420Z"
+generated_at: "2026-03-30T01:35:53.836Z"
 ---
 
 # § 537. Reasonable needs of the business

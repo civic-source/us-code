@@ -3,9 +3,9 @@ title: "Section 7142a - Designation of American Museum of Science and Energy"
 usc_title: 42
 usc_section: "7142a"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 7142a"
-generated_at: "2026-03-30T01:33:40.122Z"
+generated_at: "2026-03-30T01:37:21.056Z"
 ---
 
 # § 7142a. Designation of American Museum of Science and Energy

@@ -3,9 +3,9 @@ title: "Section 3205 - Simplified procedures for small purchases"
 usc_title: 10
 usc_section: "3205"
 chapter: 221
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 3205"
-generated_at: "2026-03-30T01:31:16.524Z"
+generated_at: "2026-03-30T01:34:43.552Z"
 ---
 
 # § 3205. Simplified procedures for small purchases

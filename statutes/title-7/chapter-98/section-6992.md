@@ -3,9 +3,9 @@ title: "Section 6992 - National Appeals Division and Director"
 usc_title: 7
 usc_section: "6992"
 chapter: 98
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 6992"
-generated_at: "2026-03-30T01:31:25.136Z"
+generated_at: "2026-03-30T01:34:33.704Z"
 ---
 
 # § 6992. National Appeals Division and Director

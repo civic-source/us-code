@@ -3,9 +3,9 @@ title: "Section 102 - Definitions"
 usc_title: 40
 usc_section: "102"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "40 U.S.C. § 102"
-generated_at: "2026-03-30T01:33:15.484Z"
+generated_at: "2026-03-30T01:36:18.589Z"
 ---
 
 # § 102. Definitions

@@ -3,9 +3,9 @@ title: "Section 4f - Assistance to countries to develop statistical assessment o
 usc_title: 22
 usc_section: "4f"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4f"
-generated_at: "2026-03-30T01:32:53.253Z"
+generated_at: "2026-03-30T01:35:26.967Z"
 ---
 
 # § 262p–4f. Assistance to countries to develop statistical assessment of well-being of poor

@@ -3,9 +3,9 @@ title: "Section 848 - Omitted"
 usc_title: 20
 usc_section: "848"
 chapter: 24
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 848"
-generated_at: "2026-03-30T01:32:23.056Z"
+generated_at: "2026-03-30T01:35:10.317Z"
 ---
 
 # §§ 845 to 848. Omitted

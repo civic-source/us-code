@@ -3,9 +3,9 @@ title: "Section 1608 - Definitions"
 usc_title: 47
 usc_section: "1608"
 chapter: 15
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "47 U.S.C. § 1608"
-generated_at: "2026-03-30T01:33:55.798Z"
+generated_at: "2026-03-30T01:37:33.852Z"
 ---
 
 # § 1608. Definitions

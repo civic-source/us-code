@@ -3,9 +3,9 @@ title: "Section 1087qq - Student aid index for independent students with depende
 usc_title: 20
 usc_section: "1087qq"
 chapter: 28
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 1087qq"
-generated_at: "2026-03-30T01:32:23.099Z"
+generated_at: "2026-03-30T01:35:10.355Z"
 ---
 
 # § 1087qq. Student aid index for independent students with dependents other than a spouse

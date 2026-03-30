@@ -3,9 +3,9 @@ title: "Section 6326 - Administrative appeal of liens"
 usc_title: 26
 usc_section: "6326"
 chapter: 64
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 6326"
-generated_at: "2026-03-30T01:33:05.546Z"
+generated_at: "2026-03-30T01:35:53.958Z"
 ---
 
 # § 6326. Administrative appeal of liens

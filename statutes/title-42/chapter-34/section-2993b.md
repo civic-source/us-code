@@ -3,9 +3,9 @@ title: "Section 2993b - Repealed. Pub. L. 93–113, title VI, § 603 , Oct. 1, 1
 usc_title: 42
 usc_section: "2993b"
 chapter: 34
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 2993b"
-generated_at: "2026-03-30T01:33:40.000Z"
+generated_at: "2026-03-30T01:37:20.938Z"
 ---
 
 # §§ 2993 to 2993b. Repealed. Pub. L. 93–113, title VI, § 603 , Oct. 1, 1973 , 87 Stat. 417

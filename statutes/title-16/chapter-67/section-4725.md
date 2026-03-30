@@ -3,9 +3,9 @@ title: "Section 4725 - Relationship to other laws"
 usc_title: 16
 usc_section: "4725"
 chapter: 67
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 4725"
-generated_at: "2026-03-30T01:32:02.325Z"
+generated_at: "2026-03-30T01:35:15.569Z"
 ---
 
 # § 4725. Relationship to other laws

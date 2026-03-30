@@ -3,9 +3,9 @@ title: "Section 3416 - Jurisdiction"
 usc_title: 12
 usc_section: "3416"
 chapter: 35
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 3416"
-generated_at: "2026-03-30T01:31:52.647Z"
+generated_at: "2026-03-30T01:35:04.937Z"
 ---
 
 # § 3416. Jurisdiction

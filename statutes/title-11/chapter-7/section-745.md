@@ -3,9 +3,9 @@ title: "Section 745 - Treatment of accounts"
 usc_title: 11
 usc_section: "745"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "11 U.S.C. § 745"
-generated_at: "2026-03-30T01:31:48.544Z"
+generated_at: "2026-03-30T01:35:01.340Z"
 ---
 
 # § 745. Treatment of accounts

@@ -3,9 +3,9 @@ title: "Section 462 - Omitted"
 usc_title: 50
 usc_section: "462"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "50 U.S.C. § 462"
-generated_at: "2026-03-30T01:34:01.580Z"
+generated_at: "2026-03-30T01:37:59.394Z"
 ---
 
 # §§ 456 to 462. Omitted

@@ -3,9 +3,9 @@ title: "Section 242b - Reports"
 usc_title: 6
 usc_section: "242b"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "6 U.S.C. § 242b"
-generated_at: "2026-03-30T01:31:09.525Z"
+generated_at: "2026-03-30T01:34:38.916Z"
 ---
 
 # § 242b. Reports

@@ -3,9 +3,9 @@ title: "Section 6304 - National Transportation Library"
 usc_title: 49
 usc_section: "6304"
 chapter: 63
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 6304"
-generated_at: "2026-03-30T01:33:49.560Z"
+generated_at: "2026-03-30T01:37:42.394Z"
 ---
 
 # § 6304. National Transportation Library

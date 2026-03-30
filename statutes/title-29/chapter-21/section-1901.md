@@ -3,9 +3,9 @@ title: "Section 1901 - Congressional findings"
 usc_title: 29
 usc_section: "1901"
 chapter: 21
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 1901"
-generated_at: "2026-03-30T01:33:06.605Z"
+generated_at: "2026-03-30T01:35:44.692Z"
 ---
 
 # § 1901. Congressional findings

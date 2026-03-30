@@ -3,9 +3,9 @@ title: "Section 12136 - Surrender of certificates of documentation"
 usc_title: 46
 usc_section: "12136"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 12136"
-generated_at: "2026-03-30T01:33:45.534Z"
+generated_at: "2026-03-30T01:37:55.438Z"
 ---
 
 # § 12136. Surrender of certificates of documentation

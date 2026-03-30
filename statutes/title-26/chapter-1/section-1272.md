@@ -3,9 +3,9 @@ title: "Section 1272 - Current inclusion in income of original issue discount"
 usc_title: 26
 usc_section: "1272"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 1272"
-generated_at: "2026-03-30T01:33:05.463Z"
+generated_at: "2026-03-30T01:35:53.879Z"
 ---
 
 # § 1272. Current inclusion in income of original issue discount

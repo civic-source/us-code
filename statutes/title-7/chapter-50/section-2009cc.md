@@ -3,9 +3,9 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T01:31:25.069Z"
+generated_at: "2026-03-30T01:34:33.642Z"
 ---
 
 # § 2009cc. Definitions

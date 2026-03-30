@@ -3,9 +3,9 @@ title: "Section 3002 - Congressional declaration of purpose"
 usc_title: 50
 usc_section: "3002"
 chapter: 44
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "50 U.S.C. § 3002"
-generated_at: "2026-03-30T01:34:01.610Z"
+generated_at: "2026-03-30T01:37:59.430Z"
 ---
 
 # § 3002. Congressional declaration of purpose

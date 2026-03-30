@@ -3,9 +3,9 @@ title: "Section 2251 - Quarters and facilities for the Farm Credit Administratio
 usc_title: 12
 usc_section: "2251"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 2251"
-generated_at: "2026-03-30T01:31:52.622Z"
+generated_at: "2026-03-30T01:35:04.920Z"
 ---
 
 # § 2251. Quarters and facilities for the Farm Credit Administration

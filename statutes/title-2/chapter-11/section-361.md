@@ -3,9 +3,9 @@ title: "Section 361 - Publication of recommendations"
 usc_title: 2
 usc_section: "361"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 361"
-generated_at: "2026-03-30T01:31:00.758Z"
+generated_at: "2026-03-30T01:34:23.531Z"
 ---
 
 # § 361. Publication of recommendations

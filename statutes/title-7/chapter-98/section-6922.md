@@ -3,9 +3,9 @@ title: "Section 6922 - Office of Homeland Security"
 usc_title: 7
 usc_section: "6922"
 chapter: 98
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 6922"
-generated_at: "2026-03-30T01:31:25.132Z"
+generated_at: "2026-03-30T01:34:33.701Z"
 ---
 
 # § 6922. Office of Homeland Security

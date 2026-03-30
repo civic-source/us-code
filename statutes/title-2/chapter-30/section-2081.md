@@ -3,9 +3,9 @@ title: "Section 2081 - United States Capitol Preservation Commission"
 usc_title: 2
 usc_section: "2081"
 chapter: 30
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 2081"
-generated_at: "2026-03-30T01:31:00.784Z"
+generated_at: "2026-03-30T01:34:23.556Z"
 ---
 
 # § 2081. United States Capitol Preservation Commission

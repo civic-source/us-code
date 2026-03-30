@@ -3,9 +3,9 @@ title: "Section 1028A - Aggravated identity theft"
 usc_title: 18
 usc_section: "1028A"
 chapter: 47
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "18 U.S.C. § 1028A"
-generated_at: "2026-03-30T01:31:56.766Z"
+generated_at: "2026-03-30T01:35:19.704Z"
 ---
 
 # § 1028A. Aggravated identity theft

@@ -3,9 +3,9 @@ title: "Section 2145 - Consultation and cooperation with Federal, State, and loc
 usc_title: 7
 usc_section: "2145"
 chapter: 54
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 2145"
-generated_at: "2026-03-30T01:31:25.084Z"
+generated_at: "2026-03-30T01:34:33.655Z"
 ---
 
 # § 2145. Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture

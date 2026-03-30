@@ -3,9 +3,9 @@ title: "Section 12593 - Federal Bureau of Investigation"
 usc_title: 34
 usc_section: "12593"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 12593"
-generated_at: "2026-03-30T01:33:13.202Z"
+generated_at: "2026-03-30T01:36:16.013Z"
 ---
 
 # § 12593. Federal Bureau of Investigation

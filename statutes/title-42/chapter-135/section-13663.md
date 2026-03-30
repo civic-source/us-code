@@ -3,9 +3,9 @@ title: "Section 13663 - Ineligibility of dangerous sex offenders for admission t
 usc_title: 42
 usc_section: "13663"
 chapter: 135
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 13663"
-generated_at: "2026-03-30T01:33:40.300Z"
+generated_at: "2026-03-30T01:37:21.220Z"
 ---
 
 # § 13663. Ineligibility of dangerous sex offenders for admission to public housing

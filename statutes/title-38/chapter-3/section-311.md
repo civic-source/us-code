@@ -3,9 +3,9 @@ title: "Section 311 - General Counsel"
 usc_title: 38
 usc_section: "311"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "38 U.S.C. § 311"
-generated_at: "2026-03-30T01:33:18.888Z"
+generated_at: "2026-03-30T01:36:22.173Z"
 ---
 
 # § 311. General Counsel

@@ -3,9 +3,9 @@ title: "Section 3073 - Medical and dental care"
 usc_title: 33
 usc_section: "3073"
 chapter: 43
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 3073"
-generated_at: "2026-03-30T01:33:10.841Z"
+generated_at: "2026-03-30T01:35:59.011Z"
 ---
 
 # § 3073. Medical and dental care

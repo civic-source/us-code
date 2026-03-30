@@ -3,9 +3,9 @@ title: "Section 723 - Emergency assistance pending implementation"
 usc_title: 45
 usc_section: "723"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "45 U.S.C. § 723"
-generated_at: "2026-03-30T01:33:21.360Z"
+generated_at: "2026-03-30T01:36:27.253Z"
 ---
 
 # § 723. Emergency assistance pending implementation

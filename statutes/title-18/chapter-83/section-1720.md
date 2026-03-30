@@ -3,9 +3,9 @@ title: "Section 1720 - Canceled stamps and envelopes"
 usc_title: 18
 usc_section: "1720"
 chapter: 83
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "18 U.S.C. § 1720"
-generated_at: "2026-03-30T01:31:56.777Z"
+generated_at: "2026-03-30T01:35:19.712Z"
 ---
 
 # § 1720. Canceled stamps and envelopes

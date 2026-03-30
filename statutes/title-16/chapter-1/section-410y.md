@@ -3,9 +3,9 @@ title: "Section 410y - Definitions"
 usc_title: 16
 usc_section: "410y"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 410y"
-generated_at: "2026-03-30T01:32:02.117Z"
+generated_at: "2026-03-30T01:35:15.367Z"
 ---
 
 # § 410y. Definitions

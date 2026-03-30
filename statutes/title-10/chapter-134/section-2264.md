@@ -3,9 +3,9 @@ title: "Section 2264 - Reimbursement for assistance provided to nongovernmental 
 usc_title: 10
 usc_section: "2264"
 chapter: 134
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 2264"
-generated_at: "2026-03-30T01:31:16.496Z"
+generated_at: "2026-03-30T01:34:43.525Z"
 ---
 
 # § 2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers

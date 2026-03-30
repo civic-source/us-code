@@ -3,9 +3,9 @@ title: "Section 343 - Western Hemisphere Institute for Security Cooperation"
 usc_title: 10
 usc_section: "343"
 chapter: 16
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 343"
-generated_at: "2026-03-30T01:31:16.424Z"
+generated_at: "2026-03-30T01:34:43.455Z"
 ---
 
 # § 343. Western Hemisphere Institute for Security Cooperation

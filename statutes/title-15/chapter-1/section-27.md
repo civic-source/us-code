@@ -3,9 +3,9 @@ title: "Section 27 - Effect of partial invalidity"
 usc_title: 15
 usc_section: "27"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 27"
-generated_at: "2026-03-30T01:31:32.391Z"
+generated_at: "2026-03-30T01:34:58.873Z"
 ---
 
 # § 27. Effect of partial invalidity

@@ -3,9 +3,9 @@ title: "Section 47124 - Agreements for State and local operation of airport faci
 usc_title: 49
 usc_section: "47124"
 chapter: 471
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 47124"
-generated_at: "2026-03-30T01:33:49.637Z"
+generated_at: "2026-03-30T01:37:42.476Z"
 ---
 
 # § 47124. Agreements for State and local operation of airport facilities

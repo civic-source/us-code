@@ -3,9 +3,9 @@ title: "Section 4501 - Procurement of contract services: management structure"
 usc_title: 10
 usc_section: "4501"
 chapter: 341
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 4501"
-generated_at: "2026-03-30T01:31:16.537Z"
+generated_at: "2026-03-30T01:34:43.565Z"
 ---
 
 # § 4501. Procurement of contract services: management structure

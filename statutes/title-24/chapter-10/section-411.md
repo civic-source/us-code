@@ -3,9 +3,9 @@ title: "Section 411 - Establishment of the Armed Forces Retirement Home"
 usc_title: 24
 usc_section: "411"
 chapter: 10
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "24 U.S.C. § 411"
-generated_at: "2026-03-30T01:32:25.307Z"
+generated_at: "2026-03-30T01:35:29.045Z"
 ---
 
 # § 411. Establishment of the Armed Forces Retirement Home

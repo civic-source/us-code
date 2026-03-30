@@ -3,9 +3,9 @@ title: "Section 1595 - Salinity control units; authority and functions of Secret
 usc_title: 43
 usc_section: "1595"
 chapter: 32
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "43 U.S.C. § 1595"
-generated_at: "2026-03-30T01:33:22.137Z"
+generated_at: "2026-03-30T01:36:30.381Z"
 ---
 
 # § 1595. Salinity control units; authority and functions of Secretary of the Interior

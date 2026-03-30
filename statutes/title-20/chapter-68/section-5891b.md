@@ -3,9 +3,9 @@ title: "Section 5891b - Educational flexibility program"
 usc_title: 20
 usc_section: "5891b"
 chapter: 68
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 5891b"
-generated_at: "2026-03-30T01:32:23.156Z"
+generated_at: "2026-03-30T01:35:10.408Z"
 ---
 
 # § 5891b. Educational flexibility program

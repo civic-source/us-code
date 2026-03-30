@@ -3,9 +3,9 @@ title: "Section 2001 - Hospitals and health facilities transferred to Public Hea
 usc_title: 42
 usc_section: "2001"
 chapter: 22
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 2001"
-generated_at: "2026-03-30T01:33:39.972Z"
+generated_at: "2026-03-30T01:37:20.912Z"
 ---
 
 # § 2001. Hospitals and health facilities transferred to Public Health Service; restriction on closing hospitals

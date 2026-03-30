@@ -3,9 +3,9 @@ title: "Section 172 - Authorization of Secretary to appoint employees; delegatio
 usc_title: 7
 usc_section: "172"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 172"
-generated_at: "2026-03-30T01:31:24.994Z"
+generated_at: "2026-03-30T01:34:33.575Z"
 ---
 
 # § 172. Authorization of Secretary to appoint employees; delegation of powers; cooperation with other agencies; allotment of funds; leases of facilities and disposal of water

@@ -3,9 +3,9 @@ title: "Section 5853 - Repealed. Pub. L. 107–171, title VII, § 7304(a) , May 
 usc_title: 7
 usc_section: "5853"
 chapter: 88
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 5853"
-generated_at: "2026-03-30T01:31:25.118Z"
+generated_at: "2026-03-30T01:34:33.687Z"
 ---
 
 # § 5853. Repealed. Pub. L. 107–171, title VII, § 7304(a) , May 13, 2002 , 116 Stat. 455

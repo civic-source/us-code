@@ -3,9 +3,9 @@ title: "Section 2715a - Provision of information on certain violent crimes abroa
 usc_title: 22
 usc_section: "2715a"
 chapter: 38
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2715a"
-generated_at: "2026-03-30T01:32:53.333Z"
+generated_at: "2026-03-30T01:35:27.034Z"
 ---
 
 # § 2715a. Provision of information on certain violent crimes abroad to victims and victims’ families

@@ -3,9 +3,9 @@ title: "Section 47508 - Noise standards for air carriers and foreign air carrier
 usc_title: 49
 usc_section: "47508"
 chapter: 475
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 47508"
-generated_at: "2026-03-30T01:33:49.640Z"
+generated_at: "2026-03-30T01:37:42.480Z"
 ---
 
 # § 47508. Noise standards for air carriers and foreign air carriers providing foreign air transportation

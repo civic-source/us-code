@@ -3,9 +3,9 @@ title: "Section 2004 - Assignment of rooms in House Office Building"
 usc_title: 2
 usc_section: "2004"
 chapter: 30
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 2004"
-generated_at: "2026-03-30T01:31:00.783Z"
+generated_at: "2026-03-30T01:34:23.555Z"
 ---
 
 # § 2004. Assignment of rooms in House Office Building

@@ -3,9 +3,9 @@ title: "Section 4808 - Revising regulatory requirements for transfers of all typ
 usc_title: 12
 usc_section: "4808"
 chapter: 48
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 4808"
-generated_at: "2026-03-30T01:31:52.675Z"
+generated_at: "2026-03-30T01:35:04.960Z"
 ---
 
 # § 4808. Revising regulatory requirements for transfers of all types of assets with recourse

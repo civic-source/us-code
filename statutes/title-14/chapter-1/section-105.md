@@ -3,9 +3,9 @@ title: "Section 105 - Secretary defined"
 usc_title: 14
 usc_section: "105"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "14 U.S.C. § 105"
-generated_at: "2026-03-30T01:31:27.371Z"
+generated_at: "2026-03-30T01:35:02.887Z"
 ---
 
 # § 105. Secretary defined

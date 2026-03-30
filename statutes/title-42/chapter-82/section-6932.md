@@ -3,9 +3,9 @@ title: "Section 6932 - Transferred"
 usc_title: 42
 usc_section: "6932"
 chapter: 82
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 6932"
-generated_at: "2026-03-30T01:33:40.111Z"
+generated_at: "2026-03-30T01:37:21.045Z"
 ---
 
 # § 6932. Transferred

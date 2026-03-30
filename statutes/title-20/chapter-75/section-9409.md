@@ -3,9 +3,9 @@ title: "Section 9409 - Grant administration"
 usc_title: 20
 usc_section: "9409"
 chapter: 75
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 9409"
-generated_at: "2026-03-30T01:32:23.192Z"
+generated_at: "2026-03-30T01:35:10.441Z"
 ---
 
 # § 9409. Grant administration

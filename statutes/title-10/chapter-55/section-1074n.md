@@ -3,9 +3,9 @@ title: "Section 1074n - Annual mental health assessments for members of the arme
 usc_title: 10
 usc_section: "1074n"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 1074n"
-generated_at: "2026-03-30T01:31:16.458Z"
+generated_at: "2026-03-30T01:34:43.488Z"
 ---
 
 # § 1074n. Annual mental health assessments for members of the armed forces

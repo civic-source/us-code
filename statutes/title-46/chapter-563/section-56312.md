@@ -3,9 +3,9 @@ title: "Section 56312 - Documented defined"
 usc_title: 46
 usc_section: "56312"
 chapter: 563
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "46 U.S.C. § 56312"
-generated_at: "2026-03-30T01:33:45.558Z"
+generated_at: "2026-03-30T01:37:55.463Z"
 ---
 
 # § 56312. Documented defined

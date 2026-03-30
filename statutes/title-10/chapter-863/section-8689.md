@@ -3,9 +3,9 @@ title: "Section 8689 - Requirements for availability of funds relating to advanc
 usc_title: 10
 usc_section: "8689"
 chapter: 863
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 8689"
-generated_at: "2026-03-30T01:31:16.559Z"
+generated_at: "2026-03-30T01:34:43.587Z"
 ---
 
 # § 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium

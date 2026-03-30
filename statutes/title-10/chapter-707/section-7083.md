@@ -3,9 +3,9 @@ title: "Section 7083 - Public Affairs Specialty"
 usc_title: 10
 usc_section: "7083"
 chapter: 707
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 7083"
-generated_at: "2026-03-30T01:31:16.545Z"
+generated_at: "2026-03-30T01:34:43.572Z"
 ---
 
 # § 7083. Public Affairs Specialty

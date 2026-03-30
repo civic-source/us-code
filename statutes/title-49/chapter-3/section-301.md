@@ -3,9 +3,9 @@ title: "Section 301 - Leadership, consultation, and cooperation"
 usc_title: 49
 usc_section: "301"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 301"
-generated_at: "2026-03-30T01:33:49.537Z"
+generated_at: "2026-03-30T01:37:42.372Z"
 ---
 
 # § 301. Leadership, consultation, and cooperation

@@ -3,9 +3,9 @@ title: "Section 16902 - Transferred"
 usc_title: 42
 usc_section: "16902"
 chapter: 151
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 16902"
-generated_at: "2026-03-30T01:33:40.344Z"
+generated_at: "2026-03-30T01:37:21.260Z"
 ---
 
 # § 16902. Transferred

@@ -3,9 +3,9 @@ title: "Section 1500e - Omitted"
 usc_title: 42
 usc_section: "1500e"
 chapter: 8
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1500e"
-generated_at: "2026-03-30T01:33:39.927Z"
+generated_at: "2026-03-30T01:37:20.863Z"
 ---
 
 # §§ 1500c–1 to 1500e. Omitted

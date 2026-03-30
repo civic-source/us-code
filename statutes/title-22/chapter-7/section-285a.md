@@ -3,9 +3,9 @@ title: "Section 285a - Appointment of Governor, Alternate Governor and Director;
 usc_title: 22
 usc_section: "285a"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 285a"
-generated_at: "2026-03-30T01:32:53.263Z"
+generated_at: "2026-03-30T01:35:26.976Z"
 ---
 
 # § 285a. Appointment of Governor, Alternate Governor and Director; compensation

@@ -3,9 +3,9 @@ title: "Section 4054 - Former spouses"
 usc_title: 22
 usc_section: "4054"
 chapter: 52
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 4054"
-generated_at: "2026-03-30T01:32:53.364Z"
+generated_at: "2026-03-30T01:35:27.058Z"
 ---
 
 # § 4054. Former spouses

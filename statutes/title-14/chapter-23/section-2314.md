@@ -3,9 +3,9 @@ title: "Section 2314 - Detention beyond term of enlistment"
 usc_title: 14
 usc_section: "2314"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "14 U.S.C. § 2314"
-generated_at: "2026-03-30T01:31:27.380Z"
+generated_at: "2026-03-30T01:35:02.896Z"
 ---
 
 # § 2314. Detention beyond term of enlistment

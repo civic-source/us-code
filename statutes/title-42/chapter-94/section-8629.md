@@ -3,9 +3,9 @@ title: "Section 8629 - Studies and reports"
 usc_title: 42
 usc_section: "8629"
 chapter: 94
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 8629"
-generated_at: "2026-03-30T01:33:40.190Z"
+generated_at: "2026-03-30T01:37:21.120Z"
 ---
 
 # § 8629. Studies and reports

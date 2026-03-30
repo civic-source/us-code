@@ -3,9 +3,9 @@ title: "Section 425b - Leasing lands for memorial"
 usc_title: 16
 usc_section: "425b"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 425b"
-generated_at: "2026-03-30T01:32:02.138Z"
+generated_at: "2026-03-30T01:35:15.389Z"
 ---
 
 # § 425b. Leasing lands for memorial

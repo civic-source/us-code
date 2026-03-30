@@ -3,9 +3,9 @@ title: "Section 238d - Availability of appropriations for grants to Federal inst
 usc_title: 42
 usc_section: "238d"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 238d"
-generated_at: "2026-03-30T01:33:39.494Z"
+generated_at: "2026-03-30T01:37:20.437Z"
 ---
 
 # § 238d. Availability of appropriations for grants to Federal institutions

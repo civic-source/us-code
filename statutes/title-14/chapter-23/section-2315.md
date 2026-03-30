@@ -3,9 +3,9 @@ title: "Section 2315 - Inclusion of certain conditions in enlistment contract"
 usc_title: 14
 usc_section: "2315"
 chapter: 23
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "14 U.S.C. § 2315"
-generated_at: "2026-03-30T01:31:27.380Z"
+generated_at: "2026-03-30T01:35:02.896Z"
 ---
 
 # § 2315. Inclusion of certain conditions in enlistment contract

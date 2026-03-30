@@ -3,9 +3,9 @@ title: "Section 6130 - Application of programs in the case of collective bargain
 usc_title: 5
 usc_section: "6130"
 chapter: 61
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "5 U.S.C. § 6130"
-generated_at: "2026-03-30T01:31:06.786Z"
+generated_at: "2026-03-30T01:34:27.243Z"
 ---
 
 # § 6130. Application of programs in the case of collective bargaining agreements

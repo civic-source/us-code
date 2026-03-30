@@ -3,9 +3,9 @@ title: "Section 15026 - Federal and non-Federal share"
 usc_title: 42
 usc_section: "15026"
 chapter: 144
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 15026"
-generated_at: "2026-03-30T01:33:40.307Z"
+generated_at: "2026-03-30T01:37:21.227Z"
 ---
 
 # § 15026. Federal and non-Federal share

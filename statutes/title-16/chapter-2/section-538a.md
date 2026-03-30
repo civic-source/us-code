@@ -3,9 +3,9 @@ title: "Section 538a - Forest Service Legacy Road and Trail Remediation Program"
 usc_title: 16
 usc_section: "538a"
 chapter: 2
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 538a"
-generated_at: "2026-03-30T01:32:02.189Z"
+generated_at: "2026-03-30T01:35:15.439Z"
 ---
 
 # § 538a. Forest Service Legacy Road and Trail Remediation Program

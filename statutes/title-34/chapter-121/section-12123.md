@@ -3,9 +3,9 @@ title: "Section 12123 - Conversion of closed military installations into Federal
 usc_title: 34
 usc_section: "12123"
 chapter: 121
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 12123"
-generated_at: "2026-03-30T01:33:13.192Z"
+generated_at: "2026-03-30T01:36:16.004Z"
 ---
 
 # § 12123. Conversion of closed military installations into Federal prison facilities

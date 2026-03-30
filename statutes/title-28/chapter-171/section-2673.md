@@ -3,9 +3,9 @@ title: "Section 2673 - Reports to Congress"
 usc_title: 28
 usc_section: "2673"
 chapter: 171
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "28 U.S.C. § 2673"
-generated_at: "2026-03-30T01:33:00.299Z"
+generated_at: "2026-03-30T01:35:43.618Z"
 ---
 
 # § 2673. Reports to Congress

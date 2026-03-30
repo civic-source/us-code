@@ -3,9 +3,9 @@ title: "Section 2515 - Treatment of generation-skipping transfer tax"
 usc_title: 26
 usc_section: "2515"
 chapter: 12
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 2515"
-generated_at: "2026-03-30T01:33:05.483Z"
+generated_at: "2026-03-30T01:35:53.897Z"
 ---
 
 # § 2515. Treatment of generation-skipping transfer tax

@@ -3,9 +3,9 @@ title: "Section 18721 - Enhancing grid security through public-private partnersh
 usc_title: 42
 usc_section: "18721"
 chapter: 162
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 18721"
-generated_at: "2026-03-30T01:33:40.381Z"
+generated_at: "2026-03-30T01:37:21.295Z"
 ---
 
 # § 18721. Enhancing grid security through public-private partnerships

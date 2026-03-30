@@ -3,9 +3,9 @@ title: "Section 462 - Repealed. June 15, 1955, ch. 143, § 1(b) , 69 Stat. 134 ]
 usc_title: 26
 usc_section: "462"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 462"
-generated_at: "2026-03-30T01:33:05.409Z"
+generated_at: "2026-03-30T01:35:53.826Z"
 ---
 
 # [§ 462. Repealed. June 15, 1955, ch. 143, § 1(b) , 69 Stat. 134 ]

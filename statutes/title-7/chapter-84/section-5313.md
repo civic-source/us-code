@@ -3,9 +3,9 @@ title: "Section 5313 - Development of comprehensive plan for National Nutrition 
 usc_title: 7
 usc_section: "5313"
 chapter: 84
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 5313"
-generated_at: "2026-03-30T01:31:25.114Z"
+generated_at: "2026-03-30T01:34:33.683Z"
 ---
 
 # § 5313. Development of comprehensive plan for National Nutrition Monitoring and Related Research Program

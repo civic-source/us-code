@@ -3,9 +3,9 @@ title: "Section 275 - Functions"
 usc_title: 2
 usc_section: "275"
 chapter: 9
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 275"
-generated_at: "2026-03-30T01:31:00.757Z"
+generated_at: "2026-03-30T01:34:23.529Z"
 ---
 
 # § 275. Functions

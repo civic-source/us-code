@@ -3,9 +3,9 @@ title: "Section 241g - Change in name of Theodore Roosevelt National Memorial Pa
 usc_title: 16
 usc_section: "241g"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 241g"
-generated_at: "2026-03-30T01:32:02.104Z"
+generated_at: "2026-03-30T01:35:15.355Z"
 ---
 
 # § 241g. Change in name of Theodore Roosevelt National Memorial Park

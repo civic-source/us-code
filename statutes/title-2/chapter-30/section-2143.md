@@ -3,9 +3,9 @@ title: "Section 2143 - Utilization of personnel by Architect of the Capitol for 
 usc_title: 2
 usc_section: "2143"
 chapter: 30
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 2143"
-generated_at: "2026-03-30T01:31:00.786Z"
+generated_at: "2026-03-30T01:34:23.557Z"
 ---
 
 # § 2143. Utilization of personnel by Architect of the Capitol for maintenance and operation of Botanic Garden

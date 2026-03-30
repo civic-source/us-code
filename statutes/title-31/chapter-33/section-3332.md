@@ -3,9 +3,9 @@ title: "Section 3332 - Required direct deposit"
 usc_title: 31
 usc_section: "3332"
 chapter: 33
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "31 U.S.C. § 3332"
-generated_at: "2026-03-30T01:33:09.605Z"
+generated_at: "2026-03-30T01:35:57.159Z"
 ---
 
 # § 3332. Required direct deposit

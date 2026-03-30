@@ -3,9 +3,9 @@ title: "Section 18631 - Crosscutting research and development"
 usc_title: 42
 usc_section: "18631"
 chapter: 161
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 18631"
-generated_at: "2026-03-30T01:33:40.375Z"
+generated_at: "2026-03-30T01:37:21.290Z"
 ---
 
 # § 18631. Crosscutting research and development

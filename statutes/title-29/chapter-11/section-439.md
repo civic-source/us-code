@@ -3,9 +3,9 @@ title: "Section 439 - Violations and penalties"
 usc_title: 29
 usc_section: "439"
 chapter: 11
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "29 U.S.C. § 439"
-generated_at: "2026-03-30T01:33:06.551Z"
+generated_at: "2026-03-30T01:35:44.642Z"
 ---
 
 # § 439. Violations and penalties

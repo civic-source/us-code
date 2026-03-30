@@ -3,9 +3,9 @@ title: "Section 4376 - Breach of critical cost growth threshold: reassessment of
 usc_title: 10
 usc_section: "4376"
 chapter: 325
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 4376"
-generated_at: "2026-03-30T01:31:16.537Z"
+generated_at: "2026-03-30T01:34:43.565Z"
 ---
 
 # § 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination

@@ -3,9 +3,9 @@ title: "Section 283cc - Applicability of Bretton Woods Agreements Act"
 usc_title: 22
 usc_section: "283cc"
 chapter: 7
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 283cc"
-generated_at: "2026-03-30T01:32:53.262Z"
+generated_at: "2026-03-30T01:35:26.976Z"
 ---
 
 # § 283cc. Applicability of Bretton Woods Agreements Act

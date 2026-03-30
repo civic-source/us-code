@@ -3,9 +3,9 @@ title: "Section 24911 - Federal-State partnership for intercity passenger rail"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-30T01:33:49.586Z"
+generated_at: "2026-03-30T01:37:42.425Z"
 ---
 
 # § 24911. Federal-State partnership for intercity passenger rail

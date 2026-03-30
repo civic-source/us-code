@@ -3,9 +3,9 @@ title: "Section 1392 - Monitoring ocean soundscapes"
 usc_title: 16
 usc_section: "1392"
 chapter: 31
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "16 U.S.C. § 1392"
-generated_at: "2026-03-30T01:32:02.264Z"
+generated_at: "2026-03-30T01:35:15.512Z"
 ---
 
 # § 1392. Monitoring ocean soundscapes

@@ -3,9 +3,9 @@ title: "Section 51 - Research regarding certain health conditions related to Sep
 usc_title: 42
 usc_section: "51"
 chapter: 6
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 51"
-generated_at: "2026-03-30T01:33:39.671Z"
+generated_at: "2026-03-30T01:37:20.616Z"
 ---
 
 # § 300mm–51. Research regarding certain health conditions related to September 11 terrorist attacks

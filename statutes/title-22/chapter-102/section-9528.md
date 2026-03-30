@@ -3,9 +3,9 @@ title: "Section 9528 - Sanctions with respect to the transfer of arms and relate
 usc_title: 22
 usc_section: "9528"
 chapter: 102
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 9528"
-generated_at: "2026-03-30T01:32:53.441Z"
+generated_at: "2026-03-30T01:35:27.120Z"
 ---
 
 # § 9528. Sanctions with respect to the transfer of arms and related materiel to Syria

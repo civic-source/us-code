@@ -3,9 +3,9 @@ title: "Section 331 - Transferred"
 usc_title: 2
 usc_section: "331"
 chapter: 10
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "2 U.S.C. § 331"
-generated_at: "2026-03-30T01:31:00.758Z"
+generated_at: "2026-03-30T01:34:23.530Z"
 ---
 
 # § 331. Transferred

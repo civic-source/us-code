@@ -3,9 +3,9 @@ title: "Section 1736y - Contract sanctity and producer embargo protection"
 usc_title: 7
 usc_section: "1736y"
 chapter: 41
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1736y"
-generated_at: "2026-03-30T01:31:25.051Z"
+generated_at: "2026-03-30T01:34:33.626Z"
 ---
 
 # § 1736y. Contract sanctity and producer embargo protection

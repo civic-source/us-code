@@ -3,9 +3,9 @@ title: "Section 409 - Center for Complex Operations"
 usc_title: 10
 usc_section: "409"
 chapter: 20
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "10 U.S.C. § 409"
-generated_at: "2026-03-30T01:31:16.427Z"
+generated_at: "2026-03-30T01:34:43.459Z"
 ---
 
 # § 409. Center for Complex Operations

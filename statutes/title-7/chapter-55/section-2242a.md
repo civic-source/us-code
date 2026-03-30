@@ -3,9 +3,9 @@ title: "Section 2242a - User fees for reports, publications, and software"
 usc_title: 7
 usc_section: "2242a"
 chapter: 55
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 2242a"
-generated_at: "2026-03-30T01:31:25.087Z"
+generated_at: "2026-03-30T01:34:33.658Z"
 ---
 
 # § 2242a. User fees for reports, publications, and software

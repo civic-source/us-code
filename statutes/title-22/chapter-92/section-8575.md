@@ -3,9 +3,9 @@ title: "Section 8575 - Definitions"
 usc_title: 22
 usc_section: "8575"
 chapter: 92
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 8575"
-generated_at: "2026-03-30T01:32:53.427Z"
+generated_at: "2026-03-30T01:35:27.108Z"
 ---
 
 # § 8575. Definitions

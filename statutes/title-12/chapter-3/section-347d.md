@@ -3,9 +3,9 @@ title: "Section 347d - Transactions between Federal Reserve banks and branch or 
 usc_title: 12
 usc_section: "347d"
 chapter: 3
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "12 U.S.C. § 347d"
-generated_at: "2026-03-30T01:31:52.496Z"
+generated_at: "2026-03-30T01:35:04.830Z"
 ---
 
 # § 347d. Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered

@@ -3,9 +3,9 @@ title: "Section 41906 - Duty to oppose unreasonable prices under the Universal P
 usc_title: 49
 usc_section: "41906"
 chapter: 419
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 41906"
-generated_at: "2026-03-30T01:33:49.613Z"
+generated_at: "2026-03-30T01:37:42.454Z"
 ---
 
 # § 41906. Duty to oppose unreasonable prices under the Universal Postal Union Convention

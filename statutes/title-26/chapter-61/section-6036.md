@@ -3,9 +3,9 @@ title: "Section 6036 - Notice of qualification as executor or receiver"
 usc_title: 26
 usc_section: "6036"
 chapter: 61
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "26 U.S.C. § 6036"
-generated_at: "2026-03-30T01:33:05.527Z"
+generated_at: "2026-03-30T01:35:53.940Z"
 ---
 
 # § 6036. Notice of qualification as executor or receiver

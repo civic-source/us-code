@@ -3,9 +3,9 @@ title: "Section 6966c - Best practices for battery recycling and labeling guidel
 usc_title: 42
 usc_section: "6966c"
 chapter: 82
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 6966c"
-generated_at: "2026-03-30T01:33:40.117Z"
+generated_at: "2026-03-30T01:37:21.049Z"
 ---
 
 # § 6966c. Best practices for battery recycling and labeling guidelines

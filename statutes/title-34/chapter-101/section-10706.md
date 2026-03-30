@@ -3,9 +3,9 @@ title: "Section 10706 - Grant accountability"
 usc_title: 34
 usc_section: "10706"
 chapter: 101
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "34 U.S.C. § 10706"
-generated_at: "2026-03-30T01:33:13.184Z"
+generated_at: "2026-03-30T01:36:15.998Z"
 ---
 
 # § 10706. Grant accountability

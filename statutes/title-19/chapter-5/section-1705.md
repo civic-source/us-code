@@ -3,9 +3,9 @@ title: "Section 1705 - Destruction of forfeited vessel or vehicle"
 usc_title: 19
 usc_section: "1705"
 chapter: 5
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "19 U.S.C. § 1705"
-generated_at: "2026-03-30T01:31:58.650Z"
+generated_at: "2026-03-30T01:35:17.887Z"
 ---
 
 # § 1705. Destruction of forfeited vessel or vehicle

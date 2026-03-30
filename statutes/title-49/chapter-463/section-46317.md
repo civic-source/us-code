@@ -3,9 +3,9 @@ title: "Section 46317 - Criminal penalty for pilots operating in air transportat
 usc_title: 49
 usc_section: "46317"
 chapter: 463
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "49 U.S.C. § 46317"
-generated_at: "2026-03-30T01:33:49.631Z"
+generated_at: "2026-03-30T01:37:42.472Z"
 ---
 
 # § 46317. Criminal penalty for pilots operating in air transportation without an airman’s certificate

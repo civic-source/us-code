@@ -3,9 +3,9 @@ title: "Section 1921c - Interpretation of and United States policy regarding U.S
 usc_title: 48
 usc_section: "1921c"
 chapter: 18
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "48 U.S.C. § 1921c"
-generated_at: "2026-03-30T01:33:44.442Z"
+generated_at: "2026-03-30T01:37:24.750Z"
 ---
 
 # § 1921c. Interpretation of and United States policy regarding U.S.-FSM Compact and U.S.-RMI Compact

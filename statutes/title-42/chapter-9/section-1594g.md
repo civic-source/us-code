@@ -3,9 +3,9 @@ title: "Section 1594g - Repealed. Pub. L. 85–241, title IV, § 406(b) , Aug. 3
 usc_title: 42
 usc_section: "1594g"
 chapter: 9
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "42 U.S.C. § 1594g"
-generated_at: "2026-03-30T01:33:39.931Z"
+generated_at: "2026-03-30T01:37:20.868Z"
 ---
 
 # § 1594g. Repealed. Pub. L. 85–241, title IV, § 406(b) , Aug. 30, 1957 , 71 Stat. 556

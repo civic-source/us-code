@@ -3,9 +3,9 @@ title: "Section 146 - Carpool and vanpool projects"
 usc_title: 23
 usc_section: "146"
 chapter: 1
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "23 U.S.C. § 146"
-generated_at: "2026-03-30T01:32:47.151Z"
+generated_at: "2026-03-30T01:35:23.154Z"
 ---
 
 # § 146. Carpool and vanpool projects

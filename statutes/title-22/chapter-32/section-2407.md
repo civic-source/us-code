@@ -3,9 +3,9 @@ title: "Section 2407 - Special authorization for use of foreign currencies"
 usc_title: 22
 usc_section: "2407"
 chapter: 32
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "22 U.S.C. § 2407"
-generated_at: "2026-03-30T01:32:53.317Z"
+generated_at: "2026-03-30T01:35:27.020Z"
 ---
 
 # § 2407. Special authorization for use of foreign currencies

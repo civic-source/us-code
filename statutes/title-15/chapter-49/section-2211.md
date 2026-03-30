@@ -3,9 +3,9 @@ title: "Section 2211 - Review of fire prevention codes"
 usc_title: 15
 usc_section: "2211"
 chapter: 49
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "15 U.S.C. § 2211"
-generated_at: "2026-03-30T01:31:32.530Z"
+generated_at: "2026-03-30T01:34:59.014Z"
 ---
 
 # § 2211. Review of fire prevention codes

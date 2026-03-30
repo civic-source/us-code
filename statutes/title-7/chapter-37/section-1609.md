@@ -3,9 +3,9 @@ title: "Section 1609 - Repeals"
 usc_title: 7
 usc_section: "1609"
 chapter: 37
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "7 U.S.C. § 1609"
-generated_at: "2026-03-30T01:31:25.041Z"
+generated_at: "2026-03-30T01:34:33.616Z"
 ---
 
 # § 1609. Repeals

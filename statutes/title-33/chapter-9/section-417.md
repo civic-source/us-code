@@ -3,9 +3,9 @@ title: "Section 417 - Expenses of investigations by Department of the Army"
 usc_title: 33
 usc_section: "417"
 chapter: 9
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "33 U.S.C. § 417"
-generated_at: "2026-03-30T01:33:10.758Z"
+generated_at: "2026-03-30T01:35:58.938Z"
 ---
 
 # § 417. Expenses of investigations by Department of the Army

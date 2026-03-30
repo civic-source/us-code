@@ -3,9 +3,9 @@ title: "Section 36 - Eligibility of scholars"
 usc_title: 20
 usc_section: "36"
 chapter: 28
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "20 U.S.C. § 36"
-generated_at: "2026-03-30T01:32:23.079Z"
+generated_at: "2026-03-30T01:35:10.337Z"
 ---
 
 # § 1070d–36. Eligibility of scholars

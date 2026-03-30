@@ -3,9 +3,9 @@ title: "Section 154510 - Service of process"
 usc_title: 36
 usc_section: "154510"
 chapter: 1545
-current_through: "PL 118-71"
+current_through: "PL 118-78"
 classification: "36 U.S.C. § 154510"
-generated_at: "2026-03-30T01:33:17.155Z"
+generated_at: "2026-03-30T01:36:25.174Z"
 ---
 
 # § 154510. Service of process
