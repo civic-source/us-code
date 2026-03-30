@@ -3,9 +3,9 @@ title: "Section 1492 - Claims for losses; submission to Secretary; reimbursement
 usc_title: 25
 usc_section: "1492"
 chapter: 17
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "25 U.S.C. § 1492"
-generated_at: "2026-03-29T23:55:39.350Z"
+generated_at: "2026-03-30T00:02:38.537Z"
 ---
 
 # § 1492. Claims for losses; submission to Secretary; reimbursement: single and aggregate loss limitations, conditions; assignment of note or judgment; collection or cancellation by Secretary; interest or charges cessation date

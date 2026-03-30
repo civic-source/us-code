@@ -3,9 +3,9 @@ title: "Section 4762 - Definitions"
 usc_title: 42
 usc_section: "4762"
 chapter: 62
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 4762"
-generated_at: "2026-03-29T23:57:26.993Z"
+generated_at: "2026-03-30T00:04:20.803Z"
 ---
 
 # § 4762. Definitions

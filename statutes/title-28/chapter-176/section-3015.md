@@ -3,9 +3,9 @@ title: "Section 3015 - Discovery as to debtor’s financial condition"
 usc_title: 28
 usc_section: "3015"
 chapter: 176
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "28 U.S.C. § 3015"
-generated_at: "2026-03-29T23:56:03.416Z"
+generated_at: "2026-03-30T00:02:54.291Z"
 ---
 
 # § 3015. Discovery as to debtor’s financial condition

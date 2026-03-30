@@ -3,9 +3,9 @@ title: "Section 22504 - Powers"
 usc_title: 36
 usc_section: "22504"
 chapter: 225
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "36 U.S.C. § 22504"
-generated_at: "2026-03-29T23:56:42.983Z"
+generated_at: "2026-03-30T00:03:49.067Z"
 ---
 
 # § 22504. Powers

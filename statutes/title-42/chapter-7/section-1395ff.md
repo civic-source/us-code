@@ -3,9 +3,9 @@ title: "Section 1395ff - Determinations; appeals"
 usc_title: 42
 usc_section: "1395ff"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 1395ff"
-generated_at: "2026-03-29T23:57:26.799Z"
+generated_at: "2026-03-30T00:04:20.529Z"
 ---
 
 # § 1395ff. Determinations; appeals

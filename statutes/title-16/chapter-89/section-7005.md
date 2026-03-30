@@ -3,9 +3,9 @@ title: "Section 7005 - United States representation on advisory panel"
 usc_title: 16
 usc_section: "7005"
 chapter: 89
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 7005"
-generated_at: "2026-03-29T23:55:31.295Z"
+generated_at: "2026-03-30T00:01:39.838Z"
 ---
 
 # § 7005. United States representation on advisory panel

@@ -3,9 +3,9 @@ title: "Section 3505 - Exceptions to limitations on expenditures"
 usc_title: 16
 usc_section: "3505"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 3505"
-generated_at: "2026-03-29T23:55:31.224Z"
+generated_at: "2026-03-30T00:01:39.796Z"
 ---
 
 # § 3505. Exceptions to limitations on expenditures

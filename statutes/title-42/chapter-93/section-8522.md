@@ -3,9 +3,9 @@ title: "Section 8522 - Out-of-State vehicles to be exempted from odd-even motor 
 usc_title: 42
 usc_section: "8522"
 chapter: 93
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 8522"
-generated_at: "2026-03-29T23:57:27.123Z"
+generated_at: "2026-03-30T00:04:20.984Z"
 ---
 
 # § 8522. Out-of-State vehicles to be exempted from odd-even motor fuel purchase restrictions

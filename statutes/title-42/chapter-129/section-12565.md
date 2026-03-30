@@ -3,9 +3,9 @@ title: "Section 12565 - Repealed. Pub. L. 113–188, title III, § 301(a) , Nov.
 usc_title: 42
 usc_section: "12565"
 chapter: 129
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 12565"
-generated_at: "2026-03-29T23:57:27.189Z"
+generated_at: "2026-03-30T00:04:21.079Z"
 ---
 
 # § 12565. Repealed. Pub. L. 113–188, title III, § 301(a) , Nov. 26, 2014 , 128 Stat. 2018

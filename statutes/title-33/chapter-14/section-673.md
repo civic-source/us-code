@@ -3,9 +3,9 @@ title: "Section 673 - Order by commission directing method of mining, etc.; expe
 usc_title: 33
 usc_section: "673"
 chapter: 14
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 673"
-generated_at: "2026-03-29T23:56:30.032Z"
+generated_at: "2026-03-30T00:03:44.691Z"
 ---
 
 # § 673. Order by commission directing method of mining, etc.; expenses of complying with order; exemption from mining taxes

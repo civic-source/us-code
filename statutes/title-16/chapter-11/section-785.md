@@ -3,9 +3,9 @@ title: "Section 785 - Enforcement of law prohibiting taking of sponges of specif
 usc_title: 16
 usc_section: "785"
 chapter: 11
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 785"
-generated_at: "2026-03-29T23:55:31.083Z"
+generated_at: "2026-03-30T00:01:39.695Z"
 ---
 
 # § 785. Enforcement of law prohibiting taking of sponges of specified sizes; employment of Coast Guard vessels and Customs Service employees

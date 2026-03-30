@@ -3,9 +3,9 @@ title: "Section 8892 - Stay of suit"
 usc_title: 10
 usc_section: "8892"
 chapter: 885
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 8892"
-generated_at: "2026-03-29T23:54:20.084Z"
+generated_at: "2026-03-29T23:59:56.236Z"
 ---
 
 # § 8892. Stay of suit

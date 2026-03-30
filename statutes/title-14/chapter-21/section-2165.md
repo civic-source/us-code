@@ -3,9 +3,9 @@ title: "Section 2165 - Relief of retired officer promoted while on active duty"
 usc_title: 14
 usc_section: "2165"
 chapter: 21
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "14 U.S.C. § 2165"
-generated_at: "2026-03-29T23:54:25.492Z"
+generated_at: "2026-03-30T00:00:27.258Z"
 ---
 
 # § 2165. Relief of retired officer promoted while on active duty

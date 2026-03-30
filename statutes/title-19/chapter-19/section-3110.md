@@ -3,9 +3,9 @@ title: "Section 3110 - Study on telecommunications competitiveness in United Sta
 usc_title: 19
 usc_section: "3110"
 chapter: 19
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "19 U.S.C. § 3110"
-generated_at: "2026-03-29T23:55:00.645Z"
+generated_at: "2026-03-30T00:02:18.601Z"
 ---
 
 # § 3110. Study on telecommunications competitiveness in United States

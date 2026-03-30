@@ -3,9 +3,9 @@ title: "Section 3026 - Deputy Directors of National Intelligence"
 usc_title: 50
 usc_section: "3026"
 chapter: 44
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 3026"
-generated_at: "2026-03-29T23:57:33.283Z"
+generated_at: "2026-03-30T00:04:33.206Z"
 ---
 
 # § 3026. Deputy Directors of National Intelligence

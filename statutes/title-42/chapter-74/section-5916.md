@@ -3,9 +3,9 @@ title: "Section 5916 - Central source of nonnuclear energy information"
 usc_title: 42
 usc_section: "5916"
 chapter: 74
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 5916"
-generated_at: "2026-03-29T23:57:27.025Z"
+generated_at: "2026-03-30T00:04:20.846Z"
 ---
 
 # § 5916. Central source of nonnuclear energy information

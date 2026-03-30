@@ -3,9 +3,9 @@ title: "Section 3647 - Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(
 usc_title: 22
 usc_section: "3647"
 chapter: 51
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 3647"
-generated_at: "2026-03-29T23:55:52.457Z"
+generated_at: "2026-03-30T00:02:50.259Z"
 ---
 
 # §§ 3646, 3647. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a) , Oct. 17, 1998 , 112 Stat. 2269

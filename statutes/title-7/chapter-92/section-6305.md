@@ -3,9 +3,9 @@ title: "Section 6305 - Referenda"
 usc_title: 7
 usc_section: "6305"
 chapter: 92
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 6305"
-generated_at: "2026-03-29T23:54:15.651Z"
+generated_at: "2026-03-30T00:00:03.564Z"
 ---
 
 # § 6305. Referenda

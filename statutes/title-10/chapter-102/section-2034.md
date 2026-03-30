@@ -3,9 +3,9 @@ title: "Section 2034 - Educational institutions not maintaining units of Junior 
 usc_title: 10
 usc_section: "2034"
 chapter: 102
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 2034"
-generated_at: "2026-03-29T23:54:20.003Z"
+generated_at: "2026-03-29T23:59:56.154Z"
 ---
 
 # § 2034. Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment

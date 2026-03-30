@@ -3,9 +3,9 @@ title: "Section 631 - Age limits"
 usc_title: 29
 usc_section: "631"
 chapter: 14
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "29 U.S.C. § 631"
-generated_at: "2026-03-29T23:55:56.259Z"
+generated_at: "2026-03-30T00:03:00.472Z"
 ---
 
 # § 631. Age limits

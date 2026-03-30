@@ -3,9 +3,9 @@ title: "Section 4103 - Applicability of United States laws"
 usc_title: 18
 usc_section: "4103"
 chapter: 306
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "18 U.S.C. § 4103"
-generated_at: "2026-03-29T23:55:17.292Z"
+generated_at: "2026-03-30T00:01:51.881Z"
 ---
 
 # § 4103. Applicability of United States laws

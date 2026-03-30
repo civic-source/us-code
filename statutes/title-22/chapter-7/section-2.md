@@ -3,9 +3,9 @@ title: "Section 2 - Applicability of certain provisions of Bretton Woods Agreeme
 usc_title: 22
 usc_section: "2"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-29T23:55:52.387Z"
+generated_at: "2026-03-30T00:02:50.182Z"
 ---
 
 # § 290o–2. Applicability of certain provisions of Bretton Woods Agreements Act

@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7"
 chapter: 3
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-29T23:55:05.325Z"
+generated_at: "2026-03-30T00:01:54.680Z"
 ---
 
 # § 80t–7. Authorization of appropriations

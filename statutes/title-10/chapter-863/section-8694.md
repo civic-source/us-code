@@ -3,9 +3,9 @@ title: "Section 8694 - Annual report on ship maintenance"
 usc_title: 10
 usc_section: "8694"
 chapter: 863
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 8694"
-generated_at: "2026-03-29T23:54:20.081Z"
+generated_at: "2026-03-29T23:59:56.233Z"
 ---
 
 # § 8694. Annual report on ship maintenance

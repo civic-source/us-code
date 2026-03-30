@@ -3,9 +3,9 @@ title: "Section 1395t - Federal Supplementary Medical Insurance Trust Fund"
 usc_title: 42
 usc_section: "1395t"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 1395t"
-generated_at: "2026-03-29T23:57:26.758Z"
+generated_at: "2026-03-30T00:04:20.469Z"
 ---
 
 # § 1395t. Federal Supplementary Medical Insurance Trust Fund

@@ -3,9 +3,9 @@ title: "Section 764 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "764"
 chapter: 16
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 764"
-generated_at: "2026-03-29T23:56:30.038Z"
+generated_at: "2026-03-30T00:03:44.698Z"
 ---
 
 # § 764. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(15) , Dec. 23, 2022 , 136 Stat. 4166

@@ -3,9 +3,9 @@ title: "Section 2200i - Model authorities"
 usc_title: 10
 usc_section: "2200i"
 chapter: 113
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 2200i"
-generated_at: "2026-03-29T23:54:20.008Z"
+generated_at: "2026-03-29T23:59:56.158Z"
 ---
 
 # § 2200i. Model authorities

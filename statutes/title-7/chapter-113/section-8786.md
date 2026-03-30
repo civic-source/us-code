@@ -3,9 +3,9 @@ title: "Section 8786 - Prevention of deceased individuals receiving payments und
 usc_title: 7
 usc_section: "8786"
 chapter: 113
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 8786"
-generated_at: "2026-03-29T23:54:15.696Z"
+generated_at: "2026-03-30T00:00:03.610Z"
 ---
 
 # § 8786. Prevention of deceased individuals receiving payments under farm commodity programs

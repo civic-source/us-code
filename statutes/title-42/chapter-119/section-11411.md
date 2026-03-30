@@ -3,9 +3,9 @@ title: "Section 11411 - Use of unutilized and underutilized public buildings and
 usc_title: 42
 usc_section: "11411"
 chapter: 119
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 11411"
-generated_at: "2026-03-29T23:57:27.176Z"
+generated_at: "2026-03-30T00:04:21.060Z"
 ---
 
 # § 11411. Use of unutilized and underutilized public buildings and real property to assist the homeless

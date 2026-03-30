@@ -3,9 +3,9 @@ title: "Section 2207b - Program metrics"
 usc_title: 7
 usc_section: "2207b"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 2207b"
-generated_at: "2026-03-29T23:54:15.610Z"
+generated_at: "2026-03-30T00:00:03.523Z"
 ---
 
 # § 2207b. Program metrics

@@ -3,9 +3,9 @@ title: "Section 1035 - Sale of mineral interests; consideration; transfer of uns
 usc_title: 7
 usc_section: "1035"
 chapter: 33
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 1035"
-generated_at: "2026-03-29T23:54:15.542Z"
+generated_at: "2026-03-30T00:00:03.455Z"
 ---
 
 # § 1035. Sale of mineral interests; consideration; transfer of unsold interests to Secretary of the Interior

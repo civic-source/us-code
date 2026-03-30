@@ -3,9 +3,9 @@ title: "Section 1133 - Bronze Star: limitation on persons eligible to receive"
 usc_title: 10
 usc_section: "1133"
 chapter: 57
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 1133"
-generated_at: "2026-03-29T23:54:19.978Z"
+generated_at: "2026-03-29T23:59:56.127Z"
 ---
 
 # § 1133. Bronze Star: limitation on persons eligible to receive

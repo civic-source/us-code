@@ -3,9 +3,9 @@ title: "Section 66 - Provision by Secretary of supplies and services in lieu of 
 usc_title: 42
 usc_section: "66"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 66"
-generated_at: "2026-03-29T23:57:26.641Z"
+generated_at: "2026-03-30T00:04:20.306Z"
 ---
 
 # § 300ff–66. Provision by Secretary of supplies and services in lieu of grant funds

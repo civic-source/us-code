@@ -3,9 +3,9 @@ title: "Section 4659 - Additional authorities"
 usc_title: 15
 usc_section: "4659"
 chapter: 72
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 4659"
-generated_at: "2026-03-29T23:54:56.162Z"
+generated_at: "2026-03-30T00:01:21.439Z"
 ---
 
 # § 4659. Additional authorities

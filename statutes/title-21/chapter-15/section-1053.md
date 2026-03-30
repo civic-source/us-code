@@ -3,9 +3,9 @@ title: "Section 1053 - Inspection and administration costs"
 usc_title: 21
 usc_section: "1053"
 chapter: 15
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "21 U.S.C. § 1053"
-generated_at: "2026-03-29T23:55:43.376Z"
+generated_at: "2026-03-30T00:02:27.738Z"
 ---
 
 # § 1053. Inspection and administration costs

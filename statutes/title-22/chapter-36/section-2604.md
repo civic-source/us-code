@@ -3,9 +3,9 @@ title: "Section 2604 - Allocation, transfer and availability of funds; separate 
 usc_title: 22
 usc_section: "2604"
 chapter: 36
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 2604"
-generated_at: "2026-03-29T23:55:52.435Z"
+generated_at: "2026-03-30T00:02:50.233Z"
 ---
 
 # § 2604. Allocation, transfer and availability of funds; separate appropriation accounts on Treasury books

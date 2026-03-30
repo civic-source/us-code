@@ -3,9 +3,9 @@ title: "Section 711a - Emergency assistance to families through home visiting pr
 usc_title: 42
 usc_section: "711a"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 711a"
-generated_at: "2026-03-29T23:57:26.705Z"
+generated_at: "2026-03-30T00:04:20.395Z"
 ---
 
 # § 711a. Emergency assistance to families through home visiting programs

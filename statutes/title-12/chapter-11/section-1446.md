@@ -3,9 +3,9 @@ title: "Section 1446 - Liquidation or reorganization; acquisition of assets by o
 usc_title: 12
 usc_section: "1446"
 chapter: 11
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "12 U.S.C. § 1446"
-generated_at: "2026-03-29T23:54:34.889Z"
+generated_at: "2026-03-30T00:00:35.554Z"
 ---
 
 # § 1446. Liquidation or reorganization; acquisition of assets by other banks; assumption of liabilities

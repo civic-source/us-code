@@ -3,9 +3,9 @@ title: "Section 5521 - Definitions"
 usc_title: 5
 usc_section: "5521"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "5 U.S.C. § 5521"
-generated_at: "2026-03-29T23:54:05.662Z"
+generated_at: "2026-03-29T23:59:20.460Z"
 ---
 
 # § 5521. Definitions

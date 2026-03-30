@@ -3,9 +3,9 @@ title: "Section 1956 - Laundering of monetary instruments"
 usc_title: 18
 usc_section: "1956"
 chapter: 95
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "18 U.S.C. § 1956"
-generated_at: "2026-03-29T23:55:17.259Z"
+generated_at: "2026-03-30T00:01:51.847Z"
 ---
 
 # § 1956. Laundering of monetary instruments

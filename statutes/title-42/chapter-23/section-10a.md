@@ -3,9 +3,9 @@ title: "Section 10a - Incentives for additional downblending of highly enriched 
 usc_title: 42
 usc_section: "10a"
 chapter: 23
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-29T23:57:26.947Z"
+generated_at: "2026-03-30T00:04:20.741Z"
 ---
 
 # § 2297h–10a. Incentives for additional downblending of highly enriched uranium by the Russian Federation

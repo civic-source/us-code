@@ -3,9 +3,9 @@ title: "Section 2131 - Congressional statement of policy"
 usc_title: 7
 usc_section: "2131"
 chapter: 54
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 2131"
-generated_at: "2026-03-29T23:54:15.607Z"
+generated_at: "2026-03-30T00:00:03.519Z"
 ---
 
 # § 2131. Congressional statement of policy

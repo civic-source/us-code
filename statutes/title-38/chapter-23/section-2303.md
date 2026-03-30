@@ -3,9 +3,9 @@ title: "Section 2303 - Death from non-service-connected disability; plot allowan
 usc_title: 38
 usc_section: "2303"
 chapter: 23
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "38 U.S.C. § 2303"
-generated_at: "2026-03-29T23:56:49.022Z"
+generated_at: "2026-03-30T00:03:51.263Z"
 ---
 
 # § 2303. Death from non-service-connected disability; plot allowance

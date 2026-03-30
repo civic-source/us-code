@@ -3,9 +3,9 @@ title: "Section 4303 - Actions based on unacceptable performance"
 usc_title: 5
 usc_section: "4303"
 chapter: 43
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "5 U.S.C. § 4303"
-generated_at: "2026-03-29T23:54:05.657Z"
+generated_at: "2026-03-29T23:59:20.452Z"
 ---
 
 # § 4303. Actions based on unacceptable performance

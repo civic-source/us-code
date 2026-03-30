@@ -3,9 +3,9 @@ title: "Section 101 - Enacting clause"
 usc_title: 1
 usc_section: "101"
 chapter: 2
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "1 U.S.C. § 101"
-generated_at: "2026-03-29T23:54:01.581Z"
+generated_at: "2026-03-29T23:59:16.414Z"
 ---
 
 # § 101. Enacting clause

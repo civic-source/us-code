@@ -3,9 +3,9 @@ title: "Section 2390 - Terms of detail or assignment of personnel"
 usc_title: 22
 usc_section: "2390"
 chapter: 32
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 2390"
-generated_at: "2026-03-29T23:55:52.424Z"
+generated_at: "2026-03-30T00:02:50.222Z"
 ---
 
 # § 2390. Terms of detail or assignment of personnel

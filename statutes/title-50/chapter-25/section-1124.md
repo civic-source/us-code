@@ -3,9 +3,9 @@ title: "Section 1124 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "1124"
 chapter: 25
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 1124"
-generated_at: "2026-03-29T23:57:33.251Z"
+generated_at: "2026-03-30T00:04:33.161Z"
 ---
 
 # §§ 1111 to 1124. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

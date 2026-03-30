@@ -3,9 +3,9 @@ title: "Section 228c - Federal preemption of State and local requirements"
 usc_title: 7
 usc_section: "228c"
 chapter: 9
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 228c"
-generated_at: "2026-03-29T23:54:15.524Z"
+generated_at: "2026-03-30T00:00:03.436Z"
 ---
 
 # § 228c. Federal preemption of State and local requirements

@@ -3,9 +3,9 @@ title: "Section 20918 - Periodic in person verification"
 usc_title: 34
 usc_section: "20918"
 chapter: 209
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 20918"
-generated_at: "2026-03-29T23:56:30.973Z"
+generated_at: "2026-03-30T00:03:42.959Z"
 ---
 
 # § 20918. Periodic in person verification

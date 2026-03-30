@@ -3,9 +3,9 @@ title: "Section 2704 - Insurance for emergency mortgage loans and advances"
 usc_title: 12
 usc_section: "2704"
 chapter: 28
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "12 U.S.C. § 2704"
-generated_at: "2026-03-29T23:54:34.988Z"
+generated_at: "2026-03-30T00:00:35.653Z"
 ---
 
 # § 2704. Insurance for emergency mortgage loans and advances

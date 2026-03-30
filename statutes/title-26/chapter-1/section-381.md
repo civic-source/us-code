@@ -3,9 +3,9 @@ title: "Section 381 - Carryovers in certain corporate acquisitions"
 usc_title: 26
 usc_section: "381"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 381"
-generated_at: "2026-03-29T23:56:24.752Z"
+generated_at: "2026-03-30T00:03:33.400Z"
 ---
 
 # § 381. Carryovers in certain corporate acquisitions

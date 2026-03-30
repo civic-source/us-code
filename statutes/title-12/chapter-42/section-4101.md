@@ -3,9 +3,9 @@ title: "Section 4101 - General prepayment limitation"
 usc_title: 12
 usc_section: "4101"
 chapter: 42
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "12 U.S.C. § 4101"
-generated_at: "2026-03-29T23:54:35.003Z"
+generated_at: "2026-03-30T00:00:35.666Z"
 ---
 
 # § 4101. General prepayment limitation

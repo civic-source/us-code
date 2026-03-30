@@ -3,9 +3,9 @@ title: "Section 5343 - Use of Government property by States and Territories"
 usc_title: 25
 usc_section: "5343"
 chapter: 46
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "25 U.S.C. § 5343"
-generated_at: "2026-03-29T23:55:39.402Z"
+generated_at: "2026-03-30T00:02:38.590Z"
 ---
 
 # § 5343. Use of Government property by States and Territories

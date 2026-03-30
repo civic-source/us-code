@@ -3,9 +3,9 @@ title: "Section 225 - Repealed. July 12, 1955, ch. 328, § 5(4) , 69 Stat. 296"
 usc_title: 42
 usc_section: "225"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 225"
-generated_at: "2026-03-29T23:57:26.508Z"
+generated_at: "2026-03-30T00:04:20.097Z"
 ---
 
 # § 225. Repealed. July 12, 1955, ch. 328, § 5(4) , 69 Stat. 296

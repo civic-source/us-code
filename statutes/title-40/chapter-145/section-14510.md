@@ -3,9 +3,9 @@ title: "Section 14510 - Drug abuse mitigation initiative"
 usc_title: 40
 usc_section: "14510"
 chapter: 145
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "40 U.S.C. § 14510"
-generated_at: "2026-03-29T23:56:49.858Z"
+generated_at: "2026-03-30T00:03:48.163Z"
 ---
 
 # § 14510. Drug abuse mitigation initiative

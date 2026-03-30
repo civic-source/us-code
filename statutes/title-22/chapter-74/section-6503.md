@@ -3,9 +3,9 @@ title: "Section 6503 - Report on budgetary cost savings resulting from reorganiz
 usc_title: 22
 usc_section: "6503"
 chapter: 74
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 6503"
-generated_at: "2026-03-29T23:55:52.495Z"
+generated_at: "2026-03-30T00:02:50.301Z"
 ---
 
 # § 6503. Report on budgetary cost savings resulting from reorganization

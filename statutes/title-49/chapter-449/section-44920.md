@@ -3,9 +3,9 @@ title: "Section 44920 - Screening partnership program"
 usc_title: 49
 usc_section: "44920"
 chapter: 449
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "49 U.S.C. § 44920"
-generated_at: "2026-03-29T23:57:35.730Z"
+generated_at: "2026-03-30T00:04:37.384Z"
 ---
 
 # § 44920. Screening partnership program
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T23:57:35.730Z"
     - **(B)** employees of the Federal Government providing passenger and property security screening services at the airport.
   - **(3)** Nothing in this section shall relieve any airport operator from liability for its own acts or omissions related to its security responsibilities, nor except as may be provided by the Support Anti-Terrorism by Fostering Effective Technologies Act of 2002 shall it relieve any qualified private screening company or its employees from any liability related to its own acts of negligence, gross negligence, or intentional wrongdoing.
 - **(h)**
-  - **(1)** Except as provided in paragraph (2), notwithstanding any other provision of law, including title 48 of the Code of Federal Regulations and the Federal Advisory Committee Act (5 U.S.C. App.), an airport operator that has applied and been approved to have security screening services carried out by a qualified private screening company under contract with the Administrator may nominate to the head of the contracting activity an individual to participate in the evaluation of proposals for the award of such contract.
+  - **(1)** Except as provided in paragraph (2), notwithstanding any other provision of law, including title 48 of the Code of Federal Regulations and the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. an airport operator that has applied and been approved to have security screening services carried out by a qualified private screening company under contract with the Administrator may nominate to the head of the contracting activity an individual to participate in the evaluation of proposals for the award of such contract.
   - **(2)** Any participation on a proposal evaluation committee under paragraph (1) shall be conducted in accordance with chapter 21 of title 41.
 - **(i)** The Administrator shall encourage an airport operator to whom screening services are provided under this section to recommend to the Administrator innovative screening approaches and technologies. Upon receipt of any such recommendations, the Administrator shall review and, if appropriate, test, conduct a pilot project, and, if appropriate, deploy such approaches and technologies.
 - **(i)** In this section, the term “Administrator” means the Administrator of the Transportation Security Administration.

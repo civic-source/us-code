@@ -3,9 +3,9 @@ title: "Section 18b - Transferred"
 usc_title: 16
 usc_section: "18b"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 18b"
-generated_at: "2026-03-29T23:55:30.897Z"
+generated_at: "2026-03-30T00:01:39.536Z"
 ---
 
 # § 18b. Transferred

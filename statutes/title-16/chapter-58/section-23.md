@@ -3,9 +3,9 @@ title: "Section 23 - Stewardship contracts"
 usc_title: 16
 usc_section: "23"
 chapter: 58
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-29T23:55:31.240Z"
+generated_at: "2026-03-30T00:01:39.807Z"
 ---
 
 # § 3839aa–23. Stewardship contracts

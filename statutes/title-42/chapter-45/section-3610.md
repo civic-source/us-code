@@ -3,9 +3,9 @@ title: "Section 3610 - Administrative enforcement; preliminary matters"
 usc_title: 42
 usc_section: "3610"
 chapter: 45
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 3610"
-generated_at: "2026-03-29T23:57:26.974Z"
+generated_at: "2026-03-30T00:04:20.778Z"
 ---
 
 # § 3610. Administrative enforcement; preliminary matters

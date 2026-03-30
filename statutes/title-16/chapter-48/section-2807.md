@@ -3,9 +3,9 @@ title: "Section 2807 - Capital requirements for aquaculture"
 usc_title: 16
 usc_section: "2807"
 chapter: 48
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 2807"
-generated_at: "2026-03-29T23:55:31.207Z"
+generated_at: "2026-03-30T00:01:39.787Z"
 ---
 
 # § 2807. Capital requirements for aquaculture

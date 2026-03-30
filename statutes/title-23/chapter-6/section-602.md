@@ -3,9 +3,9 @@ title: "Section 602 - Determination of eligibility and project selection"
 usc_title: 23
 usc_section: "602"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "23 U.S.C. § 602"
-generated_at: "2026-03-29T23:55:46.894Z"
+generated_at: "2026-03-30T00:02:28.716Z"
 ---
 
 # § 602. Determination of eligibility and project selection

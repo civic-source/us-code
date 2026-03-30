@@ -3,9 +3,9 @@ title: "Section 9318 - Thirty years or more: regular commissioned officers"
 usc_title: 10
 usc_section: "9318"
 chapter: 941
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 9318"
-generated_at: "2026-03-29T23:54:20.087Z"
+generated_at: "2026-03-29T23:59:56.240Z"
 ---
 
 # § 9318. Thirty years or more: regular commissioned officers

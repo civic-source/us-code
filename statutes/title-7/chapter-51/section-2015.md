@@ -3,9 +3,9 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-29T23:54:15.596Z"
+generated_at: "2026-03-30T00:00:03.509Z"
 ---
 
 # § 2015. Eligibility disqualifications
@@ -228,11 +228,19 @@ generated_at: "2026-03-29T23:54:15.596Z"
     - **(C)** participate in and comply with the requirements of a program under section 2029 of this title or a comparable program established by a State or political subdivision of a State; or
     - **(D)** receive benefits pursuant to paragraph (3), (4), (5), or (6).
   - **(3)** Paragraph (2) shall not apply to an individual if the individual is—
-    - **(A)** under 18 or over 50 years of age;
+    - **(A)**
+      - **(i)** under 18 years of age; or
+      - **(ii)** in—
+        - **(I)** fiscal year 2023 over 51 years of age;
+        - **(II)** fiscal year 2024 over 53 years of age;
+        - **(III)** fiscal year 2025 and each fiscal year thereafter over 55 years of age;
     - **(B)** medically certified as physically or mentally unfit for employment;
     - **(C)** a parent or other member of a household with responsibility for a dependent child;
-    - **(D)** otherwise exempt under subsection (d)(2); or
-    - **(E)** a pregnant woman.
+    - **(D)** otherwise exempt under subsection (d)(2);
+    - **(E)** a pregnant woman;
+    - **(F)** a homeless individual;
+    - **(G)** a veteran; or
+    - **(H)** an individual who is 24 years of age or younger and who was in foster care under the responsibility of a State on the date of attaining 18 years of age or such higher age as the State has elected under section 475(8)(B)(iii) of the Social Security Act ( 42 U.S.C. 675(8)(B)(iii) ).
   - **(4)**
     - **(A)** On the request of a State agency and with the support of the chief executive officer of the State, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
       - **(i)** has an unemployment rate of over 10 percent; or
@@ -256,13 +264,15 @@ generated_at: "2026-03-29T23:54:15.596Z"
         - **(III)** is not complying with subparagraph (A), (B), or (C) of paragraph (2);
         - **(IV)** is not receiving supplemental nutrition assistance program benefits during the 3 months of eligibility provided under paragraph (2); and
         - **(V)** is not receiving supplemental nutrition assistance program benefits under paragraph (5).
-    - **(B)** Subject to subparagraphs (C) through (H), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
-    - **(C)** Subject to subparagraphs (F) and (H), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
-    - **(D)** Subject to subparagraphs (F) through (H), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(E)** Subject to subparagraphs (F) through (H), for fiscal year 2020 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(F)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D), or (E) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
-    - **(G)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
-    - **(H)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+    - **(B)** Subject to subparagraphs (C) through (I), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
+    - **(C)** Subject to subparagraphs (G) and (I), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+    - **(D)** Subject to subparagraphs (G) through (I), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+    - **(E)** Subject to subparagraphs (G) through (I), for fiscal year 2020 and each subsequent fiscal year through fiscal year 2023, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+    - **(F)** Subject to subparagraphs (G) through (I), for fiscal years 2024 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4) 1 1 So in original. Probably should be followed by a period.
+    - **(G)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D),, 2 2 So in original. (E) or (F) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
+    - **(H)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+    - **(I)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+    - **(J)** During fiscal year 2024 and each subsequent fiscal year, nothing in this paragraph shall be interpreted to allow a State agency to accumulate unused exemptions to be provided beyond the subsequent fiscal year.
   - **(7)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 - **(p)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally obtained cash by purchasing products with supplemental nutrition assistance program benefits that have containers that require return deposits, discarding the product, and returning the container for the deposit amount shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 - **(q)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
@@ -272,7 +282,7 @@ generated_at: "2026-03-29T23:54:15.596Z"
       - **(i)** aggravated sexual abuse under section 2241 of title 18 ;
       - **(ii)** murder under section 1111 of title 18 ;
       - **(iii)** an offense under chapter 110 of title 18;
-      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 1 1 So in original. Probably should be preceded by “section”. of title 42; or
+      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 3 3 So in original. Probably should be preceded by “section”. of title 42; or
       - **(v)** an offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
     - **(B)** the individual is not in compliance with the terms of the sentence of the individual or the restrictions under subsection (k).
   - **(2)** The amount of benefits otherwise required to be provided to an eligible household under this chapter shall be determined by considering the individual to whom paragraph (1) applies not to be a member of the household, except that the income and resources of the individual shall be considered to be income and resources of the household.

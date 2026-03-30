@@ -3,9 +3,9 @@ title: "Section 4708 - Payment of reimbursable indirect costs in cost-type resea
 usc_title: 41
 usc_section: "4708"
 chapter: 47
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "41 U.S.C. § 4708"
-generated_at: "2026-03-29T23:56:55.870Z"
+generated_at: "2026-03-30T00:03:53.392Z"
 ---
 
 # § 4708. Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions

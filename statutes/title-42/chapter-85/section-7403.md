@@ -3,9 +3,9 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-29T23:57:27.075Z"
+generated_at: "2026-03-30T00:04:20.915Z"
 ---
 
 # § 7403. Research, investigation, training, and other activities
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T23:57:27.075Z"
         - **(II)** The United States—
         - **(III)** Title to any intellectual property described in subclause (I) shall not be transferred or passed, except to an entity that is incorporated in the United States, until the expiration of the first patent obtained in connection with the intellectual property.
       - **(v)** There is authorized to be appropriated to carry out this subparagraph $35,000,000, to remain available until expended.
-      - **(vi)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020 .
+      - **(vi)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020 .
     - **(C)**
       - **(i)**
         - **(I)** In this subparagraph, the term “deep saline formation” means a formation of subsurface geographically extensive sedimentary rock layers saturated with waters or brines that have a high total dissolved solids content and that are below the depth where carbon dioxide can exist in the formation as a supercritical fluid.
@@ -139,7 +139,7 @@ generated_at: "2026-03-29T23:57:27.075Z"
     - **(D)** Submission every two years of a unified budget recommendation to the President for activities of the Federal Government in connection with the research program described in this subsection.
     - **(E)** Beginning in 1992 and biennially thereafter, submission of a report to Congress describing the results of its investigations and analyses. The reporting of technical information about acid deposition shall be provided in a format that facilitates communication with policymakers and the public. The report shall include—
       - **(i)** actual and projected emissions and acid deposition trends;
-      - **(ii)** average ambient concentrations of acid deposition percursors 1 1 So in original. Probably should be “precursors”. and their transformation products;
+      - **(ii)** average ambient concentrations of acid deposition percursors 2 2 So in original. Probably should be “precursors”. and their transformation products;
       - **(iii)** the status of ecosystems (including forests and surface waters), materials, and visibility affected by acid deposition;
       - **(iv)** the causes and effects of such deposition, including changes in surface water quality and forest and soil conditions;
       - **(v)** the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds; and

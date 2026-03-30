@@ -3,9 +3,9 @@ title: "Section 2366 - Conditions of indemnity; purchase of property by Commissi
 usc_title: 42
 usc_section: "2366"
 chapter: 24
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 2366"
-generated_at: "2026-03-29T23:57:26.949Z"
+generated_at: "2026-03-30T00:04:20.744Z"
 ---
 
 # § 2366. Conditions of indemnity; purchase of property by Commission

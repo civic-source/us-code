@@ -3,9 +3,9 @@ title: "Section 1607 - Intelligence Senior Level positions"
 usc_title: 10
 usc_section: "1607"
 chapter: 83
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 1607"
-generated_at: "2026-03-29T23:54:19.997Z"
+generated_at: "2026-03-29T23:59:56.148Z"
 ---
 
 # § 1607. Intelligence Senior Level positions

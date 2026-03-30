@@ -3,9 +3,9 @@ title: "Section 801 - Coronavirus relief fund"
 usc_title: 42
 usc_section: "801"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 801"
-generated_at: "2026-03-29T23:57:26.705Z"
+generated_at: "2026-03-30T00:04:20.395Z"
 ---
 
 # § 801. Coronavirus relief fund
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T23:57:26.705Z"
   - **(1)** The Inspector General of the Department of the Treasury shall conduct monitoring and oversight of the receipt, disbursement, and use of funds made available under this section.
   - **(2)** If the Inspector General of the Department of the Treasury determines that a State, Tribal government, or unit of local government has failed to comply with subsection (d), the amount equal to the amount of funds used in violation of such subsection shall be booked as a debt of such entity owed to the Federal Government. Amounts recovered under this subsection shall be deposited into the general fund of the Treasury.
   - **(3)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Office of the Inspector General of the Department of the Treasury, $35,000,000 to carry out oversight and recoupment activities under this subsection. Amounts appropriated under the preceding sentence shall remain available until expended.
-  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
+  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
 - **(g)** In this section:
   - **(1)** The term “Indian Tribe” has the meaning given that term in section 5304(e) of title 25 .
   - **(2)** The term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level with a population that exceeds 500,000.

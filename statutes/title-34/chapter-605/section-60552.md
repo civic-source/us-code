@@ -3,9 +3,9 @@ title: "Section 60552 - Grants to study parole or post-incarceration supervision
 usc_title: 34
 usc_section: "60552"
 chapter: 605
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 60552"
-generated_at: "2026-03-29T23:56:30.993Z"
+generated_at: "2026-03-30T00:03:42.988Z"
 ---
 
 # § 60552. Grants to study parole or post-incarceration supervision violations and revocations

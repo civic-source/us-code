@@ -3,9 +3,9 @@ title: "Section 1665l - Child sexual abuse prevention and treatment programs"
 usc_title: 25
 usc_section: "1665l"
 chapter: 18
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "25 U.S.C. § 1665l"
-generated_at: "2026-03-29T23:55:39.361Z"
+generated_at: "2026-03-30T00:02:38.546Z"
 ---
 
 # § 1665l. Child sexual abuse prevention and treatment programs

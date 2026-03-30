@@ -3,9 +3,9 @@ title: "Section 12653d - Repealed. Pub. L. 111–13, title I, § 1803(a)(3) , Ap
 usc_title: 42
 usc_section: "12653d"
 chapter: 129
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 12653d"
-generated_at: "2026-03-29T23:57:27.198Z"
+generated_at: "2026-03-30T00:04:21.092Z"
 ---
 
 # § 12653d. Repealed. Pub. L. 111–13, title I, § 1803(a)(3) , Apr. 21, 2009 , 123 Stat. 1554

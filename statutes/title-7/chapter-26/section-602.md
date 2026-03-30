@@ -3,9 +3,9 @@ title: "Section 602 - Declaration of policy; establishment of price basing perio
 usc_title: 7
 usc_section: "602"
 chapter: 26
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 602"
-generated_at: "2026-03-29T23:54:15.533Z"
+generated_at: "2026-03-30T00:00:03.445Z"
 ---
 
 # § 602. Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation

@@ -3,9 +3,9 @@ title: "Section 907 - Effect on other laws, pending legal proceedings, and unexp
 usc_title: 5
 usc_section: "907"
 chapter: 9
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "5 U.S.C. § 907"
-generated_at: "2026-03-29T23:54:05.643Z"
+generated_at: "2026-03-29T23:59:20.438Z"
 ---
 
 # § 907. Effect on other laws, pending legal proceedings, and unexpended appropriations

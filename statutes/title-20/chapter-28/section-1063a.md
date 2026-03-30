@@ -3,9 +3,9 @@ title: "Section 1063a - Applications"
 usc_title: 20
 usc_section: "1063a"
 chapter: 28
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 1063a"
-generated_at: "2026-03-29T23:55:05.341Z"
+generated_at: "2026-03-30T00:01:54.698Z"
 ---
 
 # § 1063a. Applications

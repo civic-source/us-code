@@ -3,9 +3,9 @@ title: "Section 1506 - Rulemaking related to partitioning or disaggregating lice
 usc_title: 47
 usc_section: "1506"
 chapter: 14
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "47 U.S.C. § 1506"
-generated_at: "2026-03-29T23:57:37.926Z"
+generated_at: "2026-03-30T00:04:50.889Z"
 ---
 
 # § 1506. Rulemaking related to partitioning or disaggregating licenses

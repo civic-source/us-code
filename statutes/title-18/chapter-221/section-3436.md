@@ -3,9 +3,9 @@ title: "Section 3436 - Consolidation of indictments or informations—(Rule)"
 usc_title: 18
 usc_section: "3436"
 chapter: 221
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "18 U.S.C. § 3436"
-generated_at: "2026-03-29T23:55:17.281Z"
+generated_at: "2026-03-30T00:01:51.869Z"
 ---
 
 # § 3436. Consolidation of indictments or informations—(Rule)

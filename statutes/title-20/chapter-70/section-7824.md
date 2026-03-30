@@ -3,9 +3,9 @@ title: "Section 7824 - Consolidated set-aside for Department of the Interior fun
 usc_title: 20
 usc_section: "7824"
 chapter: 70
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 7824"
-generated_at: "2026-03-29T23:55:05.452Z"
+generated_at: "2026-03-30T00:01:54.823Z"
 ---
 
 # § 7824. Consolidated set-aside for Department of the Interior funds

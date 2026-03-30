@@ -3,9 +3,9 @@ title: "Section 13291 - General authority"
 usc_title: 42
 usc_section: "13291"
 chapter: 134
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 13291"
-generated_at: "2026-03-29T23:57:27.211Z"
+generated_at: "2026-03-30T00:04:21.110Z"
 ---
 
 # § 13291. General authority

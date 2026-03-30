@@ -3,9 +3,9 @@ title: "Section 22401 - Definitions"
 usc_title: 49
 usc_section: "22401"
 chapter: 224
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "49 U.S.C. § 22401"
-generated_at: "2026-03-29T23:57:35.680Z"
+generated_at: "2026-03-30T00:04:37.321Z"
 ---
 
 # § 22401. Definitions

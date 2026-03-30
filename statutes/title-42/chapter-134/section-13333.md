@@ -3,9 +3,9 @@ title: "Section 13333 - Clean coal, waste-to-energy"
 usc_title: 42
 usc_section: "13333"
 chapter: 134
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 13333"
-generated_at: "2026-03-29T23:57:27.211Z"
+generated_at: "2026-03-30T00:04:21.111Z"
 ---
 
 # § 13333. Clean coal, waste-to-energy

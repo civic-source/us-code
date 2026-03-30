@@ -3,9 +3,9 @@ title: "Section 4338 - Divestment of estates, trusts, insurance policies, annuit
 usc_title: 50
 usc_section: "4338"
 chapter: 53
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 4338"
-generated_at: "2026-03-29T23:57:33.326Z"
+generated_at: "2026-03-30T00:04:33.265Z"
 ---
 
 # § 4338. Divestment of estates, trusts, insurance policies, annuities, remainders, pensions, workmen’s compensation and veterans’ benefits; exceptions; notice of divestment

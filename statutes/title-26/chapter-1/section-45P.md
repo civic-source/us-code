@@ -3,9 +3,9 @@ title: "Section 45P - Employer wage credit for employees who are active duty mem
 usc_title: 26
 usc_section: "45P"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 45P"
-generated_at: "2026-03-29T23:56:24.694Z"
+generated_at: "2026-03-30T00:03:33.308Z"
 ---
 
 # § 45P. Employer wage credit for employees who are active duty members of the uniformed services

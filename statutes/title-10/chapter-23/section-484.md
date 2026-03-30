@@ -3,9 +3,9 @@ title: "Section 484 - Quarterly cyber operations briefings"
 usc_title: 10
 usc_section: "484"
 chapter: 23
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 484"
-generated_at: "2026-03-29T23:54:19.941Z"
+generated_at: "2026-03-29T23:59:56.089Z"
 ---
 
 # § 484. Quarterly cyber operations briefings

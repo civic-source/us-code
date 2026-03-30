@@ -3,9 +3,9 @@ title: "Section 10142 - Ready Reserve"
 usc_title: 10
 usc_section: "10142"
 chapter: 1005
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 10142"
-generated_at: "2026-03-29T23:54:20.092Z"
+generated_at: "2026-03-29T23:59:56.249Z"
 ---
 
 # § 10142. Ready Reserve

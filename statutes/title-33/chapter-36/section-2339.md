@@ -3,9 +3,9 @@ title: "Section 2339 - Assistance programs"
 usc_title: 33
 usc_section: "2339"
 chapter: 36
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 2339"
-generated_at: "2026-03-29T23:56:30.089Z"
+generated_at: "2026-03-30T00:03:44.768Z"
 ---
 
 # § 2339. Assistance programs

@@ -3,9 +3,9 @@ title: "Section 24 - Big Tarkio River, Missouri"
 usc_title: 33
 usc_section: "24"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 24"
-generated_at: "2026-03-29T23:56:30.009Z"
+generated_at: "2026-03-30T00:03:44.668Z"
 ---
 
 # § 24. Big Tarkio River, Missouri

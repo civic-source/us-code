@@ -3,9 +3,9 @@ title: "Section 435 - Generally applicable remedies and limitations"
 usc_title: 3
 usc_section: "435"
 chapter: 5
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "3 U.S.C. § 435"
-generated_at: "2026-03-29T23:54:01.737Z"
+generated_at: "2026-03-29T23:59:16.918Z"
 ---
 
 # § 435. Generally applicable remedies and limitations

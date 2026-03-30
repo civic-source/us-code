@@ -3,9 +3,9 @@ title: "Section 59u - Lawyer’s Ditch, Essex County, New Jersey"
 usc_title: 33
 usc_section: "59u"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 59u"
-generated_at: "2026-03-29T23:56:30.011Z"
+generated_at: "2026-03-30T00:03:44.671Z"
 ---
 
 # § 59u. Lawyer’s Ditch, Essex County, New Jersey

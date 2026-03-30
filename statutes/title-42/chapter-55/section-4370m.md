@@ -3,9 +3,9 @@ title: "Section 4370m - Definitions"
 usc_title: 42
 usc_section: "4370m"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 4370m"
-generated_at: "2026-03-29T23:57:26.986Z"
+generated_at: "2026-03-30T00:04:20.797Z"
 ---
 
 # § 4370m. Definitions
@@ -18,7 +18,7 @@ In this subchapter:
   - **(4)** The term “cooperating agency” has the meaning given the term in section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
   - **(5)** The term “Council” means the Federal Permitting Improvement Steering Council established under section 4370m–1(a) of this title .
   - **(6)**
-    - **(A)** The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, or any other sector as determined by a majority vote of the Council that—
+    - **(A)** The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, energy storage, or any other sector as determined by a majority vote of the Council that—
       - **(i)**
         - **(I)** is subject to NEPA;
         - **(II)** is likely to require a total investment of more than $200,000,000; and

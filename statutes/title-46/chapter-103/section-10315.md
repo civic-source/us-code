@@ -3,9 +3,9 @@ title: "Section 10315 - Allotments"
 usc_title: 46
 usc_section: "10315"
 chapter: 103
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "46 U.S.C. § 10315"
-generated_at: "2026-03-29T23:57:43.079Z"
+generated_at: "2026-03-30T00:04:28.344Z"
 ---
 
 # § 10315. Allotments

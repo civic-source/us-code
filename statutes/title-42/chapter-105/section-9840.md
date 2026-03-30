@@ -3,9 +3,9 @@ title: "Section 9840 - Participation in Head Start programs"
 usc_title: 42
 usc_section: "9840"
 chapter: 105
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 9840"
-generated_at: "2026-03-29T23:57:27.147Z"
+generated_at: "2026-03-30T00:04:21.018Z"
 ---
 
 # § 9840. Participation in Head Start programs

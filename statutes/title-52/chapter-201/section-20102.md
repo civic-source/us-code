@@ -3,9 +3,9 @@ title: "Section 20102 - Selection of polling facilities"
 usc_title: 52
 usc_section: "20102"
 chapter: 201
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "52 U.S.C. § 20102"
-generated_at: "2026-03-29T23:57:44.971Z"
+generated_at: "2026-03-30T00:04:57.752Z"
 ---
 
 # § 20102. Selection of polling facilities

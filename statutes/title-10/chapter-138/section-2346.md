@@ -3,9 +3,9 @@ title: "Section 2346 - Crediting of receipts"
 usc_title: 10
 usc_section: "2346"
 chapter: 138
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 2346"
-generated_at: "2026-03-29T23:54:20.013Z"
+generated_at: "2026-03-29T23:59:56.164Z"
 ---
 
 # § 2346. Crediting of receipts

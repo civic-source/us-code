@@ -3,9 +3,9 @@ title: "Section 2672b - Compensation of Alternate United States Commissioners; t
 usc_title: 22
 usc_section: "2672b"
 chapter: 38
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 2672b"
-generated_at: "2026-03-29T23:55:52.439Z"
+generated_at: "2026-03-30T00:02:50.237Z"
 ---
 
 # § 2672b. Compensation of Alternate United States Commissioners; travel expenses and other allowances

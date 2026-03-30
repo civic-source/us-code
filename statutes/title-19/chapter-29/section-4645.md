@@ -3,9 +3,9 @@ title: "Section 4645 - Recommendation for enforcement action"
 usc_title: 19
 usc_section: "4645"
 chapter: 29
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "19 U.S.C. § 4645"
-generated_at: "2026-03-29T23:55:00.671Z"
+generated_at: "2026-03-30T00:02:18.622Z"
 ---
 
 # § 4645. Recommendation for enforcement action

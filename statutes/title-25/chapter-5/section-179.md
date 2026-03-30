@@ -3,9 +3,9 @@ title: "Section 179 - Driving stock to feed on lands"
 usc_title: 25
 usc_section: "179"
 chapter: 5
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "25 U.S.C. § 179"
-generated_at: "2026-03-29T23:55:39.335Z"
+generated_at: "2026-03-30T00:02:38.522Z"
 ---
 
 # § 179. Driving stock to feed on lands

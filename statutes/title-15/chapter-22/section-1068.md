@@ -3,9 +3,9 @@ title: "Section 1068 - Action of Director in interference, opposition, and proce
 usc_title: 15
 usc_section: "1068"
 chapter: 22
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 1068"
-generated_at: "2026-03-29T23:54:56.078Z"
+generated_at: "2026-03-30T00:01:21.354Z"
 ---
 
 # § 1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation

@@ -3,9 +3,9 @@ title: "Section 4905 - Noise emission standards for products distributed in comm
 usc_title: 42
 usc_section: "4905"
 chapter: 65
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 4905"
-generated_at: "2026-03-29T23:57:26.995Z"
+generated_at: "2026-03-30T00:04:20.808Z"
 ---
 
 # § 4905. Noise emission standards for products distributed in commerce

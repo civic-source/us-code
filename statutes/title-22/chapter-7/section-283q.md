@@ -3,9 +3,9 @@ title: "Section 283q - Articles of agreement; authorization to agree to amendmen
 usc_title: 22
 usc_section: "283q"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 283q"
-generated_at: "2026-03-29T23:55:52.376Z"
+generated_at: "2026-03-30T00:02:50.169Z"
 ---
 
 # § 283q. Articles of agreement; authorization to agree to amendments

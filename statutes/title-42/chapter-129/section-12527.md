@@ -3,9 +3,9 @@ title: "Section 12527 - Participation of students and teachers from private scho
 usc_title: 42
 usc_section: "12527"
 chapter: 129
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 12527"
-generated_at: "2026-03-29T23:57:27.188Z"
+generated_at: "2026-03-30T00:04:21.076Z"
 ---
 
 # § 12527. Participation of students and teachers from private schools

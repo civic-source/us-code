@@ -3,9 +3,9 @@ title: "Section 6992h - Health impacts report"
 usc_title: 42
 usc_section: "6992h"
 chapter: 82
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 6992h"
-generated_at: "2026-03-29T23:57:27.063Z"
+generated_at: "2026-03-30T00:04:20.900Z"
 ---
 
 # § 6992h. Health impacts report

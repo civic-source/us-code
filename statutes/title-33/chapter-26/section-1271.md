@@ -3,9 +3,9 @@ title: "Section 1271 - Sediment survey and monitoring"
 usc_title: 33
 usc_section: "1271"
 chapter: 26
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 1271"
-generated_at: "2026-03-29T23:56:30.050Z"
+generated_at: "2026-03-30T00:03:44.715Z"
 ---
 
 # § 1271. Sediment survey and monitoring

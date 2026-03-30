@@ -3,9 +3,9 @@ title: "Section 3240 - Report on best practices to protect privacy, civil libert
 usc_title: 50
 usc_section: "3240"
 chapter: 44
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 3240"
-generated_at: "2026-03-29T23:57:33.296Z"
+generated_at: "2026-03-30T00:04:33.221Z"
 ---
 
 # § 3240. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans

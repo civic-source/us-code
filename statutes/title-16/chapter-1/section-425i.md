@@ -3,9 +3,9 @@ title: "Section 425i - Report of completion of acquisition of land and work of c
 usc_title: 16
 usc_section: "425i"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 425i"
-generated_at: "2026-03-29T23:55:30.955Z"
+generated_at: "2026-03-30T00:01:39.594Z"
 ---
 
 # § 425i. Report of completion of acquisition of land and work of commission; superintendent of park

@@ -3,9 +3,9 @@ title: "Section 60502 - Definitions"
 usc_title: 34
 usc_section: "60502"
 chapter: 605
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 60502"
-generated_at: "2026-03-29T23:56:30.992Z"
+generated_at: "2026-03-30T00:03:42.987Z"
 ---
 
 # § 60502. Definitions

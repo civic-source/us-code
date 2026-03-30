@@ -3,9 +3,9 @@ title: "Section 4362 - Interagency cooperation on prevention of environmental ca
 usc_title: 42
 usc_section: "4362"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 4362"
-generated_at: "2026-03-29T23:57:26.985Z"
+generated_at: "2026-03-30T00:04:20.795Z"
 ---
 
 # § 4362. Interagency cooperation on prevention of environmental cancer and heart and lung disease

@@ -3,9 +3,9 @@ title: "Section 701 - Uniforms, arms, and equipment to be same as Army or Air Fo
 usc_title: 32
 usc_section: "701"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "32 U.S.C. § 701"
-generated_at: "2026-03-29T23:56:35.698Z"
+generated_at: "2026-03-30T00:03:35.888Z"
 ---
 
 # § 701. Uniforms, arms, and equipment to be same as Army or Air Force

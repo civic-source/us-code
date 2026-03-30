@@ -3,9 +3,9 @@ title: "Section 845 - Certain reinsurance agreements"
 usc_title: 26
 usc_section: "845"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 845"
-generated_at: "2026-03-29T23:56:24.808Z"
+generated_at: "2026-03-30T00:03:33.488Z"
 ---
 
 # § 845. Certain reinsurance agreements

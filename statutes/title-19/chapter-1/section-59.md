@@ -3,9 +3,9 @@ title: "Section 59 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(21) , 70 Stat. 947
 usc_title: 19
 usc_section: "59"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "19 U.S.C. § 59"
-generated_at: "2026-03-29T23:55:00.584Z"
+generated_at: "2026-03-30T00:02:18.540Z"
 ---
 
 # § 59. Repealed. Aug. 2, 1956, ch. 887, § 4(a)(21) , 70 Stat. 947

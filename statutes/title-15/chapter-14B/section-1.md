@@ -3,9 +3,9 @@ title: "Section 1 - Planning design or installation of pollution control facilit
 usc_title: 15
 usc_section: "1"
 chapter: 14
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-29T23:54:56.064Z"
+generated_at: "2026-03-30T00:01:21.340Z"
 ---
 
 # § 694–1. Planning design or installation of pollution control facilities

@@ -3,9 +3,9 @@ title: "Section 2283a - Status report"
 usc_title: 33
 usc_section: "2283a"
 chapter: 36
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 2283a"
-generated_at: "2026-03-29T23:56:30.083Z"
+generated_at: "2026-03-30T00:03:44.761Z"
 ---
 
 # § 2283a. Status report

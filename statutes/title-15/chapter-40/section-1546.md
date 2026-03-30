@@ -3,9 +3,9 @@ title: "Section 1546 - United States Travel and Tourism Advisory Board"
 usc_title: 15
 usc_section: "1546"
 chapter: 40
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 1546"
-generated_at: "2026-03-29T23:54:56.090Z"
+generated_at: "2026-03-30T00:01:21.366Z"
 ---
 
 # § 1546. United States Travel and Tourism Advisory Board

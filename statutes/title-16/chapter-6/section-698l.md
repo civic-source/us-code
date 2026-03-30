@@ -3,9 +3,9 @@ title: "Section 698l - Review of Big Cypress Preserve area and Addition area by 
 usc_title: 16
 usc_section: "698l"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 698l"
-generated_at: "2026-03-29T23:55:31.068Z"
+generated_at: "2026-03-30T00:01:39.685Z"
 ---
 
 # § 698l. Review of Big Cypress Preserve area and Addition area by Secretary; report to President

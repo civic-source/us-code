@@ -3,9 +3,9 @@ title: "Section 6907 - Solid waste management information and guidelines"
 usc_title: 42
 usc_section: "6907"
 chapter: 82
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 6907"
-generated_at: "2026-03-29T23:57:27.051Z"
+generated_at: "2026-03-30T00:04:20.884Z"
 ---
 
 # § 6907. Solid waste management information and guidelines

@@ -3,9 +3,9 @@ title: "Section 2642 - Analysis of imported merchandise"
 usc_title: 28
 usc_section: "2642"
 chapter: 169
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "28 U.S.C. § 2642"
-generated_at: "2026-03-29T23:56:03.415Z"
+generated_at: "2026-03-30T00:02:54.290Z"
 ---
 
 # § 2642. Analysis of imported merchandise

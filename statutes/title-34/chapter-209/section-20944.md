@@ -3,9 +3,9 @@ title: "Section 20944 - Expansion of training and technology efforts"
 usc_title: 34
 usc_section: "20944"
 chapter: 209
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 20944"
-generated_at: "2026-03-29T23:56:30.973Z"
+generated_at: "2026-03-30T00:03:42.960Z"
 ---
 
 # § 20944. Expansion of training and technology efforts

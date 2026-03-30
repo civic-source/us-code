@@ -3,9 +3,9 @@ title: "Section 4201 - Definitions"
 usc_title: 33
 usc_section: "4201"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 4201"
-generated_at: "2026-03-29T23:56:30.110Z"
+generated_at: "2026-03-30T00:03:44.797Z"
 ---
 
 # § 4201. Definitions

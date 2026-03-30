@@ -3,9 +3,9 @@ title: "Section 450 - Administration, protection, and development"
 usc_title: 16
 usc_section: "450"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 450"
-generated_at: "2026-03-29T23:55:30.962Z"
+generated_at: "2026-03-30T00:01:39.600Z"
 ---
 
 # § 450. Administration, protection, and development

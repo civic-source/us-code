@@ -3,9 +3,9 @@ title: "Section 1515 - Authorized apportionments necessitating deficiency or sup
 usc_title: 31
 usc_section: "1515"
 chapter: 15
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "31 U.S.C. § 1515"
-generated_at: "2026-03-29T23:56:27.976Z"
+generated_at: "2026-03-30T00:03:39.102Z"
 ---
 
 # § 1515. Authorized apportionments necessitating deficiency or supplemental appropriations

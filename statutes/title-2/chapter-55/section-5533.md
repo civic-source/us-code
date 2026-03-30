@@ -3,9 +3,9 @@ title: "Section 5533 - House of Representatives Revolving Fund"
 usc_title: 2
 usc_section: "5533"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "2 U.S.C. § 5533"
-generated_at: "2026-03-29T23:54:02.952Z"
+generated_at: "2026-03-29T23:59:41.302Z"
 ---
 
 # § 5533. House of Representatives Revolving Fund

@@ -3,9 +3,9 @@ title: "Section 10305 - Use of observers"
 usc_title: 52
 usc_section: "10305"
 chapter: 103
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "52 U.S.C. § 10305"
-generated_at: "2026-03-29T23:57:44.970Z"
+generated_at: "2026-03-30T00:04:57.751Z"
 ---
 
 # § 10305. Use of observers

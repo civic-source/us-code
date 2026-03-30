@@ -3,9 +3,9 @@ title: "Section 103104 - Recovery of costs associated with special use permits"
 usc_title: 54
 usc_section: "103104"
 chapter: 1031
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "54 U.S.C. § 103104"
-generated_at: "2026-03-29T23:57:45.329Z"
+generated_at: "2026-03-30T00:04:53.346Z"
 ---
 
 # § 103104. Recovery of costs associated with special use permits

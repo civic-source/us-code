@@ -3,9 +3,9 @@ title: "Section 1879 - Repealed. Pub. L. 99–383, § 11 , Aug. 21, 1986 , 100 S
 usc_title: 42
 usc_section: "1879"
 chapter: 16
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 1879"
-generated_at: "2026-03-29T23:57:26.915Z"
+generated_at: "2026-03-30T00:04:20.697Z"
 ---
 
 # §§ 1876 to 1879. Repealed. Pub. L. 99–383, § 11 , Aug. 21, 1986 , 100 Stat. 817

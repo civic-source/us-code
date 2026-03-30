@@ -3,9 +3,9 @@ title: "Section 19134 - Advisory committee on engineering biology research and d
 usc_title: 42
 usc_section: "19134"
 chapter: 163
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 19134"
-generated_at: "2026-03-29T23:57:27.306Z"
+generated_at: "2026-03-30T00:04:21.241Z"
 ---
 
 # § 19134. Advisory committee on engineering biology research and development
@@ -22,5 +22,5 @@ generated_at: "2026-03-29T23:57:27.306Z"
 - **(c)** Beginning not later than two years after August 9, 2022 , and not less frequently than once every five years thereafter, the advisory committee shall submit to the President, the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, and the Committee on Agriculture of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the following:
   - **(1)** The findings of the advisory committee’s assessment under subsection (b).
   - **(2)** The advisory committee’s recommendations for ways to improve the Initiative.
-- **(d)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
+- **(d)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the advisory committee.
 - **(e)** The advisory committee established under subsection (a) shall terminate on the date that is 10 years after August 9, 2022 .

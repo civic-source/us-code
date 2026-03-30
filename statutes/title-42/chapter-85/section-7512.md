@@ -3,9 +3,9 @@ title: "Section 7512 - Classification and attainment dates"
 usc_title: 42
 usc_section: "7512"
 chapter: 85
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 7512"
-generated_at: "2026-03-29T23:57:27.090Z"
+generated_at: "2026-03-30T00:04:20.935Z"
 ---
 
 # § 7512. Classification and attainment dates

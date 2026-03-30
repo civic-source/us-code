@@ -3,9 +3,9 @@ title: "Section 4505 - Termination of unsafe operations"
 usc_title: 46
 usc_section: "4505"
 chapter: 45
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "46 U.S.C. § 4505"
-generated_at: "2026-03-29T23:57:43.072Z"
+generated_at: "2026-03-30T00:04:28.335Z"
 ---
 
 # § 4505. Termination of unsafe operations

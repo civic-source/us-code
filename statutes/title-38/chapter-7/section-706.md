@@ -3,9 +3,9 @@ title: "Section 706 - Additional authority relating to recruitment and retention
 usc_title: 38
 usc_section: "706"
 chapter: 7
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "38 U.S.C. § 706"
-generated_at: "2026-03-29T23:56:49.001Z"
+generated_at: "2026-03-30T00:03:51.232Z"
 ---
 
 # § 706. Additional authority relating to recruitment and retention of personnel
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T23:56:49.001Z"
   - **(2)** An incentive provided to an employee under paragraph (1) may not to 1 1 So in original. The word “to” probably should not appear. exceed 25 percent of the basic pay of the employee.
   - **(3)** Provision of an incentive under paragraph (1) shall be contingent on the employee entering into a written agreement to complete a period of employment with the Department.
   - **(4)** An incentive provided under paragraph (1) shall not be considered basic pay for any purpose.
-  - **(5)** The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive under paragraph (1).
-  - **(6)** Incentive provided under paragraph (1) shall not be included in the calculation of total amount of compensation under section 7431(e)(4) of this title .
+  - **(5)** The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive 2 2 So in original. Probably should be preceded by “an”. under paragraph (1).
+  - **(6)** Incentive 3 3 So in original. Probably should be “An incentive”. provided under paragraph (1) shall not be included in the calculation of total amount of compensation under section 7431(e)(4) of this title .
 - **(e)**
   - **(1)** Subject to the provisions of this subsection, the Secretary may repay a student loan pursuant to section 5379(b) of title 5 .
   - **(2)** Paragraph (2) of such section shall not apply to payment under this subsection.

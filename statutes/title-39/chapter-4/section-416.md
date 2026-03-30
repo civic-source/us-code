@@ -3,9 +3,9 @@ title: "Section 416 - Authority to issue semipostals"
 usc_title: 39
 usc_section: "416"
 chapter: 4
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "39 U.S.C. § 416"
-generated_at: "2026-03-29T23:56:47.573Z"
+generated_at: "2026-03-30T00:03:47.450Z"
 ---
 
 # § 416. Authority to issue semipostals

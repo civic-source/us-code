@@ -3,9 +3,9 @@ title: "Section 7917 - Relation to remaining payment authority under production 
 usc_title: 7
 usc_section: "7917"
 chapter: 106
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 7917"
-generated_at: "2026-03-29T23:54:15.683Z"
+generated_at: "2026-03-30T00:00:03.596Z"
 ---
 
 # § 7917. Relation to remaining payment authority under production flexibility contracts

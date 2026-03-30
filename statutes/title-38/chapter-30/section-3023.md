@@ -3,9 +3,9 @@ title: "Section 3023 - Payment of supplemental educational assistance under this
 usc_title: 38
 usc_section: "3023"
 chapter: 30
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "38 U.S.C. § 3023"
-generated_at: "2026-03-29T23:56:49.026Z"
+generated_at: "2026-03-30T00:03:51.268Z"
 ---
 
 # § 3023. Payment of supplemental educational assistance under this subchapter

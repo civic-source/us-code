@@ -3,9 +3,9 @@ title: "Section 108 - Item and item of supply"
 usc_title: 41
 usc_section: "108"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "41 U.S.C. § 108"
-generated_at: "2026-03-29T23:56:55.860Z"
+generated_at: "2026-03-30T00:03:53.380Z"
 ---
 
 # § 108. Item and item of supply

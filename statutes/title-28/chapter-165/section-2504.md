@@ -3,9 +3,9 @@ title: "Section 2504 - Plaintiff’s testimony"
 usc_title: 28
 usc_section: "2504"
 chapter: 165
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "28 U.S.C. § 2504"
-generated_at: "2026-03-29T23:56:03.414Z"
+generated_at: "2026-03-30T00:02:54.289Z"
 ---
 
 # § 2504. Plaintiff’s testimony

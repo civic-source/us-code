@@ -3,9 +3,9 @@ title: "Section 3744 - Approval of loans by the Secretary"
 usc_title: 38
 usc_section: "3744"
 chapter: 37
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "38 U.S.C. § 3744"
-generated_at: "2026-03-29T23:56:49.040Z"
+generated_at: "2026-03-30T00:03:51.289Z"
 ---
 
 # § 3744. Approval of loans by the Secretary

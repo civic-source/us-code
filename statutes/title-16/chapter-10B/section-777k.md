@@ -3,9 +3,9 @@ title: "Section 777k - Payments of funds to and cooperation with Puerto Rico, th
 usc_title: 16
 usc_section: "777k"
 chapter: 10
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 777k"
-generated_at: "2026-03-29T23:55:31.082Z"
+generated_at: "2026-03-30T00:01:39.695Z"
 ---
 
 # § 777k. Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands

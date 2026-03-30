@@ -3,9 +3,9 @@ title: "Section 945 - Repealed. Pub. L. 107–275, § 2(c)(1) , Nov. 2, 2002 , 1
 usc_title: 30
 usc_section: "945"
 chapter: 22
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "30 U.S.C. § 945"
-generated_at: "2026-03-29T23:55:54.933Z"
+generated_at: "2026-03-30T00:02:53.417Z"
 ---
 
 # § 945. Repealed. Pub. L. 107–275, § 2(c)(1) , Nov. 2, 2002 , 116 Stat. 1926

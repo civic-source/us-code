@@ -3,9 +3,9 @@ title: "Section 2919 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2919"
 chapter: 30
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "29 U.S.C. § 2919"
-generated_at: "2026-03-29T23:55:56.314Z"
+generated_at: "2026-03-30T00:03:00.535Z"
 ---
 
 # § 2919. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

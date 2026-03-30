@@ -3,9 +3,9 @@ title: "Section 26 - Cooperative authorities and gifts"
 usc_title: 16
 usc_section: "26"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 26"
-generated_at: "2026-03-29T23:55:30.997Z"
+generated_at: "2026-03-30T00:01:39.638Z"
 ---
 
 # § 460lll–26. Cooperative authorities and gifts

@@ -3,9 +3,9 @@ title: "Section 50105 - Studies and cooperation relating to the construction of 
 usc_title: 46
 usc_section: "50105"
 chapter: 501
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "46 U.S.C. § 50105"
-generated_at: "2026-03-29T23:57:43.092Z"
+generated_at: "2026-03-30T00:04:28.361Z"
 ---
 
 # § 50105. Studies and cooperation relating to the construction of vessels

@@ -3,9 +3,9 @@ title: "Section 964 - Limit of time for completion of Colorado and Wyoming pipel
 usc_title: 43
 usc_section: "964"
 chapter: 22
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "43 U.S.C. § 964"
-generated_at: "2026-03-29T23:56:54.139Z"
+generated_at: "2026-03-30T00:03:57.469Z"
 ---
 
 # § 964. Limit of time for completion of Colorado and Wyoming pipelines; forfeiture

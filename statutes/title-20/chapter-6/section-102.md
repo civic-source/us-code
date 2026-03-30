@@ -3,9 +3,9 @@ title: "Section 102 - Application of appropriations"
 usc_title: 20
 usc_section: "102"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 102"
-generated_at: "2026-03-29T23:55:05.325Z"
+generated_at: "2026-03-30T00:01:54.681Z"
 ---
 
 # § 102. Application of appropriations

@@ -3,9 +3,9 @@ title: "Section 41310 - Discriminatory practices"
 usc_title: 49
 usc_section: "41310"
 chapter: 413
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "49 U.S.C. § 41310"
-generated_at: "2026-03-29T23:57:35.714Z"
+generated_at: "2026-03-30T00:04:37.363Z"
 ---
 
 # § 41310. Discriminatory practices

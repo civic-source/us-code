@@ -3,9 +3,9 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-29T23:56:49.038Z"
+generated_at: "2026-03-30T00:03:51.286Z"
 ---
 
 # § 3710. Purchase or construction of homes
@@ -131,7 +131,7 @@ generated_at: "2026-03-29T23:56:49.038Z"
       - **(vii)** consumer advocates;
       - **(viii)** veterans’ service organizations; and
       - **(ix)** other persons determined appropriate by the Secretary.
-    - **(B)** The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+    - **(B)** The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(4)** The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection.
   - **(5)** Not later than one year after the date on which the Secretary issues the regulations and guidance pursuant to paragraph (2), and every year thereafter, the Secretary shall submit to Congress and make publicly available a report that includes the following information for the year covered by the report:
     - **(A)** An enumeration of the number of loans guaranteed under this chapter for which a veteran provided to the Secretary an energy efficiency report under this subsection, including the number of such loans for which cost savings were taken into account pursuant to paragraph (1).

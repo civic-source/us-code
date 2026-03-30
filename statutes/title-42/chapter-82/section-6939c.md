@@ -3,9 +3,9 @@ title: "Section 6939c - Mixed waste inventory reports and plan"
 usc_title: 42
 usc_section: "6939c"
 chapter: 82
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 6939c"
-generated_at: "2026-03-29T23:57:27.055Z"
+generated_at: "2026-03-30T00:04:20.889Z"
 ---
 
 # § 6939c. Mixed waste inventory reports and plan

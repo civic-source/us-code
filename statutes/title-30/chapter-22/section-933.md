@@ -3,9 +3,9 @@ title: "Section 933 - Duties of operators in States not qualifying under workmen
 usc_title: 30
 usc_section: "933"
 chapter: 22
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "30 U.S.C. § 933"
-generated_at: "2026-03-29T23:55:54.932Z"
+generated_at: "2026-03-30T00:02:53.416Z"
 ---
 
 # § 933. Duties of operators in States not qualifying under workmen’s compensation laws

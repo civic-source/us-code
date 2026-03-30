@@ -3,9 +3,9 @@ title: "Section 1231e - Use of funds withheld"
 usc_title: 20
 usc_section: "1231e"
 chapter: 31
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 1231e"
-generated_at: "2026-03-29T23:55:05.392Z"
+generated_at: "2026-03-30T00:01:54.751Z"
 ---
 
 # § 1231e. Use of funds withheld

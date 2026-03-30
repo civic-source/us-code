@@ -3,9 +3,9 @@ title: "Section 20102 - Purposes"
 usc_title: 36
 usc_section: "20102"
 chapter: 201
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "36 U.S.C. § 20102"
-generated_at: "2026-03-29T23:56:42.980Z"
+generated_at: "2026-03-30T00:03:49.064Z"
 ---
 
 # § 20102. Purposes

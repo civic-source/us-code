@@ -3,9 +3,9 @@ title: "Section 8312 - Conviction of certain offenses"
 usc_title: 5
 usc_section: "8312"
 chapter: 83
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "5 U.S.C. § 8312"
-generated_at: "2026-03-29T23:54:05.683Z"
+generated_at: "2026-03-29T23:59:20.479Z"
 ---
 
 # § 8312. Conviction of certain offenses

@@ -3,9 +3,9 @@ title: "Section 8532 - Authority of State and local governments to divest from c
 usc_title: 22
 usc_section: "8532"
 chapter: 92
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 8532"
-generated_at: "2026-03-29T23:55:52.521Z"
+generated_at: "2026-03-30T00:02:50.328Z"
 ---
 
 # § 8532. Authority of State and local governments to divest from certain companies that invest in Iran

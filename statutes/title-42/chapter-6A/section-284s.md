@@ -3,9 +3,9 @@ title: "Section 284s - Tick-borne diseases"
 usc_title: 42
 usc_section: "284s"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 284s"
-generated_at: "2026-03-29T23:57:26.560Z"
+generated_at: "2026-03-30T00:04:20.185Z"
 ---
 
 # § 284s. Tick-borne diseases
@@ -43,5 +43,5 @@ generated_at: "2026-03-29T23:57:26.560Z"
   - **(5)** Not later than 2 years after December 13, 2016 , and every 2 years thereafter until termination of the Working Group pursuant to paragraph (7), the Working Group shall—
     - **(A)** submit a report on its activities under paragraph (2)(A) and any recommendations under paragraph (2)(B) to the Secretary, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate; and
     - **(B)** make such report publicly available on the Internet website of the Department of Health and Human Services.
-  - **(6)** The Working Group shall be treated as an advisory committee subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(6)** The Working Group shall be treated as an advisory committee subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(7)** The Working Group under this section shall terminate 6 years after December 13, 2016 .

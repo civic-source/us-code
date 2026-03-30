@@ -3,9 +3,9 @@ title: "Section 151 - Definitions; short title"
 usc_title: 45
 usc_section: "151"
 chapter: 8
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "45 U.S.C. § 151"
-generated_at: "2026-03-29T23:57:05.558Z"
+generated_at: "2026-03-30T00:03:55.280Z"
 ---
 
 # § 151. Definitions; short title

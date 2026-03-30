@@ -3,9 +3,9 @@ title: "Section 2 - Permitting process improvement"
 usc_title: 42
 usc_section: "2"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T23:57:26.986Z"
+generated_at: "2026-03-30T00:04:20.798Z"
 ---
 
 # § 4370m–2. Permitting process improvement
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T23:57:26.986Z"
       - **(v)** an assessment that the proposed project meets the definition of a covered project under section 4370m of this title and a statement of reasons supporting the assessment.
     - **(D)** Any information relating to Native American natural, cultural, and historical resources submitted in a notice by a project sponsor under subparagraph (A) shall be—
       - **(i)** kept confidential; and
-      - **(ii)** exempt from the disclosure requirements under section 552 of title 5 (commonly known as the “Freedom of Information Act”) and the Federal Advisory Committee Act (5 U.S.C. App.).
+      - **(ii)** exempt from the disclosure requirements under section 552 of title 5 (commonly known as the “Freedom of Information Act”) and the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(2)**
     - **(A)** Not later than 21 calendar days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating agency or lead agency, as applicable, shall—
       - **(i)** identify all Federal and non-Federal agencies and governmental entities likely to have financing, environmental review, authorization, or other responsibilities with respect to the proposed project; and

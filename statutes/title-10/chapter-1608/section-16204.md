@@ -3,9 +3,9 @@ title: "Section 16204 - Regulations"
 usc_title: 10
 usc_section: "16204"
 chapter: 1608
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 16204"
-generated_at: "2026-03-29T23:54:20.105Z"
+generated_at: "2026-03-29T23:59:56.263Z"
 ---
 
 # § 16204. Regulations

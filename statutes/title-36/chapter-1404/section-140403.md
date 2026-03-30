@@ -3,9 +3,9 @@ title: "Section 140403 - Membership"
 usc_title: 36
 usc_section: "140403"
 chapter: 1404
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "36 U.S.C. § 140403"
-generated_at: "2026-03-29T23:56:42.992Z"
+generated_at: "2026-03-30T00:03:49.077Z"
 ---
 
 # § 140403. Membership

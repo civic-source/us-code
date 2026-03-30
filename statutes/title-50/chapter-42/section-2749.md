@@ -3,9 +3,9 @@ title: "Section 2749 - Availability of funds"
 usc_title: 50
 usc_section: "2749"
 chapter: 42
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 2749"
-generated_at: "2026-03-29T23:57:33.279Z"
+generated_at: "2026-03-30T00:04:33.200Z"
 ---
 
 # § 2749. Availability of funds

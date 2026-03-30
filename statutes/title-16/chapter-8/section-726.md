@@ -3,9 +3,9 @@ title: "Section 726 - Acts prohibited in refuge; commercial fishing"
 usc_title: 16
 usc_section: "726"
 chapter: 8
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 726"
-generated_at: "2026-03-29T23:55:31.073Z"
+generated_at: "2026-03-30T00:01:39.691Z"
 ---
 
 # § 726. Acts prohibited in refuge; commercial fishing

@@ -3,9 +3,9 @@ title: "Section 361b - Congressional statement of policy; researches, investigat
 usc_title: 7
 usc_section: "361b"
 chapter: 14
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 361b"
-generated_at: "2026-03-29T23:54:15.527Z"
+generated_at: "2026-03-30T00:00:03.439Z"
 ---
 
 # § 361b. Congressional statement of policy; researches, investigations and experiments

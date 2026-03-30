@@ -3,9 +3,9 @@ title: "Section 1341 - Frauds and swindles"
 usc_title: 18
 usc_section: "1341"
 chapter: 63
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "18 U.S.C. § 1341"
-generated_at: "2026-03-29T23:55:17.251Z"
+generated_at: "2026-03-30T00:01:51.838Z"
 ---
 
 # § 1341. Frauds and swindles

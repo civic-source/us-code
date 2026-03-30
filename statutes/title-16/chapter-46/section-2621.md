@@ -3,9 +3,9 @@ title: "Section 2621 - Consideration and determination respecting certain ratema
 usc_title: 16
 usc_section: "2621"
 chapter: 46
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 2621"
-generated_at: "2026-03-29T23:55:31.202Z"
+generated_at: "2026-03-30T00:01:39.784Z"
 ---
 
 # § 2621. Consideration and determination respecting certain ratemaking standards

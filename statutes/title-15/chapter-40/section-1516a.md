@@ -3,9 +3,9 @@ title: "Section 1516a - Statistics relating to social, health, and economic cond
 usc_title: 15
 usc_section: "1516a"
 chapter: 40
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 1516a"
-generated_at: "2026-03-29T23:54:56.089Z"
+generated_at: "2026-03-30T00:01:21.365Z"
 ---
 
 # § 1516a. Statistics relating to social, health, and economic conditions of Americans of Spanish origin or descent

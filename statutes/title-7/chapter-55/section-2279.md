@@ -3,9 +3,9 @@ title: "Section 2279 - Farming opportunities training and outreach"
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-29T23:54:15.613Z"
+generated_at: "2026-03-30T00:00:03.525Z"
 ---
 
 # § 2279. Farming opportunities training and outreach

@@ -3,9 +3,9 @@ title: "Section 1 - Federal projects in Pacific Northwest"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T23:55:31.116Z"
+generated_at: "2026-03-30T00:01:39.714Z"
 ---
 
 # § 839d–1. Federal projects in Pacific Northwest

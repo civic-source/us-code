@@ -3,9 +3,9 @@ title: "Section 3702 - Definitions"
 usc_title: 33
 usc_section: "3702"
 chapter: 50
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 3702"
-generated_at: "2026-03-29T23:56:30.105Z"
+generated_at: "2026-03-30T00:03:44.790Z"
 ---
 
 # § 3702. Definitions

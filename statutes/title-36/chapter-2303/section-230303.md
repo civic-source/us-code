@@ -3,9 +3,9 @@ title: "Section 230303 - Membership"
 usc_title: 36
 usc_section: "230303"
 chapter: 2303
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "36 U.S.C. § 230303"
-generated_at: "2026-03-29T23:56:43.002Z"
+generated_at: "2026-03-30T00:03:49.092Z"
 ---
 
 # § 230303. Membership

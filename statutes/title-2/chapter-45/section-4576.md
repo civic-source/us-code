@@ -3,9 +3,9 @@ title: "Section 4576 - Availability of appropriated funds for payment to an indi
 usc_title: 2
 usc_section: "4576"
 chapter: 45
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "2 U.S.C. § 4576"
-generated_at: "2026-03-29T23:54:02.948Z"
+generated_at: "2026-03-29T23:59:41.298Z"
 ---
 
 # § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T23:54:02.948Z"
   - **(1)** For an individual serving in more than 1 qualifying position under subsection (a), the cost of any travel for official business shall be paid by the office authorizing the travel.
   - **(2)** Messages for each electronic mail account used in connection with carrying out the official duties of an individual serving in more than 1 qualifying position under subsection (a) may be delivered to and sent from a single handheld communications device provided to the individual for purposes of official business.
   - **(3)**
-    - **(A)** For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
+    - **(A)** For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), 1 1 See References in Text note below. the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
     - **(B)** For an individual serving in more than one qualifying position under subsection (a), for purposes of the rights and obligations described in, or described in the provisions applied under, title II of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 et seq.) related to practices used at a time when the individual is serving in such a qualifying position with an employing office, the rate of pay for the individual shall be the individual rate of pay received from the employing office.
 - **(c)**
   - **(1)** If the duties of a qualifying position under subsection (a) include information technology services and support, an individual may only serve in the qualifying position and 1 or more additional qualifying positions under such subsection if the individual is in compliance with each information technology standard and policy established for Senate offices by the Office of the Sergeant at Arms and Doorkeeper of the Senate.

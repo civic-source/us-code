@@ -3,9 +3,9 @@ title: "Section 460 - Natchez Trace Parkway"
 usc_title: 16
 usc_section: "460"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 460"
-generated_at: "2026-03-29T23:55:30.970Z"
+generated_at: "2026-03-30T00:01:39.610Z"
 ---
 
 # § 460. Natchez Trace Parkway

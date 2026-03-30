@@ -3,9 +3,9 @@ title: "Section 18649 - Isotope research, development, and production"
 usc_title: 42
 usc_section: "18649"
 chapter: 161
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 18649"
-generated_at: "2026-03-29T23:57:27.289Z"
+generated_at: "2026-03-30T00:04:21.218Z"
 ---
 
 # § 18649. Isotope research, development, and production
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T23:57:27.289Z"
       - **(iv)** current facilities, including upgrades to those facilities, and new facilities needed to meet domestic critical isotope needs; and
       - **(v)** workforce development needs.
   - **(3)** The committee shall work in alignment with, and shall not duplicate the efforts of, preexisting advisory committees that are advising the program established under subsection (b).
-  - **(4)** The committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(4)** The committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
 - **(d)**
   - **(1)** Not later than the end of the first fiscal year beginning after August 9, 2022 , and biennially thereafter, the Secretary of Energy Advisory Board shall submit to the Committees on Energy and Natural Resources and Environment and Public Works of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report describing the progress made under the program established under subsection (b) during the preceding 2 fiscal years.
   - **(2)** Each report under paragraph (1) shall include—

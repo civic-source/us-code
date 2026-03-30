@@ -3,9 +3,9 @@ title: "Section 4 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4"
 chapter: 28
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-29T23:55:05.389Z"
+generated_at: "2026-03-30T00:01:54.748Z"
 ---
 
 # § 1161n–4. Authorization of appropriations

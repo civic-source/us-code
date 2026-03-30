@@ -3,9 +3,9 @@ title: "Section 19281 - Foundation for Energy Security and Innovation"
 usc_title: 42
 usc_section: "19281"
 chapter: 163
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 19281"
-generated_at: "2026-03-29T23:57:27.310Z"
+generated_at: "2026-03-30T00:04:21.247Z"
 ---
 
 # § 19281. Foundation for Energy Security and Innovation
@@ -165,7 +165,7 @@ generated_at: "2026-03-29T23:57:27.310Z"
       - **(i)** To ensure integrity in the operations of the Foundation, the Board shall develop and enforce procedures relating to standards of conduct, financial disclosure statements, conflicts of interest (including recusal and waiver rules), audits, and any other matters determined appropriate by the Board.
       - **(ii)** To mitigate conflicts of interest and risks from malign foreign influence, any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
         - **(I)** the individual;
-        - **(II)** a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
+        - **(II)** a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.) 4 4 See References in Text note below. ) of that individual; or
         - **(III)** a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
     - **(J)** The Board shall adopt written standards to govern the ownership and licensing of any intellectual property rights developed by the Foundation or derived from the collaborative efforts of the Foundation.
     - **(K)**
@@ -174,7 +174,7 @@ generated_at: "2026-03-29T23:57:27.310Z"
         - **(II)** a Federal entity with respect to an agreement of that Federal entity with the Foundation; or
         - **(III)** an Individual Laboratory-Associated Foundation with respect to an agreement of that Federal entity with the Foundation.
       - **(ii)** The full faith and credit of the United States shall not extend to any obligations of the Foundation.
-    - **(L)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Foundation or an Individual Laboratory-Associated Foundation.
+    - **(L)** The Federal Advisory Committee Act (5 U.S.C. App.) 4 shall not apply to the Foundation or an Individual Laboratory-Associated Foundation.
   - **(6)**
     - **(A)** The Secretary shall collaborate with the Foundation to develop a process to ensure collaboration and coordination between the Department, the Foundation, and National Laboratories—
       - **(i)** to streamline contracting processes between National Laboratories and the Foundation, including by—

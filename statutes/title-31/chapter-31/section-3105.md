@@ -3,9 +3,9 @@ title: "Section 3105 - Savings bonds and savings certificates"
 usc_title: 31
 usc_section: "3105"
 chapter: 31
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "31 U.S.C. § 3105"
-generated_at: "2026-03-29T23:56:27.977Z"
+generated_at: "2026-03-30T00:03:39.104Z"
 ---
 
 # § 3105. Savings bonds and savings certificates
@@ -47,12 +47,12 @@ generated_at: "2026-03-29T23:56:27.977Z"
         - **(II)** if such information is available to the Secretary, the last known address for the registered owner, co-owner, or beneficiary (as applicable) of such bond.
       - **(ii)** For purposes of clause (i), if the information described in subclause (II) of clause (i) with respect to any individual is available to the Secretary, subclause (I) of such clause shall not apply.
   - **(2)**
-    - **(A)** Not later than 12 months after December 29, 2022 , the Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this subsection, including rules to—
+    - **(A)** Not later than 12 months after the date of enactment of this subsection, the Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this subsection, including rules to—
       - **(i)** protect the privacy of the owners of applicable savings bonds;
       - **(ii)** prevent fraud; and
       - **(iii)** ensure that any information provided to a State under this subsection shall be used solely to carry out the purposes of this subsection.
     - **(B)** Except as deemed necessary to protect privacy or prevent fraud or misuse of savings bond information, any regulations or guidance prescribed by the Secretary pursuant to subparagraph (A) shall not have the effect of prohibiting, restricting, or otherwise preventing a State from obtaining all information described in paragraph (1)(A).
-  - **(3)** Not later than 12 months after December 29, 2022 , and annually thereafter for each year during the 5-year period beginning after December 29, 2022 , the Secretary shall submit to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate a report assessing all efforts to satisfy the requirement under paragraph (1)(A).
+  - **(3)** Not later than 12 months after the date of enactment of this subsection, and annually thereafter for each year during the 5-year period beginning after the date of enactment of this subsection, the Secretary shall submit to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate a report assessing all efforts to satisfy the requirement under paragraph (1)(A).
   - **(4)** Any State that receives information described in paragraph (1)(A) with respect to an applicable savings bond may use such information to locate the owner of such bond pursuant to the same standards and requirements as are applicable under—
     - **(A)** the abandoned property rules and regulations of such State; and
     - **(B)** any regulations or guidance promulgated under this subsection.

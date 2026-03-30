@@ -3,9 +3,9 @@ title: "Section 2056d - Performance standards to protect against portable fuel c
 usc_title: 15
 usc_section: "2056d"
 chapter: 47
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 2056d"
-generated_at: "2026-03-29T23:54:56.117Z"
+generated_at: "2026-03-30T00:01:21.394Z"
 ---
 
 # § 2056d. Performance standards to protect against portable fuel container explosions near open flames or other ignition sources

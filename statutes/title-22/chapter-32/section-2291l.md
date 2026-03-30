@@ -3,9 +3,9 @@ title: "Section 2291l - Prioritization of efforts of the Department of State to 
 usc_title: 22
 usc_section: "2291l"
 chapter: 32
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 2291l"
-generated_at: "2026-03-29T23:55:52.415Z"
+generated_at: "2026-03-30T00:02:50.213Z"
 ---
 
 # § 2291l. Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs

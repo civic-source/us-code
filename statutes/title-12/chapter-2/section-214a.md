@@ -3,9 +3,9 @@ title: "Section 214a - Procedure for conversion, merger, or consolidation; vote 
 usc_title: 12
 usc_section: "214a"
 chapter: 2
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "12 U.S.C. § 214a"
-generated_at: "2026-03-29T23:54:34.867Z"
+generated_at: "2026-03-30T00:00:35.532Z"
 ---
 
 # § 214a. Procedure for conversion, merger, or consolidation; vote of stockholders

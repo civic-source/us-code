@@ -3,9 +3,9 @@ title: "Section 1771 - Coordination of applications"
 usc_title: 43
 usc_section: "1771"
 chapter: 35
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "43 U.S.C. § 1771"
-generated_at: "2026-03-29T23:56:54.164Z"
+generated_at: "2026-03-30T00:03:57.504Z"
 ---
 
 # § 1771. Coordination of applications

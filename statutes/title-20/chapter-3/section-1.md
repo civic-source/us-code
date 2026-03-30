@@ -3,9 +3,9 @@ title: "Section 1 - Establishment of Museum"
 usc_title: 20
 usc_section: "1"
 chapter: 3
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-29T23:55:05.324Z"
+generated_at: "2026-03-30T00:01:54.680Z"
 ---
 
 # § 80t–1. Establishment of Museum

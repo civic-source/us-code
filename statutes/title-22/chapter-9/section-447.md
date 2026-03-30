@@ -3,9 +3,9 @@ title: "Section 447 - Financial transactions"
 usc_title: 22
 usc_section: "447"
 chapter: 9
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 447"
-generated_at: "2026-03-29T23:55:52.388Z"
+generated_at: "2026-03-30T00:02:50.183Z"
 ---
 
 # § 447. Financial transactions

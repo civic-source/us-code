@@ -3,9 +3,9 @@ title: "Section 9033 - Eligibility for payments"
 usc_title: 26
 usc_section: "9033"
 chapter: 96
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 9033"
-generated_at: "2026-03-29T23:56:24.959Z"
+generated_at: "2026-03-30T00:03:33.723Z"
 ---
 
 # § 9033. Eligibility for payments

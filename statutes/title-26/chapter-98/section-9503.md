@@ -3,9 +3,9 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-29T23:56:24.960Z"
+generated_at: "2026-03-30T00:03:33.724Z"
 ---
 
 # § 9503. Highway Trust Fund

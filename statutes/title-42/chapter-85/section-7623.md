@@ -3,9 +3,9 @@ title: "Section 7623 - Repealed. Pub. L. 96–300, § 1(c) , July 2, 1980 , 94 S
 usc_title: 42
 usc_section: "7623"
 chapter: 85
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 7623"
-generated_at: "2026-03-29T23:57:27.100Z"
+generated_at: "2026-03-30T00:04:20.951Z"
 ---
 
 # § 7623. Repealed. Pub. L. 96–300, § 1(c) , July 2, 1980 , 94 Stat. 831

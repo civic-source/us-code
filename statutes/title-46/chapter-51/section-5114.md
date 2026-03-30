@@ -3,9 +3,9 @@ title: "Section 5114 - Use of Customs Service officers and employees for enforce
 usc_title: 46
 usc_section: "5114"
 chapter: 51
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "46 U.S.C. § 5114"
-generated_at: "2026-03-29T23:57:43.073Z"
+generated_at: "2026-03-30T00:04:28.336Z"
 ---
 
 # § 5114. Use of Customs Service officers and employees for enforcement

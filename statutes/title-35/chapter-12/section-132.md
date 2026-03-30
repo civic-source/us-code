@@ -3,9 +3,9 @@ title: "Section 132 - Notice of rejection; reexamination"
 usc_title: 35
 usc_section: "132"
 chapter: 12
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "35 U.S.C. § 132"
-generated_at: "2026-03-29T23:56:40.311Z"
+generated_at: "2026-03-30T00:03:37.645Z"
 ---
 
 # § 132. Notice of rejection; reexamination

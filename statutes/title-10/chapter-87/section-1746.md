@@ -3,9 +3,9 @@ title: "Section 1746 - Defense Acquisition University"
 usc_title: 10
 usc_section: "1746"
 chapter: 87
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 1746"
-generated_at: "2026-03-29T23:54:20.000Z"
+generated_at: "2026-03-29T23:59:56.150Z"
 ---
 
 # § 1746. Defense Acquisition University

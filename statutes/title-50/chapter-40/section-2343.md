@@ -3,9 +3,9 @@ title: "Section 2343 - Matters relating to the international materials protectio
 usc_title: 50
 usc_section: "2343"
 chapter: 40
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "50 U.S.C. § 2343"
-generated_at: "2026-03-29T23:57:33.269Z"
+generated_at: "2026-03-30T00:04:33.186Z"
 ---
 
 # § 2343. Matters relating to the international materials protection, control, and accounting program of the Department of Energy

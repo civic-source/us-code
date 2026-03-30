@@ -3,9 +3,9 @@ title: "Section 798 - Purpose and scope of preliminary permits; transfer and can
 usc_title: 16
 usc_section: "798"
 chapter: 12
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 798"
-generated_at: "2026-03-29T23:55:31.085Z"
+generated_at: "2026-03-30T00:01:39.697Z"
 ---
 
 # § 798. Purpose and scope of preliminary permits; transfer and cancellation

@@ -3,9 +3,9 @@ title: "Section 2307 - Designation of representatives by warrantor to perform du
 usc_title: 15
 usc_section: "2307"
 chapter: 50
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 2307"
-generated_at: "2026-03-29T23:54:56.129Z"
+generated_at: "2026-03-30T00:01:21.405Z"
 ---
 
 # § 2307. Designation of representatives by warrantor to perform duties under written or implied warranty

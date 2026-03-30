@@ -3,9 +3,9 @@ title: "Section 2292 - Surveying and mapping"
 usc_title: 33
 usc_section: "2292"
 chapter: 36
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 2292"
-generated_at: "2026-03-29T23:56:30.084Z"
+generated_at: "2026-03-30T00:03:44.762Z"
 ---
 
 # § 2292. Surveying and mapping

@@ -3,9 +3,9 @@ title: "Section 3007 - Detention of mail for temporary periods"
 usc_title: 39
 usc_section: "3007"
 chapter: 30
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "39 U.S.C. § 3007"
-generated_at: "2026-03-29T23:56:47.577Z"
+generated_at: "2026-03-30T00:03:47.454Z"
 ---
 
 # § 3007. Detention of mail for temporary periods

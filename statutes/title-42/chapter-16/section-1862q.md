@@ -3,9 +3,9 @@ title: "Section 1862q - Informal STEM education"
 usc_title: 42
 usc_section: "1862q"
 chapter: 16
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 1862q"
-generated_at: "2026-03-29T23:57:26.913Z"
+generated_at: "2026-03-30T00:04:20.693Z"
 ---
 
 # § 1862q. Informal STEM education
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T23:57:26.913Z"
     - **(A)** are implementing comprehensive support and improvement activities or targeted support and improvement activities under paragraph (1) or (2) of section 6311(d) of title 20 ; or
     - **(B)** serve high percentages of students who are eligible for a free or reduced-price lunch under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) (which, in the case of a high school, may be calculated using comparable data from the schools that feed into the high school).
   - **(7)**
-    - **(A)** Evaluation required
+    - **(A)** The Director shall evaluate the activities established under this subsection. Such evaluation shall—
       - **(i)** use a common set of benchmarks and tools to assess the results of research conducted under such awards; and
       - **(ii)** to the extent practicable, integrate the findings of the research resulting from the activity or activities funded through the award with the current research on serving students with respect to the pursuit of degrees or careers in STEM, including underrepresented and rural students, in PreK–12.
     - **(B)** Not later than 180 days after the completion of the evaluation under subparagraph (A), the Director shall submit to Congress and make widely available to the public a report that includes—

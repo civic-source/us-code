@@ -3,9 +3,9 @@ title: "Section 940 - Deputy commissioners"
 usc_title: 33
 usc_section: "940"
 chapter: 18
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 940"
-generated_at: "2026-03-29T23:56:30.044Z"
+generated_at: "2026-03-30T00:03:44.706Z"
 ---
 
 # § 940. Deputy commissioners

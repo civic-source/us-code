@@ -3,9 +3,9 @@ title: "Section 1224 - Antitrust laws as affected"
 usc_title: 15
 usc_section: "1224"
 chapter: 27
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "15 U.S.C. § 1224"
-generated_at: "2026-03-29T23:54:56.084Z"
+generated_at: "2026-03-30T00:01:21.359Z"
 ---
 
 # § 1224. Antitrust laws as affected

@@ -3,9 +3,9 @@ title: "Section 581 - Omitted"
 usc_title: 20
 usc_section: "581"
 chapter: 17
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "20 U.S.C. § 581"
-generated_at: "2026-03-29T23:55:05.327Z"
+generated_at: "2026-03-30T00:01:54.683Z"
 ---
 
 # § 581. Omitted

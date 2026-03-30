@@ -3,9 +3,9 @@ title: "Section 665 - Rights of way over reservoir sites for wagon road, railroa
 usc_title: 43
 usc_section: "665"
 chapter: 15
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "43 U.S.C. § 665"
-generated_at: "2026-03-29T23:56:54.134Z"
+generated_at: "2026-03-30T00:03:57.461Z"
 ---
 
 # § 665. Rights of way over reservoir sites for wagon road, railroad, or other highway

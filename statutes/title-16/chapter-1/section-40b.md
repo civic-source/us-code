@@ -3,9 +3,9 @@ title: "Section 40b - Cooperative agreements with States or local agencies; expa
 usc_title: 16
 usc_section: "40b"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "16 U.S.C. § 40b"
-generated_at: "2026-03-29T23:55:30.898Z"
+generated_at: "2026-03-30T00:01:39.540Z"
 ---
 
 # § 40b. Cooperative agreements with States or local agencies; expansion; Federal contributions

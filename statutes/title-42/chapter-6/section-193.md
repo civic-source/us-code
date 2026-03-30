@@ -3,9 +3,9 @@ title: "Section 193 - Assistant chief"
 usc_title: 42
 usc_section: "193"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 193"
-generated_at: "2026-03-29T23:57:26.506Z"
+generated_at: "2026-03-30T00:04:20.093Z"
 ---
 
 # § 193. Assistant chief

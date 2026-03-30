@@ -3,9 +3,9 @@ title: "Section 305 - Transportation investment standards and criteria"
 usc_title: 49
 usc_section: "305"
 chapter: 3
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "49 U.S.C. § 305"
-generated_at: "2026-03-29T23:57:35.639Z"
+generated_at: "2026-03-30T00:04:37.263Z"
 ---
 
 # § 305. Transportation investment standards and criteria

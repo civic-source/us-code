@@ -3,9 +3,9 @@ title: "Section 4004a - South Florida harmful algal blooms and hypoxia"
 usc_title: 33
 usc_section: "4004a"
 chapter: 53
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 4004a"
-generated_at: "2026-03-29T23:56:30.109Z"
+generated_at: "2026-03-30T00:03:44.796Z"
 ---
 
 # § 4004a. South Florida harmful algal blooms and hypoxia

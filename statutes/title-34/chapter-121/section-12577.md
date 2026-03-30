@@ -3,9 +3,9 @@ title: "Section 12577 - Local application"
 usc_title: 34
 usc_section: "12577"
 chapter: 121
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 12577"
-generated_at: "2026-03-29T23:56:30.962Z"
+generated_at: "2026-03-30T00:03:42.944Z"
 ---
 
 # § 12577. Local application

@@ -3,9 +3,9 @@ title: "Section 18771 - Definitions"
 usc_title: 42
 usc_section: "18771"
 chapter: 162
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 18771"
-generated_at: "2026-03-29T23:57:27.294Z"
+generated_at: "2026-03-30T00:04:21.226Z"
 ---
 
 # § 18771. Definitions

@@ -3,9 +3,9 @@ title: "Section 16929 - Transferred"
 usc_title: 42
 usc_section: "16929"
 chapter: 151
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 16929"
-generated_at: "2026-03-29T23:57:27.258Z"
+generated_at: "2026-03-30T00:04:21.176Z"
 ---
 
 # § 16929. Transferred

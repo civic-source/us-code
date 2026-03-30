@@ -3,9 +3,9 @@ title: "Section 12409 - Report to Congress"
 usc_title: 34
 usc_section: "12409"
 chapter: 121
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 12409"
-generated_at: "2026-03-29T23:56:30.957Z"
+generated_at: "2026-03-30T00:03:42.936Z"
 ---
 
 # § 12409. Report to Congress

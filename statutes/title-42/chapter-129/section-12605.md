@@ -3,9 +3,9 @@ title: "Section 12605 - Repealed. Pub. L. 111–13, title I, § 1406(b) , Apr. 2
 usc_title: 42
 usc_section: "12605"
 chapter: 129
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 12605"
-generated_at: "2026-03-29T23:57:27.192Z"
+generated_at: "2026-03-30T00:04:21.084Z"
 ---
 
 # § 12605. Repealed. Pub. L. 111–13, title I, § 1406(b) , Apr. 21, 2009 , 123 Stat. 1521

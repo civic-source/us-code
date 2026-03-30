@@ -3,9 +3,9 @@ title: "Section 12810 - Cost-saving building technologies and construction techn
 usc_title: 42
 usc_section: "12810"
 chapter: 130
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 12810"
-generated_at: "2026-03-29T23:57:27.205Z"
+generated_at: "2026-03-30T00:04:21.100Z"
 ---
 
 # § 12810. Cost-saving building technologies and construction techniques

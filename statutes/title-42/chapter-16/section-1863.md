@@ -3,9 +3,9 @@ title: "Section 1863 - National Science Board"
 usc_title: 42
 usc_section: "1863"
 chapter: 16
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 1863"
-generated_at: "2026-03-29T23:57:26.915Z"
+generated_at: "2026-03-30T00:04:20.695Z"
 ---
 
 # § 1863. National Science Board
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T23:57:26.915Z"
   - **(1)** The Board shall render to the President and the Congress no later than March 15 of each even numbered year, a report on indicators of the state of science and engineering in the United States.
   - **(2)** The Board shall render to the President and the Congress reports on specific, individual policy matters within the authority of the Foundation (or otherwise as requested by the Congress or the President) related to science and engineering and education in science and engineering, as the Board, the President, or the Congress determines the need for such reports.
 - **(k)** Portions of Board meetings in which the Board considers proposed Foundation budgets for a particular fiscal year may be closed to the public until the President’s budget for that fiscal year has been submitted to the Congress.
-- **(l)** Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836 ), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
+- **(l)** Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 1 1 See References in Text note below. 92 Stat. 1836 ), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.

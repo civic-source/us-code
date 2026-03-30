@@ -3,9 +3,9 @@ title: "Section 8413 - Auditing"
 usc_title: 22
 usc_section: "8413"
 chapter: 91
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "22 U.S.C. § 8413"
-generated_at: "2026-03-29T23:55:52.518Z"
+generated_at: "2026-03-30T00:02:50.326Z"
 ---
 
 # § 8413. Auditing

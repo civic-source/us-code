@@ -3,9 +3,9 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-29T23:54:20.002Z"
+generated_at: "2026-03-29T23:59:56.153Z"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense

@@ -3,9 +3,9 @@ title: "Section 1124a - Cyber operations-peculiar awards"
 usc_title: 10
 usc_section: "1124a"
 chapter: 57
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 1124a"
-generated_at: "2026-03-29T23:54:19.977Z"
+generated_at: "2026-03-29T23:59:56.126Z"
 ---
 
 # § 1124a. Cyber operations-peculiar awards

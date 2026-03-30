@@ -3,9 +3,9 @@ title: "Section 16158 - Codes and standards"
 usc_title: 42
 usc_section: "16158"
 chapter: 149
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 16158"
-generated_at: "2026-03-29T23:57:27.241Z"
+generated_at: "2026-03-30T00:04:21.151Z"
 ---
 
 # § 16158. Codes and standards

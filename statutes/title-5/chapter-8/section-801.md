@@ -3,9 +3,9 @@ title: "Section 801 - Congressional review"
 usc_title: 5
 usc_section: "801"
 chapter: 8
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "5 U.S.C. § 801"
-generated_at: "2026-03-29T23:54:05.643Z"
+generated_at: "2026-03-29T23:59:20.437Z"
 ---
 
 # § 801. Congressional review
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T23:54:05.643Z"
       - **(iv)** any other relevant information or requirements under any other Act and any relevant Executive orders.
     - **(C)** Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
   - **(2)**
-    - **(A)** The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency’s compliance with procedural steps required by paragraph (1)(B).
+    - **(A)** The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency’s compliance with procedural steps required by paragraph (1)(B), and shall in addition include an assessment of the agency’s compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable.
     - **(B)** Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General’s report under subparagraph (A).
   - **(3)** A major rule relating to a report submitted under paragraph (1) shall take effect on the latest of—
     - **(A)** the later of the date occurring 60 days after the date on which—

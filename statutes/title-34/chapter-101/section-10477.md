@@ -3,9 +3,9 @@ title: "Section 10477 - Report"
 usc_title: 34
 usc_section: "10477"
 chapter: 101
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "34 U.S.C. § 10477"
-generated_at: "2026-03-29T23:56:30.939Z"
+generated_at: "2026-03-30T00:03:42.908Z"
 ---
 
 # § 10477. Report

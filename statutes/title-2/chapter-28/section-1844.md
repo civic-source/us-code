@@ -3,9 +3,9 @@ title: "Section 1844 - Savings provisions"
 usc_title: 2
 usc_section: "1844"
 chapter: 28
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "2 U.S.C. § 1844"
-generated_at: "2026-03-29T23:54:02.935Z"
+generated_at: "2026-03-29T23:59:41.285Z"
 ---
 
 # § 1844. Savings provisions

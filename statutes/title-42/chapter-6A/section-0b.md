@@ -3,16 +3,16 @@ title: "Section 0b - Interdepartmental Serious Mental Illness Coordinating Commi
 usc_title: 42
 usc_section: "0b"
 chapter: 6
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-29T23:57:26.573Z"
+generated_at: "2026-03-30T00:04:20.204Z"
 ---
 
 # § 290aa–0b. Interdepartmental Serious Mental Illness Coordinating Committee
 
 - **(a)**
   - **(1)** The Secretary, or the designee of the Secretary, shall establish a committee to be known as the Interdepartmental Serious Mental Illness Coordinating Committee (in this section referred to as the “Committee”).
-  - **(2)** Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+  - **(2)** Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall apply to the Committee.
 - **(b)** The Committee shall meet not fewer than 2 times each year.
 - **(c)** Not later than each of 1 year and 5 years after December 29, 2022 , the Committee shall submit to Congress and any other relevant Federal department or agency a report including—
   - **(1)** a summary of advances in serious mental illness and serious emotional disturbance research related to the prevention of, diagnosis of, intervention in, and treatment and recovery of serious mental illnesses, serious emotional disturbances, and advances in access to services and support for adults with a serious mental illness or children with a serious emotional disturbance;

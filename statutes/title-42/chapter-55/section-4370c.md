@@ -3,9 +3,9 @@ title: "Section 4370c - Environmental Protection Agency fees"
 usc_title: 42
 usc_section: "4370c"
 chapter: 55
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 4370c"
-generated_at: "2026-03-29T23:57:26.985Z"
+generated_at: "2026-03-30T00:04:20.796Z"
 ---
 
 # § 4370c. Environmental Protection Agency fees

@@ -3,9 +3,9 @@ title: "Section 2281b - Corps of engineers support for underserved communities; 
 usc_title: 33
 usc_section: "2281b"
 chapter: 36
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "33 U.S.C. § 2281b"
-generated_at: "2026-03-29T23:56:30.081Z"
+generated_at: "2026-03-30T00:03:44.758Z"
 ---
 
 # § 2281b. Corps of engineers support for underserved communities; outreach

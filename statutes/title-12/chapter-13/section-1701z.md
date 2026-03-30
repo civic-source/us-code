@@ -3,9 +3,9 @@ title: "Section 1701z - New technologies in the development of housing for lower
 usc_title: 12
 usc_section: "1701z"
 chapter: 13
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "12 U.S.C. § 1701z"
-generated_at: "2026-03-29T23:54:34.902Z"
+generated_at: "2026-03-30T00:00:35.567Z"
 ---
 
 # § 1701z. New technologies in the development of housing for lower income families

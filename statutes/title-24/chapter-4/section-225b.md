@@ -3,9 +3,9 @@ title: "Section 225b - Development of plan for mental health system for the Dist
 usc_title: 24
 usc_section: "225b"
 chapter: 4
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "24 U.S.C. § 225b"
-generated_at: "2026-03-29T23:55:40.344Z"
+generated_at: "2026-03-30T00:02:26.674Z"
 ---
 
 # § 225b. Development of plan for mental health system for the District

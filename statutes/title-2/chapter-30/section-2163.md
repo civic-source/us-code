@@ -3,9 +3,9 @@ title: "Section 2163 - Capitol Grounds shuttle service"
 usc_title: 2
 usc_section: "2163"
 chapter: 30
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "2 U.S.C. § 2163"
-generated_at: "2026-03-29T23:54:02.942Z"
+generated_at: "2026-03-29T23:59:41.293Z"
 ---
 
 # § 2163. Capitol Grounds shuttle service

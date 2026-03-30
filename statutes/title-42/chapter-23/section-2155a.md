@@ -3,9 +3,9 @@ title: "Section 2155a - Regulations establishing Commission procedures covering 
 usc_title: 42
 usc_section: "2155a"
 chapter: 23
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 2155a"
-generated_at: "2026-03-29T23:57:26.934Z"
+generated_at: "2026-03-30T00:04:20.725Z"
 ---
 
 # § 2155a. Regulations establishing Commission procedures covering grant, suspension, revocation, or amendment of nuclear export licenses or exemptions

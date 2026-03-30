@@ -3,9 +3,9 @@ title: "Section 8020 - Naval Inspector General: detail; duties"
 usc_title: 10
 usc_section: "8020"
 chapter: 803
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "10 U.S.C. § 8020"
-generated_at: "2026-03-29T23:54:20.070Z"
+generated_at: "2026-03-29T23:59:56.224Z"
 ---
 
 # § 8020. Naval Inspector General: detail; duties

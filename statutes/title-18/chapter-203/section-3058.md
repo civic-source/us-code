@@ -3,9 +3,9 @@ title: "Section 3058 - Interned belligerent nationals"
 usc_title: 18
 usc_section: "3058"
 chapter: 203
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "18 U.S.C. § 3058"
-generated_at: "2026-03-29T23:55:17.276Z"
+generated_at: "2026-03-30T00:01:51.863Z"
 ---
 
 # § 3058. Interned belligerent nationals

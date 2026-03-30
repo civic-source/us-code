@@ -3,9 +3,9 @@ title: "Section 208 - Repealed. Pub. L. 91–482, § 1(b) , Oct. 21, 1970 , 84 S
 usc_title: 37
 usc_section: "208"
 chapter: 3
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "37 U.S.C. § 208"
-generated_at: "2026-03-29T23:56:42.323Z"
+generated_at: "2026-03-30T00:03:47.196Z"
 ---
 
 # [§ 208. Repealed. Pub. L. 91–482, § 1(b) , Oct. 21, 1970 , 84 Stat. 1082 ]

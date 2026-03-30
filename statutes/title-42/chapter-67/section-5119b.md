@@ -3,9 +3,9 @@ title: "Section 5119b - Transferred"
 usc_title: 42
 usc_section: "5119b"
 chapter: 67
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "42 U.S.C. § 5119b"
-generated_at: "2026-03-29T23:57:27.004Z"
+generated_at: "2026-03-30T00:04:20.819Z"
 ---
 
 # § 5119b. Transferred

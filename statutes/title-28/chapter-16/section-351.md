@@ -3,9 +3,9 @@ title: "Section 351 - Complaints; judge defined"
 usc_title: 28
 usc_section: "351"
 chapter: 16
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "28 U.S.C. § 351"
-generated_at: "2026-03-29T23:56:03.391Z"
+generated_at: "2026-03-30T00:02:54.267Z"
 ---
 
 # § 351. Complaints; judge defined

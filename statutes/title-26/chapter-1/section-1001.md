@@ -3,9 +3,9 @@ title: "Section 1001 - Determination of amount of and recognition of gain or los
 usc_title: 26
 usc_section: "1001"
 chapter: 1
-current_through: "PL 118-3"
+current_through: "PL 118-6"
 classification: "26 U.S.C. § 1001"
-generated_at: "2026-03-29T23:56:24.831Z"
+generated_at: "2026-03-30T00:03:33.523Z"
 ---
 
 # § 1001. Determination of amount of and recognition of gain or loss
