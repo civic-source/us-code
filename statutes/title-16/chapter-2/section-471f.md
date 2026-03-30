@@ -3,9 +3,9 @@ title: "Section 471f - Cradle of Forestry in America in Pisgah National Forest; 
 usc_title: 16
 usc_section: "471f"
 chapter: 2
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 471f"
-generated_at: "2026-03-30T06:43:50.128Z"
+generated_at: "2026-03-30T06:47:12.442Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7455 - Service of process"
 usc_title: 26
 usc_section: "7455"
 chapter: 76
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 7455"
-generated_at: "2026-03-30T06:44:09.315Z"
+generated_at: "2026-03-30T06:47:50.882Z"
 status: "active"
 ---
 

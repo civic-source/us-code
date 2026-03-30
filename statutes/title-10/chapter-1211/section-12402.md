@@ -3,9 +3,9 @@ title: "Section 12402 - Army and Air National Guard of the United States: commis
 usc_title: 10
 usc_section: "12402"
 chapter: 1211
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 12402"
-generated_at: "2026-03-30T06:43:30.960Z"
+generated_at: "2026-03-30T06:46:36.860Z"
 status: "active"
 ---
 

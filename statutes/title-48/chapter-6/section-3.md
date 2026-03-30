@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Sept. 26, 1950, ch. 1049 , § 13(2), 64 Stat. 1043
 usc_title: 48
 usc_section: "3"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 3"
-generated_at: "2026-03-30T06:45:43.550Z"
+generated_at: "2026-03-30T06:48:29.492Z"
 status: "repealed"
 ---
 

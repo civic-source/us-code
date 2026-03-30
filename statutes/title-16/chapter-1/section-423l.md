@@ -3,9 +3,9 @@ title: "Section 423l - Repealed. Pub. L. 106–511, title V , § 507, Nov. 13, 2
 usc_title: 16
 usc_section: "423l"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 423l"
-generated_at: "2026-03-30T06:43:50.083Z"
+generated_at: "2026-03-30T06:47:12.400Z"
 status: "repealed"
 ---
 

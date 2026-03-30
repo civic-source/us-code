@@ -3,9 +3,9 @@ title: "Section 7318 - Warranty requirements for shipbuilding contracts"
 usc_title: 10
 usc_section: "7318"
 chapter: 633
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7318"
-generated_at: "2026-03-30T06:43:30.944Z"
+generated_at: "2026-03-30T06:46:36.845Z"
 status: "active"
 ---
 

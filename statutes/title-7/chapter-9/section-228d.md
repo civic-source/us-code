@@ -3,9 +3,9 @@ title: "Section 228d - Annual assessment of cattle and hog industries"
 usc_title: 7
 usc_section: "228d"
 chapter: 9
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 228d"
-generated_at: "2026-03-30T06:43:35.309Z"
+generated_at: "2026-03-30T06:46:41.718Z"
 status: "active"
 ---
 

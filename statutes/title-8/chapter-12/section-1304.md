@@ -3,9 +3,9 @@ title: "Section 1304 - Forms for registration and fingerprinting"
 usc_title: 8
 usc_section: "1304"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "8 U.S.C. § 1304"
-generated_at: "2026-03-30T06:43:31.945Z"
+generated_at: "2026-03-30T06:46:37.398Z"
 status: "active"
 ---
 

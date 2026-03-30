@@ -3,9 +3,9 @@ title: "Section 1861 - Appropriations under control of Architect of the Capitol"
 usc_title: 2
 usc_section: "1861"
 chapter: 28
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 1861"
-generated_at: "2026-03-30T06:43:24.004Z"
+generated_at: "2026-03-30T06:46:22.087Z"
 status: "active"
 ---
 

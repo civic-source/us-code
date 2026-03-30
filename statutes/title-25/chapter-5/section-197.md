@@ -3,9 +3,9 @@ title: "Section 197 - Disposition of dead timber on reservations in Minnesota"
 usc_title: 25
 usc_section: "197"
 chapter: 5
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 197"
-generated_at: "2026-03-30T06:43:56.338Z"
+generated_at: "2026-03-30T06:47:36.024Z"
 status: "active"
 ---
 

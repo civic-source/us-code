@@ -3,9 +3,9 @@ title: "Section 802 - Information to accompany application for license; landowne
 usc_title: 16
 usc_section: "802"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 802"
-generated_at: "2026-03-30T06:43:50.166Z"
+generated_at: "2026-03-30T06:47:12.478Z"
 status: "active"
 ---
 

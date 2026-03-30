@@ -3,9 +3,9 @@ title: "Section 1367 - Repealed. Pub. L. 87–456, title III , § 303(c), May 24
 usc_title: 19
 usc_section: "1367"
 chapter: 4
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "19 U.S.C. § 1367"
-generated_at: "2026-03-30T06:43:47.945Z"
+generated_at: "2026-03-30T06:47:08.280Z"
 status: "repealed"
 ---
 

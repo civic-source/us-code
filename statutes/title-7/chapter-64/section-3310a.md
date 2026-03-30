@@ -3,9 +3,9 @@ title: "Section 3310a - Repealed. Pub. L. 113–79, title VII , § 7118, Feb. 7,
 usc_title: 7
 usc_section: "3310a"
 chapter: 64
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 3310a"
-generated_at: "2026-03-30T06:43:35.402Z"
+generated_at: "2026-03-30T06:46:41.805Z"
 status: "repealed"
 ---
 

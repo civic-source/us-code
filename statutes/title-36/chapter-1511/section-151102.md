@@ -3,9 +3,9 @@ title: "Section 151102 - Purposes"
 usc_title: 36
 usc_section: "151102"
 chapter: 1511
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "36 U.S.C. § 151102"
-generated_at: "2026-03-30T06:44:56.393Z"
+generated_at: "2026-03-30T06:47:59.912Z"
 status: "active"
 ---
 

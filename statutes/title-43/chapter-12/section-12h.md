@@ -3,9 +3,9 @@ title: "Section 12h - El Paso Water Reclamation and Reuse Project"
 usc_title: 43
 usc_section: "12h"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 12h"
-generated_at: "2026-03-30T06:45:05.626Z"
+generated_at: "2026-03-30T06:48:13.494Z"
 status: "active"
 ---
 

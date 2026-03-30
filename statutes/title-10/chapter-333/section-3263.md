@@ -3,9 +3,9 @@ title: "Section 3263 - Repealed. Pub. L. 90–235 , § 2(a)(2)(B), Jan. 2, 1968 
 usc_title: 10
 usc_section: "3263"
 chapter: 333
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 3263"
-generated_at: "2026-03-30T06:43:30.929Z"
+generated_at: "2026-03-30T06:46:36.830Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 334 - Allotments to Indians not residing on reservations"
 usc_title: 25
 usc_section: "334"
 chapter: 9
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 334"
-generated_at: "2026-03-30T06:43:56.341Z"
+generated_at: "2026-03-30T06:47:36.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 797 - Penalty for violation of security regulations and orders"
 usc_title: 50
 usc_section: "797"
 chapter: 23
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 797"
-generated_at: "2026-03-30T06:45:53.695Z"
+generated_at: "2026-03-30T06:48:30.870Z"
 status: "active"
 ---
 

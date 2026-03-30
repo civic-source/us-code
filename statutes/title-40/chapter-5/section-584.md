@@ -3,9 +3,9 @@ title: "Section 584 - Assignment and reassignment of space"
 usc_title: 40
 usc_section: "584"
 chapter: 5
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "40 U.S.C. § 584"
-generated_at: "2026-03-30T06:44:48.354Z"
+generated_at: "2026-03-30T06:48:05.548Z"
 status: "active"
 ---
 

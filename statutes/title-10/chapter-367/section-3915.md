@@ -3,9 +3,9 @@ title: "Section 3915 - Repealed. Pub. L. 90–130 , § 1(13), Nov. 8, 1967 , 81 
 usc_title: 10
 usc_section: "3915"
 chapter: 367
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 3915"
-generated_at: "2026-03-30T06:43:30.930Z"
+generated_at: "2026-03-30T06:46:36.831Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 431 - Report of labor organizations"
 usc_title: 29
 usc_section: "431"
 chapter: 11
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "29 U.S.C. § 431"
-generated_at: "2026-03-30T06:44:03.320Z"
+generated_at: "2026-03-30T06:47:45.924Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7814 - Actions to promote freedom of information"
 usc_title: 22
 usc_section: "7814"
 chapter: 85
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 7814"
-generated_at: "2026-03-30T06:43:58.593Z"
+generated_at: "2026-03-30T06:47:23.100Z"
 status: "active"
 ---
 

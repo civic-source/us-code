@@ -3,9 +3,9 @@ title: "Section 3123 - National Agricultural Research, Extension, Education, and
 usc_title: 7
 usc_section: "3123"
 chapter: 64
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 3123"
-generated_at: "2026-03-30T06:43:35.398Z"
+generated_at: "2026-03-30T06:46:41.800Z"
 status: "active"
 ---
 

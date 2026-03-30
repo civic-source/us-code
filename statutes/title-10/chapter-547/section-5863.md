@@ -3,9 +3,9 @@ title: "Section 5863 - Repealed. Pub. L. 85–861 , § 36B(14), Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "5863"
 chapter: 547
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 5863"
-generated_at: "2026-03-30T06:43:30.938Z"
+generated_at: "2026-03-30T06:46:36.838Z"
 status: "repealed"
 ---
 

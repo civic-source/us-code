@@ -3,9 +3,9 @@ title: "Section 6612 - Transfer and allocation of appropriations"
 usc_title: 22
 usc_section: "6612"
 chapter: 74
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 6612"
-generated_at: "2026-03-30T06:43:58.578Z"
+generated_at: "2026-03-30T06:47:23.087Z"
 status: "active"
 ---
 

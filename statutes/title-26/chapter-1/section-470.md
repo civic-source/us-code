@@ -3,9 +3,9 @@ title: "Section 470 - Limitation on deductions allocable to property used by gov
 usc_title: 26
 usc_section: "470"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 470"
-generated_at: "2026-03-30T06:44:09.171Z"
+generated_at: "2026-03-30T06:47:50.739Z"
 status: "active"
 ---
 

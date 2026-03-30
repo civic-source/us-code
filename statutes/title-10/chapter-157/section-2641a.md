@@ -3,9 +3,9 @@ title: "Section 2641a - Transportation of American Samoa veterans on Department 
 usc_title: 10
 usc_section: "2641a"
 chapter: 157
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 2641a"
-generated_at: "2026-03-30T06:43:30.916Z"
+generated_at: "2026-03-30T06:46:36.818Z"
 status: "active"
 ---
 

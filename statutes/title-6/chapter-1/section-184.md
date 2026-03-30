@@ -3,9 +3,9 @@ title: "Section 184 - Conduct of certain public health-related activities"
 usc_title: 6
 usc_section: "184"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "6 U.S.C. § 184"
-generated_at: "2026-03-30T06:43:25.966Z"
+generated_at: "2026-03-30T06:46:49.588Z"
 status: "active"
 ---
 

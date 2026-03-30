@@ -3,9 +3,9 @@ title: "Section 272b - Loyalty check on United States personnel"
 usc_title: 22
 usc_section: "272b"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 272b"
-generated_at: "2026-03-30T06:43:58.468Z"
+generated_at: "2026-03-30T06:47:22.984Z"
 status: "active"
 ---
 

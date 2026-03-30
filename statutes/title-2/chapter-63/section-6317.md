@@ -3,9 +3,9 @@ title: "Section 6317 - Home State office space for Senators; lease of office spa
 usc_title: 2
 usc_section: "6317"
 chapter: 63
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 6317"
-generated_at: "2026-03-30T06:43:24.020Z"
+generated_at: "2026-03-30T06:46:22.103Z"
 status: "active"
 ---
 

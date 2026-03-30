@@ -3,9 +3,9 @@ title: "Section 144 - Department of the Army and Department of the Air Force"
 usc_title: 14
 usc_section: "144"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "14 U.S.C. § 144"
-generated_at: "2026-03-30T06:43:38.196Z"
+generated_at: "2026-03-30T06:46:59.388Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3312 - Photographs or microphotographs of records considered as 
 usc_title: 44
 usc_section: "3312"
 chapter: 33
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "44 U.S.C. § 3312"
-generated_at: "2026-03-30T06:45:15.157Z"
+generated_at: "2026-03-30T06:48:18.348Z"
 status: "active"
 ---
 

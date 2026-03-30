@@ -3,9 +3,9 @@ title: "Section 5253 - Emergency treatment"
 usc_title: 12
 usc_section: "5253"
 chapter: 52
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "12 U.S.C. § 5253"
-generated_at: "2026-03-30T06:43:40.453Z"
+generated_at: "2026-03-30T06:47:03.741Z"
 status: "active"
 ---
 

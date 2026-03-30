@@ -3,9 +3,9 @@ title: "Section 1395hhh - Health care infrastructure improvement program"
 usc_title: 42
 usc_section: "1395hhh"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1395hhh"
-generated_at: "2026-03-30T06:45:38.545Z"
+generated_at: "2026-03-30T06:48:26.291Z"
 status: "active"
 ---
 

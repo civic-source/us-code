@@ -3,9 +3,9 @@ title: "Section 2813 - Acquisition of existing facilities in lieu of authorized 
 usc_title: 10
 usc_section: "2813"
 chapter: 169
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 2813"
-generated_at: "2026-03-30T06:43:30.923Z"
+generated_at: "2026-03-30T06:46:36.824Z"
 status: "active"
 ---
 

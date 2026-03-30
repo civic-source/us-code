@@ -3,9 +3,9 @@ title: "Section 4557 - Withholding of charitable contributions by Chief Administ
 usc_title: 2
 usc_section: "4557"
 chapter: 45
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 4557"
-generated_at: "2026-03-30T06:43:24.014Z"
+generated_at: "2026-03-30T06:46:22.097Z"
 status: "active"
 ---
 

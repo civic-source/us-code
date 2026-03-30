@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-30T06:45:38.518Z"
+generated_at: "2026-03-30T06:48:26.265Z"
 status: "active"
 ---
 

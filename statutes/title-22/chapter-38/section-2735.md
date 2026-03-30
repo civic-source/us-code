@@ -3,9 +3,9 @@ title: "Section 2735 - Foreign relations exchange programs"
 usc_title: 22
 usc_section: "2735"
 chapter: 38
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 2735"
-generated_at: "2026-03-30T06:43:58.531Z"
+generated_at: "2026-03-30T06:47:23.045Z"
 status: "active"
 ---
 

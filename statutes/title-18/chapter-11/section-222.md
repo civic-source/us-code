@@ -3,9 +3,9 @@ title: "Section 222 - Renumbered §§ 215 to 217]"
 usc_title: 18
 usc_section: "222"
 chapter: 11
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 222"
-generated_at: "2026-03-30T06:43:46.048Z"
+generated_at: "2026-03-30T06:47:07.268Z"
 status: "renumbered"
 ---
 

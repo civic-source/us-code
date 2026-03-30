@@ -3,9 +3,9 @@ title: "Section 12133 - “Indian tribe” defined"
 usc_title: 34
 usc_section: "12133"
 chapter: 121
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 12133"
-generated_at: "2026-03-30T06:44:13.906Z"
+generated_at: "2026-03-30T06:47:54.176Z"
 status: "active"
 ---
 

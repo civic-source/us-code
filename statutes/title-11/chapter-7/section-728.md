@@ -3,9 +3,9 @@ title: "Section 728 - Repealed. Pub. L. 109–8, title VII , § 719(b)(1), Apr. 
 usc_title: 11
 usc_section: "728"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "11 U.S.C. § 728"
-generated_at: "2026-03-30T06:43:37.540Z"
+generated_at: "2026-03-30T06:46:57.502Z"
 status: "repealed"
 ---
 

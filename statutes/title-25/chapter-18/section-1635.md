@@ -3,9 +3,9 @@ title: "Section 1635 - Repealed. Pub. L. 100–713, title III , § 303(b), Nov. 
 usc_title: 25
 usc_section: "1635"
 chapter: 18
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 1635"
-generated_at: "2026-03-30T06:43:56.357Z"
+generated_at: "2026-03-30T06:47:36.049Z"
 status: "repealed"
 ---
 

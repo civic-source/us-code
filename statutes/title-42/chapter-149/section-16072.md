@@ -3,9 +3,9 @@ title: "Section 16072 - Reports to Congress"
 usc_title: 42
 usc_section: "16072"
 chapter: 149
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 16072"
-generated_at: "2026-03-30T06:45:38.934Z"
+generated_at: "2026-03-30T06:48:26.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5508 - Rank of line and staff corps officers of the Navy and off
 usc_title: 10
 usc_section: "5508"
 chapter: 535
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 5508"
-generated_at: "2026-03-30T06:43:30.937Z"
+generated_at: "2026-03-30T06:46:36.838Z"
 status: "active"
 ---
 

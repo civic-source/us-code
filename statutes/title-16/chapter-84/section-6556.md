@@ -3,9 +3,9 @@ title: "Section 6556 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6556"
 chapter: 84
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 6556"
-generated_at: "2026-03-30T06:43:50.267Z"
+generated_at: "2026-03-30T06:47:12.570Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101932 - Award of commercial services contracts"
 usc_title: 54
 usc_section: "101932"
 chapter: 1019
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "54 U.S.C. § 101932"
-generated_at: "2026-03-30T06:46:07.052Z"
+generated_at: "2026-03-30T06:48:46.185Z"
 status: "active"
 ---
 

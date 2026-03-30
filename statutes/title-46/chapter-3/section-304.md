@@ -3,9 +3,9 @@ title: "Section 304 - Delegation of authority"
 usc_title: 46
 usc_section: "304"
 chapter: 3
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "46 U.S.C. § 304"
-generated_at: "2026-03-30T06:45:57.002Z"
+generated_at: "2026-03-30T06:48:41.276Z"
 status: "active"
 ---
 

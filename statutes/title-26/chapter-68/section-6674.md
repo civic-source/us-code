@@ -3,9 +3,9 @@ title: "Section 6674 - Fraudulent statement or failure to furnish statement to e
 usc_title: 26
 usc_section: "6674"
 chapter: 68
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 6674"
-generated_at: "2026-03-30T06:44:09.306Z"
+generated_at: "2026-03-30T06:47:50.873Z"
 status: "active"
 ---
 

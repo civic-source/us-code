@@ -3,9 +3,9 @@ title: "Section 6344 - Cross references"
 usc_title: 26
 usc_section: "6344"
 chapter: 64
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 6344"
-generated_at: "2026-03-30T06:44:09.298Z"
+generated_at: "2026-03-30T06:47:50.865Z"
 status: "active"
 ---
 

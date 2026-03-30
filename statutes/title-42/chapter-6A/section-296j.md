@@ -3,9 +3,9 @@ title: "Section 296j - Advanced education nursing grants"
 usc_title: 42
 usc_section: "296j"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 296j"
-generated_at: "2026-03-30T06:45:38.350Z"
+generated_at: "2026-03-30T06:48:26.101Z"
 status: "active"
 ---
 

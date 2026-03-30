@@ -3,9 +3,9 @@ title: "Section 1452c - Nullification of right of redemption of single family mo
 usc_title: 42
 usc_section: "1452c"
 chapter: 8
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1452c"
-generated_at: "2026-03-30T06:45:38.595Z"
+generated_at: "2026-03-30T06:48:26.340Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47140a - Increasing the energy efficiency of airport power sourc
 usc_title: 49
 usc_section: "47140a"
 chapter: 471
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "49 U.S.C. § 47140a"
-generated_at: "2026-03-30T06:45:47.834Z"
+generated_at: "2026-03-30T06:48:36.754Z"
 status: "active"
 ---
 

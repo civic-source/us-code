@@ -3,9 +3,9 @@ title: "Section 4573 - Repealed. Pub. L. 97–35, title IX , § 962(b), Aug. 13,
 usc_title: 42
 usc_section: "4573"
 chapter: 60
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 4573"
-generated_at: "2026-03-30T06:45:38.697Z"
+generated_at: "2026-03-30T06:48:26.436Z"
 status: "repealed"
 ---
 

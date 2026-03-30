@@ -3,9 +3,9 @@ title: "Section 23111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "23111"
 chapter: 231
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "36 U.S.C. § 23111"
-generated_at: "2026-03-30T06:44:56.385Z"
+generated_at: "2026-03-30T06:47:59.904Z"
 status: "active"
 ---
 

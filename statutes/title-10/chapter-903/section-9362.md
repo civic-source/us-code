@@ -3,9 +3,9 @@ title: "Section 9362 - Support of athletic programs"
 usc_title: 10
 usc_section: "9362"
 chapter: 903
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 9362"
-generated_at: "2026-03-30T06:43:30.953Z"
+generated_at: "2026-03-30T06:46:36.852Z"
 status: "active"
 ---
 

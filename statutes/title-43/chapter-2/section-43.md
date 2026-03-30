@@ -3,9 +3,9 @@ title: "Section 43 - Copies to Senators, Representatives, and Delegates"
 usc_title: 43
 usc_section: "43"
 chapter: 2
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 43"
-generated_at: "2026-03-30T06:45:05.617Z"
+generated_at: "2026-03-30T06:48:13.486Z"
 status: "active"
 ---
 

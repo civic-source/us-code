@@ -3,9 +3,9 @@ title: "Section 1703 - Repealed. Pub. L. 93–435 , § 5, Oct. 5, 1974 , 88 Stat
 usc_title: 48
 usc_section: "1703"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 1703"
-generated_at: "2026-03-30T06:45:43.559Z"
+generated_at: "2026-03-30T06:48:29.498Z"
 status: "repealed"
 ---
 

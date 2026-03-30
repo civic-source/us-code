@@ -3,9 +3,9 @@ title: "Section 54AA - Build America bonds"
 usc_title: 26
 usc_section: "54AA"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 54AA"
-generated_at: "2026-03-30T06:44:09.101Z"
+generated_at: "2026-03-30T06:47:50.669Z"
 status: "active"
 ---
 

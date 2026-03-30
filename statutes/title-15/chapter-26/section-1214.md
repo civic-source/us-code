@@ -3,9 +3,9 @@ title: "Section 1214 - “Interstate commerce” defined"
 usc_title: 15
 usc_section: "1214"
 chapter: 26
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 1214"
-generated_at: "2026-03-30T06:43:42.978Z"
+generated_at: "2026-03-30T06:46:55.689Z"
 status: "active"
 ---
 

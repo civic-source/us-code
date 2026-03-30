@@ -3,9 +3,9 @@ title: "Section 1421e - Duty on articles"
 usc_title: 48
 usc_section: "1421e"
 chapter: 8
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 1421e"
-generated_at: "2026-03-30T06:45:43.553Z"
+generated_at: "2026-03-30T06:48:29.493Z"
 status: "active"
 ---
 

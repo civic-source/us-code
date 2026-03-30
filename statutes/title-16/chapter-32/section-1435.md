@@ -3,9 +3,9 @@ title: "Section 1435 - Application of regulations; international negotiations an
 usc_title: 16
 usc_section: "1435"
 chapter: 32
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 1435"
-generated_at: "2026-03-30T06:43:50.207Z"
+generated_at: "2026-03-30T06:47:12.514Z"
 status: "active"
 ---
 

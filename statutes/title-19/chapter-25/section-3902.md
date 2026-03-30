@@ -3,9 +3,9 @@ title: "Section 3902 - Definitions"
 usc_title: 19
 usc_section: "3902"
 chapter: 25
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "19 U.S.C. § 3902"
-generated_at: "2026-03-30T06:43:48.003Z"
+generated_at: "2026-03-30T06:47:08.334Z"
 status: "active"
 ---
 

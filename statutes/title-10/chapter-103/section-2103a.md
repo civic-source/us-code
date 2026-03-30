@@ -3,9 +3,9 @@ title: "Section 2103a - Students not eligible for advanced training: commitment 
 usc_title: 10
 usc_section: "2103a"
 chapter: 103
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 2103a"
-generated_at: "2026-03-30T06:43:30.885Z"
+generated_at: "2026-03-30T06:46:36.788Z"
 status: "active"
 ---
 

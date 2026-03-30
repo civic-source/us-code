@@ -3,9 +3,9 @@ title: "Section 466 - Repealed. July 12, 1955, ch. 328 , § 5(3), 69 Stat. 296 ]
 usc_title: 14
 usc_section: "466"
 chapter: 13
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "14 U.S.C. § 466"
-generated_at: "2026-03-30T06:43:38.197Z"
+generated_at: "2026-03-30T06:46:59.389Z"
 status: "repealed"
 ---
 

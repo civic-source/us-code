@@ -3,9 +3,9 @@ title: "Section 2340A - Torture"
 usc_title: 18
 usc_section: "2340A"
 chapter: 113
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 2340A"
-generated_at: "2026-03-30T06:43:46.081Z"
+generated_at: "2026-03-30T06:47:07.301Z"
 status: "active"
 ---
 

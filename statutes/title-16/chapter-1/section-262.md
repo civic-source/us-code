@@ -3,9 +3,9 @@ title: "Section 262 - Total area; consent of Congress to acquisition of lands an
 usc_title: 16
 usc_section: "262"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 262"
-generated_at: "2026-03-30T06:43:50.056Z"
+generated_at: "2026-03-30T06:47:12.374Z"
 status: "active"
 ---
 

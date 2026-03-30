@@ -3,9 +3,9 @@ title: "Section 669 - Research and related activities"
 usc_title: 29
 usc_section: "669"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "29 U.S.C. § 669"
-generated_at: "2026-03-30T06:44:03.324Z"
+generated_at: "2026-03-30T06:47:45.928Z"
 status: "active"
 ---
 

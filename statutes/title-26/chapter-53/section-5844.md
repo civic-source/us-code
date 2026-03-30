@@ -3,9 +3,9 @@ title: "Section 5844 - Importation"
 usc_title: 26
 usc_section: "5844"
 chapter: 53
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 5844"
-generated_at: "2026-03-30T06:44:09.277Z"
+generated_at: "2026-03-30T06:47:50.845Z"
 status: "active"
 ---
 

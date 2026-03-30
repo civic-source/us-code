@@ -3,9 +3,9 @@ title: "Section 902 - Deemed paid credit where domestic corporation owns 10 perc
 usc_title: 26
 usc_section: "902"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 902"
-generated_at: "2026-03-30T06:44:09.203Z"
+generated_at: "2026-03-30T06:47:50.771Z"
 status: "active"
 ---
 

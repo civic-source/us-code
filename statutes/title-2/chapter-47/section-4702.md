@@ -3,9 +3,9 @@ title: "Section 4702 - Notification of post-employment restrictions for Members 
 usc_title: 2
 usc_section: "4702"
 chapter: 47
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 4702"
-generated_at: "2026-03-30T06:43:24.015Z"
+generated_at: "2026-03-30T06:46:22.098Z"
 status: "active"
 ---
 

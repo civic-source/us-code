@@ -3,9 +3,9 @@ title: "Section 7107 - Judicial review of agency board decisions"
 usc_title: 41
 usc_section: "7107"
 chapter: 71
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "41 U.S.C. § 7107"
-generated_at: "2026-03-30T06:45:07.360Z"
+generated_at: "2026-03-30T06:48:12.384Z"
 status: "active"
 ---
 

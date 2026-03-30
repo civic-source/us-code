@@ -3,9 +3,9 @@ title: "Section 7173 - Initiation of rulemaking procedures before Commission"
 usc_title: 42
 usc_section: "7173"
 chapter: 84
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 7173"
-generated_at: "2026-03-30T06:45:38.767Z"
+generated_at: "2026-03-30T06:48:26.501Z"
 status: "active"
 ---
 

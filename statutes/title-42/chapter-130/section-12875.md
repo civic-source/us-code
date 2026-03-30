@@ -3,9 +3,9 @@ title: "Section 12875 - Other program requirements"
 usc_title: 42
 usc_section: "12875"
 chapter: 130
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 12875"
-generated_at: "2026-03-30T06:45:38.903Z"
+generated_at: "2026-03-30T06:48:26.637Z"
 status: "active"
 ---
 

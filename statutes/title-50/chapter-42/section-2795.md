@@ -3,9 +3,9 @@ title: "Section 2795 - University-based research collaboration program"
 usc_title: 50
 usc_section: "2795"
 chapter: 42
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 2795"
-generated_at: "2026-03-30T06:45:53.725Z"
+generated_at: "2026-03-30T06:48:30.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 246 - Grants and services to States"
 usc_title: 42
 usc_section: "246"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 246"
-generated_at: "2026-03-30T06:45:38.271Z"
+generated_at: "2026-03-30T06:48:26.030Z"
 status: "active"
 ---
 

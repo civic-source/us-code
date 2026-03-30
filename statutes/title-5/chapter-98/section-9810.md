@@ -3,9 +3,9 @@ title: "Section 9810 - Distinguished scholar appointment authority"
 usc_title: 5
 usc_section: "9810"
 chapter: 98
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 9810"
-generated_at: "2026-03-30T06:43:23.111Z"
+generated_at: "2026-03-30T06:46:27.767Z"
 status: "active"
 ---
 

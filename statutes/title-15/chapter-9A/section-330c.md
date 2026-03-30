@@ -3,9 +3,9 @@ title: "Section 330c - Authority of Secretary"
 usc_title: 15
 usc_section: "330c"
 chapter: 9
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 330c"
-generated_at: "2026-03-30T06:43:42.935Z"
+generated_at: "2026-03-30T06:46:55.649Z"
 status: "active"
 ---
 

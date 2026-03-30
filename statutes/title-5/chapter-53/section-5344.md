@@ -3,9 +3,9 @@ title: "Section 5344 - Effective date of wage increase; retroactive pay"
 usc_title: 5
 usc_section: "5344"
 chapter: 53
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 5344"
-generated_at: "2026-03-30T06:43:23.073Z"
+generated_at: "2026-03-30T06:46:27.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8634 - Repealed. Pub. L. 110–181, div. A, title V , § 590(b)(
 usc_title: 10
 usc_section: "8634"
 chapter: 849
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 8634"
-generated_at: "2026-03-30T06:43:30.950Z"
+generated_at: "2026-03-30T06:46:36.850Z"
 status: "repealed"
 ---
 

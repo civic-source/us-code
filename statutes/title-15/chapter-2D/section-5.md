@@ -3,9 +3,9 @@ title: "Section 5 - Investment advisory contracts"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T06:43:42.927Z"
+generated_at: "2026-03-30T06:46:55.641Z"
 status: "active"
 ---
 

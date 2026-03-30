@@ -3,9 +3,9 @@ title: "Section 352a - Cancellation of patents in fee simple for allotments held
 usc_title: 25
 usc_section: "352a"
 chapter: 9
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 352a"
-generated_at: "2026-03-30T06:43:56.341Z"
+generated_at: "2026-03-30T06:47:36.030Z"
 status: "active"
 ---
 

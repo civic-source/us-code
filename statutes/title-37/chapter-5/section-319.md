@@ -3,9 +3,9 @@ title: "Section 319 - Special pay: surface warfare officer continuation pay"
 usc_title: 37
 usc_section: "319"
 chapter: 5
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "37 U.S.C. § 319"
-generated_at: "2026-03-30T06:44:46.354Z"
+generated_at: "2026-03-30T06:48:10.221Z"
 status: "active"
 ---
 

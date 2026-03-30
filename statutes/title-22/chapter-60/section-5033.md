@@ -3,9 +3,9 @@ title: "Section 5033 - Repealed. Pub. L. 103–149 , § 4(a)(1), Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5033"
 chapter: 60
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 5033"
-generated_at: "2026-03-30T06:43:58.562Z"
+generated_at: "2026-03-30T06:47:23.074Z"
 status: "repealed"
 ---
 

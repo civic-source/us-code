@@ -3,9 +3,9 @@ title: "Section 580i - Acquisition of winter range, land, and helicopter landing
 usc_title: 16
 usc_section: "580i"
 chapter: 3
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 580i"
-generated_at: "2026-03-30T06:43:50.144Z"
+generated_at: "2026-03-30T06:47:12.457Z"
 status: "active"
 ---
 

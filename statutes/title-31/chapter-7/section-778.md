@@ -3,9 +3,9 @@ title: "Section 778 - Dependency and disability decisions"
 usc_title: 31
 usc_section: "778"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "31 U.S.C. § 778"
-generated_at: "2026-03-30T06:44:43.899Z"
+generated_at: "2026-03-30T06:47:56.486Z"
 status: "active"
 ---
 

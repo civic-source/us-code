@@ -3,9 +3,9 @@ title: "Section 2261 - Prisoners in State custody subject to capital sentence; a
 usc_title: 28
 usc_section: "2261"
 chapter: 154
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "28 U.S.C. § 2261"
-generated_at: "2026-03-30T06:44:01.640Z"
+generated_at: "2026-03-30T06:47:40.550Z"
 status: "active"
 ---
 

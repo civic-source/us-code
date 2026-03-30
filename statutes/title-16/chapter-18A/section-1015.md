@@ -3,9 +3,9 @@ title: "Section 1015 - Definitions"
 usc_title: 16
 usc_section: "1015"
 chapter: 18
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 1015"
-generated_at: "2026-03-30T06:43:50.188Z"
+generated_at: "2026-03-30T06:47:12.497Z"
 status: "active"
 ---
 

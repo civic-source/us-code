@@ -3,9 +3,9 @@ title: "Section 909 - Terms of resolution"
 usc_title: 5
 usc_section: "909"
 chapter: 9
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 909"
-generated_at: "2026-03-30T06:43:23.060Z"
+generated_at: "2026-03-30T06:46:27.715Z"
 status: "active"
 ---
 

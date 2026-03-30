@@ -3,9 +3,9 @@ title: "Section 2341 - Elimination of plutonium production"
 usc_title: 50
 usc_section: "2341"
 chapter: 40
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 2341"
-generated_at: "2026-03-30T06:45:53.714Z"
+generated_at: "2026-03-30T06:48:30.887Z"
 status: "active"
 ---
 

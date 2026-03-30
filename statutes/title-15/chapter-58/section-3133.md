@@ -3,9 +3,9 @@ title: "Section 3133 - Exercise of rulemaking powers"
 usc_title: 15
 usc_section: "3133"
 chapter: 58
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 3133"
-generated_at: "2026-03-30T06:43:43.031Z"
+generated_at: "2026-03-30T06:46:55.739Z"
 status: "active"
 ---
 

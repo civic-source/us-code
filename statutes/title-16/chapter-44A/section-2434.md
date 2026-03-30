@@ -3,9 +3,9 @@ title: "Section 2434 - Conservation measures; system of observation and inspecti
 usc_title: 16
 usc_section: "2434"
 chapter: 44
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 2434"
-generated_at: "2026-03-30T06:43:50.230Z"
+generated_at: "2026-03-30T06:47:12.536Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3048 - Cooperation with Federal agencies offering programs for c
 usc_title: 12
 usc_section: "3048"
 chapter: 31
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "12 U.S.C. § 3048"
-generated_at: "2026-03-30T06:43:40.418Z"
+generated_at: "2026-03-30T06:47:03.711Z"
 status: "active"
 ---
 

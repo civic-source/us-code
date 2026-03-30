@@ -3,9 +3,9 @@ title: "Section 851 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "851"
 chapter: 17
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "29 U.S.C. § 851"
-generated_at: "2026-03-30T06:44:03.335Z"
+generated_at: "2026-03-30T06:47:45.939Z"
 status: "repealed"
 ---
 

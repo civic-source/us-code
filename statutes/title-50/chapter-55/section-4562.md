@@ -3,9 +3,9 @@ title: "Section 4562 - Territorial application of chapter"
 usc_title: 50
 usc_section: "4562"
 chapter: 55
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 4562"
-generated_at: "2026-03-30T06:45:53.762Z"
+generated_at: "2026-03-30T06:48:30.930Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029"
 usc_title: 48
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 5"
-generated_at: "2026-03-30T06:45:43.548Z"
+generated_at: "2026-03-30T06:48:29.488Z"
 status: "repealed"
 ---
 

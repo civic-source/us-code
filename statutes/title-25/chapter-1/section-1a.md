@@ -3,9 +3,9 @@ title: "Section 1a - Delegation of powers and duties by Secretary of the Interio
 usc_title: 25
 usc_section: "1a"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 1a"
-generated_at: "2026-03-30T06:43:56.334Z"
+generated_at: "2026-03-30T06:47:36.018Z"
 status: "active"
 ---
 

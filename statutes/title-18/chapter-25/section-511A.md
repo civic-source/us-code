@@ -3,9 +3,9 @@ title: "Section 511A - Unauthorized application of theft prevention decal or dev
 usc_title: 18
 usc_section: "511A"
 chapter: 25
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 511A"
-generated_at: "2026-03-30T06:43:46.051Z"
+generated_at: "2026-03-30T06:47:07.271Z"
 status: "active"
 ---
 

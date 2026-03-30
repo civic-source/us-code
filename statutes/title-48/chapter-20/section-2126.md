@@ -3,9 +3,9 @@ title: "Section 2126 - Treatment of actions arising from chapter"
 usc_title: 48
 usc_section: "2126"
 chapter: 20
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 2126"
-generated_at: "2026-03-30T06:45:43.569Z"
+generated_at: "2026-03-30T06:48:29.507Z"
 status: "active"
 ---
 

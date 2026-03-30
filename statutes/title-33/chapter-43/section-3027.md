@@ -3,9 +3,9 @@ title: "Section 3027 - General qualification of officers for promotion to higher
 usc_title: 33
 usc_section: "3027"
 chapter: 43
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "33 U.S.C. § 3027"
-generated_at: "2026-03-30T06:44:22.419Z"
+generated_at: "2026-03-30T06:47:55.208Z"
 status: "active"
 ---
 

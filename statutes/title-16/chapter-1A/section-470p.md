@@ -3,9 +3,9 @@ title: "Section 470p - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470p"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 470p"
-generated_at: "2026-03-30T06:43:50.126Z"
+generated_at: "2026-03-30T06:47:12.441Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1656 - Repealed. Pub. L. 106–224, title IV , § 438(a)(7), Jun
 usc_title: 7
 usc_section: "1656"
 chapter: 40
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1656"
-generated_at: "2026-03-30T06:43:35.354Z"
+generated_at: "2026-03-30T06:46:41.759Z"
 status: "repealed"
 ---
 

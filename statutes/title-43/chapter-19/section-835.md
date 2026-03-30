@@ -3,9 +3,9 @@ title: "Section 835 - Repealed. Pub. L. 87–558 , § 1, July 27, 1962 , 76 Stat
 usc_title: 43
 usc_section: "835"
 chapter: 19
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 835"
-generated_at: "2026-03-30T06:45:05.642Z"
+generated_at: "2026-03-30T06:48:13.507Z"
 status: "repealed"
 ---
 

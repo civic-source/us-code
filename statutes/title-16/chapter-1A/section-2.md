@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T06:43:50.126Z"
+generated_at: "2026-03-30T06:47:12.441Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9001 - Findings and declarations"
 usc_title: 22
 usc_section: "9001"
 chapter: 97
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 9001"
-generated_at: "2026-03-30T06:43:58.605Z"
+generated_at: "2026-03-30T06:47:23.112Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 891b - Fleet replacement and modernization Plan"
 usc_title: 33
 usc_section: "891b"
 chapter: 17
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "33 U.S.C. § 891b"
-generated_at: "2026-03-30T06:44:22.373Z"
+generated_at: "2026-03-30T06:47:55.165Z"
 status: "active"
 ---
 

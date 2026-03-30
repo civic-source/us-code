@@ -3,9 +3,9 @@ title: "Section 1205 - Repealed. Pub. L. 87–301 , § 24(a)(2), Sept. 26, 1961 
 usc_title: 8
 usc_section: "1205"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "8 U.S.C. § 1205"
-generated_at: "2026-03-30T06:43:31.937Z"
+generated_at: "2026-03-30T06:46:37.391Z"
 status: "repealed"
 ---
 

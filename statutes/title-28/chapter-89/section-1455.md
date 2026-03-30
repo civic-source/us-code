@@ -3,9 +3,9 @@ title: "Section 1455 - Procedure for removal of criminal prosecutions"
 usc_title: 28
 usc_section: "1455"
 chapter: 89
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "28 U.S.C. § 1455"
-generated_at: "2026-03-30T06:44:01.633Z"
+generated_at: "2026-03-30T06:47:40.543Z"
 status: "active"
 ---
 

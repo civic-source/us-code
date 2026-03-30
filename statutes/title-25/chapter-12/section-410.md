@@ -3,9 +3,9 @@ title: "Section 410 - Moneys from lease or sale of trust lands not liable for ce
 usc_title: 25
 usc_section: "410"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 410"
-generated_at: "2026-03-30T06:43:56.344Z"
+generated_at: "2026-03-30T06:47:36.033Z"
 status: "active"
 ---
 

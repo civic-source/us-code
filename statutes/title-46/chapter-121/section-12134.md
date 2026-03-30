@@ -3,9 +3,9 @@ title: "Section 12134 - Evidentiary uses of documentation"
 usc_title: 46
 usc_section: "12134"
 chapter: 121
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "46 U.S.C. § 12134"
-generated_at: "2026-03-30T06:45:57.019Z"
+generated_at: "2026-03-30T06:48:41.289Z"
 status: "active"
 ---
 

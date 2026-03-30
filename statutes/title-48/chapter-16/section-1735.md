@@ -3,9 +3,9 @@ title: "Section 1735 - Operation of Office; compensation, allowances, and benefi
 usc_title: 48
 usc_section: "1735"
 chapter: 16
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 1735"
-generated_at: "2026-03-30T06:45:43.559Z"
+generated_at: "2026-03-30T06:48:29.500Z"
 status: "active"
 ---
 

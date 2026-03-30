@@ -3,9 +3,9 @@ title: "Section 284 - Repealed. Pub. L. 87–849 , § 2, Oct. 23, 1962 , 76 Stat
 usc_title: 18
 usc_section: "284"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 284"
-generated_at: "2026-03-30T06:43:46.049Z"
+generated_at: "2026-03-30T06:47:07.269Z"
 status: "repealed"
 ---
 

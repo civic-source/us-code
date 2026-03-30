@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 92–318, title III , § 301(b)(2)(A), Jun
 usc_title: 20
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T06:43:51.949Z"
+generated_at: "2026-03-30T06:47:10.117Z"
 status: "repealed"
 ---
 

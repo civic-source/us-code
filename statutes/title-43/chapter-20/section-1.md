@@ -3,9 +3,9 @@ title: "Section 1 - Sale or lease to State or nonprofit organization; reservatio
 usc_title: 43
 usc_section: "1"
 chapter: 20
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T06:45:05.643Z"
+generated_at: "2026-03-30T06:48:13.508Z"
 status: "active"
 ---
 

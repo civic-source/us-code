@@ -3,9 +3,9 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-30T06:45:38.644Z"
+generated_at: "2026-03-30T06:48:26.387Z"
 status: "active"
 ---
 

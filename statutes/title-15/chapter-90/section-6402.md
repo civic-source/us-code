@@ -3,9 +3,9 @@ title: "Section 6402 - Definitions"
 usc_title: 15
 usc_section: "6402"
 chapter: 90
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 6402"
-generated_at: "2026-03-30T06:43:43.051Z"
+generated_at: "2026-03-30T06:46:55.757Z"
 status: "active"
 ---
 

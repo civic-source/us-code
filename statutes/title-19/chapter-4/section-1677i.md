@@ -3,9 +3,9 @@ title: "Section 1677i - Downstream product monitoring"
 usc_title: 19
 usc_section: "1677i"
 chapter: 4
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "19 U.S.C. § 1677i"
-generated_at: "2026-03-30T06:43:47.965Z"
+generated_at: "2026-03-30T06:47:08.299Z"
 status: "active"
 ---
 

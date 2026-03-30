@@ -3,9 +3,9 @@ title: "Section 15822 - Energy efficient public buildings"
 usc_title: 42
 usc_section: "15822"
 chapter: 149
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 15822"
-generated_at: "2026-03-30T06:45:38.928Z"
+generated_at: "2026-03-30T06:48:26.660Z"
 status: "active"
 ---
 

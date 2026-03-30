@@ -3,9 +3,9 @@ title: "Section 5995 - Repealed. Pub. L. 108–447, div. J, title VIII , § 813(
 usc_title: 16
 usc_section: "5995"
 chapter: 79
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 5995"
-generated_at: "2026-03-30T06:43:50.264Z"
+generated_at: "2026-03-30T06:47:12.568Z"
 status: "repealed"
 ---
 

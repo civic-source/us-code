@@ -3,9 +3,9 @@ title: "Section 8837 - Commercialization demonstration program pursuant to Feder
 usc_title: 42
 usc_section: "8837"
 chapter: 96
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 8837"
-generated_at: "2026-03-30T06:45:38.823Z"
+generated_at: "2026-03-30T06:48:26.561Z"
 status: "active"
 ---
 

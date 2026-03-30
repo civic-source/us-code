@@ -3,9 +3,9 @@ title: "Section 1528 - Congressional notification of biological select agent and
 usc_title: 50
 usc_section: "1528"
 chapter: 32
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 1528"
-generated_at: "2026-03-30T06:45:53.699Z"
+generated_at: "2026-03-30T06:48:30.874Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1750f - Rules and regulations"
 usc_title: 12
 usc_section: "1750f"
 chapter: 13
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "12 U.S.C. § 1750f"
-generated_at: "2026-03-30T06:43:40.362Z"
+generated_at: "2026-03-30T06:47:03.663Z"
 status: "active"
 ---
 

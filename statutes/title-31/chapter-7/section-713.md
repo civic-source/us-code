@@ -3,9 +3,9 @@ title: "Section 713 - Audit of Internal Revenue Service, Tax and Trade Bureau, a
 usc_title: 31
 usc_section: "713"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "31 U.S.C. § 713"
-generated_at: "2026-03-30T06:44:43.896Z"
+generated_at: "2026-03-30T06:47:56.484Z"
 status: "active"
 ---
 

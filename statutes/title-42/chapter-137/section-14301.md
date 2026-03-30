@@ -3,9 +3,9 @@ title: "Section 14301 - Findings"
 usc_title: 42
 usc_section: "14301"
 chapter: 137
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 14301"
-generated_at: "2026-03-30T06:45:38.919Z"
+generated_at: "2026-03-30T06:48:26.651Z"
 status: "active"
 ---
 

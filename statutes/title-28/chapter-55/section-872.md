@@ -3,9 +3,9 @@ title: "Section 872 - Criers, bailiffs, and messengers"
 usc_title: 28
 usc_section: "872"
 chapter: 55
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "28 U.S.C. § 872"
-generated_at: "2026-03-30T06:44:01.629Z"
+generated_at: "2026-03-30T06:47:40.540Z"
 status: "active"
 ---
 

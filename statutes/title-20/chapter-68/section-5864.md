@@ -3,9 +3,9 @@ title: "Section 5864 - Repealed. Pub. L. 103–382, title III , § 361(a), Oct. 
 usc_title: 20
 usc_section: "5864"
 chapter: 68
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 5864"
-generated_at: "2026-03-30T06:43:52.052Z"
+generated_at: "2026-03-30T06:47:10.277Z"
 status: "repealed"
 ---
 

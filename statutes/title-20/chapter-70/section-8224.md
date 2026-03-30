@@ -3,9 +3,9 @@ title: "Section 8224 - Repealed. Pub. L. 105–277, div. A , § 101(f) [title VI
 usc_title: 20
 usc_section: "8224"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 8224"
-generated_at: "2026-03-30T06:43:52.083Z"
+generated_at: "2026-03-30T06:47:10.306Z"
 status: "repealed"
 ---
 

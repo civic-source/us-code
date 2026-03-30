@@ -3,9 +3,9 @@ title: "Section 1501 - System for accounting for missing persons"
 usc_title: 10
 usc_section: "1501"
 chapter: 76
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 1501"
-generated_at: "2026-03-30T06:43:30.876Z"
+generated_at: "2026-03-30T06:46:36.779Z"
 status: "active"
 ---
 

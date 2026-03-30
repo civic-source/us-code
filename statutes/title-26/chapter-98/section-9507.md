@@ -3,9 +3,9 @@ title: "Section 9507 - Hazardous Substance Superfund"
 usc_title: 26
 usc_section: "9507"
 chapter: 98
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 9507"
-generated_at: "2026-03-30T06:44:09.328Z"
+generated_at: "2026-03-30T06:47:50.896Z"
 status: "active"
 ---
 

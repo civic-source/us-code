@@ -3,9 +3,9 @@ title: "Section 2606 - Imminent hazards"
 usc_title: 15
 usc_section: "2606"
 chapter: 53
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 2606"
-generated_at: "2026-03-30T06:43:43.021Z"
+generated_at: "2026-03-30T06:46:55.728Z"
 status: "active"
 ---
 

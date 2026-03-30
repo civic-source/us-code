@@ -3,9 +3,9 @@ title: "Section 5109 - Fees"
 usc_title: 12
 usc_section: "5109"
 chapter: 51
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "12 U.S.C. § 5109"
-generated_at: "2026-03-30T06:43:40.449Z"
+generated_at: "2026-03-30T06:47:03.737Z"
 status: "active"
 ---
 

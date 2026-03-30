@@ -3,9 +3,9 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T06:43:30.874Z"
+generated_at: "2026-03-30T06:46:36.776Z"
 status: "active"
 ---
 

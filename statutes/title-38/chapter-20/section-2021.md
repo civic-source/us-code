@@ -3,9 +3,9 @@ title: "Section 2021 - Homeless veterans reintegration programs"
 usc_title: 38
 usc_section: "2021"
 chapter: 20
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "38 U.S.C. § 2021"
-generated_at: "2026-03-30T06:44:47.839Z"
+generated_at: "2026-03-30T06:48:01.689Z"
 status: "active"
 ---
 

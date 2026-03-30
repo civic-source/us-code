@@ -3,9 +3,9 @@ title: "Section 8633 - Repealed. Pub. L. 87–649 , § 14c(54), (55), Sept. 7, 1
 usc_title: 10
 usc_section: "8633"
 chapter: 849
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 8633"
-generated_at: "2026-03-30T06:43:30.950Z"
+generated_at: "2026-03-30T06:46:36.850Z"
 status: "repealed"
 ---
 

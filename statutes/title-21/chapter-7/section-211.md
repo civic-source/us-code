@@ -3,9 +3,9 @@ title: "Section 211 - Preservation of originals of prescriptions compounded and 
 usc_title: 21
 usc_section: "211"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "21 U.S.C. § 211"
-generated_at: "2026-03-30T06:43:55.570Z"
+generated_at: "2026-03-30T06:47:17.159Z"
 status: "active"
 ---
 

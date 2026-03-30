@@ -3,9 +3,9 @@ title: "Section 1359ll - Period of effectiveness"
 usc_title: 7
 usc_section: "1359ll"
 chapter: 35
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1359ll"
-generated_at: "2026-03-30T06:43:35.334Z"
+generated_at: "2026-03-30T06:46:41.740Z"
 status: "active"
 ---
 

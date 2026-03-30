@@ -3,9 +3,9 @@ title: "Section 426c - Assistants to commission; expenses of commission"
 usc_title: 16
 usc_section: "426c"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 426c"
-generated_at: "2026-03-30T06:43:50.084Z"
+generated_at: "2026-03-30T06:47:12.401Z"
 status: "active"
 ---
 

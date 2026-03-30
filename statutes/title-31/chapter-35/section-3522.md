@@ -3,9 +3,9 @@ title: "Section 3522 - Making and submitting accounts"
 usc_title: 31
 usc_section: "3522"
 chapter: 35
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "31 U.S.C. § 3522"
-generated_at: "2026-03-30T06:44:43.924Z"
+generated_at: "2026-03-30T06:47:56.498Z"
 status: "active"
 ---
 

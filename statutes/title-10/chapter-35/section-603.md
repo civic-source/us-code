@@ -3,9 +3,9 @@ title: "Section 603 - Appointments in time of war or national emergency"
 usc_title: 10
 usc_section: "603"
 chapter: 35
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 603"
-generated_at: "2026-03-30T06:43:30.841Z"
+generated_at: "2026-03-30T06:46:36.743Z"
 status: "active"
 ---
 

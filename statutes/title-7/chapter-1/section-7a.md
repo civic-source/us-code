@@ -3,9 +3,9 @@ title: "Section 7a - Repealed. Pub. L. 111–203, title VII , § 734(a), July 21
 usc_title: 7
 usc_section: "7a"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 7a"
-generated_at: "2026-03-30T06:43:35.283Z"
+generated_at: "2026-03-30T06:46:41.692Z"
 status: "repealed"
 ---
 

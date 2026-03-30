@@ -3,9 +3,9 @@ title: "Section 876b - Art. 76b. Lack of mental capacity or mental responsibilit
 usc_title: 10
 usc_section: "876b"
 chapter: 47
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 876b"
-generated_at: "2026-03-30T06:43:30.850Z"
+generated_at: "2026-03-30T06:46:36.752Z"
 status: "active"
 ---
 

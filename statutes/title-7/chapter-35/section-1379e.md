@@ -3,9 +3,9 @@ title: "Section 1379e - Assistance in purchase and sale of marketing certificate
 usc_title: 7
 usc_section: "1379e"
 chapter: 35
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1379e"
-generated_at: "2026-03-30T06:43:35.335Z"
+generated_at: "2026-03-30T06:46:41.741Z"
 status: "active"
 ---
 

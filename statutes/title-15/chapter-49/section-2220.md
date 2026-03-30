@@ -3,9 +3,9 @@ title: "Section 2220 - Arson prevention, detection, and control"
 usc_title: 15
 usc_section: "2220"
 chapter: 49
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 2220"
-generated_at: "2026-03-30T06:43:43.014Z"
+generated_at: "2026-03-30T06:46:55.722Z"
 status: "active"
 ---
 

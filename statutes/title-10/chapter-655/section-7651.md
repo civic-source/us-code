@@ -3,9 +3,9 @@ title: "Section 7651 - Scope of chapter"
 usc_title: 10
 usc_section: "7651"
 chapter: 655
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7651"
-generated_at: "2026-03-30T06:43:30.947Z"
+generated_at: "2026-03-30T06:46:36.846Z"
 status: "active"
 ---
 

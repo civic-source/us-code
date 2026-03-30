@@ -3,9 +3,9 @@ title: "Section 3871b - Regional conservation partnerships"
 usc_title: 16
 usc_section: "3871b"
 chapter: 58
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 3871b"
-generated_at: "2026-03-30T06:43:50.251Z"
+generated_at: "2026-03-30T06:47:12.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 211 - Promotion of commissioned officers"
 usc_title: 42
 usc_section: "211"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 211"
-generated_at: "2026-03-30T06:45:38.261Z"
+generated_at: "2026-03-30T06:48:26.023Z"
 status: "active"
 ---
 

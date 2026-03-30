@@ -3,9 +3,9 @@ title: "Section 4554 - Property management contracts and leases"
 usc_title: 10
 usc_section: "4554"
 chapter: 434
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 4554"
-generated_at: "2026-03-30T06:43:30.934Z"
+generated_at: "2026-03-30T06:46:36.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 204 - Codes and Supplements as evidence of the laws of United St
 usc_title: 1
 usc_section: "204"
 chapter: 3
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "1 U.S.C. § 204"
-generated_at: "2026-03-30T06:43:21.049Z"
+generated_at: "2026-03-30T06:46:23.870Z"
 status: "active"
 ---
 

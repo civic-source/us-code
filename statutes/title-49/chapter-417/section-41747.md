@@ -3,9 +3,9 @@ title: "Section 41747 - Repealed. Pub. L. 112–95, title IV , § 430, Feb. 14, 
 usc_title: 49
 usc_section: "41747"
 chapter: 417
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "49 U.S.C. § 41747"
-generated_at: "2026-03-30T06:45:47.811Z"
+generated_at: "2026-03-30T06:48:36.738Z"
 status: "repealed"
 ---
 

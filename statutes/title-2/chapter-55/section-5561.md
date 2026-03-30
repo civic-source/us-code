@@ -3,9 +3,9 @@ title: "Section 5561 - Reporters for House of Representatives"
 usc_title: 2
 usc_section: "5561"
 chapter: 55
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 5561"
-generated_at: "2026-03-30T06:43:24.019Z"
+generated_at: "2026-03-30T06:46:22.102Z"
 status: "active"
 ---
 

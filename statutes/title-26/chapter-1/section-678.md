@@ -3,9 +3,9 @@ title: "Section 678 - Person other than grantor treated as substantial owner"
 usc_title: 26
 usc_section: "678"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 678"
-generated_at: "2026-03-30T06:44:09.185Z"
+generated_at: "2026-03-30T06:47:50.752Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 170106 - Restrictions"
 usc_title: 36
 usc_section: "170106"
 chapter: 1701
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "36 U.S.C. § 170106"
-generated_at: "2026-03-30T06:44:56.399Z"
+generated_at: "2026-03-30T06:47:59.917Z"
 status: "active"
 ---
 

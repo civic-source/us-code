@@ -3,9 +3,9 @@ title: "Section 1857l - Repealed. Pub. L. 95–95, title III , § 306, Aug. 7, 1
 usc_title: 42
 usc_section: "1857l"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1857l"
-generated_at: "2026-03-30T06:45:38.621Z"
+generated_at: "2026-03-30T06:48:26.365Z"
 status: "repealed"
 ---
 

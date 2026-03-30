@@ -3,9 +3,9 @@ title: "Section 7907 - Prohibitions on Federal Government and use of Federal fun
 usc_title: 20
 usc_section: "7907"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 7907"
-generated_at: "2026-03-30T06:43:52.082Z"
+generated_at: "2026-03-30T06:47:10.304Z"
 status: "active"
 ---
 

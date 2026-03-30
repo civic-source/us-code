@@ -3,9 +3,9 @@ title: "Section 1038 - Certain reacquisitions of real property"
 usc_title: 26
 usc_section: "1038"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 1038"
-generated_at: "2026-03-30T06:44:09.214Z"
+generated_at: "2026-03-30T06:47:50.782Z"
 status: "active"
 ---
 

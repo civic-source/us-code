@@ -3,9 +3,9 @@ title: "Section 8356 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1636(
 usc_title: 10
 usc_section: "8356"
 chapter: 837
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 8356"
-generated_at: "2026-03-30T06:43:30.950Z"
+generated_at: "2026-03-30T06:46:36.849Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41504 - Project Safe Neighborhoods"
 usc_title: 34
 usc_section: "41504"
 chapter: 415
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 41504"
-generated_at: "2026-03-30T06:44:13.930Z"
+generated_at: "2026-03-30T06:47:54.203Z"
 status: "active"
 ---
 

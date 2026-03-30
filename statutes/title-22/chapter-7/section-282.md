@@ -3,9 +3,9 @@ title: "Section 282 - Acceptance of membership by United States in International
 usc_title: 22
 usc_section: "282"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 282"
-generated_at: "2026-03-30T06:43:58.471Z"
+generated_at: "2026-03-30T06:47:22.989Z"
 status: "active"
 ---
 

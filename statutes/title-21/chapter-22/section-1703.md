@@ -3,9 +3,9 @@ title: "Section 1703 - Appointment and duties of Director and Deputy Directors"
 usc_title: 21
 usc_section: "1703"
 chapter: 22
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "21 U.S.C. § 1703"
-generated_at: "2026-03-30T06:43:55.639Z"
+generated_at: "2026-03-30T06:47:17.230Z"
 status: "active"
 ---
 

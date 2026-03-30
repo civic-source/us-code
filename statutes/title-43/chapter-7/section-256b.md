@@ -3,9 +3,9 @@ title: "Section 256b - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 
 usc_title: 43
 usc_section: "256b"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 256b"
-generated_at: "2026-03-30T06:45:05.619Z"
+generated_at: "2026-03-30T06:48:13.488Z"
 status: "repealed"
 ---
 

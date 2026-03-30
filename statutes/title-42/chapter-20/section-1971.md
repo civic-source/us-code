@@ -3,9 +3,9 @@ title: "Section 1971 - Transferred"
 usc_title: 42
 usc_section: "1971"
 chapter: 20
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1971"
-generated_at: "2026-03-30T06:45:38.632Z"
+generated_at: "2026-03-30T06:48:26.375Z"
 status: "transferred"
 ---
 

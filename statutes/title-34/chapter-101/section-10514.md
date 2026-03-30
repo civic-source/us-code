@@ -3,9 +3,9 @@ title: "Section 10514 - Administrative provisions"
 usc_title: 34
 usc_section: "10514"
 chapter: 101
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 10514"
-generated_at: "2026-03-30T06:44:13.896Z"
+generated_at: "2026-03-30T06:47:54.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21 - Filing date and day for taking action"
 usc_title: 35
 usc_section: "21"
 chapter: 2
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "35 U.S.C. § 21"
-generated_at: "2026-03-30T06:44:16.163Z"
+generated_at: "2026-03-30T06:47:57.543Z"
 status: "active"
 ---
 

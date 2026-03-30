@@ -3,9 +3,9 @@ title: "Section 3354 - Agricultural bioterrorism research and development"
 usc_title: 7
 usc_section: "3354"
 chapter: 64
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 3354"
-generated_at: "2026-03-30T06:43:35.404Z"
+generated_at: "2026-03-30T06:46:41.806Z"
 status: "active"
 ---
 

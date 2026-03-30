@@ -3,9 +3,9 @@ title: "Section 1228 - Interagency cooperation"
 usc_title: 30
 usc_section: "1228"
 chapter: 25
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "30 U.S.C. § 1228"
-generated_at: "2026-03-30T06:44:03.853Z"
+generated_at: "2026-03-30T06:47:40.872Z"
 status: "active"
 ---
 

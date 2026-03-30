@@ -3,9 +3,9 @@ title: "Section 3407 - Repealed. Pub. L. 97–113, title VII , § 734(a)(4), Dec
 usc_title: 22
 usc_section: "3407"
 chapter: 49
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 3407"
-generated_at: "2026-03-30T06:43:58.540Z"
+generated_at: "2026-03-30T06:47:23.054Z"
 status: "repealed"
 ---
 

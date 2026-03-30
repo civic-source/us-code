@@ -3,9 +3,9 @@ title: "Section 1241 - Cancellation of lease or distributor’s agreement"
 usc_title: 26
 usc_section: "1241"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 1241"
-generated_at: "2026-03-30T06:44:09.218Z"
+generated_at: "2026-03-30T06:47:50.786Z"
 status: "active"
 ---
 

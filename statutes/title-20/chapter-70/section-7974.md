@@ -3,9 +3,9 @@ title: "Section 7974 - Preemption"
 usc_title: 20
 usc_section: "7974"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 7974"
-generated_at: "2026-03-30T06:43:52.083Z"
+generated_at: "2026-03-30T06:47:10.305Z"
 status: "active"
 ---
 

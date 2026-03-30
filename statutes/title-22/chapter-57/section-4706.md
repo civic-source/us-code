@@ -3,9 +3,9 @@ title: "Section 4706 - Policy regarding other international educational programs
 usc_title: 22
 usc_section: "4706"
 chapter: 57
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 4706"
-generated_at: "2026-03-30T06:43:58.560Z"
+generated_at: "2026-03-30T06:47:23.072Z"
 status: "active"
 ---
 

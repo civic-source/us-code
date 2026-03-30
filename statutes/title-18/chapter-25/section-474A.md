@@ -3,9 +3,9 @@ title: "Section 474A - Deterrents to counterfeiting of obligations and securitie
 usc_title: 18
 usc_section: "474A"
 chapter: 25
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 474A"
-generated_at: "2026-03-30T06:43:46.050Z"
+generated_at: "2026-03-30T06:47:07.270Z"
 status: "active"
 ---
 

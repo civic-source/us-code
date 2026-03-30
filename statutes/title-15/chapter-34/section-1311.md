@@ -3,9 +3,9 @@ title: "Section 1311 - Definitions"
 usc_title: 15
 usc_section: "1311"
 chapter: 34
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 1311"
-generated_at: "2026-03-30T06:43:42.981Z"
+generated_at: "2026-03-30T06:46:55.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 262i - Repealed. Pub. L. 101–240, title V , § 541(d)(6), Dec.
 usc_title: 22
 usc_section: "262i"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 262i"
-generated_at: "2026-03-30T06:43:58.462Z"
+generated_at: "2026-03-30T06:47:22.981Z"
 status: "repealed"
 ---
 

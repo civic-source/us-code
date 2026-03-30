@@ -3,9 +3,9 @@ title: "Section 5813 - Report on overall assistance and economic cooperation str
 usc_title: 22
 usc_section: "5813"
 chapter: 67
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 5813"
-generated_at: "2026-03-30T06:43:58.567Z"
+generated_at: "2026-03-30T06:47:23.078Z"
 status: "active"
 ---
 

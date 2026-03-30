@@ -3,9 +3,9 @@ title: "Section 4109 - Hearings on claims; finality of decision"
 usc_title: 50
 usc_section: "4109"
 chapter: 51
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 4109"
-generated_at: "2026-03-30T06:45:53.752Z"
+generated_at: "2026-03-30T06:48:30.921Z"
 status: "active"
 ---
 

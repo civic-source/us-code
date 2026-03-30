@@ -3,9 +3,9 @@ title: "Section 4617 - Administrative and regulatory authority"
 usc_title: 50
 usc_section: "4617"
 chapter: 56
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 4617"
-generated_at: "2026-03-30T06:45:53.769Z"
+generated_at: "2026-03-30T06:48:30.936Z"
 status: "active"
 ---
 

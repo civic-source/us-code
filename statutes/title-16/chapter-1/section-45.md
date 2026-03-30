@@ -3,9 +3,9 @@ title: "Section 45 - Transfer of personal property"
 usc_title: 16
 usc_section: "45"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 45"
-generated_at: "2026-03-30T06:43:50.120Z"
+generated_at: "2026-03-30T06:47:12.435Z"
 status: "active"
 ---
 

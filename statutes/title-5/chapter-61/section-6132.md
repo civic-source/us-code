@@ -3,9 +3,9 @@ title: "Section 6132 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6132"
 chapter: 61
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 6132"
-generated_at: "2026-03-30T06:43:23.083Z"
+generated_at: "2026-03-30T06:46:27.738Z"
 status: "active"
 ---
 

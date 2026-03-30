@@ -3,9 +3,9 @@ title: "Section 19b - Reducing lead in drinking water"
 usc_title: 42
 usc_section: "19b"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 19b"
-generated_at: "2026-03-30T06:45:38.371Z"
+generated_at: "2026-03-30T06:48:26.119Z"
 status: "active"
 ---
 

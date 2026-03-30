@@ -3,9 +3,9 @@ title: "Section 51309 - Academic degree"
 usc_title: 46
 usc_section: "51309"
 chapter: 513
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "46 U.S.C. § 51309"
-generated_at: "2026-03-30T06:45:57.027Z"
+generated_at: "2026-03-30T06:48:41.297Z"
 status: "active"
 ---
 

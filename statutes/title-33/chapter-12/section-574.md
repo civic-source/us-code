@@ -3,9 +3,9 @@ title: "Section 574 - Omitted"
 usc_title: 33
 usc_section: "574"
 chapter: 12
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "33 U.S.C. § 574"
-generated_at: "2026-03-30T06:44:22.365Z"
+generated_at: "2026-03-30T06:47:55.154Z"
 status: "omitted"
 ---
 

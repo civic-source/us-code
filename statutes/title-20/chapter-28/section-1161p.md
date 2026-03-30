@@ -3,9 +3,9 @@ title: "Section 1161p - Grants to create bridges from jobs to careers"
 usc_title: 20
 usc_section: "1161p"
 chapter: 28
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 1161p"
-generated_at: "2026-03-30T06:43:52.019Z"
+generated_at: "2026-03-30T06:47:10.244Z"
 status: "active"
 ---
 

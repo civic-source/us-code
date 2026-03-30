@@ -3,9 +3,9 @@ title: "Section 2506 - Peace Corps employees"
 usc_title: 22
 usc_section: "2506"
 chapter: 34
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 2506"
-generated_at: "2026-03-30T06:43:58.522Z"
+generated_at: "2026-03-30T06:47:23.037Z"
 status: "active"
 ---
 

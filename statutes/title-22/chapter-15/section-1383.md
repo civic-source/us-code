@@ -3,9 +3,9 @@ title: "Section 1383 - Transfer of property by President of United States"
 usc_title: 22
 usc_section: "1383"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 1383"
-generated_at: "2026-03-30T06:43:58.487Z"
+generated_at: "2026-03-30T06:47:23.003Z"
 status: "active"
 ---
 

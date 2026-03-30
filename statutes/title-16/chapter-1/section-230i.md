@@ -3,9 +3,9 @@ title: "Section 230i - Report to Congressional committees"
 usc_title: 16
 usc_section: "230i"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 230i"
-generated_at: "2026-03-30T06:43:50.054Z"
+generated_at: "2026-03-30T06:47:12.373Z"
 status: "active"
 ---
 

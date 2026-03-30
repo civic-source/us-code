@@ -3,9 +3,9 @@ title: "Section 857a - Art. 57a. Deferment of sentences"
 usc_title: 10
 usc_section: "857a"
 chapter: 47
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 857a"
-generated_at: "2026-03-30T06:43:30.849Z"
+generated_at: "2026-03-30T06:46:36.751Z"
 status: "active"
 ---
 

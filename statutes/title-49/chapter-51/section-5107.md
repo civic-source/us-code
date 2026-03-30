@@ -3,9 +3,9 @@ title: "Section 5107 - Hazmat employee training requirements and grants"
 usc_title: 49
 usc_section: "5107"
 chapter: 51
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "49 U.S.C. § 5107"
-generated_at: "2026-03-30T06:45:47.739Z"
+generated_at: "2026-03-30T06:48:36.686Z"
 status: "active"
 ---
 

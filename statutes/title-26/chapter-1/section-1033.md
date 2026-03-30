@@ -3,9 +3,9 @@ title: "Section 1033 - Involuntary conversions"
 usc_title: 26
 usc_section: "1033"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 1033"
-generated_at: "2026-03-30T06:44:09.214Z"
+generated_at: "2026-03-30T06:47:50.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1524 - Posthumous commissions and warrants: determination of dat
 usc_title: 10
 usc_section: "1524"
 chapter: 77
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 1524"
-generated_at: "2026-03-30T06:43:30.878Z"
+generated_at: "2026-03-30T06:46:36.780Z"
 status: "active"
 ---
 

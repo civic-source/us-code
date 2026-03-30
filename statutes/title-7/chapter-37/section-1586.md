@@ -3,9 +3,9 @@ title: "Section 1586 - Certain acts prohibited"
 usc_title: 7
 usc_section: "1586"
 chapter: 37
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1586"
-generated_at: "2026-03-30T06:43:35.349Z"
+generated_at: "2026-03-30T06:46:41.754Z"
 status: "active"
 ---
 

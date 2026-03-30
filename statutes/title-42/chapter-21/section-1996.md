@@ -3,9 +3,9 @@ title: "Section 1996 - Protection and preservation of traditional religions of N
 usc_title: 42
 usc_section: "1996"
 chapter: 21
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1996"
-generated_at: "2026-03-30T06:45:38.633Z"
+generated_at: "2026-03-30T06:48:26.376Z"
 status: "active"
 ---
 

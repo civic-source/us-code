@@ -3,9 +3,9 @@ title: "Section 2806 - Contributions for North Atlantic Treaty Organizations Sec
 usc_title: 10
 usc_section: "2806"
 chapter: 169
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 2806"
-generated_at: "2026-03-30T06:43:30.922Z"
+generated_at: "2026-03-30T06:46:36.824Z"
 status: "active"
 ---
 

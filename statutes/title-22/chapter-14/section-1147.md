@@ -3,9 +3,9 @@ title: "Section 1147 - Repealed. Oct. 30, 1951, ch. 631 , title II, § 207(a)(6)
 usc_title: 22
 usc_section: "1147"
 chapter: 14
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 1147"
-generated_at: "2026-03-30T06:43:58.486Z"
+generated_at: "2026-03-30T06:47:23.002Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9203 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9203"
 chapter: 100
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 9203"
-generated_at: "2026-03-30T06:45:38.826Z"
+generated_at: "2026-03-30T06:48:26.563Z"
 status: "active"
 ---
 

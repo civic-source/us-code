@@ -3,9 +3,9 @@ title: "Section 9808 - Assignments of intergovernmental personnel"
 usc_title: 5
 usc_section: "9808"
 chapter: 98
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 9808"
-generated_at: "2026-03-30T06:43:23.111Z"
+generated_at: "2026-03-30T06:46:27.766Z"
 status: "active"
 ---
 

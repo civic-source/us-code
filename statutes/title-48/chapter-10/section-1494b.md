@@ -3,9 +3,9 @@ title: "Section 1494b - Enforcement and administration in insular areas"
 usc_title: 48
 usc_section: "1494b"
 chapter: 10
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "48 U.S.C. § 1494b"
-generated_at: "2026-03-30T06:45:43.556Z"
+generated_at: "2026-03-30T06:48:29.496Z"
 status: "active"
 ---
 

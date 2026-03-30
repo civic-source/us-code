@@ -3,9 +3,9 @@ title: "Section 8813 - Insured loans"
 usc_title: 42
 usc_section: "8813"
 chapter: 96
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 8813"
-generated_at: "2026-03-30T06:45:38.822Z"
+generated_at: "2026-03-30T06:48:26.560Z"
 status: "active"
 ---
 

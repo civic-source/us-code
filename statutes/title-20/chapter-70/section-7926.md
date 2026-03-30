@@ -3,9 +3,9 @@ title: "Section 7926 - Prohibition on aiding and abetting sexual abuse"
 usc_title: 20
 usc_section: "7926"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 7926"
-generated_at: "2026-03-30T06:43:52.082Z"
+generated_at: "2026-03-30T06:47:10.305Z"
 status: "active"
 ---
 

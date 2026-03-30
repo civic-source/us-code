@@ -3,9 +3,9 @@ title: "Section 4712 - Posting of travel and financial disclosure reports on pub
 usc_title: 2
 usc_section: "4712"
 chapter: 47
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 4712"
-generated_at: "2026-03-30T06:43:24.015Z"
+generated_at: "2026-03-30T06:46:22.098Z"
 status: "active"
 ---
 

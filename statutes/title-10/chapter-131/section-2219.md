@@ -3,9 +3,9 @@ title: "Section 2219 - Renumbered § 2491c]"
 usc_title: 10
 usc_section: "2219"
 chapter: 131
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 2219"
-generated_at: "2026-03-30T06:43:30.891Z"
+generated_at: "2026-03-30T06:46:36.794Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41507 - Authority of the Secretary of Transportation to change p
 usc_title: 49
 usc_section: "41507"
 chapter: 415
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "49 U.S.C. § 41507"
-generated_at: "2026-03-30T06:45:47.805Z"
+generated_at: "2026-03-30T06:48:36.736Z"
 status: "active"
 ---
 

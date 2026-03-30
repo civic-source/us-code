@@ -3,9 +3,9 @@ title: "Section 10681 - Grant program to evaluate and improve educational method
 usc_title: 34
 usc_section: "10681"
 chapter: 101
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 10681"
-generated_at: "2026-03-30T06:44:13.900Z"
+generated_at: "2026-03-30T06:47:54.169Z"
 status: "active"
 ---
 

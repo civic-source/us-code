@@ -3,9 +3,9 @@ title: "Section 670g - Wildlife, fish, and game conservation and rehabilitation 
 usc_title: 16
 usc_section: "670g"
 chapter: 5
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 670g"
-generated_at: "2026-03-30T06:43:50.153Z"
+generated_at: "2026-03-30T06:47:12.466Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3689 - Repealed. Pub. L. 87–649 , § 14c(9), Sept. 7, 1962 , 7
 usc_title: 10
 usc_section: "3689"
 chapter: 353
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 3689"
-generated_at: "2026-03-30T06:43:30.929Z"
+generated_at: "2026-03-30T06:46:36.830Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 104 - Disobedience to subpoena"
 usc_title: 43
 usc_section: "104"
 chapter: 4
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "43 U.S.C. § 104"
-generated_at: "2026-03-30T06:45:05.618Z"
+generated_at: "2026-03-30T06:48:13.487Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6941 - Findings"
 usc_title: 22
 usc_section: "6941"
 chapter: 77
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 6941"
-generated_at: "2026-03-30T06:43:58.581Z"
+generated_at: "2026-03-30T06:47:23.090Z"
 status: "active"
 ---
 

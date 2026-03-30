@@ -3,9 +3,9 @@ title: "Section 481a - Workplace and gender relations issues: surveys of Departm
 usc_title: 10
 usc_section: "481a"
 chapter: 23
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 481a"
-generated_at: "2026-03-30T06:43:30.837Z"
+generated_at: "2026-03-30T06:46:36.740Z"
 status: "active"
 ---
 

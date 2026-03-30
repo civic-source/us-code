@@ -3,9 +3,9 @@ title: "Section 2744 - Limits on construction projects"
 usc_title: 50
 usc_section: "2744"
 chapter: 42
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "50 U.S.C. § 2744"
-generated_at: "2026-03-30T06:45:53.724Z"
+generated_at: "2026-03-30T06:48:30.896Z"
 status: "active"
 ---
 

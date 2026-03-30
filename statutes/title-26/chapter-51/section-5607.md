@@ -3,9 +3,9 @@ title: "Section 5607 - Penalty and forfeiture for unlawful use, recovery, or con
 usc_title: 26
 usc_section: "5607"
 chapter: 51
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 5607"
-generated_at: "2026-03-30T06:44:09.274Z"
+generated_at: "2026-03-30T06:47:50.842Z"
 status: "active"
 ---
 

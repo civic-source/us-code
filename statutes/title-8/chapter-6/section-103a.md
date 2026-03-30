@@ -3,9 +3,9 @@ title: "Section 103a - Omitted"
 usc_title: 8
 usc_section: "103a"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "8 U.S.C. § 103a"
-generated_at: "2026-03-30T06:43:31.924Z"
+generated_at: "2026-03-30T06:46:37.377Z"
 status: "omitted"
 ---
 

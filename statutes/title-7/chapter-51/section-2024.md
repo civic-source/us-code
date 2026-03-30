@@ -3,9 +3,9 @@ title: "Section 2024 - Violations and enforcement"
 usc_title: 7
 usc_section: "2024"
 chapter: 51
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 2024"
-generated_at: "2026-03-30T06:43:35.381Z"
+generated_at: "2026-03-30T06:46:41.784Z"
 status: "active"
 ---
 

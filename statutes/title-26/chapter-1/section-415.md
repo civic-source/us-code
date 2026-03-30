@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-30T06:44:09.156Z"
+generated_at: "2026-03-30T06:47:50.724Z"
 status: "active"
 ---
 

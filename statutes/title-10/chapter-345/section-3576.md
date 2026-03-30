@@ -3,9 +3,9 @@ title: "Section 3576 - Repealed. Pub. L. 90–235 , § 5(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "3576"
 chapter: 345
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 3576"
-generated_at: "2026-03-30T06:43:30.929Z"
+generated_at: "2026-03-30T06:46:36.830Z"
 status: "repealed"
 ---
 

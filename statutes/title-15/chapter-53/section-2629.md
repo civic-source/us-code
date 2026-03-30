@@ -3,9 +3,9 @@ title: "Section 2629 - Annual report"
 usc_title: 15
 usc_section: "2629"
 chapter: 53
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 2629"
-generated_at: "2026-03-30T06:43:43.024Z"
+generated_at: "2026-03-30T06:46:55.732Z"
 status: "active"
 ---
 

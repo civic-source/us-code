@@ -3,9 +3,9 @@ title: "Section 1063 - Use of commissary stores and MWR retail facilities: membe
 usc_title: 10
 usc_section: "1063"
 chapter: 54
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 1063"
-generated_at: "2026-03-30T06:43:30.858Z"
+generated_at: "2026-03-30T06:46:36.761Z"
 status: "active"
 ---
 

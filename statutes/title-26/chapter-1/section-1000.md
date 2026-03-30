@@ -3,9 +3,9 @@ title: "Section 1000 - Reserved]"
 usc_title: 26
 usc_section: "1000"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 1000"
-generated_at: "2026-03-30T06:44:09.213Z"
+generated_at: "2026-03-30T06:47:50.780Z"
 status: "reserved"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9 - Regulations by President"
 usc_title: 25
 usc_section: "9"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 9"
-generated_at: "2026-03-30T06:43:56.334Z"
+generated_at: "2026-03-30T06:47:36.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1773 - Statutory construction"
 usc_title: 8
 usc_section: "1773"
 chapter: 15
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "8 U.S.C. § 1773"
-generated_at: "2026-03-30T06:43:31.959Z"
+generated_at: "2026-03-30T06:46:37.412Z"
 status: "active"
 ---
 

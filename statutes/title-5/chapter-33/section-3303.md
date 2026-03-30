@@ -3,9 +3,9 @@ title: "Section 3303 - Competitive service; recommendations of Senators or Repre
 usc_title: 5
 usc_section: "3303"
 chapter: 33
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "5 U.S.C. § 3303"
-generated_at: "2026-03-30T06:43:23.064Z"
+generated_at: "2026-03-30T06:46:27.719Z"
 status: "active"
 ---
 

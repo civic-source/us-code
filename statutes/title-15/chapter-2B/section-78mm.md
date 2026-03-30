@@ -3,9 +3,9 @@ title: "Section 78mm - General exemptive authority"
 usc_title: 15
 usc_section: "78mm"
 chapter: 2
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 78mm"
-generated_at: "2026-03-30T06:43:42.916Z"
+generated_at: "2026-03-30T06:46:55.630Z"
 status: "active"
 ---
 

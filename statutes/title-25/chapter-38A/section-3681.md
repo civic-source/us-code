@@ -3,9 +3,9 @@ title: "Section 3681 - Grants"
 usc_title: 25
 usc_section: "3681"
 chapter: 38
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 3681"
-generated_at: "2026-03-30T06:43:56.385Z"
+generated_at: "2026-03-30T06:47:36.077Z"
 status: "active"
 ---
 

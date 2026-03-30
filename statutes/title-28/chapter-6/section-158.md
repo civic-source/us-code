@@ -3,9 +3,9 @@ title: "Section 158 - Appeals"
 usc_title: 28
 usc_section: "158"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "28 U.S.C. § 158"
-generated_at: "2026-03-30T06:44:01.618Z"
+generated_at: "2026-03-30T06:47:40.529Z"
 status: "active"
 ---
 

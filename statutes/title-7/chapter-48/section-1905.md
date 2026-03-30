@@ -3,9 +3,9 @@ title: "Section 1905 - Repealed. Pub. L. 95–445 , § 5(b), Oct. 10, 1978 , 92 
 usc_title: 7
 usc_section: "1905"
 chapter: 48
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1905"
-generated_at: "2026-03-30T06:43:35.360Z"
+generated_at: "2026-03-30T06:46:41.765Z"
 status: "repealed"
 ---
 

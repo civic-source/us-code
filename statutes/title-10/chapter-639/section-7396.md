@@ -3,9 +3,9 @@ title: "Section 7396 - Naval Observatory: exchange of information with foreign o
 usc_title: 10
 usc_section: "7396"
 chapter: 639
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7396"
-generated_at: "2026-03-30T06:43:30.945Z"
+generated_at: "2026-03-30T06:46:36.845Z"
 status: "active"
 ---
 

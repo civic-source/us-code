@@ -3,9 +3,9 @@ title: "Section 1934 - “Indian” defined for certain purposes"
 usc_title: 25
 usc_section: "1934"
 chapter: 21
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 1934"
-generated_at: "2026-03-30T06:43:56.365Z"
+generated_at: "2026-03-30T06:47:36.058Z"
 status: "active"
 ---
 

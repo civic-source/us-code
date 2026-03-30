@@ -3,9 +3,9 @@ title: "Section 1546 - Disposition of cash settlements"
 usc_title: 25
 usc_section: "1546"
 chapter: 17
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "25 U.S.C. § 1546"
-generated_at: "2026-03-30T06:43:56.353Z"
+generated_at: "2026-03-30T06:47:36.044Z"
 status: "active"
 ---
 

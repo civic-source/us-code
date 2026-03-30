@@ -3,9 +3,9 @@ title: "Section 40306 - Space grant college and space grant regional consortium"
 usc_title: 51
 usc_section: "40306"
 chapter: 403
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "51 U.S.C. § 40306"
-generated_at: "2026-03-30T06:46:09.835Z"
+generated_at: "2026-03-30T06:48:44.330Z"
 status: "active"
 ---
 

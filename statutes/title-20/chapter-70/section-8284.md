@@ -3,9 +3,9 @@ title: "Section 8284 - Repealed. Pub. L. 107–110, title X , § 1011(5)(A), Jan
 usc_title: 20
 usc_section: "8284"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 8284"
-generated_at: "2026-03-30T06:43:52.083Z"
+generated_at: "2026-03-30T06:47:10.306Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 42 - Cooperative efforts to control development and encourage co
 usc_title: 16
 usc_section: "42"
 chapter: 1
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "16 U.S.C. § 42"
-generated_at: "2026-03-30T06:43:50.122Z"
+generated_at: "2026-03-30T06:47:12.436Z"
 status: "active"
 ---
 

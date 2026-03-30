@@ -3,9 +3,9 @@ title: "Section 1631j - Fees of agents, attorneys, or representatives"
 usc_title: 22
 usc_section: "1631j"
 chapter: 21
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "22 U.S.C. § 1631j"
-generated_at: "2026-03-30T06:43:58.491Z"
+generated_at: "2026-03-30T06:47:23.007Z"
 status: "active"
 ---
 

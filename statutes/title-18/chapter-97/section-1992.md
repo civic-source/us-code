@@ -3,9 +3,9 @@ title: "Section 1992 - Terrorist attacks and other violence against railroad car
 usc_title: 18
 usc_section: "1992"
 chapter: 97
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 1992"
-generated_at: "2026-03-30T06:43:46.074Z"
+generated_at: "2026-03-30T06:47:07.293Z"
 status: "active"
 ---
 

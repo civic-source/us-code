@@ -3,9 +3,9 @@ title: "Section 1317 - Appointment of the Administrator and Chief Actuary of the
 usc_title: 42
 usc_section: "1317"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 1317"
-generated_at: "2026-03-30T06:45:38.452Z"
+generated_at: "2026-03-30T06:48:26.199Z"
 status: "active"
 ---
 

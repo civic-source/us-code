@@ -3,9 +3,9 @@ title: "Section 1936b - Intermediary relending program"
 usc_title: 7
 usc_section: "1936b"
 chapter: 50
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 1936b"
-generated_at: "2026-03-30T06:43:35.364Z"
+generated_at: "2026-03-30T06:46:41.767Z"
 status: "active"
 ---
 

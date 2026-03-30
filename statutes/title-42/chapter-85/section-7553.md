@@ -3,9 +3,9 @@ title: "Section 7553 - Prohibition on production of engines requiring leaded gas
 usc_title: 42
 usc_section: "7553"
 chapter: 85
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 7553"
-generated_at: "2026-03-30T06:45:38.795Z"
+generated_at: "2026-03-30T06:48:26.528Z"
 status: "active"
 ---
 

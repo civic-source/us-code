@@ -3,9 +3,9 @@ title: "Section 41101 - Funds for exchange of identification records"
 usc_title: 34
 usc_section: "41101"
 chapter: 411
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 41101"
-generated_at: "2026-03-30T06:44:13.929Z"
+generated_at: "2026-03-30T06:47:54.201Z"
 status: "active"
 ---
 

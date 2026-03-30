@@ -3,9 +3,9 @@ title: "Section 4424 - Compliance with other Acts"
 usc_title: 20
 usc_section: "4424"
 chapter: 56
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 4424"
-generated_at: "2026-03-30T06:43:52.048Z"
+generated_at: "2026-03-30T06:47:10.273Z"
 status: "active"
 ---
 

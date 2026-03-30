@@ -3,9 +3,9 @@ title: "Section 1944 - Wearing uniform on duty"
 usc_title: 2
 usc_section: "1944"
 chapter: 29
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "2 U.S.C. § 1944"
-generated_at: "2026-03-30T06:43:24.006Z"
+generated_at: "2026-03-30T06:46:22.088Z"
 status: "active"
 ---
 

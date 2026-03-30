@@ -3,9 +3,9 @@ title: "Section 2142 - Humane standards and recordkeeping requirements at auctio
 usc_title: 7
 usc_section: "2142"
 chapter: 54
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "7 U.S.C. § 2142"
-generated_at: "2026-03-30T06:43:35.386Z"
+generated_at: "2026-03-30T06:46:41.789Z"
 status: "active"
 ---
 

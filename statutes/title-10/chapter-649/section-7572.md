@@ -3,9 +3,9 @@ title: "Section 7572 - Quarters: accommodations in place for members on sea duty
 usc_title: 10
 usc_section: "7572"
 chapter: 649
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7572"
-generated_at: "2026-03-30T06:43:30.946Z"
+generated_at: "2026-03-30T06:46:36.846Z"
 status: "active"
 ---
 

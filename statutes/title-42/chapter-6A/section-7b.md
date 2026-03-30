@@ -3,9 +3,9 @@ title: "Section 7b - Coordination of Federal asthma activities"
 usc_title: 42
 usc_section: "7b"
 chapter: 6
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 7b"
-generated_at: "2026-03-30T06:45:38.320Z"
+generated_at: "2026-03-30T06:48:26.073Z"
 status: "active"
 ---
 

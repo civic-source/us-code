@@ -3,9 +3,9 @@ title: "Section 2087 - Whistleblower protection"
 usc_title: 15
 usc_section: "2087"
 chapter: 47
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 2087"
-generated_at: "2026-03-30T06:43:43.013Z"
+generated_at: "2026-03-30T06:46:55.721Z"
 status: "active"
 ---
 

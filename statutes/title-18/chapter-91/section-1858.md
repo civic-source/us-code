@@ -3,9 +3,9 @@ title: "Section 1858 - Survey marks destroyed or removed"
 usc_title: 18
 usc_section: "1858"
 chapter: 91
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 1858"
-generated_at: "2026-03-30T06:43:46.072Z"
+generated_at: "2026-03-30T06:47:07.291Z"
 status: "active"
 ---
 

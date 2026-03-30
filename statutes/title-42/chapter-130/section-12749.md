@@ -3,9 +3,9 @@ title: "Section 12749 - Repayment of investment"
 usc_title: 42
 usc_section: "12749"
 chapter: 130
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 12749"
-generated_at: "2026-03-30T06:45:38.901Z"
+generated_at: "2026-03-30T06:48:26.634Z"
 status: "active"
 ---
 

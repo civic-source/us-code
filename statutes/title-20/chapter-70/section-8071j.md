@@ -3,9 +3,9 @@ title: "Section 8071j - Repealed. Pub. L. 107–110, title X , § 1011(5)(A), Ja
 usc_title: 20
 usc_section: "8071j"
 chapter: 70
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "20 U.S.C. § 8071j"
-generated_at: "2026-03-30T06:43:52.083Z"
+generated_at: "2026-03-30T06:47:10.305Z"
 status: "repealed"
 ---
 

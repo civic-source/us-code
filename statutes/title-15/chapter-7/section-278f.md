@@ -3,9 +3,9 @@ title: "Section 278f - Fire Research Center"
 usc_title: 15
 usc_section: "278f"
 chapter: 7
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "15 U.S.C. § 278f"
-generated_at: "2026-03-30T06:43:42.932Z"
+generated_at: "2026-03-30T06:46:55.646Z"
 status: "active"
 ---
 

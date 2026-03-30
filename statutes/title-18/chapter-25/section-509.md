@@ -3,9 +3,9 @@ title: "Section 509 - Possessing and making plates or stones for Government tran
 usc_title: 18
 usc_section: "509"
 chapter: 25
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "18 U.S.C. § 509"
-generated_at: "2026-03-30T06:43:46.051Z"
+generated_at: "2026-03-30T06:47:07.271Z"
 status: "active"
 ---
 

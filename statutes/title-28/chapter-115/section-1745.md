@@ -3,9 +3,9 @@ title: "Section 1745 - Copies of foreign patent documents"
 usc_title: 28
 usc_section: "1745"
 chapter: 115
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "28 U.S.C. § 1745"
-generated_at: "2026-03-30T06:44:01.636Z"
+generated_at: "2026-03-30T06:47:40.546Z"
 status: "active"
 ---
 

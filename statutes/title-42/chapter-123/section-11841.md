@@ -3,9 +3,9 @@ title: "Section 11841 - Community youth activity program"
 usc_title: 42
 usc_section: "11841"
 chapter: 123
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "42 U.S.C. § 11841"
-generated_at: "2026-03-30T06:45:38.876Z"
+generated_at: "2026-03-30T06:48:26.611Z"
 status: "active"
 ---
 

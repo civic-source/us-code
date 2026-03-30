@@ -3,9 +3,9 @@ title: "Section 2243 - Smuggled food"
 usc_title: 21
 usc_section: "2243"
 chapter: 27
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "21 U.S.C. § 2243"
-generated_at: "2026-03-30T06:43:55.644Z"
+generated_at: "2026-03-30T06:47:17.235Z"
 status: "active"
 ---
 

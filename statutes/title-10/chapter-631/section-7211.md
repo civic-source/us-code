@@ -3,9 +3,9 @@ title: "Section 7211 - Attendance at meetings of technical, professional, or sci
 usc_title: 10
 usc_section: "7211"
 chapter: 631
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7211"
-generated_at: "2026-03-30T06:43:30.943Z"
+generated_at: "2026-03-30T06:46:36.843Z"
 status: "active"
 ---
 

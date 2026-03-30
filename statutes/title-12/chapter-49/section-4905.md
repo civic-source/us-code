@@ -3,9 +3,9 @@ title: "Section 4905 - Disclosure requirements for lender paid mortgage insuranc
 usc_title: 12
 usc_section: "4905"
 chapter: 49
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "12 U.S.C. § 4905"
-generated_at: "2026-03-30T06:43:40.447Z"
+generated_at: "2026-03-30T06:47:03.735Z"
 status: "active"
 ---
 

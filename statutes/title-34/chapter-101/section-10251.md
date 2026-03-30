@@ -3,9 +3,9 @@ title: "Section 10251 - General provisions"
 usc_title: 34
 usc_section: "10251"
 chapter: 101
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "34 U.S.C. § 10251"
-generated_at: "2026-03-30T06:44:13.890Z"
+generated_at: "2026-03-30T06:47:54.159Z"
 status: "active"
 ---
 

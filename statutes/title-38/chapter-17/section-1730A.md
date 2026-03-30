@@ -3,9 +3,9 @@ title: "Section 1730A - Prohibition on collection of copayments from catastrophi
 usc_title: 38
 usc_section: "1730A"
 chapter: 17
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "38 U.S.C. § 1730A"
-generated_at: "2026-03-30T06:44:47.834Z"
+generated_at: "2026-03-30T06:48:01.683Z"
 status: "active"
 ---
 

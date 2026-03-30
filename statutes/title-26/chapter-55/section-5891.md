@@ -3,9 +3,9 @@ title: "Section 5891 - Structured settlement factoring transactions"
 usc_title: 26
 usc_section: "5891"
 chapter: 55
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "26 U.S.C. § 5891"
-generated_at: "2026-03-30T06:44:09.277Z"
+generated_at: "2026-03-30T06:47:50.845Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7218 - Repealed. Pub. L. 89–529 , § 1(3), Aug. 11, 1966 , 80 
 usc_title: 10
 usc_section: "7218"
 chapter: 631
-current_through: "PL 115-64"
+current_through: "PL 115-68"
 classification: "10 U.S.C. § 7218"
-generated_at: "2026-03-30T06:43:30.943Z"
+generated_at: "2026-03-30T06:46:36.843Z"
 status: "repealed"
 ---
 
