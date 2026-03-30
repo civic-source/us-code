@@ -3,9 +3,9 @@ title: "Section 12331 - Purpose"
 usc_title: 42
 usc_section: "12331"
 chapter: 127
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 12331"
-generated_at: "2026-03-30T01:30:23.553Z"
+generated_at: "2026-03-30T01:33:40.259Z"
 ---
 
 # § 12331. Purpose

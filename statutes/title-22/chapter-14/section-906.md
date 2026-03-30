@@ -3,9 +3,9 @@ title: "Section 906 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "906"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 906"
-generated_at: "2026-03-30T01:28:10.324Z"
+generated_at: "2026-03-30T01:32:53.276Z"
 ---
 
 # § 906. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

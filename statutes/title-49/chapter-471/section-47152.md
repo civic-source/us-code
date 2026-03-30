@@ -3,9 +3,9 @@ title: "Section 47152 - Terms of conveyances"
 usc_title: 49
 usc_section: "47152"
 chapter: 471
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 47152"
-generated_at: "2026-03-30T01:30:46.293Z"
+generated_at: "2026-03-30T01:33:49.639Z"
 ---
 
 # § 47152. Terms of conveyances

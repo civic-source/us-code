@@ -3,9 +3,9 @@ title: "Section 8 - No Federal funding for credit enhancements"
 usc_title: 42
 usc_section: "8"
 chapter: 7
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T01:30:23.239Z"
+generated_at: "2026-03-30T01:33:39.895Z"
 ---
 
 # § 1397n–8. No Federal funding for credit enhancements

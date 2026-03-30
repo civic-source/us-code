@@ -3,9 +3,9 @@ title: "Section 1523 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1523"
 chapter: 17
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "25 U.S.C. § 1523"
-generated_at: "2026-03-30T01:27:56.268Z"
+generated_at: "2026-03-30T01:32:46.571Z"
 ---
 
 # § 1523. Authorization of appropriations

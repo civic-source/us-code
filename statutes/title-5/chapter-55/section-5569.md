@@ -3,9 +3,9 @@ title: "Section 5569 - Benefits for captives"
 usc_title: 5
 usc_section: "5569"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 5569"
-generated_at: "2026-03-30T01:26:48.514Z"
+generated_at: "2026-03-30T01:31:06.781Z"
 ---
 
 # § 5569. Benefits for captives

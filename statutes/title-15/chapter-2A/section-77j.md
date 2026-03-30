@@ -3,9 +3,9 @@ title: "Section 77j - Information required in prospectus"
 usc_title: 15
 usc_section: "77j"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 77j"
-generated_at: "2026-03-30T01:27:29.141Z"
+generated_at: "2026-03-30T01:31:32.401Z"
 ---
 
 # § 77j. Information required in prospectus

@@ -3,9 +3,9 @@ title: "Section 5372 - Reports"
 usc_title: 25
 usc_section: "5372"
 chapter: 46
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "25 U.S.C. § 5372"
-generated_at: "2026-03-30T01:27:56.330Z"
+generated_at: "2026-03-30T01:32:46.624Z"
 ---
 
 # § 5372. Reports

@@ -3,9 +3,9 @@ title: "Section 9414a - United States Air Force Institute of Technology: admissi
 usc_title: 10
 usc_section: "9414a"
 chapter: 951
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 9414a"
-generated_at: "2026-03-30T01:27:06.546Z"
+generated_at: "2026-03-30T01:31:16.567Z"
 ---
 
 # § 9414a. United States Air Force Institute of Technology: admission of certain private sector civilians

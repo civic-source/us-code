@@ -3,9 +3,9 @@ title: "Section 4705 - Regulations"
 usc_title: 5
 usc_section: "4705"
 chapter: 47
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 4705"
-generated_at: "2026-03-30T01:26:48.506Z"
+generated_at: "2026-03-30T01:31:06.773Z"
 ---
 
 # § 4705. Regulations

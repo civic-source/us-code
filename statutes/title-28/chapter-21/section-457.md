@@ -3,9 +3,9 @@ title: "Section 457 - Records; obsolete papers"
 usc_title: 28
 usc_section: "457"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 457"
-generated_at: "2026-03-30T01:28:18.398Z"
+generated_at: "2026-03-30T01:33:00.277Z"
 ---
 
 # § 457. Records; obsolete papers

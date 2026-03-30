@@ -3,9 +3,9 @@ title: "Section 8881 - Reciprocal privileges to cobelligerent"
 usc_title: 10
 usc_section: "8881"
 chapter: 883
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 8881"
-generated_at: "2026-03-30T01:27:06.543Z"
+generated_at: "2026-03-30T01:31:16.562Z"
 ---
 
 # § 8881. Reciprocal privileges to cobelligerent

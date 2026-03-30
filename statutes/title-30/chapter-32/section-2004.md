@@ -3,9 +3,9 @@ title: "Section 2004 - National Research Council study"
 usc_title: 30
 usc_section: "2004"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "30 U.S.C. § 2004"
-generated_at: "2026-03-30T01:28:13.130Z"
+generated_at: "2026-03-30T01:32:59.519Z"
 ---
 
 # § 2004. National Research Council study

@@ -3,9 +3,9 @@ title: "Section 5111 - Report on diversity at Coast Guard Academy"
 usc_title: 14
 usc_section: "5111"
 chapter: 51
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "14 U.S.C. § 5111"
-generated_at: "2026-03-30T01:27:25.082Z"
+generated_at: "2026-03-30T01:31:27.385Z"
 ---
 
 # § 5111. Report on diversity at Coast Guard Academy

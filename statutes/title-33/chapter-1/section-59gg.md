@@ -3,9 +3,9 @@ title: "Section 59gg - Declaration of nonnavigability for portions of Cuyahoga C
 usc_title: 33
 usc_section: "59gg"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 59gg"
-generated_at: "2026-03-30T01:29:02.698Z"
+generated_at: "2026-03-30T01:33:10.756Z"
 ---
 
 # § 59gg. Declaration of nonnavigability for portions of Cuyahoga County, Ohio

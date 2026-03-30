@@ -3,9 +3,9 @@ title: "Section 4702 - Prohibition on release of contractor proposals"
 usc_title: 41
 usc_section: "4702"
 chapter: 47
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "41 U.S.C. § 4702"
-generated_at: "2026-03-30T01:30:07.940Z"
+generated_at: "2026-03-30T01:33:21.058Z"
 ---
 
 # § 4702. Prohibition on release of contractor proposals

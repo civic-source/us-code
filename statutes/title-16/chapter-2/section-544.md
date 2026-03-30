@@ -3,9 +3,9 @@ title: "Section 544 - Columbia River Gorge National Scenic Area; definitions"
 usc_title: 16
 usc_section: "544"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 544"
-generated_at: "2026-03-30T01:27:49.855Z"
+generated_at: "2026-03-30T01:32:02.195Z"
 ---
 
 # § 544. Columbia River Gorge National Scenic Area; definitions

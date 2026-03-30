@@ -3,9 +3,9 @@ title: "Section 2307 - Death from service-connected disability"
 usc_title: 38
 usc_section: "2307"
 chapter: 23
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 2307"
-generated_at: "2026-03-30T01:29:50.745Z"
+generated_at: "2026-03-30T01:33:18.916Z"
 ---
 
 # § 2307. Death from service-connected disability

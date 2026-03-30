@@ -3,9 +3,9 @@ title: "Section 1943 - Appointment of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "1943"
 chapter: 19
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "14 U.S.C. § 1943"
-generated_at: "2026-03-30T01:27:25.074Z"
+generated_at: "2026-03-30T01:31:27.378Z"
 ---
 
 # § 1943. Appointment of permanent commissioned teaching staff

@@ -3,9 +3,9 @@ title: "Section 2465 - Return of property to claimant; liability for wrongful se
 usc_title: 28
 usc_section: "2465"
 chapter: 163
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 2465"
-generated_at: "2026-03-30T01:28:18.418Z"
+generated_at: "2026-03-30T01:33:00.298Z"
 ---
 
 # § 2465. Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest

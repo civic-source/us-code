@@ -3,9 +3,9 @@ title: "Section 4576 - Requirement for consideration of certain matters during a
 usc_title: 10
 usc_section: "4576"
 chapter: 345
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 4576"
-generated_at: "2026-03-30T01:27:06.517Z"
+generated_at: "2026-03-30T01:31:16.538Z"
 ---
 
 # § 4576. Requirement for consideration of certain matters during acquisition of noncommercial computer software

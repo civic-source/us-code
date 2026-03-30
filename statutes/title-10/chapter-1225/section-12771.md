@@ -3,9 +3,9 @@ title: "Section 12771 - Reserve officers: grade on transfer to Retired Reserve"
 usc_title: 10
 usc_section: "12771"
 chapter: 1225
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 12771"
-generated_at: "2026-03-30T01:27:06.557Z"
+generated_at: "2026-03-30T01:31:16.578Z"
 ---
 
 # § 12771. Reserve officers: grade on transfer to Retired Reserve

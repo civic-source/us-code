@@ -3,9 +3,9 @@ title: "Section 30104 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30104"
 chapter: 301
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 30104"
-generated_at: "2026-03-30T01:29:17.475Z"
+generated_at: "2026-03-30T01:33:13.217Z"
 ---
 
 # § 30104. Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes

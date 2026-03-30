@@ -3,9 +3,9 @@ title: "Section 1508 - Adjacent coastal States"
 usc_title: 33
 usc_section: "1508"
 chapter: 29
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 1508"
-generated_at: "2026-03-30T01:29:02.756Z"
+generated_at: "2026-03-30T01:33:10.812Z"
 ---
 
 # § 1508. Adjacent coastal States

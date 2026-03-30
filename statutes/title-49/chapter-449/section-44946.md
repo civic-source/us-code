@@ -3,9 +3,9 @@ title: "Section 44946 - Aviation Security Advisory Committee"
 usc_title: 49
 usc_section: "44946"
 chapter: 449
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 44946"
-generated_at: "2026-03-30T01:30:46.280Z"
+generated_at: "2026-03-30T01:33:49.629Z"
 ---
 
 # § 44946. Aviation Security Advisory Committee

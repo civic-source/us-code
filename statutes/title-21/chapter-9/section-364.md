@@ -3,9 +3,9 @@ title: "Section 364 - Definitions"
 usc_title: 21
 usc_section: "364"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "21 U.S.C. § 364"
-generated_at: "2026-03-30T01:27:58.366Z"
+generated_at: "2026-03-30T01:32:33.255Z"
 ---
 
 # § 364. Definitions

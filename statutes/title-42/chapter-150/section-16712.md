@@ -3,9 +3,9 @@ title: "Section 16712 - Repealed or Omitted"
 usc_title: 42
 usc_section: "16712"
 chapter: 150
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 16712"
-generated_at: "2026-03-30T01:30:23.625Z"
+generated_at: "2026-03-30T01:33:40.343Z"
 ---
 
 # § 16712. Repealed or Omitted

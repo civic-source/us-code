@@ -3,9 +3,9 @@ title: "Section 1201 - Federal Communications Commission duties"
 usc_title: 47
 usc_section: "1201"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "47 U.S.C. § 1201"
-generated_at: "2026-03-30T01:30:39.101Z"
+generated_at: "2026-03-30T01:33:55.792Z"
 ---
 
 # § 1201. Federal Communications Commission duties

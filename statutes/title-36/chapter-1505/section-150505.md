@@ -3,9 +3,9 @@ title: "Section 150505 - Governing body"
 usc_title: 36
 usc_section: "150505"
 chapter: 1505
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 150505"
-generated_at: "2026-03-30T01:29:20.221Z"
+generated_at: "2026-03-30T01:33:17.151Z"
 ---
 
 # § 150505. Governing body

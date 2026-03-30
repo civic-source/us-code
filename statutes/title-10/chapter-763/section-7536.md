@@ -3,9 +3,9 @@ title: "Section 7536 - Equipment: post bakeries, schools, kitchens, and mess hal
 usc_title: 10
 usc_section: "7536"
 chapter: 763
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 7536"
-generated_at: "2026-03-30T01:27:06.528Z"
+generated_at: "2026-03-30T01:31:16.548Z"
 ---
 
 # § 7536. Equipment: post bakeries, schools, kitchens, and mess halls

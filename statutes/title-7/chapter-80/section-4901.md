@@ -3,9 +3,9 @@ title: "Section 4901 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "4901"
 chapter: 80
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 4901"
-generated_at: "2026-03-30T01:27:22.670Z"
+generated_at: "2026-03-30T01:31:25.112Z"
 ---
 
 # § 4901. Congressional findings and declaration of policy

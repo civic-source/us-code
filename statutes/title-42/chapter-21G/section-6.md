@@ -3,9 +3,9 @@ title: "Section 6 - Severability"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:30:23.304Z"
+generated_at: "2026-03-30T01:33:39.972Z"
 ---
 
 # § 2000gg–6. Severability

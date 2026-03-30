@@ -3,9 +3,9 @@ title: "Section 1923 - Names of medals; presentation"
 usc_title: 42
 usc_section: "1923"
 chapter: 18
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 1923"
-generated_at: "2026-03-30T01:30:23.293Z"
+generated_at: "2026-03-30T01:33:39.959Z"
 ---
 
 # § 1923. Names of medals; presentation

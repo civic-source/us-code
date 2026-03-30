@@ -3,9 +3,9 @@ title: "Section 360eee - Definitions"
 usc_title: 21
 usc_section: "360eee"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "21 U.S.C. § 360eee"
-generated_at: "2026-03-30T01:27:58.362Z"
+generated_at: "2026-03-30T01:32:33.251Z"
 ---
 
 # § 360eee. Definitions

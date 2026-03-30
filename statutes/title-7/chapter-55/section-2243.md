@@ -3,9 +3,9 @@ title: "Section 2243 - Sale of photographic prints and maps"
 usc_title: 7
 usc_section: "2243"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 2243"
-generated_at: "2026-03-30T01:27:22.646Z"
+generated_at: "2026-03-30T01:31:25.087Z"
 ---
 
 # § 2243. Sale of photographic prints and maps

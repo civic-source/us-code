@@ -3,9 +3,9 @@ title: "Section 17213 - Hydropower research, development, and demonstration"
 usc_title: 42
 usc_section: "17213"
 chapter: 152
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 17213"
-generated_at: "2026-03-30T01:30:23.633Z"
+generated_at: "2026-03-30T01:33:40.353Z"
 ---
 
 # § 17213. Hydropower research, development, and demonstration

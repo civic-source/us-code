@@ -3,9 +3,9 @@ title: "Section 6415 - Credits or refunds to persons who collected certain taxes
 usc_title: 26
 usc_section: "6415"
 chapter: 65
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "26 U.S.C. § 6415"
-generated_at: "2026-03-30T01:28:57.579Z"
+generated_at: "2026-03-30T01:33:05.548Z"
 ---
 
 # § 6415. Credits or refunds to persons who collected certain taxes

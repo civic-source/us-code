@@ -3,9 +3,9 @@ title: "Section 21021 - Payments to States and units of local government to assu
 usc_title: 52
 usc_section: "21021"
 chapter: 209
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "52 U.S.C. § 21021"
-generated_at: "2026-03-30T01:30:48.804Z"
+generated_at: "2026-03-30T01:34:03.386Z"
 ---
 
 # § 21021. Payments to States and units of local government to assure access for individuals with disabilities

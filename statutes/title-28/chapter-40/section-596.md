@@ -3,9 +3,9 @@ title: "Section 596 - Removal of an independent counsel; termination of office"
 usc_title: 28
 usc_section: "596"
 chapter: 40
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 596"
-generated_at: "2026-03-30T01:28:18.403Z"
+generated_at: "2026-03-30T01:33:00.281Z"
 ---
 
 # § 596. Removal of an independent counsel; termination of office

@@ -3,9 +3,9 @@ title: "Section 1110 - System for tracking and recording vaccine information; an
 usc_title: 10
 usc_section: "1110"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 1110"
-generated_at: "2026-03-30T01:27:06.443Z"
+generated_at: "2026-03-30T01:31:16.464Z"
 ---
 
 # § 1110. System for tracking and recording vaccine information; anthrax vaccine immunization program

@@ -3,9 +3,9 @@ title: "Section 112 - Removal of revenue officers from port during epidemic"
 usc_title: 42
 usc_section: "112"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T01:30:22.897Z"
+generated_at: "2026-03-30T01:33:39.488Z"
 ---
 
 # § 112. Removal of revenue officers from port during epidemic

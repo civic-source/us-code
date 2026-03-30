@@ -3,9 +3,9 @@ title: "Section 1734 - Fees, charges, and commissions"
 usc_title: 43
 usc_section: "1734"
 chapter: 35
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 1734"
-generated_at: "2026-03-30T01:29:57.383Z"
+generated_at: "2026-03-30T01:33:22.148Z"
 ---
 
 # § 1734. Fees, charges, and commissions

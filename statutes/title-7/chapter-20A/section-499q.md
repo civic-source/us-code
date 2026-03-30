@@ -3,9 +3,9 @@ title: "Section 499q - Separability"
 usc_title: 7
 usc_section: "499q"
 chapter: 20
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 499q"
-generated_at: "2026-03-30T01:27:22.562Z"
+generated_at: "2026-03-30T01:31:25.004Z"
 ---
 
 # § 499q. Separability

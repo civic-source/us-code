@@ -3,9 +3,9 @@ title: "Section 2238d - Maintenance of harbors of refuge"
 usc_title: 33
 usc_section: "2238d"
 chapter: 36
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 2238d"
-generated_at: "2026-03-30T01:29:02.763Z"
+generated_at: "2026-03-30T01:33:10.819Z"
 ---
 
 # § 2238d. Maintenance of harbors of refuge

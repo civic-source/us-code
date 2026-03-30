@@ -3,9 +3,9 @@ title: "Section 90110 - Immunity of United States Government"
 usc_title: 36
 usc_section: "90110"
 chapter: 901
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 90110"
-generated_at: "2026-03-30T01:29:20.218Z"
+generated_at: "2026-03-30T01:33:17.146Z"
 ---
 
 # § 90110. Immunity of United States Government

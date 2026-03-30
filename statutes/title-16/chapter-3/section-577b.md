@@ -3,9 +3,9 @@ title: "Section 577b - Preserving water level of lakes and streams of public lan
 usc_title: 16
 usc_section: "577b"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 577b"
-generated_at: "2026-03-30T01:27:49.861Z"
+generated_at: "2026-03-30T01:32:02.200Z"
 ---
 
 # § 577b. Preserving water level of lakes and streams of public lands in northern Minnesota; reservoirs; water power

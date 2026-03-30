@@ -3,9 +3,9 @@ title: "Section 1154 - Public awareness"
 usc_title: 6
 usc_section: "1154"
 chapter: 4
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "6 U.S.C. § 1154"
-generated_at: "2026-03-30T01:26:58.035Z"
+generated_at: "2026-03-30T01:31:09.557Z"
 ---
 
 # § 1154. Public awareness

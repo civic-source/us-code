@@ -3,9 +3,9 @@ title: "Section 80306 - Relationship to other laws"
 usc_title: 49
 usc_section: "80306"
 chapter: 803
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 80306"
-generated_at: "2026-03-30T01:30:46.304Z"
+generated_at: "2026-03-30T01:33:49.650Z"
 ---
 
 # § 80306. Relationship to other laws

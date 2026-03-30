@@ -3,9 +3,9 @@ title: "Section 466 - Additional rights and remedies; exclusive jurisdiction of 
 usc_title: 29
 usc_section: "466"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 466"
-generated_at: "2026-03-30T01:28:37.284Z"
+generated_at: "2026-03-30T01:33:06.551Z"
 ---
 
 # § 466. Additional rights and remedies; exclusive jurisdiction of district court; res judicata

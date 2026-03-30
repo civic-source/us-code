@@ -3,9 +3,9 @@ title: "Section 480 - Omitted"
 usc_title: 2
 usc_section: "480"
 chapter: 15
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 480"
-generated_at: "2026-03-30T01:26:39.631Z"
+generated_at: "2026-03-30T01:31:00.760Z"
 ---
 
 # § 480. Omitted

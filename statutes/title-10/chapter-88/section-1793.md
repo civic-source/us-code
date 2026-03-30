@@ -3,9 +3,9 @@ title: "Section 1793 - Parent fees"
 usc_title: 10
 usc_section: "1793"
 chapter: 88
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 1793"
-generated_at: "2026-03-30T01:27:06.465Z"
+generated_at: "2026-03-30T01:31:16.487Z"
 ---
 
 # § 1793. Parent fees

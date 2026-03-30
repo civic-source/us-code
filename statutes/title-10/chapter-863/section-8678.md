@@ -3,9 +3,9 @@ title: "Section 8678 - Chief of Naval Operations: certification required for dis
 usc_title: 10
 usc_section: "8678"
 chapter: 863
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 8678"
-generated_at: "2026-03-30T01:27:06.539Z"
+generated_at: "2026-03-30T01:31:16.559Z"
 ---
 
 # § 8678. Chief of Naval Operations: certification required for disposal of combatant vessels

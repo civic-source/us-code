@@ -3,9 +3,9 @@ title: "Section 55502 - Renumbered §§ 50401, 50402]"
 usc_title: 46
 usc_section: "55502"
 chapter: 555
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "46 U.S.C. § 55502"
-generated_at: "2026-03-30T01:30:36.937Z"
+generated_at: "2026-03-30T01:33:45.557Z"
 ---
 
 # [§§ 55501, 55502. Renumbered §§ 50401, 50402]

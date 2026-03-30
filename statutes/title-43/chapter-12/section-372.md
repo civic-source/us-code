@@ -3,9 +3,9 @@ title: "Section 372 - Water right as appurtenant to land and extent of right"
 usc_title: 43
 usc_section: "372"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 372"
-generated_at: "2026-03-30T01:29:57.343Z"
+generated_at: "2026-03-30T01:33:22.099Z"
 ---
 
 # § 372. Water right as appurtenant to land and extent of right

@@ -3,9 +3,9 @@ title: "Section 22 - Omitted"
 usc_title: 43
 usc_section: "22"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 22"
-generated_at: "2026-03-30T01:29:57.346Z"
+generated_at: "2026-03-30T01:33:22.104Z"
 ---
 
 # § 390h–22. Omitted

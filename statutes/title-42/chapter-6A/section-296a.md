@@ -3,9 +3,9 @@ title: "Section 296a - Application"
 usc_title: 42
 usc_section: "296a"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 296a"
-generated_at: "2026-03-30T01:30:22.988Z"
+generated_at: "2026-03-30T01:33:39.597Z"
 ---
 
 # § 296a. Application

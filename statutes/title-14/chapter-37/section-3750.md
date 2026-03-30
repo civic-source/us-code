@@ -3,9 +3,9 @@ title: "Section 3750 - Failure of selection for promotion"
 usc_title: 14
 usc_section: "3750"
 chapter: 37
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "14 U.S.C. § 3750"
-generated_at: "2026-03-30T01:27:25.081Z"
+generated_at: "2026-03-30T01:31:27.383Z"
 ---
 
 # § 3750. Failure of selection for promotion

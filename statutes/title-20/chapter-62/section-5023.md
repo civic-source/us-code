@@ -3,9 +3,9 @@ title: "Section 5023 - Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 
 usc_title: 20
 usc_section: "5023"
 chapter: 62
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 5023"
-generated_at: "2026-03-30T01:27:52.150Z"
+generated_at: "2026-03-30T01:32:23.153Z"
 ---
 
 # §§ 5021 to 5023. Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 20, 1994 , 108 Stat. 4023

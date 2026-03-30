@@ -3,9 +3,9 @@ title: "Section 1443 - Public safety wireless communications research and develo
 usc_title: 47
 usc_section: "1443"
 chapter: 13
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "47 U.S.C. § 1443"
-generated_at: "2026-03-30T01:30:39.104Z"
+generated_at: "2026-03-30T01:33:55.796Z"
 ---
 
 # § 1443. Public safety wireless communications research and development

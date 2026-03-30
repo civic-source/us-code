@@ -3,9 +3,9 @@ title: "Section 50307 - Service of process"
 usc_title: 36
 usc_section: "50307"
 chapter: 503
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 50307"
-generated_at: "2026-03-30T01:29:20.215Z"
+generated_at: "2026-03-30T01:33:17.145Z"
 ---
 
 # § 50307. Service of process

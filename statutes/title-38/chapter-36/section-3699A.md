@@ -3,9 +3,9 @@ title: "Section 3699A - Provision of certain information to educational institut
 usc_title: 38
 usc_section: "3699A"
 chapter: 36
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 3699A"
-generated_at: "2026-03-30T01:29:50.760Z"
+generated_at: "2026-03-30T01:33:18.932Z"
 ---
 
 # § 3699A. Provision of certain information to educational institutions

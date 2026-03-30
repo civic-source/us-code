@@ -3,9 +3,9 @@ title: "Section 4365 - Science Advisory Board"
 usc_title: 42
 usc_section: "4365"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 4365"
-generated_at: "2026-03-30T01:30:23.358Z"
+generated_at: "2026-03-30T01:33:40.037Z"
 ---
 
 # § 4365. Science Advisory Board

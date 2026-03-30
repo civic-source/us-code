@@ -3,9 +3,9 @@ title: "Section 1378 - International program"
 usc_title: 16
 usc_section: "1378"
 chapter: 31
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 1378"
-generated_at: "2026-03-30T01:27:49.923Z"
+generated_at: "2026-03-30T01:32:02.261Z"
 ---
 
 # § 1378. International program

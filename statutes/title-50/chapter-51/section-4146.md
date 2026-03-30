@@ -3,9 +3,9 @@ title: "Section 4146 - Transfer of records"
 usc_title: 50
 usc_section: "4146"
 chapter: 51
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "50 U.S.C. § 4146"
-generated_at: "2026-03-30T01:30:28.170Z"
+generated_at: "2026-03-30T01:34:01.646Z"
 ---
 
 # § 4146. Transfer of records

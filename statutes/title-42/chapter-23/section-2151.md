@@ -3,9 +3,9 @@ title: "Section 2151 - Effect of international arrangements"
 usc_title: 42
 usc_section: "2151"
 chapter: 23
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 2151"
-generated_at: "2026-03-30T01:30:23.310Z"
+generated_at: "2026-03-30T01:33:39.979Z"
 ---
 
 # § 2151. Effect of international arrangements

@@ -3,9 +3,9 @@ title: "Section 580n - Protection and development of forest or other vegetative 
 usc_title: 16
 usc_section: "580n"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 580n"
-generated_at: "2026-03-30T01:27:49.862Z"
+generated_at: "2026-03-30T01:32:02.202Z"
 ---
 
 # § 580n. Protection and development of forest or other vegetative cover; establishment and maintenance of conservation measures; coordination of programs and policies

@@ -3,9 +3,9 @@ title: "Section 503 - Reports; necessity; by whom made; penalties"
 usc_title: 7
 usc_section: "503"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 503"
-generated_at: "2026-03-30T01:27:22.562Z"
+generated_at: "2026-03-30T01:31:25.004Z"
 ---
 
 # § 503. Reports; necessity; by whom made; penalties

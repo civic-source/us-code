@@ -3,9 +3,9 @@ title: "Section 409 - Obstruction of navigable waters by vessels; floating timbe
 usc_title: 33
 usc_section: "409"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 409"
-generated_at: "2026-03-30T01:29:02.700Z"
+generated_at: "2026-03-30T01:33:10.757Z"
 ---
 
 # § 409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels

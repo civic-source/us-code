@@ -3,9 +3,9 @@ title: "Section 54 - Burr Creek, Bridgeport, Connecticut"
 usc_title: 33
 usc_section: "54"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 54"
-generated_at: "2026-03-30T01:29:02.696Z"
+generated_at: "2026-03-30T01:33:10.754Z"
 ---
 
 # § 54. Burr Creek, Bridgeport, Connecticut

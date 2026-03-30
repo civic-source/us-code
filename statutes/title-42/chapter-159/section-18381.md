@@ -3,9 +3,9 @@ title: "Section 18381 - Technology development"
 usc_title: 42
 usc_section: "18381"
 chapter: 159
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 18381"
-generated_at: "2026-03-30T01:30:23.650Z"
+generated_at: "2026-03-30T01:33:40.374Z"
 ---
 
 # § 18381. Technology development

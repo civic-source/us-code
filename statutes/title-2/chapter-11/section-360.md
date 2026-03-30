@@ -3,9 +3,9 @@ title: "Section 360 - Effect of recommendations on existing law and prior recomm
 usc_title: 2
 usc_section: "360"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 360"
-generated_at: "2026-03-30T01:26:39.629Z"
+generated_at: "2026-03-30T01:31:00.758Z"
 ---
 
 # § 360. Effect of recommendations on existing law and prior recommendations

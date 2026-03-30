@@ -3,9 +3,9 @@ title: "Section 11901 - Congressional findings"
 usc_title: 42
 usc_section: "11901"
 chapter: 124
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 11901"
-generated_at: "2026-03-30T01:30:23.548Z"
+generated_at: "2026-03-30T01:33:40.254Z"
 ---
 
 # § 11901. Congressional findings

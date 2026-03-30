@@ -3,9 +3,9 @@ title: "Section 1509 - Spectrum Challenge Prize"
 usc_title: 47
 usc_section: "1509"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "47 U.S.C. § 1509"
-generated_at: "2026-03-30T01:30:39.108Z"
+generated_at: "2026-03-30T01:33:55.797Z"
 ---
 
 # § 1509. Spectrum Challenge Prize

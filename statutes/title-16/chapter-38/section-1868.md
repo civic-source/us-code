@@ -3,9 +3,9 @@ title: "Section 1868 - Herring study"
 usc_title: 16
 usc_section: "1868"
 chapter: 38
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 1868"
-generated_at: "2026-03-30T01:27:49.948Z"
+generated_at: "2026-03-30T01:32:02.287Z"
 ---
 
 # § 1868. Herring study

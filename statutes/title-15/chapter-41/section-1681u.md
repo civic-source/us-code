@@ -3,9 +3,9 @@ title: "Section 1681u - Disclosures to FBI for counterintelligence purposes"
 usc_title: 15
 usc_section: "1681u"
 chapter: 41
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 1681u"
-generated_at: "2026-03-30T01:27:29.275Z"
+generated_at: "2026-03-30T01:31:32.516Z"
 ---
 
 # § 1681u. Disclosures to FBI for counterintelligence purposes

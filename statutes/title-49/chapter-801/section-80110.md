@@ -3,9 +3,9 @@ title: "Section 80110 - Duty to deliver goods"
 usc_title: 49
 usc_section: "80110"
 chapter: 801
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 80110"
-generated_at: "2026-03-30T01:30:46.304Z"
+generated_at: "2026-03-30T01:33:49.649Z"
 ---
 
 # § 80110. Duty to deliver goods

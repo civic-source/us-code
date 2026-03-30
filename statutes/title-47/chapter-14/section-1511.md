@@ -3,9 +3,9 @@ title: "Section 1511 - Rules of construction"
 usc_title: 47
 usc_section: "1511"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "47 U.S.C. § 1511"
-generated_at: "2026-03-30T01:30:39.108Z"
+generated_at: "2026-03-30T01:33:55.798Z"
 ---
 
 # § 1511. Rules of construction

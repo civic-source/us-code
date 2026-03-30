@@ -3,9 +3,9 @@ title: "Section 1087bb - Allocation of funds"
 usc_title: 20
 usc_section: "1087bb"
 chapter: 28
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 1087bb"
-generated_at: "2026-03-30T01:27:52.087Z"
+generated_at: "2026-03-30T01:32:23.096Z"
 ---
 
 # § 1087bb. Allocation of funds
@@ -48,22 +48,22 @@ generated_at: "2026-03-30T01:27:52.087Z"
   - **(1)** The amount of an institution’s self-help need is equal to the sum of the self-help need of the institution’s eligible undergraduate students and the self-help need of the institution’s eligible graduate and professional students.
   - **(2)** To determine the self-help need of an institution’s eligible undergraduate students, the Secretary shall—
     - **(A)** establish various income categories for dependent and independent undergraduate students;
-    - **(B)** establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+    - **(B)** establish a student aid index for each income category of dependent and independent undergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
     - **(C)** compute 25 percent of the average cost of attendance for all undergraduate students;
     - **(D)** multiply the number of eligible dependent students in each income category by the lesser of—
       - **(i)** 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
-      - **(ii)** the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+      - **(ii)** the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
     - **(E)** add the amounts determined under subparagraph (D) for each income category of dependent students;
     - **(F)** multiply the number of eligible independent students in each income category by the lesser of—
       - **(i)** 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
-      - **(ii)** the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+      - **(ii)** the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
     - **(G)** add the amounts determined under subparagraph (F) for each income category of independent students; and
     - **(H)** add the amounts determined under subparagraphs (E) and (G).
   - **(3)** To determine the self-help need of an institution’s eligible graduate and professional students, the Secretary shall—
     - **(A)** establish various income categories for graduate and professional students;
-    - **(B)** establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+    - **(B)** establish a student aid index for each income category of graduate and professional students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
     - **(C)** determine the average cost of attendance for all graduate and professional students;
-    - **(D)** subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+    - **(D)** subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the student aid index (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
     - **(E)** multiply the amounts determined under subparagraph (D) by the number of eligible students in each category;
     - **(F)** add the amounts determined under subparagraph (E) for each income category.
   - **(4)**

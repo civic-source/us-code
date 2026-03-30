@@ -3,9 +3,9 @@ title: "Section 452 - Taking shellfish or otherwise interfering with navigation 
 usc_title: 33
 usc_section: "452"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 452"
-generated_at: "2026-03-30T01:29:02.704Z"
+generated_at: "2026-03-30T01:33:10.762Z"
 ---
 
 # § 452. Taking shellfish or otherwise interfering with navigation in New York Harbor channels; penalty; arrest and procedure

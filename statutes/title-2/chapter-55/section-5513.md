@@ -3,9 +3,9 @@ title: "Section 5513 - House of Representatives Modernization Initiatives Accoun
 usc_title: 2
 usc_section: "5513"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 5513"
-generated_at: "2026-03-30T01:26:39.668Z"
+generated_at: "2026-03-30T01:31:00.794Z"
 ---
 
 # § 5513. House of Representatives Modernization Initiatives Account

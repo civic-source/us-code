@@ -3,9 +3,9 @@ title: "Section 622 - Education and research program; recommendation to Congress
 usc_title: 29
 usc_section: "622"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 622"
-generated_at: "2026-03-30T01:28:37.286Z"
+generated_at: "2026-03-30T01:33:06.552Z"
 ---
 
 # § 622. Education and research program; recommendation to Congress

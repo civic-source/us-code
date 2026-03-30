@@ -3,9 +3,9 @@ title: "Section 4088 - Education allowance"
 usc_title: 22
 usc_section: "4088"
 chapter: 52
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 4088"
-generated_at: "2026-03-30T01:28:10.398Z"
+generated_at: "2026-03-30T01:32:53.369Z"
 ---
 
 # § 4088. Education allowance

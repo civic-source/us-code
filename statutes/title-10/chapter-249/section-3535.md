@@ -3,9 +3,9 @@ title: "Section 3535 - Omitted]"
 usc_title: 10
 usc_section: "3535"
 chapter: 249
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 3535"
-generated_at: "2026-03-30T01:27:06.507Z"
+generated_at: "2026-03-30T01:31:16.527Z"
 ---
 
 # [§§ 3532 to 3535. Omitted]

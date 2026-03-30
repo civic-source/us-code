@@ -3,9 +3,9 @@ title: "Section 518a - Repealed. July 25, 1947, ch. 327, § 1 , 61 Stat. 449"
 usc_title: 48
 usc_section: "518a"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "48 U.S.C. § 518a"
-generated_at: "2026-03-30T01:30:34.765Z"
+generated_at: "2026-03-30T01:33:44.425Z"
 ---
 
 # § 518a. Repealed. July 25, 1947, ch. 327, § 1 , 61 Stat. 449

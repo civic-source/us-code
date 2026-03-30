@@ -3,9 +3,9 @@ title: "Section 3706 - Audits, report requirements, and petition of Attorney Gen
 usc_title: 16
 usc_section: "3706"
 chapter: 57
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 3706"
-generated_at: "2026-03-30T01:27:49.967Z"
+generated_at: "2026-03-30T01:32:02.307Z"
 ---
 
 # § 3706. Audits, report requirements, and petition of Attorney General for equitable relief

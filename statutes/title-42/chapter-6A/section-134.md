@@ -3,9 +3,9 @@ title: "Section 134 - Enforcement"
 usc_title: 42
 usc_section: "134"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-30T01:30:23.042Z"
+generated_at: "2026-03-30T01:33:39.660Z"
 ---
 
 # § 300gg–134. Enforcement

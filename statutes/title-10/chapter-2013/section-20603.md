@@ -3,9 +3,9 @@ title: "Section 20603 - Enlisted members: voluntary retirement for length of ser
 usc_title: 10
 usc_section: "20603"
 chapter: 2013
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 20603"
-generated_at: "2026-03-30T01:27:06.566Z"
+generated_at: "2026-03-30T01:31:16.586Z"
 ---
 
 # § 20603. Enlisted members: voluntary retirement for length of service

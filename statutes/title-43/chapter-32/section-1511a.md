@@ -3,9 +3,9 @@ title: "Section 1511a - Cooperation and participation by Secretary of the Army w
 usc_title: 43
 usc_section: "1511a"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 1511a"
-generated_at: "2026-03-30T01:29:57.371Z"
+generated_at: "2026-03-30T01:33:22.133Z"
 ---
 
 # § 1511a. Cooperation and participation by Secretary of the Army with Federal, State, and local agencies

@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 7
 usc_section: "3002"
 chapter: 63
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 3002"
-generated_at: "2026-03-30T01:27:22.655Z"
+generated_at: "2026-03-30T01:31:25.096Z"
 ---
 
 # § 3002. Definitions

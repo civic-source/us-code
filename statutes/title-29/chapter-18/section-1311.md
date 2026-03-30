@@ -3,9 +3,9 @@ title: "Section 1311 - Repealed. Pub. L. 109–280, title V, § 501(b)(1) , Aug.
 usc_title: 29
 usc_section: "1311"
 chapter: 18
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 1311"
-generated_at: "2026-03-30T01:28:37.331Z"
+generated_at: "2026-03-30T01:33:06.595Z"
 ---
 
 # § 1311. Repealed. Pub. L. 109–280, title V, § 501(b)(1) , Aug. 17, 2006 , 120 Stat. 939

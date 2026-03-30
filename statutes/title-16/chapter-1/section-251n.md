@@ -3,9 +3,9 @@ title: "Section 251n - Additional boundary revision"
 usc_title: 16
 usc_section: "251n"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 251n"
-generated_at: "2026-03-30T01:27:49.767Z"
+generated_at: "2026-03-30T01:32:02.105Z"
 ---
 
 # § 251n. Additional boundary revision

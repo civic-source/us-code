@@ -3,9 +3,9 @@ title: "Section 2669 - Transfer of land and facilities to support contracts with
 usc_title: 10
 usc_section: "2669"
 chapter: 159
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-03-30T01:27:06.489Z"
+generated_at: "2026-03-30T01:31:16.509Z"
 ---
 
 # § 2669. Transfer of land and facilities to support contracts with federally funded research and development centers

@@ -3,9 +3,9 @@ title: "Section 8012 - Department of the Navy: seal"
 usc_title: 10
 usc_section: "8012"
 chapter: 803
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 8012"
-generated_at: "2026-03-30T01:27:06.530Z"
+generated_at: "2026-03-30T01:31:16.551Z"
 ---
 
 # § 8012. Department of the Navy: seal

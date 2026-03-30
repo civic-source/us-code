@@ -3,9 +3,9 @@ title: "Section 43 - Creation and composition of courts"
 usc_title: 28
 usc_section: "43"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 43"
-generated_at: "2026-03-30T01:28:18.390Z"
+generated_at: "2026-03-30T01:33:00.269Z"
 ---
 
 # § 43. Creation and composition of courts

@@ -3,9 +3,9 @@ title: "Section 3438 - Pleas—(Rule)"
 usc_title: 18
 usc_section: "3438"
 chapter: 221
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "18 U.S.C. § 3438"
-generated_at: "2026-03-30T01:27:46.465Z"
+generated_at: "2026-03-30T01:31:56.802Z"
 ---
 
 # § 3438. Pleas—(Rule)

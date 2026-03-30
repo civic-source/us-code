@@ -3,9 +3,9 @@ title: "Section 1431d - Donations for school feeding programs abroad; student fi
 usc_title: 7
 usc_section: "1431d"
 chapter: 35
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 1431d"
-generated_at: "2026-03-30T01:27:22.585Z"
+generated_at: "2026-03-30T01:31:25.026Z"
 ---
 
 # § 1431d. Donations for school feeding programs abroad; student financing; priorities

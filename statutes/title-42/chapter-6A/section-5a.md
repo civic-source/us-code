@@ -3,9 +3,9 @@ title: "Section 5a - Sobriety treatment and recovery teams"
 usc_title: 42
 usc_section: "5a"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T01:30:22.976Z"
+generated_at: "2026-03-30T01:33:39.581Z"
 ---
 
 # § 290ee–5a. Sobriety treatment and recovery teams

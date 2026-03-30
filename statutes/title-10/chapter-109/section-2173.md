@@ -3,9 +3,9 @@ title: "Section 2173 - Education loan repayment program: commissioned officers i
 usc_title: 10
 usc_section: "2173"
 chapter: 109
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 2173"
-generated_at: "2026-03-30T01:27:06.471Z"
+generated_at: "2026-03-30T01:31:16.492Z"
 ---
 
 # § 2173. Education loan repayment program: commissioned officers in specified health professions

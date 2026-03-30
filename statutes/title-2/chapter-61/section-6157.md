@@ -3,9 +3,9 @@ title: "Section 6157 - Services of consultants to Majority and Minority Conferen
 usc_title: 2
 usc_section: "6157"
 chapter: 61
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 6157"
-generated_at: "2026-03-30T01:26:39.670Z"
+generated_at: "2026-03-30T01:31:00.796Z"
 ---
 
 # § 6157. Services of consultants to Majority and Minority Conference Committee of Senate

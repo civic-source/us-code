@@ -3,9 +3,9 @@ title: "Section 2120 - Online access of founding fathers documents"
 usc_title: 44
 usc_section: "2120"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "44 U.S.C. § 2120"
-generated_at: "2026-03-30T01:30:00.554Z"
+generated_at: "2026-03-30T01:33:24.930Z"
 ---
 
 # § 2120. Online access of founding fathers documents

@@ -3,9 +3,9 @@ title: "Section 10121 - State and affected Indian tribe participation in develop
 usc_title: 42
 usc_section: "10121"
 chapter: 108
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 10121"
-generated_at: "2026-03-30T01:30:23.523Z"
+generated_at: "2026-03-30T01:33:40.226Z"
 ---
 
 # § 10121. State and affected Indian tribe participation in development of proposed repositories for defense waste

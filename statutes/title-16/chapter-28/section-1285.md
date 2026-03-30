@@ -3,9 +3,9 @@ title: "Section 1285 - Claim and allowance of charitable deduction for contribut
 usc_title: 16
 usc_section: "1285"
 chapter: 28
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 1285"
-generated_at: "2026-03-30T01:27:49.920Z"
+generated_at: "2026-03-30T01:32:02.258Z"
 ---
 
 # § 1285. Claim and allowance of charitable deduction for contribution or gift of easement

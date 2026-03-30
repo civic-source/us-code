@@ -3,9 +3,9 @@ title: "Section 181 - Voluntary dissolution; appointment and removal of liquidat
 usc_title: 12
 usc_section: "181"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 181"
-generated_at: "2026-03-30T01:27:40.299Z"
+generated_at: "2026-03-30T01:31:52.487Z"
 ---
 
 # § 181. Voluntary dissolution; appointment and removal of liquidating agent or committee; examination

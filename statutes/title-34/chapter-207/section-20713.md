@@ -3,9 +3,9 @@ title: "Section 20713 - Encouraging a victim-centered approach to training of Fe
 usc_title: 34
 usc_section: "20713"
 chapter: 207
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 20713"
-generated_at: "2026-03-30T01:29:17.470Z"
+generated_at: "2026-03-30T01:33:13.211Z"
 ---
 
 # § 20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel

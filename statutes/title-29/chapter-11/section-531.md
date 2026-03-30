@@ -3,9 +3,9 @@ title: "Section 531 - Separability"
 usc_title: 29
 usc_section: "531"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 531"
-generated_at: "2026-03-30T01:28:37.285Z"
+generated_at: "2026-03-30T01:33:06.552Z"
 ---
 
 # § 531. Separability

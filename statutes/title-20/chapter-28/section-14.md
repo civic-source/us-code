@@ -3,9 +3,9 @@ title: "Section 14 - Student support services"
 usc_title: 20
 usc_section: "14"
 chapter: 28
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T01:27:52.065Z"
+generated_at: "2026-03-30T01:32:23.075Z"
 ---
 
 # § 1070a–14. Student support services

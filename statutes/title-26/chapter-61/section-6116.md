@@ -3,9 +3,9 @@ title: "Section 6116 - Requirement for prisons located in United States to provi
 usc_title: 26
 usc_section: "6116"
 chapter: 61
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "26 U.S.C. § 6116"
-generated_at: "2026-03-30T01:28:57.569Z"
+generated_at: "2026-03-30T01:33:05.539Z"
 ---
 
 # § 6116. Requirement for prisons located in United States to provide information for tax administration

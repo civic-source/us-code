@@ -3,9 +3,9 @@ title: "Section 21 - Definitions"
 usc_title: 16
 usc_section: "21"
 chapter: 58
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-03-30T01:27:49.971Z"
+generated_at: "2026-03-30T01:32:02.313Z"
 ---
 
 # § 3839aa–21. Definitions

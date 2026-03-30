@@ -3,9 +3,9 @@ title: "Section 7266 - Designation of conservation officers"
 usc_title: 42
 usc_section: "7266"
 chapter: 84
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 7266"
-generated_at: "2026-03-30T01:30:23.436Z"
+generated_at: "2026-03-30T01:33:40.126Z"
 ---
 
 # § 7266. Designation of conservation officers

@@ -3,9 +3,9 @@ title: "Section 2317 - Transferred"
 usc_title: 22
 usc_section: "2317"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2317"
-generated_at: "2026-03-30T01:28:10.350Z"
+generated_at: "2026-03-30T01:32:53.308Z"
 ---
 
 # §§ 2315 to 2317. Transferred

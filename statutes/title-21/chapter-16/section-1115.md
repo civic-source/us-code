@@ -3,9 +3,9 @@ title: "Section 1115 - Notice relating to the control of dangerous drugs"
 usc_title: 21
 usc_section: "1115"
 chapter: 16
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "21 U.S.C. § 1115"
-generated_at: "2026-03-30T01:27:58.410Z"
+generated_at: "2026-03-30T01:32:33.295Z"
 ---
 
 # § 1115. Notice relating to the control of dangerous drugs

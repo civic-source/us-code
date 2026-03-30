@@ -3,9 +3,9 @@ title: "Section 4595 - Payment for unaccrued leave"
 usc_title: 2
 usc_section: "4595"
 chapter: 45
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 4595"
-generated_at: "2026-03-30T01:26:39.665Z"
+generated_at: "2026-03-30T01:31:00.791Z"
 ---
 
 # § 4595. Payment for unaccrued leave

@@ -3,9 +3,9 @@ title: "Section 1997f - Report to Congress"
 usc_title: 42
 usc_section: "1997f"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 1997f"
-generated_at: "2026-03-30T01:30:23.298Z"
+generated_at: "2026-03-30T01:33:39.965Z"
 ---
 
 # § 1997f. Report to Congress

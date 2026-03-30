@@ -3,9 +3,9 @@ title: "Section 639b - Oversight"
 usc_title: 15
 usc_section: "639b"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 639b"
-generated_at: "2026-03-30T01:27:29.216Z"
+generated_at: "2026-03-30T01:31:32.464Z"
 ---
 
 # § 639b. Oversight

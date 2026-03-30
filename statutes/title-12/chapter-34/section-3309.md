@@ -3,9 +3,9 @@ title: "Section 3309 - Risk management training"
 usc_title: 12
 usc_section: "3309"
 chapter: 34
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 3309"
-generated_at: "2026-03-30T01:27:40.417Z"
+generated_at: "2026-03-30T01:31:52.643Z"
 ---
 
 # § 3309. Risk management training

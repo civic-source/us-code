@@ -3,9 +3,9 @@ title: "Section 3333 - Relief for payments made without negligence"
 usc_title: 31
 usc_section: "3333"
 chapter: 33
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "31 U.S.C. § 3333"
-generated_at: "2026-03-30T01:29:01.458Z"
+generated_at: "2026-03-30T01:33:09.605Z"
 ---
 
 # § 3333. Relief for payments made without negligence

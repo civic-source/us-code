@@ -3,9 +3,9 @@ title: "Section 669b - Authorization of appropriations"
 usc_title: 16
 usc_section: "669b"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 669b"
-generated_at: "2026-03-30T01:27:49.870Z"
+generated_at: "2026-03-30T01:32:02.211Z"
 ---
 
 # § 669b. Authorization of appropriations

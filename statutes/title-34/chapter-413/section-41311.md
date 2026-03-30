@@ -3,9 +3,9 @@ title: "Section 41311 - Improving Department of Justice data collection on menta
 usc_title: 34
 usc_section: "41311"
 chapter: 413
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 41311"
-generated_at: "2026-03-30T01:29:17.484Z"
+generated_at: "2026-03-30T01:33:13.226Z"
 ---
 
 # § 41311. Improving Department of Justice data collection on mental illness involved in crime

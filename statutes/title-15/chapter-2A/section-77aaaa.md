@@ -3,9 +3,9 @@ title: "Section 77aaaa - Contrary stipulations void"
 usc_title: 15
 usc_section: "77aaaa"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 77aaaa"
-generated_at: "2026-03-30T01:27:29.146Z"
+generated_at: "2026-03-30T01:31:32.406Z"
 ---
 
 # § 77aaaa. Contrary stipulations void

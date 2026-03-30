@@ -3,9 +3,9 @@ title: "Section 5104B - Higher-level review by the agency of original jurisdicti
 usc_title: 38
 usc_section: "5104B"
 chapter: 51
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 5104B"
-generated_at: "2026-03-30T01:29:50.768Z"
+generated_at: "2026-03-30T01:33:18.941Z"
 ---
 
 # § 5104B. Higher-level review by the agency of original jurisdiction

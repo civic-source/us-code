@@ -3,9 +3,9 @@ title: "Section 41310 - Charge complaints"
 usc_title: 46
 usc_section: "41310"
 chapter: 413
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "46 U.S.C. § 41310"
-generated_at: "2026-03-30T01:30:36.923Z"
+generated_at: "2026-03-30T01:33:45.542Z"
 ---
 
 # § 41310. Charge complaints

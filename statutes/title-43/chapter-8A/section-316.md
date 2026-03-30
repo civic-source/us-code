@@ -3,9 +3,9 @@ title: "Section 316 - Declaration of policy"
 usc_title: 43
 usc_section: "316"
 chapter: 8
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 316"
-generated_at: "2026-03-30T01:29:57.342Z"
+generated_at: "2026-03-30T01:33:22.097Z"
 ---
 
 # § 316. Declaration of policy

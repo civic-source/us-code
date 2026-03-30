@@ -3,9 +3,9 @@ title: "Section 9459 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "9459"
 chapter: 953
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 9459"
-generated_at: "2026-03-30T01:27:06.547Z"
+generated_at: "2026-03-30T01:31:16.568Z"
 ---
 
 # § 9459. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds

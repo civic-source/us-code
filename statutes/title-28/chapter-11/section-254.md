@@ -3,9 +3,9 @@ title: "Section 254 - Single-judge trials"
 usc_title: 28
 usc_section: "254"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 254"
-generated_at: "2026-03-30T01:28:18.395Z"
+generated_at: "2026-03-30T01:33:00.273Z"
 ---
 
 # § 254. Single-judge trials

@@ -3,9 +3,9 @@ title: "Section 10203 - Technical assistance to non-nuclear weapon states in fie
 usc_title: 42
 usc_section: "10203"
 chapter: 108
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 10203"
-generated_at: "2026-03-30T01:30:23.527Z"
+generated_at: "2026-03-30T01:33:40.231Z"
 ---
 
 # § 10203. Technical assistance to non-nuclear weapon states in field of spent fuel storage and disposal

@@ -3,9 +3,9 @@ title: "Section 8169 - Repealed. Pub. L. 117–168, title VII, § 705(d) , Aug. 
 usc_title: 38
 usc_section: "8169"
 chapter: 81
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 8169"
-generated_at: "2026-03-30T01:29:50.789Z"
+generated_at: "2026-03-30T01:33:18.966Z"
 ---
 
 # [§ 8169. Repealed. Pub. L. 117–168, title VII, § 705(d) , Aug. 10, 2022 , 136 Stat. 1800 ]

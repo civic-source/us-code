@@ -3,9 +3,9 @@ title: "Section 4705 - Stipends"
 usc_title: 20
 usc_section: "4705"
 chapter: 59
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 4705"
-generated_at: "2026-03-30T01:27:52.150Z"
+generated_at: "2026-03-30T01:32:23.153Z"
 ---
 
 # § 4705. Stipends

@@ -3,9 +3,9 @@ title: "Section 564 - Repealed. Pub. L. 115–245, div. B, title I, § 117(b)(1)
 usc_title: 29
 usc_section: "564"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 564"
-generated_at: "2026-03-30T01:28:37.285Z"
+generated_at: "2026-03-30T01:33:06.552Z"
 ---
 
 # § 564. Repealed. Pub. L. 115–245, div. B, title I, § 117(b)(1) , Sept. 28, 2018 , 132 Stat. 3067

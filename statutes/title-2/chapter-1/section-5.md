@@ -3,9 +3,9 @@ title: "Section 5 - Nominations for Representatives at large"
 usc_title: 2
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 5"
-generated_at: "2026-03-30T01:26:39.617Z"
+generated_at: "2026-03-30T01:31:00.748Z"
 ---
 
 # § 5. Nominations for Representatives at large

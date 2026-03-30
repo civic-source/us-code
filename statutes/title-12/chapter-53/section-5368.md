@@ -3,9 +3,9 @@ title: "Section 5368 - Regulations"
 usc_title: 12
 usc_section: "5368"
 chapter: 53
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 5368"
-generated_at: "2026-03-30T01:27:40.454Z"
+generated_at: "2026-03-30T01:31:52.689Z"
 ---
 
 # § 5368. Regulations

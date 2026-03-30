@@ -3,9 +3,9 @@ title: "Section 2004 - Transfer of personnel, property, records, monies"
 usc_title: 42
 usc_section: "2004"
 chapter: 22
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 2004"
-generated_at: "2026-03-30T01:30:23.304Z"
+generated_at: "2026-03-30T01:33:39.972Z"
 ---
 
 # § 2004. Transfer of personnel, property, records, monies

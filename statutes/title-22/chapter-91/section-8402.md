@@ -3,9 +3,9 @@ title: "Section 8402 - Findings"
 usc_title: 22
 usc_section: "8402"
 chapter: 91
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 8402"
-generated_at: "2026-03-30T01:28:10.439Z"
+generated_at: "2026-03-30T01:32:53.422Z"
 ---
 
 # § 8402. Findings

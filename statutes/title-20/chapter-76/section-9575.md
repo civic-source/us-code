@@ -3,9 +3,9 @@ title: "Section 9575 - Performance management"
 usc_title: 20
 usc_section: "9575"
 chapter: 76
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 9575"
-generated_at: "2026-03-30T01:27:52.194Z"
+generated_at: "2026-03-30T01:32:23.196Z"
 ---
 
 # § 9575. Performance management

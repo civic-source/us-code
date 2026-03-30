@@ -3,9 +3,9 @@ title: "Section 2130 - Promotion to certain grades for officers with critical sk
 usc_title: 14
 usc_section: "2130"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "14 U.S.C. § 2130"
-generated_at: "2026-03-30T01:27:25.075Z"
+generated_at: "2026-03-30T01:31:27.379Z"
 ---
 
 # § 2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant

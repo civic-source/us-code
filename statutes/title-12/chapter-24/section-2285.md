@@ -3,9 +3,9 @@ title: "Section 2285 - Functions"
 usc_title: 12
 usc_section: "2285"
 chapter: 24
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 2285"
-generated_at: "2026-03-30T01:27:40.409Z"
+generated_at: "2026-03-30T01:31:52.634Z"
 ---
 
 # § 2285. Functions

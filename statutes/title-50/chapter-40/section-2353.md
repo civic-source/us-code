@@ -3,9 +3,9 @@ title: "Section 2353 - Comprehensive preparedness program"
 usc_title: 50
 usc_section: "2353"
 chapter: 40
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "50 U.S.C. § 2353"
-generated_at: "2026-03-30T01:30:28.125Z"
+generated_at: "2026-03-30T01:34:01.599Z"
 ---
 
 # § 2353. Comprehensive preparedness program

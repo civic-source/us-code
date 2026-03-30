@@ -3,9 +3,9 @@ title: "Section 2213a - Treatment of certain benefits and costs"
 usc_title: 33
 usc_section: "2213a"
 chapter: 36
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 2213a"
-generated_at: "2026-03-30T01:29:02.761Z"
+generated_at: "2026-03-30T01:33:10.816Z"
 ---
 
 # § 2213a. Treatment of certain benefits and costs

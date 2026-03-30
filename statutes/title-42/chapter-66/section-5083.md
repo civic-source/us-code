@@ -3,9 +3,9 @@ title: "Section 5083 - Repealed. Pub. L. 95–510, § 102(b) , Oct. 24, 1978 , 9
 usc_title: 42
 usc_section: "5083"
 chapter: 66
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 5083"
-generated_at: "2026-03-30T01:30:23.370Z"
+generated_at: "2026-03-30T01:33:40.050Z"
 ---
 
 # § 5083. Repealed. Pub. L. 95–510, § 102(b) , Oct. 24, 1978 , 92 Stat. 1781

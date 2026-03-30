@@ -3,9 +3,9 @@ title: "Section 294j - Demonstration program to integrate quality improvement an
 usc_title: 42
 usc_section: "294j"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 294j"
-generated_at: "2026-03-30T01:30:22.984Z"
+generated_at: "2026-03-30T01:33:39.592Z"
 ---
 
 # § 294j. Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals

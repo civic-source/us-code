@@ -3,9 +3,9 @@ title: "Section 5109 - Report on gender diversity in the Coast Guard"
 usc_title: 14
 usc_section: "5109"
 chapter: 51
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "14 U.S.C. § 5109"
-generated_at: "2026-03-30T01:27:25.082Z"
+generated_at: "2026-03-30T01:31:27.385Z"
 ---
 
 # § 5109. Report on gender diversity in the Coast Guard

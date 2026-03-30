@@ -3,9 +3,9 @@ title: "Section 133 - Appointment and number of district judges"
 usc_title: 28
 usc_section: "133"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 133"
-generated_at: "2026-03-30T01:28:18.393Z"
+generated_at: "2026-03-30T01:33:00.271Z"
 ---
 
 # § 133. Appointment and number of district judges

@@ -3,9 +3,9 @@ title: "Section 1449 - Reservation of right to amend or repeal chapter"
 usc_title: 12
 usc_section: "1449"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 1449"
-generated_at: "2026-03-30T01:27:40.320Z"
+generated_at: "2026-03-30T01:31:52.518Z"
 ---
 
 # § 1449. Reservation of right to amend or repeal chapter

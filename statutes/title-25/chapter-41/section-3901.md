@@ -3,9 +3,9 @@ title: "Section 3901 - Findings and purposes"
 usc_title: 25
 usc_section: "3901"
 chapter: 41
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "25 U.S.C. § 3901"
-generated_at: "2026-03-30T01:27:56.314Z"
+generated_at: "2026-03-30T01:32:46.611Z"
 ---
 
 # § 3901. Findings and purposes

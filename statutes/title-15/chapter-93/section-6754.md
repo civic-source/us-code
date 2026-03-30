@@ -3,9 +3,9 @@ title: "Section 6754 - Board of directors"
 usc_title: 15
 usc_section: "6754"
 chapter: 93
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 6754"
-generated_at: "2026-03-30T01:27:29.346Z"
+generated_at: "2026-03-30T01:31:32.574Z"
 ---
 
 # § 6754. Board of directors

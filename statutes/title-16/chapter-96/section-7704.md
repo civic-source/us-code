@@ -3,9 +3,9 @@ title: "Section 7704 - Authority of the Secretary of Commerce"
 usc_title: 16
 usc_section: "7704"
 chapter: 96
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 7704"
-generated_at: "2026-03-30T01:27:50.004Z"
+generated_at: "2026-03-30T01:32:02.346Z"
 ---
 
 # § 7704. Authority of the Secretary of Commerce

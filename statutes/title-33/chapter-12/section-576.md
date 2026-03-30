@@ -3,9 +3,9 @@ title: "Section 576 - Revolving fund; establishment; availability; reimbursement
 usc_title: 33
 usc_section: "576"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 576"
-generated_at: "2026-03-30T01:29:02.709Z"
+generated_at: "2026-03-30T01:33:10.766Z"
 ---
 
 # § 576. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation

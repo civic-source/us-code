@@ -3,9 +3,9 @@ title: "Section 5352 - Quadrennial reports on foreign treatment of United States
 usc_title: 22
 usc_section: "5352"
 chapter: 62
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 5352"
-generated_at: "2026-03-30T01:28:10.407Z"
+generated_at: "2026-03-30T01:32:53.380Z"
 ---
 
 # § 5352. Quadrennial reports on foreign treatment of United States financial institutions

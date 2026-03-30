@@ -3,9 +3,9 @@ title: "Section 3365 - Amendment of information—(Rule)"
 usc_title: 18
 usc_section: "3365"
 chapter: 217
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "18 U.S.C. § 3365"
-generated_at: "2026-03-30T01:27:46.465Z"
+generated_at: "2026-03-30T01:31:56.802Z"
 ---
 
 # § 3365. Amendment of information—(Rule)

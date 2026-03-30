@@ -3,9 +3,9 @@ title: "Section 2607 - Reporting and retention of information"
 usc_title: 15
 usc_section: "2607"
 chapter: 53
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 2607"
-generated_at: "2026-03-30T01:27:29.301Z"
+generated_at: "2026-03-30T01:31:32.537Z"
 ---
 
 # § 2607. Reporting and retention of information

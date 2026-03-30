@@ -3,9 +3,9 @@ title: "Section 1908 - American Antiquarian Society to receive certain publicati
 usc_title: 44
 usc_section: "1908"
 chapter: 19
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "44 U.S.C. § 1908"
-generated_at: "2026-03-30T01:30:00.554Z"
+generated_at: "2026-03-30T01:33:24.929Z"
 ---
 
 # § 1908. American Antiquarian Society to receive certain publications

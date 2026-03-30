@@ -3,9 +3,9 @@ title: "Section 7661c - Permit requirements and conditions"
 usc_title: 42
 usc_section: "7661c"
 chapter: 85
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 7661c"
-generated_at: "2026-03-30T01:30:23.472Z"
+generated_at: "2026-03-30T01:33:40.168Z"
 ---
 
 # § 7661c. Permit requirements and conditions

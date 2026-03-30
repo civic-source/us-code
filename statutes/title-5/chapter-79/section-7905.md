@@ -3,9 +3,9 @@ title: "Section 7905 - Programs to encourage commuting by means other than singl
 usc_title: 5
 usc_section: "7905"
 chapter: 79
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 7905"
-generated_at: "2026-03-30T01:26:48.527Z"
+generated_at: "2026-03-30T01:31:06.793Z"
 ---
 
 # § 7905. Programs to encourage commuting by means other than single-occupancy motor vehicles

@@ -3,9 +3,9 @@ title: "Section 220531 - Grant to protect young athletes from abuse"
 usc_title: 36
 usc_section: "220531"
 chapter: 2205
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 220531"
-generated_at: "2026-03-30T01:29:20.229Z"
+generated_at: "2026-03-30T01:33:17.161Z"
 ---
 
 # § 220531. Grant to protect young athletes from abuse

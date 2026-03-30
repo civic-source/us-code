@@ -3,9 +3,9 @@ title: "Section 30505 - Severability"
 usc_title: 34
 usc_section: "30505"
 chapter: 305
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 30505"
-generated_at: "2026-03-30T01:29:17.479Z"
+generated_at: "2026-03-30T01:33:13.219Z"
 ---
 
 # § 30505. Severability

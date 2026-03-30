@@ -3,9 +3,9 @@ title: "Section 107e - Definitions"
 usc_title: 20
 usc_section: "107e"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 107e"
-generated_at: "2026-03-30T01:27:52.045Z"
+generated_at: "2026-03-30T01:32:23.053Z"
 ---
 
 # § 107e. Definitions

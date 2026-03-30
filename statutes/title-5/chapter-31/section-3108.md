@@ -3,9 +3,9 @@ title: "Section 3108 - Employment of detective agencies; restrictions"
 usc_title: 5
 usc_section: "3108"
 chapter: 31
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 3108"
-generated_at: "2026-03-30T01:26:48.496Z"
+generated_at: "2026-03-30T01:31:06.766Z"
 ---
 
 # § 3108. Employment of detective agencies; restrictions

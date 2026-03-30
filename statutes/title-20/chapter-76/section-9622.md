@@ -3,9 +3,9 @@ title: "Section 9622 - National Assessment of Educational Progress"
 usc_title: 20
 usc_section: "9622"
 chapter: 76
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 9622"
-generated_at: "2026-03-30T01:27:52.195Z"
+generated_at: "2026-03-30T01:32:23.197Z"
 ---
 
 # § 9622. National Assessment of Educational Progress

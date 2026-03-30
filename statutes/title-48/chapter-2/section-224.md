@@ -3,9 +3,9 @@ title: "Section 224 - Omitted"
 usc_title: 48
 usc_section: "224"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "48 U.S.C. § 224"
-generated_at: "2026-03-30T01:30:34.764Z"
+generated_at: "2026-03-30T01:33:44.424Z"
 ---
 
 # §§ 220 to 224. Omitted

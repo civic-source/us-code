@@ -3,9 +3,9 @@ title: "Section 2736e - Voluntary participation"
 usc_title: 22
 usc_section: "2736e"
 chapter: 38
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2736e"
-generated_at: "2026-03-30T01:28:10.374Z"
+generated_at: "2026-03-30T01:32:53.337Z"
 ---
 
 # § 2736e. Voluntary participation

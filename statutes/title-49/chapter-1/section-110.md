@@ -3,9 +3,9 @@ title: "Section 110 - Great Lakes St. Lawrence Seaway Development Corporation"
 usc_title: 49
 usc_section: "110"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 110"
-generated_at: "2026-03-30T01:30:46.186Z"
+generated_at: "2026-03-30T01:33:49.535Z"
 ---
 
 # § 110. Great Lakes St. Lawrence Seaway Development Corporation

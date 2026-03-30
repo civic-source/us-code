@@ -3,9 +3,9 @@ title: "Section 6003 - Report to Congress"
 usc_title: 15
 usc_section: "6003"
 chapter: 86
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 6003"
-generated_at: "2026-03-30T01:27:29.338Z"
+generated_at: "2026-03-30T01:31:32.568Z"
 ---
 
 # § 6003. Report to Congress

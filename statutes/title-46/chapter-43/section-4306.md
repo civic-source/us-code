@@ -3,9 +3,9 @@ title: "Section 4306 - Federal preemption"
 usc_title: 46
 usc_section: "4306"
 chapter: 43
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "46 U.S.C. § 4306"
-generated_at: "2026-03-30T01:30:36.907Z"
+generated_at: "2026-03-30T01:33:45.523Z"
 ---
 
 # § 4306. Federal preemption

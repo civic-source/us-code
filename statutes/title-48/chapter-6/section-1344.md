@@ -3,9 +3,9 @@ title: "Section 1344 - Omitted"
 usc_title: 48
 usc_section: "1344"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "48 U.S.C. § 1344"
-generated_at: "2026-03-30T01:30:34.768Z"
+generated_at: "2026-03-30T01:33:44.428Z"
 ---
 
 # §§ 1341 to 1344. Omitted

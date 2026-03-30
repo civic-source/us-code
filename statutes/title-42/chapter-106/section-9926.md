@@ -3,9 +3,9 @@ title: "Section 9926 - Projects to expand the number of job opportunities availa
 usc_title: 42
 usc_section: "9926"
 chapter: 106
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 9926"
-generated_at: "2026-03-30T01:30:23.523Z"
+generated_at: "2026-03-30T01:33:40.226Z"
 ---
 
 # § 9926. Projects to expand the number of job opportunities available to certain low-income individuals

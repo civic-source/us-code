@@ -3,9 +3,9 @@ title: "Section 1795 - Congressional findings"
 usc_title: 12
 usc_section: "1795"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 1795"
-generated_at: "2026-03-30T01:27:40.367Z"
+generated_at: "2026-03-30T01:31:52.580Z"
 ---
 
 # § 1795. Congressional findings

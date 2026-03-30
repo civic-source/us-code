@@ -3,9 +3,9 @@ title: "Section 281 - Purpose"
 usc_title: 16
 usc_section: "281"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 281"
-generated_at: "2026-03-30T01:27:49.769Z"
+generated_at: "2026-03-30T01:32:02.107Z"
 ---
 
 # § 281. Purpose

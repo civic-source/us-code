@@ -3,9 +3,9 @@ title: "Section 1824 - Unlawful acts"
 usc_title: 15
 usc_section: "1824"
 chapter: 44
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 1824"
-generated_at: "2026-03-30T01:27:29.283Z"
+generated_at: "2026-03-30T01:31:32.522Z"
 ---
 
 # § 1824. Unlawful acts

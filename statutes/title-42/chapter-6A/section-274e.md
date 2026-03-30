@@ -3,9 +3,9 @@ title: "Section 274e - Prohibition of organ purchases"
 usc_title: 42
 usc_section: "274e"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 274e"
-generated_at: "2026-03-30T01:30:22.936Z"
+generated_at: "2026-03-30T01:33:39.533Z"
 ---
 
 # § 274e. Prohibition of organ purchases

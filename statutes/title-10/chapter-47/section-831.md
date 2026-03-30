@@ -3,9 +3,9 @@ title: "Section 831 - Art. 31. Compulsory self-incrimination prohibited"
 usc_title: 10
 usc_section: "831"
 chapter: 47
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 831"
-generated_at: "2026-03-30T01:27:06.420Z"
+generated_at: "2026-03-30T01:31:16.442Z"
 ---
 
 # § 831. Art. 31. Compulsory self-incrimination prohibited

@@ -3,9 +3,9 @@ title: "Section 409i - Acquisition of Warren Property for Morristown National Hi
 usc_title: 16
 usc_section: "409i"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 409i"
-generated_at: "2026-03-30T01:27:49.776Z"
+generated_at: "2026-03-30T01:32:02.115Z"
 ---
 
 # § 409i. Acquisition of Warren Property for Morristown National Historical Park

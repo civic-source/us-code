@@ -3,9 +3,9 @@ title: "Section 7221 - Purpose"
 usc_title: 20
 usc_section: "7221"
 chapter: 70
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 7221"
-generated_at: "2026-03-30T01:27:52.171Z"
+generated_at: "2026-03-30T01:32:23.174Z"
 ---
 
 # § 7221. Purpose

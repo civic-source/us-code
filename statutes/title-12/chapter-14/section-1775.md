@@ -3,9 +3,9 @@ title: "Section 1775 - Conditions upon conversion to Federal status"
 usc_title: 12
 usc_section: "1775"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 1775"
-generated_at: "2026-03-30T01:27:40.360Z"
+generated_at: "2026-03-30T01:31:52.570Z"
 ---
 
 # § 1775. Conditions upon conversion to Federal status

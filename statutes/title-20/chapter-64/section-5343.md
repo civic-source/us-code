@@ -3,9 +3,9 @@ title: "Section 5343 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5343"
 chapter: 64
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 5343"
-generated_at: "2026-03-30T01:27:52.151Z"
+generated_at: "2026-03-30T01:32:23.154Z"
 ---
 
 # §§ 5341 to 5343. Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 20, 1994 , 108 Stat. 4023

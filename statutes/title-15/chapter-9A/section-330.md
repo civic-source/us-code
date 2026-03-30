@@ -3,9 +3,9 @@ title: "Section 330 - Definitions"
 usc_title: 15
 usc_section: "330"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 330"
-generated_at: "2026-03-30T01:27:29.197Z"
+generated_at: "2026-03-30T01:31:32.448Z"
 ---
 
 # § 330. Definitions

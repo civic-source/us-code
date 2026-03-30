@@ -3,9 +3,9 @@ title: "Section 4513 - Penalties"
 usc_title: 50
 usc_section: "4513"
 chapter: 55
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "50 U.S.C. § 4513"
-generated_at: "2026-03-30T01:30:28.176Z"
+generated_at: "2026-03-30T01:34:01.651Z"
 ---
 
 # § 4513. Penalties

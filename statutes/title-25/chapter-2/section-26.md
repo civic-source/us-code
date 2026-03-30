@@ -3,9 +3,9 @@ title: "Section 26 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "26"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "25 U.S.C. § 26"
-generated_at: "2026-03-30T01:27:56.248Z"
+generated_at: "2026-03-30T01:32:46.546Z"
 ---
 
 # § 26. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632

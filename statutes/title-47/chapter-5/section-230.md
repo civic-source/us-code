@@ -3,9 +3,9 @@ title: "Section 230 - Protection for private blocking and screening of offensive
 usc_title: 47
 usc_section: "230"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "47 U.S.C. § 230"
-generated_at: "2026-03-30T01:30:39.070Z"
+generated_at: "2026-03-30T01:33:55.756Z"
 ---
 
 # § 230. Protection for private blocking and screening of offensive material

@@ -3,9 +3,9 @@ title: "Section 8291 - Medal of honor"
 usc_title: 10
 usc_section: "8291"
 chapter: 837
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 8291"
-generated_at: "2026-03-30T01:27:06.533Z"
+generated_at: "2026-03-30T01:31:16.553Z"
 ---
 
 # § 8291. Medal of honor

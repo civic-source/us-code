@@ -3,9 +3,9 @@ title: "Section 5 - Questionnaires; number, form, and scope of inquiries"
 usc_title: 13
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "13 U.S.C. § 5"
-generated_at: "2026-03-30T01:27:24.632Z"
+generated_at: "2026-03-30T01:31:28.513Z"
 ---
 
 # § 5. Questionnaires; number, form, and scope of inquiries

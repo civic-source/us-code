@@ -3,9 +3,9 @@ title: "Section 650 - Supervisory and enforcement authority for small business l
 usc_title: 15
 usc_section: "650"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 650"
-generated_at: "2026-03-30T01:27:29.220Z"
+generated_at: "2026-03-30T01:31:32.469Z"
 ---
 
 # § 650. Supervisory and enforcement authority for small business lending companies

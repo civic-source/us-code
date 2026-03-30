@@ -3,9 +3,9 @@ title: "Section 1681r - Unauthorized disclosures by officers or employees"
 usc_title: 15
 usc_section: "1681r"
 chapter: 41
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 1681r"
-generated_at: "2026-03-30T01:27:29.274Z"
+generated_at: "2026-03-30T01:31:32.515Z"
 ---
 
 # § 1681r. Unauthorized disclosures by officers or employees

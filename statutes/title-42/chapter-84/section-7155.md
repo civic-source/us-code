@@ -3,9 +3,9 @@ title: "Section 7155 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 42
 usc_section: "7155"
 chapter: 84
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 7155"
-generated_at: "2026-03-30T01:30:23.433Z"
+generated_at: "2026-03-30T01:33:40.123Z"
 ---
 
 # § 7155. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

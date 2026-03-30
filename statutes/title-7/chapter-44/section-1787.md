@@ -3,9 +3,9 @@ title: "Section 1787 - Repealed. Pub. L. 103–130, § 3(a) , Nov. 1, 1993 , 107
 usc_title: 7
 usc_section: "1787"
 chapter: 44
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 1787"
-generated_at: "2026-03-30T01:27:22.611Z"
+generated_at: "2026-03-30T01:31:25.053Z"
 ---
 
 # §§ 1782 to 1787. Repealed. Pub. L. 103–130, § 3(a) , Nov. 1, 1993 , 107 Stat. 1369

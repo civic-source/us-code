@@ -3,9 +3,9 @@ title: "Section 391 - Certification and filing of depositions"
 usc_title: 2
 usc_section: "391"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 391"
-generated_at: "2026-03-30T01:26:39.630Z"
+generated_at: "2026-03-30T01:31:00.759Z"
 ---
 
 # § 391. Certification and filing of depositions

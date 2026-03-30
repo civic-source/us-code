@@ -3,9 +3,9 @@ title: "Section 1003 - Research, development, test, and evaluation efforts in fu
 usc_title: 6
 usc_section: "1003"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "6 U.S.C. § 1003"
-generated_at: "2026-03-30T01:26:58.031Z"
+generated_at: "2026-03-30T01:31:09.554Z"
 ---
 
 # § 1003. Research, development, test, and evaluation efforts in furtherance of maritime and cargo security

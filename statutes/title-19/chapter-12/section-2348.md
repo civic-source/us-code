@@ -3,9 +3,9 @@ title: "Section 2348 - Protective provisions"
 usc_title: 19
 usc_section: "2348"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "19 U.S.C. § 2348"
-generated_at: "2026-03-30T01:27:44.944Z"
+generated_at: "2026-03-30T01:31:58.660Z"
 ---
 
 # § 2348. Protective provisions

@@ -3,9 +3,9 @@ title: "Section 1714 - Fitting and training in use of prosthetic appliances; gui
 usc_title: 38
 usc_section: "1714"
 chapter: 17
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 1714"
-generated_at: "2026-03-30T01:29:50.732Z"
+generated_at: "2026-03-30T01:33:18.902Z"
 ---
 
 # § 1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs

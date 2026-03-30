@@ -3,9 +3,9 @@ title: "Section 482l - Perfection of mining claims within forest"
 usc_title: 16
 usc_section: "482l"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 482l"
-generated_at: "2026-03-30T01:27:49.847Z"
+generated_at: "2026-03-30T01:32:02.187Z"
 ---
 
 # § 482l. Perfection of mining claims within forest

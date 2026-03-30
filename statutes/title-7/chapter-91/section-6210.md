@@ -3,9 +3,9 @@ title: "Section 6210 - Suspension and termination"
 usc_title: 7
 usc_section: "6210"
 chapter: 91
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 6210"
-generated_at: "2026-03-30T01:27:22.683Z"
+generated_at: "2026-03-30T01:31:25.124Z"
 ---
 
 # § 6210. Suspension and termination

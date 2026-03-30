@@ -3,9 +3,9 @@ title: "Section 460iiii - Pistone-Black Mountain National Conservation Area"
 usc_title: 16
 usc_section: "460iiii"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 460iiii"
-generated_at: "2026-03-30T01:27:49.843Z"
+generated_at: "2026-03-30T01:32:02.182Z"
 ---
 
 # § 460iiii. Pistone-Black Mountain National Conservation Area

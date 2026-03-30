@@ -3,9 +3,9 @@ title: "Section 460kkk - Boston Harbor Islands National Recreation Area"
 usc_title: 16
 usc_section: "460kkk"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 460kkk"
-generated_at: "2026-03-30T01:27:49.834Z"
+generated_at: "2026-03-30T01:32:02.173Z"
 ---
 
 # § 460kkk. Boston Harbor Islands National Recreation Area

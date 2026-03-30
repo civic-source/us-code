@@ -3,9 +3,9 @@ title: "Section 1 - Social Security Equivalent Benefit Account"
 usc_title: 45
 usc_section: "1"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "45 U.S.C. § 1"
-generated_at: "2026-03-30T01:30:01.040Z"
+generated_at: "2026-03-30T01:33:21.353Z"
 ---
 
 # § 231n–1. Social Security Equivalent Benefit Account

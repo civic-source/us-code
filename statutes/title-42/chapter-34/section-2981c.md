@@ -3,9 +3,9 @@ title: "Section 2981c - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13
 usc_title: 42
 usc_section: "2981c"
 chapter: 34
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 2981c"
-generated_at: "2026-03-30T01:30:23.326Z"
+generated_at: "2026-03-30T01:33:39.998Z"
 ---
 
 # §§ 2981 to 2981c. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

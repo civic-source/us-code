@@ -3,9 +3,9 @@ title: "Section 11432 - Grants for State and local activities for the education 
 usc_title: 42
 usc_section: "11432"
 chapter: 119
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 11432"
-generated_at: "2026-03-30T01:30:23.544Z"
+generated_at: "2026-03-30T01:33:40.249Z"
 ---
 
 # § 11432. Grants for State and local activities for the education of homeless children and youths

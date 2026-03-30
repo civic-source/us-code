@@ -3,9 +3,9 @@ title: "Section 1 - Sampling and averaging; determination of weighted average du
 usc_title: 19
 usc_section: "1"
 chapter: 4
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "19 U.S.C. § 1"
-generated_at: "2026-03-30T01:27:44.932Z"
+generated_at: "2026-03-30T01:31:58.648Z"
 ---
 
 # § 1677f–1. Sampling and averaging; determination of weighted average dumping margin and countervailable subsidy rate

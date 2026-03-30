@@ -3,9 +3,9 @@ title: "Section 2075 - Center for Cultural and Technical Interchange Between Nor
 usc_title: 22
 usc_section: "2075"
 chapter: 29
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2075"
-generated_at: "2026-03-30T01:28:10.336Z"
+generated_at: "2026-03-30T01:32:53.290Z"
 ---
 
 # § 2075. Center for Cultural and Technical Interchange Between North and South

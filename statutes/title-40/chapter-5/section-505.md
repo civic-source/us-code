@@ -3,9 +3,9 @@ title: "Section 505 - Exchange or transfer of medical supplies"
 usc_title: 40
 usc_section: "505"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "40 U.S.C. § 505"
-generated_at: "2026-03-30T01:29:20.652Z"
+generated_at: "2026-03-30T01:33:15.487Z"
 ---
 
 # § 505. Exchange or transfer of medical supplies

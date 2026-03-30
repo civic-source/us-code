@@ -3,9 +3,9 @@ title: "Section 13541 - Research, development, demonstration, and commercial app
 usc_title: 42
 usc_section: "13541"
 chapter: 134
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 13541"
-generated_at: "2026-03-30T01:30:23.585Z"
+generated_at: "2026-03-30T01:33:40.298Z"
 ---
 
 # § 13541. Research, development, demonstration, and commercial application activities

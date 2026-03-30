@@ -3,9 +3,9 @@ title: "Section 231b - Computation of annuities"
 usc_title: 45
 usc_section: "231b"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "45 U.S.C. § 231b"
-generated_at: "2026-03-30T01:30:01.038Z"
+generated_at: "2026-03-30T01:33:21.348Z"
 ---
 
 # § 231b. Computation of annuities

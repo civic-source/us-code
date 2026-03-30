@@ -3,9 +3,9 @@ title: "Section 483 - Application of other laws; existing rights and remedies; e
 usc_title: 29
 usc_section: "483"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 483"
-generated_at: "2026-03-30T01:28:37.284Z"
+generated_at: "2026-03-30T01:33:06.551Z"
 ---
 
 # § 483. Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election

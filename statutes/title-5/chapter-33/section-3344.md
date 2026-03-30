@@ -3,9 +3,9 @@ title: "Section 3344 - Details; administrative law judges"
 usc_title: 5
 usc_section: "3344"
 chapter: 33
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 3344"
-generated_at: "2026-03-30T01:26:48.499Z"
+generated_at: "2026-03-30T01:31:06.768Z"
 ---
 
 # § 3344. Details; administrative law judges

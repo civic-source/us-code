@@ -3,9 +3,9 @@ title: "Section 16136 - Effect of part"
 usc_title: 42
 usc_section: "16136"
 chapter: 149
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 16136"
-generated_at: "2026-03-30T01:30:23.605Z"
+generated_at: "2026-03-30T01:33:40.321Z"
 ---
 
 # § 16136. Effect of part

@@ -3,9 +3,9 @@ title: "Section 2272 - Conditions on furnishing assistance"
 usc_title: 22
 usc_section: "2272"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2272"
-generated_at: "2026-03-30T01:28:10.346Z"
+generated_at: "2026-03-30T01:32:53.302Z"
 ---
 
 # § 2272. Conditions on furnishing assistance

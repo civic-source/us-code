@@ -3,9 +3,9 @@ title: "Section 1670 - Industrial development bonds"
 usc_title: 48
 usc_section: "1670"
 chapter: 13
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "48 U.S.C. § 1670"
-generated_at: "2026-03-30T01:30:34.775Z"
+generated_at: "2026-03-30T01:33:44.435Z"
 ---
 
 # § 1670. Industrial development bonds

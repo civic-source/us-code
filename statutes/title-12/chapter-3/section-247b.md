@@ -3,9 +3,9 @@ title: "Section 247b - Appearances before Congress"
 usc_title: 12
 usc_section: "247b"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 247b"
-generated_at: "2026-03-30T01:27:40.301Z"
+generated_at: "2026-03-30T01:31:52.492Z"
 ---
 
 # § 247b. Appearances before Congress

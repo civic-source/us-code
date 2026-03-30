@@ -3,9 +3,9 @@ title: "Section 1436b - Financial assistance in impacted areas"
 usc_title: 42
 usc_section: "1436b"
 chapter: 8
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 1436b"
-generated_at: "2026-03-30T01:30:23.245Z"
+generated_at: "2026-03-30T01:33:39.902Z"
 ---
 
 # § 1436b. Financial assistance in impacted areas

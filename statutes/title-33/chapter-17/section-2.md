@@ -3,9 +3,9 @@ title: "Section 2 - Criminal referral"
 usc_title: 33
 usc_section: "2"
 chapter: 17
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T01:29:02.721Z"
+generated_at: "2026-03-30T01:33:10.778Z"
 ---
 
 # § 894d–2. Criminal referral

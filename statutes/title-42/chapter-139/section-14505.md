@@ -3,9 +3,9 @@ title: "Section 14505 - Definitions"
 usc_title: 42
 usc_section: "14505"
 chapter: 139
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 14505"
-generated_at: "2026-03-30T01:30:23.590Z"
+generated_at: "2026-03-30T01:33:40.302Z"
 ---
 
 # § 14505. Definitions

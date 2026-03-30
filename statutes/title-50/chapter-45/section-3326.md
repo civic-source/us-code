@@ -3,9 +3,9 @@ title: "Section 3326 - Limitation of expenditure of funds appropriated for Depar
 usc_title: 50
 usc_section: "3326"
 chapter: 45
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "50 U.S.C. § 3326"
-generated_at: "2026-03-30T01:30:28.150Z"
+generated_at: "2026-03-30T01:34:01.624Z"
 ---
 
 # § 3326. Limitation of expenditure of funds appropriated for Department of Defense intelligence programs

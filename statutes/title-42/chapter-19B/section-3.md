@@ -3,9 +3,9 @@ title: "Section 3 - Utilization of personnel"
 usc_title: 42
 usc_section: "3"
 chapter: 19
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T01:30:23.294Z"
+generated_at: "2026-03-30T01:33:39.960Z"
 ---
 
 # § 1962d–3. Utilization of personnel

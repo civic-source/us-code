@@ -3,9 +3,9 @@ title: "Section 12591 - Quality assurance and proficiency testing standards"
 usc_title: 34
 usc_section: "12591"
 chapter: 121
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 12591"
-generated_at: "2026-03-30T01:29:17.461Z"
+generated_at: "2026-03-30T01:33:13.201Z"
 ---
 
 # § 12591. Quality assurance and proficiency testing standards

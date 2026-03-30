@@ -3,9 +3,9 @@ title: "Section 5633 - Transferred"
 usc_title: 42
 usc_section: "5633"
 chapter: 72
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 5633"
-generated_at: "2026-03-30T01:30:23.390Z"
+generated_at: "2026-03-30T01:33:40.072Z"
 ---
 
 # § 5633. Transferred

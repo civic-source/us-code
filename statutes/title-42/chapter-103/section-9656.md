@@ -3,9 +3,9 @@ title: "Section 9656 - Transportation of hazardous substances; listing as hazard
 usc_title: 42
 usc_section: "9656"
 chapter: 103
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 9656"
-generated_at: "2026-03-30T01:30:23.508Z"
+generated_at: "2026-03-30T01:33:40.208Z"
 ---
 
 # § 9656. Transportation of hazardous substances; listing as hazardous material; liability for release

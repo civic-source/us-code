@@ -3,9 +3,9 @@ title: "Section 2804 - Establishment of standards and criteria; publication in t
 usc_title: 22
 usc_section: "2804"
 chapter: 40
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2804"
-generated_at: "2026-03-30T01:28:10.379Z"
+generated_at: "2026-03-30T01:32:53.345Z"
 ---
 
 # § 2804. Establishment of standards and criteria; publication in the Federal Register

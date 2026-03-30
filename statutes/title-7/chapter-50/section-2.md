@@ -3,9 +3,9 @@ title: "Section 2 - Establishment"
 usc_title: 7
 usc_section: "2"
 chapter: 50
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T01:27:22.628Z"
+generated_at: "2026-03-30T01:31:25.069Z"
 ---
 
 # § 2009cc–2. Establishment

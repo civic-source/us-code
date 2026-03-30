@@ -3,9 +3,9 @@ title: "Section 927 - Limitation on recourse"
 usc_title: 11
 usc_section: "927"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "11 U.S.C. § 927"
-generated_at: "2026-03-30T01:27:30.937Z"
+generated_at: "2026-03-30T01:31:48.546Z"
 ---
 
 # § 927. Limitation on recourse

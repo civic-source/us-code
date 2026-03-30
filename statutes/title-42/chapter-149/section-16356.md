@@ -3,9 +3,9 @@ title: "Section 16356 - Report on equal employment opportunity practices"
 usc_title: 42
 usc_section: "16356"
 chapter: 149
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 16356"
-generated_at: "2026-03-30T01:30:23.618Z"
+generated_at: "2026-03-30T01:33:40.335Z"
 ---
 
 # § 16356. Report on equal employment opportunity practices

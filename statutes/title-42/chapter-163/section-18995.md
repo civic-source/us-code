@@ -3,9 +3,9 @@ title: "Section 18995 - Cyber workforce development research and development"
 usc_title: 42
 usc_section: "18995"
 chapter: 163
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 18995"
-generated_at: "2026-03-30T01:30:23.664Z"
+generated_at: "2026-03-30T01:33:40.391Z"
 ---
 
 # § 18995. Cyber workforce development research and development

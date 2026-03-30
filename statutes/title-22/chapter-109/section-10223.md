@@ -3,9 +3,9 @@ title: "Section 10223 - Sanctions and policy coordination for Burma"
 usc_title: 22
 usc_section: "10223"
 chapter: 109
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 10223"
-generated_at: "2026-03-30T01:28:10.462Z"
+generated_at: "2026-03-30T01:32:53.450Z"
 ---
 
 # § 10223. Sanctions and policy coordination for Burma

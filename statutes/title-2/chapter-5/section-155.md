@@ -3,9 +3,9 @@ title: "Section 155 - Compensation and expenses of Library of Congress Trust Fun
 usc_title: 2
 usc_section: "155"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 155"
-generated_at: "2026-03-30T01:26:39.623Z"
+generated_at: "2026-03-30T01:31:00.753Z"
 ---
 
 # § 155. Compensation and expenses of Library of Congress Trust Fund Board

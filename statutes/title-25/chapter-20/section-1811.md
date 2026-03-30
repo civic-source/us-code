@@ -3,9 +3,9 @@ title: "Section 1811 - Grant adjustments"
 usc_title: 25
 usc_section: "1811"
 chapter: 20
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "25 U.S.C. § 1811"
-generated_at: "2026-03-30T01:27:56.283Z"
+generated_at: "2026-03-30T01:32:46.584Z"
 ---
 
 # § 1811. Grant adjustments

@@ -3,9 +3,9 @@ title: "Section 9625 - Section 6921(b)(3)(A)(i) waste"
 usc_title: 42
 usc_section: "9625"
 chapter: 103
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 9625"
-generated_at: "2026-03-30T01:30:23.507Z"
+generated_at: "2026-03-30T01:33:40.207Z"
 ---
 
 # § 9625. Section 6921(b)(3)(A)(i) waste

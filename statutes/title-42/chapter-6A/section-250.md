@@ -3,9 +3,9 @@ title: "Section 250 - Medical care and treatment of Federal prisoners"
 usc_title: 42
 usc_section: "250"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 250"
-generated_at: "2026-03-30T01:30:22.920Z"
+generated_at: "2026-03-30T01:33:39.515Z"
 ---
 
 # § 250. Medical care and treatment of Federal prisoners

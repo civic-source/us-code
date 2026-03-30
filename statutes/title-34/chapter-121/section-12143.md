@@ -3,9 +3,9 @@ title: "Section 12143 - Program requirements"
 usc_title: 34
 usc_section: "12143"
 chapter: 121
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 12143"
-generated_at: "2026-03-30T01:29:17.450Z"
+generated_at: "2026-03-30T01:33:13.192Z"
 ---
 
 # § 12143. Program requirements

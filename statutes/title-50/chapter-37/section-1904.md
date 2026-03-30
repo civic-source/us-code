@@ -3,9 +3,9 @@ title: "Section 1904 - National Security Education Trust Fund"
 usc_title: 50
 usc_section: "1904"
 chapter: 37
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "50 U.S.C. § 1904"
-generated_at: "2026-03-30T01:30:28.119Z"
+generated_at: "2026-03-30T01:34:01.593Z"
 ---
 
 # § 1904. National Security Education Trust Fund

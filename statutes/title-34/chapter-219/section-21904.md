@@ -3,9 +3,9 @@ title: "Section 21904 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "21904"
 chapter: 219
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 21904"
-generated_at: "2026-03-30T01:29:17.475Z"
+generated_at: "2026-03-30T01:33:13.217Z"
 ---
 
 # § 21904. Minimum standards for issuance and dissemination of alerts through Ashanti Alert communications network

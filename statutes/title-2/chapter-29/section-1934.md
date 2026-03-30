@@ -3,9 +3,9 @@ title: "Section 1934 - Waiver by Chief of Capitol Police of claims arising out o
 usc_title: 2
 usc_section: "1934"
 chapter: 29
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 1934"
-generated_at: "2026-03-30T01:26:39.654Z"
+generated_at: "2026-03-30T01:31:00.782Z"
 ---
 
 # § 1934. Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees

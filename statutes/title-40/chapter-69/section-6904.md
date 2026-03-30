@@ -3,9 +3,9 @@ title: "Section 6904 - Acquisition, maintenance, and use of property"
 usc_title: 40
 usc_section: "6904"
 chapter: 69
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "40 U.S.C. § 6904"
-generated_at: "2026-03-30T01:29:20.662Z"
+generated_at: "2026-03-30T01:33:15.498Z"
 ---
 
 # § 6904. Acquisition, maintenance, and use of property

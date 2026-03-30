@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of fish hatchery in Montana"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T01:27:49.883Z"
+generated_at: "2026-03-30T01:32:02.222Z"
 ---
 
 # § 760–2. Establishment of fish hatchery in Montana

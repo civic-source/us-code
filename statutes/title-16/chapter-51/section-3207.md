@@ -3,9 +3,9 @@ title: "Section 3207 - Effect on existing rights; water resources"
 usc_title: 16
 usc_section: "3207"
 chapter: 51
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 3207"
-generated_at: "2026-03-30T01:27:49.962Z"
+generated_at: "2026-03-30T01:32:02.302Z"
 ---
 
 # § 3207. Effect on existing rights; water resources

@@ -3,9 +3,9 @@ title: "Section 535 - Accumulated taxable income"
 usc_title: 26
 usc_section: "535"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "26 U.S.C. § 535"
-generated_at: "2026-03-30T01:28:57.430Z"
+generated_at: "2026-03-30T01:33:05.420Z"
 ---
 
 # § 535. Accumulated taxable income

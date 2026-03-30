@@ -3,9 +3,9 @@ title: "Section 7461 - Definitions"
 usc_title: 15
 usc_section: "7461"
 chapter: 100
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 7461"
-generated_at: "2026-03-30T01:27:29.356Z"
+generated_at: "2026-03-30T01:31:32.582Z"
 ---
 
 # § 7461. Definitions

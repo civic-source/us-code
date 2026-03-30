@@ -3,9 +3,9 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-30T01:27:52.072Z"
+generated_at: "2026-03-30T01:32:23.082Z"
 ---
 
 # § 1078. Federal payments to reduce student interest costs
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T01:27:52.072Z"
         - **(II)** sets forth a schedule for disbursement of the proceeds of the loan in installments, consistent with the requirements of section 1078–7 of this title ;
       - **(ii)** meet the requirements of subparagraph (B); and
       - **(iii)** have provided to the lender at the time of application for a loan made, insured, or guaranteed under this part, the student’s driver’s number, if any.
-    - **(B)** For the purpose of clause (ii) of subparagraph (A), a student shall qualify for a portion of an interest payment under paragraph (1) if the eligible institution has determined and documented the student’s amount of need for a loan based on the student’s estimated cost of attendance, estimated financial assistance, and, for the purpose of an interest payment pursuant to this section, expected family contribution (as determined under part F), subject to the provisions of subparagraph (D).
+    - **(B)** For the purpose of clause (ii) of subparagraph (A), a student shall qualify for a portion of an interest payment under paragraph (1) if the eligible institution has determined and documented the student’s amount of need for a loan based on the student’s estimated cost of attendance, estimated financial assistance, and, for the purpose of an interest payment pursuant to this section, student aid index (as determined under part F), subject to the provisions of subparagraph (D).
     - **(C)** For the purpose of this paragraph—
       - **(i)** a student’s cost of attendance shall be determined under section 1087 ll of this title;
       - **(ii)** a student’s estimated financial assistance means, for the period for which the loan is sought—
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T01:27:52.072Z"
         - **(II)** other scholarship, grant, or loan assistance, but excluding—
       - **(iii)** the determination of need and of the amount of a loan by an eligible institution under subparagraph (B) with respect to a student shall be calculated in accordance with part F.
     - **(D)** An eligible institution may not, in carrying out the provisions of subparagraphs (A) and (B) of this paragraph, provide a statement which certifies the eligibility of any student to receive any loan under this part in excess of the maximum amount applicable to such loan.
-    - **(E)** For the purpose of subparagraphs (B) and (C) of this paragraph, any loan obtained by a student under section 1078–1 1 1 See References in Text note below. or 1078–8 of this title or a parent under section 1078–2 of this title or under any State-sponsored or private loan program for an academic year for which the determination is made may be used to offset the expected family contribution of the student for that year.
+    - **(E)** For the purpose of subparagraphs (B) and (C) of this paragraph, any loan obtained by a student under section 1078–1 1 1 See References in Text note below. or 1078–8 of this title or a parent under section 1078–2 of this title or under any State-sponsored or private loan program for an academic year for which the determination is made may be used to offset the student aid index of the student for that year.
   - **(3)**
     - **(A)**
       - **(i)** Subject to section 1087–1(c) of this title , the portion of the interest on a loan which a student is entitled to have paid, on behalf of and for the account of the student, to the holder of the loan pursuant to paragraph (1) of this subsection shall be equal to the total amount of the interest on the unpaid principal amount of the loan—

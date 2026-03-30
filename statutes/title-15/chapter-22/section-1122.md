@@ -3,9 +3,9 @@ title: "Section 1122 - Liability of United States and States, and instrumentalit
 usc_title: 15
 usc_section: "1122"
 chapter: 22
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 1122"
-generated_at: "2026-03-30T01:27:29.245Z"
+generated_at: "2026-03-30T01:31:32.491Z"
 ---
 
 # § 1122. Liability of United States and States, and instrumentalities and officials thereof

@@ -3,9 +3,9 @@ title: "Section 690 - Definitions"
 usc_title: 15
 usc_section: "690"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 690"
-generated_at: "2026-03-30T01:27:29.228Z"
+generated_at: "2026-03-30T01:31:32.476Z"
 ---
 
 # § 690. Definitions

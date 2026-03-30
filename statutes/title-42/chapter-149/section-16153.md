@@ -3,9 +3,9 @@ title: "Section 16153 - Plan"
 usc_title: 42
 usc_section: "16153"
 chapter: 149
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 16153"
-generated_at: "2026-03-30T01:30:23.607Z"
+generated_at: "2026-03-30T01:33:40.321Z"
 ---
 
 # § 16153. Plan

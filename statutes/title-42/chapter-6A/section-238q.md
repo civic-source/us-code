@@ -3,9 +3,9 @@ title: "Section 238q - Liability regarding emergency use of automated external d
 usc_title: 42
 usc_section: "238q"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 238q"
-generated_at: "2026-03-30T01:30:22.903Z"
+generated_at: "2026-03-30T01:33:39.495Z"
 ---
 
 # § 238q. Liability regarding emergency use of automated external defibrillators

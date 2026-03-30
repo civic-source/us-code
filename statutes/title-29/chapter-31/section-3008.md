@@ -3,9 +3,9 @@ title: "Section 3008 - Authorization of appropriations; reservations and distrib
 usc_title: 29
 usc_section: "3008"
 chapter: 31
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 3008"
-generated_at: "2026-03-30T01:28:37.347Z"
+generated_at: "2026-03-30T01:33:06.611Z"
 ---
 
 # § 3008. Authorization of appropriations; reservations and distribution of funds

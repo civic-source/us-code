@@ -3,9 +3,9 @@ title: "Section 152306 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "152306"
 chapter: 1523
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 152306"
-generated_at: "2026-03-30T01:29:20.223Z"
+generated_at: "2026-03-30T01:33:17.153Z"
 ---
 
 # § 152306. Exclusive right to name, seals, emblems, and badges

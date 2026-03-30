@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 20
 usc_section: "5"
 chapter: 8
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T01:27:52.046Z"
+generated_at: "2026-03-30T01:32:23.054Z"
 ---
 
 # § 130aa–5. Authorization of appropriations

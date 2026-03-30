@@ -3,9 +3,9 @@ title: "Section 541b - Boundaries of scenic-research area; adjustments to subare
 usc_title: 16
 usc_section: "541b"
 chapter: 2
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 541b"
-generated_at: "2026-03-30T01:27:49.855Z"
+generated_at: "2026-03-30T01:32:02.194Z"
 ---
 
 # § 541b. Boundaries of scenic-research area; adjustments to subarea boundaries; development of management plan; establishment of subareas; management objectives

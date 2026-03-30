@@ -3,9 +3,9 @@ title: "Section 20239 - Promotions: how made"
 usc_title: 10
 usc_section: "20239"
 chapter: 2005
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 20239"
-generated_at: "2026-03-30T01:27:06.564Z"
+generated_at: "2026-03-30T01:31:16.585Z"
 ---
 
 # § 20239. Promotions: how made

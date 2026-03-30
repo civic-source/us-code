@@ -3,9 +3,9 @@ title: "Section 2805 - Relation to State laws"
 usc_title: 12
 usc_section: "2805"
 chapter: 29
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 2805"
-generated_at: "2026-03-30T01:27:40.412Z"
+generated_at: "2026-03-30T01:31:52.637Z"
 ---
 
 # § 2805. Relation to State laws

@@ -3,9 +3,9 @@ title: "Section 7107 - Duration of certificates of registry"
 usc_title: 46
 usc_section: "7107"
 chapter: 71
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "46 U.S.C. § 7107"
-generated_at: "2026-03-30T01:30:36.911Z"
+generated_at: "2026-03-30T01:33:45.527Z"
 ---
 
 # § 7107. Duration of certificates of registry

@@ -3,9 +3,9 @@ title: "Section 1875 - Omitted"
 usc_title: 15
 usc_section: "1875"
 chapter: 45
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 1875"
-generated_at: "2026-03-30T01:27:29.284Z"
+generated_at: "2026-03-30T01:31:32.523Z"
 ---
 
 # §§ 1861 to 1875. Omitted

@@ -3,9 +3,9 @@ title: "Section 7610 - Fees and costs for witnesses"
 usc_title: 26
 usc_section: "7610"
 chapter: 78
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "26 U.S.C. § 7610"
-generated_at: "2026-03-30T01:28:57.608Z"
+generated_at: "2026-03-30T01:33:05.576Z"
 ---
 
 # § 7610. Fees and costs for witnesses

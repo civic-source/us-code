@@ -3,9 +3,9 @@ title: "Section 3631 - Violations; penalties"
 usc_title: 42
 usc_section: "3631"
 chapter: 45
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 3631"
-generated_at: "2026-03-30T01:30:23.349Z"
+generated_at: "2026-03-30T01:33:40.026Z"
 ---
 
 # § 3631. Violations; penalties

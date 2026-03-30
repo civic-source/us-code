@@ -3,9 +3,9 @@ title: "Section 7654 - Pilot program of assistance for children and families aff
 usc_title: 22
 usc_section: "7654"
 chapter: 83
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 7654"
-generated_at: "2026-03-30T01:28:10.433Z"
+generated_at: "2026-03-30T01:32:53.414Z"
 ---
 
 # § 7654. Pilot program of assistance for children and families affected by HIV/AIDS

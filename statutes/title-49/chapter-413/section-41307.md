@@ -3,9 +3,9 @@ title: "Section 41307 - Presidential review of actions about foreign air transpo
 usc_title: 49
 usc_section: "41307"
 chapter: 413
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 41307"
-generated_at: "2026-03-30T01:30:46.259Z"
+generated_at: "2026-03-30T01:33:49.610Z"
 ---
 
 # § 41307. Presidential review of actions about foreign air transportation

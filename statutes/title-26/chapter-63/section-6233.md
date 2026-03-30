@@ -3,9 +3,9 @@ title: "Section 6233 - Interest and penalties"
 usc_title: 26
 usc_section: "6233"
 chapter: 63
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "26 U.S.C. § 6233"
-generated_at: "2026-03-30T01:28:57.573Z"
+generated_at: "2026-03-30T01:33:05.542Z"
 ---
 
 # § 6233. Interest and penalties

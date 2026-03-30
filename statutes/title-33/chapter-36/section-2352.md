@@ -3,9 +3,9 @@ title: "Section 2352 - Funding to process permits"
 usc_title: 33
 usc_section: "2352"
 chapter: 36
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 2352"
-generated_at: "2026-03-30T01:29:02.775Z"
+generated_at: "2026-03-30T01:33:10.832Z"
 ---
 
 # § 2352. Funding to process permits

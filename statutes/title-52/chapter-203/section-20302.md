@@ -3,9 +3,9 @@ title: "Section 20302 - State responsibilities"
 usc_title: 52
 usc_section: "20302"
 chapter: 203
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "52 U.S.C. § 20302"
-generated_at: "2026-03-30T01:30:48.799Z"
+generated_at: "2026-03-30T01:34:03.379Z"
 ---
 
 # § 20302. State responsibilities

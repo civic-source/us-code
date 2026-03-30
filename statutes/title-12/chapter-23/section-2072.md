@@ -3,9 +3,9 @@ title: "Section 2072 - Board of directors"
 usc_title: 12
 usc_section: "2072"
 chapter: 23
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 2072"
-generated_at: "2026-03-30T01:27:40.396Z"
+generated_at: "2026-03-30T01:31:52.616Z"
 ---
 
 # § 2072. Board of directors

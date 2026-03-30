@@ -3,9 +3,9 @@ title: "Section 107 - Public access to papers"
 usc_title: 11
 usc_section: "107"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "11 U.S.C. § 107"
-generated_at: "2026-03-30T01:27:30.923Z"
+generated_at: "2026-03-30T01:31:48.529Z"
 ---
 
 # § 107. Public access to papers

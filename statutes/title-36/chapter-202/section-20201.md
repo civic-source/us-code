@@ -3,9 +3,9 @@ title: "Section 20201 - Definition"
 usc_title: 36
 usc_section: "20201"
 chapter: 202
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "36 U.S.C. § 20201"
-generated_at: "2026-03-30T01:29:20.211Z"
+generated_at: "2026-03-30T01:33:17.137Z"
 ---
 
 # § 20201. Definition

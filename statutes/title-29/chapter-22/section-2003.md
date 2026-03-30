@@ -3,9 +3,9 @@ title: "Section 2003 - Notice of protection"
 usc_title: 29
 usc_section: "2003"
 chapter: 22
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 2003"
-generated_at: "2026-03-30T01:28:37.340Z"
+generated_at: "2026-03-30T01:33:06.605Z"
 ---
 
 # § 2003. Notice of protection

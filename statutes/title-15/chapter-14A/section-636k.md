@@ -3,9 +3,9 @@ title: "Section 636k - Reports on disaster assistance"
 usc_title: 15
 usc_section: "636k"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 636k"
-generated_at: "2026-03-30T01:27:29.208Z"
+generated_at: "2026-03-30T01:31:32.458Z"
 ---
 
 # § 636k. Reports on disaster assistance

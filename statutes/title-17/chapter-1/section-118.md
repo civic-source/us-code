@@ -3,9 +3,9 @@ title: "Section 118 - Scope of exclusive rights: Use of certain works in connect
 usc_title: 17
 usc_section: "118"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "17 U.S.C. § 118"
-generated_at: "2026-03-30T01:27:45.184Z"
+generated_at: "2026-03-30T01:31:55.219Z"
 ---
 
 # § 118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting

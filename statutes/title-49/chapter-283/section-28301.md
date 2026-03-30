@@ -3,9 +3,9 @@ title: "Section 28301 - General"
 usc_title: 49
 usc_section: "28301"
 chapter: 283
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 28301"
-generated_at: "2026-03-30T01:30:46.237Z"
+generated_at: "2026-03-30T01:33:49.587Z"
 ---
 
 # § 28301. General

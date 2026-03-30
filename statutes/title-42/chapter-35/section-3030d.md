@@ -3,9 +3,9 @@ title: "Section 3030d - Grants for supportive services"
 usc_title: 42
 usc_section: "3030d"
 chapter: 35
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 3030d"
-generated_at: "2026-03-30T01:30:23.334Z"
+generated_at: "2026-03-30T01:33:40.008Z"
 ---
 
 # § 3030d. Grants for supportive services

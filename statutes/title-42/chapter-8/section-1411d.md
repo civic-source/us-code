@@ -3,9 +3,9 @@ title: "Section 1411d - Repealed. Pub. L. 93–383, title II, § 204 , Aug. 22, 
 usc_title: 42
 usc_section: "1411d"
 chapter: 8
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 1411d"
-generated_at: "2026-03-30T01:30:23.245Z"
+generated_at: "2026-03-30T01:33:39.902Z"
 ---
 
 # § 1411d. Repealed. Pub. L. 93–383, title II, § 204 , Aug. 22, 1974 , 88 Stat. 668

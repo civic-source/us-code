@@ -3,9 +3,9 @@ title: "Section 4103 - Appraisal and preservation value of eligible low-income h
 usc_title: 12
 usc_section: "4103"
 chapter: 42
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 4103"
-generated_at: "2026-03-30T01:27:40.424Z"
+generated_at: "2026-03-30T01:31:52.653Z"
 ---
 
 # § 4103. Appraisal and preservation value of eligible low-income housing

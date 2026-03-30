@@ -3,9 +3,9 @@ title: "Section 938 - Full faith and credit of the United States"
 usc_title: 7
 usc_section: "938"
 chapter: 31
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 938"
-generated_at: "2026-03-30T01:27:22.571Z"
+generated_at: "2026-03-30T01:31:25.012Z"
 ---
 
 # § 938. Full faith and credit of the United States

@@ -3,9 +3,9 @@ title: "Section 601 - Letters carried out of the mail"
 usc_title: 39
 usc_section: "601"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "39 U.S.C. § 601"
-generated_at: "2026-03-30T01:29:27.566Z"
+generated_at: "2026-03-30T01:33:17.366Z"
 ---
 
 # § 601. Letters carried out of the mail

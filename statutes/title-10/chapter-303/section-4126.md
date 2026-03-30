@@ -3,9 +3,9 @@ title: "Section 4126 - Use of federally funded research and development centers"
 usc_title: 10
 usc_section: "4126"
 chapter: 303
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 4126"
-generated_at: "2026-03-30T01:27:06.513Z"
+generated_at: "2026-03-30T01:31:16.533Z"
 ---
 
 # § 4126. Use of federally funded research and development centers

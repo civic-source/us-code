@@ -3,9 +3,9 @@ title: "Section 4587 - Notice of service"
 usc_title: 12
 usc_section: "4587"
 chapter: 46
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 4587"
-generated_at: "2026-03-30T01:27:40.435Z"
+generated_at: "2026-03-30T01:31:52.664Z"
 ---
 
 # § 4587. Notice of service

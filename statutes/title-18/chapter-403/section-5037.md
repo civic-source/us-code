@@ -3,9 +3,9 @@ title: "Section 5037 - Dispositional hearing"
 usc_title: 18
 usc_section: "5037"
 chapter: 403
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "18 U.S.C. § 5037"
-generated_at: "2026-03-30T01:27:46.479Z"
+generated_at: "2026-03-30T01:31:56.817Z"
 ---
 
 # § 5037. Dispositional hearing

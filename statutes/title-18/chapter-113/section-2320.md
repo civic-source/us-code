@@ -3,9 +3,9 @@ title: "Section 2320 - Trafficking in counterfeit goods or services"
 usc_title: 18
 usc_section: "2320"
 chapter: 113
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "18 U.S.C. § 2320"
-generated_at: "2026-03-30T01:27:46.452Z"
+generated_at: "2026-03-30T01:31:56.787Z"
 ---
 
 # § 2320. Trafficking in counterfeit goods or services

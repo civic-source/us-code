@@ -3,9 +3,9 @@ title: "Section 1651 - Repeals"
 usc_title: 19
 usc_section: "1651"
 chapter: 4
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "19 U.S.C. § 1651"
-generated_at: "2026-03-30T01:27:44.925Z"
+generated_at: "2026-03-30T01:31:58.640Z"
 ---
 
 # § 1651. Repeals

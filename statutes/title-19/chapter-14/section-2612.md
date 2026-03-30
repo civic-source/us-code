@@ -3,9 +3,9 @@ title: "Section 2612 - Regulations"
 usc_title: 19
 usc_section: "2612"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "19 U.S.C. § 2612"
-generated_at: "2026-03-30T01:27:44.954Z"
+generated_at: "2026-03-30T01:31:58.670Z"
 ---
 
 # § 2612. Regulations

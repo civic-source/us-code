@@ -3,9 +3,9 @@ title: "Section 337 - Repealed. Pub. L. 89–485, § 13(g) , July 1, 1966 , 80 S
 usc_title: 12
 usc_section: "337"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 337"
-generated_at: "2026-03-30T01:27:40.304Z"
+generated_at: "2026-03-30T01:31:52.495Z"
 ---
 
 # § 337. Repealed. Pub. L. 89–485, § 13(g) , July 1, 1966 , 80 Stat. 243

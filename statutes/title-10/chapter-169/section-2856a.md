@@ -3,9 +3,9 @@ title: "Section 2856a - Covered military unaccompanied housing: waivers of cover
 usc_title: 10
 usc_section: "2856a"
 chapter: 169
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 2856a"
-generated_at: "2026-03-30T01:27:06.497Z"
+generated_at: "2026-03-30T01:31:16.517Z"
 ---
 
 # § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards

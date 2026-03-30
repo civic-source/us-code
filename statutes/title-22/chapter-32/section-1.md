@@ -3,9 +3,9 @@ title: "Section 1 - Annual report on nuclear transfer activities"
 usc_title: 22
 usc_section: "1"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T01:28:10.358Z"
+generated_at: "2026-03-30T01:32:53.319Z"
 ---
 
 # § 2429a–1. Annual report on nuclear transfer activities

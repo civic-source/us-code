@@ -3,9 +3,9 @@ title: "Section 1457 - Publication and distribution of citizenship textbooks; us
 usc_title: 8
 usc_section: "1457"
 chapter: 12
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "8 U.S.C. § 1457"
-generated_at: "2026-03-30T01:26:59.284Z"
+generated_at: "2026-03-30T01:31:10.428Z"
 ---
 
 # § 1457. Publication and distribution of citizenship textbooks; use of naturalization fees

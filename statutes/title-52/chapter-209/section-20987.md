@@ -3,9 +3,9 @@ title: "Section 20987 - Consultation with Standards Board and Board of Advisors"
 usc_title: 52
 usc_section: "20987"
 chapter: 209
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "52 U.S.C. § 20987"
-generated_at: "2026-03-30T01:30:48.804Z"
+generated_at: "2026-03-30T01:34:03.385Z"
 ---
 
 # § 20987. Consultation with Standards Board and Board of Advisors

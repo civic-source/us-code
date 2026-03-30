@@ -3,9 +3,9 @@ title: "Section 667h - Chronic Wasting Disease Task Force"
 usc_title: 16
 usc_section: "667h"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 667h"
-generated_at: "2026-03-30T01:27:49.869Z"
+generated_at: "2026-03-30T01:32:02.209Z"
 ---
 
 # § 667h. Chronic Wasting Disease Task Force

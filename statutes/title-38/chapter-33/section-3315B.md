@@ -3,9 +3,9 @@ title: "Section 3315B - Preparatory courses for licensure, certification, or nat
 usc_title: 38
 usc_section: "3315B"
 chapter: 33
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 3315B"
-generated_at: "2026-03-30T01:29:50.752Z"
+generated_at: "2026-03-30T01:33:18.923Z"
 ---
 
 # § 3315B. Preparatory courses for licensure, certification, or national tests

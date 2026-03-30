@@ -3,9 +3,9 @@ title: "Section 360ss - State standards"
 usc_title: 21
 usc_section: "360ss"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "21 U.S.C. § 360ss"
-generated_at: "2026-03-30T01:27:58.358Z"
+generated_at: "2026-03-30T01:32:33.247Z"
 ---
 
 # § 360ss. State standards

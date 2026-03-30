@@ -3,9 +3,9 @@ title: "Section 3202 - Purposes"
 usc_title: 33
 usc_section: "3202"
 chapter: 45
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 3202"
-generated_at: "2026-03-30T01:29:02.784Z"
+generated_at: "2026-03-30T01:33:10.841Z"
 ---
 
 # § 3202. Purposes

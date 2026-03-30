@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-30T01:27:52.095Z"
+generated_at: "2026-03-30T01:32:23.102Z"
 ---
 
 # § 1092. Institutional and financial assistance information for students
@@ -303,8 +303,6 @@ generated_at: "2026-03-30T01:27:52.095Z"
     - **(A)** to provide a private right of action to any person to enforce any provision of this subsection; or
     - **(B)** to create a cause of action against any institution of higher education or any employee of the institution for any civil liability.
 - **(k)**
-  - **(1)** Each institution of higher education shall provide to each student, upon enrollment, a separate, clear, and conspicuous written notice that advises the student of the penalties under section 1091(r) of this title .
-  - **(2)** An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title .
 - **(l)**
   - **(1)**
     - **(A)** Each eligible institution shall, at or prior to the time of a disbursement to a first-time borrower of a loan made, insured, or guaranteed under part B (other than a loan made pursuant to section 1078–3 of this title or a loan made on behalf of a student pursuant to section 1078–2 of this title ) or made under part D (other than a Federal Direct Consolidation Loan or a Federal Direct PLUS loan made on behalf of a student), ensure that the borrower receives comprehensive information on the terms and conditions of the loan and of the responsibilities the borrower has with respect to such loan in accordance with paragraph (2). Such information—

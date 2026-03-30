@@ -3,9 +3,9 @@ title: "Section 1973 - Forfeiture"
 usc_title: 38
 usc_section: "1973"
 chapter: 19
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "38 U.S.C. § 1973"
-generated_at: "2026-03-30T01:29:50.740Z"
+generated_at: "2026-03-30T01:33:18.910Z"
 ---
 
 # § 1973. Forfeiture

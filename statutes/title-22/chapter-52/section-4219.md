@@ -3,9 +3,9 @@ title: "Section 4219 - Regulation of fees by President"
 usc_title: 22
 usc_section: "4219"
 chapter: 52
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 4219"
-generated_at: "2026-03-30T01:28:10.400Z"
+generated_at: "2026-03-30T01:32:53.372Z"
 ---
 
 # § 4219. Regulation of fees by President

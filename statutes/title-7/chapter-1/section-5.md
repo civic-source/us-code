@@ -3,9 +3,9 @@ title: "Section 5 - Findings and purpose"
 usc_title: 7
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T01:27:22.515Z"
+generated_at: "2026-03-30T01:31:24.960Z"
 ---
 
 # § 5. Findings and purpose

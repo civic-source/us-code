@@ -3,9 +3,9 @@ title: "Section 77 - Alabama coal lands; agricultural entry"
 usc_title: 30
 usc_section: "77"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "30 U.S.C. § 77"
-generated_at: "2026-03-30T01:28:13.096Z"
+generated_at: "2026-03-30T01:32:59.481Z"
 ---
 
 # § 77. Alabama coal lands; agricultural entry

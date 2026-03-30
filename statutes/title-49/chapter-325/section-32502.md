@@ -3,9 +3,9 @@ title: "Section 32502 - Bumper standards"
 usc_title: 49
 usc_section: "32502"
 chapter: 325
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 32502"
-generated_at: "2026-03-30T01:30:46.249Z"
+generated_at: "2026-03-30T01:33:49.600Z"
 ---
 
 # § 32502. Bumper standards

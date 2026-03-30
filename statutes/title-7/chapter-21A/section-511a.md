@@ -3,9 +3,9 @@ title: "Section 511a - Declaration of purpose"
 usc_title: 7
 usc_section: "511a"
 chapter: 21
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 511a"
-generated_at: "2026-03-30T01:27:22.562Z"
+generated_at: "2026-03-30T01:31:25.004Z"
 ---
 
 # § 511a. Declaration of purpose

@@ -3,9 +3,9 @@ title: "Section 13503 - Exempt motor vehicle transportation in terminal areas"
 usc_title: 49
 usc_section: "13503"
 chapter: 135
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 13503"
-generated_at: "2026-03-30T01:30:46.216Z"
+generated_at: "2026-03-30T01:33:49.567Z"
 ---
 
 # § 13503. Exempt motor vehicle transportation in terminal areas

@@ -3,9 +3,9 @@ title: "Section 2385 - Employment of personnel"
 usc_title: 22
 usc_section: "2385"
 chapter: 32
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "22 U.S.C. § 2385"
-generated_at: "2026-03-30T01:28:10.355Z"
+generated_at: "2026-03-30T01:32:53.314Z"
 ---
 
 # § 2385. Employment of personnel

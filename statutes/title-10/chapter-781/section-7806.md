@@ -3,9 +3,9 @@ title: "Section 7806 - Settlement or compromise: final and conclusive"
 usc_title: 10
 usc_section: "7806"
 chapter: 781
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 7806"
-generated_at: "2026-03-30T01:27:06.530Z"
+generated_at: "2026-03-30T01:31:16.550Z"
 ---
 
 # § 7806. Settlement or compromise: final and conclusive

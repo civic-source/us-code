@@ -3,9 +3,9 @@ title: "Section 2005f - Supervision or control of assisted hospitals"
 usc_title: 42
 usc_section: "2005f"
 chapter: 22
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 2005f"
-generated_at: "2026-03-30T01:30:23.304Z"
+generated_at: "2026-03-30T01:33:39.973Z"
 ---
 
 # § 2005f. Supervision or control of assisted hospitals

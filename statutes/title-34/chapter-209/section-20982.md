@@ -3,9 +3,9 @@ title: "Section 20982 - Assistance for prosecution of cases cleared through use 
 usc_title: 34
 usc_section: "20982"
 chapter: 209
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 20982"
-generated_at: "2026-03-30T01:29:17.472Z"
+generated_at: "2026-03-30T01:33:13.213Z"
 ---
 
 # § 20982. Assistance for prosecution of cases cleared through use of DNA backlog clearance funds

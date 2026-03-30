@@ -3,9 +3,9 @@ title: "Section 659 - Sea lions; acts prohibiting killing repealed"
 usc_title: 16
 usc_section: "659"
 chapter: 5
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 659"
-generated_at: "2026-03-30T01:27:49.868Z"
+generated_at: "2026-03-30T01:32:02.207Z"
 ---
 
 # § 659. Sea lions; acts prohibiting killing repealed

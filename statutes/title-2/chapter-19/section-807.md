@@ -3,9 +3,9 @@ title: "Section 807 - Audits"
 usc_title: 2
 usc_section: "807"
 chapter: 19
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "2 U.S.C. § 807"
-generated_at: "2026-03-30T01:26:39.636Z"
+generated_at: "2026-03-30T01:31:00.765Z"
 ---
 
 # § 807. Audits

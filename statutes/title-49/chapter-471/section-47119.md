@@ -3,9 +3,9 @@ title: "Section 47119 - Terminal development costs"
 usc_title: 49
 usc_section: "47119"
 chapter: 471
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 47119"
-generated_at: "2026-03-30T01:30:46.288Z"
+generated_at: "2026-03-30T01:33:49.636Z"
 ---
 
 # § 47119. Terminal development costs

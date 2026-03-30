@@ -3,9 +3,9 @@ title: "Section 1715k - Rehabilitation and neighborhood conservation housing ins
 usc_title: 12
 usc_section: "1715k"
 chapter: 13
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 1715k"
-generated_at: "2026-03-30T01:27:40.338Z"
+generated_at: "2026-03-30T01:31:52.543Z"
 ---
 
 # § 1715k. Rehabilitation and neighborhood conservation housing insurance

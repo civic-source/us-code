@@ -3,9 +3,9 @@ title: "Section 8438 - Investment of Thrift Savings Fund"
 usc_title: 5
 usc_section: "8438"
 chapter: 84
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "5 U.S.C. § 8438"
-generated_at: "2026-03-30T01:26:48.541Z"
+generated_at: "2026-03-30T01:31:06.805Z"
 ---
 
 # § 8438. Investment of Thrift Savings Fund

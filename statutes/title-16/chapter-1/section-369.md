@@ -3,9 +3,9 @@ title: "Section 369 - Charges assessable against bath attendants and masseurs an
 usc_title: 16
 usc_section: "369"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 369"
-generated_at: "2026-03-30T01:27:49.771Z"
+generated_at: "2026-03-30T01:32:02.109Z"
 ---
 
 # § 369. Charges assessable against bath attendants and masseurs and physicians prescribing use of hot waters

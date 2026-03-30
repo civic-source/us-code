@@ -3,9 +3,9 @@ title: "Section 187b - Oil or gas leases; written relinquishment of rights; rele
 usc_title: 30
 usc_section: "187b"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "30 U.S.C. § 187b"
-generated_at: "2026-03-30T01:28:13.098Z"
+generated_at: "2026-03-30T01:32:59.483Z"
 ---
 
 # § 187b. Oil or gas leases; written relinquishment of rights; release of obligations

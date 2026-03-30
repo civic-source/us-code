@@ -3,9 +3,9 @@ title: "Section 70013 - Requirement to notify Coast Guard of release of objects 
 usc_title: 46
 usc_section: "70013"
 chapter: 700
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "46 U.S.C. § 70013"
-generated_at: "2026-03-30T01:30:36.940Z"
+generated_at: "2026-03-30T01:33:45.560Z"
 ---
 
 # § 70013. Requirement to notify Coast Guard of release of objects into the navigable waters of the United States

@@ -3,9 +3,9 @@ title: "Section 3056p - Definitions and rule"
 usc_title: 42
 usc_section: "3056p"
 chapter: 35
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 3056p"
-generated_at: "2026-03-30T01:30:23.337Z"
+generated_at: "2026-03-30T01:33:40.012Z"
 ---
 
 # § 3056p. Definitions and rule

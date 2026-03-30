@@ -3,9 +3,9 @@ title: "Section 2454 - Supply catalog: new or obsolete items"
 usc_title: 10
 usc_section: "2454"
 chapter: 145
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "10 U.S.C. § 2454"
-generated_at: "2026-03-30T01:27:06.481Z"
+generated_at: "2026-03-30T01:31:16.501Z"
 ---
 
 # § 2454. Supply catalog: new or obsolete items

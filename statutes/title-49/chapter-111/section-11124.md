@@ -3,9 +3,9 @@ title: "Section 11124 - War emergencies; embargoes imposed by carriers"
 usc_title: 49
 usc_section: "11124"
 chapter: 111
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "49 U.S.C. § 11124"
-generated_at: "2026-03-30T01:30:46.214Z"
+generated_at: "2026-03-30T01:33:49.563Z"
 ---
 
 # § 11124. War emergencies; embargoes imposed by carriers

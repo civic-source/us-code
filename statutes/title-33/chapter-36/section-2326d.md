@@ -3,9 +3,9 @@ title: "Section 2326d - Alternative projects to maintenance dredging"
 usc_title: 33
 usc_section: "2326d"
 chapter: 36
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 2326d"
-generated_at: "2026-03-30T01:29:02.771Z"
+generated_at: "2026-03-30T01:33:10.828Z"
 ---
 
 # § 2326d. Alternative projects to maintenance dredging

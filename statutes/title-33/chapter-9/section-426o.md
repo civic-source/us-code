@@ -3,9 +3,9 @@ title: "Section 426o - Great Lakes material disposal"
 usc_title: 33
 usc_section: "426o"
 chapter: 9
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "33 U.S.C. § 426o"
-generated_at: "2026-03-30T01:29:02.703Z"
+generated_at: "2026-03-30T01:33:10.759Z"
 ---
 
 # § 426o. Great Lakes material disposal

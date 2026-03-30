@@ -3,9 +3,9 @@ title: "Section 590b - Lands on which preventive measures may be taken"
 usc_title: 16
 usc_section: "590b"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 590b"
-generated_at: "2026-03-30T01:27:49.864Z"
+generated_at: "2026-03-30T01:32:02.204Z"
 ---
 
 # § 590b. Lands on which preventive measures may be taken

@@ -3,9 +3,9 @@ title: "Section 641a - Issuance of quitclaim deeds; patents for segregated lands
 usc_title: 43
 usc_section: "641a"
 chapter: 14
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 641a"
-generated_at: "2026-03-30T01:29:57.359Z"
+generated_at: "2026-03-30T01:33:22.119Z"
 ---
 
 # § 641a. Issuance of quitclaim deeds; patents for segregated lands

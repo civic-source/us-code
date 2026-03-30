@@ -3,9 +3,9 @@ title: "Section 154 - National Labor Relations Board; eligibility for reappointm
 usc_title: 29
 usc_section: "154"
 chapter: 7
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "29 U.S.C. § 154"
-generated_at: "2026-03-30T01:28:37.270Z"
+generated_at: "2026-03-30T01:33:06.544Z"
 ---
 
 # § 154. National Labor Relations Board; eligibility for reappointment; officers and employees; payment of expenses

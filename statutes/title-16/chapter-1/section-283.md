@@ -3,9 +3,9 @@ title: "Section 283 - Establishment; purposes; boundaries"
 usc_title: 16
 usc_section: "283"
 chapter: 1
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "16 U.S.C. § 283"
-generated_at: "2026-03-30T01:27:49.769Z"
+generated_at: "2026-03-30T01:32:02.107Z"
 ---
 
 # § 283. Establishment; purposes; boundaries

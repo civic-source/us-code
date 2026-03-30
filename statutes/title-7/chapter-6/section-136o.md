@@ -3,9 +3,9 @@ title: "Section 136o - Imports and exports"
 usc_title: 7
 usc_section: "136o"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 136o"
-generated_at: "2026-03-30T01:27:22.539Z"
+generated_at: "2026-03-30T01:31:24.982Z"
 ---
 
 # § 136o. Imports and exports

@@ -3,9 +3,9 @@ title: "Section 3002 - Program to improve eligible project permit coordination"
 usc_title: 43
 usc_section: "3002"
 chapter: 48
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "43 U.S.C. § 3002"
-generated_at: "2026-03-30T01:29:57.393Z"
+generated_at: "2026-03-30T01:33:22.161Z"
 ---
 
 # § 3002. Program to improve eligible project permit coordination

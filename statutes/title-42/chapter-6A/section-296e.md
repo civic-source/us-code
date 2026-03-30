@@ -3,9 +3,9 @@ title: "Section 296e - Generally applicable provisions"
 usc_title: 42
 usc_section: "296e"
 chapter: 6
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 296e"
-generated_at: "2026-03-30T01:30:22.988Z"
+generated_at: "2026-03-30T01:33:39.597Z"
 ---
 
 # § 296e. Generally applicable provisions

@@ -3,9 +3,9 @@ title: "Section 60901 - Case file review"
 usc_title: 34
 usc_section: "60901"
 chapter: 609
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "34 U.S.C. § 60901"
-generated_at: "2026-03-30T01:29:17.489Z"
+generated_at: "2026-03-30T01:33:13.230Z"
 ---
 
 # § 60901. Case file review

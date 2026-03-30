@@ -3,9 +3,9 @@ title: "Section 6211 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6211"
 chapter: 91
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "7 U.S.C. § 6211"
-generated_at: "2026-03-30T01:27:22.683Z"
+generated_at: "2026-03-30T01:31:25.124Z"
 ---
 
 # § 6211. Authorization of appropriations

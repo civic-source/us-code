@@ -3,9 +3,9 @@ title: "Section 1503 - Set-offs"
 usc_title: 28
 usc_section: "1503"
 chapter: 91
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 1503"
-generated_at: "2026-03-30T01:28:18.410Z"
+generated_at: "2026-03-30T01:33:00.289Z"
 ---
 
 # § 1503. Set-offs

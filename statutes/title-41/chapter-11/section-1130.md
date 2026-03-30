@@ -3,9 +3,9 @@ title: "Section 1130 - Effect of division on other law"
 usc_title: 41
 usc_section: "1130"
 chapter: 11
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "41 U.S.C. § 1130"
-generated_at: "2026-03-30T01:30:07.932Z"
+generated_at: "2026-03-30T01:33:21.048Z"
 ---
 
 # § 1130. Effect of division on other law

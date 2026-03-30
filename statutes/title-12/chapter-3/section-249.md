@@ -3,9 +3,9 @@ title: "Section 249 - Repealed. Pub. L. 94–412, title V, § 501(c) , Sept. 14,
 usc_title: 12
 usc_section: "249"
 chapter: 3
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "12 U.S.C. § 249"
-generated_at: "2026-03-30T01:27:40.302Z"
+generated_at: "2026-03-30T01:31:52.493Z"
 ---
 
 # § 249. Repealed. Pub. L. 94–412, title V, § 501(c) , Sept. 14, 1976 , 90 Stat. 1258

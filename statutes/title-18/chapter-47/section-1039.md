@@ -3,9 +3,9 @@ title: "Section 1039 - Fraud and related activity in connection with obtaining c
 usc_title: 18
 usc_section: "1039"
 chapter: 47
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "18 U.S.C. § 1039"
-generated_at: "2026-03-30T01:27:46.433Z"
+generated_at: "2026-03-30T01:31:56.768Z"
 ---
 
 # § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity

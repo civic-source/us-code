@@ -3,9 +3,9 @@ title: "Section 2510 - Referral of cases by Comptroller General"
 usc_title: 28
 usc_section: "2510"
 chapter: 165
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "28 U.S.C. § 2510"
-generated_at: "2026-03-30T01:28:18.418Z"
+generated_at: "2026-03-30T01:33:00.298Z"
 ---
 
 # § 2510. Referral of cases by Comptroller General

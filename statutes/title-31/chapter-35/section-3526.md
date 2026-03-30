@@ -3,9 +3,9 @@ title: "Section 3526 - Settlement of accounts"
 usc_title: 31
 usc_section: "3526"
 chapter: 35
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "31 U.S.C. § 3526"
-generated_at: "2026-03-30T01:29:01.460Z"
+generated_at: "2026-03-30T01:33:09.608Z"
 ---
 
 # § 3526. Settlement of accounts

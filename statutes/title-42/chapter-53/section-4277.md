@@ -3,9 +3,9 @@ title: "Section 4277 - Compensation of members"
 usc_title: 42
 usc_section: "4277"
 chapter: 53
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "42 U.S.C. § 4277"
-generated_at: "2026-03-30T01:30:23.357Z"
+generated_at: "2026-03-30T01:33:40.036Z"
 ---
 
 # § 4277. Compensation of members

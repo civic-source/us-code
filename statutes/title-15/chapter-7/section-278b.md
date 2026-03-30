@@ -3,9 +3,9 @@ title: "Section 278b - Working Capital Fund"
 usc_title: 15
 usc_section: "278b"
 chapter: 7
-current_through: "PL 118-70"
+current_through: "PL 118-71"
 classification: "15 U.S.C. § 278b"
-generated_at: "2026-03-30T01:27:29.191Z"
+generated_at: "2026-03-30T01:31:32.444Z"
 ---
 
 # § 278b. Working Capital Fund
