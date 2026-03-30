@@ -3,9 +3,10 @@ title: "Section 1135 - Public transportation security assistance"
 usc_title: 6
 usc_section: "1135"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1135"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-03-30T03:04:24.360Z"
+status: "active"
 ---
 
 # § 1135. Public transportation security assistance
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
     - **(N)** security improvements for stations and other public transportation infrastructure, including stations and other public transportation infrastructure owned by State or local governments; and
     - **(O)** other capital security improvements determined appropriate by the Secretary.
   - **(2)** Operating uses of funds, including—
-    - **(A)** security training and associated backfill, including training under section 1137 of this title and training developed by institutions of higher education and by nonprofit employee labor organizations, for public transportation employees, including frontline employees;
+    - **(A)** security training, including training under section 1137 of this title and training developed by institutions of higher education and by nonprofit employee labor organizations, for public transportation employees, including frontline employees;
     - **(B)** live or simulated exercises under section 1136 of this title ;
     - **(C)** public awareness campaigns for enhanced public transportation security;
     - **(D)** canine patrols for chemical, radiological, biological, or explosives detection;
@@ -55,9 +56,6 @@ generated_at: "2026-03-30T02:53:09.504Z"
 - **(k)** Not later than 3 days before the award of any grant under this section, the Secretary shall notify simultaneously, the appropriate congressional committees of the intent to award such grant.
 - **(l)** The Secretary shall establish a process to require the return of any misspent grant funds received under this section determined to have been spent for a purpose other than those specified in the grant award.
 - **(m)**
-  - **(1)** Except as provided in paragraph (2), funds provided pursuant to a grant awarded under this section for a use specified in subsection (b) shall remain available for use by a grant recipient for a period of not fewer than 36 months.
-  - **(2)** Funds provided pursuant to a grant awarded under this section for a use specified in subparagraph (M) or (N) of subsection (b)(1) shall remain available for use by a grant recipient for a period of not fewer than 48 months.
-- **(n)**
   - **(1)** There are authorized to be appropriated to the Secretary to make grants under this section—
     - **(A)** such sums as are necessary for fiscal year 2007;
     - **(B)** $650,000,000 for fiscal year 2008, except that not more than 50 percent of such funds may be used for operational costs under subsection (b)(2);

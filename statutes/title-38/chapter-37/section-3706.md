@@ -3,9 +3,10 @@ title: "Section 3706 - Escrow of deposits and downpayments"
 usc_title: 38
 usc_section: "3706"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3706"
-generated_at: "2026-03-30T02:55:53.512Z"
+generated_at: "2026-03-30T03:05:59.215Z"
+status: "active"
 ---
 
 # § 3706. Escrow of deposits and downpayments

@@ -3,15 +3,16 @@ title: "Section 692 - Income taxes of members of Armed Forces, astronauts, and v
 usc_title: 26
 usc_section: "692"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 692"
-generated_at: "2026-03-30T02:55:27.725Z"
+generated_at: "2026-03-30T03:05:18.617Z"
+status: "active"
 ---
 
 # § 692. Income taxes of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death
 
 - **(a)** In the case of any individual who dies while in active service as a member of the Armed Forces of the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
-  - **(1)** any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone; and
+  - **(1)** any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone after June 24, 1950 ; and
   - **(2)** any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
 - **(b)** For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
 - **(c)**

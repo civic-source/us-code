@@ -3,9 +3,10 @@ title: "Section 8905a - Continued coverage"
 usc_title: 5
 usc_section: "8905a"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8905a"
-generated_at: "2026-03-30T02:52:56.068Z"
+generated_at: "2026-03-30T03:04:06.112Z"
+status: "active"
 ---
 
 # § 8905a. Continued coverage
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:52:56.068Z"
         - **(II)** if, at the time referred to in subclause (I), the individual was covered as the child of an employee, the employee’s employing agency as of such time.
   - **(2)** If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual’s coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1), (4), or (5), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
   - **(3)**
-    - **(A)** An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self plus one or for self and family.
+    - **(A)** An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self and family.
     - **(B)** For the purpose of this paragraph, members of an individual’s family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
     - **(C)** Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
   - **(4)**
@@ -64,7 +65,7 @@ generated_at: "2026-03-30T02:52:56.068Z"
       - **(ii)** February 1, 2017 , if specific notice of such separation was given to such individual before December 31, 2016 .
     - **(C)** For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
   - **(5)**
-    - **(A)** If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 1 1 See References in Text note below. of the Atomic Energy Defense Act—
+    - **(A)** If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act—
       - **(i)** the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
       - **(ii)** the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
     - **(B)** This paragraph shall only apply with respect to individuals whose continued coverage is based on a separation occurring on or after the date of the enactment of this paragraph.
@@ -97,5 +98,5 @@ generated_at: "2026-03-30T02:52:56.068Z"
     - **(C)** provisions relating to the termination of continued coverage, except that continued coverage under this section may not (subject to paragraph (3)) extend beyond the date which is 36 months after the date on which the qualifying event under this subsection (the date of divorce, annulment, or legal separation, as the case may be) occurs; and
     - **(D)** provisions designed to ensure that any coverage pursuant to this subsection does not adversely affect any eligibility for coverage which the individual involved might otherwise have under this chapter (including as a result of any change in personal circumstances) if this subsection had not been enacted.
   - **(3)** In the case of an individual—
-    - **(A)** who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment; and
+    - **(A)** who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person’s separation from service; and
     - **(B)** whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),

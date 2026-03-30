@@ -3,9 +3,10 @@ title: "Section 1107 - Personnel training"
 usc_title: 42
 usc_section: "1107"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1107"
-generated_at: "2026-03-30T02:56:10.901Z"
+generated_at: "2026-03-30T03:06:22.467Z"
+status: "active"
 ---
 
 # § 1107. Personnel training

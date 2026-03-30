@@ -1,12 +1,15 @@
 ---
-title: "Section 13892 - Transferred"
+title: "Section 13892 - Eligibility to receive grants"
 usc_title: 42
 usc_section: "13892"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13892"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.937Z"
+status: "active"
 ---
 
-# § 13892. Transferred
+# § 13892. Eligibility to receive grants
+
+To be eligible to receive a grant under section 13891 of this title , a State shall submit to the Attorney General an application at such time, in such form, and containing such information as the Attorney General reasonably may require by rule.
 

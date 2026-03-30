@@ -1,12 +1,15 @@
 ---
-title: "Section 612 - Omitted"
+title: "Section 612 - Establishment of trust fund for each tribe; transfer of funds; interest; crediting of revenues, receipts, and proceeds of judgments"
 usc_title: 25
 usc_section: "612"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 612"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.845Z"
+status: "active"
 ---
 
-# § 612. Omitted
+# § 612. Establishment of trust fund for each tribe; transfer of funds; interest; crediting of revenues, receipts, and proceeds of judgments
+
+The Secretary of the Treasury, upon request of the Secretary of the Interior, is authorized and directed to establish a trust fund account for each tribe and shall make such transfer of funds on the books of his department as may be necessary to effect the purpose of section 611 of this title : Provided , That interest shall accrue on the principal fund only, at the rate of 4 per centum per annum, and shall be credited to the interest trust fund accounts established by this section: Provided further , That all future revenues and receipts derived from the Wind River Reservation under any and all laws, and the proceeds from any judgment for money against the United States hereafter paid jointly to the Shoshone and Arapahoe Tribes of the Wind River Reservation, shall be divided in accordance with section 611 of this title and credited to the principal trust fund accounts established herein; and the proceeds from any judgment for money against the United States hereafter paid to either of the tribes singly shall be credited to the appropriate principal trust fund account.
 

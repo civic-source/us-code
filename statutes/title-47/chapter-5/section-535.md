@@ -3,29 +3,30 @@ title: "Section 535 - Carriage of noncommercial educational television"
 usc_title: 47
 usc_section: "535"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 535"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-03-30T03:06:26.230Z"
+status: "active"
 ---
 
 # § 535. Carriage of noncommercial educational television
 
 - **(a)** In addition to the carriage requirements set forth in section 534 of this title , each cable operator of a cable system shall carry the signals of qualified noncommercial educational television stations in accordance with the provisions of this section.
 - **(b)**
-  - **(1)** Subject to paragraphs (2) and (3) and subsection (e), each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
+  - **(1)** Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
   - **(2)**
-    - **(A)** Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewer usable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
+    - **(A)** Notwithstanding paragraph (1), a cable operator of a cable system with 12 or fewer usable activated channels shall be required to carry the signal of one qualified local noncommercial educational television station; except that a cable operator of such a system shall comply with subsection (c) of this section and may, in its discretion, carry the signals of other qualified noncommercial educational television stations.
     - **(B)** In the case of a cable system described in subparagraph (A) which operates beyond the presence of any qualified local noncommercial educational television station—
       - **(i)** the cable operator shall import and carry on that system the signal of one qualified noncommercial educational television station;
       - **(ii)** the selection for carriage of such a signal shall be at the election of the cable operator; and
       - **(iii)** in order to satisfy the requirements for carriage specified in this subsection, the cable operator of the system shall not be required to remove any other programming service actually provided to subscribers on March 29, 1990 ; except that such cable operator shall use the first channel available to satisfy the requirements of this subparagraph.
   - **(3)**
-    - **(A)** Subject to subsection (c), a cable operator of a cable system with 13 to 36 usable activated channels—
+    - **(A)** Subject to subsection (c) of this section, a cable operator of a cable system with 13 to 36 usable activated channels—
       - **(i)** shall carry the signal of at least one qualified local noncommercial educational television station but shall not be required to carry the signals of more than three such stations, and
       - **(ii)** may, in its discretion, carry additional such stations.
     - **(B)** In the case of a cable system described in this paragraph which operates beyond the presence of any qualified local noncommercial educational television station, the cable operator shall import and carry on that system the signal of at least one qualified noncommercial educational television station to comply with subparagraph (A)(i).
     - **(C)** The cable operator of a cable system described in this paragraph which carries the signal of a qualified local noncommercial educational station affiliated with a State public television network shall not be required to carry the signal of any additional qualified local noncommercial educational television stations affiliated with the same network if the programming of such additional stations is substantially duplicated by the programming of the qualified local noncommercial educational television station receiving carriage.
-    - **(D)** A cable operator of a system described in this paragraph which increases the usable activated channel capacity of the system to more than 36 channels on or after March 29, 1990 , shall, in accordance with the other provisions of this section, carry the signal of each qualified local noncommercial educational television station requesting carriage, subject to subsection (e).
+    - **(D)** A cable operator of a system described in this paragraph which increases the usable activated channel capacity of the system to more than 36 channels on or after March 29, 1990 , shall, in accordance with the other provisions of this section, carry the signal of each qualified local noncommercial educational television station requesting carriage, subject to subsection (e) of this section.
 - **(c)** Notwithstanding any other provision of this section, all cable operators shall continue to provide carriage to all qualified local noncommercial educational television stations whose signals were carried on their systems as of March 29, 1990 . The requirements of this subsection may be waived with respect to a particular cable operator and a particular such station, upon the written consent of the cable operator and the station.
 - **(d)** A cable operator required to add the signals of qualified local noncommercial educational television stations to a cable system under this section may do so, subject to approval by the franchising authority pursuant to section 531 of this title , by placing such additional stations on public, educational, or governmental channels not in use for their designated purposes.
 - **(e)** A cable operator of a cable system with a capacity of more than 36 usable activated channels which is required to carry the signals of three qualified local noncommercial educational television stations shall not be required to carry the signals of additional such stations the programming of which substantially duplicates the programming broadcast by another qualified local noncommercial educational television station requesting carriage. Substantial duplication shall be defined by the Commission in a manner that promotes access to distinctive noncommercial educational television services.
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
 - **(h)** Signals carried in fulfillment of the carriage obligations of a cable operator under this section shall be available to every subscriber as part of the cable system’s lowest priced service tier that includes the retransmission of local commercial television broadcast signals.
 - **(i)**
   - **(1)** A cable operator shall not accept monetary payment or other valuable consideration in exchange for carriage of the signal of any qualified local noncommercial educational television station carried in fulfillment of the requirements of this section, except that such a station may be required to bear the cost associated with delivering a good quality signal or a baseband video signal to the principal headend of the cable system.
-  - **(2)** Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not already carried under the provision of subsection (c), where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
+  - **(2)** Notwithstanding the provisions of this section, a cable operator shall not be required to add the signal of a qualified local noncommercial educational television station not already carried under the provision of subsection (c) of this section, where such signal would be considered a distant signal for copyright purposes unless such station indemnifies the cable operator for any increased copyright costs resulting from carriage of such signal.
 - **(j)**
   - **(1)** Whenever a qualified local noncommercial educational television station believes that a cable operator of a cable system has failed to comply with the signal carriage requirements of this section, the station may file a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to comply with such requirements and state the basis for such allegations.
   - **(2)** The Commission shall afford such cable operator an opportunity to present data, views, and arguments to establish that the cable operator has complied with the signal carriage requirements of this section.

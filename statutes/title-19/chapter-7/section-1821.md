@@ -3,9 +3,10 @@ title: "Section 1821 - Basic authority for trade agreements"
 usc_title: 19
 usc_section: "1821"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1821"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-03-30T03:04:42.028Z"
+status: "active"
 ---
 
 # § 1821. Basic authority for trade agreements
@@ -13,6 +14,6 @@ generated_at: "2026-03-30T02:54:24.660Z"
 - **(a)** Whenever the president determines that any existing duties or other import restrictions of any foreign country or the United States are unduly burdening and restricting the foreign trade of the United States and that any of the purposes stated in section 1801 of this title will be promoted thereby, the President may—
   - **(1)** after June 30, 1962 , and before July 1, 1967 , enter into trade agreements with foreign countries or instrumentalities thereof; and
   - **(2)** proclaim such modification or continuance of any existing duty or other import restriction, such continuance of existing duty-free or excise treatment, or such additional import restrictions, as he determines to be required or appropriate to carry out any such trade agreement.
-- **(b)** Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) shall be made—
+- **(b)** Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) of this section shall be made—
   - **(1)** decreasing any rate of duty to a rate below 50 percent of the rate existing on July 1, 1962 ; or
   - **(2)** increasing any rate of duty to (or imposing) a rate more than 50 percent above the rate existing on July 1, 1934 .

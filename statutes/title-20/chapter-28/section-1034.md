@@ -3,9 +3,10 @@ title: "Section 1034 - Teach to reach grants"
 usc_title: 20
 usc_section: "1034"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1034"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-03-30T03:04:46.244Z"
+status: "active"
 ---
 
 # § 1034. Teach to reach grants
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
     - **(A)** one or more departments or programs at an institution of higher education—
       - **(i)** that prepare elementary or secondary general education teachers;
       - **(ii)** that have a program of study that leads to an undergraduate degree, a master’s degree, or completion of a postbaccalaureate program required for teacher certification; and
-      - **(iii)** the graduates of which meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title ;
+      - **(iii)** the graduates of which are highly qualified;
     - **(B)** a department or program of special education at an institution of higher education;
     - **(C)** a department or program at an institution of higher education that provides degrees in core academic subjects; and
     - **(D)** a high-need local educational agency; and

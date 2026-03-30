@@ -3,9 +3,10 @@ title: "Section 1786 - Special supplemental nutrition program for women, infants
 usc_title: 42
 usc_section: "1786"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1786"
-generated_at: "2026-03-30T02:56:11.119Z"
+generated_at: "2026-03-30T03:06:22.626Z"
+status: "active"
 ---
 
 # § 1786. Special supplemental nutrition program for women, infants, and children
@@ -46,13 +47,12 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(C)** is not accessible year-around by means of a public road (as defined in section 101 of title 23 ).
   - **(22)** The term “primary contract infant formula” means the specific infant formula for which manufacturers submit a bid to a State agency in response to a rebate solicitation under this section and for which a contract is awarded by the State agency as a result of that bid.
   - **(23)** The term “State alliance” means 2 or more State agencies that join together for the purpose of procuring infant formula under the program by soliciting competitive bids for infant formula.
-  - **(24)** The term “supply chain disruption” means a shortage of supplemental foods that impedes the redemption of food instruments, as determined by the Secretary.
 - **(c)**
   - **(1)** The Secretary may carry out a special supplemental nutrition program to assist State agencies through grants-in-aid and other means to provide, through local agencies, at no cost, supplemental foods, nutrition education, and breastfeeding support and promotion to low-income pregnant, postpartum, and breastfeeding women, infants, and children who satisfy the eligibility requirements specified in subsection (d) of this section. The program shall be supplementary to—
     - **(A)** the supplemental nutrition assistance program;
     - **(B)** any program under which foods are distributed to needy families in lieu of supplemental nutrition assistance program benefits; and
     - **(C)** receipt of food or meals from soup kitchens, or shelters, or other forms of emergency food assistance.
-  - **(2)** Subject to amounts appropriated to carry out this section under subsection (g)—
+  - **(2)** Subject to amounts appropriated to carry out this section under subsection (g) of this section—
     - **(A)** the Secretary shall make cash grants to State agencies for the purpose of administering the program, and
     - **(B)** any State agency approved eligible local agency that applies to participate in or expand the program under this section shall immediately be provided with the necessary funds to carry out the program.
   - **(3)** Nothing in this subsection shall be construed to permit the Secretary to reduce ratably the amount of foods that an eligible local agency shall distribute under the program to participants. The Secretary shall take affirmative action to ensure that the program is instituted in areas most in need of supplemental foods. The existence of a commodity supplemental food program under section 4 of the Agriculture and Consumer Protection Act of 1973 shall not preclude the approval of an application from an eligible local agency to participate in the program under this section nor the operation of such program within the same geographic area as that of the commodity supplemental food program, but the Secretary shall issue such regulations as are necessary to prevent dual receipt of benefits under the commodity supplemental food program and the program under this section.
@@ -72,7 +72,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(i)** any basic allowance—
         - **(I)** for housing received by military service personnel residing off military installations; or
         - **(II)** provided under section 403 of title 37 for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10 or any related provision of law; and
-      - **(ii)** any cost-of-living allowance provided under section 405 of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
+      - **(ii)** any cost-of-living allowance provided under section 475 of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
     - **(C)** For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
       - **(i)** is the result of deployment to or service in a combat zone; and
       - **(ii)** was not received immediately prior to serving in a combat zone.
@@ -114,7 +114,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(A)** Each State agency shall submit to the Secretary, by a date specified by the Secretary, an initial plan of operation and administration for a fiscal year. After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.
     - **(B)** To be eligible to receive funds under this section for a fiscal year, a State agency must receive the approval of the Secretary for the plan submitted for the fiscal year.
     - **(C)** The plan shall include—
-      - **(i)** a description of the food delivery system of the State agency and the method of enabling participants to receive supplemental foods under the program at any of the authorized retail stores under the program, to be administered in accordance with standards developed by the Secretary, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11);
+      - **(i)** a description of the food delivery system of the State agency and the method of enabling participants to receive supplemental foods under the program at any of the authorized retail stores under the program, to be administered in accordance with standards developed by the Secretary, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11) of this section;
       - **(ii)** procedures for accepting and processing vendor applications outside of the established timeframes if the State agency determines there will be inadequate access to the program, including in a case in which a previously authorized vendor sells a store under circumstances that do not permit timely notification to the State agency of the change in ownership;
       - **(iii)** a description of the financial management system of the State agency;
       - **(iv)** a plan to coordinate operations under the program with other services or programs that may benefit participants in, and applicants for, the program;
@@ -158,7 +158,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(A)** register with the Secretary of Health and Human Services under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.]; and
     - **(B)** before bidding for a State contract to supply infant formula for the program, certify with the State health department that the formula complies with such Act and regulations issued pursuant to such Act.
   - **(16)** The State agency may adopt methods of delivering benefits to accommodate the special needs and problems of homeless individuals.
-  - **(17)** Notwithstanding subsection (d)(2)(A)(i), not later than July 1 of each year, a State agency may implement income eligibility guidelines under this section concurrently with the implementation of income eligibility guidelines under the medicaid program established under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
+  - **(17)** Notwithstanding subsection (d)(2)(A)(i) of this section, not later than July 1 of each year, a State agency may implement income eligibility guidelines under this section concurrently with the implementation of income eligibility guidelines under the medicaid program established under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
   - **(18)** Each local agency participating in the program under this section may provide information about other potential sources of food assistance in the local area to individuals who apply in person to participate in the program under this section, but who cannot be served because the program is operating at capacity in the local area.
   - **(19)** The State agency shall adopt policies that—
     - **(A)** require each local agency to attempt to contact each pregnant woman who misses an appointment to apply for participation in the program under this section, in order to reschedule the appointment, unless the phone number and the address of the woman are unavailable to such local agency; and
@@ -198,14 +198,14 @@ generated_at: "2026-03-30T02:56:11.119Z"
   - **(5)** Of the sums appropriated for any fiscal year for the program under this section, one-half of 1 percent, not to exceed $15,000,000, shall be available to the Secretary for the purpose of evaluating program performance, evaluating health benefits, preparing reports on program participant characteristics, providing technical assistance to improve State agency administrative systems, administration of pilot projects, including projects designed to meet the special needs of migrants, Indians, and rural populations, and carrying out technical assistance and research evaluation projects of the programs under this section.
 - **(h)**
   - **(1)**
-    - **(A)** Each fiscal year, the Secretary shall make available, from amounts appropriated for such fiscal year under subsection (g)(1) and amounts remaining from amounts appropriated under such subsection for the preceding fiscal year, an amount sufficient to guarantee a national average per participant grant to be allocated among State agencies for costs of nutrition services and administration incurred by State and local agencies for such year.
+    - **(A)** Each fiscal year, the Secretary shall make available, from amounts appropriated for such fiscal year under subsection (g)(1) of this section and amounts remaining from amounts appropriated under such subsection for the preceding fiscal year, an amount sufficient to guarantee a national average per participant grant to be allocated among State agencies for costs of nutrition services and administration incurred by State and local agencies for such year.
     - **(B)**
       - **(i)** The amount of the national average per participant grant for nutrition services and administration for any fiscal year shall be an amount equal to the amount of the national average per participant grant for nutrition services and administration issued for the preceding fiscal year, as adjusted.
       - **(ii)** Such adjustment, for any fiscal year, shall be made by revising the national average per participant grant for nutrition services and administration for the preceding fiscal year to reflect the percentage change between—
         - **(I)** the value of the index for State and local government purchases, as published by the Bureau of Economic Analysis of the Department of Commerce, for the 12-month period ending June 30 of the second preceding fiscal year; and
         - **(II)** the best estimate that is available as of the start of the fiscal year of the value of such index for the 12-month period ending June 30 of the previous fiscal year.
     - **(C)**
-      - **(i)** Except as provided in clause (ii), in any fiscal year, amounts remaining from amounts appropriated for such fiscal year under subsection (g)(1) and from amounts appropriated under such section for the preceding fiscal year, after carrying out subparagraph (A), shall be made available for food benefits under this section, except to the extent that such amounts are needed to carry out the purposes of subsections (g)(4) and (g)(5).
+      - **(i)** Except as provided in clause (ii), in any fiscal year, amounts remaining from amounts appropriated for such fiscal year under subsection (g)(1) of this section and from amounts appropriated under such section for the preceding fiscal year, after carrying out subparagraph (A), shall be made available for food benefits under this section, except to the extent that such amounts are needed to carry out the purposes of subsections (g)(4) and (g)(5) of this section.
       - **(ii)** A State agency may use amounts made available under clause (i) for the purchase of breast pumps.
   - **(2)**
     - **(A)** The Secretary shall allocate to each State agency from the amount described in paragraph (1)(A) an amount for costs of nutrition services and administration on the basis of a formula prescribed by the Secretary. Such formula—
@@ -329,10 +329,6 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(I)** Not later than the expiration of the 180-day period beginning on October 24, 1992 , the Secretary shall prescribe regulations to carry out this paragraph.
     - **(J)** A State shall not incur any interest liability to the Federal Government on rebate funds for infant formula and other foods if all interest earned by the State on the funds is used for program purposes.
     - **(K)** Effective beginning October 1, 2011 , each State agency shall report rebate payments received from manufacturers in the month in which the payments are received, rather than in the month in which the payments were earned.
-    - **(L)**
-      - **(i)** The Secretary shall require that each infant formula cost containment contract renewed or entered into on or after May 21, 2022 , includes remedies in the event of an infant formula recall, including how an infant formula manufacturer would protect against disruption to program participants in the State.
-      - **(ii)** In the case of an infant formula recall, an infant formula manufacturer contracted to provide infant formula under this section shall comply with the contract requirements under clause (i).
-    - **(M)** Not later than 30 days after May 21, 2022 , the Secretary shall ensure there is a memorandum of understanding between the Secretary and the Secretary of Health and Human Services that includes procedures to promote coordination and information sharing between the Department of Agriculture and the Department of Health and Human Services regarding any supply chain disruption, including a supplemental food recall.
   - **(9)**
     - **(A)** In this subsection, the term “cost containment measure” means a competitive bidding, rebate, direct distribution, or home delivery system implemented by a State agency as described in the approved State plan of operation and administration of the State agency.
     - **(B)** Any State agency instituting a cost containment measure for any authorized food, including infant formula, shall—
@@ -426,7 +422,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(iii)** The Secretary shall use the funds provided under clause (i) for development, hosting, hardware and software configuration, and support of the database required under subparagraph (A).
   - **(14)** A State agency shall not authorize or make payments to a vendor described in paragraph (11)(D)(ii)(I) that provides incentive items or other free merchandise, except food or merchandise of nominal value (as determined by the Secretary), to program participants unless the vendor provides to the State agency proof that the vendor obtained the incentive items or merchandise at no cost.
 - **(i)**
-  - **(1)** By the beginning of each fiscal year, the Secretary shall divide, among the State agencies, the amounts made available for food benefits under subsection (h)(1)(C) on the basis of a formula determined by the Secretary.
+  - **(1)** By the beginning of each fiscal year, the Secretary shall divide, among the State agencies, the amounts made available for food benefits under subsection (h)(1)(C) of this section on the basis of a formula determined by the Secretary.
   - **(2)** Each State agency’s allocation, as so determined, shall constitute the State agency’s authorized operational level for that year, except that the Secretary shall reallocate funds periodically if the Secretary determines that a State agency is unable to spend its allocation.
   - **(3)**
     - **(A)** Notwithstanding paragraph (2) and subject to subparagraph (B)—
@@ -441,7 +437,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
   - **(4)** For purposes of the formula, if Indians are served by the health department of a State, the formula shall be based on the State population inclusive of the Indians within the State boundaries.
   - **(5)** If Indians residing in the State are served by a State agency other than the health department of the State, the population of the tribes within the jurisdiction of the State being so served shall not be included in the formula for such State, and shall instead be included in the formula for the State agency serving the Indians.
   - **(6)** Notwithstanding any other provision of this section, the Secretary may use a portion of a State agency’s allocation to purchase supplemental foods for donation to the State agency under this section.
-  - **(7)** In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
+  - **(7)** In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) of this section may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
   - **(8)** During each of fiscal years 2012 and 2013, the Secretary may authorize a State agency to expend more than the amount otherwise authorized under paragraph (3)(C) for expenses incurred under this section for supplemental foods during the preceding fiscal year, if the Secretary determines that—
     - **(A)** there has been a significant reduction in reported infant formula cost containment savings for the preceding fiscal year due to the implementation of subsection (h)(8)(K); and
     - **(B)** the reduction would affect the ability of the State agency to serve all eligible participants.
@@ -465,14 +461,14 @@ generated_at: "2026-03-30T02:56:11.119Z"
   - **(5)** Members of the Council shall serve without compensation but shall be reimbursed for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Council. Parent participant members of the Council, in addition to reimbursement for necessary travel and subsistence, shall, at the discretion of the Secretary, be compensated in advance for other personal expenses related to participation on the Council, such as child care expenses and lost wages during scheduled Council meetings.
 - **(l)** Foods available under section 1431 of title 7 , including, but not limited to, dry milk, or purchased under section 612c of title 7 , may be donated by the Secretary, at the request of a State agency, for distribution to programs conducted under this section. The Secretary may purchase and distribute, at the request of a State agency, supplemental foods for donation to programs conducted under this section, with appropriated funds, including funds appropriated under this section.
 - **(m)**
-  - **(1)** Subject to the availability of funds appropriated for the purposes of this subsection, and as specified in this subsection, the Secretary shall award grants to States that submit State plans that are approved for the establishment or maintenance of programs designed to provide recipients of assistance under subsection (c), or those who are on the waiting list to receive the assistance, with coupons that may be exchanged for fresh, nutritious, unprepared foods at farmers’ markets and (at the option of a State) roadside stands, as defined in the State plans submitted under this subsection.
+  - **(1)** Subject to the availability of funds appropriated for the purposes of this subsection, and as specified in this subsection, the Secretary shall award grants to States that submit State plans that are approved for the establishment or maintenance of programs designed to provide recipients of assistance under subsection (c) of this section, or those who are on the waiting list to receive the assistance, with coupons that may be exchanged for fresh, nutritious, unprepared foods at farmers’ markets and (at the option of a State) roadside stands, as defined in the State plans submitted under this subsection.
   - **(2)** A grant provided to any State under this subsection shall be provided to the chief executive officer of the State, who shall—
     - **(A)** designate the appropriate State agency or agencies to administer the program in conjunction with the appropriate nonprofit organizations; and
     - **(B)** ensure coordination of the program among the appropriate agencies and organizations.
   - **(3)** The Secretary shall not make a grant to any State under this subsection unless the State agrees to provide State, local, or private funds for the program in an amount that is equal to not less than 30 percent of the administrative cost of the program, which may be satisfied from program income or State contributions that are made for similar programs. The Secretary may negotiate with an Indian State agency a lower percentage of matching funds than is required under the preceding sentence, but not lower than 10 percent of the administrative cost of the program, if the Indian State agency demonstrates to the Secretary financial hardship for the affected Indian tribe, band, group, or council.
   - **(4)** Subject to paragraph (6), the Secretary shall establish a formula for determining the amount of the grant to be awarded under this subsection to each State for which a State plan is approved under paragraph (6), according to the number of recipients proposed to participate as specified in the State plan. In determining the amount to be awarded to new States, the Secretary shall rank order the State plans according to the criteria of operation set forth in this subsection, and award grants accordingly. The Secretary shall take into consideration the minimum amount needed to fund each approved State plan, and need not award grants to each State that submits a State plan.
   - **(5)** Each State that receives a grant under this subsection shall ensure that the program for which the grant is received complies with the following requirements:
-    - **(A)** Individuals who are eligible to receive Federal benefits under the program shall only be individuals who are receiving assistance under subsection (c), or who are on the waiting list to receive the assistance.
+    - **(A)** Individuals who are eligible to receive Federal benefits under the program shall only be individuals who are receiving assistance under subsection (c) of this section, or who are on the waiting list to receive the assistance.
     - **(B)** Construction or operation of a farmers’ market may not be carried out using funds—
       - **(i)** provided under the grant; or
       - **(ii)** required to be provided by the State under paragraph (3).
@@ -538,7 +534,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(i)** the State farmers’ market coupon nutrition program authorized by this subsection (as it existed on September 30, 1991 ); or
       - **(ii)** the farmers’ market nutrition program authorized by this subsection.
     - **(C)** The term “recipient” means a person or household, as determined by the State, who is chosen by a State to receive benefits under this subsection, or who is on a waiting list to receive such benefits.
-    - **(D)** The term “State agency” has the meaning provided in subsection (b)(13), except that the term also includes the agriculture department of each State and any other agency approved by the chief executive officer of the State.
+    - **(D)** The term “State agency” has the meaning provided in subsection (b)(13) of this section, except that the term also includes the agriculture department of each State and any other agency approved by the chief executive officer of the State.
 - **(n)**
   - **(1)** The Secretary shall issue regulations providing criteria for the disqualification under this section of an approved vendor that is disqualified from accepting benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.).
   - **(2)** A disqualification under paragraph (1)—
@@ -563,10 +559,10 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(i)** the amount of the civil penalty shall not exceed $10,000 for each violation; and
       - **(ii)** the amount of civil penalties imposed for violations investigated as part of a single investigation may not exceed $40,000.
 - **(p)**
-  - **(1)** Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection ( o )(1)(A) issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
+  - **(1)** Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection ( o )(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
   - **(2)** A provision of law described in this paragraph is—
     - **(A)** section 1760(g) of this title ; and
-    - **(B)** any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection ( o )(1)(A) issued in lieu of a food instrument under this section), funds, assets, or property.
+    - **(B)** any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection ( o )(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property.
   - **(3)** The following property shall be subject to forfeiture under paragraph (1):
     - **(A)** All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation described in paragraph (1).
     - **(B)** All property, real and personal, constituting, derived from, or traceable to any proceeds a person obtained directly or indirectly as a result of a violation described in paragraph (1).
@@ -577,38 +573,3 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(C)** third, to reimburse any Federal, State, or local law enforcement agency for any costs incurred in the law enforcement effort resulting in the forfeiture; and
     - **(D)** fourth, by the State agency to carry out approval, reauthorization, and compliance investigations of vendors.
 - **(q)** The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the overseas special supplemental food program established under section 1060a(a) of title 10 .
-- **(r)**
-  - **(1)** Notwithstanding any other provision of law, during an emergency period, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
-    - **(A)** the qualified administrative requirement cannot be met by State agencies during any portion of the emergency period under the conditions which prompted the emergency period; and
-    - **(B)** the modification or waiver of such a requirement—
-      - **(i)** is necessary to provide assistance under this section; and
-      - **(ii)** does not substantially weaken the nutritional quality of supplemental foods provided under this section.
-  - **(2)** A waiver established under this subsection may be available for a period of not greater than the emergency period and the 60 days after the end of such emergency period.
-  - **(3)** In this subsection:
-    - **(A)** The term “emergency period” means a period during which there exists—
-      - **(i)** a public health emergency declared by the Secretary of Health and Human Services under section 247d of this title ;
-      - **(ii)** any renewal of such a public health emergency pursuant to such section 247d;
-      - **(iii)** a presidentially declared major disaster as defined under section 5122 of this title ; or
-      - **(iv)** a presidentially declared emergency as defined under section 5122 of this title .
-    - **(B)** The term “qualified administrative requirement” means a requirement under this section or a regulatory requirement issued pursuant to this section.
-- **(s)**
-  - **(1)** Notwithstanding any other provision of law, during a supply chain disruption, including a supplemental food product recall, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
-    - **(A)** the qualified administrative requirement cannot be met by State agencies during any portion of the supply chain disruption, including a supplemental food product recall, under the conditions which prompted such disruption or recall; and
-    - **(B)** the modification or waiver of such a requirement—
-      - **(i)** is necessary to provide assistance under this section; and
-      - **(ii)** does not substantially weaken the nutritional quality of supplemental foods provided under this section.
-  - **(2)** The Secretary may, under a waiver or modification under paragraph (1)—
-    - **(A)** permit authorized vendors to exchange or substitute authorized supplemental foods obtained with food instruments beyond exchanges for an identical (exact brand and size) food item;
-    - **(B)** waive any requirement with respect to medical documentation for the issuance of noncontract brand infant formula, except for the requirements for participants receiving Food Package III (as defined in section 246.10(e)(3) of title 7, Code of Federal Regulations (as in effect on May 21, 2022 ));
-    - **(C)** waive the maximum monthly allowance for infant formula; and
-    - **(D)** waive any additional qualified administrative requirement to address a supply chain disruption, including a supplemental food product recall.
-  - **(3)** A waiver or modification established under this subsection—
-    - **(A)** may be—
-      - **(i)** available for a period of not more than 45 days, to begin on a date determined by the Secretary; and
-      - **(ii)** renewed so long as the Secretary provides notice at least 15 days before such renewal; and
-    - **(B)** shall not be available after the date that is 60 days after the supply chain disruption for which such waiver is established ceases to exist.
-  - **(4)**
-    - **(A)** If the Secretary determines that a supply chain disruption exists and issues a waiver or modification under this subsection, the Secretary shall notify each State agency affected by such disruption and include with such notification an explanation of such determination.
-    - **(B)** The Secretary shall make each determination described in subparagraph (A) publicly available on the website of the Department.
-    - **(C)** In the case of a waiver or modification under this subsection related to infant formula, a State agency notified under subparagraph (A) shall notify each infant formula manufacturer that has a contract with such State agency with respect to such notification.
-  - **(5)** For purposes of this subsection, the term “qualified administrative requirement” has the meaning given the term in subsection (r).

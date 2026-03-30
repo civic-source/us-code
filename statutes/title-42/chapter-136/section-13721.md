@@ -1,12 +1,23 @@
 ---
-title: "Section 13721 - Transferred"
+title: "Section 13721 - Task force on prison construction standardization and techniques"
 usc_title: 42
 usc_section: "13721"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13721"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.935Z"
+status: "active"
 ---
 
-# § 13721. Transferred
+# § 13721. Task force on prison construction standardization and techniques
 
+- **(a)** The Director of the National Institute of Corrections shall, subject to availability of appropriations, establish a task force composed of Federal, State, and local officials expert in prison construction, and of at least an equal number of engineers, architects, and construction experts from the private sector with expertise in prison design and construction, including the use of cost-cutting construction standardization techniques and cost-cutting new building materials and technologies.
+- **(b)** The task force shall work in close cooperation and communication with other State and local officials responsible for prison construction in their localities.
+- **(c)** The task force shall work to—
+  - **(1)** establish and recommend standardized construction plans and techniques for prison and prison component construction; and
+  - **(2)** evaluate and recommend new construction technologies, techniques, and materials,
+- **(d)** The task force shall disseminate information described in subsection (c) of this section to State and local officials involved in prison construction, through written reports and meetings.
+- **(e)** The task force shall—
+  - **(1)** work to promote the implementation of cost-saving efforts at the Federal, State, and local levels;
+  - **(2)** evaluate and advise on the results and effectiveness of such cost-saving efforts as adopted, broadly disseminating information on the results; and
+  - **(3)** to the extent feasible, certify the effectiveness of the cost-savings efforts.

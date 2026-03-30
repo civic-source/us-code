@@ -3,9 +3,10 @@ title: "Section 670c - Program for public outdoor recreation"
 usc_title: 16
 usc_section: "670c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 670c"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-03-30T03:04:48.513Z"
+status: "active"
 ---
 
 # § 670c. Program for public outdoor recreation
@@ -18,9 +19,9 @@ generated_at: "2026-03-30T02:54:22.893Z"
     - **(B)** Military dependents with disabilities.
     - **(C)** Other persons with disabilities, when access to a military installation for such persons and other civilians is not otherwise restricted.
   - **(3)** The Secretary of Defense shall carry out this subsection in consultation with the Secretary of Veterans Affairs, national service, military, and veterans organizations, and sporting organizations in the private sector that participate in outdoor recreation projects for persons described in paragraph (2).
-- **(c)** In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+- **(c)** In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
   - **(1)** the voluntary services of individuals and organizations; and
   - **(2)** donations of property, whether real or personal.
-- **(d)** A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
+- **(d)** A volunteer under subsection (c) of this section shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
   - **(1)** for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
   - **(2)** for the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, the volunteer shall be considered to be an employee, as defined in section 8101(1)(B) of title 5 , and the provisions of such subchapter shall apply.

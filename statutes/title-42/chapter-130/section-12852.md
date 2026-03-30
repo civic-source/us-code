@@ -3,9 +3,10 @@ title: "Section 12852 - Assistance for first-time homebuyers"
 usc_title: 42
 usc_section: "12852"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12852"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-03-30T03:06:22.918Z"
+status: "active"
 ---
 
 # § 12852. Assistance for first-time homebuyers
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
 - **(a)** The Trust shall provide assistance payments for first-time homebuyers (including homebuyers buying shares in limited equity cooperatives) in the following manners:
   - **(1)** Assistance payments so that the rate of interest payable on the mortgages by the homebuyers does not exceed 6 percent.
   - **(2)** Assistance payments to provide amounts for downpayments (including closing costs and other costs payable at the time of closing) on mortgages for such homebuyers.
-  - **(3)** Interest rate buydowns and downpayment assistance in the manner provided in subsection (e).
+  - **(3)** Interest rate buydowns and downpayment assistance in the manner provided in subsection (e) of this section.
   - **(4)** Assistance payments to provide loans (secured by second mortgages) with deferred payment of interest and principal; and 1 1 So in original. The “; and” probably should be a period.
   - **(5)** Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall be matched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
 - **(b)** Assistance payments under this subchapter may be made only to homebuyers and for mortgages meeting the following requirements:
@@ -32,21 +33,21 @@ generated_at: "2026-03-30T02:56:11.433Z"
   - **(5)** The principal obligation of the mortgage does not exceed the principal amount that could be insured with respect to the property under the National Housing Act [ 12 U.S.C. 1701 et seq.].
   - **(6)** The interest payable on the mortgage is established at a fixed rate that does not exceed a maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
   - **(7)** The mortgage has been made to, and is held by, a mortgagee that is federally insured or that is otherwise approved by the Trust as responsible and able to service the mortgage properly.
-  - **(8)** For a first-time homebuyer to receive downpayment assistance under subsection (a)(2), the homebuyer shall have paid not less than 1 percent of the cost of acquisition of the property (excluding any mortgage insurance premium paid at the time the mortgage is insured), as such cost is estimated by the Board of Directors.
+  - **(8)** For a first-time homebuyer to receive downpayment assistance under subsection (a)(2) of this section, the homebuyer shall have paid not less than 1 percent of the cost of acquisition of the property (excluding any mortgage insurance premium paid at the time the mortgage is insured), as such cost is estimated by the Board of Directors.
 - **(c)**
   - **(1)** Assistance payments under this subchapter shall be secured by a lien on the property involved. The lien shall be subordinate to all mortgages existing on the property on the date on which the first assistance payment is made.
   - **(2)** Assistance payments under this subchapter shall be repayable from the net proceeds of the sale, without interest, upon the sale of the property for which the assistance payments are made. If the sale results in no net proceeds or the net proceeds are insufficient to repay the amount of the assistance payments in full, the Board of Directors shall release the lien to the extent that the debt secured by the lien remains unpaid.
-  - **(3)** If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
+  - **(3)** If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) of this section for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
   - **(4)** If the property for which assistance payments are made ceases to be the principal residence of the first-time homebuyer (or the family of the homebuyer), the Board of Directors may provide for the repayment of all or a portion of the assistance payments.
-  - **(5)** The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a) with respect to a single mortgage of an eligible homebuyer.
+  - **(5)** The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a) of this section with respect to a single mortgage of an eligible homebuyer.
 - **(d)** Amounts available in any fiscal year for assistance under this subchapter shall be allocated for homebuyers in each State on the basis of the need of eligible first-time homebuyers in each State for such assistance in comparison with the need of eligible first-time homebuyers for such assistance among all States.
 - **(e)**
   - **(1)** The Trust shall provide assistance for first-time homebuyers in the form of interest rate buydowns and downpayment assistance under this subsection. Such assistance shall be available only with respect to mortgages for the purchase of residences (A) financed with the proceeds of a qualified mortgage bond (as such term is defined in section 143 of title 26 ), or (B) for which a credit is allowable under section 25 of title 26 .
   - **(2)** To be eligible for assistance under this subsection, homebuyers and mortgages shall also meet the requirements under subsection (b) of this section, except that—
-    - **(A)** the certification under subsection (b)(3) shall not be required for assistance under this subsection;
-    - **(B)** the provisions of subsection (b)(2) shall not apply to assistance under this section; and
+    - **(A)** the certification under subsection (b)(3) of this section shall not be required for assistance under this subsection;
+    - **(B)** the provisions of subsection (b)(2) of this section shall not apply to assistance under this section; and
     - **(C)** the aggregate income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer, for the 12-month period preceding the date of the application of the homebuyer for assistance under this subsection, shall not exceed 80 percent of the median income for a family of 4 persons (as adjusted for family size) in the applicable metropolitan statistical area.
-  - **(3)** Notwithstanding subsection (a), assistance payments for first-time homebuyers under this subsection shall be provided in the following manners:
+  - **(3)** Notwithstanding subsection (a) of this section, assistance payments for first-time homebuyers under this subsection shall be provided in the following manners:
     - **(A)** Assistance payments to decrease the rate of interest payable on the mortgages by the homebuyers, in an amount not exceeding—
       - **(i)** in the first year of the mortgage, 2.0 percent of the total principal obligation of the mortgage;
       - **(ii)** in the second year of the mortgage, 1.5 percent of the total principal obligation of the mortgage;

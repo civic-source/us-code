@@ -3,9 +3,10 @@ title: "Section 2 - Repealed. Pub. L. 97–214, § 7(5) , July 12, 1982 , 96 Sta
 usc_title: 42
 usc_section: "2"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.106Z"
+generated_at: "2026-03-30T03:06:22.615Z"
+status: "repealed"
 ---
 
 # §§ 1594a–1, 1594a–2. Repealed. Pub. L. 97–214, § 7(5) , July 12, 1982 , 96 Stat. 173

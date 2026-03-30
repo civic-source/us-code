@@ -3,9 +3,10 @@ title: "Section 3510 - Eligibility and entitlement generally"
 usc_title: 38
 usc_section: "3510"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3510"
-generated_at: "2026-03-30T02:55:53.505Z"
+generated_at: "2026-03-30T03:05:59.212Z"
+status: "active"
 ---
 
 # § 3510. Eligibility and entitlement generally

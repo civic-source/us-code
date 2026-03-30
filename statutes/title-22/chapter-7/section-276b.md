@@ -3,9 +3,10 @@ title: "Section 276b - Repealed. Pub. L. 95–45, § 4(d)(4) , June 15, 1977 , 9
 usc_title: 22
 usc_section: "276b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 276b"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-03-30T03:04:53.589Z"
+status: "repealed"
 ---
 
 # § 276b. Repealed. Pub. L. 95–45, § 4(d)(4) , June 15, 1977 , 91 Stat. 223

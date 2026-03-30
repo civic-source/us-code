@@ -3,9 +3,10 @@ title: "Section 3603 - State plan"
 usc_title: 20
 usc_section: "3603"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3603"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-03-30T03:04:46.317Z"
+status: "active"
 ---
 
 # § 3603. State plan
@@ -20,5 +21,5 @@ generated_at: "2026-03-30T02:54:48.180Z"
     - **(A)** the presence of asbestos materials in school buildings of local educational agencies;
     - **(B)** the asbestos detection, containment, or removal activities conducted by local educational agencies (including activities relating to the replacement of the asbestos materials removed from school buildings with other appropriate building materials); and
     - **(C)** repairs made to restore school buildings to conditions comparable to those existing before the containment or removal activities referred to in subparagraph (B) were undertaken; and
-  - **(4)** designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section and provides assurances that such agency or unit shall carry out the duties specified under subsection (b).
-- **(b)** Not later than six months after the submission of the plan described in subsection (a), and each six months thereafter during the two-year period beginning on June 14, 1980 , the State agency or unit designated under paragraph (4) of subsection (a) shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
+  - **(4)** designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section and provides assurances that such agency or unit shall carry out the duties specified under subsection (b) of this section.
+- **(b)** Not later than six months after the submission of the plan described in subsection (a) of this section, and each six months thereafter during the two-year period beginning on June 14, 1980 , the State agency or unit designated under paragraph (4) of subsection (a) of this section shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.

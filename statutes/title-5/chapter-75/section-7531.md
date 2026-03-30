@@ -3,9 +3,10 @@ title: "Section 7531 - Definitions"
 usc_title: 5
 usc_section: "7531"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 7531"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-03-30T03:04:06.092Z"
+status: "active"
 ---
 
 # § 7531. Definitions
@@ -20,4 +21,4 @@ For the purpose of this subchapter, “agency” means—
   - **(6)** the Coast Guard;
   - **(7)** the Atomic Energy Commission;
   - **(8)** the National Aeronautics and Space Administration; and
-  - **(9)** such other agency of the Government of the United States as the President designates in the best interests of national security.
+  - **(9)** such other agency of the Government of the United States as the President designates in the best interests of national security. The President shall report any designation to the Committees on the Armed Services of the Congress.

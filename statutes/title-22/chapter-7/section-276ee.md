@@ -3,9 +3,10 @@ title: "Section 276ee - Powers of board; personal liability of members; compensa
 usc_title: 22
 usc_section: "276ee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 276ee"
-generated_at: "2026-03-30T02:55:05.311Z"
+generated_at: "2026-03-30T03:04:53.589Z"
+status: "active"
 ---
 
 # § 276ee. Powers of board; personal liability of members; compensation; decisions reviewable by Secretary of the Army; annual report; jurisdiction of court

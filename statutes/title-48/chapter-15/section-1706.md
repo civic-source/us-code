@@ -3,14 +3,15 @@ title: "Section 1706 - Reserved rights"
 usc_title: 48
 usc_section: "1706"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1706"
-generated_at: "2026-03-30T02:56:14.590Z"
+generated_at: "2026-03-30T03:06:26.532Z"
+status: "reserved"
 ---
 
 # § 1706. Reserved rights
 
-- **(a)** Nothing in this Act shall affect the right of the President to establish naval defensive sea areas and naval airspace reservations around and over the islands of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the Virgin Islands when deemed necessary for national defense.
+- **(a)** Nothing in this Act shall affect the right of the President to establish naval defensive sea areas and naval airspace reservations around and over the islands of Guam, American Samoa, and the Virgin Islands when deemed necessary for national defense.
 - **(b)** Nothing in this Act shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of the lands transferred by section 1705 of this title , and the navigable waters overlying such lands, for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control or the production of power.
-- **(c)** The United States retains all of its navigational servitude and rights in and powers of regulation and control of the lands conveyed by section 1705 of this title , and the navigable waters overlying such lands, for the constitutional purposes of commerce, navigation, national defense, and international affairs, all of which shall be paramount to, but shall not be deemed to include, proprietary rights of ownership, or the rights of management, administration, leasing, use, and development of the lands and natural resources which are specifically conveyed to the government of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, or American Samoa, as the case may be, by section 1705 of this title .
+- **(c)** The United States retains all of its navigational servitude and rights in and powers of regulation and control of the lands conveyed by section 1705 of this title , and the navigable waters overlying such lands, for the constitutional purposes of commerce, navigation, national defense, and international affairs, all of which shall be paramount to, but shall not be deemed to include, proprietary rights of ownership, or the rights of management, administration, leasing, use, and development of the lands and natural resources which are specifically conveyed to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, by section 1705 of this title .
 - **(d)** Nothing in this Act shall affect the status of lands beyond the three-mile limit described in section 1705 of this title .

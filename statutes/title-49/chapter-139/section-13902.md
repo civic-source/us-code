@@ -3,9 +3,10 @@ title: "Section 13902 - Registration of motor carriers"
 usc_title: 49
 usc_section: "13902"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 13902"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-03-30T03:06:29.289Z"
+status: "active"
 ---
 
 # § 13902. Registration of motor carriers
@@ -24,8 +25,9 @@ generated_at: "2026-03-30T02:56:19.330Z"
     - **(D)** after the Secretary establishes a written proficiency examination pursuant to section 32101(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, has passed the written proficiency examination.
   - **(2)** In addition to meeting the requirements of paragraph (1), the Secretary may register a person to provide transportation of household goods as a household goods motor carrier only after that person—
     - **(A)** provides evidence of participation in an arbitration program and provides a copy of the notice of the arbitration program as required by section 14708(b)(2);
-    - **(B)** identifies its tariff and provides a copy of the notice of the availability of that tariff for inspection as required by section 13702(c); and
-    - **(C)** demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage.
+    - **(B)** identifies its tariff and provides a copy of the notice of the availability of that tariff for inspection as required by section 13702(c);
+    - **(C)** provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage; and
+    - **(D)** discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
   - **(3)** The Secretary shall consider, and to the extent applicable, make findings on any evidence demonstrating that the registrant is unable to comply with any applicable requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2).
   - **(4)** If the Secretary determines that a registrant under this section does not meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
   - **(5)** The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
@@ -94,5 +96,4 @@ generated_at: "2026-03-30T02:56:19.330Z"
     - **(B)** interchanges under regulations issued by the Secretary if the originating carrier—
       - **(i)** physically transports the cargo at some point; and
       - **(ii)** retains liability for the cargo and for payment of interchanged carriers; and
-  - **(2)** may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
-- **(j)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+  - **(2)** may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.

@@ -3,9 +3,10 @@ title: "Section 12591 - Description of participants"
 usc_title: 42
 usc_section: "12591"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12591"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-03-30T03:06:22.904Z"
+status: "active"
 ---
 
 # § 12591. Description of participants
@@ -17,6 +18,6 @@ generated_at: "2026-03-30T02:56:11.419Z"
   - **(4)** has received a high school diploma or its equivalent, agrees to obtain a high school diploma or its equivalent (unless this requirement is waived based on an individual education assessment conducted by the program) and the individual did not drop out of an elementary or secondary school to enroll in the program, or is enrolled in an institution of higher education on an ability to benefit basis and is considered eligible for funds under section 1091 of title 20 ; and
   - **(5)** is a citizen or national of the United States or lawful permanent resident alien of the United States.
 - **(b)** An individual shall be considered to be a participant in a youth corps program described in section 12572(a)(3)(B)(x) of this title that is carried out with assistance provided under section 12571(a) of this title if the individual—
-  - **(1)** satisfies the requirements specified in subsection (a), except paragraph (3) of such subsection; and
+  - **(1)** satisfies the requirements specified in subsection (a) of this section, except paragraph (3) of such subsection; and
   - **(2)** is between the ages of 16 and 25, inclusive, at the time the individual begins the term of service.
-- **(c)** The Corporation may waive the requirements of subsection (a)(4) with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
+- **(c)** The Corporation may waive the requirements of subsection (a)(4) of this section with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.

@@ -3,9 +3,10 @@ title: "Section 3556 - Certain nonrubber footwear"
 usc_title: 19
 usc_section: "3556"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3556"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-03-30T03:04:42.057Z"
+status: "active"
 ---
 
 # § 3556. Certain nonrubber footwear
@@ -14,4 +15,4 @@ In the case of nonrubber footwear imported from Brazil—
 
   - **(1)** which is subject to Treasury Decision 74-233, dated September 9, 1974 ,
   - **(2)** which was entered, or withdrawn from warehouse for consumption, on or before October 28, 1981 , and
-  - **(3)** with respect to which entries are unliquidated on December 8, 1994 ,
+  - **(3)** with respect to which entries are unliquidated on December 8, 1994 , countervailing duties shall be assessed at rates equal to the amount of the cash deposit of the estimated countervailing duties required on such footwear at the time of entry or withdrawal from warehouse for consumption. Interest on underpayments of amounts required to be deposited as countervailing duties shall be paid in accordance with section 1677g of this title .

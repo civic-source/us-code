@@ -3,9 +3,10 @@ title: "Section 3 - Tied Aid Credit Fund and program"
 usc_title: 12
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-03-30T03:04:29.206Z"
+status: "active"
 ---
 
 # § 635i–3. Tied Aid Credit Fund and program
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
     - **(B)** facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectively restricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes; and
     - **(C)** promoting compliance with Arrangement rules among foreign export credit agencies that are not a party to the Arrangement;
 - **(b)**
-  - **(1)** The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c)—
+  - **(1)** The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
     - **(A)** to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
       - **(i)** in violation of the Arrangement; or
       - **(ii)** in cases in which the Bank determines that United States trade or economic interests justify the matching of tied aid credits extended in compliance with the Arrangement, including grandfathered cases;
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
       - **(ii)** engages in predatory financing practices that seek to circumvent international agreements on tied aid; or
     - **(C)** to supplement the financing of United States exports under such other circumstances as the Bank may determine to be appropriate for carrying out the purposes of this section.
   - **(2)** The tied aid credit program shall be administered by the Bank—
-    - **(A)** in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5);
+    - **(A)** in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5) of this section;
     - **(B)** in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
     - **(C)** in consultation with the National Advisory Council on International Monetary and Financial Policies.
   - **(3)** Under the tied aid credit program, the Bank may combine grants from the Tied Aid Credit Fund with—
@@ -45,7 +46,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
     - **(C)** any other type of export financing,
   - **(4)** In order to assist the Bank to make the most efficient use of funds available for supplemental financing under paragraph (1)(B), the United States Trade Representative and the Secretary of Commerce may provide information on principal sectors and key markets of countries described in paragraph (1)(B) to the Bank, the Secretary, and the National Advisory Council on International Monetary and Financial Policies. The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).
   - **(5)**
-    - **(A)** The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6).
+    - **(A)** The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6) of this section.
     - **(B)**
       - **(i)** In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
         - **(I)** The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
@@ -68,8 +69,8 @@ generated_at: "2026-03-30T02:53:53.388Z"
     - **(A)** Taking into consideration the time sensitivity of transactions, the Board of Directors of the Bank shall expeditiously pursuant to paragraph (2) reconsider a decision of the Board to deny an application for the use of the Tied Aid Credit Fund if the applicant submits the request for reconsideration within 3 months of the denial.
     - **(B)** In any such reconsideration, the applicant may be required to provide new information on the application.
 - **(c)**
-  - **(1)** There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e).
-  - **(2)** Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+  - **(1)** There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+  - **(2)** Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 - **(d)** Any export financing involving the use of a grant under the tied aid credit program shall be consistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
 - **(e)** There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the purposes of this section. Such sums are authorized to remain available until expended.
 - **(f)** No action taken under this section shall be reviewable by any court, except for abuse of discretion.

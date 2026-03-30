@@ -3,9 +3,10 @@ title: "Section 4110 - Authorization of appropriations; new spending authority"
 usc_title: 15
 usc_section: "4110"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4110"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-03-30T03:04:31.225Z"
+status: "active"
 ---
 
 # § 4110. Authorization of appropriations; new spending authority

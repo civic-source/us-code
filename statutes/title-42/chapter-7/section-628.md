@@ -3,14 +3,14 @@ title: "Section 628 - Payments to Indian tribal organizations"
 usc_title: 42
 usc_section: "628"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 628"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-03-30T03:06:22.449Z"
+status: "active"
 ---
 
 # § 628. Payments to Indian tribal organizations
 
-- **(a)** Out of any amount appropriated pursuant to section 625 of this title for a fiscal year, the Secretary shall reserve 3 percent for grants to Indian tribes and tribal organizations, which shall be paid directly to Indian tribes and tribal organizations with a plan approved under this subpart, in accordance with section 629c(a) of this title .
-- **(b)** The Secretary shall, in consultation with the affected Indian tribes, modify any reporting requirement imposed by or under this part on an Indian tribe, tribal organization, or tribal consortium if the total of the amounts allotted to the Indian tribe, tribal organization, or tribal consortium under this part for the fiscal year is not more than $50,000, and in a manner that limits the administrative burden on any tribe to which not more than $50,000 is allotted under this subpart for the fiscal year.
-- **(c)** For purposes of sections 622(b)(14) and 624(e) of this title, an Indian tribal organization may elect to have the weighted average of the indirect cost rates in effect under part 220 of title 2, Code of Federal Regulations 1 1 So in original. Probably should be followed by a comma. with respect to the administrative costs of the Indian tribal organization apply in lieu of the percentage specified in each such section.
-- **(d)** For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and ( l ) of section 5304 of title 25 , respectively.
+- **(a)** The Secretary may, in appropriate cases (as determined by the Secretary) make payments under this subpart directly to an Indian tribal organization within any State which has a plan for child welfare services approved under this subpart. Such payments shall be made in such manner and in such amounts as the Secretary determines to be appropriate.
+- **(b)** Amounts paid under subsection (a) of this section shall be deemed to be a part of the allotment (as determined under section 623 of this title ) for the State in which such Indian tribal organization is located.
+- **(c)** For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and ( l ) of section 450b of title 25 , respectively.

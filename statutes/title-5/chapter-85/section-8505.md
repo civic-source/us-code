@@ -3,9 +3,10 @@ title: "Section 8505 - Payments to States"
 usc_title: 5
 usc_section: "8505"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8505"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-03-30T03:04:06.110Z"
+status: "active"
 ---
 
 # § 8505. Payments to States

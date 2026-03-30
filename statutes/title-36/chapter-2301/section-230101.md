@@ -3,12 +3,13 @@ title: "Section 230101 - Organization"
 usc_title: 36
 usc_section: "230101"
 chapter: 2301
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 230101"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-03-30T03:05:43.657Z"
+status: "active"
 ---
 
 # § 230101. Organization
 
-- **(a)** Veterans of Foreign Wars of the United States (in this chapter, the “corporation”), a national association of veterans who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
+- **(a)** Veterans of Foreign Wars of the United States (in this chapter, the “corporation”), a national association of men who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
 - **(b)** Except as otherwise provided, the corporation has perpetual existence.

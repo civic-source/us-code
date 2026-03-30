@@ -3,9 +3,10 @@ title: "Section 217 - Use of Service in time of war or emergency"
 usc_title: 42
 usc_section: "217"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 217"
-generated_at: "2026-03-30T02:56:10.685Z"
+generated_at: "2026-03-30T03:06:22.299Z"
+status: "active"
 ---
 
 # § 217. Use of Service in time of war or emergency

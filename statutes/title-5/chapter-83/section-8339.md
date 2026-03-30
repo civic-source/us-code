@@ -3,9 +3,10 @@ title: "Section 8339 - Computation of annuity"
 usc_title: 5
 usc_section: "8339"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8339"
-generated_at: "2026-03-30T02:52:56.048Z"
+generated_at: "2026-03-30T03:04:06.100Z"
+status: "active"
 ---
 
 # § 8339. Computation of annuity
@@ -141,7 +142,7 @@ generated_at: "2026-03-30T02:52:56.048Z"
 - **(s)**
   - **(1)** 1 For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
   - **(2)** Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
-  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: Then, the percentage allowable is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
+  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of Then, the percent- the enactment of this subsection, age allowable is: as a Government physician is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
   - **(4)** Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
     - **(A)** an annuity under subsection (g); and
     - **(B)** a survivor annuity under section 8341, if based on the service of an individual who dies before separating from service.

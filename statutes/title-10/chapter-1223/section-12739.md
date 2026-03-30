@@ -3,9 +3,10 @@ title: "Section 12739 - Computation of retired pay"
 usc_title: 10
 usc_section: "12739"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 12739"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-03-30T03:04:17.339Z"
+status: "active"
 ---
 
 # § 12739. Computation of retired pay
@@ -28,16 +29,3 @@ generated_at: "2026-03-30T02:53:38.272Z"
     - **(A)** is recalled to serve in a position of adjutant general required under section 314 of title 32 or in a position of assistant adjutant general subordinate to such a position of adjutant general;
     - **(B)** completes at least one year of service in such position; and
     - **(C)** fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in section 324(b) of title 32 .
-- **(f)**
-  - **(1)** Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018 , after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a “full TSP member”)—
-    - **(A)** subsection (a)(2) shall be applied by substituting “2 percent” for “2½ percent”;
-    - **(B)** subparagraph (A) of subsection (c)(2) shall be applied by substituting “60 percent” for “75 percent”; and
-    - **(C)** subparagraph (B)(ii) of such subsection shall be applied by substituting “2 percent” for “2½ percent”.
-  - **(2)**
-    - **(A)** Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017 , who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with section 12733 of this title ), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5 .
-    - **(B)**
-      - **(i)** Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018 , and ends on December 31, 2018 .
-      - **(ii)** The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.
-      - **(iii)** A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) within 30 days after the date of the reentry into service of the person.
-    - **(C)** Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person’s election under that subparagraph by reason of the person’s election.
-  - **(3)** The Secretary concerned shall prescribe regulations to implement this subsection.

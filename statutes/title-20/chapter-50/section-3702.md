@@ -3,9 +3,10 @@ title: "Section 3702 - Organization of Commission"
 usc_title: 20
 usc_section: "3702"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3702"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-03-30T03:04:46.317Z"
+status: "active"
 ---
 
 # § 3702. Organization of Commission
@@ -17,11 +18,11 @@ generated_at: "2026-03-30T02:54:48.180Z"
   - **(4)** The President of the Association for the Study of Afro-American Life and History.
   - **(5)** The presidents of Wilberforce University and Central State University in Ohio.
   - **(6)** Nine members appointed by the President, who are especially qualified to serve on the Commission by reason of their background and experience. No more than two members appointed under this paragraph shall be from any one State.
-- **(b)** Subject to subsection (c), the members of the Commission specified in paragraphs (1) through (5) of subsection (a) shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
+- **(b)** Subject to subsection (c) of this section, the members of the Commission specified in paragraphs (1) through (5) of subsection (a) of this section shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
   - **(1)** three shall be appointed for terms of one year;
   - **(2)** three shall be appointed for terms of two years; and
   - **(3)** three shall be appointed for terms of four years;
-- **(c)** If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 1 1 So in original. Probably should be followed by “of subsection (a)”. as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
+- **(c)** If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 1 1 So in original. Probably should be followed by “of subsection (a) of this section”. as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
 - **(d)**
   - **(1)** Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
   - **(2)** Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Members may be reappointed.

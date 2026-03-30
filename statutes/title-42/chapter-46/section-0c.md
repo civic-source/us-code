@@ -1,12 +1,15 @@
 ---
-title: "Section 0c - Transferred"
+title: "Section 0c - Staff of Violence Against Women Office"
 usc_title: 42
 usc_section: "0c"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 0c"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.700Z"
+status: "active"
 ---
 
-# § 3796gg–0c. Transferred
+# § 3796gg–0c. Staff of Violence Against Women Office
+
+The Attorney General shall ensure that the Director has adequate staff to support the Director in carrying out the Director’s responsibilities under this subchapter.
 

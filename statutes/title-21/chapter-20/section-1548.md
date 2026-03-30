@@ -1,12 +1,15 @@
 ---
-title: "Section 1548 - Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5) , Oct. 24, 2018 , 132 Stat. 4112 ; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II) , Nov. 27, 2019 , 133 Stat. 1157"
+title: "Section 1548 - Termination"
 usc_title: 21
 usc_section: "1548"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 1548"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-03-30T03:05:00.989Z"
+status: "active"
 ---
 
-# §§ 1541 to 1548. Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5) , Oct. 24, 2018 , 132 Stat. 4112 ; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II) , Nov. 27, 2019 , 133 Stat. 1157
+# § 1548. Termination
+
+The Advisory Commission shall terminate at the end of fiscal year 2007.
 

@@ -3,16 +3,17 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-03-30T03:06:10.692Z"
+status: "active"
 ---
 
 # § 2005. Review schedule
 
 - **(a)** The Secretary of the Interior, after consultation with the heads of appropriate Federal agencies, shall establish an expedited schedule for conducting reviews and making recommendations concerning crude oil transportation systems proposed in applications filed under section 2004 of this title and for obtaining information necessary for environmental impact statements required under section 4332 of title 42 with respect to such proposed systems.
 - **(b)**
-  - **(1)** On his own initiative or at the request of the head of any Federal agency covered by the review schedule established under subsection (a), the Secretary of the Interior shall require that an applicant provide such additional information as may be necessary to conduct the review of the applicant’s proposal. Such information may include—
+  - **(1)** On his own initiative or at the request of the head of any Federal agency covered by the review schedule established under subsection (a) of this section, the Secretary of the Interior shall require that an applicant provide such additional information as may be necessary to conduct the review of the applicant’s proposal. Such information may include—
     - **(A)** specific details of the route (and alternative routes) and identification of Federal lands affected by any such route;
     - **(B)** information necessary for environmental impact statements; and
     - **(C)** information necessary for the President’s determination under section 2007(a) of this title .
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
     - **(A)** provide information required under this subsection, or
     - **(B)** comply with any requirement of section 1734 of this title ,
 - **(c)**
-  - **(1)** Pursuant to the schedule established under subsection (a), heads of Federal agencies covered by such schedule shall conduct a review of a proposed crude oil transportation system eligible for consideration under this chapter and shall submit their recommendations concerning such systems (and the basis for such recommendations) to the Secretary of the Interior for submission to the President. After receipt of such recommendations and before their submission to the President, the Secretary of the Interior shall provide an opportunity for comments in accordance with paragraph (2). The Secretary of the Interior shall forward such comments to the President with the recommendations—
+  - **(1)** Pursuant to the schedule established under subsection (a) of this section, heads of Federal agencies covered by such schedule shall conduct a review of a proposed crude oil transportation system eligible for consideration under this chapter and shall submit their recommendations concerning such systems (and the basis for such recommendations) to the Secretary of the Interior for submission to the President. After receipt of such recommendations and before their submission to the President, the Secretary of the Interior shall provide an opportunity for comments in accordance with paragraph (2). The Secretary of the Interior shall forward such comments to the President with the recommendations—
     - **(A)** in the case of applications filed under section 2004(1) of this title , on or before December 1, 1978 , and
     - **(B)** in the case of applications filed under section 2004(2) of this title , on or before the 60th day after December 1, 1978 .
   - **(2)**

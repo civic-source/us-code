@@ -3,15 +3,16 @@ title: "Section 7751 - Cooperation"
 usc_title: 7
 usc_section: "7751"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7751"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-03-30T03:04:21.024Z"
+status: "active"
 ---
 
 # § 7751. Cooperation
 
 - **(a)** The Secretary may cooperate with other Federal agencies or entities, States or political subdivisions of States, national governments, local governments of other nations, domestic or international organizations, domestic or international associations, and other persons to carry out this chapter.
-- **(b)** The individual or entity cooperating with the Secretary under subsection (a) shall be responsible for—
+- **(b)** The individual or entity cooperating with the Secretary under subsection (a) of this section shall be responsible for—
   - **(1)** the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State, other than those owned or controlled by the United States; and
   - **(2)** other facilities and means as the Secretary determines necessary.
 - **(c)** The Secretary may transfer to a State, Federal agency, or other person biological control methods using biological control organisms against plant pests or noxious weeds.

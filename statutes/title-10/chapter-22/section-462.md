@@ -3,12 +3,13 @@ title: "Section 462 - Financial assistance to certain employees in acquisition o
 usc_title: 10
 usc_section: "462"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 462"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-03-30T03:04:17.221Z"
+status: "active"
 ---
 
 # § 462. Financial assistance to certain employees in acquisition of critical skills
 
-The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ( 50 U.S.C. 3614 ) for civilian employees of the National Security Agency.
+The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ( 50 U.S.C. 402 note) 1 1 See References in Text note below. for civilian employees of the National Security Agency.
 

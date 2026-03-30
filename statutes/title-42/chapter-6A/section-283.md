@@ -1,27 +1,26 @@
 ---
-title: "Section 283 - Triennial reports of Director of NIH"
+title: "Section 283 - Biennial reports of Director of NIH"
 usc_title: 42
 usc_section: "283"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 283"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-03-30T03:06:22.340Z"
+status: "active"
 ---
 
-# § 283. Triennial reports of Director of NIH
+# § 283. Biennial reports of Director of NIH
 
-- **(a)** The Director of NIH shall submit to the Congress on a triennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007 . Each such report shall include the following information:
+- **(a)** The Director of NIH shall submit to the Congress on a biennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007 . Each such report shall include the following information:
   - **(1)** An assessment of the state of biomedical and behavioral research.
   - **(2)** A description of the activities conducted or supported by the agencies of the National Institutes of Health and policies respecting the programs of such agencies.
-  - **(3)** A description of intra-National Institutes of Health activities, including—
-    - **(A)** identification of the percentage of funds made available by each national research institute and national center with respect to each applicable fiscal year for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers; and
-    - **(B)** recommendations for promoting coordination of information among the centers of excellence.
+  - **(3)** Classification and justification for the priorities established by the agencies, including a strategic plan and recommendations for future research initiatives to be carried out under section 282(b)(7) of this title through the Division of Program Coordination, Planning, and Strategic Initiatives.
   - **(4)** A catalog of all the research activities of the agencies, prepared in accordance with the following:
     - **(A)** The catalog shall, for each such activity—
       - **(i)** identify the agency or agencies involved;
       - **(ii)** state whether the activity was carried out directly by the agencies or was supported by the agencies and describe to what extent the agency was involved; and
       - **(iii)** identify whether the activity was carried out through a center of excellence.
-    - **(B)** In the case of clinical research, the catalog shall, as appropriate, identify study populations by demographic variables, including biological and social variables and relevant age categories (such as pediatric subgroups), and determinants of health, that contribute to research on minority health and health disparities.
+    - **(B)** In the case of clinical research, the catalog shall, as appropriate, identify study populations by demographic variables and other variables that contribute to research on minority health and health disparities.
     - **(C)** Research activities listed in the catalog shall include, where applicable, the following:
       - **(i)** Epidemiological studies and longitudinal studies.
       - **(ii)** Disease registries, information clearinghouses, and other data systems.
@@ -32,7 +31,7 @@ generated_at: "2026-03-30T02:56:10.738Z"
         - **(III)** investigator-initiated awards for postdoctoral training and postdoctoral training funded through research grants;
         - **(IV)** a breakdown by demographic variables and other appropriate categories; and
         - **(V)** an evaluation and comparison of outcomes and effectiveness of various training programs.
-      - **(v)** Clinical trials, including a breakdown of participation by study populations and demographic variables, including relevant age categories (such as pediatric subgroups), information submitted by each national research institute and national center to the Director of National Institutes of Health under section 289a–2(f) of this title , and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title and other applicable requirements regarding inclusion of demographic groups.
+      - **(v)** Clinical trials, including a breakdown of participation by study populations and demographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
       - **(vi)** Translational research activities with other agencies of the Public Health Service.
   - **(5)** A summary of the research activities throughout the agencies, which summary shall be organized by the following categories, where applicable:
     - **(A)** Cancer.
@@ -47,9 +46,11 @@ generated_at: "2026-03-30T02:56:10.738Z"
     - **(J)** Infectious diseases and bioterrorism.
     - **(K)** Minority health and health disparities.
     - **(L)** Such additional categories as the Director determines to be appropriate.
-  - **(6)** A review of each entity receiving funding under this subchapter in its capacity as a center of excellence (in this paragraph referred to as a “center of excellence”), including the following—
-    - **(A)** an evaluation of the performance and research outcomes of each center of excellence; and
-    - **(B)** recommendations for improving the effectiveness, efficiency, and outcomes of the centers of excellence.
+  - **(6)** A review of each entity receiving funding under this subchapter in its capacity as a center of excellence (in this paragraph referred to as a “center of excellence”), including the following:
+    - **(A)** An evaluation of the performance and research outcomes of each center of excellence.
+    - **(B)** Recommendations for promoting coordination of information among the centers of excellence.
+    - **(C)** Recommendations for improving the effectiveness, efficiency, and outcomes of the centers of excellence.
+    - **(D)** If no additional centers of excellence have been funded under this subchapter since the previous report under this section, an explanation of the reasons for not funding any additional centers.
 - **(b)** In a report under subsection (a), the Director of NIH, when reporting on research activities relating to a specific disease, disorder, or other adverse health condition, shall—
   - **(1)** present information in a standardized format;
   - **(2)** identify the actual dollar amounts obligated for such activities; and

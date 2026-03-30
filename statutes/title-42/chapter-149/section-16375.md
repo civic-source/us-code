@@ -1,20 +1,22 @@
 ---
-title: "Section 16375 - Program administration"
+title: "Section 16375 - Limits on participation"
 usc_title: 42
 usc_section: "16375"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16375"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-03-30T03:06:22.978Z"
+status: "active"
 ---
 
-# § 16375. Program administration
+# § 16375. Limits on participation
 
-- **(a)** The Secretary shall establish a uniform system to service the Federal credit instruments provided under the CIFIA program.
-- **(b)** If funding sufficient to cover the costs of services of expert firms retained pursuant to subsection (d) and all or a portion of the costs to the Federal Government of servicing the Federal credit instruments is not provided in an appropriations Act for a fiscal year, the Secretary, during that fiscal year, may collect fees on or after the date of the financial close of a Federal credit instrument provided under the CIFIA program at a level that is sufficient to cover those costs.
-- **(c)**
-  - **(1)** The Secretary may appoint a financial entity to assist the Secretary in servicing the Federal credit instruments.
-  - **(2)** A servicer appointed under paragraph (1) shall act as the agent for the Secretary.
-  - **(3)** A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary.
-- **(d)** The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
-- **(e)** The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the CIFIA program.
+An entity shall be eligible to receive an award under this part only if the Secretary finds—
+
+  - **(1)** that the entity’s participation in the program under this part would be in the economic interest of the United States; and
+  - **(2)** that either—
+    - **(A)** the entity is a United States-owned entity organized under the laws of the United States; or
+    - **(B)** the entity is organized under the laws of the United States and has a parent entity organized under the laws of a country that affords—
+      - **(i)** to United States-owned entities opportunities, comparable to those afforded to any other entity, to participate in any cooperative research venture similar to those authorized under this part;
+      - **(ii)** to United States-owned entities local investment opportunities comparable to those afforded to any other entity; and
+      - **(iii)** adequate and effective protection for the intellectual property rights of United States-owned entities.

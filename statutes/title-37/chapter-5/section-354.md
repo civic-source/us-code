@@ -3,9 +3,10 @@ title: "Section 354 - Special pay: 15-year career status bonus for members enter
 usc_title: 37
 usc_section: "354"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 354"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-03-30T03:05:39.922Z"
+status: "active"
 ---
 
 # § 354. Special pay: 15-year career status bonus for members entering service on or after August 1, 1986
@@ -34,9 +35,4 @@ generated_at: "2026-03-30T02:55:44.056Z"
   - **(2)** The notification shall include the following:
     - **(A)** The procedures for electing to receive the bonus.
     - **(B)** An explanation of the effects under sections 1401a, 1409, and 1410 of title 10 that such an election has on the computation of any retired or retainer pay that the member may become eligible to receive.
-- **(f)**
-  - **(1)** If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title .
-  - **(2)** If a person who is paid a bonus under this section subsequently makes an election described in section 1409(b)(4)(B) of title 10 , the person shall repay any bonus payments received under this section in the same manner as repayments are made under section 373 of this title .
-- **(g)**
-  - **(1)** A Secretary concerned may not pay a new bonus under this section after December 31, 2017 .
-  - **(2)** Subject to subsection (f)(2), the Secretary concerned may continue to make payments for bonuses that were awarded under this section on or before the date specified in paragraph (1).
+- **(f)** If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 373 of this title .

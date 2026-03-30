@@ -1,12 +1,28 @@
 ---
-title: "Section 19o - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19o - Promotion of local fundraising support"
 usc_title: 16
 usc_section: "19o"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 19o"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.399Z"
+status: "active"
 ---
 
-# § 19o. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19o. Promotion of local fundraising support
 
+- **(a)** The Foundation shall design and implement a comprehensive program to assist and promote philanthropic programs of support at the individual national park unit level.
+- **(b)** The program under subsection (a) of this section shall be implemented to—
+  - **(1)** assist in the creation of local nonprofit support organizations; and
+  - **(2)** provide support, national consistency, and management-improving suggestions for local nonprofit support organizations.
+- **(c)** The program under subsection (a) of this section shall include the greatest number of national park units as is practicable.
+- **(d)** The program under subsection (a) of this section shall include, at a minimum—
+  - **(1)** a standard adaptable organizational design format to establish and sustain responsible management of a local nonprofit support organization for support of a national park unit;
+  - **(2)** standard and legally tenable bylaws and recommended money-handling procedures that can easily be adapted as applied to individual national park units; and
+  - **(3)** a standard training curriculum to orient and expand the operating expertise of personnel employed by local nonprofit support organizations.
+- **(e)** The Foundation shall report the progress of the program under subsection (a) of this section in the annual report of the Foundation.
+- **(f)**
+  - **(1)** Nothing in this section requires—
+    - **(A)** a nonprofit support organization or friends group to modify current practices or to affiliate with the Foundation; or
+    - **(B)** a local nonprofit support organization, established as a result of this section, to be bound through its charter or corporate bylaws to be permanently affiliated with the Foundation.
+  - **(2)** An affiliation with the Foundation shall be established only at the discretion of the governing board of a nonprofit organization.

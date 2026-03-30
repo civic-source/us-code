@@ -3,16 +3,17 @@ title: "Section 5422 - State enforcement"
 usc_title: 42
 usc_section: "5422"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5422"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-03-30T03:06:22.738Z"
+status: "active"
 ---
 
 # § 5422. State enforcement
 
 - **(a)** Nothing in this chapter shall prevent any State agency or court from asserting jurisdiction under State law over any manufactured home construction or safety issue with respect to which no Federal manufactured home construction and safety standard has been established pursuant to the provisions of section 5403 of this title .
 - **(b)** Any State which, at any time, desires to assume responsibility for enforcement of manufactured home safety and construction standards relating to any issue with respect to which a Federal standard has been established under section 5403 of this title , shall submit to the Secretary a State plan for enforcement of such standards.
-- **(c)** The Secretary shall approve the plan submitted by a State under subsection (b), or any modification thereof, if such plan in his judgment—
+- **(c)** The Secretary shall approve the plan submitted by a State under subsection (b) of this section, or any modification thereof, if such plan in his judgment—
   - **(1)** designates a State agency or agencies as the agency or agencies responsible for administering the plan throughout the State;
   - **(2)** provides for the enforcement of manufactured home safety and construction standards promulgated under section 5403 of this title ;
   - **(3)** provides for a right of entry and inspection of all factories, warehouses, or establishments in such State in which manufactured homes are manufactured and for the review of plans, in a manner which is identical to that provided in section 5413 of this title ;
@@ -26,10 +27,10 @@ generated_at: "2026-03-30T02:56:11.236Z"
   - **(11)** with respect to any State plan submitted on or after the expiration of the 5-year period beginning on December 27, 2000 , provides for an installation program established by State law that meets the requirements of section 5404(c)(3) of this title ;
   - **(12)** with respect to any State plan submitted on or after the expiration of the 5-year period beginning on December 27, 2000 , provides for a dispute resolution program for the timely resolution of disputes between manufacturers, retailers, and installers of manufactured homes regarding responsibility, and for the issuance of appropriate orders, for the correction or repair of defects in manufactured homes that are reported during the 1-year period beginning on the date of installation; and
   - **(13)** complies with such other requirements as the Secretary may by regulation prescribe for the enforcement of this chapter.
-- **(d)** If the Secretary rejects a plan submitted under subsection (b), he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
-- **(e)** After the Secretary approves a State plan submitted under subsection (b), he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
+- **(d)** If the Secretary rejects a plan submitted under subsection (b) of this section, he shall afford the State submitting the plan due notice and opportunity for a hearing before so doing.
+- **(e)** After the Secretary approves a State plan submitted under subsection (b) of this section, he may, but shall not be required to, exercise his authority under this chapter with respect to enforcement of manufactured home construction and safety standards in the State involved.
 - **(f)** The Secretary shall, on the basis of reports submitted by the designated State agency and his own inspections, make a continuing evaluation of the manner in which each State having a plan approved under this section is carrying out such plan. Such evaluation shall be made by the Secretary at least annually for each State, and the results of such evaluation and the inspection reports on which it is based shall be promptly submitted to the appropriate committees of the Congress. Whenever the Secretary finds, after affording due notice and opportunity for a hearing, that in the administration of the State plan there is a failure to comply substantially with any provision of the State plan or that the State plan has become inadequate, he shall notify the State agency or agencies of his withdrawal of approval of such plan. Upon receipt of such notice by such State agency or agencies such plan shall cease to be in effect, but the State may retain jurisdiction in any case commenced before the withdrawal of the plan in order to enforce manufactured home standards under the plan whenever the issues involved do not relate to the reasons for the withdrawal of the plan.
 - **(g)**
-  - **(1)** Not later than the expiration of the 5-year period beginning on December 27, 2000 , the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5 .
-  - **(2)** Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12).
+  - **(1)** Not later than the expiration of the 5-year period beginning on December 27, 2000 , the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) of this section for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5 .
+  - **(2)** Beginning on the expiration of the 5-year period described in paragraph (1), the Secretary shall implement the dispute resolution program established under paragraph (1) in each State that has not established a dispute resolution program that meets the requirements of subsection (c)(12) of this section.
   - **(3)** In carrying out paragraph (2), the Secretary may contract with an appropriate agent to implement the dispute resolution program established under paragraph (2), except that such agent shall not be a person or entity other than a government, nor an affiliate or subsidiary of such a person or entity, that has entered into a contract with the Secretary to implement any other regulatory program under this chapter.

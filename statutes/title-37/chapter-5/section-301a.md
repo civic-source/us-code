@@ -3,9 +3,10 @@ title: "Section 301a - Incentive pay: aviation career"
 usc_title: 37
 usc_section: "301a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 301a"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-03-30T03:05:39.916Z"
+status: "active"
 ---
 
 # § 301a. Incentive pay: aviation career
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:44.050Z"
     - **(A)** The term “aviation service” means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
     - **(B)** The term “operational flying duty” means flying performed under competent orders by rated or designated members while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
     - **(C)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated members while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
-    - **(D)** The term “officer” includes an individual enlisted, and designated, as an aviation cadet under section 8411 of title 10 .
+    - **(D)** The term “officer” includes an individual enlisted, and designated, as an aviation cadet under section 6911 of title 10 .
 - **(b)**
   - **(1)** A member who satisfies the requirements described in subsection (a) is entitled to monthly incentive pay as follows: Years of aviation service (including flight training) as an officer: Monthly rate 2 or less $125 Over 2 $156 Over 3 $188 Over 4 $206 Over 6 $650 Over 14 $840 Over 22 $585 Over 23 $495 Over 24 $385 Over 25 $250
   - **(2)** An officer in a pay grade above O–6 is entitled, until the officer completes 25 years of aviation service, to be paid at the rates set forth in the table in paragraph (1), except that—

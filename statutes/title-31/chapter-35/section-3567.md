@@ -3,9 +3,10 @@ title: "Section 3567 - Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i) , July 22, 
 usc_title: 31
 usc_section: "3567"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 3567"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-03-30T03:05:28.359Z"
+status: "repealed"
 ---
 
 # [§§ 3563 to 3567. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i) , July 22, 2010 , 124 Stat. 2231 ]

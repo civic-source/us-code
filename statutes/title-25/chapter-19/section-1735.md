@@ -1,12 +1,15 @@
 ---
-title: "Section 1735 - Omitted"
+title: "Section 1735 - Construction"
 usc_title: 25
 usc_section: "1735"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1735"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.880Z"
+status: "active"
 ---
 
-# § 1735. Omitted
+# § 1735. Construction
 
+- **(a)** In the event a conflict of interpretation between the provisions of the Maine Implementing Act and this subchapter should emerge, the provisions of this subchapter shall govern.
+- **(b)** The provisions of any Federal law enacted after October 10, 1980 , for the benefit of Indians, Indian nations, or tribes or bands of Indians, which would affect or preempt the application of the laws of the State of Maine, including application of the laws of the State to lands owned by or held in trust for Indians, or Indian nations, tribes, or bands of Indians, as provided in this subchapter and the Maine Implementing Act, shall not apply within the State of Maine, unless such provision of such subsequently enacted Federal law is specifically made applicable within the State of Maine.

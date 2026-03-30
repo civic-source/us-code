@@ -3,9 +3,10 @@ title: "Section 5965 - Use of funds"
 usc_title: 20
 usc_section: "5965"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 5965"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-03-30T03:04:46.327Z"
+status: "active"
 ---
 
 # § 5965. Use of funds
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
   - **(17)** Other projects or activities that meet the purpose of this subchapter.
 - **(b)**
   - **(1)** A local educational agency may use not more than—
-    - **(A)** a total of 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraphs (11), (13), and (14) of subsection (a); and
-    - **(B)** 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraph (16) of subsection (a).
-  - **(2)** A local educational agency shall only be able to use grant funds received under this subchapter for activities described in paragraphs (11), (13), and (14) of subsection (a) if funding for such activities is not available from other Federal sources.
+    - **(A)** a total of 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraphs (11), (13), and (14) of subsection (a) of this section; and
+    - **(B)** 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraph (16) of subsection (a) of this section.
+  - **(2)** A local educational agency shall only be able to use grant funds received under this subchapter for activities described in paragraphs (11), (13), and (14) of subsection (a) of this section if funding for such activities is not available from other Federal sources.
   - **(3)** A local educational agency may not use grant funds received under this subchapter for construction.

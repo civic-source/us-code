@@ -3,9 +3,10 @@ title: "Section 168 - Constitution of the United States; preparation and publica
 usc_title: 2
 usc_section: "168"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 168"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-03-30T03:04:04.408Z"
+status: "active"
 ---
 
 # § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements

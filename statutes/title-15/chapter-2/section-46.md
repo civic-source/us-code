@@ -3,9 +3,10 @@ title: "Section 46 - Additional powers of Commission"
 usc_title: 15
 usc_section: "46"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-03-30T02:54:08.026Z"
+generated_at: "2026-03-30T03:04:31.064Z"
+status: "active"
 ---
 
 # § 46. Additional powers of Commission
@@ -36,7 +37,7 @@ The Commission shall also have power—
     - **(C)** engage in further cooperation, and protect materials and information received from disclosure, as authorized by this subchapter.
   - **(5)** The authority provided by this subsection is in addition to, and not in lieu of, any other authority vested in the Commission or any other officer of the United States.
   - **(6)** The authority granted by this subsection shall not authorize the Commission to take any action or exercise any power with respect to a bank, a savings and loan institution described in section 57a(f)(3) of this title , a Federal credit union described in section 57a(f)(4) of this title , or a common carrier subject to the Act to regulate commerce, except in accordance with the undesignated proviso following the last designated subsection of this section.
-  - **(7)** The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1 1 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
+  - **(7)** The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
 - **(k)**
   - **(1)** Whenever the Commission obtains evidence that any person, partnership, or corporation, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, to transmit such evidence to the Attorney General, who may institute criminal proceedings under appropriate statutes. Nothing in this paragraph affects any other authority of the Commission to disclose information.
   - **(2)** The Commission shall endeavor to ensure, with respect to memoranda of understanding and international agreements it may conclude, that material it has obtained from foreign law enforcement agencies acting to investigate or pursue the enforcement of foreign criminal laws may be used for the purpose of investigation, prosecution, or prevention of violations of United States criminal laws.

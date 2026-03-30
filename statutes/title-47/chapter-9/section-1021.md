@@ -3,9 +3,10 @@ title: "Section 1021 - Department of Justice Telecommunications Carrier Complian
 usc_title: 47
 usc_section: "1021"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 1021"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-03-30T03:06:26.240Z"
+status: "active"
 ---
 
 # § 1021. Department of Justice Telecommunications Carrier Compliance Fund
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(1)** The Attorney General may terminate the Fund at such time as the Attorney General determines that the Fund is no longer necessary.
   - **(2)** Any balance in the Fund at the time of its termination shall be deposited in the General Fund of the Treasury.
   - **(3)** A decision of the Attorney General to terminate the Fund shall not be subject to judicial review.
-- **(d)** Funds shall not be available for obligation unless an implementation plan as set forth in subsection (e) is submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate and the Congress does not by law block or prevent the obligation of such funds. Such funds shall be treated as a reprogramming of funds under section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and shall not be available for obligation or expenditure except in compliance with the procedures set forth in that section and this section.
+- **(d)** Funds shall not be available for obligation unless an implementation plan as set forth in subsection (e) of this section is submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate and the Congress does not by law block or prevent the obligation of such funds. Such funds shall be treated as a reprogramming of funds under section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and shall not be available for obligation or expenditure except in compliance with the procedures set forth in that section and this section.
 - **(e)** The implementation plan shall include:
   - **(1)** the law enforcement assistance capability requirements and an explanation of law enforcement’s recommended interface;
   - **(2)** the proposed actual and maximum capacity requirements for the number of simultaneous law enforcement communications intercepts, pen registers, and trap and trace devices that authorized law enforcement agencies may seek to conduct, set forth on a county-by-county basis for wireline services and on a market service area basis for wireless services, and the historical baseline of electronic surveillance activity upon which such capacity requirements are based;

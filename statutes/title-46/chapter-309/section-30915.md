@@ -3,9 +3,10 @@ title: "Section 30915 - Seizures and other proceedings in foreign jurisdictions"
 usc_title: 46
 usc_section: "30915"
 chapter: 309
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 30915"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-03-30T03:06:27.182Z"
+status: "active"
 ---
 
 # § 30915. Seizures and other proceedings in foreign jurisdictions

@@ -3,12 +3,13 @@ title: "Section 2221 - Cost limitations on projects"
 usc_title: 33
 usc_section: "2221"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2221"
-generated_at: "2026-03-30T02:55:41.113Z"
+generated_at: "2026-03-30T03:05:36.292Z"
+status: "active"
 ---
 
 # § 2221. Cost limitations on projects
 
-Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005 , pursuant to section 560 of this title ; section 561 1 1 See References in Text note below. of this title; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 ; section 1962d–5a of title 42 ; sections 2214, 2231, and 2232 of this title; section 426i–1 1 of this title; section 701b–13 1 of this title; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
+Beginning in fiscal year 2006 and thereafter, agreements proposed for execution by the Assistant Secretary of the Army for Civil Works or the United States Army Corps of Engineers after November 19, 2005 , pursuant to section 560 of this title ; section 561 of this title ; the Civil Functions Appropriations Act, 1936, Public Law 75–208 1 1 See References in Text note below. ; section 1962d–5a of title 42 ; sections 2214, 2231, and 2232 of this title; section 426i–1 of this title ; section 701b–13 of this title ; and any other specific project authority, shall be limited to total credits and reimbursements for all applicable projects not to exceed $100,000,000 in each fiscal year.
 

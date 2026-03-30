@@ -3,9 +3,10 @@ title: "Section 3156 - Definitions"
 usc_title: 18
 usc_section: "3156"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3156"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-03-30T03:04:41.120Z"
+status: "active"
 ---
 
 # § 3156. Definitions
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
   - **(4)** the term “crime of violence” means—
     - **(A)** an offense that has as an element of the offense the use, attempted use, or threatened use of physical force against the person or property of another;
     - **(B)** any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense; or
-    - **(C)** any felony under chapter 77, 109A, 110, or 117; and
+    - **(C)** any felony under chapter 109A, 110, or 117; and
   - **(5)** the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 - **(b)** As used in sections 3152–3155 of this chapter—
   - **(1)** the term “judicial officer” means, unless otherwise indicated, any person or court authorized pursuant to section 3041 of this title , or the Federal Rules of Criminal Procedure, to detain or release a person before trial or sentencing or pending appeal in a court of the United States, and

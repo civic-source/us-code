@@ -3,9 +3,10 @@ title: "Section 3573 - Petition of the Government for modification or remission"
 usc_title: 18
 usc_section: "3573"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3573"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-03-30T03:04:41.125Z"
+status: "active"
 ---
 
 # § 3573. Petition of the Government for modification or remission
@@ -14,4 +15,4 @@ Upon petition of the Government showing that reasonable efforts to collect a fin
 
   - **(1)** remit all or part of the unpaid portion of the fine or special assessment, including interest and penalties;
   - **(2)** defer payment of the fine or special assessment to a date certain or pursuant to an installment schedule; or
-  - **(3)** extend a date certain or an installment schedule previously ordered.
+  - **(3)** extend a date certain or an installment schedule previously ordered. A petition under this subsection shall be filed in the court in which sentence was originally imposed, unless the court transfers jurisdiction to another court. This section shall apply to all fines and assessments irrespective of the date of imposition.

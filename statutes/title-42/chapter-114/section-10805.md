@@ -3,9 +3,10 @@ title: "Section 10805 - System requirements"
 usc_title: 42
 usc_section: "10805"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10805"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-03-30T03:06:22.881Z"
+status: "active"
 ---
 
 # § 10805. System requirements
@@ -29,14 +30,14 @@ generated_at: "2026-03-30T02:56:11.392Z"
       - **(i)** such representative has been contacted by such system upon receipt of the name and address of such representative;
       - **(ii)** such system has offered assistance to such representative to resolve the situation; and
       - **(iii)** such representative has failed or refused to act on behalf of the individual;
-  - **(5)** have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] for the furnishing of the information required by subsection (b);
+  - **(5)** have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] for the furnishing of the information required by subsection (b) of this section;
   - **(6)** establish an advisory council—
     - **(A)** which will advise the system on policies and priorities to be carried out in protecting and advocating the rights of individuals with mental illness;
     - **(B)** which shall include attorneys, mental health professionals, individuals from the public who are knowledgeable about mental illness, a provider of mental health services, individuals who have received or are receiving mental health services, and family members of such individuals, and at least 60 percent the membership of which shall be comprised of individuals who have received or are receiving mental health services or who are family members of such individuals; and
     - **(C)** which shall be chaired by an individual who has received or is receiving mental health services or who is a family member of such an individual;
-  - **(7)** on January 1, 1987 , and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located, and make publicly available, a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
+  - **(7)** on January 1, 1987 , and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
   - **(8)** on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
-  - **(9)** establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III; and
+  - **(9)** establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
   - **(10)** not use allotments provided to a system in a manner inconsistent with section 14404 of this title .
 - **(b)** The Secretary and the agency of a State which administers its State plan under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] shall provide the eligible system of the State with a copy of each annual survey report and plan of corrections for cited deficiencies made pursuant to titles XVIII and XIX of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq.] with respect to any facility rendering care or treatment to individuals with mental illness in the State in which such system is located. A report or plan shall be made available within 30 days after the completion of the report or plan.
 - **(c)**

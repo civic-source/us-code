@@ -3,9 +3,10 @@ title: "Section 8612 - Repealed. Pub. L. 97–35, title XXVI, § 2611 , Aug. 13,
 usc_title: 42
 usc_section: "8612"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 8612"
-generated_at: "2026-03-30T02:56:11.345Z"
+generated_at: "2026-03-30T03:06:22.838Z"
+status: "repealed"
 ---
 
 # §§ 8601 to 8612. Repealed. Pub. L. 97–35, title XXVI, § 2611 , Aug. 13, 1981 , 95 Stat. 902

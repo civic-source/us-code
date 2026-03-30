@@ -3,9 +3,10 @@ title: "Section 1104 - Fiduciary duties"
 usc_title: 29
 usc_section: "1104"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1104"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-03-30T03:05:09.718Z"
+status: "active"
 ---
 
 # § 1104. Fiduciary duties
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:55:18.716Z"
       - **(ii)** defraying reasonable expenses of administering the plan;
     - **(B)** with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
     - **(C)** by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
-    - **(D)** in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III.
+    - **(D)** in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
   - **(2)** In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title ), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 - **(b)** Except as authorized by the Secretary by regulations, no fiduciary may maintain the indicia of ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
 - **(c)**
@@ -52,9 +53,8 @@ generated_at: "2026-03-30T02:55:18.716Z"
         - **(I)** receives, within a reasonable period of time before each plan year, a notice explaining the employee’s right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
         - **(II)** has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
       - **(ii)** The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.
-  - **(6)** For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with section 1193(c)(1)(A)(iii) of this title .
 - **(d)**
-  - **(1)** If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26 , a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III in accordance with the following requirements:
+  - **(1)** If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26 , a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
     - **(A)** In the case of a fiduciary of the terminated plan, any requirement—
       - **(i)** under section 4980(d)(2)(B) of title 26 with respect to the transfer of assets from the terminated plan to a qualified replacement plan, and
       - **(ii)** under section 4980(d)(2)(B)(ii) or 4980(d)(3) of title 26 with respect to any increase in benefits under the terminated plan.
@@ -65,33 +65,3 @@ generated_at: "2026-03-30T02:55:18.716Z"
   - **(2)** For purposes of this subsection—
     - **(A)** any term used in this subsection which is also used in section 4980(d) of title 26 shall have the same meaning as when used in such section, and
     - **(B)** any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
-- **(e)**
-  - **(1)** With respect to the selection of an insurer for a guaranteed retirement income contract, the requirements of subsection (a)(1)(B) will be deemed to be satisfied if a fiduciary—
-    - **(A)** engages in an objective, thorough, and analytical search for the purpose of identifying insurers from which to purchase such contracts;
-    - **(B)** with respect to each insurer identified under subparagraph (A)—
-      - **(i)** considers the financial capability of such insurer to satisfy its obligations under the guaranteed retirement income contract; and
-      - **(ii)** considers the cost (including fees and commissions) of the guaranteed retirement income contract offered by the insurer in relation to the benefits and product features of the contract and administrative services to be provided under such contract; and
-    - **(C)** on the basis of such consideration, concludes that—
-      - **(i)** at the time of the selection, the insurer is financially capable of satisfying its obligations under the guaranteed retirement income contract; and
-      - **(ii)** the relative cost of the selected guaranteed retirement income contract as described in subparagraph (B)(ii) is reasonable.
-  - **(2)** A fiduciary will be deemed to satisfy the requirements of paragraphs (1)(B)(i) and (1)(C)(i) if—
-    - **(A)** the fiduciary obtains written representations from the insurer that—
-      - **(i)** the insurer is licensed to offer guaranteed retirement income contracts;
-      - **(ii)** the insurer, at the time of selection and for each of the immediately preceding 7 plan years—
-        - **(I)** operates under a certificate of authority from the insurance commissioner of its domiciliary State which has not been revoked or suspended;
-        - **(II)** has filed audited financial statements in accordance with the laws of its domiciliary State under applicable statutory accounting principles;
-        - **(III)** maintains (and has maintained) reserves which satisfies all the statutory requirements of all States where the insurer does business; and
-        - **(IV)** is not operating under an order of supervision, rehabilitation, or liquidation;
-      - **(iii)** the insurer undergoes, at least every 5 years, a financial examination (within the meaning of the law of its domiciliary State) by the insurance commissioner of the domiciliary State (or representative, designee, or other party approved by such commissioner); and
-      - **(iv)** the insurer will notify the fiduciary of any change in circumstances occurring after the provision of the representations in clauses (i), (ii), and (iii) which would preclude the insurer from making such representations at the time of issuance of the guaranteed retirement income contract; and
-    - **(B)** after receiving such representations and as of the time of selection, the fiduciary has not received any notice described in subparagraph (A)(iv) and is in possession of no other information which would cause the fiduciary to question the representations provided.
-  - **(3)** Nothing in this subsection shall be construed to require a fiduciary to select the lowest cost contract. A fiduciary may consider the value of a contract, including features and benefits of the contract and attributes of the insurer (including, without limitation, the insurer’s financial strength) in conjunction with the cost of the contract.
-  - **(4)**
-    - **(A)** For purposes of this subsection, the time of selection is—
-      - **(i)** the time that the insurer and the contract are selected for distribution of benefits to a specific participant or beneficiary; or
-      - **(ii)** if the fiduciary periodically reviews the continuing appropriateness of the conclusion described in paragraph (1)(C) with respect to a selected insurer, taking into account the considerations described in such paragraph, the time that the insurer and the contract are selected to provide benefits at future dates to participants or beneficiaries under the plan.
-    - **(B)** A fiduciary will be deemed to have conducted the periodic review described in subparagraph (A)(ii) if the fiduciary obtains the written representations described in clauses (i), (ii), and (iii) of paragraph (2)(A) from the insurer on an annual basis, unless the fiduciary receives any notice described in paragraph (2)(A)(iv) or otherwise becomes aware of facts that would cause the fiduciary to question such representations.
-  - **(5)** A fiduciary which satisfies the requirements of this subsection shall not be liable following the distribution of any benefit, or the investment by or on behalf of a participant or beneficiary pursuant to the selected guaranteed retirement income contract, for any losses that may result to the participant or beneficiary due to an insurer’s inability to satisfy its financial obligations under the terms of such contract.
-  - **(6)** For purposes of this subsection—
-    - **(A)** The term “insurer” means an insurance company, insurance service, or insurance organization, including affiliates of such companies.
-    - **(B)** The term “guaranteed retirement income contract” means an annuity contract for a fixed term or a contract (or provision or feature thereof) which provides guaranteed benefits annually (or more frequently) for at least the remainder of the life of the participant or the joint lives of the participant and the participant’s designated beneficiary as part of an individual account plan.

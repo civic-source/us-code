@@ -3,9 +3,10 @@ title: "Section 6307 - Reporting"
 usc_title: 15
 usc_section: "6307"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 6307"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-03-30T03:04:31.234Z"
+status: "active"
 ---
 
 # § 6307. Reporting

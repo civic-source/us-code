@@ -3,18 +3,18 @@ title: "Section 3701 - Purposes"
 usc_title: 33
 usc_section: "3701"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-03-30T03:05:36.306Z"
+status: "active"
 ---
 
 # § 3701. Purposes
 
-The purposes of this chapter are to provide for—
-
-  - **(1)** development coordination 1 1 So in original. and implementation of a comprehensive interagency plan to—
-    - **(A)** monitor and conduct research on the processes and consequences of ocean acidification and coastal acidification on marine organisms and ecosystems; and
-    - **(B)** maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification;
-  - **(2)** maintenance of an ocean acidification program within the National Oceanic and Atmospheric Administration;
-  - **(3)** assessment and consideration of regional and national ecosystem and socioeconomic impacts of increased ocean acidification and coastal acidification; and
-  - **(4)** research adaptation strategies and mitigating the impacts of ocean and coastal acidification and related co-stressors on marine ecosystems.
+- **(a)** The purposes of this chapter are to provide for—
+  - **(1)** development and coordination of a comprehensive interagency plan to—
+    - **(A)** monitor and conduct research on the processes and consequences of ocean acidification on marine organisms and ecosystems; and
+    - **(B)** establish an interagency research and monitoring program on ocean acidification;
+  - **(2)** establishment of an ocean acidification program within the National Oceanic and Atmospheric Administration;
+  - **(3)** assessment and consideration of regional and national ecosystem and socioeconomic impacts of increased ocean acidification; and
+  - **(4)** research adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification.

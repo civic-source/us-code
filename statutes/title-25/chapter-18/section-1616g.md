@@ -3,15 +3,16 @@ title: "Section 1616g - INMED program"
 usc_title: 25
 usc_section: "1616g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1616g"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-03-30T03:05:02.870Z"
+status: "active"
 ---
 
 # § 1616g. INMED program
 
 - **(a)** The Secretary is authorized to provide grants to at least 3 colleges and universities for the purpose of maintaining and expanding the Native American health careers recruitment program known as the “Indians into Medicine Program” (hereinafter in this section referred to as “INMED”) as a means of encouraging Indians to enter the health professions.
-- **(b)** The Secretary shall provide one of the grants authorized under subsection (a) to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title .
+- **(b)** The Secretary shall provide one of the grants authorized under subsection (a) of this section to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title .
 - **(c)**
   - **(1)** The Secretary shall develop regulations for the competitive awarding of the grants provided under this section.
   - **(2)** Applicants for grants provided under this section shall agree to provide a program which—

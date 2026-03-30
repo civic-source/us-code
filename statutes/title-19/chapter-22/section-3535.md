@@ -3,9 +3,10 @@ title: "Section 3535 - Review of participation in WTO"
 usc_title: 19
 usc_section: "3535"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3535"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-03-30T03:04:42.056Z"
+status: "active"
 ---
 
 # § 3535. Review of participation in WTO
@@ -14,12 +15,12 @@ generated_at: "2026-03-30T02:54:24.692Z"
   - **(1)** after the end of the 5-year period beginning on the date on which the WTO Agreement enters into force with respect to the United States, and
   - **(2)** after the end of every 5-year period thereafter,
 - **(b)**
-  - **(1)** The approval of the Congress, provided under section 3511(a) of this title , of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) is enacted into law pursuant to the provisions of paragraph (2).
+  - **(1)** The approval of the Congress, provided under section 3511(a) of this title , of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) of this section is enacted into law pursuant to the provisions of paragraph (2).
   - **(2)**
-    - **(A)** The requirements of this paragraph are met if the joint resolution is enacted under subsection (c), and—
-      - **(i)** the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in section 2194(b) of this title ), beginning on the date on which the Congress receives a report referred to in subsection (a), and
+    - **(A)** The requirements of this paragraph are met if the joint resolution is enacted under subsection (c) of this section, and—
+      - **(i)** the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in section 2194(b) of this title ), beginning on the date on which the Congress receives a report referred to in subsection (a) of this section, and
       - **(ii)** if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title ) beginning on the date on which the Congress receives the veto message from the President.
-    - **(B)** A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a), and before the end of the 90-day period referred to in subparagraph (A).
+    - **(B)** A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a) of this section, and before the end of the 90-day period referred to in subparagraph (A).
 - **(c)**
   - **(1)** For purposes of this section, the term “joint resolution” means only a joint resolution of the 2 Houses of Congress, the matter after the resolving clause of which is as follows: “That the Congress withdraws its approval, provided under section 101(a) of the Uruguay Round Agreements Act, of the WTO Agreement as defined in section 2(9) of that Act.”
   - **(2)**

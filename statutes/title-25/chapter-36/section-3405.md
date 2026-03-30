@@ -3,23 +3,21 @@ title: "Section 3405 - Plan requirements"
 usc_title: 25
 usc_section: "3405"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3405"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-03-30T03:05:02.907Z"
+status: "active"
 ---
 
 # § 3405. Plan requirements
 
-A plan submitted to the Secretary for approval under this chapter shall—
+For a plan to be acceptable pursuant to section 3403 of this title , it shall—
 
-  - **(1)** identify the programs to be integrated and consolidated;
-  - **(2)** be consistent with the purposes of this chapter;
-  - **(3)** describe—
-    - **(A)** a comprehensive strategy identifying the full range of potential employment opportunities on and near the service area of the Indian tribe;
-    - **(B)** the education, training, and related services to be provided to assist Indians to access those employment opportunities;
-    - **(C)** the way in which services and program funds are to be integrated, consolidated, and delivered; and
-    - **(D)** the results expected, including the expected number of program participants in unsubsidized employment during the second quarter after exit from the program, from the plan;
-  - **(4)** identify the projected expenditures under the plan in a single budget covering all consolidated funds;
-  - **(5)** identify any agency of the Indian tribe to be involved in the delivery of the services integrated under the plan;
-  - **(6)** identify any statutory provisions, regulations, policies, or procedures that the Indian tribe believes need to be waived to implement the plan; and
-  - **(7)** be approved by the governing body of the Indian tribe.
+  - **(1)** identify the programs to be integrated;
+  - **(2)** be consistent with the purposes of this chapter authorizing the services to be integrated in a demonstration project;
+  - **(3)** describe a comprehensive strategy which identifies the full range of potential employment opportunities on and near the tribal government’s service area, and the education, training and related services to be provided to assist Indian workers to access those employment opportunities;
+  - **(4)** describe the way in which services are to be integrated and delivered and the results expected from the plan;
+  - **(5)** identify the projected expenditures under the plan in a single budget;
+  - **(6)** identify the agency or agencies of the tribal government to be involved in the delivery of the services integrated under the plan;
+  - **(7)** identify any statutory provisions, regulations, policies, or procedures that the tribal government believes need to be waived in order to implement its plan; and
+  - **(8)** be approved by the governing body of the affected tribe.

@@ -3,9 +3,10 @@ title: "Section 1602 - Definitions"
 usc_title: 2
 usc_section: "1602"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1602"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-03-30T03:04:04.436Z"
+status: "active"
 ---
 
 # § 1602. Definitions
@@ -30,7 +31,7 @@ As used in this chapter:
       - **(iii)** the leadership staff of the House of Representatives or the leadership staff of the Senate;
       - **(iv)** a joint committee of Congress; and
       - **(v)** a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
-    - **(D)** any other legislative branch employee serving in a position described under section 13101(13) of title 5 .
+    - **(D)** any other legislative branch employee serving in a position described under section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
   - **(5)** The term “employee” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—
     - **(A)** independent contractors; or
     - **(B)** volunteers who receive no financial or other compensation from the person or entity for their services.
@@ -48,7 +49,7 @@ As used in this chapter:
       - **(iii)** made in a speech, article, publication or other material that is distributed and made available to the public, or through radio, television, cable television, or other medium of mass communication;
       - **(iv)** made on behalf of a government of a foreign country or a foreign political party and disclosed under the Foreign Agents Registration Act of 1938 ( 22 U.S.C. 611 et seq.);
       - **(v)** a request for a meeting, a request for the status of an action, or any other similar administrative request, if the request does not include an attempt to influence a covered executive branch official or a covered legislative branch official;
-      - **(vi)** made in the course of participation in an advisory committee subject to chapter 10 of title 5;
+      - **(vi)** made in the course of participation in an advisory committee subject to the Federal Advisory Committee Act;
       - **(vii)** testimony given before a committee, subcommittee, or task force of the Congress, or submitted for inclusion in the public record of a hearing conducted by such committee, subcommittee, or task force;
       - **(viii)** information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
       - **(ix)** required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
@@ -63,7 +64,7 @@ As used in this chapter:
       - **(xvi)** made on behalf of an individual with regard to that individual’s benefits, employment, or other personal matters involving only that individual, except that this clause does not apply to any communication with—
         - **(I)** a covered executive branch official, or
         - **(II)** a covered legislative branch official (other than the individual’s elected Members of Congress or employees who work under such Members’ direct supervision),
-      - **(xvii)** a disclosure by an individual that is protected under the amendments made by the Whistleblower Protection Act of 1989, under chapter 4 of title 5, or under another provision of law;
+      - **(xvii)** a disclosure by an individual that is protected under the amendments made by the Whistleblower Protection Act of 1989, under the Inspector General Act of 1978, or under another provision of law;
       - **(xviii)** made by—
         - **(I)** a church, its integrated auxiliary, or a convention or association of churches that is exempt from filing a Federal income tax return under paragraph 2(A)(i) of section 6033(a) of title 26 , or
         - **(II)** a religious order that is exempt from filing a Federal income tax return under paragraph (2)(A)(iii) of such section 6033(a); and
@@ -85,7 +86,7 @@ As used in this chapter:
       - **(v)** an agency of any State functioning as a student loan secondary market pursuant to section 1085(d)(1)(F) of title 20 ;
     - **(B)** a Government corporation (as defined in section 9101 of title 31 );
     - **(C)** an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
-    - **(D)** an Indian tribe (as defined in section 5304(e) of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
+    - **(D)** an Indian tribe (as defined in section 450b(e) of title 25 ; 1 1 So in original. A closing parenthesis probably should precede the semicolon.
     - **(E)** a national or State political party or any organizational unit thereof; or
     - **(F)** a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.
   - **(16)** The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.

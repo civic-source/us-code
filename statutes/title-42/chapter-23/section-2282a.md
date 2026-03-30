@@ -1,16 +1,17 @@
 ---
-title: "Section 2282a - Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations"
+title: "Section 2282a - Civil monetary penalties for violation of Department of Energy safety regulations"
 usc_title: 42
 usc_section: "2282a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2282a"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-03-30T03:06:22.663Z"
+status: "active"
 ---
 
-# § 2282a. Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations
+# § 2282a. Civil monetary penalties for violation of Department of Energy safety regulations
 
-- **(a)** Any person who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier thereto) who violates (or whose employee violates) any applicable rule, regulation or order related to nuclear safety prescribed or issued by the Secretary of Energy pursuant to this chapter (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation), or who violates any applicable law, rule, regulation, or order related to nuclear safety whistleblower protections, shall be subject to a civil penalty of not to exceed $100,000 for each such violation. If any violation under this subsection is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty. The Secretary of Energy may carry out this section with respect to the National Nuclear Security Administration by acting through the Administrator for Nuclear Security.
+- **(a)** Any person who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier thereto) who violates (or whose employee violates) any applicable rule, regulation or order related to nuclear safety prescribed or issued by the Secretary of Energy pursuant to this chapter (or expressly incorporated by reference by the Secretary for purposes of nuclear safety, except any rule, regulation, or order issued by the Secretary of Transportation) shall be subject to a civil penalty of not to exceed $100,000 for each such violation. If any violation under this subsection is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty.
 - **(b)**
   - **(1)** The Secretary shall have the power to compromise, modify or remit, with or without conditions, such civil penalties and to prescribe regulations as he may deem necessary to implement this section.
   - **(2)** In determining the amount of any civil penalty under this subsection, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
@@ -25,5 +26,5 @@ generated_at: "2026-03-30T02:56:11.158Z"
     - **(C)** Any election to have this paragraph apply may not be revoked except with consent of the Secretary.
   - **(4)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Secretary under paragraph (3), the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 - **(d)**
-  - **(1)** Notwithstanding subsection (a), in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
-  - **(2)** For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person. e 1 1 So in original. Probably should be “(e)”. Nuclear safety whistleblower protections In this section, the term “nuclear safety whistleblower protections” means the protections for employees of contractors or subcontractors from reprisals pursuant to section 4712 of title 41 , section 5851 of this title , or other provisions of Federal law (including rules, regulations, or orders) affording such protections, with respect to disclosures or other activities covered by such protections that relate to nuclear safety.
+  - **(1)** Notwithstanding subsection (a) of this section, in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) of this section may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
+  - **(2)** For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.

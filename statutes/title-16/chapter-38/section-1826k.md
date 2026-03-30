@@ -3,46 +3,45 @@ title: "Section 1826k - Equivalent conservation measures"
 usc_title: 16
 usc_section: "1826k"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1826k"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-03-30T03:04:48.581Z"
+status: "active"
 ---
 
 # § 1826k. Equivalent conservation measures
 
-- **(a)**
-  - **(1)** The Secretary shall identify and list in the report under section 1826h of this title —
-    - **(A)** a nation if—
-      - **(i)** any fishing vessel of that nation is engaged, or has been engaged during the 3 years preceding the date of the determination, in fishing activities or practices on the high seas or within the exclusive economic zone of any nation, that have resulted in bycatch of a protected living marine resource; and
-      - **(ii)** the vessel’s flag state has not adopted, implemented, and enforced a regulatory program governing such fishing designed to end or reduce such bycatch that is comparable in effectiveness to the regulatory program of the United States, taking into account differing conditions; and
-    - **(B)** a nation if—
-      - **(i)** any fishing vessel of that nation is engaged, or has engaged during the 3 years preceding the date of the determination, in fishing activities on the high seas or within the exclusive economic zone of another nation that target or incidentally catch sharks; and
-      - **(ii)** the vessel’s flag state has not adopted, implemented, and enforced a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark, including the tail, before landing the shark in port, that is comparable to that of the United States.
-  - **(2)** The Secretary shall make an identification under paragraph (1) at any time that the Secretary has sufficient information to make such identification.
-- **(b)** The Secretary of State, acting in consultation with the Secretary, shall—
-  - **(1)** notify, as soon as practicable, the President and nations that are engaged in, or that have any fishing vessels engaged in, fishing activities or practices described in subsection (a), about the provisions of this Act;
-  - **(2)** initiate discussions as soon as practicable with all foreign nations that are engaged in, or a fishing vessel of which has engaged in, fishing activities described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such nations to protect such species and to address any underlying failings or gaps that may have contributed to identification under this Act; and
-  - **(3)** initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
+- **(a)** The Secretary shall identify, and list in the report under section 1826h of this title —
+  - **(1)** a nation if—
+    - **(A)** fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices; 1 1 So in original. The semicolon probably should be a dash.
+      - **(i)** in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
+      - **(ii)** beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
+    - **(B)** the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+    - **(C)** the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
+  - **(2)** a nation if—
+    - **(A)** fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+    - **(B)** the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
+- **(b)** The Secretary, acting through the Secretary of State, shall—
+  - **(1)** notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;
+  - **(2)** initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
+  - **(3)** seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Food and Agriculture Organization’s Committee on Fisheries, and appropriate international fishery management bodies; and
+  - **(4)** initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
 - **(c)**
   - **(1)** The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whether the government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title —
     - **(A)** has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
     - **(B)** has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
-  - **(2)** The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by the public and any such nation.
+  - **(2)** The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by any such nation.
   - **(3)** The Secretary shall certify to the Congress by January 31, 2007 , and biennially thereafter whether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
-  - **(4)** The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
-    - **(A)** are comparable to those of the United States, taking into account different conditions; and
+  - **(4)** The Secretary shall establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
+    - **(A)** are comparable to those of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
     - **(B)** include the gathering of species specific data that can be used to support international and regional stock assessments and conservation efforts for protected living marine resources.
-  - **(5)** The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+  - **(5)** The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) that has not been certified by the Secretary under this subsection, or for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 - **(d)** To the greatest extent possible consistent with existing authority and the availability of funds, the Secretary shall—
   - **(1)** provide appropriate assistance to nations identified by the Secretary under subsection (a) and international organizations of which those nations are members to assist those nations in qualifying for certification under subsection (c);
   - **(2)** undertake, where appropriate, cooperative research activities on species statistics and improved harvesting techniques, with those nations or organizations;
   - **(3)** encourage and facilitate the transfer of appropriate technology to those nations or organizations to assist those nations in qualifying for certification under subsection (c); and
   - **(4)** provide assistance to those nations or organizations in designing and implementing appropriate fish harvesting plans.
 - **(e)** In this section the term “protected living marine resource”—
-  - **(1)** except as provided in paragraph (2), means nontarget fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including—
-    - **(A)** the Marine Mammal Protection Act of 1972 ( 16 U.S.C. 1361 et seq.);
-    - **(B)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.);
-    - **(C)** the Shark Finning Prohibition Act ( 16 U.S.C. 1822 note); and
-    - **(D)** the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249); but
+  - **(1)** means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act [ 16 U.S.C. 1361 et seq.], the Endangered Species Act [ 16 U.S.C. 1531 et seq.], the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but
   - **(2)** does not include species, except sharks, managed under the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.], the Atlantic Tunas Convention Act [ 16 U.S.C. 971 et seq.], or any international fishery management agreement.
 - **(f)** There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.

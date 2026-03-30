@@ -1,12 +1,28 @@
 ---
-title: "Section 15382 - Transferred"
+title: "Section 15382 - Study, report, and recommendations on best practices for facilitating military and overseas voting"
 usc_title: 42
 usc_section: "15382"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15382"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-03-30T03:06:22.960Z"
+status: "active"
 ---
 
-# § 15382. Transferred
+# § 15382. Study, report, and recommendations on best practices for facilitating military and overseas voting
 
+- **(a)**
+  - **(1)** The Commission, in consultation with the Secretary of Defense, shall conduct a study on the best practices for facilitating voting by absent uniformed services voters (as defined in section 1973ff–6(1) of this title ) and overseas voters (as defined in section 1973ff–6(5) of this title ).
+  - **(2)** In conducting the study under paragraph (1) the Commission shall consider the following issues:
+    - **(A)** The rights of residence of uniformed services voters absent due to military orders.
+    - **(B)** The rights of absent uniformed services voters and overseas voters to register to vote and cast absentee ballots, including the right of such voters to cast a secret ballot.
+    - **(C)** The rights of absent uniformed services voters and overseas voters to submit absentee ballot applications early during an election year.
+    - **(D)** The appropriate preelection deadline for mailing absentee ballots to absent uniformed services voters and overseas voters.
+    - **(E)** The appropriate minimum period between the mailing of absentee ballots to absent uniformed services voters and overseas voters and the deadline for receipt of such ballots.
+    - **(F)** The timely transmission of balloting materials to absent uniformed services voters and overseas voters.
+    - **(G)** Security and privacy concerns in the transmission, receipt, and processing of ballots from absent uniformed services voters and overseas voters, including the need to protect against fraud.
+    - **(H)** The use of a single application by absent uniformed services voters and overseas voters for absentee ballots for all Federal elections occurring during a year.
+    - **(I)** The use of a single application for voter registration and absentee ballots by absent uniformed services voters and overseas voters.
+    - **(J)** The use of facsimile machines and electronic means of transmission of absentee ballot applications and absentee ballots to absent uniformed services voters and overseas voters.
+    - **(K)** Other issues related to the rights of absent uniformed services voters and overseas voters to participate in elections.
+- **(b)** Not later than the date that is 18 months after October 29, 2002 , the Commission shall submit to the President and Congress a report on the study conducted under subsection (a)(1) of this section together with recommendations identifying the best practices used with respect to the issues considered under subsection (a)(2) of this section.

@@ -3,9 +3,10 @@ title: "Section 7296 - Separability"
 usc_title: 42
 usc_section: "7296"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7296"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-03-30T03:06:22.789Z"
+status: "active"
 ---
 
 # § 7296. Separability

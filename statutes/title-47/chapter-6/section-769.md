@@ -3,9 +3,10 @@ title: "Section 769 - Definitions"
 usc_title: 47
 usc_section: "769"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 769"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-03-30T03:06:26.237Z"
+status: "active"
 ---
 
 # § 769. Definitions
@@ -42,4 +43,4 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(19)** The term “ICO” means the company known, as of March 17, 2000 , as ICO Global Communications, Inc.
   - **(20)** The term “global maritime distress and safety services” or “GMDSS” means the automated ship-to-shore distress alerting system which uses satellite and advanced terrestrial systems for international distress communications and promoting maritime safety in general. The GMDSS permits the worldwide alerting of vessels, coordinated search and rescue operations, and dissemination of maritime safety information.
   - **(21)** The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
-- **(b)** Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
+- **(b)** Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.

@@ -3,15 +3,16 @@ title: "Section 182c - Revolving fund for FEDLINK program and Federal Research p
 usc_title: 2
 usc_section: "182c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 182c"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-03-30T03:04:04.409Z"
+status: "active"
 ---
 
 # § 182c. Revolving fund for FEDLINK program and Federal Research program
 
-- **(a)** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1)) and the Federal Research program of the Library of Congress (as described in subsection (f)(2)).
-- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a).
+- **(a)** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1) of this section) and the Federal Research program of the Library of Congress (as described in subsection (f)(2) of this section).
+- **(b)** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a) of this section.
 - **(c)**
   - **(1)** The Librarian may charge a fee for services under the FEDLINK program and the Federal Research program, and shall deposit any such fees charged into the account of the revolving fund under this section for such program.
   - **(2)** Participants in the FEDLINK program and the Federal Research program shall pay for products and services of the program by advance of funds—
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
     - **(B)** upon agreement between participants and the Librarian.
 - **(d)**
   - **(1)** Each account of the revolving fund under this section shall consist of the following amounts:
-    - **(A)** Amounts deposited by the Librarian under subsection (c).
+    - **(A)** Amounts deposited by the Librarian under subsection (c) of this section.
     - **(B)** Any other amounts received by the Librarian which are attributable to the program covered by such account.
     - **(C)** Amounts deposited by the Librarian under paragraph (2).
     - **(D)** Such other amounts as may be appropriated under law.
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
       - **(ii)** the total value of the liabilities attributable to such program.
 - **(e)** Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the program covered by each such account.
 - **(f)**
-  - **(1)** In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B) ) and the District of Columbia:
+  - **(1)** In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, and the District of Columbia:
     - **(A)** The procurement of commercial information services, publications in any format, and library support services.
     - **(B)** Related accounting services.
     - **(C)** Related education, information, and support services.

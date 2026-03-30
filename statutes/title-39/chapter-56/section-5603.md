@@ -3,9 +3,10 @@ title: "Section 5603 - Transportation of mail by vessel as freight or express"
 usc_title: 39
 usc_section: "5603"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "39 U.S.C. § 5603"
-generated_at: "2026-03-30T02:55:43.697Z"
+generated_at: "2026-03-30T03:05:49.213Z"
+status: "active"
 ---
 
 # § 5603. Transportation of mail by vessel as freight or express
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:55:43.697Z"
 The Postal Service may require that mail be transported by freight or express when—
 
   - **(1)** there is no competition on a water route and the rate or compensation asked is excessive; or
-  - **(2)** no proposal is received.
+  - **(2)** no proposal is received. A common carrier by water that fails or refuses to transport the mail when required to do so under this section shall be fined not more than $500 for each day of refusal.

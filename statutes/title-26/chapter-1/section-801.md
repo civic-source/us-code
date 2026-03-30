@@ -3,14 +3,23 @@ title: "Section 801 - Tax imposed"
 usc_title: 26
 usc_section: "801"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 801"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-03-30T03:05:18.619Z"
+status: "active"
 ---
 
 # § 801. Tax imposed
 
-- **(a)** A tax is hereby imposed for each taxable year on the life insurance company taxable income of every life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
+- **(a)**
+  - **(1)** A tax is hereby imposed for each taxable year on the life insurance company taxable income of every life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
+  - **(2)**
+    - **(A)** If a life insurance company has a net capital gain for the taxable year, then (in lieu of the tax imposed by paragraph (1)), there is hereby imposed a tax (if such tax is less than the tax imposed by paragraph (1)).
+    - **(B)** The amount of the tax imposed by this paragraph shall be the sum of—
+      - **(i)** a partial tax, computed as provided by paragraph (1), on the life insurance company taxable income reduced by the amount of the net capital gain, and
+      - **(ii)** an amount determined as provided in section 1201(a) on such net capital gain.
+    - **(C)** For purposes of subparagraph (B)(i), the amount allowable as a deduction under paragraph (2) of section 804 shall be determined by reducing the tentative LICTI by the amount of the net capital gain (determined without regard to items attributable to noninsurance businesses).
 - **(b)** For purposes of this part, the term “life insurance company taxable income” means—
   - **(1)** life insurance gross income, reduced by
   - **(2)** life insurance deductions.
+- **(c)** For provision taxing distributions to shareholders from pre-1984 policyholders surplus account, see section 815.

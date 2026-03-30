@@ -3,9 +3,10 @@ title: "Section 321b - “Package” defined"
 usc_title: 21
 usc_section: "321b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 321b"
-generated_at: "2026-03-30T02:54:54.217Z"
+generated_at: "2026-03-30T03:05:00.932Z"
+status: "active"
 ---
 
 # § 321b. “Package” defined

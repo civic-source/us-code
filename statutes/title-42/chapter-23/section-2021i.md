@@ -3,9 +3,10 @@ title: "Section 2021i - Licensing review and approval"
 usc_title: 42
 usc_section: "2021i"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2021i"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-03-30T03:06:22.653Z"
+status: "active"
 ---
 
 # § 2021i. Licensing review and approval

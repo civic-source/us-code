@@ -1,29 +1,13 @@
 ---
-title: "Section 2246 - Authorization of certain support for military service academy foundations"
+title: "Section 2246 - Renumbered § 2491a]"
 usc_title: 10
 usc_section: "2246"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2246"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-03-30T03:04:17.274Z"
+status: "renumbered"
 ---
 
-# § 2246. Authorization of certain support for military service academy foundations
+# [§ 2246. Renumbered § 2491a]
 
-- **(a)** Subject to subsection (b) and pursuant to regulations prescribed by the Secretary of Defense, the Superintendent of a Service Academy may authorize a covered foundation to use, on an unreimbursed basis, facilities or equipment of such Service Academy.
-- **(b)** Use of facilities or equipment under subsection (a) may be provided only if such use—
-  - **(1)** is without any liability of the United States to the covered foundation;
-  - **(2)** does not affect the ability of any official or employee of the military department concerned, or any member of the armed forces, to carry out any responsibility or duty in a fair and objective manner;
-  - **(3)** does not compromise the integrity or appearance of integrity of any program of the military department concerned, or any individual involved in such a program;
-  - **(4)** does not include the participation of any cadet or midshipman, other than participation in an honor guard at an event of the covered foundation;
-  - **(5)** complies with the Joint Ethics Regulation; and
-  - **(6)** has been reviewed and approved by an attorney of the military department concerned.
-- **(c)** In any fiscal year during which the Superintendent of a Service Academy exercises the authority under subsection (a), the Secretary of the military department concerned shall provide a briefing not later than the last day of that fiscal year to the Committees on Armed Services of the Senate and House of Representatives regarding the number of events or activities of a covered foundation supported by such exercise during such fiscal year.
-- **(d)** In this section:
-  - **(1)** The term “covered foundation” means a charitable, educational, or civic nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986, that the Secretary concerned determines operates exclusively to support, with respect to a Service Academy, any of the following:
-    - **(A)** Recruiting.
-    - **(B)** Parent or alumni development.
-    - **(C)** Academic, leadership, or character development.
-    - **(D)** Institutional development.
-    - **(E)** Athletics.
-  - **(2)** The term “Service Academy” has the meaning given such term in section 347 of this title .

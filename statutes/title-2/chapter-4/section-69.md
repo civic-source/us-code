@@ -1,12 +1,15 @@
 ---
-title: "Section 69 - Transferred"
+title: "Section 69 - Expenses of committees payable from Senate contingent fund"
 usc_title: 2
 usc_section: "69"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 69"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.399Z"
+status: "active"
 ---
 
-# § 69. Transferred
+# § 69. Expenses of committees payable from Senate contingent fund
+
+When any duty is imposed upon a committee involving expenses that are ordered to be paid out of the contingent fund of the Senate, upon vouchers to be approved by the chairman of the committee charged with such duty, the receipt of such chairman for any sum advanced to him or his order out of said contingent fund by the Secretary of the Senate for committee expenses not involving personal services shall be taken and passed by the accounting officers of the Government as a full and sufficient voucher; but it shall be the duty of such chairman, as soon as practicable, to furnish to the Secretary of the Senate vouchers in detail for the expenses so incurred.
 

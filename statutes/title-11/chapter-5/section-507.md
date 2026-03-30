@@ -3,9 +3,10 @@ title: "Section 507 - Priorities"
 usc_title: 11
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 507"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-03-30T03:04:35.844Z"
+status: "active"
 ---
 
 # § 507. Priorities
@@ -17,18 +18,18 @@ generated_at: "2026-03-30T02:53:53.876Z"
     - **(C)** If a trustee is appointed or elected under section 701, 702, 703, 1104, 1202, or 1302, the administrative expenses of the trustee allowed under paragraphs (1)(A), (2), and (6) of section 503(b) shall be paid before payment of claims under subparagraphs (A) and (B), to the extent that the trustee administers assets that are otherwise available for the payment of such claims.
   - **(2)** Second, administrative expenses allowed under section 503(b) of this title , unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act ( 12 U.S.C. 343 ), 1 1 See References in Text note below. and any fees and charges assessed against the estate under chapter 123 of title 28.
   - **(3)** Third, unsecured claims allowed under section 502(f) of this title .
-  - **(4)** Fourth, allowed unsecured claims, but only to the extent of $10,000 2 2 See Adjustment of Dollar Amounts notes below. for each individual or corporation, as the case may be, earned within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first, for—
+  - **(4)** Fourth, allowed unsecured claims, but only to the extent of $10,000 for each individual or corporation, as the case may be, earned within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first, for—
     - **(A)** wages, salaries, or commissions, including vacation, severance, and sick leave pay earned by an individual; or
     - **(B)** sales commissions earned by an individual or by a corporation with only 1 employee, acting as an independent contractor in the sale of goods or services for the debtor in the ordinary course of the debtor’s business if, and only if, during the 12 months preceding that date, at least 75 percent of the amount that the individual or corporation earned by acting as an independent contractor in the sale of goods or services was earned from the debtor.
   - **(5)** Fifth, allowed unsecured claims for contributions to an employee benefit plan—
     - **(A)** arising from services rendered within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first; but only
     - **(B)** for each such plan, to the extent of—
-      - **(i)** the number of employees covered by each such plan multiplied by $10,000; 2 less
+      - **(i)** the number of employees covered by each such plan multiplied by $10,000; less
       - **(ii)** the aggregate amount paid to such employees under paragraph (4) of this subsection, plus the aggregate amount paid by the estate on behalf of such employees to any other employee benefit plan.
   - **(6)** Sixth, allowed unsecured claims of persons—
     - **(A)** engaged in the production or raising of grain, as defined in section 557(b) of this title , against a debtor who owns or operates a grain storage facility, as defined in section 557(b) of this title , for grain or the proceeds of grain, or
     - **(B)** engaged as a United States fisherman against a debtor who has acquired fish or fish produce from a fisherman through a sale or conversion, and who is engaged in operating a fish produce storage or processing facility—
-  - **(7)** Seventh, allowed unsecured claims of individuals, to the extent of $1,800 2 for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
+  - **(7)** Seventh, allowed unsecured claims of individuals, to the extent of $1,800 for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
   - **(8)** Eighth, allowed unsecured claims of governmental units, only to the extent that such claims are for—
     - **(A)** a tax on or measured by income or gross receipts for a taxable year ending on or before the date of the filing of the petition—
       - **(i)** for which a return, if required, is last due, including extensions, after three years before the date of the filing of the petition;
@@ -51,4 +52,4 @@ generated_at: "2026-03-30T02:53:53.876Z"
   - **(10)** Tenth, allowed claims for death or personal injury resulting from the operation of a motor vehicle or vessel if such operation was unlawful because the debtor was intoxicated from using alcohol, a drug, or another substance.
 - **(b)** If the trustee, under section 362, 363, or 364 of this title, provides adequate protection of the interest of a holder of a claim secured by a lien on property of the debtor and if, notwithstanding such protection, such creditor has a claim allowable under subsection (a)(2) of this section arising from the stay of action against such property under section 362 of this title , from the use, sale, or lease of such property under section 363 of this title , or from the granting of a lien under section 364(d) of this title , then such creditor’s claim under such subsection shall have priority over every other claim allowable under such subsection.
 - **(c)** For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
-- **(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8) excluding subparagraph (F), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+- **(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.

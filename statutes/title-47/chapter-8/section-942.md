@@ -3,9 +3,10 @@ title: "Section 942 - Coordination of 9–1–1, E9–1–1, and Next Generation
 usc_title: 47
 usc_section: "942"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 942"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-03-30T03:06:26.239Z"
+status: "active"
 ---
 
 # § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
@@ -27,6 +28,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
     - **(C)** advise and assist eligible entities in the preparation of implementation plans required under subsection (b)(3)(A)(iii);
     - **(D)** receive, review, and recommend the approval or disapproval of applications for grants under subsection (b); and
     - **(E)** oversee the use of funds provided by such grants in fulfilling such implementation plans.
+  - **(4)** The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services.
 - **(b)**
   - **(1)** The Assistant Secretary and the Administrator, acting through the Office, shall provide grants to eligible entities for—
     - **(A)** the implementation and operation of 9–1–1 services, E9–1–1 services, migration to an IP-enabled emergency network, and adoption and operation of Next Generation 9–1–1 services and applications;
@@ -56,7 +58,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
   - **(1)** The term “9–1–1 services” includes both E9–1–1 services and Next Generation 9–1–1 services.
   - **(2)** The term “E9–1–1 services” means both phase I and phase II enhanced 9–1–1 services, as described in section 20.18 of the Commission’s regulations (47 C.F.R. 20.18), as in effect on February 22, 2012 , or as subsequently revised by the Commission.
   - **(3)**
-    - **(A)** The term “eligible entity” means a State or local government or a tribal organization (as defined in section 5304( l ) of title 25).
+    - **(A)** The term “eligible entity” means a State or local government or a tribal organization (as defined in section 450b( l ) of title 25).
     - **(B)** The term “eligible entity” includes public authorities, boards, commissions, and similar bodies created by one or more eligible entities described in subparagraph (A) to provide 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
     - **(C)** The term “eligible entity” does not include any entity that has failed to submit the most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
   - **(4)** The term “emergency call” refers to any real-time communication with a public safety answering point or other emergency management or response agency, including—

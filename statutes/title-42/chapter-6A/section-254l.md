@@ -3,9 +3,10 @@ title: "Section 254l - National Health Service Corps Scholarship Program"
 usc_title: 42
 usc_section: "254l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 254l"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-03-30T03:06:22.319Z"
+status: "active"
 ---
 
 # § 254l. National Health Service Corps Scholarship Program
@@ -15,9 +16,9 @@ generated_at: "2026-03-30T02:56:10.713Z"
   - **(2)** if needed by the Corps, an adequate supply of other health professionals.
 - **(b)** To be eligible to participate in the Scholarship Program, an individual must—
   - **(1)** be accepted for enrollment, or be enrolled, as a full-time student (A) in an accredited (as determined by the Secretary) educational institution in a State and (B) in a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession, or an appropriate degree from a graduate program of behavioral and mental health;
-  - **(2)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 1 1 See Change of Name note below. of the Service or be eligible for selection for civilian service in the Corps;
+  - **(2)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps;
   - **(3)** submit an application to participate in the Scholarship Program; and
-  - **(4)** sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f)) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
+  - **(4)** sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f) of this section) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
 - **(c)**
   - **(1)** In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
     - **(A)** a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254 o of this title in the case of the individual’s breach of the contract; and
@@ -33,20 +34,20 @@ generated_at: "2026-03-30T02:56:10.713Z"
   - **(1)** Subject to section 254f–1 of this title , in providing contracts under the Scholarship Program—
     - **(A)** the Secretary shall consider the extent of the demonstrated interest of the applicants for the contracts in providing primary health services;
     - **(B)** the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
-    - **(C)** may 2 2 So in original. consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
+    - **(C)** may 1 1 So in original. consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
   - **(2)** In providing contracts under the Scholarship Program, the Secretary shall give priority—
-    - **(A)** first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 3 3 See References in Text note below. of this title;
-    - **(B)** second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
+    - **(A)** first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 1 of this title;
+    - **(B)** second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
     - **(C)** third, subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 - **(e)**
-  - **(1)** An individual becomes a participant in the Scholarship Program only upon the Secretary’s approval of the individual’s application submitted under subsection (b)(3) and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4).
+  - **(1)** An individual becomes a participant in the Scholarship Program only upon the Secretary’s approval of the individual’s application submitted under subsection (b)(3) of this section and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4) of this section.
   - **(2)** The Secretary shall provide written notice to an individual promptly upon the Secretary’s approving, under paragraph (1), of the individual’s participation in the Scholarship Program.
 - **(f)** The written contract (referred to in this subpart) between the Secretary and an individual shall contain—
   - **(1)** an agreement that—
-    - **(A)** subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title ) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+    - **(A)** subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title ) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
     - **(B)** subject to paragraph (2), the individual agrees—
       - **(i)** to accept provision of such a scholarship to the individual;
-      - **(ii)** to maintain enrollment in a course of study described in subsection (b)(1)(B) until the individual completes the course of study;
+      - **(ii)** to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
       - **(iii)** while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
       - **(iv)** if pursuing a degree from a school of medicine or osteopathic medicine, to complete a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
       - **(v)** to serve for a time period (hereinafter in the subpart referred to as the “period of obligated service”) equal to—
@@ -57,7 +58,7 @@ generated_at: "2026-03-30T02:56:10.713Z"
   - **(4)** such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this subpart.
 - **(g)**
   - **(1)** A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
-    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 3 of this title) of—
+    - **(A)** payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 2 2 See References in Text note below. of this title) of—
       - **(i)** the tuition of the student in such school year; and
       - **(ii)** all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
     - **(B)** payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.

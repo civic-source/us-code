@@ -1,12 +1,38 @@
 ---
-title: "Section 2377 - Renumbered § 3453]"
+title: "Section 2377 - Preference for acquisition of commercial items"
 usc_title: 10
 usc_section: "2377"
 chapter: 140
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2377"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-03-30T03:04:17.285Z"
+status: "active"
 ---
 
-# [§ 2377. Renumbered § 3453]
+# § 2377. Preference for acquisition of commercial items
 
+- **(a)** The head of an agency shall ensure that, to the maximum extent practicable—
+  - **(1)** requirements of the agency with respect to a procurement of supplies or services are stated in terms of—
+    - **(A)** functions to be performed;
+    - **(B)** performance required; or
+    - **(C)** essential physical characteristics;
+  - **(2)** such requirements are defined so that commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items, may be procured to fulfill such requirements; and
+  - **(3)** offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill such requirements.
+- **(b)** The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—
+  - **(1)** acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the agency;
+  - **(2)** require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the agency;
+  - **(3)** modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items;
+  - **(4)** state specifications in terms that enable and encourage bidders and offerors to supply commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items in response to the agency solicitations;
+  - **(5)** revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial items; and
+  - **(6)** require training of appropriate personnel in the acquisition of commercial items.
+- **(c)**
+  - **(1)** The head of an agency shall conduct market research appropriate to the circumstances—
+    - **(A)** before developing new specifications for a procurement by that agency;
+    - **(B)** before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold; and
+    - **(C)** before awarding a task order or delivery order in excess of the simplified acquisition threshold.
+  - **(2)** The head of an agency shall use the results of market research to determine whether there are commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items available that—
+    - **(A)** meet the agency’s requirements;
+    - **(B)** could be modified to meet the agency’s requirements; or
+    - **(C)** could meet the agency’s requirements if those requirements were modified to a reasonable extent.
+  - **(3)** In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
+  - **(4)** The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.

@@ -3,13 +3,14 @@ title: "Section 3711c - Advanced motor vehicle research award"
 usc_title: 15
 usc_section: "3711c"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3711c"
-generated_at: "2026-03-30T02:54:08.193Z"
+generated_at: "2026-03-30T03:04:31.222Z"
+status: "active"
 ---
 
 # § 3711c. Advanced motor vehicle research award
 
-- **(a)** There is established a National Award for the Advancement of Motor Vehicle Research and Development. The award shall consist of a medal, and a cash prize if funding is available for the prize under subsection (c). The medal shall be of such design and materials and bear inscriptions as is determined by the Secretary of Transportation.
+- **(a)** There is established a National Award for the Advancement of Motor Vehicle Research and Development. The award shall consist of a medal, and a cash prize if funding is available for the prize under subsection (c) of this section. The medal shall be of such design and materials and bear inscriptions as is determined by the Secretary of Transportation.
 - **(b)** The Secretary of Transportation shall periodically make and present the award to domestic motor vehicle manufacturers, suppliers, or Federal laboratory personnel who, in the opinion of the Secretary of Transportation, have substantially improved domestic motor vehicle research and development in safety, energy savings, or environmental impact. No person may receive the award more than once every 5 years.
 - **(c)** The Secretary of Transportation may seek and accept gifts of money from private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose.

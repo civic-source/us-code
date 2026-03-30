@@ -3,9 +3,10 @@ title: "Section 3983 - Assignments to non-Service and other positions"
 usc_title: 22
 usc_section: "3983"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3983"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-03-30T03:04:53.669Z"
+status: "active"
 ---
 
 # § 3983. Assignments to non-Service and other positions
@@ -18,8 +19,8 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(b)**
   - **(1)** The salary of a member of the Service assigned under this section shall be the higher of the salary which that member would receive but for the assignment under this section or the salary of the position to which that member is assigned.
   - **(2)** The salary of a member of the Service assigned under this section shall be paid from appropriations made available for the payment of salaries and expenses of the Service. Such appropriations may be reimbursed for all or any part of the costs of salaries and other benefits for members assigned under this section.
-  - **(3)** A member of the Service assigned under subsection (a)(4) to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
-- **(c)** Except as otherwise provided in subsection (d)(5), assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
+  - **(3)** A member of the Service assigned under subsection (a)(4) of this section to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
+- **(c)** Except as otherwise provided in subsection (d)(5) of this section, assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
 - **(d)**
   - **(1)** The Secretary may assign a member of the Service, or otherwise detail an employee of the Department, for duty at the American Institute in Taiwan, if the Secretary determines that to do so is in the national interest of the United States.
   - **(2)** The head of any other department or agency of the United States may, with the concurrence of the Secretary, detail an employee of that department or agency to the American Institute in Taiwan, if the Secretary determines that to do so is in the national interest of the United States.

@@ -3,9 +3,10 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T02:55:18.681Z"
+generated_at: "2026-03-30T03:05:09.673Z"
+status: "active"
 ---
 
 # § 213. Exemptions
@@ -25,14 +26,12 @@ generated_at: "2026-03-30T02:55:18.681Z"
   - **(12)** any employee employed as a seaman on a vessel other than an American vessel; or
   - **(13)** , (14) Repealed. Pub. L. 93–259 , §§ 9(b)(1), 23(b)(1), Apr. 8, 1974 , 88 Stat. 63 , 69.
   - **(15)** any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
-  - **(16)** a criminal investigator who is paid availability pay under section 5545a of title 5 ;
+  - **(16)** a criminal investigator who is paid availability pay under section 5545a of title 5 ; or
   - **(17)** any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
     - **(A)** the application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software, or system functional specifications;
     - **(B)** the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
     - **(C)** the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
     - **(D)** a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
-  - **(18)** any employee who is a border patrol agent, as defined in section 5550(a) of title 5 ; or
-  - **(19)** any employee employed to play baseball who is compensated pursuant to a contract that provides for a weekly salary for services performed during the league’s championship season (but not spring training or the off season) at a rate that is not less than a weekly salary equal to the minimum wage under section 206(a) of this title for a workweek of 40 hours, irrespective of the number of hours the employee devotes to baseball related activities.
 - **(b)** The provisions of section 207 of this title shall not apply with respect to—
   - **(1)** any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49 ; or
   - **(2)** any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or
@@ -68,7 +67,7 @@ generated_at: "2026-03-30T02:55:18.681Z"
   - **(30)** a criminal investigator who is paid availability pay under section 5545a of title 5 .
 - **(c)**
   - **(1)** Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
-    - **(A)** is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) 1 1 See References in Text note below. of this title,
+    - **(A)** is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) 1 1 See References in Text note below. of this title,
     - **(B)** is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
     - **(C)** is fourteen years of age or older.
   - **(2)** The provisions of section 212 of this title relating to child labor shall apply to an employee below the age of sixteen employed in agriculture in an occupation that the Secretary of Labor finds and declares to be particularly hazardous for the employment of children below the age of sixteen, except where such employee is employed by his parent or by a person standing in the place of his parent on a farm owned or operated by such parent or person.

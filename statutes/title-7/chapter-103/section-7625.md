@@ -3,16 +3,17 @@ title: "Section 7625 - National Food Safety Training, Education, Extension, Outr
 usc_title: 7
 usc_section: "7625"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7625"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-03-30T03:04:21.021Z"
+status: "active"
 ---
 
 # § 7625. National Food Safety Training, Education, Extension, Outreach, and Technical Assistance Program
 
 - **(a)** The Secretary shall award grants under this section to carry out the competitive grant program established under section 399c(d) 1 1 See References in Text note below. of title 21, pursuant to any memoranda of understanding entered into under such section.
 - **(b)** The grant program described under subsection (a) shall be carried out under this section in a manner that facilitates the integration of food safety standards and guidance with the variety of agricultural production systems, encompassing conventional, sustainable, organic, and conservation and environmental practices.
-- **(c)** In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, veteran farmers or ranchers (as defined in section 2279(a) of this title ), small processors, or small fresh fruit and vegetable merchant wholesalers.
+- **(c)** In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, small processors, or small fresh fruit and vegetable merchant wholesalers.
 - **(d)**
   - **(1)** The Secretary shall coordinate implementation of the grant program under this section with the National Integrated Food Safety Initiative.
   - **(2)** The Secretary shall—
@@ -21,7 +22,9 @@ generated_at: "2026-03-30T02:53:42.458Z"
 - **(e)**
   - **(1)** In carrying out this section, the Secretary shall make competitive grants to support training, education, extension, outreach, and technical assistance projects that will help improve public health by increasing the understanding and adoption of established food safety standards, guidance, and protocols.
   - **(2)** The Secretary shall encourage projects carried out using grant funds under this section to include co-management of food safety, conservation systems, and ecological health.
-  - **(3)** A grant under this section shall have a term that is not more than 3 years.
+  - **(3)**
+    - **(A)** A grant under this section shall have a term that is not more than 3 years.
+    - **(B)** The Secretary may not provide grant funding to an entity under this section after such entity has received 3 years of grant funding under this section.
 - **(f)**
   - **(1)** To be eligible for a grant under this section, an entity shall be—
     - **(A)** a State cooperative extension service;
@@ -35,4 +38,4 @@ generated_at: "2026-03-30T02:53:42.458Z"
   - **(2)** diversity of types of agricultural production.
 - **(h)** The Secretary may use funds made available under this section to provide technical assistance to grant recipients to further the purposes of this section.
 - **(i)** Based on evaluations of, and responses arising from, projects funded under this section, the Secretary may issue a set of recommended best practices and models for food safety training programs for agricultural producers, small food processors, and small fresh fruit and vegetable merchant wholesalers.
-- **(j)** For the purposes of making grants under this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023.
+- **(j)** For the purposes of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.

@@ -3,9 +3,10 @@ title: "Section 1019 - Disposal of moneys from sales, bonuses, rentals, and roya
 usc_title: 30
 usc_section: "1019"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1019"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-03-30T03:05:07.411Z"
+status: "active"
 ---
 
 # § 1019. Disposal of moneys from sales, bonuses, rentals, and royalties
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:55:29.395Z"
 - **(a)** Except with respect to lands in the State of Alaska, all monies received by the United States from sales, bonuses, rentals, and royalties under this chapter shall be paid into the Treasury of the United States. Of amounts deposited under this subsection, subject to the provisions of subsection (b) of section 191 of this title and section 1004(a)(2) of this title —
   - **(1)** 50 percent shall be paid to the State within the boundaries of which the leased lands or geothermal resources are or were located; and
   - **(2)** 25 percent shall be paid to the county within the boundaries of which the leased lands or geothermal resources are or were located.
-- **(b)** Amounts paid to a State or county under subsection (a) shall be used consistent with the terms of section 191 of this title .
+- **(b)** Amounts paid to a State or county under subsection (a) of this section shall be used consistent with the terms of section 191 of this title .

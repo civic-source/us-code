@@ -3,9 +3,10 @@ title: "Section 360h - Notification and other remedies"
 usc_title: 21
 usc_section: "360h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 360h"
-generated_at: "2026-03-30T02:54:54.250Z"
+generated_at: "2026-03-30T03:05:00.952Z"
+status: "active"
 ---
 
 # § 360h. Notification and other remedies
@@ -19,16 +20,16 @@ generated_at: "2026-03-30T02:54:54.250Z"
       - **(i)** a device intended for human use which is introduced or delivered for introduction into interstate commerce for commercial distribution presents an unreasonable risk of substantial harm to the public health,
       - **(ii)** there are reasonable grounds to believe that the device was not properly designed or manufactured with reference to the state of the art as it existed at the time of its design or manufacture,
       - **(iii)** there are reasonable grounds to believe that the unreasonable risk was not caused by failure of a person other than a manufacturer, importer, distributor, or retailer of the device to exercise due care in the installation, maintenance, repair, or use of the device, and
-      - **(iv)** the notification authorized by subsection (a) would not by itself be sufficient to eliminate the unreasonable risk and action described in paragraph (2) of this subsection is necessary to eliminate such risk,
+      - **(iv)** the notification authorized by subsection (a) of this section would not by itself be sufficient to eliminate the unreasonable risk and action described in paragraph (2) of this subsection is necessary to eliminate such risk,
     - **(B)** The Secretary shall approve a plan submitted pursuant to an order issued under subparagraph (A) unless he determines (after affording opportunity for an informal hearing) that the action or actions to be taken under the plan or the manner in which such action or actions are to be taken under the plan will not assure that the unreasonable risk with respect to which such order was issued will be eliminated. If the Secretary disapproves a plan, he shall order a revised plan to be submitted to him within a reasonable time. If the Secretary determines (after affording opportunity for an informal hearing) that the revised plan is unsatisfactory or if no revised plan or no initial plan has been submitted to the Secretary within the prescribed time, the Secretary shall (i) prescribe a plan to be carried out by the person or persons to whom the order issued under subparagraph (A) was directed, or (ii) after affording an opportunity for an informal hearing, by order prescribe a plan to be carried out by a person who is a manufacturer, importer, distributor, or retailer of the device with respect to which the order was issued but to whom the order under subparagraph (A) was not directed.
   - **(2)** The actions which may be taken under a plan submitted under an order issued under paragraph (1) are as follows:
     - **(A)** To repair the device so that it does not present the unreasonable risk of substantial harm with respect to which the order under paragraph (1) was issued.
     - **(B)** To replace the device with a like or equivalent device which is in conformity with all applicable requirements of this chapter.
     - **(C)** To refund the purchase price of the device (less a reasonable allowance for use if such device has been in the possession of the device user for one year or more—
-      - **(i)** at the time of notification ordered under subsection (a), or
+      - **(i)** at the time of notification ordered under subsection (a) of this section, or
       - **(ii)** at the time the device user receives actual notice of the unreasonable risk with respect to which the order was issued under paragraph (1),
   - **(3)** No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and provided under an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
-- **(c)** An order issued under subsection (b) with respect to a device may require any person who is a manufacturer, importer, distributor, or retailer of the device to reimburse any other person who is a manufacturer, importer, distributor, or retailer of such device for such other person’s expenses actually incurred in connection with carrying out the order if the Secretary determines such reimbursement is required for the protection of the public health. Any such requirement shall not affect any rights or obligations under any contract to which the person receiving reimbursement or the person making such reimbursement is a party.
+- **(c)** An order issued under subsection (b) of this section with respect to a device may require any person who is a manufacturer, importer, distributor, or retailer of the device to reimburse any other person who is a manufacturer, importer, distributor, or retailer of such device for such other person’s expenses actually incurred in connection with carrying out the order if the Secretary determines such reimbursement is required for the protection of the public health. Any such requirement shall not affect any rights or obligations under any contract to which the person receiving reimbursement or the person making such reimbursement is a party.
 - **(d)** Compliance with an order issued under this section shall not relieve any person from liability under Federal or State law. In awarding damages for economic loss in an action brought for the enforcement of any such liability, the value to the plaintiff in such action of any remedy provided him under such order shall be taken into account.
 - **(e)**
   - **(1)** If the Secretary finds that there is a reasonable probability that a device intended for human use would cause serious, adverse health consequences or death, the Secretary shall issue an order requiring the appropriate person (including the manufacturers, importers, distributors, or retailers of the device)—
@@ -41,4 +42,4 @@ generated_at: "2026-03-30T02:54:54.250Z"
         - **(I)** not include recall of a device from individuals, and
         - **(II)** not include recall of a device from device user facilities if the Secretary determines that the risk of recalling such device from the facilities presents a greater health risk than the health risk of not recalling the device from use, and
       - **(ii)** shall provide for notice to individuals subject to the risks associated with the use of such device.
-  - **(3)** The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c).
+  - **(3)** The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c) of this section.

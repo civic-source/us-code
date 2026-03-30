@@ -3,9 +3,10 @@ title: "Section 6735 - Definitions"
 usc_title: 15
 usc_section: "6735"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 6735"
-generated_at: "2026-03-30T02:54:08.214Z"
+generated_at: "2026-03-30T03:04:31.239Z"
+status: "active"
 ---
 
 # § 6735. Definitions

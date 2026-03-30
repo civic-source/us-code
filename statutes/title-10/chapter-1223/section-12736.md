@@ -3,9 +3,10 @@ title: "Section 12736 - Service credited for retired pay benefits not excluded f
 usc_title: 10
 usc_section: "12736"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 12736"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-03-30T03:04:17.339Z"
+status: "active"
 ---
 
 # § 12736. Service credited for retired pay benefits not excluded for other benefits

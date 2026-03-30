@@ -3,9 +3,10 @@ title: "Section 5226 - Oversight and audits"
 usc_title: 12
 usc_section: "5226"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5226"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-03-30T03:04:29.337Z"
+status: "active"
 ---
 
 # § 5226. Oversight and audits
@@ -38,7 +39,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
       - **(ii)** This subparagraph does not limit disclosures to congressional committees or members thereof having jurisdiction over a private or public entity referred to under subparagraph (C).
       - **(iii)** Nothing in this section shall be construed to alter or amend the prohibitions against the disclosure of trade secrets or other information prohibited by section 1905 of title 18 , section 714(c) of title 31 , or other applicable provisions of law.
     - **(F)** The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended.
-  - **(3)** The Comptroller General shall submit reports of findings under this section annually to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
+  - **(3)** The Comptroller General shall submit reports of findings under this section, regularly and no less frequently than once every 60 days, to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
 - **(b)**
   - **(1)** The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31 .
   - **(2)** The Comptroller General may audit the programs, activities, receipts, expenditures, and financial transactions of the TARP and any agents and representatives of the TARP (as related to the agent or representative’s activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter.

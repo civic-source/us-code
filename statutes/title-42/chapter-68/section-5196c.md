@@ -3,12 +3,13 @@ title: "Section 5196c - Grants for construction of emergency operations centers"
 usc_title: 42
 usc_section: "5196c"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5196c"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-03-30T03:06:22.732Z"
+status: "active"
 ---
 
 # § 5196c. Grants for construction of emergency operations centers
 
-- **(a)** The Administrator of the Federal Emergency Management Agency may make grants to States and Indian tribal governments under this subchapter for equipping, upgrading, and constructing State, local, and Tribal emergency operations centers.
+- **(a)** The Administrator of the Federal Emergency Management Agency may make grants to States under this subchapter for equipping, upgrading, and constructing State and local emergency operations centers.
 - **(b)** Notwithstanding any other provision of this subchapter, the Federal share of the cost of an activity carried out using amounts from grants made under this section shall not exceed 75 percent.

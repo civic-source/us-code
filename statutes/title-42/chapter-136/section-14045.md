@@ -1,12 +1,33 @@
 ---
-title: "Section 14045 - Transferred"
+title: "Section 14045 - Grants for outreach to underserved populations"
 usc_title: 42
 usc_section: "14045"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14045"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.944Z"
+status: "active"
 ---
 
-# § 14045. Transferred
+# § 14045. Grants for outreach to underserved populations
 
+- **(a)**
+  - **(1)** From amounts made available to carry out this section, the Attorney General, acting through the Director of the Office on Violence Against Women, shall award grants to eligible entities described in subsection (b) of this section to carry out local, regional, or national public information campaigns focused on addressing adult, youth, or minor domestic violence, dating violence, sexual assault, stalking, or trafficking within tribal and underserved populations and immigrant communities, including information on services available to victims and ways to prevent or reduce domestic violence, dating violence, sexual assault, and stalking.
+  - **(2)** The Attorney General shall award grants under this section for a period of 1 fiscal year.
+- **(b)** Eligible entities under this section are—
+  - **(1)** nonprofit, nongovernmental organizations or coalitions that represent the targeted tribal and underserved populations or immigrant community that—
+    - **(A)** have a documented history of creating and administering effective public awareness campaigns addressing domestic violence, dating violence, sexual assault, and stalking; or
+    - **(B)** work in partnership with an organization that has a documented history of creating and administering effective public awareness campaigns addressing domestic violence, dating violence, sexual assault, and stalking; or
+  - **(2)** a governmental entity that demonstrates a partnership with organizations described in paragraph (1).
+- **(c)** Of the amounts appropriated for grants under this section—
+  - **(1)** not more than 20 percent shall be used for national model campaign materials targeted to specific tribal and underserved populations or immigrant community, including American Indian tribes and Alaskan native villages for the purposes of research, testing, message development, and preparation of materials; and
+  - **(2)** the balance shall be used for not less than 10 State, regional, territorial, tribal, or local campaigns targeting specific communities with information and materials developed through the national campaign or, if appropriate, new materials to reach an underserved population or a particularly isolated community.
+- **(d)** Funds appropriated under this section shall be used to conduct a public information campaign and build the capacity and develop leadership of racial, ethnic populations, or immigrant community members to address domestic violence, dating violence, sexual assault, and stalking.
+- **(e)** An eligible entity desiring a grant under this section shall submit an application to the Director of the Office on Violence Against Women at such time, in such form, and in such manner as the Director may prescribe.
+- **(f)** In awarding grants under this section, the Attorney General shall ensure—
+  - **(1)** reasonable distribution among eligible grantees representing various underserved and immigrant communities;
+  - **(2)** reasonable distribution among State, regional, territorial, tribal, and local campaigns; and
+  - **(3)** that not more than 8 percent of the total amount appropriated under this section for each fiscal year is set aside for training, technical assistance, and data collection.
+- **(g)** Each eligible entity receiving a grant under this section shall submit to the Director of the Office of Violence Against Women a report that describes the activities carried out with grant funds.
+- **(h)** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2007 through 2011.
+- **(i)** In this section the definitions and grant conditions in section 13925 of this title shall apply.

@@ -3,9 +3,10 @@ title: "Section 1396 - Medicaid and CHIP Payment and Access Commission"
 usc_title: 42
 usc_section: "1396"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1396"
-generated_at: "2026-03-30T02:56:11.030Z"
+generated_at: "2026-03-30T03:06:22.557Z"
+status: "active"
 ---
 
 # § 1396. Medicaid and CHIP Payment and Access Commission
@@ -36,17 +37,7 @@ generated_at: "2026-03-30T02:56:11.030Z"
   - **(5)**
     - **(A)** If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the report and, not later than 6 months after the date of submittal of the Secretary’s report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
     - **(B)** MACPAC shall review Medicaid and CHIP regulations and may comment through submission of a report to the appropriate committees of Congress and the Secretary, on any such regulations that affect access, quality, or efficiency of health care.
-  - **(6)**
-    - **(A)** MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC’s agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
-    - **(B)**
-      - **(i)** MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section 1396r–4 of this title . Each report shall include the information specified in clause (ii).
-      - **(ii)** Each report required under this subparagraph shall include the following:
-        - **(I)** Data relating to changes in the number of uninsured individuals.
-        - **(II)** Data relating to the amount and sources of hospitals’ uncompensated care costs, including the amount of such costs that are the result of providing unreimbursed or under-reimbursed services, charity care, or bad debt.
-        - **(III)** Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured, and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
-        - **(IV)** State-specific analyses regarding the relationship between the most recent State DSH allotment and the projected State DSH allotment for the succeeding year and the data reported under subclauses (I), (II), and (III) for the State.
-      - **(iii)** Notwithstanding any other provision of law, the Secretary regularly shall provide MACPAC with the most recent State reports and most recent independent certified audits submitted under section 1396r–4(j) of this title , cost reports submitted under subchapter XVIII, and such other data as MACPAC may request for purposes of conducting the reviews and preparing and submitting the annual reports required under this subparagraph.
-      - **(iv)** The first report required under this subparagraph shall be submitted to Congress not later than February 1, 2016 . Subsequent reports shall be submitted as part of, or with, each annual report required under paragraph (1)(C) during the period of fiscal years 2017 through 2024.
+  - **(6)** MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC’s agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
   - **(7)** MACPAC shall transmit to the Secretary a copy of each report submitted under this subsection and shall make such reports available to the public.
   - **(8)** For purposes of this section, the term “appropriate committees of Congress” means the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
   - **(9)** With respect to each recommendation contained in a report submitted under paragraph (1), each member of MACPAC shall vote on the recommendation, and MACPAC shall include, by member, the results of that vote in the report containing the recommendation.
@@ -63,7 +54,7 @@ generated_at: "2026-03-30T02:56:11.030Z"
     - **(A)** The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
     - **(B)** The membership of MACPAC shall include (but not be limited to) physicians, dentists, and other health professionals, employers, third-party payers, and individuals with expertise in the delivery of health services. Such membership shall also include representatives of children, pregnant women, the elderly, individuals with disabilities, caregivers, and dual eligible individuals, current or former representatives of State agencies responsible for administering Medicaid, and current or former representatives of State agencies responsible for administering CHIP.
     - **(C)** Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under Medicaid or CHIP shall not constitute a majority of the membership of MACPAC.
-    - **(D)** The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
+    - **(D)** The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 ( Public Law 95–521 ) [5 U.S.C. App.].
   - **(3)**
     - **(A)** The terms of members of MACPAC shall be for 3 years except that the Comptroller General of the United States shall designate staggered terms for the members first appointed.
     - **(B)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.

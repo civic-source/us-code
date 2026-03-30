@@ -3,9 +3,10 @@ title: "Section 1464b - Voice of America hiring practices"
 usc_title: 22
 usc_section: "1464b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1464b"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-03-30T03:04:53.609Z"
+status: "active"
 ---
 
 # § 1464b. Voice of America hiring practices
@@ -14,6 +15,6 @@ generated_at: "2026-03-30T02:55:05.332Z"
 - **(b)** The prohibition referred to in this section shall not apply to—
   - **(1)** participants in the Voice of America’s exchange programs; or
   - **(2)** clerical, technical, or maintenance staff at Voice of America offices in foreign countries.
-- **(c)** If the Broadcasting Board of Governors determines that the prohibition under subsection (a) would require the termination of a specific Voice of America foreign language service, then, not less than 90 days before the Board begins to recruit such candidates, the Board shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report concerning—
+- **(c)** If the Broadcasting Board of Governors determines that the prohibition under subsection (a) of this section would require the termination of a specific Voice of America foreign language service, then, not less than 90 days before the Board begins to recruit such candidates, the Board shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report concerning—
   - **(1)** the number and location of speakers of the applicable foreign language who could be recruited by the Voice of America without violating this section; and
   - **(2)** the efforts made by the Voice of America to recruit such individuals for employment.

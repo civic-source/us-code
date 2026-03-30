@@ -1,0 +1,26 @@
+---
+title: "Section 2445a - Definitions"
+usc_title: 10
+usc_section: "2445a"
+chapter: 144
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 2445a"
+generated_at: "2026-03-30T03:04:17.288Z"
+status: "active"
+---
+
+# § 2445a. Definitions
+
+- **(a)** In this chapter, the term “major automated information system program” means a Department of Defense program for the acquisition of an automated information system (either as a product or a service) if—
+  - **(1)** the program is designated by the Secretary of Defense, or a designee of the Secretary, as a major automated information system program; or
+  - **(2)** the dollar value of the program is estimated to exceed—
+    - **(A)** $32,000,000 in fiscal year 2000 constant dollars for all program costs in a single fiscal year;
+    - **(B)** $126,000,000 in fiscal year 2000 constant dollars for all program acquisition costs for the entire program; or
+    - **(C)** $378,000,000 in fiscal year 2000 constant dollars for the total life-cycle costs of the program (including operation and maintenance costs).
+- **(b)** The Secretary of Defense may adjust the amounts (and base fiscal year) set forth in subsection (a) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the congressional defense committees.
+- **(c)** In the event any increment of a major automated information system program separately meets the requirements for treatment as a major automated information system program, the provisions of this chapter shall apply to such increment as well as to the overall major automated information system program of which such increment is a part.
+- **(d)** In this chapter, the term “other major information technology investment program” means the following:
+  - **(1)** An investment that is designated by the Secretary of Defense, or a designee of the Secretary, as a “pre-Major Automated Information System” or “pre-MAIS” program.
+  - **(2)** Any other investment in automated information system products or services that is expected to exceed the thresholds established in subsection (a), as adjusted under subsection (b), but is not considered to be a major automated information system program because a formal acquisition decision has not yet been made with respect to such investment.
+- **(e)** In this chapter, the term “full deployment decision” means, with respect to a major automated information system program, the final decision made by the Milestone Decision Authority authorizing an increment of the program to deploy software for operational use.
+- **(f)** In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.

@@ -1,0 +1,21 @@
+---
+title: "Section 9331 - Establishment; Superintendent; faculty"
+usc_title: 10
+usc_section: "9331"
+chapter: 903
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 9331"
+generated_at: "2026-03-30T03:04:17.329Z"
+status: "active"
+---
+
+# § 9331. Establishment; Superintendent; faculty
+
+- **(a)** There is in the Department of the Air Force an Air Force Academy (hereinafter in this chapter referred to as the “Academy”) for the instruction and preparation for military service of selected persons called “Air Force cadets”. The organization of the Academy shall be prescribed by the Secretary of the Air Force.
+- **(b)** There shall be at the Academy the following:
+  - **(1)** A Superintendent.
+  - **(2)** A Dean of the Faculty.
+  - **(3)** A Commandant of Cadets.
+  - **(4)** 23 permanent professors.
+  - **(5)** A chaplain.
+  - **(6)** A director of admissions.

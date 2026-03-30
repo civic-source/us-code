@@ -3,9 +3,10 @@ title: "Section 14907 - Recordkeeping and reporting violations"
 usc_title: 49
 usc_section: "14907"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 14907"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-03-30T03:06:29.292Z"
+status: "active"
 ---
 
 # § 14907. Recordkeeping and reporting violations
@@ -18,4 +19,4 @@ A person required to make a report to the Secretary or the Board, as applicable,
   - **(4)** falsifies, destroys, mutilates, or changes that report or record;
   - **(5)** files a false report or record;
   - **(6)** makes a false or incomplete entry in that record about a business related fact or transaction; or
-  - **(7)** makes, prepares, or preserves a record in violation of an applicable regulation or order of the Secretary or Board;
+  - **(7)** makes, prepares, or preserves a record in violation of an applicable regulation or order of the Secretary or Board; is liable to the United States for a civil penalty of not more than $5,000.

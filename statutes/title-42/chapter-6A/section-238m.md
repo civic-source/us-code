@@ -3,9 +3,10 @@ title: "Section 238m - Use of fiscal agents"
 usc_title: 42
 usc_section: "238m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 238m"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-03-30T03:06:22.301Z"
+status: "active"
 ---
 
 # § 238m. Use of fiscal agents
@@ -18,8 +19,8 @@ generated_at: "2026-03-30T02:56:10.689Z"
   - **(3)** to make such audits of records as may be necessary to assure that these payments are proper, and
   - **(4)** to perform such additional functions as may be necessary to carry out the functions described in paragraphs (1) through (3).
 - **(b)**
-  - **(1)** Contracts under subsection (a) may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competition.
+  - **(1)** Contracts under subsection (a) of this section may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competition.
   - **(2)** No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
-- **(c)** A contract under subsection (a) may provide for advances of funds to enable entities to make payments under the contract.
-- **(d)** Subsections (d) and (e) 1 1 See References in Text note below. of section 1395u of this title shall apply to contracts with entities under subsection (a) in the same manner as they apply to contracts with carriers under that section.
-- **(e)** In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A), an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act ( Public Law 93–638 ) [ 25 U.S.C. 5321 et seq.].
+- **(c)** A contract under subsection (a) of this section may provide for advances of funds to enable entities to make payments under the contract.
+- **(d)** Subsections (d) and (e) 1 1 See References in Text note below. of section 1395u of this title shall apply to contracts with entities under subsection (a) of this section in the same manner as they apply to contracts with carriers under that section.
+- **(e)** In this section, the term “fiscal agent” means a carrier described in section 1395u(f)(1) 1 of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act ( Public Law 93–638 ) [ 25 U.S.C. 450f et seq.].

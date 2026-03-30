@@ -1,16 +1,15 @@
 ---
-title: "Section 1 - Investigation requirement"
+title: "Section 1 - Shipyards located outside of the United States"
 usc_title: 33
 usc_section: "1"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-03-30T03:05:36.263Z"
+status: "active"
 ---
 
-# § 894d–1. Investigation requirement
+# § 891e–1. Shipyards located outside of the United States
 
-- **(a)**
-  - **(1)** The Secretary of Commerce, acting through the Under Secretary for Oceans and Atmosphere, shall ensure that each allegation of sexual harassment reported under section 894 of this title and each allegation of sexual assault reported under section 894a of this title is investigated thoroughly and promptly.
-  - **(2)** It is the sense of Congress that the Secretary should ensure that an investigation of alleged sexual harassment reported under section 894 of this title or sexual assault reported under section 894a of this title commences not later than 48 hours after the time at which the allegation was reported.
-- **(b)** In any case in which the time between the reporting of alleged sexual harassment or sexual assault under section 894 or 894a of this title, respectively, and commencement of an investigation of the allegation exceeds 48 hours, the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives of the delay.
+On and after December 26, 2007 , none of the funds made available in this Act or any other Act may be used for the construction, repair (other than emergency repair), overhaul, conversion, or modernization of vessels for the National Oceanic and Atmospheric Administration in shipyards located outside of the United States.
+

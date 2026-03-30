@@ -3,9 +3,10 @@ title: "Section 1397k - Elder Justice Coordinating Council"
 usc_title: 42
 usc_section: "1397k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1397k"
-generated_at: "2026-03-30T02:56:11.066Z"
+generated_at: "2026-03-30T03:06:22.585Z"
+status: "active"
 ---
 
 # § 1397k. Elder Justice Coordinating Council
@@ -32,5 +33,5 @@ generated_at: "2026-03-30T02:56:11.066Z"
   - **(2)** The Council may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 - **(h)** The members of the Council shall not receive compensation for the performance of services for the Council. The members shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding section 1342 of title 31 , the Secretary may accept the voluntary and uncompensated services of the members of the Council.
 - **(i)** Any Federal Government employee may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
-- **(j)** Section 1013 of title 5 shall not apply to the Council.
+- **(j)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 - **(k)** There are authorized to be appropriated such sums as are necessary to carry out this section.

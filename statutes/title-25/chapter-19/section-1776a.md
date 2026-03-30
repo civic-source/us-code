@@ -1,12 +1,33 @@
 ---
-title: "Section 1776a - Omitted"
+title: "Section 1776a - Definitions"
 usc_title: 25
 usc_section: "1776a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1776a"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.883Z"
+status: "active"
 ---
 
-# § 1776a. Omitted
+# § 1776a. Definitions
 
+As used in this subchapter:
+
+  - **(1)** The term “Crow Tribe” means the Crow Tribe of Indians, the duly recognized governing body of the Crow Indian Reservation.
+  - **(2)** The term “disputed area” means the approximately 36,164 acres of land, including the minerals, located between the 107th meridian on the east and the 1891 survey line on the west from the Yellowstone River on the north to the boundary between the State of Wyoming and the State of Montana on the south.
+  - **(3)** The term “1891 survey” means the survey of the eastern boundary of the Crow Reservation conducted by the United States Government from 1889 through 1891.
+  - **(4)** The term “1891 survey line” means the erroneous boundary line resulting from the survey of the 107th meridian which was completed in 1891.
+  - **(5)** The term “Northern Cheyenne Tribe” means the Northern Cheyenne Tribe of Indians, with the Northern Cheyenne Tribal Council as the duly recognized governing body of the Northern Cheyenne Indian Reservation.
+  - **(6)** The term “107th meridian boundary dispute” means the dispute resulting from the disparity between the location of the 107th meridian and the location of the 1891 survey line.
+  - **(7)** The term “107th meridian escrow fund” means the revenues that arise from, or are derived from, parcel number 2, including all accrued interest on such revenues, which are held by the Bureau of Indian Affairs in an escrow account as of November 2, 1994 .
+  - **(8)** The term “parcel number 1” means the area, encompassing approximately 11,317 acres, bounded on the south by the Montana-Wyoming border, on the east by the 107th meridian, on the north by the extension to the west of the southern boundary of the Northern Cheyenne Indian Reservation, and on the west by the 1891 survey line.
+  - **(9)** The term “parcel number 2” means the area, encompassing approximately 12,964 acres, bounded on the south by the extension to the west of the southern boundary of the Northern Cheyenne Indian Reservation, on the east by the 107th meridian, on the north by the extension to the west of the northern boundary of the Northern Cheyenne Indian Reservation, and on the west by the 1891 survey line.
+  - **(10)** The term “parcel number 3” means the area, encompassing approximately 2,469 acres, bounded on the south by the extension to the west of the northern boundary of the Northern Cheyenne Indian Reservation, on the east by the 107th meridian, on the north by the northern boundary of the Crow Indian Reservation, and on the west by the 1891 survey line.
+  - **(11)** The term “parcel number 4” means the area, encompassing approximately 9,415 acres, bounded on the south by the northern boundary of the Crow Indian Reservation, on the east by the 107th meridian, on the north by the midpoint of the Yellowstone River, and on the west by the 1891 survey line.
+  - **(12)** The term “public lands” means any land or interest in land owned by the United States (without regard to the means by which the United States acquired ownership of the land or interest in land) and administered by the Secretary through the Bureau of Land Management.
+  - **(13)** The term “royalties received and retained by the United States” means the royalties derived from minerals owned by the United States that the United States retains after all payments from the royalties have been made to the State of Montana or any unit of local government of the State of Montana.
+  - **(14)** The term “Secretary” means the Secretary of the Interior.
+  - **(15)** The term “Settlement Agreement” means the agreement between the Secretary, on behalf of the United States and the Crow Tribe, that provides for the resolution of all claims held by the Crow Tribe arising from the 107th meridian boundary dispute.
+  - **(16)** The term “undisposed of coal” means coal that has not been conveyed to private parties or to the State of Montana by the United States.
+  - **(17)** The term “undisposed of surface lands” means surface land that has not been conveyed to private parties or to the State of Montana by the United States.
+  - **(18)** The term “undisposed of oil, gas, coal methane, or other minerals” means oil, gas, coal methane, or other minerals (excluding coal) that have not been conveyed to private parties or to the State of Montana by the United States.

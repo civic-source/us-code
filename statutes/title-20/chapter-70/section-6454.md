@@ -3,19 +3,18 @@ title: "Section 6454 - Uses of funds"
 usc_title: 20
 usc_section: "6454"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 6454"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-03-30T03:04:46.339Z"
+status: "active"
 ---
 
 # § 6454. Uses of funds
 
-- **(a)** Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
+Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
+
   - **(1)** programs that serve children and youth returning to local schools from correctional facilities, to assist in the transition of such children and youth to the school environment and help them remain in school in order to complete their education;
-  - **(2)** dropout prevention programs which serve at-risk children and youth;
+  - **(2)** dropout prevention programs which serve at-risk children and youth, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
   - **(3)** the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve the likelihood such individuals will complete their education;
-  - **(4)** special programs to meet the unique academic needs of participating children and youth, including career and technical education, special education, career counseling, curriculum-based youth entrepreneurship education, and assistance in securing student loans or grants for postsecondary education;
-  - **(5)** programs providing mentoring and peer mediation;
-  - **(6)** programs for at-risk Indian children and youth, including such children and youth in correctional facilities in the area served by the local educational agency that are operated by the Secretary of the Interior or Indian tribes; and
-  - **(7)** pay for success initiatives.
-- **(b)** A local educational agency may use a subgrant received under this subpart to carry out the activities described under paragraphs (1) through (7) of subsection (a) directly or through subgrants, contracts, or cooperative agreements.
+  - **(4)** special programs to meet the unique academic needs of participating children and youth, including vocational and technical education, special education, career counseling, curriculum-based youth entrepreneurship education, and assistance in securing student loans or grants for postsecondary education; and
+  - **(5)** programs providing mentoring and peer mediation.

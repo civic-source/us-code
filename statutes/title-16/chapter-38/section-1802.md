@@ -3,9 +3,10 @@ title: "Section 1802 - Definitions"
 usc_title: 16
 usc_section: "1802"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1802"
-generated_at: "2026-03-30T02:54:22.983Z"
+generated_at: "2026-03-30T03:04:48.578Z"
+status: "active"
 ---
 
 # § 1802. Definitions
@@ -14,7 +15,7 @@ As used in this chapter, unless the context otherwise requires—
 
   - **(1)** The term “anadromous species” means species of fish which spawn in fresh or estuarine waters of the United States and which migrate to ocean waters.
   - **(2)** The term “bycatch” means fish which are harvested in a fishery, but which are not sold or kept for personal use, and includes economic discards and regulatory discards. Such term does not include fish released alive under a recreational catch and release fishery management program.
-  - **(3)** The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in section 2101 of title 46 ) who is engaged in recreational fishing.
+  - **(3)** The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in section 2101(21a) of title 46) who is engaged in recreational fishing.
   - **(4)** The term “commercial fishing” means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
   - **(5)** The term “conservation and management” refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, or maintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
       - **(i)** a supply of food and other products may be taken, and that recreational benefits may be obtained, on a continuing basis;
@@ -51,7 +52,7 @@ As used in this chapter, unless the context otherwise requires—
     - **(B)** does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
   - **(23)** The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title .
   - **(24)** The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
-  - **(25)** The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more, or with a mesh size of 14 inches or greater, is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+  - **(25)** The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
   - **(26)** The term “limited access privilege”—
     - **(A)** means a Federal permit, issued as part of a limited access system under section 1853a of this title to harvest a quantity of fish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
     - **(B)** includes an individual fishing quota; but

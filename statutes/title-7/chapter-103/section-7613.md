@@ -3,9 +3,10 @@ title: "Section 7613 - Relevance and merit of agricultural research, extension, 
 usc_title: 7
 usc_section: "7613"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7613"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-03-30T03:04:21.021Z"
+status: "active"
 ---
 
 # § 7613. Relevance and merit of agricultural research, extension, and education funded by the Department
@@ -13,14 +14,14 @@ generated_at: "2026-03-30T02:53:42.458Z"
 - **(a)**
   - **(1)** The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the National Institute of Food and Agriculture of the Department.
   - **(2)**
-    - **(A)** The Secretary shall establish procedures that provide for relevance and merit review of each agricultural research, extension, or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
-    - **(B)** The Secretary shall consult with the Advisory Board in establishing the merit review procedures on a continuous basis.
+    - **(A)** The Secretary shall establish procedures that provide for merit review of each agricultural extension or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
+    - **(B)** The Secretary shall consult with the Advisory Board in establishing the merit review procedures.
   - **(3)** Peer and merit review procedures established under paragraphs (1) and (2) shall not take the offer or availability of matching funds into consideration.
 - **(b)** On an annual basis, the Advisory Board shall review—
   - **(1)** the relevance to the priorities established under section 7612(a) of this title of the funding of all agricultural research, extension, or education activities conducted or funded by the Department; and
   - **(2)** the adequacy of the funding.
 - **(c)**
-  - **(1)** As soon as practicable after the review is conducted under subsection (b) for a fiscal year, the Secretary shall consider the results of the review when formulating each request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
+  - **(1)** As soon as practicable after the review is conducted under subsection (b) of this section for a fiscal year, the Secretary shall consider the results of the review when formulating each request for proposals, and evaluating proposals, involving an agricultural research, extension, or education activity funded, on a competitive basis, by the Department.
   - **(2)** In formulating a request for proposals described in paragraph (1) for a fiscal year, the Secretary shall solicit and consider input from persons who conduct or use agricultural research, extension, or education regarding the prior year’s request for proposals.
 - **(d)**
   - **(1)** The Secretary shall establish procedures that ensure scientific peer review of all research activities conducted by the Department.

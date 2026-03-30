@@ -1,12 +1,19 @@
 ---
-title: "Section 3174a - Repealed. Pub. L. 113–79, title VII , §§ 7108, 7109, Feb. 7, 2014 , 128 Stat. 870"
+title: "Section 3174a - Pilot research program to combine medical and agricultural research"
 usc_title: 7
 usc_section: "3174a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3174a"
-generated_at: "2026-03-30T02:53:42.397Z"
+generated_at: "2026-03-30T03:04:20.978Z"
+status: "active"
 ---
 
-# §§ 3174, 3174a. Repealed. Pub. L. 113–79, title VII , §§ 7108, 7109, Feb. 7, 2014 , 128 Stat. 870
+# § 3174a. Pilot research program to combine medical and agricultural research
 
+- **(a)** Congress finds the following:
+  - **(1)** Although medical researchers in recent years have demonstrated that there are several naturally occurring compounds in many vegetables and fruits that can aid in the prevention of certain forms of cancer, coronary heart disease, stroke, and atherosclerosis, there has been almost no research conducted to enhance these compounds in food plants by modern breeding and molecular genetic methods.
+  - **(2)** By linking the appropriate medical and agricultural research scientists in a highly-focused, targeted research program, it should be possible to develop new varieties of vegetables and fruits that would provide greater prevention of diet-related diseases that are a major cause of death in the United States.
+- **(b)** The Secretary shall conduct, through the National Institute of Food and Agriculture, a pilot research program to link major cancer and heart and other circulatory disease research efforts with agricultural research efforts to identify compounds in vegetables and fruits that prevent these diseases. Using information derived from such combined research efforts, the Secretary shall assist in the development of new varieties of vegetables and fruits having enhanced therapeutic properties for disease prevention.
+- **(c)** The Secretary shall carry out the pilot program through agreements entered into with land-grant colleges or universities, other universities, State agricultural experiment stations, the State cooperative extension services, nonprofit organizations with demonstrable expertise, or Federal or State governmental entities. The Secretary shall enter into the agreements on a competitive basis.
+- **(d)** There are authorized to be appropriated $10,000,000 for each of fiscal years 1997 through 2012 to carry out the pilot program.

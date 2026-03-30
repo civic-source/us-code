@@ -3,9 +3,10 @@ title: "Section 6964 - Applicability of solid waste disposal guidelines to Execu
 usc_title: 42
 usc_section: "6964"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6964"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-03-30T03:06:22.779Z"
+status: "active"
 ---
 
 # § 6964. Applicability of solid waste disposal guidelines to Executive agencies

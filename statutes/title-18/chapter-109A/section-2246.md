@@ -3,9 +3,10 @@ title: "Section 2246 - Definitions for chapter"
 usc_title: 18
 usc_section: "2246"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 2246"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-03-30T03:04:41.107Z"
+status: "active"
 ---
 
 # § 2246. Definitions for chapter
@@ -23,5 +24,4 @@ As used in this chapter—
   - **(5)** the term “official detention” means—
     - **(A)** detention by a Federal officer or employee, or under the direction of a Federal officer or employee, following arrest for an offense; following surrender in lieu of arrest for an offense; following a charge or conviction of an offense, or an allegation or finding of juvenile delinquency; following commitment as a material witness; following civil commitment in lieu of criminal proceedings or pending resumption of criminal proceedings that are being held in abeyance, or pending extradition, deportation, or exclusion; or
     - **(B)** custody by a Federal officer or employee, or under the direction of a Federal officer or employee, for purposes incident to any detention described in subparagraph (A) of this paragraph, including transportation, medical diagnosis or treatment, court appearance, work, and recreation;
-  - **(6)** the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States; and
-  - **(7)** the term “Federal law enforcement officer” has the meaning given the term in section 115.
+  - **(6)** the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States.

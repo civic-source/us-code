@@ -3,9 +3,10 @@ title: "Section 7177 - Access to information"
 usc_title: 42
 usc_section: "7177"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7177"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-03-30T03:06:22.786Z"
+status: "active"
 ---
 
 # § 7177. Access to information

@@ -3,9 +3,10 @@ title: "Section 3013 - Semiannual reports on investigative activities of the Pos
 usc_title: 39
 usc_section: "3013"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "39 U.S.C. § 3013"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-03-30T03:05:49.210Z"
+status: "active"
 ---
 
 # § 3013. Semiannual reports on investigative activities of the Postal Service
@@ -17,4 +18,4 @@ The Postmaster General shall submit semi­annual reports to the Inspector Genera
   - **(3)** the number of applications for temporary restraining orders or preliminary injunctions submitted under section 3007 of this title and, of those applications, the number granted;
   - **(4)** the total amount of expenditures and obligations incurred in carrying out the investigative activities of the Postal Service;
   - **(5)** the number of cases in which the authority described in section 3016 was used, and a comprehensive statement describing how that authority was used in each of those cases; and
-  - **(6)** such other information relating to the investigative activities of the Postal Service as the Inspector General may require.
+  - **(6)** such other information relating to the investigative activities of the Postal Service as the Inspector General may require. The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.

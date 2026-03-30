@@ -1,12 +1,15 @@
 ---
-title: "Section 768 - Omitted"
+title: "Section 768 - Rules and regulations"
 usc_title: 25
 usc_section: "768"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 768"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.855Z"
+status: "active"
 ---
 
-# § 768. Omitted
+# § 768. Rules and regulations
+
+The Secretary may make such rules and regulations as are necessary to carry out the purposes of this subchapter.
 

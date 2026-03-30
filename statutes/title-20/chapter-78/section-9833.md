@@ -3,18 +3,17 @@ title: "Section 9833 - Advanced Placement and International Baccalaureate progra
 usc_title: 20
 usc_section: "9833"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9833"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-03-30T03:04:46.380Z"
+status: "active"
 ---
 
 # § 9833. Advanced Placement and International Baccalaureate programs
 
 - **(a)** From the amounts appropriated under subsection ( l ), the Secretary is authorized to award grants, on a competitive basis, to eligible entities to enable the eligible entities to carry out the authorized activities described in subsection (g).
 - **(b)** The Secretary may award grants under this section for a period of not more than 5 years.
-- **(c)** The Secretary shall coordinate the activities carried out under this section with any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—
-  - **(1)** postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
-  - **(2)** postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs.
+- **(c)** The Secretary shall coordinate the activities carried out under this section with the activities carried out under section 6535 of this title .
 - **(d)** In awarding grants under this section, the Secretary shall give priority to eligible entities that are part of a statewide strategy for increasing—
   - **(1)** the availability of Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools; and
   - **(2)** the number of students who participate in Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign language in high-need schools, and take and score a 3, 4, or 5 on an Advanced Placement examination in such a subject, or pass an examination administered by the International Baccalaureate Organization in such a subject in such schools.
@@ -65,7 +64,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
     - **(E)** the number of qualified teachers who are teaching Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages to students in a high-need school.
   - **(2)** Each eligible entity receiving a grant under this section shall report data required under paragraph (1)—
     - **(A)** disaggregated by subject area;
-    - **(B)** in the case of student data, disaggregated in the same manner as information is disaggregated under section 6311(b)(2)(B)(xi) of this title ; and
+    - **(B)** in the case of student data, disaggregated in the same manner as information is disaggregated under section 6311(h)(1)(C)(i) of this title ; and
     - **(C)** to the extent feasible, in a manner that allows comparison of conditions before, during, and after the project.
 - **(k)** From the amount made available for any fiscal year under subsection ( l ), the Secretary shall reserve such sums as may be necessary—
   - **(1)** to conduct an annual independent evaluation, by grant or by contract, of the program carried out under this section, which shall include an assessment of the impact of the program on student academic achievement; and

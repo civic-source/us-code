@@ -3,9 +3,10 @@ title: "Section 2219 - Assistance to Consumer Product Safety Commission"
 usc_title: 15
 usc_section: "2219"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2219"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-03-30T03:04:31.201Z"
+status: "active"
 ---
 
 # § 2219. Assistance to Consumer Product Safety Commission

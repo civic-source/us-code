@@ -1,14 +1,15 @@
 ---
-title: "Section 1423 - Public safety Interoperability Board"
+title: "Section 1423 - Public Safety Interoperability Board"
 usc_title: 47
 usc_section: "1423"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 1423"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-03-30T03:06:26.243Z"
+status: "active"
 ---
 
-# § 1423. Public safety Interoperability Board
+# § 1423. Public Safety Interoperability Board
 
 - **(a)** There is established within the Commission an advisory board to be known as the “Technical Advisory Board for First Responder Interoperability”.
 - **(b)**
@@ -40,5 +41,5 @@ generated_at: "2026-03-30T02:56:24.533Z"
     - **(A)** Not later than 30 days after the date on which the Interoperability Board submits recommended minimum technical requirements under paragraph (1)(B), the Commission shall approve the recommendations, with any revisions it deems necessary, and transmit such recommendations to the First Responder Network Authority.
     - **(B)** Any actions taken under subparagraph (A) shall not be reviewable as a final agency action.
 - **(d)** The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
-- **(e)** Chapter 10 of title 5 shall not apply to the Interoperability Board.
+- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Interoperability Board.
 - **(f)** The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).

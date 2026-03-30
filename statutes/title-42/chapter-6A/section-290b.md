@@ -3,9 +3,10 @@ title: "Section 290b - Establishment and duties of Foundation"
 usc_title: 42
 usc_section: "290b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 290b"
-generated_at: "2026-03-30T02:56:10.754Z"
+generated_at: "2026-03-30T03:06:22.353Z"
+status: "active"
 ---
 
 # § 290b. Establishment and duties of Foundation
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
 - **(a)** The Secretary shall, acting through the Director of NIH, establish a nonprofit corporation to be known as the Foundation for the National Institutes of Health (hereafter in this section referred to as the “Foundation”). The Foundation shall not be an agency or instrumentality of the United States Government.
 - **(b)** The purpose of the Foundation shall be to support the National Institutes of Health in its mission (including collection of funds for pediatric pharmacologic research), and to advance collaboration with biomedical researchers from universities, industry, and nonprofit organizations.
 - **(c)**
-  - **(1)** In carrying out subsection (b), the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
+  - **(1)** In carrying out subsection (b) of this section, the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
     - **(A)** A program to provide and administer endowed positions that are associated with the research program of the National Institutes of Health. Such endowments may be expended for the compensation of individuals holding the positions, for staff, equipment, quarters, travel, and other expenditures that are appropriate in supporting the endowed positions.
     - **(B)** A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
     - **(C)** A program to collect funds for pediatric pharmacologic research and studies.
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
       - **(iii)** the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
       - **(iv)** programs to support and encourage teachers and students of science at all levels of education and programs for the general public which promote the understanding of science;
       - **(v)** programs for writing, editing, printing, publishing, and vending of books and other materials; and
-      - **(vi)** the conduct of other activities to carry out and support the purpose described in subsection (b).
+      - **(vi)** the conduct of other activities to carry out and support the purpose described in subsection (b) of this section.
     - **(E)** The Cures Acceleration Network described in section 287a of this title .
   - **(2)** The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation in amounts determined reasonable and appropriate by the Executive Director.
   - **(3)** The Foundation shall be the sole entity responsible for carrying out the activities described in this subsection.
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
       - **(iv)** representatives of the general public, which may include representatives of affected industries.
     - **(D)**
       - **(i)** Not later than 30 days after June 10, 1993 , the Director of the National Institutes of Health shall convene a meeting of the ex officio members of the Board to—
-        - **(I)** incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b), including the establishment of the bylaws of the Foundation; and
+        - **(I)** incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b) of this section, including the establishment of the bylaws of the Foundation; and
         - **(II)** appoint the members of the Board in accordance with subparagraph (C).
       - **(ii)** Upon the appointment of the appointed members of the Board under clause (i)(II), the terms of service as members of the Board of the ex officio members of the Board described in clauses (i) and (ii) of subparagraph (B) shall terminate. The ex officio members of the Board described in clauses (iii) and (iv) of subparagraph (B) shall continue to serve as ex officio members of the Board.
     - **(E)** The agreement of not less than three-fifths of the members of the ex officio members of the Board shall be required for the appointment of each member to the initial Board.
@@ -72,7 +73,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
 - **(g)**
   - **(1)** The Foundation shall have an Executive Director who shall be appointed by the Board and shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
   - **(2)** The rate of compensation of the Executive Director shall be fixed by the Board.
-- **(h)** In carrying out subsection (b), the Foundation may—
+- **(h)** In carrying out subsection (b) of this section, the Foundation may—
   - **(1)** operate under the direction of its Board;
   - **(2)** adopt, alter, and use a corporate seal, which shall be judicially noticed;
   - **(3)** provide for 1 or more officers, employees, and agents, as may be necessary, define their duties, and require surety bonds or make other provisions against losses occasioned by acts of such persons;
@@ -80,7 +81,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
   - **(5)** with the consent of any executive department or independent agency, use the information, services, staff, and facilities of such in carrying out this section;
   - **(6)** sue and be sued in its corporate name, and complain and defend in courts of competent jurisdiction;
   - **(7)** modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
-  - **(8)** establish a process for the selection of candidates for positions under subsection (c);
+  - **(8)** establish a process for the selection of candidates for positions under subsection (c) of this section;
   - **(9)** enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
   - **(10)** take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
   - **(11)** solicit, accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
@@ -91,7 +92,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
 - **(i)** No participant in the program established under this part shall exercise any administrative control over any Federal employee.
 - **(j)**
   - **(1)** The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
-  - **(2)** Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 13101(16) of title 5 ) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+  - **(2)** Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
   - **(3)** The Foundation shall—
     - **(A)** provide for annual audits of the financial condition of the Foundation; and
     - **(B)** make such audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
@@ -109,15 +110,15 @@ generated_at: "2026-03-30T02:56:10.754Z"
   - **(9)**
     - **(A)** The Foundation shall exist solely as an entity to work in collaboration with the research programs of the National Institutes of Health. The Foundation may not undertake activities (such as the operation of independent laboratories or competing for Federal research funds) that are independent of those of the National Institutes of Health research programs.
     - **(B)**
-      - **(i)** Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C).
+      - **(i)** Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C) of this section.
       - **(ii)** Other gifts, grants, or donations received by the Foundation and not described in clause (i) may also be used to support such pediatric research and studies.
       - **(iii)** The recipient of a grant for research and studies shall agree to provide the Director of the National Institutes of Health and the Commissioner of Food and Drugs, at the conclusion of the research and studies—
         - **(I)** a report describing the results of the research and studies; and
         - **(II)** all data generated in connection with the research and studies.
       - **(iv)** The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) 2 2 See References in Text note below. of section 284m(c) of this title , including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
-    - **(C)** Subparagraph (A) does not apply to the program described in subsection (c)(1)(C).
+    - **(C)** Subparagraph (A) does not apply to the program described in subsection (c)(1)(C) of this section.
   - **(10)** The Foundation may transfer funds to the National Institutes of Health and the National Institutes of Health may accept transfers of funds from the Foundation. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
 - **(k)**
   - **(1)** In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
   - **(2)** The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
-- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.
+- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.

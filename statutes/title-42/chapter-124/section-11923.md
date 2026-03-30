@@ -3,12 +3,13 @@ title: "Section 11923 - Regional training program on drug abuse in public housin
 usc_title: 42
 usc_section: "11923"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11923"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-03-30T03:06:22.894Z"
+status: "active"
 ---
 
 # § 11923. Regional training program on drug abuse in public housing
 
 - **(a)** The Secretary shall establish a regional training program for the training of public housing officials, to better prepare and educate the officials to confront the widespread abuse of controlled substances in the communities in which the officials work.
-- **(b)** The regional training program established under subsection (a) shall be conducted within 12 months after November 18, 1988 , by a national training unit established by the Secretary.
+- **(b)** The regional training program established under subsection (a) of this section shall be conducted within 12 months after November 18, 1988 , by a national training unit established by the Secretary.

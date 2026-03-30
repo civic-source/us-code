@@ -3,9 +3,10 @@ title: "Section 2502 - Presidential authorization; appropriations and financial 
 usc_title: 22
 usc_section: "2502"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2502"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-03-30T03:04:53.643Z"
+status: "active"
 ---
 
 # § 2502. Presidential authorization; appropriations and financial readjustments
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:05.370Z"
 - **(b)**
   - **(1)** There are authorized to be appropriated to carry out the purposes of this chapter $270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003.
   - **(2)** Amounts authorized to be appropriated under paragraph (1) for a fiscal year are authorized to remain available for that fiscal year and the subsequent fiscal year.
-- **(c)** In addition to the amount authorized to be appropriated by subsection (b) to carry out the purposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
+- **(c)** In addition to the amount authorized to be appropriated by subsection (b) of this section to carry out the purposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
 - **(d)** In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
 - **(e)**
 - **(g)**

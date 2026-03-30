@@ -3,12 +3,13 @@ title: "Section 1714 - Surcharges related to consular services"
 usc_title: 8
 usc_section: "1714"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1714"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-03-30T03:04:14.647Z"
+status: "active"
 ---
 
 # § 1714. Surcharges related to consular services
 
-Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004 : Provided , That funds collected pursuant to this authority shall be deposited in the Consular and Border Security Programs account, and shall be available until expended for the purposes of such account: Provided further , That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
+Beginning in fiscal year 2005 and thereafter, the Secretary of State is authorized to charge surcharges related to consular services in support of enhanced border security that are in addition to the passport and immigrant visa fees in effect on January 1, 2004 : Provided , That funds collected pursuant to this authority shall be credited to this account, and shall be available until expended for the purposes of such account: Provided further , That such surcharges shall be $12 on passport fees, and $45 on immigrant visa fees.
 

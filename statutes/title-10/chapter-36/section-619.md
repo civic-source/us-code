@@ -3,9 +3,10 @@ title: "Section 619 - Eligibility for consideration for promotion: time-in-grade
 usc_title: 10
 usc_section: "619"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 619"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-03-30T03:04:17.226Z"
+status: "active"
 ---
 
 # § 619. Eligibility for consideration for promotion: time-in-grade and other requirements
@@ -14,13 +15,12 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(1)** An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
     - **(A)** Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
     - **(B)** Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade), except that the minimum period of service in effect under this subparagraph before October 1, 2008 , shall be eighteen months.
-  - **(2)** Subject to paragraph (5), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+  - **(2)** Subject to paragraph (4), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
     - **(A)** Three years, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
     - **(B)** One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or of an officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
   - **(3)** When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
-  - **(4)** When the needs of the service require, the Secretary of the military department concerned may prescribe a shorter period of service in grade, but not less than two years, for eligibility for consideration for promotion, in the case of officers designated for limited duty to whom paragraph (2) applies.
-  - **(5)** The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
-  - **(6)** In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
+  - **(4)** The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
+  - **(5)** In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
   - **(2)** Paragraph (1) does not apply to a regular officer who is ineligible for consideration for promotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
@@ -29,7 +29,7 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(2)** The Secretary of the military department concerned—
     - **(A)** may, in accordance with standards and procedures prescribed by the Secretary of Defense in regulations which shall apply uniformly among the military departments, limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion;
     - **(B)** may, by regulation, prescribe a period of time, not to exceed one year, from the time an officer is placed on the active-duty list during which the officer shall be ineligible for consideration for promotion; and
-    - **(C)** may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
+    - **(C)** may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened.
   - **(3)**
     - **(A)** The Secretary of Defense may authorize the Secretaries of the military departments to preclude from consideration by selection boards for promotion to the grade of brigadier general or rear admiral (lower half) officers in the grade of colonel or, in the case of the Navy, captain who—
       - **(i)** have been considered and not selected for promotion to the grade of brigadier general or rear admiral (lower half) by at least two selection boards; and
@@ -46,10 +46,3 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(3)** An officer of the Marine Corps who is an officer designated for limited duty and who holds a grade above major.
   - **(4)** An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under section 624(a)(3) of this title .
   - **(5)** An officer in the grade of captain or, in the case of the Navy, lieutenant who is not a citizen of the United States.
-  - **(6)** An officer excluded under subsection (e).
-- **(e)**
-  - **(1)** The Secretary of a military department may provide that an officer under the jurisdiction of the Secretary may, upon the officer’s request and with the approval of the Secretary, be excluded from consideration by a selection board convened under section 611(a) of this title to consider officers for promotion to the next higher grade.
-  - **(2)** The Secretary concerned may only approve a request under paragraph (1) if—
-    - **(A)** the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
-    - **(B)** the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
-    - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.

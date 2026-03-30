@@ -3,9 +3,10 @@ title: "Section 2036 - Survivor annuities for previous spouses"
 usc_title: 50
 usc_section: "2036"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2036"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-03-30T03:06:37.651Z"
+status: "active"
 ---
 
 # § 2036. Survivor annuities for previous spouses

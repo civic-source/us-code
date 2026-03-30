@@ -1,12 +1,15 @@
 ---
-title: "Section 285 - Repealed. Pub. L. 117–317, § 2(10) , Dec. 27, 2022 , 136 Stat. 4419"
+title: "Section 285 - Withholding annuities from Osage Indians for nonattendance at schools"
 usc_title: 25
 usc_section: "285"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 285"
-generated_at: "2026-03-30T02:54:52.802Z"
+generated_at: "2026-03-30T03:05:02.827Z"
+status: "active"
 ---
 
-# § 285. Repealed. Pub. L. 117–317, § 2(10) , Dec. 27, 2022 , 136 Stat. 4419
+# § 285. Withholding annuities from Osage Indians for nonattendance at schools
+
+The Commissioner of Indian Affairs is authorized in his discretion to withhold any annuities or other payments due to Osage Indian minors, above six years of age, whose parents fail, neglect, or refuse to place such minors in some established school for a reasonable portion of each year and to keep such children in regular attendance thereof. The Commissioner of Indian Affairs is authorized to make such rules and regulations as may be necessary to put this provision into force and effect.
 

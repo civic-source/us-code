@@ -3,9 +3,10 @@ title: "Section 6013 - Joint returns of income tax by husband and wife"
 usc_title: 26
 usc_section: "6013"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6013"
-generated_at: "2026-03-30T02:55:27.829Z"
+generated_at: "2026-03-30T03:05:18.708Z"
+status: "active"
 ---
 
 # § 6013. Joint returns of income tax by husband and wife
@@ -41,7 +42,6 @@ generated_at: "2026-03-30T02:55:27.829Z"
     - **(B)** if one dies before the close of the taxable year of the other—as of the time of such death;
   - **(2)** an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married; and
   - **(3)** if a joint return is made, the tax shall be computed on the aggregate income and the liability with respect to the tax shall be joint and several.
-- **[(e)**
 - **(f)** For purposes of this section and subtitle A—
   - **(1)** If—
     - **(A)** an individual is in a missing status (within the meaning of paragraph (3)) as a result of service in a combat zone (as determined for purposes of section 112), and

@@ -3,9 +3,10 @@ title: "Section 8262j - Energy management requirements for United States Postal 
 usc_title: 42
 usc_section: "8262j"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 8262j"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-03-30T03:06:22.833Z"
+status: "active"
 ---
 
 # § 8262j. Energy management requirements for United States Postal Service
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
 - **(a)**
   - **(1)** The Postmaster General shall, to the maximum extent practicable, ensure that each United States Postal Service facility meets the energy management requirements for Federal buildings and agencies specified in section 8253 of this title .
   - **(2)** The Postmaster General may exclude from the requirements of such section any facility or collection of facilities, and the associated energy consumption and gross square footage if the Postmaster General finds that compliance with the requirements of such section would be impracticable. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such facility or collection of facilities, the type and amount of energy consumed, or the technical feasibility of making the desired changes. The Postmaster General shall identify and list in the report required under section 8262i of this title the facilities designated by it for such exclusion.
-- **(b)** In carrying 1 1 So in original. Probably should be followed by the word “out”. subsection (a), the Postmaster General shall—
+- **(b)** In carrying subsection (a) of this section, the Postmaster General shall—
   - **(1)** not later than 1 year after October 24, 1992 , prepare or update, as appropriate, a plan (which may be submitted as part of the first report submitted under section 8262i of this title )—
     - **(A)** describing how this section will be implemented;
     - **(B)** designating personnel primarily responsible for achieving the requirements of this section; and

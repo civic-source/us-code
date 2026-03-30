@@ -3,16 +3,17 @@ title: "Section 7261c - Technology partnerships ombudsman"
 usc_title: 42
 usc_section: "7261c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7261c"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-03-30T03:06:22.787Z"
+status: "active"
 ---
 
 # § 7261c. Technology partnerships ombudsman
 
 - **(a)** The Secretary of Energy shall direct the director of each national laboratory of the Department of Energy, and may direct the director of each facility under the jurisdiction of the Department of Energy, to appoint a technology partnership ombudsman to hear and help resolve complaints from outside organizations regarding the policies and actions of each such laboratory or facility with respect to technology partnerships (including cooperative research and development agreements), patents, and technology licensing.
-- **(b)** An ombudsman appointed under subsection (a) shall be a senior official of the national laboratory or facility who is not involved in day-to-day technology partnerships, patents, or technology licensing, or, if appointed from outside the laboratory or facility, function as such a senior official.
-- **(c)** Each ombudsman appointed under subsection (a) shall—
+- **(b)** An ombudsman appointed under subsection (a) of this section shall be a senior official of the national laboratory or facility who is not involved in day-to-day technology partnerships, patents, or technology licensing, or, if appointed from outside the laboratory or facility, function as such a senior official.
+- **(c)** Each ombudsman appointed under subsection (a) of this section shall—
   - **(1)** serve as the focal point for assisting the public and industry in resolving complaints and disputes with the national laboratory or facility regarding technology partnerships, patents, and technology licensing;
   - **(2)** promote the use of collaborative alternative dispute resolution techniques such as mediation to facilitate the speedy and low-cost resolution of complaints and disputes, when appropriate; and
   - **(3)** report quarterly on the number and nature of complaints and disputes raised, along with the ombudsman’s assessment of their resolution, consistent with the protection of confidential and sensitive information, to—

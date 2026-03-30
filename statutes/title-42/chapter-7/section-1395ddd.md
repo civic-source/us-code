@@ -3,14 +3,15 @@ title: "Section 1395ddd - Medicare Integrity Program"
 usc_title: 42
 usc_section: "1395ddd"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1395ddd"
-generated_at: "2026-03-30T02:56:11.026Z"
+generated_at: "2026-03-30T03:06:22.554Z"
+status: "active"
 ---
 
 # § 1395ddd. Medicare Integrity Program
 
-- **(a)** There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b).
+- **(a)** There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
 - **(b)** The activities described in this subsection are as follows:
   - **(1)** Review of activities of providers of services or other individuals and entities furnishing items and services for which payment may be made under this subchapter (including skilled nursing facilities and home health agencies), including medical and utilization review and fraud review (employing similar standards, processes, and technologies used by private health plans, including equipment and software technologies which surpass the capability of the equipment and technologies used in the review of claims under this subchapter as of August 21, 1996 ).
   - **(2)** Audit of cost reports.
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:56:11.026Z"
   - **(4)** Education of providers of services, beneficiaries, and other persons with respect to payment integrity and benefit quality assurance issues.
   - **(5)** Developing (and periodically updating) a list of items of durable medical equipment in accordance with section 1395m(a)(15) of this title which are subject to prior authorization under such section.
   - **(6)** The Medicare-Medicaid Data Match Program in accordance with subsection (g).
-- **(c)** An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) if—
+- **(c)** An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) of this section if—
   - **(1)** the entity has demonstrated capability to carry out such activities;
   - **(2)** in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
   - **(3)** the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement;
@@ -68,7 +69,7 @@ generated_at: "2026-03-30T02:56:11.026Z"
         - **(I)** the opportunity for a statistically valid random sample; or
         - **(II)** a consent settlement.
     - **(D)** For purposes of this paragraph, the term “consent settlement” means an agreement between the Secretary and a provider of services or supplier whereby both parties agree to settle a projected overpayment based on less than a statistically valid sample of claims and the provider of services or supplier agrees not to appeal the claims involved.
-  - **(6)** The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
+  - **(6)** The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI of this chapter insofar as they relate to such programs).
   - **(7)**
     - **(A)** Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractor shall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
     - **(B)** Subject to subparagraph (C), if a medicare contractor audits a provider of services or supplier under this subchapter, the contractor shall—
@@ -80,16 +81,12 @@ generated_at: "2026-03-30T02:56:11.026Z"
   - **(8)** The Secretary shall establish a standard methodology for medicare contractors to use in selecting a sample of claims for review in the case of an abnormal billing pattern.
 - **(g)**
   - **(1)**
-    - **(A)** The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
-      - **(i)** identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
-      - **(ii)** working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to investigate and recover amounts with respect to suspect claims to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter;
-      - **(iii)** increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures; and
-      - **(iv)** furthering the Secretary’s design, development, installation, or enhancement of an automated data system architecture—
-        - **(I)** to collect, integrate, and assess data for purposes of program integrity, program oversight, and administration, including the Medi-Medi Program; and
-        - **(II)** that improves the coordination of requests for data from States.
+    - **(A)** The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+      - **(i)** identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
+      - **(ii)** working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
+      - **(iii)** increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
     - **(B)** The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Director of the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title ). Such information shall be disseminated no less frequently than quarterly.
   - **(2)** The Secretary shall waive only such requirements of this section and of subchapters XI and XIX as are necessary to carry out paragraph (1).
-  - **(3)** The Secretary shall study and, as appropriate, may specify incentives for States to work with the Secretary for the purposes described in paragraph (1)(A)(ii). The application of the previous sentence may include use of the waiver authority described in paragraph (2).
 - **(h)**
   - **(1)** Under the Program, the Secretary shall enter into contracts with recovery audit contractors in accordance with this subsection for the purpose of identifying underpayments and overpayments and recouping overpayments under this subchapter with respect to all services for which payment is made under this subchapter. Under the contracts—
     - **(A)** payment shall be made to such a contractor only from amounts recovered;
@@ -97,7 +94,7 @@ generated_at: "2026-03-30T02:56:11.026Z"
       - **(i)** shall be made on a contingent basis for collecting overpayments; and
       - **(ii)** may be made in such amounts as the Secretary may specify for identifying underpayments; and
     - **(C)** the Secretary shall retain a portion of the amounts recovered which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of activities conducted under the recovery audit program under this subsection.
-  - **(2)** The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) or paragraph (10) shall be applied to reduce expenditures under this subchapter.
+  - **(2)** The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under this subchapter.
   - **(3)** The Secretary shall enter into contracts under paragraph (1) in a manner so as to provide for activities in all States under such a contract by not later than January 1, 2010 (not later than December 31, 2010 , in the case of contracts relating to payments made under part C or D).
   - **(4)** Each such contract shall provide that audit and recovery activities may be conducted during a fiscal year with respect to payments made under this subchapter—
     - **(A)** during such fiscal year; and
@@ -114,20 +111,8 @@ generated_at: "2026-03-30T02:56:11.026Z"
     - **(B)** ensure that each prescription drug plan under part D has an anti-fraud plan in effect and to review the effectiveness of each such anti-fraud plan;
     - **(C)** examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drug plans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
     - **(D)** review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
-  - **(10)**
-    - **(A)** After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395 l (z), 1 1 See References in Text note below. 1395m( l )(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
-    - **(B)** Except for uses that support claims processing (including edits) or system functionality for detecting fraud, amounts retained under subparagraph (A) may not be used for technological-related infrastructure, capital investments, or information systems.
-    - **(C)** Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit contractors under this subsection.
 - **(i)**
   - **(1)** The Secretary shall conduct evaluations of eligible entities which the Secretary contracts with under the Program not less frequently than every 3 years.
   - **(2)** Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
     - **(A)** the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title , to carry out this section; and
     - **(B)** the effectiveness of the use of such funds.
-- **(j)**
-  - **(1)** Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drug abuse, as defined in section 1395w–104(c)(5)(C) of this title .
-  - **(2)** If a PDP sponsor or MA organization refers information to a contractor described in paragraph (1) in order for such contractor to assist in the determination described in such paragraph, the contractor shall—
-    - **(A)** acknowledge to the sponsor or organization receipt of the referral; and
-    - **(B)** in the case that any PDP sponsor or MA organization contacts the contractor requesting to know the determination by the contractor of whether or not an individual has been determined to be an individual described in such paragraph, shall 2 2 So in original. The word “shall” probably should not appear. inform such sponsor or organization of such determination on a date that is not later than 15 days after the date on which the sponsor or organization contacts the contractor.
-  - **(3)**
-    - **(A)** For purposes of carrying out this subsection, subject to subparagraph (B), the Secretary shall authorize MEDICs to respond to requests for information from PDP sponsors and MA organizations, State prescription drug monitoring programs, and other entities delegated by such sponsors or organizations using available programs and systems in the effort to prevent fraud, waste, and abuse.
-    - **(B)** Information may only be disclosed by a MEDIC under subparagraph (A) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d–2 note).

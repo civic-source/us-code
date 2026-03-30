@@ -3,9 +3,10 @@ title: "Section 7904 - Preferences in awarding financial assistance"
 usc_title: 38
 usc_section: "7904"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 7904"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-03-30T03:05:59.235Z"
+status: "active"
 ---
 
 # § 7904. Preferences in awarding financial assistance
@@ -15,5 +16,5 @@ In awarding financial assistance under this chapter, the Secretary shall give a 
   - **(1)** Veterans with service-connected disabilities.
   - **(2)** Veterans.
   - **(3)** Persons described in section 4215(a)(1)(B) of this title .
-  - **(4)** Individuals who received or are pursuing degrees at institutions designated by the National Security Agency as Centers of Academic Excellence in Cyber Education.
+  - **(4)** Individuals who received or are pursuing degrees at institutions designated by the National Security Agency as Centers of Academic Excellence in Information Assurance Education.
   - **(5)** Citizens of the United States.

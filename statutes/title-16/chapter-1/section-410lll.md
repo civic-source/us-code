@@ -3,9 +3,10 @@ title: "Section 410lll - Paterson Great Falls National Historical Park, New Jers
 usc_title: 16
 usc_section: "410lll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 410lll"
-generated_at: "2026-03-30T02:54:22.781Z"
+generated_at: "2026-03-30T03:04:48.436Z"
+status: "active"
 ---
 
 # § 410lll. Paterson Great Falls National Historical Park, New Jersey
@@ -30,24 +31,22 @@ generated_at: "2026-03-30T02:54:22.781Z"
         - **(I)** land owned by the State, City, or other public entity within the Historic District will be managed consistent with this section; and
         - **(II)** future uses of land within the Historic District will be compatible with the designation of the Park.
   - **(2)** The purpose of the Park is to preserve and interpret for the benefit of present and future generations certain historical, cultural, and natural resources associated with the Historic District.
-  - **(3)**
-    - **(A)** The Park shall include the following sites, as generally depicted on the Map:
-      - **(i)** The upper, middle, and lower raceways.
-      - **(ii)** Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
-      - **(iii)** A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
-      - **(iv)** Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
-      - **(v)** The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
-      - **(vi)** The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
-      - **(vii)** The Great Falls Visitor Center.
-    - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155A, and dated August 2015, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
-  - **(4)** The Map and the map referred to in paragraph (3)(B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+  - **(3)** The Park shall include the following sites, as generally depicted on the Map:
+    - **(A)** The upper, middle, and lower raceways.
+    - **(B)** Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
+    - **(C)** A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
+    - **(D)** Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
+    - **(E)** The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
+    - **(F)** The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
+    - **(G)** The Great Falls Visitor Center.
+  - **(4)** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
   - **(5)** Not later than 60 days after the date on which the conditions in clauses (i) and (ii) of paragraph (1)(B) are satisfied, the Secretary shall publish in the Federal Register notice of the establishment of the Park, including an official boundary map for the Park.
 - **(c)**
   - **(1)** The Secretary shall administer the Park in accordance with—
     - **(A)** this section; and
     - **(B)** the laws generally applicable to units of the National Park System, including—
-      - **(i)** the National Park Service Organic Act ( 16 U.S.C. 1 et seq.); 1 1 See References in Text note below. and
-      - **(ii)** the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 1
+      - **(i)** sections 1, 2, 3, and 4 of this title; and
+      - **(ii)** sections 461 to 467 of this title.
   - **(2)** Nothing in this section enlarges, diminishes, or modifies any authority of the State, or any political subdivision of the State (including the City)—
     - **(A)** to exercise civil and criminal jurisdiction; or
     - **(B)** to carry out State laws (including regulations) and rules on non-Federal land located within the boundary of the Park.
@@ -64,13 +63,12 @@ generated_at: "2026-03-30T02:54:22.781Z"
       - **(i)** As a condition of the receipt of funds under this paragraph, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
       - **(ii)** With the approval of the Secretary, the non-Federal share required under clause (i) may be in the form of donated property, goods, or services from a non-Federal source.
   - **(4)**
-    - **(A)** Except as provided in subparagraphs (B) and (C), the Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
+    - **(A)** The Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
     - **(B)** Land or interests in land owned by the State or any political subdivision of the State may only be acquired by donation.
-    - **(C)** The Secretary may not acquire fee title to Hinchliffe Stadium, but may acquire a preservation easement in Hinchliffe Stadium if the Secretary determines that doing so will facilitate resource protection of the stadium.
   - **(5)** The Secretary may provide technical assistance and public interpretation of related historic and cultural resources within the boundary of the Historic District.
 - **(d)**
   - **(1)** Not later than 3 fiscal years after the date on which funds are made available to carry out this subsection, the Secretary, in consultation with the Commission, shall complete a management plan for the Park in accordance with—
-    - **(A)** section 100502 of title 54 ; and
+    - **(A)** section 1a–7(b) of this title ; and
     - **(B)** other applicable laws.
   - **(2)** The management plan shall include provisions that identify costs to be shared by the Federal Government, the State, and the City, and other public or private entities or individuals for necessary capital improvements to, and maintenance and operations of, the Park.
   - **(3)** On completion of the management plan, the Secretary shall submit the management plan to—
@@ -111,7 +109,7 @@ generated_at: "2026-03-30T02:54:22.781Z"
         - **(I)** the State;
         - **(II)** any political subdivision of the State; or
         - **(III)** any entity represented on the Commission.
-  - **(9)** Section 1013(b) of title 5 shall not apply to the Commission.
+  - **(9)** Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
   - **(10)** The Commission shall terminate 10 years after March 30, 2009 .
 - **(f)**
   - **(1)** Not later than 3 fiscal years after the date on which funds are made available to carry out this section, the Secretary shall complete a study regarding the preservation and interpretation of Hinchliffe Stadium, which is listed on the National Register of Historic Places.

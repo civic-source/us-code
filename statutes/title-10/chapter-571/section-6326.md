@@ -1,0 +1,18 @@
+---
+title: "Section 6326 - Enlisted members: 30 years"
+usc_title: 10
+usc_section: "6326"
+chapter: 571
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 6326"
+generated_at: "2026-03-30T03:04:17.318Z"
+status: "active"
+---
+
+# § 6326. Enlisted members: 30 years
+
+- **(a)** Each enlisted member of the Regular Navy or the Regular Marine Corps who applies for retirement after completing 30 or more years of active service in the armed forces shall be retired by the President.
+- **(b)** For the purpose of subsection (a), “enlisted member” includes a member of the Regular Navy or the Regular Marine Corps who holds a permanent enlisted grade and a temporary appointment in a commissioned or warrant officer grade.
+- **(c)** Each person retired under this section—
+  - **(1)** unless otherwise entitled to a higher grade, shall be retired in the grade in which serving at the time of retirement; and
+  - **(2)** unless otherwise entitled to higher pay, is entitled to retired pay computed under section 6333 of this title .

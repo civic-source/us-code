@@ -3,15 +3,16 @@ title: "Section 57 - Items of tax preference"
 usc_title: 26
 usc_section: "57"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 57"
-generated_at: "2026-03-30T02:55:27.614Z"
+generated_at: "2026-03-30T03:05:18.534Z"
+status: "active"
 ---
 
 # § 57. Items of tax preference
 
 - **(a)** For purposes of this part, the items of tax preference determined under this section are—
-  - **(1)** With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+  - **(1)** With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). Effective with respect to taxable years beginning after December 31, 1992 , this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
   - **(2)**
     - **(A)** With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
     - **(B)** For purposes of subparagraph (A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of—
@@ -24,10 +25,8 @@ generated_at: "2026-03-30T02:55:27.614Z"
       - **(i)** all oil and gas properties which are not described in clause (ii), and
       - **(ii)** all properties which are geothermal deposits (as defined in section 613(e)(2)).
     - **(E)** In the case of any oil or gas well—
-      - **(i)** This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
-      - **(ii)** The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
-  - **[(3)**
-  - **[(4)**
+      - **(i)** In the case of any taxable year beginning after December 31, 1992 , this paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
+      - **(ii)** The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
   - **(5)**
     - **(A)** Interest on specified private activity bonds reduced by any deduction (not allowable in computing the regular tax) which would have been allowable if such interest were includible in gross income.
     - **(B)** Under regulations prescribed by the Secretary, any exempt-interest dividend (as defined in section 852(b)(5)(A)) shall be treated as interest on a specified private activity bond to the extent of its proportionate share of the interest on such bonds received by the company paying such dividend.
@@ -48,7 +47,7 @@ generated_at: "2026-03-30T02:55:27.614Z"
         - **(II)** For purposes of subclause (I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
         - **(III)** Subclause (II) shall not apply to any refunding bond which is issued to refund any bond which was issued after December 31, 2003 , and before January 1, 2009 .
   - **(6)** The amounts which would be treated as items of tax preference with respect to the taxpayer under paragraphs (2), (3), (4), and (12) of this subsection (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986). The preceding sentence shall not apply to any property to which section 56(a)(1) or (5) applies.
-  - **(7)** In the case of stock acquired on or before the date of the enactment of the Creating Small Business Jobs Act of 2010, an amount equal to 7 percent of the amount excluded from gross income for the taxable year under section 1202.
+  - **(7)** An amount equal to 7 percent of the amount excluded from gross income for the taxable year under section 1202.
 - **(b)** For purposes of paragraph (2) of subsection (a)—
   - **(1)** The term “straight line recovery of intangibles”, when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph (2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.
   - **(2)** If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).

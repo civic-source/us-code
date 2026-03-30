@@ -3,9 +3,10 @@ title: "Section 3664 - Applicability of title 5"
 usc_title: 22
 usc_section: "3664"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3664"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-03-30T03:04:53.664Z"
+status: "active"
 ---
 
 # § 3664. Applicability of title 5

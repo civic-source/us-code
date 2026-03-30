@@ -3,9 +3,10 @@ title: "Section 2096 - Acquisition of source material; payments"
 usc_title: 42
 usc_section: "2096"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2096"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-03-30T03:06:22.655Z"
+status: "active"
 ---
 
 # § 2096. Acquisition of source material; payments
@@ -14,4 +15,4 @@ The Commission is authorized and directed, to the extent it deems necessary to e
 
 - **(a)** to purchase, take, requisition, condemn, or otherwise acquire supplies of source material;
 - **(b)** to purchase, condemn, or otherwise acquire any interest in real property containing deposits of source material; and
-- **(c)** to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits.
+- **(c)** to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits. Any purchase made under this section may be made without regard to the provisions of section 6101 of title 41 , upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advanced payments may be made under contracts for such purposes. The Commission may establish guaranteed prices for all source material delivered to it within a specified time. Just compensation shall be made for any right, property, or interest in property taken, requisitioned, condemned, or otherwise acquired under this section.

@@ -3,9 +3,10 @@ title: "Section 453 - Installment method"
 usc_title: 26
 usc_section: "453"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 453"
-generated_at: "2026-03-30T02:55:27.701Z"
+generated_at: "2026-03-30T03:05:18.598Z"
+status: "active"
 ---
 
 # § 453. Installment method
@@ -96,7 +97,7 @@ generated_at: "2026-03-30T02:55:27.701Z"
   - **(1)** In the case of any installment sale of property to which subsection (a) applies—
     - **(A)** notwithstanding subsection (a), any recapture income shall be recognized in the year of the disposition, and
     - **(B)** any gain in excess of the recapture income shall be taken into account under the installment method.
-  - **(2)** For purposes of paragraph (1), the term “recapture income” means, with respect to any installment sale, the aggregate amount which would be treated as ordinary income under section 1245 or 1250 (or so much of section 751 as relates to section 1245 or 1250) for the taxable year of the disposition if all payments to be received were received in the taxable year of disposition.
+  - **(2)** For purposes of paragraph (1), the term “recapture income” means, with respect to any installment sale, the aggregate amount which would be treated as ordinary income under (or so much of section 751 as relates to section 1245 or 1250) for the taxable year of the disposition if all payments to be received were received in the taxable year of disposition.
 - **(j)**
   - **(1)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this section.
   - **(2)** The regulations prescribed under paragraph (1) shall include regulations providing for ratable basis recovery in transactions where the gross profit or the total contract price (or both) cannot be readily ascertained.

@@ -3,9 +3,10 @@ title: "Section 124 - Direct shipment of wine"
 usc_title: 27
 usc_section: "124"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "27 U.S.C. § 124"
-generated_at: "2026-03-30T02:55:15.104Z"
+generated_at: "2026-03-30T03:05:06.737Z"
+status: "active"
 ---
 
 # § 124. Direct shipment of wine
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:55:15.104Z"
   - **(3)** the shipping container in which the wine is shipped is marked to require an adult’s signature upon delivery;
   - **(4)** the wine is for personal use only and not for resale; and
   - **(5)** the purchaser could have carried the wine lawfully into the State or the District of Columbia to which the wine is shipped.
-- **(b)** If any person fails to meet any of the conditions under subsection (a), the attorney general of any State may bring a civil action under the same terms as those set out in section 122a of this title .
+- **(b)** If any person fails to meet any of the conditions under subsection (a) of this section, the attorney general of any State may bring a civil action under the same terms as those set out in section 122a of this title .
 - **(c)** Not later than 2 years after November 2, 2002 , and at 2-year intervals thereafter, the Attorney General of the United States, in consultation with the Administrator of the Federal Aviation Administration, shall prepare and submit to the Committee on the Judiciary of the Senate and to the Committee on the Judiciary of the House of Representatives a report on the implementation of this section.

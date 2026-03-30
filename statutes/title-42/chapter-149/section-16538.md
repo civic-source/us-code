@@ -3,9 +3,10 @@ title: "Section 16538 - Advanced Research Projects Agency—Energy"
 usc_title: 42
 usc_section: "16538"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16538"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-03-30T03:06:22.982Z"
+status: "active"
 ---
 
 # § 16538. Advanced Research Projects Agency—Energy
@@ -13,18 +14,16 @@ generated_at: "2026-03-30T02:56:11.489Z"
 - **(a)** In this section:
   - **(1)** The term “ARPA–E” means the Advanced Research Projects Agency—Energy established by subsection (b).
   - **(2)** The term “Director” means the Director of ARPA-E appointed under subsection (d).
-  - **(3)** The term “Fund” means the Energy Transformation Acceleration Fund established under subsection ( o )(1).
-- **(b)** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of transformative science and technology solutions to address the energy and environmental missions of the Department.
+  - **(3)** The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (n)(1).
+- **(b)** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
 - **(c)**
   - **(1)** The goals of ARPA-E shall be—
-    - **(A)** to enhance the economic and energy security of the United States through the development of energy technologies that—
-      - **(i)** reduce imports of energy from foreign sources;
-      - **(ii)** reduce energy-related emissions, including greenhouse gases;
-      - **(iii)** improve the energy efficiency of all economic sectors;
-      - **(iv)** provide transformative solutions to improve the management, clean-up, and disposal of radioactive waste and spent nuclear fuel; and
-      - **(v)** improve the resilience, reliability, and security of infrastructure to produce, deliver, and store energy; and
+    - **(A)** to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+      - **(i)** reductions of imports of energy from foreign sources;
+      - **(ii)** reductions of energy-related emissions, including greenhouse gases; and
+      - **(iii)** improvement in the energy efficiency of all economic sectors; and
     - **(B)** to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
-  - **(2)** ARPA-E shall achieve the goals established under paragraph (1) through advanced technology projects by—
+  - **(2)** ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
     - **(A)** identifying and promoting revolutionary advances in fundamental and applied sciences;
     - **(B)** translating scientific discoveries and cutting-edge inventions into technological innovations; and
     - **(C)** accelerating transformational technological advances in areas that industry by itself is not likely to undertake because of technical and financial uncertainty.
@@ -37,7 +36,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
   - **(1)** approving all new programs within ARPA-E;
   - **(2)** developing funding criteria and assessing the success of programs through the establishment of technical milestones;
   - **(3)** administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
-    - **(A)** novel early-stage research with possible technology applications;
+    - **(A)** novel early-stage energy research with possible technology applications;
     - **(B)** development of techniques, processes, and technologies, and related testing and evaluation;
     - **(C)** research and development of advanced manufacturing process and technologies for the domestic manufacturing of novel energy technologies; and
     - **(D)** coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer;
@@ -69,7 +68,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(A)** The Director shall have the authority to—
       - **(i)** make appointments of scientific, engineering, and professional personnel without regard to the civil service laws;
       - **(ii)** fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
-      - **(iii)** pay any employee appointed under this subparagraph payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subparagraph for any 12-month period shall not exceed the least of the following amounts:
+      - **(iii)** pay any employee appointed under this subpart 1 1 So in original. payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart 1 for any 12-month period shall not exceed the least of the following amounts:
         - **(I)** $25,000.
         - **(II)** The amount equal to 25 percent of the annual rate of basic pay of the employee.
         - **(III)** The amount of the limitation that is applicable for a calendar year under section 5307(a)(1) of title 5 .
@@ -77,15 +76,10 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(C)** The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
     - **(D)** The Director may use all authorities in existence on August 9, 2007 , that are provided to the Secretary to hire administrative, financial, and clerical staff as necessary to carry out this section.
 - **(h)**
-  - **(1)** As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report that—
-    - **(A)** describes projects supported by ARPA–E during the previous fiscal year;
-    - **(B)** describes projects supported by ARPA–E during the previous fiscal year that examine topics and technologies closely related to other activities funded by the Department, and includes an analysis of whether in supporting such projects, the Director is in compliance with subsection (i)(1); and
-    - **(C)** describes current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
-  - **(2)** Not later than October 1, 2021 , and every four years thereafter, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 4 fiscal years.
+  - **(1)** As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+  - **(2)** Not later than October 1, 2010 , and October 1, 2013 , the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
 - **(i)**
-  - **(1)** To the maximum extent practicable, the Director shall ensure that—
-    - **(A)** the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
-    - **(B)** ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
+  - **(1)** To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.
   - **(2)** To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under section 16391 of this title .
 - **(j)** The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
 - **(k)**
@@ -98,33 +92,26 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(A)** the President’s Committee of Advisors on Science and Technology; and
     - **(B)** any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
 - **(l)**
-  - **(1)** Not later than 3 years after December 27, 2020 , the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
-  - **(2)** The evaluation may include—
-    - **(A)** a recommendation on whether ARPA-E should be continued or terminated; and
+  - **(1)** After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+  - **(2)** The evaluation shall include—
+    - **(A)** the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
     - **(B)** a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
   - **(3)** On completion of the evaluation, the evaluation shall be made available to Congress and the public.
 - **(m)** The authorities granted by this section are—
   - **(1)** in addition to existing authorities granted to the Secretary; and
   - **(2)** are not intended to supersede or modify any existing authorities.
-- **(n)** The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under section 552(b)(4) of title 5 :
-  - **(1)** Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
-  - **(2)** Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
-  - **(3)** Additional financial support that the awardee—
-    - **(A)** plans to or has invested into the technology developed under the award; or
-    - **(B)** is seeking from third parties.
-  - **(4)** Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
-- **(o)**
+- **(n)**
   - **(1)** There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
-  - **(2)** Subject to paragraph (4), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
-    - **(A)** $435,000,000 for fiscal year 2021;
-    - **(B)** $500,000,000 for fiscal year 2022;
-    - **(C)** $575,000,000 for fiscal year 2023;
-    - **(D)** $662,000,000 for fiscal year 2024; and
-    - **(E)** $761,000,000 for fiscal year 2025.
+  - **(2)** Subject to paragraphs (4) and (5), 2 2 See References in Text note below. there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+    - **(A)** $300,000,000 for fiscal year 2008;
+    - **(B)** such sums as are necessary for each of fiscal years 2009 and 2010;
+    - **(C)** $300,000,000 for fiscal year 2011;
+    - **(D)** $306,000,000 for fiscal year 2012; and
+    - **(E)** $312,000,000 for fiscal year 2013.
   - **(3)**
     - **(A)** The budget request for ARPA-E shall be separate from the rest of the budget of the Department.
     - **(B)** Appropriations to the Fund shall be separate and distinct from the rest of the budget for the Department.
   - **(4)** Of the amounts appropriated for a fiscal year under paragraph (2)—
     - **(A)** not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
-    - **(B)** at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(C) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
+    - **(B)** at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
     - **(C)** no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007 .

@@ -3,17 +3,18 @@ title: "Section 7616 - Sewage treatment grants"
 usc_title: 42
 usc_section: "7616"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7616"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-03-30T03:06:22.816Z"
+status: "active"
 ---
 
 # § 7616. Sewage treatment grants
 
-- **(a)** No grant which the Administrator is authorized to make to any applicant for construction of sewage treatment works in any area in any State may be withheld, conditioned, or restricted by the Administrator on the basis of any requirement of this chapter except as provided in subsection (b).
-- **(b)** The Administrator may withhold, condition, or restrict the making of any grant for construction referred to in subsection (a) only if he determines that—
+- **(a)** No grant which the Administrator is authorized to make to any applicant for construction of sewage treatment works in any area in any State may be withheld, conditioned, or restricted by the Administrator on the basis of any requirement of this chapter except as provided in subsection (b) of this section.
+- **(b)** The Administrator may withhold, condition, or restrict the making of any grant for construction referred to in subsection (a) of this section only if he determines that—
   - **(1)** such treatment works will not comply with applicable standards under section 7411 or 7412 of this title,
-  - **(2)** the State does not have in effect, or is not carrying out, a State implementation plan approved by the Administrator which expressly quantifies and provides for the increase in emissions of each air pollutant (from stationary and mobile sources in any area to which either part C or part D of subchapter I applies for such pollutant) which increase may reasonably be anticipated to result directly or indirectly from the new sewage treatment capacity which would be created by such construction. 1 1 So in original. The period probably should be a comma.
+  - **(2)** the State does not have in effect, or is not carrying out, a State implementation plan approved by the Administrator which expressly quantifies and provides for the increase in emissions of each air pollutant (from stationary and mobile sources in any area to which either part C or part D of subchapter I of this chapter applies for such pollutant) which increase may reasonably be anticipated to result directly or indirectly from the new sewage treatment capacity which would be created by such construction. 1 1 So in original. The period probably should be a comma.
   - **(3)** the construction of such treatment works would create new sewage treatment capacity which—
     - **(A)** may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase provided for under the provisions referred to in paragraph (2) for any such area, or
     - **(B)** would otherwise not be in conformity with the applicable implementation plan, or

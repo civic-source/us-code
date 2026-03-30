@@ -3,9 +3,10 @@ title: "Section 3441 - Transfers from Department of Health, Education, and Welfa
 usc_title: 20
 usc_section: "3441"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3441"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-03-30T03:04:46.315Z"
+status: "active"
 ---
 
 # § 3441. Transfers from Department of Health, Education, and Welfare
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
   - **(2)** all functions of the Secretary of Health, Education, and Welfare and of the Department of Health, Education, and Welfare under—
     - **(A)** the General Education Provisions Act [ 20 U.S.C. 1221 et seq.];
     - **(B)** the Elementary and Secondary Education Act of 1965;
-    - **(C)** the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.];
+    - **(C)** the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.];
     - **(D)** the Education Amendments of 1978;
     - **(E)** the Act of August 30, 1890 ( 7 U.S.C. 321–328 );
     - **(F)** the National Defense Education Act of 1958;
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
   - **(6)** all functions of the Federal Education Data Acquisition Council.
 - **(b)** There are transferred to the Department—
   - **(1)** all offices in the Office of the Assistant Secretary for Education or in the Education Division of the Department of Health, Education, and Welfare;
-  - **(2)** all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2);
+  - **(2)** all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2) of this section;
   - **(3)** all offices in the Department of Health, Education, and Welfare established under the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.];
   - **(4)** the Advisory Council on Education Statistics;
   - **(5)** the Federal Education Data Acquisition Council; and

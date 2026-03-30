@@ -1,12 +1,19 @@
 ---
-title: "Section 861a - Omitted"
+title: "Section 861a - Organization of tribes"
 usc_title: 25
 usc_section: "861a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 861a"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.855Z"
+status: "active"
 ---
 
-# § 861a. Omitted
+# § 861a. Organization of tribes
 
+- **(a)**
+  - **(1)** The Modoc Indian Tribe of Oklahoma is hereby recognized as a tribe of Indians residing in Oklahoma and the provisions of the Act of June 26, 1936 , as amended ( 49 Stat. 1967 ; 25 U.S.C. 501–509 ), are hereby extended to such tribe and its members. The Secretary of the Interior shall promptly offer the said Modoc Tribe assistance to aid them in organizing under section 3 of said Act of June 26, 1936 ( 25 U.S.C. 503 ).
+  - **(2)** The provisions of the Act of August 13, 1954 ( 68 Stat. 718 ; 25 U.S.C. 564–564w ), here­after shall not apply to the Modoc Tribe of Oklahoma or its members except for any right to share in the proceeds of any claim against the United States as provided in sections 6(c) and 21 of said Act, as amended [ 25 U.S.C. 564e(c) , 564t].
+  - **(3)** The Modoc Indian Tribe of Oklahoma shall consist of those Modoc Indians who are direct lineal descendants of those Modocs removed to Indian territory (now Oklahoma) in November 1873, and who did not return to Klamath, Oregon, pursuant to the Act of March 9, 1909 ( 35 Stat. 751 ), as determined by the Secretary of the Interior, and the descendants of such Indians who otherwise meet the membership requirements adopted by the tribe.
+- **(b)** The Secretary of the Interior shall promptly offer the Ottawa Tribe of Oklahoma and the Peoria Tribe of Oklahoma assistance to aid them in reorganizing under section 3 of the Act of June 26, 1936 ( 49 Stat. 1967 ; 25 U.S.C. 503 ), which Act [ 25 U.S.C. 501 et seq.] is re-extended to them and their members by this subchapter.
+- **(c)** The validity of the organization of the Wyandotte Indian Tribe of Oklahoma under section 3 of the Act of June 26, 1936 ( 49 Stat. 1967 ; 25 U.S.C. 503 ), and the continued application of said Act [ 25 U.S.C. 501 et seq.] to such tribe and its members is hereby confirmed.

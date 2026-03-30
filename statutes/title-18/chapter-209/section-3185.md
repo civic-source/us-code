@@ -3,9 +3,10 @@ title: "Section 3185 - Fugitives from country under control of United States int
 usc_title: 18
 usc_section: "3185"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3185"
-generated_at: "2026-03-30T02:54:16.514Z"
+generated_at: "2026-03-30T03:04:41.120Z"
+status: "active"
 ---
 
 # § 3185. Fugitives from country under control of United States into the United States
@@ -27,4 +28,4 @@ Whenever any foreign country or territory, or any part thereof, is occupied by o
   - **(13)** Arson;
   - **(14)** Piracy by the law of nations;
   - **(15)** Murder, assault with intent to kill, and manslaughter, committed on the high seas, on board a ship owned by or in control of citizens or residents of such foreign country or territory and not under the flag of the United States, or of some other government;
-  - **(16)** Malicious destruction of or attempt to destroy railways, trams, vessels, bridges, dwellings, public edifices, or other buildings, when the act endangers human life.
+  - **(16)** Malicious destruction of or attempt to destroy railways, trams, vessels, bridges, dwellings, public edifices, or other buildings, when the act endangers human life. This chapter, so far as applicable, shall govern proceedings authorized by this section. Such proceedings shall be had before a judge of the courts of the United States only, who shall hold such person on evidence establishing probable cause that he is guilty of the offense charged. No return or surrender shall be made of any person charged with the commission of any offense of a political nature. If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.

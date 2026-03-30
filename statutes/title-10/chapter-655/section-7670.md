@@ -1,0 +1,15 @@
+---
+title: "Section 7670 - Costs and expenses a charge on prize property"
+usc_title: 10
+usc_section: "7670"
+chapter: 655
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 7670"
+generated_at: "2026-03-30T03:04:17.325Z"
+status: "active"
+---
+
+# § 7670. Costs and expenses a charge on prize property
+
+- **(a)** Costs and expenses allowed by the court incident to the bringing in, custody, preservation, insurance, and sale or other disposal of prize property are a charge upon the property and shall be paid from the proceeds thereof, unless the court decrees restitution free from such a charge.
+- **(b)** Charges for work and labor, materials furnished, or money paid must be supported by affidavit or vouchers.

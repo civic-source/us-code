@@ -3,9 +3,10 @@ title: "Section 53102 - Establishment of Maritime Security Fleet"
 usc_title: 46
 usc_section: "53102"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 53102"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-03-30T03:06:27.187Z"
+status: "active"
 ---
 
 # § 53102. Establishment of Maritime Security Fleet
@@ -63,4 +64,3 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(1)** is in the national interest;
   - **(2)** is appropriate to allow the maintenance of the economic viability of the vessel and any associated operating network; and
   - **(3)** is necessary due to the lack of availability of other vessels and operators that comply with the requirements of this chapter.
-- **(g)** The Secretary of Defense, in conjunction with the Secretary of Transportation, may, for a particular participating fleet vessel, treat the ages specified in section 53101(5)(A)(ii) and section 53106(c)(3) as increased by up to 5 years if the Secretaries jointly determine that it is in the national interest to do so.

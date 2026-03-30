@@ -3,9 +3,10 @@ title: "Section 351 - Ship radio stations and operations"
 usc_title: 47
 usc_section: "351"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 351"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-03-30T03:06:26.192Z"
+status: "active"
 ---
 
 # § 351. Ship radio stations and operations

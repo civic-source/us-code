@@ -3,9 +3,10 @@ title: "Section 1904 - Certificates"
 usc_title: 33
 usc_section: "1904"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1904"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-03-30T03:05:36.290Z"
+status: "active"
 ---
 
 # § 1904. Certificates
@@ -19,6 +20,8 @@ generated_at: "2026-03-30T02:55:41.110Z"
 - **(e)** In addition to the penalties prescribed in section 1908 of this title , a ship required by the MARPOL Protocol to have a certificate—
   - **(1)** which does not have a valid certificate onboard; or
   - **(2)** whose condition or whose equipment’s condition does not substantially agree with the particulars of the certificate onboard;
-- **(f)** If a ship is under a detention order under this section, the Secretary may refuse or revoke the clearance required by section 60105 of title 46 .
+- **(f)** If a ship is under a detention order under this section, the Secretary of the Treasury, upon the request of the Secretary, may refuse or revoke—
+  - **(1)** the clearance required by section 60105 of title 46 ; or
+  - **(2)** a permit to proceed under section 4367 of the Revised Statutes of the United States ( 46 U.S.C. 313 ) 1 1 See References in Text note below. or section 1443 2 2 See Codification note below. of title 19.
 - **(g)** A person whose ship is subject to a detention order under this section may petition the Secretary, in the manner prescribed by regulation, to review the detention order. Upon receipt of a petition under this subsection, the Secretary shall affirm, modify, or withdraw the detention order within the time prescribed by regulation.
 - **(h)** A ship unreasonably detained or delayed by the Secretary acting under the authority of this chapter is entitled to compensation for any loss or damage suffered thereby.

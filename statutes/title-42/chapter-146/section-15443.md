@@ -1,12 +1,15 @@
 ---
-title: "Section 15443 - Transferred"
+title: "Section 15443 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15443"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15443"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-03-30T03:06:22.961Z"
+status: "active"
 ---
 
-# § 15443. Transferred
+# § 15443. Authorization of appropriations
 
+- **(a)** There are authorized to be appropriated for grants under this subpart $20,000,000 for fiscal year 2003.
+- **(b)** Amounts appropriated pursuant to the authorization under this section shall remain available, without fiscal year limitation, until expended.

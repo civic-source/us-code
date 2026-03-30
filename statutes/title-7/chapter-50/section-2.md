@@ -1,17 +1,73 @@
 ---
-title: "Section 2 - Establishment"
+title: "Section 2 - Establishment and administration of Rural Collaborative Investment Program"
 usc_title: 7
 usc_section: "2"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.360Z"
+generated_at: "2026-03-30T03:04:20.955Z"
+status: "active"
 ---
 
-# § 2009cc–2. Establishment
+# § 2009dd–2. Establishment and administration of Rural Collaborative Investment Program
 
-In accordance with this subchapter, the Secretary shall establish a Rural Business Investment Program, under which the Secretary may—
-
-  - **(1)** enter into participation agreements with companies granted final approval under section 2009cc–3(e) of this title for the purposes set forth in section 2009cc–1 of this title ;
-  - **(2)** guarantee the debentures issued by rural business investment companies as provided in section 2009cc–4 of this title ; and
-  - **(3)** make grants to rural business investment companies, and to other entities, under section 2009cc–7 of this title .
+- **(a)** The Secretary shall establish a Rural Collaborative Investment Program to support comprehensive regional investment strategies for achieving rural competitiveness.
+- **(b)** In carrying out this subchapter, the Secretary shall—
+  - **(1)** appoint and provide administrative and program support to the National Board;
+  - **(2)** establish a national institute, to be known as the “National Institute on Regional Rural Competitiveness and Entrepreneurship”, to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
+    - **(A)** the development of rigorous analytic programs to assist Regional Boards in determining the challenges and opportunities that need to be addressed to receive the greatest regional competitive advantage;
+    - **(B)** the provision of support for best practices developed by the Regional Boards;
+    - **(C)** the establishment of programs to support the development of appropriate governance and leadership skills in the applicable regions; and
+    - **(D)** the evaluation of the progress and performance of the Regional Boards in achieving benchmarks established in a regional investment strategy;
+  - **(3)** work with the National Board to develop a national rural investment plan that shall—
+    - **(A)** create a framework to encourage and support a more collaborative and targeted rural investment portfolio in the United States;
+    - **(B)** establish a Rural Philanthropic Initiative, to work with rural communities to create and enhance the pool of permanent philanthropic resources committed to rural community and economic development;
+    - **(C)** cooperate with the Regional Boards and State and local governments, organizations, and entities to ensure investment strategies are developed that take into consideration existing rural assets; and
+    - **(D)** encourage the organization of Regional Boards;
+  - **(4)** certify the eligibility of Regional Boards to receive regional investment strategy grants and regional innovation grants;
+  - **(5)** provide grants for Regional Boards to develop and implement regional investment strategies;
+  - **(6)** provide technical assistance to Regional Boards on issues, best practices, and emerging trends relating to rural development, in cooperation with the National Rural Investment Board; and
+  - **(7)** provide analytic and programmatic support for regional rural competitiveness through the National Institute, including—
+    - **(A)** programs to assist Regional Boards in determining the challenges and opportunities that must be addressed to receive the greatest regional competitive advantage;
+    - **(B)** support for best practices development by the regional investment boards;
+    - **(C)** programs to support the development of appropriate governance and leadership skills in the region; and
+    - **(D)** a review and evaluation of the performance of the Regional Boards (including progress in achieving benchmarks established in a regional investment strategy) in an annual report submitted to—
+      - **(i)** the Committee on Agriculture of the House of Representatives; and
+      - **(ii)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+- **(c)** The Secretary shall establish within the Department of Agriculture a board to be known as the “National Rural Investment Board”.
+- **(d)** The National Board shall—
+  - **(1)** not later than 180 days after the date of establishment of the National Board, develop rules relating to the operation of the National Board; and
+  - **(2)** provide advice to—
+    - **(A)** the Secretary and subsequently review the design, development, and execution of the National Rural Investment Plan;
+    - **(B)** Regional Boards on issues, best practices, and emerging trends relating to rural development; and
+    - **(C)** the Secretary and the National Institute on the development and execution of the program under this subchapter.
+- **(e)**
+  - **(1)** The National Board shall consist of 14 members appointed by the Secretary not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008.
+  - **(2)** The National Board shall be subject to the general supervision and direction of the Secretary.
+  - **(3)** The National Board shall consist of representatives from each of—
+    - **(A)** nationally recognized entrepreneurship organizations;
+    - **(B)** regional strategy and development organizations;
+    - **(C)** community-based organizations;
+    - **(D)** elected members of local governments;
+    - **(E)** members of State legislatures;
+    - **(F)** primary, secondary, and higher education, job skills training, and workforce development institutions;
+    - **(G)** the rural philanthropic community;
+    - **(H)** financial, lending, venture capital, entrepreneurship, and other related institutions;
+    - **(I)** private sector business organizations, including chambers of commerce and other for-profit business interests;
+    - **(J)** Indian tribes; and
+    - **(K)** cooperative organizations.
+  - **(4)**
+    - **(A)** In selecting members of the National Board, the Secretary shall consider recommendations made by—
+      - **(i)** the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+      - **(ii)** the Majority Leader and Minority Leader of the Senate; and
+      - **(iii)** the Speaker and Minority Leader of the House of Representatives.
+    - **(B)** In consultation with the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
+  - **(5)**
+    - **(A)** Subject to subparagraph (B), the term of office of a member of the National Board appointed under paragraph (1)(A) 1 1 So in original. Probably should be “paragraph (1)”. shall be for a period of not more than 4 years.
+    - **(B)** The members of the National Board shall be appointed to serve staggered terms.
+  - **(6)** Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall appoint the initial members of the National Board.
+  - **(7)** A vacancy on the National Board shall be filled in the same manner as the original appointment.
+  - **(8)** A member of the National Board shall receive no compensation for service on the National Board, but shall be reimbursed for related travel and other expenses incurred in carrying out the duties of the member of the National Board in accordance with section 5702 and 5703 of title 5.
+  - **(9)** The National Board shall select a chairperson from among the members of the National Board.
+  - **(10)** For purposes of Federal law, a member of the National Board shall be considered a special Government employee (as defined in section 202(a) of title 18 ).
+- **(f)** The Secretary, on a reimbursable basis from funds made available under section 2009dd–7 of this title , may provide such administrative support to the National Board as the Secretary determines is necessary.

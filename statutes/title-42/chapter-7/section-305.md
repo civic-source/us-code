@@ -3,9 +3,10 @@ title: "Section 305 - Omitted"
 usc_title: 42
 usc_section: "305"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 305"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-03-30T03:06:22.428Z"
+status: "omitted"
 ---
 
 # § 305. Omitted

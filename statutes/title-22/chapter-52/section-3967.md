@@ -3,12 +3,13 @@ title: "Section 3967 - Salaries for Foreign Service personnel abroad who perform
 usc_title: 22
 usc_section: "3967"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3967"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-03-30T03:04:53.669Z"
+status: "active"
 ---
 
 # § 3967. Salaries for Foreign Service personnel abroad who perform routine duties
 
-- **(a)** The Secretary may establish salary rates at rates lower than those established for the Foreign Service Schedule for the Foreign Service personnel described in subsection (b). The rates established under this subsection may be no less than the then applicable minimum wage rate specified in section 206(a)(1) of title 29 .
-- **(b)** The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a).
+- **(a)** The Secretary may establish salary rates at rates lower than those established for the Foreign Service Schedule for the Foreign Service personnel described in subsection (b) of this section. The rates established under this subsection may be no less than the then applicable minimum wage rate specified in section 206(a)(1) of title 29 .
+- **(b)** The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a) of this section.

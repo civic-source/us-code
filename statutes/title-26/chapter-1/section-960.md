@@ -1,24 +1,21 @@
 ---
-title: "Section 960 - Deemed paid credit for subpart F inclusions"
+title: "Section 960 - Special rules for foreign tax credit"
 usc_title: 26
 usc_section: "960"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 960"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-03-30T03:05:18.639Z"
+status: "active"
 ---
 
-# § 960. Deemed paid credit for subpart F inclusions
+# § 960. Special rules for foreign tax credit
 
-- **(a)** For purposes of subpart A of this part, if there is included in the gross income of a domestic corporation any item of income under section 951(a)(1) with respect to any controlled foreign corporation with respect to which such domestic corporation is a United States shareholder, such domestic corporation shall be deemed to have paid so much of such foreign corporation’s foreign income taxes as are properly attributable to such item of income.
-- **(b)** For purposes of subpart A of this part—
-  - **(1)** If any portion of a distribution from a controlled foreign corporation to a domestic corporation which is a United States shareholder with respect to such controlled foreign corporation is excluded from gross income under section 959(a), such domestic corporation shall be deemed to have paid so much of such foreign corporation’s foreign income taxes as—
-    - **(A)** are properly attributable to such portion, and
-    - **(B)** have not been deemed to have to 1 1 So in original. been paid by such domestic corporation under this section for the taxable year or any prior taxable year.
-  - **(2)** If section 959(b) applies to any portion of a distribution from a controlled foreign corporation to another controlled foreign corporation, such controlled foreign corporation shall be deemed to have paid so much of such other controlled foreign corporation’s foreign income taxes as—
-    - **(A)** are properly attributable to such portion, and
-    - **(B)** have not been deemed to have been paid by a domestic corporation under this section for the taxable year or any prior taxable year.
-- **(c)**
+- **(a)**
+  - **(1)** For purposes of subpart A of this part, if there is included under section 951(a) in the gross income of a domestic corporation any amount attributable to earnings and profits of a foreign corporation which is a member of a qualified group (as defined in section 902(b)) with respect to the domestic corporation, then, except to the extent provided in regulations, section 902 shall be applied as if the amount so included were a dividend paid by such foreign corporation (determined by applying section 902(c) in accordance with section 904(d)(3)(B)).
+  - **(2)** If a domestic corporation receives a distribution from a foreign corporation, any portion of which is excluded from gross income under section 959, the income, war profits, and excess profits taxes paid or deemed paid by such foreign corporation to any foreign country or to any possession of the United States in connection with the earnings and profits of such foreign corporation from which such distribution is made shall not be taken into account for purposes of section 902, to the extent such taxes were deemed paid by a domestic corporation under paragraph (1) for any prior taxable year.
+  - **(3)** Any portion of a distribution from a foreign corporation received by a domestic corporation which is excluded from gross income under section 959(a) shall be treated by the domestic corporation as a dividend, solely for purposes of taking into account under section 902 any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States, on or with respect to the accumulated profits of such foreign corporation from which such distribution is made, which were not deemed paid by the domestic corporation under paragraph (1) for any prior taxable year.
+- **(b)**
   - **(1)** In the case of any taxpayer who—
     - **(A)** either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993 , in which he was required under section 951(a) to include any amount in his gross income, or (ii) did not pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
     - **(B)** chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions or amounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
@@ -29,19 +26,11 @@ generated_at: "2026-03-30T02:55:27.750Z"
       - **(i)** the amount by which the limitation under section 904(a) for such taxable year was increased by reason of the total amount of the inclusions in gross income under section 951(a) for such taxable year, over
       - **(ii)** the amount of any income, war profits, and excess profits taxes paid, or deemed paid, or accrued to any foreign country or possession of the United States which were allowable as a credit under section 901 for such taxable year and which would not have been allowable but for the inclusions in gross income described in clause (i).
     - **(C)** For each taxable year beginning after September 30, 1993 , for which the limitation under section 904 was increased under paragraph (1), the taxpayer shall reduce the amount in the excess limitation account by the amount of such increase.
-  - **(3)** If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993 , which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income under section 951(a) for a taxable year beginning before October 1, 1993 , the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation 2 2 So in original. Probably should be “Reconciliation”. Act of 1993.
+  - **(3)** If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993 , which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income under section 951(a) for a taxable year beginning before October 1, 1993 , the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation 1 1 So in original. Probably should be “Reconciliation”. Act of 1993.
   - **(4)** In the case of any taxpayer who—
     - **(A)** chose to have the benefits of subpart A of this part for a taxable year in which he was required under section 951(a) to include in his gross income an amount in respect of a controlled foreign corporation, and
     - **(B)** does not choose to have the benefits of subpart A of this part for the taxable year in which he receives a distribution or amount which is excluded from gross income under section 959(a) and which is attributable to earnings and profits of the controlled foreign corporation which was included in his gross income for the taxable year referred to in subparagraph (A),
   - **(5)** If an increase in the limitation under this subsection exceeds the tax imposed by this chapter for such year, the amount of such excess shall be deemed an overpayment of tax for such year.
-- **(d)**
-  - **(1)** For purposes of subpart A of this part, if any amount is includible in the gross income of a domestic corporation under section 951A, such domestic corporation shall be deemed to have paid foreign income taxes equal to 90 percent of the product of—
-    - **(A)** such domestic corporation’s inclusion percentage, multiplied by
-    - **(B)** the aggregate tested foreign income taxes paid or accrued by controlled foreign corporations.
-  - **(2)** For purposes of paragraph (1), the term “inclusion percentage” means, with respect to any domestic corporation, the ratio (expressed as a percentage) of—
-    - **(A)** such corporation’s net CFC tested income (as defined in section 951A(b)), divided by
-    - **(B)** the aggregate amount described in section 951A(b)(1)(A) with respect to such corporation.
-  - **(3)** For purposes of paragraph (1), the term “tested foreign income taxes” means, with respect to any domestic corporation which is a United States shareholder of a controlled foreign corporation, the foreign income taxes paid or accrued by such foreign corporation which are properly attributable to the tested income of such foreign corporation taken into account by such domestic corporation under section 951A.
-  - **(4)** No credit shall be allowed under section 901 for 10 percent of any foreign income taxes paid or accrued (or deemed paid under subsection (b)(1)) with respect to any amount excluded from gross income under section 959(a) by reason of an inclusion in gross income under section 951A(a).
-- **(e)** The term “foreign income taxes” means any income, war profits, or excess profits taxes paid or accrued to any foreign country or possession of the United States.
-- **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.
+- **(c)**
+  - **(1)** If there is included under section 951(a)(1)(B) in the gross income of a domestic corporation any amount attributable to the earnings and profits of a foreign corporation which is a member of a qualified group (as defined in section 902(b)) with respect to the domestic corporation, the amount of any foreign income taxes deemed to have been paid during the taxable year by such domestic corporation under section 902 by reason of subsection (a) with respect to such inclusion in gross income shall not exceed the amount of the foreign income taxes which would have been deemed to have been paid during the taxable year by such domestic corporation if cash in an amount equal to the amount of such inclusion in gross income were distributed as a series of distributions (determined without regard to any foreign taxes which would be imposed on an actual distribution) through the chain of ownership which begins with such foreign corporation and ends with such domestic corporation.
+  - **(2)** The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance which prevent the inappropriate use of the foreign corporation’s foreign income taxes not deemed paid by reason of paragraph (1).

@@ -3,9 +3,10 @@ title: "Section 3056 - Powers, authorities, and duties of United States Secret S
 usc_title: 18
 usc_section: "3056"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3056"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-03-30T03:04:41.116Z"
+status: "active"
 ---
 
 # § 3056. Powers, authorities, and duties of United States Secret Service
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:16.510Z"
   - **(4)** Children of a former President who are under 16 years of age.
   - **(5)** Visiting heads of foreign states or foreign governments.
   - **(6)** Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
-  - **(7)** Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to chapter 10 of title 5.
+  - **(7)** Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
   - **(8)** Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 - **(b)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized to detect and arrest any person who violates—
   - **(1)** section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216, 1 1 See References in Text note below. 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
@@ -38,5 +39,5 @@ generated_at: "2026-03-30T02:54:16.510Z"
   - **(2)** At the end of each fiscal year, the President through such agency or office as the President may designate, shall report to the Congress—
     - **(A)** what events, if any, were designated special events of national significance for security purposes under paragraph (1); and
     - **(B)** the criteria and information used in making each designation.
-- **(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency in conjunction with an investigation, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance.
+- **(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance in support of any investigation involving missing or exploited children.
 - **(g)** The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.

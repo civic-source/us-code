@@ -3,9 +3,10 @@ title: "Section 6363 - Federal actions with respect to recycled oil"
 usc_title: 42
 usc_section: "6363"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6363"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-03-30T03:06:22.763Z"
+status: "active"
 ---
 
 # § 6363. Federal actions with respect to recycled oil
@@ -26,14 +27,14 @@ generated_at: "2026-03-30T02:56:11.257Z"
 - **(c)** As soon as practicable after December 22, 1975 , the National Institute of Standards and Technology shall develop test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, with new oil for a particular end use. As soon as practicable after development of such test procedures, the National Institute of Standards and Technology shall report such procedures to the Commission.
 - **(d)**
   - **(1)**
-    - **(A)** Within 90 days after the date on which the Commission receives the report under subsection (c), the Commission shall, by rule, prescribe—
+    - **(A)** Within 90 days after the date on which the Commission receives the report under subsection (c) of this section, the Commission shall, by rule, prescribe—
       - **(i)** test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, with new oil distributed for a particular end use; and
       - **(ii)** labeling standards applicable to containers of recycled oil in order to carry out the purposes of this section.
     - **(B)** Such labeling standards shall permit any container of recycled oil to bear a label indicating any particular end use for which a determination of substantial equivalency has been made pursuant to subparagraph (A)(i).
   - **(2)** Not later than the expiration of such 90-day period, the Administrator of the Environmental Protection Agency shall, by rule, prescribe labeling standards applicable to containers of new oil, used oil, and recycled oil relating to the proper disposal of such oils after use. Such standards shall be designed to reduce, to the maximum extent practicable, environmental hazards and wasteful practices associated with the disposal of such oils after use.
-- **(e)** Beginning on the effective date of the standards prescribed pursuant to subsection (d)(1)(A)—
-  - **(1)** no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A), and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, which container bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A), to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii); and
+- **(e)** Beginning on the effective date of the standards prescribed pursuant to subsection (d)(1)(A) of this section—
+  - **(1)** no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A) of this section, and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, which container bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A) of this section, to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii) of this section; and
   - **(2)** no rule or order of the Commission may require any container of recycled oil to also bear a label containing any term, phrase, or description which connotes less than substantial equivalency of such recycled oil with new oil.
-- **(f)** After the effective date of the rules required to be prescribed under subsection (d)(1)(A), all Federal officials shall act within their authority to carry out the purposes of this section, including—
+- **(f)** After the effective date of the rules required to be prescribed under subsection (d)(1)(A) of this section, all Federal officials shall act within their authority to carry out the purposes of this section, including—
   - **(1)** revising procurement policies to encourage procurement of recycled oil for military and nonmilitary Federal uses whenever such recycled oil is available at prices competitive with new oil procured for the same end use; and
   - **(2)** educating persons employed by Federal and State governments and private sectors of the economy of the merits of recycled oil, the need for its use in order to reduce the drain on the Nation’s oil reserves, and proper disposal of used oil to avoid waste of such oil and to minimize environmental hazards associated with improper disposal.

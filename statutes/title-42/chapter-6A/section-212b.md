@@ -3,9 +3,10 @@ title: "Section 212b - Repealed. Apr. 27, 1956, ch. 211, § 5(d) , 70 Stat. 117"
 usc_title: 42
 usc_section: "212b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 212b"
-generated_at: "2026-03-30T02:56:10.685Z"
+generated_at: "2026-03-30T03:06:22.299Z"
+status: "repealed"
 ---
 
 # § 212b. Repealed. Apr. 27, 1956, ch. 211, § 5(d) , 70 Stat. 117

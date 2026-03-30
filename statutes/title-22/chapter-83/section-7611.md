@@ -3,9 +3,10 @@ title: "Section 7611 - Development of a comprehensive, five-year, global strateg
 usc_title: 22
 usc_section: "7611"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7611"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-03-30T03:04:53.709Z"
+status: "active"
 ---
 
 # § 7611. Development of a comprehensive, five-year, global strategy
@@ -182,34 +183,26 @@ generated_at: "2026-03-30T02:55:05.442Z"
     - **(B)** The Global AIDS Coordinator shall develop guidance to ensure timely submission and dissemination of significant information regarding best practices with respect to global AIDS programs.
 - **(f)**
   - **(1)**
-    - **(A)** The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through March 25 of fiscal year 2025, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+    - **(A)** The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop 5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
     - **(B)** The plans developed under subparagraph (A) shall include a schedule for financial audits, inspections, and performance reviews, as appropriate.
     - **(C)**
       - **(i)** The first plan developed under subparagraph (A) shall be completed not later than the later of—
         - **(I)** September 1, 2008 ; or
         - **(II)** 60 days after July 30, 2008 .
-      - **(ii)** Each of the plans for fiscal years 2010 through 2013 developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
-      - **(iii)** The plan developed under subparagraph (A) for fiscal year 2014 shall be completed not later than 60 days after December 2, 2013 .
-      - **(iv)** Each of the last eleven plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2025, respectively.
+      - **(ii)** Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
   - **(2)** In order to avoid duplication and maximize efficiency, the Inspectors General described in paragraph (1) shall coordinate their activities with—
     - **(A)** the Government Accountability Office; and
     - **(B)** the Inspectors General of the Department of Commerce, the Department of Defense, the Department of Labor, and the Peace Corps, as appropriate, pursuant to the 2004 Memorandum of Agreement Coordinating Audit Coverage of Programs and Activities Implementing the President’s Emergency Plan for AIDS Relief, or any successor agreement.
   - **(3)** The Global AIDS Coordinator and the Coordinator of the United States Government Activities to Combat Malaria Globally shall make available necessary funds not exceeding $15,000,000 during the 5-year period beginning on October 1, 2008 to the Inspectors General described in paragraph (1) for the audits, inspections, and reviews described in that paragraph.
 - **(g)**
-  - **(1)** Not later than September 30, 2009 , and annually thereafter through March 25, 2025 , the Global AIDS Coordinator shall complete a study of treatment providers that—
+  - **(1)** Not later than September 30, 2009 , and annually thereafter through September 30, 2013 , the Global AIDS Coordinator shall complete a study of treatment providers that—
     - **(A)** represents a range of countries and service environments;
     - **(B)** estimates the per-patient cost of antiretroviral HIV/AIDS treatment and the care of people with HIV/AIDS not receiving antiretroviral treatment, including a comparison of the costs for equivalent services provided by programs not receiving assistance under this chapter;
     - **(C)** estimates per-patient costs across the program and in specific categories of service providers, including—
       - **(i)** urban and rural providers;
       - **(ii)** country-specific providers; and
       - **(iii)** other subcategories, as appropriate.
-  - **(2)** The studies required to be submitted by September 30, 2014 , and annually thereafter through March 25, 2025 , shall include, in addition to the elements set forth under paragraph (1), the following elements:
-    - **(A)** A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
-    - **(B)** A comprehensive and harmonized expenditure analysis by partner country, including—
-      - **(i)** an analysis of Global Fund and national partner spending and comparable data across United States, Global Fund, and national partner spending; or
-      - **(ii)** where providing such comparable data is not currently practicable, an explanation of why it is not currently practicable, and when it will be practicable.
-  - **(3)** Not later than 90 days after the completion of each study under paragraph (1), the Global AIDS Coordinator shall make the results of such study available on a publicly accessible Web site.
-  - **(4)** In this subsection, the term “partner country” means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
+  - **(2)** Not later than 90 days after the completion of each study under paragraph (1), the Global AIDS Coordinator shall make the results of such study available on a publicly accessible Web site.
 - **(h)** The Global AIDS Coordinator shall develop a message, to be prominently displayed by each program receiving funds under this chapter, that—
   - **(1)** demonstrates that the program is a commitment by citizens of the United States to the global fight against HIV/AIDS, tuberculosis, and malaria; and
   - **(2)** enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.

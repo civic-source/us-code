@@ -3,9 +3,10 @@ title: "Section 860G - Other definitions and special rules"
 usc_title: 26
 usc_section: "860G"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 860G"
-generated_at: "2026-03-30T02:55:27.738Z"
+generated_at: "2026-03-30T03:05:18.628Z"
+status: "active"
 ---
 
 # § 860G. Other definitions and special rules
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:55:27.738Z"
       - **(iii)** represents an increase in the principal amount under the original terms of an obligation described in clause (i) or (ii) if such increase—
         - **(I)** is attributable to an advance made to the obligor pursuant to the original terms of a reverse mortgage loan or other obligation,
         - **(II)** occurs after the startup day, and
-        - **(III)** is purchased by the REMIC pursuant to a fixed price contract in effect on the startup day,
+        - **(III)** is purchased by the REMIC pursuant to a fixed price contract in effect on the startup day. 1 1 So in original. The period probably should be a comma.
     - **(B)** any qualified replacement mortgage, and
     - **(C)** any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
   - **(4)** The term “qualified replacement mortgage” means any obligation—

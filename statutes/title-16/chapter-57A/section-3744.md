@@ -3,9 +3,10 @@ title: "Section 3744 - Wildlife partnership program"
 usc_title: 16
 usc_section: "3744"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3744"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-03-30T03:04:48.608Z"
+status: "active"
 ---
 
 # § 3744. Wildlife partnership program
@@ -31,8 +32,8 @@ generated_at: "2026-03-30T02:54:23.020Z"
   - **(3)** may not exceed 40 percent of the total project cost for that fiscal year if designated State agencies from two or more States cooperate in implementing such a project; and
   - **(4)** may not be used to defray the administrative cost of State programs.
 - **(e)**
-  - **(1)** Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a), at least ⅓ shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
-  - **(2)** Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a), at least ⅓ shall be paid with amounts from voluntary contributions by private entities or persons, except that if designated State agencies from 2 or more States cooperate in implementing such a project, at least 30 percent shall be paid from such sources. Subject to the approval of the Secretary, such contributions for a project may be in the form of, but are not required to be limited to, private cash donations, and the contribution of materials, equipment, or services necessary for the project.
+  - **(1)** Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a) of this section, at least ⅓ shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
+  - **(2)** Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a) of this section, at least ⅓ shall be paid with amounts from voluntary contributions by private entities or persons, except that if designated State agencies from 2 or more States cooperate in implementing such a project, at least 30 percent shall be paid from such sources. Subject to the approval of the Secretary, such contributions for a project may be in the form of, but are not required to be limited to, private cash donations, and the contribution of materials, equipment, or services necessary for the project.
 - **(f)** No designated State agency shall be eligible to receive matching funds from the Wildlife Conservation and Appreciation Fund if revenue derived from activities regulated by such an agency is diverted for any purpose other than the management and conservation of fish and wildlife. Such revenue shall include, but not be limited to, all income from the sale of hunting, fishing and trapping licenses; all income from nongame checkoff systems; all income from the sale of waterfowl, habitat conservation, and other stamps that are requisite for engaging in certain activities regulated by the designated State agency; all income from the sale of any commodities and products by the designated State agency from lands and waters administered by the State for fish and wildlife purposes; and all funds apportioned to the designated State agency under the Federal Aid in Wildlife and Sport Fish Restoration Programs.
 - **(g)**
   - **(1)** The Secretary shall establish the Fund, which shall consist of amounts deposited into the Fund by the Secretary under paragraph (2) of this subsection.

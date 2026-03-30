@@ -3,9 +3,10 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T02:55:27.683Z"
+generated_at: "2026-03-30T03:05:18.584Z"
+status: "active"
 ---
 
 # § 411. Minimum vesting standards
@@ -16,11 +17,11 @@ generated_at: "2026-03-30T02:55:27.683Z"
     - **(A)**
       - **(i)** In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
     - **(B)**
       - **(i)** In the case of a defined contribution plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: The nonforfeitable Years of service: percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
   - **(3)** For purposes of this subsection—
     - **(A)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 401(a)(11)).
     - **(B)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
@@ -35,13 +36,13 @@ generated_at: "2026-03-30T02:55:27.683Z"
       - **(v)** For nonforfeitability where the employee has a nonforfeitable right to at least 50 percent of his accrued benefit, see section 401(a)(19).
     - **(E)** A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multi­employer plan.
     - **(F)** A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
-      - **(i)** the plan is amended to reduce benefits under section 4281 of the Employee Retirement Income Security Act of 1974, or
+      - **(i)** the plan is amended to reduce benefits under section 418D or under section 4281 of the Employee Retirement Income Security Act of 1974, or
       - **(ii)** benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
     - **(G)** A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), a permissible withdrawal under section 414(w), or an excess aggregate contribution under section 401(m)(6)(B).
   - **(4)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
-    - **(A)** years of service before age 18;
+    - **(A)** years of service before age 18, 1 1 So in original. The comma probably should be a semicolon.
     - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
-    - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary);
+    - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary;
     - **(D)** service not required to be taken into account under paragraph (6);
     - **(E)** years of service before January 1, 1971 , unless the employee has had at least 3 years of service after December 31, 1970 ;
     - **(F)** years of service before the first plan year to which this section applies, if such service would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and
@@ -107,11 +108,10 @@ generated_at: "2026-03-30T02:55:27.683Z"
     - **(A)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
     - **(B)** A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of paragraph (2) unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after the adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
   - **(11)**
-    - **(A)** If the present value of any nonforfeitable accrued benefit exceeds $7,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
+    - **(A)** If the present value of any nonforfeitable accrued benefit exceeds $5,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
     - **(B)** For purposes of subparagraph (A), the present value shall be calculated in accordance with section 417(e)(3).
     - **(C)** This paragraph shall not apply to any distribution of dividends to which section 404(k) applies.
     - **(D)** A plan shall not fail to meet the requirements of this paragraph if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
-  - **[(12)**
   - **(13)**
     - **(A)** An applicable defined benefit plan shall not be treated as failing to meet—
       - **(i)** subject to subparagraph (B), the requirements of subsection (a)(2), or
@@ -177,7 +177,7 @@ generated_at: "2026-03-30T02:55:27.683Z"
       - **(iii)** Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of—
         - **(I)** the participant’s accrued benefit for years of service before the effective date of the amendment, determined under the terms of the plan as in effect before the amendment, plus
         - **(II)** the participant’s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
-      - **(iv)** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 1 1 So in original. Probably should be “similar account”. with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+      - **(iv)** For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount 2 2 So in original. Probably should be “similar account”. with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
       - **(v)** For purposes of this subparagraph—
         - **(I)** The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
         - **(II)** If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
@@ -194,7 +194,6 @@ generated_at: "2026-03-30T02:55:27.683Z"
       - **(iii)** For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
     - **(F)** For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (d)(6)(B)(i).
     - **(G)** For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
-  - **(6)** For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (as defined in subsection (a)(13)(C)) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 - **(c)**
   - **(1)** For purposes of this section, an employee’s accrued benefit derived from employer contributions as of any applicable date is the excess, if any, of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
   - **(2)**
@@ -218,7 +217,6 @@ generated_at: "2026-03-30T02:55:27.683Z"
   - **(3)** Notwithstanding the provisions of subsection (a), a trust shall not constitute a qualified trust under section 401(a) unless the plan of which such trust is a part provides that—
     - **(A)** upon its termination or partial termination, or
     - **(B)** in the case of a plan to which section 412 does not apply, upon complete discontinuance of contributions under the plan,
-  - **[(4)**
   - **(5)** In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee’s accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
   - **(6)**
     - **(A)** A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than an amendment described in section 412(d)(2), or section 4281 of the Employee Retirement Income Security Act of 1974.
@@ -246,13 +244,3 @@ generated_at: "2026-03-30T02:55:27.683Z"
     - **(C)** a plan which has not, at any time after September 2, 1974 , provided for employer contributions, and
     - **(D)** a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9), if no part of the contributions to or under such plan are made by employers of participants in such plan.
   - **(2)** A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the vesting requirements resulting from the application of sections 401(a)(4) and 401(a)(7) as in effect on September 1, 1974 .
-- **(f)**
-  - **(1)** Notwithstanding subsection (a)(8), an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
-  - **(2)** For purposes of this subsection—
-    - **(A)** The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014 , provided for a normal retirement age which is the earlier of—
-      - **(i)** an age otherwise permitted under subsection (a)(8), or
-      - **(ii)** the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
-    - **(B)** Subject to subparagraph (C), if, after December 8, 2014 , an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
-    - **(C)** A defined benefit plan shall be an applicable plan only with respect to an individual who—
-      - **(i)** is a participant in the plan on or before January 1, 2017 , or
-      - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.

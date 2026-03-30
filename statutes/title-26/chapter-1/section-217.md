@@ -3,9 +3,10 @@ title: "Section 217 - Moving expenses"
 usc_title: 26
 usc_section: "217"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 217"
-generated_at: "2026-03-30T02:55:27.653Z"
+generated_at: "2026-03-30T03:05:18.563Z"
+status: "active"
 ---
 
 # § 217. Moving expenses
@@ -31,7 +32,6 @@ generated_at: "2026-03-30T02:55:27.653Z"
   - **(3)** If—
     - **(A)** for any taxable year moving expenses have been deducted in accordance with the rule provided in paragraph (2), and
     - **(B)** the condition of subsection (c)(2) cannot be satisfied at the close of a subsequent taxable year,
-- **[(e)**
 - **(f)** For purposes of this section, the term “self-employed individual” means an individual who performs personal services—
   - **(1)** as the owner of the entire interest in an unincorporated trade or business, or
   - **(2)** as a partner in a partnership carrying on a trade or business.
@@ -58,6 +58,3 @@ generated_at: "2026-03-30T02:55:27.653Z"
     - **(A)** which are paid or incurred by the spouse or any dependent of any decedent who (as of the time of his death) had a principal place of work outside the United States, and
     - **(B)** which are incurred for a move which begins within 6 months after the death of such decedent and which is to a residence in the United States from a former residence outside the United States which (as of the time of the decedent’s death) was the residence of such decedent and the individual paying or incurring the expense.
 - **(j)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
-- **(k)**
-  - **(1)** Except in the case of an individual to whom subsection (g) applies, this section shall not apply to any taxable year beginning after December 31, 2017 .
-  - **(2)** An employee or new appointee of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) (other than a member of the Armed Forces of the United States) who moves pursuant to a change in assignment which requires relocation shall be treated for purposes of this section in the same manner as an individual to whom subsection (g) applies.

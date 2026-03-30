@@ -3,9 +3,10 @@ title: "Section 2665 - Technical assistance to States for radon programs"
 usc_title: 15
 usc_section: "2665"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2665"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-03-30T03:04:31.210Z"
+status: "active"
 ---
 
 # § 2665. Technical assistance to States for radon programs
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(5)** Design and implementation of methods for radon measurement and mitigation for nonresidential buildings housing child care facilities.
 - **(c)** The Administrator, or another Federal department or agency designated by the Administrator, shall provide appropriate information concerning technology and methods of radon assessment and mitigation to professional organizations representing private firms involved in building design, engineering, and construction.
 - **(d)**
-  - **(1)** There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) and the training seminars under subsection (a)(3).
+  - **(1)** There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) of this section and the training seminars under subsection (a)(3) of this section.
   - **(2)** To cover the operating costs of such proficiency rating program and training seminars, the Administrator shall impose on persons applying for a proficiency rating and on private and professional firms participating in training seminars such charges as may be necessary to defray the costs of the program or seminars. No such charge may be imposed on any State or local government.
   - **(3)** Funds derived from the charges imposed under paragraph (2) shall be deposited in a special account in the Treasury. Amounts in the special account are authorized to be appropriated only for purposes of administering such proficiency rating program or training seminars or for reimbursement of funds appropriated to the Administrator to initially establish such program or seminars.
   - **(4)** During the first three years of the program and seminars, the Administrator shall make every effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
@@ -49,4 +50,4 @@ generated_at: "2026-03-30T02:54:08.180Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated for the purposes of carrying out sections 2663, 2664, and 2665 of this title an amount not to exceed $3,000,000 for each of fiscal years 1989, 1990, and 1991.
   - **(2)** No amount appropriated under this subsection may be used by the Environmental Protection Agency to administer the grant program under section 2666 of this title .
-  - **(3)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
+  - **(3)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2) of this section.

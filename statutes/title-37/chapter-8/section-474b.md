@@ -1,12 +1,23 @@
 ---
-title: "Section 474b - Repealed. Pub. L. 117–81, div. A, title VI, § 604(a) , Dec. 27, 2021 , 135 Stat. 1767 ]"
+title: "Section 474b - Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member"
 usc_title: 37
 usc_section: "474b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 474b"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-03-30T03:05:39.925Z"
+status: "active"
 ---
 
-# [§§ 471 to 474b. Repealed. Pub. L. 117–81, div. A, title VI, § 604(a) , Dec. 27, 2021 , 135 Stat. 1767 ]
+# § 474b. Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member
 
+- **(a)** The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
+- **(b)** Subsection (a) applies with respect to a member assigned to temporary duty, for a period of more than 30 days, in support of a contingency operation or in other specific situations designated by the Secretary concerned if the member——
+  - **(1)** immediately before the authorized absence, was performing the temporary duty at a location away from the home or permanent duty station of the member;
+  - **(2)** was receiving a per diem allowance under section 474(a)(4) of this title to cover lodging and subsistence expenses incurred at the temporary duty location because quarters of the United States were not available for assignment to the member at that location; and
+  - **(3)** before the end of the authorized absence, returns to the duty location.
+- **(c)** The amount paid or reimbursed under subsection (a) for a member may not exceed the lesser of—
+  - **(1)** the actual daily cost of lodging incurred by the member at the temporary duty location during the authorized absence of the member; and
+  - **(2)** the lodging portion of the applicable daily per diem rate for the temporary duty location.
+- **(d)** In this section, the term “authorized absence”, with respect to a member, means that the member is in an authorized leave status or that the absence of the member is otherwise authorized under regulations prescribed by the Secretary concerned.
+- **(e)** No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.

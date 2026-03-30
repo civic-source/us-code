@@ -3,14 +3,15 @@ title: "Section 20164 - Development and use of rail safety technology"
 usc_title: 49
 usc_section: "20164"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 20164"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-03-30T03:06:29.296Z"
+status: "active"
 ---
 
 # § 20164. Development and use of rail safety technology
 
-- **(a)** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+- **(a)** Not later than 1 year after enactment of the Railroad Safety Enhancement Act of 2008, 1 1 See References in Text note below. the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
   - **(1)** switch position monitoring devices or indicators;
   - **(2)** radio, remote control, or other power-assisted switches;
   - **(3)** hot box, high water, or earthquake detectors;

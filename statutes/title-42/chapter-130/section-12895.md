@@ -3,9 +3,10 @@ title: "Section 12895 - Other program requirements"
 usc_title: 42
 usc_section: "12895"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12895"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-03-30T03:06:22.920Z"
+status: "active"
 ---
 
 # § 12895. Other program requirements
@@ -26,6 +27,6 @@ generated_at: "2026-03-30T02:56:11.434Z"
 - **(d)** The requirements under this part regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 - **(e)** No tenant residing in a dwelling unit in a property on the date the Secretary approves an application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
 - **(h)**
-  - **(1)** Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this part (and any proceeds from financing obtained or sales under subsections (b) and (c)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+  - **(1)** Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this part (and any proceeds from financing obtained or sales under subsections (b) and (c) of this section), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
   - **(2)** The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
   - **(3)** The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.

@@ -3,9 +3,10 @@ title: "Section 3202 - Deduction of tax from compensation"
 usc_title: 26
 usc_section: "3202"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 3202"
-generated_at: "2026-03-30T02:55:27.790Z"
+generated_at: "2026-03-30T03:05:18.677Z"
+status: "active"
 ---
 
 # § 3202. Deduction of tax from compensation

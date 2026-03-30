@@ -3,9 +3,10 @@ title: "Section 2261 - Prisoners in State custody subject to capital sentence; a
 usc_title: 28
 usc_section: "2261"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 2261"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-03-30T03:05:05.830Z"
+status: "active"
 ---
 
 # § 2261. Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment

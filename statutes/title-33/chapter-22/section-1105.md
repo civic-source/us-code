@@ -3,9 +3,10 @@ title: "Section 1105 - Omitted"
 usc_title: 33
 usc_section: "1105"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1105"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-03-30T03:05:36.267Z"
+status: "omitted"
 ---
 
 # §§ 1104, 1105. Omitted

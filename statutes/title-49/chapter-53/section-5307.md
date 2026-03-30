@@ -3,9 +3,10 @@ title: "Section 5307 - Urbanized area formula grants"
 usc_title: 49
 usc_section: "5307"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5307"
-generated_at: "2026-03-30T02:56:19.312Z"
+generated_at: "2026-03-30T03:06:29.277Z"
+status: "active"
 ---
 
 # § 5307. Urbanized area formula grants
@@ -17,13 +18,8 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(C)** job access and reverse commute projects; and
     - **(D)** operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
   - **(2)** The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
-    - **(A)** for public transportation systems that—
-      - **(i)** operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
-      - **(ii)** operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; or
-    - **(B)** subject to paragraph (3), for public transportation systems that—
-      - **(i)** operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment allocated to such systems within the urbanized area, as determined by the local planning process and included in the designated recipient’s final program of projects prepared under subsection (b); or
-      - **(ii)** operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment allocated to such systems within the urbanized area, as determined by the local planning process and included in the designated recipient’s final program of projects prepared under subsection (b).
-  - **(3)** The amount available to a public transportation system under subparagraph (B) of paragraph (2) shall be not more than 10 percent greater than the amount that would otherwise be available to the system under subparagraph (A) of that paragraph.
+    - **(A)** for public transportation systems that operate 75 or fewer buses in fixed route service during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
+    - **(B)** for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
 - **(b)** Each recipient of a grant shall—
   - **(1)** make available to the public information on amounts available to the recipient under this section;
   - **(2)** develop, in consultation with interested parties, including private transportation providers, a proposed program of projects for activities to be financed;
@@ -36,7 +32,7 @@ generated_at: "2026-03-30T02:56:19.312Z"
   - **(1)** the recipient, within the time the Secretary prescribes, submits a final program of projects prepared under subsection (b) of this section and a certification for that fiscal year that the recipient (including a person receiving amounts from a Governor under this section)—
     - **(A)** has or will have the legal, financial, and technical capacity to carry out the program, including safety and security aspects of the program;
     - **(B)** has or will have satisfactory continuing control over the use of equipment and facilities;
-    - **(C)** will maintain equipment and facilities in accordance with the recipient’s transit asset management plan;
+    - **(C)** will maintain equipment and facilities;
     - **(D)** will ensure that, during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section, a fare that is not more than 50 percent of the peak hour fare will be charged for any—
       - **(i)** senior;
       - **(ii)** individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportation facility effectively without special facilities, planning, or design; and
@@ -49,7 +45,9 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(J)**
       - **(i)** will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under section 5336 of this title ; or
       - **(ii)** has decided that the expenditure for security projects is not necessary;
-    - **(K)** in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census, will submit an annual report listing projects carried out in the preceding fiscal year under this section for associated transit improvements as defined in section 5302; and
+    - **(K)** in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+      - **(i)** will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for associated transit improvements, as defined in section 5302; and
+      - **(ii)** will submit an annual report listing projects carried out in the preceding fiscal year with those funds; and
     - **(L)** will comply with section 5329(d); and
   - **(2)** the Secretary accepts the certification.
 - **(d)**

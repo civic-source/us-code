@@ -3,16 +3,17 @@ title: "Section 941g - Authorization of appropriations"
 usc_title: 16
 usc_section: "941g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 941g"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-03-30T03:04:48.547Z"
+status: "active"
 ---
 
 # § 941g. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to the Director for each of fiscal years 2023 through 2028—
-  - **(1)** $6,000,000 to implement fish and wildlife restoration proposals as selected by the Director under section 941c(e) of this title , of which—
-    - **(A)** not more than the lesser of 33 1/3 percent or $2,000,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under section 941c(e) of this title ; and
-    - **(B)** the lesser of 3 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
-  - **(2)** $2,000,000, which shall be allocated for the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under section 941e of this title .
-- **(b)** No funds appropriated or used to carry out this chapter may be used for acquisition by the Federal Government of any interest in land.
+There are authorized to be appropriated to the Director for each of fiscal years 2007 through 2012—
+
+  - **(1)** $14,000,000 to implement fish and wildlife restoration proposals as selected by the Director under section 941c(e) of this title , of which—
+    - **(A)** not more than the lesser of 33 1/3 percent or $4,600,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under section 941c(e) of this title ; and
+    - **(B)** the lesser of 5 percent or $700,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
+  - **(2)** $2,000,000, which shall be allocated for the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under section 941e of this title .

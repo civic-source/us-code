@@ -1,12 +1,17 @@
 ---
-title: "Section 5612 - Transferred"
+title: "Section 5612 - Personnel"
 usc_title: 42
 usc_section: "5612"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5612"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-03-30T03:06:22.741Z"
+status: "active"
 ---
 
-# § 5612. Transferred
+# § 5612. Personnel
 
+- **(a)** The Administrator is authorized to select, employ, and fix the compensation of such officers and employees, including attorneys, as are necessary to perform the functions vested in the Administrator and to prescribe their functions.
+- **(b)** The Administrator is authorized to select, appoint, and employ not to exceed three officers and to fix their compensation at rates not to exceed the rate now or hereafter payable under section 5376 of title 5 .
+- **(c)** Upon the request of the Administrator, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of its personnel to the Administrator to assist the Administrator in carrying out the functions of the Administrator under this subchapter.
+- **(d)** The Administrator may obtain services as authorized by section 3109 of title 5 , at rates not to exceed the rate now or hereafter payable under section 5376 of title 5 .

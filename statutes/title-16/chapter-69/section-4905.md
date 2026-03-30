@@ -3,9 +3,10 @@ title: "Section 4905 - List of approved species"
 usc_title: 16
 usc_section: "4905"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 4905"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-03-30T03:04:48.624Z"
+status: "active"
 ---
 
 # § 4905. List of approved species
@@ -18,10 +19,10 @@ generated_at: "2026-03-30T02:54:23.048Z"
   - **(3)** In making a determination required under this subsection, the Secretary shall—
     - **(A)** use the best scientific information available; and
     - **(B)** consider the adequacy of regulatory and enforcement mechanisms in all countries of origin for the species, including such mechanisms for control of illegal trade.
-- **(b)** The Secretary shall include a species of exotic birds in the list under subsection (a) if the Secretary determines that—
+- **(b)** The Secretary shall include a species of exotic birds in the list under subsection (a) of this section if the Secretary determines that—
   - **(1)** the species is regularly bred in captivity and no wild-caught birds of the species are in trade; or
   - **(2)** the species is bred in a qualifying facility.
-- **(c)** The Secretary shall include in the list under subsection (a) a species of exotic birds that is listed in an Appendix to the Convention if the Secretary finds the Convention is being effectively implemented with respect to that species because of each of the following:
+- **(c)** The Secretary shall include in the list under subsection (a) of this section a species of exotic birds that is listed in an Appendix to the Convention if the Secretary finds the Convention is being effectively implemented with respect to that species because of each of the following:
   - **(1)** Each country of origin for which the species is listed is effectively implementing the Convention, particularly with respect to—
     - **(A)** the establishment of a scientific authority or other equivalent authority;
     - **(B)** the requirements of Article IV of the Convention with respect to that species; and

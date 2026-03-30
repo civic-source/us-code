@@ -3,9 +3,10 @@ title: "Section 7673 - Allocation of funds"
 usc_title: 22
 usc_section: "7673"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7673"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-03-30T03:04:53.712Z"
+status: "active"
 ---
 
 # § 7673. Allocation of funds
@@ -21,8 +22,8 @@ generated_at: "2026-03-30T02:55:05.444Z"
   - **(4)** Not later than 1 year after July 30, 2008 , and annually thereafter as part of the annual report required under section 2151b–2(e) of this title , the President shall—
     - **(A)** submit a report on the implementation of paragraph (2) for the most recently concluded fiscal year to the appropriate congressional committees; and
     - **(B)** make the report described in subparagraph (A) available to the public.
-- **(b)** For fiscal years 2009 through 2024 and fiscal year 2025 through March 25 of such fiscal year, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
-- **(c)** For each of the fiscal years 2009 through 2024 and for fiscal year 2025 through March 25 of such fiscal year, more than half of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title shall be expended for—
+- **(b)** For fiscal years 2009 through 2013, not less than 10 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
+- **(c)** For each of the fiscal years 2009 through 2013, more than half of the amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title shall be expended for—
   - **(1)** antiretroviral treatment for HIV/AIDS;
   - **(2)** clinical monitoring of HIV-seropositive people not in need of antiretroviral treatment;
   - **(3)** care for associated opportunistic infections;

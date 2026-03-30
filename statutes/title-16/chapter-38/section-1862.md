@@ -3,9 +3,10 @@ title: "Section 1862 - North Pacific fisheries conservation"
 usc_title: 16
 usc_section: "1862"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1862"
-generated_at: "2026-03-30T02:54:22.993Z"
+generated_at: "2026-03-30T03:04:48.585Z"
+status: "active"
 ---
 
 # § 1862. North Pacific fisheries conservation
@@ -49,7 +50,7 @@ generated_at: "2026-03-30T02:54:22.993Z"
   - **(2)**
     - **(A)** Notwithstanding section 1853(d) of this title , and in addition to the authority provided in section 1853(b)(10) of this title , the North Pacific Council may submit, and the Secretary may approve, conservation and management measures which provide allocations of regulatory discards to individual fishing vessels as an incentive to reduce per vessel bycatch and bycatch rates in a fishery, Provided , That—
       - **(i)** such allocations may not be transferred for monetary consideration and are made only on an annual basis; and
-      - **(ii)** any such conservation and management measures will meet the requirements of subsection (h) and will result in an actual reduction in regulatory discards in the fishery.
+      - **(ii)** any such conservation and management measures will meet the requirements of subsection (h) of this section and will result in an actual reduction in regulatory discards in the fishery.
     - **(B)** The North Pacific Council may submit restrictions in addition to the restriction imposed by clause (i) of subparagraph (A) on the transferability of any such allocations, and the Secretary may approve such recommendation.
 - **(h)**
   - **(1)** By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in each fishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.

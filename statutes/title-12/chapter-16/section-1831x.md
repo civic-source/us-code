@@ -3,9 +3,10 @@ title: "Section 1831x - Insurance customer protections"
 usc_title: 12
 usc_section: "1831x"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1831x"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-03-30T03:04:29.278Z"
+status: "active"
 ---
 
 # § 1831x. Insurance customer protections
@@ -16,10 +17,10 @@ generated_at: "2026-03-30T02:53:53.463Z"
     - **(B)** are consistent with the requirements of this chapter and provide such additional protections for customers to whom such sales, solicitations, advertising, or offers are directed.
   - **(2)** The regulations prescribed pursuant to paragraph (1) shall extend such protections to any subsidiary of a depository institution, as deemed appropriate by the regulators referred to in paragraph (3), where such extension is determined to be necessary to ensure the consumer protections provided by this section.
   - **(3)** The Federal banking agencies shall consult with each other and prescribe joint regulations pursuant to paragraph (1), after consultation with the State insurance regulators, as appropriate.
-- **(b)** The regulations prescribed pursuant to subsection (a) shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title , is conditional upon—
+- **(b)** The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title , is conditional upon—
   - **(1)** the purchase of an insurance product from the institution or any of its affiliates; or
   - **(2)** an agreement by the consumer not to obtain, or a prohibition on the consumer from obtaining, an insurance product from an unaffiliated entity.
-- **(c)** The regulations prescribed pursuant to subsection (a) shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
+- **(c)** The regulations prescribed pursuant to subsection (a) of this section shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
   - **(1)**
     - **(A)** Requirements that the following disclosures be made orally and in writing before the completion of the initial sale and, in the case of clause (iii), at the time of application for an extension of credit:
       - **(i)** As appropriate, the product is not insured by the Federal Deposit Insurance Corporation, the United States Government, or the depository institution.
@@ -43,7 +44,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
       - **(i)** the approval of an extension of credit to a customer by the institution or subsidiary may not be conditioned on the purchase of an insurance product by such customer from the institution or subsidiary; and
       - **(ii)** the customer is free to purchase the insurance product from another source.
 - **(d)**
-  - **(1)** The regulations prescribed pursuant to subsection (a) shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
+  - **(1)** The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
   - **(2)** Regulations prescribed pursuant to paragraph (1) shall include the following requirements:
     - **(A)** A clear delineation of the setting in which, and the circumstances under which, transactions involving insurance products should be conducted in a location physically segregated from an area where retail deposits are routinely accepted.
     - **(B)** Standards that permit any person accepting deposits from the public in an area where such transactions are routinely conducted in a depository institution to refer a customer who seeks to purchase any insurance product to a qualified person who sells such product, only if the person making the referral receives no more than a one-time nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
@@ -71,4 +72,4 @@ generated_at: "2026-03-30T02:53:53.463Z"
       - **(i)** If, with respect to any provision of the regulations prescribed under this section, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Board of Directors of the Corporation determine jointly that the protection afforded by such provision for customers is greater than the protection provided by a comparable provision of the statutes, regulations, orders, or interpretations referred to in subparagraph (A) of any State, the appropriate State regulatory authority shall be notified of such determination in writing.
       - **(ii)** Before making a final determination under clause (i), the Federal agencies referred to in clause (i) shall give appropriate consideration to comments submitted by the appropriate State regulatory authorities relating to the level of protection afforded to consumers under State law.
       - **(iii)** If the Federal agencies referred to in clause (i) jointly determine that any provision of the regulations prescribed under this section affords greater protections than a comparable State law, rule, regulation, order, or interpretation, those agencies shall send a written preemption notice to the appropriate State regulatory authority to notify the State that the Federal provision will preempt the State provision and will become applicable unless, not later than 3 years after the date of such notice, the State adopts legislation to override such preemption.
-- **(h)** The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
+- **(h)** The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) of this section shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.

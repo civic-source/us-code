@@ -3,9 +3,10 @@ title: "Section 1189 - Designation of foreign terrorist organizations"
 usc_title: 8
 usc_section: "1189"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1189"
-generated_at: "2026-03-30T02:53:10.484Z"
+generated_at: "2026-03-30T03:04:14.626Z"
+status: "active"
 ---
 
 # § 1189. Designation of foreign terrorist organizations
@@ -25,9 +26,9 @@ generated_at: "2026-03-30T02:53:10.484Z"
     - **(C)** Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
   - **(3)**
     - **(A)** In making a designation under this subsection, the Secretary shall create an administrative record.
-    - **(B)** The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
+    - **(B)** The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
   - **(4)**
-    - **(A)** A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c).
+    - **(A)** A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section.
     - **(B)**
       - **(i)** The Secretary shall review the designation of a foreign terrorist organization under the procedures set forth in clauses (iii) and (iv) if the designated organization files a petition for revocation within the petition period described in clause (ii).
       - **(ii)** For purposes of clause (i)—
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:53:10.484Z"
       - **(iii)** Any foreign terrorist organization that submits a petition for revocation under this subparagraph must provide evidence in that petition that the relevant circumstances described in paragraph (1) are sufficiently different from the circumstances that were the basis for the designation such that a revocation with respect to the organization is warranted.
       - **(iv)**
         - **(I)** Not later than 180 days after receiving a petition for revocation submitted under this subparagraph, the Secretary shall make a determination as to such revocation.
-        - **(II)** The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
+        - **(II)** The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
         - **(III)** A determination made by the Secretary under this clause shall be published in the Federal Register.
         - **(IV)** Any revocation by the Secretary shall be made in accordance with paragraph (6).
     - **(C)**
@@ -53,9 +54,9 @@ generated_at: "2026-03-30T02:53:10.484Z"
   - **(8)** If a designation under this subsection has become effective under paragraph (2)(B) a defendant in a criminal action or an alien in a removal proceeding shall not be permitted to raise any question concerning the validity of the issuance of such designation as a defense or an objection at any trial or hearing.
 - **(b)**
   - **(1)** The Secretary may amend a designation under this subsection if the Secretary finds that the organization has changed its name, adopted a new alias, dissolved and then reconstituted itself under a different name or names, or merged with another organization.
-  - **(2)** Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) shall also apply to an amended designation.
+  - **(2)** Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
   - **(3)** The administrative record shall be corrected to include the amendments as well as any additional relevant information that supports those amendments.
-  - **(4)** The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
+  - **(4)** The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
 - **(c)**
   - **(1)** Not later than 30 days after publication in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review in the United States Court of Appeals for the District of Columbia Circuit.
   - **(2)** Review under this subsection shall be based solely upon the administrative record, except that the Government may submit, for ex parte and in camera review, classified information used in making the designation, amended designation, or determination in response to a petition for revocation.

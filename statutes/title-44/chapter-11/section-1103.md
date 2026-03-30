@@ -3,12 +3,13 @@ title: "Section 1103 - Certificate of necessity; estimate of cost"
 usc_title: 44
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 1103"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-03-30T03:06:01.361Z"
+status: "active"
 ---
 
 # § 1103. Certificate of necessity; estimate of cost
 
-When a department, the Supreme Court, or the Library of Congress requires printing or binding to be done, it shall certify that it is necessary for the public service. The Director of the Government Publishing Office shall then furnish an estimate of cost by principal items, after which requisitions may be made upon him for the printing or binding by the head of the department, the Clerk of the Supreme Court, or the Librarian of Congress, respectively. The Director of the Government Publishing Office shall place the cost to the debit of the department in its annual appropriation for printing and binding.
+When a department, the Supreme Court, or the Library of Congress requires printing or binding to be done, it shall certify that it is necessary for the public service. The Public Printer shall then furnish an estimate of cost by principal items, after which requisitions may be made upon him for the printing or binding by the head of the department, the Clerk of the Supreme Court, or the Librarian of Congress, respectively. The Public Printer shall place the cost to the debit of the department in its annual appropriation for printing and binding.
 

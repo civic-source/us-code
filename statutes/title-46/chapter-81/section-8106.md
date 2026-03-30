@@ -3,9 +3,10 @@ title: "Section 8106 - Riding gangs"
 usc_title: 46
 usc_section: "8106"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 8106"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-03-30T03:06:27.175Z"
+status: "active"
 ---
 
 # § 8106. Riding gangs
@@ -52,6 +53,9 @@ generated_at: "2026-03-30T02:56:15.551Z"
 - **(f)**
   - **(1)** The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
   - **(2)** A violation of paragraph (1) is punishable by a civil penalty of not more than $10,000 for each day during which the violation continues.
-  - **(3)** The maximum amount of a civil penalty for a violation under this subsection shall be $100,000.
+  - **(3)** The maximum amount of a civil penalty for a violation under this subsection shall not exceed—
+    - **(A)** $50,000 if the violation occurs in fiscal year 2006;
+    - **(B)** $75,000 if the violation occurs in fiscal year 2007; and
+    - **(C)** $100,000 if the violation occurs after fiscal year 2007.
   - **(4)** In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, the history of prior offenses, the ability to pay, and such other matters as justice may require.
   - **(5)** The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.

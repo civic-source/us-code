@@ -3,12 +3,13 @@ title: "Section 1 - Dam safety training"
 usc_title: 33
 usc_section: "1"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:41.059Z"
+generated_at: "2026-03-30T03:05:36.250Z"
+status: "active"
 ---
 
 # § 467g–1. Dam safety training
 
-At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.
+At the request of any State that has or intends to develop a State dam safety program, the Director shall provide training for State dam safety staff and inspectors.
 

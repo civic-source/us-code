@@ -1,12 +1,17 @@
 ---
-title: "Section 14098 - Transferred"
+title: "Section 14098 - Service obligation"
 usc_title: 42
 usc_section: "14098"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14098"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.945Z"
+status: "active"
 ---
 
-# § 14098. Transferred
+# § 14098. Service obligation
 
+- **(a)** Upon satisfactory completion of the participant’s course of education and training program established in section 14097 of this title and meeting the requirements of the police force to which the participant is assigned, a participant shall be sworn in as a member of the police force to which the participant is assigned pursuant to the State Police Corps plan, and shall serve for 4 years as a member of that police force.
+- **(b)** A participant shall have all of the rights and responsibilities of and shall be subject to all rules and regulations applicable to other members of the police force of which the participant is a member, including those contained in applicable agreements with labor organizations and those provided by State and local law.
+- **(c)** If the police force of which the participant is a member subjects the participant to discipline such as would preclude the participant’s completing 4 years of service, and result in denial of educational assistance under section 14095 of this title , the Director may, upon a showing of good cause, permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 14095(d)(1)(B)(iii) of this title shall not apply.
+- **(d)** If the police force of which the participant is a member lays off the participant such as would preclude the participant’s completing 4 years of service, and result in denial of educational assistance under section 14095 of this title , the Director may permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 14095(d)(1)(B)(iii) of this title shall not apply.

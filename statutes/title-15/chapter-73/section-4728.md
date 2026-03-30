@@ -3,9 +3,10 @@ title: "Section 4728 - Environmental trade promotion"
 usc_title: 15
 usc_section: "4728"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4728"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-03-30T03:04:31.228Z"
+status: "active"
 ---
 
 # § 4728. Environmental trade promotion
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
   - **(1)** information on existing and emerging markets and market trends for environmental technologies, goods, and services; and
   - **(2)** a description of the export promotion programs for environmental technologies, goods, and services of the agencies that are represented on the Working Group.
 - **(f)**
-  - **(1)** The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1), and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+  - **(1)** The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
   - **(2)** Each specialist assigned under paragraph (1) shall provide export promotion assistance to United States environmental businesses, including, but not limited to—
     - **(A)** identifying factors in the country to which the specialist is assigned that affect the United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
     - **(B)** providing assessments of assistance by foreign governments that is provided to producers of environmental technologies, goods, and services in such countries in order to enhance exports to the country to which the specialist is assigned, the effectiveness of such assistance on the competitiveness of United States products, and whether comparable United States assistance exists;
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
     - **(F)** providing information on environmental standards and regulations in the country to which the specialist is assigned;
     - **(G)** providing information on all United States Government programs that could assist the promotion, financing, and sale of United States environmental technologies, goods, and services in the country to which the specialist is assigned; and
     - **(H)** promoting the equal treatment of United States environmental, safety, and related requirements, with those of other exporting countries, in order to promote exports of United States-made products.
-- **(g)** In addition to the training provided under subsection (f)(2)(C), the Secretary shall establish a mechanism to train—
+- **(g)** In addition to the training provided under subsection (f)(2)(C) of this section, the Secretary shall establish a mechanism to train—
   - **(1)** Commercial Service Officers assigned to the one-stop shops provided for in section 4721(b)(8) of this title , and
   - **(2)** Commercial Service Officers assigned to district offices in districts having large numbers of environmental businesses,
 - **(h)**

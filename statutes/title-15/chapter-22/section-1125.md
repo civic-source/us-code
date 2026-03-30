@@ -3,9 +3,10 @@ title: "Section 1125 - False designations of origin, false descriptions, and dil
 usc_title: 15
 usc_section: "1125"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1125"
-generated_at: "2026-03-30T02:54:08.127Z"
+generated_at: "2026-03-30T03:04:31.158Z"
+status: "active"
 ---
 
 # § 1125. False designations of origin, false descriptions, and dilution forbidden
@@ -78,7 +79,7 @@ generated_at: "2026-03-30T02:54:08.127Z"
     - **(E)** As used in this paragraph, the term “traffics in” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
   - **(2)**
     - **(A)** The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
-      - **(i)** the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c); and
+      - **(i)** the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
       - **(ii)** the court finds that the owner—
         - **(I)** is not able to obtain in personam jurisdiction over a person who would have been a defendant in a civil action under paragraph (1); or
         - **(II)** through due diligence was not able to find a person who would have been a defendant in a civil action under paragraph (1) by—

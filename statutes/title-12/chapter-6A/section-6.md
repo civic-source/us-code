@@ -3,15 +3,16 @@ title: "Section 6 - Debt reduction; Enterprise for the Americas Initiative"
 usc_title: 12
 usc_section: "6"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-03-30T03:04:29.207Z"
+status: "active"
 ---
 
 # § 635i–6. Debt reduction; Enterprise for the Americas Initiative
 
 - **(a)** For purposes of this section—
-  - **(1)** the term “eligible country” means a country designated by the President in accordance with subsection (b);
+  - **(1)** the term “eligible country” means a country designated by the President in accordance with subsection (b) of this section;
   - **(2)** the term “Facility” means the entity established in the Department of the Treasury by section 1738 of title 7 ; and
   - **(3)** the term “IMF” means the International Monetary Fund.
 - **(b)**
@@ -32,6 +33,6 @@ generated_at: "2026-03-30T02:53:53.388Z"
   - **(4)** The Facility shall notify the Bank of purchasers that the President has determined to be eligible, and shall direct the Bank to carry out the sale, reduction, or cancellation of a loan pursuant to this section. The Bank shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
   - **(5)** The authorities of this subsection may be exercised only to such extent as provided for in advance in appropriations Acts, as necessary to implement the Federal Credit Reform Act of 1990 [ 2 U.S.C. 661 et seq.].
 - **(d)** The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.
-- **(e)** A loan may be sold pursuant to subsection (c)(1)(A) only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+- **(e)** A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 - **(f)** Before the sale to any eligible purchaser, or any reduction or cancellation pursuant to this section, of any loan made to an eligible country, the President shall consult with the country concerning the amount of loans to be sold, reduced, or canceled and their uses for debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 - **(g)** For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.

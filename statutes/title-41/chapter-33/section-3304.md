@@ -3,9 +3,10 @@ title: "Section 3304 - Use of noncompetitive procedures"
 usc_title: 41
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 3304"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-03-30T03:06:01.218Z"
+status: "active"
 ---
 
 # § 3304. Use of noncompetitive procedures
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:55:55.805Z"
     - **(C)** to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before a court, administrative tribunal, or agency, whether or not the expert is expected to testify; or
     - **(D)** to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
   - **(4)** the terms of an international agreement or treaty between the Federal Government and a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
-  - **(5)** subject to section 3105 of this title , a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency’s need is for a brand-name commercial product for authorized resale;
+  - **(5)** subject to section 3105 of this title , a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency’s need is for a brand-name commercial item for authorized resale;
   - **(6)** the disclosure of the executive agency’s needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
   - **(7)** the head of the executive agency (who may not delegate the authority under this paragraph)—
     - **(A)** determines that it is necessary in the public interest to use procedures other than competitive procedures in the particular procurement concerned; and
@@ -55,7 +56,7 @@ generated_at: "2026-03-30T02:55:55.805Z"
   - **(3)** In the case of a procurement permitted by subsection (a)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded.
   - **(4)** The justification and approval required by paragraph (1) are not required if—
     - **(A)** a statute expressly requires that the procurement be made from a specified source;
-    - **(B)** the agency’s need is for a brand-name commercial product for authorized resale;
+    - **(B)** the agency’s need is for a brand-name commercial item for authorized resale;
     - **(C)** the procurement is permitted by subsection (a)(7); or
     - **(D)** the procurement is conducted under chapter 85 of this title or section 8(a) of the Small Business Act ( 15 U.S.C. 637(a) ).
   - **(5)**

@@ -3,9 +3,10 @@ title: "Section 1903 - Grants, contracts, and cooperative agreements"
 usc_title: 30
 usc_section: "1903"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1903"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-03-30T03:05:07.425Z"
+status: "active"
 ---
 
 # § 1903. Grants, contracts, and cooperative agreements
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
       - **(ii)** comprised of funds made available under other Federal programs, except that non-Federal funds shall be used to defray at least 10 percent of the total cost of the project.
     - **(C)** Not later than 180 days after October 19, 1996 , the Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this subsection that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19 .
 - **(b)**
-  - **(1)** An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) unless—
+  - **(1)** An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) of this section unless—
     - **(A)** the entity submits a proposal to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require; and
     - **(B)** the proposal has been evaluated by a competitive review panel under paragraph (3).
   - **(2)**

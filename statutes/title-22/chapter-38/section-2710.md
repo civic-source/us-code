@@ -3,9 +3,10 @@ title: "Section 2710 - Expenses relating to participation in arbitrations of cer
 usc_title: 22
 usc_section: "2710"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2710"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-03-30T03:04:53.651Z"
+status: "active"
 ---
 
 # § 2710. Expenses relating to participation in arbitrations of certain disputes
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(4)** Funds deposited in the ILF shall be available only for the purposes of paragraph (1).
 - **(e)**
   - **(1)** To reimburse the expenses of the United States Government in preparing or prosecuting a proceeding before an international tribunal, or a claim against a foreign government or other foreign entity, the Secretary may retain 1.5 percent of any amount between $100,000 and $5,000,000, and one percent of any amount over $5,000,000, received per claim under section 2668a of this title .
-  - **(2)** Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
+  - **(2)** Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.

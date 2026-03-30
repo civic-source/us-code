@@ -3,9 +3,10 @@ title: "Section 37 - Proceedings for patent where boundaries contain vein or lod
 usc_title: 30
 usc_section: "37"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 37"
-generated_at: "2026-03-30T02:55:29.376Z"
+generated_at: "2026-03-30T03:05:07.393Z"
+status: "active"
 ---
 
 # § 37. Proceedings for patent where boundaries contain vein or lode; application; statement including vein or lode; issuance of patent: acreage payments for vein or lode and placer claim; costs of proceedings; knowledge affecting construction of application and scope of patent

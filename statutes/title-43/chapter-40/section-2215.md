@@ -3,12 +3,13 @@ title: "Section 2215 - Assistance for drought-related planning in reclamation St
 usc_title: 43
 usc_section: "2215"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 2215"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-03-30T03:06:10.693Z"
+status: "active"
 ---
 
 # § 2215. Assistance for drought-related planning in reclamation States
 
-- **(a)** The Secretary may provide financial assistance in the form of cooperative agreements in States that are eligible to receive drought assistance under this subchapter to promote the development of drought contingency plans under subchapter II.
-- **(b)** Not later than one year after December 23, 2000 , the Secretary shall submit to the Congress a report and recommendations on the advisability of providing financial assistance for the development of drought contingency plans in all entities that are eligible to receive assistance under subchapter II.
+- **(a)** The Secretary may provide financial assistance in the form of cooperative agreements in States that are eligible to receive drought assistance under this subchapter to promote the development of drought contingency plans under subchapter II of this chapter.
+- **(b)** Not later than one year after December 23, 2000 , the Secretary shall submit to the Congress a report and recommendations on the advisability of providing financial assistance for the development of drought contingency plans in all entities that are eligible to receive assistance under subchapter II of this chapter.

@@ -3,16 +3,17 @@ title: "Section 5304 - Statewide and nonmetropolitan transportation planning"
 usc_title: 49
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5304"
-generated_at: "2026-03-30T02:56:19.309Z"
+generated_at: "2026-03-30T03:06:29.276Z"
+status: "active"
 ---
 
 # § 5304. Statewide and nonmetropolitan transportation planning
 
 - **(a)**
   - **(1)** Subject to section 5303, to accomplish the objectives stated in section 5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State.
-  - **(2)** The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+  - **(2)** The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
   - **(3)** The process for developing the statewide plan and the transportation improvement program shall provide for consideration of all modes of transportation and the policies stated in section 5303(a) and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems to be addressed.
 - **(b)** A State shall—
   - **(1)** coordinate planning carried out under this section with the transportation planning activities carried out under section 5303 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
@@ -28,20 +29,19 @@ generated_at: "2026-03-30T02:56:19.309Z"
     - **(D)** increase the accessibility and mobility of people and freight;
     - **(E)** protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
     - **(F)** enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
-    - **(G)** promote efficient system management and operation;
-    - **(H)** emphasize the preservation of the existing transportation system; and
-    - **(I)** improve the resiliency and reliability of the transportation system.
+    - **(G)** promote efficient system management and operation; and
+    - **(H)** emphasize the preservation of the existing transportation system.
   - **(2)**
     - **(A)** The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in section 150(b) of title 23 and the general purposes described in section 5301.
     - **(B)**
       - **(i)**
         - **(I)** Each State shall establish performance targets that address the performance measures described in section 150(c) of title 23 , where applicable, to use in tracking progress towards attainment of critical outcomes for the State.
         - **(II)** Selection of performance targets by a State shall be coordinated with the relevant metropolitan planning organizations to ensure consistency, to the maximum extent practicable.
-      - **(ii)** In areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
-    - **(C)** A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+      - **(ii)** In urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+    - **(C)** A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
     - **(D)** The performance measures and targets established under this paragraph shall be considered by a State when developing policies, programs, and investment priorities reflected in the statewide transportation plan and statewide transportation improvement program.
   - **(3)** The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
-- **(e)** In carrying out planning under this section, each State shall, at a minimum—
+- **(e)** “In 1 1 So in original. The quotation marks probably should not appear. carrying out planning under this section, each State shall, at a minimum—
   - **(1)** with respect to nonmetropolitan areas, cooperate with affected local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l);
   - **(2)** consider the concerns of Indian tribal governments and Federal land management agencies that have jurisdiction over land within the boundaries of the State; and
   - **(3)** consider coordination of transportation plans, the transportation improvement program, and planning activities with related planning activities being carried out outside of metropolitan planning areas and between States.
@@ -59,15 +59,12 @@ generated_at: "2026-03-30T02:56:19.309Z"
   - **(3)**
     - **(A)** In developing the statewide transportation plan, the State shall provide to—
       - **(i)** nonmetropolitan local elected officials, or, if applicable, through regional transportation planning organizations described in subsection ( l ), an opportunity to participate in accordance with subparagraph (B)(i); and
-      - **(ii)** citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+      - **(ii)** citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
     - **(B)** In carrying out subparagraph (A), the State shall, to the maximum extent practicable—
       - **(i)** develop and document a consultative process to carry out subparagraph (A)(i) that is separate and discrete from the public involvement process developed under clause (ii);
       - **(ii)** hold any public meetings at convenient and accessible locations and times;
       - **(iii)** employ visualization techniques to describe plans; and
       - **(iv)** make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
-    - **(C)** A State may use social media and other web-based tools—
-      - **(i)** to further encourage public participation; and
-      - **(ii)** to solicit public feedback during the transportation planning process.
   - **(4)**
     - **(A)** A long-range transportation plan shall include a discussion of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
     - **(B)** The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
@@ -133,7 +130,7 @@ generated_at: "2026-03-30T02:56:19.309Z"
       - **(i)** the overall effectiveness of performance-based planning as a tool for guiding transportation investments; and
       - **(ii)** the effectiveness of the performance-based planning process of each State.
     - **(B)** The report under subparagraph (A) shall be published or otherwise made available in electronically accessible formats and means, including on the Internet.
-- **(i)** For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
+- **(i)** For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
 - **(j)** Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under that Act as of January 1, 1997 , any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
 - **(k)** The Secretary shall issue guidance on a schedule for implementation of the changes made by this section, taking into consideration the established planning update cycle for States. The Secretary shall not require a State to deviate from its established planning update cycle to implement changes made by this section. States shall reflect changes made to their transportation plan or transportation improvement program updates not later than 2 years after the date of issuance of guidance by the Secretary under this subsection.
 - **(l)**

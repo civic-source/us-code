@@ -3,9 +3,10 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-30T02:53:42.363Z"
+generated_at: "2026-03-30T03:04:20.958Z"
+status: "active"
 ---
 
 # § 2015. Eligibility disqualifications
@@ -93,39 +94,31 @@ generated_at: "2026-03-30T02:53:42.363Z"
   - **(3)** Notwithstanding any other provision of law, a household shall not participate in the supplemental nutrition assistance program at any time that any member of such household, not exempt from the work registration requirements of paragraph (1) of this subsection, is on strike as defined in section 142(2) of title 29 , because of a labor dispute (other than a lockout) as defined in section 152(9) of title 29 : Provided , That a household shall not lose its eligibility to participate in the supplemental nutrition assistance program as a result of one of its members going on strike if the household was eligible immediately prior to such strike, however, such household shall not receive an increased allotment as the result of a decrease in the income of the striking member or members of the household: Provided further , That such ineligibility shall not apply to any household that does not contain a member on strike, if any of its members refuses to accept employment at a plant or site because of a strike or lockout.
   - **(4)**
     - **(A)**
-      - **(i)** Each State agency shall implement an employment and training program designed by the State agency, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations, and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will—
-        - **(I)** increase the ability of the household members to obtain regular employment; and
-        - **(II)** meet State or local workforce needs.
-      - **(ii)** Each component of an employment and training program carried out under this paragraph and implemented to meet the purposes of clause (i) shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
-    - **(B)** In this chapter:
-      - **(i)** The term “employment and training program” means a program that contains case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to a program applicant at the time of application:
-        - **(I)** Supervised job search programs that occur at State-approved locations at which the activities of participants shall be directly supervised and the timing and activities of participants tracked in accordance with guidelines issued by the State.
-        - **(II)** Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of employability assessments, training in techniques to increase employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
-        - **(III)** Workfare programs operated under section 2029 of this title .
-        - **(IV)** Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment, including subsidized employment and apprenticeships. An employment or training experience program established under this clause shall—
-        - **(V)** Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
-        - **(VI)** Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
-        - **(VII)** Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not less than 30 days but not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
-        - **(VIII)** Programs and activities under clause (iv) of section 2025(h)(1)(F) of this title that the Secretary determines, based on results from the independent evaluations conducted under clause (vii)(I) of such section, have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance.
-        - **(IX)** As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
-      - **(ii)**
-        - **(I)** The term “workforce partnership” means a program that—
-        - **(II)** The term “workforce partnership” includes a multistate program.
+      - **(i)** Each State agency shall implement an employment and training program designed by the State agency and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will increase their ability to obtain regular employment.
+      - **(ii)** Each component of an employment and training program carried out under this paragraph shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
+    - **(B)** For purposes of this chapter, an “employment and training program” means a program that contains one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application:
+      - **(i)** Job search programs.
+      - **(ii)** Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of jobs skills assessments, job finding clubs, training in techniques for employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
+      - **(iii)** Workfare programs operated under section 2029 of this title .
+      - **(iv)** Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment. An employment or training experience program established under this clause shall—
+        - **(I)** not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
+        - **(II)** provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
+      - **(v)** Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
+      - **(vi)** Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
+      - **(vii)** Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
+      - **(viii)** As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
     - **(C)** The State agency may provide that participation in an employment and training program may supplement or supplant other employment-related requirements imposed on those subject to the program.
     - **(D)**
       - **(i)** Each State agency may exempt from any requirement for participation in any program under this paragraph categories of household members.
       - **(ii)** Each State agency may exempt from any requirement for participation individual household members not included in any category designated as exempt under clause (i).
       - **(iii)** Any exemption of a category or individual under this subparagraph shall be periodically evaluated to determine whether the exemption continues to be valid.
-    - **(E)**
-      - **(i)** Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate.
-      - **(ii)** The requirements under clause (i) may vary among participants.
-      - **(iii)** To the extent that a State agency requires an individual to participate in an employment and training program, the State agency shall consider an individual participating in a workforce partnership to be in compliance with the employment and training requirements.
+    - **(E)** Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate. Such requirements may vary among participants.
     - **(F)**
       - **(i)** The total hours of work in an employment and training program carried out under this paragraph required of members of a household, together with the hours of work of such members in any program carried out under section 2029 of this title , in any month collectively may not exceed a number of hours equal to the household’s allotment for such month divided by the higher of the applicable State minimum wage or Federal minimum hourly rate under the Fair Labor Standards Act of 1938 [ 29 U.S.C. 206(a)(1) ].
       - **(ii)** The total hours of participation in such program required of any member of a household, individually, in any month, together with any hours worked in another program carried out under section 2029 of this title and any hours worked for compensation (in cash or in kind) in any other capacity, shall not exceed one hundred and twenty hours per month.
       - **(iii)** Any individual voluntarily electing to participate in a program under this paragraph shall not be subject to the limitations described in clauses (i) and (ii).
     - **(G)** The State agency may operate any program component under this paragraph in which individuals elect to participate.
-    - **(H)** Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(i)(V) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
+    - **(H)** Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(v) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
     - **(I)**
       - **(i)** The State agency shall provide payments or reimbursements to participants in programs carried out under this paragraph, including individuals participating under subparagraph (G), for—
         - **(I)** the actual costs of transportation and other actual costs (other than dependent care costs), that are reasonably necessary and directly related to participation in the program; and
@@ -137,38 +130,13 @@ generated_at: "2026-03-30T02:53:42.363Z"
     - **(J)** The Secretary shall promulgate guidelines that (i) enable State agencies, to the maximum extent practicable, to design and operate an employment and training program that is compatible and consistent with similar programs operated within the State, and (ii) ensure, to the maximum extent practicable, that employment and training programs are provided for Indians on reservations.
     - **(K)** Notwithstanding any other provision of this paragraph, the amount of funds a State agency uses to carry out this paragraph (including funds used to carry out subparagraph (I)) for participants who are receiving benefits under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) shall not exceed the amount of funds the State agency used in fiscal year 1995 to carry out this paragraph for participants who were receiving benefits in fiscal year 1995 under a State program funded under part A of title IV of the Act ( 42 U.S.C. 601 et seq.).
     - **(L)** The Secretary shall ensure that State agencies comply with the requirements of this paragraph and section 2020(e)(19) of this title .
-    - **(M)** The facilities of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] may be used to find employment and training opportunities for household members under the programs under this paragraph.
-    - **(N)**
-      - **(i)** In certifying that a program meets the requirements of subitems (AA) and (BB) of subparagraph (B)(ii)(I)(bb) to be certified as a workforce partnership, the Secretary or the State agency shall require that the program submit to the Secretary or State agency sufficient information that describes—
-        - **(I)** the services and activities of the program that would provide participants with not less than 20 hours per week of training, work, or experience under those subitems; and
-        - **(II)** how the program would provide services and activities described in subclause (I) that would directly enhance the employability or job readiness of the participant.
-      - **(ii)** A State agency may use a workforce partnership to supplement, not to supplant, the employment and training program of the State agency.
-      - **(iii)** A State agency—
-        - **(I)** shall—
-        - **(II)** may not require any member of a household participating in the supplemental nutrition assistance program to participate in a workforce partnership.
-      - **(iv)**
-        - **(I)** A workforce partnership shall not replace the employment or training of an individual not participating in the workforce partnership.
-        - **(II)** Nothing in this subsection or subsection ( o ) affects the criteria or screening process for selecting participants by a workforce partnership.
-      - **(v)** In carrying out this subparagraph, the Secretary and each applicable State agency shall limit the reporting requirements of a workforce partnership to—
-        - **(I)** on notification that an individual is receiving supplemental nutrition assistance program benefits, notifying the applicable State agency that the individual is participating in the workforce partnership;
-        - **(II)** identifying participants who have completed or are no longer participating in the workforce partnership;
-        - **(III)** identifying changes to the workforce partnership that result in the workforce partnership no longer meeting the certification requirements of the Secretary or the State agency under subparagraph (B)(ii)(I)(bb); and
-        - **(IV)** providing sufficient information, on request by the State agency, for the State agency to verify that a participant is fulfilling any applicable work requirements under this subsection or subsection ( o ).
-    - **(O)**
-      - **(i)** In accordance with such regulations as may be issued by the Secretary, with respect to any individual who is not eligible for an exemption under paragraph (2) and who is determined by the operator of an employment and training program component to be ill-suited to participate in that employment and training program component, the State agency shall—
-        - **(I)** refer the individual to an appropriate employment and training program component;
-        - **(II)** refer the individual to an appropriate workforce partnership, if available;
-        - **(III)** reassess the physical and mental fitness of the individual under paragraph (1)(A); or
-        - **(IV)** to the maximum extent practicable, coordinate with other Federal, State, or local workforce or assistance programs to identify work opportunities or assistance for the individual.
-      - **(ii)** In carrying out clause (i), the State agency shall ensure that an individual undergoing and complying with the process established under that clause shall not be found to have refused without good cause to participate in an employment and training program.
+    - **(M)** The facilities of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.] may be used to find employment and training opportunities for household members under the programs under this paragraph.
 - **(e)** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household if the individual is enrolled at least half-time in an institution of higher education, unless the individual—
   - **(1)** is under age 18 or is age 50 or older;
   - **(2)** is not physically or mentally fit;
   - **(3)** is assigned to or placed in an institution of higher education through or in compliance with the requirements of—
-    - **(A)** a program under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.];
-    - **(B)** an employment and training program under this section, subject to the condition that the course or program of study—
-      - **(i)** is part of a program of career and technical education (as defined in section 2302 of title 20 ) that may be completed in not more than 4 years at an institution of higher education (as defined in section 1002 of title 20 ); or
-      - **(ii)** is limited to remedial courses, basic adult education, literacy, or English as a second language;
+    - **(A)** a program under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.];
+    - **(B)** an employment and training program under this section;
     - **(C)** a program under section 2296 of title 19 ; or
     - **(D)** another program for the purpose of employment and training operated by a State or local government, as determined to be appropriate by the Secretary;
   - **(4)** is employed a minimum of 20 hours per week or participating in a State or federally financed work study program during the regular school year;
@@ -178,19 +146,13 @@ generated_at: "2026-03-30T02:53:42.363Z"
   - **(6)** is receiving benefits under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.);
   - **(7)** is so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] or its successor programs; or
   - **(8)** is enrolled full-time in an institution of higher education, as determined by the institution, and is a single parent with responsibility for the care of a dependent child under age 12.
-- **(f)** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is—
-  - **(1)** a resident of the United States; and
-  - **(2)** either—
-    - **(A)** a citizen or national of the United States;
-    - **(B)** an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
-    - **(C)** an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 ( Public Law 96–422 ); or
-    - **(D)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of title 8 .
+- **(f)** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948 , or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8 ; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8 ; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8 . No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the supplemental nutrition assistance program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 - **(g)** No individual who receives supplemental security income benefits under title XVI of the Social Security Act [ 42 U.S.C. 1381 et seq.], State supplementary payments described in section 1616 of such Act [ 42 U.S.C. 1382e ], or payments of the type referred to in section 212(a) of Public Law 93–66 , as amended, shall be considered to be a member of a household for any month, if, for such month, such individual resides in a State which provides State supplementary payments (1) of the type described in section 1616(a) of the Social Security Act [ 42 U.S.C. 1382e(a) ] and section 212(a) of Public Law 93–66 , and (2) the level of which has been found by the Commissioner of Social Security to have been specifically increased so as to include the bonus value of food stamps.
 - **(h)** No household that knowingly transfers assets for the purpose of qualifying or attempting to qualify for the supplemental nutrition assistance program shall be eligible to participate in the program for a period of up to one year from the date of discovery of the transfer.
 - **(i)**
   - **(1)** If a disqualification is imposed on a member of a household for a failure of the member to perform an action required under a Federal, State, or local law relating to a means-tested public assistance program, the State agency may impose the same disqualification on the member of the household under the supplemental nutrition assistance program.
   - **(2)** If a disqualification is imposed under paragraph (1) for a failure of an individual to perform an action required under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), the State agency may use the rules and procedures that apply under part A of title IV of the Act to impose the same disqualification under the supplemental nutrition assistance program.
-  - **(3)** A member of a household disqualified under paragraph (1) may, after the disqualification period has expired, apply for benefits under this chapter and shall be treated as a new applicant, except that a prior disqualification under subsection (d) shall be considered in determining eligibility.
+  - **(3)** A member of a household disqualified under paragraph (1) may, after the disqualification period has expired, apply for benefits under this chapter and shall be treated as a new applicant, except that a prior disqualification under subsection (d) of this section shall be considered in determining eligibility.
 - **(j)** An individual shall be ineligible to participate in the supplemental nutrition assistance program as a member of any household for a 10-year period if the individual is found by a State agency to have made, or is convicted in a Federal or State court of having made, a fraudulent statement or representation with respect to the identity or place of residence of the individual in order to receive multiple benefits simultaneously under the supplemental nutrition assistance program.
 - **(k)**
   - **(1)** No member of a household who is otherwise eligible to participate in the supplemental nutrition assistance program shall be eligible to participate in the program as a member of that or any other household during any period during which the individual is—
@@ -223,32 +185,25 @@ generated_at: "2026-03-30T02:53:42.363Z"
     - **(B)** the individual is complying with a payment plan approved by a court or the State agency designated under part D of title IV of the Social Security Act ( 42 U.S.C. 651 et seq.) to provide support for the child of the individual.
 - **(o)**
   - **(1)** In this subsection, the term “work program” means—
-    - **(A)** a program under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.];
-    - **(B)** a program under section 2296 of title 19 ;
-    - **(C)** a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a supervised job search program or job search training program;
-    - **(D)** a program of employment and training for veterans operated by the Department of Labor or the Department of Veterans Affairs, and approved by the Secretary; and
-    - **(E)** a workforce partnership under subsection (d)(4)(N).
+    - **(A)** a program under the 1 1 So in original. The word “the” probably should not appear. title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.];
+    - **(B)** a program under section 2296 of title 19 ; and
+    - **(C)** a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4) of this section, other than a job search program or a job search training program.
   - **(2)** Subject to the other provisions of this subsection, no individual shall be eligible to participate in the supplemental nutrition assistance program as a member of any household if, during the preceding 36-month period, the individual received supplemental nutrition assistance program benefits for not less than 3 months (consecutive or otherwise) during which the individual did not—
     - **(A)** work 20 hours or more per week, averaged monthly;
     - **(B)** participate in and comply with the requirements of a work program for 20 hours or more per week, as determined by the State agency;
     - **(C)** participate in and comply with the requirements of a program under section 2029 of this title or a comparable program established by a State or political subdivision of a State; or
     - **(D)** receive benefits pursuant to paragraph (3), (4), (5), or (6).
   - **(3)** Paragraph (2) shall not apply to an individual if the individual is—
-    - **(A)** under 18, or over 65, years of age;
+    - **(A)** under 18 or over 50 years of age;
     - **(B)** medically certified as physically or mentally unfit for employment;
-    - **(C)** a parent or other member of a household with responsibility for a dependent child under 14 years of age;
-    - **(D)** otherwise exempt under subsection (d)(2);
-    - **(E)** a pregnant woman;
-    - **(F)** an Indian or an Urban Indian (as such terms are defined in paragraphs (13) and (28) of section 1603 of title 25 ); or
-    - **(G)** a California Indian described in section 1679(a) of title 25 .
+    - **(C)** a parent or other member of a household with responsibility for a dependent child;
+    - **(D)** otherwise exempt under subsection (d)(2) of this section; or
+    - **(E)** a pregnant woman.
   - **(4)**
-    - **(A)** On the request of a State agency and with the support of the chief executive officer of the State, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
+    - **(A)** On the request of a State agency, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
       - **(i)** has an unemployment rate of over 10 percent; or
-      - **(ii)** is in a noncontiguous State and has an unemployment rate that is at or above 1.5 times the national unemployment rate.
+      - **(ii)** does not have a sufficient number of jobs to provide employment for the individuals.
     - **(B)** The Secretary shall report the basis for a waiver under subparagraph (A) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
-    - **(C)**
-      - **(i)** In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
-      - **(ii)** The term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
   - **(5)**
     - **(A)** An individual denied eligibility under paragraph (2) shall regain eligibility to participate in the supplemental nutrition assistance program if, during a 30-day period, the individual—
       - **(i)** works 80 or more hours;
@@ -267,50 +222,12 @@ generated_at: "2026-03-30T02:53:42.363Z"
         - **(III)** is not complying with subparagraph (A), (B), or (C) of paragraph (2);
         - **(IV)** is not receiving supplemental nutrition assistance program benefits during the 3 months of eligibility provided under paragraph (2); and
         - **(V)** is not receiving supplemental nutrition assistance program benefits under paragraph (5).
-    - **(B)** Subject to subparagraphs (C) through (I), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
-    - **(C)** Subject to subparagraphs (G) and (I), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
-    - **(D)** Subject to subparagraphs (G) through (I), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(E)** Subject to subparagraphs (G) through (I), for fiscal year 2020 and each subsequent fiscal year through fiscal year 2023, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
-    - **(F)** Subject to subparagraphs (G) through (I), for fiscal years 2024 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4) 1 1 So in original. Probably should be followed by a period.
-    - **(G)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D),, 2 2 So in original. (E) or (F) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
-    - **(H)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
-    - **(I)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
-    - **(J)** During fiscal year 2024 and each subsequent fiscal year, nothing in this paragraph shall be interpreted to allow a State agency to accumulate unused exemptions to be provided beyond the subsequent fiscal year.
-  - **(7)**
-    - **(A)**
-      - **(i)** In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
-      - **(ii)** In this paragraph, the term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
-    - **(B)** Subject to subparagraph (D), the Secretary may exempt individuals in a noncontiguous State from compliance with the requirements of paragraph (2) if—
-      - **(i)** the State agency submits to the Secretary a request for that exemption, made in such form and at such time as the Secretary may require, and including the information described in subparagraph (C); and
-      - **(ii)** the Secretary determines that based on that request, the State agency is demonstrating a good faith effort to comply with the requirements of paragraph (2).
-    - **(C)** In determining whether a State agency is demonstrating a good faith effort for purposes of subparagraph (B)(ii), the Secretary shall consider—
-      - **(i)** any actions taken by the State agency toward compliance with the requirements of paragraph (2);
-      - **(ii)** any significant barriers to or challenges in meeting those requirements, including barriers or challenges relating to funding, design, development, procurement, or installation of necessary systems or resources;
-      - **(iii)** the detailed plan and timeline of the State agency for achieving full compliance with those requirements, including any milestones (as defined by the Secretary); and
-      - **(iv)** any other criteria determined appropriate by the Secretary.
-    - **(D)**
-      - **(i)** An exemption granted under subparagraph (B) shall expire not later than December 31, 2028 , and may not be renewed beyond that date.
-      - **(ii)** The Secretary may terminate an exemption granted under subparagraph (B) prior to the expiration date of that exemption if the Secretary determines that the State agency—
-        - **(I)** has failed to comply with the reporting requirements described in subparagraph (E); or
-        - **(II)** based on the information provided pursuant to subparagraph (E), failed to make continued good faith efforts toward compliance with the requirements of this subsection.
-    - **(E)** A State agency granted an exemption under subparagraph (B) shall submit to the Secretary—
-      - **(i)** quarterly progress reports on the status of the State agency in achieving the milestones toward full compliance described in subparagraph (C)(iii); and
-      - **(ii)** information on specific risks or newly identified barriers or challenges to full compliance, including the plan of the State agency to mitigate those risks, barriers, or challenges.
-  - **(8)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
+    - **(B)** Subject to subparagraphs (C) through (G), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
+    - **(C)** Subject to subparagraphs (E) and (G), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+    - **(D)** Subject to subparagraphs (E) through (G), for fiscal year 1999 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+    - **(E)** The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C) or (D) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
+    - **(F)** During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+    - **(G)** A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+  - **(7)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 - **(p)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally obtained cash by purchasing products with supplemental nutrition assistance program benefits that have containers that require return deposits, discarding the product, and returning the container for the deposit amount shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 - **(q)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
-- **(r)**
-  - **(1)** An individual shall not be eligible for benefits under this chapter if—
-    - **(A)** the individual is convicted of—
-      - **(i)** aggravated sexual abuse under section 2241 of title 18 ;
-      - **(ii)** murder under section 1111 of title 18 ;
-      - **(iii)** an offense under chapter 110 of title 18;
-      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 3 3 So in original. Probably should be preceded by “section”. of title 42; or
-      - **(v)** an offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
-    - **(B)** the individual is not in compliance with the terms of the sentence of the individual or the restrictions under subsection (k).
-  - **(2)** The amount of benefits otherwise required to be provided to an eligible household under this chapter shall be determined by considering the individual to whom paragraph (1) applies not to be a member of the household, except that the income and resources of the individual shall be considered to be income and resources of the household.
-  - **(3)** Each State shall require each individual applying for benefits under this chapter to attest to whether the individual, or any member of the household of the individual, has been convicted of a crime described in paragraph (1).
-- **(s)**
-  - **(1)** Any household in which a member receives substantial lottery or gambling winnings, as determined by the Secretary, shall lose eligibility for benefits immediately upon receipt of the winnings.
-  - **(2)** A household described in paragraph (1) shall remain ineligible for participation until the household meets the allowable financial resources and income eligibility requirements under subsections (c), (d), (e), (f), (g), (i), (k), (l), (m), and (n) of section 2014 of this title .
-  - **(3)** As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.

@@ -3,13 +3,14 @@ title: "Section 12203 - Commissioned officers: appointment, how made; term"
 usc_title: 10
 usc_section: "12203"
 chapter: 1205
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 12203"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-03-30T03:04:17.336Z"
+status: "active"
 ---
 
 # § 12203. Commissioned officers: appointment, how made; term
 
 - **(a)** Appointments of reserve officers in commissioned grades of lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
-- **(b)** Subject to the authority, direction, and control of the President, the Secretary of Defense may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title , notwithstanding the requirements of subsection (a).
+- **(b)** Subject to the authority, direction, and control of the President, the Secretary concerned may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title , notwithstanding the requirements of subsection (a).
 - **(c)** Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.

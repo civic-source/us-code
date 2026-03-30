@@ -1,0 +1,33 @@
+---
+title: "Section 3532 - Definitions"
+usc_title: 44
+usc_section: "3532"
+chapter: 35
+current_through: "PL 113-21"
+classification: "44 U.S.C. § 3532"
+generated_at: "2026-03-30T03:06:01.368Z"
+status: "active"
+---
+
+# § 3532. Definitions
+
+- **(a)** Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.
+- **(b)** As used in this subchapter—
+  - **(1)** the term “information security” means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—
+    - **(A)** integrity, which means guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity;
+    - **(B)** confidentiality, which means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information;
+    - **(C)** availability, which means ensuring timely and reliable access to and use of information; and
+    - **(D)** authentication, which means utilizing digital credentials to assure the identity of users and validate their access;
+  - **(2)** the term “national security system” means any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency, the function, operation, or use of which—
+    - **(A)** involves intelligence activities;
+    - **(B)** involves cryptologic activities related to national security;
+    - **(C)** involves command and control of military forces;
+    - **(D)** involves equipment that is an integral part of a weapon or weapons system; or
+    - **(E)** is critical to the direct fulfillment of military or intelligence missions provided that this definition does not apply to a system that is used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications);
+  - **(3)** the term “information technology” has the meaning given that term in section 11101 of title 40 ; and
+  - **(4)** the term “information system” means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes—
+    - **(A)** computers and computer networks;
+    - **(B)** ancillary equipment;
+    - **(C)** software, firmware, and related procedures;
+    - **(D)** services, including support services; and
+    - **(E)** related resources.

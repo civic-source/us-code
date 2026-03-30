@@ -3,15 +3,16 @@ title: "Section 290ii - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290ii"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 290ii"
-generated_at: "2026-03-30T02:56:10.770Z"
+generated_at: "2026-03-30T03:06:22.361Z"
+status: "active"
 ---
 
 # § 290ii. Requirement relating to the rights of residents of certain facilities
 
 - **(a)** A public or private general hospital, nursing facility, intermediate care facility, or other health care facility, that receives support in any form from any program supported in whole or in part with funds appropriated to any Federal department or agency shall protect and promote the rights of each resident of the facility, including the right to be free from physical or mental abuse, corporal punishment, and any restraints or involuntary seclusions imposed for purposes of discipline or convenience.
-- **(b)** Restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) if—
+- **(b)** Restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) of this section if—
   - **(1)** the restraints or seclusion are imposed to ensure the physical safety of the resident, a staff member, or others; and
   - **(2)** the restraints or seclusion are imposed only upon the written order of a physician, or other licensed practitioner permitted by the State and the facility to order such restraint or seclusion, that specifies the duration and circumstances under which the restraints are to be used (except in emergency circumstances specified by the Secretary until such an order could reasonably be obtained).
 - **(c)** This part shall not be construed to affect or impede any Federal or State law or regulations that provide greater protections than this part regarding seclusion and restraint.

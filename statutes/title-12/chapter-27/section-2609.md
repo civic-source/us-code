@@ -3,9 +3,10 @@ title: "Section 2609 - Limitation on requirement of advance deposits in escrow a
 usc_title: 12
 usc_section: "2609"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2609"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-03-30T03:04:29.301Z"
+status: "active"
 ---
 
 # § 2609. Limitation on requirement of advance deposits in escrow accounts
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
     - **(A)** Any servicer that has established or continued an escrow account in connection with a federally related mortgage loan shall submit to the borrower for which the escrow account has been established or continued a statement clearly itemizing, for each period described in subparagraph (B) (during which the servicer services the escrow account), the amount of the borrower’s current monthly payment, the portion of the monthly payment being placed in the escrow account, the total amount paid into the escrow account during the period, the total amount paid out of the escrow account during the period for taxes, insurance premiums, and other charges (as separately identified), and the balance in the escrow account at the conclusion of the period.
     - **(B)** The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990 , and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
 - **(d)**
-  - **(1)** In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 1 1 So in original. Probably should be subsection “(c)”. may not exceed $100,000.
+  - **(1)** In the case of each failure to submit a statement to a borrower as required under subsection (c) of this section, the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) 1 1 So in original. Probably should be subsection “(c)”. of this section may not exceed $100,000.
   - **(2)** If any failure to which paragraph (1) applies is due to intentional disregard of the requirement to submit the statement, then, with respect to such failure—
     - **(A)** the penalty imposed under paragraph (1) shall be $100; and
     - **(B)** in the case of any penalty determined under subparagraph (A), the $100,000 limitation under paragraph (1) shall not apply.

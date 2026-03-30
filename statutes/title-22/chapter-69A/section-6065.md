@@ -3,9 +3,10 @@ title: "Section 6065 - Requirements and factors for determining transition gover
 usc_title: 22
 usc_section: "6065"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6065"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-03-30T03:04:53.693Z"
+status: "active"
 ---
 
 # § 6065. Requirements and factors for determining transition government
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
     - **(C)** allowing the establishment of independent trade unions as set forth in conventions 87 and 98 of the International Labor Organization, and allowing the establishment of independent social, economic, and political associations;
   - **(7)** does not include Fidel Castro or Raul Castro; and
   - **(8)** has given adequate assurances that it will allow the speedy and efficient distribution of assistance to the Cuban people.
-- **(b)** In addition to the requirements in subsection (a), in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
+- **(b)** In addition to the requirements in subsection (a) of this section, in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
   - **(1)** is demonstrably in transition from a communist totalitarian dictatorship to representative democracy;
   - **(2)** has made public commitments to, and is making demonstrable progress in—
     - **(A)** effectively guaranteeing the rights of free speech and freedom of the press, including granting permits to privately owned media and telecommunications companies to operate in Cuba;

@@ -3,9 +3,10 @@ title: "Section 1226a - Mandatory detention of suspected terrorists; habeas corp
 usc_title: 8
 usc_section: "1226a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1226a"
-generated_at: "2026-03-30T02:53:10.486Z"
+generated_at: "2026-03-30T03:04:14.627Z"
+status: "active"
 ---
 
 # § 1226a. Mandatory detention of suspected terrorists; habeas corpus; judicial review
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:10.486Z"
   - **(6)** An alien detained solely under paragraph (1) who has not been removed under section 1231(a)(1)(A) of this title , and whose removal is unlikely in the reasonably foreseeable future, may be detained for additional periods of up to six months only if the release of the alien will threaten the national security of the United States or the safety of the community or any person.
   - **(7)** The Attorney General shall review the certification made under paragraph (3) every 6 months. If the Attorney General determines, in the Attorney General’s discretion, that the certification should be revoked, the alien may be released on such conditions as the Attorney General deems appropriate, unless such release is otherwise prohibited by law. The alien may request each 6 months in writing that the Attorney General reconsider the certification and may submit documents or other evidence in support of that request.
 - **(b)**
-  - **(1)** Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6)) is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
+  - **(1)** Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6) of this section) is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
   - **(2)**
     - **(A)** Notwithstanding any other provision of law, including section 2241(a) of title 28 , habeas corpus proceedings described in paragraph (1) may be initiated only by an application filed with—
       - **(i)** the Supreme Court;

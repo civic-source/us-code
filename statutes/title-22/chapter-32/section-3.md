@@ -1,14 +1,15 @@
 ---
-title: "Section 3 - Authorization of appropriations"
+title: "Section 3 - Limitations"
 usc_title: 22
 usc_section: "3"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:05.359Z"
+generated_at: "2026-03-30T03:04:53.634Z"
+status: "active"
 ---
 
-# § 2349cc–3. Authorization of appropriations
+# § 2349bb–3. Limitations
 
-There is authorized to be appropriated $150,000,000 during the 5-year period beginning on October 1, 2023 , to carry out the purposes of this part.
+The limitations contained in section 2349aa–2(a) and (d) of this title shall apply to this part.
 

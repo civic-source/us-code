@@ -3,9 +3,10 @@ title: "Section 5197h - Minority emergency preparedness demonstration program"
 usc_title: 42
 usc_section: "5197h"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5197h"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-03-30T03:06:22.732Z"
+status: "active"
 ---
 
 # § 5197h. Minority emergency preparedness demonstration program
@@ -14,11 +15,11 @@ generated_at: "2026-03-30T02:56:11.227Z"
 - **(b)** An eligible nonprofit organization may use a grant, contract, or cooperative agreement awarded under this section—
   - **(1)** to conduct research into the status of emergency preparedness and disaster response awareness in African American and Hispanic households located in urban, suburban, and rural communities, particularly in those States and regions most impacted by natural and manmade disasters and emergencies; and
   - **(2)** to develop and promote awareness of emergency preparedness education programs within minority communities, including development and preparation of culturally competent educational and awareness materials that can be used to disseminate information to minority organizations and institutions.
-- **(c)** A nonprofit organization is eligible to be awarded a grant, contract, or cooperative agreement under this section with respect to a program if the organization is a nonprofit organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title, whose primary mission is to provide services to communities predominately populated by minority citizens, and that can demonstrate a partnership with a minority-owned business enterprise or minority business located in a HUBZone (as defined in section 632(p) 1 1 See References in Text note below. of title 15) with respect to the program.
+- **(c)** A nonprofit organization is eligible to be awarded a grant, contract, or cooperative agreement under this section with respect to a program if the organization is a nonprofit organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title, whose primary mission is to provide services to communities predominately populated by minority citizens, and that can demonstrate a partnership with a minority-owned business enterprise or minority business located in a HUBZone (as defined in section 632(p) of title 15 ) with respect to the program.
 - **(d)** A recipient of a grant, contract, or cooperative agreement awarded under this section may only use the proceeds of the grant, contract, or agreement to—
   - **(1)** acquire expert professional services necessary to conduct research in communities predominately populated by minority citizens, with a primary emphasis on African American and Hispanic communities;
   - **(2)** develop and prepare informational materials to promote awareness among minority communities about emergency preparedness and how to protect their households and communities in advance of disasters;
   - **(3)** establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
-  - **(4)** implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20 ), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20 ).
+  - **(4)** implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20 ), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 1 See References in Text note below. of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20 ).
 - **(e)** To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Administrator at such time, in such manner, and accompanied by such information as the Administrator may reasonably require. The Administrator shall establish a procedure by which to accept such applications.
 - **(f)** There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.

@@ -3,9 +3,10 @@ title: "Section 613 - Identification of reporting redundancies and development o
 usc_title: 6
 usc_section: "613"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 613"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-03-30T03:04:24.354Z"
+status: "active"
 ---
 
 # § 613. Identification of reporting redundancies and development of performance metrics
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:53:09.473Z"
     - **(B)** progress made in developing and implementing additional performance metrics and measures for grants, including as part of the comprehensive assessment system required under section 749 of this title ; and
   - **(3)** a performance assessment of each program under which the covered grants are awarded, including—
     - **(A)** a description of the objectives and goals of the program;
-    - **(B)** an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, section 612(a)(4) 1 1 See References in Text note below. of this title, and section 749 of this title ;
+    - **(B)** an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, section 612(a)(4) of this title , and section 749 of this title ;
     - **(C)** recommendations for any program modifications to improve the effectiveness of the program, to address changed or emerging conditions; and
     - **(D)** an assessment of the experience of recipients of covered grants, including the availability of clear and accurate information, the timeliness of reviews and awards, and the provision of technical assistance, and recommendations for improving that experience.
 - **(d)**

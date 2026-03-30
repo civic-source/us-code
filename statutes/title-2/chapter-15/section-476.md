@@ -3,9 +3,10 @@ title: "Section 476 - Technology Assessment Advisory Council"
 usc_title: 2
 usc_section: "476"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 476"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-03-30T03:04:04.419Z"
+status: "active"
 ---
 
 # § 476. Technology Assessment Advisory Council
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
   - **(2)** review and make recommendations to the Board on the findings of any assessment made by or for the Office; and
   - **(3)** undertake such additional related tasks as the Board may direct.
 - **(c)** The Council by majority vote, shall elect from its members appointed under subsection (a)(1) of this section a Chairman and a Vice Chairman, who shall serve for such time and under such conditions as the Council may prescribe. In the absence of the Chairman, or in the event of his incapacity, the Vice Chairman shall act as Chairman.
-- **(d)** The term of office of each member of the Council appointed under subsection (a)(1) shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) more than twice. Terms of the members appointed under subsection (a)(1) shall be staggered so as to establish a rotating membership according to such method as the Board may devise.
+- **(d)** The term of office of each member of the Council appointed under subsection (a)(1) of this section shall be four years except that any such member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No person shall be appointed a member of the Council under subsection (a)(1) of this section more than twice. Terms of the members appointed under subsection (a)(1) of this section shall be staggered so as to establish a rotating membership according to such method as the Board may devise.
 - **(e)**
-  - **(1)** The members of the Council other than those appointed under subsection (a)(1) shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in 1 1 So in original. Probably should be followed by “section”. 5704 of title 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5 , and regulations promulgated thereunder.
-  - **(2)** The members of the Council appointed under subsection (a)(1) shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5 , and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
+  - **(1)** The members of the Council other than those appointed under subsection (a)(1) of this section shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in 1 1 So in original. Probably should be followed by “section”. 5704 of title 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5 , and regulations promulgated thereunder.
+  - **(2)** The members of the Council appointed under subsection (a)(1) of this section shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5 , and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.

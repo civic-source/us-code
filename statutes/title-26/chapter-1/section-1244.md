@@ -3,9 +3,10 @@ title: "Section 1244 - Losses on small business stock"
 usc_title: 26
 usc_section: "1244"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1244"
-generated_at: "2026-03-30T02:55:27.761Z"
+generated_at: "2026-03-30T03:05:18.648Z"
+status: "active"
 ---
 
 # § 1244. Losses on small business stock
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:55:27.761Z"
       - **(i)** the period of the corporation’s taxable years ending before such date, or
       - **(ii)** if the corporation has not been in existence for 1 taxable year ending before such date, the period such corporation has been in existence before such date.
     - **(B)** For purposes of paragraph (1)(C), gross receipts from the sales or exchanges of stock or securities shall be taken into account only to the extent of gains therefrom.
-    - **(C)** Paragraph (1)(C) shall not apply with respect to any corporation if, for the period taken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, and 245) exceeds the amount of gross income.
+    - **(C)** Paragraph (1)(C) shall not apply with respect to any corporation if, for the period taken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, 244, and 245) exceeds the amount of gross income.
   - **(3)**
     - **(A)** For purposes of this section, a corporation shall be treated as a small business corporation if the aggregate amount of money and other property received by the corporation for stock, as a contribution to capital, and as paid-in surplus, does not exceed $1,000,000. The determination under the preceding sentence shall be made as of the time of the issuance of the stock in question but shall include amounts received for such stock and for all stock theretofore issued.
     - **(B)** For purposes of subparagraph (A), the amount taken into account with respect to any property other than money shall be the amount equal to the adjusted basis to the corporation of such property for determining gain, reduced by any liability to which the property was subject or which was assumed by the corporation. The determination under the preceding sentence shall be made as of the time the property was received by the corporation.

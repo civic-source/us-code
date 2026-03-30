@@ -3,9 +3,10 @@ title: "Section 431 - Report of labor organizations"
 usc_title: 29
 usc_section: "431"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 431"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-03-30T03:05:09.675Z"
+status: "active"
 ---
 
 # § 431. Report of labor organizations
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(2)** the name and title of each of its officers;
   - **(3)** the initiation fee or fees required from a new or transferred member and fees for work permits required by the reporting labor organization;
   - **(4)** the regular dues or fees or other periodic payments required to remain a member of the reporting labor organization; and
-  - **(5)** detailed statements, or references to specific provisions of documents filed under this subsection which contain such statements, showing the provision made and procedures followed with respect to each of the following: (A) qualifications for or restrictions on membership, (B) levying of assessments, (C) participation in insurance or other benefit plans, (D) authorization for disbursement of funds of the labor organization, (E) audit of financial transactions of the labor organization, (F) the calling of regular and special meetings, (G) the selection of officers and stewards and of any representatives to other bodies composed of labor organizations’ representatives, with a specific statement of the manner in which each officer was elected, appointed, or otherwise selected, (H) discipline or removal of officers or agents for breaches of their trust, (I) imposition of fines, suspensions, and expulsions of members, including the grounds for such action and any provision made for notice, hearing, judgment on the evidence, and appeal procedures, (J) authorization for bargaining demands, (K) ratification of contract terms, (L) authorization for strikes, and (M) issuance of work permits. Any change in the information required by this subsection shall be reported to the Secretary at the time the reporting labor organization files with the Secretary the annual financial report required by subsection (b).
+  - **(5)** detailed statements, or references to specific provisions of documents filed under this subsection which contain such statements, showing the provision made and procedures followed with respect to each of the following: (A) qualifications for or restrictions on membership, (B) levying of assessments, (C) participation in insurance or other benefit plans, (D) authorization for disbursement of funds of the labor organization, (E) audit of financial transactions of the labor organization, (F) the calling of regular and special meetings, (G) the selection of officers and stewards and of any representatives to other bodies composed of labor organizations’ representatives, with a specific statement of the manner in which each officer was elected, appointed, or otherwise selected, (H) discipline or removal of officers or agents for breaches of their trust, (I) imposition of fines, suspensions, and expulsions of members, including the grounds for such action and any provision made for notice, hearing, judgment on the evidence, and appeal procedures, (J) authorization for bargaining demands, (K) ratification of contract terms, (L) authorization for strikes, and (M) issuance of work permits. Any change in the information required by this subsection shall be reported to the Secretary at the time the reporting labor organization files with the Secretary the annual financial report required by subsection (b) of this section.
 - **(b)** Every labor organization shall file annually with the Secretary a financial report signed by its president and treasurer or corresponding principal officers containing the following information in such detail as may be necessary accurately to disclose its financial condition and operations for its preceding fiscal year—
   - **(1)** assets and liabilities at the beginning and end of the fiscal year;
   - **(2)** receipts of any kind and the sources thereof;

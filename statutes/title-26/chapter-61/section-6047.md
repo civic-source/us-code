@@ -3,9 +3,10 @@ title: "Section 6047 - Information relating to certain trusts and annuity plans"
 usc_title: 26
 usc_section: "6047"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6047"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-03-30T03:05:18.711Z"
+status: "active"
 ---
 
 # § 6047. Information relating to certain trusts and annuity plans
@@ -24,9 +25,7 @@ generated_at: "2026-03-30T02:55:27.833Z"
   - **(1)** any employer maintaining, or the plan administrator (within the meaning of section 414(g)) of, an employee stock ownership plan which holds stock with respect to which section 404(k) applies to dividends paid on such stock, or
   - **(2)** both such employer or plan administrator,
 - **(f)** The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
-- **(g)** This section shall not apply to any information which is required to be reported under section 6050Y.
-- **(h)**
+- **(g)**
   - **(1)** For provisions relating to penalties for failures to file returns and reports required under this section, see sections 6652(e), 6721, and 6722.
   - **(2)** For criminal penalty for furnishing fraudulent information, see section 7207.
   - **(3)** For provisions relating to penalty for failure to comply with the provisions of subsection (d), see section 6704.
-  - **(4)** For provisions requiring reporting of information relating to certain life insurance contract transactions, see section 6050Y.

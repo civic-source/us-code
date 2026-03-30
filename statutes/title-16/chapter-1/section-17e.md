@@ -1,12 +1,15 @@
 ---
-title: "Section 17e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 17e - Care and removal of indigents; disposition of dead persons"
 usc_title: 16
 usc_section: "17e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 17e"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.397Z"
+status: "active"
 ---
 
-# § 17e. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 17e. Care and removal of indigents; disposition of dead persons
+
+The Secretary of the Interior is authorized, in his discretion, to provide, out of moneys appropriated for the general expenses of the several national parks, for the temporary care and removal from the park of indigents, and in case of death to provide for their burial in those national parks not under local jurisdiction for these purposes, this section in no case to authorize transportation of such indigent or dead for a distance of more than fifty miles from the national park.
 

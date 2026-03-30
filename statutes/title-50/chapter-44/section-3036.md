@@ -3,9 +3,10 @@ title: "Section 3036 - Director of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3036"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3036"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-03-30T03:06:37.688Z"
+status: "active"
 ---
 
 # § 3036. Director of the Central Intelligence Agency
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
 - **(b)** The Director of the Central Intelligence Agency shall report to the Director of National Intelligence regarding the activities of the Central Intelligence Agency.
 - **(c)** The Director of the Central Intelligence Agency shall—
   - **(1)** serve as the head of the Central Intelligence Agency; and
-  - **(2)** carry out the responsibilities specified in subsection (d).
+  - **(2)** carry out the responsibilities specified in subsection (d) of this section.
 - **(d)** The Director of the Central Intelligence Agency shall—
   - **(1)** collect intelligence through human sources and by other appropriate means, except that the Director of the Central Intelligence Agency shall have no police, subpoena, or law enforcement powers or internal security functions;
   - **(2)** correlate and evaluate intelligence related to the national security and provide appropriate dissemination of such intelligence;
@@ -24,3 +25,6 @@ generated_at: "2026-03-30T02:56:26.229Z"
   - **(1)** Notwithstanding the provisions of any other law, the Director of the Central Intelligence Agency may, in the discretion of the Director, terminate the employment of any officer or employee of the Central Intelligence Agency whenever the Director deems the termination of employment of such officer or employee necessary or advisable in the interests of the United States.
   - **(2)** Any termination of employment of an officer or employee under paragraph (1) shall not affect the right of the officer or employee to seek or accept employment in any other department, agency, or element of the United States Government if declared eligible for such employment by the Office of Personnel Management.
 - **(f)** Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22 , the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+- **(g)**
+  - **(1)** Except as provided pursuant to paragraph (2), an individual in the Directorate of Intelligence career service or the National Clandestine Service career service may not be appointed or promoted to a position in the Senior Intelligence Service in the Directorate of Intelligence or the National Clandestine Service of the Central Intelligence Agency unless the Director of the Central Intelligence Agency determines that the individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.
+  - **(2)** The Director of the Central Intelligence Agency may, in the discretion of the Director, waive the application of paragraph (1) to any position, category of positions, or occupation otherwise covered by that paragraph if the Director determines that foreign language proficiency is not necessary for the successful performance of the duties and responsibilities of such position, category of positions, or occupation.

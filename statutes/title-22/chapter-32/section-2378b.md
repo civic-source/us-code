@@ -1,14 +1,15 @@
 ---
-title: "Section 2378b - Limitation on assistance to the Palestinian Authority"
+title: "Section 2378b - Limitation on assistance to the Palestinian authority"
 usc_title: 22
 usc_section: "2378b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2378b"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-03-30T03:04:53.636Z"
+status: "active"
 ---
 
-# § 2378b. Limitation on assistance to the Palestinian Authority
+# § 2378b. Limitation on assistance to the Palestinian authority
 
 - **(a)** Assistance may be provided under this chapter to the Hamas-controlled Palestinian Authority only during a period for which a certification described in subsection (b) is in effect.
 - **(b)** A certification described in subsection (a) is a certification transmitted by the President to Congress that contains a determination of the President that—

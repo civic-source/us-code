@@ -3,9 +3,10 @@ title: "Section 3613 - Administrator"
 usc_title: 22
 usc_section: "3613"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3613"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-03-30T03:04:53.663Z"
+status: "active"
 ---
 
 # § 3613. Administrator
@@ -18,5 +19,5 @@ generated_at: "2026-03-30T02:55:05.395Z"
     - **(A)** the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 611 et seq.), shall not apply to that individual with respect to service as the Administrator of the Panama Canal Authority;
     - **(B)** that individual, with respect to participation in any particular matter as the Administrator of the Panama Canal Commission, is not subject to section 208(a) of title 18 , insofar as that section would otherwise apply to that matter only because the matter will have a direct and predictable effect on the financial interest of the Panama Canal Authority;
     - **(C)** that individual is not subject to sections 203 and 205 of title 18, with respect to official acts performed as an agent or attorney for or otherwise representing the Panama Canal Authority; and
-    - **(D)** that individual is not subject to sections 13143(a) and 13144(a)(4) of title 5, with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
+    - **(D)** that individual is not subject to sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.), with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
   - **(2)** effective upon termination of the individual’s appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to section 207 of title 18 , with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.

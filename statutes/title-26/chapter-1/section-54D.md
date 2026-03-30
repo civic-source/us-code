@@ -1,0 +1,56 @@
+---
+title: "Section 54D - Qualified energy conservation bonds"
+usc_title: 26
+usc_section: "54D"
+chapter: 1
+current_through: "PL 113-21"
+classification: "26 U.S.C. § 54D"
+generated_at: "2026-03-30T03:05:18.533Z"
+status: "active"
+---
+
+# § 54D. Qualified energy conservation bonds
+
+- **(a)** For purposes of this subchapter, the term “qualified energy conservation bond” means any bond issued as part of an issue if—
+  - **(1)** 100 percent of the available project proceeds of such issue are to be used for one or more qualified conservation purposes,
+  - **(2)** the bond is issued by a State or local government, and
+  - **(3)** the issuer designates such bond for purposes of this section.
+- **(b)** The annual credit determined under section 54A(b) with respect to any qualified energy conservation bond shall be 70 percent of the amount so determined without regard to this subsection.
+- **(c)** The maximum aggregate face amount of bonds which may be designated under subsection (a) by any issuer shall not exceed the limitation amount allocated to such issuer under subsection (e).
+- **(d)** There is a national qualified energy conservation bond limitation of $3,200,000,000.
+- **(e)**
+  - **(1)** The limitation applicable under subsection (d) shall be allocated by the Secretary among the States in proportion to the population of the States.
+  - **(2)**
+    - **(A)** In the case of any State in which there is a large local government, each such local government shall be allocated a portion of such State’s allocation which bears the same ratio to the State’s allocation (determined without regard to this subparagraph) as the population of such large local government bears to the population of such State.
+    - **(B)** The amount allocated under this subsection to a large local government may be reallocated by such local government to the State in which such local government is located.
+    - **(C)** For purposes of this section, the term “large local government” means any municipality or county if such municipality or county has a population of 100,000 or more.
+  - **(3)** Any allocation under this subsection to a State or large local government shall be allocated by such State or large local government to issuers within the State in a manner that results in not less than 70 percent of the allocation to such State or large local government being used to designate bonds which are not private activity bonds.
+  - **(4)** In the case of any bond issued for the purpose of providing loans, grants, or other repayment mechanisms for capital expenditures to implement green community programs, such bond shall not be treated as a private activity bond for purposes of paragraph (3).
+- **(f)** For purposes of this section—
+  - **(1)** The term “qualified conservation purpose” means any of the following:
+    - **(A)** Capital expenditures incurred for purposes of—
+      - **(i)** reducing energy consumption in publicly-owned buildings by at least 20 percent,
+      - **(ii)** implementing green community programs (including the use of loans, grants, or other repayment mechanisms to implement such programs),
+      - **(iii)** rural development involving the production of electricity from renewable energy resources, or
+      - **(iv)** any qualified facility (as determined under section 45(d) without regard to paragraphs (8) and (10) thereof and without regard to any placed in service date).
+    - **(B)** Expenditures with respect to research facilities, and research grants, to support research in—
+      - **(i)** development of cellulosic ethanol or other nonfossil fuels,
+      - **(ii)** technologies for the capture and sequestration of carbon dioxide produced through the use of fossil fuels,
+      - **(iii)** increasing the efficiency of existing technologies for producing nonfossil fuels,
+      - **(iv)** automobile battery technologies and other technologies to reduce fossil fuel consumption in transportation, or
+      - **(v)** technologies to reduce energy use in buildings.
+    - **(C)** Mass commuting facilities and related facilities that reduce the consumption of energy, including expenditures to reduce pollution from vehicles used for mass commuting.
+    - **(D)** Demonstration projects designed to promote the commercialization of—
+      - **(i)** green building technology,
+      - **(ii)** conversion of agricultural waste for use in the production of fuel or otherwise,
+      - **(iii)** advanced battery manufacturing technologies,
+      - **(iv)** technologies to reduce peak use of electricity, or
+      - **(v)** technologies for the capture and sequestration of carbon dioxide emitted from combusting fossil fuels in order to produce electricity.
+    - **(E)** Public education campaigns to promote energy efficiency.
+  - **(2)** For purposes of this section, in the case of any private activity bond, the term “qualified conservation purposes” shall not include any expenditure which is not a capital expenditure.
+- **(g)**
+  - **(1)** The population of any State or local government shall be determined for purposes of this section as provided in section 146(j) for the calendar year which includes the date of the enactment of this section.
+  - **(2)** In determining the population of any county for purposes of this section, any population of such county which is taken into account in determining the population of any municipality which is a large local government shall not be taken into account in determining the population of such county.
+- **(h)** An Indian tribal government shall be treated for purposes of this section in the same manner as a large local government, except that—
+  - **(1)** an Indian tribal government shall be treated for purposes of subsection (e) as located within a State to the extent of so much of the population of such government as resides within such State, and
+  - **(2)** any bond issued by an Indian tribal government shall be treated as a qualified energy conservation bond only if issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to which section 103(a) applies.

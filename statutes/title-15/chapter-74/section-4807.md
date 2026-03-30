@@ -3,9 +3,10 @@ title: "Section 4807 - Annual report"
 usc_title: 15
 usc_section: "4807"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4807"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-03-30T03:04:31.229Z"
+status: "active"
 ---
 
 # § 4807. Annual report
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(2)** the policies needed to meet such goals;
   - **(3)** a summary of existing policies of the Federal Government or State and local governments significantly affecting the competitiveness of the United States economy; and
   - **(4)** a summary of significant economic and technological developments, in the United States and abroad, affecting the competitive position of United States industries.
-- **(b)** The report submitted under subsection (a) shall—
+- **(b)** The report submitted under subsection (a) of this section shall—
   - **(1)** identify and describe actual or foreseeable developments, in the United States and abroad, which—
     - **(A)** create a significant likelihood of a competitive challenge to, or of substantial dislocation in, an established United States industry;
     - **(B)** present significant opportunities for United States industries to compete in new geographical markets or product markets, or to expand the position of such industries in established markets; or

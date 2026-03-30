@@ -3,9 +3,10 @@ title: "Section 6531 - Periods of limitation on criminal prosecutions"
 usc_title: 26
 usc_section: "6531"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6531"
-generated_at: "2026-03-30T02:55:27.858Z"
+generated_at: "2026-03-30T03:05:18.731Z"
+status: "active"
 ---
 
 # § 6531. Periods of limitation on criminal prosecutions
@@ -19,4 +20,4 @@ No person shall be prosecuted, tried, or punished for any of the various offense
   - **(5)** for offenses described in sections 7206(1) and 7207 (relating to false statements and fraudulent documents);
   - **(6)** for the offense described in section 7212(a) (relating to intimidation of officers and employees of the United States);
   - **(7)** for offenses described in section 7214(a) committed by officers and employees of the United States; and
-  - **(8)** for offenses arising under section 371 of Title 18 of the United States Code, where the object of the conspiracy is to attempt in any manner to evade or defeat any tax or the payment thereof.
+  - **(8)** for offenses arising under section 371 of Title 18 of the United States Code, where the object of the conspiracy is to attempt in any manner to evade or defeat any tax or the payment thereof. The time during which the person committing any of the various offenses arising under the internal revenue laws is outside the United States or is a fugitive from justice within the meaning of section 3290 of Title 18 of the United States Code, shall not be taken as any part of the time limited by law for the commencement of such proceedings. (The preceding sentence shall also be deemed an amendment to section 3748(a) of the Internal Revenue Code of 1939, and shall apply in lieu of the sentence in section 3748(a) which relates to the time during which a person committing an offense is absent from the district wherein the same is committed, except that such amendment shall apply only if the period of limitations under section 3748 would, without the application of such amendment, expire more than 3 years after the date of enactment of this title, and except that such period shall not, with the application of this amendment, expire prior to the date which is 3 years after the date of enactment of this title.) Where a complaint is instituted before a commissioner of the United States within the period above limited, the time shall be extended until the date which is 9 months after the date of the making of the complaint before the commissioner of the United States. For the purpose of determining the periods of limitation on criminal prosecutions, the rules of section 6513 shall be applicable.

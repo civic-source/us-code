@@ -1,12 +1,15 @@
 ---
-title: "Section 2245a - Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(A) , Dec. 23, 2016 , 130 Stat. 2284 ]"
+title: "Section 2245a - Use of operation and maintenance funds for purchase of investment items: limitation"
 usc_title: 10
 usc_section: "2245a"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2245a"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-03-30T03:04:17.274Z"
+status: "active"
 ---
 
-# [§ 2245a. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(A) , Dec. 23, 2016 , 130 Stat. 2284 ]
+# § 2245a. Use of operation and maintenance funds for purchase of investment items: limitation
+
+Funds appropriated to the Department of Defense for operation and maintenance may not be used to purchase any item (including any item to be acquired as a replacement for an item) that has an investment item unit cost that is greater than $250,000.
 

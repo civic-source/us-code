@@ -1,12 +1,15 @@
 ---
-title: "Section 127a - Transferred"
+title: "Section 127a - Reimbursement of transportation expenses for employees in office of House Member"
 usc_title: 2
 usc_section: "127a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 127a"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-03-30T03:04:04.405Z"
+status: "active"
 ---
 
-# § 127a. Transferred
+# § 127a. Reimbursement of transportation expenses for employees in office of House Member
+
+The applicable accounts of the House of Representatives is 1 1 So in original. Probably should be “are”. made available after August 28, 1965 , for reimbursement of transportation expenses incurred by not to exceed two employees in the office of a Member of the House of Representatives (including the Resident Commissioner from Puerto Rico) for one round trip each, or incurred by not to exceed one employee for two round trips, in any calendar year between Washington, District of Columbia, and the place of residence of the Member representing the congressional district involved. Such payment shall be made only upon vouchers approved by the Member containing a certification by him that such travel was performed in line of official duty, but the mileage allowed for any such trip shall not exceed the round trip mileage by the nearest usual route between Washington, District of Columbia, and the Member’s place of residence in the congressional district involved. The Committee on House Oversight of the House of Representatives shall make such rules and regulations as may be necessary to carry out this section.
 

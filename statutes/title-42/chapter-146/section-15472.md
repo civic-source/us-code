@@ -1,12 +1,15 @@
 ---
-title: "Section 15472 - Transferred"
+title: "Section 15472 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15472"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15472"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-03-30T03:06:22.961Z"
+status: "active"
 ---
 
-# § 15472. Transferred
+# § 15472. Authorization of appropriations
+
+There are authorized to be appropriated to carry out the provisions of this part $200,000 for fiscal year 2003 and such sums as may be necessary for each of the 6 succeeding fiscal years.
 

@@ -3,14 +3,15 @@ title: "Section 5106i - Rule of construction"
 usc_title: 42
 usc_section: "5106i"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5106i"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-03-30T03:06:22.725Z"
+status: "active"
 ---
 
 # § 5106i. Rule of construction
 
-- **(a)** Nothing in this subchapter and subchapter III shall be construed—
+- **(a)** Nothing in this subchapter and subchapter III of this chapter shall be construed—
   - **(1)** as establishing a Federal requirement that a parent or legal guardian provide a child any medical service or treatment against the religious beliefs of the parent or legal guardian; and
   - **(2)** to require that a State find, or to prohibit a State from finding, child abuse or neglect in cases in which a parent or legal guardian relies solely or partially upon spiritual means rather than medical treatment, in accordance with the religious beliefs of the parent or legal guardian.
-- **(b)** Notwithstanding subsection (a), a State shall, at a minimum, have in place authority under State law to permit the child protective services system of the State to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, to provide medical care or treatment for a child when such care or treatment is necessary to prevent or remedy serious harm to the child, or to prevent the withholding of medically indicated treatment from children with life threatening conditions. Except with respect to the withholding of medically indicated treatments from disabled infants with life threatening conditions, case by case determinations concerning the exercise of the authority of this subsection shall be within the sole discretion of the State.
+- **(b)** Notwithstanding subsection (a) of this section, a State shall, at a minimum, have in place authority under State law to permit the child protective services system of the State to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, to provide medical care or treatment for a child when such care or treatment is necessary to prevent or remedy serious harm to the child, or to prevent the withholding of medically indicated treatment from children with life threatening conditions. Except with respect to the withholding of medically indicated treatments from disabled infants with life threatening conditions, case by case determinations concerning the exercise of the authority of this subsection shall be within the sole discretion of the State.

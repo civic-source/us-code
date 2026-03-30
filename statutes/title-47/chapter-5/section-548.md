@@ -3,9 +3,10 @@ title: "Section 548 - Development of competition and diversity in video programm
 usc_title: 47
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 548"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-03-30T03:06:26.231Z"
+status: "active"
 ---
 
 # § 548. Development of competition and diversity in video programming distribution
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
 - **(a)** The purpose of this section is to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market, to increase the availability of satellite cable programming and satellite broadcast programming to persons in rural and other areas not currently able to receive such programming, and to spur the development of communications technologies.
 - **(b)** It shall be unlawful for a cable operator, a satellite cable programming vendor in which a cable operator has an attributable interest, or a satellite broadcast programming vendor to engage in unfair methods of competition or unfair or deceptive acts or practices, the purpose or effect of which is to hinder significantly or to prevent any multichannel video programming distributor from providing satellite cable programming or satellite broadcast programming to subscribers or consumers.
 - **(c)**
-  - **(1)** Within 180 days after October 5, 1992 , the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b).
+  - **(1)** Within 180 days after October 5, 1992 , the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
   - **(2)** The regulations to be promulgated under this section shall—
     - **(A)** establish effective safeguards to prevent a cable operator which has an attributable interest in a satellite cable programming vendor or a satellite broadcast programming vendor from unduly or improperly influencing the decision of such vendor to sell, or the prices, terms, and conditions of sale of, satellite cable programming or satellite broadcast programming to any unaffiliated multichannel video programming distributor;
     - **(B)** prohibit discrimination by a satellite cable programming vendor in which a cable operator has an attributable interest or by a satellite broadcast programming vendor in the prices, terms, and conditions of sale or delivery of satellite cable programming or satellite broadcast programming among or between cable systems, cable operators, or other multichannel video programming distributors, or their agents or buying groups; except that such a satellite cable programming vendor in which a cable operator has an attributable interest or such a satellite broadcast programming vendor shall not be prohibited from—
@@ -33,20 +34,21 @@ generated_at: "2026-03-30T02:56:24.520Z"
     - **(D)** the effect of such exclusive contract on diversity of programming in the multichannel video programming distribution market; and
     - **(E)** the duration of the exclusive contract.
   - **(5)** The prohibition required by paragraph (2)(D) shall cease to be effective 10 years after October 5, 1992 , unless the Commission finds, in a proceeding conducted during the last year of such 10-year period, that such prohibition continues to be necessary to preserve and protect competition and diversity in the distribution of video programming.
-- **(d)** Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b), or the regulations of the Commission under subsection (c), may commence an adjudicatory proceeding at the Commission.
+- **(d)** Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
 - **(e)**
   - **(1)** Upon completion of such adjudicatory proceeding, the Commission shall have the power to order appropriate remedies, including, if necessary, the power to establish prices, terms, and conditions of sale of programming to the aggrieved multichannel video programming distributor.
-  - **(2)** The remedies provided in paragraph (1) are in addition to and not in lieu of the remedies available under subchapter V or any other provision of this chapter.
+  - **(2)** The remedies provided in paragraph (1) are in addition to and not in lieu of the remedies available under subchapter V of this chapter or any other provision of this chapter.
 - **(f)** The Commission shall prescribe regulations to implement this section. The Commission’s regulations shall—
   - **(1)** provide for an expedited review of any complaints made pursuant to this section;
   - **(2)** establish procedures for the Commission to collect such data, including the right to obtain copies of all contracts and documents reflecting arrangements and understandings alleged to violate this section, as the Commission requires to carry out this section; and
   - **(3)** provide for penalties to be assessed against any person filing a frivolous complaint pursuant to this section.
-- **(g)** Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
+- **(g)** The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c) of this section, annually report to Congress on the status of competition in the market for the delivery of video programming.
 - **(h)**
-  - **(1)** Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990 , except that the provisions of subsection (c)(2)(C) shall apply for distribution to persons in areas not served by a cable operator.
+  - **(1)** Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990 , except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
   - **(2)** A contract that was entered into on or before June 1, 1990 , but that is renewed or extended after October 5, 1992 , shall not be exempt under paragraph (1).
 - **(i)** As used in this section:
   - **(1)** The term “satellite cable programming” has the meaning provided under section 605 of this title , except that such term does not include satellite broadcast programming.
   - **(2)** The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
   - **(3)** The term “satellite broadcast programming” means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
   - **(4)** The term “satellite broadcast programming vendor” means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
+- **(j)** Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).

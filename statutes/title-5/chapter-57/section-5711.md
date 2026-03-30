@@ -1,14 +1,15 @@
 ---
-title: "Section 5711 - Authority for telework travel expenses programs"
+title: "Section 5711 - Authority for telework travel expenses test programs"
 usc_title: 5
 usc_section: "5711"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 5711"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-03-30T03:04:06.083Z"
+status: "active"
 ---
 
-# § 5711. Authority for telework travel expenses programs
+# § 5711. Authority for telework travel expenses test programs
 
 - **(a)** Except as provided under subsection (f)(1), in this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
@@ -28,28 +29,28 @@ generated_at: "2026-03-30T02:52:56.024Z"
     - **(D)** any other information the agency determines useful to aid the Administrator, Telework Managing Officer, and Congress in understanding the test program and the impact of the program.
 - **(e)** No more than 10 test programs under this section may be conducted simultaneously.
 - **(f)**
-  - **(1)** In this subsection, the term “appropriate committees of Congress” means—
+  - **(1)** In this subsection, the term “appropriate committee of Congress” means—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
-    - **(B)** the Committee on Oversight and Reform of the House of Representatives;
+    - **(B)** the Committee on Oversight and Government Reform of the House of Representatives;
     - **(C)** the Committee on the Judiciary of the Senate; and
     - **(D)** the Committee on the Judiciary of the House of Representatives.
-  - **(2)** The Patent and Trademark Office shall conduct a program under this subsection.
+  - **(2)** The Patent and Trademark Office shall conduct a test program under this section, including the provision of reports in accordance with subsection (d)(1).
   - **(3)** In conducting the program under this subsection, the Patent and Trademark Office may pay any travel expenses of an employee for travel to and from a Patent and Trademark Office worksite or provide an employee with the option to waive any payment authorized or required under this subchapter, if—
     - **(A)** the employee is employed at a Patent and Trademark Office worksite and enters into an approved telework arrangement;
     - **(B)** the employee requests to telework from a location beyond the local commuting area of the Patent and Trademark Office worksite; and
     - **(C)** the Patent and Trademark Office approves the requested arrangement for reasons of employee convenience instead of an agency need for the employee to relocate in order to perform duties specific to the new location.
   - **(4)**
     - **(A)** The Patent and Trademark Office shall establish an oversight committee comprising an equal number of members representing management and labor, including representatives from each collective bargaining unit.
-    - **(B)** The oversight committee shall develop and maintain the operating procedures for the program under this subsection to—
+    - **(B)** The oversight committee shall develop the operating procedures for the program under this subsection to—
       - **(i)** provide for the effective and appropriate functioning of the program; and
       - **(ii)** ensure that—
         - **(I)** reasonable technological or other alternatives to employee travel are used before requiring employee travel, including teleconferencing, videoconferencing or internet-based technologies;
         - **(II)** the program is applied consistently and equitably throughout the Patent and Trademark Office; and
         - **(III)** an optimal operating standard is developed and implemented for maximizing the use of the telework arrangement described under paragraph (2) while minimizing agency travel expenses and employee travel requirements.
   - **(5)**
-    - **(A)** The program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
-    - **(B)** The Director of the Patent and Trademark Office shall prepare and submit to the appropriate committees of Congress an annual report on the operation of the program under this subsection, which shall include—
-      - **(i)** the costs and benefits of the program; and
-      - **(ii)** an analysis of the effectiveness of the program, as determined under criteria developed by the Director.
+    - **(A)** The test program under this subsection shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
+    - **(B)** The Director of the Patent and Trademark Office shall—
+      - **(i)** prepare an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program; and
+      - **(ii)** before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.
     - **(C)** With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
-- **(g)** The authority to conduct test programs under subsection (b) shall expire on December 31, 2020 .
+- **(g)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2010.

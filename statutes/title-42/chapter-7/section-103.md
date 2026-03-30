@@ -3,9 +3,10 @@ title: "Section 103 - Access to a choice of qualified prescription drug coverage
 usc_title: 42
 usc_section: "103"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 103"
-generated_at: "2026-03-30T02:56:10.982Z"
+generated_at: "2026-03-30T03:06:22.521Z"
+status: "active"
 ---
 
 # § 1395w–103. Access to a choice of qualified prescription drug coverage
@@ -18,6 +19,6 @@ generated_at: "2026-03-30T02:56:10.982Z"
     - **(B)** an MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title that provides—
       - **(i)** basic prescription drug coverage; or
       - **(ii)** qualified prescription drug coverage that provides supplemental prescription drug coverage so long as there is no MA monthly supplemental beneficiary premium applied under the plan, due to the application of a credit against such premium of a rebate under section 1395w–24(b)(1)(C) of this title .
-- **(b)** In order to ensure access pursuant to subsection (a) in an area—
+- **(b)** In order to ensure access pursuant to subsection (a) of this section in an area—
   - **(1)** the Secretary may approve limited risk plans under section 1395w–111(f) of this title for the area; and
   - **(2)** only if such access is still not provided in the area after applying paragraph (1), the Secretary shall provide for the offering of a fallback prescription drug plan for that area under section 1395w–111(g) of this title .

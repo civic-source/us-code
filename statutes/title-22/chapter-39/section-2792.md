@@ -3,9 +3,10 @@ title: "Section 2792 - Administrative expenses"
 usc_title: 22
 usc_section: "2792"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2792"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-03-30T03:04:53.656Z"
+status: "active"
 ---
 
 # § 2792. Administrative expenses

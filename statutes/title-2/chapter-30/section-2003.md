@@ -3,9 +3,10 @@ title: "Section 2003 - Speaker as member of House Office Building commission"
 usc_title: 2
 usc_section: "2003"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2003"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-03-30T03:04:04.442Z"
+status: "active"
 ---
 
 # § 2003. Speaker as member of House Office Building commission

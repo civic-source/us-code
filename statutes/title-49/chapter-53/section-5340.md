@@ -3,15 +3,18 @@ title: "Section 5340 - Apportionments based on growing States and high density S
 usc_title: 49
 usc_section: "5340"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5340"
-generated_at: "2026-03-30T02:56:19.318Z"
+generated_at: "2026-03-30T03:06:29.282Z"
+status: "active"
 ---
 
 # § 5340. Apportionments based on growing States and high density States formula factors
 
 - **(a)** In this section, the term “State” shall mean each of the 50 States of the United States.
-- **(b)** The Secretary shall apportion the amounts made available under section 5338(b)(2)(N) 1 1 So in original. Probably should have been “section 5338(a)(2)(N)” in original. See References in Text note below. in accordance with subsection (c) and subsection (d).
+- **(b)** Of the amounts made available for each fiscal year under section 5338(b)(2)(M), 1 1 See References in Text note below. the Secretary shall apportion—
+  - **(1)** 50 percent to States and urbanized areas in accordance with subsection (c); and
+  - **(2)** 50 percent to States and urbanized areas in accordance with subsection (d).
 - **(c)**
   - **(1)** The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
   - **(2)**

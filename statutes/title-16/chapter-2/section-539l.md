@@ -3,9 +3,10 @@ title: "Section 539l - Designation of James Peak Protection Area, Colorado"
 usc_title: 16
 usc_section: "539l"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 539l"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-03-30T03:04:48.493Z"
+status: "active"
 ---
 
 # § 539l. Designation of James Peak Protection Area, Colorado
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
     - **(C)**
       - **(i)** Not later than two years after August 21, 2002 , the Secretary, in consultation with interested parties, shall complete a review and inventory of all roads and trails in the Protection Area on which use was allowed on September 10, 2001 , except those lands managed under the management prescription referred to in subparagraph (F). During the review and inventory, the Secretary may—
         - **(I)** connect existing roads and trails in the inventoried area to other existing roads and trails in the inventoried area for the purpose of mechanized and other nonmotorized use on any lands within the Protection Area as long as there is no net gain in the total mileage of either roads or trails open for public use within the Protection Area; and
-        - **(II)** close or remove roads or trails within the Protection Area that the Secretary determines to be undesirable, except those roads or trails managed pursuant to paragraph (2) of this subsection or subsection (e)(3).
+        - **(II)** close or remove roads or trails within the Protection Area that the Secretary determines to be undesirable, except those roads or trails managed pursuant to paragraph (2) of this subsection or subsection (e)(3) of this section.
       - **(ii)** After completion of the review and inventory required by clause (i), the Secretary shall ensure that motorized and mechanized travel within the Protection Area shall be permitted only on those roads and trails identified as open to use in the inventory or established pursuant to subparagraph (D).
     - **(D)** No new roads or trails shall be established within the Protection Area except those which the Secretary shall establish as follows:
       - **(i)** Roads and trails established to replace roads or trails of the same character and scope which have become nonserviceable through reasons other than neglect.
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
       - **(iv)** A loop trail established pursuant to section 539 l –3 of this title.
       - **(v)** Construction of a trail for nonmotorized use following the corridor designated as the Continental Divide Trail.
     - **(E)** No timber harvesting shall be allowed within the Protection Area except to the extent needed for hazardous fuels reduction or other control of fire, insect or disease control projects, or protection of public health or safety.
-    - **(F)** The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b). In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
+    - **(F)** The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
   - **(2)** The Secretary shall allow for maintenance of rights-of-ways and access roads located within the Protection Area to the extent necessary to operate the natural gas pipeline permitted under the Arapaho/Roosevelt National Forest master permit numbered 4138.01 in a manner that avoids negative impacts on public safety and allows for compliance with Federal pipeline safety requirements. Such maintenance may include vegetation management, road maintenance, ground stabilization, and motorized vehicle access.
   - **(3)** All right, title, and interest of the United States, held on or acquired after August 21, 2002 , to lands within the boundaries of the Protection Area shall be retained by the United States.
 - **(e)**
@@ -47,4 +48,4 @@ generated_at: "2026-03-30T02:54:22.863Z"
     - **(C)** Nothing in this subsection shall be construed as establishing a precedent with regard to any future protection area designation.
     - **(D)** Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States.
   - **(2)** The Secretary shall follow the procedural and substantive requirements of the law of the State of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
-  - **(3)** Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
+  - **(3)** Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.

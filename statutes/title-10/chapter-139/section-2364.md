@@ -1,12 +1,27 @@
 ---
-title: "Section 2364 - Omitted]"
+title: "Section 2364 - Coordination and communication of defense research activities"
 usc_title: 10
 usc_section: "2364"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2364"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-03-30T03:04:17.283Z"
+status: "active"
 ---
 
-# [§ 2364. Omitted]
+# § 2364. Coordination and communication of defense research activities
 
+- **(a)** The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
+  - **(1)** among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
+  - **(2)** among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.
+- **(b)** The Secretary of Defense shall ensure, to the maximum extent practicable—
+  - **(1)** that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
+  - **(2)** that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
+  - **(3)** that the managers of such facilities have broad latitude to choose research and development projects;
+  - **(4)** that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
+  - **(5)** that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
+- **(c)** In this section:
+  - **(1)** The term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
+    - **(A)** basic research; or
+    - **(B)** applied research known as exploratory development.
+  - **(2)** The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”

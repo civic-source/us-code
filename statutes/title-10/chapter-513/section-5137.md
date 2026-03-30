@@ -1,0 +1,15 @@
+---
+title: "Section 5137 - Bureau of Medicine and Surgery: Chief; Deputy Chief"
+usc_title: 10
+usc_section: "5137"
+chapter: 513
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 5137"
+generated_at: "2026-03-30T03:04:17.315Z"
+status: "active"
+---
+
+# § 5137. Bureau of Medicine and Surgery: Chief; Deputy Chief
+
+- **(a)** The Chief of the Bureau of Medicine and Surgery shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list of the Navy in any corps of the Navy Medical Department. He has the title of Surgeon General. The Surgeon General, while so serving has the grade of vice admiral.
+- **(b)** An officer on the active-duty list of the Navy who is qualified to be the Chief of the Bureau of Medicine and Surgery may be detailed as Deputy Chief of the Bureau of Medicine and Surgery.

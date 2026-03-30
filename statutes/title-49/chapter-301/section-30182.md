@@ -3,9 +3,10 @@ title: "Section 30182 - Powers and duties"
 usc_title: 49
 usc_section: "30182"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 30182"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-03-30T03:06:29.304Z"
+status: "active"
 ---
 
 # § 30182. Powers and duties
@@ -21,9 +22,8 @@ generated_at: "2026-03-30T02:56:19.353Z"
   - **(3)**
     - **(A)** use any test motor vehicles and motor vehicle equipment suitable for continued use, as determined by the Secretary to assist in carrying out this chapter or any other chapter of this title; or
     - **(B)** sell or otherwise dispose of test motor vehicles and motor vehicle equipment and use the resulting proceeds to carry out this chapter;
-  - **(4)** award grants to States and local governments, interstate authorities, and nonprofit institutions;
-  - **(5)** enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations; and
-  - **(6)** in coordination with Department 1 1 So in original. Probably should be preceded by “the”. of State, enter into cooperative agreements and collaborative research and development agreements with foreign governments.
+  - **(4)** award grants to States and local governments, interstate authorities, and nonprofit institutions; and
+  - **(5)** enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
 - **(c)** In carrying out this subchapter, the Secretary shall avoid duplication by using the services, research, and testing facilities of public agencies, as appropriate.
 - **(d)** The Secretary may plan, design, and construct a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $1,500,000 for planning, design, or construction may be made only if 60 days prior notice of the planning, design, or construction is provided to the Committees on Science, Space, and Technology and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. The notice shall include—
   - **(1)** a brief description of the facility being planned, designed, or constructed;

@@ -3,9 +3,10 @@ title: "Section 11383 - Eligible activities"
 usc_title: 42
 usc_section: "11383"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11383"
-generated_at: "2026-03-30T02:56:11.400Z"
+generated_at: "2026-03-30T03:06:22.887Z"
+status: "active"
 ---
 
 # § 11383. Eligible activities
@@ -25,13 +26,6 @@ generated_at: "2026-03-30T02:56:11.400Z"
   - **(10)** In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title , for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
   - **(11)** In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title , payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
   - **(12)** Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made available to that project sponsor through this part for such costs.
-  - **(13)** 1 1 So in original. Two pars. (13) have been enacted. Facilitating and coordinating activities to ensure compliance with subsection (e) of section 12491 of title 34 and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
-  - **(13)** 1 Projects in rural areas that consist of one or more of the following activities:
-    - **(A)** Payment of short-term emergency lodging, including in motels or shelters, directly or through vouchers.
-    - **(B)** Repairs to units—
-      - **(i)** in which homeless individuals and families will be housed; or
-      - **(ii)** which are currently not fit for human habitation.
-    - **(C)** Staff training, professional development, skill development, and staff retention activities.
 - **(b)** The Secretary may impose minimum grant terms of up to 5 years for new projects providing permanent housing.
 - **(c)**
   - **(1)** A project that consists of activities described in paragraph (1) or (2) of subsection (a) shall be operated for the purpose specified in the application submitted for the project under section 11382 of this title for not less than 15 years.
@@ -49,4 +43,4 @@ generated_at: "2026-03-30T02:56:11.400Z"
     - **(D)** there are no individuals and families in the geographic area who are homeless, in which case the project may serve individuals and families at risk of homelessness.
 - **(e)** The Secretary may allow reasonable costs associated with staff training to be included as part of the activities described in subsection (a).
 - **(f)** Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
-- **(g)** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
+- **(g)** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, or public housing agency.

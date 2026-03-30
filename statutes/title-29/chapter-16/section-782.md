@@ -3,9 +3,10 @@ title: "Section 782 - Compensation of National Council members"
 usc_title: 29
 usc_section: "782"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 782"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-03-30T03:05:09.686Z"
+status: "active"
 ---
 
 # § 782. Compensation of National Council members

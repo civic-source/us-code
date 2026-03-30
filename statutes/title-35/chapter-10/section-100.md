@@ -3,9 +3,10 @@ title: "Section 100 - Definitions"
 usc_title: 35
 usc_section: "100"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "35 U.S.C. § 100"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-03-30T03:05:20.614Z"
+status: "active"
 ---
 
 # § 100. Definitions
@@ -23,6 +24,6 @@ When used in this title unless the context otherwise indicates—
 - **(i)**
   - **(1)** The term “effective filing date” for a claimed invention in a patent or application for patent means—
     - **(A)** if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or
-    - **(B)** the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c).
+    - **(B)** the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).
   - **(2)** The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.
 - **(j)** The term “claimed invention” means the subject matter defined by a claim in a patent or an application for a patent.

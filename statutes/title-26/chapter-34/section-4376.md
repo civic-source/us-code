@@ -3,9 +3,10 @@ title: "Section 4376 - Self-insured health plans"
 usc_title: 26
 usc_section: "4376"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4376"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-03-30T03:05:18.686Z"
+status: "active"
 ---
 
 # § 4376. Self-insured health plans
@@ -33,4 +34,4 @@ generated_at: "2026-03-30T02:55:27.802Z"
 - **(d)** In the case of any plan year ending in any fiscal year beginning after September 30, 2014 , the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
   - **(1)** such dollar amount for plan years ending in the previous fiscal year, multiplied by
   - **(2)** the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
-- **(e)** This section shall not apply to plan years ending after September 30, 2029 .
+- **(e)** This section shall not apply to plan years ending after September 30, 2019 .

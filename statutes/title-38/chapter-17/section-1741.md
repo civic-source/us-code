@@ -3,9 +3,10 @@ title: "Section 1741 - Criteria for payment"
 usc_title: 38
 usc_section: "1741"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1741"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-03-30T03:05:59.198Z"
+status: "active"
 ---
 
 # § 1741. Criteria for payment
@@ -20,4 +21,3 @@ generated_at: "2026-03-30T02:55:53.487Z"
 - **(d)** Subject to section 1743 of this title , the payment of per diem for care furnished in a State home facility shall commence on the date of the completion of the inspection for recognition of the facility under section 1742(a) of this title if the Secretary determines, as a result of that inspection, that the State home meets the standards described in such section.
 - **(e)** Payments to States pursuant to this section shall not be considered a liability of a third party, or otherwise be used to offset or reduce any other payment made to assist veterans.
 - **(f)** Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
-- **(g)** In this subchapter, the term “State” means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 )).

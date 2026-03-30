@@ -3,14 +3,17 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T02:55:27.695Z"
+generated_at: "2026-03-30T03:05:18.594Z"
+status: "active"
 ---
 
 # § 431. Minimum funding standards for multiemployer plans
 
-- **(a)** For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
+- **(a)** For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is—
+  - **(1)** except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
+  - **(2)** if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 4243 of the Employee Retirement Income Security Act of 1974.
 - **(b)**
   - **(1)** Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
   - **(2)** For a plan year, the funding standard account shall be charged with the sum of—
@@ -75,10 +78,6 @@ generated_at: "2026-03-30T02:55:27.695Z"
     - **(E)** A plan sponsor of a plan to which this paragraph applies shall—
       - **(i)** give notice of such application to participants and beneficiaries of the plan, and
       - **(ii)** inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
-    - **(F)** A multiemployer plan with respect to which the solvency test under subparagraph (C) is met as of February 29, 2020 , may elect to apply this paragraph (without regard to whether such plan previously elected the application of this paragraph)—
-      - **(i)** by substituting “ February 29, 2020 ” for “ August 31, 2008 ” each place it appears in subparagraphs (A)(i), (B)(i)(I), and (B)(i)(II),
-      - **(ii)** by inserting “and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retirement rates, as determined by the plan sponsor)” after “net investment losses” in subparagraph (A)(i), and
-      - **(iii)** by substituting “this subparagraph or subparagraph (A)” for “this subparagraph and subparagraph (A) both” in subparagraph (B)(iii).
 - **(c)**
   - **(1)** For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
   - **(2)**
@@ -112,7 +111,7 @@ generated_at: "2026-03-30T02:55:27.695Z"
         - **(II)** an event which is reasonably and reliably predictable (as determined by the Secretary),
       - **(iii)** The rate of interest used to determine current liability under this paragraph shall be the rate of interest determined under subparagraph (E).
       - **(iv)**
-        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) 1 1 See References in Text note below. used to determine reserves for group annuity contracts issued on January 1, 1993 .
+        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993 .
         - **(II)** The Secretary may by regulation prescribe for plan years beginning after December 31, 1999 , mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
       - **(v)** Notwithstanding clause (iv)—
         - **(I)** The Secretary shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995 , and for individuals whose disabilities occur in plan years beginning on or after such date.
@@ -144,10 +143,11 @@ generated_at: "2026-03-30T02:55:27.695Z"
       - **(ii)** the plan sponsor has adopted a plan to improve the plan’s funding status,
       - **(iii)** the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period as extended, and
       - **(iv)** the notice required under paragraph (3)(A) has been provided.
+    - **(C)** The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014 .
   - **(2)**
     - **(A)** If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
     - **(B)** The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—
-      - **(i)** such extension would carry out the purposes of the Pension Protection Act of 2006 and would provide adequate protection for participants under the plan and their beneficiaries, and
+      - **(i)** such extension would carry out the purposes of this Act 1 1 So in original. Probably should be “title”. and would provide adequate protection for participants under the plan and their beneficiaries, and
       - **(ii)** the failure to permit such extension would—
         - **(I)** result in a substantial risk to the voluntary continuation of the plan, or a substantial curtailment of pension benefit levels or employee compensation, and
         - **(II)** be adverse to the interests of plan participants in the aggregate.

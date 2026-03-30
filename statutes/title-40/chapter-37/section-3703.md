@@ -3,9 +3,10 @@ title: "Section 3703 - Report of violations and withholding of amounts for unpai
 usc_title: 40
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-03-30T03:05:58.219Z"
+status: "active"
 ---
 
 # § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:43.380Z"
   - **(2)** The officer or individual whose duty it is to approve the payment of money by the Government, territory, or District of Columbia in connection with the performance of the contract work shall direct the amount of—
     - **(A)** liquidated damages to be withheld for the use and benefit of the Government, territory, or District; and
     - **(B)** unpaid wages to be withheld for the use and benefit of the laborers and mechanics who were not compensated as required under this chapter.
-  - **(3)** The Secretary of Labor shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Secretary of Labor shall pay an equitable proportion of the amount due.
+  - **(3)** The Comptroller General shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Comptroller General shall pay an equitable proportion of the amount due.
 - **(c)** If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor’s sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defense that the laborers and mechanics accepted or agreed to accept less than the required rate of wages or voluntarily made refunds.
 - **(d)**
   - **(1)** Within 60 days after an amount is withheld as liquidated damages, any contractor or subcontractor aggrieved by the withholding may appeal to the head of the agency of the Government or territory for which the contract work is done or which is providing financial assistance for the work, or to the Mayor of the District of Columbia in the case of liquidated damages withheld for the use and benefit of the District.

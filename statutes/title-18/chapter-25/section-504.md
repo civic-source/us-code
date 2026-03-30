@@ -3,9 +3,10 @@ title: "Section 504 - Printing and filming of United States and foreign obligati
 usc_title: 18
 usc_section: "504"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 504"
-generated_at: "2026-03-30T02:54:16.463Z"
+generated_at: "2026-03-30T03:04:41.082Z"
+status: "active"
 ---
 
 # § 504. Printing and filming of United States and foreign obligations and securities
@@ -21,4 +22,4 @@ Notwithstanding any other provision of this chapter, the following are permitted
       - **(ii)** all illustrations (including illustrations of uncanceled postage stamps in color and illustrations of stamps issued under the Migratory Bird Hunting Stamp Act of 1934 in color) shall be of a size less than three-fourths or more than one and one-half, in linear dimension, of each part of any matter so illustrated which is covered by subparagraph (A), (B), (C), or (D) of this paragraph, except that black and white illustrations of postage and revenue stamps issued by the United States or by any foreign government and colored illustrations of canceled postage stamps issued by the United States may be in the exact linear dimension in which the stamps were issued; and
       - **(iii)** the negatives and plates used in making the illustrations shall be destroyed after their final use in accordance with this section. The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.
   - **(2)** The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
-  - **(3)** The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
+  - **(3)** The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury. For the purposes of this section the term “postage stamp” includes postage meter stamps.

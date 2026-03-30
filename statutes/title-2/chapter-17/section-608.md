@@ -3,12 +3,13 @@ title: "Section 608 - Lump-sum payments to enhance staff recruitment and to rewa
 usc_title: 2
 usc_section: "608"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 608"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-03-30T03:04:04.420Z"
+status: "active"
 ---
 
 # § 608. Lump-sum payments to enhance staff recruitment and to reward exceptional performance
 
 - **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to enhance staff recruitment and to reward exceptional performance by an employee or a group of employees.
-- **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1999 .
+- **(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1999 .

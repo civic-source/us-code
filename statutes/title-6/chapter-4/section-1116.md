@@ -3,9 +3,10 @@ title: "Section 1116 - National explosives detection canine team training progra
 usc_title: 6
 usc_section: "1116"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1116"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-03-30T03:04:24.360Z"
+status: "active"
 ---
 
 # § 1116. National explosives detection canine team training program
@@ -34,18 +35,3 @@ generated_at: "2026-03-30T02:53:09.503Z"
 - **(e)** The Secretary, acting through the Administrator of the Transportation Security Administration, shall work to ensure that explosives detection canine teams are procured as efficiently as possible and at the best price, while maintaining the needed level of quality, including, if appropriate, through increased domestic breeding.
 - **(f)** Not later than 1 year after August 3, 2007 , the Comptroller General shall report to the appropriate congressional committees on the utilization of explosives detection canine teams to strengthen security and the capacity of the national explosive detection canine team program.
 - **(g)** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section for fiscal years 2007 through 2011.
-- **(h)**
-  - **(1)** In order to enhance the screening of air cargo and ensure that third party explosives detection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018 —
-    - **(A)** develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
-    - **(B)** develop a process to identify qualified non-Federal entities that will certify canine assets that meet the standards established by the Administrator under subparagraph (A);
-    - **(C)** ensure that entities qualified to certify canine assets shall be independent from entities that will train and provide canines to end users of such canine assets;
-    - **(D)** establish a system of Transportation Security Administration audits of the process developed under subparagraph (B); and
-    - **(E)** provide that canines certified for the primary screening of air cargo can be used by air carriers, foreign air carriers, freight forwarders, and shippers.
-  - **(2)** Beginning on the date that the development of the process under paragraph (1)(B) is complete, the Administrator shall—
-    - **(A)** facilitate the deployment of such assets that meet the certification standards of the Administration, as determined by the Administrator;
-    - **(B)** make such standards available to vendors seeking to train and deploy third party explosives detection canine assets; and
-    - **(C)** ensure that all costs for the training and certification of canines, and for the use of supplied canines, are borne by private industry and not the Federal Government.
-  - **(3)** In this subsection:
-    - **(A)** The term “air carrier” has the meaning given the term in section 40102 of title 49 .
-    - **(B)** The term “foreign air carrier” has the meaning given the term in section 40102 of title 49 .
-    - **(C)** The term “third party explosives detection canine asset” means any explosives detection canine or handler not owned or employed, respectively, by the Transportation Security Administration.

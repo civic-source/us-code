@@ -3,15 +3,15 @@ title: "Section 411 - Bill of rights; constitution and bylaws of labor organizat
 usc_title: 29
 usc_section: "411"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 411"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-03-30T03:05:09.675Z"
+status: "active"
 ---
 
 # § 411. Bill of rights; constitution and bylaws of labor organizations
 
-- **(a)**
-  - **(1)** Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
+- **(a)** Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
   - **(2)** Every member of any labor organization shall have the right to meet and assemble freely with other members; and to express any views, arguments, or opinions; and to express at meetings of the labor organization his views, upon candidates in an election of the labor organization or upon any business properly before the meeting, subject to the organization’s established and reasonable rules pertaining to the conduct of meetings: Provided , That nothing herein shall be construed to impair the right of a labor organization to adopt and enforce reasonable rules as to the responsibility of every member toward the organization as an institution and to his refraining from conduct that would interfere with its performance of its legal or contractual obligations.
   - **(3)** Except in the case of a federation of national or international labor organizations, the rates of dues and initiation fees payable by members of any labor organization in effect on September 14, 1959 shall not be increased, and no general or special assessment shall be levied upon such members, except—
     - **(A)** in the case of a local labor organization, (i) by majority vote by secret ballot of the members in good standing voting at a general or special membership meeting, after reasonable notice of the intention to vote upon such question, or (ii) by majority vote of the members in good standing voting in a membership referendum conducted by secret ballot; or

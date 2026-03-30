@@ -3,9 +3,10 @@ title: "Section 1736f - Authorization of appropriations"
 usc_title: 7
 usc_section: "1736f"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1736f"
-generated_at: "2026-03-30T02:53:42.339Z"
+generated_at: "2026-03-30T03:04:20.938Z"
+status: "active"
 ---
 
 # § 1736f. Authorization of appropriations
@@ -18,10 +19,13 @@ generated_at: "2026-03-30T02:53:42.339Z"
     - **(C)** to make payments to the Commodity Credit Corporation to the extent the Commodity Credit Corporation is not reimbursed under the programs under this chapter for the actual costs incurred or to be incurred by the Commodity Credit Corporation in carrying out such programs.
 - **(b)**
   - **(1)** Except as provided in paragraph (2) and notwithstanding any other provision of law, the President may direct that up to 15 percent of the funds available for any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.
-  - **(2)** The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A be used to carry out subchapter III.
+  - **(2)** The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A of this chapter be used to carry out subchapter III of this chapter.
 - **(c)** In presenting the Budget of the United States, the President shall classify expenditures under this chapter as expenditures for international affairs and finance rather than for agriculture and agricultural resources.
 - **(d)** Notwithstanding any other provision of law, in determining the reimbursement due the Commodity Credit Corporation for all expenses incurred under this chapter, commodities from the inventory of the Commodity Credit Corporation that were acquired under dairy price support operations shall be valued at a price not greater than the export market price for such commodities, as determined by the Secretary, as of the time such commodity is made available under this chapter.
 - **(e)**
-  - **(1)** For each of fiscal years 2019 through 2023, not less than $365,000,000 of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter II, nor more than 30 percent of such amounts, shall be expended for nonemergency food assistance programs under such subchapter.
-  - **(2)** Funds appropriated each year to carry out part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) that are made available through grants or cooperative agreements to strengthen food security in developing countries and that are consistent with section 1722(e)(1)(C) of this title may be considered amounts expended for nonemergency food assistance programs for purposes of paragraph (1).
-  - **(3)** In determining the amount expended for a fiscal year for nonemergency food assistance programs under paragraph (1), amounts expended for that year to carry out programs under section 1737 of this title may be considered amounts expended for nonemergency food assistance programs.
+  - **(1)** Of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
+  - **(2)** The President may use less than the amount specified in paragraph (1) in a fiscal year for nonemergency food assistance programs under subchapter III only if—
+    - **(A)** the President has made a determination that there is an urgent need for additional emergency food assistance;
+    - **(B)** the funds and commodities held in the Bill Emerson Humanitarian Trust have been exhausted; and
+    - **(C)** the President has submitted to Congress a supplemental appropriations request for a sum equal to the amount needed to reach the required spending level for nonemergency food assistance under paragraph (1) and the amount exhausted under paragraph (2)(B).
+  - **(3)** If the President makes the determination described in paragraph (2)(A), the President shall submit to Congress written notification that the determination has been made.

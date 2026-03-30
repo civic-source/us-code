@@ -1,12 +1,16 @@
 ---
-title: "Section 1973h - Transferred"
+title: "Section 1973h - Poll taxes"
 usc_title: 42
 usc_section: "1973h"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1973h"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-03-30T03:06:22.639Z"
+status: "active"
 ---
 
-# § 1973h. Transferred
+# § 1973h. Poll taxes
 
+- **(a)** The Congress finds that the requirement of the payment of a poll tax as a precondition to voting (i) precludes persons of limited means from voting or imposes unreasonable financial hardship upon such persons as a precondition to their exercise of the franchise, (ii) does not bear a reasonable relationship to any legitimate State interest in the conduct of elections, and (iii) in some areas has the purpose or effect of denying persons the right to vote because of race or color. Upon the basis of these findings, Congress declares that the constitutional right of citizens to vote is denied or abridged in some areas by the requirement of the payment of a poll tax as a precondition to voting.
+- **(b)** In the exercise of the powers of Congress under section 5 of the fourteenth amendment, section 2 of the fifteenth amendment and section 2 of the twenty-fourth amendment, the Attorney General is authorized and directed to institute forthwith in the name of the United States such actions, including actions against States or political subdivisions, for declaratory judgment or injunctive relief against the enforcement of any requirement of the payment of a poll tax as a precondition to voting, or substitute therefor enacted after November 1, 1964 , as will be necessary to implement the declaration of subsection (a) of this section and the purposes of this section.
+- **(c)** The district courts of the United States shall have jurisdiction of such actions which shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28 and any appeal shall lie to the Supreme Court. It shall be the duty of the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.

@@ -3,9 +3,10 @@ title: "Section 3486 - Annual report"
 usc_title: 20
 usc_section: "3486"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3486"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-03-30T03:04:46.316Z"
+status: "active"
 ---
 
 # § 3486. Annual report
@@ -14,4 +15,4 @@ generated_at: "2026-03-30T02:54:48.179Z"
   - **(1)** the attainment of such goals, priorities, and plans;
   - **(2)** the more effective and efficient management of the Department and the coordination of its functions; and
   - **(3)** the reduction of excessive or burdensome regulation and of unnecessary duplication and fragmentation in Federal education programs,
-- **(b)** The report required by subsection (a) shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under section 3475 of this title or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
+- **(b)** The report required by subsection (a) of this section shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under section 3475 of this title or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.

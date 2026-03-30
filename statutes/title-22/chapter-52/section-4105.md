@@ -3,14 +3,15 @@ title: "Section 4105 - Management rights"
 usc_title: 22
 usc_section: "4105"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4105"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-03-30T03:04:53.675Z"
+status: "active"
 ---
 
 # § 4105. Management rights
 
-- **(a)** Subject to subsection (b), nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
+- **(a)** Subject to subsection (b) of this section, nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
   - **(1)** to determine the mission, budget, organization, and internal security practices of the Department, and the number of individuals in the Service or in the Department;
   - **(2)** to hire, assign, direct, lay off, and retain individuals in the Service or in the Department, to suspend, remove, or take other disciplinary action against such individuals, and to determine the number of members of the Service to be promoted and to remove the name of or delay the promotion of any member in accordance with regulations prescribed under section 4005(b) of this title ;
   - **(3)** to conduct reductions in force, and to prescribe regulations for the separation of employees pursuant to such reductions in force conducted under section 4010a of this title ;

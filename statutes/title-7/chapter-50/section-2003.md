@@ -3,24 +3,25 @@ title: "Section 2003 - Target participation rates"
 usc_title: 7
 usc_section: "2003"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2003"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-03-30T03:04:20.950Z"
+status: "active"
 ---
 
 # § 2003. Target participation rates
 
 - **(a)**
-  - **(1)** The Secretary shall establish annual target participation rates, on a county wide basis, that shall ensure that members of socially disadvantaged groups will receive loans made or insured under subchapter I and will have the opportunity to purchase or lease inventory farmland.
+  - **(1)** The Secretary shall establish annual target participation rates, on a county wide basis, that shall ensure that members of socially disadvantaged groups will receive loans made or insured under subchapter I of this chapter and will have the opportunity to purchase or lease inventory farmland.
   - **(2)** Except as provided in paragraph (3), in establishing such target rates the Secretary shall take into consideration the portion of the population of the county made up of such groups, and the availability of inventory farmland in such county.
   - **(3)** With respect to gender, target participation rates shall take into consideration the number of current and potential socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in the State.
 - **(b)**
-  - **(1)** The Secretary shall, to the greatest extent practicable, reserve sufficient loan funds made available under subchapter I, for use by members of socially disadvantaged groups identified under target participation rates established under subsection (a).
+  - **(1)** The Secretary shall, to the greatest extent practicable, reserve sufficient loan funds made available under subchapter I of this chapter, for use by members of socially disadvantaged groups identified under target participation rates established under subsection (a) of this section.
   - **(2)** The Secretary shall allocate such loans on the basis of the proportion of members of socially disadvantaged groups in a county and the availability of inventory farmland, with the greatest amount of loan funds being distributed in the county with the greatest proportion of socially disadvantaged group members and the greatest amount of available inventory farmland.
   - **(3)** In distributing loan funds in counties within the boundaries of an Indian reservation, the Secretary shall allocate the funds on a reservation-wide basis.
 - **(c)**
-  - **(1)** The Secretary shall establish annual target participation rates, that shall ensure that socially disadvantaged farmers or ranchers will receive loans made or insured under subchapter II. In establishing such target rates, the Secretary shall consider the number of socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in that State.
-  - **(2)** The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State’s loan funds made available under subchapter II that is equal to that State’s target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
+  - **(1)** The Secretary shall establish annual target participation rates, that shall ensure that socially disadvantaged farmers or ranchers will receive loans made or insured under subchapter II of this chapter. In establishing such target rates, the Secretary shall consider the number of socially disadvantaged farmers and ranchers in a State in proportion to the total number of farmers and ranchers in that State.
+  - **(2)** The Secretary shall, to the greatest extent practicable, reserve and allocate the proportion of each State’s loan funds made available under subchapter II of this chapter that is equal to that State’s target participation rate for use by the socially disadvantaged farmers or ranchers in that State. The Secretary shall, to the extent practicable, distribute the total so derived on a county by county basis according to the number of socially disadvantaged farmers or ranchers in the county. Any funds reserved and allocated under this paragraph but not used within a State shall, to the extent necessary to satisfy pending applications under this chapter, be available for use by socially disadvantaged farmers and ranchers in other States, as determined by the Secretary, and any remaining funds shall be reallocated within the State.
 - **(d)** The Secretary shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes the annual target participation rates and the success in meeting such rates.
 - **(e)**
   - **(1)** As used in this section, the term “socially disadvantaged group” means a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.

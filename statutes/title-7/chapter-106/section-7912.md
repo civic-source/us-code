@@ -3,16 +3,17 @@ title: "Section 7912 - Establishment of payment yield"
 usc_title: 7
 usc_section: "7912"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7912"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-03-30T03:04:21.026Z"
+status: "active"
 ---
 
 # § 7912. Establishment of payment yield
 
 - **(a)** For the purpose of making direct payments and counter-cyclical payments under this subchapter, the Secretary shall provide for the establishment of a payment yield for each farm for each covered commodity in accordance with this section.
 - **(b)** Except as otherwise provided in this section, the payment yield for each of the 2002 through 2007 crops of a covered commodity for a farm shall be the farm program payment yield established for the 1995 crop of the covered commodity under section 1465 of this title , as adjusted by the Secretary to account for any additional yield payments made with respect to that crop under section 1465(b)(2) of this title .
-- **(c)** In the case of a farm for which a farm program payment yield is unavailable for a covered commodity (other than soybeans or other oilseeds), the Secretary shall establish an appropriate payment yield for the covered commodity on the farm taking into consideration the farm program payment yields applicable to the commodity under subsection (b) for similar farms, but before the yields for the similar farms are updated as provided in subsection (e).
+- **(c)** In the case of a farm for which a farm program payment yield is unavailable for a covered commodity (other than soybeans or other oilseeds), the Secretary shall establish an appropriate payment yield for the covered commodity on the farm taking into consideration the farm program payment yields applicable to the commodity under subsection (b) of this section for similar farms, but before the yields for the similar farms are updated as provided in subsection (e) of this section.
 - **(d)**
   - **(1)** In the case of soybeans and each other oilseed, the Secretary shall determine the average yield per planted acre for the oilseed on a farm for the 1998 through 2001 crop years, excluding any crop year in which the acreage planted to the oilseed was zero.
   - **(2)** The payment yield for a farm for an oilseed shall be equal to the product of the following:

@@ -3,9 +3,10 @@ title: "Section 16421 - Third-party finance"
 usc_title: 42
 usc_section: "16421"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16421"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-03-30T03:06:22.979Z"
+status: "active"
 ---
 
 # § 16421. Third-party finance
@@ -39,5 +40,5 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(2)** any Federal or State law relating to the siting of energy facilities; or
   - **(3)** any existing authorizing statutes.
 - **(e)** Nothing in this section shall constrain or restrict an Administrator in the utilization of other authority delegated to the Administrator of WAPA or SWPA.
-- **(f)** Any determination made pursuant to subsections 1 1 So in original. Probably should be “subsection”. (a) or (b) shall be based on findings by the Secretary using the best available data.
+- **(f)** Any determination made pursuant to subsections 1 1 So in original. Probably should be singular. (a) or (b) shall be based on findings by the Secretary using the best available data.
 - **(g)** The Secretary shall not accept and use more than $100,000,000 under subsection (c)(1) for the period encompassing fiscal years 2006 through 2015.

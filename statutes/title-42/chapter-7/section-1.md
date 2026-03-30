@@ -1,73 +1,46 @@
 ---
-title: "Section 1 - Social impact partnership application"
+title: "Section 1 - Adult protective services functions and grant programs"
 usc_title: 42
 usc_section: "1"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.067Z"
+generated_at: "2026-03-30T03:06:22.585Z"
+status: "active"
 ---
 
-# § 1397n–1. Social impact partnership application
+# § 1397m–1. Adult protective services functions and grant programs
 
-- **(a)** Not later than 1 year after February 9, 2018 , the Secretary of the Treasury, in consultation with the Federal Interagency Council on Social Impact Partnerships, shall publish in the Federal Register a request for proposals from States or local governments for social impact partnership projects in accordance with this section.
-- **(b)** To qualify as a social impact partnership project under this division, a project must produce one or more measurable, clearly defined outcomes that result in social benefit and Federal, State, or local savings through any of the following:
-  - **(1)** Increasing work and earnings by individuals in the United States who are unemployed for more than 6 consecutive months.
-  - **(2)** Increasing employment and earnings of individuals who have attained 16 years of age but not 25 years of age.
-  - **(3)** Increasing employment among individuals receiving Federal disability benefits.
-  - **(4)** Reducing the dependence of low-income families on Federal means-tested benefits.
-  - **(5)** Improving rates of high school graduation.
-  - **(6)** Reducing teen and unplanned pregnancies.
-  - **(7)** Improving birth outcomes and early childhood health and development among low-income families and individuals.
-  - **(8)** Reducing rates of asthma, diabetes, or other preventable diseases among low-income families and individuals to reduce the utilization of emergency and other high-cost care.
-  - **(9)** Increasing the proportion of children living in two-parent families.
-  - **(10)** Reducing incidences and adverse consequences of child abuse and neglect.
-  - **(11)** Reducing the number of youth in foster care by increasing adoptions, permanent guardianship arrangements, reunifications, or placements with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
-  - **(12)** Reducing the number of children and youth in foster care residing in group homes, child care institutions, agency-operated foster homes, or other non-family foster homes, unless it is determined that it is in the interest of the child’s long-term health, safety, or psychological well-being to not be placed in a family foster home.
-  - **(13)** Reducing the number of children returning to foster care.
-  - **(14)** Reducing recidivism among juvenile offenders, individuals released from prison, or other high-risk populations.
-  - **(15)** Reducing the rate of homelessness among our most vulnerable populations.
-  - **(16)** Improving the health and well-being of those with mental, emotional, and behavioral health needs.
-  - **(17)** Improving the educational outcomes of special-needs or low-income children.
-  - **(18)** Improving the employment and well-being of returning United States military members.
-  - **(19)** Increasing the financial stability of low-income families.
-  - **(20)** Increasing the independence and employability of individuals who are physically or mentally disabled.
-  - **(21)** Other measurable outcomes defined by the State or local government that result in positive social outcomes and Federal savings.
-- **(c)** The notice described in subsection (a) shall require a State or local government to submit an application for the social impact partnership project that addresses the following:
-  - **(1)** The outcome goals of the project.
-  - **(2)** A description of each intervention in the project and anticipated outcomes of the intervention.
-  - **(3)** Rigorous evidence demonstrating that the intervention can be expected to produce the desired outcomes.
-  - **(4)** The target population that will be served by the project.
-  - **(5)** The expected social benefits to participants who receive the intervention and others who may be impacted.
-  - **(6)** Projected Federal, State, and local government costs and other costs to conduct the project.
-  - **(7)** Projected Federal, State, and local government savings and other savings, including an estimate of the savings to the Federal Government, on a program-by-program basis and in the aggregate, if the project is implemented and the outcomes are achieved as a result of the intervention.
-  - **(8)** If savings resulting from the successful completion of the project are estimated to accrue to the State or local government, the likelihood of the State or local government to realize those savings.
-  - **(9)** A plan for delivering the intervention through a social impact partnership model.
-  - **(10)** A description of the expertise of each service provider that will administer the intervention, including a summary of the experience of the service provider in delivering the proposed intervention or a similar intervention, or demonstrating that the service provider has the expertise necessary to deliver the proposed intervention.
-  - **(11)** An explanation of the experience of the State or local government, the intermediary, or the service provider in raising private and philanthropic capital to fund social service investments.
-  - **(12)** The detailed roles and responsibilities of each entity involved in the project, including any State or local government entity, intermediary, service provider, independent evaluator, investor, or other stakeholder.
-  - **(13)** A summary of the experience of the service provider in delivering the proposed intervention or a similar intervention, or a summary demonstrating the service provider has the expertise necessary to deliver the proposed intervention.
-  - **(14)** A summary of the unmet need in the area where the intervention will be delivered or among the target population who will receive the intervention.
-  - **(15)** The proposed payment terms, the methodology used to calculate outcome payments, the payment schedule, and performance thresholds.
-  - **(16)** The project budget.
-  - **(17)** The project timeline.
-  - **(18)** The criteria used to determine the eligibility of an individual for the project, including how selected populations will be identified, how they will be referred to the project, and how they will be enrolled in the project.
-  - **(19)** The evaluation design.
-  - **(20)** The metrics that will be used in the evaluation to determine whether the outcomes have been achieved as a result of the intervention and how the metrics will be measured.
-  - **(21)** An explanation of how the metrics used in the evaluation to determine whether the outcomes achieved as a result of the intervention are independent, objective indicators of impact and are not subject to manipulation by the service provider, intermediary, or investor.
-  - **(22)** A summary explaining the independence of the evaluator from the other entities involved in the project and the evaluator’s experience in conducting rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlled trials on the intervention or similar interventions.
-  - **(23)** The capacity of the service provider to deliver the intervention to the number of participants the State or local government proposes to serve in the project.
-  - **(24)** A description of whether and how the State or local government and service providers plan to sustain the intervention, if it is timely and appropriate to do so, to ensure that successful interventions continue to operate after the period of the social impact partnership.
-- **(d)** The application described in subsection (c) shall also contain the following information about any intermediary for the social impact partnership project (whether an intermediary is a service provider or other entity):
-  - **(1)** Experience and capacity for providing or facilitating the provision of the type of intervention proposed.
-  - **(2)** The mission and goals.
-  - **(3)** Information on whether the intermediary is already working with service providers that provide this intervention or an explanation of the capacity of the intermediary to begin working with service providers to provide the intervention.
-  - **(4)** Experience working in a collaborative environment across government and nongovernmental entities.
-  - **(5)** Previous experience collaborating with public or private entities to implement evidence-based programs.
-  - **(6)** Ability to raise or provide funding to cover operating costs (if applicable to the project).
-  - **(7)** Capacity and infrastructure to track outcomes and measure results, including—
-    - **(A)** capacity to track and analyze program performance and assess program impact; and
-    - **(B)** experience with performance-based awards or performance-based contracting and achieving project milestones and targets.
-  - **(8)** Role in delivering the intervention.
-  - **(9)** How the intermediary would monitor program success, including a description of the interim benchmarks and outcome measures.
-- **(e)** The notice described in subsection (a) shall permit a State or local government to submit an application for social impact partnership funding that contains information from a feasibility study developed for purposes other than applying for funding under this division.
+- **(a)**
+  - **(1)** The Secretary shall ensure that the Department of Health and Human Services—
+    - **(A)** provides funding authorized by this part to State and local adult protective services offices that investigate reports of the abuse, neglect, and exploitation of elders;
+    - **(B)** collects and disseminates data annually relating to the abuse, exploitation, and neglect of elders in coordination with the Department of Justice;
+    - **(C)** develops and disseminates information on best practices regarding, and provides training on, carrying out adult protective services;
+    - **(D)** conducts research related to the provision of adult protective services; and
+    - **(E)** provides technical assistance to States and other entities that provide or fund the provision of adult protective services, including through grants made under subsections (b) and (c).
+  - **(2)** There are authorized to be appropriated to carry out this subsection, $3,000,000 for fiscal year 2011 and $4,000,000 for each of fiscal years 2012 through 2014.
+- **(b)**
+  - **(1)** There is established an adult protective services grant program under which the Secretary shall annually award grants to States in the amounts calculated under paragraph (2) for the purposes of enhancing adult protective services provided by States and local units of government.
+  - **(2)**
+    - **(A)** Subject to the availability of appropriations and subparagraphs (B) and (C), the amount paid to a State for a fiscal year under the program under this subsection shall equal the amount appropriated for that year to carry out this subsection multiplied by the percentage of the total number of elders who reside in the United States who reside in that State.
+    - **(B)**
+      - **(i)** Subject to clause (ii), if the amount determined under subparagraph (A) for a State for a fiscal year is less than 0.75 percent of the amount appropriated for such year, the Secretary shall increase such determined amount so that the total amount paid under this subsection to the State for the year is equal to 0.75 percent of the amount so appropriated.
+      - **(ii)** In the case of a State other than 1 of the 50 States, clause (i) shall be applied as if each reference to “0.75” were a reference to “0.1”.
+    - **(C)** The Secretary shall make such pro rata reductions to the amounts described in subparagraph (A) as are necessary to comply with the requirements of subparagraph (B).
+  - **(3)**
+    - **(A)** Funds made available pursuant to this subsection may only be used by States and local units of government to provide adult protective services and may not be used for any other purpose.
+    - **(B)** Each State receiving funds pursuant to this subsection shall provide such funds to the agency or unit of State government having legal responsibility for providing adult protective services within the State.
+    - **(C)** Each State or local unit of government shall use funds made available pursuant to this subsection to supplement and not supplant other Federal, State, and local public funds expended to provide adult protective services in the State.
+  - **(4)** Each State receiving funds under this subsection shall submit to the Secretary, at such time and in such manner as the Secretary may require, a report on the number of elders served by the grants awarded under this subsection.
+  - **(5)** There are authorized to be appropriated to carry out this subsection, $100,000,000 for each of fiscal years 2011 through 2014.
+- **(c)**
+  - **(1)** The Secretary shall award grants to States for the purposes of conducting demonstration programs in accordance with paragraph (2).
+  - **(2)** Funds made available pursuant to this subsection may be used by States and local units of government to conduct demonstration programs that test—
+    - **(A)** training modules developed for the purpose of detecting or preventing elder abuse;
+    - **(B)** methods to detect or prevent financial exploitation of elders;
+    - **(C)** methods to detect elder abuse;
+    - **(D)** whether training on elder abuse forensics enhances the detection of elder abuse by employees of the State or local unit of government; or
+    - **(E)** other matters relating to the detection or prevention of elder abuse.
+  - **(3)** To be eligible to receive a grant under this subsection, a State shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+  - **(4)** Each State that receives funds under this subsection shall submit to the Secretary a report at such time, in such manner, and containing such information as the Secretary may require on the results of the demonstration program conducted by the State using funds made available under this subsection.
+  - **(5)** There are authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 2011 through 2014.

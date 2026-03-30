@@ -3,9 +3,10 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-03-30T03:04:21.024Z"
+status: "active"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
   - **(2)** In carrying out this subsection, the Secretary shall consult with—
     - **(A)** the National Plant Board; and
     - **(B)** other interested parties.
-  - **(3)** Chapter 10 of title 5 shall not apply to consultations under this subsection.
+  - **(3)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
   - **(4)**
     - **(A)** A State department of agriculture seeking to enter into a cooperative agreement under this subsection shall submit to the Secretary an application containing such information as the Secretary may require.
     - **(B)** The Secretary shall notify applicants of—
@@ -58,29 +59,8 @@ generated_at: "2026-03-30T02:53:42.461Z"
     - **(A)** to enable growers to identify and prioritize nursery plant pests and diseases of regulatory significance;
     - **(B)** to prevent the introduction, establishment, and spread of those plant pests and diseases; and
     - **(C)** to reduce the risk of and mitigate those plant pests and diseases.
-- **(e)**
-  - **(1)** The Secretary shall establish a program to be known as the “National Clean Plant Network” (referred to in this subsection as the “Program”).
-  - **(2)** Under the Program, the Secretary shall establish a network of clean plant centers for diagnostic and pathogen elimination services—
-    - **(A)** to produce clean propagative plant material; and
-    - **(B)** to maintain blocks of pathogen-tested plant material in sites located throughout the United States.
-  - **(3)** Clean plant source material may be made available to—
-    - **(A)** a State for a certified plant program of the State; and
-    - **(B)** private nurseries and producers.
-  - **(4)** In carrying out the Program, the Secretary shall—
-    - **(A)** consult with—
-      - **(i)** State departments of agriculture; and
-      - **(ii)** land-grant colleges and universities and NLGCA Institutions (as those terms are defined in section 3103 of this title ); and
-    - **(B)** to the extent practicable and with input from the appropriate State officials and industry representatives, use existing Federal or State facilities to serve as clean plant centers.
-  - **(5)** There is authorized to be appropriated to carry out the Program $5,000,000 for fiscal year 2013.
-- **(f)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+- **(e)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
   - **(1)** $12,000,000 for fiscal year 2009;
   - **(2)** $45,000,000 for fiscal year 2010;
-  - **(3)** $50,000,000 for fiscal year 2011;
-  - **(4)** $50,000,000 for fiscal year 2012;
-  - **(5)** $62,500,000 for each of fiscal years 2014 through 2017;
-  - **(6)** $75,000,000 for each of fiscal years 2018 through 2025; and
-  - **(7)** $90,000,000 for fiscal year 2026 and each fiscal year thereafter.
-- **(g)** Of the funds made available under subsection (f) to carry out this section for a fiscal year, not less than $5,000,000 shall be available to carry out the National Clean Plant Network under subsection (e).
-- **(h)** Indirect costs charged against a cooperative agreement under this section shall not exceed the lesser of—
-  - **(1)** 15 percent of the total Federal funds provided under the cooperative agreement, as determined by the Secretary; and
-  - **(2)** the indirect cost rate applicable to the recipient as otherwise established by law.
+  - **(3)** $50,000,000 for fiscal year 2011; and
+  - **(4)** $50,000,000 for fiscal year 2012 and each fiscal year thereafter.

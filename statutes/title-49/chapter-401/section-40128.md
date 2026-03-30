@@ -3,9 +3,10 @@ title: "Section 40128 - Overflights of national parks"
 usc_title: 49
 usc_section: "40128"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 40128"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-03-30T03:06:29.316Z"
+status: "active"
 ---
 
 # § 40128. Overflights of national parks
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:56:19.372Z"
     - **(D)** Before granting an application under this paragraph, the Administrator, in cooperation with the Director, shall develop an air tour management plan in accordance with subsection (b) and implement such plan.
     - **(E)** The Administrator shall make every effort to act on any application under this paragraph and issue a decision on the application not later than 24 months after it is received or amended.
     - **(F)** In acting on applications under this paragraph to provide commercial air tour operations over a national park, the Administrator shall give priority to an application under this paragraph in any case in which a new entrant commercial air tour operator is seeking operating authority with respect to that national park.
-  - **(3)** Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of title 14, Code of Federal Regulations if—
+  - **(3)** Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of the 1 1 So in original. The word “the” probably should not appear. title 14, Code of Federal Regulations if—
     - **(A)** such activity is permitted under part 119 of such title;
     - **(B)** the operator secures a letter of agreement from the Administrator and the national park superintendent for that national park describing the conditions under which the operations will be conducted; and
     - **(C)** the total number of operations under this exception is limited to not more than five flights in any 30-day period over a particular park.
@@ -56,9 +57,8 @@ generated_at: "2026-03-30T02:56:19.372Z"
   - **(4)** In establishing an air tour management plan for a national park or tribal lands, the Administrator and the Director shall—
     - **(A)** hold at least one public meeting with interested parties to develop the air tour management plan;
     - **(B)** publish the proposed plan in the Federal Register for notice and comment and make copies of the proposed plan available to the public;
-    - **(C)** comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency);
-    - **(D)** solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C); and
-    - **(E)** consult with the advisory group established under section 805 of the National Parks Air Tour Management Act of 2000 ( 49 U.S.C. 40128 note) and consider all advice, information, and recommendations provided by the advisory group to the Administrator and the Director.
+    - **(C)** comply with the regulations set forth in sections 1501.3 and 1501.5 through 1501.8 of title 40, Code of Federal Regulations (for purposes of complying with the regulations, the Federal Aviation Administration shall be the lead agency and the National Park Service is a cooperating agency); and
+    - **(D)** solicit the participation of any Indian tribe whose tribal lands are, or may be, overflown by aircraft involved in a commercial air tour operation over the park or tribal lands to which the plan applies, as a cooperating agency under the regulations referred to in subparagraph (C).
   - **(5)** An air tour management plan developed under this subsection shall be subject to judicial review.
   - **(6)** The Administrator, in cooperation with the Director, may make amendments to an air tour management plan. Any such amendments shall be published in the Federal Register for notice and comment. A request for amendment of an air tour management plan shall be made in such form and manner as the Administrator may prescribe.
   - **(7)**

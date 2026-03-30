@@ -3,13 +3,13 @@ title: "Section 527 - Establishment of working capital fund"
 usc_title: 28
 usc_section: "527"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 527"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-03-30T03:05:05.815Z"
+status: "active"
 ---
 
 # § 527. Establishment of working capital fund
 
-  - **(1)** the Department of Justice, other Federal agencies, and other sources authorized by law for supplies, materials, and services; and
-  - **(2)** federally recognized tribes for supplies, materials, and services related to access to Federal law enforcement databases; at rates which will recover the expenses of operations including accrual of annual leave and depreciation of plant and equipment of the fund. The fund shall also be credited with other receipts from sale or exchange of property or in payment for loss or damage to property held by the fund. There shall be transferred into the Treasury as miscellaneous receipts, as of the close of each fiscal year, any net income after making provisions for prior year losses, if any.
+There is hereby authorized to be established a working capital fund for the Department of Justice, which shall be available, without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Attorney General, with the approval of the Office of Management and Budget, determines may be performed more advantageously as central services. The capital of the fund shall consist of the amount of the fair and reasonable value of such inventories, equipment, and other assets and inventories on order pertaining to the services to be carried on by the fund as the Attorney General may transfer to the fund less related liabilities and unpaid obligations together with any appropriations made for the purpose of providing capital. The fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Department of Justice, other Federal agencies, and other sources authorized by law for supplies, materials, and services at rates which will recover the expenses of operations including accrual of annual leave and depreciation of plant and equipment of the fund. The fund shall also be credited with other receipts from sale or exchange of property or in payment for loss or damage to property held by the fund. There shall be transferred into the Treasury as miscellaneous receipts, as of the close of each fiscal year, any net income after making provisions for prior year losses, if any.
 

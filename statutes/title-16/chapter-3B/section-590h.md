@@ -3,16 +3,17 @@ title: "Section 590h - Payments and grants of aid"
 usc_title: 16
 usc_section: "590h"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 590h"
-generated_at: "2026-03-30T02:54:22.882Z"
+generated_at: "2026-03-30T03:04:48.504Z"
+status: "active"
 ---
 
 # § 590h. Payments and grants of aid
 
 - **(a)**
 - **(b)**
-  - **(1)** The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.].
+  - **(1)** The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.].
   - **(2)**
   - **(5)**
     - **(A)** The Secretary shall appoint in each State a State committee composed of not fewer than 3 nor more than 5 members who are fairly representative of the farmers in the State. The members of a State committee shall serve at the pleasure of the Secretary for such term as the Secretary may establish.

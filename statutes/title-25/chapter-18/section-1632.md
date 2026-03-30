@@ -3,9 +3,10 @@ title: "Section 1632 - Safe water and sanitary waste disposal facilities"
 usc_title: 25
 usc_section: "1632"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1632"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-03-30T03:05:02.873Z"
+status: "active"
 ---
 
 # § 1632. Safe water and sanitary waste disposal facilities
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
   - **(4)** many Indian homes and communities still lack safe water supply systems and sanitary sewage and solid waste disposal systems; and
   - **(5)** it is in the interest of the United States, and it is the policy of the United States, that all Indian communities and Indian homes, new and existing, be provided with safe and adequate water supply systems and sanitary sewage waste disposal systems as soon as possible.
 - **(b)**
-  - **(1)** In furtherance of the findings and declarations made in subsection (a), Congress reaffirms the primary responsibility and authority of the Service to provide the necessary sanitation facilities and services as provided in section 2004a of title 42 .
+  - **(1)** In furtherance of the findings and declarations made in subsection (a) of this section, Congress reaffirms the primary responsibility and authority of the Service to provide the necessary sanitation facilities and services as provided in section 2004a of title 42 .
   - **(2)** The Secretary, acting through the Service, is authorized to provide under section 2004a of title 42 —
     - **(A)** financial and technical assistance to Indian tribes and communities in the establishment, training, and equipping of utility organizations to operate and maintain Indian sanitation facilities;
     - **(B)** ongoing technical assistance and training in the management of utility organizations which operate and maintain sanitation facilities; and
@@ -28,10 +29,10 @@ generated_at: "2026-03-30T02:54:52.822Z"
 - **(c)** Beginning in fiscal year 1990, the Secretary, acting through the Service, shall develop and begin implementation of a 10-year plan to provide safe water supply and sanitation sewage and solid waste disposal facilities to existing Indian homes and communities and to new and renovated Indian homes.
 - **(d)** The financial and technical capability of an Indian tribe or community to safely operate and maintain a sanitation facility shall not be a prerequisite to the provision or construction of sanitation facilities by the Secretary.
 - **(e)**
-  - **(1)** The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c).
+  - **(1)** The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c) of this section.
   - **(2)** For the purposes of paragraph (1), the term “Federal share” means 80 percent of the costs described in paragraph (1).
   - **(3)** With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, and maintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
-- **(f)** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] shall be eligible for—
+- **(f)** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] shall be eligible for—
   - **(1)** any funds appropriated pursuant to this section, and
   - **(2)** any funds appropriated for the purpose of providing water supply or sewage disposal services,
 - **(g)**
@@ -41,7 +42,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
     - **(C)** the level of sanitation deficiency for each sanitation facilities project of each Indian tribe or community;
     - **(D)** the amount of funds necessary to raise all Indian tribes and communities to a level I sanitation deficiency; and
     - **(E)** the amount of funds necessary to raise all Indian tribes and communities to zero sanitation deficiency.
-  - **(2)** In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]) to determine the sanitation needs of each tribe.
+  - **(2)** In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]) to determine the sanitation needs of each tribe.
   - **(3)** The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
   - **(4)** For purposes of this subsection, the sanitation deficiency levels for an Indian tribe or community are as follows:
     - **(A)** level I is an Indian tribe or community with a sanitation system—

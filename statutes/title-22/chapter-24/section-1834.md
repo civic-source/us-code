@@ -3,9 +3,10 @@ title: "Section 1834 - Repealed. Pub. L. 85–141, § 3 , Aug. 14, 1957 , 71 Sta
 usc_title: 22
 usc_section: "1834"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1834"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-03-30T03:04:53.615Z"
+status: "repealed"
 ---
 
 # §§ 1831 to 1834. Repealed. Pub. L. 85–141, § 3 , Aug. 14, 1957 , 71 Stat. 356

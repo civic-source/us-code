@@ -3,9 +3,10 @@ title: "Section 5503 - Hospitalized veterans and estates of incompetent institut
 usc_title: 38
 usc_section: "5503"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5503"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-03-30T03:05:59.223Z"
+status: "active"
 ---
 
 # § 5503. Hospitalized veterans and estates of incompetent institutionalized veterans
@@ -30,4 +31,4 @@ generated_at: "2026-03-30T02:55:53.521Z"
     - **(A)** The provisions of this subsection shall apply with respect to a surviving spouse having no child in the same manner as they apply to a veteran having neither spouse nor child.
     - **(B)** The provisions of this subsection shall apply with respect to a child entitled to pension under section 1542 of this title in the same manner as they apply to a veteran having neither spouse nor child.
   - **(6)** The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
-  - **(7)** This subsection expires on January 31, 2033 .
+  - **(7)** This subsection expires on November 30, 2016 .

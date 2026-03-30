@@ -1,12 +1,15 @@
 ---
-title: "Section 500j - Omitted"
+title: "Section 500j - “Reindeer” defined"
 usc_title: 25
 usc_section: "500j"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 500j"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.842Z"
+status: "active"
 ---
 
-# § 500j. Omitted
+# § 500j. “Reindeer” defined
+
+“Reindeer” as used in this subchapter shall be understood to include reindeer and such caribou as have been introduced into animal husbandry or have actually joined reindeer herds, and the increase thereof.
 

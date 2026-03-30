@@ -1,12 +1,41 @@
 ---
-title: "Section 30 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(2)(A) , Dec. 19, 2014 , 128 Stat. 4037 ]"
+title: "Section 30 - Certain plug-in electric vehicles"
 usc_title: 26
 usc_section: "30"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 30"
-generated_at: "2026-03-30T02:55:27.589Z"
+generated_at: "2026-03-30T03:05:18.517Z"
+status: "active"
 ---
 
-# [§ 30. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(2)(A) , Dec. 19, 2014 , 128 Stat. 4037 ]
+# § 30. Certain plug-in electric vehicles
 
+- **(a)** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 10 percent of the cost of any qualified plug-in electric vehicle placed in service by the taxpayer during the taxable year.
+- **(b)** The amount of the credit allowed under subsection (a) with respect to any vehicle shall not exceed $2,500.
+- **(c)**
+  - **(1)** So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+  - **(2)** For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+- **(d)** For purposes of this section—
+  - **(1)** The term “qualified plug-in electric vehicle” means a specified vehicle—
+    - **(A)** the original use of which commences with the taxpayer,
+    - **(B)** which is acquired for use or lease by the taxpayer and not for resale,
+    - **(C)** which is made by a manufacturer,
+    - **(D)** which is manufactured primarily for use on public streets, roads, and highways,
+    - **(E)** which has a gross vehicle weight rating of less than 14,000 pounds, and
+    - **(F)** which is propelled to a significant extent by an electric motor which draws electricity from a battery which—
+      - **(i)** has a capacity of not less than 4 kilowatt hours (2.5 kilowatt hours in the case of a vehicle with 2 or 3 wheels), and
+      - **(ii)** is capable of being recharged from an external source of electricity.
+  - **(2)** The term “specified vehicle” means any vehicle which—
+    - **(A)** is a low speed vehicle within the meaning of section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009), or
+    - **(B)** has 2 or 3 wheels.
+  - **(3)** The term “manufacturer” has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ( 42 U.S.C. 7521 et seq.).
+  - **(4)** The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
+- **(e)**
+  - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
+  - **(2)** The amount of any deduction or other credit allowable under this chapter for a new qualified plug-in electric drive motor vehicle shall be reduced by the amount of credit allowable under subsection (a) for such vehicle.
+  - **(3)** In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)).
+  - **(4)** No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
+  - **(5)** The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.
+  - **(6)** No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
+- **(f)** This section shall not apply to any vehicle acquired after December 31, 2011 .

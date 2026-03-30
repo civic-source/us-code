@@ -3,9 +3,10 @@ title: "Section 3502 - Order of retention"
 usc_title: 5
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 3502"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-03-30T03:04:06.069Z"
+status: "active"
 ---
 
 # § 3502. Order of retention
@@ -36,13 +37,13 @@ generated_at: "2026-03-30T02:52:56.006Z"
     - **(E)** a description of any appeal or other rights which may be available.
   - **(3)** Notice under paragraph (1)(B)—
     - **(A)** shall be given to—
-      - **(i)** the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; 1 1 See References in Text note below. and
+      - **(i)** the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
       - **(ii)** the chief elected official of such unit or each of such units of local government as may be appropriate; and
     - **(B)** shall consist of written notification as to—
       - **(i)** the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
       - **(ii)** when those separations will occur; and
-      - **(iii)** any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998. 1
-  - **(4)** The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998. 1
+      - **(iii)** any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998.
+  - **(4)** The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998.
 - **(e)**
   - **(1)** Subject to paragraph (3), upon request submitted under paragraph (2), the President may, in writing, shorten the period of advance notice required under subsection (d)(1)(A) and (B), with respect to a particular reduction in force, if necessary because of circumstances not reasonably foreseeable.
   - **(2)** A request to shorten notice periods shall be submitted to the President by the head of the agency involved, and shall indicate the reduction in force to which the request pertains, the number of days by which the agency head requests that the periods be shortened, and the reasons why the request is necessary.
@@ -54,4 +55,4 @@ generated_at: "2026-03-30T02:52:56.006Z"
   - **(2)** The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
   - **(3)** An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary concerned determines that such participation would impair the performance of the mission of the Department of Defense or the military department concerned.
   - **(4)** The regulations prescribed under this section shall incorporate the authority provided in this subsection.
-  - **(5)** No authority under paragraph (1) may be exercised after September 30, 2018 .
+  - **(5)** No authority under paragraph (1) may be exercised after September 30, 2014 .

@@ -3,9 +3,10 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-03-30T03:06:22.822Z"
+status: "active"
 ---
 
 # § 7661f. Small business stationary source technical and environmental compliance assistance program
@@ -21,29 +22,29 @@ generated_at: "2026-03-30T02:56:11.325Z"
     - **(A)** any work practice or technological method of compliance, or
     - **(B)** the schedule of milestones for implementing such work practice or method of compliance preceding any applicable compliance date,
 - **(b)** The Administrator shall establish within 9 months after November 15, 1990 , a small business stationary source technical and environmental compliance assistance program. Such program shall—
-  - **(1)** assist the States in the development of the program required under subsection (a) (relating to assistance for small business stationary sources);
+  - **(1)** assist the States in the development of the program required under subsection (a) of this section (relating to assistance for small business stationary sources);
   - **(2)** issue guidance for the use of the States in the implementation of these programs that includes alternative control technologies and pollution prevention methods applicable to small business stationary sources; and
-  - **(3)** provide for implementation of the program provisions required under subsection (a)(4) in any State that fails to submit such a program under that subsection.
+  - **(3)** provide for implementation of the program provisions required under subsection (a)(4) of this section in any State that fails to submit such a program under that subsection.
 - **(c)**
   - **(1)** Except as provided in paragraphs (2) and (3), for purposes of this section, the term “small business stationary source” means a stationary source that—
-    - **(A)** is owned or operated by a person that employs 100 or fewer individuals, 1 1 So in original. The comma probably should be a semicolon.
+    - **(A)** is owned or operated by a person that employs 100 or fewer individuals,
     - **(B)** is a small business concern as defined in the Small Business Act [ 15 U.S.C. 631 et seq.];
     - **(C)** is not a major stationary source;
     - **(D)** does not emit 50 tons or more per year of any regulated pollutant; and
     - **(E)** emits less than 75 tons per year of all regulated pollutants.
-  - **(2)** Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs 2 2 So in original. Probably should be “subparagraph”. (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
+  - **(2)** Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs 1 1 So in original. Probably should be “subparagraph”. (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
   - **(3)**
     - **(A)** The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
     - **(B)** The State, in consultation with the Administrator and the Administrator of the Small Business Administration and after providing notice and opportunity for public hearing, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the State determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 - **(d)** The Administrator shall direct the Agency’s Office of Small and Disadvantaged Business Utilization through the Small Business Ombudsman (hereinafter in this section referred to as the “Ombudsman”) to monitor the small business stationary source technical and environmental compliance assistance program under this section. In carrying out such monitoring activities, the Ombudsman shall—
   - **(1)** render advisory opinions on the overall effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program, difficulties encountered, and degree and severity of enforcement;
-  - **(2)** make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, 3 3 See References in Text note below. the Regulatory Flexibility Act [ 5 U.S.C. 601 et seq.], and the Equal Access to Justice Act;
+  - **(2)** make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, 2 2 See References in Text note below. the Regulatory Flexibility Act [ 5 U.S.C. 601 et seq.], and the Equal Access to Justice Act;
   - **(3)** review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
   - **(4)** have the Small Business Stationary Source Technical and Environmental Compliance Assistance Program serve as the secretariat for the development and dissemination of such reports and advisory opinions.
 - **(e)**
   - **(1)** There shall be created a Compliance Advisory Panel (hereinafter referred to as the “Panel”) on the State level of not less than 7 individuals. This Panel shall—
     - **(A)** render advisory opinions concerning the effectiveness of the small business stationary source technical and environmental compliance assistance program, difficulties encountered, and degree and severity of enforcement;
-    - **(B)** make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, 3 the Regulatory Flexibility Act [ 5 U.S.C. 601 et seq.], and the Equal Access to Justice Act;
+    - **(B)** make periodic reports to the Administrator concerning the compliance of the State Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act, 2 the Regulatory Flexibility Act [ 5 U.S.C. 601 et seq.], and the Equal Access to Justice Act;
     - **(C)** review information for small business stationary sources to assure such information is understandable by the layperson; and
     - **(D)** have the Small Business Stationary Source Technical and Environmental Compliance Assistance Program serve as the secretariat for the development and dissemination of such reports and advisory opinions.
   - **(2)** The Panel shall consist of—
@@ -52,5 +53,5 @@ generated_at: "2026-03-30T02:56:11.325Z"
     - **(C)** 2 members selected by the State legislature who are owners, or who represent owners, of small business stationary sources (1 member each by the majority and minority leadership of the upper house, or the equivalent State entity); and
     - **(D)** 1 member selected by the head of the department or agency of the State responsible for air pollution permit programs to represent that agency.
 - **(f)** The State (or the Administrator) may reduce any fee required under this chapter to take into account the financial resources of small business stationary sources.
-- **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A provisions relating to continuous emissions monitoring.
-- **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
+- **(g)** In developing regulations and CTGs under this chapter that contain continuous emission monitoring requirements, the Administrator, consistent with the requirements of this chapter, before applying such requirements to small business stationary sources, shall consider the necessity and appropriateness of such requirements for such sources. Nothing in this subsection shall affect the applicability of subchapter IV–A of this chapter provisions relating to continuous emissions monitoring.
+- **(h)** The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.

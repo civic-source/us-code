@@ -1,12 +1,15 @@
 ---
-title: "Section 16929 - Transferred"
+title: "Section 16929 - Immunity for good faith conduct"
 usc_title: 42
 usc_section: "16929"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16929"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-03-30T03:06:22.984Z"
+status: "active"
 ---
 
-# § 16929. Transferred
+# § 16929. Immunity for good faith conduct
+
+The Federal Government, jurisdictions, political subdivisions of jurisdictions, and their agencies, officers, employees, and agents shall be immune from liability for good faith conduct under this subchapter.
 

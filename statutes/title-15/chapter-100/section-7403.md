@@ -3,9 +3,10 @@ title: "Section 7403 - National Science Foundation research"
 usc_title: 15
 usc_section: "7403"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-03-30T03:04:31.245Z"
+status: "active"
 ---
 
 # § 7403. National Science Foundation research
@@ -19,25 +20,8 @@ generated_at: "2026-03-30T02:54:08.221Z"
     - **(E)** network security architecture, including tools for security administration and analysis;
     - **(F)** emerging threats;
     - **(G)** vulnerability assessments and techniques for quantifying risk;
-    - **(H)** remote access and wireless security;
-    - **(I)** enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property;
-    - **(J)** secure fundamental protocols that are integral to inter-network communications and data exchange;
-    - **(K)** secure software engineering and software assurance, including—
-      - **(i)** programming languages and systems that include fundamental security features;
-      - **(ii)** portable or reusable code that remains secure when deployed in various environments;
-      - **(iii)** verification and validation technologies to ensure that requirements and specifications have been implemented; and
-      - **(iv)** models for comparison and metrics to assure that required standards have been met;
-    - **(L)** holistic system security that—
-      - **(i)** addresses the building of secure systems from trusted and untrusted components;
-      - **(ii)** proactively reduces vulnerabilities;
-      - **(iii)** addresses insider threats; and
-      - **(iv)** supports privacy in conjunction with improved security;
-    - **(M)** monitoring and detection;
-    - **(N)** mitigation and rapid recovery methods;
-    - **(O)** security of wireless networks and mobile devices;
-    - **(P)** security of cloud infrastructure and services;
-    - **(Q)** security of election-dedicated voting system software and hardware; and
-    - **(R)** role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.
+    - **(H)** remote access and wireless security; and
+    - **(I)** enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property.
   - **(2)** Grants shall be awarded under this section on a merit-reviewed competitive basis.
   - **(3)** There are authorized to be appropriated to the National Science Foundation to carry out this subsection—
     - **(A)** $35,000,000 for fiscal year 2003;
@@ -48,24 +32,17 @@ generated_at: "2026-03-30T02:54:08.221Z"
 - **(b)**
   - **(1)** The Director shall award multiyear grants, subject to the availability of appropriations, to institutions of higher education, nonprofit research institutions, or consortia thereof to establish multidisciplinary Centers for Computer and Network Security Research. Institutions of higher education, nonprofit research institutions, or consortia thereof receiving such grants may partner with 1 or more government laboratories or for-profit institutions, or other institutions of higher education or nonprofit research institutions.
   - **(2)** Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
-  - **(3)** The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1).
+  - **(3)** The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including the research areas described in subsection (a)(1) of this section.
   - **(4)** An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
     - **(A)** the research projects that will be undertaken by the Center and the contributions of each of the participating entities;
     - **(B)** how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;
     - **(C)** how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and
-    - **(D)** how the Center will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
+    - **(D)** how the center 1 1 So in original. Probably should be capitalized. will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
   - **(5)** In evaluating the applications submitted under paragraph (4), the Director shall consider, at a minimum—
     - **(A)** the ability of the applicant to generate innovative approaches to computer and network security and effectively carry out the research program;
     - **(B)** the experience of the applicant in conducting research on computer and network security and the capacity of the applicant to foster new multidisciplinary collaborations;
-    - **(C)** the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research;
-    - **(D)** the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center;
-    - **(E)** the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;
-    - **(F)** the applicant’s affiliation with private sector entities involved with industrial research described in subsection (a)(1);
-    - **(G)** the capability of the applicant to conduct research in a secure environment;
-    - **(H)** the applicant’s affiliation with existing research programs of the Federal Government;
-    - **(I)** the applicant’s experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;
-    - **(J)** the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
-    - **(K)** the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.
+    - **(C)** the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research; and
+    - **(D)** the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center.
   - **(6)** The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.
   - **(7)** There are authorized to be appropriated for the National Science Foundation to carry out this subsection—
     - **(A)** $12,000,000 for fiscal year 2003;

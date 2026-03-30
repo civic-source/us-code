@@ -1,41 +1,37 @@
 ---
-title: "Section 8062 - United States Navy: composition; functions"
+title: "Section 8062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-03-30T03:04:17.326Z"
+status: "active"
 ---
 
-# § 8062. United States Navy: composition; functions
+# § 8062. Policy; composition; aircraft authorization
 
-- **(a)** The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped for the peacetime promotion of the national security interests and prosperity of the United States and for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the duties described in the preceding sentence except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
-- **(b)** The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships. For purposes of this subsection, an operational aircraft carrier or amphibious warfare ship includes an aircraft carrier or amphibious warfare ship that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
-- **(c)** All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
-- **(d)** The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, the Coast Guard, the Space Force, and the Navy.
-- **(e)** The Secretary of the Navy shall ensure that—
-  - **(1)** the Navy maintains a minimum of 9 carrier air wings until the earlier of—
-    - **(A)** the date on which additional operationally deployable aircraft carriers can fully support a 10th carrier air wing; or
-    - **(B)** October 1, 2025 ;
-  - **(2)** after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings;
-  - **(3)** for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters; and
-  - **(4)** the Navy prioritizes scheduled maintenance and repair actions to maintain the minimum number of available amphibious warfare ships to meet operational requirements.
-- **(f)**
-  - **(1)**
-    - **(A)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027 , the Secretary of the Navy may not—
-      - **(i)** retire an EA–18G aircraft;
-      - **(ii)** reduce funding for unit personnel or weapon system sustainment activities for EA–18G aircraft in a manner that presumes future congressional authority to divest such aircraft;
-      - **(iii)** place an EA–18G aircraft in active storage status or inactive storage status; or
-      - **(iv)** keep an EA–18G aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions.
-    - **(B)** The prohibition under subparagraph (A) shall not apply to individual EA–18G aircraft that the Secretary of the Navy determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents or mishaps.
-  - **(2)**
-    - **(A)** The Secretary of the Navy shall maintain a total aircraft inventory of EA–18G aircraft of not less than 158 aircraft, of which not less than 126 aircraft shall be coded as primary mission aircraft inventory.
-    - **(B)** The Secretary of the Navy may reduce the number of EA–18G aircraft in the inventory of the Navy below the minimum number specified in subparagraph (A) if the Secretary determines, on a case-by-case basis, that an aircraft is no longer mission capable and uneconomical to repair because of aircraft accidents or mishaps.
-    - **(C)** In this paragraph, the term “primary mission aircraft inventory” means aircraft assigned to meet the primary aircraft authorization—
-      - **(i)** to a unit for the performance of its wartime mission;
-      - **(ii)** to a training unit for technical and specialized training for crew personnel or leading to aircrew qualification;
-      - **(iii)** to a test unit for testing of the aircraft or its components for purposes of research, development, test, and evaluation, operational test and evaluation, or to support testing programs; or
-      - **(iv)** to meet requirements for missions not otherwise specified in clauses (i) through (iii).
-- **(g)** A nuclear powered aircraft carrier may not be retired before its first refueling.
-- **(h)** In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
+- **(a)** It is the intent of Congress to provide an Air Force that is capable, in conjunction with the other armed forces, of—
+  - **(1)** preserving the peace and security, and providing for the defense, of the United States, the Commonwealths and possessions, and any areas occupied by the United States;
+  - **(2)** supporting the national policies;
+  - **(3)** implementing the national objectives; and
+  - **(4)** overcoming any nations responsible for aggressive acts that imperil the peace and security of the United States.
+- **(b)** There is a United States Air Force within the Department of the Air Force.
+- **(c)** In general, the Air Force includes aviation forces both combat and service not otherwise assigned. It shall be organized, trained, and equipped primarily for prompt and sustained offensive and defensive air operations. It is responsible for the preparation of the air forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Air Force to meet the needs of war.
+- **(d)** The Air Force consists of—
+  - **(1)** the Regular Air Force, the Air National Guard of the United States, the Air National Guard while in the service of the United States, and the Air Force Reserve;
+  - **(2)** all persons appointed or enlisted in, or conscripted into, the Air Force without component; and
+  - **(3)** all Air Force units and other Air Force organizations, with their installations and supporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
+- **(e)** Subject to subsection (f) of this section, chapter 831 of this title, and the strength authorized by law pursuant to section 115 of this title , the authorized strength of the Air Force is 70 Regular Air Force groups and such separate Regular Air Force squadrons, reserve groups, and supporting and auxiliary regular and reserve units as required.
+- **(f)** There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
+- **(g)**
+  - **(1)** Effective October 1, 2011 , the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
+  - **(2)** In this subsection:
+    - **(A)** The term “strategic airlift aircraft” means an aircraft—
+      - **(i)** that has a cargo capacity of at least 150,000 pounds; and
+      - **(ii)** that is capable of transporting outsized cargo an unrefueled range of at least 2,400 nautical miles.
+    - **(B)** The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
+- **(h)**
+  - **(1)** Beginning October 1, 2011 , the Secretary of the Air Force may not retire more than six B–1 aircraft.
+  - **(2)** The Secretary shall maintain in a common capability configuration not less than 36 B–1 aircraft as combat-coded aircraft.
+  - **(3)** In this subsection, the term “combat-coded aircraft” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.

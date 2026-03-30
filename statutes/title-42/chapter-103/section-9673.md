@@ -3,9 +3,10 @@ title: "Section 9673 - Risk retention groups"
 usc_title: 42
 usc_section: "9673"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9673"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-03-30T03:06:22.856Z"
+status: "active"
 ---
 
 # § 9673. Risk retention groups
@@ -16,8 +17,8 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(3)** A State law, rule, or order which requires any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in the State.
   - **(4)** A State law, rule, or order which otherwise discriminates against a risk retention group or any of its members.
 - **(b)**
-  - **(1)** Nothing in subsection (a) shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
-  - **(2)** Subsection (a) shall not apply to any State law which requires a risk retention group to do any of the following:
+  - **(1)** Nothing in subsection (a) of this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
+  - **(2)** Subsection (a) of this section shall not apply to any State law which requires a risk retention group to do any of the following:
     - **(A)** Comply with the unfair claim settlement practices law of the State.
     - **(B)** Pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus line insurers, brokers, or policyholders under the laws of the State.
     - **(C)** Participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of pollution liability insurance losses and expenses incurred on policies written through such mechanism.
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
       - **(i)** the commissioner has reason to believe the risk retention group is in a financially impaired condition; and
       - **(ii)** the commissioner of the jurisdiction in which the group is chartered has not begun or has refused to initiate an examination of the group.
     - **(H)** Comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (G).
-- **(c)** The exemptions specified in subsection (a) apply to—
+- **(c)** The exemptions specified in subsection (a) of this section apply to—
   - **(1)** pollution liability insurance coverage provided by a risk retention group for—
     - **(A)** such group; or
     - **(B)** any person who is a member of such group;

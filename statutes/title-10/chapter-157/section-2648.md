@@ -3,9 +3,10 @@ title: "Section 2648 - Persons and supplies: sea, land, and air transportation"
 usc_title: 10
 usc_section: "2648"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2648"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-03-30T03:04:17.296Z"
+status: "active"
 ---
 
 # § 2648. Persons and supplies: sea, land, and air transportation
@@ -16,4 +17,4 @@ Whenever the Secretary of Defense considers that space is available, the followi
   - **(2)** Other officers of the United States traveling on official business.
   - **(3)** Secretaries and supplies of the Armed Services Department of the Young Men’s Christian Association.
   - **(4)** Officers and employees of the Commonwealth of Puerto Rico on official business.
-  - **(5)** The families of members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4).
+  - **(5)** The families of members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4). However, a person described in paragraph (4) or (5) may be so transported only if the transportation is without expense to the United States.

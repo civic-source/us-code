@@ -3,9 +3,10 @@ title: "Section 8737 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "8737"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8737"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-03-30T03:04:21.036Z"
+status: "active"
 ---
 
 # § 8737. Special marketing loan provisions for upland cotton
@@ -46,3 +47,13 @@ generated_at: "2026-03-30T02:53:42.479Z"
       - **(iv)** General Note 3(a)(iv) to the Harmonized Tariff Schedule.
     - **(D)** When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
   - **(3)** Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
+- **(c)**
+  - **(1)** Subject to paragraph (2), the Secretary shall, on a monthly basis, provide economic adjustment assistance to domestic users of upland cotton in the form of payments for all documented use of that upland cotton during the previous monthly period regardless of the origin of the upland cotton.
+  - **(2)**
+    - **(A)** During the period beginning on August 1, 2008 , and ending on July 31, 2012 , the value of the assistance provided under paragraph (1) shall be 4 cents per pound.
+    - **(B)** Effective beginning on August 1, 2012 , the value of the assistance provided under paragraph (1) shall be 3 cents per pound.
+  - **(3)** Economic adjustment assistance under this subsection shall be made available only to domestic users of upland cotton that certify that the assistance shall be used only to acquire, construct, install, modernize, develop, convert, or expand land, plant, buildings, equipment, facilities, or machinery.
+  - **(4)** The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
+  - **(5)** If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
+    - **(A)** liable to repay the assistance to the Secretary, plus interest, as determined by the Secretary; and
+    - **(B)** ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.

@@ -3,9 +3,10 @@ title: "Section 920b - Art. 120b. Rape and sexual assault of a child"
 usc_title: 10
 usc_section: "920b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 920b"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-03-30T03:04:17.234Z"
+status: "active"
 ---
 
 # § 920b. Art. 120b. Rape and sexual assault of a child
@@ -23,9 +24,10 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(1)** In a prosecution under this section, it need not be proven that the accused knew the age of the other person engaging in the sexual act or lewd act. It is not a defense that the accused reasonably believed that the child had attained the age of 12 years.
   - **(2)** In a prosecution under this section, it need not be proven that the accused knew that the other person engaging in the sexual act or lewd act had not attained the age of 16 years, but it is a defense in a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), which the accused must prove by a preponderance of the evidence, that the accused reasonably believed that the child had attained the age of 16 years, if the child had in fact attained at least the age of 12 years.
 - **(e)** In a prosecution under this section, in proving that a person made a threat, it need not be proven that the person actually intended to carry out the threat or had the ability to carry out the threat.
-- **(f)** Lack of consent is not an element and need not be proven in any prosecution under this section. A child cannot consent to any sexual act, lewd act, or use of force.
-- **(g)** In this section:
-  - **(1)** The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)), except that the term “sexual act” also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+- **(f)** In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
+- **(g)** Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
+- **(h)** In this section:
+  - **(1)** The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)).
   - **(2)** The term “force” means—
     - **(A)** the use of a weapon;
     - **(B)** the use of such physical strength or violence as is sufficient to overcome, restrain, or injure a child; or

@@ -3,9 +3,10 @@ title: "Section 311 - Requirements as to certain applications in broadcasting se
 usc_title: 47
 usc_section: "311"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 311"
-generated_at: "2026-03-30T02:56:24.507Z"
+generated_at: "2026-03-30T03:06:26.185Z"
+status: "active"
 ---
 
 # § 311. Requirements as to certain applications in broadcasting service
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:24.507Z"
 - **(a)** When there is filed with the Commission any application to which section 309(b)(1) of this title applies, for an instrument of authorization for a station in the broadcasting service, the applicant—
   - **(1)** shall give notice of such filing in the principal area which is served or is to be served by the station; and
   - **(2)** if the application is formally designated for hearing in accordance with section 309 of this title , shall give notice of such hearing in such area at least ten days before commencement of such hearing.
-- **(b)** Hearings referred to in subsection (a) may be held at such places as the Commission shall determine to be appropriate, and in making such determination in any case the Commission shall consider whether the public interest, convenience, or necessity will be served by conducting the hearing at a place in, or in the vicinity of, the principal area to be served by the station involved.
+- **(b)** Hearings referred to in subsection (a) of this section may be held at such places as the Commission shall determine to be appropriate, and in making such determination in any case the Commission shall consider whether the public interest, convenience, or necessity will be served by conducting the hearing at a place in, or in the vicinity of, the principal area to be served by the station involved.
 - **(c)**
   - **(1)** If there are pending before the Commission two or more applications for a permit for construction of a broadcasting station, only one of which can be granted, it shall be unlawful, without approval of the Commission, for the applicants or any of them to effectuate an agreement whereby one or more of such applicants withdraws his or their application or applications.
   - **(2)** The request for Commission approval in any such case shall be made in writing jointly by all the parties to the agreement. Such request shall contain or be accompanied by full information with respect to the agreement, set forth in such detail, form, and manner as the Commission shall by rule require.

@@ -1,12 +1,15 @@
 ---
-title: "Section 14198 - Omitted"
+title: "Section 14198 - Report; termination"
 usc_title: 42
 usc_section: "14198"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14198"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.948Z"
+status: "active"
 ---
 
-# § 14198. Omitted
+# § 14198. Report; termination
+
+Not later than 2 years after the date on which the Commission is fully constituted under section 14191 of this title , the Commission shall submit a detailed report to the Congress and the President containing its findings and recommendations. The Commission shall terminate 30 days after the submission of its report.
 

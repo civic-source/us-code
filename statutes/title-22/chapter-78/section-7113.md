@@ -3,14 +3,16 @@ title: "Section 7113 - Accountability"
 usc_title: 22
 usc_section: "7113"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7113"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-03-30T03:04:53.706Z"
+status: "active"
 ---
 
 # § 7113. Accountability
 
-- **(a)** For fiscal year 2013, and each fiscal year thereafter, all grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
+All grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
+
   - **(1)**
     - **(A)** In this paragraph, the term “unresolved audit finding” means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued 1 1 So in original. Probably should be followed by a period.
     - **(B)** Beginning in the first fiscal year beginning after March 7, 2013 , and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this title or an Act amended by this title to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
@@ -32,6 +34,3 @@ generated_at: "2026-03-30T02:55:05.438Z"
     - **(B)** all mandatory exclusions required under paragraph (1)(C) have been issued;
     - **(C)** all reimbursements required under paragraph (1)(E) have been made; and
     - **(D)** includes a list of any grant recipients excluded under paragraph (1) from the previous year.
-- **(b)** For purposes of subsection (a), for fiscal year 2018, and each fiscal year thereafter, the term “grant awarded by the Attorney General under this title or an Act amended by this title” includes a grant under any of the following:
-  - **(1)** Section 20333 of title 34 .
-  - **(2)** The program under section 20709c of title 34 .

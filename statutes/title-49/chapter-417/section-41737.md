@@ -3,9 +3,10 @@ title: "Section 41737 - Compensation guidelines, limitations, and claims"
 usc_title: 49
 usc_section: "41737"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 41737"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-03-30T03:06:29.321Z"
+status: "active"
 ---
 
 # § 41737. Compensation guidelines, limitations, and claims
@@ -22,7 +23,9 @@ generated_at: "2026-03-30T02:56:19.378Z"
 - **(c)** Not later than 15 days after receiving a written claim from an air carrier for compensation under this subchapter, the Secretary shall—
   - **(1)** pay or deny the United States Government’s share of a claim; and
   - **(2)** if denying the claim, notify the carrier of the denial and the reasons for the denial.
-- **(d)** The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government’s share of the compensation.
+- **(d)**
+  - **(1)** The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government’s share of the compensation.
+  - **(2)** Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993 –1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
 - **(e)**
   - **(1)** If the Secretary determines that air carriers are experiencing significantly increased costs in providing air service or air transportation for which compensation is being paid under this subchapter, the Secretary may increase the rates of compensation payable under this subchapter without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
   - **(2)** If an adjustment is made under paragraph (1), and total unit costs subsequently decrease to at least the total unit cost reflected in the compensation rate, then the Secretary may reverse the adjustment previously made under paragraph (1) without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.

@@ -3,9 +3,10 @@ title: "Section 673 - Adoption and guardianship assistance program"
 usc_title: 42
 usc_section: "673"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 673"
-generated_at: "2026-03-30T02:56:10.889Z"
+generated_at: "2026-03-30T03:06:22.459Z"
+status: "active"
 ---
 
 # § 673. Adoption and guardianship assistance program
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:56:10.889Z"
       - **(ii)** who has not attained 18 years of age, if the State determines that the parents or relative guardians, as the case may be, are no longer legally responsible for the support of the child; or
       - **(iii)** if the State determines that the child is no longer receiving any support from the parents or relative guardians, as the case may be.
     - **(B)** Parents or relative guardians who have been receiving adoption assistance payments or kinship guardianship assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for the payments, or eligible for the payments in a different amount.
-  - **(5)** For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c), to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
+  - **(5)** For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
   - **(6)**
     - **(A)** For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
     - **(B)** A State’s payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title .
@@ -52,22 +53,13 @@ generated_at: "2026-03-30T02:56:10.889Z"
       - **(ii)** is not a citizen or resident of the United States; and
       - **(iii)** was adopted outside of the United States or was brought into the United States for the purpose of being adopted.
     - **(B)** Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure, as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
-  - **(8)**
-    - **(A)** A State shall calculate the savings (if any) resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, using a methodology specified by the Secretary or an alternate methodology proposed by the State and approved by the Secretary.
-    - **(B)** A State shall annually report to the Secretary—
-      - **(i)** the methodology used to make the calculation described in subparagraph (A), without regard to whether any savings are found;
-      - **(ii)** the amount of any savings referred to in subparagraph (A); and
-      - **(iii)** how any such savings are spent, accounting for and reporting the spending separately from any other spending reported to the Secretary under part B or this part.
-    - **(C)** The Secretary shall make all information reported pursuant to subparagraph (B) available on the website of the Department of Health and Human Services in a location easily accessible to the public.
-    - **(D)**
-      - **(i)** A State shall spend an amount equal to the amount of the savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, to provide to children of families any service that may be provided under part B or this part. A State shall spend not less than 30 percent of any such savings on post-adoption services, post-guardianship services, and services to support and sustain positive permanent outcomes for children who otherwise might enter into foster care under the responsibility of the State, with at least ⅔ of the spending by the State to comply with such 30 percent requirement being spent on post-adoption and post-guardianship services.
-      - **(ii)** Any State spending required under clause (i) shall be used to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or this part.
+  - **(8)** A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services.
 - **(b)**
-  - **(1)** For purposes of subchapter XIX, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996 ) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
-  - **(2)** For purposes of division A 1 1 See References in Text note below. of subchapter XX, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
+  - **(1)** For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996 ) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
+  - **(2)** For purposes of division A 1 1 See References in Text note below. of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
   - **(3)** A child described in this paragraph is any child—
     - **(A)**
-      - **(i)** who is a child described in subsection (a)(2), and
+      - **(i)** who is a child described in subsection (a)(2) of this section, and
       - **(ii)** with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued),
     - **(B)** with respect to whom foster care maintenance payments are being made under section 672 of this title , or
     - **(C)** with respect to whom kinship guardianship assistance payments are being made pursuant to subsection (d).
@@ -75,7 +67,7 @@ generated_at: "2026-03-30T02:56:10.889Z"
 - **(c)** For purposes of this section—
   - **(1)** in the case of a child who is not an applicable child for a fiscal year, the child shall not be considered a child with special needs unless—
     - **(A)** the State has determined that the child cannot or should not be returned to the home of his parents; and
-    - **(B)** the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX; or
+    - **(B)** the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter; or
   - **(2)** in the case of a child who is an applicable child for a fiscal year, the child shall not be considered a child with special needs unless—
     - **(A)** the State has determined, pursuant to a criterion or criteria established by the State, that the child cannot or should not be returned to the home of his parents;
     - **(B)**
@@ -106,11 +98,10 @@ generated_at: "2026-03-30T02:56:10.889Z"
     - **(B)** With respect to a child described in subparagraph (A) whose sibling or siblings are not so described—
       - **(i)** the child and any sibling of the child may be placed in the same kinship guardianship arrangement, in accordance with section 671(a)(31) of this title , if the State agency and the relative agree on the appropriateness of the arrangement for the siblings; and
       - **(ii)** kinship guardianship assistance payments may be paid on behalf of each sibling so placed.
-    - **(C)** In the event of the death or incapacity of the relative guardian, the eligibility of a child for a kinship guardianship assistance payment under this subsection shall not be affected by reason of the replacement of the relative guardian with a successor legal guardian named in the kinship guardianship assistance agreement referred to in paragraph (1) (including in any amendment to the agreement), notwithstanding subparagraph (A) of this paragraph and section 671(a)(28) of this title .
 - **(e)**
   - **(1)**
     - **(A)** Subject to paragraphs (2) and (3), in this section, the term “applicable child” means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
-    - **(B)** For purposes of subparagraph (A), the applicable age for a fiscal year is as follows: In the case of fiscal year: The applicable age is: 2010 16 2011 14 2012 12 2013 10 2014 8 2015 6 2016 4 2017 through 2023 2 2024 2 (or, in the case of a child for whom an adoption assistance agreement is entered into under this section on or after July 1, 2024 , any age) 2025 or thereafter any age.
+    - **(B)** For purposes of subparagraph (A), the applicable age for a fiscal year is as follows: In the case of fiscal year: The applicable age is: 2010 16 2011 14 2012 12 2013 10 2014 8 2015 6 2016 4 2017 2 2018 or thereafter any age.
   - **(2)** Notwithstanding paragraph (1) of this subsection, beginning with fiscal year 2010, such term shall include a child of any age on the date on which an adoption assistance agreement is entered into on behalf of the child under this section if the child—
     - **(A)** has been in foster care under the responsibility of the State for at least 60 consecutive months; and
     - **(B)** meets the requirements of subsection (a)(2)(A)(ii).

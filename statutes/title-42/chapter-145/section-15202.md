@@ -3,14 +3,15 @@ title: "Section 15202 - Medal of Valor Board"
 usc_title: 42
 usc_section: "15202"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15202"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-03-30T03:06:22.957Z"
+status: "active"
 ---
 
 # § 15202. Medal of Valor Board
 
-- **(a)** There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) and shall conduct its business in accordance with this chapter.
+- **(a)** There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) of this section and shall conduct its business in accordance with this chapter.
 - **(b)**
   - **(1)** The members of the Board shall be individuals with knowledge or expertise, whether by experience or training, in the field of public safety, of which—
     - **(A)** two shall be appointed by the majority leader of the Senate;

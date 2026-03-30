@@ -3,14 +3,15 @@ title: "Section 4016 - Protection conferred by certificate of review"
 usc_title: 15
 usc_section: "4016"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4016"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-03-30T03:04:31.224Z"
+status: "active"
 ---
 
 # § 4016. Protection conferred by certificate of review
 
-- **(a)** Except as provided in subsection (b), no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under section 4013 of this title which certificate was in effect when the conduct occurred.
+- **(a)** Except as provided in subsection (b) of this section, no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under section 4013 of this title which certificate was in effect when the conduct occurred.
 - **(b)**
   - **(1)** Any person who has been injured as a result of conduct engaged in under a certificate of review may bring a civil action for injunctive relief, actual damages, the loss of interest on actual damages, and the cost of suit (including a reasonable attorney’s fee) for the failure to comply with the standards of section 4013(a) of this title . Any action commenced under this subchapter shall proceed as if it were an action commenced under section 15 or section 26 of this title , except that the standards of section 4013(a) of this title and the remedies provided in this paragraph shall be the exclusive standards and remedies applicable to such action.
   - **(2)** Any action brought under paragraph (1) shall be filed within two years of the date the plaintiff has notice of the failure to comply with the standards of section 4013(a) of this title but in any event within four years after the cause of action accrues.

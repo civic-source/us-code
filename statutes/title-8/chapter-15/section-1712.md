@@ -3,9 +3,10 @@ title: "Section 1712 - Authorization of appropriations for improvements in techn
 usc_title: 8
 usc_section: "1712"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1712"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-03-30T03:04:14.647Z"
+status: "active"
 ---
 
 # § 1712. Authorization of appropriations for improvements in technology and infrastructure

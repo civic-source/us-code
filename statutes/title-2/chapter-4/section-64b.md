@@ -1,12 +1,15 @@
 ---
-title: "Section 64b - Transferred"
+title: "Section 64b - Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status"
 usc_title: 2
 usc_section: "64b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 64b"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.398Z"
+status: "active"
 ---
 
-# § 64b. Transferred
+# § 64b. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status
+
+In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and section 64a of this title , the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this paragraph), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this paragraph.
 

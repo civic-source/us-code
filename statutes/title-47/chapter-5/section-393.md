@@ -3,15 +3,16 @@ title: "Section 393 - Criteria for approval and expenditures by Secretary"
 usc_title: 47
 usc_section: "393"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 393"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-03-30T03:06:26.193Z"
+status: "active"
 ---
 
 # § 393. Criteria for approval and expenditures by Secretary
 
 - **(a)** The Secretary, in consultation with the Corporation, public telecommunications entities, and as appropriate with others, shall establish criteria for making construction and planning grants. Such criteria shall be consistent with the objectives and provisions set forth in this subpart, and shall be made available to interested parties upon request.
-- **(b)** The Secretary shall base determinations of whether to approve applications for grants under this subpart, and the amount of such grants, on criteria developed pursuant to subsection (a) and designed to achieve—
+- **(b)** The Secretary shall base determinations of whether to approve applications for grants under this subpart, and the amount of such grants, on criteria developed pursuant to subsection (a) of this section and designed to achieve—
   - **(1)** the provision of new telecommunications facilities to extend service to areas currently not receiving public telecommunications services;
   - **(2)** the expansion of the service areas of existing public telecommunications entities;
   - **(3)** the development of public telecommunications facilities owned by, operated by, and available to minorities and women; and

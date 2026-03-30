@@ -1,44 +1,54 @@
 ---
-title: "Section 483 - Notifications related to basing decision-making process"
+title: "Section 483 - Reports on transfers from high-priority readiness appropriations"
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-03-30T03:04:17.221Z"
+status: "active"
 ---
 
-# § 483. Notifications related to basing decision-making process
+# § 483. Reports on transfers from high-priority readiness appropriations
 
-- **(a)** At each point in the decision-making process specified in subsection (b), the Secretary concerned shall notify the congressional defense committees of the decision-making process to be used or the decision-making process used, whichever applies—
-  - **(1)** to select a military installation to serve as the first permanent location for a new major headquarters, covered military unit, or major weapon system; or
-  - **(2)** to make a permanent change in the basing of a major headquarters, covered military unit, or major weapon system by relocating the major headquarters, covered military unit, or major weapon system from its current military installation to a different military installation.
-- **(b)** The Secretary concerned shall provide the notice required by subsection (a) within seven days after each of the following decision points during the decision-making process:
-  - **(1)** When the Secretary concerned issues any formal internal guidance to begin the decision-making process regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
-  - **(2)** When the Secretary concerned selects between two and five military installations as the most likely candidate locations for a major headquarters, covered military unit, or major weapon system in order to subject those installations to additional analysis.
-  - **(3)** When the Secretary concerned selects a specific military installation as the preferred location for the major headquarters, covered military unit, or major weapon system.
-- **(c)** In a notice required by subsection (a), the Secretary concerned shall include at a minimum the following:
-  - **(1)** A description of the manner in which the joint and all-domain training capabilities at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
-  - **(2)** A description of the manner in which the airspace and training areas available at each candidate location, if applicable to the type of basing decision-making process at issue, will be or was, whichever applies, comparatively analyzed among candidate military installations, separate from and in addition to the mission criteria to be used or that was used to make the basing decision.
-  - **(3)** A description of the manner in which community support for the basing decision-making process described in subsection (a) will be or was, whichever applies, comparatively analyzed among candidate military installations, including consultation with appropriate State officials and officials of units of local government in which each installation is located regarding matters affecting the local community, such as transportation, utility infrastructure, housing, education, and family support activities. In any case in which the Secretary concerned selects as the preferred location a military installation with less community support compared to other locations, as indicated by such a comparative analysis, an explanation of the operational considerations that formed the basis for such selection.
-  - **(4)** An explanation of how each candidate location will be or was, whichever applies, scored against the factors referred to in the preceding paragraphs, including the weight assigned to each factor.
-  - **(5)** A summary of any internal score cards that will be or were, whichever applies, used to make the basing decision.
-  - **(6)** With respect to any decision of the Secretary concerned that would result in a significant increase in the number of members of the Armed Forces assigned to a military installation, a description of the consultation with appropriate State and local entities regarding the basing decision to ensure consideration of matters affecting the local community, including requirements for transportation, utility infrastructure, housing, education, and family support activities.
-- **(d)** No irrevocable action may be taken to effect or implement a basing decision reached through the decision-making process described in subsection (a) until the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title , the notice referred to in subsection (b)(3) regarding a preferred location for the major headquarters, covered military unit, or major weapon system.
-- **(e)**
-  - **(1)** Not later than 10 days after the date on which the budget request for a fiscal year is submitted to Congress under section 1105 of title 31 , the Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report providing the following:
-    - **(A)** An update on the status and anticipated completion date of each decision-making process that was commenced or was underway during the previous two fiscal years regarding the location or relocation of a major headquarters, covered military unit, or major weapon system.
-    - **(B)** A list and description of anticipated basing decisions to be made regarding the location or relocation of a major headquarters, covered military unit, or major weapon system over the period covered by the future-years defense plan.
-    - **(C)** A timeline for a congressional engagement plan to brief the Committees on Armed Services of the House of Representatives and the Senate during the decision-making process and when decision notifications would be provided to interested Members of Congress.
-  - **(2)** To satisfy the requirements of paragraph (1)(B), a report under this subsection shall include at a minimum the following:
-    - **(A)** An estimate of the number of members of the armed forces and civilian personnel potentially impacted by the basing decision.
-    - **(B)** The locations to be considered, if already known.
-    - **(C)** The expected timeline for beginning the decision-making process and reaching a final determination.
-- **(f)** In this section:
-  - **(1)** The term “covered military unit” means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a different military installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-  - **(2)** The term “major headquarters” means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
-  - **(3)** The term “major weapon system” means a weapon system that is treatable as a major system under section 3041(a) and (b) of this title.
-  - **(4)** The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
-  - **(5)** The term “Secretary concerned” means—
-    - **(A)** the Secretary of the military department concerned; and
-    - **(B)** the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.
+- **(a)** Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31 , the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
+- **(b)** Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
+- **(c)** In each report under subsection (a) or (b), the Secretary of Defense shall include for each covered budget activity the following:
+  - **(1)** A statement, for the period covered by the report, of—
+    - **(A)** the total amount of transfers into funds available for that activity;
+    - **(B)** the total amount of transfers from funds available for that activity; and
+    - **(C)** the net amount of transfers into, or out of, funds available for that activity.
+  - **(2)** A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity.
+- **(d)** In this section, the term “covered budget activity” means each of the following:
+  - **(1)** The budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Army, appropriation that are designated as follows:
+    - **(A)** All subactivities under the category of Land Forces.
+    - **(B)** Land Forces Depot Maintenance.
+    - **(C)** Base Support.
+    - **(D)** Maintenance of Real Property.
+  - **(2)** The Air Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
+    - **(A)** Mission and Other Flight Operations.
+    - **(B)** Fleet Air Training.
+    - **(C)** Aircraft Depot Maintenance.
+    - **(D)** Base Support.
+    - **(E)** Maintenance of Real Property.
+  - **(3)** The Ship Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
+    - **(A)** Mission and Other Ship Operations.
+    - **(B)** Ship Operational Support and Training.
+    - **(C)** Ship Depot Maintenance.
+    - **(D)** Base Support.
+    - **(E)** Maintenance of Real Property.
+  - **(4)** The Expeditionary Forces budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Marine Corps, appropriation that are designated as follows:
+    - **(A)** Operational Forces.
+    - **(B)** Depot Maintenance.
+    - **(C)** Base Support.
+    - **(D)** Maintenance of Real Property.
+  - **(5)** The Air Operations and Combat Related Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Air Force, appropriation that are designated as follows:
+    - **(A)** Primary Combat Forces.
+    - **(B)** Primary Combat Weapons.
+    - **(C)** Air Operations Training.
+    - **(D)** Depot Maintenance.
+    - **(E)** Base Support.
+    - **(F)** Maintenance of Real Property.
+    - **(G)** Combat Enhancement Forces.
+    - **(H)** Combat Communications.
+  - **(6)** The Mobility Operations budget activity group (known as a “subactivity”) within the Mobilization budget activity of the annual Operation and Maintenance, Air Force, appropriation that is designated as Airlift Operations.

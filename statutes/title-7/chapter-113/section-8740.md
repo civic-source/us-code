@@ -3,9 +3,10 @@ title: "Section 8740 - Adjustments of loans"
 usc_title: 7
 usc_section: "8740"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8740"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-03-30T03:04:21.037Z"
+status: "active"
 ---
 
 # § 8740. Adjustments of loans
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
       - **(iii)** such other adjustments as the Secretary determines appropriate, after consultations conducted in accordance with paragraph (3).
   - **(3)**
     - **(A)** In making adjustments to the loan rate for cotton (including any review of the adjustments) as provided in this subsection, the Secretary shall consult with representatives of the United States cotton industry.
-    - **(B)** Chapter 10 of title 5 shall not apply to consultations under this subsection.
+    - **(B)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
   - **(4)** The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further revisions to the administration of the loan program for upland cotton, by—
     - **(A)** revoking or revising any actions taken under paragraph (2)(B); or
     - **(B)** revoking or revising any actions taken or authorized to be taken under paragraph (2)(C).

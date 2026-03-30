@@ -3,15 +3,16 @@ title: "Section 3537a - Prohibition of advance disclosure of funding decisions"
 usc_title: 42
 usc_section: "3537a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3537a"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-03-30T03:06:22.689Z"
+status: "active"
 ---
 
 # § 3537a. Prohibition of advance disclosure of funding decisions
 
 - **(a)** During any selection process, no officer or employee of the Department of Housing and Urban Development shall knowingly disclose any covered selection information regarding such selection, directly or indirectly, to any person other than a person authorized by the Secretary to receive such information.
-- **(b)** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (a) has occurred, the Secretary shall—
+- **(b)** If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (a) of this section has occurred, the Secretary shall—
   - **(1)** in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
   - **(2)** in the case of a selection that has been made, determine whether to—
     - **(A)** void or rescind the selection, subject to review and determination on the record after opportunity for a hearing;
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:11.189Z"
     - **(C)** permit the violating applicant selected to continue to participate in the program; or
     - **(D)** take any other actions that the Secretary considers appropriate.
 - **(c)**
-  - **(1)** Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a), the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
+  - **(1)** Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
   - **(2)** The amount of the penalty, as determined by the Secretary, may not exceed $10,000 for each violation.
   - **(3)**
     - **(A)** The Secretary shall establish standards and procedures governing the imposition of civil money penalties under this subsection. The standards and procedures—
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:56:11.189Z"
   - **(5)** If any employee fails to comply with the Secretary’s determination or order imposing a civil money penalty under paragraph (1), after the determination or order is no longer subject to review as provided by paragraphs (3)(A) and (4), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the employee and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s determination or order imposing the penalty shall not be subject to review.
   - **(6)** The Secretary may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this subsection.
   - **(7)** The Secretary shall deposit all civil money penalties collected under this subsection into miscellaneous receipts of the Treasury.
-- **(d)** Whoever willfully violates subsection (a) by making a disclosure prohibited by subsection (a) to any applicant, or any officer, employee, representative, agent, or consultant of any applicant, shall be imprisoned not more than 5 years, or fined in accordance with title 18, or both.
+- **(d)** Whoever willfully violates subsection (a) of this section by making a disclosure prohibited by subsection (a) of this section to any applicant, or any officer, employee, representative, agent, or consultant of any applicant, shall be imprisoned not more than 5 years, or fined in accordance with title 18, or both.
 - **(e)** For purposes of this section:
   - **(1)** The term “applicant” means any applicant or candidate that is being considered for receiving assistance.
   - **(2)** The term “assistance” means any grant, loan, subsidy, guarantee, or other financial assistance under a program administered by the Secretary that provides by statute, regulation, or otherwise for the competitive distribution of such assistance. The term does not include any mortgage insurance provided under a program administered by the Secretary.

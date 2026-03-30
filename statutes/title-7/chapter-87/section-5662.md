@@ -3,16 +3,17 @@ title: "Section 5662 - Compliance provisions"
 usc_title: 7
 usc_section: "5662"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5662"
-generated_at: "2026-03-30T02:53:42.417Z"
+generated_at: "2026-03-30T03:04:20.992Z"
+status: "active"
 ---
 
 # § 5662. Compliance provisions
 
 - **(a)**
-  - **(1)** In the administration of the programs established under sections 5621, 5622, and 5623(b) of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
-  - **(2)** The personally identifiable information contained in reports under subsection (a) may be withheld in accordance with section 552(b)(4) of title 5 . Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by section 1905 of title 18 shall be subject to section 1905 of title 18 . Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
+  - **(1)** In the administration of the programs established under sections 5621, 5622, and 5623 of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
+  - **(2)** The personally identifiable information contained in reports under subsection (a) of this section may be withheld in accordance with section 552(b)(4) of title 5 . Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by section 1905 of title 18 shall be subject to section 1905 of title 18 . Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
 - **(b)** If any exporter, assignee, or other participant has engaged in fraud with respect to the programs authorized under this chapter, or has otherwise violated program requirements under this chapter, the Commodity Credit Corporation may—
   - **(1)** hold such exporter, assignee, or participant liable for any and all losses to the Corporation resulting from such fraud or violation;
   - **(2)** require a refund of any assistance provided to such exporter, assignee, or participant plus interest, as determined by the Secretary; and

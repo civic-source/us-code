@@ -3,15 +3,16 @@ title: "Section 903 - Social Security Advisory Board"
 usc_title: 42
 usc_section: "903"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 903"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-03-30T03:06:22.464Z"
+status: "active"
 ---
 
 # § 903. Social Security Advisory Board
 
 - **(a)** There shall be established a Social Security Advisory Board (in this section referred to as the “Board”).
-- **(b)** On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II, the program of special benefits for certain World War II veterans under subchapter VIII, and the supplemental security income program under subchapter XVI. Specific functions of the Board shall include—
+- **(b)** On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter, and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
   - **(1)** analyzing the Nation’s retirement and disability systems and making recommendations with respect to how the old-age, survivors, and disability insurance program and the supplemental security income program, supported by other public and private systems, can most effectively assure economic security;
   - **(2)** studying and making recommendations relating to the coordination of programs that provide health security with programs described in paragraph (1);
   - **(3)** making recommendations to the President and to the Congress with respect to policies that will ensure the solvency of the old-age, survivors, and disability insurance program, both in the short-term and the long-term;
@@ -45,6 +46,6 @@ generated_at: "2026-03-30T02:56:10.898Z"
 - **(g)**
   - **(1)** The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
   - **(2)** Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
-- **(h)** The Board shall be exempt from the provisions of chapter 10 of title 5.
+- **(h)** The Board shall be exempt from the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 - **(i)** The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5 . The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate support for the Board, and may compensate such additional personnel without regard to the provisions of title 5 relating to the competitive service.
 - **(j)** There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.

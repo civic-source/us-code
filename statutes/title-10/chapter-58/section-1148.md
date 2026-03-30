@@ -3,9 +3,10 @@ title: "Section 1148 - Relocation assistance for personnel overseas"
 usc_title: 10
 usc_section: "1148"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1148"
-generated_at: "2026-03-30T02:53:38.111Z"
+generated_at: "2026-03-30T03:04:17.248Z"
+status: "active"
 ---
 
 # § 1148. Relocation assistance for personnel overseas

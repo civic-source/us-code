@@ -3,9 +3,10 @@ title: "Section 1910 - Implementation of audit agreements"
 usc_title: 48
 usc_section: "1910"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1910"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-03-30T03:06:26.536Z"
+status: "active"
 ---
 
 # § 1910. Implementation of audit agreements

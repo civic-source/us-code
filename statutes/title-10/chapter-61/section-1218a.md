@@ -3,9 +3,10 @@ title: "Section 1218a - Discharge or release from active duty: transition assist
 usc_title: 10
 usc_section: "1218a"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1218a"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-03-30T03:04:17.251Z"
+status: "active"
 ---
 
 # § 1218a. Discharge or release from active duty: transition assistance for reserve component members injured while on active duty

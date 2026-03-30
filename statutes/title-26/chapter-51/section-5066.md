@@ -3,9 +3,10 @@ title: "Section 5066 - Distilled spirits for use of foreign embassies, legations
 usc_title: 26
 usc_section: "5066"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5066"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-03-30T03:05:18.700Z"
+status: "active"
 ---
 
 # § 5066. Distilled spirits for use of foreign embassies, legations, etc.
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:55:27.820Z"
   - **(3)** For the purposes of this chapter, distilled spirits entered into a customs bonded warehouse as provided in this subsection shall be deemed exported at the time so entered.
 - **(b)** Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
 - **(c)** Distilled spirits entered into customs bonded warehouses as authorized by this section may be withdrawn therefrom for domestic use, in which event they shall be treated as American goods exported and returned.
-- **(d)** No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(4) are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
+- **(d)** No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(5) 1 1 See References in Text note below. are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.

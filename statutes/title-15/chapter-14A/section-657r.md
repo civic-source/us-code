@@ -3,9 +3,10 @@ title: "Section 657r - Mentor-protege programs"
 usc_title: 15
 usc_section: "657r"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 657r"
-generated_at: "2026-03-30T02:54:08.108Z"
+generated_at: "2026-03-30T03:04:31.139Z"
+status: "active"
 ---
 
 # § 657r. Mentor-protege programs
@@ -13,12 +14,6 @@ generated_at: "2026-03-30T02:54:08.108Z"
 - **(a)**
   - **(1)** The Administrator is authorized to establish a mentor-protege program for all small business concerns.
   - **(2)** The mentor-protege program established under paragraph (1) shall be identical to the mentor-protege program of the Administration for small business concerns that participate in the program under section 637(a) of this title (as in effect on January 2, 2013 ), except that the Administrator may modify the program to the extent necessary given the types of small business concerns included as proteges.
-  - **(3)** During the period beginning on August 13, 2018 , and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates, the Administrator shall identify potential incentives to a covered mentor that awards a subcontract to its covered protege, including—
-    - **(A)** positive consideration in any past performance evaluation of the covered mentor; and
-    - **(B)** the application of costs incurred for providing training to such covered protege to the subcontracting plan (as required under paragraph (4) or (5) of section 637(d) of this title ) of the covered mentor.
-  - **(4)** During the period beginning on January 1, 2021 , and ending on the date that is 4 years after such date, the Administrator shall identify potential incentives to a covered territory mentor that awards a subcontract to its covered territory protege, including—
-    - **(A)** positive consideration in any past performance evaluation of the covered territory mentor; and
-    - **(B)** the application of costs incurred for providing training to such covered territory protege to the subcontracting plan (as required under paragraph (4) or (5) of section 637(d) of this title ) of the covered territory mentor.
 - **(b)**
   - **(1)** Except as provided in paragraph (4), a Federal department or agency may not carry out a mentor-protege program for small business concerns unless—
     - **(A)** the head of the department or agency submits a plan to the Administrator for the program; and
@@ -27,9 +22,7 @@ generated_at: "2026-03-30T02:54:08.108Z"
     - **(A)** will assist proteges to compete for Federal prime contracts and subcontracts; and
     - **(B)** complies with the regulations issued under paragraph (3).
   - **(3)** Not later than 270 days after January 2, 2013 , the Administrator shall issue, subject to notice and comment, regulations with respect to mentor-protege programs, which shall ensure that such programs improve the ability of proteges to compete for Federal prime contracts and subcontracts and which shall address, at a minimum, the following:
-    - **(A)** Eligibility criteria for program participants, including any restrictions on the number of mentor-protege relationships permitted for each participant, except that such restrictions shall not apply to up to 2 mentor-protege relationships if such relationships—
-      - **(i)** are between a covered protege and a covered mentor; or
-      - **(ii)** are between a covered territory protege and a covered territory mentor.
+    - **(A)** Eligibility criteria for program participants, including any restrictions on the number of mentor-protege relationships permitted for each participant.
     - **(B)** The types of developmental assistance to be provided by mentors, including how the assistance provided shall improve the competitive viability of the proteges.
     - **(C)** Whether any developmental assistance provided by a mentor may affect the status of a program participant as a small business concern due to affiliation.
     - **(D)** The length of mentor-protege relationships.
@@ -41,7 +34,6 @@ generated_at: "2026-03-30T02:54:08.108Z"
     - **(J)** Actions to be taken to ensure benefits for proteges and to protect a protege against actions by a mentor that—
       - **(i)** may adversely affect the protege’s status as a small business concern; or
       - **(ii)** provide disproportionate economic benefits to the mentor relative to those provided the protege.
-    - **(K)** The types of assistance provided by a mentor to assist with compliance with the requirements of contracting with the Federal Government after award of a contract or subcontract under this section.
   - **(4)** Paragraph (1) does not apply to the following:
     - **(A)** Any mentor-protege program of the Department of Defense.
     - **(B)** Any mentoring assistance provided under a Small Business Innovation Research Program or a Small Business Technology Transfer Program.
@@ -67,9 +59,5 @@ generated_at: "2026-03-30T02:54:08.108Z"
   - **(3)** The term “protege” means a small business concern that—
     - **(A)** is eligible to enter into Federal prime contracts and subcontracts; and
     - **(B)** satisfies any other requirements imposed by the Administrator.
-  - **(4)** The term “covered mentor” means a mentor that enters into an agreement under this chapter, or under any mentor-protege program approved under subsection (b)(1), with a covered protege.
-  - **(5)** The term “covered protege” means a protege of a covered mentor that is a Puerto Rico business.
-  - **(6)** The term “covered territory mentor” means a mentor that enters into an agreement under this chapter, or under any mentor-protege program approved under subsection (b)(1), with a covered territory protege.
-  - **(7)** The term “covered territory protege” means a protege of a covered territory mentor that is a covered territory business.
 - **(e)** Mentors and proteges with approved agreement in a program operating pursuant to subsection (b)(4)(C) shall be permitted to continue their relationship according to the terms specified in their agreement until the expiration date specified in the agreement.
 - **(f)** Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.

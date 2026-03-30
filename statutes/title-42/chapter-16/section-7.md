@@ -1,37 +1,28 @@
 ---
-title: "Section 7 - Computer science education research"
+title: "Section 7 - STEM industry internship programs"
 usc_title: 42
 usc_section: "7"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-03-30T03:06:22.634Z"
+status: "active"
 ---
 
-# § 1862s–7. Computer science education research
+# § 1862p–7. STEM industry internship programs
 
-- **(a)** Congress finds that as the lead Federal agency for building the research knowledge base for computer science education, the Foundation is well positioned to make investments that will accelerate ongoing efforts to enable rigorous and engaging computer science throughout the Nation as an integral part of STEM education.
-- **(b)**
-  - **(1)** The Director of the Foundation shall award grants to eligible entities to research computer science and cybersecurity education and computational thinking.
-  - **(2)** The research described in paragraph (1) may include the development or adaptation, piloting or full implementation, and testing of—
-    - **(A)** models of preservice preparation for teachers who will teach computer science and computational thinking;
-    - **(B)** scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
-    - **(C)** tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields;
-    - **(D)** high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning; and
-    - **(E)** tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.
-  - **(3)** The tools and models described in paragraph (2)(C) may include—
-    - **(A)** offering training and professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of prekindergarten and elementary school teachers and to familiarize such teachers with the role of bias against female students in the classroom;
-    - **(B)** offering innovative pre-service and in-service programs that instruct teachers on female-inclusive practices for teaching computing concepts;
-    - **(C)** developing distance learning programs for teachers or students, including developing curricular materials, play-based computing activities, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
-    - **(D)** developing or adapting prekindergarten and elementary school computer science curricular materials that incorporate contemporary research on the science of learning, particularly with respect to female inclusion;
-    - **(E)** developing and offering female-inclusive computer science enrichment programs for students, including after-school and summer programs;
-    - **(F)** providing mentors for female students in prekindergarten through elementary school to support such students in participating in computer science activities;
-    - **(G)** engaging female students in prekindergarten through elementary school, and their guardians (if such communication takes place on school premises during otherwise-scheduled conferences or formal conversations between teachers and guardians) about—
-      - **(i)** the difficulties faced by female students with regard to maintaining an interest in participating in computer science activities; and
-      - **(ii)** the potential positive career benefits of engaging in such activities;
-    - **(H)** acquainting female students in prekindergarten through elementary school with careers in computer science and encouraging such students to consider careers in the computer science field; and
-    - **(I)** developing tools to evaluate activities conducted under this subsection, including reports for evaluating the effectiveness of activities under this section.
-- **(c)** In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing, cybersecurity, and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
-- **(d)** The Director of the Foundation shall develop metrics to measure the success of the grant program funded under this section in achieving program goals.
-- **(e)** The Director of the Foundation shall report, in the annual budget submission to Congress, on the success of the program as measured by the metrics in subsection (d).
-- **(f)** In this section, the term “eligible entity” means an institution of higher education or a nonprofit research organization.
+- **(a)** The Director may award grants, on a competitive, merit-reviewed basis, to institutions of higher education, or consortia thereof, to establish or expand partnerships with local or regional private sector entities, for the purpose of providing undergraduate students with integrated internship experiences that connect private sector internship experiences with the students’ STEM coursework. The partnerships may also include industry or professional associations.
+- **(b)** The grants awarded under subsection (a) may include internship programs in the manufacturing sector.
+- **(c)** Grants under this section may be used—
+  - **(1)** to develop and implement hands-on learning opportunities;
+  - **(2)** to develop curricula and instructional materials related to industry, including the manufacturing sector;
+  - **(3)** to perform outreach to secondary schools;
+  - **(4)** to develop mentorship programs for students with partner organizations; and
+  - **(5)** to conduct activities to support awareness of career opportunities and skill requirements.
+- **(d)** In awarding grants under this section, the Director shall give priority to institutions of higher education or consortia thereof that demonstrate significant outreach to and coordination with local or regional private sector entities and Regional Centers for the Transfer of Manufacturing Technology established by section 278k(a) of title 15 in developing academic courses designed to provide students with the skills or certifications necessary for employment in local or regional companies.
+- **(c)** The Foundation shall conduct outreach to institutions of higher education and private sector entities in rural areas to encourage those entities to participate in partnerships under this section.
+- **(d)** The Director shall require a 50 percent non-Federal cost-share from partnerships established or expanded under this section.
+- **(e)** No Federal funds provided under this section may be used—
+  - **(1)** for the purpose of providing stipends or compensation to students for private sector internships unless private sector entities match 75 percent of such funding; or
+  - **(2)** as payment or reimbursement to private sector entities, except for institutions of higher education.
+- **(f)** Not less than 3 years after January 4, 2011 , the Director shall submit a report to Congress on the number and total value of awards made under this section, the number of students affected by those awards, any evidence of the effect of those awards on workforce preparation and jobs placement for participating students, and an economic and ethnic breakdown of the participating students.

@@ -1,12 +1,15 @@
 ---
-title: "Section 1779a - Omitted"
+title: "Section 1779a - Purposes"
 usc_title: 25
 usc_section: "1779a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1779a"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.885Z"
+status: "active"
 ---
 
-# § 1779a. Omitted
+# § 1779a. Purposes
+
+The purposes of this subchapter are to resolve all claims that have been or could have been brought by the Cherokee, Choctaw, and Chickasaw Nations against the United States, and to confirm that the Indian Nations are forever disclaiming any right, title, or interest in the Disclaimed Drybed Lands, which are contiguous to the channel of the Arkansas River as of December 13, 2002 , in certain townships in eastern Oklahoma.
 

@@ -3,9 +3,10 @@ title: "Section 473a - Cotton classification services"
 usc_title: 7
 usc_section: "473a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 473a"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-03-30T03:04:20.899Z"
+status: "active"
 ---
 
 # § 473a. Cotton classification services
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:42.285Z"
   - **(2)** The Secretary shall announce a uniform classification fee and any applicable surcharge for classification services not later than June 1 of the year in which the fee applies.
 - **(c)**
   - **(1)** In establishing the amount of fees under this section, the Secretary shall consult with representatives of the United States cotton industry.
-  - **(2)** Chapter 10 of title 5 shall not apply to consultations with representatives of the United States cotton industry under this section.
+  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations with representatives of the United States cotton industry under this section.
 - **(d)** Any fees collected under this section and under section 473d of this title , late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
   - **(1)** be credited to the current appropriation account that incurs the cost of services provided under this section and section 473d of this title ; and
   - **(2)** remain available without fiscal year limitation to pay the expenses of the Secretary in providing those services.

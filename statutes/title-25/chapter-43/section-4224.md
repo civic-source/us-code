@@ -3,9 +3,10 @@ title: "Section 4224 - Review of plans"
 usc_title: 25
 usc_section: "4224"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 4224"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-03-30T03:05:02.914Z"
+status: "active"
 ---
 
 # § 4224. Review of plans
@@ -16,10 +17,10 @@ generated_at: "2026-03-30T02:54:52.861Z"
     - **(B)** The Secretary shall have the discretion to review a plan referred to in subparagraph (A) only to the extent that the Secretary considers that the review is necessary.
   - **(2)**
     - **(A)** Not later than 60 days after receiving a plan under section 4223 of this title , the Secretary shall notify the Director of the Department of Hawaiian Home Lands whether the plan complies with the requirements under that section.
-    - **(B)** For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b), upon the expiration of the 60-day period described in subparagraph (A)—
+    - **(B)** For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b) of this section, upon the expiration of the 60-day period described in subparagraph (A)—
       - **(i)** the plan shall be considered to have been determined to comply with the requirements under section 4223 of this title ; and
       - **(ii)** the Director shall be considered to have been notified of compliance.
-- **(b)** If the Secretary determines that a plan submitted under section 4223 of this title does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a)—
+- **(b)** If the Secretary determines that a plan submitted under section 4223 of this title does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a) of this section—
   - **(1)** the reasons for noncompliance; and
   - **(2)** any modifications necessary for the plan to meet the requirements of section 4223 of this title .
 - **(c)**

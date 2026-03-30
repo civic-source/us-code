@@ -3,9 +3,10 @@ title: "Section 303 - Powers and duties of Commission"
 usc_title: 47
 usc_section: "303"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 303"
-generated_at: "2026-03-30T02:56:24.504Z"
+generated_at: "2026-03-30T03:06:26.183Z"
+status: "active"
 ---
 
 # § 303. Powers and duties of Commission
@@ -33,6 +34,8 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
     - **(B)** has failed to carry out a lawful order of the master or person lawfully in charge of the ship or aircraft on which he is employed; or
     - **(C)** has willfully damaged or permitted radio apparatus or installations to be damaged; or
     - **(D)** has transmitted superfluous radio communications or signals or communications containing profane or obscene words, language, or meaning, or has knowingly transmitted—
+        - **(1)** false or deceptive signals or communications, or
+        - **(2)** a call signal or letter which has not been assigned by proper authority to the station he is operating; or
     - **(E)** has willfully or maliciously interfered with any other radio communications or signals; or
     - **(F)** has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator’s license by fraudulent means.
   - **(2)** No order of suspension of any operator’s license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.

@@ -3,9 +3,10 @@ title: "Section 2502 - Definitions"
 usc_title: 33
 usc_section: "2502"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2502"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-03-30T03:05:36.297Z"
+status: "active"
 ---
 
 # § 2502. Definitions

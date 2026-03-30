@@ -3,9 +3,10 @@ title: "Section 2404 - Permits"
 usc_title: 16
 usc_section: "2404"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2404"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-03-30T03:04:48.592Z"
+status: "active"
 ---
 
 # § 2404. Permits
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
     - **(C)** any native bird which is protected under the Migratory Bird Treaty Act ( 16 U.S.C. 701 et seq.);
   - **(2)** After receiving a copy of any application from the Director under paragraph (1) the appropriate Secretary shall promptly determine, and notify the Director, whether or not any action proposed in the application also requires a permit or other authorization under any law administered by the appropriate Secretary.
   - **(3)** If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to the issuance by the Director of a permit under this section.
-- **(d)** As soon as practicable after receiving any application for a permit under this section, or, in the case of any application to which subsection (c) applies, as soon as practicable after the applicable requirements of such subsection are complied with, the Director shall issue, or deny the issuance of, the permit. Within 10 days after the date of the issuance or denial of a permit under this subsection, the Director shall publish notice of the issuance or denial in the Federal Register.
+- **(d)** As soon as practicable after receiving any application for a permit under this section, or, in the case of any application to which subsection (c) of this section applies, as soon as practicable after the applicable requirements of such subsection are complied with, the Director shall issue, or deny the issuance of, the permit. Within 10 days after the date of the issuance or denial of a permit under this subsection, the Director shall publish notice of the issuance or denial in the Federal Register.
 - **(e)**
   - **(1)** Each permit issued under this section shall—
     - **(A)** if applicable, specify—
@@ -52,6 +53,6 @@ generated_at: "2026-03-30T02:54:23.001Z"
     - **(A)** in order to make the permit consistent with any change made after the date of issuance of the permit, to any regulation prescribed under section 2405 of this title ;
     - **(B)** if there is any change in conditions which makes the permit inconsistent with the purpose of this chapter; or
     - **(C)** in any case in which there has been any violation of any term or condition of the permit, any regulation prescribed under this chapter, or any provision of this chapter.
-  - **(2)** Whenever the Director proposes any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Director with respect to such proposed modification, suspension, or revocation. If a hearing is requested, the action proposed by the Director shall not take effect before a decision is issued by him after the hearing, unless the proposed action is taken by the Director to meet an emergency situation. Any action taken by the Director after such a hearing is subject to judicial review on the same basis as is provided for with respect to permit applications under subsection (e).
+  - **(2)** Whenever the Director proposes any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Director with respect to such proposed modification, suspension, or revocation. If a hearing is requested, the action proposed by the Director shall not take effect before a decision is issued by him after the hearing, unless the proposed action is taken by the Director to meet an emergency situation. Any action taken by the Director after such a hearing is subject to judicial review on the same basis as is provided for with respect to permit applications under subsection (e) of this section.
   - **(3)** Notice of the modification, suspension, or revocation of any permit by the Director shall be published in the Federal Register within 10 days from the date of the Director’s decision.
 - **(g)** The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.

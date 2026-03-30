@@ -3,18 +3,19 @@ title: "Section 6729 - United States assistance in inspections at private facili
 usc_title: 22
 usc_section: "6729"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6729"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-03-30T03:04:53.700Z"
+status: "active"
 ---
 
 # § 6729. United States assistance in inspections at private facilities
 
 - **(a)** At the request of an owner of a facility not owned or operated by the United States Government, or contracted for use by or for the United States Government, the Secretary of Defense may assist the facility to prepare the facility for possible inspections pursuant to the Convention.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
-  - **(2)** In the case of assistance provided under subsection (a) to a facility owned by a person described in subsection (c), the United States National Authority shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
-- **(c)** Subsection (b)(2) applies in the case of assistance provided to the following:
+  - **(1)** Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) of this section shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
+  - **(2)** In the case of assistance provided under subsection (a) of this section to a facility owned by a person described in subsection (c) of this section, the United States National Authority shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
+- **(c)** Subsection (b)(2) of this section applies in the case of assistance provided to the following:
   - **(1)** A small business concern as defined in section 632 of title 15 .
   - **(2)** Any person located in the United States that—
     - **(A)** does not possess, produce, process, consume, import, or export any Schedule 1 or Schedule 2 chemical; and

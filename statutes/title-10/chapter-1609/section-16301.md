@@ -3,9 +3,10 @@ title: "Section 16301 - Education loan repayment program: members of Selected Re
 usc_title: 10
 usc_section: "16301"
 chapter: 1609
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 16301"
-generated_at: "2026-03-30T02:53:38.279Z"
+generated_at: "2026-03-30T03:04:17.344Z"
+status: "active"
 ---
 
 # § 16301. Education loan repayment program: members of Selected Reserve
@@ -21,11 +22,11 @@ generated_at: "2026-03-30T02:53:38.279Z"
       - **(iii)** a pension fund approved by the Secretary for purposes of this section; or
       - **(iv)** a nonprofit private entity designated by a State, regulated by that State, and approved by the Secretary for purposes of this section.
   - **(2)** The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
-- **(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $1,000, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
+- **(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 - **(c)** If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 - **(d)** Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 - **(e)** A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 2171 of this title (as described in subsection (a)(2) of that section) during a year shall be eligible to have repaid a portion of such loan determined by giving appropriate fractional credit for each portion of the year so served, in accordance with regulations of the Secretary concerned.
 - **(f)** The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 2171 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 2171(a) of this title .
 - **(g)** The Secretary of Homeland Security may repay loans described in subsection (a)(1) and otherwise administer this section in the case of members of the Selected Reserve of the Coast Guard Reserve when the Coast Guard is not operating as a service in the Navy.
-- **(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 2171 of this title , a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+- **(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 2171 of this title , a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) of title 37 .
 - **(i)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.

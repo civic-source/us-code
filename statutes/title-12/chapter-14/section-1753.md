@@ -3,9 +3,10 @@ title: "Section 1753 - Federal credit union organization"
 usc_title: 12
 usc_section: "1753"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1753"
-generated_at: "2026-03-30T02:53:53.434Z"
+generated_at: "2026-03-30T03:04:29.250Z"
+status: "active"
 ---
 
 # § 1753. Federal credit union organization
@@ -18,4 +19,4 @@ Any seven or more natural persons who desire to form a Federal credit union shal
   - **(4)** the initial par value of the shares;
   - **(5)** the proposed field of membership, specified in detail;
   - **(6)** the term of the existence of the corporation, which may be perpetual; and
-  - **(7)** the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter.
+  - **(7)** the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter. Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.

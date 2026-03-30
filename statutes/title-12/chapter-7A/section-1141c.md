@@ -1,0 +1,18 @@
+---
+title: "Section 1141c - Special powers of administration"
+usc_title: 12
+usc_section: "1141c"
+chapter: 7
+current_through: "PL 113-21"
+classification: "12 U.S.C. § 1141c"
+generated_at: "2026-03-30T03:04:29.208Z"
+status: "active"
+---
+
+# § 1141c. Special powers of administration
+
+The administration is authorized and directed—
+
+  - **(1)** to promote education in the principles and practices of cooperative marketing of agricultural commodities and food products thereof.
+  - **(2)** to encourage the organization, improvement in methods, and development of effective cooperative associations.
+  - **(3)** to keep advised from any available sources and make reports as to crop prices, experiences, prospects, supply, and demand, at home and abroad.

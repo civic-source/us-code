@@ -1,12 +1,29 @@
 ---
-title: "Section 2430a - Renumbered § 4203]"
+title: "Section 2430a - Major subprograms"
 usc_title: 10
 usc_section: "2430a"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2430a"
-generated_at: "2026-03-30T02:53:38.158Z"
+generated_at: "2026-03-30T03:04:17.287Z"
+status: "active"
 ---
 
-# [§ 2430a. Renumbered § 4203]
+# § 2430a. Major subprograms
 
+- **(a)**
+  - **(1)**
+    - **(A)** If the Secretary of Defense determines that a major defense acquisition program requires the delivery of two or more categories of end items which differ significantly from each other in form and function, the Secretary may designate each such category of end items as a major subprogram for the purposes of acquisition reporting under this chapter.
+    - **(B)** If the Secretary of Defense determines that a major defense acquisition program to purchase satellites requires the delivery of satellites in two or more increments or blocks, the Secretary may designate each such increment or block as a major subprogram for the purposes of acquisition reporting under this chapter.
+  - **(2)** The Secretary shall notify the congressional defense committees in writing of any proposed designation pursuant to paragraph (1) not less than 30 days before the date such designation takes effect.
+- **(b)**
+  - **(1)** If the Secretary designates a major subprogram of a major defense acquisition program in accordance with subsection (a), Selected Acquisition Reports, unit cost reports, and program baselines under this chapter shall reflect cost, schedule, and performance information—
+    - **(A)** for the major defense acquisition program as a whole (other than as provided in paragraph (2)); and
+    - **(B)** for each major subprogram of the major defense acquisition program so designated.
+  - **(2)** For a major defense acquisition program for which a designation of a major subprogram has been made under subsection (a), unit costs under this chapter shall be submitted in accordance with the definitions in subsection (d).
+- **(c)** If a subprogram of a major defense acquisition program is designated as a major subprogram under subsection (a), all other elements of the major defense acquisition program shall be appropriately organized into one or more subprograms under the major defense acquisition program, each of which subprograms, as so organized, shall be treated as a major subprogram under subsection (a).
+- **(d)** Notwithstanding paragraphs (1) and (2) of section 2432(a) of this title , in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this chapter—
+  - **(1)** the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
+  - **(2)** the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
+  - **(3)** the term “major contract”, with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and
+  - **(4)** the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.

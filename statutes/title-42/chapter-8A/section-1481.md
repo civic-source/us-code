@@ -3,9 +3,10 @@ title: "Section 1481 - Issuance of notes and obligations for loan funds; amount;
 usc_title: 42
 usc_section: "1481"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1481"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-03-30T03:06:22.607Z"
+status: "active"
 ---
 
 # § 1481. Issuance of notes and obligations for loan funds; amount; limitation; security; form and denomination; interest; purchase and sale by Treasury; public debt transaction

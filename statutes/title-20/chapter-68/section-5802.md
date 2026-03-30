@@ -3,9 +3,10 @@ title: "Section 5802 - Definitions"
 usc_title: 20
 usc_section: "5802"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 5802"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-03-30T03:04:46.326Z"
+status: "active"
 ---
 
 # § 5802. Definitions
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:54:48.189Z"
   - **(11)** the term “school” means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) 1 of this title, a school that is operated or funded by the Bureau;
   - **(12)** the term “Secretary”, unless otherwise provided, means the Secretary of Education; and
   - **(13)** the term “State”, unless otherwise provided, means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
-- **(b)** For the purpose of subchapters IV, V, VI, VII, VIII, and IX—
+- **(b)** For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
   - **(1)** except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title ; 1
   - **(2)** the term “Bureau”, unless otherwise provided, means the Bureau of Indian Affairs; and
   - **(3)** the term “Secretary”, unless otherwise provided, means the Secretary of Education.

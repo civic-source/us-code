@@ -3,9 +3,10 @@ title: "Section 7401 - Commodity promotion and evaluation"
 usc_title: 7
 usc_section: "7401"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7401"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-03-30T03:04:21.016Z"
+status: "active"
 ---
 
 # § 7401. Commodity promotion and evaluation
@@ -25,10 +26,10 @@ generated_at: "2026-03-30T02:53:42.450Z"
   - **(12)** subtitle H of title XIX of Public Law 101–624 ( 7 U.S.C. 6401 et seq.);
   - **(13)** Public Law 103–190 ( 7 U.S.C. 6801 et seq.);
   - **(14)** Public Law 103–407 ( 7 U.S.C. 7101 et seq.);
-  - **(15)** subchapter II;
-  - **(16)** subchapter III;
-  - **(17)** subchapter IV;
-  - **(18)** subchapter V; or
+  - **(15)** subchapter II of this chapter;
+  - **(16)** subchapter III of this chapter;
+  - **(17)** subchapter IV of this chapter;
+  - **(18)** subchapter V of this chapter; or
   - **(19)** any other provision of law enacted after April 4, 1996 , that provides for the establishment and operation of a promotion program described in the first sentence.
 - **(b)** Congress finds the following:
   - **(1)** It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commodities through industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
@@ -47,22 +48,5 @@ generated_at: "2026-03-30T02:53:42.450Z"
 - **(c)** Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available to the board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
 - **(d)** The Secretary shall annually provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information on administrative expenses on programs established under commodity promotion laws.
 - **(e)**
-  - **(1)** Notwithstanding any provision of a commodity promotion law, a person that produces, handles, markets, or imports organic products may be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is certified as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)).
-  - **(2)** The exemption described in paragraph (1) shall apply to the certified “organic” or “100 percent organic” (as defined in part 205 of title 7 of the Code of Federal Regulations (or a successor regulation)) products of a producer, handler, or marketer regardless of whether the agricultural commodity subject to the exemption is produced, handled, or marketed by a person that also produces, handles, or markets conventional or nonorganic agricultural products, including conventional or nonorganic agricultural products of the same agricultural commodity as that for which the exemption is claimed.
-  - **(3)** The Secretary shall approve the exemption of a person under this subsection if the person maintains a valid organic certificate issued under the Organic Foods Production Act of 1990 ( 7 U.S.C. 6501 et seq.).
-  - **(4)** This subsection shall be effective until the date on which the Secretary issues an organic commodity promotion order in accordance with subsection (f).
-  - **(5)** The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
-- **(f)**
-  - **(1)** In this subsection:
-    - **(A)** The term “certified organic farm” has the meaning given the term in section 2103 of the Organic Foods Production Act of 1990 ( 7 U.S.C. 6502 ).
-    - **(B)** The term “covered person” means a producer, handler, marketer, or importer of an organic agricultural commodity.
-    - **(C)** The term “dual-covered agricultural commodity” means an agricultural commodity that—
-      - **(i)** is produced on a certified organic farm; and
-      - **(ii)** is covered under both—
-        - **(I)** an organic commodity promotion order issued pursuant to paragraph (2); and
-        - **(II)** any other agricultural commodity promotion order issued under a commodity promotion law.
-  - **(2)** The Secretary may issue an organic commodity promotion order under section 7413 of this title that includes any agricultural commodity that—
-    - **(A)** is produced or handled (as defined in section 2103 of the Organic Foods Production Act of 1990 ( 7 U.S.C. 6502 )) and that is certified to be sold or labeled as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)); or
-    - **(B)** is imported with a valid organic certificate (as defined in that part).
-  - **(3)** If the Secretary issues an organic commodity promotion order described in paragraph (2), a covered person may elect, for applicable dual-covered agricultural commodities and in the sole discretion of the covered person, whether to be assessed under the organic commodity promotion order or another applicable agricultural commodity promotion order.
-  - **(4)** The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+  - **(1)** Notwithstanding any provision of a commodity promotion law, a person that produces and markets solely 100 percent organic products, and that does not produce any conventional or nonorganic products, shall be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is produced on a certified organic farm (as defined in section 6502 of this title ).
+  - **(2)** Not later than 1 year after May 13, 2002 , the Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).

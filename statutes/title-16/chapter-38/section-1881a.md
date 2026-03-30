@@ -3,9 +3,10 @@ title: "Section 1881a - Information collection"
 usc_title: 16
 usc_section: "1881a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1881a"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-03-30T03:04:48.586Z"
+status: "active"
 ---
 
 # § 1881a. Information collection
@@ -21,9 +22,8 @@ generated_at: "2026-03-30T02:54:22.995Z"
     - **(D)** when required by court order;
     - **(E)** when such information is used by State, Council, or Marine Fisheries Commission employees to verify catch under a limited access program, but only to the extent that such use is consistent with subparagraph (B);
     - **(F)** when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter;
-    - **(G)** when such information is required to be submitted to the Secretary for any determination under a limited access program;
-    - **(H)** in support of homeland and national security activities, including the Coast Guard’s homeland security missions as defined in section 468(a)(2) of title 6 ; or
-    - **(I)** to Federal agencies, to the extent necessary and appropriate, to administer Federal programs established to combat illegal, unreported, or unregulated fishing or forced labor (as such terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022), which shall not include an authorization for such agencies to release data to the public unless such release is related to enforcement.
+    - **(G)** when such information is required to be submitted to the Secretary for any determination under a limited access program; or
+    - **(H)** in support of homeland and national security activities, including the Coast Guard’s homeland security missions as defined in section 468(a)(2) of title 6 .
   - **(2)** Any observer information shall be confidential and shall not be disclosed, except in accordance with the requirements of subparagraphs (A) through (H) of paragraph (1), or—
     - **(A)** as authorized by a fishery management plan or regulations under the authority of the North Pacific Council to allow disclosure to the public of weekly summary bycatch information identified by vessel or for haul-specific bycatch information without vessel identification;
     - **(B)** when such information is necessary in proceedings to adjudicate observer certifications; or

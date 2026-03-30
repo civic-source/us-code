@@ -3,14 +3,15 @@ title: "Section 2593a - Annual report to Congress"
 usc_title: 22
 usc_section: "2593a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2593a"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-03-30T03:04:53.646Z"
+status: "active"
 ---
 
 # § 2593a. Annual report to Congress
 
-- **(a)** Not later than April 15 of each year, the President shall submit to the appropriate congressional committees a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+- **(a)** Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
   - **(1)** a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
   - **(2)** a detailed assessment of the status of any ongoing arms control, nonproliferation, or disarmament negotiations, including a comprehensive description of negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;
   - **(3)** a detailed assessment of adherence of the United States to obligations undertaken in arms control, nonproliferation, and disarmament agreements, including information on the policies and organization of each relevant agency or department of the United States to ensure adherence to such obligations, a description of national security programs with a direct bearing on questions of adherence to such obligations and of steps being taken to ensure adherence, and a compilation of any substantive questions raised during the preceding year and any corrective action taken;
@@ -23,13 +24,6 @@ generated_at: "2026-03-30T02:55:05.373Z"
     - **(B)** a statement of the compliance policy of the United States with respect to violations of those commitments; and
     - **(C)** what actions, if any, the President has taken or proposes to take to bring any nation committing such a violation into compliance with those commitments; and
   - **(6)** a specific identification, to the maximum extent practicable in unclassified form, of each and every question that exists with respect to compliance by other countries with arms control, nonproliferation, and disarmament agreements with the United States.
-- **(b)** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
-- **(c)** If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
-- **(d)** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) that was contained in a previous report issued under this section during 1995, or after December 31, 1995 , until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
-- **(e)**
-  - **(1)** Not later than June 15 of each year described in paragraph (2), the Director of National Intelligence shall submit to the appropriate congressional committees a report that contains a detailed assessment, consistent with the provision of classified information and intelligence sources and methods, of the adherence of other nations to obligations undertaken in all arms control, nonproliferation, and disarmament agreements or commitments to which the United States is a party, including information of cases in which any such nation has behaved inconsistently with respect to its obligations undertaken in such agreements or commitments.
-  - **(2)** A year described in this paragraph is a year in which the President fails to submit the report required by subsection (a) by not later than April 15 of such year.
-  - **(3)** The report required by this subsection shall be submitted in unclassified form, but may contain a classified annex if necessary.
-- **(f)** In this section, the term “appropriate congressional committees” means—
-  - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
-  - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(b)** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+- **(c)** If the President in consecutive reports submitted to the Congress under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
+- **(d)** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995 , until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).

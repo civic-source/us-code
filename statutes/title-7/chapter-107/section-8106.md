@@ -3,9 +3,10 @@ title: "Section 8106 - Biodiesel fuel education program"
 usc_title: 7
 usc_section: "8106"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8106"
-generated_at: "2026-03-30T02:53:42.471Z"
+generated_at: "2026-03-30T03:04:21.031Z"
+status: "active"
 ---
 
 # § 8106. Biodiesel fuel education program
@@ -16,4 +17,6 @@ generated_at: "2026-03-30T02:53:42.471Z"
   - **(2)** have demonstrated knowledge of biodiesel fuel production, use, or distribution; and
   - **(3)** have demonstrated the ability to conduct educational and technical support programs.
 - **(c)** In carrying out this section, the Secretary shall consult with the Secretary of Energy.
-- **(d)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2019 through 2023.
+- **(d)**
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.
+  - **(2)** There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2013.

@@ -1,18 +1,17 @@
 ---
-title: "Section 2 - Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities"
+title: "Section 2 - Grants to upgrade agriculture and food sciences facilities and equipment at insular area land-grant institutions"
 usc_title: 7
 usc_section: "2"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-03-30T03:04:20.979Z"
+status: "active"
 ---
 
-# § 3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities
+# § 3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment at insular area land-grant institutions
 
-- **(a)** It is the intent of Congress to assist the land-grant colleges and universities in the insular areas in efforts to—
-  - **(1)** acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research; and
-  - **(2)** support tropical and subtropical agricultural research, including pest and disease research.
+- **(a)** It is the intent of Congress to assist the land-grant institutions in the insular areas in efforts to acquire, alter, or repair facilities or relevant equipment necessary for conducting agricultural research.
 - **(b)** Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary determines necessary to carry out the purposes of this section.
 - **(c)** The Secretary may promulgate such rules and regulations as the Secretary considers to be necessary to carry out this section.
-- **(d)** There is authorized to be appropriated to carry out this section $8,000,000 for each of fiscal years 2008 through 2023.
+- **(d)** There is authorized to be appropriated to carry out this section $8,000,000 for each of fiscal years 2008 through 2012.

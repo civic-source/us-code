@@ -3,12 +3,13 @@ title: "Section 737 - Binding for Senate library"
 usc_title: 44
 usc_section: "737"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 737"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-03-30T03:06:01.361Z"
+status: "active"
 ---
 
 # § 737. Binding for Senate library
 
-The Secretary of the Senate may make requisition upon the Director of the Government Publishing Office for the binding for the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
+The Secretary of the Senate may make requisition upon the Public Printer for the binding for the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
 

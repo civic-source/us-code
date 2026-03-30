@@ -3,9 +3,10 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-30T02:52:56.044Z"
+generated_at: "2026-03-30T03:04:06.096Z"
+status: "active"
 ---
 
 # § 8331. Definitions
@@ -23,7 +24,7 @@ For the purpose of this subchapter—
     - **(H)** an individual employed by Gallaudet College;
     - **(I)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
     - **(J)** an alien (i) who was previously employed by the Government, (ii) who is employed full time by a foreign government for the purpose of protecting or furthering the interests of the United States during an interruption of diplomatic or consular relations, and (iii) for whose services reimbursement is made to the foreign government by the United States;
-    - **(K)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+    - **(K)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
     - **(L)** an employee described in section 2105(c) who has made an election under section 8347(q)(1) to remain covered under this subchapter;
       - **(i)** a justice or judge of the United States as defined by section 451 of title 28 ;
       - **(ii)** an employee subject to another retirement system for Government employees (besides any employee excluded by clause (x), but including any employee who has made an election under section 8347(q)(2) to remain covered by a retirement system established for employees described in section 2105(c));
@@ -47,11 +48,10 @@ For the purpose of this subchapter—
     - **(D)** with respect to a law enforcement officer, premium pay under section 5545(c)(2) of this title ;
     - **(E)** availability pay—
       - **(i)** received by a criminal investigator under section 5545a of this title ; or
-      - **(ii)** received after September 11, 2001 , by a Federal air marshal or criminal investigator (as defined in section 5545a(a)(2)) of the Transportation Security Administration, subject to all restrictions and earning limitations imposed on criminal investigators receiving such pay under section 5545a, including the premium pay limitations under section 5547;
+      - **(ii)** received after September 11, 2001 , by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;
     - **(F)** pay as provided in section 5545b(b)(2) and (c)(2);
-    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
-    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances); and
-    - **(I)** with respect to a border patrol agent, the amount of supplemental pay received through application of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay for scheduled overtime within the regular tour of duty of the border patrol agent as provided in section 5550;
+    - **(G)** with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911 ), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved; and
+    - **(H)** any amount received under section 5948 (relating to physicians comparability allowances);
   - **(4)** “average pay” means the largest annual rate resulting from averaging an employee’s or Member’s rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity under subsection (d) or (e)(1) of section 8341 of this title based on service of less than 3 years, over the total service, with each rate weighted by the time it was in effect;
   - **(5)** “Fund” means the Civil Service Retirement and Disability Fund;
   - **[(6)** Repealed. Pub. L. 96–499, title IV, § 403(b) , Dec. 5, 1980 , 94 Stat. 2606 ;]
@@ -68,7 +68,7 @@ For the purpose of this subchapter—
   - **(12)** “service” means employment creditable under section 8332 of this title ;
   - **(13)** “military service” means honorable active service—
     - **(A)** in the armed forces;
-    - **(B)** in the Regular or Reserve Corps 2 2 See Change of Name note below. of the Public Health Service after June 30, 1960 ; or
+    - **(B)** in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 ; or
     - **(C)** as a commissioned officer of the Environmental Science Services Administration after June 30, 1961 ;
   - **(14)** “Member service” means service as a Member and includes the period from the date of the beginning of the term for which elected or appointed to the date on which he takes office as a Member;
   - **(15)** “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics;
@@ -109,6 +109,5 @@ For the purpose of this subchapter—
   - **(30)** the term “air traffic controller” or “controller” means—
     - **(A)** a controller within the meaning of section 2109(1); and
     - **(B)** a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
-  - **(31)** “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
-  - **(32)** “Director” means the Director of the Office of Personnel Management; and
-  - **(33)** “representative payee” means a person (including an organization) designated under section 8345(e)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
+  - **(31)** “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007 ) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+  - **(32)** “Director” means the Director of the Office of Personnel Management.

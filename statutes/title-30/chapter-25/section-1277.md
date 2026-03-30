@@ -3,9 +3,10 @@ title: "Section 1277 - Special bituminous coal mines"
 usc_title: 30
 usc_section: "1277"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1277"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-03-30T03:05:07.418Z"
+status: "active"
 ---
 
 # § 1277. Special bituminous coal mines
@@ -18,5 +19,5 @@ generated_at: "2026-03-30T02:55:29.402Z"
   - **(5)** there is no practicable alternative method of mining the coal involved;
   - **(6)** there is no practicable method to reclaim the land in the manner required by this chapter; and
   - **(7)** the specific mine pit has been actually producing coal since January 1, 1972 , in such manner as to meet the criteria set forth in this section, and, because of past duration of mining, is substantially committed to a mode of operation which warrants exceptions to some provisions of this subchapter.
-- **(b)** Such separate regulations shall also contain a distinct part to cover and pertain to new bituminous coal surface mines which may be developed after August 3, 1977 , on lands immediately adjacent to lands upon which are located special bituminous mines existing on January 1, 1972 . Such new mines shall meet the criteria of subsection (a) except for paragraphs (3) and (7), and all requirements of State law, notwithstanding in whole or part the regulations issued pursuant to subsection (c) of this section. In the event of an amendment or revision to the State’s regulatory program, regulations, or decisions made thereunder governing such mines, the Secretary shall issue such additional regulations as necessary to meet the purposes of this chapter.
+- **(b)** Such separate regulations shall also contain a distinct part to cover and pertain to new bituminous coal surface mines which may be developed after August 3, 1977 , on lands immediately adjacent to lands upon which are located special bituminous mines existing on January 1, 1972 . Such new mines shall meet the criteria of subsection (a) of this section except for paragraphs (3) and (7), and all requirements of State law, notwithstanding in whole or part the regulations issued pursuant to subsection (c) of this section. In the event of an amendment or revision to the State’s regulatory program, regulations, or decisions made thereunder governing such mines, the Secretary shall issue such additional regulations as necessary to meet the purposes of this chapter.
 - **(c)** Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls are stable. All other performance standards in this subchapter shall apply to such mines.

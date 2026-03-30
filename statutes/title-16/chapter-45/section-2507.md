@@ -1,12 +1,15 @@
 ---
-title: "Section 2507 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 2507 - State action incentive; Federal implementation grants, increase"
 usc_title: 16
 usc_section: "2507"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2507"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-03-30T03:04:48.593Z"
+status: "active"
 ---
 
-# § 2507. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 2507. State action incentive; Federal implementation grants, increase
+
+The Secretary is authorized to increase Federal implementation grants authorized in section 2505 of this title by providing an additional match equal to the total match provided by a State of up to 15 per centum of total project costs. In no event may the Federal matching amount exceed 85 per centum of total project cost. The Secretary shall further encourage the States to assist him in assuring that local recovery plans and programs are adequately implemented by cooperating with the Department of the Interior in monitoring local park and recreation recovery plans and programs and in assuring consistency of such plans and programs, where appropriate, with State recreation policies as set forth in statewide comprehensive outdoor recreation plans.
 

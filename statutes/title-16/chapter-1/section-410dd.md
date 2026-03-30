@@ -3,9 +3,10 @@ title: "Section 410dd - Establishment"
 usc_title: 16
 usc_section: "410dd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 410dd"
-generated_at: "2026-03-30T02:54:22.764Z"
+generated_at: "2026-03-30T03:04:48.426Z"
+status: "active"
 ---
 
 # § 410dd. Establishment
@@ -23,5 +24,5 @@ generated_at: "2026-03-30T02:54:22.764Z"
 - **(k)** For the purposes of the park established under this section, effective October 1, 1978 , there are authorized to be appropriated such sums as may be necessary, but not to exceed $16,000,000 for the acquisition of lands or interests in lands and $8,000,000 for development.
 - **(l)** Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim 1 1 So in original. Probably should be “heroism”. of the American forces that liberated Guam.
 - **(m)** Within the boundaries of the park, the Secretary is authorized to implement programs to interpret experiences of the people of Guam during World War II, including, but not limited to, oral histories of those people of Guam who experienced the occupation.
-- **(n)** Within six months after December 17, 1993 , the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections ( l ) and (m), including, at a minimum, cost estimates for the design and construction of the monument authorized in section 2 2 So in original. Probably should be “subsection”. ( l ).
+- **(n)** Within six months after December 17, 1993 , the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections ( l ) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section 2 2 So in original. Probably should be “subsection”. ( l ) of this section.
 - **(o)** The Secretary may take such steps as may be necessary to preserve and protect various World War II vintage weapons and fortifications which exist within the boundaries of the park.

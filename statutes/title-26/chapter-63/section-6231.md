@@ -1,23 +1,73 @@
 ---
-title: "Section 6231 - Notice of proceedings and adjustment"
+title: "Section 6231 - Definitions and special rules"
 usc_title: 26
 usc_section: "6231"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6231"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-03-30T03:05:18.722Z"
+status: "active"
 ---
 
-# § 6231. Notice of proceedings and adjustment
+# § 6231. Definitions and special rules
 
-- **(a)** The Secretary shall mail to the partnership and the partnership representative—
-  - **(1)** notice of any administrative proceeding initiated at the partnership level with respect to an adjustment of any partnership-related item for any partnership taxable year, or any partner’s distributive share thereof,
-  - **(2)** notice of any proposed partnership adjustment resulting from such proceeding, and
-  - **(3)** notice of any final partnership adjustment resulting from such proceeding.
+- **(a)** For purposes of this subchapter—
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B), the term “partnership” means any partnership required to file a return under section 6031(a).
+    - **(B)**
+      - **(i)** The term “partnership” shall not include any partnership having 10 or fewer partners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
+      - **(ii)** A partnership (within the meaning of subparagraph (A)) may for any taxable year elect to have clause (i) not apply. Such election shall apply for such taxable year and all subsequent taxable years unless revoked with the consent of the Secretary.
+  - **(2)** The term “partner” means—
+    - **(A)** a partner in the partnership, and
+    - **(B)** any other person whose income tax liability under subtitle A is determined in whole or in part by taking into account directly or indirectly partnership items of the partnership.
+  - **(3)** The term “partnership item” means, with respect to a partnership, any item required to be taken into account for the partnership’s taxable year under any provision of subtitle A to the extent regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the partnership level than at the partner level.
+  - **(4)** The term “nonpartnership item” means an item which is (or is treated as) not a partnership item.
+  - **(5)** The term “affected item” means any item to the extent such item is affected by a partnership item.
+  - **(6)** The term “computational adjustment” means the change in the tax liability of a partner which properly reflects the treatment under this subchapter of a partnership item. All adjustments required to apply the results of a proceeding with respect to a partnership under this subchapter to an indirect partner shall be treated as computational adjustments.
+  - **(7)** The tax matters partner of any partnership is—
+    - **(A)** the general partner designated as the tax matters partner as provided in regulations, or
+    - **(B)** if there is no general partner who has been so designated, the general partner having the largest profits interest in the partnership at the close of the taxable year involved (or, where there is more than 1 such partner, the 1 of such partners whose name would appear first in an alphabetical listing).
+  - **(8)** The term “notice partner” means a partner who, at the time in question, would be entitled to notice under subsection (a) of section 6223 (determined without regard to subsections (b)(2) and (e)(1)(B) thereof).
+  - **(9)** The term “pass-thru partner” means a partnership, estate, trust, S corporation, nominee, or other similar person through whom other persons hold an interest in the partnership with respect to which proceedings under this subchapter are conducted.
+  - **(10)** The term “indirect partner” means a person holding an interest in a partnership through 1 or more pass-thru partners.
+  - **(11)** A 5-percent group is a group of partners who for the partnership taxable year involved had profits interests which aggregated 5 percent or more.
+  - **(12)** Except to the extent otherwise provided in regulations, a husband and wife who have a joint interest in a partnership shall be treated as 1 person.
 - **(b)**
-  - **(1)** Any notice of a proposed partnership adjustment shall not be mailed later than the date determined under section 6235 (determined without regard to paragraphs (2) and (3) of subsection (a) thereof).
-  - **(2)**
-    - **(A)** Except to the extent that the partnership elects to waive the application of this subparagraph, any notice of a final partnership adjustment shall not be mailed earlier than 270 days after the date on which the notice of the proposed partnership adjustment is mailed.
-    - **(B)** For the period of limitations on making adjustments, see section 6235.
-- **(c)** If the Secretary mails a notice of a final partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6234 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
-- **(d)** The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+  - **(1)** For purposes of this subchapter, the partnership items of a partner for a partnership taxable year shall become nonpartnership items as of the date—
+    - **(A)** the Secretary mails to such partner a notice that such items shall be treated as nonpartnership items,
+    - **(B)** the partner files suit under section 6228(b) after the Secretary fails to allow an administrative adjustment request with respect to any of such items,
+    - **(C)** the Secretary or the Attorney General (or his delegate) enters into a settlement agreement with the partner with respect to such items, or
+    - **(D)** such change occurs under subsection (e) of section 6223 (relating to effect of Secretary’s failure to provide notice) or under subsection (c) of this section.
+  - **(2)** The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to a partner with respect to partnership items for a partnership taxable year only if—
+    - **(A)** such partner—
+      - **(i)** has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
+      - **(ii)** has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner’s treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
+    - **(B)**
+      - **(i)** such partner has filed a request under section 6227(d) for administrative adjustment of one or more of such items, and
+      - **(ii)** the adjustments requested would not make such partner’s treatment of such items consistent with the treatment of such items on the partnership return.
+  - **(3)** Any notice to a partner under subparagraph (A) of paragraph (1) with respect to partnership items for a partnership taxable year shall be mailed before the day on which the Secretary mails to the tax matters partner a notice of the beginning of an administrative proceeding at the partnership level with respect to such items.
+- **(c)**
+  - **(1)** This subsection applies in the case of—
+    - **(A)** assessments under section 6851 (relating to termination assessments of income tax) or section 6861 (relating to jeopardy assessments of income, estate, gift, and certain excise taxes),
+    - **(B)** criminal investigations,
+    - **(C)** indirect methods of proof of income,
+    - **(D)** foreign partnerships, and
+    - **(E)** other areas that the Secretary determines by regulation to present special enforcement considerations.
+  - **(2)** To the extent that the Secretary determines and provides by regulations that to treat items as partnership items will interfere with the effective and efficient enforcement of this title in any case described in paragraph (1), such items shall be treated as nonpartnership items for purposes of this subchapter.
+  - **(3)** The Secretary may prescribe by regulation such special rules as the Secretary determines to be necessary to achieve the purposes of this subchapter in any case described in paragraph (1).
+- **(d)**
+  - **(1)** For purposes of section 6223(b) (relating to special rules for partnerships with more than 100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
+    - **(A)** in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as of the moment immediately before such disposition, or
+    - **(B)** in the case of any other partner, as of the close of the partnership taxable year.
+  - **(2)** The Secretary shall prescribe regulations consistent with the principles of paragraph (1) to be applied in the case of indirect partners.
+- **(e)**
+  - **(1)** No judicial determination with respect to the income tax liability of any partner not conducted under this subchapter shall be a bar to any adjustment in such partner’s income tax liability resulting from—
+    - **(A)** a proceeding with respect to partnership items under this subchapter, or
+    - **(B)** a proceeding with respect to items which become nonpartnership items—
+      - **(i)** by reason of 1 or more of the events described in subsection (b), and
+      - **(ii)** after the appropriate time for including such items in any other proceeding with respect to nonpartnership items.
+  - **(2)** No judicial determination in any proceeding under subsection (a) of section 6228 with respect to any partnership item shall be a bar to any adjustment in any other partnership item.
+- **(f)** Except to the extent otherwise provided in regulations, in the case of any partnership the tax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership’s taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
+- **(g)**
+  - **(1)** If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter applies to such partnership for such year but such determination is erroneous, then the provisions of this subchapter are hereby extended to such partnership (and its items) for such taxable year and to partners of such partnership.
+  - **(2)** If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.

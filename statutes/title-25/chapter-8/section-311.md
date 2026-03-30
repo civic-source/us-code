@@ -3,9 +3,10 @@ title: "Section 311 - Opening highways"
 usc_title: 25
 usc_section: "311"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 311"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-03-30T03:05:02.828Z"
+status: "active"
 ---
 
 # § 311. Opening highways

@@ -3,9 +3,10 @@ title: "Section 832 - Insurance company taxable income"
 usc_title: 26
 usc_section: "832"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 832"
-generated_at: "2026-03-30T02:55:27.731Z"
+generated_at: "2026-03-30T03:05:18.622Z"
+status: "active"
 ---
 
 # § 832. Insurance company taxable income
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
 - **(b)** In the case of an insurance company subject to the tax imposed by section 831—
   - **(1)** The term “gross income” means the sum of—
     - **(A)** the combined gross amount earned during the taxable year, from investment income and from underwriting income as provided in this subsection, computed on the basis of the underwriting and investment exhibit of the annual statement approved by the National Association of Insurance Commissioners,
-    - **(B)** gain during the taxable year from the sale or other disposition of property,
+    - **(B)** gain during the taxable year from the sale or other disposition of property, and
     - **(C)** all other items constituting gross income under subchapter B, except that, in the case of a mutual fire insurance company exclusively issuing perpetual policies, the amount of single deposit premiums paid to such company shall not be included in gross income,
     - **(D)** in the case of a mutual fire or flood insurance company whose principal business is the issuance of policies—
       - **(i)** for which the premium deposits are the same (regardless of the length of the term for which the policies are written), and
@@ -31,9 +32,9 @@ generated_at: "2026-03-30T02:55:27.731Z"
       - **(i)** To losses paid during the taxable year, deduct salvage and reinsurance recovered during the taxable year.
       - **(ii)** To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct all unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.
       - **(iii)** To the results so obtained, add estimated salvage and reinsurance recoverable as of the end of the preceding taxable year and deduct estimated salvage and reinsurance recoverable as of the end of the taxable year.
-    - **(B)** The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to the applicable percentage of the sum of—
+    - **(B)** The amount which would (but for this subparagraph) be taken into account under subparagraph (A) shall be reduced by an amount equal to 15 percent of the sum of—
       - **(i)** tax-exempt interest received or accrued during such taxable year,
-      - **(ii)** the aggregate amount of deductions provided by sections 243 and 245 for—
+      - **(ii)** the aggregate amount of deductions provided by sections 243, 244, and 245 for—
         - **(I)** dividends (other than 100 percent dividends) received during the taxable year, and
         - **(II)** 100 percent dividends received during the taxable year to the extent attributable (directly or indirectly) to prorated amounts, and
       - **(iii)** the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies.
@@ -43,9 +44,9 @@ generated_at: "2026-03-30T02:55:27.731Z"
         - **(I)** the date the payor acquired the stock or obligation to which the prorated amounts are attributable, or
         - **(II)** the 1st day on which the payor and payee were members of the same affiliated group (as defined in section 243(b)(2)).
     - **(D)** For purposes of this paragraph—
-      - **(i)** The term “prorated amounts” means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243 or 245 (other than 100 percent dividends).
+      - **(i)** The term “prorated amounts” means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243, 244, or 245 (other than 100 percent dividends).
       - **(ii)**
-        - **(I)** The term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
+        - **(I)** The term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
         - **(II)** A dividend received by a foreign corporation from a domestic corporation which would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(2) shall be treated as a 100 percent dividend.
     - **(E)**
       - **(i)** In the case of any 100 percent dividend paid to an insurance company to which this part applies by any insurance company, the amount of the decrease in the deductions of the payee company by reason of the portion of such dividend attributable to prorated amounts shall be reduced (but not below zero) by the amount of the decrease in the deductions (or increase in income) of the payor company attributable to the application of this section or section 805(a)(4)(A) to such amounts.
@@ -70,7 +71,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by treating unearned premiums as including an amount equal to such expenses, and
       - **(ii)** appropriate adjustments shall be made under subparagraph (c) of paragraph (4) to reflect the amount by which—
         - **(I)** such reserves at the close of the most recent taxable year beginning before January 1, 1987 , are greater or less than,
-        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses.
+        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses, 2 2 So in original. The comma probably should be a period.
   - **(8)**
     - **(A)** In the case of premiums attributable to title insurance—
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by substituting “the discounted unearned premiums” for “80 percent of the unearned premiums” each place it appears, and
@@ -90,8 +91,8 @@ generated_at: "2026-03-30T02:55:27.731Z"
   - **(2)** all interest, as provided in section 163;
   - **(3)** taxes, as provided in section 164;
   - **(4)** losses incurred, as defined in subsection (b)(5) of this section;
-  - **(5)** capital losses to the extent provided in subchapter P (relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
-    - **(A)** the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets); or
+  - **(5)** capital losses to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders in their capacity as such, losses paid, and expenses paid over the sum of the items described in section 834(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+    - **(A)** the taxable income (computed without regard to gains or losses from sales or exchanges of capital assets; or
     - **(B)** losses from the sale or exchange of capital assets sold or exchanged to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders;
   - **(6)** debts in the nature of agency balances and bills receivable which become worthless within the taxable year;
   - **(7)** the amount of interest earned during the taxable year which under section 103 is excluded from gross income;
@@ -102,7 +103,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
   - **(12)** the special deductions allowed by part VIII of subchapter B (sec. 241 and following, relating to dividends received); and
   - **(13)** in the case of a company which writes mortgage guaranty insurance, the deduction allowed by subsection (e).
 - **(d)** Nothing in this section shall permit the same item to be deducted more than once.
-- **(e)** In the case of a company which writes mortgage guaranty insurance—
+- **(e)** In the case of taxable years beginning after December 31, 1966 , of a company which writes mortgage guaranty insurance—
   - **(1)** There shall be allowed as a deduction for the taxable year, if bonds are purchased as required by paragraph (2), the sum of—
     - **(A)** an amount representing the amount required by State law or regulation to be set aside in a reserve for mortgage guaranty insurance losses resulting from adverse economic cycles; and
     - **(B)** an amount representing the aggregate of amounts so set aside in such reserve for the 8 preceding taxable years to the extent such amounts were not deducted under this paragraph in such preceding taxable years,
@@ -114,7 +115,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
     - **(B)** the excess (if any) of the aggregate amount in the mortgage guaranty account over the aggregate amount in the reserve referred to in paragraph (1)(A). For purposes of determining such excess, the aggregate amount in the mortgage guaranty account shall be determined after applying subparagraph (A), and the aggregate amount in the reserve referred to in paragraph (1)(A) shall be determined by disregarding any amounts remaining in such reserve added for taxable years beginning before January 1, 1967 ,
     - **(C)** an amount (if any) equal to the net operating loss for the taxable year computed without regard to this subparagraph, and
     - **(D)** any amount improperly subtracted from the account under subparagraph (A), (B), or (C) to the extent that tax and loss bonds were redeemed with respect to such amount.
-  - **(6)** The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to “losses resulting from adverse economic cycles” include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+  - **(6)** In the case of any taxable year beginning after December 31, 1970 , the provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to “losses resulting from adverse economic cycles” include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 - **(f)** In the case of a mutual insurance company which is an interinsurer or reciprocal underwriter—
   - **(1)** there shall be allowed as a deduction the increase for the taxable year in savings credited to subscriber accounts, or
   - **(2)** there shall be included as an item of gross income the decrease for the taxable year in savings credited to subscriber accounts.

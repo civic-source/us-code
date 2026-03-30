@@ -3,16 +3,17 @@ title: "Section 1311 - Establishment of university coal research laboratories"
 usc_title: 30
 usc_section: "1311"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-03-30T03:05:07.419Z"
+status: "active"
 ---
 
 # § 1311. Establishment of university coal research laboratories
 
-- **(a)** The Secretary of Energy, after consultation with the National Academy of Engineering, shall designate thirteen institutions of higher education at which university coal research laboratories will be established and operated. Ten such designations shall be made as provided in subsection (e) and the remaining three shall be made in fiscal year 1980.
+- **(a)** The Secretary of Energy, after consultation with the National Academy of Engineering, shall designate thirteen institutions of higher education at which university coal research laboratories will be established and operated. Ten such designations shall be made as provided in subsection (e) of this section and the remaining three shall be made in fiscal year 1980.
 - **(b)** In making designations under this section, the Secretary of Energy shall consider the following criteria:
-  - **(1)** Those ten institutions of higher education designated as provided in subsection (e) shall be located in a State with abundant coal reserves.
+  - **(1)** Those ten institutions of higher education designated as provided in subsection (e) of this section shall be located in a State with abundant coal reserves.
   - **(2)** The institution of higher education shall have experience in coal research, expertise in several areas of coal research, and potential or currently active, outstanding programs in coal research.
   - **(3)** The institution of higher education has the capacity to establish and operate the coal laboratories to be assisted under this subchapter.
 - **(c)** Not more than one coal laboratory established pursuant to this subchapter shall be located in a single State and at least one coal laboratory shall be established within each of the major coal provinces recognized by the United States Bureau of Mines, including Alaska.

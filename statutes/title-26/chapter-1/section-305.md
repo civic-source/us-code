@@ -3,9 +3,10 @@ title: "Section 305 - Distributions of stock and stock rights"
 usc_title: 26
 usc_section: "305"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 305"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-03-30T03:05:18.571Z"
+status: "active"
 ---
 
 # § 305. Distributions of stock and stock rights
@@ -45,7 +46,7 @@ generated_at: "2026-03-30T02:55:27.664Z"
   - **(6)** For purposes of this subsection, the term “purchase” means—
     - **(A)** any acquisition of stock, where
     - **(B)** the basis of such stock is not determined in whole or in part by the reference to the adjusted basis of such stock in the hands of the person from whom acquired.
-  - **(7)** For treatment of stripped interests in certain accounts or entities holding preferred stock, see section 1286(e).
+  - **(7)** For treatment of stripped interests in certain accounts or entities holding preferred stock, see section 1286(f).
 - **(f)** For special rules—
   - **(1)** Relating to the receipt of stock and stock rights in corporate organizations and reorganizations, see part III (sec. 351 and following).
   - **(2)** In the case of a distribution which results in a gift, see section 2501 and following.

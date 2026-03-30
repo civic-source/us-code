@@ -3,9 +3,10 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T02:53:38.122Z"
+generated_at: "2026-03-30T03:04:17.256Z"
+status: "active"
 ---
 
 # § 1450. Payment of annuity: beneficiaries
@@ -14,18 +15,13 @@ generated_at: "2026-03-30T02:53:38.122Z"
   - **(1)** The eligible surviving spouse or the eligible former spouse.
   - **(2)** The surviving dependent children in equal shares, if the eligible surviving spouse or the eligible former spouse is dead, dies, or otherwise becomes ineligible under this section.
   - **(3)** The dependent children in equal shares if the person to whom section 1448 of this title applies (with the concurrence of the person’s spouse, if required under section 1448(a)(3) of this title ) elected to provide an annuity for dependent children but not for the spouse or former spouse.
-  - **(4)** Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ( 42 U.S.C. 1396p(d)(4) ) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ( 42 U.S.C. 1382c(a)(3) ) who is incapable of self-support because of mental or physical incapacity.
-  - **(5)** The natural person designated under section 1448(b)(1) of this title , unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
+  - **(4)** The natural person designated under section 1448(b)(1) of this title , unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 - **(b)**
   - **(1)** An annuity payable to the beneficiary terminates effective as of the first day of the month in which eligibility is lost.
   - **(2)** An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or former spouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
   - **(3)** If the surviving spouse or former spouse remarries before reaching age 55 and that marriage is terminated by death, annulment, or divorce, payment of the annuity shall be resumed effective as of the first day of the month in which the marriage is so terminated. However, if the surviving spouse or former spouse is also entitled to an annuity under the Plan based upon the marriage so terminated, the surviving spouse or former spouse may not receive both annuities but must elect which to receive.
 - **(c)**
-  - **(1)** If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38 , the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount calculated as follows:
-    - **(A)** During the period beginning on January 1, 2020 , and ending on December 31, 2020 , the amount that the annuity otherwise payable under this section would exceed such dependency and indemnity compensation.
-    - **(B)** During the period beginning on January 1, 2021 , and ending on December 31, 2021 , the amount that the annuity otherwise payable under this section would exceed two-thirds of such dependency and indemnity compensation.
-    - **(C)** During the period beginning on January 1, 2022 , and ending on December 31, 2022 , the amount that the annuity otherwise payable under this section would exceed one-third of such dependency and indemnity compensation.
-    - **(D)** On and after January 1, 2023 , the full amount of the annuity under this section.
+  - **(1)** If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38 , the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
   - **(2)** A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
   - **(3)** Any amount subject to offset under this subsection that was previously paid to the surviving spouse or former spouse shall be recouped only to the extent that the amount paid exceeds any amount to be refunded under subsection (e). In notifying a surviving spouse or former spouse of the recoupment requirement, the Secretary shall provide the spouse or former spouse—
     - **(A)** a single notice of the net amount to be recouped or the net amount to be refunded, as applicable, under this subsection or subsection (e);
@@ -34,7 +30,7 @@ generated_at: "2026-03-30T02:53:38.122Z"
     - **(D)** contact information for a person who can provide information about the offset recoupment and retired pay deduction refund processes and answer questions the surviving spouse or former spouse may have about the requirements, processes, or amounts.
 - **(d)** If, upon the death of a person to whom section 1448 of this title applies, that person had in effect a waiver of that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, an annuity under this section shall not be payable unless, in accordance with section 8339(j) or 8416(a) of title 5, that person notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of that title.
 - **(e)**
-  - **(1)** If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay or combat-related special compensation of the deceased under section 1452 of this title shall be refunded to the surviving spouse or former spouse.
+  - **(1)** If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under section 1452 of this title shall be refunded to the surviving spouse or former spouse.
   - **(2)** If, because of subsection (c), the annuity payable is less than the amount established under section 1451 of this title , the annuity payable shall be recalculated under that section. The amount of the reduction in the retired pay required to provide that recalculated annuity shall be computed under section 1452 of this title , and the difference between the amount deducted before the computation of that recalculated annuity and the amount that would have been deducted on the basis of that recalculated annuity shall be refunded to the surviving spouse or former spouse.
 - **(f)**
   - **(1)**
@@ -66,10 +62,10 @@ generated_at: "2026-03-30T02:53:38.122Z"
     - **(A)** a revocation of an election under section 1449(b) of this title ; or
     - **(B)** a change in an election under subsection (f).
 - **(h)** Except as provided in section 1451 of this title , an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
-- **(i)** Except as provided in subsection (a)(4) or ( l )(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+- **(i)** Except as provided in subsection ( l )(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 - **(j)**
-  - **(1)** A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.
-  - **(2)** An annuity payable under section 1448(f) of this title shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
+  - **(1)**
+  - **(2)**
 - **(k)**
   - **(1)** If a surviving spouse or former spouse whose annuity has been adjusted under subsection (c) subsequently loses entitlement to dependency and indemnity compensation under section 1311(a) of title 38 because of the remarriage of the surviving spouse, or former spouse, and if at the time of such remarriage the surviving spouse or former spouse is 55 years of age or more, the amount of the annuity of the surviving spouse or former spouse shall be readjusted, effective on the effective date of such loss of dependency and indemnity compensation, to the amount of the annuity which would be in effect with respect to the surviving spouse or former spouse if the adjustment under subsection (c) had never been made.
   - **(2)**
@@ -99,7 +95,7 @@ generated_at: "2026-03-30T02:53:38.122Z"
 - **(m)**
   - **(1)** The Secretary concerned shall pay a monthly special survivor indemnity allowance under this subsection to the surviving spouse or former spouse of a member of the uniformed services to whom section 1448 of this title applies if—
     - **(A)** the surviving spouse or former spouse is entitled to dependency and indemnity compensation under section 1311(a) of title 38 ;
-    - **(B)** except for subsection (c) of this section, the surviving spouse or former spouse is eligible for an annuity by reason of a participant in the Plan under subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) or (f) of such section; and
+    - **(B)** except for subsection (c) of this section, the surviving spouse or former spouse is eligible for an annuity by reason of a participant in the Plan under subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) of such section; and
     - **(C)** the eligibility of the surviving spouse or former spouse for an annuity as described in subparagraph (B) is affected by subsection (c) of this section.
   - **(2)** Subject to paragraph (3), the amount of the allowance paid to an eligible survivor under paragraph (1) for a month shall be equal to—
     - **(A)** for months during fiscal year 2009, $50;
@@ -109,16 +105,9 @@ generated_at: "2026-03-30T02:53:38.122Z"
     - **(E)** for months during fiscal year 2013, $90;
     - **(F)** for months during fiscal year 2014, $150;
     - **(G)** for months during fiscal year 2015, $200;
-    - **(H)** for months during fiscal year 2016, $275;
-    - **(I)** for months from October 2016 through November 2018, $310; and
-    - **(J)** for months after November 2018, the amount determined in accordance with paragraph (6).
+    - **(H)** for months during fiscal year 2016, $275; and
+    - **(I)** for months during fiscal year 2017, $310.
   - **(3)** The amount of the allowance paid to an eligible survivor under paragraph (1) for any month may not exceed the amount of the annuity for that month that is subject to offset under subsection (c).
   - **(4)** An allowance paid under this subsection does not constitute an annuity, and amounts so paid are not subject to adjustment under any other provision of law.
   - **(5)** The special survivor indemnity allowance shall be paid from amounts in the Department of Defense Military Retirement Fund established under section 1461 of this title .
-  - **(6)**
-    - **(A)** Whenever retired pay is increased for a month under section 1401a of this title (or any other provision of law), the amount of the allowance payable under paragraph (1) for that month shall also be increased.
-    - **(B)** With respect to an eligible survivor of a member of the uniformed services, the increase for a month shall be—
-      - **(i)** the amount payable pursuant to paragraph (2) for months during the preceding 12-month period; plus
-      - **(ii)** an amount equal to a percentage of the amount determined pursuant to clause (i), which percentage is the percentage by which the retired pay of the member would have increased for the month, as described in subparagraph (A), if the member was alive (and otherwise entitled to such pay).
-    - **(C)** The monthly amount of an allowance payable under this subsection, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
-    - **(D)** Whenever an increase in the amount of the allowance payable under paragraph (1) is made pursuant to this paragraph, the Secretary of Defense shall publish the amount of the allowance so payable by reason of such increase, including the months for which payable.
+  - **(6)** This subsection shall only apply with respect to the month beginning on October 1, 2008 , and subsequent months through the month ending on September 30, 2017 . Effective on October 1, 2017 , the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008 , or beginning on or after October 1, 2017 .

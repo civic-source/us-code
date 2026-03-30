@@ -3,9 +3,10 @@ title: "Section 403 - Notice of copyright: Publications incorporating United Sta
 usc_title: 17
 usc_section: "403"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "17 U.S.C. § 403"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-03-30T03:04:38.588Z"
+status: "active"
 ---
 
 # § 403. Notice of copyright: Publications incorporating United States Government works

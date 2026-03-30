@@ -3,9 +3,10 @@ title: "Section 904 - Reports and orders"
 usc_title: 2
 usc_section: "904"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 904"
-generated_at: "2026-03-30T02:53:04.805Z"
+generated_at: "2026-03-30T03:04:04.427Z"
+status: "active"
 ---
 
 # § 904. Reports and orders
@@ -13,10 +14,10 @@ generated_at: "2026-03-30T02:53:04.805Z"
 - **(a)** The timetable with respect to this subchapter for any budget year is as follows: Date: Action to be completed: January 21 Notification regarding optional adjustment of maximum deficit amount. 5 days before the President’s budget submission CBO sequestration preview report. The President’s budget submission OMB sequestration preview report. August 10 Notification regarding military personnel. August 15 CBO sequestration update report. August 20 OMB sequestration update report. 10 days after end of session CBO final sequestration report. 15 days after end of session OMB final sequestration report; Presidential order.
 - **(b)** Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
 - **(c)**
-  - **(1)** On the dates specified in subsection (a), OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
-  - **(2)** The preview reports shall set forth estimates for the current year and each subsequent year through 2025 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title .
+  - **(1)** On the dates specified in subsection (a) of this section, OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
+  - **(2)** The preview reports shall set forth estimates for the current year and each subsequent year through 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title .
   - **(3)** The preview reports shall set forth, for the current year and the budget year, estimates for each of the following:
-    - **(A)** The amount of net deficit increase or decrease, if any, calculated under section 902(b) of this title .
+    - **(A)** The amount of net deficit increase or decrease, if any, calculated under sub section 902(b) of this title .
     - **(B)** A list identifying each law enacted and sequestration implemented after November 5, 1990 , included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
     - **(C)** The sequestration percentage or (if the required sequestration percentage is greater than the maximum allowable percentage for medicare) percentages necessary to eliminate a deficit increase under section 902(c) of this title .
   - **(4)** The preview reports shall set forth for the budget year estimates for each of the following:
@@ -26,18 +27,18 @@ generated_at: "2026-03-30T02:53:04.805Z"
     - **(D)** The reductions required under sections 903(e)(1) and 903(e)(2) of this title.
     - **(E)** The sequestration percentage necessary to achieve the required reduction in non-defense accounts under section 903(e)(3) of this title .
   - **(5)** The OMB reports shall explain the differences between OMB and CBO estimates for each item set forth in this subsection.
-- **(d)** On or before the date specified in subsection (a), the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under section 905(f) of this title .
-- **(e)** On the dates specified in subsection (a), OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
+- **(d)** On or before the date specified in subsection (a) of this section, the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under section 905(f) of this title .
+- **(e)** On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
 - **(f)**
-  - **(1)** On the dates specified in subsection (a), OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
+  - **(1)** On the dates specified in subsection (a) of this section, OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
   - **(2)** The final reports shall set forth estimates for each of the following:
-    - **(A)** For the current year and each subsequent year through 2025 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title , including a final estimate of the adjustment for disaster funding.
+    - **(A)** For the current year and each subsequent year through 2021 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title , including a final estimate of the adjustment for disaster funding.
     - **(B)** For the current year and the budget year the estimated new budget authority and outlays for each category and the breach, if any, in each category.
     - **(C)** For each category for which a sequestration is required, the sequestration percentages necessary to achieve the required reduction.
     - **(D)** For the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions.
   - **(3)** The final reports shall contain all the information required in the pay-as-you-go and deficit sequestration preview reports. In addition, these reports shall contain, for the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions. The reports shall also contain estimates of the effects on outlays of the sequestration in each outyear for direct spending programs.
-  - **(4)** The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title , any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 1 1 So in original. Probably should be “sequestrable”. resources for any budget account to be reduced if such difference is greater than $5,000,000.
-  - **(5)** On the date specified in subsection (a), if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+  - **(4)** The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection 1 1 So in original. Probably should be “section”. 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 2 2 So in original. Probably should be “sequestrable”. resources for any budget account to be reduced if such difference is greater than $5,000,000.
+  - **(5)** On the date specified in subsection (a) of this section, if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 - **(g)** If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 - **(h)** Upon request of the Committee on the Budget of the House of Representatives or the Senate, the Comptroller General shall submit to the Congress and the President a report on—
   - **(1)** the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fully and accurately complies with such requirements or indicating the respects in which it does not; and

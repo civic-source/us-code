@@ -3,9 +3,10 @@ title: "Section 49109 - Nonstop flights"
 usc_title: 49
 usc_section: "49109"
 chapter: 491
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 49109"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-03-30T03:06:29.340Z"
+status: "active"
 ---
 
 # § 49109. Nonstop flights

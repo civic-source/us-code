@@ -3,18 +3,19 @@ title: "Section 210 - Precedence of chapter"
 usc_title: 35
 usc_section: "210"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "35 U.S.C. § 210"
-generated_at: "2026-03-30T02:55:34.239Z"
+generated_at: "2026-03-30T03:05:20.617Z"
+status: "active"
 ---
 
 # § 210. Precedence of chapter
 
 - **(a)** This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
-  - **(1)** section 10(a) of the Act of June 29, 1935 , as added by title I of the Act of August 14, 1946 ( 7 U.S.C. 427i(a) ; 60 Stat. 1085 ); 1 1 See References in Text note below.
+  - **(1)** section 10(a) of the Act of June 29, 1935 , as added by title I of the Act of August 14, 1946 ( 7 U.S.C. 427i(a) ; 60 Stat. 1085 );
   - **(2)** section 205(a) of the Act of August 14, 1946 ( 7 U.S.C. 1624(a) ; 60 Stat. 1090 );
   - **(3)** section 501(c) of the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 951(c) ; 83 Stat. 742 );
-  - **(4)** section 30168(e) 1 of title 49;
+  - **(4)** section 30168(e) 1 1 See References in Text note below. of title 49;
   - **(5)** section 12 of the National Science Foundation Act of 1950 ( 42 U.S.C. 1871(a) ; 1 82 Stat. 360 );
   - **(6)** section 152 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2182 ; 68 Stat. 943 );
   - **(7)** section 20135 of title 51 ;
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:34.239Z"
   - **(16)** section 427(b) of the Federal Mine Health and Safety Act of 1977 ( 30 U.S.C. 937(b) ; 86 Stat. 155 );
   - **(17)** section 306(d) of the Surface Mining and Reclamation Act of 1977 ( 30 U.S.C. 1226(d) ; 91 Stat. 455 ); 1
   - **(18)** section 21(d) of the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2218(d) ; 88 Stat. 1548 );
-  - **(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ( 42 U.S.C. 5585(b) ; 92 Stat. 2516 ); 1
+  - **(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ( 42 U.S.C. 5585(b) ; 92 Stat. 2516 );
   - **(20)** section 12 of the Native Latex Commercialization and Economic Development Act of 1978 ( 7 U.S.C. 178j ; 92 Stat. 2533 ); and
   - **(21)** section 408 of the Water Resources and Development Act of 1978 ( 42 U.S.C. 7879 ; 92 Stat. 1360 ).
 - **(b)** Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.

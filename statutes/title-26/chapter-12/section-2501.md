@@ -3,9 +3,10 @@ title: "Section 2501 - Imposition of tax"
 usc_title: 26
 usc_section: "2501"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 2501"
-generated_at: "2026-03-30T02:55:27.784Z"
+generated_at: "2026-03-30T03:05:18.671Z"
+status: "active"
 ---
 
 # § 2501. Imposition of tax
@@ -29,7 +30,6 @@ generated_at: "2026-03-30T02:55:27.784Z"
     - **(C)** For purposes of subparagraph (A), the U.S.-asset value of stock shall be the amount which bears the same ratio to the fair market value of such stock at the time of transfer as—
       - **(i)** the fair market value (at such time) of the assets owned by such foreign corporation and situated in the United States, bears to
       - **(ii)** the total fair market value (at such time) of all assets owned by such foreign corporation.
-  - **(6)** Paragraph (1) shall not apply to the transfer of money or other property to an organization described in paragraph (4), (5), or (6) of section 501(c) and exempt from tax under section 501(a), for the use of such organization.
 - **(b)** A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 - **(c)** A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 - **(d)**

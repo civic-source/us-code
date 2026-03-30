@@ -3,9 +3,10 @@ title: "Section 6133 - Regulations; technical assistance; program review"
 usc_title: 5
 usc_section: "6133"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 6133"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-03-30T03:04:06.086Z"
+status: "active"
 ---
 
 # § 6133. Regulations; technical assistance; program review
@@ -22,5 +23,5 @@ generated_at: "2026-03-30T02:52:56.029Z"
     - **(F)** employees’ job satisfaction and nonworklife.
 - **(c)**
   - **(1)** With respect to employees in the Library of Congress, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Librarian of Congress.
-  - **(2)** With respect to employees in the Government Publishing Office, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Director of the Government Publishing Office.
+  - **(2)** With respect to employees in the Government Printing Office, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Public Printer.
   - **(3)** With respect to employees of the Architect of the Capitol and the Botanic Garden, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Architect of the Capitol.

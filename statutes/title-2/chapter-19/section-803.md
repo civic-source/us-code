@@ -3,9 +3,10 @@ title: "Section 803 - Board organization"
 usc_title: 2
 usc_section: "803"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 803"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-03-30T03:04:04.425Z"
+status: "active"
 ---
 
 # § 803. Board organization
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
     - **(E)** The Director of the Board, who shall serve as a nonvoting member.
   - **(2)** In making appointments to the Board, the congressional leadership shall consider recommendations submitted by any interested party, including any member of the Board. One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.
   - **(3)** Individuals appointed to the Board shall have an interest in one or more of the fields of concern of the Congressional Award Program.
-  - **(4)** For the purpose of determining the derivation of the appointment of any person appointed to the Board under this section, if there is a change in the status of majority and minority between the parties of the House or the Senate, each person appointed under this section shall be deemed to have been appointed by the leadership position set out in subsection (a)(1) of the party of the individual who made the initial appointment of such person.
+  - **(4)** For the purpose of determining the derivation of the appointment of any person appointed to the Board under this section, if there is a change in the status of majority and minority between the parties of the House or the Senate, each person appointed under this section shall be deemed to have been appointed by the leadership position set out in subsection (a)(1) of this section of the party of the individual who made the initial appointment of such person.
 - **(b)**
   - **(1)** Appointed members of the Board shall continue to serve at the pleasure of the officer by whom they are appointed, and (unless reappointed under paragraph (2)) shall serve for a term of 4 years.
   - **(2)**

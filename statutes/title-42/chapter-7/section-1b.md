@@ -3,16 +3,17 @@ title: "Section 1b - Presumptive eligibility for certain breast or cervical canc
 usc_title: 42
 usc_section: "1b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T02:56:11.051Z"
+generated_at: "2026-03-30T03:06:22.573Z"
+status: "active"
 ---
 
 # § 1396r–1b. Presumptive eligibility for certain breast or cervical cancer patients
 
 - **(a)** A State plan approved under section 1396a of this title may provide for making medical assistance available to an individual described in section 1396a(aa) of this title (relating to certain breast or cervical cancer patients) during a presumptive eligibility period.
 - **(b)** For purposes of this section:
-  - **(1)** The term “presumptive eligibility period” means, with respect to an individual described in subsection (a), the period that—
+  - **(1)** The term “presumptive eligibility period” means, with respect to an individual described in subsection (a) of this section, the period that—
     - **(A)** begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual is described in section 1396a(aa) of this title ; and
     - **(B)** ends with (and includes) the earlier of—
       - **(i)** the day on which a determination is made with respect to the eligibility of such individual for services under the State plan; or
@@ -25,14 +26,14 @@ generated_at: "2026-03-30T02:56:11.051Z"
     - **(C)** Nothing in this paragraph shall be construed as preventing a State from limiting the classes of entities that may become qualified entities, consistent with any limitations imposed under subparagraph (B).
 - **(c)**
   - **(1)** The State agency shall provide qualified entities with—
-    - **(A)** such forms as are necessary for an application to be made by an individual described in subsection (a) for medical assistance under the State plan; and
+    - **(A)** such forms as are necessary for an application to be made by an individual described in subsection (a) of this section for medical assistance under the State plan; and
     - **(B)** information on how to assist such individuals in completing and filing such forms.
-  - **(2)** A qualified entity that determines under subsection (b)(1)(A) that an individual described in subsection (a) is presumptively eligible for medical assistance under a State plan shall—
+  - **(2)** A qualified entity that determines under subsection (b)(1)(A) of this section that an individual described in subsection (a) of this section is presumptively eligible for medical assistance under a State plan shall—
     - **(A)** notify the State agency of the determination within 5 working days after the date on which determination is made; and
     - **(B)** inform such individual at the time the determination is made that an application for medical assistance under the State plan is required to be made by not later than the last day of the month following the month during which the determination is made.
-  - **(3)** In the case of an individual described in subsection (a) who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made.
+  - **(3)** In the case of an individual described in subsection (a) of this section who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the individual shall apply for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made.
 - **(d)** Notwithstanding any other provision of this subchapter, medical assistance that—
-  - **(1)** is furnished to an individual described in subsection (a)—
+  - **(1)** is furnished to an individual described in subsection (a) of this section—
     - **(A)** during a presumptive eligibility period;
     - **(B)** by a 1 1 So in original. Probably should be “an”. entity that is eligible for payments under the State plan; and
   - **(2)** is included in the care and services covered by the State plan,

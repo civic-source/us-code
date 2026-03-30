@@ -3,9 +3,10 @@ title: "Section 16c - Coverage of previously exempt State employees"
 usc_title: 42
 usc_section: "16c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16c"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-03-30T03:06:22.647Z"
+status: "active"
 ---
 
 # § 2000e–16c. Coverage of previously exempt State employees
@@ -15,13 +16,13 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(2)** to serve the elected official on the policymaking level; or
   - **(3)** to serve the elected official as an immediate advisor with respect to the exercise of the constitutional or legal powers of the office.
 - **(b)**
-  - **(1)** Any individual referred to in subsection (a) may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that a violation has occurred, the final order shall also provide for appropriate relief.
+  - **(1)** Any individual referred to in subsection (a) of this section may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that a violation has occurred, the final order shall also provide for appropriate relief.
   - **(2)**
     - **(A)** Section 2000e–5(d) of this title shall apply with respect to any proceeding under this section.
     - **(B)** For purposes of the application described in subparagraph (A), the term “any charge filed by a member of the Commission alleging an unlawful employment practice” means a complaint filed under this section.
-- **(c)** Any party aggrieved by a final order under subsection (b) may obtain a review of such order under chapter 158 of title 28. For the purpose of this review, the Equal Employment Opportunity Commission shall be an “agency” as that term is used in chapter 158 of title 28.
-- **(d)** To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) if it is determined that the order was—
+- **(c)** Any party aggrieved by a final order under subsection (b) of this section may obtain a review of such order under chapter 158 of title 28. For the purpose of this review, the Equal Employment Opportunity Commission shall be an “agency” as that term is used in chapter 158 of title 28.
+- **(d)** To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under subsection (b) of this section if it is determined that the order was—
   - **(1)** arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
   - **(2)** not made consistent with required procedures; or
   - **(3)** unsupported by substantial evidence.
-- **(e)** If the individual referred to in subsection (a) is the prevailing party in a proceeding under this subsection, 1 1 So in original. attorney’s fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title .
+- **(e)** If the individual referred to in subsection (a) of this section is the prevailing party in a proceeding under this subsection, 1 1 So in original. attorney’s fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title .

@@ -3,9 +3,10 @@ title: "Section 2058 - Procedure for consumer product safety rules"
 usc_title: 15
 usc_section: "2058"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2058"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-03-30T03:04:31.196Z"
+status: "active"
 ---
 
 # § 2058. Procedure for consumer product safety rules
@@ -18,18 +19,18 @@ generated_at: "2026-03-30T02:54:08.163Z"
   - **(5)** invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), an existing standard or a portion of a standard as a proposed consumer product safety standard; and
   - **(6)** invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary consumer product safety standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 - **(b)**
-  - **(1)** If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (a)(5) if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a consumer product safety standard, would eliminate or adequately reduce the risk of injury identified in a notice under subsection (a)(1), the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed consumer product safety rule.
+  - **(1)** If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (a)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a consumer product safety standard, would eliminate or adequately reduce the risk of injury identified in a notice under subsection (a)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed consumer product safety rule.
   - **(2)** If the Commission determines that—
-    - **(A)** compliance with any standard submitted to it in response to an invitation in a notice published under subsection (a)(6) is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
+    - **(A)** compliance with any standard submitted to it in response to an invitation in a notice published under subsection (a)(6) of this section is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
     - **(B)** it is likely that there will be substantial compliance with such standard,
 - **(c)** No consumer product safety rule may be proposed by the Commission unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
   - **(1)** a preliminary description of the potential benefits and potential costs of the proposed rule, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
-  - **(2)** a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (a)(5) was not published by the Commission as the proposed rule or part of the proposed rule;
-  - **(3)** a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (a)(6) and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
+  - **(2)** a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (a)(5) of this section was not published by the Commission as the proposed rule or part of the proposed rule;
+  - **(3)** a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (a)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
   - **(4)** a description of any reasonable alternatives to the proposed rule, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
 - **(d)**
-  - **(1)** Within 60 days after the publication under subsection (c) of a proposed consumer product safety rule respecting a risk of injury associated with a consumer product, the Commission shall—
-    - **(A)** promulgate a consumer product safety rule respecting the risk of injury associated with such product, if it makes the findings required under subsection (f), or
+  - **(1)** Within 60 days after the publication under subsection (c) of this section of a proposed consumer product safety rule respecting a risk of injury associated with a consumer product, the Commission shall—
+    - **(A)** promulgate a consumer product safety rule respecting the risk of injury associated with such product, if it makes the findings required under subsection (f) of this section, or
     - **(B)** withdraw the applicable notice of proposed rulemaking if it determines that such rule is not (i) reasonably necessary to eliminate or reduce an unreasonable risk of injury associated with the product, or (ii) in the public interest;
   - **(2)** Consumer product safety rules shall be promulgated in accordance with section 553 of title 5 , except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 - **(e)** A consumer product safety rule shall express in the rule itself the risk of injury which the standard is designed to eliminate or reduce. In promulgating such a rule the Commission shall consider relevant available product data including the results of research, development, testing, and investigation activities conducted generally and pursuant to this chapter. In the promulgation of such a rule the Commission shall also consider and take into account the special needs of elderly and handicapped persons to determine the extent to which such persons may be adversely affected by such rule.
@@ -53,7 +54,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
     - **(E)** that the benefits expected from the rule bear a reasonable relationship to its costs; and
     - **(F)** that the rule imposes the least burdensome requirement which prevents or adequately reduces the risk of injury for which the rule is being promulgated.
   - **(4)**
-    - **(A)** Any preliminary or final regulatory analysis prepared under subsection (c) or (f)(2) shall not be subject to independent judicial review, except that when an action for judicial review of a rule is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+    - **(A)** Any preliminary or final regulatory analysis prepared under subsection (c) or (f)(2) of this section shall not be subject to independent judicial review, except that when an action for judicial review of a rule is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
     - **(B)** The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 - **(g)**
   - **(1)** Each consumer product safety rule shall specify the date such rule is to take effect not exceeding 180 days from the date promulgated, unless the Commission finds, for good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. The effective date of a consumer product safety standard under this chapter shall be set at a date at least 30 days after the date of promulgation unless the Commission for good cause shown determines that an earlier effective date is in the public interest. In no case may the effective date be set at a date which is earlier than the date of promulgation. A consumer product safety standard shall be applicable only to consumer products manufactured after the effective date.

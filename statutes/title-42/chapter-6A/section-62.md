@@ -1,16 +1,20 @@
 ---
-title: "Section 62 - Supplemental Fund"
+title: "Section 62 - Preemption and application"
 usc_title: 42
 usc_section: "62"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 62"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-03-30T03:06:22.420Z"
+status: "active"
 ---
 
-# § 300mm–62. Supplemental Fund
+# § 300gg–62. Preemption and application
 
-- **(a)** There is established a fund to be known as the World Trade Center Health Program Supplemental Fund (referred to in this section as the “Supplemental Fund”), consisting of amounts deposited into the Fund under subsection (b).
-- **(b)** Out of any money in the Treasury not otherwise appropriated, there is appropriated for fiscal year 2023 $1,000,000,000, for deposit into the Supplemental Fund, which amounts shall remain available through fiscal year 2032.
-- **(c)** Amounts deposited into the Supplemental Fund under subsection (b) shall be available, without further appropriation and without regard to any spending limitation under section 300mm–61(c) of this title , to the WTC Program Administrator as needed at the discretion of such Administrator, for carrying out any provision in this title, including sections 300mm–2 and 300mm–51(c) of this title.
-- **(d)** Any amounts that remain in the Supplemental Fund on September 30, 2032 , shall be deposited into the Treasury as miscellaneous receipts.
+- **(a)** Subject to subsection (b) of this section, nothing in this part (or part C of this subchapter insofar as it applies to this part) shall be construed to prevent a State from establishing, implementing, or continuing in effect standards and requirements unless such standards and requirements prevent the application of a requirement of this part.
+- **(b)**
+  - **(1)** Nothing in this part (or part C of this subchapter insofar as it applies to this part) shall be construed to affect or modify the provisions of section 1144 of title 29 .
+  - **(2)** Nothing in this part (other than section 300gg–51 of this title ) shall be construed as requiring health insurance coverage offered in the individual market to provide specific benefits under the terms of such coverage.
+- **(c)**
+  - **(1)** The provisions of part A shall apply to health insurance issuers providing health insurance coverage in the individual market in a State as provided for in such part.
+  - **(2)** To the extent that any provision of this part conflicts with a provision of part A with respect to health insurance issuers providing health insurance coverage in the individual market in a State, the provisions of such part A shall apply.

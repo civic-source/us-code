@@ -3,14 +3,15 @@ title: "Section 1665g - Indian youth program"
 usc_title: 25
 usc_section: "1665g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1665g"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-03-30T03:05:02.876Z"
+status: "active"
 ---
 
 # § 1665g. Indian youth program
 
-- **(a)** The Secretary, acting through the Service, consistent with section 1665a of this title , shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below. Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
+- **(a)** The Secretary, acting through the Service, consistent with section 1665a of this title , shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
 - **(b)**
   - **(1)**
     - **(A)** The Secretary, acting through the Service, shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, at least 1 youth regional treatment center or treatment network in each area under the jurisdiction of an area office.
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(4)**
     - **(A)** Notwithstanding any other provision of this subchapter, the Secretary may, from amounts authorized to be appropriated for the purposes of carrying out this section, make funds available to—
       - **(i)** the Tanana Chiefs Conference, Incorporated, for the purpose of leasing, constructing, renovating, operating, and maintaining a residential youth treatment facility in Fairbanks, Alaska; and
-      - **(ii)** the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4( l ) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ( l )). 1
+      - **(ii)** the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4( l ) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ( l )).
     - **(B)** Until additional residential youth treatment facilities are established in Alaska pursuant to this section, the facilities specified in subparagraph (A) shall make every effort to provide services to all eligible Indian youths residing in Alaska.
 - **(c)**
   - **(1)** The Secretary, acting through the Service, may provide intermediate behavioral health services, which may, if feasible and appropriate, incorporate systems of care, to Indian children and adolescents, including—

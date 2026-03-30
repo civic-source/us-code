@@ -3,12 +3,13 @@ title: "Section 2296b - Overfeed program"
 usc_title: 42
 usc_section: "2296b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2296b"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-03-30T03:06:22.664Z"
+status: "active"
 ---
 
 # § 2296b. Overfeed program
 
-- **(a)** To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
-- **(b)** Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in section 3501(4) of title 19 ) and the USMCA (as defined in section 4502 of title 19 ).
+- **(a)** To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) of this section and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
+- **(b)** Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in section 3501(4) of title 19 ) and the North American Free Trade Agreement.

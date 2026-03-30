@@ -3,9 +3,10 @@ title: "Section 1444 - Annual reports"
 usc_title: 33
 usc_section: "1444"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1444"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-03-30T03:05:36.287Z"
+status: "active"
 ---
 
 # § 1444. Annual reports
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:55:41.107Z"
 - **(a)** In March of each year, the Secretary of Commerce shall report to the Congress on his activities under this subchapter during the previous fiscal year. The report shall include—
   - **(1)** the Secretary’s findings made under section 1441 of this title , including an evaluation of the short-term ecological effects and the social and economic factors involved with the dumping;
   - **(2)** the results of activities undertaken pursuant to section 1442 of this title ;
-  - **(3)** with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I, and a description of how Federal research under this subchapter and subchapter I will meet those requirements; and
+  - **(3)** with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I of this chapter, and a description of how Federal research under this subchapter and subchapter I of this chapter will meet those requirements; and
   - **(4)** activities of the Department of Commerce under section 665 of title 16 .
 - **(b)** In March of each year, the Administrator shall report to the Congress on his activities during the previous fiscal year under section 1443 of this title .
 - **(c)** On October 31 of each year, the Under Secretary shall report to the Congress the specific programs that the National Oceanic and Atmospheric Administration and the Environmental Protection Agency carried out pursuant to this subchapter in the previous fiscal year, specifically listing the amount of funds allocated to those specific programs in the previous fiscal year.

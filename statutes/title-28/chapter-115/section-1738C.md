@@ -3,16 +3,13 @@ title: "Section 1738C - Certain acts, records, and proceedings and the effect th
 usc_title: 28
 usc_section: "1738C"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 1738C"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-03-30T03:05:05.826Z"
+status: "active"
 ---
 
 # § 1738C. Certain acts, records, and proceedings and the effect thereof
 
-- **(a)** No person acting under color of State law may deny—
-  - **(1)** full faith and credit to any public act, record, or judicial proceeding of any other State pertaining to a marriage between 2 individuals, on the basis of the sex, race, ethnicity, or national origin of those individuals; or
-  - **(2)** a right or claim arising from such a marriage on the basis that such marriage would not be recognized under the law of that State on the basis of the sex, race, ethnicity, or national origin of those individuals.
-- **(b)** The Attorney General may bring a civil action in the appropriate United States district court against any person who violates subsection (a) for declaratory and injunctive relief.
-- **(c)** Any person who is harmed by a violation of subsection (a) may bring a civil action in the appropriate United States district court against the person who violated such subsection for declaratory and injunctive relief.
-- **(d)** In this section, the term “State” has the meaning given such term under section 7 of title 1 .
+No State, territory, or possession of the United States, or Indian tribe, shall be required to give effect to any public act, record, or judicial proceeding of any other State, territory, possession, or tribe respecting a relationship between persons of the same sex that is treated as a marriage under the laws of such other State, territory, possession, or tribe, or a right or claim arising from such relationship.
+

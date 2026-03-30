@@ -3,9 +3,10 @@ title: "Section 7428 - Alliance command arrangements"
 usc_title: 22
 usc_section: "7428"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7428"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-03-30T03:04:53.707Z"
+status: "active"
 ---
 
 # § 7428. Alliance command arrangements
@@ -13,5 +14,5 @@ generated_at: "2026-03-30T02:55:05.440Z"
 - **(a)** Not later than 6 months after August 2, 2002 , the President should transmit to the appropriate congressional committees a report with respect to each military alliance to which the United States is party—
   - **(1)** describing the degree to which members of the Armed Forces of the United States may, in the context of military operations undertaken by or pursuant to that alliance, be placed under the command or operational control of foreign military officers subject to the jurisdiction of the International Criminal Court because they are nationals of a party to the International Criminal Court; and
   - **(2)** evaluating the degree to which members of the Armed Forces of the United States engaged in military operations undertaken by or pursuant to that alliance may be exposed to greater risks as a result of being placed under the command or operational control of foreign military officers subject to the jurisdiction of the International Criminal Court.
-- **(b)** Not later than 1 year after August 2, 2002 , the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2).
-- **(c)** The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
+- **(b)** Not later than 1 year after August 2, 2002 , the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2) of this section.
+- **(c)** The report under subsection (a) of this section, and the description of measures under subsection (b) of this section, or appropriate parts thereof, may be submitted in classified form.

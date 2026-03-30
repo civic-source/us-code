@@ -3,9 +3,10 @@ title: "Section 6707 - Priority and amounts of projects"
 usc_title: 42
 usc_section: "6707"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6707"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-03-30T03:06:22.769Z"
+status: "active"
 ---
 
 # § 6707. Priority and amounts of projects

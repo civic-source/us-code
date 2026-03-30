@@ -3,9 +3,10 @@ title: "Section 59 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(2
 usc_title: 24
 usc_section: "59"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "24 U.S.C. § 59"
-generated_at: "2026-03-30T02:54:50.789Z"
+generated_at: "2026-03-30T03:04:55.818Z"
+status: "repealed"
 ---
 
 # § 59. Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(2) , Nov. 5, 1990 , 104 Stat. 1733

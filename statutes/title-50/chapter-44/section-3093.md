@@ -3,9 +3,10 @@ title: "Section 3093 - Presidential approval and reporting of covert actions"
 usc_title: 50
 usc_section: "3093"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3093"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-03-30T03:06:37.689Z"
+status: "active"
 ---
 
 # § 3093. Presidential approval and reporting of covert actions
@@ -20,9 +21,9 @@ generated_at: "2026-03-30T02:56:26.234Z"
   - **(1)** shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
   - **(2)** shall furnish to the congressional intelligence committees any information or material concerning covert actions (including the legal basis under which the covert action is being or was conducted) which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 - **(c)**
-  - **(1)** The President shall ensure that any finding approved pursuant to subsection (a) shall be reported in writing to the congressional intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
+  - **(1)** The President shall ensure that any finding approved pursuant to subsection (a) of this section shall be reported in writing to the congressional intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
   - **(2)** If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.
-  - **(3)** Whenever a finding is not reported pursuant to paragraph (1) or (2) of this subsection, the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
+  - **(3)** Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section, 1 1 So in original. Probably should be “subsection,”. the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
   - **(4)** In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee.
   - **(5)**
     - **(A)** When access to a finding, or a notification provided under subsection (d)(1), is limited to the Members of Congress specified in paragraph (2), a written statement of the reasons for limiting such access shall also be provided.
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:56:26.234Z"
       - **(i)** all members of the congressional intelligence committees are provided access to the finding or notification; or
       - **(ii)** a statement of reasons that it is essential to continue to limit access to such finding or such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
 - **(d)**
-  - **(1)** The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2), are notified in writing of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c).
+  - **(1)** The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified in writing of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
   - **(2)** In determining whether an activity constitutes a significant undertaking for purposes of paragraph (1), the President shall consider whether the activity—
     - **(A)** involves significant risk of loss of life;
     - **(B)** requires an expansion of existing authorities, including authorities relating to research, development, or operations;
@@ -50,4 +51,3 @@ generated_at: "2026-03-30T02:56:26.234Z"
   - **(3)** The President shall maintain—
     - **(A)** a record of the members of Congress to whom a finding is reported under subsection (c) or notification is provided under subsection (d)(1) and the date on which each member of Congress receives such finding or notification; and
     - **(B)** each written statement provided under subsection (c)(5).
-- **(h)** For each type of activity undertaken as part of a covert action, the President shall establish in writing a plan to respond to the unauthorized public disclosure of that type of activity.

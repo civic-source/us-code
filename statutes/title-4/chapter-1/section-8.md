@@ -3,9 +3,10 @@ title: "Section 8 - Respect for flag"
 usc_title: 4
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "4 U.S.C. § 8"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-03-30T03:04:03.804Z"
+status: "active"
 ---
 
 # § 8. Respect for flag
@@ -14,7 +15,7 @@ No disrespect should be shown to the flag of the United States of America; the f
 
 - **(a)** The flag should never be displayed with the union down, except as a signal of dire distress in instances of extreme danger to life or property.
 - **(b)** The flag should never touch anything beneath it, such as the ground, the floor, water, or merchandise.
-- **(c)** The flag should never be carried flat or horizontally, but always aloft and free, except as may be necessary in limited circumstances and done in a respectful manner as part of a military or patriotic observance.
+- **(c)** The flag should never be carried flat or horizontally, but always aloft and free.
 - **(d)** The flag should never be used as wearing apparel, bedding, or drapery. It should never be festooned, drawn back, nor up, in folds, but always allowed to fall free. Bunting of blue, white, and red, always arranged with the blue above, the white in the middle, and the red below, should be used for covering a speaker’s desk, draping the front of the platform, and for decoration in general.
 - **(e)** The flag should never be fastened, displayed, used, or stored in such a manner as to permit it to be easily torn, soiled, or damaged in any way.
 - **(f)** The flag should never be used as a covering for a ceiling.

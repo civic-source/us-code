@@ -3,15 +3,16 @@ title: "Section 6201 - Assessment authority"
 usc_title: 26
 usc_section: "6201"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6201"
-generated_at: "2026-03-30T02:55:27.844Z"
+generated_at: "2026-03-30T03:05:18.720Z"
+status: "active"
 ---
 
 # § 6201. Assessment authority
 
 - **(a)** The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, which have not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
-  - **(1)** The Secretary shall assess all taxes determined by the taxpayer or by the Secretary as to which returns or lists (or payments under section 6225(c)(2)(B)(i)) are made under this title.
+  - **(1)** The Secretary shall assess all taxes determined by the taxpayer or by the Secretary as to which returns or lists are made under this title.
   - **(2)**
     - **(A)** Whenever any article upon which a tax is required to be paid by means of a stamp is sold or removed for sale or use by the manufacturer thereof or whenever any transaction or act upon which a tax is required to be paid by means of a stamp occurs without the use of the proper stamp, it shall be the duty of the Secretary, upon such information as he can obtain, to estimate the amount of tax which has been omitted to be paid and to make assessment therefor upon the person or persons the Secretary determines to be liable for such tax.
     - **(B)** In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid, the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.

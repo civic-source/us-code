@@ -3,42 +3,43 @@ title: "Section 4310 - Proceeding costs not allowable"
 usc_title: 41
 usc_section: "4310"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 4310"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-03-30T03:06:01.220Z"
+status: "active"
 ---
 
 # § 4310. Proceeding costs not allowable
 
 - **(a)** In this section:
-  - **(1)** The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, subcontractor, or personal services contractor, whether before or after the commencement of the proceeding, including—
+  - **(1)** The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, whether before or after the commencement of the proceeding, including—
     - **(A)** administrative and clerical expenses;
-    - **(B)** the cost of legal services, including legal services performed by an employee of the contractor, subcontractor, or personal services contractor;
-    - **(C)** the cost of the services of accountants and consultants retained by the contractor, subcontractor, or personal services contractor; and
-    - **(D)** the pay of directors, officers, and employees of the contractor, subcontractor, or personal services contractor for time devoted by those directors, officers, and employees to the proceeding.
+    - **(B)** the cost of legal services, including legal services performed by an employee of the contractor;
+    - **(C)** the cost of the services of accountants and consultants retained by the contractor; and
+    - **(D)** the pay of directors, officers, and employees of the contractor for time devoted by those directors, officers, and employees to the proceeding.
   - **(2)** The term “penalty” does not include restitution, reimbursement, or compensatory damages.
   - **(3)** The term “proceeding” includes an investigation.
-- **(b)** Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor or grantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
-  - **(1)** relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in section 4712(a)(1) of this title ; and
+- **(b)** Except as otherwise provided in this section, costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract if the proceeding—
+  - **(1)** relates to a violation of, or failure to comply with, a Federal or State statute or regulation; and
   - **(2)** results in a disposition described in subsection (c).
 - **(c)** A disposition referred to in subsection (b)(2) is any of the following:
   - **(1)** In a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in subsection (b).
-  - **(2)** In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor, subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in subsection (b).
+  - **(2)** In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in subsection (b).
   - **(3)** In any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under section 4712 of this title by reason of the violation or failure referred to in subsection (b).
   - **(4)** A final decision to do any of the following, by reason of the violation or failure referred to in subsection (b):
-    - **(A)** Debar or suspend the contractor, subcontractor, or personal services contractor.
-    - **(B)** Rescind or void the contract, subcontract, or personal services contract.
-    - **(C)** Terminate the contract, subcontract, or personal services contract for default.
+    - **(A)** Debar or suspend the contractor.
+    - **(B)** Rescind or void the contract.
+    - **(C)** Terminate the contract for default.
   - **(5)** A disposition of the proceeding by consent or compromise if the disposition could have resulted in a disposition described in paragraph (1), (2), (3), or (4).
-- **(d)** In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor, subcontractor, or personal services contractor and the Federal Government, the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
-- **(e)** In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract, subcontract, or personal services contract involved in the proceeding may allow the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
-  - **(1)** a specific term or condition of the contract, subcontract, or personal services contract; or
+- **(d)** In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the Federal Government, the costs incurred by the contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
+- **(e)** In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
+  - **(1)** a specific term or condition of the contract; or
   - **(2)** specific written instructions of the executive agency.
 - **(f)**
-  - **(1)** Except as provided in paragraph (3), costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State in connection with a covered contract, subcontract, or personal services contract may be allowed as reimbursable costs under the contract, subcontract, or personal services contract if the costs are not disallowable under subsection (b), but only to the extent provided in paragraph (2).
+  - **(1)** Except as provided in paragraph (3), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if the costs are not disallowable under subsection (b), but only to the extent provided in paragraph (2).
   - **(2)**
     - **(A)** The amount of the costs allowable under paragraph (1) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that the costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
     - **(B)** Regulations issued for the purpose of subparagraph (A) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the Federal Government as a party, and other factors as may be appropriate.
-  - **(3)** In the case of a proceeding referred to in paragraph (1), contractor, subcontractor, or personal services contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
-    - **(A)** the proceeding involves the same contractor, subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
+  - **(3)** In the case of a proceeding referred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
+    - **(A)** the proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
     - **(B)** the costs of the other proceeding are not allowable under subsection (b).

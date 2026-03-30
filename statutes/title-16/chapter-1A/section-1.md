@@ -1,12 +1,18 @@
 ---
-title: "Section 1 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-03-30T03:04:48.486Z"
+status: "active"
 ---
 
-# § 470x–1. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470x–1. Definitions
 
+For the purposes of this part—
+
+  - **(1)** The term “Board” means the National Preservation Technology and Training Board established pursuant to section 470x–3 of this title .
+  - **(2)** The term “Center” means the National Center for Preservation Technology and Training established pursuant to section 470x–2 of this title .
+  - **(3)** The term “Secretary” means the Secretary of the Interior.

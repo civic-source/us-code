@@ -3,9 +3,10 @@ title: "Section 6302 - Role of international financial institutions"
 usc_title: 22
 usc_section: "6302"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6302"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-03-30T03:04:53.695Z"
+status: "active"
 ---
 
 # § 6302. Role of international financial institutions

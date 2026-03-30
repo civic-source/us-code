@@ -3,9 +3,10 @@ title: "Section 31311 - Requirements for State participation"
 usc_title: 49
 usc_section: "31311"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 31311"
-generated_at: "2026-03-30T02:56:19.361Z"
+generated_at: "2026-03-30T03:06:29.309Z"
+status: "active"
 ---
 
 # § 31311. Requirements for State participation
@@ -35,9 +36,7 @@ generated_at: "2026-03-30T02:56:19.361Z"
       - **(ii)** is not domiciled in a State that issues commercial driver’s licenses.
     - **(C)** The State may issue a commercial driver’s license to an individual who—
       - **(i)** operates or will operate a commercial motor vehicle;
-      - **(ii)** is an active duty member of—
-        - **(I)** the armed forces (as that term is defined in section 101(a) of title 10 ); or
-        - **(II)** the reserve components (as that term is defined in section 31305(d)(2) of this title ); and
+      - **(ii)** is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and
       - **(iii)** is not domiciled in the State, but whose temporary or permanent duty station is located in the State.
   - **(13)** The State shall impose penalties consistent with this chapter that the State considers appropriate and the Secretary approves for an individual operating a commercial motor vehicle.
   - **(14)** The State shall allow an individual to operate a commercial motor vehicle in the State if—
@@ -57,7 +56,7 @@ generated_at: "2026-03-30T02:56:19.361Z"
     - **(A)** record in the driving record of an individual who has a commercial driver’s license issued by the State; and
     - **(B)** make available to all authorized persons and governmental entities having access to such record,
   - **(20)** The State shall revoke, suspend, or cancel the commercial driver’s license of an individual in accordance with regulations issued by the Secretary to carry out section 31310(g).
-  - **(21)** The State shall operate a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
+  - **(21)** By the date established by the Secretary under section 31309(e)(4), the State shall be operating a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
   - **(22)** The State shall report a conviction of a foreign commercial driver by that State to the Federal Convictions and Withdrawal Database, or another information system designated by the Secretary to record the convictions. A report shall include—
     - **(A)** for a driver holding a foreign commercial driver’s license—
       - **(i)** each conviction relating to the operation of a commercial motor vehicle; and

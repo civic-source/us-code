@@ -3,9 +3,10 @@ title: "Section 367 - Foreign corporations"
 usc_title: 26
 usc_section: "367"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 367"
-generated_at: "2026-03-30T02:55:27.668Z"
+generated_at: "2026-03-30T03:05:18.574Z"
+status: "active"
 ---
 
 # § 367. Foreign corporations
@@ -13,9 +14,24 @@ generated_at: "2026-03-30T02:55:27.668Z"
 - **(a)**
   - **(1)** If, in connection with any exchange described in section 332, 351, 354, 356, or 361, a United States person transfers property to a foreign corporation, such foreign corporation shall not, for purposes of determining the extent to which gain shall be recognized on such transfer, be considered to be a corporation.
   - **(2)** Except to the extent provided in regulations, paragraph (1) shall not apply to the transfer of stock or securities of a foreign corporation which is a party to the exchange or a party to the reorganization.
-  - **(3)** Except as provided in regulations prescribed by the Secretary, a transfer by a United States person of an interest in a partnership to a foreign corporation in an exchange described in paragraph (1) shall, for purposes of this subsection, be treated as a transfer to such corporation of such person’s pro rata share of the assets of the partnership.
-  - **(4)** Paragraph (2) shall not apply in the case of an exchange described in subsection (a) or (b) of section 361. Subject to such basis adjustments and such other conditions as shall be provided in regulations, the preceding sentence shall not apply if the transferor corporation is controlled (within the meaning of section 368(c)) by 5 or fewer domestic corporations. For purposes of the preceding sentence, all members of the same affiliated group (within the meaning of section 1504) shall be treated as 1 corporation.
-  - **(5)** Paragraph (1) shall not apply to the transfer of any property which the Secretary, in order to carry out the purposes of this subsection, designates by regulation.
+  - **(3)**
+    - **(A)** Except as provided in regulations prescribed by the Secretary, paragraph (1) shall not apply to any property transferred to a foreign corporation for use by such foreign corporation in the active conduct of a trade or business outside of the United States.
+    - **(B)** Except as provided in regulations prescribed by the Secretary, subparagraph (A) shall not apply to any—
+      - **(i)** property described in paragraph (1) or (3) of section 1221(a) (relating to inventory and copyrights, etc.),
+      - **(ii)** installment obligations, accounts receivable, or similar property,
+      - **(iii)** foreign currency or other property denominated in foreign currency,
+      - **(iv)** intangible property (within the meaning of section 936(h)(3)(B)), or
+      - **(v)** property with respect to which the transferor is a lessor at the time of the transfer, except that this clause shall not apply if the transferee was the lessee.
+    - **(C)** Except as provided in regulations prescribed by the Secretary, subparagraph (A) shall not apply to gain realized on the transfer of the assets of a foreign branch of a United States person to a foreign corporation in an exchange described in paragraph (1) to the extent that—
+      - **(i)** the sum of losses—
+        - **(I)** which were incurred by the foreign branch before the transfer, and
+        - **(II)** with respect to which a deduction was allowed to the taxpayer, exceeds
+      - **(ii)** the sum of—
+        - **(I)** any taxable income of such branch for a taxable year after the taxable year in which the loss was incurred and through the close of the taxable year of the transfer, and
+        - **(II)** the amount which is recognized under section 904(f)(3) on account of the transfer.
+  - **(4)** Except as provided in regulations prescribed by the Secretary, a transfer by a United States person of an interest in a partnership to a foreign corporation in an exchange described in paragraph (1) shall, for purposes of this subsection, be treated as a transfer to such corporation of such person’s pro rata share of the assets of the partnership.
+  - **(5)** Paragraphs (2) and (3) shall not apply in the case of an exchange described in subsection (a) or (b) of section 361. Subject to such basis adjustments and such other conditions as shall be provided in regulations, the preceding sentence shall not apply if the transferor corporation is controlled (within the meaning of section 368(c)) by 5 or fewer domestic corporations. For purposes of the preceding sentence, all members of the same affiliated group (within the meaning of section 1504) shall be treated as 1 corporation.
+  - **(6)** Paragraph (1) shall not apply to the transfer of any property which the Secretary, in order to carry out the purposes of this subsection, designates by regulation.
 - **(b)**
   - **(1)** In the case of any exchange described in section 332, 351, 354, 355, 356, or 361 in connection with which there is no transfer of property described in subsection (a)(1), a foreign corporation shall be considered to be a corporation except to the extent provided in regulations prescribed by the Secretary which are necessary or appropriate to prevent the avoidance of Federal income taxes.
   - **(2)** The regulations prescribed pursuant to paragraph (1) shall include (but shall not be limited to) regulations dealing with the sale or exchange of stock or securities in a foreign corporation by a United States person, including regulations providing—
@@ -27,7 +43,7 @@ generated_at: "2026-03-30T02:55:27.668Z"
   - **(1)** For purposes of this section, any distribution described in section 355 (or so much of section 356 as relates to section 355) shall be treated as an exchange whether or not it is an exchange.
   - **(2)** For purposes of this chapter, any transfer of property to a foreign corporation as a contribution to the capital of such corporation by one or more persons who, immediately after the transfer, own (within the meaning of section 318) stock possessing at least 80 percent of the total combined voting power of all classes of stock of such corporation entitled to vote shall be treated as an exchange of such property for stock of the foreign corporation equal in value to the fair market value of the property transferred.
 - **(d)**
-  - **(1)** Except as provided in regulations prescribed by the Secretary, if a United States person transfers any intangible property to a foreign corporation in an exchange described in section 351 or 361—
+  - **(1)** Except as provided in regulations prescribed by the Secretary, if a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B)) to a foreign corporation in an exchange described in section 351 or 361—
     - **(A)** subsection (a) shall not apply to the transfer of such property, and
     - **(B)** the provisions of this subsection shall apply to such transfer.
   - **(2)**
@@ -38,18 +54,7 @@ generated_at: "2026-03-30T02:55:27.668Z"
         - **(II)** in the case of a disposition following such transfer (whether direct or indirect), at the time of the disposition.
     - **(B)** For purposes of this chapter, the earnings and profits of a foreign corporation to which the intangible property was transferred shall be reduced by the amount required to be included in the income of the transferor of the intangible property under subparagraph (A)(ii).
     - **(C)** For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income. For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.
-    - **(D)** For purposes of the last sentence of subparagraph (A), the Secretary shall require—
-      - **(i)** the valuation of transfers of intangible property, including intangible property transferred with other property or services, on an aggregate basis, or
-      - **(ii)** the valuation of such a transfer on the basis of the realistic alternatives to such a transfer,
   - **(3)** The Secretary may provide by regulations that the rules of paragraph (2) also apply to the transfer of intangible property by a United States person to a partnership in circumstances consistent with the purposes of this subsection.
-  - **(4)** For purposes of this subsection, the term “intangible property” means any—
-    - **(A)** patent, invention, formula, process, design, pattern, or know-how,
-    - **(B)** copyright, literary, musical, or artistic composition,
-    - **(C)** trademark, trade name, or brand name,
-    - **(D)** franchise, license, or contract,
-    - **(E)** method, program, system, procedure, campaign, survey, study, forecast, estimate, customer list, or technical data,
-    - **(F)** goodwill, going concern value, or workforce in place (including its composition and terms and conditions (contractual or otherwise) of its employment), or
-    - **(G)** other item the value or potential value of which is not attributable to tangible property or the services of any individual.
 - **(e)**
   - **(1)** In the case of any distribution described in section 355 (or so much of section 356 as relates to section 355) by a domestic corporation to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section.
   - **(2)** In the case of any liquidation to which section 332 applies, except as provided in regulations, subsections (a) and (b)(1) of section 337 shall not apply where the 80-percent distributee (as defined in section 337(c)) is a foreign corporation.

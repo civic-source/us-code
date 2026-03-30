@@ -3,9 +3,10 @@ title: "Section 315 - Candidates for public office"
 usc_title: 47
 usc_section: "315"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 315"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-03-30T03:06:26.185Z"
+status: "active"
 ---
 
 # § 315. Candidates for public office
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:56:24.508Z"
       - **(ii)** a clearly readable printed statement, identifying the candidate and stating that the candidate has approved the broadcast and that the candidate’s authorized committee paid for the broadcast.
     - **(D)** A candidate meets the requirements of this subparagraph if, in the case of a radio broadcast, the broadcast includes a personal audio statement by the candidate that identifies the candidate, the office the candidate is seeking, and indicates that the candidate has approved the broadcast.
     - **(E)** Certifications under this section shall be provided and certified as accurate by the candidate (or any authorized committee of the candidate) at the time of purchase.
-    - **(F)** For purposes of this paragraph, the terms “authorized committee” and “Federal office” have the meanings given such terms by section 30101 of title 52 .
+    - **(F)** For purposes of this paragraph, the terms “authorized committee” and “Federal office” have the meanings given such terms by section 431 of title 2 .
 - **(c)** For purposes of this section—
   - **(1)** the term “broadcasting station” includes a community antenna television system; and
   - **(2)** the terms “licensee” and “station licensee” when used with respect to a community antenna television system mean the operator of such system.

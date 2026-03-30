@@ -3,12 +3,13 @@ title: "Section 828 - Facilitation of development and construction of water cons
 usc_title: 16
 usc_section: "828"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 828"
-generated_at: "2026-03-30T02:54:22.921Z"
+generated_at: "2026-03-30T03:04:48.537Z"
+status: "active"
 ---
 
 # § 828. Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements
 
-In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in the Federal Power Act [ 16 U.S.C. 791a et seq.] are made inapplicable to States and municipalities as provided in this subchapter.
+In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in this chapter are made inapplicable to States and municipalities as provided in this subchapter.
 

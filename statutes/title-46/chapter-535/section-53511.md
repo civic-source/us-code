@@ -3,9 +3,10 @@ title: "Section 53511 - Tax treatment of nonqualified withdrawals"
 usc_title: 46
 usc_section: "53511"
 chapter: 535
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 53511"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-03-30T03:06:27.189Z"
+status: "active"
 ---
 
 # § 53511. Tax treatment of nonqualified withdrawals
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(1)** the money rates and investment yields for the calendar year immediately before the beginning of the taxable year; and
   - **(2)** the money rates and investment yields for the calendar year 1970.
 - **(e)**
-  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal: If the amount remains in the fund at the close of the— The applicable percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+  - **(1)** The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal: If the amount remains in the fund at The applicable the close of the— percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
   - **(2)** The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.
   - **(3)** Under paragraph (1), an amount shall not be treated as remaining in a capital construction fund at the close of a taxable year to the extent there is a binding contract at the close of the taxable year for a qualified withdrawal of the amount for an identified item for which the withdrawal may be made.
   - **(4)** If the Secretary determines that the balance in a capital construction fund exceeds the amount appropriate to meet the vessel construction program objectives of the person that established the fund, the amount of the excess shall be treated as a nonqualified withdrawal under paragraph (1) unless the person develops appropriate program objectives within 3 years to dissipate the excess.
@@ -35,7 +36,7 @@ generated_at: "2026-03-30T02:56:15.576Z"
   - **(1)** For a taxable year for which there is a nonqualified withdrawal (including an amount treated as a nonqualified withdrawal under subsection (e)), the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1) shall be determined by—
     - **(A)** excluding the withdrawal from gross income; and
     - **(B)** increasing the tax imposed by chapter 1 of such Code by the product of the amount of the withdrawal and the highest tax rate specified in section 1 (or section 11 for a corporation) of such Code ( 26 U.S.C. 1 , 11).
-  - **(2)** For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) 1 1 See References in Text note below. of such Code ( 26 U.S.C. 1(h) , 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
+  - **(2)** For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code ( 26 U.S.C. 1(h) , 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
   - **(3)** If any portion of a nonqualified withdrawal is properly attributable to deposits (except earnings on deposits) made by the taxpayer in a taxable year that did not reduce the taxpayer’s liability for tax under chapter 1 of such Code (26 U.S.C. ch. 1) for a taxable year before the taxable year in which the withdrawal occurs—
     - **(A)** that portion shall not be taken into account under paragraph (1); and
     - **(B)** an amount equal to that portion shall be allowed as a deduction under section 172 of such Code ( 26 U.S.C. 172 ) for the taxable year in which the withdrawal occurs.

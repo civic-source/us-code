@@ -3,16 +3,17 @@ title: "Section 296m - Workforce diversity grants"
 usc_title: 42
 usc_section: "296m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 296m"
-generated_at: "2026-03-30T02:56:10.782Z"
+generated_at: "2026-03-30T03:06:22.373Z"
+status: "active"
 ---
 
 # § 296m. Workforce diversity grants
 
 - **(a)**
   - **(1)** The Secretary may award grants to and enter into contracts with eligible entities to meet the costs of special projects to increase nursing education opportunities for individuals who are from disadvantaged backgrounds (including racial and ethnic minorities underrepresented among registered nurses) by providing student scholarships or stipends, stipends for diploma or associate degree nurses to enter a bridge or degree completion program, student scholarships or stipends for accelerated nursing degree programs, pre-entry preparation, advanced education preparation, and retention activities.
-- **(b)** In carrying out subsection (a), the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations, American 2 2 So in original. Probably should be preceded by “the”. Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
+- **(b)** In carrying out subsection (a) of this section, the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations, American 2 2 So in original. Probably should be preceded by “the”. Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
 - **(c)**
   - **(1)** Recipients of awards under this section may be required, where requested, to report to the Secretary concerning the annual admission, retention, and graduation rates for individuals from disadvantaged backgrounds and ethnic and racial minorities in the school or schools involved in the projects.
   - **(2)** If any of the rates reported under paragraph (1) fall below the average of the two previous years, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.

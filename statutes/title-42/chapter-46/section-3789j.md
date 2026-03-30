@@ -1,12 +1,15 @@
 ---
-title: "Section 3789j - Transferred"
+title: "Section 3789j - Prohibition on land acquisition"
 usc_title: 42
 usc_section: "3789j"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3789j"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.697Z"
+status: "active"
 ---
 
-# § 3789j. Transferred
+# § 3789j. Prohibition on land acquisition
+
+No funds under this chapter shall be used for land acquisition.
 

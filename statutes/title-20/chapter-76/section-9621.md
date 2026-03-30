@@ -3,9 +3,10 @@ title: "Section 9621 - National Assessment Governing Board"
 usc_title: 20
 usc_section: "9621"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9621"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-03-30T03:04:46.377Z"
+status: "active"
 ---
 
 # § 9621. National Assessment Governing Board
@@ -32,13 +33,13 @@ generated_at: "2026-03-30T02:54:48.230Z"
 - **(c)**
   - **(1)** Terms of service of members of the Assessment Board shall be staggered and may not exceed a period of 4 years, as determined by the Secretary.
   - **(2)** Members of the Assessment Board may serve not more than two terms.
-  - **(3)** A member of the Assessment Board who changes status under subsection (b) during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
+  - **(3)** A member of the Assessment Board who changes status under subsection (b) of this section during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
   - **(4)** Members of the Assessment Board previously granted 3 year terms, whose terms are in effect on December 21, 2000 , shall have their terms extended by 1 year.
 - **(d)**
   - **(1)**
-    - **(A)** The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
+    - **(A)** The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
     - **(B)** Each organization submitting nominations to the Secretary with respect to a particular vacancy shall nominate for such vacancy six individuals who are qualified by experience or training to fill the particular Assessment Board vacancy.
-    - **(C)** The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b).
+    - **(C)** The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b) of this section.
   - **(2)** The Secretary may request that each organization described in paragraph (1)(A) submit additional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
 - **(e)**
   - **(1)** In carrying out its functions under this section the Assessment Board shall—
@@ -65,4 +66,4 @@ generated_at: "2026-03-30T02:54:48.230Z"
 - **(g)** The Commissioner for Education Statistics and the Assessment Board shall meet periodically—
   - **(1)** to ensure coordination of their duties and activities relating to the National Assessment; and
   - **(2)** for the Commissioner for Education Statistics to report to the Assessment Board on the Department’s actions to implement the decisions of the Assessment Board.
-- **(h)** Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
+- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.

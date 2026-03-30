@@ -3,9 +3,10 @@ title: "Section 1256 - Grants for pollution control programs"
 usc_title: 33
 usc_section: "1256"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1256"
-generated_at: "2026-03-30T02:55:41.082Z"
+generated_at: "2026-03-30T03:05:36.270Z"
+status: "active"
 ---
 
 # § 1256. Grants for pollution control programs
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:41.082Z"
   - **(2)** $75,000,000 for the fiscal year ending June 30, 1974 , and the fiscal year ending June 30, 1975 , $100,000,000 per fiscal year for the fiscal years 1977, 1978, 1979, and 1980, $75,000,000 per fiscal year for the fiscal years 1981 and 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990;
 - **(b)** From the sums appropriated in any fiscal year, the Administrator shall make allotments to the several States and interstate agencies in accordance with regulations promulgated by him on the basis of the extent of the pollution problem in the respective States.
 - **(c)** The Administrator is authorized to pay to each State and interstate agency each fiscal year either—
-  - **(1)** the allotment of such State or agency for such fiscal year under subsection (b), or
+  - **(1)** the allotment of such State or agency for such fiscal year under subsection (b) of this section, or
   - **(2)** the reasonable costs as determined by the Administrator of developing and carrying out a pollution program by such State or agency during such fiscal year,
 - **(d)** No grant shall be made under this section to any State or interstate agency for any fiscal year when the expenditure of non-Federal funds by such State or interstate agency during such fiscal year for the recurrent expenses of carrying out its pollution control program are less than the expenditure by such State or interstate agency of non-Federal funds for such recurrent program expenses during the fiscal year ending June 30, 1971 .
 - **(e)** Beginning in fiscal year 1974 the Administrator shall not make any grant under this section to any State which has not provided or is not carrying out as a part of its program—
@@ -27,4 +28,4 @@ generated_at: "2026-03-30T02:55:41.082Z"
     - **(B)** such additional information, data, and reports as the Administrator may require.
   - **(2)** No federally assumed enforcement as defined in section 1319(a)(2) of this title is in effect with respect to such State or interstate agency.
   - **(3)** Such State (or interstate agency) submits within one hundred and twenty days after October 18, 1972 , and before October 1 of each year thereafter for the Administrator’s approval of its program for the prevention, reduction, and elimination of pollution in accordance with purposes and provisions of this chapter in such form and content as the Administrator may prescribe.
-- **(g)** Any sums allotted under subsection (b) in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
+- **(g)** Any sums allotted under subsection (b) of this section in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.

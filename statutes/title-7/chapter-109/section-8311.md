@@ -3,20 +3,18 @@ title: "Section 8311 - Reimbursable agreements"
 usc_title: 7
 usc_section: "8311"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8311"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-03-30T03:04:21.033Z"
+status: "active"
 ---
 
 # § 8311. Reimbursable agreements
 
 - **(a)** The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside the United States for movement into the United States.
-- **(b)** Funds collected for preclearance activities—
-  - **(1)** may be collected in advance of the provision of such activities;
-  - **(2)** shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
-  - **(3)** shall remain available until expended;
-  - **(4)** shall be available for the purposes for which such appropriation, account, or fund is authorized to be used; and
-  - **(5)** may be collected and shall be available only to the extent provided in appropriations Acts.
+- **(b)** Funds collected for preclearance activities shall—
+  - **(1)** be credited to accounts that may be established by the Secretary for carrying out this section; and
+  - **(2)** remain available until expended for the preclearance activities, without fiscal year limitation.
 - **(c)**
   - **(1)** Notwithstanding any other law, the Secretary may pay an officer or employee of the Department of Agriculture performing services under this chapter relating to imports into and exports from the United States for all overtime, night, or holiday work performed by the officer or employee at a rate of pay determined by the Secretary.
   - **(2)**

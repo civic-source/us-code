@@ -3,9 +3,10 @@ title: "Section 312 - Effect on earnings and profits"
 usc_title: 26
 usc_section: "312"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 312"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-03-30T03:05:18.571Z"
+status: "active"
 ---
 
 # § 312. Effect on earnings and profits
@@ -24,8 +25,8 @@ generated_at: "2026-03-30T02:55:27.665Z"
   - **(1)** The distribution to a distributee by or on behalf of a corporation of its stock or securities, of stock or securities in another corporation, or of property, in a distribution to which this title applies, shall not be considered a distribution of the earnings and profits of any corporation—
     - **(A)** if no gain to such distributee from the receipt of such stock or securities, or property, was recognized under this title, or
     - **(B)** if the distribution was not subject to tax in the hands of such distributee by reason of section 305(a).
-  - **(2)** For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
-- **[(e)**
+  - **(2)** In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.
+  - **(3)** For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
 - **(f)**
   - **(1)** The gain or loss realized from the sale or other disposition (after February 28, 1913 ) of property by a corporation—
     - **(A)** for the purpose of the computation of the earnings and profits of the corporation, shall (except as provided in subparagraph (B)) be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain, except that no regard shall be had to the value of the property as of March 1, 1913 ; but
@@ -42,15 +43,12 @@ generated_at: "2026-03-30T02:55:27.665Z"
 - **(i)** If a corporation distributes property with respect to its stock and if, at the time of distribution—
   - **(1)** there is outstanding a loan to such corporation which was made, guaranteed, or insured by the United States (or by any agency or instrumentality thereof), and
   - **(2)** the amount of such loan so outstanding exceeds the adjusted basis of the property constituting security for such loan,
-- **[(j)**
 - **(k)**
   - **(1)** For purposes of computing the earnings and profits of a corporation for any taxable year beginning after June 30, 1972 , the allowance for depreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972 .
   - **(2)** If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then the adjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), in the case of tangible property to which section 168 applies, the adjustment to earnings and profits for depreciation for any taxable year shall be determined under the alternative depreciation system (within the meaning of section 168(g)(2)).
-    - **(B)**
-      - **(i)** For purposes of computing the earnings and profits of a corporation, except as provided in clause (ii), any amount deductible under section 179, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179B, 179C, 179D, or 179E, as the case may be).
-      - **(ii)** In the case of a corporation that is a real estate investment trust, any amount deductible under section 179D shall be allowed in the year in which the property giving rise to such deduction is placed in service (or, in the case of energy efficient building retrofit property, the year in which the qualifying final certification is made).
+    - **(B)** For purposes of computing the earnings and profits of a corporation, any amount deductible under section 179, 179A, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179A, 179B, 179C, 179D, or 179E, as the case may be).
   - **(4)** The provisions of paragraph (1) shall not apply in computing the earnings and profits of a foreign corporation for any taxable year for which less than 20 percent of the gross income from all sources of such corporation is derived from sources within the United States.
   - **(5)** In computing the earnings and profits of a corporation for any taxable year, the allowance for depreciation (and amortization, if any) shall be computed without regard to any basis adjustment under section 50(c).
 - **(l)**
@@ -68,7 +66,7 @@ generated_at: "2026-03-30T02:55:27.665Z"
       - **(i)** interest paid or accrued on indebtedness incurred or continued to acquire, construct, or carry property,
       - **(ii)** property taxes, and
       - **(iii)** similar carrying charges,
-    - **(C)** The term “construction period” has the meaning given the term production period under section 263A(f)(4)(B). 2 2 See References in Text note below.
+    - **(C)** The term “construction period” has the meaning given the term production period under section 263A(f)(4)(B).
   - **(2)**
     - **(A)** Any amount allowable as a deduction under section 263(c) in determining taxable income (other than costs incurred in connection with a nonproductive well)—
       - **(i)** shall be capitalized, and

@@ -3,9 +3,10 @@ title: "Section 2282b - Civil monetary penalties for violations of Department of
 usc_title: 42
 usc_section: "2282b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2282b"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-03-30T03:06:22.663Z"
+status: "active"
 ---
 
 # § 2282b. Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or data
@@ -14,5 +15,5 @@ generated_at: "2026-03-30T02:56:11.158Z"
 - **(b)** The Secretary shall include in each contract with a contractor of the Department provisions which provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any rule, regulation, or order relating to the safeguarding or security of Restricted Data or other classified or sensitive information. The provisions shall specify various degrees of violations and the amount of the reduction attributable to each degree of violation.
 - **(c)** The powers and limitations applicable to the assessment of civil penalties under section 2282a of this title , except for subsection (d) of that section, shall apply to the assessment of civil penalties under this section.
 - **(d)** In the case of an entity specified in subsection (d) of section 2282a of this title —
-  - **(1)** the assessment of any civil penalty under subsection (a) against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
-  - **(2)** the total amount of civil penalties under subsection (a) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+  - **(1)** the assessment of any civil penalty under subsection (a) of this section against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
+  - **(2)** the total amount of civil penalties under subsection (a) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.

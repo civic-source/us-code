@@ -3,9 +3,10 @@ title: "Section 15855 - Grants to improve the commercial value of forest biomass
 usc_title: 42
 usc_section: "15855"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15855"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-03-30T03:06:22.964Z"
+status: "active"
 ---
 
 # § 15855. Grants to improve the commercial value of forest biomass for electric energy, useful heat, transportation fuels, and other commercial purposes
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
     - **(A)** to reduce hazardous fuels;
     - **(B)** to reduce or contain disease or insect infestation; or
     - **(C)** to restore forest health.
-  - **(2)** The term “Indian tribe” has the meaning given the term in section 5304(e) of title 25 .
+  - **(2)** The term “Indian tribe” has the meaning given the term in section 450b(e) of title 25 .
   - **(3)** For purposes of subsection (b), the term “nonmerchantable” means that portion of the byproducts of preventive treatments that would not otherwise be used for higher value products.
   - **(4)** The term “person” includes—
     - **(A)** an individual;

@@ -3,9 +3,10 @@ title: "Section 78f - National securities exchanges"
 usc_title: 15
 usc_section: "78f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 78f"
-generated_at: "2026-03-30T02:54:08.042Z"
+generated_at: "2026-03-30T03:04:31.081Z"
+status: "active"
 ---
 
 # § 78f. National securities exchanges
@@ -64,6 +65,8 @@ generated_at: "2026-03-30T02:54:08.042Z"
       - **(ii)** No member of any class of persons with respect to which the Commission has specified the manner in which its interests shall be represented pursuant to clause (i) of this subparagraph shall be denied, pursuant to such clause (i), the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation and there are substantial and relevant issues which would not be presented adequately by group representation.
     - **(D)** A transcript shall be kept of any oral presentation and cross-examination.
     - **(E)** In addition to the bases specified in section 78y(a) of this title , a reviewing Court may set aside an order of the Commission under section 78s(b) of this title approving an exchange rule imposing a schedule or fixing rates of commissions, allowances, discounts, or other fees, if the Court finds—
+        - **(1)** a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
+        - **(2)** a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner’s cross-examination or rebuttal submissions,
 - **(f)** The Commission, by rule or order, as it deems necessary or appropriate in the public interest and for the protection of investors, to maintain fair and orderly markets, or to assure equal regulation, may require—
   - **(1)** any person not a member or a designated representative of a member of a national securities exchange effecting transactions on such exchange without the services of another person acting as a broker, or
   - **(2)** any broker or dealer not a member of a national securities exchange effecting transactions on such exchange on a regular basis,
@@ -74,7 +77,7 @@ generated_at: "2026-03-30T02:54:08.042Z"
       - **(i)** security futures products; or
       - **(ii)** futures on exempted securities or groups or indexes of securities or options thereon that have been authorized under section 2(a)(1)(C) of the Commodity Exchange Act [ 7 U.S.C. 2(a)(1)(C) ].
   - **(2)**
-    - **(A)** An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a), as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission’s informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
+    - **(A)** An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a) of this section, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission’s informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
     - **(B)** Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
     - **(C)** Such registration shall be terminated immediately if any of the conditions for registration set forth in this subsection are no longer satisfied.
   - **(3)** The Commission shall promptly publish in the Federal Register an acknowledgment of receipt of all notices the Commission receives under this subsection and shall make all such notices available to the public.
@@ -134,8 +137,8 @@ generated_at: "2026-03-30T02:54:08.042Z"
       - **(ii)** 2 years after the date on which trading in any security futures product commences under this chapter.
 - **(i)** Consistent with this chapter, each national securities exchange registered pursuant to subsection (a) of this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any broker or dealer registered with the Commission pursuant to section 78 o (b) of this title (except paragraph (11) thereof), that is also registered with the Commodity Futures Trading Commission pursuant to section 4f(a) of the Commodity Exchange Act [ 7 U.S.C. 6f(a) ] (except paragraph (2) thereof), with respect to the application of—
   - **(1)** rules of such national securities exchange of the type specified in section 78 o (c)(3)(B) of this title involving security futures products; and
-  - **(2)** similar rules of national securities exchanges registered pursuant to subsection (g) and national securities associations registered pursuant to section 78 o –3(k) of this title involving security futures products.
-- **(j)** A national securities exchange registered pursuant to subsection (a) shall implement the procedures specified in subsection (h)(5)(A) and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
+  - **(2)** similar rules of national securities exchanges registered pursuant to subsection (g) of this section and national securities associations registered pursuant to section 78 o –3(k) of this title involving security futures products.
+- **(j)** A national securities exchange registered pursuant to subsection (a) of this section shall implement the procedures specified in subsection (h)(5)(A) of this section and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) of this section not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
 - **(k)**
   - **(1)** To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on or subject to the rules of a foreign board of trade to United States persons.
   - **(2)** The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.

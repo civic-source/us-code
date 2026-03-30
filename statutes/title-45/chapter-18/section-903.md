@@ -3,9 +3,10 @@ title: "Section 903 - Sales and transfers"
 usc_title: 45
 usc_section: "903"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "45 U.S.C. § 903"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-03-30T03:06:08.159Z"
+status: "active"
 ---
 
 # § 903. Sales and transfers

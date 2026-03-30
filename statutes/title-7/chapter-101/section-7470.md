@@ -3,9 +3,10 @@ title: "Section 7470 - Referenda"
 usc_title: 7
 usc_section: "7470"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7470"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-03-30T03:04:21.019Z"
+status: "active"
 ---
 
 # § 7470. Referenda
@@ -16,11 +17,11 @@ generated_at: "2026-03-30T02:53:42.454Z"
     - **(A)** the order has been approved by a majority of the producers and importers voting in the referendum; and
     - **(B)** the producers and importers favoring approval produce and import more than 50 percent of the total volume of kiwifruit produced and imported by persons voting in the referendum.
 - **(b)** The Secretary may periodically conduct a referendum to determine if kiwifruit producers and importers favor the continuation, termination, or suspension of any order issued under section 7463 of this title that is in effect at the time of the referendum.
-- **(c)** The Secretary shall hold a referendum under subsection (b)—
+- **(c)** The Secretary shall hold a referendum under subsection (b) of this section—
   - **(1)** at the end of the 6-year period beginning on the effective date of the order and at the end of each subsequent 6-year period;
   - **(2)** at the request of the Board; or
   - **(3)** if not less than 30 percent of the kiwifruit producers and importers subject to assessments under the order submit a petition requesting the referendum.
-- **(d)** On completion of a referendum under subsection (b), the Secretary shall suspend or terminate the order that was subject to the referendum at the end of the marketing year if—
+- **(d)** On completion of a referendum under subsection (b) of this section, the Secretary shall suspend or terminate the order that was subject to the referendum at the end of the marketing year if—
   - **(1)** the suspension or termination of the order is favored by not less than a majority of the producers and importers voting in the referendum; and
   - **(2)** the producers and importers produce and import more than 50 percent of the total volume of kiwifruit produced and imported by persons voting in the referendum.
 - **(e)** The ballots and other information or reports that reveal, or tend to reveal, the vote of any person under this subchapter and the voting list shall be held strictly confidential and shall not be disclosed.

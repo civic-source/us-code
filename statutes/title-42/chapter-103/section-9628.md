@@ -3,9 +3,10 @@ title: "Section 9628 - State response programs"
 usc_title: 42
 usc_section: "9628"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9628"
-generated_at: "2026-03-30T02:56:11.362Z"
+generated_at: "2026-03-30T03:06:22.854Z"
+status: "active"
 ---
 
 # § 9628. State response programs
@@ -18,16 +19,8 @@ generated_at: "2026-03-30T02:56:11.362Z"
     - **(B)**
       - **(i)** A State or Indian tribe may use a grant under this subsection to establish or enhance the response program of the State or Indian tribe.
       - **(ii)** In addition to the uses under clause (i), a State or Indian tribe may use a grant under this subsection to—
-        - **(I)** capitalize a revolving loan fund for brownfield remediation under section 9604(k)(3) of this title ;
-        - **(II)** purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program; or
-        - **(III)** assist small communities, Indian tribes, rural areas, or disadvantaged areas in carrying out activities described in section 9604(k)(7)(A) of this title with respect to brownfield sites.
-      - **(iii)**
-        - **(I)** To make grants to States or Indian tribes under clause (ii)(III), the Administrator may use, in addition to amounts available to carry out this subsection, not more than $1,500,000 of the amounts made available to carry out section 9604(k)(7) of this title in each fiscal year.
-        - **(II)** Each grant made under subclause (I) may be not more than $20,000.
-        - **(III)** The Administrator may, at the request of a State or Indian tribe, include a grant under this clause in any other grant to the State or Indian tribe made under this subsection.
-      - **(iv)** In this subparagraph:
-        - **(I)** The term “disadvantaged area” means a community with an annual median household income that is less than 80 percent of the statewide annual median household income, as determined by the President based on the latest available decennial census.
-        - **(II)** The term “small community” means a community with a population of not more than 15,000 individuals, as determined by the President based on the latest available decennial census.
+        - **(I)** capitalize a revolving loan fund for brownfield remediation under section 9604(k)(3) of this title ; or
+        - **(II)** purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program.
   - **(2)** The elements of a State or Indian tribe response program referred to in paragraph (1)(A)(i) are the following:
     - **(A)** Timely survey and inventory of brownfield sites in the State.
     - **(B)** Oversight and enforcement authorities or other mechanisms, and resources, that are adequate to ensure that—
@@ -42,7 +35,7 @@ generated_at: "2026-03-30T02:56:11.362Z"
         - **(I)** a person that is or may be affected by a release or threatened release of a hazardous substance, pollutant, or contaminant at a brownfield site located in the community in which the person works or resides may request the conduct of a site assessment; and
         - **(II)** an appropriate State official shall consider and appropriately respond to a request under subclause (I).
     - **(D)** Mechanisms for approval of a cleanup plan, and a requirement for verification by and certification or similar documentation from the State, an Indian tribe, or a licensed site professional to the person conducting a response action indicating that the response is complete.
-  - **(3)** There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2019 through 2023.
+  - **(3)** There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006.
 - **(b)**
   - **(1)**
     - **(A)** Except as provided in subparagraph (B) and subject to subparagraph (C), in the case of an eligible response site at which—
@@ -55,7 +48,7 @@ generated_at: "2026-03-30T02:56:11.362Z"
         - **(I)** a release or threatened release may present an imminent and substantial endangerment to public health or welfare or the environment; and
         - **(II)** additional response actions are likely to be necessary to address, prevent, limit, or mitigate the release or threatened release; or
       - **(iv)** the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded in documents prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
-    - **(C)** The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
+    - **(C)** The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) of this section shall maintain and make available to the public a record of sites as provided in this paragraph.
     - **(D)**
       - **(i)** In the case of an eligible response site at which there is a release or threatened release of a hazardous substance, pollutant, or contaminant and for which the Administrator intends to carry out an action that may be barred under subparagraph (A), the Administrator shall—
         - **(I)** notify the State of the action the Administrator intends to take; and
@@ -72,7 +65,7 @@ generated_at: "2026-03-30T02:56:11.362Z"
       - **(ii)** limits the discretionary authority of the President to enter into or modify an agreement with a State, an Indian tribe, or any other person relating to the implementation by the President of statutory authorities.
   - **(3)** This subsection applies only to response actions conducted after February 15, 2001 .
 - **(c)** Nothing in this section affects any liability or response authority under any Federal law, including—
-  - **(1)** this chapter, except as provided in subsection (b);
+  - **(1)** this chapter, except as provided in subsection (b) of this section;
   - **(2)** the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.);
   - **(3)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.);
   - **(4)** the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.); and

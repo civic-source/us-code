@@ -1,12 +1,17 @@
 ---
-title: "Section 1774e - Omitted"
+title: "Section 1774e - Conditions precedent to payment of United States and State funds"
 usc_title: 25
 usc_section: "1774e"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1774e"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.883Z"
+status: "active"
 ---
 
-# § 1774e. Omitted
+# § 1774e. Conditions precedent to payment of United States and State funds
 
+Amounts may not be expended from—
+
+  - **(1)** the $30,000,000 and the $5,000,000 provided by the United States under section 1774d(b) of this title , and
+  - **(2)** the $16,000,000 and $9,000,000 provided by the State under section 1774d(c) of this title , until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under section 1774b(a) of this title , and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991 , with respect to such leases.

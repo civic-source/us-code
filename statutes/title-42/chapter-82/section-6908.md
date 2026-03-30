@@ -3,9 +3,10 @@ title: "Section 6908 - Small town environmental planning"
 usc_title: 42
 usc_section: "6908"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6908"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-03-30T03:06:22.773Z"
+status: "active"
 ---
 
 # § 6908. Small town environmental planning
@@ -32,6 +33,6 @@ generated_at: "2026-03-30T02:56:11.270Z"
     - **(A)** environmental benefits and liabilities of a multi-media permitting program;
     - **(B)** the potential of using such a program to coordinate a small town’s environmental and public health activities; and
     - **(C)** the legal barriers, if any, to the establishment of such a program.
-  - **(2)** Within 3 years after October 6, 1992 , the Administrator shall report to Congress on the results of the evaluation performed in accordance with paragraph (1). Included in this report shall be a description of the activities conducted pursuant to subsections (a) through (d).
+  - **(2)** Within 3 years after October 6, 1992 , the Administrator shall report to Congress on the results of the evaluation performed in accordance with paragraph (1). Included in this report shall be a description of the activities conducted pursuant to subsections (a) through (d) of this section.
 - **(f)** For purposes of this section, the term “small town” means an incorporated or unincorporated community (as defined by the Administrator) with a population of less than 2,500 individuals.
 - **(g)** There is authorized to be appropriated the sum of $500,000 to implement this section.

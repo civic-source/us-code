@@ -3,9 +3,10 @@ title: "Section 4041 - Imposition of tax"
 usc_title: 26
 usc_section: "4041"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4041"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-03-30T03:05:18.682Z"
+status: "active"
 ---
 
 # § 4041. Imposition of tax
@@ -23,26 +24,21 @@ generated_at: "2026-03-30T02:55:27.797Z"
         - **(II)** 2.3 cents per gallon after June 30, 2005 , and before January 1, 2007 , and
         - **(III)** 0 after December 31, 2006 .
       - **(iii)**
-        - **(I)** Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2028 ).
+        - **(I)** Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2016 ).
         - **(II)** No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2).
   - **(2)**
     - **(A)** There is hereby imposed a tax on any liquid (other than gas oil, fuel oil, or any product taxable under section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate))—
       - **(i)** sold by any person to an owner, lessee, or other operator of a motor vehicle or motorboat for use as a fuel in such motor vehicle or motorboat, or
       - **(ii)** used by any person as a fuel in a motor vehicle or motorboat unless there was a taxable sale of such liquid under clause (i).
     - **(B)** The rate of the tax imposed by this paragraph shall be—
-      - **(i)** except as otherwise provided in this subparagraph, the rate of tax specified in section 4081(a)(2)(A)(i) which is in effect at the time of such sale or use,
-      - **(ii)** in the case of liquefied petroleum gas, 18.3 cents per energy equivalent of a gallon of gasoline,
-      - **(iii)** in the case of any liquid fuel (other than ethanol and methanol) derived from coal (including peat) and liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon, and
-      - **(iv)** in the case of liquefied natural gas, 24.3 cents per energy equivalent of a gallon of diesel.
-    - **(C)** For purposes of this paragraph, the term “energy equivalent of a gallon of gasoline” means, with respect to a liquefied petroleum gas fuel, the amount of such fuel having a Btu content of 115,400 (lower heating value). For purposes of the preceding sentence, a Btu content of 115,400 (lower heating value) is equal to 5.75 pounds of liquefied petroleum gas.
-    - **(D)** For purposes of this paragraph, the term “energy equivalent of a gallon of diesel” means, with respect to a liquefied natural gas fuel, the amount of such fuel having a Btu content of 128,700 (lower heating value). For purposes of the preceding sentence, a Btu content of 128,700 (lower heating value) is equal to 6.06 pounds of liquefied natural gas.
+      - **(i)** except as otherwise provided in this subparagraph, the rate of tax specified in section 4081(a)(2)(A)(i) which is in effect at the time of such sale or use, and
+      - **(ii)** in the case of liquefied natural gas, any liquid fuel (other than ethanol and methanol) derived from coal (including peat), and liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon.
   - **(3)**
     - **(A)** There is hereby imposed a tax on compressed natural gas—
       - **(i)** sold by any person to an owner, lessee, or other operator of a motor vehicle or motorboat for use as a fuel in such motor vehicle or motorboat, or
       - **(ii)** used by any person as a fuel in a motor vehicle or motorboat unless there was a taxable sale of such gas under clause (i).
     - **(B)** No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2) (relating to school bus and intracity transportation).
     - **(C)** For purposes of applying this title with respect to the taxes imposed by this subsection, references to any liquid subject to tax under this subsection shall be treated as including references to compressed natural gas subject to tax under this paragraph, and references to gallons shall be treated as including references to energy equivalent of a gallon of gasoline with respect to such gas.
-    - **(D)** For purposes of this paragraph, the term “energy equivalent of a gallon of gasoline” means 5.66 pounds of compressed natural gas.
 - **(b)**
   - **(1)**
     - **(A)** No tax shall be imposed by subsection (a) on liquids sold for use or used in an off-highway business use.
@@ -73,7 +69,6 @@ generated_at: "2026-03-30T02:55:27.797Z"
     - **(B)** used by any person as a fuel in a diesel-powered train unless there was a taxable sale of such fuel under subparagraph (A).
   - **(4)** The taxes imposed by this subsection shall not apply during any period during which the Leaking Underground Storage Tank Trust Fund financing rate under section 4081 does not apply.
   - **(5)** For purposes of this section, the tax imposed under this subsection shall be determined without regard to subsections (b)(1)(A), (f), (g), (h), and ( l ). The preceding sentence shall not apply with respect to subsection (g)(3) and so much of subsection (g)(1) as relates to vessels (within the meaning of section 4221(d)(3)) employed in foreign trade or trade between the United States and any of its possessions.
-- **[(e)**
 - **(f)**
   - **(1)** Under regulations prescribed by the Secretary, no tax shall be imposed under this section on any liquid sold for use or used on a farm for farming purposes.
   - **(2)** For purposes of paragraph (1) of this subsection, use on a farm for farming purposes shall be determined in accordance with paragraphs (1), (2), and (3) of section 6420(c).
@@ -89,16 +84,15 @@ generated_at: "2026-03-30T02:55:27.797Z"
     - **(A)** described in section 501(c)(3) which is exempt from income tax under section 501(a),
     - **(B)** operated as a museum under charter by a State or the District of Columbia, and
     - **(C)** operated exclusively for the procurement, care, and exhibition of aircraft of the type used for combat or transport in World War II.
-- **[(i)**
 - **(j)** The taxes imposed by this section shall apply with respect to liquids sold at retail by the United States, or by any agency or instrumentality of the United States, unless sales by such agency or instrumentality are by statute specifically exempted from such taxes.
 - **[(k)**
 - **(l)** No tax shall be imposed under this section on any liquid sold for use in, or used in, a helicopter or a fixed-wing aircraft for purposes of providing transportation with respect to which the requirements of subsection (f) or (g) of section 4261 are met.
 - **(m)**
   - **(1)** In the case of the sale or use of any partially exempt methanol or ethanol fuel the rate of the tax imposed by subsection (a)(2) shall be—
-    - **(A)** after September 30, 1997 , and before October 1, 2028 —
+    - **(A)** after September 30, 1997 , and before October 1, 2016 —
       - **(i)** in the case of fuel none of the alcohol in which consists of ethanol, 9.15 cents per gallon, and
       - **(ii)** in any other case, 11.3 cents per gallon, and
-    - **(B)** after September 30, 2028 —
+    - **(B)** after September 30, 2016 —
       - **(i)** in the case of fuel none of the alcohol in which consists of ethanol, 2.15 cents per gallon, and
       - **(ii)** in any other case, 4.3 cents per gallon.
   - **(2)** The term “partially exempt methanol or ethanol fuel” means any liquid at least 85 percent of which consists of methanol, ethanol, or other alcohol produced from natural gas.

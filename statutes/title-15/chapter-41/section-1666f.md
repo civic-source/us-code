@@ -3,9 +3,10 @@ title: "Section 1666f - Inducements to cardholders by sellers of cash discounts 
 usc_title: 15
 usc_section: "1666f"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1666f"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-03-30T03:04:31.181Z"
+status: "active"
 ---
 
 # § 1666f. Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; finance charge for sales transactions involving cash discounts

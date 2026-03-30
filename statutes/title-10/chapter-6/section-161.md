@@ -3,9 +3,10 @@ title: "Section 161 - Combatant commands: establishment"
 usc_title: 10
 usc_section: "161"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 161"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-03-30T03:04:17.215Z"
+status: "active"
 ---
 
 # § 161. Combatant commands: establishment
@@ -17,13 +18,9 @@ generated_at: "2026-03-30T02:53:38.042Z"
   - **(1)** The Chairman periodically (and not less often than every two years) shall—
     - **(A)** review the missions, responsibilities (including geographic boundaries), and force structure of each combatant command; and
     - **(B)** recommend to the President, through the Secretary of Defense, any changes to such missions, responsibilities, and force structures as may be necessary.
-  - **(2)** Except during time of hostilities or imminent threat of hostilities, the President shall—
-    - **(A)** not more than 60 days after establishing a new combatant command—
-      - **(i)** notify Congress of the establishment of such command; and
-      - **(ii)** provide to Congress a briefing on the establishment of such command; and
-    - **(B)** not more than 60 days after significantly revising the missions, responsibilities, or force structure of an existing combatant command—
-      - **(i)** notify Congress of such revisions; and
-      - **(ii)** provide to Congress a briefing on such revisions.
+  - **(2)** Except during time of hostilities or imminent threat of hostilities, the President shall notify Congress not more than 60 days after—
+    - **(A)** establishing a new combatant command; or
+    - **(B)** significantly revising the missions, responsibilities, or force structure of an existing combatant command.
 - **(c)** In this chapter:
   - **(1)** The term “unified combatant command” means a military command which has broad, continuing missions and which is composed of forces from two or more military departments.
   - **(2)** The term “specified combatant command” means a military command which has broad, continuing missions and which is normally composed of forces from a single military department.

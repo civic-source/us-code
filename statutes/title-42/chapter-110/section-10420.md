@@ -1,12 +1,47 @@
 ---
-title: "Section 10420 - Transferred"
+title: "Section 10420 - Safe havens for children"
 usc_title: 42
 usc_section: "10420"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10420"
-generated_at: "2026-03-30T02:56:11.389Z"
+generated_at: "2026-03-30T03:06:22.877Z"
+status: "active"
 ---
 
-# § 10420. Transferred
+# § 10420. Safe havens for children
 
+- **(a)** The Attorney General, through the Director of the Office on Violence Against Women, may award grants to States, units of local government, and Indian tribal governments that propose to enter into or expand the scope of existing contracts and cooperative agreements with public or private nonprofit entities 1 1 So in original. Probably should be followed by a dash.
+  - **(1)** to provide supervised visitation and safe visitation exchange of children by and between parents in situations involving domestic violence, dating violence, child abuse, sexual assault, or stalking;
+  - **(2)** to protect children from the trauma of witnessing domestic or dating violence or experiencing abduction, injury, or death during parent and child visitation exchanges;
+  - **(3)** to protect parents or caretakers who are victims of domestic and dating violence from experiencing further violence, abuse, and threats during child visitation exchanges; and
+  - **(4)** to protect children from the trauma of experiencing sexual assault or other forms of physical assault or abuse during parent and child visitation and visitation exchanges.
+- **(b)** In awarding grants under subsection (a) of this section, the Attorney General shall take into account—
+  - **(1)** the number of families to be served by the proposed visitation programs and services;
+  - **(2)** the extent to which the proposed supervised visitation programs and services serve underserved populations (as defined in section 3796gg–2 2 2 See References in Text note below. of this title);
+  - **(3)** with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domestic violence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
+  - **(4)** the extent to which the applicant demonstrates coordination and collaboration with State and local court systems, including mechanisms for communication and referral.
+- **(c)** The Attorney General shall award grants for contracts and cooperative agreements to applicants that—
+  - **(1)** demonstrate expertise in the area of family violence, including the areas of domestic violence or sexual assault, as appropriate;
+  - **(2)** ensure that any fees charged to individuals for use of programs and services are based on the income of those individuals, unless otherwise provided by court order;
+  - **(3)** demonstrate that adequate security measures, including adequate facilities, procedures, and personnel capable of preventing violence, are in place for the operation of supervised visitation programs and services or safe visitation exchange; and
+  - **(4)** prescribe standards by which the supervised visitation or safe visitation exchange will occur.
+- **(d)**
+  - **(1)** Not later than 1 month after the end of each even-numbered fiscal year, the Attorney General shall submit to Congress a report that includes information concerning—
+    - **(A)** the number of—
+      - **(i)** individuals served and the number of individuals turned away from visitation programs and services and safe visitation exchange (categorized by State);
+      - **(ii)** the number of individuals from underserved populations served and turned away from services; and
+      - **(iii)** the type of problems that underlie the need for supervised visitation or safe visitation exchange, such as domestic violence, child abuse, sexual assault, other physical abuse, or a combination of such factors;
+    - **(B)** the numbers of supervised visitations or safe visitation exchanges ordered under this section during custody determinations under a separation or divorce decree or protection order, through child protection services or other social services agencies, or by any other order of a civil, criminal, juvenile, or family court;
+    - **(C)** the process by which children or abused partners are protected during visitations, temporary custody transfers, and other activities for which supervised visitation is established under this section;
+    - **(D)** safety and security problems occurring during the reporting period during supervised visitation under this section, including the number of parental abduction cases; and
+    - **(E)** the number of parental abduction cases in a judicial district using supervised visitation programs and services under this section, both as identified in criminal prosecution and custody violations.
+  - **(2)** The Attorney General shall establish guidelines for the collection and reporting of data under this subsection.
+- **(e)**
+  - **(1)** There is authorized to be appropriated to carry out this section, $20,000,000 for each of fiscal years 2007 through 2011. Funds appropriated under this section shall remain available until expended.
+  - **(2)** Of the amounts appropriated to carry out this section for each fiscal year, the Attorney General shall—
+    - **(A)** use not more than 3 percent for evaluation, monitoring, site visits, grantee conferences, and other administrative costs associated with conducting activities under this section; and
+    - **(B)** set aside not more than 8 percent for technical assistance and training to be provided by organizations having nationally recognized expertise in the design of safe and secure supervised visitation programs and visitation exchange of children in situations involving domestic violence, dating violence, sexual assault, or stalking.
+- **(f)**
+  - **(1)** Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title .
+  - **(2)** The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).

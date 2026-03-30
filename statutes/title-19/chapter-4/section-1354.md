@@ -3,9 +3,10 @@ title: "Section 1354 - Notice of intention to negotiate agreement; opportunity t
 usc_title: 19
 usc_section: "1354"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1354"
-generated_at: "2026-03-30T02:54:24.631Z"
+generated_at: "2026-03-30T03:04:42.008Z"
+status: "active"
 ---
 
 # § 1354. Notice of intention to negotiate agreement; opportunity to be heard; President to seek information and advice

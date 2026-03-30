@@ -1,12 +1,21 @@
 ---
-title: "Section 130c - Transferred"
+title: "Section 130c - Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate"
 usc_title: 2
 usc_section: "130c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 130c"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-03-30T03:04:04.405Z"
+status: "active"
 ---
 
-# § 130c. Transferred
+# § 130c. Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate
 
+- **(a)** A claim of the United States against a person arising out of an erroneous payment of any pay or allowances, other than travel and transportation expenses and allowances, on or after July 25, 1974 , to the Vice President, a Senator, or to an officer or employee whose pay is disbursed by the Secretary of the Senate, the collection of which would be against equity and good conscience and not in the best interests of the United States, may be waived in whole or in part by the Secretary of the Senate. An application for waiver shall be investigated by the Financial Clerk of the Senate who shall submit a written report of his investigation to the Secretary of the Senate. An application for waiver of a claim in an amount aggregating more than $1,500 may also be investigated by the Comptroller General of the United States who shall submit a written report of his investigation to the Secretary of the Senate.
+- **(b)** The Secretary of the Senate may not exercise his authority under this section to waive any claim—
+  - **(1)** if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the Vice President, the Senator, the officer or employee, or any other person having an interest in obtaining a waiver of the claim; or
+  - **(2)** if the application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered.
+- **(c)** In the audit and settlement of accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
+- **(d)** An erroneous payment, the collection of which is waived under this section, is deemed a valid payment for all purposes.
+- **(e)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
+- **(f)** The Secretary of the Senate shall promulgate rules and regulations to carry out the provisions of this section.

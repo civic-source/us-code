@@ -1,23 +1,13 @@
 ---
-title: "Section 6035 - Basis information to persons acquiring property from decedent"
+title: "Section 6035 - Repealed. Pub. L. 108–357, title IV, § 413(c)(26) , Oct. 22, 2004 , 118 Stat. 1509 ]"
 usc_title: 26
 usc_section: "6035"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-03-30T03:05:18.709Z"
+status: "repealed"
 ---
 
-# § 6035. Basis information to persons acquiring property from decedent
+# [§ 6035. Repealed. Pub. L. 108–357, title IV, § 413(c)(26) , Oct. 22, 2004 , 118 Stat. 1509 ]
 
-- **(a)**
-  - **(1)** The executor of any estate required to file a return under section 6018(a) shall furnish to the Secretary and to each person acquiring any interest in property included in the decedent’s gross estate for Federal estate tax purposes a statement identifying the value of each interest in such property as reported on such return and such other information with respect to such interest as the Secretary may prescribe.
-  - **(2)** Each person required to file a return under section 6018(b) shall furnish to the Secretary and to each other person who holds a legal or beneficial interest in the property to which such return relates a statement identifying the information described in paragraph (1).
-  - **(3)**
-    - **(A)** Each statement required to be furnished under paragraph (1) or (2) shall be furnished at such time as the Secretary may prescribe, but in no case at a time later than the earlier of—
-      - **(i)** the date which is 30 days after the date on which the return under section 6018 was required to be filed (including extensions, if any), or
-      - **(ii)** the date which is 30 days after the date such return is filed.
-    - **(B)** In any case in which there is an adjustment to the information required to be included on a statement filed under paragraph (1) or (2) after such statement has been filed, a supplemental statement under such paragraph shall be filed not later than the date which is 30 days after such adjustment is made.
-- **(b)** The Secretary shall prescribe such regulations as necessary to carry out this section, including regulations relating to—
-  - **(1)** the application of this section to property with regard to which no estate tax return is required to be filed, and
-  - **(2)** situations in which the surviving joint tenant or other recipient may have better information than the executor regarding the basis or fair market value of the property.

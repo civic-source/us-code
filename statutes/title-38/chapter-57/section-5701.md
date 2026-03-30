@@ -3,16 +3,17 @@ title: "Section 5701 - Confidential nature of claims"
 usc_title: 38
 usc_section: "5701"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5701"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-03-30T03:05:59.224Z"
+status: "active"
 ---
 
 # § 5701. Confidential nature of claims
 
 - **(a)** All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 - **(b)** The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
-  - **(1)** To a claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to section 5109 of this title .
+  - **(1)** To a claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to section 5109 or 7109 of this title.
   - **(2)** When required by process of a United States court to be produced in any suit or proceeding therein pending.
   - **(3)** When required by any department or other agency of the United States Government.
   - **(4)** In all proceedings in the nature of an inquest into the mental competency of a claimant.
@@ -70,6 +71,4 @@ generated_at: "2026-03-30T02:55:53.522Z"
       - **(i)** a veteran; or
       - **(ii)** a dependent of veteran.
   - **(2)** In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act ( 42 U.S.C. 273(b) ).
-- **(l)**
-  - **(1)** Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a covered individual to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ), to the extent necessary to prevent misuse and diversion of prescription medicines.
-  - **(2)** In this subsection, a “covered individual” is an individual who is dispensed medication prescribed by an employee of the Department or by a non-Department provider authorized to prescribe such medication by the Department.
+- **(l)** Under regulations the Secretary shall prescribe, the Secretary may disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ), to the extent necessary to prevent misuse and diversion of prescription medicines.

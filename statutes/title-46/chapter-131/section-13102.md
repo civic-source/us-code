@@ -3,9 +3,10 @@ title: "Section 13102 - State recreational boating safety programs"
 usc_title: 46
 usc_section: "13102"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 13102"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-03-30T03:06:27.180Z"
+status: "active"
 ---
 
 # § 13102. State recreational boating safety programs
@@ -13,6 +14,6 @@ generated_at: "2026-03-30T02:56:15.559Z"
 - **(a)** To encourage greater State participation and uniformity in boating safety efforts, and particularly to permit the States to assume the greater share of boating safety education, assistance, and enforcement activities, the Secretary shall carry out a national recreational boating safety program. Under this program, the Secretary shall make contracts with, and allocate and distribute amounts to, eligible States to assist them in developing, carrying out, and financing State recreational boating safety programs.
 - **(b)** The Secretary shall establish guidelines and standards for the program. In doing so, the Secretary—
   - **(1)** shall consider, among other things, factors affecting recreational boating safety by contributing to overcrowding and congestion of waterways, such as the increasing number of recreational vessels operating on those waterways and their geographic distribution, the availability and geographic distribution of recreational boating facilities in and among applying States, and State marine casualty and fatality statistics for recreational vessels;
-  - **(2)** shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code, 1 1 So in original. The words “United States Code,” probably should not appear. the Federal Aid in Sport Fish Restoration Act of 1950 ( 16 U.S.C. 777–777k ), and with the guidelines developed under those Acts; and
+  - **(2)** shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4—460 l –11) 1 1 So in original. A comma probably should appear after “( 16 U.S.C. 460 l –4—460 l –11)”. the Federal Aid in Sport Fish Restoration Act of 1950 ( 16 U.S.C. 777–777k ), and with the guidelines developed under those Acts; and
   - **(3)** shall maintain environmental standards consistent with the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451–146 4) and other laws and policies of the United States intended to safeguard the ecological and esthetic quality of the waters and wetlands of the United States.
 - **(c)** A State whose recreational boating safety program has been approved by the Secretary is eligible for allocation and distribution of amounts under this chapter to assist that State in developing, carrying out, and financing its program. Matching amounts shall be allocated and distributed among eligible States by the Secretary as provided by section 13104 of this title .

@@ -3,9 +3,10 @@ title: "Section 6621 - Determination of rate of interest"
 usc_title: 26
 usc_section: "6621"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6621"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-03-30T03:05:18.732Z"
+status: "active"
 ---
 
 # § 6621. Determination of rate of interest
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:55:27.859Z"
   - **(1)** For purposes of determining the amount of interest payable under section 6601 on any large corporate underpayment for periods after the applicable date, paragraph (2) of subsection (a) shall be applied by substituting “5 percentage points” for “3 percentage points”.
   - **(2)** For purposes of this subsection—
     - **(A)** The applicable date is the 30th day after the earlier of—
-      - **(i)** the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, or
+      - **(i)** the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, or
       - **(ii)** the date on which the deficiency notice under section 6212 is sent.
     - **(B)**
       - **(i)** In the case of any underpayment of any tax imposed by this title to which the deficiency procedures do not apply, subparagraph (A) shall be applied by taking into account any letter or notice provided by the Secretary which notifies the taxpayer of the assessment or proposed assessment of the tax.

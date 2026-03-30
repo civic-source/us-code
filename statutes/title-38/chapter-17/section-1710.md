@@ -3,9 +3,10 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-03-30T03:05:59.194Z"
+status: "active"
 ---
 
 # § 1710. Eligibility for hospital, nursing home, and domiciliary care
@@ -16,14 +17,11 @@ generated_at: "2026-03-30T02:55:53.483Z"
     - **(B)** to any veteran who has a service-connected disability rated at 50 percent or more.
   - **(2)** The Secretary (subject to paragraph (4)) shall furnish hospital care and medical services, and may furnish nursing home care, which the Secretary determines to be needed to any veteran—
     - **(A)** who has a compensable service-connected disability rated less than 50 percent or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent;
-    - **(B)** whose discharge or release from active military, naval, air, or space service was for a disability that was incurred or aggravated in the line of duty;
+    - **(B)** whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
     - **(C)** who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran’s continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
-    - **(D)** who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14, or who was awarded the Purple Heart;
-    - **(E)** who is a veteran of—
-      - **(i)** the Mexican border period;
-      - **(ii)** World War I; or
-      - **(iii)** World War II;
-    - **(F)** who is a toxic-exposed veteran, in accordance with subsection (e); or
+    - **(D)** who is a former prisoner of war or who was awarded the Purple Heart;
+    - **(E)** who is a veteran of the Mexican border period or of World War I;
+    - **(F)** who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e); or
     - **(G)** who is unable to defray the expenses of necessary care as determined under section 1722(a) of this title .
   - **(3)** In the case of a veteran who is not described in paragraphs (1) and (2), the Secretary may, to the extent resources and facilities are available and subject to the provisions of subsections (f) and (g), furnish hospital care, medical services, and nursing home care which the Secretary determines to be needed.
   - **(4)** The requirement in paragraphs (1) and (2) that the Secretary furnish hospital care and medical services, the requirement in section 1710A(a) of this title that the Secretary provide nursing home care, the requirement in section 1710B of this title that the Secretary provide a program of extended care services, and the requirement in section 1745 of this title to provide nursing home care and prescription medicines to veterans with service-connected disabilities in State homes shall be effective in any fiscal year only to the extent and in the amount provided in advance in appropriations Acts for such purposes.
@@ -42,9 +40,9 @@ generated_at: "2026-03-30T02:55:53.483Z"
       - **(i)** a disease listed in section 1112(c)(2) of this title ; or
       - **(ii)** any other disease for which the Secretary, based on the advice of the Advisory Committee on Environmental Hazards, determines that there is credible evidence of a positive association between occurrence of the disease in humans and exposure to ionizing radiation.
     - **(C)** Subject to paragraph (2) of this subsection, a veteran who served on active duty between August 2, 1990 , and November 11, 1998 , in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
-    - **(D)** Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War (including any veteran who, in connection with service during such period, received the Armed Forces Expeditionary Medal, Service Specific Expeditionary Medal, Combat Era Specific Expeditionary Medal, Campaign Specific Medal, or any other combat theater award established by a Federal statute or an Executive order), or in combat against a hostile force during a period of hostilities after November 11, 1998 , is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
+    - **(D)** Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B) 1 1 See References in Text note below. of this title) after November 11, 1998 , is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
     - **(E)** Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
-    - **(F)** Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on August 1, 1953 , and ending on December 31, 1987 , is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
+    - **(F)** Subject to paragraph (2), a veteran who served on active duty in the Armed Forces at Camp Lejeune, North Carolina, for not fewer than 30 days during the period beginning on January 1, 1957 , and ending on December 31, 1987 , is eligible for hospital care and medical services under subsection (a)(2)(F) for any of the following illnesses or conditions, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such service:
       - **(i)** Esophageal cancer.
       - **(ii)** Lung cancer.
       - **(iii)** Breast cancer.
@@ -52,7 +50,7 @@ generated_at: "2026-03-30T02:55:53.483Z"
       - **(v)** Kidney cancer.
       - **(vi)** Leukemia.
       - **(vii)** Multiple myeloma.
-      - **(viii)** Myelodysplastic syndromes.
+      - **(viii)** Myleodysplasic 2 2 So in original. Probably should read “Myelodysplastic”. syndromes.
       - **(ix)** Renal toxicity.
       - **(x)** Hepatic steatosis.
       - **(xi)** Female infertility.
@@ -60,53 +58,25 @@ generated_at: "2026-03-30T02:55:53.483Z"
       - **(xiii)** Scleroderma.
       - **(xiv)** Neurobehavioral effects.
       - **(xv)** Non-Hodgkin’s lymphoma.
-    - **(G)** Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a veteran who participated in a toxic exposure risk activity while serving on active duty, active duty for training, or inactive duty training is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
-    - **(H)** Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a covered veteran (as defined in section 1119(c) of this title ) is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
-    - **(I)**
-      - **(i)** Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a veteran who deployed in support of a contingency operation specified in clause (ii) is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
-      - **(ii)** A contingency operation specified in this clause is any of the following:
-        - **(I)** Operation Enduring Freedom.
-        - **(II)** Operation Freedom’s Sentinel.
-        - **(III)** Operation Iraqi Freedom.
-        - **(IV)** Operation New Dawn.
-        - **(V)** Operation Inherent Resolve.
-        - **(VI)** Resolute Support Mission.
   - **(2)**
     - **(A)** In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
       - **(i)** a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in paragraph (4)(A)(ii); or
       - **(ii)** a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
-    - **(B)** In the case of a veteran described in subparagraph (C), (D), (E), (F), (G), (H), or (I) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service, testing, or activity described in such subparagraph.
-  - **(3)** In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
-    - **(A)** Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after September 11, 2001 , the 10-year period beginning on the date of such discharge or release.
-    - **(B)** With respect to a veteran described in paragraph (1)(D) who was discharged or released from the active military, naval, air, or space service after September 11, 2001 , and before October 1, 2013 , but did not enroll to receive such hospital care, medical services, or nursing home care under such paragraph pursuant to subparagraph (A) before October 1, 2022 , the one-year period beginning on October 1, 2022 .
+    - **(B)** In the case of a veteran described in subparagraph (C), (D), (E), or (F) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service or testing described in such subparagraph.
+  - **(3)** Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F) in the case of care for a veteran described in paragraph (1)(D) who—
+    - **(A)** is discharged or released from the active military, naval, or air service after the date that is five years before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, after a period of five years beginning on the date of such discharge or release; or
+    - **(B)** is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under section 1705 of this title before such date, after a period of three years beginning on the date of the enactment of that Act.
   - **(4)** For purposes of this subsection—
-    - **(A)** The term “Vietnam-era herbicide-exposed veteran” means a veteran who—
-      - **(i)** performed covered service, as defined in section 1116(d) of this title ; or
-      - **(ii)** the Secretary finds may have been exposed during active military, naval, air, or space service to dioxin during the Vietnam era, regardless of the geographic area of such service, or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such era, regardless of the geographic area of such service.
+    - **(A)** The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962 , and ending on May 7, 1975 , and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
     - **(B)** The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title .
-    - **(C)** The term “toxic exposure risk activity” means any activity—
-      - **(i)** that requires a corresponding entry in an exposure tracking record system (as defined in section 1119(c) of this title ) for the veteran who carried out the activity; or
-      - **(ii)** that the Secretary determines qualifies for purposes of this subsection when taking into account what is reasonably prudent to protect the health of veterans.
   - **(5)** When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
-  - **(6)**
-    - **(A)** The Secretary shall determine the dates in subparagraphs (G), (H), and (I) of paragraph (1) as follows:
-      - **(i)** October 1, 2024 , with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on August 2, 1990 , and ending on September 11, 2001 .
-      - **(ii)** October 1, 2026 , with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on September 12, 2001 , and ending on December 31, 2006 .
-      - **(iii)** October 1, 2028 , with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on January 1, 2007 , and ending on December 31, 2012 .
-      - **(iv)** October 1, 2030 , with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on January 1, 2013 , and ending on December 31, 2018 .
-      - **(v)** October 1, 2032 , with respect to a veteran described in such subparagraph (I).
-    - **(B)**
-      - **(i)** The Secretary may modify a date specified in subparagraph (A) to an earlier date, as the Secretary determines appropriate based on the number of veterans receiving hospital care, medical services, and nursing home care under subparagraphs (G), (H), and (I) of paragraph (1) and the resources available to the Secretary.
-      - **(ii)** If the Secretary determines to modify a date under clause (i), the Secretary shall—
-        - **(I)** notify the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of the proposed modification; and
-        - **(II)** publish such modified date in the Federal Register.
 - **(f)**
   - **(1)** The Secretary may not furnish hospital care or nursing home care (except if such care constitutes hospice care) under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) or (4) of this subsection.
   - **(2)** A veteran who is furnished hospital care or nursing home care under this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to—
     - **(A)** the lesser of—
       - **(i)** the cost of furnishing such care, as determined by the Secretary; or
       - **(ii)** the amount determined under paragraph (3) of this subsection; and
-    - **(B)** before September 30, 2026 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+    - **(B)** before September 30, 2013 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
   - **(3)**
     - **(A)** In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
       - **(i)** the amount of the inpatient Medicare deductible, plus
@@ -129,7 +99,5 @@ generated_at: "2026-03-30T02:55:53.483Z"
 - **(g)**
   - **(1)** The Secretary may not furnish medical services (except if such care constitutes hospice care) under subsection (a) of this section (including home health services under section 1717 of this title ) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation.
   - **(2)** A veteran who is furnished medical services under subsection (a) of this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such services shall be liable to the United States, in the case of each visit in which such services are furnished to the veteran, for an amount which the Secretary shall establish by regulation.
-  - **(3)** This subsection does not apply with respect to the following:
-    - **(A)** Home health services under section 1717 of this title to the extent that such services are for improvements and structural alterations.
-    - **(B)** Education on the use of opioid antagonists to reverse the effects of overdoses of specific medications or substances.
+  - **(3)** This subsection does not apply with respect to home health services under section 1717 of this title to the extent that such services are for improvements and structural alterations.
 - **(h)** Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.

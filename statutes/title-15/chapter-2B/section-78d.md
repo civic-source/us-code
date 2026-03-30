@@ -3,9 +3,10 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-30T02:54:08.041Z"
+generated_at: "2026-03-30T03:04:31.080Z"
+status: "active"
 ---
 
 # § 78d. Securities and Exchange Commission
@@ -71,45 +72,12 @@ generated_at: "2026-03-30T02:54:08.041Z"
     - **(A)** perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
     - **(B)** report to the Director of that Division.
 - **(i)**
-  - **(1)** There is established within the Commission the Office of the Advocate for Small Business Capital Formation (hereafter in this subsection referred to as the “Office”).
+  - **(1)** There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
   - **(2)**
-    - **(A)** The head of the Office shall be the Advocate for Small Business Capital Formation, who shall—
-      - **(i)** report directly to the Commission; and
-      - **(ii)** be appointed by the Commission, from among individuals having experience in advocating for the interests of small businesses and encouraging small business capital formation.
-    - **(B)** The annual rate of pay for the Advocate for Small Business Capital Formation shall be equal to the highest rate of annual pay for other senior executives who report directly to the Commission.
-    - **(C)** An individual may not be appointed as the Advocate for Small Business Capital Formation if the individual is currently employed by the Commission.
-  - **(3)** The Advocate for Small Business Capital Formation, after consultation with the Commission, may retain or employ independent counsel, research staff, and service staff, as the Advocate for Small Business Capital Formation determines to be necessary to carry out the functions of the Office.
-  - **(4)** The Advocate for Small Business Capital Formation shall—
-    - **(A)** assist small businesses and small business investors in resolving significant problems such businesses and investors may have with the Commission or with self-regulatory organizations;
-    - **(B)** identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
-    - **(C)** identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters;
-    - **(D)** analyze the potential impact on small businesses and small business investors of—
-      - **(i)** proposed regulations of the Commission that are likely to have a significant economic impact on small businesses and small business capital formation; and
-      - **(ii)** proposed rules that are likely to have a significant economic impact on small businesses and small business capital formation of self-regulatory organizations registered under this chapter;
-    - **(E)** conduct outreach to small businesses and small business investors, including through regional roundtables, in order to solicit views on relevant capital formation issues;
-    - **(F)** to the extent practicable, propose to the Commission changes in the regulations or orders of the Commission and to Congress any legislative, administrative, or personnel changes that may be appropriate to mitigate problems identified under this paragraph and to promote the interests of small businesses and small business investors;
-    - **(G)** consult with the Investor Advocate on proposed recommendations made under subparagraph (F); and
-    - **(H)** advise the Investor Advocate on issues related to small businesses and small business investors.
-  - **(5)** The Commission shall ensure that the Advocate for Small Business Capital Formation has full access to the documents and information of the Commission and any self-regulatory organization, as necessary to carry out the functions of the Office.
-  - **(6)**
-    - **(A)** Not later than December 31 of each year after 2015, the Advocate for Small Business Capital Formation shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the activities of the Advocate for Small Business Capital Formation during the immediately preceding fiscal year.
-    - **(B)** Each report required under subparagraph (A) shall include—
-      - **(i)** appropriate statistical information and full and substantive analysis;
-      - **(ii)** information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
-      - **(iii)** a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
-      - **(iv)** an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
-        - **(I)** identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
-        - **(II)** the length of time that each item has remained on such inventory; and
-        - **(III)** for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
-      - **(v)** recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actions as may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
-      - **(vi)** any other information, as determined appropriate by the Advocate for Small Business Capital Formation.
-    - **(C)** No report required by subparagraph (A) may contain confidential information.
-    - **(D)** Each report required under subparagraph (A) shall be provided directly to the committees of Congress listed in such subparagraph without any prior review or comment from the Commission, any commissioner, any other officer or employee of the Commission, or the Office of Management and Budget.
-  - **(7)** The Commission shall establish procedures requiring a formal response to all recommendations submitted to the Commission by the Advocate for Small Business Capital Formation, not later than 3 months after the date of such submission.
-  - **(8)** The Advocate for Small Business Capital Formation shall be responsible for planning, organizing, and executing the annual Government-Business Forum on Small Business Capital Formation described in section 80c–1 of this title .
-  - **(9)** Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
-- **(j)** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act ( Public Law 111–203 ; 124 Stat. 1376 ) shall be—
-  - **(1)** made available as an open Government data asset (as defined in section 3502 of title 44 );
-  - **(2)** freely available for download;
-  - **(3)** rendered in a human-readable format; and
-  - **(4)** accessible via application programming interface where appropriate.
+    - **(A)** Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.
+    - **(B)** For any 1 fiscal year—
+      - **(i)** the amount deposited in the Fund may not exceed $50,000,000; and
+      - **(ii)** the balance in the Fund may not exceed $100,000,000.
+    - **(C)** Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.
+  - **(3)** The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.
+  - **(4)** Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.

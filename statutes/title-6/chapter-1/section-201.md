@@ -1,12 +1,15 @@
 ---
-title: "Section 201 - Repealed. Pub. L. 114–125, title VIII, § 802(g)(2) , Feb. 24, 2016 , 130 Stat. 212"
+title: "Section 201 - Under Secretary for Border and Transportation Security"
 usc_title: 6
 usc_section: "201"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 201"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-03-30T03:04:24.341Z"
+status: "active"
 ---
 
-# § 201. Repealed. Pub. L. 114–125, title VIII, § 802(g)(2) , Feb. 24, 2016 , 130 Stat. 212
+# § 201. Under Secretary for Border and Transportation Security
+
+There shall be in the Department a Directorate of Border and Transportation Security headed by an Under Secretary for Border and Transportation Security.
 

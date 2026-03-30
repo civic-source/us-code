@@ -3,9 +3,10 @@ title: "Section 577e - Approval by National Forest Reservation Commission for ac
 usc_title: 16
 usc_section: "577e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 577e"
-generated_at: "2026-03-30T02:54:22.878Z"
+generated_at: "2026-03-30T03:04:48.502Z"
+status: "active"
 ---
 
 # § 577e. Approval by National Forest Reservation Commission for acquisition of additional lands

@@ -3,9 +3,10 @@ title: "Section 1921a - Sole and exclusive authority of Board and Chief to deter
 usc_title: 2
 usc_section: "1921a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1921a"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-03-30T03:04:04.440Z"
+status: "active"
 ---
 
 # § 1921a. Sole and exclusive authority of Board and Chief to determine rates of pay
@@ -16,9 +17,9 @@ generated_at: "2026-03-30T02:53:04.820Z"
   - **(3)** The amount for recruitment and relocation bonuses.
   - **(4)** The amount for retention allowances.
   - **(5)** The amount for educational assistance payments.
-- **(b)** The determination of a rate or amount described in subsection (a) may not be subject to review or appeal in any manner.
+- **(b)** The determination of a rate or amount described in subsection (a) of this section may not be subject to review or appeal in any manner.
 - **(c)** Nothing in this section may be construed to affect—
-  - **(1)** any authority provided under law for a committee of the House of Representatives or Senate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a);
-  - **(2)** any rate or amount described in subsection (a) which is established under law; or
+  - **(1)** any authority provided under law for a committee of the House of Representatives or Senate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a) of this section;
+  - **(2)** any rate or amount described in subsection (a) of this section which is established under law; or
   - **(3)** the terms of any collective bargaining agreement.
 - **(d)** This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.

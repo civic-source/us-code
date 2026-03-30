@@ -3,9 +3,10 @@ title: "Section 1639c - Minimum standards for residential mortgage loans"
 usc_title: 15
 usc_section: "1639c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1639c"
-generated_at: "2026-03-30T02:54:08.142Z"
+generated_at: "2026-03-30T03:04:31.177Z"
+status: "active"
 ---
 
 # § 1639c. Minimum standards for residential mortgage loans
@@ -69,28 +70,10 @@ generated_at: "2026-03-30T02:54:08.142Z"
       - **(ii)** for which the creditor makes a determination that the consumer is able to make all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
       - **(iii)** for which the underwriting is based on a payment schedule that fully amortizes the loan over a period of not more than 30 years and takes into account all applicable taxes, insurance, and assessments; and
       - **(iv)** that is extended by a creditor that—
-        - **(I)** operates in rural or underserved areas;
+        - **(I)** operates predominantly in rural or underserved areas;
         - **(II)** together with all affiliates, has total annual residential mortgage loan originations that do not exceed a limit set by the Bureau;
         - **(III)** retains the balloon loans in portfolio; and
         - **(IV)** meets any asset size threshold and any other criteria as the Bureau may establish, consistent with the purposes of this part.
-    - **(F)**
-      - **(i)** In this subparagraph—
-        - **(I)** the term “covered institution” means an insured depository institution or an insured credit union that, together with its affiliates, has less than $10,000,000,000 in total consolidated assets;
-        - **(II)** the term “insured credit union” has the meaning given the term in section 1752 of title 12 ;
-        - **(III)** the term “insured depository institution” has the meaning given the term in section 1813 of title 12 ;
-        - **(IV)** the term “interest-only” means that, under the terms of the legal obligation, one or more of the periodic payments may be applied solely to accrued interest and not to loan principal; and
-        - **(V)** the term “negative amortization” means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation.
-      - **(ii)** In this section—
-        - **(I)** the term “qualified mortgage” includes any residential mortgage loan—
-        - **(II)** a residential mortgage loan described in subclause (I) shall be deemed to meet the requirements of subsection (a).
-      - **(iii)** A residential mortgage loan described in clause (ii)(I) shall not qualify for the safe harbor under clause (ii) if the legal title to the residential mortgage loan is sold, assigned, or otherwise transferred to another person unless the residential mortgage loan is sold, assigned, or otherwise transferred—
-        - **(I)** to another person by reason of the bankruptcy or failure of a covered institution;
-        - **(II)** to a covered institution so long as the loan is retained in portfolio by the covered institution to which the loan is sold, assigned, or otherwise transferred;
-        - **(III)** pursuant to a merger of a covered institution with another person or the acquisition of a covered institution by another person or of another person by a covered institution, so long as the loan is retained in portfolio by the person to whom the loan is sold, assigned, or otherwise transferred; or
-        - **(IV)** to a wholly owned subsidiary of a covered institution, provided that, after the sale, assignment, or transfer, the residential mortgage loan is considered to be an asset of the covered institution for regulatory accounting purposes.
-      - **(iv)** The consideration and documentation requirements described in clause (ii)(I)(ee) shall—
-        - **(I)** not be construed to require compliance with, or documentation in accordance with, appendix Q to part 1026 of title 12, Code of Federal Regulations, or any successor regulation; and
-        - **(II)** be construed to permit multiple methods of documentation.
   - **(3)**
     - **(A)** The Bureau shall prescribe regulations to carry out the purposes of this subsection.
     - **(B)**
@@ -100,12 +83,6 @@ generated_at: "2026-03-30T02:54:08.142Z"
         - **(II)** The Department of Veterans Affairs, with regard to a loan made or guaranteed by the Secretary of Veterans Affairs.
         - **(III)** The Department of Agriculture, with regard 3 3 So in original. Probably should be followed by “to”. loans guaranteed by the Secretary of Agriculture pursuant to section 1472(h) of title 42 .
         - **(IV)** The Rural Housing Service, with regard to loans insured by the Rural Housing Service.
-    - **(C)**
-      - **(i)** In this subparagraph, the term “Property Assessed Clean Energy financing” means financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer.
-      - **(ii)** The Bureau shall prescribe regulations that carry out the purposes of subsection (a) and apply section 1640 of this title with respect to violations under subsection (a) of this section with respect to Property Assessed Clean Energy financing, which shall account for the unique nature of Property Assessed Clean Energy financing.
-      - **(iii)** In prescribing the regulations under this subparagraph, the Bureau—
-        - **(I)** may collect such information and data that the Bureau determines is necessary; and
-        - **(II)** shall consult with State and local governments and bond-issuing authorities.
 - **(c)**
   - **(1)**
     - **(A)** A residential mortgage loan that is not a “qualified mortgage”, as defined under subsection (b)(2), may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.

@@ -1,12 +1,18 @@
 ---
-title: "Section 1704 - Omitted"
+title: "Section 1704 - Option agreements to purchase private settlement lands"
 usc_title: 25
 usc_section: "1704"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1704"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-03-30T03:05:02.879Z"
+status: "active"
 ---
 
-# § 1704. Omitted
+# § 1704. Option agreements to purchase private settlement lands
 
+- **(a)** The Secretary shall accept assignment of reasonable two-year option agreements negotiated by the Governor of the State of Rhode Island or his designee for the purchase of the private settlement lands: Provided , That the terms and conditions specified in such options are reasonable and that the total price for the acquisition of such lands, including reasonable costs of acquisition, will not exceed the amount specified in section 1703 of this title . If the Secretary does not determine that any such option agreement is unreasonable within sixty days of its submission, the Secretary will be deemed to have accepted the assignment of the option.
+- **(b)** Payment for any option entered into pursuant to subsection (a) of this section shall be in the amount of 5 per centum of the fair market value of the land or natural resources as of the date of the agreement and shall be paid from the fund established by section 1703 of this title .
+- **(c)** The total amount of the option fees paid pursuant to subsection (b) of this section shall not exceed $175,000.
+- **(d)** The option fee for each option agreement shall be applied to the agreed purchase price in the agreement if the purchase of the defendant’s land or natural resources is completed in accordance with the terms of the option agreement.
+- **(e)** The payment for each option may be retained by the party granting the option if the property transfer contemplated by the option agreement is not completed in accordance with the terms of the option agreement.

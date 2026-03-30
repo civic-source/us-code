@@ -3,9 +3,10 @@ title: "Section 14501 - Appalachian development highway system"
 usc_title: 40
 usc_section: "14501"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 14501"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-03-30T03:05:58.224Z"
+status: "active"
 ---
 
 # § 14501. Appalachian development highway system
@@ -27,5 +28,5 @@ generated_at: "2026-03-30T02:55:43.386Z"
   - **(1)** When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirements applicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
   - **(2)** This subsection does not commit or obligate the Federal Government to provide amounts for segments of development highways constructed under this subsection.
 - **(g)**
-  - **(1)** Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
+  - **(1)**
   - **(2)** States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.

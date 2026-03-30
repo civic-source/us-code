@@ -3,9 +3,10 @@ title: "Section 70308 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "70308"
 chapter: 703
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 70308"
-generated_at: "2026-03-30T02:55:44.698Z"
+generated_at: "2026-03-30T03:05:43.646Z"
+status: "active"
 ---
 
 # § 70308. Duty to maintain tax-exempt status

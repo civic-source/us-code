@@ -3,9 +3,10 @@ title: "Section 1 - Flexible grant program"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-03-30T03:06:22.603Z"
+status: "active"
 ---
 
 # § 1437bbb–1. Flexible grant program

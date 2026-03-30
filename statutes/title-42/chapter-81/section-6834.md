@@ -3,9 +3,10 @@ title: "Section 6834 - Federal building energy efficiency standards"
 usc_title: 42
 usc_section: "6834"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6834"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-03-30T03:06:22.770Z"
+status: "active"
 ---
 
 # § 6834. Federal building energy efficiency standards
@@ -45,4 +46,4 @@ generated_at: "2026-03-30T02:56:11.266Z"
       - **(vii)** In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.
 - **(b)**
 - **(c)** The Secretary shall periodically, but not less than once every 5 years, review the Federal building energy standards established under this section and shall, if significant energy savings would result, upgrade such standards to include all new energy efficiency and renewable energy measures that are technologically feasible and economically justified.
-- **(d)** Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992 , shall remain in effect until the standards established under subsection (a) become effective.
+- **(d)** Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992 , shall remain in effect until the standards established under subsection (a) of this section become effective.

@@ -3,9 +3,10 @@ title: "Section 550 - Liability of transferee of avoided transfer"
 usc_title: 11
 usc_section: "550"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 550"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-03-30T03:04:35.848Z"
+status: "active"
 ---
 
 # § 550. Liability of transferee of avoided transfer
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(a)** Except as otherwise provided in this section, to the extent that a transfer is avoided under section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—
   - **(1)** the initial transferee of such transfer or the entity for whose benefit such transfer was made; or
   - **(2)** any immediate or mediate transferee of such initial transferee.
-- **(b)** The trustee may not recover under section 1 1 So in original. Probably should be “subsection”. (a)(2) of this section from—
+- **(b)** The trustee may not recover under section (a)(2) of this section from—
   - **(1)** a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
   - **(2)** any immediate or mediate good faith transferee of such transferee.
 - **(c)** If a transfer made between 90 days and one year before the filing of the petition—

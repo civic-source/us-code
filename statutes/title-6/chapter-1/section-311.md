@@ -3,9 +3,10 @@ title: "Section 311 - Definitions"
 usc_title: 6
 usc_section: "311"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 311"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-03-30T03:04:24.344Z"
+status: "active"
 ---
 
 # § 311. Definitions
@@ -24,5 +25,5 @@ In this subchapter—
   - **(10)** the term “Regional Office” means a Regional Office established under section 317 of this title ;
   - **(11)** the term “resources” means personnel and major items of equipment, supplies, and facilities available or potentially available for responding to a natural disaster, act of terrorism, or other man-made disaster;
   - **(12)** the term “surge capacity” means the ability to rapidly and substantially increase the provision of search and rescue capabilities, food, water, medicine, shelter and housing, medical care, evacuation capacity, staffing (including disaster assistance employees), and other resources necessary to save lives and protect property during a catastrophic incident;
-  - **(13)** the term “tribal government” means the government of any entity described in section 101(13)(B) of this title ; and
+  - **(13)** the term “tribal government” means the government of any entity described in section 101(11)(B) of this title ; and
   - **(14)** the terms “typed” and “typing” mean having evaluated, or evaluating, respectively, a resource in accordance with standards created under section 320 of this title .

@@ -3,20 +3,21 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-03-30T03:06:22.729Z"
+status: "active"
 ---
 
 # § 5174. Federal assistance to individuals and households
 
 - **(a)**
   - **(1)** In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.
-  - **(2)** Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
+  - **(2)** Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) of this section solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
 - **(b)**
   - **(1)** The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
   - **(2)**
-    - **(A)** The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+    - **(A)** The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) of this section based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
     - **(B)** One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
 - **(c)**
   - **(1)**
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:56:11.225Z"
       - **(i)** The President may provide temporary housing units, acquired by purchase or lease, directly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).
       - **(ii)**
         - **(I)** The President, to the extent the President determines it would be a cost-effective alternative to other temporary housing options, may—
-        - **(II)** Under the terms of any lease agreement for property entered into under this subsection, the value of the improvements or repairs shall be deducted from the value of the lease agreement.
+        - **(II)** Under the terms of any lease agreement for property entered into under this subsection, the value of the improvements or repairs—
       - **(iii)** The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
       - **(iv)** After the end of the 18-month period referred to in clause (iii), the President may charge fair market rent for each temporary housing unit provided.
   - **(2)**
@@ -65,47 +66,17 @@ generated_at: "2026-03-30T02:56:11.225Z"
   - **(2)** The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household described in paragraph (1) to address personal property, transportation, and other necessary expenses or serious needs resulting from the major disaster.
 - **(f)**
   - **(1)**
-    - **(A)** Subject to subsection (g), a Governor may request a grant from the President to provide assistance to individuals and households in the State under subsections (c)(1)(B), (c)(4), and (e) if the President and the State or Indian tribal government comply, as determined by the Administrator, with paragraph (3).
-    - **(B)** A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing assistance to individuals and households in the State under subsections (c)(1)(B), (c)(4), and (e).
+    - **(A)** Subject to subsection (g) of this section, a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e) of this section.
+    - **(B)** A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e) of this section.
   - **(2)** In providing assistance to individuals and households under this section, the President shall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
-  - **(3)**
-    - **(A)** A State or Indian tribal government desiring to provide assistance under subsection (c)(1)(B), (c)(4), or (e) shall submit to the President an application for a grant to provide financial assistance under the program.
-    - **(B)** The President, in consultation and coordination with State and Indian tribal governments, shall establish criteria for the approval of applications submitted under subparagraph (A). The criteria shall include, at a minimum—
-      - **(i)** a requirement that the State or Indian tribal government submit a housing strategy under subparagraph (C);
-      - **(ii)** the demonstrated ability of the State or Indian tribal government to manage the program under this section;
-      - **(iii)** there being in effect a plan approved by the President as to how the State or Indian tribal government will comply with applicable Federal laws and regulations and how the State or Indian tribal government will provide assistance under its plan;
-      - **(iv)** a requirement that the State or Indian tribal government comply with rules and regulations established pursuant to subsection (j); and
-      - **(v)** a requirement that the President, or the designee of the President, comply with subsection (i).
-    - **(C)**
-      - **(i)** A State or Indian tribal government submitting an application under this paragraph shall have an approved housing strategy, which shall be developed and submitted to the President for approval.
-      - **(ii)** The housing strategy required under clause (i) shall—
-        - **(I)** outline the approach of the State in working with Federal partners, Indian tribal governments, local communities, nongovernmental organizations, and individual disaster survivors to meet disaster-related sheltering and housing needs; and
-        - **(II)** include the establishment of an activation plan for a State Disaster Housing Task Force, as outlined in the National Disaster Housing Strategy, to bring together State, tribal, local, Federal, nongovernmental, and private sector expertise to evaluate housing requirements, consider potential solutions, recognize special needs populations, and propose recommendations.
-    - **(D)** Before approving an application submitted under this section, the President, or the designee of the President, shall institute adequate policies, procedures, and internal controls to prevent waste, fraud, abuse, and program mismanagement for this program and for programs under subsections (c)(1)(B), (c)(4), and (e). The President shall monitor and conduct quality assurance activities on a State or Indian tribal government’s implementation of programs under subsections (c)(1)(B), (c)(4), and (e). If, after approving an application of a State or Indian tribal government submitted under this paragraph, the President determines that the State or Indian tribal government is not administering the program established by this section in a manner satisfactory to the President, the President shall withdraw the approval.
-    - **(E)** The Inspector General of the Department of Homeland Security shall provide for periodic audits of the programs administered by States and Indian tribal governments under this subsection.
-    - **(F)** All Federal laws applicable to the management, administration, or contracting of the programs by the Federal Emergency Management Agency under this section shall be applicable to the management, administration, or contracting by a non-Federal entity under this section.
-    - **(G)** Not later than 18 months after October 5, 2018 , the Inspector General of the Department of Homeland Security shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the State or Indian tribal government’s role to provide assistance under this section. The report shall contain an assessment of the effectiveness of the State or Indian tribal government’s role in providing assistance under this section, including—
-      - **(i)** whether the State or Indian tribal government’s role helped to improve the general speed of disaster recovery;
-      - **(ii)** whether the State or Indian tribal government providing assistance under this section had the capacity to administer this section; and
-      - **(iii)** recommendations for changes to improve the program if the State or Indian tribal government’s role to administer the programs should be continued.
-    - **(H)** Not later than 12 months after October 5, 2018 , the Administrator of the Federal Emergency Management Agency shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on a potential incentive structure for awards made under this section to encourage participation by eligible States and Indian tribal governments. In developing this report, the Administrator of the Federal Emergency Management Agency shall consult with State, local, and Indian tribal entities to gain their input on any such incentive structure to encourage participation and shall include this information in the report. This report should address, among other options, potential adjustments to the cost-share requirement and management costs to State and Indian tribal governments.
-    - **(I)** The President may not condition the provision of Federal assistance under this chapter on a State or Indian tribal government requesting a grant under this section.
-    - **(J)**
-      - **(i)** The Administrator of the Federal Emergency Management Agency may waive notice and comment rulemaking with respect to rules to carry out this section, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program until such regulations are promulgated.
-      - **(ii)** Not later than 2 years after October 5, 2018 , the Administrator of the Federal Emergency Management Agency shall issue final regulations to implement this subsection as amended by the Disaster Recovery Reform Act of 2018.
-      - **(iii)** The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after October 5, 2018 , or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
 - **(g)**
   - **(1)** Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
-  - **(2)** In the case of financial assistance provided under subsection (e)—
+  - **(2)** In the case of financial assistance provided under subsection (e) of this section—
     - **(A)** the Federal share shall be 75 percent; and
     - **(B)** the non-Federal share shall be paid from funds made available by the State.
 - **(h)**
-  - **(1)** No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e).
-  - **(2)** The maximum financial assistance any individual or household may receive under subsection (e) shall be equivalent to the amount set forth in paragraph (1) with respect to a single major disaster.
-  - **(3)** The limit established under paragraphs (1) and (2) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
-  - **(4)**
-    - **(A)** The maximum amount of assistance established under paragraph (1) shall exclude expenses to repair or replace damaged accessibility-related improvements under paragraphs (2), (3), and (4) of subsection (c) for individuals with disabilities.
-    - **(B)** The maximum amount of assistance established under paragraph (2) shall exclude expenses to repair or replace accessibility-related personal property under subsection (e)(2) for individuals with disabilities.
+  - **(1)** No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster.
+  - **(2)** The limit established under paragraph (1) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 - **(i)** In carrying out this section, the President shall develop a system, including an electronic database, that shall allow the President, or the designee of the President, to—
   - **(1)** verify the identity and address of recipients of assistance under this section to provide reasonable assurance that payments are made only to an individual or household that is eligible for such assistance;
   - **(2)** minimize the risk of making duplicative payments or payments for fraudulent claims under this section;

@@ -3,9 +3,10 @@ title: "Section 151302 - Purposes"
 usc_title: 36
 usc_section: "151302"
 chapter: 1513
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 151302"
-generated_at: "2026-03-30T02:55:44.703Z"
+generated_at: "2026-03-30T03:05:43.651Z"
+status: "active"
 ---
 
 # § 151302. Purposes

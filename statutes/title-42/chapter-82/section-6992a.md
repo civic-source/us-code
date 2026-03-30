@@ -3,14 +3,15 @@ title: "Section 6992a - Listing of medical wastes"
 usc_title: 42
 usc_section: "6992a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6992a"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-03-30T03:06:22.784Z"
+status: "active"
 ---
 
 # § 6992a. Listing of medical wastes
 
-- **(a)** Not later than 6 months after November 1, 1988 , the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b), such list shall include, but need not be limited to, each of the following types of solid waste:
+- **(a)** Not later than 6 months after November 1, 1988 , the Administrator shall promulgate regulations listing the types of medical waste to be tracked under the demonstration program. Except as provided in subsection (b) of this section, such list shall include, but need not be limited to, each of the following types of solid waste:
   - **(1)** Cultures and stocks of infectious agents and associated biologicals, including cultures from medical and pathological laboratories, cultures and stocks of infectious agents from research and industrial laboratories, wastes from the production of biologicals, discarded live and attenuated vaccines, and culture dishes and devices used to transfer, inoculate, and mix cultures.
   - **(2)** Pathological wastes, including tissues, organs, and body parts that are removed during surgery or autopsy.
   - **(3)** Waste human blood and products of blood, including serum, plasma, and other blood components.
@@ -22,4 +23,4 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(9)** Discarded medical equipment and parts that were in contact with infectious agents.
   - **(10)** Biological waste and discarded materials contaminated with blood, excretion, excudates 1 1 So in original. Probably should be “exudates”. or secretion from human beings or animals who are isolated to protect others from communicable diseases.
   - **(11)** Such other waste material that results from the administration of medical care to a patient by a health care provider and is found by the Administrator to pose a threat to human health or the environment.
-- **(b)** The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
+- **(b)** The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) of this section which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.

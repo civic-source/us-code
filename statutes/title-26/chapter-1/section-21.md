@@ -3,18 +3,17 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-03-30T03:05:18.515Z"
+status: "active"
 ---
 
 # § 21. Expenses for household and dependent care services necessary for gainful employment
 
 - **(a)**
   - **(1)** In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
-  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 50 percent—
-    - **(A)** reduced (but not below 35 percent) by 1 percentage point for each $2,000 or fraction thereof by which the taxpayer’s adjusted gross income for the taxable year exceeds $15,000, and
-    - **(B)** further reduced (but not below 20 percent) by 1 percentage point for each $2,000 ($4,000 in the case of a joint return) or fraction thereof by which the taxpayer’s adjusted gross income for the taxable year exceeds $75,000 ($150,000 in the case of a joint return).
+  - **(2)** For purposes of paragraph (1), the term “applicable percentage” means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds $15,000.
 - **(b)** For purposes of this section—
   - **(1)** The term “qualifying individual” means—
     - **(A)** a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13,
@@ -65,22 +64,3 @@ generated_at: "2026-03-30T02:55:27.585Z"
     - **(B)** if such person is an organization described in section 501(c)(3) and exempt from tax under section 501(a), the name and address of such person are included on the return claiming the credit.
   - **(10)** No credit shall be allowed under this section with respect to any qualifying individual unless the TIN of such individual is included on the return claiming the credit.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
-- **(g)** In the case of any taxable year beginning after December 31, 2020 , and before January 1, 2022 —
-  - **(1)** If the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section 32) for more than one-half of the taxable year, the credit allowed under subsection (a) shall be treated as a credit allowed under subpart C (and not allowed under this subpart).
-  - **(2)** Subsection (c) shall be applied—
-    - **(A)** by substituting “$8,000” for “$3,000” in paragraph (1) thereof, and
-    - **(B)** by substituting “$16,000” for “$6,000” in paragraph (2) thereof.
-  - **(3)** Subsection (a)(2) shall be applied—
-    - **(A)** by substituting “50 percent” for “35 percent”, and
-    - **(B)** by substituting “$125,000” for “$15,000”.
-  - **(4)**
-    - **(A)** Subsection (a)(2) shall be applied by substituting “the phaseout percentage” for “20 percent”.
-    - **(B)** The term “phaseout percentage” means 20 percent reduced (but not below zero) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds $400,000.
-- **(h)**
-  - **(1)** The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning in or with 2021. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession.
-  - **(2)** The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning in or with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.
-  - **(3)** In the case of any taxable year beginning in or with 2021, no credit shall be allowed under this section to any individual—
-    - **(A)** to whom a credit is allowable against taxes imposed by a possession with a mirror code tax system by reason of this section, or
-    - **(B)** who is eligible for a payment under a plan described in paragraph (2).
-  - **(4)** For purposes of this subsection, the term “mirror code tax system” means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
-  - **(5)** For purposes of section 1324 of title 31 , United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.

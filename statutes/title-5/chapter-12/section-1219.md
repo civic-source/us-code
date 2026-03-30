@@ -3,19 +3,16 @@ title: "Section 1219 - Public information"
 usc_title: 5
 usc_section: "1219"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 1219"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-03-30T03:04:06.062Z"
+status: "active"
 ---
 
 # § 1219. Public information
 
 - **(a)** The Special Counsel shall maintain and make available to the public—
-  - **(1)** a list of any noncriminal matters referred to the head of an agency under section 1213(c), together with—
-    - **(A)** a copy of the information transmitted to the head of the agency under section 1213(c)(1);
-    - **(B)** any report from the agency under section 1213(c)(1)(B) relating to the matter;
-    - **(C)** if appropriate, not otherwise prohibited by law, and consented to by the complainant, any comments from the complainant under section 1213(e)(1) relating to the matter; and
-    - **(D)** the comments or recommendations of the Special Counsel under paragraph (3) or (4) of section 1213(e);
+  - **(1)** a list of noncriminal matters referred to heads of agencies under subsection (c) of section 1213, together with reports from heads of agencies under subsection (c)(1)(B) of such section relating to such matters;
   - **(2)** a list of matters referred to heads of agencies under section 1215(c)(2);
   - **(3)** a list of matters referred to heads of agencies under subsection (e) of section 1214, together with certifications from heads of agencies under such subsection; and
   - **(4)** reports from heads of agencies under section 1213(g)(1).

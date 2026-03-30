@@ -1,21 +1,33 @@
 ---
-title: "Section 860 - Art. 60. Post-trial processing in general and special courts-martial"
+title: "Section 860 - Art. 60. Action by the convening authority"
 usc_title: 10
 usc_section: "860"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 860"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-03-30T03:04:17.232Z"
+status: "active"
 ---
 
-# § 860. Art. 60. Post-trial processing in general and special courts-martial
+# § 860. Art. 60. Action by the convening authority
 
-- **(a)**
-  - **(1)** The military judge of a general or special court-martial shall enter into the record of trial a document entitled “Statement of Trial Results”, which shall set forth—
-    - **(A)** each plea and finding;
-    - **(B)** the sentence, if any; and
-    - **(C)** such other information as the President may prescribe by regulation.
-  - **(2)** Copies of the Statement of Trial Results shall be provided promptly to the convening authority, the accused, and any victim of the offense.
-- **(b)** In accordance with regulations prescribed by the President, the military judge in a general or special court-martial shall address all post-trial motions and other post-trial matters that—
-  - **(1)** may affect a plea, a finding, the sentence, the Statement of Trial Results, the record of trial, or any post-trial action by the convening authority; and
-  - **(2)** are subject to resolution by the military judge before entry of judgment.
+- **(a)** The findings and sentence of a court-martial shall be reported promptly to the convening authority after the announcement of the sentence.
+- **(b)**
+  - **(1)** The accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence. Any such submission shall be in writing. Except in a summary court-martial case, such a submission shall be made within 10 days after the accused has been given an authenticated record of trial and, if applicable, the recommendation of the staff judge advocate or legal officer under subsection (d). In a summary court-martial case, such a submission shall be made within seven days after the sentence is announced.
+  - **(2)** If the accused shows that additional time is required for the accused to submit such matters, the convening authority or other person taking action under this section, for good cause, may extend the applicable period under paragraph (1) for not more than an additional 20 days.
+  - **(3)** In a summary court-martial case, the accused shall be promptly provided a copy of the record of trial for use in preparing a submission authorized by paragraph (1).
+  - **(4)** The accused may waive his right to make a submission to the convening authority under paragraph (1). Such a waiver must be made in writing and may not be revoked. For the purposes of subsection (c)(2), the time within which the accused may make a submission under this subsection shall be deemed to have expired upon the submission of such a waiver to the convening authority.
+- **(c)**
+  - **(1)** The authority under this section to modify the findings and sentence of a court-martial is a matter of command prerogative involving the sole discretion of the convening authority. Under regulations of the Secretary concerned, a commissioned officer commanding for the time being, a successor in command, or any person exercising general court-martial jurisdiction may act under this section in place of the convening authority.
+  - **(2)** Action on the sentence of a court-martial shall be taken by the convening authority or by another person authorized to act under this section. Subject to regulations of the Secretary concerned, such action may be taken only after consideration of any matters submitted by the accused under subsection (b) or after the time for submitting such matters expires, whichever is earlier. The convening authority or other person taking such action, in his sole discretion, may approve, disapprove, commute, or suspend the sentence in whole or in part.
+  - **(3)** Action on the findings of a court-martial by the convening authority or other person acting on the sentence is not required. However, such person, in his sole discretion, may—
+    - **(A)** dismiss any charge or specification by setting aside a finding of guilty thereto; or
+    - **(B)** change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
+- **(d)** Before acting under this section on any general court-martial case or any special court-martial case that includes a bad-conduct discharge, the convening authority or other person taking action under this section shall obtain and consider the written recommendation of his staff judge advocate or legal officer. The convening authority or other person taking action under this section shall refer the record of trial to his staff judge advocate or legal officer, and the staff judge advocate or legal officer shall use such record in the preparation of his recommendation. The recommendation of the staff judge advocate or legal officer shall include such matters as the President may prescribe by regulation and shall be served on the accused, who may submit any matter in response under subsection (b). Failure to object in the response to the recommendation or to any matter attached to the recommendation waives the right to object thereto.
+- **(e)**
+  - **(1)** The convening authority or other person taking action under this section, in his sole discretion, may order a proceeding in revision or a rehearing.
+  - **(2)** A proceeding in revision may be ordered if there is an apparent error or omission in the record or if the record shows improper or inconsistent action by a court-martial with respect to the findings or sentence that can be rectified without material prejudice to the substantial rights of the accused. In no case, however, may a proceeding in revision—
+    - **(A)** reconsider a finding of not guilty of any specification or a ruling which amounts to a finding of not guilty;
+    - **(B)** reconsider a finding of not guilty of any charge, unless there has been a finding of guilty under a specification laid under that charge, which sufficiently alleges a violation of some article of this chapter; or
+    - **(C)** increase the severity of the sentence unless the sentence prescribed for the offense is mandatory.
+  - **(3)** A rehearing may be ordered by the convening authority or other person taking action under this section if he disapproves the findings and sentence and states the reasons for disapproval of the findings. If such person disapproves the findings and sentence and does not order a rehearing, he shall dismiss the charges. A rehearing as to the findings may not be ordered where there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered if the convening authority or other person taking action under this subsection disapproves the sentence.

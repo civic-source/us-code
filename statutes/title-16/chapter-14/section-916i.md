@@ -3,9 +3,10 @@ title: "Section 916i - Taking of whales for biological experiments"
 usc_title: 16
 usc_section: "916i"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 916i"
-generated_at: "2026-03-30T02:54:22.934Z"
+generated_at: "2026-03-30T03:04:48.546Z"
+status: "active"
 ---
 
 # § 916i. Taking of whales for biological experiments

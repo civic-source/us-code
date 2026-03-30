@@ -3,9 +3,10 @@ title: "Section 1776 - State administrative expenses"
 usc_title: 42
 usc_section: "1776"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1776"
-generated_at: "2026-03-30T02:56:11.119Z"
+generated_at: "2026-03-30T03:06:22.625Z"
+status: "active"
 ---
 
 # § 1776. State administrative expenses
@@ -45,7 +46,7 @@ generated_at: "2026-03-30T02:56:11.119Z"
       - **(i)** monitoring the nutrient content of meals served;
       - **(ii)** training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price meals using program participation or income data gathered by State or local agencies); and
       - **(iii)** using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
-  - **(3)** Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1769c(b)(3) ].
+  - **(3)** Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) of this section and section 22(b)(3) of the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1769c(b)(3) ].
 - **(f)** Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title ) and the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] (except section 13 of that Act [ 42 U.S.C. 1761 ]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
 - **(g)**
   - **(1)**
@@ -75,12 +76,11 @@ generated_at: "2026-03-30T02:56:11.119Z"
         - **(II)** the identification of reimbursable meals at the point of service.
       - **(ii)** In accordance with criteria established by the Secretary, local food service personnel shall complete annual training and receive annual certification—
         - **(I)** to ensure program compliance and integrity; and
-        - **(II)** to demonstrate competence in the training provided under clauses (i) and (iii).
+        - **(II)** to demonstrate competence in the training provided under clause (i).
       - **(iii)** In addition to the topics described in clause (i), a training program carried out under this subparagraph shall include training modules on—
         - **(I)** nutrition;
-        - **(II)** food allergies, including information on the best practices to prevent, recognize, and respond to food-related allergic reactions;
-        - **(III)** health and food safety standards and methodologies; and
-        - **(IV)** any other appropriate topics, as determined by the Secretary.
+        - **(II)** health and food safety standards and methodologies; and
+        - **(III)** any other appropriate topics, as determined by the Secretary.
   - **(3)**
     - **(A)** Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection, to remain available until expended—
       - **(i)** on October 1, 2010 , $5,000,000; and
@@ -91,12 +91,12 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(A)** On October 1, 2004 , and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until expended.
     - **(B)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1769c ).
+    - **(A)** Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) of this section and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1769c ).
     - **(B)** The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
   - **(3)** The Secretary shall allocate funds provided under this subsection to States based on the number of local educational agencies that have demonstrated a high level of, or a high risk for, administrative error, as determined by the Secretary, taking into account the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004 and the amendments made by that Act.
   - **(4)** The Secretary may reallocate, to carry out this section, any amounts made available to carry out this subsection that are not obligated or expended, as determined by the Secretary.
 - **(i)**
-  - **(1)** Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
+  - **(1)** Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) of this section that describes the manner in which funds provided under this section will be used for technology and information management systems.
   - **(2)** The amendment shall, at a minimum, describe the manner in which the State will improve program integrity by—
     - **(A)** monitoring the nutrient content of meals served;
     - **(B)** providing training to local educational agencies, school food authorities, and schools on the use of technology and information management systems for activities including—

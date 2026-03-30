@@ -1,14 +1,15 @@
 ---
-title: "Section 6556 - Termination of effectiveness"
+title: "Section 6556 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6556"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 6556"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-03-30T03:04:48.637Z"
+status: "active"
 ---
 
-# § 6556. Termination of effectiveness
+# § 6556. Authorization of appropriations
 
-The authority provided by this subchapter terminates effective October 1, 2023 .
+There are authorized to be appropriated such sums as are necessary to carry out this subchapter for each of fiscal years 2004 through 2008.
 

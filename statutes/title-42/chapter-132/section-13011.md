@@ -1,12 +1,17 @@
 ---
-title: "Section 13011 - Transferred"
+title: "Section 13011 - Findings"
 usc_title: 42
 usc_section: "13011"
 chapter: 132
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13011"
-generated_at: "2026-03-30T02:56:11.437Z"
+generated_at: "2026-03-30T03:06:22.921Z"
+status: "active"
 ---
 
-# § 13011. Transferred
+# § 13011. Findings
 
+The Congress finds that—
+
+  - **(1)** Court Appointed Special Advocates, who may serve as guardians ad litem, are trained volunteers appointed by courts to advocate for the best interests of children who are involved in the juvenile and family court system due to abuse or neglect; and
+  - **(2)** in 2003, Court Appointed Special Advocate volunteers represented 288,000 children, more than 50 percent of the estimated 540,000 children in foster care because of substantiated cases of child abuse or neglect.

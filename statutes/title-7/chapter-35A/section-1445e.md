@@ -3,9 +3,10 @@ title: "Section 1445e - Farmer owned reserve program"
 usc_title: 7
 usc_section: "1445e"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1445e"
-generated_at: "2026-03-30T02:53:42.314Z"
+generated_at: "2026-03-30T03:04:20.924Z"
+status: "active"
 ---
 
 # § 1445e. Farmer owned reserve program
@@ -16,8 +17,8 @@ generated_at: "2026-03-30T02:53:42.314Z"
   - **(2)** Loans made under this section shall not be less than the then current level of support under the wheat and feed grain programs established under this subchapter.
   - **(3)** The Secretary shall provide for—
     - **(A)** repayment of the extended price support loan 27 months from the date on which the original loan expired unless, at the discretion of the Secretary, the loan has been extended for one 6-month period;
-    - **(B)** a rate of interest as provided under subsection (c); and
-    - **(C)** payments to producers for storage as provided in subsection (d).
+    - **(B)** a rate of interest as provided under subsection (c) of this section; and
+    - **(C)** payments to producers for storage as provided in subsection (d) of this section.
   - **(4)** The Secretary shall ensure that producers are afforded a fair and equitable opportunity to participate in the program established under this section, taking into account regional differences in the time of harvest.
 - **(c)**
   - **(1)** The Secretary may charge interest on loans under this section whenever the price of wheat or feed grains is equal to or exceeds 105 percent of the then current established price for the commodity.

@@ -3,17 +3,21 @@ title: "Section 9009 - Reports to Congress; regulations"
 usc_title: 26
 usc_section: "9009"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 9009"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-03-30T03:05:18.754Z"
+status: "active"
 ---
 
 # § 9009. Reports to Congress; regulations
 
 - **(a)** The Commission shall, as soon as practicable after each presidential election, submit a full report to the Senate and House of Representatives setting forth—
   - **(1)** the qualified campaign expenses (shown in such detail as the Commission determines necessary) incurred by the candidates of each political party and their authorized committees;
-  - **(2)** the amounts certified by it under section 9005 for payment to the eligible candidates of each political party; and
-  - **(3)** the amount of payments, if any, required from such candidates under section 9007, and the reasons for each payment required.
+  - **(2)** the amounts certified by it under section 9005 for payment to the eligible candidates of each political party;
+  - **(3)** the amount of payments, if any, required from such candidates under section 9007, and the reasons for each payment required; and
+  - **(4)** the expenses incurred by the national committee of a major party or minor party with respect to a presidential nominating convention;
+  - **(5)** the amounts certified by it under section 9008(g) for payment to each such committee; and
+  - **(6)** the amount of payments, if any, required from such committees under section 9008(h), and the reasons for each such payment.
 - **(b)** The Commission is authorized to prescribe such rules and regulations in accordance with the provisions of subsection (c), to conduct such examinations and audits (in addition to the examinations and audits required by section 9007(a)), to conduct such investigations, and to require the keeping and submission of such books, records, and information, as it deems necessary to carry out the functions and duties imposed on it by this chapter.
 - **(c)**
   - **(1)** The Commission, before prescribing any rule or regulation under subsection (b), shall transmit a statement with respect to such rule or regulation to the Senate and to the House of Representatives, in accordance with the provisions of this subsection. Such statement shall set forth the proposed rule or regulation and shall contain a detailed explanation and justification of such rule or regulation.

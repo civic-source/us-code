@@ -1,0 +1,33 @@
+---
+title: "Section 3838e - Conservation stewardship program"
+usc_title: 16
+usc_section: "3838e"
+chapter: 58
+current_through: "PL 113-21"
+classification: "16 U.S.C. § 3838e"
+generated_at: "2026-03-30T03:04:48.612Z"
+status: "active"
+---
+
+# § 3838e. Conservation stewardship program
+
+- **(a)** During each of fiscal years 2009 through 2014, the Secretary shall carry out a conservation stewardship program to encourage producers to address resource concerns in a comprehensive manner—
+  - **(1)** by undertaking additional conservation activities; and
+  - **(2)** by improving, maintaining and managing existing conservation activities.
+- **(b)**
+  - **(1)** Except as provided in subsection (c), the following land is eligible for enrollment in the program:
+    - **(A)** Private agricultural land (including cropland, grassland, prairie land, improved pastureland, rangeland, and land used for agro-forestry).
+    - **(B)** Agricultural land under the jurisdiction of an Indian tribe.
+    - **(C)** Forested land that is an incidental part of an agricultural operation.
+    - **(D)** Other private agricultural land (including cropped woodland, marshes, and agricultural land used for the production of livestock) on which resource concerns related to agricultural production could be addressed by enrolling the land in the program, as determined by the Secretary.
+  - **(2)** Nonindustrial private forest land is eligible for enrollment in the program, except that not more than 10 percent of the annual acres enrolled nationally in any fiscal year may be nonindustrial private forest land.
+  - **(3)** Eligible land shall include all acres of an agricultural operation of a producer, whether or not contiguous, that are under the effective control of the producer at the time the producer enters into a stewardship contract, and is operated by the producer with equipment, labor, management, and production or cultivation practices that are substantially separate from other agricultural operations, as determined by the Secretary.
+- **(c)**
+  - **(1)** Subject to paragraph (2), the following land is not be 1 1 So in original. The word “be” probably should not appear. eligible for enrollment in the program:
+    - **(A)** Land enrolled in the conservation reserve program.
+    - **(B)** Land enrolled in the wetlands reserve program.
+    - **(C)** Land enrolled in the grassland reserve program.
+  - **(2)** Land used for crop production after the date of enactment of the Food, Conservation, and Energy Act of 2008 that had not been planted, considered to be planted, or devoted to crop production for at least 4 of the 6 years preceding that date shall not be the basis for any payment under the program, unless the land does not meet the requirement because—
+    - **(A)** the land had previously been enrolled in the conservation reserve program;
+    - **(B)** the land has been maintained using long-term crop rotation practices, as determined by the Secretary; or
+    - **(C)** the land is incidental land needed for efficient operation of the farm or ranch, as determined by the Secretary.

@@ -1,12 +1,15 @@
 ---
-title: "Section 677c - Omitted"
+title: "Section 677c - Transfer of members from full-blood roll to mixed-blood group; time; certification by Secretary"
 usc_title: 25
 usc_section: "677c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 677c"
-generated_at: "2026-03-30T02:54:52.811Z"
+generated_at: "2026-03-30T03:05:02.849Z"
+status: "active"
 ---
 
-# § 677c. Omitted
+# § 677c. Transfer of members from full-blood roll to mixed-blood group; time; certification by Secretary
+
+Any member of the tribe whose name appears on the proposed roll of full-blood members as provided in section 677g of this title and any person whose name is added to such proposed roll as the result of an appeal to the Secretary may apply to the Superintendent to become identified with and a part of the mixed-blood group: Provided , That such application is made within thirty days subsequent to the publication of such proposed roll or in the event of an appeal within thirty days subsequent to notification of the decision on said appeal: And provided further , That before such transfer is made upon the official rolls the Secretary shall first certify that, in his opinion, such change in status is not detrimental to the best interest of the person seeking such change.
 

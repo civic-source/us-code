@@ -3,9 +3,10 @@ title: "Section 1120 - Federal Government and agency priority goals"
 usc_title: 31
 usc_section: "1120"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 1120"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-03-30T03:05:28.352Z"
+status: "active"
 ---
 
 # § 1120. Federal Government and agency priority goals
@@ -19,11 +20,7 @@ generated_at: "2026-03-30T02:55:34.049Z"
       - **(iii)** information technology management;
       - **(iv)** procurement and acquisition management; and
       - **(v)** real property management;
-  - **(2)** The Federal Government priority goals shall be long-term in nature. Such goals shall—
-    - **(A)** be updated and revised not less frequently than during the first year of each Presidential term;
-    - **(B)** be made publicly available not less frequently than concurrently with the submission of the budget of the United States Government under section 1105(a) made during the first full fiscal year following any year during which a term of the President commences under section 101 of title 3 ;
-    - **(C)** include plans for the successful achievement of each goal within each single Presidential term; and
-    - **(D)** explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
+  - **(2)** The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3 . As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
   - **(3)** When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
     - **(A)** the Committees on Appropriations of the Senate and the House of Representatives;
     - **(B)** the Committees on the Budget of the Senate and the House of Representatives;
@@ -33,7 +30,7 @@ generated_at: "2026-03-30T02:55:34.049Z"
     - **(F)** the Committee on Ways and Means of the House of Representatives; and
     - **(G)** any other committees as determined appropriate;
   - **(4)** The Director of the Office of Management and Budget shall consult with the appropriate committees of Congress at least once every 2 years.
-  - **(5)** The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on a website described in section 1122 of this title .
+  - **(5)** The Director of the Office of Management and Budget shall make information about the Federal Government priority goals available on the website described under section 1122 of this title .
   - **(6)** The Federal Government performance plan required under section 1115(a) of this title shall be consistent with the Federal Government priority goals.
 - **(b)**
   - **(1)** Every 2 years, the head of each agency listed in section 901(b) of this title , or as otherwise determined by the Director of the Office of Management and Budget, shall identify agency priority goals from among the performance goals of the agency. The Director of the Office of Management and Budget shall determine the total number of agency priority goals across the Government, and the number to be developed by each agency. The agency priority goals shall—

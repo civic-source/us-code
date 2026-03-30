@@ -3,9 +3,10 @@ title: "Section 462 - Travel and transportation allowances paid to members that 
 usc_title: 37
 usc_section: "462"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 462"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-03-30T03:05:39.924Z"
+status: "active"
 ---
 
 # § 462. Travel and transportation allowances paid to members that are unauthorized or in excess of authorized amounts: requirement for repayment

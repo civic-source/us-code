@@ -3,15 +3,15 @@ title: "Section 140402 - Purposes"
 usc_title: 36
 usc_section: "140402"
 chapter: 1404
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 140402"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-03-30T03:05:43.648Z"
+status: "active"
 ---
 
 # § 140402. Purposes
 
-The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
-
+- **(a)** The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
   - **(1)** to inculcate and stimulate love of the United States and the flag;
   - **(2)** to defend the honor, integrity, and supremacy of the Constitution of the United States and the United States Government;
   - **(3)** to advocate military forces adequate to the defense of the United States;

@@ -3,9 +3,10 @@ title: "Section 793 - Employment under Federal contracts"
 usc_title: 29
 usc_section: "793"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 793"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-03-30T03:05:09.687Z"
+status: "active"
 ---
 
 # § 793. Employment under Federal contracts
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
 - **(c)**
   - **(1)** The requirements of this section may be waived, in whole or in part, by the President with respect to a particular contract or subcontract, in accordance with guidelines set forth in regulations which the President shall prescribe, when the President determines that special circumstances in the national interest so require and states in writing the reasons for such determination.
   - **(2)**
-    - **(A)** The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
+    - **(A)** The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) of this section with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
     - **(B)** Such waivers shall be considered only upon the request of the contractor or subcontractor. The Secretary of Labor shall promulgate regulations that set forth the standards used for granting such a waiver.
 - **(d)** The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.
 - **(e)** The Secretary shall develop procedures to ensure that administrative complaints filed under this section and under the Americans with Disabilities Act of 1990 [ 42 U.S.C. 12101 et seq.] are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this section and the Americans with Disabilities Act of 1990.

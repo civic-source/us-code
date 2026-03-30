@@ -1,12 +1,15 @@
 ---
-title: "Section 2a - Transferred"
+title: "Section 2a - Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions"
 usc_title: 2
 usc_section: "2a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2a"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.394Z"
+status: "active"
 ---
 
-# § 60e–2a. Transferred
+# § 60e–2a. Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions
+
+The classes of employees whose compensation is authorized by section 3 of the Legislative Pay Act of 1929, as amended ( 46 Stat. 38 ; 55 Stat. 615 ), to be fixed by the Architect of the Capitol without regard to the Classification Act of 1923, as amended, are authorized to be compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5.
 

@@ -1,14 +1,15 @@
 ---
-title: "Section 1301 - Experimental practices"
+title: "Section 1301 - Environmental practices"
 usc_title: 30
 usc_section: "1301"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-03-30T03:05:07.419Z"
+status: "active"
 ---
 
-# § 1301. Experimental practices
+# § 1301. Environmental practices
 
       - **(i)** the experimental practices are potentially more or at least as environmentally protective, during and after mining operations, as those required by promulgated standards;
       - **(ii)** the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and

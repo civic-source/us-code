@@ -3,9 +3,10 @@ title: "Section 8903 - Congressional authorization of commemorative works"
 usc_title: 40
 usc_section: "8903"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 8903"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-03-30T03:05:58.223Z"
+status: "active"
 ---
 
 # § 8903. Congressional authorization of commemorative works

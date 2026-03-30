@@ -3,9 +3,10 @@ title: "Section 581 - General authority of Administrator of General Services"
 usc_title: 40
 usc_section: "581"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 581"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-03-30T03:05:58.215Z"
+status: "active"
 ---
 
 # § 581. General authority of Administrator of General Services
@@ -41,7 +42,7 @@ generated_at: "2026-03-30T02:55:43.375Z"
   - **(7)** providing other incidental services in the discretion of the Administrator.
 - **(f)** The Administrator may—
   - **(1)** provide utilities and services, if the utilities and services are not provided by other sources, to a person, firm, or corporation occupying or using a plant or portion of a plant that constitutes—
-    - **(A)** any part of the Defense Industrial Reserve pursuant to section 4881 of title 10 ; or
+    - **(A)** any part of the Defense Industrial Reserve pursuant to section 2535 of title 10 ; or
     - **(B)** surplus real property; and
   - **(2)** credit an amount received for providing utilities and services under this subsection to an applicable appropriation of the Administration.
 - **(g)** The Administrator may—

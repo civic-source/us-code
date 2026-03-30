@@ -1,12 +1,23 @@
 ---
-title: "Section 1041b - Omitted"
+title: "Section 1041b - Federal recognition, trust relationship, and program eligibility"
 usc_title: 25
 usc_section: "1041b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1041b"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.859Z"
+status: "active"
 ---
 
-# § 1041b. Omitted
+# § 1041b. Federal recognition, trust relationship, and program eligibility
 
+- **(a)** The Federal recognition of the Tribe and the trust relationship between the United States and the Tribe are hereby reaffirmed. Except as otherwise provided in this subchapter, the Act of June 26, 1936 ( 49 Stat. 1967 ; 25 U.S.C. 501 et seq.) (commonly known as the “Oklahoma Indian Welfare Act”), and all laws and rules of law of the United States of general application to Indians, Indian tribes, or Indian reservations which are not inconsistent with this subchapter shall apply to the Tribe, and to its members and lands. The Tribe is hereby recognized as an independent tribal entity, separate from the Cherokee Nation or any other Indian tribe.
+- **(b)**
+  - **(1)** Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by the United States to Indians because of their status as Indians.
+  - **(2)** Except as provided in paragraph (3), the members of the Tribe who are residing on land recognized by the Secretary to be within the Cherokee Nation and eligible for Federal program services or benefits through the Cherokee Nation shall receive such services or benefits through the Cherokee Nation.
+  - **(3)** The Tribe shall be eligible to apply for and administer the special programs and services provided by the United States to Indians because of their status as Indians, including such programs and services within land recognized by the Secretary to be within the Cherokee Nation, in accordance with applicable laws and regulations to the same extent that the Cherokee Nation is eligible to apply for and administer programs and services, but only—
+    - **(A)** if the Cherokee Nation consents to the operation by the Tribe of federally funded programs and services;
+    - **(B)** if the benefits of such programs or services are to be provided to members of the Tribe in areas recognized by the Secretary to be under the jurisdiction of the Tribe and outside of land recognized by the Secretary to be within the Cherokee Nation, so long as those members are not receiving such programs or services from another Indian tribe; or
+    - **(C)** if under applicable provisions of Federal law, the Cherokee Nation is not eligible to apply for and administer such programs or services.
+  - **(4)** The Tribe shall not be eligible to apply for or administer any Federal programs or services on behalf of Indians 1 1 So in original. Probably should be “Indian”. recipients if such recipients are receiving or are eligible to receive the same federally funded programs or services from the Cherokee Nation.
+  - **(5)** Nothing in this section shall restrict the Tribe and the Cherokee Nation from entering into cooperative agreements to provide such programs or services and such funding agreements shall be honored by Federal agencies, unless otherwise prohibited by law.

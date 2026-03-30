@@ -1,12 +1,15 @@
 ---
-title: "Section 2657 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2657 - Submittal of annual report on status of security functions at nuclear weapons facilities"
 usc_title: 50
 usc_section: "2657"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2657"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-03-30T03:06:37.681Z"
+status: "active"
 ---
 
-# §§ 2656, 2657. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2657. Submittal of annual report on status of security functions at nuclear weapons facilities
+
+Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees the report entitled “Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities”, or any successor report to such report.
 

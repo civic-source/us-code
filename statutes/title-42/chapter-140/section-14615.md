@@ -1,12 +1,15 @@
 ---
-title: "Section 14615 - Transferred"
+title: "Section 14615 - Enforcement and implementation"
 usc_title: 42
 usc_section: "14615"
 chapter: 140
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14615"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-03-30T03:06:22.951Z"
+status: "active"
 ---
 
-# § 14615. Transferred
+# § 14615. Enforcement and implementation
+
+All departments, agencies, officers, and employees of the United States shall enforce the Compact and cooperate with one another and with all Party States in enforcing the Compact and effectuating its purposes. For the Federal Government, the Attorney General shall make such rules, prescribe such instructions, and take such other actions as may be necessary to carry out the Compact and this subchapter.
 

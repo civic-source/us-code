@@ -3,9 +3,10 @@ title: "Section 2404 - Administration"
 usc_title: 38
 usc_section: "2404"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 2404"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-03-30T03:05:59.205Z"
+status: "active"
 ---
 
 # § 2404. Administration
@@ -17,10 +18,8 @@ generated_at: "2026-03-30T02:55:53.497Z"
   - **(2)** The grave markers referred to in paragraph (1) shall be upright for interments that occur on or after January 1, 1987 , except that—
     - **(A)** in the case of any cemetery scheduled to be closed by September 30, 1991 , as indicated in the documents submitted by the Administrator of Veterans’ Affairs to the Congress in justification for the amounts included for Veterans’ Administration programs in the President’s Budget for fiscal year 1987, the Secretary may provide for flat grave markers;
     - **(B)** in the case of any cemetery with a section which has flat markers on October 28, 1986 , the Secretary may continue to provide for flat grave markers in such section;
-    - **(C)** in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
-    - **(D)** in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers. 1 1 So in original. The period probably should be a semicolon.
-    - **(E)** in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate; and
-    - **(F)** in the case of Santa Fe National Cemetery, New Mexico, the Secretary may provide for flat grave markers in any section of such cemetery in which flat markers were in use on December 22, 2023 .
+    - **(C)** in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers; and
+    - **(D)** in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.
 - **(d)** There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 - **(e)** In carrying out the Secretary’s responsibilities under this chapter, the Secretary may contract with responsible persons, firms, or corporations for the care and maintenance of such cemeteries under the Secretary’s jurisdiction as the Secretary shall choose, under such terms and conditions as the Secretary may prescribe.
 - **(f)**
@@ -35,8 +34,3 @@ generated_at: "2026-03-30T02:55:53.497Z"
   - **(2)** Subject to regulations prescribed by the Secretary under paragraph (4), including such regulations ensuring the security of a national cemetery, the Secretary shall, to the maximum extent practicable, provide to any military or volunteer veterans honor guard, including such guards belonging to a veterans service organization or other nongovernmental group that provides services to veterans, access to public areas of a national cemetery if such access is requested by the next of kin or other agent of a deceased veteran whose interment or funeral, memorial service, or ceremony is being held in such cemetery.
   - **(3)** With respect to the interment or funeral, memorial service, or ceremony of a deceased veteran at a national cemetery, the Secretary shall notify the next of kin or other agent of the deceased veteran of funeral honors available to the deceased veteran, including such honors provided by any military or volunteer veterans honor guard described in paragraph (2).
   - **(4)** The Secretary shall prescribe regulations to carry out this subsection.
-- **(i)**
-  - **(1)** The Secretary may designate one or more sections in any national cemetery as green burial sections.
-  - **(2)** In this subsection, the term “green burial section” means a section of a cemetery in which the remains of individuals interred in that section—
-    - **(A)** have been prepared for interment in a manner that does not involve chemicals or embalming fluids; and
-    - **(B)** have been interred in a natural manner or in completely biodegradable burial receptacles.

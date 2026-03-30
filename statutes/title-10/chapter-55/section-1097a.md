@@ -1,14 +1,15 @@
 ---
-title: "Section 1097a - TRICARE Prime: automatic enrollments"
+title: "Section 1097a - TRICARE Prime: automatic enrollments; payment options"
 usc_title: 10
 usc_section: "1097a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1097a"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-03-30T03:04:17.246Z"
+status: "active"
 ---
 
-# § 1097a. TRICARE Prime: automatic enrollments
+# § 1097a. TRICARE Prime: automatic enrollments; payment options
 
 - **(a)**
   - **(1)** In the case of a dependent of a member of the uniformed services who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in a catchment area in which TRICARE Prime is offered, the Secretary—
@@ -16,12 +17,14 @@ generated_at: "2026-03-30T02:53:38.108Z"
     - **(B)** may automatically enroll the dependent in TRICARE Prime if the member is in pay grade E–5 or higher.
   - **(2)** Whenever a dependent of a member is enrolled in TRICARE Prime under paragraph (1), the Secretary concerned shall provide written notice of the enrollment to the member.
   - **(3)** The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
-- **(b)** An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
-- **(c)** The Secretary of Defense shall prescribe regulations, including procedures, to carry out this section. Regulations prescribed to carry out the automatic enrollment requirements under this section may include such exceptions to the automatic enrollment procedures as the Secretary determines appropriate for the effective operation of TRICARE Prime.
-- **(d)** No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of section 1072(2) of this title .
-- **(e)**
-  - **(1)** The Secretary may establish a system of multiple networks of providers under TRICARE Prime in the same geographic area or areas.
-  - **(2)** Under a system established under paragraph (1), the Secretary may require a covered beneficiary enrolling in TRICARE Prime to enroll in a specific provider network established pursuant to such system, in which case any provider not in that specific provider network shall be deemed an out-of-network provider with respect to the covered beneficiary (regardless of whether the provider is in a different TRICARE Prime provider network) for purposes of this section or any other provision of law limiting the coverage or provision of health care services to those provided by network providers under the TRICARE program.
+- **(b)**
+  - **(1)** An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
+  - **(2)** Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
+    - **(A)** transmit a written notification of the pending expiration and renewal of enrollment to the covered beneficiary or, in the case of a dependent of a member of the uniformed services, to the member; and
+    - **(B)** afford the beneficiary or member, as the case may be, an opportunity to decline the renewal of enrollment.
+- **(c)** A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member’s retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
+- **(d)** The Secretary of Defense shall prescribe regulations, including procedures, to carry out this section. Regulations prescribed to carry out the automatic enrollment requirements under this section may include such exceptions to the automatic enrollment procedures as the Secretary determines appropriate for the effective operation of TRICARE Prime.
+- **(e)** No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of section 1072(2) of this title .
 - **(f)** In this section:
   - **(1)** The term “TRICARE Prime” means the managed care option of the TRICARE program.
   - **(2)** The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.

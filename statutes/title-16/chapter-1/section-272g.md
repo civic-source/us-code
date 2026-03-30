@@ -3,21 +3,22 @@ title: "Section 272g - Land exchange involving school trust land"
 usc_title: 16
 usc_section: "272g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 272g"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-03-30T03:04:48.413Z"
+status: "active"
 ---
 
 # § 272g. Land exchange involving school trust land
 
 - **(a)**
-  - **(1)** If, not later than 1 year after October 30, 1998 , and in accordance with this section, the State of Utah offers to transfer all right, title, and interest of the State in and to the school trust land described in subsection (b)(1) to the United States, the Secretary—
+  - **(1)** If, not later than 1 year after October 30, 1998 , and in accordance with this section, the State of Utah offers to transfer all right, title, and interest of the State in and to the school trust land described in subsection (b)(1) of this section to the United States, the Secretary—
     - **(A)** shall accept the offer on behalf of the United States; and
-    - **(B)** not later than 180 days after the date of acceptance, shall convey to the State of Utah all right, title, and interest of the United States in and to the land described in subsection (b)(2).
+    - **(B)** not later than 180 days after the date of acceptance, shall convey to the State of Utah all right, title, and interest of the United States in and to the land described in subsection (b)(2) of this section.
   - **(2)** Title to the school trust land shall be conveyed at the same time as conveyance of title to the Federal lands by the Secretary.
   - **(3)** The land exchange under this section shall be subject to valid existing rights, and each party shall succeed to the rights and obligations of the other party with respect to any lease, right-of-way, or permit encumbering the exchanged land.
 - **(b)**
-  - **(1)** The school trust land to be conveyed by the State of Utah under subsection (a) is section 16, Township 23 South, Range 22 East of the Salt Lake base and meridian.
+  - **(1)** The school trust land to be conveyed by the State of Utah under subsection (a) of this section is section 16, Township 23 South, Range 22 East of the Salt Lake base and meridian.
   - **(2)** The Federal land to be conveyed by the Secretary consists of approximately 639 acres located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:
     - **(A)** Lots 1 through 12.
     - **(B)** The S½N½ of such section.

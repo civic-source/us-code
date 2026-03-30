@@ -3,9 +3,10 @@ title: "Section 1732 - Definitions"
 usc_title: 7
 usc_section: "1732"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1732"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-03-30T03:04:20.937Z"
+status: "active"
 ---
 
 # § 1732. Definitions
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:53:42.338Z"
 As used in this chapter:
 
   - **(1)** The term “Administrator” means the Administrator of the Agency for International Development, unless otherwise specified in this chapter.
-  - **(2)** The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991 , for purposes of subchapter III, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
+  - **(2)** The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991 , for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
   - **(3)** The term “appropriate committee of Congress” means—
     - **(A)** the Committee on Agriculture, Nutrition, and Forestry of the Senate;
     - **(B)** the Committee on Agriculture of the House of Representatives; and

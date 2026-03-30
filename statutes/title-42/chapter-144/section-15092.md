@@ -3,9 +3,10 @@ title: "Section 15092 - Definitions and special rule"
 usc_title: 42
 usc_section: "15092"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15092"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-03-30T03:06:22.956Z"
+status: "active"
 ---
 
 # § 15092. Definitions and special rule
@@ -29,5 +30,5 @@ generated_at: "2026-03-30T02:56:11.458Z"
     - **(B)** that facilitate and increase access to, provision of, and funding for, family support services for families of children with disabilities; and
     - **(C)** that otherwise accomplish the purposes of this subchapter.
 - **(b)** References in this subchapter to a child with a disability shall be considered to include references to an individual who is not younger than age 18 who—
-  - **(1)** has a significant impairment described in subsection (a)(1)(A); and
+  - **(1)** has a significant impairment described in subsection (a)(1)(A) of this section; and
   - **(2)** is residing with and receiving assistance from a family member.

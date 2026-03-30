@@ -3,15 +3,16 @@ title: "Section 1141a - International applications based on United States applic
 usc_title: 15
 usc_section: "1141a"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1141a"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-03-30T03:04:31.159Z"
+status: "active"
 ---
 
 # § 1141a. International applications based on United States applications or registrations
 
 - **(a)** The owner of a basic application pending before the United States Patent and Trademark Office, or the owner of a basic registration granted by the United States Patent and Trademark Office may file an international application by submitting to the United States Patent and Trademark Office a written application in such form, together with such fees, as may be prescribed by the Director.
-- **(b)** A qualified owner, under subsection (a), shall—
+- **(b)** A qualified owner, under subsection (a) of this section, shall—
   - **(1)** be a national of the United States;
   - **(2)** be domiciled in the United States; or
   - **(3)** have a real and effective industrial or commercial establishment in the United States.

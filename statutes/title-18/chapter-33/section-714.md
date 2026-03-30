@@ -3,9 +3,10 @@ title: "Section 714 - Repealed. Pub. L. 97–258, § 2(d)(1)(B) , Sept. 13, 1982
 usc_title: 18
 usc_section: "714"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 714"
-generated_at: "2026-03-30T02:54:16.469Z"
+generated_at: "2026-03-30T03:04:41.086Z"
+status: "repealed"
 ---
 
 # [§ 714. Repealed. Pub. L. 97–258, § 2(d)(1)(B) , Sept. 13, 1982 , 96 Stat. 1058 ]

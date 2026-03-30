@@ -1,20 +1,17 @@
 ---
-title: "Section 923 - Art. 123. Offenses concerning Government computers"
+title: "Section 923 - Art. 123. Forgery"
 usc_title: 10
 usc_section: "923"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 923"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-03-30T03:04:17.234Z"
+status: "active"
 ---
 
-# § 923. Art. 123. Offenses concerning Government computers
+# § 923. Art. 123. Forgery
 
-- **(a)** Any person subject to this chapter who—
-  - **(1)** knowingly accesses a Government computer, with an unauthorized purpose, and by doing so obtains classified information, with reason to believe such information could be used to the injury of the United States, or to the advantage of any foreign nation, and intentionally communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted such information to any person not entitled to receive it;
-  - **(2)** intentionally accesses a Government computer, with an unauthorized purpose, and thereby obtains classified or other protected information from any Government computer; or
-  - **(3)** knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization to a Government computer;
-- **(b)** In this section:
-  - **(1)** The term “computer” has the meaning given that term in section 1030 of title 18 .
-  - **(2)** The term “Government computer” means a computer owned or operated by or on behalf of the United States Government.
-  - **(3)** The term “damage” has the meaning given that term in section 1030 of title 18 .
+Any person subject to this chapter who, with intent to defraud—
+
+  - **(1)** falsely makes or alters any signature to, or any part of, any writing which would, if genuine, apparently impose a legal liability on another or change his legal right or liability to his prejudice; or
+  - **(2)** utters, offers, issues, or transfers such a writing, known by him to be so made or altered; is guilty of forgery and shall be punished as a court-martial may direct.

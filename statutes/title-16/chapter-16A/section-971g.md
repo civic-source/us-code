@@ -3,9 +3,10 @@ title: "Section 971g - Cooperation in carrying out Convention"
 usc_title: 16
 usc_section: "971g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 971g"
-generated_at: "2026-03-30T02:54:22.937Z"
+generated_at: "2026-03-30T03:04:48.548Z"
+status: "active"
 ---
 
 # § 971g. Cooperation in carrying out Convention
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:54:22.937Z"
   - **(2)** In the event a State does not request a formal hearing and after notice by the Secretary, the regulations promulgated pursuant to this chapter to implement recommendations of the Commission shall apply within the boundaries of any State bordering on any Convention area if the Secretary determines that any such State—
     - **(A)** has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations which implement any such recommendation of the Commission within the boundaries of such State; or
     - **(B)** has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
-- **(e)** To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
+- **(e)** To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.

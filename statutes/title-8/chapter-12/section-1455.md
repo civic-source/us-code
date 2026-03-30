@@ -3,9 +3,10 @@ title: "Section 1455 - Fiscal provisions"
 usc_title: 8
 usc_section: "1455"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1455"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-03-30T03:04:14.642Z"
+status: "active"
 ---
 
 # § 1455. Fiscal provisions
@@ -18,5 +19,5 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(d)** During the time when the United States is at war the Attorney General may not charge or collect a naturalization fee from an alien in the military, air, or naval service of the United States for filing an application for naturalization or issuing a certificate of naturalization upon admission to citizenship.
 - **(e)** In addition to the other fees required by this subchapter, the applicant for naturalization shall, upon the filing of an application for naturalization, deposit with and pay to the Attorney General a sum of money sufficient to cover the expenses of subpenaing and paying the legal fees of any witnesses for whom such applicant may request a subpena, and upon the final discharge of such witnesses, they shall receive, if they demand the same from the Attorney General, the customary and usual witness fees from the moneys which the applicant shall have paid to the Attorney General for such purpose, and the residue, if any, shall be returned by the Attorney General to the applicant.
 - **(f)**
-  - **(1)** The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
+  - **(1)** The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) of this section collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
   - **(2)** The Attorney General shall provide on an annual basis to the Committees on the Judiciary of the House of Representatives and of the Senate a detailed report on the use of the fees described in paragraph (1) and shall consult with such Committees before increasing such fees.

@@ -3,9 +3,10 @@ title: "Section 3364 - Miscellaneous provisions"
 usc_title: 15
 usc_section: "3364"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3364"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-03-30T03:04:31.217Z"
+status: "active"
 ---
 
 # § 3364. Miscellaneous provisions
@@ -14,7 +15,6 @@ generated_at: "2026-03-30T02:54:08.189Z"
   - **(1)** In order to obtain information to carry out his authority under this part, the President may—
     - **(A)** sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
     - **(B)** require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information, and such answers shall be made within such reasonable period, and under oath or otherwise as the President may determine; and
-    - **(c)** 1 1 So in original. Probably should be “(C)”. secure, upon request, any information from any Federal agency.
   - **(2)** The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
 - **(b)** In issuing any order under section 3362 or 3363 of this title, the President shall require that the prices and volumes of natural gas delivered, transported, or contracted for pursuant to such order shall be reported to him on a weekly basis. Such reports shall be made available to the Congress.
 - **(c)** The President shall report to the Congress, not later than 90 days following the termination under section 3361(b) of this title of any declaration of a natural gas supply emergency (or extension thereof) under section 3361(a) of this title , respecting the exercise of authority under section 3361, 3362, 3363 of this title, or this section.

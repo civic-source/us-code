@@ -1,33 +1,24 @@
 ---
-title: "Section 2 - Reports"
+title: "Section 2 - Reports to Congress"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-03-30T03:06:37.635Z"
+status: "active"
 ---
 
-# § 98h–2. Reports
+# § 98h–2. Reports to Congress
 
-- **(a)** The National Defense Stockpile Manager shall submit to the Board an Annual Materials and Operations Plan for the forthcoming year.
+- **(a)** Not later than January 15 of each year, the President shall submit to the Congress an annual written report detailing operations under this subchapter. Each such report shall include—
+  - **(1)** information with respect to foreign and domestic purchases of materials during the preceding fiscal year;
+  - **(2)** information with respect to the acquisition and disposal of materials under this subchapter by barter, as provided for in section 98e(c) of this title , during such fiscal year;
+  - **(3)** information with respect to the activities by the Stockpile Manager to encourage the conservation, substitution, and development of strategic and critical materials within the United States;
+  - **(4)** information with respect to the research and development activities conducted under sections 98a and 98g of this title;
+  - **(5)** a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and the anticipated appropriations to be made to the fund, and obligations to be made from the fund, during the current fiscal year; and
+  - **(6)** such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 - **(b)**
-  - **(1)** Not later than February 15 of each fiscal year, the National Defense Stockpile Manager shall submit to the congressional defense committees (as defined in section 101(a) of title 10 ) an Annual Operations and Materials Plan that shall include—
-    - **(A)** information with respect to foreign and domestic purchases of materials for the stockpile during the preceding fiscal year;
-    - **(B)** information with respect to the acquisition and disposal of materials under this subchapter by barter, during such fiscal year;
-    - **(C)** information with respect to the activities by the National Defense Stockpile Manager to encourage the conservation, substitution, and development of strategic and critical materials;
-    - **(D)** information with respect to the research and development activities conducted under section 98g of this title ;
-    - **(E)** a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and anticipated appropriations to be made to the Fund, and obligations to be made from the fund, during the current fiscal year;
-    - **(F)** other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program;
-    - **(G)** an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years and planned expenditures from the National Defense Stockpile Transaction Fund and anticipated receipts from disposal of stockpile materials, which shall include—
-      - **(i)** details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period and of anticipated receipts from the proposed disposals of stockpile materials during such period;
-      - **(ii)** details regarding materials development and research projects to be conducted during the fiscal years covered by the report using moneys in the National Defense Stockpile Transaction Fund pursuant to section 98h(b)(2)(G) of this title ; and
-      - **(iii)** with respect to each development and research project described in clause (ii), the report shall specify the amount planned to be expended from the National Defense Stockpile Transaction Fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used;
-    - **(H)** any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title , as appropriate; and
-    - **(I)** a summary of the implementation and findings of the pilot program established under section 98e(g)(1) of this title , including—
-      - **(i)** the commercial best practices selected for use under the pilot program;
-      - **(ii)** how the National Defense Stockpile Manager determined which commercial best practices to select;
-      - **(iii)** how the National Defense Stockpile Manager has used commercial best practices under the pilot program during the year preceding the briefing;
-      - **(iv)** the outcome of each use of such practices; and
-      - **(v)** any savings achieved or lessons learned as a result of the use of such practices.
-  - **(2)** The Board shall prepare a written report to accompany the report required by paragraph (1) which shall include the activities of the Board to carry out the duties listed in section 98h–1(c) of this title 1 1 So in original. Probably should be followed by a period.
+  - **(1)** Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
+  - **(2)** Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+  - **(3)** Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title , that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title , as appropriate.

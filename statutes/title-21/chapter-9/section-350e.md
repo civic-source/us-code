@@ -3,9 +3,10 @@ title: "Section 350e - Sanitary transportation practices"
 usc_title: 21
 usc_section: "350e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 350e"
-generated_at: "2026-03-30T02:54:54.227Z"
+generated_at: "2026-03-30T03:05:00.938Z"
+status: "active"
 ---
 
 # § 350e. Sanitary transportation practices
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:54.227Z"
   - **(1)** The term “bulk vehicle” includes a tank truck, hopper truck, rail tank car, hopper car, cargo tank, portable tank, freight container, or hopper bin, and any other vehicle in which food is shipped in bulk, with the food coming into direct contact with the vehicle.
   - **(2)** The term “transportation” means any movement in commerce by motor vehicle or rail vehicle.
 - **(b)** The Secretary shall by regulation require shippers, carriers by motor vehicle or rail vehicle, receivers, and other persons engaged in the transportation of food to use sanitary transportation practices prescribed by the Secretary to ensure that food is not transported under conditions that may render the food adulterated.
-- **(c)** The regulations under subsection (b) shall—
+- **(c)** The regulations under subsection (b) of this section shall—
   - **(1)** prescribe such practices as the Secretary determines to be appropriate relating to—
     - **(A)** sanitation;
     - **(B)** packaging, isolation, and other protective measures;
@@ -37,5 +38,5 @@ generated_at: "2026-03-30T02:54:54.227Z"
   - **(1)** A requirement of a State or political subdivision of a State that concerns the transportation of food is preempted if—
     - **(A)** complying with a requirement of the State or political subdivision and a requirement of this section, or a regulation prescribed under this section, is not possible; or
     - **(B)** the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying out this section or a regulation prescribed under this section.
-  - **(2)** This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b).
+  - **(2)** This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b) of this section.
 - **(f)** The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.

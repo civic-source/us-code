@@ -3,9 +3,10 @@ title: "Section 12002 - Definitions"
 usc_title: 42
 usc_section: "12002"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12002"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-03-30T03:06:22.894Z"
+status: "active"
 ---
 
 # § 12002. Definitions

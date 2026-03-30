@@ -3,9 +3,10 @@ title: "Section 17903 - Study and reports"
 usc_title: 42
 usc_section: "17903"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17903"
-generated_at: "2026-03-30T02:56:11.509Z"
+generated_at: "2026-03-30T03:06:22.997Z"
+status: "active"
 ---
 
 # § 17903. Study and reports

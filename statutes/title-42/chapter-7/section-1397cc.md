@@ -3,20 +3,21 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T02:56:11.069Z"
+generated_at: "2026-03-30T03:06:22.586Z"
+status: "active"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
 
-- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), (7), and (8) of subsection (c), of any of the following:
-  - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
+- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
+  - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b) of this section.
   - **(2)** Health benefits coverage that meets the following requirements:
-    - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1).
+    - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
     - **(B)** The coverage has an aggregate actuarial value that is at least actuarially equivalent to one of the benchmark benefit packages.
-    - **(C)** With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
-  - **(3)** Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1).
+    - **(C)** With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+  - **(3)** Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1) of this section.
   - **(4)** Any other health benefits coverage that the Secretary determines, upon application by a State, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
 - **(b)** The benchmark benefit packages are as follows:
   - **(1)** The standard Blue Cross/Blue Shield preferred provider option service benefit plan, described in and offered under section 8903(1) of title 5 .
@@ -30,7 +31,6 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(B)** Physicians’ surgical and medical services.
     - **(C)** Laboratory and x-ray services.
     - **(D)** Well-baby and well-child care, including age-appropriate immunizations.
-    - **(E)** Mental health and substance use disorder services (as defined in paragraph (5)).
   - **(2)** For purposes of this section, the categories of additional services described in this paragraph are as follows:
     - **(A)** Coverage of prescription drugs.
     - **(B)** Vision services.
@@ -44,26 +44,18 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(E)** applying the same principles and factors in comparing the value of different coverage (or categories of services);
     - **(F)** without taking into account any differences in coverage based on the method of delivery or means of cost control or utilization used; and
     - **(G)** taking into account the ability of a State to reduce benefits by taking into account the increase in actuarial value of benefits coverage offered under the State child health plan that results from the limitations on cost sharing under such coverage.
-  - **(5)** Regardless of the type of coverage elected by a State under subsection (a), child health assistance provided under such coverage for targeted low-income children and, in the case that the State elects to provide pregnancy-related assistance under such coverage pursuant to section 1397 ll of this title, such pregnancy-related assistance for targeted low-income pregnant women (as defined in section 1397 ll (d) of this title) shall—
-    - **(A)** include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and
-    - **(B)** be delivered in a culturally and linguistically appropriate manner.
-  - **(6)**
+  - **(5)**
     - **(A)** The child health assistance provided to a targeted low-income child shall include coverage of dental services necessary to prevent disease and promote oral health, restore oral structures to health and function, and treat emergency conditions.
     - **(B)** A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
     - **(C)** The benchmark dental benefit packages are as follows:
       - **(i)** A dental benefits plan under chapter 89A of title 5 that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
       - **(ii)** A dental benefits plan that is offered and generally available to State employees in the State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
       - **(iii)** A dental benefits plan that has the largest insured commercial, non-medicaid enrollment of dependent covered lives of such plans that is offered in the State involved.
-  - **(7)**
-    - **(A)** A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act [ 42 U.S.C. 300gg–26(a) ] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act [ 42 U.S.C. 300gg–26(a) ], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
+  - **(6)**
+    - **(A)** In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act 1 1 See References in Text note below. in the same manner as such requirements apply to a group health plan.
     - **(B)** To the extent that a State child health plan includes coverage with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title ) and provided in accordance with section 1396a(a)(43) of this title , such plan shall be deemed to satisfy the requirements of subparagraph (A).
-  - **(8)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
-  - **(9)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
-  - **(10)** The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 1 1 See References in Text note below. (and the administration of such product).
-  - **(11)** Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397 ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 , and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title , of—
-    - **(A)** a COVID–19 vaccine (and the administration of the vaccine); and
-    - **(B)** testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State child health plan (or waiver of such plan).
-  - **(12)** Regardless of the type of coverage elected by a State under subsection (a), if the State child health plan or a waiver of such plan provides child health assistance or pregnancy-related assistance (as defined in section 1397 ll of this title) to an individual who is 19 years of age or older, such assistance shall include coverage of vaccines described in section 1396d(a)(13)(B) of this title and their administration.
+  - **(7)** Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+  - **(8)** Nothing in this subchapter shall be construed as limiting a State’s ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title ).
 - **(d)**
   - **(1)** A program described in this paragraph is a child health coverage program that—
     - **(A)** includes coverage of a range of benefits;
@@ -72,12 +64,12 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(D)** was offered as of August 5, 1997 .
   - **(2)** A State may modify a program described in paragraph (1) from time to time so long as it continues to meet the requirement of subparagraph (A) and does not reduce the actuarial value of the coverage under the program below the lower of—
     - **(A)** the actuarial value of the coverage under the program as of August 5, 1997 , or
-    - **(B)** the actuarial value described in subsection (a)(2)(B),
+    - **(B)** the actuarial value described in subsection (a)(2)(B) of this section,
 - **(e)**
   - **(1)**
     - **(A)** A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.
     - **(B)** The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
-  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), vaccines described in subsection (c)(12) (and the administration of such vaccines), services described in section 1396 o (a)(2)(G) of this title, vaccines described in section 1396 o (a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396 o (a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
+  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) of this section or for pregnancy-related assistance.
   - **(3)**
     - **(A)** In the case of a targeted low-income child whose family income is at or below 150 percent of the poverty line, the State child health plan may not impose—
       - **(i)** an enrollment fee, premium, or similar charge that exceeds the maximum monthly charge permitted consistent with standards established to carry out section 1396 o (b)(1) of this title (with respect to individuals described in such section); and
@@ -94,4 +86,4 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(A)** Subject to subparagraph (B), the State child health plan shall not permit the imposition of any preexisting condition exclusion for covered benefits under the plan.
     - **(B)** If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1181 et seq.] and title XXVII of the Public Health Service Act [ 42 U.S.C. 300gg et seq.].
   - **(2)** Coverage offered under this section shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act 1 insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
-  - **(3)** The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), (e), and (j) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
+  - **(3)** The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.

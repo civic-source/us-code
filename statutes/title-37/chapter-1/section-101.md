@@ -3,9 +3,10 @@ title: "Section 101 - Definitions"
 usc_title: 37
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 101"
-generated_at: "2026-03-30T02:55:44.048Z"
+generated_at: "2026-03-30T03:05:39.914Z"
+status: "active"
 ---
 
 # § 101. Definitions
@@ -16,12 +17,12 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
     - **(A)** The term “United States”, in a geographic sense, means the States and the District of Columbia.
     - **(B)** The term “continental United States” means the 48 contiguous States and the District of Columbia.
   - **(2)** The term “possessions” includes Guam, American Samoa, and the guano islands.
-  - **(3)** The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
-  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.
+  - **(3)** The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
+  - **(4)** The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
   - **(5)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the Army, with respect to matters concerning the Army;
     - **(B)** the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
-    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;
+    - **(C)** the Secretary of the Air Force, with respect to matters concerning the Air Force;
     - **(D)** the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy;
     - **(E)** the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration; and
     - **(F)** the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service.
@@ -50,8 +51,8 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
   - **(20)** The term “active service” means service on active duty.
   - **(21)** The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
   - **(22)** The term “inactive-duty training” means—
-    - **(A)** duty prescribed for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by the Secretary concerned under section 206 of this title or any other law; and
-    - **(B)** special additional duties authorized for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
+    - **(A)** duty prescribed for members of a reserve component by the Secretary concerned under section 206 of this title or any other law; and
+    - **(B)** special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
   - **(23)** The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
   - **(24)** The term “reserve component” means—
     - **(A)** the Army National Guard of the United States;
@@ -61,8 +62,6 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
     - **(E)** the Air National Guard of the United States;
     - **(F)** the Air Force Reserve;
     - **(G)** the Coast Guard Reserve; or
-    - **(H)** the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
+    - **(H)** the Reserve Corps of the Public Health Service.
   - **(25)** The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
   - **(26)** The term “contingency operation” has the meaning given that term in section 101 of title 10 .
-  - **(27)** The term “space force active status” has the meaning given that term in section 101 of title 10 .
-  - **(28)** The term “sustained duty” has the meaning given that term in section 101 of title 10 .

@@ -3,9 +3,10 @@ title: "Section 6933 - Hazardous waste site inventory"
 usc_title: 42
 usc_section: "6933"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6933"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-03-30T03:06:22.776Z"
+status: "active"
 ---
 
 # § 6933. Hazardous waste site inventory
@@ -16,9 +17,9 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(3)** the name and address, or corporate headquarters of, the owner of each such site, determined as of the date of preparation of the inventory;
   - **(4)** an identification of the types or techniques of waste treatment or disposal which have been used at each such site; and
   - **(5)** information concerning the current status of the site, including information respecting whether or not hazardous waste is currently being treated or disposed of at such site (and if not, the date on which such activity ceased) and information respecting the nature of any other activity currently carried out at such site.
-- **(b)** If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a), the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
-  - **(1)** the Administrator shall have the authorities provided with respect to State programs under subsection (a);
-  - **(2)** the funds allocated under subsection (c) for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
+- **(b)** If the Administrator determines that any State program under subsection (a) of this section is not adequately providing information respecting the sites in such State referred to in subsection (a) of this section, the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
+  - **(1)** the Administrator shall have the authorities provided with respect to State programs under subsection (a) of this section;
+  - **(2)** the funds allocated under subsection (c) of this section for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
   - **(3)** no further expenditure may be made for grants to such State under this section until such time as the Administrator determines that such State is carrying out, or will carry out, an inventory program which meets the requirements of this section.
 - **(c)**
   - **(1)** Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposes of this section before October 21, 1980 , to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.

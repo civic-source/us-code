@@ -3,15 +3,16 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-03-30T03:04:48.529Z"
+status: "active"
 ---
 
 # § 777m. Multistate conservation grant program
 
 - **(a)**
-  - **(1)** Not more than $3,000,000 shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+  - **(1)** Not more than $3,000,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
   - **(2)**
     - **(A)** Amounts made available under paragraph (1) shall remain available for making grants only for the first fiscal year for which the amount is made available and the following fiscal year.
     - **(B)** At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(c) of this title for use by the States in the same manner as funds apportioned under section 777c(c) of this title .
@@ -37,15 +38,14 @@ generated_at: "2026-03-30T02:54:22.909Z"
   - **(2)**
     - **(A)** Any nongovernmental organization that applies for a grant under this section shall submit with the application to the International Association of Fish and Wildlife Agencies a certification that the organization—
       - **(i)** will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated taking of fish; and
-      - **(ii)** will use the grant funds in compliance with subsection (d).
+      - **(ii)** will use the grant funds in compliance with subsection (d) of this section.
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated taking of fish.
-- **(e)** Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:
+- **(e)** Of amounts made available under section 777c(b) of this title for each fiscal year—
   - **(1)** $200,000 shall be made available for each of—
     - **(A)** the Atlantic States Marine Fisheries Commission;
     - **(B)** the Gulf States Marine Fisheries Commission;
     - **(C)** the Pacific States Marine Fisheries Commission; and
-    - **(D)** the Great Lakes Fisheries Commission.
+    - **(D)** the Great Lakes Fisheries Commission; and
   - **(2)** $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
-  - **(3)** A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021 , shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
-- **(f)** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.

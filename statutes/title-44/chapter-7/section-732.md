@@ -3,12 +3,13 @@ title: "Section 732 - Time for distribution of documents by Members of Congress 
 usc_title: 44
 usc_section: "732"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 732"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-03-30T03:06:01.361Z"
+status: "active"
 ---
 
 # § 732. Time for distribution of documents by Members of Congress extended
 
-Reelected Members may distribute public documents to their credit, or the credit of their respective districts in the Interior or other Departments and bureaus, and in the Government Publishing Office, during their successive terms and until their right to frank documents ends.
+Reelected Members may distribute public documents to their credit, or the credit of their respective districts in the Interior or other Departments and bureaus, and in the Government Printing Office, during their successive terms and until their right to frank documents ends.
 

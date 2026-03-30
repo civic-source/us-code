@@ -3,20 +3,21 @@ title: "Section 658b - Duties of Congressional committees"
 usc_title: 2
 usc_section: "658b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 658b"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-03-30T03:04:04.424Z"
+status: "active"
 ---
 
 # § 658b. Duties of Congressional committees
 
-- **(a)** When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d).
+- **(a)** When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d) of this section.
 - **(b)** When a committee of authorization of the Senate or the House of Representatives orders reported a bill or joint resolution of a public character, the committee shall promptly provide the bill or joint resolution to the Director of the Congressional Budget Office and shall identify to the Director any Federal mandates contained in the bill or resolution.
-- **(c)** Each report described under subsection (a) shall contain—
+- **(c)** Each report described under subsection (a) of this section shall contain—
   - **(1)** an identification and description of any Federal mandates in the bill or joint resolution, including the direct costs to State, local, and tribal governments, and to the private sector, required to comply with the Federal mandates;
   - **(2)** a qualitative, and if practicable, a quantitative assessment of costs and benefits anticipated from the Federal mandates (including the effects on health and safety and the protection of the natural environment); and
   - **(3)** a statement of the degree to which a Federal mandate affects both the public and private sectors and the extent to which Federal payment of public sector costs or the modification or termination of the Federal mandate as provided under section 658d(a)(2) of this title would affect the competitive balance between State, local, or tribal governments and the private sector including a description of the actions, if any, taken by the committee to avoid any adverse impact on the private sector or the competitive balance between the public sector and the private sector.
-- **(d)** If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) shall also contain—
+- **(d)** If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) of this section shall also contain—
   - **(1)**
     - **(A)** a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, or tribal governments subject to the Federal intergovernmental mandates;
     - **(B)** a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and

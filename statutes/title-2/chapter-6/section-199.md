@@ -3,9 +3,10 @@ title: "Section 199 - Member of commission, board, etc., appointed by President 
 usc_title: 2
 usc_section: "199"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 199"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-03-30T03:04:04.410Z"
+status: "active"
 ---
 
 # § 199. Member of commission, board, etc., appointed by President pro tempore of Senate; recommendation process; applicability
@@ -14,4 +15,4 @@ generated_at: "2026-03-30T02:53:04.794Z"
   - **(1)** upon recommendation of the Majority Leader of the Senate, if such provision of law specifies that the appointment is to be made on the basis of the appointee’s affiliation with the majority political party,
   - **(2)** upon the recommendation of the Minority Leader of the Senate, if such provision of law specifies that the appointment is to be made on the basis of the appointee’s affiliation with the minority party, and
   - **(3)** upon the joint recommendation of the Majority Leader of the Senate and the Minority Leader of the Senate, if such provision of law does not specify that the appointment is to be made on the appointee’s affiliation with the majority or minority political party.
-- **(b)** The provisions of subsection (a) shall be applicable in the case of appointments made after December 22, 1980 , pursuant to provisions of law enacted on, before, and after, December 22, 1980 .
+- **(b)** The provisions of subsection (a) of this section shall be applicable in the case of appointments made after December 22, 1980 , pursuant to provisions of law enacted on, before, and after, December 22, 1980 .

@@ -3,32 +3,26 @@ title: "Section 60108 - Inspection and maintenance"
 usc_title: 49
 usc_section: "60108"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 60108"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-03-30T03:06:29.342Z"
+status: "active"
 ---
 
 # § 60108. Inspection and maintenance
 
 - **(a)**
   - **(1)** Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
-  - **(2)** If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety, must meet the requirements of any regulations promulgated under section 60102(q), and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title . In deciding on the adequacy of a plan, the Secretary or authority shall consider—
+  - **(2)** If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title . In deciding on the adequacy of a plan, the Secretary or authority shall consider—
     - **(A)** relevant available pipeline safety information;
     - **(B)** the appropriateness of the plan for the particular kind of pipeline transportation or facility;
-    - **(C)** the reasonableness of the plan;
-    - **(D)** the extent to which the plan will contribute to—
-      - **(i)** public safety;
-      - **(ii)** eliminating hazardous leaks and minimizing releases of natural gas from pipeline facilities; and
-      - **(iii)** the protection of the environment; and
-    - **(E)** the extent to which the plan addresses the replacement or remediation of pipelines that are known to leak based on the material (including cast iron, unprotected steel, wrought iron, and historic plastics with known issues), design, or past operating and maintenance history of the pipeline.
-  - **(3)**
-    - **(A)** Not later than 2 years after the date of enactment of this subparagraph, and not less frequently than once every 5 years thereafter, the Secretary or relevant State authority with a certification in effect under section 60105 shall review each plan described in this subsection.
-    - **(B)** The Secretary may conduct a review under this paragraph as an element of the inspection of the operator carried out by the Secretary under subsection (b).
-    - **(C)** If the Secretary determines that a plan reviewed under this paragraph does not comply with the requirements of this chapter (including any regulations promulgated under this chapter), has not been adequately implemented, is inadequate for the safe operation of a pipeline facility, or is otherwise inadequate, the Secretary may conduct enforcement proceedings under this chapter.
+    - **(C)** the reasonableness of the plan; and
+    - **(D)** the extent to which the plan will contribute to public safety and the protection of the environment.
+  - **(3)** A plan required under this subsection shall be made available to the Secretary or State authority on request under section 60117 of this title .
 - **(b)**
   - **(1)** The Secretary shall inspect and require appropriate testing of a pipeline facility subject to this chapter that is not covered by a certification under section 60105 of this title or an agreement under section 60106 of this title . The Secretary shall decide on the frequency and type of inspection and testing under this subsection on a case-by-case basis after considering the following:
     - **(A)** the location of the pipeline facility.
-    - **(B)** the type, size, age, manufacturer, method of construction, construction material, and condition of the pipeline facility.
+    - **(B)** the type, size, age, manufacturer, method of construction, and condition of the pipeline facility.
     - **(C)** the nature and volume of material transported through the pipeline facility.
     - **(D)** the pressure at which that material is transported.
     - **(E)** climatic, geologic, and seismic characteristics (including soil characteristics) and conditions of the area in which the pipeline facility is located.
@@ -74,6 +68,3 @@ generated_at: "2026-03-30T02:56:19.413Z"
   - **(2)** Chapter 35 of title 44 does not apply to the conduct of the survey.
   - **(3)** This subsection does not prevent the Secretary from developing Government guidelines or standards for cast iron gas pipelines as the Secretary considers appropriate.
   - **(4)** Not later than December 31, 2012 , and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
-- **(e)** After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49 , United States Code, to conduct such inspection, shall—
-  - **(1)** within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and
-  - **(2)** within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.

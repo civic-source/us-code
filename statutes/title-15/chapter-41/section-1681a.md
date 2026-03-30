@@ -3,9 +3,10 @@ title: "Section 1681a - Definitions; rules of construction"
 usc_title: 15
 usc_section: "1681a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1681a"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-03-30T03:04:31.182Z"
+status: "active"
 ---
 
 # § 1681a. Definitions; rules of construction
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
       - **(iii)** communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
     - **(B)** any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
     - **(C)** any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title ; or
-    - **(D)** a communication described in subsection ( o ) or (x). 1 1 See References in Text note below.
+    - **(D)** a communication described in subsection ( o ) or (x) 1 1 See References in Text note below. of this section.
   - **(3)** Except for information or any communication of information disclosed as provided in section 1681b(g)(3) of this title , the exclusions in paragraph (2) shall not apply with respect to information disclosed to any person related by common ownership or affiliated by corporate control, if the information is—
     - **(A)** medical information;
     - **(B)** an individualized list or description based on the payment transactions of the consumer for medical products or services; or
@@ -69,7 +70,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(2)** collecting the account.
 - **(n)** The term “State” means any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
 - **(o)** A communication is described in this subsection if it is a communication—
-  - **(1)** that, but for subsection (d)(2)(D), would be an investigative consumer report;
+  - **(1)** that, but for subsection (d)(2)(D) of this section, would be an investigative consumer report;
   - **(2)** that is made to a prospective employer for the purpose of—
     - **(A)** procuring an employee for the employer; or
     - **(B)** procuring an opportunity for a natural person to work for the employer;
@@ -123,7 +124,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
   - **(5)** insurance claims.
 - **(y)**
   - **(1)** A communication is described in this subsection if—
-    - **(A)** but for subsection (d)(2)(D), the communication would be a consumer report;
+    - **(A)** but for subsection (d)(2)(D) of this section, the communication would be a consumer report;
     - **(B)** the communication is made to an employer in connection with an investigation of—
       - **(i)** suspected misconduct relating to employment; or
       - **(ii)** compliance with Federal, State, or local laws and regulations, the rules of a self-regulatory organization, or any preexisting written policies of the employer;
@@ -134,9 +135,5 @@ generated_at: "2026-03-30T02:54:08.146Z"
       - **(iii)** to any self-regulatory organization with regulatory authority over the activities of the employer or employee;
       - **(iv)** as otherwise required by law; or
       - **(v)** pursuant to section 1681f of this title .
-  - **(2)** After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
+  - **(2)** After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) of this section an investigative consumer report need not be disclosed.
   - **(3)** For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title ), any entity established under title I of the Sarbanes-Oxley Act of 2002 [ 15 U.S.C. 7211 et seq.], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
-- **(z)** The term “veteran” has the meaning given the term in section 101 of title 38 .
-- **(aa)** The term “veteran’s medical debt”—
-  - **(1)** means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
-  - **(2)** includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.

@@ -3,20 +3,21 @@ title: "Section 51 - Definitions"
 usc_title: 21
 usc_section: "51"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 51"
-generated_at: "2026-03-30T02:54:54.272Z"
+generated_at: "2026-03-30T03:05:00.965Z"
+status: "active"
 ---
 
 # § 379j–51. Definitions
 
 For purposes of this subpart:
 
-  - **(1)** The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items) for September of the preceding fiscal year divided by such Index for September 2011.
+  - **(1)** The term “adjustment factor” applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.
   - **(2)** The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
     - **(A)** one business entity controls, or has the power to control, the other business entity; or
     - **(B)** a third party controls, or has power to control, both of the business entities.
-  - **(3)** The term “biosimilar biological product” means a specific strength of a biological product in final dosage form for which a biosimilar biological product application has been approved.
+  - **(3)** The term “biosimilar biological product” means a product for which a biosimilar biological product application has been approved.
   - **(4)**
     - **(A)** Subject to subparagraph (B), the term “biosimilar biological product application” means an application for licensure of a biological product under section 262(k) of title 42 .
     - **(B)** Such term does not include—
@@ -24,8 +25,9 @@ For purposes of this subpart:
       - **(ii)** an application filed under section 262(k) of title 42 that cites as the reference product a bovine blood product for topical application licensed before September 1, 1992 , or a large volume parenteral drug product approved before such date;
       - **(iii)** an application filed under section 262(k) of title 42 with respect to—
         - **(I)** whole blood or a blood component for transfusion;
-        - **(II)** an in vitro diagnostic biological product; or
-        - **(III)** a biological product for further manufacturing use only; or
+        - **(II)** an allergenic extract product;
+        - **(III)** an in vitro diagnostic biological product; or
+        - **(IV)** a biological product for further manufacturing use only; or
       - **(iv)** an application for licensure under section 262(k) of title 42 that is submitted by a State or Federal Government entity for a product that is not distributed commercially.
   - **(5)** The term “biosimilar biological product development meeting” means any meeting, other than a biosimilar initial advisory meeting, regarding the content of a development program, including a proposed design for, or data from, a study intended to support a biosimilar biological product application.
   - **(6)** The term “biosimilar biological product development program” means the program under this subpart for expediting the process for the review of submissions in connection with biosimilar biological product development.

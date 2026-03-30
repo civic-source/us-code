@@ -1,20 +1,33 @@
 ---
-title: "Section 2837 - Housing Requirements and Market Analysis"
+title: "Section 2837 - Limited partnerships with private developers of housing"
 usc_title: 10
 usc_section: "2837"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2837"
-generated_at: "2026-03-30T02:53:38.179Z"
+generated_at: "2026-03-30T03:04:17.302Z"
+status: "active"
 ---
 
-# § 2837. Housing Requirements and Market Analysis
+# § 2837. Limited partnerships with private developers of housing
 
-- **(a)** Not less frequently than once every five years and in accordance with the requirements of this section, the Secretary concerned shall conduct a Housing Requirements and Market Analysis (in this section referred to as an “HRMA”) for each military installation under the jurisdiction of the Secretary concerned that is located in the United States.
-- **(b)**
-  - **(1)** Except as provided in paragraph (2), the Secretary concerned shall prioritize the conduct of HRMAs for military installations—
-    - **(A)** for which an HRMA has not been conducted during the five-year period preceding the date of the enactment of this section; or
-    - **(B)** in locations with housing shortages.
-  - **(2)** Paragraph (1) shall not apply to a military department that required an HRMA to be conducted for each military installation not less frequently than once every five years before the date of the enactment of this section.
-- **(c)** The Secretary of Defense shall include with the budget materials for the Department of Defense for fiscal year 2024 and each subsequent fiscal year (as submitted to Congress pursuant to section 1105 of title 31 , United States Code) a list of the military installations for which the Secretary concerned plans to conduct an HRMA during the fiscal year covered by such budget materials.
-- **(d)** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total population of such installation, including members of the armed forces, civilian employees of the Department of Defense, and defense contractors.
+- **(a)**
+  - **(1)** In order to meet the housing requirements of members of the armed forces, and the dependents of such members, at a military installation described in paragraph (2), the Secretary of a military department may enter into a limited partnership with one or more private developers to encourage the construction of housing and accessory structures within commuting distance of the installation. The Secretary may contribute not less than five percent, but not more than 35 percent, of the development costs under a limited partnership.
+  - **(2)** Paragraph (1) applies to a military installation under the jurisdiction of the Secretary concerned at which there is a shortage of suitable housing to meet the requirements of members and dependents referred to in such paragraph.
+- **(b)** The Secretary concerned may also enter into collateral incentive agreements with private developers who enter into a limited partnership under subsection (a) to ensure that, where appropriate—
+  - **(1)** a suitable preference will be afforded members of the armed forces in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the limited partnership; or
+  - **(2)** the rental rates or sale prices, as the case may be, for some or all of such units will be affordable for such members.
+- **(c)**
+  - **(1)** The Secretary concerned shall use publicly advertised, competitively bid or competitively negotiated, contracting procedures, as provided in chapter 137 of this title, to enter into limited partnerships under subsection (a).
+  - **(2)** When a decision is made to enter into a limited partnership under subsection (a), the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include the justification for the limited partnership, the terms and conditions of the limited partnership, a description of the development costs for projects under the limited partnership, and a description of the share of such costs to be incurred by the Secretary concerned. The Secretary concerned may then enter into the limited partnership only after the end of the 21-day period beginning on the date the report is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title .
+- **(d)**
+  - **(1)** There is hereby established on the books of the Treasury an account to be known as the “Defense Housing Investment Account”.
+  - **(2)** There shall be deposited into the Account—
+    - **(A)** such funds as may be authorized for and appropriated to the Account; and
+    - **(B)** any proceeds received by the Secretary concerned from the repayment of investments or profits on investments of the Secretary under subsection (a).
+  - **(3)** From such amounts as are provided in advance in appropriation Acts, funds in the Account shall be available to the Secretaries concerned in amounts determined by the Secretary of Defense for contracts, investments, and expenses necessary for the implementation of this section.
+  - **(4)** The Secretary concerned may not enter into a contract in connection with a limited partnership under subsection (a) or a collateral incentive agreement under subsection (b) unless a sufficient amount of the unobligated balance of the funds in the Account is available to the Secretary, as of the time the contract is entered into, to satisfy the total obligations to be incurred by the United States under the contract.
+- **[(e)** Repealed. Pub. L. 104–106, div. B, title XXVIII, § 2802(d)(1) , Feb. 10, 1996 , 110 Stat. 552 .]
+- **(f)** Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress a report specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
+- **(g)** Nothing in this section shall be construed to permit the Secretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
+- **(h)** The authority of the Secretary concerned to enter into a limited partnership under this section shall expire on September 30, 2000 .

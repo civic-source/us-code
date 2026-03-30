@@ -3,19 +3,20 @@ title: "Section 1022g - General provisions"
 usc_title: 20
 usc_section: "1022g"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1022g"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-03-30T03:04:46.243Z"
+status: "active"
 ---
 
 # § 1022g. General provisions
 
 - **(a)** In complying with sections 1022d and 1022e of this title, the Secretary shall ensure that States and institutions of higher education use fair and equitable methods in reporting and that the reporting methods do not reveal personally identifiable information.
-- **(b)** For each State that does not use content assessments as a means of ensuring that all teachers teaching in core academic subjects within the State meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, in accordance with the State plan submitted or revised under section 6311 of this title , and that each person employed as a special education teacher in the State who teaches elementary school or secondary school meets the qualifications described in section 1412(a)(14)(C) of this title , the Secretary shall—
+- **(b)** For each State that does not use content assessments as a means of ensuring that all teachers teaching in core academic subjects within the State are highly qualified, as required under section 6319 of this title , in accordance with the State plan submitted or revised under section 6311 of this title , and that each person employed as a special education teacher in the State who teaches elementary school or secondary school is highly qualified by the deadline, as required under section 1412(a)(14)(C) of this title , the Secretary shall—
   - **(1)** to the extent practicable, collect data comparable to the data required under this part from States, local educational agencies, institutions of higher education, or other entities that administer such assessments to teachers or prospective teachers; and
   - **(2)** notwithstanding any other provision of this part, use such data to carry out requirements of this part related to assessments, pass rates, and scaled scores.
 - **(c)**
-  - **(1)** For the purpose of improving teacher preparation programs, a State that receives funds under this chapter, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
+  - **(1)** For the purpose of improving teacher preparation programs, a State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42, or that participates as a member of a partnership, consortium, or other entity that receives such funds, shall provide to a teacher preparation program, upon the request of the teacher preparation program, any and all pertinent education-related information that—
     - **(A)** may enable the teacher preparation program to evaluate the effectiveness of the program’s graduates or the program itself; and
     - **(B)** is possessed, controlled, or accessible by the State.
   - **(2)** The information described in paragraph (1)—

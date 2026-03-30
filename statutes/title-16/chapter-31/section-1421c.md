@@ -3,9 +3,10 @@ title: "Section 1421c - Unusual mortality event response"
 usc_title: 16
 usc_section: "1421c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1421c"
-generated_at: "2026-03-30T02:54:22.965Z"
+generated_at: "2026-03-30T03:04:48.567Z"
+status: "active"
 ---
 
 # § 1421c. Unusual mortality event response
@@ -15,14 +16,14 @@ generated_at: "2026-03-30T02:54:22.965Z"
     - **(A)** The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, and medical science, to provide guidance to the Secretary and the Secretary of the Interior for—
       - **(i)** determining whether an unusual mortality event is occurring;
       - **(ii)** determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
-      - **(iii)** developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
-    - **(B)** Chapter 10 of title 5 shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
+      - **(iii)** developing the contingency plan in accordance with subsection (b) of this section, to assist the Secretary in responding to unusual mortality events.
+    - **(B)** The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
   - **(2)** The Secretary, in consultation with the Secretary of the Interior, shall to the extent necessary and practicable—
     - **(A)** within 24 hours after receiving notification from a stranding network participant that an unusual mortality event might be occurring, contact as many members as is possible of the unusual mortality event working group for guidance; and
     - **(B)** within 48 hours after receiving such notification—
       - **(i)** make a determination as to whether an unusual mortality event is occurring;
       - **(ii)** inform the stranding network participant of that determination; and
-      - **(iii)** if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c).
+      - **(iii)** if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c) of this section.
 - **(b)**
   - **(1)** The Secretary shall, in consultation with the Secretary of the Interior and the unusual mortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
   - **(2)** The contingency plan required under this subsection shall include—
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:54:22.965Z"
     - **(B)** An Onsite Coordinator so designated shall be one or more appropriate Regional Directors of the National Marine Fisheries Service or the United States Fish and Wildlife Service, or their designees.
     - **(C)** If, because of the wide geographic distribution, multiple species of marine mammals involved, or magnitude of an unusual mortality event, more than one Onsite Coordinator is designated, the Secretary shall, in consultation with the Secretary of the Interior, designate which of the Onsite Coordinators shall have primary responsibility with respect to the event.
   - **(2)**
-    - **(A)** An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b), except that—
+    - **(A)** An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
       - **(i)** with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
       - **(ii)** the contingency plan may be temporarily modified by an Onsite Coordinator, consulting as expeditiously as possible with the Secretary, the Secretary of the Interior, and the unusual mortality event working group.
     - **(B)** An Onsite Coordinator may delegate to any qualified person authority to act as an Onsite Coordinator under this subchapter.

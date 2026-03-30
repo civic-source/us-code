@@ -3,9 +3,10 @@ title: "Section 9901 - Purposes and goals"
 usc_title: 42
 usc_section: "9901"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9901"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-03-30T03:06:22.865Z"
+status: "active"
 ---
 
 # § 9901. Purposes and goals

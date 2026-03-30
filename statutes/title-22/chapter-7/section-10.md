@@ -1,16 +1,15 @@
 ---
-title: "Section 10 - Capital increase"
+title: "Section 10 - Effectiveness of Convention"
 usc_title: 22
 usc_section: "10"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-30T02:55:05.325Z"
+generated_at: "2026-03-30T03:04:53.602Z"
+status: "active"
 ---
 
-# § 290l–10. Capital increase
+# § 290k–10. Effectiveness of Convention
 
-- **(a)**
-  - **(1)** The United States Governor of the Bank may subscribe on behalf of the United States up to 40,000 additional shares of the paid-in capital stock of the Bank.
-  - **(2)** Any subscription by the United States to additional paid-in capital stock of the Bank shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
-- **(b)** In order to pay for the increase in the United States subscription to the Bank under paragraph (A), there are authorized to be appropriated, without fiscal year limitation, $437,457,804, for payment by the Secretary of the Treasury.
+Articles 43 through 48, inclusive, of the Convention shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon the entry into force of the Convention for the United States.
+

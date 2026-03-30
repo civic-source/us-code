@@ -3,9 +3,10 @@ title: "Section 1406h - Taxes, duties and fees as funds for benefit of municipal
 usc_title: 48
 usc_section: "1406h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1406h"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-03-30T03:06:26.525Z"
+status: "active"
 ---
 
 # § 1406h. Taxes, duties and fees as funds for benefit of municipalities; appropriations

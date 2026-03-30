@@ -3,9 +3,10 @@ title: "Section 15c - Actions by State attorneys general"
 usc_title: 15
 usc_section: "15c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 15c"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-03-30T03:04:31.062Z"
+status: "active"
 ---
 
 # § 15c. Actions by State attorneys general
@@ -18,9 +19,9 @@ generated_at: "2026-03-30T02:54:08.021Z"
     - **(C)** whether such State or the opposing party, or either party’s representative, engaged in conduct primarily for the purpose of delaying the litigation or increasing the cost thereof.
 - **(b)**
   - **(1)** In any action brought under subsection (a)(1) of this section, the State attorney general shall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
-  - **(2)** Any person on whose behalf an action is brought under subsection (a)(1) may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
-  - **(3)** The final judgment in an action under subsection (a)(1) shall be res judicata as to any claim under section 15 of this title by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
-- **(c)** An action under subsection (a)(1) shall not be dismissed or compromised without the approval of the court, and notice of any proposed dismissal or compromise shall be given in such manner as the court directs.
-- **(d)** In any action under subsection (a)—
+  - **(2)** Any person on whose behalf an action is brought under subsection (a)(1) of this section may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
+  - **(3)** The final judgment in an action under subsection (a)(1) of this section shall be res judicata as to any claim under section 15 of this title by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
+- **(c)** An action under subsection (a)(1) of this section shall not be dismissed or compromised without the approval of the court, and notice of any proposed dismissal or compromise shall be given in such manner as the court directs.
+- **(d)** In any action under subsection (a) of this section—
   - **(1)** the amount of the plaintiffs’ attorney’s fee, if any, shall be determined by the court; and
   - **(2)** the court may, in its discretion, award a reasonable attorney’s fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.

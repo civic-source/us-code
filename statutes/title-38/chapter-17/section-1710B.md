@@ -3,9 +3,10 @@ title: "Section 1710B - Extended care services"
 usc_title: 38
 usc_section: "1710B"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1710B"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-03-30T03:05:59.195Z"
+status: "active"
 ---
 
 # § 1710B. Extended care services
@@ -22,9 +23,8 @@ generated_at: "2026-03-30T02:55:53.483Z"
   - **(1)** Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
   - **(2)** Paragraph (1) shall not apply—
     - **(A)** to a veteran whose annual income (determined under section 1503 of this title ) is less than the amount in effect under section 1521(b) of this title ;
-    - **(B)** to a veteran being furnished hospice care under this section;
-    - **(C)** with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999 ; or
-    - **(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
+    - **(B)** to a veteran being furnished hospice care under this section; or
+    - **(C)** with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999 .
 - **(d)**
   - **(1)** A veteran who is furnished extended care services under this chapter and who is required under subsection (c) to pay an amount to the United States in order to be furnished such services shall be liable to the United States for that amount.
   - **(2)** In implementing subsection (c), the Secretary shall develop a methodology for establishing the amount of the copayment for which a veteran described in subsection (c) is liable. That methodology shall provide for—

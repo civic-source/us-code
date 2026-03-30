@@ -3,9 +3,10 @@ title: "Section 220525 - Granting sanctions for amateur athletic competitions"
 usc_title: 36
 usc_section: "220525"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 220525"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-03-30T03:05:43.656Z"
+status: "active"
 ---
 
 # § 220525. Granting sanctions for amateur athletic competitions
@@ -28,6 +29,5 @@ generated_at: "2026-03-30T02:55:44.710Z"
     - **(B)** appropriate provision has been made for validation of any records established during the competition;
     - **(C)** due regard has been given to any international amateur athletic requirements specifically applicable to the competition;
     - **(D)** the competition will be conducted by qualified officials;
-    - **(E)** proper medical supervision will be provided for athletes who will participate in the competition;
-    - **(F)** proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition; and
-    - **(G)** the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
+    - **(E)** proper medical supervision will be provided for athletes who will participate in the competition; and
+    - **(F)** proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition.

@@ -1,12 +1,20 @@
 ---
-title: "Section 14134 - Omitted"
+title: "Section 14134 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14134"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14134"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.946Z"
+status: "active"
 ---
 
-# § 14134. Omitted
+# § 14134. Authorization of appropriations
 
+There are authorized to be appropriated to the Federal Bureau of Investigation to carry out sections 14131, 14132, and 14133 of this title—
+
+  - **(1)** $5,500,000 for fiscal year 1996;
+  - **(2)** $8,000,000 for fiscal year 1997;
+  - **(3)** $8,000,000 for fiscal year 1998;
+  - **(4)** $2,500,000 for fiscal year 1999; and
+  - **(5)** $1,000,000 for fiscal year 2000.

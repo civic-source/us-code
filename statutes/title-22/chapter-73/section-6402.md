@@ -3,9 +3,10 @@ title: "Section 6402 - Definitions"
 usc_title: 22
 usc_section: "6402"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6402"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-03-30T03:04:53.696Z"
+status: "active"
 ---
 
 # § 6402. Definitions
@@ -23,25 +24,18 @@ In this chapter:
   - **(7)** The term “Executive Summary” means the Executive Summary to the Annual Report, as described in section 6412(b)(1)(F) of this title .
   - **(8)** The term “government” or “foreign government” includes any agency or instrumentality of the government.
   - **(9)** The term “Human Rights Reports” means all reports submitted by the Department of State to Congress under sections 2151n and 2304 of this title.
-  - **(10)** The term “institution of higher education” has the meaning given that term in section 1001 of title 20 .
-  - **(11)** The term “non-state actor” means a nonsovereign entity that—
-    - **(A)** exercises significant political power and territorial control;
-    - **(B)** is outside the control of a sovereign government; and
-    - **(C)** often employs violence in pursuit of its objectives.
-  - **(12)** The term “Office” means the Office on International Religious Freedom established in section 6411(a) of this title .
-  - **(13)** The term “particularly severe violations of religious freedom” means systematic, ongoing, egregious violations of religious freedom, including violations such as—
+  - **(10)** The term “Office” means the Office on International Religious Freedom established in section 6411(a) of this title .
+  - **(11)** The term “particularly severe violations of religious freedom” means systematic, ongoing, egregious violations of religious freedom, including violations such as—
     - **(A)** torture or cruel, inhuman, or degrading treatment or punishment;
     - **(B)** prolonged detention without charges;
     - **(C)** causing the disappearance of persons by the abduction or clandestine detention of those persons; or
     - **(D)** other flagrant denial of the right to life, liberty, or the security of persons.
-  - **(14)** The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 3021(i) of title 50 . 2 2 See References in Text note below.
-  - **(15)** The term “Special Watch List” means the Special Watch List described in section 6442(b)(1)(A)(iii) of this title .
-  - **(16)** The term “violations of religious freedom” means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in section 6401(a)(2) of this title and as described in section 6401(a)(3) of this title , including violations such as—
+  - **(12)** The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 3021(i) of title 50 . 2 2 See References in Text note below.
+  - **(13)** The term “violations of religious freedom” means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in section 6401(a)(2) of this title and as described in section 6401(a)(3) of this title , including violations such as—
     - **(A)** arbitrary prohibitions on, restrictions of, or punishment for—
       - **(i)** assembling for peaceful religious activities such as worship, preaching, and prayer, including arbitrary registration requirements;
       - **(ii)** speaking freely about one’s religious beliefs;
       - **(iii)** changing one’s religious beliefs and affiliation;
-      - **(iv)** not professing a particular religion, or any religion;
-      - **(v)** possession and distribution of religious literature, including Bibles; or
-      - **(vi)** raising one’s children in the religious teachings and practices of one’s choice; or
-    - **(B)** any of the following acts if committed on account of an individual’s conscience, non-theistic views, or religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, forcibly compelling non-believers or non-theists to recant their beliefs or to convert, beating, torture, mutilation, rape, enslavement, murder, and execution.
+      - **(iv)** possession and distribution of religious literature, including Bibles; or
+      - **(v)** raising one’s children in the religious teachings and practices of one’s choice; or
+    - **(B)** any of the following acts if committed on account of an individual’s religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, beating, torture, mutilation, rape, enslavement, murder, and execution.

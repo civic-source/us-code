@@ -3,9 +3,10 @@ title: "Section 1306 - Penalties"
 usc_title: 8
 usc_section: "1306"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1306"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-03-30T03:04:14.634Z"
+status: "active"
 ---
 
 # § 1306. Penalties

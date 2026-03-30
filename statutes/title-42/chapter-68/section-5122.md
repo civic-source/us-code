@@ -3,9 +3,10 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-03-30T03:06:22.727Z"
+status: "active"
 ---
 
 # § 5122. Definitions
@@ -17,7 +18,7 @@ As used in this chapter—
   - **(3)** “United States” means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(4)** “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(5)** “Governor” means the chief executive of any State.
-  - **(6)** The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a et seq.). 1 1 See References in Text note below.
+  - **(6)** The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a et seq.).
   - **(7)** The term “individual with a disability” means an individual with a disability as defined in section 12102(2) of this title .
   - **(8)** The term “local government” means—
     - **(A)** a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
@@ -30,6 +31,6 @@ As used in this chapter—
     - **(C)** Any other public building, structure, or system, including those used for educational, recreational, or cultural purposes.
     - **(D)** Any park.
   - **(11)**
-    - **(A)** The term “private nonprofit facility” means private nonprofit educational (without regard to the religious character of the facility), center-based childcare, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
-    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, food banks, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded from this definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
+    - **(A)** The term “private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
+    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
   - **(12)** The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.

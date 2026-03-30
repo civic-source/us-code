@@ -3,9 +3,10 @@ title: "Section 11313 - Functions"
 usc_title: 42
 usc_section: "11313"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11313"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-03-30T03:06:22.885Z"
+status: "active"
 ---
 
 # § 11313. Functions
@@ -27,11 +28,11 @@ generated_at: "2026-03-30T02:56:11.397Z"
   - **(8)** conduct research and evaluation related to its functions as defined in this section;
   - **(9)** 1 1 So in original. Two pars. (9) have been enacted. develop joint Federal agency and other initiatives to fulfill the goals of the agency;
   - **(9)** 1 collect and disseminate information relating to homeless individuals;
-  - **(10)** prepare the annual reports required in subsection (c)(2);
+  - **(10)** prepare the annual reports required in subsection (c)(2) of this section;
   - **(11)** prepare and distribute to States (including State contact persons), local governments, and other public and private nonprofit organizations, a bimonthly bulletin that describes the Federal resources available to them to assist the homeless, including current information regarding application deadlines and appropriate persons to contact in each Federal agency providing the resources;
   - **(12)** develop constructive alternatives to criminalizing homelessness and laws and policies that prohibit sleeping, feeding, sitting, resting, or lying in public spaces when there are no suitable alternatives, result in the destruction of a homeless person’s property without due process, or are selectively enforced against homeless persons; and
   - **(13)** not later than the expiration of the 6-month period beginning upon completion of the study requested in a letter to the Acting Comptroller General from the Chair and Ranking Member of the House Financial Services Committee and several other members regarding various definitions of homelessness in Federal statutes, convene a meeting of representatives of all Federal agencies and committees of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families, local and State governments, academic researchers who specialize in homelessness, nonprofit housing and service providers that receive funding under any Federal program to assist homeless individuals or families, organizations advocating on behalf of such nonprofit providers and homeless persons receiving housing or services under any such Federal program, and homeless persons receiving housing or services under any such Federal program, at which meeting such representatives shall discuss all issues relevant to whether the definitions of “homeless” under paragraphs (1) through (4) of section 11302(a) of this title , as amended by section 1003 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, should be modified by the Congress, including whether there is a compelling need for a uniform definition of homelessness under Federal law, the extent to which the differences in such definitions create barriers for individuals to accessing services and to collaboration between agencies, and the relative availability, and barriers to access by persons defined as homeless, of mainstream programs identified by the Government Accountability Office in the two reports identified in paragraph (7) of this subsection; and shall submit transcripts of such meeting, and any majority and dissenting recommendations from such meetings, to each committee of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families not later than the expiration of the 60-day period beginning upon conclusion of such meeting.
-- **(b)** In carrying out subsection (a), the Council may—
+- **(b)** In carrying out subsection (a) of this section, the Council may—
   - **(1)** arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; 2 2 So in original. Probably should be followed by “and”.
   - **(2)** publish a newsletter concerning Federal, State, and local programs that are effectively meeting the needs of homeless individuals.
 - **(c)**

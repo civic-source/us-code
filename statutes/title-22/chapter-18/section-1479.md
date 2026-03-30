@@ -3,9 +3,10 @@ title: "Section 1479 - Advancement of funds, property, or services by foreign go
 usc_title: 22
 usc_section: "1479"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1479"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-03-30T03:04:53.610Z"
+status: "active"
 ---
 
 # § 1479. Advancement of funds, property, or services by foreign governments; disposition; availability; return of unexpended balances or property

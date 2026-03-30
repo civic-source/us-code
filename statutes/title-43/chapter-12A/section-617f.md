@@ -3,9 +3,10 @@ title: "Section 617f - Canals and appurtenant structures; transfer of title; pow
 usc_title: 43
 usc_section: "617f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 617f"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-03-30T03:06:10.658Z"
+status: "active"
 ---
 
 # § 617f. Canals and appurtenant structures; transfer of title; power development

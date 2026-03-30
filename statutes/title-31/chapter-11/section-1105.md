@@ -3,9 +3,10 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-03-30T03:05:28.351Z"
+status: "active"
 ---
 
 # § 1105. Budget contents and submission to Congress
@@ -47,7 +48,7 @@ generated_at: "2026-03-30T02:55:34.048Z"
     - **(B)** the missions and basic programs.
   - **(23)** separate appropriation accounts for appropriations under the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.) and the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 801 et seq.).
   - **(24)** recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title ) that the President decides are desirable.
-  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 401 of title 5 .
+  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) of the Inspector General Act of 1978.
   - **(26)** a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
   - **(27)** a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
   - **(28)** beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
@@ -59,29 +60,27 @@ generated_at: "2026-03-30T02:55:34.048Z"
   - **(34)** with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
   - **(35)**
     - **(A)**
-      - **(i)** a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to cybersecurity, with separate displays for mandatory and discretionary amounts, including—
-        - **(I)** summaries of the total amount of such appropriations or new obligational authority and outlays requested for cybersecurity;
-        - **(II)** an estimate of the current service levels of cybersecurity spending;
-        - **(III)** the most recent risk assessment and summary of cybersecurity needs in each initiative area (as determined by the administration); and
-        - **(IV)** an estimate of user fees collected by the Federal Government on behalf of cybersecurity activities;
+      - **(i)** a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+        - **(I)** summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
+        - **(II)** an estimate of the current service levels of homeland security spending;
+        - **(III)** the most recent risk assessment and summary of homeland security needs in each initiative area (as determined by the administration); and
+        - **(IV)** an estimate of user fees collected by the Federal Government on behalf of homeland security activities;
       - **(ii)** with respect to subclauses (I) through (IV) of clause (i), amounts shall be provided by account for each program, project and activity; and
-      - **(iii)** an estimate of expenditures for cybersecurity activities by State and local governments and the private sector for the prior fiscal year and the current fiscal year.
-    - **(B)** Prior to implementing this paragraph, including determining what Federal activities or accounts constitute cybersecurity for purposes of budgetary classification, the Office of Management and Budget shall consult with the Committees on Appropriations and the Committees on the Budget of the House of Representatives and the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate.
+      - **(iii)** an estimate of expenditures for homeland security activities by State and local governments and the private sector for the prior fiscal year and the current fiscal year.
+    - **(B)** In this paragraph, consistent with the Office of Management and Budget’s June 2002 “Annual Report to Congress on Combatting Terrorism”, the term “homeland security” refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.
+    - **(C)** In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
   - **(36)** as supplementary materials, a separate analysis of the budgetary effects for all prior fiscal years, the current fiscal year, the fiscal year for which the budget is submitted, and ensuing fiscal years of the actions the Secretary of the Treasury has taken or plans to take using any authority provided in the Emergency Economic Stabilization Act of 2008, including—
     - **(A)** an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
     - **(B)** an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;
     - **(C)** an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 calculated on a cash basis;
     - **(D)** a revised estimate of the deficit, the debt held by the public, and the gross Federal debt, substituting the cash-based estimates in subparagraph (C) for the estimates calculated under subparagraph (A) pursuant to the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008; and
     - **(E)** the portion of the deficit which can be attributed to any action taken by the Secretary using authority provided by the Emergency Economic Stabilization Act of 2008 and the extent to which the change in the deficit since the most recent estimate is due to a reestimate using the methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008.
-  - **(37)** information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following accounts of the Department of Veterans Affairs:
-    - **(A)** Veterans Benefits Administration, Compensation and Pensions.
-    - **(B)** Veterans Benefits Administration, Readjustment Benefits.
-    - **(C)** Veterans Benefits Administration, Veterans Insurance and Indemnities.
-    - **(D)** Veterans Health Administration, Medical Services.
-    - **(E)** Veterans Health Administration, Medical Support and Compliance.
-    - **(F)** Veterans Health Administration, Medical Facilities.
-    - **(G)** Veterans Health Administration, Medical Community Care.
+  - **(37)** 1 1 So in original. Another par. (37) is set out after par. (38). information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+    - **(A)** Medical Services.
+    - **(B)** Medical Support and Compliance.
+    - **(C)** Medical Facilities.
   - **(38)** a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
+  - **(37)** 2 2 So in original. Another par. (37) is set out preceding par. (38). the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 - **(b)** Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 - **(c)** The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 - **(d)** When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
@@ -129,16 +128,3 @@ generated_at: "2026-03-30T02:55:34.048Z"
 - **(h)**
   - **(1)** If there is a medicare funding warning under section 801(a)(2) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 made in a year, the President shall submit to Congress, within the 15-day period beginning on the date of the budget submission to Congress under subsection (a) for the succeeding year, proposed legislation to respond to such warning.
   - **(2)** Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
-- **(i)**
-  - **(1)** The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
-    - **(A)** the name of the agency;
-    - **(B)** a unique identifier that identifies the agency;
-    - **(C)** to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
-    - **(D)** the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note);
-    - **(E)** the uniform resource locator where the budget justification materials are published on the website of the agency; and
-    - **(F)** a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) in a structured data format.
-  - **(2)**
-    - **(A)** Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
-    - **(B)** Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
-    - **(C)** If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
-  - **(3)** In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note).

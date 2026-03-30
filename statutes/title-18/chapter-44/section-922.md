@@ -3,9 +3,10 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-30T02:54:16.472Z"
+generated_at: "2026-03-30T03:04:41.089Z"
+status: "active"
 ---
 
 # § 922. Unlawful acts
@@ -39,21 +40,13 @@ generated_at: "2026-03-30T02:54:16.472Z"
   - **(5)** any firearm or armor-piercing ammunition to any person unless the licensee notes in his records, required to be kept pursuant to section 923 of this chapter, the name, age, and place of residence of such person if the person is an individual, or the identity and principal and local places of business of such person if the person is a corporation or other business entity.
 - **(c)** In any case not otherwise prohibited by this chapter, a licensed importer, licensed manufacturer, or licensed dealer may sell a firearm to a person who does not appear in person at the licensee’s business premises (other than another licensed importer, manufacturer, or dealer) only if—
   - **(1)** the transferee submits to the transferor a sworn statement in the following form: “Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are ____________ _______________________ Signature _________ Date ____.” and containing blank spaces for the attachment of a true copy of any permit or other information required pursuant to such statute or published ordinance;
-  - **(2)** the transferor has—
-    - **(A)** prior to the shipment or delivery of the firearm, forwarded a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee’s place of residence, by—
-      - **(i)** registered or certified mail (return receipt requested); or
-      - **(ii)** verified electronic notification; and
-    - **(B)**
-      - **(i)** with respect to a delivery method described in subparagraph (A)(i)—
-        - **(I)** received a return receipt evidencing delivery of the statement; or
-        - **(II)** had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; or
-      - **(ii)** with respect to a delivery method described in subparagraph (A)(ii), received a return receipt evidencing delivery of the statement; and
+  - **(2)** the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee’s place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and
   - **(3)** the transferor has delayed shipment or delivery for a period of at least seven days following receipt of the notification of the acceptance or refusal of delivery of the statement.
-- **(d)** It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person, including as a juvenile—
+- **(d)** It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person—
   - **(1)** is under indictment for, or has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
   - **(2)** is a fugitive from justice;
   - **(3)** is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 ));
-  - **(4)** has been adjudicated as a mental defective or has been committed to any mental institution at 16 years of age or older;
+  - **(4)** has been adjudicated as a mental defective or has been committed to any mental institution;
   - **(5)** who, being an alien—
     - **(A)** is illegally or unlawfully in the United States; or
     - **(B)** except as provided in subsection (y)(2), has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(26) ));
@@ -63,10 +56,8 @@ generated_at: "2026-03-30T02:54:16.472Z"
     - **(A)** was issued after a hearing of which such person received actual notice, and at which such person had the opportunity to participate; and
     - **(B)**
       - **(i)** includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
-      - **(ii)** by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury;
-  - **(9)** has been convicted in any court of a misdemeanor crime of domestic violence;
-  - **(10)** intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense (as such terms are defined in section 932(a)); or
-  - **(11)** intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (1) through (10).
+      - **(ii)** by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
+  - **(9)** has been convicted in any court of a misdemeanor crime of domestic violence.
 - **(e)** It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce, to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
 - **(f)**
   - **(1)** It shall be unlawful for any common or contract carrier to transport or deliver in interstate or foreign commerce any firearm or ammunition with knowledge or reasonable cause to believe that the shipment, transportation, or receipt thereof would be in violation of the provisions of this chapter.
@@ -211,15 +202,9 @@ generated_at: "2026-03-30T02:54:16.472Z"
     - **(A)** before the completion of the transfer, the licensee contacts the national instant criminal background check system established under section 103 of that Act;
     - **(B)**
       - **(i)** the system provides the licensee with a unique identification number; or
-      - **(ii)** subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law;
-    - **(C)** in the case of a person less than 21 years of age, in addition to all other requirements of this chapter—
-      - **(i)** the system provides the licensee with a unique identification number;
-      - **(ii)** 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d); or
-      - **(iii)** in the case of such a person with respect to whom the system notifies the licensee in accordance with clause (ii) that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d), 10 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that—
-        - **(I)** transferring the firearm to the other person would violate subsection (d) of this section; or
-        - **(II)** receipt of a firearm by the other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
-    - **(D)** the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title ) of the transferee containing a photograph of the transferee.
-  - **(2)** If transfer or receipt of a firearm would not violate subsection (d), (g), or (n) (as applicable) or State, local or Tribal law, the system shall—
+      - **(ii)** 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
+    - **(C)** the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title ) of the transferee containing a photograph of the transferee.
+  - **(2)** If receipt of a firearm would not violate subsection (g) or (n) or State law, the system shall—
     - **(A)** assign a unique identification number to the transfer;
     - **(B)** provide the licensee with the number; and
     - **(C)** destroy all records of the system with respect to the call (other than the identifying number and the date the number was assigned) and all records of the system relating to the person or the transfer.
@@ -234,8 +219,8 @@ generated_at: "2026-03-30T02:54:16.472Z"
       - **(i)** the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of square miles of land area of the State does not exceed 0.0025;
       - **(ii)** the business premises of the licensee at which the transfer is to occur are extremely remote in relation to the chief law enforcement officer (as defined in subsection (s)(8)); and
       - **(iii)** there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
-  - **(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) or State 5 5 So in original. Probably should be followed by a comma. local, or Tribal law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
-  - **(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) of this section or State 5 local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
+  - **(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
+  - **(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
   - **(6)** Neither a local government nor an employee of the Federal Government or of any State or local government, responsible for providing information to the national instant criminal background check system shall be liable in an action at law for damages—
     - **(A)** for failure to prevent the sale or transfer of a firearm to a person whose receipt or possession of the firearm is unlawful under this section; or
     - **(B)** for preventing such a sale or transfer to a person who may lawfully receive or possess a firearm.
@@ -292,7 +277,7 @@ generated_at: "2026-03-30T02:54:16.472Z"
     - **(A)**
       - **(i)** the manufacture for, transfer to, or possession by, the United States, a department or agency of the United States, a State, or a department, agency, or political subdivision of a State, of a handgun; or
       - **(ii)** the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
-    - **(B)** the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+    - **(B)** the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
     - **(C)** the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
     - **(D)** the transfer to any person of a handgun for which a secure gun storage or safety device is temporarily unavailable for the reasons described in the exceptions stated in section 923(e), if the licensed manufacturer, licensed importer, or licensed dealer delivers to the transferee within 10 calendar days from the date of the delivery of the handgun to the transferee a secure gun storage or safety device for the handgun.
   - **(3)**

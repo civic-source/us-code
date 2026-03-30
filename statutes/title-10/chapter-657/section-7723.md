@@ -1,0 +1,15 @@
+---
+title: "Section 7723 - Stay of proceedings for preserving evidence after stay of suit"
+usc_title: 10
+usc_section: "7723"
+chapter: 657
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 7723"
+generated_at: "2026-03-30T03:04:17.325Z"
+status: "active"
+---
+
+# § 7723. Stay of proceedings for preserving evidence after stay of suit
+
+If, at the time of certification under section 7722 of this title , or at any time before the termination of the stay based on the certificate, the Secretary of the Navy files with the court an additional certificate to the effect that the issue of any process to preserve evidence or the completion of action on process previously issued would tend to endanger the security of the United States or of any of its naval or military operations in the war, or would tend to interfere with those operations, then all proceedings for the taking or preserving of evidence to be used by either party in the trial shall be stayed.
+

@@ -3,9 +3,10 @@ title: "Section 302 - State old-age plans"
 usc_title: 42
 usc_section: "302"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 302"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-03-30T03:06:22.428Z"
+status: "active"
 ---
 
 # § 302. State old-age plans
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:56:10.852Z"
     - **(B)** include reasonable standards, consistent with the objectives of this subchapter, for determining eligibility for and the extent of such assistance; and
     - **(C)** provide a description of the services (if any) which the State agency makes available (using whatever internal organizational arrangement it finds appropriate for this purpose) to applicants for and recipients of such assistance to help them attain self-care, including a description of the steps taken to assure, in the provision of such services, maximum utilization of other agencies providing similar or related services; and
   - **(11)** provide that information is requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1320b–7 of this title .
-- **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a), except that he shall not approve any plan which imposes, as a condition of eligibility for assistance under the plan—
+- **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a) of this section, except that he shall not approve any plan which imposes, as a condition of eligibility for assistance under the plan—
   - **(1)** an age requirement of more than sixty-five years; or
   - **(2)** any residence requirement which (A) in the case of applicants for old-age assistance, excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for old-age assistance and has resided therein continuously for one year immediately preceding the application, and (B) in the case of applicants for medical assistance for the aged, excludes any individual who resides in the State; or
   - **(3)** any citizenship requirement which excludes any citizen of the United States.

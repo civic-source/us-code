@@ -3,9 +3,10 @@ title: "Section 1784a - Education and training opportunities for military spouse
 usc_title: 10
 usc_section: "1784a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1784a"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-03-30T03:04:17.265Z"
+status: "active"
 ---
 
 # § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
@@ -15,14 +16,9 @@ generated_at: "2026-03-30T02:53:38.138Z"
     - **(A)** the education and training required for a degree or credential at an accredited college, university, or technical school in the United States that expands employment and portable career opportunities for the spouse; or
     - **(B)** the education prerequisites and professional licensure or credential required, by a government or government sanctioned licensing body, for an occupation that expands employment and portable career opportunities for the spouse.
   - **(2)** As an alternative to, or in addition to, establishing a program under this subsection, the Secretary may provide tuition assistance to an eligible spouse who is pursuing education, training, or a license or credential to expand the spouse’s employment and portable career opportunities.
-- **(b)**
-  - **(1)** Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
-  - **(2)** A spouse who is eligible for a program under this section and begins a course of education or training for a degree, license, or credential described in subsection (a) may not become ineligible to complete such course of education or training solely because the member to whom the spouse is married is promoted to a higher grade.
+- **(b)** Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
 - **(c)** Subsection (b) does not include—
   - **(1)** a person who is married to, but legally separated from, a member of the armed forces under court order or statute of any State or territorial possession of the United States; and
   - **(2)** a spouse of a member of the armed forces who is also a member of the armed forces.
-- **(d)** In carrying out the programs authorized by subsection (a), the Secretary shall provide assistance to the spouse of a member of the armed forces described in subsection (b) with obtaining certification—
-  - **(1)** as a doula or International Board Certified Lactation Consultant; and
-  - **(2)** provided by an organization that receives reimbursement under the extramedical maternal health providers demonstration project required by section 746 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 10 U.S.C. 1073 note).
-- **(e)** In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
-- **(f)** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
+- **(d)** In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
+- **(e)** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).

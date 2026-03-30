@@ -1,12 +1,15 @@
 ---
-title: "Section 6972 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(6) , Dec. 20, 2018 , 132 Stat. 4981"
+title: "Section 6972 - Program staff"
 usc_title: 7
 usc_section: "6972"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6972"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-03-30T03:04:21.009Z"
+status: "active"
 ---
 
-# § 6972. Repealed. Pub. L. 115–334, title XII, § 12414(a)(6) , Dec. 20, 2018 , 132 Stat. 4981
+# § 6972. Program staff
+
+In making the personnel reductions required under section 6913 of this title , the Secretary shall reduce the number of Federal research and education personnel of the Department by a percentage equal to at least the percentage of overall Department personnel reductions. The Secretary shall achieve such reduction in research and education personnel in a manner that minimizes duplication and maximizes coordination between Federal and State research and extension activities.
 

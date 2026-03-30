@@ -3,9 +3,10 @@ title: "Section 2358 - Foreign and domestic excess property"
 usc_title: 22
 usc_section: "2358"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2358"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-03-30T03:04:53.634Z"
+status: "active"
 ---
 
 # § 2358. Foreign and domestic excess property

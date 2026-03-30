@@ -1,12 +1,15 @@
 ---
-title: "Section 1265 - Omitted"
+title: "Section 1265 - Rules and regulations"
 usc_title: 25
 usc_section: "1265"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1265"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.862Z"
+status: "active"
 ---
 
-# § 1265. Omitted
+# § 1265. Rules and regulations
+
+The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 

@@ -3,9 +3,10 @@ title: "Section 1407 - Retired pay base for members who first became members aft
 usc_title: 10
 usc_section: "1407"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1407"
-generated_at: "2026-03-30T02:53:38.119Z"
+generated_at: "2026-03-30T03:04:17.254Z"
+status: "active"
 ---
 
 # § 1407. Retired pay base for members who first became members after September 7, 1980 : high-36 month average
@@ -31,13 +32,10 @@ generated_at: "2026-03-30T02:53:38.119Z"
     - **(A)** the total amount of basic pay to which the member was entitled during the entire period the member was a member of a uniformed service before being so retired (or to which the member would have been entitled if the member had served on active duty during the entire period the member was a member of a uniformed service before being so retired), divided by
     - **(B)** the number of months (including any fraction thereof) which the member was a member before being so retired.
   - **(4)** The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title , before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
-- **(e)** In the case of a member who is retired under section 7314 or 9314 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 8330 of this title , the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
+- **(e)** In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title , the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 - **(f)**
   - **(1)** In the case of a member or former member described in paragraph (2), the retired pay base or retainer pay base is determined under section 1406 of this title in the same manner as if the member or former member first became a member of a uniformed service before September 8, 1980 .
   - **(2)** A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after October 30, 2000 —
     - **(A)** in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
-    - **(B)** in the case of an officer, is retired in a grade lower than the highest grade in which served pursuant to section 1370 or 1370a of this title that the officer served on active duty satisfactorily in that grade.
+    - **(B)** in the case of an officer, is retired in a grade lower than the highest grade in which served by reason of denial of a determination or certification under section 1370 of this title that the officer served on active duty satisfactorily in that grade.
   - **(3)** In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member’s high-36 average for the period of the member’s service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
-  - **(4)** In the case of an officer who served in the temporary grade of O–9 or O–10 and received a conditional or final retirement in the permanent grade of O–8 pursuant to section 1370 or 1370a of this title, the retired pay base or retainer pay shall be the lower of—
-    - **(A)** the amount determined under subsection (c) or (d), as applicable; or
-    - **(B)** the amount determined under section 1406 of this title , as if the officer first became a member of a uniformed service before September 8, 1980 .

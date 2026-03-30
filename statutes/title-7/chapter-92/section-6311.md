@@ -3,13 +3,14 @@ title: "Section 6311 - Authorization of appropriations; regulations"
 usc_title: 7
 usc_section: "6311"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6311"
-generated_at: "2026-03-30T02:53:42.429Z"
+generated_at: "2026-03-30T03:04:21.002Z"
+status: "active"
 ---
 
 # § 6311. Authorization of appropriations; regulations
 
 - **(a)** There are authorized to be appropriated for each fiscal year such funds as are necessary to carry out this chapter.
-- **(b)** Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board or the Committee in administering any provision of any order issued under this chapter.
+- **(b)** Funds appropriated under subsection (a) of this section shall not be available for payment of the expenses or expenditures of the Board or the Committee in administering any provision of any order issued under this chapter.
 - **(c)** The Secretary may issue such regulations as are necessary to carry out this chapter, including regulations relating to the assessment of late payment charges.

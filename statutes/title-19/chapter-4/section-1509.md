@@ -3,9 +3,10 @@ title: "Section 1509 - Examination of books and witnesses"
 usc_title: 19
 usc_section: "1509"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1509"
-generated_at: "2026-03-30T02:54:24.639Z"
+generated_at: "2026-03-30T03:04:42.012Z"
+status: "active"
 ---
 
 # § 1509. Examination of books and witnesses
@@ -13,11 +14,11 @@ generated_at: "2026-03-30T02:54:24.639Z"
 - **(a)** In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
   - **(1)** examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
     - **(A)** if such record is required by law or regulation for the entry of the merchandise (whether or not the Customs Service required its presentation at the time of entry) it shall be provided to the Customs Service within a reasonable time after demand for its production is made, taking into consideration the number, type, and age of the item demanded; and
-    - **(B)** if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g);
+    - **(B)** if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g) of this section;
   - **(2)** summon, upon reasonable notice—
     - **(A)** the person who—
-      - **(i)** imported, or knowingly caused to be imported, merchandise into the customs territory of the United States, or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in section 4502 of this title ),
-      - **(ii)** exported merchandise, or knowingly caused merchandise to be exported, to a USMCA country (as defined in section 4502 of this title ) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+      - **(i)** imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
+      - **(ii)** exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title ) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
       - **(iii)** transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
       - **(iv)** filed a declaration, entry, or drawback claim with the Customs Service;
     - **(B)** any officer, employee, or agent of any person described in subparagraph (A);
@@ -60,7 +61,7 @@ generated_at: "2026-03-30T02:54:24.639Z"
     - **(A)** before the expiration of the period allowed for the notice not to comply under paragraph (5)(B) of this subsection, or
     - **(B)** if the requirements of such paragraph (5)(B) have been met, except in accordance with an order issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance.
   - **(7)** The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
-- **(e)** The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A).
+- **(e)** The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A) of this section.
 - **(f)**
   - **(1)** After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph (2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
   - **(2)** A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program or after negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
@@ -71,8 +72,8 @@ generated_at: "2026-03-30T02:54:24.639Z"
     - **(E)** has a record maintenance procedure approved by the Customs Service for original records, or, if approved by the Customs Service, for alternative records or recordkeeping formats other than the original records; and
     - **(F)** has procedures for notifying the Customs Service of occurrences of variances to, and violations of, the requirements of the recordkeeping compliance program or the negotiated alternative programs, and for taking corrective action when notified by the Customs Service of violations or problems regarding such program.
 - **(g)**
-  - **(1)** For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
-  - **(2)** Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) the following provisions apply:
+  - **(1)** For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
+  - **(2)** Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
     - **(A)** If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
     - **(B)** If the failure to comply is a result of the negligence of the person in maintaining, storing, or retrieving the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $10,000, or an amount equal to 40 percent of the appraised value of the merchandise, whichever amount is less.
     - **(C)** In addition to any penalty imposed under subparagraph (A) or (B) regarding demanded information, if such information related to the eligibility of merchandise for a column 1 special rate of duty under title I, the entry of such merchandise—
@@ -89,7 +90,7 @@ generated_at: "2026-03-30T02:54:24.639Z"
   - **(6)** Nothing in this subsection shall limit or preclude the Customs Service from issuing, or seeking the enforcement of, a customs summons.
   - **(7)**
     - **(A)** When a recordkeeper who—
-      - **(i)** has been certified as a participant in the recordkeeping compliance program under subsection (f); and
+      - **(i)** has been certified as a participant in the recordkeeping compliance program under subsection (f) of this section; and
       - **(ii)** is generally in compliance with the appropriate procedures and requirements of the program;
     - **(B)** A notice of violation issued under subparagraph (A) shall—
       - **(i)** state that the recordkeeper has violated the recordkeeping requirements;

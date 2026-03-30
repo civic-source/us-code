@@ -3,9 +3,10 @@ title: "Section 1434 - Judicial branch coverage study"
 usc_title: 2
 usc_section: "1434"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1434"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-03-30T03:04:04.435Z"
+status: "active"
 ---
 
 # § 1434. Judicial branch coverage study
@@ -22,4 +23,4 @@ The Judicial Conference of the United States shall prepare a report for submissi
   - **(8)** the Employee Polygraph Protection Act of 1988 ( 29 U.S.C. 2001 et seq.);
   - **(9)** the Worker Adjustment and Retraining Notification Act ( 29 U.S.C. 2101 et seq.);
   - **(10)** the Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.); and
-  - **(11)** chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+  - **(11)** chapter 43 (relating to veterans’ employment and reemployment) of title 38. The report shall be submitted to Congress not later than December 31, 1996 , and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.

@@ -1,12 +1,22 @@
 ---
-title: "Section 1801 - Repealed. Pub. L. 118–31, div. E, title LVII, § 5702(d)(1) , Dec. 22, 2023 , 137 Stat. 960"
+title: "Section 1801 - Appointment"
 usc_title: 2
 usc_section: "1801"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1801"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-03-30T03:04:04.437Z"
+status: "active"
 ---
 
-# § 1801. Repealed. Pub. L. 118–31, div. E, title LVII, § 5702(d)(1) , Dec. 22, 2023 , 137 Stat. 960
+# § 1801. Appointment
 
+- **(a)**
+  - **(1)** The Architect of the Capitol shall be appointed by the President by and with the advice and consent of the Senate for a term of 10 years.
+  - **(2)** There is established a commission to recommend individuals to the President for appointment to the office of Architect of the Capitol. The commission shall be composed of—
+    - **(A)** the Speaker of the House of Representatives,
+    - **(B)** the President pro tempore of the Senate,
+    - **(C)** the majority and minority leaders of the House of Representatives and the Senate, and
+    - **(D)** the chairmen and the ranking minority members of the Committee on House Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate.
+  - **(3)** An individual appointed Architect of the Capitol under paragraph (1) shall be eligible for reappointment to such office.
+- **(b)** Subsection (a) of this section shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989 . If no such vacancy occurs within the six-year period which begins on November 21, 1989 , no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a) of this section.

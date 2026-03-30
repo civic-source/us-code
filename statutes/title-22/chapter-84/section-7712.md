@@ -3,18 +3,19 @@ title: "Section 7712 - Annual report"
 usc_title: 22
 usc_section: "7712"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7712"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-03-30T03:04:53.713Z"
+status: "active"
 ---
 
 # § 7712. Annual report
 
-- **(a)** Not later than the third Friday of December of each year, the Chief Executive Officer shall submit a report to Congress describing the assistance provided pursuant to section 7704 of this title during the most recently concluded fiscal year.
+- **(a)** Not later than March 31, 2005 , and each March 31 thereafter, the President shall submit to Congress a report on the assistance provided under section 7704 of this title during the prior fiscal year.
 - **(b)** The report shall include the following:
   - **(1)** The amount of obligations and expenditures for assistance provided to each eligible country during the prior fiscal year.
   - **(2)** For each eligible country, an assessment of—
-    - **(A)** the progress made during each year by the country toward achieving the objectives set out in any Compact entered into by the country; and
+    - **(A)** the progress made during each year by the country toward achieving the objectives set out in the Compact entered into by the country; and
     - **(B)** the extent to which assistance provided under section 7704 of this title has been effective in helping the country to achieve such objectives.
   - **(3)** A description of the coordination of assistance provided under section 7704 of this title with other United States foreign assistance and related trade policies.
   - **(4)** A description of the coordination of assistance provided under section 7704 of this title with assistance provided by other donor countries.

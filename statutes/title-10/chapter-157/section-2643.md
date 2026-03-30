@@ -3,12 +3,13 @@ title: "Section 2643 - Commissary and exchange services: transportation overseas
 usc_title: 10
 usc_section: "2643"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2643"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-03-30T03:04:17.296Z"
+status: "active"
 ---
 
 # § 2643. Commissary and exchange services: transportation overseas
 
 - **(a)** The Secretary of Defense shall authorize the officials responsible for operation of commissaries and military exchanges to negotiate directly with private carriers for the most cost-effective transportation of commissary and exchange supplies to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command, or the Military Traffic Management Command. Section 2631 of this title , regarding the preference for vessels of the United States or belonging to the United States in the transportation of supplies by sea, shall apply to the negotiation of contracts for sea-borne transportation under the authority of this section.
-- **(b)** Section 2483(b)(5) of this title , regarding the use of appropriated funds to cover the expenses of operating commissary stores, shall apply to the transportation of commissary supplies and products. Appropriated funds for the Department of Defense shall also be used to cover the expenses of transporting exchange supplies and products to destinations outside the continental United States. Such appropriated funds may be supplemented with additional funds derived from improved management practices implemented pursuant to sections 2481(c)(3) and 2487(c) of this title.
+- **(b)** Section 2483(b)(5) of this title , regarding the use of appropriated funds to cover the expenses of operating commissary stores, shall apply to the transportation of commissary supplies and products. Appropriated funds for the Department of Defense shall also be used to cover the expenses of transporting exchange supplies and products to destinations outside the continental United States.

@@ -3,9 +3,10 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-30T02:55:27.591Z"
+generated_at: "2026-03-30T03:05:18.518Z"
+status: "active"
 ---
 
 # § 32. Earned income
@@ -16,10 +17,24 @@ generated_at: "2026-03-30T02:55:27.591Z"
     - **(A)** the credit percentage of the earned income amount, over
     - **(B)** the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
 - **(b)** For purposes of subsection (a)—
-  - **(1)** The credit percentage and the phaseout percentage shall be determined as follows: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 qualifying children 40 21.06 3 or more qualifying children 45 21.06 No qualifying children 7.65 7.65
+  - **(1)** The credit percentage and the phaseout percentage shall be determined as follows:
+    - **(A)** In the case of taxable years beginning after 1995: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 or more qualifying children 40 21.06 No qualifying children 7.65 7.65
+    - **(B)** In the case of taxable years beginning in 1995: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 34 15.98 2 or more qualifying children 36 20.22 No qualifying children 7.65 7.65
+    - **(C)** In the case of a taxable year beginning in 1994: In the case of an eligible individual with: The credit percentage is: The phaseout percentage is: 1 qualifying child 26.3 15.98 2 or more qualifying children 30 17.68 No qualifying children 7.65 7.65
   - **(2)**
     - **(A)** Subject to subparagraph (B), the earned income amount and the phaseout amount shall be determined as follows: In the case of an eligible individual with: The earned income amount is: The phaseout amount is: 1 qualifying child $6,330 $11,610 2 or more qualifying children $8,890 $11,610 No qualifying children $4,220 $5,280
-    - **(B)** In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $5,000.
+    - **(B)** In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by—
+      - **(i)** $1,000 in the case of taxable years beginning in 2002, 2003, and 2004,
+      - **(ii)** $2,000 in the case of taxable years beginning in 2005, 2006, and 2007, and
+      - **(iii)** $3,000 in the case of taxable years beginning after 2007.
+  - **(3)** In the case of any taxable year beginning after 2008 and before 2018—
+    - **(A)** In the case of a taxpayer with 3 or more qualifying children, the credit percentage is 45 percent.
+    - **(B)**
+      - **(i)** The dollar amount in effect under paragraph (2)(B) shall be $5,000.
+      - **(ii)** In the case of any taxable year beginning in 2010, the $5,000 amount in clause (i) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost of living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(iii)** Subparagraph (A) of subsection (j)(2) shall apply after taking into account any increase under clause (ii).
 - **(c)** For purposes of this section—
   - **(1)**
     - **(A)** The term “eligible individual” means—
@@ -33,7 +48,8 @@ generated_at: "2026-03-30T02:55:27.591Z"
     - **(D)** The term “eligible individual” shall not include any individual who is a nonresident alien individual for any portion of the taxable year unless such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
     - **(E)** No credit shall be allowed under this section to an eligible individual who does not include on the return of tax for the taxable year—
       - **(i)** such individual’s taxpayer identification number, and
-      - **(ii)** if the individual is married, the taxpayer identification number of such individual’s spouse.
+      - **(ii)** if the individual is married (within the meaning of section 7703), the taxpayer identification number of such individual’s spouse.
+    - **(F)** No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D).
   - **(2)**
     - **(A)** The term “earned income” means—
       - **(i)** wages, salaries, tips, and other employee compensation, but only if such amounts are includible in gross income for the taxable year, plus
@@ -53,26 +69,15 @@ generated_at: "2026-03-30T02:55:27.591Z"
       - **(i)** A qualifying child shall not be taken into account under subsection (b) unless the taxpayer includes the name, age, and TIN of the qualifying child on the return of tax for the taxable year.
       - **(ii)** The Secretary may prescribe other methods for providing the information described in clause (i).
   - **(4)** For purposes of paragraphs (1)(A)(ii)(I) and (3)(C), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
-- **(d)**
-  - **(1)** In the case of an individual who is married, this section shall apply only if a joint return is filed for the taxable year under section 6013.
-  - **(2)** For purposes of this section—
-    - **(A)** Except as provided in subparagraph (B), marital status shall be determined under section 7703(a).
-    - **(B)** An individual shall not be treated as married if such individual—
-      - **(i)** is married (as determined under section 7703(a)) and does not file a joint return for the taxable year,
-      - **(ii)** resides with a qualifying child of the individual for more than one-half of such taxable year, and
-      - **(iii)**
-        - **(I)** during the last 6 months of such taxable year, does not have the same principal place of abode as the individual’s spouse, or
-        - **(II)** has a decree, instrument, or agreement (other than a decree of divorce) described in section 121(d)(3)(C) with respect to the individual’s spouse and is not a member of the same household with the individual’s spouse by the end of the taxable year.
+- **(d)** In the case of an individual who is married (within the meaning of section 7703), this section shall apply only if a joint return is filed for the taxable year under section 6013.
 - **(e)** Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 - **(f)**
   - **(1)** The amount of the credit allowed by this section shall be determined under tables prescribed by the Secretary.
   - **(2)** The tables prescribed under paragraph (1) shall reflect the provisions of subsections (a) and (b) and shall have income brackets of not greater than $50 each—
     - **(A)** for earned income between $0 and the amount of earned income at which the credit is phased out under subsection (b), and
     - **(B)** for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
-- **[(g)**
-- **[(h)**
 - **(i)**
-  - **(1)** No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $10,000.
+  - **(1)** No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,200.
   - **(2)** For purposes of paragraph (1), the term “disqualified income” means—
     - **(A)** interest or dividends to the extent includible in gross income for the taxable year,
     - **(B)** interest received or accrued during the taxable year which is exempt from tax imposed by this chapter,
@@ -86,12 +91,11 @@ generated_at: "2026-03-30T02:55:27.591Z"
       - **(i)** the aggregate income from all passive activities for the taxable year (determined without regard to any amount included in earned income under subsection (c)(2) or described in a preceding subparagraph), over
       - **(ii)** the aggregate losses from all passive activities for the taxable year (as so determined).
 - **(j)**
-  - **(1)** In the case of any taxable year beginning after 2015 (2021 in the case of the dollar amount in subsection (i)(1)), each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
+  - **(1)** In the case of any taxable year beginning after 1996, each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting in subparagraph (A)(ii) thereof—
-      - **(i)** in the case of amounts in subsection (b)(2)(A), “calendar year 1995” for “calendar year 2016”,
-      - **(ii)** in the case of the $5,000 amount in subsection (b)(2)(B), “calendar year 2008” for “calendar year 2016”, and
-      - **(iii)** in the case of the $10,000 amount in subsection (i)(1), “calendar year 2020” for “calendar year 2016”.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined—
+      - **(i)** in the case of amounts in subsections (b)(2)(A) and (i)(1), by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof, and
+      - **(ii)** in the case of the $3,000 amount in subsection (b)(2)(B)(iii), by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) of such section 1.
   - **(2)**
     - **(A)** If any dollar amount in subsection (b)(2)(A) (after being increased under subparagraph (B) thereof), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
     - **(B)** If the dollar amount in subsection (i)(1), after being increased under paragraph (1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
@@ -108,23 +112,4 @@ generated_at: "2026-03-30T02:55:27.591Z"
   - **(3)** section 101 of the Housing and Urban Development Act of 1965,
   - **(4)** sections 221(d)(3), 235, and 236 of the National Housing Act, and
   - **(5)** the Food and Nutrition Act of 2008,
-- **(m)** Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year.
-- **(n)** In the case of any taxable year beginning after December 31, 2020 , and before January 1, 2022 —
-  - **(1)**
-    - **(A)** Subsection (c)(1)(A)(ii)(II) shall be applied by substituting “the applicable minimum age” for “age 25”.
-    - **(B)** For purposes of this paragraph, the term “applicable minimum age” means—
-      - **(i)** except as otherwise provided in this subparagraph, age 19,
-      - **(ii)** in the case of a specified student (other than a qualified former foster youth or a qualified homeless youth), age 24, and
-      - **(iii)** in the case of a qualified former foster youth or a qualified homeless youth, age 18.
-    - **(C)** For purposes of this paragraph, the term “specified student” means, with respect to any taxable year, an individual who is an eligible student (as defined in section 25A(b)(3)) during at least 5 calendar months during the taxable year.
-    - **(D)** For purposes of this paragraph, the term “qualified former foster youth” means an individual who—
-      - **(i)** on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and
-      - **(ii)** provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth.
-    - **(E)** For purposes of this paragraph, the term “qualified homeless youth” means, with respect to any taxable year, an individual who certifies, in a manner as provided by the Secretary, that such individual is either an unaccompanied youth who is a homeless child or youth, or is unaccompanied, at risk of homelessness, and self-supporting.
-  - **(2)** Subsection (c)(1)(A)(ii)(II) shall be applied without regard to the phrase “but not attained age 65”.
-  - **(3)** The table contained in subsection (b)(1) shall be applied by substituting “15.3” for “7.65” each place it appears therein.
-  - **(4)**
-    - **(A)** The table contained in subsection (b)(2)(A) shall be applied—
-      - **(i)** by substituting “$9,820” for “$4,220”, and
-      - **(ii)** by substituting “$11,610” for “$5,280”.
-    - **(B)** Subsection (j) shall not apply to any dollar amount specified in this paragraph.
+- **(m)** Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).

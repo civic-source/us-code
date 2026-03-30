@@ -3,9 +3,10 @@ title: "Section 1108 - Advisory Council on Unemployment Compensation"
 usc_title: 42
 usc_section: "1108"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1108"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-03-30T03:06:22.467Z"
+status: "active"
 ---
 
 # § 1108. Advisory Council on Unemployment Compensation
@@ -30,5 +31,5 @@ generated_at: "2026-03-30T02:56:10.902Z"
   - **(1)** shall be entitled to receive compensation at the rate of pay for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Council, and
   - **(2)** while engaged in the performance of such duties away from such member’s home or regular place of business, shall be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 - **(f)**
-  - **(1)** Not later than February 1 of the third year following the year in which any Council is required to be established under subsection (a), the Council shall submit to the President and the Congress a report setting forth the findings and recommendations of the Council as a result of its evaluation of the unemployment compensation program under this section.
+  - **(1)** Not later than February 1 of the third year following the year in which any Council is required to be established under subsection (a) of this section, the Council shall submit to the President and the Congress a report setting forth the findings and recommendations of the Council as a result of its evaluation of the unemployment compensation program under this section.
   - **(2)** The Council shall include in its report required to be submitted by February 1, 1995 , the Council’s findings and recommendations with respect to determining eligibility for extended unemployment benefits on the basis of unemployment statistics for regions, States, or subdivisions of States.

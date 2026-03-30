@@ -3,16 +3,17 @@ title: "Section 1704 - Use of local currency payment"
 usc_title: 7
 usc_section: "1704"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1704"
-generated_at: "2026-03-30T02:53:42.336Z"
+generated_at: "2026-03-30T03:04:20.936Z"
+status: "active"
 ---
 
 # § 1704. Use of local currency payment
 
 - **(a)** Agreements under this subchapter may provide that the Secretary shall use payments made in local currencies by the developing country or private entity in accordance with this section.
 - **(b)** Foreign currencies received by the Secretary under this subchapter shall be deposited in a separate account, that may be interest-bearing, to the credit of the United States and such currencies and interest thereon shall be used as provided for in this section.
-- **(c)** The proceeds from the payments referred to in subsection (a) may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
+- **(c)** The proceeds from the payments referred to in subsection (a) of this section may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
   - **(1)** To support—
     - **(A)** increased agricultural production, including availability of agricultural inputs, with emphasis on small farms, processing of agricultural commodities, forestry management, and land and water management;
     - **(B)** credit policies for private-sector agriculture development;
@@ -27,5 +28,5 @@ generated_at: "2026-03-30T02:53:42.336Z"
   - **(7)** To make payments of United States obligations (including obligations entered into pursuant to other laws).
   - **(8)** To provide assistance under section 2152h 1 1 See References in Text note below. of title 22 to promote good health, economic development, poverty reduction, women’s empowerment, conflict prevention, and environmental sustainability by increasing affordable and equitable access to safe water and sanitation.
 - **(d)**
-  - **(1)** Section 1306 of title 31 shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c).
+  - **(1)** Section 1306 of title 31 shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c) of this section.
   - **(2)** Any department or agency of the Federal Government other than the Department of Agriculture using any such local currencies for a purpose for which funds have been appropriated shall reimburse the Commodity Credit Corporation in an amount equivalent to the dollar value of the currencies used.

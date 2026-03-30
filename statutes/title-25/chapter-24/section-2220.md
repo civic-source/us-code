@@ -3,9 +3,10 @@ title: "Section 2220 - Owner-managed interests"
 usc_title: 25
 usc_section: "2220"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2220"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-03-30T03:05:02.897Z"
+status: "active"
 ---
 
 # § 2220. Owner-managed interests
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
 - **(a)** The purpose of this section is to provide a means for the owner or co-owners of trust or restricted interests in a parcel of land to enter into surface leases of such parcel for certain purposes without approval of the Secretary.
 - **(b)** Nothing in this section shall be construed to limit or otherwise affect the application of any Federal law requiring the Secretary to approve mineral leases or other agreements for the development of the mineral interest in trust or restricted land.
 - **(c)**
-  - **(1)** Notwithstanding any provision of Federal law requiring the Secretary to approve individual Indian leases of individual Indian trust or restricted land, where the owners of all of the undivided trust or restricted interests in a parcel of land have submitted applications to the Secretary pursuant to subsection (a), and the Secretary has approved such applications under subsection (d), such owners may, without further approval by the Secretary, enter into a lease of the parcel for agricultural purposes for a term not to exceed 10 years.
+  - **(1)** Notwithstanding any provision of Federal law requiring the Secretary to approve individual Indian leases of individual Indian trust or restricted land, where the owners of all of the undivided trust or restricted interests in a parcel of land have submitted applications to the Secretary pursuant to subsection (a) of this section, and the Secretary has approved such applications under subsection (d) of this section, such owners may, without further approval by the Secretary, enter into a lease of the parcel for agricultural purposes for a term not to exceed 10 years.
   - **(2)** No such lease shall be effective until it has been executed by the owners of all undivided trust or restricted interests in the parcel.
 - **(d)**
   - **(1)** Subject to the provisions of paragraph (2), the Secretary shall approve an application for owner management submitted by a qualified applicant pursuant to this section unless the Secretary has reason to believe that the applicant is submitting the application as the result of fraud or undue influence. No such application shall be valid or considered if it is received by the Secretary prior to the date that is 1 year after the date on which notice is published pursuant to section 8(a)(4) of the American Indian Probate Reform Act of 2004.
@@ -21,21 +22,21 @@ generated_at: "2026-03-30T02:54:52.839Z"
 - **(e)** No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
   - **(1)** is consistent with, and entered into in accordance with, the requirements of this section; or
   - **(2)** has been approved by the Secretary in accordance with other Federal laws applicable to the leasing of trust or restricted land.
-- **(f)** The Secretary shall not be responsible for the collection of, or accounting for, any lease revenues accruing to any interests under a lease authorized by subsection (e), so long as such interest is in owner-managed status under the provisions of this section.
+- **(f)** The Secretary shall not be responsible for the collection of, or accounting for, any lease revenues accruing to any interests under a lease authorized by subsection (e) of this section, so long as such interest is in owner-managed status under the provisions of this section.
 - **(g)**
   - **(1)** The Indian tribe with jurisdiction over an interest in trust or restricted land that becomes owner-managed pursuant to this section shall continue to have jurisdiction over the interest to the same extent and in all respects that such tribe had prior to the interest acquiring owner-managed status.
   - **(2)** Any person holding, leasing, or otherwise using such interest in land shall be considered to consent to the jurisdiction of the Indian tribe referred to in paragraph (1), including such tribe’s laws and regulations, if any, relating to the use, and any effects associated with the use, of the interest.
 - **(h)**
-  - **(1)** Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
+  - **(1)** Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d) of this section, each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
   - **(2)** Owner-managed status of an interest may be revoked upon written request of the owners (including the parents or legal guardians of minors or incompetent owners) of all trust or restricted interests in the parcel, submitted to the Secretary in accordance with regulations adopted under subsection ( l ). 1 1 See References in Text note below. The revocation shall become effective as of the date on which the last of all such requests has been delivered to the Secretary.
   - **(3)** Revocation of owner-managed status under paragraph (2) shall not affect the validity of any lease made in accordance with the provisions of this section prior to the effective date of the revocation, provided that, after such revocation becomes effective, the Secretary shall be responsible for the collection of, and accounting for, all future lease revenues accruing to the trust or restricted interests in the parcel from and after such effective date.
 - **(i)**
-  - **(1)** For purposes of subsection (d)(1), the term “qualified applicant” means—
+  - **(1)** For purposes of subsection (d)(1) of this section, the term “qualified applicant” means—
     - **(A)** a person over the age of 18 who owns a trust or restricted interest in a parcel of land; and
     - **(B)** the parent or legal guardian of a minor or incompetent person who owns a trust or restricted interest in a parcel of land.
   - **(2)** For purposes of this section, the term “owner-managed status” means, with respect to a trust or restricted interest, that—
-    - **(A)** the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d);
+    - **(A)** the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d) of this section;
     - **(B)** the interest may be leased without approval of the Secretary pursuant to, and in a manner that is consistent with, the requirements of this section; and
-    - **(C)** no revocation has occurred under subsection (h)(2).
-- **(j)** Except with respect to the specific lease transaction described in paragraph (1) of subsection (c), interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
-- **(k)** Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
+    - **(C)** no revocation has occurred under subsection (h)(2) of this section.
+- **(j)** Except with respect to the specific lease transaction described in paragraph (1) of subsection (c) of this section, interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
+- **(k)** Subject to subsections (c), (f), and (h) of this section, nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.

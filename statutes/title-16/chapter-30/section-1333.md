@@ -3,9 +3,10 @@ title: "Section 1333 - Powers and duties of Secretary"
 usc_title: 16
 usc_section: "1333"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1333"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-03-30T03:04:48.561Z"
+status: "active"
 ---
 
 # § 1333. Powers and duties of Secretary
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:54:22.956Z"
   - **(3)** For the purpose of furthering knowledge of wild horse and burro population dynamics and their interrelationship with wildlife, forage and water resources, and assisting him in making his determination as to what constitutes excess animals, the Secretary shall contract for a research study of such animals with such individuals independent of Federal and State government as may be recommended by the National Academy of Sciences for having scientific expertise and special knowledge of wild horse and burro protection, wildlife management and animal husbandry as related to rangeland management. The terms and outline of such research study shall be determined by a research design panel to be appointed by the President of the National Academy of Sciences. Such study shall be completed and submitted by the Secretary to the Senate and House of Representatives on or before January 1, 1983 .
 - **(c)** Where excess animals have been transferred to a qualified individual for adoption and private maintenance pursuant to this chapter and the Secretary determines that such individual has provided humane conditions, treatment and care for such animal or animals for a period of one year, the Secretary is authorized upon application by the transferee to grant title to not more than four animals to the transferee at the end of the one-year period.
 - **(d)** Wild free-roaming horses and burros or their remains shall lose their status as wild free-roaming horses or burros and shall no longer be considered as falling within the purview of this chapter—
-  - **(1)** upon passage of title pursuant to subsection (c) except for the limitation of subsection (c)(1) 1 1 So in original. Probably should be subsection “(c)”. of this section; or
+  - **(1)** upon passage of title pursuant to subsection (c) of this section except for the limitation of subsection (c)(1) 1 1 So in original. Probably should be subsection “(c)”. of this section; or
   - **(2)** if they have been transferred for private maintenance or adoption pursuant to this chapter and die of natural causes before passage of title; or
   - **(3)** upon destruction by the Secretary or his designee pursuant to subsection (b) of this section; or
   - **(4)** if they die of natural causes on the public lands or on private lands where maintained thereon pursuant to section 1334 of this title and disposal is authorized by the Secretary or his designee; or

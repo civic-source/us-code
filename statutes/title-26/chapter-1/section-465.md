@@ -3,9 +3,10 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T02:55:27.705Z"
+generated_at: "2026-03-30T03:05:18.601Z"
+status: "active"
 ---
 
 # § 465. Deductions limited to amount at risk
@@ -54,8 +55,8 @@ generated_at: "2026-03-30T02:55:27.705Z"
     - **(A)** holding, producing, or distributing motion picture films or video tapes,
     - **(B)** farming (as defined in section 464(e)),
     - **(C)** leasing any section 1245 property (as defined in section 1245(a)(3)),
-    - **(D)** exploring for, or exploiting, oil and gas resources, or
-    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)) 1 1 So in original. Probably should be followed by a comma.
+    - **(D)** exploring for, or exploiting, oil and gas resources as a trade or business or for the production of income, or
+    - **(E)** exploring for, or exploiting, geothermal deposits (as defined in section 613(e)(2)).
   - **(2)** For purposes of this section—
     - **(A)** Except as provided in subparagraph (B), a taxpayer’s activity with respect to each—
       - **(i)** film or video tape,
@@ -69,7 +70,7 @@ generated_at: "2026-03-30T02:55:27.705Z"
         - **(II)** are placed in service in any taxable year of the partnership or S corporation,
       - **(ii)** Rules similar to the rules of subparagraphs (B) and (C) of paragraph (3) shall apply for purposes of this paragraph.
   - **(3)**
-    - **(A)** This section also applies to each activity—
+    - **(A)** In the case of taxable years beginning after December 31, 1978 , this section also applies to each activity—
       - **(i)** engaged in by the taxpayer in carrying on a trade or business or for the production of income, and
       - **(ii)** which is not described in paragraph (1).
     - **(B)** Except as provided in subparagraph (C), for purposes of this section, activities described in subparagraph (A) which constitute a trade or business shall be treated as one activity if—
@@ -99,7 +100,7 @@ generated_at: "2026-03-30T02:55:27.705Z"
       - **(i)** the leasing of equipment which is section 1245 property, and
       - **(ii)** the purchasing, servicing, and selling of such equipment.
     - **(B)** The term “equipment leasing” does not include the leasing of master sound recordings, and other similar contractual arrangements with respect to tangible or intangible assets associated with literary, artistic, or musical properties.
-    - **(C)** The terms “controlled group of corporations” and “component member” have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
+    - **(C)** The terms “controlled group of corporations” and “component members” have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
   - **(7)**
     - **(A)** In the case of a taxpayer which is a qualified C corporation—
       - **(i)** each qualifying business carried on by such taxpayer shall be treated as a separate activity, and
@@ -126,7 +127,7 @@ generated_at: "2026-03-30T02:55:27.705Z"
         - **(II)** in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts under section 163 or 591.
       - **(v)**
         - **(I)** Clause (iii) of subparagraph (C) shall not apply to any insurance business of a qualified life insurance company.
-        - **(II)** For purposes of subclause (I), the term “insurance business” means any business which is not a noninsurance business (within the meaning of section 453B(e)(3)).
+        - **(II)** For purposes of subclause (I), the term “insurance business” means any business which is not a noninsurance business (within the meaning of section 806(b)(3)).
         - **(III)** For purposes of subclause (I), the term “qualified life insurance company” means any company which would be a life insurance company as defined in section 816 if unearned premiums were not taken into account under subsections (a)(2) and (c)(2) of section 816.
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “non-owner employee” means any employee who does not own, at any time during the taxable year, more than 5 percent in value of the outstanding stock of the taxpayer. For purposes of the preceding sentence, section 318 shall apply, except that “5 percent” shall be substituted for “50 percent” in section 318(a)(2)(C).

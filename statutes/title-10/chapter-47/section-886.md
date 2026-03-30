@@ -3,9 +3,10 @@ title: "Section 886 - Art. 86. Absence without leave"
 usc_title: 10
 usc_section: "886"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 886"
-generated_at: "2026-03-30T02:53:38.084Z"
+generated_at: "2026-03-30T03:04:17.233Z"
+status: "active"
 ---
 
 # § 886. Art. 86. Absence without leave
@@ -14,4 +15,4 @@ Any member of the armed forces who, without authority—
 
   - **(1)** fails to go to his appointed place of duty at the time prescribed;
   - **(2)** goes from that place; or
-  - **(3)** absents himself or remains absent from his unit, organization, or place of duty at which he is required to be at the time prescribed;
+  - **(3)** absents himself or remains absent from his unit, organization, or place of duty at which he is required to be at the time prescribed; shall be punished as a court-martial may direct.

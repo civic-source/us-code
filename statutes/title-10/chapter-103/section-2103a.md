@@ -3,16 +3,17 @@ title: "Section 2103a - Students not eligible for advanced training: commitment 
 usc_title: 10
 usc_section: "2103a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2103a"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-03-30T03:04:17.267Z"
+status: "active"
 ---
 
 # § 2103a. Students not eligible for advanced training: commitment to military service
 
 - **(a)** A member of the program who has completed successfully the first year of a four-year Senior Reserve Officers’ Training Corps course and who is not eligible for advanced training under section 2104 of this title and is not a cadet or midshipman appointed under section 2107 of this title may—
   - **(1)** contract with the Secretary of the military department concerned, or the Secretary’s designated representative, to serve for the period required by the program; and
-  - **(2)** agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
+  - **(2)** agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
 - **(b)** A member of the program may enter into a contract and agreement under this section (and receive a subsistence allowance under section 209(c) of title 37 ) only if the person—
   - **(1)** is a citizen of the United States;
   - **(2)** enlists in an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary; and

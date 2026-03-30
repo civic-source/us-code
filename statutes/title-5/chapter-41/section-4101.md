@@ -3,9 +3,10 @@ title: "Section 4101 - Definitions"
 usc_title: 5
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 4101"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-03-30T03:04:06.071Z"
+status: "active"
 ---
 
 # § 4101. Definitions
@@ -17,7 +18,7 @@ For the purpose of this chapter—
     - **(B)** an independent establishment;
     - **(C)** a Government corporation subject to chapter 91 of title 31;
     - **(D)** the Library of Congress;
-    - **(E)** the Government Publishing Office; and
+    - **(E)** the Government Printing Office; and
     - **(F)** the government of the District of Columbia;
   - **(2)** “employee”, subject to section 4102 of this title , means—
     - **(A)** an individual employed in or under an agency; and

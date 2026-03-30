@@ -3,14 +3,15 @@ title: "Section 3132 - Committee review"
 usc_title: 15
 usc_section: "3132"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3132"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-03-30T03:04:31.216Z"
+status: "active"
 ---
 
 # § 3132. Committee review
 
 - **(a)** In conjunction with its review of the Economic Report, and the holding of hearings on the Economic Report under the Employment Act of 1946 [ 15 U.S.C. 1021 et seq.], the Joint Economic Committee shall review and analyze the short-term and medium-term goals set forth in the Economic Report pursuant to section 3(a)(2) and 4(b) of the Employment Act of 1946 [ 15 U.S.C. 1022(a)(2) , 1022a(b)].
 - **(b)** The Joint Economic Committee shall hold hearings on the Economic Report for the purpose of receiving testimony from Members of the Congress, and such appropriate representatives of Federal departments and agencies, the general public, and interested groups as the joint committee deems advisable. The joint committee shall also consider the comments and views on the Economic Report which are received from State and local officials.
-- **(c)** Within thirty days after receipt by the Congress of the Economic Report, each standing committee of the Senate and the House of Representatives, each other committee of the Senate and the House of Representatives which has legislative jurisdiction, and each joint committee of the Congress may submit to the Joint Economic Committee, for use by the Joint Economic Committee in conducting its review and analysis under subsection (a), a report containing the views and recommendations of the submitting committee with respect to aspects of the Economic Report which relate to its jurisdiction.
+- **(c)** Within thirty days after receipt by the Congress of the Economic Report, each standing committee of the Senate and the House of Representatives, each other committee of the Senate and the House of Representatives which has legislative jurisdiction, and each joint committee of the Congress may submit to the Joint Economic Committee, for use by the Joint Economic Committee in conducting its review and analysis under subsection (a) of this section, a report containing the views and recommendations of the submitting committee with respect to aspects of the Economic Report which relate to its jurisdiction.
 - **(d)** On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.

@@ -3,9 +3,10 @@ title: "Section 1133 - Use of wilderness areas"
 usc_title: 16
 usc_section: "1133"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1133"
-generated_at: "2026-03-30T02:54:22.941Z"
+generated_at: "2026-03-30T03:04:48.551Z"
+status: "active"
 ---
 
 # § 1133. Use of wilderness areas
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:22.941Z"
 - **(a)** The purposes of this chapter are hereby declared to be within and supplemental to the purposes for which national forests and units of the national park and national wildlife refuge systems are established and administered and—
   - **(1)** Nothing in this chapter shall be deemed to be in interference with the purpose for which national forests are established as set forth in the Act of June 4, 1897 ( 30 Stat. 11 ), and the Multiple-Use Sustained-Yield Act of June 12, 1960 ( 74 Stat. 215 ) [ 16 U.S.C. 528–531 ].
   - **(2)** Nothing in this chapter shall modify the restrictions and provisions of the Shipstead-Nolan Act (Public Law 539, Seventy-first Congress, July 10, 1930 ; 46 Stat. 1020 ), the Thye-Blatnik Act (Public Law 733, Eightieth Congress, June 22, 1948 ; 62 Stat. 568 ), and the Humphrey-Thye-Blatnik-Andresen Act (Public Law 607, Eighty-Fourth Congress, June 22, 1956 ; 70 Stat. 326 ), as applying to the Superior National Forest or the regulations of the Secretary of Agriculture.
-  - **(3)** Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, section 796(2) of this title ; and chapters 3201 and 3203 of title 54.
+  - **(3)** Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with sections 1, 2, 3, and 4 of this title, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, the Act of June 8, 1906 ( 34 Stat. 225 ; 16 U.S.C. 432 1 1 So in original. Probably should be “431”. et seq.); section 3(2) of the Federal Power Act ( 16 U.S.C. 796(2) ); and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461 et seq.).
 - **(b)** Except as otherwise provided in this chapter, each agency administering any area designated as wilderness shall be responsible for preserving the wilderness character of the area and shall so administer such area for such other purposes for which it may have been established as also to preserve its wilderness character. Except as otherwise provided in this chapter, wilderness areas shall be devoted to the public purposes of recreational, scenic, scientific, educational, conservation, and historical use.
 - **(c)** Except as specifically provided for in this chapter, and subject to existing private rights, there shall be no commercial enterprise and no permanent road within any wilderness area designated by this chapter and, except as necessary to meet minimum requirements for the administration of the area for the purpose of this chapter (including measures required in emergencies involving the health and safety of persons within the area), there shall be no temporary road, no use of motor vehicles, motorized equipment or motorboats, no landing of aircraft, no other form of mechanical transport, and no structure or installation within any such area.
 - **(d)** The following special provisions are hereby made:

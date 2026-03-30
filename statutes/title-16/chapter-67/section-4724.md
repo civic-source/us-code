@@ -3,9 +3,10 @@ title: "Section 4724 - State aquatic nuisance species management plans"
 usc_title: 16
 usc_section: "4724"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 4724"
-generated_at: "2026-03-30T02:54:23.047Z"
+generated_at: "2026-03-30T03:04:48.624Z"
+status: "active"
 ---
 
 # § 4724. State aquatic nuisance species management plans
@@ -24,11 +25,11 @@ generated_at: "2026-03-30T02:54:23.047Z"
     - **(B)** Upon the request of a State or the appropriate official of an interstate organization, the Task Force or the Assistant Secretary, as appropriate under paragraph (1), may provide technical assistance in developing and implementing a management plan.
   - **(4)** Within 90 days after the submission of a management plan, the Task Force or the Assistant Secretary in consultation with the Task Force, as appropriate under paragraph (1), shall review the proposed plan and approve it if it meets the requirements of this subsection or return the plan to the Governor or the interstate organization with recommended modifications.
 - **(b)**
-  - **(1)** The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) for the implementation of those plans.
+  - **(1)** The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) of this section for the implementation of those plans.
   - **(2)** An application for a grant under this subsection shall include an identification and description of the best management practices and measures which the State proposes to utilize in implementing an approved management plan with any Federal assistance to be provided under the grant.
   - **(3)**
     - **(A)** The Federal share of the cost of each comprehensive management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 75 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
     - **(B)** The Federal share of the cost of each public facility management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 50 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
   - **(4)** For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
   - **(5)** In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
-- **(c)** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 1 1 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+- **(c)** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 of title 14 , may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.

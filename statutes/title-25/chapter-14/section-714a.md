@@ -1,12 +1,17 @@
 ---
-title: "Section 714a - Omitted"
+title: "Section 714a - Extension of Federal recognition, rights, and privileges"
 usc_title: 25
 usc_section: "714a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 714a"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.852Z"
+status: "active"
 ---
 
-# § 714a. Omitted
+# § 714a. Extension of Federal recognition, rights, and privileges
 
+- **(a)** Federal recognition is hereby extended to the Tribe, and its members shall be eligible for all Federal services and benefits furnished to federally recognized tribes. Notwithstanding any provision to the contrary in any law establishing such services and benefits, eligibility of the Tribe and its members for such Federal services and benefits shall become effective on October 17, 1984 , without regard to the existence of a reservation for the Tribe or the residence of the members of the Tribe on a reservation for such members who reside in the following counties of Oregon: Coos, Lane, Lincoln, Douglas, and Curry.
+- **(b)** Except as provided in subscription 1 1 So in original. Probably should be “subsection”. (c) of this section, all rights and privileges of the Tribe and of members of the Tribe under any Federal treaty, Executive order, agreement or statute, or under any other authority, which were diminished or lost under the Act of August 13, 1954 ( 25 U.S.C. 691 , et seq.), are hereby restored and the provisions of that Act are inapplicable to the Tribe and to members of the Tribe on October 17, 1984 .
+- **(c)** This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to any member of the Tribe, nor shall any presumption be created by this subchapter as to the existence or nonexistence of such rights.
+- **(d)** Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.

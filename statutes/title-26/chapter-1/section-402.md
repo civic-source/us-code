@@ -3,9 +3,10 @@ title: "Section 402 - Taxability of beneficiary of employees’ trust"
 usc_title: 26
 usc_section: "402"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:27.674Z"
+generated_at: "2026-03-30T03:05:18.579Z"
+status: "active"
 ---
 
 # § 402. Taxability of beneficiary of employees’ trust
@@ -30,16 +31,8 @@ generated_at: "2026-03-30T02:55:27.674Z"
     - **(A)** such portion is transferred in a direct trustee-to-trustee transfer to a qualified trust or to an annuity contract described in section 403(b) and such trust or contract provides for separate accounting for amounts so transferred (and earnings thereon), including separately accounting for the portion of such distribution which is includible in gross income and the portion of such distribution which is not so includible, or
     - **(B)** such portion is transferred to an eligible retirement plan described in clause (i) or (ii) of paragraph (8)(B).
   - **(3)**
-    - **(A)** Except as provided in subparagraphs (B) and (C), paragraph (1) shall not apply to any transfer of a distribution made after the 60th day following the day on which the distributee received the property distributed.
+    - **(A)** Except as provided in subparagraph (B), paragraph (1) shall not apply to any transfer of a distribution made after the 60th day following the day on which the distributee received the property distributed.
     - **(B)** The Secretary may waive the 60-day requirement under subparagraph (A) where the failure to waive such requirement would be against equity or good conscience, including casualty, disaster, or other events beyond the reasonable control of the individual subject to such requirement.
-    - **(C)**
-      - **(i)** In the case of a qualified plan loan offset amount, paragraph (1) shall not apply to any transfer of such amount made after the due date (including extensions) for filing the return of tax for the taxable year in which such amount is treated as distributed from a qualified employer plan.
-      - **(ii)** For purposes of this subparagraph, the term “qualified plan loan offset amount” means a plan loan offset amount which is treated as distributed from a qualified employer plan to a participant or beneficiary solely by reason of—
-        - **(I)** the termination of the qualified employer plan, or
-        - **(II)** the failure to meet the repayment terms of the loan from such plan because of the severance from employment of the participant.
-      - **(iii)** For purposes of clause (ii), the term “plan loan offset amount” means the amount by which the participant’s accrued benefit under the plan is reduced in order to repay a loan from the plan.
-      - **(iv)** This subparagraph shall not apply to any plan loan offset amount unless such plan loan offset amount relates to a loan to which section 72(p)(1) does not apply by reason of section 72(p)(2).
-      - **(v)** For purposes of this subsection, the term “qualified employer plan” has the meaning given such term by section 72(p)(4).
   - **(4)** For purposes of this subsection, the term “eligible rollover distribution” means any distribution to an employee of all or any portion of the balance to the credit of the employee in a qualified trust; except that such term shall not include—
     - **(A)** any distribution which is one of a series of substantially equal periodic payments (not less frequently than annually) made—
       - **(i)** for the life (or life expectancy) of the employee or the joint lives (or joint life expectancies) of the employee and the employee’s designated beneficiary, or
@@ -78,20 +71,6 @@ generated_at: "2026-03-30T02:55:27.674Z"
       - **(ii)** the individual retirement plan shall be treated as an inherited individual retirement account or individual retirement annuity (within the meaning of section 408(d)(3)(C)) for purposes of this title, and
       - **(iii)** section 401(a)(9)(B) (other than clause (iv) thereof) shall apply to such plan.
     - **(B)** For purposes of this paragraph, to the extent provided in rules prescribed by the Secretary, a trust maintained for the benefit of one or more designated beneficiaries shall be treated in the same manner as a designated beneficiary.
-  - **(12)** In the case of an inadvertent benefit overpayment from a plan to which section 414(aa)(1) applies that is transferred to an eligible retirement plan by or on behalf of a participant or beneficiary—
-    - **(A)** the portion of such overpayment with respect to which recoupment is not sought on behalf of the plan shall be treated as having been paid in an eligible rollover distribution if the payment would have been an eligible rollover distribution but for being an overpayment, and
-    - **(B)** the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan and in such case shall be treated as an eligible rollover distribution transferred to such plan by the participant or beneficiary who received such overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
-  - **(13)**
-    - **(A)**
-      - **(i)** Any individual who received a qualified distribution may, during the applicable period, make one or more contributions in an aggregate amount not to exceed the amount of such qualified distribution to an eligible retirement plan (as defined in paragraph (8)(B)) of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under subsection (c) or section 403(a)(4), 403(b)(8), or 408(d)(3), as the case may be.
-      - **(ii)** Rules similar to the rules of clauses (ii) and (iii) of section 72(t)(11)(C) shall apply for purposes of this subsection.
-    - **(B)** For purposes of this paragraph, the term “qualified distribution” means any distribution—
-      - **(i)** described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(i)(V), or 403(b)(11)(B),
-      - **(ii)** which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
-      - **(iii)** which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
-    - **(C)** For purposes of this paragraph—
-      - **(i)** the terms “qualified disaster”, “qualified disaster area”, and “incident period” have the meaning given such terms under section 72(t)(11), and
-      - **(ii)** the term “applicable period” has the meaning given such term under section 72(t)(8)(F).
 - **(d)** For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).
 - **(e)**
   - **(1)**
@@ -122,7 +101,6 @@ generated_at: "2026-03-30T02:55:27.674Z"
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “securities” means only shares of stock and bonds or debentures issued by a corporation with interest coupons or in registered form.
       - **(ii)** The term “securities of the employer corporation” includes securities of a parent or subsidiary corporation (as defined in subsections (e) and (f) of section 424) of the employer corporation.
-  - **[(5)**
   - **(6)** Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
 - **(f)**
   - **(1)** The plan administrator of any plan shall, within a reasonable period of time before making an eligible rollover distribution, provide a written explanation to the recipient—
@@ -137,7 +115,8 @@ generated_at: "2026-03-30T02:55:27.674Z"
 - **(g)**
   - **(1)**
     - **(A)** Notwithstanding subsections (e)(3) and (h)(1)(B), the elective deferrals of any individual for any taxable year shall be included in such individual’s gross income to the extent the amount of such deferrals for the taxable year exceeds the applicable dollar amount. The preceding sentence shall not apply to the portion of such excess as does not exceed the designated Roth contributions of the individual for the taxable year.
-    - **(B)** For purposes of subparagraph (A), the applicable dollar amount is $15,000.
+    - **(B)** For purposes of subparagraph (A), the applicable dollar amount shall be the amount determined in accordance with the following table: For taxable years The applicable beginning in dollar amount: calendar year: 2002 $11,000 2003 $12,000 2004 $13,000 2005 $14,000 2006 or thereafter $15,000.
+    - **(C)** In addition to subparagraph (A), in the case of an eligible participant (as defined in section 414(v)), gross income shall not include elective deferrals in excess of the applicable dollar amount under subparagraph (B) to the extent that the amount of such elective deferrals does not exceed the applicable dollar amount under section 414(v)(2)(B)(i) for the taxable year (without regard to the treatment of the elective deferrals by an applicable employer plan under section 414(v)).
   - **(2)**
     - **(A)** If any amount (hereinafter in this paragraph referred to as “excess deferrals”) is included in the gross income of an individual under paragraph (1) (or would be included but for the last sentence thereof) for any taxable year—
       - **(i)** not later than the 1st March 1 following the close of the taxable year, the individual may allocate the amount of such excess deferrals among the plans under which the deferrals were made and may notify each such plan of the portion allocated to it, and
@@ -168,14 +147,13 @@ generated_at: "2026-03-30T02:55:27.674Z"
   - **(8)** Except as provided in section 401(k)(3)(D)(ii), any matching contribution described in section 401(m)(4)(A) which is made on behalf of a self-employed individual (as defined in section 401(c)) shall not be treated as an elective employer contribution under a qualified cash or deferred arrangement (as defined in section 401(k)) for purposes of this title.
 - **(h)** For purposes of this chapter—
   - **(1)** Except as provided in paragraph (2), contributions made by an employer on behalf of an employee to an individual retirement plan pursuant to a simplified employee pension (as defined in section 408(k))—
-    - **(A)** shall not be treated as distributed or made available to the employee or as contributions made by the employee,
-    - **(B)** if such contributions are made pursuant to an arrangement under section 408(k)(6) under which an employee may elect to have the employer make contributions to the simplified employee pension on behalf of the employee, shall not be treated as distributed or made available or as contributions made by the employee merely because the simplified employee pension includes provisions for such election, and
-    - **(C)** in the case of any contributions pursuant to a simplified employer pension which are made to an individual retirement plan designated as a Roth IRA, such contribution shall not be excludable from gross income.
+    - **(A)** shall not be treated as distributed or made available to the employee or as contributions made by the employee, and
+    - **(B)** if such contributions are made pursuant to an arrangement under section 408(k)(6) under which an employee may elect to have the employer make contributions to the simplified employee pension on behalf of the employee, shall not be treated as distributed or made available or as contributions made by the employee merely because the simplified employee pension includes provisions for such election.
   - **(2)** Contributions made by an employer to a simplified employee pension with respect to an employee for any year shall be treated as distributed or made available to such employee and as contributions made by the employee to the extent such contributions exceed the lesser of—
     - **(A)** 25 percent of the compensation (within the meaning of section 414(s)) from such employer includible in the employee’s gross income for the year (determined without regard to the employer contributions to the simplified employee pension), or
     - **(B)** the limitation in effect under section 415(c)(1)(A), reduced in the case of any highly compensated employee (within the meaning of section 414(q)) by the amount taken into account with respect to such employee under section 408(k)(3)(D).
-  - **(3)** Any amount paid or distributed out of an individual retirement plan pursuant to a simplified employee pension shall be included in gross income by the payee or distributee, as the case may be, in accordance with the provisions of section 408(d) (or section 408A(d) in the case of an individual retirement plan designated as a Roth IRA).
-- **(i)** For purposes of this section, except as otherwise provided in subsection (e)(4)(D)(i), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
+  - **(3)** Any amount paid or distributed out of an individual retirement plan pursuant to a simplified employee pension shall be included in gross income by the payee or distributee, as the case may be, in accordance with the provisions of section 408(d).
+- **(i)** For purposes of this section, except as otherwise provided in subparagraph (A) of subsection (d)(4), 1 1 See References in Text note below. the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
 - **(j)**
   - **(1)** For purposes of subsection (e)(4), in the case of any transaction to which this subsection applies, the determination of net unrealized appreciation shall be made without regard to such transaction.
   - **(2)** This subsection shall apply to any transaction in which—
@@ -191,12 +169,10 @@ generated_at: "2026-03-30T02:55:27.674Z"
   - **(4)** For purposes of this subsection—
     - **(A)** For purposes of paragraph (1), the term “eligible retirement plan” means a governmental plan (within the meaning of section 414(d)) which is described in clause (iii), (iv), (v), or (vi) of subsection (c)(8)(B).
     - **(B)** The term “eligible retired public safety officer” means an individual who, by reason of disability or attainment of normal retirement age, is separated from service as a public safety officer with the employer who maintains the eligible retirement plan from which distributions subject to paragraph (1) are made.
-    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), 1 1 See References in Text note below. as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
+    - **(C)** The term “public safety officer” shall have the same meaning given such term by section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796b(9)(A) ), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013.
     - **(D)** The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents (as defined in section 152), by an accident or health plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
   - **(5)** For purposes of this subsection—
-    - **(A)**
-      - **(i)** Paragraph (1) shall apply to a distribution without regard to whether payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan, or is made to the employee.
-      - **(ii)** In the case of a payment made to the employee as described in clause (i), the employee shall include with the return of tax for the taxable year in which the distribution is made an attestation that the distribution does not exceed the amount paid by the employee for qualified health insurance premiums for such taxable year.
+    - **(A)** Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.
     - **(B)** All eligible retirement plans of an employer shall be treated as a single plan.
   - **(6)**
     - **(A)** For purposes of paragraph (1), an election is described in this paragraph if the election is made by an employee after separation from service with respect to amounts not distributed from an eligible retirement plan to have amounts from such plan distributed in order to pay for qualified health insurance premiums.

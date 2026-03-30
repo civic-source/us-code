@@ -3,9 +3,10 @@ title: "Section 122 - Access to information"
 usc_title: 6
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 122"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-03-30T03:04:24.336Z"
+status: "active"
 ---
 
 # § 122. Access to information
@@ -20,10 +21,10 @@ generated_at: "2026-03-30T02:53:09.444Z"
     - **(B)** all information concerning the vulnerability of the infrastructure of the United States, or other vulnerabilities of the United States, to terrorism, whether or not such information has been analyzed;
     - **(C)** all other information relating to significant and credible threats of terrorism against the United States, whether or not such information has been analyzed; and
     - **(D)** such other information or material as the President may direct.
-- **(c)** The Secretary shall be deemed to be a Federal law enforcement, intelligence, protective, national defense, immigration, or national security official, and shall be provided with all information from law enforcement agencies that is required to be given to the Director of National Intelligence, under any provision of the following:
+- **(c)** The Secretary shall be deemed to be a Federal law enforcement, intelligence, protective, national defense, immigration, or national security official, and shall be provided with all information from law enforcement agencies that is required to be given to the Director of Central Intelligence, under any provision of the following:
   - **(1)** The USA PATRIOT Act of 2001 ( Public Law 107–56 ).
   - **(2)** Section 2517(6) of title 18 .
   - **(3)** Rule 6(e)(3)(C) of the Federal Rules of Criminal Procedure.
 - **(d)**
   - **(1)** Nothing in this subchapter shall preclude any element of the intelligence community (as that term is defined in section 3003(4) of title 50 , 1 1 So in original. There probably should be a closing parenthesis after “50”. or any other element of the Federal Government with responsibility for analyzing terrorist threat information, from receiving any intelligence or other information relating to terrorism.
-  - **(2)** The Secretary, in consultation with the Director of National Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.
+  - **(2)** The Secretary, in consultation with the Director of Central Intelligence, shall work to ensure that intelligence or other information relating to terrorism to which the Department has access is appropriately shared with the elements of the Federal Government referred to in paragraph (1), as well as with State and local governments, as appropriate.

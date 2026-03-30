@@ -3,9 +3,10 @@ title: "Section 6991e - Federal enforcement"
 usc_title: 42
 usc_section: "6991e"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6991e"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-03-30T03:06:22.783Z"
+status: "active"
 ---
 
 # § 6991e. Federal enforcement
@@ -25,6 +26,6 @@ generated_at: "2026-03-30T02:56:11.281Z"
     - **(D)** 2 2 So in original. Two subpars. (D) have been enacted. the requirements established in section 6991b(i) of this title , 3 3 So in original. The comma probably should be a semicolon.
     - **(D)** 2 the training requirements established by States pursuant to section 6991i of this title (relating to operator training); or
     - **(E)** the delivery prohibition requirement established by section 6991k of this title ,
-- **(e)** Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d):
+- **(e)** Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d) of this section:
   - **(1)** The compliance history of an owner or operator in accordance with this subchapter or a program approved under section 6991c of this title .
   - **(2)** Any other factor the Administrator considers appropriate.

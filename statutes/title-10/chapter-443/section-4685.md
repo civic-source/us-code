@@ -1,0 +1,15 @@
+---
+title: "Section 4685 - Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes"
+usc_title: 10
+usc_section: "4685"
+chapter: 443
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 4685"
+generated_at: "2026-03-30T03:04:17.312Z"
+status: "active"
+---
+
+# § 4685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes
+
+- **(a)** Upon the recommendation of the governor of the State concerned or Guam or the Virgin Islands, the Secretary of the Army, under regulations to be prescribed by him and without cost to the United States for transportation, may lend obsolete ordnance and ordnance stores to State, Guam, and the Virgin Islands educational institutions and to State soldiers and sailors’ orphans’ homes, for drill and instruction. However, no loan may be made under this subsection to an institution to which ordnance or ordnance stores may be issued under any law that was in effect on June 30, 1906 , and is still in effect.
+- **(b)** The Secretary shall require a bond from each institution or home to which property is lent under subsection (a), in double the value of the property lent, for the care and safekeeping of that property and, except for property properly expended, for its return when required.

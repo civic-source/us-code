@@ -3,9 +3,10 @@ title: "Section 5 - Leasing of gaseous diffusion facilities"
 usc_title: 42
 usc_section: "5"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-03-30T03:06:22.665Z"
+status: "active"
 ---
 
 # § 2297h–5. Leasing of gaseous diffusion facilities
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
 - **(b)** The private corporation shall have the exclusive option to lease the gaseous diffusion plants and related property for additional periods following the expiration of the initial term of the lease.
 - **(c)** The Secretary shall not lease to the private corporation any facilities necessary for the production of highly enriched uranium but may, subject to the requirements of the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.), grant the Corporation access to such facilities for purposes other than the production of highly enriched uranium.
 - **(d)** The payment of any costs of decontamination and decommissioning, response actions, or corrective actions with respect to conditions existing before July 1, 1993 , at the gaseous diffusion plants shall remain the sole responsibility of the Secretary.
-- **(e)** For purposes of subsection (d), the conditions existing before July 1, 1993 , at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2297c–2(e) ).
+- **(e)** For purposes of subsection (d) of this section, the conditions existing before July 1, 1993 , at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2297c–2(e) ).
 - **(f)** Any lease executed between the Secretary and the Corporation or the private corporation, and any extension or renewal thereof, under this section shall be deemed to be a contract for purposes of section 170d. of the Atomic Energy Act of 1954 ( 42 U.S.C. 2210(d) ).
 - **(g)** The execution or transfer of the lease between the Secretary and the Corporation or the private corporation, and any extension or renewal thereof, shall not be considered to be a major Federal action significantly affecting the quality of the human environment for purposes of section 4332 of this title .
 - **(h)**

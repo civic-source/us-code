@@ -3,9 +3,10 @@ title: "Section 6617 - Suspension of penalties for certain year 2000 failures by
 usc_title: 15
 usc_section: "6617"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 6617"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-03-30T03:04:31.237Z"
+status: "active"
 ---
 
 # § 6617. Suspension of penalties for certain year 2000 failures by small business concerns
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
 - **(b)** Not later than 30 days after July 20, 1999 , each agency shall—
   - **(1)** establish a point of contact within the agency to act as a liaison between the agency and small business concerns with respect to problems arising out of Y2K failures and compliance with Federal rules or regulations; and
   - **(2)** publish the name and phone number of the point of contact for the agency in the Federal Register.
-- **(c)** Subject to subsections (d) and (e), no agency shall impose any civil money penalty on a small business concern for a first-time violation.
+- **(c)** Subject to subsections (d) and (e) of this section, no agency shall impose any civil money penalty on a small business concern for a first-time violation.
 - **(d)** An agency shall provide a waiver of civil money penalties for a first-time violation, provided that a small business concern demonstrates, and the agency determines, that—
   - **(1)** the small business concern previously made a reasonable good faith effort to anticipate, prevent, and effectively remediate a potential Y2K failure;
   - **(2)** a first-time violation occurred as a result of the Y2K failure of the small business concern or other entity, which significantly affected the small business concern’s ability to comply with a Federal rule or regulation;

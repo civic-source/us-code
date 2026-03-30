@@ -1,12 +1,15 @@
 ---
-title: "Section 3335 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78"
+title: "Section 3335 - Monitoring of television and picture tube imports"
 usc_title: 19
 usc_section: "3335"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3335"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-03-30T03:04:42.053Z"
+status: "active"
 ---
 
-# §§ 3331 to 3335. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78
+# § 3335. Monitoring of television and picture tube imports
 
+- **(a)** Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shall take action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
+- **(b)** The United States Customs Service shall make the results of the monitoring and verification required by subsection (a) of this section available to the President and the Trade Representative. If, based on such information, the President has reason to believe that articles described in subheading 8540.11 of the HTS, intended for ultimate consumption in the United States, are entering the territory of a NAFTA country inconsistent with the provisions of the Agreement, or have been undervalued in a manner that may raise concerns under United States trade laws, the President shall promptly take such action as may be appropriate under all relevant provisions of the Agreement, including article 317 and chapter 20, and under applicable United States trade statutes.

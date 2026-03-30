@@ -3,27 +3,20 @@ title: "Section 2912 - Availability and use of energy cost savings"
 usc_title: 10
 usc_section: "2912"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2912"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-03-30T03:04:17.304Z"
+status: "active"
 ---
 
 # § 2912. Availability and use of energy cost savings
 
-- **(a)** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title , and, in the case of operational energy, from both training and operational missions, shall remain available for obligation under subsection (b) or (c), as the case may be, for that fiscal year and the succeeding fiscal year, without additional authorization or appropriation.
-- **(b)** Except as provided in subsection (c) with respect to operational energy cost savings, the Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under section 2916(b)(2) of this title shall be used as follows:
-  - **(1)** One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures, including energy resilience and energy conservation construction projects, at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+- **(a)** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title , shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
+- **(b)** The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under section 2916(b)(2) of this title shall be used as follows:
+  - **(1)** One-half of the amount shall be used for the implementation of additional energy conservation and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
   - **(2)** One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
     - **(A)** improvements to existing military family housing units;
     - **(B)** any unspecified minor construction project that will enhance the quality of life of personnel; or
     - **(C)** any morale, welfare, or recreation facility or service.
-- **(c)**
-  - **(1)** The amount that remains available for obligation under subsection (a) that relates to operational energy cost savings realized by the Department shall be used for the implementation of operational energy initiatives.
-  - **(2)** The Secretary of Defense shall design operational energy initiatives under paragraph (1) to advance the objectives of the Department in the areas of energy resilience and fuel efficiency.
-  - **(3)** Operational energy initiatives carried out under paragraph (1) may directly contribute to enhanced mission and combat capabilities, fund operational environment training activities, or establish programs to incentivize demonstrable reductions in energy expenditures within the department, agency, or instrumentality credited with achieving the energy cost savings under subsection (a).
-- **(d)** Financial incentives received from gas or electric utilities under section 2913 of this title shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
-- **(e)**
-  - **(1)** Not later than 60 days after being notified of amounts described in subsection (a) that remain available for obligation, the Secretary of Defense shall transfer such amounts to other funding accounts of the Department of Defense if the purpose for which such amounts will be used is a purpose specified in subsection (b) or (c).
-  - **(2)** Amounts transferred to a funding account of the Department under paragraph (1) shall be available for obligation for the same period as amounts in that account.
-  - **(3)** At the end of each fiscal year, the Secretary of Defense shall submit to Congress a report detailing any funds transferred pursuant to paragraph (1) during that fiscal year, including a detailed description of the purpose for which such amounts have been used.
-- **(f)** In this section, the term “operational energy cost savings” means the monetary savings achieved through measures to reduce energy expenditures relative to the amount that would have been necessary to sustain an equivalent level of capability in the absence of such measures.
+- **(c)** Financial incentives received from gas or electric utilities under section 2913 of this title shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
+- **(d)** The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.

@@ -3,9 +3,10 @@ title: "Section 291 - Derived patents"
 usc_title: 35
 usc_section: "291"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "35 U.S.C. § 291"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-03-30T03:05:20.618Z"
+status: "active"
 ---
 
 # § 291. Derived patents

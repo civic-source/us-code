@@ -3,9 +3,10 @@ title: "Section 1622 - Annual reports to Congress until 1984; submission in 1985
 usc_title: 43
 usc_section: "1622"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1622"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-03-30T03:06:10.681Z"
+status: "active"
 ---
 
 # § 1622. Annual reports to Congress until 1984; submission in 1985 of report of status of Natives, summary of actions taken, and recommendations

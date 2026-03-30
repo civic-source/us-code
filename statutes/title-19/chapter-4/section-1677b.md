@@ -3,9 +3,10 @@ title: "Section 1677b - Normal value"
 usc_title: 19
 usc_section: "1677b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1677b"
-generated_at: "2026-03-30T02:54:24.656Z"
+generated_at: "2026-03-30T03:04:42.025Z"
+status: "active"
 ---
 
 # § 1677b. Normal value
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
       - **(ii)** in a case to which subparagraph (C) applies, the price at which the foreign like product is so sold (or offered for sale) for consumption in a country other than the exporting country or the United States, if—
         - **(I)** such price is representative,
         - **(II)** the aggregate quantity (or, if quantity is not appropriate, value) of the foreign like product sold by the exporter or producer in such other country is 5 percent or more of the aggregate quantity (or value) of the subject merchandise sold in the United States or for export to the United States, and
-        - **(III)** the administering authority does not determine that the particular market situation prevents a proper comparison with the export price or constructed export price.
+        - **(III)** the administering authority does not determine that the particular market situation in such other country prevents a proper comparison with the export price or constructed export price.
     - **(C)** This subparagraph applies when—
       - **(i)** the foreign like product is not sold (or offered for sale) for consumption in the exporting country as described in subparagraph (B)(i),
       - **(ii)** the administering authority determines that the aggregate quantity (or, if quantity is not appropriate, value) of the foreign like product sold in the exporting country is insufficient to permit a proper comparison with the sales of the subject merchandise to the United States, or
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
     - **(B)** the subject merchandise is merely transshipped through the intermediate country;
     - **(C)** sales of the foreign like product in the intermediate country do not satisfy the conditions of paragraph (1)(C); or
     - **(D)** the foreign like product is not produced in the intermediate country.
-  - **(4)** If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e).
+  - **(4)** If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
   - **(5)** If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) by such affiliated party may be used in determining normal value.
   - **(6)** The price described in paragraph (1)(B) shall be—
     - **(A)** increased by the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the subject merchandise in condition packed ready for shipment to the United States;
@@ -46,15 +47,15 @@ generated_at: "2026-03-30T02:54:24.656Z"
       - **(i)** involves the performance of different selling activities; and
       - **(ii)** is demonstrated to affect price comparability, based on a pattern of consistent price differences between sales at different levels of trade in the country in which normal value is determined.
     - **(B)** When normal value is established at a level of trade which constitutes a more advanced stage of distribution than the level of trade of the constructed export price, but the data available do not provide an appropriate basis to determine under subparagraph (A)(ii) a level of trade adjustment, normal value shall be reduced by the amount of indirect selling expenses incurred in the country in which normal value is determined on sales of the foreign like product but not more than the amount of such expenses for which a deduction is made under section 1677a(d)(1)(D) of this title .
-  - **(8)** Constructed value as determined under subsection (e), may be adjusted, as appropriate, pursuant to this subsection.
+  - **(8)** Constructed value as determined under subsection (e) of this section, may be adjusted, as appropriate, pursuant to this subsection.
 - **(b)**
   - **(1)** Whenever the administering authority has reasonable grounds to believe or suspect that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of that product, the administering authority shall determine whether, in fact, such sales were made at less than the cost of production. If the administering authority determines that sales made at less than the cost of production—
     - **(A)** have been made within an extended period of time in substantial quantities, and
     - **(B)** were not at prices which permit recovery of all costs within a reasonable period of time,
   - **(2)** For purposes of this subsection—
-    - **(A)**
-      - **(i)** In a review conducted under section 1675 of this title involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
-      - **(ii)** In an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title , the administering authority shall request information necessary to calculate the constructed value and cost of production under subsections (e) and (f) to determine whether there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that represent less than the cost of production of the product.
+    - **(A)** There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+      - **(i)** in an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title , an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+      - **(ii)** in a review conducted under section 1675 of this title involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.
     - **(B)** The term “extended period of time” means a period that is normally 1 year, but not less than 6 months.
     - **(C)** Sales made at prices below the cost of production have been made in substantial quantities if—
       - **(i)** the volume of such sales represents 20 percent or more of the volume of sales under consideration for the determination of normal value, or
@@ -67,7 +68,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
 - **(c)**
   - **(1)** If—
     - **(A)** the subject merchandise is exported from a nonmarket economy country, and
-    - **(B)** the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a),
+    - **(B)** the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a) of this section,
   - **(2)** If the administering authority finds that the available information is inadequate for purposes of determining the normal value of subject merchandise under paragraph (1), the administering authority shall determine the normal value on the basis of the price at which merchandise that is—
     - **(A)** comparable to the subject merchandise, and
     - **(B)** produced in one or more market economy countries that are at a level of economic development comparable to that of the nonmarket economy country,
@@ -79,13 +80,12 @@ generated_at: "2026-03-30T02:54:24.656Z"
   - **(4)** The administering authority, in valuing factors of production under paragraph (1), shall utilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
     - **(A)** at a level of economic development comparable to that of the nonmarket economy country, and
     - **(B)** significant producers of comparable merchandise.
-  - **(5)** In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard price or cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
 - **(d)** Whenever, in the course of an investigation under this subtitle, the administering authority determines that—
   - **(1)** subject merchandise exported to the United States is being produced in facilities which are owned or controlled, directly or indirectly, by a person, firm, or corporation which also owns or controls, directly or indirectly, other facilities for the production of the foreign like product which are located in another country or countries,
-  - **(2)** subsection (a)(1)(C) applies, and
+  - **(2)** subsection (a)(1)(C) of this section applies, and
   - **(3)** the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 - **(e)** For purposes of this subtitle, the constructed value of imported merchandise shall be an amount equal to the sum of—
-  - **(1)** the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of trade;
+  - **(1)** the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of business;
   - **(2)**
     - **(A)** the actual amounts incurred and realized by the specific exporter or producer being examined in the investigation or review for selling, general, and administrative expenses, and for profits, in connection with the production and sale of a foreign like product, in the ordinary course of trade, for consumption in the foreign country, or
     - **(B)** if actual data are not available with respect to the amounts described in subparagraph (A), then—
@@ -93,7 +93,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
       - **(ii)** the weighted average of the actual amounts incurred and realized by exporters or producers that are subject to the investigation or review (other than the exporter or producer described in clause (i)) for selling, general, and administrative expenses, and for profits, in connection with the production and sale of a foreign like product, in the ordinary course of trade, for consumption in the foreign country, or
       - **(iii)** the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed the amount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
   - **(3)** the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
-- **(f)** For purposes of subsections (b) and (e).— 1 1 So in original. The period preceding the dash probably should not appear.
+- **(f)** For purposes of subsections (b) and (e) of this section.—
   - **(1)**
     - **(A)** Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including that which is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
     - **(B)** Costs shall be adjusted appropriately for those nonrecurring costs that benefit current or future production, or both.

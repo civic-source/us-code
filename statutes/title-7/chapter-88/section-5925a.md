@@ -1,12 +1,35 @@
 ---
-title: "Section 5925a - Repealed. Pub. L. 113–79, title VII, § 7210 , Feb. 7, 2014 , 128 Stat. 885"
+title: "Section 5925a - Nutrient management research and extension initiative"
 usc_title: 7
 usc_section: "5925a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5925a"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-03-30T03:04:20.996Z"
+status: "active"
 ---
 
-# § 5925a. Repealed. Pub. L. 113–79, title VII, § 7210 , Feb. 7, 2014 , 128 Stat. 885
+# § 5925a. Nutrient management research and extension initiative
 
+- **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsection (e) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+- **(b)**
+  - **(1)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+  - **(2)** To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsection (e) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
+- **(c)**
+  - **(1)** The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount at least equal to the amount provided by the Federal Government.
+  - **(2)** The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
+    - **(A)** the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
+    - **(B)** the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
+- **(d)** Following the completion of a peer review process for grant proposals received under this section, the Secretary shall give priority to those grant proposals that involve—
+  - **(1)** the cooperation of multiple entities; and
+  - **(2)** States or regions with a high concentration of livestock, dairy, or poultry operations.
+- **(e)**
+  - **(1)** Research and extension grants may be made under this section for the purpose of—
+    - **(A)** identifying, evaluating, and demonstrating innovative technologies for animal waste management and related air quality management and odor control;
+    - **(B)** investigating the unique microbiology of specific animal wastes, such as swine waste and dairy and beef cattle waste, to develop improved methods to effectively manage air and water quality; and
+    - **(C)** conducting information workshops to disseminate the results of the research.
+  - **(2)** Research and extension grants may be made under this section for the purpose of investigating the impact on aquatic food webs, especially commercially important aquatic species and their habitats, of microorganisms of the genus Pfiesteria and other microorganisms that are a threat to human or animal health.
+  - **(3)** Research and extension grants may be made under this section for the purpose of identifying, evaluating, and demonstrating innovative technologies to be used for animal waste management (including odor control) in rural areas adjacent to urban or suburban areas in connection with waste management activities undertaken in urban or suburban areas.
+  - **(4)** Research and extension grants may be made under this section for the purpose of maximizing nutrition management for livestock, while limiting risks, such as mineral bypass, associated with livestock feeding practices.
+  - **(5)** Research and extension grants may be made under this section for the purpose of finding innovative methods and technologies to allow agricultural operators to make use of animal waste, such as use as fertilizer, methane digestion, composting, and other useful byproducts.
+- **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.

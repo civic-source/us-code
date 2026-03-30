@@ -1,12 +1,15 @@
 ---
-title: "Section 450f - Transferred"
+title: "Section 450f - Delegation of functions under other laws as unaffected"
 usc_title: 7
 usc_section: "450f"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 450f"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.899Z"
+status: "active"
 ---
 
-# § 450f. Transferred
+# § 450f. Delegation of functions under other laws as unaffected
+
+The provisions of section 450d of this title shall not be deemed to prohibit the delegation, under authority of any other provision of law, of the whole or any part of any regulatory function or other function to any officer or employee of the Department of Agriculture.
 

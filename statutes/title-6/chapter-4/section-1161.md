@@ -3,9 +3,10 @@ title: "Section 1161 - Railroad transportation security risk assessment and Nati
 usc_title: 6
 usc_section: "1161"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1161"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-03-30T03:04:24.362Z"
+status: "active"
 ---
 
 # § 1161. Railroad transportation security risk assessment and National Strategy
@@ -48,4 +49,4 @@ generated_at: "2026-03-30T02:53:09.506Z"
     - **(B)** an estimate of the cost to implement the National Strategy.
   - **(2)** The Secretary may submit the report in both classified and redacted formats if the Secretary determines that such action is appropriate or necessary.
 - **(f)** Consistent with the requirements of section 114(t) 1 of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
-- **(g)** Out of funds appropriated pursuant to section 114(w) 1 of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
+- **(g)** Out of funds appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.

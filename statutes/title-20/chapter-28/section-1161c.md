@@ -3,9 +3,10 @@ title: "Section 1161c - Business workforce partnerships for job skill training i
 usc_title: 20
 usc_section: "1161c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1161c"
-generated_at: "2026-03-30T02:54:48.150Z"
+generated_at: "2026-03-30T03:04:46.289Z"
+status: "active"
 ---
 
 # § 1161c. Business workforce partnerships for job skill training in high-growth occupations or industries
@@ -40,15 +41,15 @@ generated_at: "2026-03-30T02:54:48.150Z"
 - **(g)** The Secretary shall provide technical assistance to grantees under this section throughout the grant period.
 - **(h)** The Secretary shall conduct an evaluation of the effectiveness of the program under this section based on performance standards developed in consultation with the Department of Labor, and shall disseminate to the public the findings of such evaluation and information related to promising practices developed under this section.
 - **(i)** Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
-  - **(1)** for changes to this chapter and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.] and the Workforce Innovation and Opportunity Act (including titles I and II [ 29 U.S.C. 3111 et seq., 3271 et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
-  - **(2)** for other changes to this chapter and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
+  - **(1)** for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 [ 20 U.S.C. 2301 et seq.] and the Workforce Investment Act of 1998 (including titles I and II [ 29 U.S.C. 2801 et seq.; 20 U.S.C. 9201 et seq.]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+  - **(2)** for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 - **(j)** In this section:
   - **(1)**
     - **(A)** The term “eligible partnership” means a partnership that includes—
       - **(i)** one or more institutions of higher education, one of which serves as the fiscal agent and grant recipient for the eligible partnership;
-      - **(ii)** except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ]), or workforce intermediary, or any combination thereof; and
+      - **(ii)** except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 )), or workforce intermediary, or any combination thereof; and
       - **(iii)** where applicable, one or more labor organizations that represent workers locally in the businesses or industries that are the focus of the partnership, including as a result of such an organization’s representation of employees at a worksite at which the partnership proposes to conduct activities under this section.
-    - **(B)** Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ]).
+    - **(B)** Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 )).
     - **(C)** Nothing in this subsection shall be construed to prohibit an eligible partnership that is in existence on August 14, 2008 , from applying for a grant under this section.
   - **(2)** The term “nontraditional student” means a student—
     - **(A)** who is an independent student, as defined in section 1087vv(d) of this title ;

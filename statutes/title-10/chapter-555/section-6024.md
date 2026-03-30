@@ -1,0 +1,15 @@
+---
+title: "Section 6024 - Aviation designations: naval flight officer"
+usc_title: 10
+usc_section: "6024"
+chapter: 555
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 6024"
+generated_at: "2026-03-30T03:04:17.316Z"
+status: "active"
+---
+
+# § 6024. Aviation designations: naval flight officer
+
+Any officer of the naval service may be designated a naval flight officer if he has successfully completed the course prescribed for naval flight officers.
+

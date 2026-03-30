@@ -3,12 +3,13 @@ title: "Section 1009 - Joint investigations and surveys by Secretary of the Army
 usc_title: 16
 usc_section: "1009"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1009"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-03-30T03:04:48.550Z"
+status: "active"
 ---
 
 # § 1009. Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress
 
-The Secretary of the Army and the Secretary of Agriculture, when authorized to do so by resolutions adopted by the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, are authorized and directed to make joint investigations and surveys in accordance with their existing authorities of watershed areas in the United States, Puerto Rico, and the Virgin Islands, and to prepare joint reports on such investigations and surveys setting forth their recommendations for the installation of the works of improvement needed for flood prevention or the conservation, development, utilization, and disposal of water, and for flood control and allied purposes. Such joint reports shall be submitted to the Congress through the President for adoption and authorization by the Congress of the recommended works of improvement: Provided , That the project authorization procedure established by Public Law 566, Eighty-third Congress, as amended [ 16 U.S.C. 1001 et seq.], shall not be affected.
+The Secretary of the Army and the Secretary of Agriculture, when authorized to do so by resolutions adopted by the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, are authorized and directed to make joint investigations and surveys in accordance with their existing authorities of watershed areas in the United States, Puerto Rico, and the Virgin Islands, and to prepare joint reports on such investigations and surveys setting forth their recommendations for the installation of the works of improvement needed for flood prevention or the conservation, development, utilization, and disposal of water, and for flood control and allied purposes. Such joint reports shall be submitted to the Congress through the President for adoption and authorization by the Congress of the recommended works of improvement: Provided , That the project authorization procedure established by this chapter shall not be affected.
 

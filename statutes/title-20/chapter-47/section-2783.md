@@ -3,9 +3,10 @@ title: "Section 2783 - Omitted"
 usc_title: 20
 usc_section: "2783"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 2783"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-03-30T03:04:46.314Z"
+status: "omitted"
 ---
 
 # §§ 2781 to 2783. Omitted

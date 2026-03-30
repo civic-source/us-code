@@ -3,15 +3,16 @@ title: "Section 13342 - Oil substitution through coal liquefaction"
 usc_title: 42
 usc_section: "13342"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13342"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-03-30T03:06:22.927Z"
+status: "active"
 ---
 
 # § 13342. Oil substitution through coal liquefaction
 
 - **(a)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for the purpose of developing economically and environmentally acceptable advanced technologies for oil substitution through coal liquefaction.
-- **(b)** The goals of the program established under subsection (a) shall include—
+- **(b)** The goals of the program established under subsection (a) of this section shall include—
   - **(1)** improved resource selection and product quality;
   - **(2)** the development of technologies to increase net yield of liquid fuel product per ton of coal;
   - **(3)** an increase in overall thermal efficiency; and

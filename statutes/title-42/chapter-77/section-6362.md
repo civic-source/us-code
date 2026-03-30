@@ -3,9 +3,10 @@ title: "Section 6362 - Energy conservation policies and practices"
 usc_title: 42
 usc_section: "6362"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6362"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-03-30T03:06:22.763Z"
+status: "active"
 ---
 
 # § 6362. Energy conservation policies and practices
@@ -15,5 +16,5 @@ generated_at: "2026-03-30T02:56:11.257Z"
   - **(2)** the Interstate Commerce Commission;
   - **(3)** the Federal Maritime Commission; and
   - **(4)** the Federal Power Commission.
-- **(b)** Except as provided in subsection (c), each of the agencies specified in subsection (a) shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
-- **(c)** Subsection (b) shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
+- **(b)** Except as provided in subsection (c) of this section, each of the agencies specified in subsection (a) of this section shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
+- **(c)** Subsection (b) of this section shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.

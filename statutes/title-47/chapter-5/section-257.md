@@ -3,12 +3,16 @@ title: "Section 257 - Market entry barriers proceeding"
 usc_title: 47
 usc_section: "257"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 257"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-03-30T03:06:26.181Z"
+status: "active"
 ---
 
 # § 257. Market entry barriers proceeding
 
 - **(a)** Within 15 months after February 8, 1996 , the Commission shall complete a proceeding for the purpose of identifying and eliminating, by regulations pursuant to its authority under this chapter (other than this section), market entry barriers for entrepreneurs and other small businesses in the provision and ownership of telecommunications services and information services, or in the provision of parts or services to providers of telecommunications services and information services.
-- **(b)** In carrying out subsection (a), the Commission shall seek to promote the policies and purposes of this chapter favoring diversity of media voices, vigorous economic competition, technological advancement, and promotion of the public interest, convenience, and necessity.
+- **(b)** In carrying out subsection (a) of this section, the Commission shall seek to promote the policies and purposes of this chapter favoring diversity of media voices, vigorous economic competition, technological advancement, and promotion of the public interest, convenience, and necessity.
+- **(c)** Every 3 years following the completion of the proceeding required by subsection (a) of this section, the Commission shall review and report to Congress on—
+  - **(1)** any regulations prescribed to eliminate barriers within its jurisdiction that are identified under subsection (a) of this section and that can be prescribed consistent with the public interest, convenience, and necessity; and
+  - **(2)** the statutory barriers identified under subsection (a) of this section that the Commission recommends be eliminated, consistent with the public interest, convenience, and necessity.

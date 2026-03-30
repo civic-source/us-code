@@ -3,9 +3,10 @@ title: "Section 2778 - Repealed. Pub. L. 104–316, title I, § 105(d) , Oct. 19
 usc_title: 10
 usc_section: "2778"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2778"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-03-30T03:04:17.300Z"
+status: "repealed"
 ---
 
 # [§ 2778. Repealed. Pub. L. 104–316, title I, § 105(d) , Oct. 19, 1996 , 110 Stat. 3830 ]

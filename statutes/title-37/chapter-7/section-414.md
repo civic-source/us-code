@@ -3,9 +3,10 @@ title: "Section 414 - Personal money allowance"
 usc_title: 37
 usc_section: "414"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 414"
-generated_at: "2026-03-30T02:55:44.057Z"
+generated_at: "2026-03-30T03:05:39.923Z"
+status: "active"
 ---
 
 # § 414. Personal money allowance
@@ -15,5 +16,11 @@ generated_at: "2026-03-30T02:55:44.057Z"
   - **(2)** $1,200 a year, in place of any other personal money allowance authorized by this section while serving as Surgeon General of the Public Health Service;
   - **(3)** $2,200 a year, in addition to the personal money allowance authorized by clause (1), while serving as a senior member of the Military Staff Committee of the United Nations;
   - **(4)** $2,200 a year, while serving in the grade of general or admiral, or in an equivalent grade or rank; or
-  - **(5)** $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
-- **(b)** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Chief Master Sergeant of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
+  - **(5)** $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard.
+- **(b)** In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
+  - **(1)** President of the Naval Postgraduate School—$400;
+  - **(2)** Commandant of Midshipmen at the Naval Academy—$800;
+  - **(3)** President of the Naval War College—$1,000;
+  - **(4)** Superintendent of the Naval Academy—$5,200; and
+  - **(5)** Director of Naval Intelligence—$5,200.
+- **(c)** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.

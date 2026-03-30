@@ -3,9 +3,10 @@ title: "Section 3306 - Planning and solicitation requirements"
 usc_title: 41
 usc_section: "3306"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 3306"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-03-30T03:06:01.218Z"
+status: "active"
 ---
 
 # § 3306. Planning and solicitation requirements
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:55:55.805Z"
     - **(A)** function, so that a variety of products or services may qualify;
     - **(B)** performance, including specifications of the range of acceptable characteristics or of the minimum acceptable standards; or
     - **(C)** design requirements.
-- **(b)** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+- **(b)** In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
   - **(1)** a statement of—
     - **(A)** all significant factors and significant subfactors that the executive agency reasonably expects to consider in evaluating sealed bids (including price) or competitive proposals (including cost or price, cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors); and
     - **(B)** the relative importance assigned to each of those factors and subfactors; and
@@ -36,20 +37,12 @@ generated_at: "2026-03-30T02:55:55.805Z"
 - **(c)**
   - **(1)** In prescribing the evaluation factors to be included in each solicitation for competitive proposals, an executive agency shall—
     - **(A)** establish clearly the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, prior experience, and past performance of the offeror);
-    - **(B)** except as provided in paragraph (3), include cost or price to the Federal Government as an evaluation factor that must be considered in the evaluation of proposals; and
-    - **(C)** except as provided in paragraph (3), disclose to offerors whether all evaluation factors other than cost or price, when combined, are—
+    - **(B)** include cost or price to the Federal Government as an evaluation factor that must be considered in the evaluation of proposals; and
+    - **(C)** disclose to offerors whether all evaluation factors other than cost or price, when combined, are—
       - **(i)** significantly more important than cost or price;
       - **(ii)** approximately equal in importance to cost or price; or
       - **(iii)** significantly less important than cost or price.
   - **(2)** Regulations implementing paragraph (1)(C) may not define the terms “significantly more important” and “significantly less important” as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
-  - **(3)** If an executive agency issues a solicitation for one or more contracts for services to be acquired on an hourly rate basis under the authority of sections 4103 and 4106 of this title or section 152(3) of this title and section 501(b) of title 40 and the executive agency intends to make a contract award to each qualifying offeror and the contract or contracts will feature individually competed task or delivery orders based on hourly rates—
-    - **(A)** the contracting officer need not consider price as an evaluation factor for contract award; and
-    - **(B)** if, pursuant to subparagraph (A), price is not considered as an evaluation factor for contract award, cost or price to the Federal Government shall be considered in conjunction with the issuance pursuant to sections 4106(c) and 152(3) of this title of any task or delivery order under any contract resulting from the solicitation.
-  - **(4)** In paragraph (3), the term “qualifying offeror” means an offeror that—
-    - **(A)** is determined to be a responsible source;
-    - **(B)** submits a proposal that conforms to the requirements of the solicitation;
-    - **(C)** meets all technical requirements; and
-    - **(D)** is otherwise eligible for award.
 - **(d)** This section does not prohibit an executive agency from—
   - **(1)** providing additional information in a solicitation, including numeric weights for all evaluation factors and subfactors on a case-by-case basis; or
   - **(2)** stating in a solicitation that award will be made to the offeror that meets the solicitation’s mandatory requirements at the lowest cost or price.

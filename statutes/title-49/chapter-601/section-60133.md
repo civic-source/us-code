@@ -3,9 +3,10 @@ title: "Section 60133 - Coordination of environmental reviews"
 usc_title: 49
 usc_section: "60133"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 60133"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-03-30T03:06:29.344Z"
+status: "active"
 ---
 
 # § 60133. Coordination of environmental reviews

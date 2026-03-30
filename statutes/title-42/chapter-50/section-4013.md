@@ -3,9 +3,10 @@ title: "Section 4013 - Nature and limitation of insurance coverage"
 usc_title: 42
 usc_section: "4013"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4013"
-generated_at: "2026-03-30T02:56:11.195Z"
+generated_at: "2026-03-30T03:06:22.707Z"
+status: "active"
 ---
 
 # § 4013. Nature and limitation of insurance coverage
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:56:11.195Z"
   - **(4)** appropriate minimum premiums;
   - **(5)** appropriate loss-deductibles; and
   - **(6)** any other terms and conditions relating to insurance coverage or exclusion which may be necessary to carry out the purposes of this chapter.
-- **(b)** In addition to any other terms and conditions under subsection (a), such regulations shall provide that—
+- **(b)** In addition to any other terms and conditions under subsection (a) of this section, such regulations shall provide that—
   - **(1)** any flood insurance coverage based on chargeable premium rates under section 4015 of this title which are less than the estimated premium rates under section 4014(a)(1) of this title shall not exceed—
     - **(A)** in the case of residential properties—
       - **(i)** $35,000 aggregate liability for any single-family dwelling, and $100,000 for any residential structure containing more than one dwelling unit,
@@ -39,10 +40,3 @@ generated_at: "2026-03-30T02:56:11.195Z"
     - **(C)** the initial purchase of flood insurance coverage for private property if—
       - **(i)** the Administrator determines that the property is affected by flooding on Federal land that is a result of, or is exacerbated by, post-wildfire conditions, after consultation with an authorized employee of the Federal agency that has jurisdiction of the land on which the wildfire that caused the post-wildfire conditions occurred; and
       - **(ii)** the flood insurance coverage was purchased not later than 60 days after the fire containment date, as determined by the appropriate Federal employee, relating to the wildfire that caused the post-wildfire conditions described in clause (i).
-- **(d)**
-  - **(1)** In the case of residential properties, the Administrator shall make flood insurance coverage available, at the option of the insured, that provides for a loss-deductible for damage to the covered property in various amounts, up to and including $10,000.
-  - **(2)**
-    - **(A)** The Administrator shall provide the information described in subparagraph (B) clearly and conspicuously on the application form for flood insurance coverage or on a separate form, segregated from all unrelated information and other required disclosures.
-    - **(B)** The information described in this subparagraph is—
-      - **(i)** information sufficient to inform the applicant of the availability of the coverage option required by paragraph (1) to applicants for flood insurance coverage; and
-      - **(ii)** a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.

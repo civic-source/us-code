@@ -3,9 +3,10 @@ title: "Section 2516 - Interest on claims and judgments"
 usc_title: 28
 usc_section: "2516"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 2516"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-03-30T03:05:05.832Z"
+status: "active"
 ---
 
 # § 2516. Interest on claims and judgments

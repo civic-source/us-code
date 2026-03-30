@@ -1,12 +1,33 @@
 ---
-title: "Section 23 - Transferred"
+title: "Section 23 - Authority to make grants for research, evaluation, demonstration, and service projects"
 usc_title: 42
 usc_section: "23"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-03-30T03:06:22.744Z"
+status: "active"
 ---
 
-# § 5714–23. Transferred
+# § 5714–23. Authority to make grants for research, evaluation, demonstration, and service projects
 
+- **(a)** The Secretary may make grants to States, localities, and private entities (and combinations of such entities) to carry out research, evaluation, demonstration, and service projects regarding activities under this subchapter designed to increase knowledge concerning, and to improve services for, runaway youth and homeless youth.
+- **(b)** In selecting among applications for grants under subsection (a) of this section, the Secretary shall give priority to proposed projects relating to—
+  - **(1)** youth who repeatedly leave and remain away from their homes;
+  - **(2)** transportation of runaway youth and homeless youth in connection with services authorized to be provided under this subchapter;
+  - **(3)** the special needs of runaway youth and homeless youth programs in rural areas;
+  - **(4)** the special needs of programs that place runaway youth and homeless youth in host family homes;
+  - **(5)** staff training in—
+    - **(A)** the behavioral and emotional effects of sexual abuse and assault;
+    - **(B)** responding to youth who are showing effects of sexual abuse and assault; and
+    - **(C)** agency-wide strategies for working with runaway and homeless youth who have been sexually victimized;
+  - **(6)** innovative methods of developing resources that enhance the establishment or operation of runaway and homeless youth centers;
+  - **(7)** training for runaway youth and homeless youth, and staff training, related to preventing and obtaining treatment for infection by the human immunodeficiency virus (HIV);
+  - **(8)** increasing access to quality health care (including behavioral health care) for runaway youth and homeless youth;
+  - **(9)** increasing access to education for runaway youth and homeless youth, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and
+  - **(10)** providing programs, including innovative programs, that assist youth in obtaining and maintaining safe and stable housing, and which may include programs with supportive services that continue after the youth complete the remainder of the programs.
+- **(c)** In selecting among applicants for grants under subsection (a), the Secretary shall—
+  - **(1)** give priority to applicants who have experience working with runaway or homeless youth; and
+  - **(2)** ensure that the applicants selected—
+    - **(A)** represent diverse geographic regions of the United States; and
+    - **(B)** carry out projects that serve diverse populations of runaway or homeless youth.

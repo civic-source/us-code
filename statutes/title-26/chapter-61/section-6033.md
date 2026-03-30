@@ -3,9 +3,10 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-03-30T03:05:18.709Z"
+status: "active"
 ---
 
 # § 6033. Returns by exempt organizations
@@ -54,10 +55,10 @@ generated_at: "2026-03-30T02:55:27.830Z"
     - **(B)** reimbursements paid by the organization during the taxable year with respect to taxes imposed under such section,
   - **(12)** such information as the Secretary may require with respect to any excess benefit transaction (as defined in section 4958),
   - **(13)** such information with respect to disqualified persons as the Secretary may prescribe,
-  - **(14)** such information as the Secretary may require with respect to disaster relief activities,
+  - **(14)** such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies,
   - **(15)** in the case of an organization to which the requirements of section 501(r) apply for the taxable year—
     - **(A)** a description of how the organization is addressing the needs identified in each community health needs assessment conducted under section 501(r)(3) and a description of any such needs that are not being addressed together with the reasons why such needs are not being addressed, and
-    - **(B)** the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement), and
+    - **(B)** the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement). 1 1 So in original. The period probably should be “, and”.
   - **(16)** such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 - **(c)** In the case of an organization which is a private foundation (within the meaning of section 509(a))—
   - **(1)** the Secretary shall by regulations provide that the private foundation shall include in its annual return under this section such information (not required to be furnished by subsection (b) or the forms or regulations prescribed thereunder) as would have been required to be furnished under section 6056 (relating to annual reports by private foundations) as such section 6056 was in effect on January 1, 1979 , and
@@ -72,7 +73,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
       - **(ii)** except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
     - **(B)**
       - **(i)** This subsection shall apply to any organization which is exempt from taxation under section 501 other than an organization described in section 501(c)(3).
-      - **(ii)** This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+      - **(ii)** This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
       - **(iii)** This subsection shall not apply to any amount on which tax is imposed by reason of section 527(f).
     - **(C)** For purposes of this paragraph—
       - **(i)** Expenditures to which section 162(e)(1) applies shall be treated as paid out of dues or other similar amounts to the extent thereof.
@@ -84,9 +85,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
     - **(B)** The Secretary may waive the tax imposed by subparagraph (A)(ii) for any taxable year if the organization agrees to adjust its estimates under paragraph (1)(A)(ii) for the following taxable year to correct any failures.
     - **(C)** For purposes of this title, the tax imposed by subparagraph (A) shall be treated in the same manner as a tax imposed by chapter 1 (relating to income taxes).
   - **(3)** Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
-- **(f)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
-  - **(1)** the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization, and
-  - **(2)** in the case of the first such return filed by such an organization after submitting a notice to the Secretary under section 506(a), such information as the Secretary shall by regulation require in support of the organization’s treatment as an organization described in section 501(c)(4).
+- **(f)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
 - **(g)**
   - **(1)** This section shall apply to a political organization (as defined by section 527(e)(1)) which has gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
   - **(2)** Political organizations described in paragraph (1) shall file an annual return—
@@ -115,11 +114,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
     - **(F)** evidence of the continuing basis for the organization’s exemption from the filing requirements under subsection (a)(1), and
   - **(2)** upon the termination of the existence of the organization, shall furnish notice of such termination.
 - **(j)**
-  - **(1)**
-    - **(A)** If an organization described in subsection (a)(1) or (i) fails to file the annual return or notice required under either subsection for 2 consecutive years, the Secretary shall notify the organization—
-      - **(i)** that the Internal Revenue Service has no record of such a return or notice from such organization for 2 consecutive years, and
-      - **(ii)** about the revocation that will occur under subparagraph (B) if the organization fails to file such a return or notice by the due date for the next such return or notice required to be filed.
-    - **(B)** If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization’s status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
+  - **(1)** If an organization described in subsection (a)(1) or (i) fails to file an annual return or notice required under either subsection for 3 consecutive years, such organization’s status as an organization exempt from tax under section 501(a) shall be considered revoked on and after the date set by the Secretary for the filing of the third annual return or notice. The Secretary shall publish and maintain a list of any organization the status of which is so revoked.
   - **(2)** Any organization the tax-exempt status of which is revoked under paragraph (1) must apply in order to obtain reinstatement of such status regardless of whether such organization was originally required to make such an application.
   - **(3)** If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described in paragraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization’s exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
 - **(k)** Every organization described in section 4966(d)(1) shall, on the return required under subsection (a) for the taxable year—
@@ -133,8 +128,4 @@ generated_at: "2026-03-30T02:55:27.830Z"
 - **(m)** An organization described in section 501(c)(29) shall include on the return required under subsection (a) the following information:
   - **(1)** The amount of the reserves required by each State in which the organization is licensed to issue qualified health plans.
   - **(2)** The amount of reserves on hand.
-- **(n)** Any organization required to file a return under this section shall file such return in electronic form.
-- **(o)** Each applicable educational institution described in section 4968(c) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
-  - **(1)** the number of tuition-paying students taken into account under section 4968(c), and
-  - **(2)** the number of students of such institution (determined under the rules of section 4968(e)).
-- **(p)** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.
+- **(n)** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.

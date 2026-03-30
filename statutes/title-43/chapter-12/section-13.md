@@ -3,9 +3,10 @@ title: "Section 13 - Authorization of appropriations"
 usc_title: 43
 usc_section: "13"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-03-30T03:06:10.648Z"
+status: "active"
 ---
 
 # § 390h–13. Authorization of appropriations
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
     - **(B)** the Secretary has determined that the non-Federal project sponsor is financially capable of funding the non-Federal share of the project’s costs; and
     - **(C)** the Secretary has approved a cost-sharing agreement with the non-Federal project sponsor which commits the non-Federal project sponsor to funding its proportionate share of the project’s construction costs on an annual basis.
   - **(2)** The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–39 of this title for which funds were appropriated prior to January 1, 1996 .
-- **(c)** The Secretary shall notify the Committees on Resources and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate within 30 days after the signing of a cost-sharing agreement pursuant to subsection (b) that such an agreement has been signed and that the Secretary has determined that the non-Federal project sponsor is financially capable of funding the project’s non-Federal share of the project’s costs.
+- **(c)** The Secretary shall notify the Committees on Resources and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate within 30 days after the signing of a cost-sharing agreement pursuant to subsection (b) of this section that such an agreement has been signed and that the Secretary has determined that the non-Federal project sponsor is financially capable of funding the project’s non-Federal share of the project’s costs.
 - **(d)**
   - **(1)** Notwithstanding any other provision of sections 390h to 390h–39 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–39 of this title shall not exceed $20,000,000 (October 1996 prices).
   - **(2)**

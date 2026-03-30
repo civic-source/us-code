@@ -3,9 +3,10 @@ title: "Section 17244 - Renewable Energy Innovation Manufacturing Partnership"
 usc_title: 42
 usc_section: "17244"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17244"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-03-30T03:06:22.991Z"
+status: "active"
 ---
 
 # § 17244. Renewable Energy Innovation Manufacturing Partnership

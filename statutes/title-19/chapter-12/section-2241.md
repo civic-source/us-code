@@ -3,9 +3,10 @@ title: "Section 2241 - Estimates of barriers to market access"
 usc_title: 19
 usc_section: "2241"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2241"
-generated_at: "2026-03-30T02:54:24.667Z"
+generated_at: "2026-03-30T03:04:42.032Z"
+status: "active"
 ---
 
 # § 2241. Estimates of barriers to market access
@@ -33,14 +34,14 @@ generated_at: "2026-03-30T02:54:24.667Z"
   - **(3)** For calender 4 4 So in original. Probably should be “calendar”. year 2012 and each succeeding calendar year, the Trade Representative shall include in the analyses and estimates under paragraph (1) an identification and analysis of any laws, policies, or practices of the Russian Federation that deny fair and equitable market access to United States digital trade.
   - **(4)** The Trade Representative shall annually revise and update the analysis and estimate under paragraph (1).
 - **(b)**
-  - **(1)** On or before April 30, 1989 , and on or before March 31 of each succeeding calendar year, the Trade Representative shall submit a report on the analysis and estimates made under subsection (a) for the calendar year preceding such calendar year (which shall be known as the “National Trade Estimate”) to the President, the Committee on Finance of the Senate, and appropriate committees of the House of Representatives.
+  - **(1)** On or before April 30, 1989 , and on or before March 31 of each succeeding calendar year, the Trade Representative shall submit a report on the analysis and estimates made under subsection (a) of this section for the calendar year preceding such calendar year (which shall be known as the “National Trade Estimate”) to the President, the Committee on Finance of the Senate, and appropriate committees of the House of Representatives.
   - **(2)** The Trade Representative shall include in each report submitted under paragraph (1) information with respect to any action taken (or the reasons for no action taken) to eliminate any act, policy, or practice identified under subsection (a), including, but not limited to—
     - **(A)** any action under section 2411 of this title ,
     - **(B)** negotiations or consultations with foreign governments, or
     - **(C)** a section on foreign anticompetitive practices, the toleration of which by foreign governments is adversely affecting exports of United States goods or services.
   - **(3)** The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
 - **(c)**
-  - **(1)** The head of each department or agency of the executive branch of the Government, including any independent agency, is authorized and directed to furnish to the Trade Representative or to the appropriate agency, upon request, such data, reports, and other information as is necessary for the Trade Representative to carry out his functions under this section. In preparing the section of the report required by subsection (b)(2)(C), the Trade Representative shall consult in particular with the Attorney General.
+  - **(1)** The head of each department or agency of the executive branch of the Government, including any independent agency, is authorized and directed to furnish to the Trade Representative or to the appropriate agency, upon request, such data, reports, and other information as is necessary for the Trade Representative to carry out his functions under this section. In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.
   - **(2)** Nothing in this subsection shall authorize the release of information to, or the use of information by, the Trade Representative in a manner inconsistent with law or any procedure established pursuant thereto.
   - **(3)** The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
 - **(d)** For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) 5 5 So in original. See References in Text note below. of the Internet Tax Freedom Act.

@@ -1,12 +1,15 @@
 ---
-title: "Section 112 - Transferred"
+title: "Section 112 - Purchases of stationery and materials for folding"
 usc_title: 2
 usc_section: "112"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 112"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.403Z"
+status: "active"
 ---
 
-# § 112. Transferred
+# § 112. Purchases of stationery and materials for folding
+
+Purchases of stationery and materials for folding shall be made in accordance with sections 106 to 109 of this title. All contracts and bonds for purchases made under the authority of this section shall be filed with the Committee on Rules and Administration of the Senate.
 

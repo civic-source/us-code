@@ -3,9 +3,10 @@ title: "Section 2812 - Lease-purchase of facilities"
 usc_title: 10
 usc_section: "2812"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2812"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-03-30T03:04:17.301Z"
+status: "active"
 ---
 
 # § 2812. Lease-purchase of facilities
@@ -27,7 +28,9 @@ generated_at: "2026-03-30T02:53:38.177Z"
   - **(2)** shall provide that, at the end of the term of the lease, title to the leased facility shall vest in the United States; and
   - **(3)** shall include such other terms and conditions as the Secretary concerned determines are necessary or desirable to protect the interests of the United States.
 - **(c)**
-  - **(1)** The Secretary concerned may enter into a lease under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a justification of the need for the facility covered by the proposed lease, including an economic analysis (based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility.
+  - **(1)** The Secretary concerned may not enter into a lease under this section until—
+    - **(A)** the Secretary submits to the appropriate committees of Congress a justification of the need for the facility for which the proposed lease is being entered into and an economic analysis (based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility; and
+    - **(B)** a period of 21 days has expired following the date on which the justification and economic analysis are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title .
   - **(2)** Each Secretary concerned may, under this section, enter into—
     - **(A)** not more than three leases in fiscal year 1990; and
     - **(B)** not more than five leases in each of the fiscal years 1991 and 1992.

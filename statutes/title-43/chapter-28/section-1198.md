@@ -1,12 +1,15 @@
 ---
-title: "Section 1198 - Omitted"
+title: "Section 1198 - Condemnation of Sioux lands for dam purposes; negotiation of contracts"
 usc_title: 43
 usc_section: "1198"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1198"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-03-30T03:06:10.669Z"
+status: "active"
 ---
 
-# § 1198. Omitted
+# § 1198. Condemnation of Sioux lands for dam purposes; negotiation of contracts
+
+The Chief of Engineers, Department of the Army, and the Secretary of the Interior, jointly representing the United States of America are authorized and directed to negotiate separate contracts containing the provisions outlined in this subchapter with the Sioux Indians of the Lower Brule Reservation, South Dakota, and with the Sioux Indians of the Crow Creek Reservation, South Dakota, acting through representatives of each tribe appointed for such purpose by its tribal council.
 

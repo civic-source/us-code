@@ -3,9 +3,10 @@ title: "Section 1927 - Repayment requirements"
 usc_title: 7
 usc_section: "1927"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1927"
-generated_at: "2026-03-30T02:53:42.347Z"
+generated_at: "2026-03-30T03:04:20.944Z"
+status: "active"
 ---
 
 # § 1927. Repayment requirements
@@ -21,11 +22,7 @@ generated_at: "2026-03-30T02:53:42.347Z"
         - **(II)** an amount not exceeding 1 percent per year, as the Secretary determines is appropriate; or
       - **(ii)** less than 5 percent per year.
     - **(C)** Notwithstanding subparagraph (A), the Secretary shall establish loan rates for health care and related facilities based solely on the income of the area to be served, and such rates shall be otherwise consistent with such subparagraph.
-    - **(D)** If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be a rate equal to the greater of—
-      - **(i)** the difference between—
-        - **(I)** 2 percent; and
-        - **(II)** the interest rate for farm ownership loans under this subchapter; or
-      - **(ii)** 2.5 percent.
+    - **(D)** If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
     - **(E)**
       - **(i)** Except as provided in clause (ii) and notwithstanding subparagraph (A), in the case of a direct loan for a water or waste disposal facility—
         - **(I)** in the case of a loan that would be subject to the 5 percent interest rate limitation under subparagraph (A), the Secretary shall establish the interest rate at a rate that is equal to 60 percent of the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity of the loan, adjusted to the nearest ⅛ of 1 percent; and
@@ -44,6 +41,7 @@ generated_at: "2026-03-30T02:53:42.347Z"
     - **(C)** For purposes of this paragraph, the term “prime farmland” means prime farmlands and unique farmland as those terms are defined in sections 657.5(a) and (b) of title 7, Code of Federal Regulations (1980).
 - **(b)** The borrower shall pay such fees and other charges as the Secretary may require, and borrowers under this chapter shall prepay to the Secretary such taxes and insurance as the Secretary may require, on such terms and conditions as the Secretary may prescribe.
 - **(c)** The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title , shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
-- **(d)** The Secretary may not—
+- **(d)** With respect to a farm ownership loan made after December 23, 1985 , unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.
+- **(e)** The Secretary may not—
   - **(1)** require any borrower to provide additional collateral to secure a farmer program loan made or insured under this chapter, if the borrower is current in the payment of principal and interest on the loan; or
   - **(2)** bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.

@@ -3,9 +3,10 @@ title: "Section 14305 - Information gathering and access"
 usc_title: 42
 usc_section: "14305"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14305"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.949Z"
+status: "active"
 ---
 
 # § 14305. Information gathering and access
@@ -15,5 +16,5 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(2)** a rechargeable consumer product manufacturer;
   - **(3)** a mercury-containing battery manufacturer; and
   - **(4)** an authorized agent of a person described in paragraph (1), (2), or (3),
-- **(b)** The Administrator or the Administrator’s authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a).
+- **(b)** The Administrator or the Administrator’s authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a) of this section.
 - **(c)** The Administrator shall maintain the confidentiality of documents and records that contain proprietary information.

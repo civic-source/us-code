@@ -1,22 +1,20 @@
 ---
-title: "Section 70116 - Port, harbor, and coastal facility security"
+title: "Section 70116 - Secure systems of transportation"
 usc_title: 46
 usc_section: "70116"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 70116"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-03-30T03:06:27.196Z"
+status: "active"
 ---
 
-# § 70116. Port, harbor, and coastal facility security
+# § 70116. Secure systems of transportation
 
-- **(a)** The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism, cyber incidents, transnational organized crime, and foreign state threats against—
-  - **(1)** an individual, vessel, or public or commercial structure, that is—
-    - **(A)** subject to the jurisdiction of the United States; and
-    - **(B)** located within or adjacent to the marine environment; or
-  - **(2)** a vessel of the United States or an individual on board that vessel.
-- **(b)** Under subsection (a), the Secretary may—
-  - **(1)** carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism, cyber incidents, transnational organized crime, and foreign state threats;
-  - **(2)** recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism, cyber incidents, transnational organized crime, and foreign state threats; and
-  - **(3)** dispatch properly trained and qualified, armed (as needed), Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents, as defined in section 70101 of title 46 , United States Code.
-- **(c)** This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70033, 70035, and 70036. When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563.
+- **(a)** The Secretary, in consultation with the Transportation Security Oversight Board, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
+- **(b)** The program shall include—
+  - **(1)** establishing standards and procedures for screening and evaluating cargo prior to loading in a foreign port for shipment to the United States either directly or via a foreign port;
+  - **(2)** establishing standards and procedures for securing cargo and monitoring that security while in transit;
+  - **(3)** developing performance standards to enhance the physical security of shipping containers, including standards for seals and locks;
+  - **(4)** establishing standards and procedures for allowing the United States Government to ensure and validate compliance with this program; and
+  - **(5)** any other measures the Secretary considers necessary to ensure the security and integrity of international intermodal transport movements.

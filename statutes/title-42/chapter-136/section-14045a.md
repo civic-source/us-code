@@ -1,12 +1,43 @@
 ---
-title: "Section 14045a - Transferred"
+title: "Section 14045a - Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking"
 usc_title: 42
 usc_section: "14045a"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14045a"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.944Z"
+status: "active"
 ---
 
-# § 14045a. Transferred
+# § 14045a. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking
 
+- **(a)**
+  - **(1)** Of the amounts appropriated under certain grant programs identified in paragraph (a)(2) of this Section, 1 1 So in original. Probably should not be capitalized. the Attorney General, through the Director of the Violence Against Women Office (referred to in this section as the “Director”), shall take 5 percent of such appropriated amounts and combine them to establish a new grant program to enhance culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants made under this new program shall be administered by the Director. The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.
+  - **(2)** The programs covered by paragraph (1) are the programs carried out under the following provisions:
+    - **(A)** Section 3796hh of this title (Grants to Encourage Arrest Policies and Enforcement of Protection Orders).
+    - **(B)** Section 3796gg–6 of this title 2 2 See References in Text note below. (Legal Assistance for Victims).
+    - **(C)** Section 13971 of this title (Rural Domestic Violence, Dating Violence, Sexual Assault, Stalking, and Child Abuse Enforcement Assistance).
+    - **(D)** Section 14041a of this title (Enhanced Training and Services to End Violence Against Women Later in Life) 3 3 So in original. Probably should be “Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life”. .
+    - **(E)** Section 3796gg–7 of this title (Education, Training, and Enhanced Services to End Violence Against and Abuse of Women with Disabilities).
+- **(b)**
+  - **(1)** The purpose of the program required by this section is to promote:
+    - **(A)** The maintenance and replication of existing successful services in domestic violence, dating violence, sexual assault, and stalking community-based programs providing culturally specific services and other resources.
+    - **(B)** The development of innovative culturally specific strategies and projects to enhance access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
+  - **(2)** The Director shall make grants to community-based programs for the purpose of enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking. Grants under the program shall support community-based efforts to address distinctive cultural responses to domestic violence, dating violence, sexual assault, and stalking, including—
+    - **(A)** working with State and local governments and social service agencies to develop and enhance effective strategies to provide culturally specific services to victims of domestic violence, dating violence, sexual assault, and stalking;
+    - **(B)** increasing communities’ capacity to provide culturally specific resources and support for victims of domestic violence, dating violence, sexual assault, and stalking crimes and their families;
+    - **(C)** strengthening criminal justice interventions, by providing training for law enforcement, prosecution, courts, probation, and correctional facilities on culturally specific responses to domestic violence, dating violence, sexual assault, and stalking;
+    - **(D)** enhancing traditional services to victims of domestic violence, dating violence, sexual assault, and stalking through the leadership of culturally specific programs offering services to victims of domestic violence, dating violence, sexual assault, and stalking;
+    - **(E)** working in cooperation with the community to develop education and prevention strategies highlighting culturally specific issues and resources regarding victims of domestic violence, dating violence, sexual assault, and stalking;
+    - **(F)** providing culturally specific programs for children exposed to domestic violence, dating violence, sexual assault, and stalking;
+    - **(G)** providing culturally specific resources and services that address the safety, economic, housing, and workplace needs of victims of domestic violence, dating violence, sexual assault, or stalking, including emergency assistance; or
+    - **(H)** examining the dynamics of culture and its impact on victimization and healing.
+  - **(3)** The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
+- **(c)** Eligible entities for grants under this Section 1 include—
+  - **(1)** community-based programs whose primary purpose is providing culturally specific services to victims of domestic violence, dating violence, sexual assault, and stalking; and
+  - **(2)** community-based programs whose primary purpose is providing culturally specific services who can partner with a program having demonstrated expertise in serving victims of domestic violence, dating violence, sexual assault, and stalking.
+- **(d)** The Director shall issue a biennial report on the distribution of funding under this section, the progress made in replicating and supporting increased services to victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources, and the types of culturally accessible programs, strategies, technical assistance, and training developed or enhanced through this program.
+- **(e)** The Director shall award grants for a 2-year period, with a possible extension of another 2 years to implement projects under the grant.
+- **(f)** The Director shall award a contract or cooperative agreement to evaluate programs under this section to an entity with the demonstrated expertise in and primary goal of providing enhanced cultural access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
+- **(g)** Nothing in this Section 1 shall be interpreted to exclude culturally specific community-based programs from applying to other grant programs authorized under this Act.
+- **(h)** In this section the definitions and grant conditions in section 13925 of this title shall apply.

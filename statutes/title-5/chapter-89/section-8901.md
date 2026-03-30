@@ -3,9 +3,10 @@ title: "Section 8901 - Definitions"
 usc_title: 5
 usc_section: "8901"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8901"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-03-30T03:04:06.111Z"
+status: "active"
 ---
 
 # § 8901. Definitions
@@ -21,7 +22,7 @@ For the purpose of this chapter—
     - **(F)** an individual employed by Gallaudet College; 1 1 See Change of Name note below.
     - **(G)** an individual employed by a county committee established under section 590h(b) of title 16 ;
     - **(H)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
-    - **(I)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+    - **(I)** an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ( 78 Stat. 153 ), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
     - **(J)** an individual who is employed by the Roosevelt Campobello International Park Commission and is a citizen of the United States,
       - **(i)** an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
       - **(ii)** an individual who is not a citizen or national of the United States and whose permanent duty station is outside the United States, unless the individual was an employee for the purpose of this chapter on September 30, 1979 , by reason of service in an Executive agency, the United States Postal Service, or the Smithsonian Institution in the area which was then known as the Canal Zone;

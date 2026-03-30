@@ -3,9 +3,10 @@ title: "Section 6007 - Policy toward a democratic Cuban Government"
 usc_title: 22
 usc_section: "6007"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6007"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-03-30T03:04:53.691Z"
+status: "active"
 ---
 
 # § 6007. Policy toward a democratic Cuban Government
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
   - **(3)** is showing respect for the basic civil liberties and human rights of the citizens of Cuba;
   - **(4)** is moving toward establishing a free market economic system; and
   - **(5)** has committed itself to constitutional change that would ensure regular free and fair elections that meet the requirements of paragraph (2).
-- **(b)** If the President makes a determination under subsection (a), the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a):
+- **(b)** If the President makes a determination under subsection (a) of this section, the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a) of this section:
   - **(1)** To encourage the admission or reentry of such government to international organizations and international financial institutions.
   - **(2)** To provide emergency relief during Cuba’s transition to a viable economic system.
   - **(3)** To take steps to end the United States trade embargo of Cuba.

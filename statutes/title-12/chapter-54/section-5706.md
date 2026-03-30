@@ -3,9 +3,10 @@ title: "Section 5706 - Reports"
 usc_title: 12
 usc_section: "5706"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5706"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-03-30T03:04:29.360Z"
+status: "active"
 ---
 
 # § 5706. Reports
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
       - **(i)** the information provided in accordance with subparagraph (A) is accurate;
       - **(ii)** funds continue to be available and legally committed to contributions by the State to, or for the account of, approved State programs, less any amount that has been contributed by the State to, or for the account of, approved State programs subsequent to the State being approved for participation in the Program; and
       - **(iii)** the participating State is implementing its approved State program or programs in accordance with this chapter and regulations issued under section 5709 of this title .
-- **(b)** Not later than March 31 of each year, beginning March 31, 2022 , each participating State shall submit to the Secretary an annual report that shall include the following information:
+- **(b)** Not later than March 31 of each year, beginning March 31, 2011 , each participating State shall submit to the Secretary an annual report that shall include the following information:
   - **(1)** The number of borrowers that received new loans originated under the approved State program or programs after the State program was approved as eligible for Federal contributions.
   - **(2)** The total amount of such new loans.
   - **(3)** Breakdowns by industry type, loan size, annual sales, and number of employees of the borrowers that received such new loans.

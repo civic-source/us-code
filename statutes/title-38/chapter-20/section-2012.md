@@ -3,9 +3,10 @@ title: "Section 2012 - Per diem payments"
 usc_title: 38
 usc_section: "2012"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 2012"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-03-30T03:05:59.203Z"
+status: "active"
 ---
 
 # § 2012. Per diem payments
@@ -15,22 +16,11 @@ generated_at: "2026-03-30T02:55:53.493Z"
     - **(A)** whom the Secretary has referred to the grant recipient (or entity eligible for such a grant); or
     - **(B)** for whom the Secretary has authorized the provision of services.
   - **(2)**
-    - **(A)**
-      - **(i)** Except as otherwise provided in subparagraph (B), the rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under clause (ii).
-      - **(ii)**
-        - **(I)** The Secretary shall adjust the rate estimated by the grant recipient or eligible entity under clause (i) to exclude other sources of income described in subclause (III) that the grant recipient or eligible entity certifies to be correct.
-        - **(II)** Each grant recipient or eligible entity shall provide to the Secretary such information with respect to other sources of income as the Secretary may require to make the adjustment under subclause (I).
-        - **(III)** The other sources of income referred to in subclauses (I) and (II) are payments to the grant recipient or eligible entity for furnishing services to homeless veterans under programs other than under this subchapter, including payments and grants from other departments and agencies of the United States, from departments or agencies of State or local government, and from private entities or organizations.
-      - **(iii)** For purposes of calculating the rate for per diem payments under clause (i), in the case of a homeless veteran who has care of a minor dependent while receiving services from the grant recipient or eligible entity, the daily cost of care of the homeless veteran shall be the sum of the daily cost of care of the homeless veteran determined under clause (i) plus, for each such minor dependent, an amount that equals 50 percent of such daily cost of care.
-    - **(B)**
-      - **(i)**
-        - **(I)** Except as provided in clause (ii), and subject to the availability of appropriations, the Secretary may adjust the rate for per diem payments under this paragraph, as the Secretary considers appropriate.
-        - **(II)** Any adjustment made under this clause—
-      - **(ii)** In the case of services furnished to a homeless veteran who is placed in housing that will become permanent housing for the veteran upon termination of the furnishing of such services to such veteran, the maximum rate of per diem authorized under this section is 150 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title , as the Secretary may increase from time to time under subsection (c) of that section.
-      - **(iii)** For each of fiscal years 2025 through 2027, the Secretary may waive the maximum rate for per diem payments under clause (i)(II)(aa)(BB) or (ii) and, subject to the availability of appropriations, provide such payments at a rate that does not exceed 200 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title , as the Secretary may increase from time to time under subsection (c) of that section, if the Secretary notifies Congress of such waiver.
-      - **(iv)** The Secretary may not, pursuant to clause (iii), waive the maximum rate described in such clause for more than 50 percent of all grant recipients and eligible entities for a fiscal year.
+    - **(A)** The rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of section 1741 of this title , as the Secretary may increase from time to time under subsection (c) of that section.
+    - **(B)** The Secretary shall adjust the rate estimated by the grant recipient or eligible entity under subparagraph (A) to exclude other sources of income described in subparagraph (D) that the grant recipient or eligible entity certifies to be correct.
+    - **(C)** Each grant recipient or eligible entity shall provide to the Secretary such information with respect to other sources of income as the Secretary may require to make the adjustment under subparagraph (B).
+    - **(D)** The other sources of income referred to in subparagraphs (B) and (C) are payments to the grant recipient or eligible entity for furnishing services to homeless veterans under programs other than under this subchapter, including payments and grants from other departments and agencies of the United States, from departments or agencies of State or local government, and from private entities or organizations.
   - **(3)** In a case in which the Secretary has authorized the provision of services, per diem payments under paragraph (1) may be paid retroactively for services provided not more than three days before the authorization was provided.
-  - **(4)** The Secretary may not provide more than 12,000 per diem payments under this section for a fiscal year.
 - **(b)** The Secretary may inspect any facility of a grant recipient or entity eligible for payments under subsection (a) at such times as the Secretary considers necessary. No per diem payment may be provided to a grant recipient or eligible entity under this section unless the facilities of the grant recipient or eligible entity meet such standards as the Secretary shall prescribe.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), a per diem payment may not be provided under this section to a grant recipient or eligible entity unless the facilities of the grant recipient or eligible entity, as the case may be, meet applicable fire and safety requirements under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
@@ -52,10 +42,3 @@ generated_at: "2026-03-30T02:55:53.493Z"
     - **(B)** Grant recipients or eligible entities described by paragraph (1)(B).
     - **(C)** Grant recipients or eligible entities described by paragraph (1)(C).
   - **(3)** For purposes of this subsection, an eligible entity is a nonprofit entity and may be an entity that is ineligible to receive a grant under section 2011 of this title , but whom the Secretary determines carries out the purposes described in that section.
-- **(e)** The Secretary may reimburse a recipient of a grant under section 2011, 2013, or 2061 of this title or a recipient of per diem payments under this section for fees charged to that grant or per diem payment recipient for the use of the homeless management information system described in section 402(f) of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11360a(f) )—
-  - **(1)** in amounts the Secretary determines to be reasonable; and
-  - **(2)** if the Secretary determines that the grant or per diem payment recipient is unable to obtain information contained in such system through other means and at no cost to the grant or per diem payment recipient.
-- **(f)** Not later than 90 days after the date of the enactment of the HOME Act of 2024, and not less frequently than twice each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the rate for per diem payments under this section that includes, for each Veterans Integrated Service Network of the Department, the following data:
-  - **(1)** The average rate for such a payment.
-  - **(2)** A list of locations where the rate for such a payment is within 10 percent of the maximum rate for such a payment authorized under this section.
-  - **(3)** The average length of stay by a veteran participating in a program described in section 2012(a) of this title .

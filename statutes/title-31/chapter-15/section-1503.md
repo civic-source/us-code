@@ -3,9 +3,10 @@ title: "Section 1503 - Comptroller General reports of amounts for which no accou
 usc_title: 31
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 1503"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-03-30T03:05:28.355Z"
+status: "active"
 ---
 
 # § 1503. Comptroller General reports of amounts for which no accounting is made

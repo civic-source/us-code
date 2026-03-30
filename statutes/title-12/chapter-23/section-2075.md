@@ -3,9 +3,10 @@ title: "Section 2075 - Short- and intermediate-term loans; participation; other 
 usc_title: 12
 usc_section: "2075"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2075"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-03-30T03:04:29.286Z"
+status: "active"
 ---
 
 # § 2075. Short- and intermediate-term loans; participation; other financial assistance; terms; conditions; interest; security
@@ -20,7 +21,10 @@ generated_at: "2026-03-30T02:53:53.471Z"
   - **(3)** For rural housing purposes under this section the term “rural areas” shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
   - **(4)** Each association may own and lease, or lease with option to purchase, to stockholders of the association equipment needed in the operations of the stockholder.
 - **(c)**
-  - **(1)** Loans authorized in subsection (a) shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of section 2205 of this title , and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
+  - **(1)** Loans authorized in subsection (a) of this section shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of section 2205 of this title , and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
   - **(2)** In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
   - **(3)** The loan documents may provide for the interest rate or rates to vary from time to time during the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
   - **(4)** Such standards may require prior approval of the bank on certain classes of loans, and may authorize a continuing commitment to a borrower of a line of credit.
+- **(d)**
+  - **(1)** Notwithstanding any territorial limitation in the charter of a production credit association located in a district in which there are only two such associations, the Farm Credit Administration Board, on request of such association, may permit such association to provide credit and technical assistance to any borrower who is denied credit by the other production credit association in the district if the Board determines that such other production credit association in the district is unduly restrictive in the application of credit standards.
+  - **(2)** If the Farm Credit Administration Board approves the extension of credit and technical assistance under paragraph (1), the association shall approve or deny the application for credit within 90 days after receipt of the application from the borrower.

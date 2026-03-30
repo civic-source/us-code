@@ -3,12 +3,13 @@ title: "Section 410w - Administration, protection, and development"
 usc_title: 16
 usc_section: "410w"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 410w"
-generated_at: "2026-03-30T02:54:22.761Z"
+generated_at: "2026-03-30T03:04:48.423Z"
+status: "active"
 ---
 
 # § 410w. Administration, protection, and development
 
-When established pursuant to this subchapter, the park shall be administered, protected, and developed by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1–4 ), 1 1 See References in Text note below. as amended and supplemented, and the Historic Sites Act of August 21, 1935 ( 49 Stat. 666 ; U.S.C. 2 2 So in original. 461–467). 1
+When established pursuant to this subchapter, the park shall be administered, protected, and developed by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and sections 461 to 467 of this title.
 

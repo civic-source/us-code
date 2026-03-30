@@ -3,9 +3,10 @@ title: "Section 402 - Omitted"
 usc_title: 43
 usc_section: "402"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:57.447Z"
+generated_at: "2026-03-30T03:06:10.650Z"
+status: "omitted"
 ---
 
 # § 402. Omitted

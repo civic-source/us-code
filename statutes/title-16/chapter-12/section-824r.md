@@ -3,9 +3,10 @@ title: "Section 824r - Protection of transmission contracts in the Pacific North
 usc_title: 16
 usc_section: "824r"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 824r"
-generated_at: "2026-03-30T02:54:22.918Z"
+generated_at: "2026-03-30T03:04:48.535Z"
+status: "active"
 ---
 
 # § 824r. Protection of transmission contracts in the Pacific Northwest
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:54:22.918Z"
     - **(A)** in the Pacific Northwest, as that region is defined in section 839a of this title ; or
     - **(B)** in that portion of a State included in the geographic area proposed for a regional transmission organization in Commission Docket Number RT01–35 on the date on which that docket was opened.
 - **(b)** Nothing in this chapter confers on the Commission the authority to require an electric utility or person to convert to tradable or financial rights—
-  - **(1)** firm transmission rights described in subsection (a); or
-  - **(2)** firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
+  - **(1)** firm transmission rights described in subsection (a) of this section; or
+  - **(2)** firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a) of this section.

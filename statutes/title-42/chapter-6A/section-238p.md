@@ -3,15 +3,16 @@ title: "Section 238p - Recommendations and guidelines regarding automated extern
 usc_title: 42
 usc_section: "238p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 238p"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-03-30T03:06:22.301Z"
+status: "active"
 ---
 
 # § 238p. Recommendations and guidelines regarding automated external defibrillators for Federal buildings
 
 - **(a)** The Secretary shall establish guidelines with respect to placing automated external defibrillator devices in Federal buildings. Such guidelines shall take into account the extent to which such devices may be used by lay persons, the typical number of employees and visitors in the buildings, the extent of the need for security measures regarding the buildings, buildings or portions of buildings in which there are special circumstances such as high electrical voltage or extreme heat or cold, and such other factors as the Secretary determines to be appropriate.
-- **(b)** The Secretary shall publish in the Federal Register the recommendations of the Secretary on the appropriate implementation of the placement of automated external defibrillator devices under subsection (a), including procedures for the following:
+- **(b)** The Secretary shall publish in the Federal Register the recommendations of the Secretary on the appropriate implementation of the placement of automated external defibrillator devices under subsection (a) of this section, including procedures for the following:
   - **(1)** Implementing appropriate training courses in the use of such devices, including the role of cardiopulmonary resuscitation.
   - **(2)** Proper maintenance and testing of the devices.
   - **(3)** Ensuring coordination with appropriate licensed professionals in the oversight of training of the devices.

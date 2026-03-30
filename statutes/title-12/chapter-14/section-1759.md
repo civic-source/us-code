@@ -3,35 +3,36 @@ title: "Section 1759 - Membership"
 usc_title: 12
 usc_section: "1759"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1759"
-generated_at: "2026-03-30T02:53:53.435Z"
+generated_at: "2026-03-30T03:04:29.251Z"
+status: "active"
 ---
 
 # § 1759. Membership
 
-- **(a)** Subject to subsection (b), Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+- **(a)** Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 - **(b)** Subject to the other provisions of this section, the membership of any Federal credit union shall be limited to the membership described in one of the following categories:
   - **(1)** One group that has a common bond of occupation or association.
   - **(2)** More than one group—
     - **(A)** each of which has (within the group) a common bond of occupation or association; and
-    - **(B)** the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d).
+    - **(B)** the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d) of this section.
   - **(3)** Persons or organizations within a well-defined local community, neighborhood, or rural district.
 - **(c)**
   - **(1)**
-    - **(A)** Notwithstanding subsection (b)—
+    - **(A)** Notwithstanding subsection (b) of this section—
       - **(i)** any person or organization that is a member of any Federal credit union as of August 7, 1998 , may remain a member of the credit union after August 7, 1998 ; and
       - **(ii)** a member of any group whose members constituted a portion of the membership of any Federal credit union as of August 7, 1998 , shall continue to be eligible to become a member of that credit union, by virtue of membership in that group, after August 7, 1998 .
     - **(B)** If the common bond of any group referred to in subparagraph (A) is defined by any particular organization or business entity, subparagraph (A) shall continue to apply with respect to any successor to the organization or entity.
-  - **(2)** Notwithstanding subsection (b), in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2), the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
+  - **(2)** Notwithstanding subsection (b) of this section, in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
     - **(A)** the Board determines that the local community, neighborhood, or rural district—
       - **(i)** is an “investment area”, as defined in section 4702(16) of this title , and meets such additional requirements as the Board may impose; and
       - **(ii)** is underserved, based on data of the Board and the Federal banking agencies (as defined in section 1813 of this title ), by other depository institutions (as defined in section 461(b)(1)(A) of this title ); and
     - **(B)** the credit union establishes and maintains an office or facility in the local community, neighborhood, or rural district at which credit union services are available.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2).
-  - **(2)** In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2), the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
-    - **(A)** any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) because—
+  - **(1)** Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2) of this section.
+  - **(2)** In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
+    - **(A)** any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) of this section because—
       - **(i)** the group lacks sufficient volunteer and other resources to support the efficient and effective operation of a credit union;
       - **(ii)** the group does not meet the criteria that the Board has determined to be important for the likelihood of success in establishing and managing a new credit union, including demographic characteristics such as geographical location of members, diversity of ages and income levels, and other factors that may affect the financial viability and stability of a credit union; or
       - **(iii)** the group would be unlikely to operate a safe and sound credit union;
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
       - **(i)** in connection with a merger or consolidation recommended by the Board or any appropriate State credit union supervisor based on safety and soundness concerns with respect to that other credit union; or
       - **(ii)** by the Board in the Board’s capacity as conservator or liquidating agent with respect to that other credit union; or
     - **(C)** any group transferred in connection with a voluntary merger, having received conditional approval by the Administration of the merger application prior to October 25, 1996 , but not having consummated the merger prior to October 25, 1996 , if the merger is consummated not later than 180 days after August 7, 1998 .
-  - **(3)** The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2).
+  - **(3)** The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2) of this section.
 - **(e)**
   - **(1)** No individual shall be eligible for membership in a credit union on the basis of the relationship of the individual to another person who is eligible for membership in the credit union, unless the individual is a member of the immediate family or household (as those terms are defined by the Board, by regulation) of the other person.
   - **(2)** Except as provided in section 1764 of this title , once a person becomes a member of a credit union in accordance with this subchapter, that person or organization may remain a member of that credit union until the person or organization chooses to withdraw from the membership of the credit union.
@@ -47,7 +48,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
   - **(1)** The Board shall—
     - **(A)** encourage the formation of separately chartered credit unions instead of approving an application to include an additional group within the field of membership of an existing credit union whenever practicable and consistent with reasonable standards for the safe and sound operation of the credit union; and
     - **(B)** if the formation of a separate credit union by the group is not practicable or consistent with the standards referred to in subparagraph (A), require the inclusion of the group in the field of membership of a credit union that is within reasonable proximity to the location of the group whenever practicable and consistent with reasonable standards for the safe and sound operation of the credit union.
-  - **(2)** The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) to include an additional group and become a credit union described in subsection (b)(2)), unless the Board determines, in writing, that—
+  - **(2)** The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) of this section to include an additional group and become a credit union described in subsection (b)(2) of this section), unless the Board determines, in writing, that—
     - **(A)** the credit union has not engaged in any unsafe or unsound practice (as defined in section 1786(b) of this title ) that is material during the 1-year period preceding the date of filing of the application;
     - **(B)** the credit union is adequately capitalized;
     - **(C)** the credit union has the administrative capability to serve the proposed membership group and the financial resources to meet the need for additional staff and assets to serve the new membership group;
@@ -55,6 +56,6 @@ generated_at: "2026-03-30T02:53:53.435Z"
     - **(E)** the credit union has met such additional requirements as the Board may prescribe, by regulation.
 - **(g)**
   - **(1)** The Board shall prescribe, by regulation, a definition for the term “well-defined local community, neighborhood, or rural district” for purposes of—
-    - **(A)** making any determination with regard to the field of membership of a credit union described in subsection (b)(3); and
+    - **(A)** making any determination with regard to the field of membership of a credit union described in subsection (b)(3) of this section; and
     - **(B)** establishing the criteria applicable with respect to any such determination.
   - **(2)** The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998 .

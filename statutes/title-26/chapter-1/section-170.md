@@ -3,9 +3,10 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-30T02:55:27.645Z"
+generated_at: "2026-03-30T03:05:18.556Z"
+status: "active"
 ---
 
 # § 170. Charitable, etc., contributions and gifts
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
   - **(1)** There shall be allowed as a deduction any charitable contribution (as defined in subsection (c)) payment of which is made within the taxable year. A charitable contribution shall be allowable as a deduction only if verified under regulations prescribed by the Secretary.
   - **(2)** In the case of a corporation reporting its taxable income on the accrual basis, if—
     - **(A)** the board of directors authorizes a charitable contribution during any taxable year, and
-    - **(B)** payment of such contribution is made after the close of such taxable year and on or before the 15th day of the fourth month following the close of such taxable year,
+    - **(B)** payment of such contribution is made after the close of such taxable year and on or before the 15th day of the third month following the close of such taxable year,
   - **(3)** For purposes of this section, payment of a charitable contribution which consists of a future interest in tangible personal property shall be treated as made only when all intervening interests in, and rights to the actual possession or enjoyment of, the property have expired or are held by persons other than the taxpayer or those standing in a relationship to the taxpayer described in section 267(b) or 707(b). For purposes of the preceding sentence, a fixture which is intended to be severed from the real property shall be treated as tangible personal property.
 - **(b)**
   - **(1)** In the case of an individual, the deduction provided in subsection (a) shall be limited as provided in the succeeding subparagraphs.
@@ -25,15 +26,11 @@ generated_at: "2026-03-30T02:55:27.645Z"
       - **(iv)** an organization which normally receives a substantial part of its support (exclusive of income received in the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from the United States or any State or political subdivision thereof or from direct or indirect contributions from the general public, and which is organized and operated exclusively to receive, hold, invest, and administer property and to make expenditures to or for the benefit of a college or university which is an organization referred to in clause (ii) of this subparagraph and which is an agency or instrumentality of a State or political subdivision thereof, or which is owned or operated by a State or political subdivision thereof or by an agency or instrumentality of one or more States or political subdivisions,
       - **(v)** a governmental unit referred to in subsection (c)(1),
       - **(vi)** an organization referred to in subsection (c)(2) which normally receives a substantial part of its support (exclusive of income received in the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501(a)) from a governmental unit referred to in subsection (c)(1) or from direct or indirect contributions from the general public,
-      - **(vii)** a private foundation described in subparagraph (F),
+      - **(vii)** a private foundation described in subparagraph (F), or
       - **(viii)** an organization described in section 509(a)(2) or (3),
-      - **(ix)** an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977) in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made, or
-      - **(x)** an organization described in section 501(c)(19) that is a federally chartered corporation,
-    - **(B)** Any charitable contribution other than a charitable contribution to which subparagraph (A) or (G) applies shall be allowed to the extent that the aggregate of such contributions does not exceed the lesser of—
+    - **(B)** Any charitable contribution other than a charitable contribution to which subparagraph (A) applies shall be allowed to the extent that the aggregate of such contributions does not exceed the lesser of—
       - **(i)** 30 percent of the taxpayer’s contribution base for the taxable year, or
-      - **(ii)** the excess of 50 percent of the taxpayer’s contribution base for the taxable year over—
-        - **(I)** the amount of charitable contributions allowable under subparagraph (A) (determined without regard to subparagraph (C)) and subparagraph (G), reduced by
-        - **(II)** so much of the contributions taken into account under subparagraph (G) as does not exceed 10 percent of the taxpayer’s contribution base.
+      - **(ii)** the excess of 50 percent of the taxpayer’s contribution base for the taxable year over the amount of charitable contributions allowable under subparagraph (A) (determined without regard to subparagraph (C)).
     - **(C)**
       - **(i)** In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection (e)(1)(B) does not apply, the total amount of contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer’s contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
       - **(ii)** If charitable contributions described in subparagraph (A) of capital gain property to which clause (i) applies exceeds 30 percent of the taxpayer’s contribution base for any taxable year, such excess shall be treated, in a manner consistent with the rules of subsection (d)(1), as a charitable contribution of capital gain property to which clause (i) applies in each of the 5 succeeding taxable years in order of time.
@@ -52,47 +49,29 @@ generated_at: "2026-03-30T02:55:27.645Z"
         - **(I)** If the individual is a qualified farmer or rancher for the taxable year for which the contribution is made, clause (i) shall be applied by substituting “100 percent” for “50 percent”.
         - **(II)** Subclause (I) shall not apply to any contribution of property made after the date of the enactment of this subparagraph which is used in agriculture or livestock production (or available for such production) unless such contribution is subject to a restriction that such property remain available for such production. This subparagraph shall be applied separately with respect to property to which subclause (I) does not apply by reason of the preceding sentence prior to its application to property to which subclause (I) does apply.
       - **(v)** For purposes of clause (iv), the term “qualified farmer or rancher” means a taxpayer whose gross income from the trade or business of farming (within the meaning of section 2032A(e)(5)) is greater than 50 percent of the taxpayer’s gross income for the taxable year.
+      - **(vi)** This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2013 .
     - **(F)** The private foundations referred to in subparagraph (A)(vii) and subsection (e)(1)(B) are—
       - **(i)** a private operating foundation (as defined in section 4942(j)(3)),
       - **(ii)** any other private foundation (as defined in section 509(a)) which, not later than the 15th day of the third month after the close of the foundation’s taxable year in which contributions are received, makes qualifying distributions (as defined in section 4942(g), without regard to paragraph (3) thereof), which are treated, after the application of section 4942(g)(3), as distributions out of corpus (in accordance with section 4942(h)) in an amount equal to 100 percent of such contributions, and with respect to which the taxpayer obtains adequate records or other sufficient evidence from the foundation showing that the foundation made such qualifying distributions, and
       - **(iii)** a private foundation all of the contributions to which are pooled in a common fund and which would be described in section 509(a)(3) but for the right of any substantial contributor (hereafter in this clause called “donor”) or his spouse to designate annually the recipients, from among organizations described in paragraph (1) of section 509(a), of the income attributable to the donor’s contribution to the fund and to direct (by deed or by will) the payment, to an organization described in such paragraph (1), of the corpus in the common fund attributable to the donor’s contribution; but this clause shall apply only if all of the income of the common fund is required to be (and is) distributed to one or more organizations described in such paragraph (1) not later than the 15th day of the third month after the close of the taxable year in which the income is realized by the fund and only if all of the corpus attributable to any donor’s contribution to the fund is required to be (and is) distributed to one or more of such organizations not later than one year after his death or after the death of his surviving spouse if she has the right to designate the recipients of such corpus.
-    - **(G)**
-      - **(i)** For taxable years beginning after December 31, 2017 , any contribution of cash to an organization described in subparagraph (A) shall be allowed as a deduction under subsection (a) to the extent that the aggregate of such contributions does not exceed the excess of—
-        - **(I)** 60 percent of the taxpayer’s contribution base for the taxable year, over
-        - **(II)** the aggregate amount of contributions taken into account under subparagraph (A) for such taxable year.
-      - **(ii)** If the aggregate amount of contributions described in clause (i) exceeds the applicable limitation under clause (i) for any taxable year described in such clause, such excess shall be treated (in a manner consistent with the rules of subsection (d)(1)) as a charitable contribution to which clause (i) applies in each of the 5 succeeding years in order of time.
-      - **(iii)**
-        - **(I)** Contributions taken into account under this subparagraph shall not be taken into account under subparagraph (A).
-        - **(II)** For each taxable year described in clause (i), and each taxable year to which any contribution under this subparagraph is carried over under clause (ii), subparagraph (A) shall be applied by reducing (but not below zero) the contribution limitation allowed for the taxable year under such subparagraph by the aggregate contributions allowed under this subparagraph for such taxable year.
-    - **(H)** For purposes of this section, the term “contribution base” means adjusted gross income (computed without regard to any net operating loss carryback to the taxable year under section 172).
-    - **(I)** Any charitable contribution otherwise allowable (without regard to this subparagraph) as a deduction under this section shall be allowed only to the extent that the aggregate of such contributions exceeds 0.5 percent of the taxpayer’s contribution base for the taxable year. The preceding sentence shall be applied—
-      - **(i)** first, by taking into account charitable contributions to which subparagraph (D) applies to the extent thereof,
-      - **(ii)** second, by taking into account charitable contributions to which subparagraph (C) applies to the extent thereof,
-      - **(iii)** third, by taking into account charitable contributions to which subparagraph (B) applies to the extent thereof,
-      - **(iv)** fourth, by taking into account charitable contributions to which subparagraph (E) applies to the extent thereof,
-      - **(v)** fifth, by taking into account charitable contributions to which subparagraph (A) applies to the extent thereof, and
-      - **(vi)** sixth, by taking into account charitable contributions to which subparagraph (G) applies to the extent thereof.
+    - **(G)** For purposes of this section, the term “contribution base” means adjusted gross income (computed without regard to any net operating loss carryback to the taxable year under section 172).
   - **(2)** In the case of a corporation—
-    - **(A)** Any charitable contribution otherwise allowable (without regard to this subparagraph) as a deduction under this section for any taxable year, other than any contribution to which subparagraph (B) or (C) applies, shall be allowed only to the extent that the aggregate of such contributions—
-      - **(i)** exceeds 1 percent of the taxpayer’s taxable income for the taxable year, and
-      - **(ii)** does not exceed 10 percent of the taxpayer’s taxable income for the taxable year.
+    - **(A)** The total deductions under subsection (a) for any taxable year (other than for contributions to which subparagraph (B) applies) shall not exceed 10 percent of the taxpayer’s taxable income.
     - **(B)**
       - **(i)** Any qualified conservation contribution (as defined in subsection (h)(1))—
         - **(I)** which is made by a corporation which, for the taxable year during which the contribution is made, is a qualified farmer or rancher (as defined in paragraph (1)(E)(v)) and the stock of which is not readily tradable on an established securities market at any time during such year, and
         - **(II)** which, in the case of contributions made after the date of the enactment of this subparagraph, is a contribution of property which is used in agriculture or livestock production (or available for such production) and which is subject to a restriction that such property remain available for such production,
-      - **(ii)** If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2) other than subparagraph (C) thereof) as a charitable contribution to which clause (i) applies in each of the 15 succeeding taxable years in order of time.
-    - **(C)**
-      - **(i)** Any qualified conservation contribution (as defined in subsection (h)(1)) which—
-        - **(I)** is made by a Native Corporation, and
-        - **(II)** is a contribution of property which was land conveyed under the Alaska Native Claims Settlement Act,
-      - **(ii)** If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2) other than subparagraph (C) thereof) as a charitable contribution to which clause (i) applies in each of the 15 succeeding taxable years in order of time.
-      - **(iii)** For purposes of this subparagraph, the term “Native Corporation” has the meaning given such term by section 3(m) of the Alaska Native Claims Settlement Act.
-    - **(D)** For purposes of this paragraph, taxable income shall be computed without regard to—
+      - **(ii)** If the aggregate amount of contributions described in clause (i) exceeds the limitation of clause (i), such excess shall be treated (in a manner consistent with the rules of subsection (d)(2)) as a charitable contribution to which clause (i) applies in each of the 15 succeeding years in order of time.
+      - **(iii)** This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2013 .
+    - **(C)** For purposes of this paragraph, taxable income shall be computed without regard to—
       - **(i)** this section,
       - **(ii)** part VIII (except section 248),
       - **(iii)** any net operating loss carryback to the taxable year under section 172,
-      - **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1) 1 1 So in original. Probably should be followed by “, and”.
-      - **(v)** section 199A(g).
+      - **(iv)** section 199, and
+      - **(v)** any capital loss carryback to the taxable year under section 1212(a)(1).
+  - **(3)** In the case of a qualified farmer or rancher (as defined in paragraph (1)(E)(v)), any charitable contribution of food—
+    - **(A)** to which subsection (e)(3)(C) applies (without regard to clause (ii) thereof), and
+    - **(B)** which is made during the period beginning on the date of the enactment of this paragraph and before January 1, 2009 ,
 - **(c)** For purposes of this section, the term “charitable contribution” means a contribution or gift to or for the use of—
   - **(1)** A State, a possession of the United States, or any political subdivision of any of the foregoing, or the United States or the District of Columbia, but only if the contribution or gift is made for exclusively public purposes.
   - **(2)** A corporation, trust, or community chest, fund, or foundation—
@@ -105,25 +84,17 @@ generated_at: "2026-03-30T02:55:27.645Z"
     - **(B)** no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **(4)** In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
   - **(5)** A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burial purposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
-  - **(6)** An organization described in section 501(c)(19) that is a federally chartered corporation.
 - **(d)**
   - **(1)**
     - **(A)** In the case of an individual, if the amount of charitable contributions described in subsection (b)(1)(A) payment of which is made within a taxable year (hereinafter in this paragraph referred to as the “contribution year”) exceeds 50 percent of the taxpayer’s contribution base for such year, such excess shall be treated as a charitable contribution described in subsection (b)(1)(A) paid in each of the 5 succeeding taxable years in order of time, but, with respect to any such succeeding taxable year, only to the extent of the lesser of the two following amounts:
       - **(i)** the amount by which 50 percent of the taxpayer’s contribution base for such succeeding taxable year exceeds the sum of the charitable contributions described in subsection (b)(1)(A) payment of which is made by the taxpayer within such succeeding taxable year (determined without regard to this subparagraph) and the charitable contributions described in subsection (b)(1)(A) payment of which was made in taxable years before the contribution year which are treated under this subparagraph as having been paid in such succeeding taxable year; or
       - **(ii)** in the case of the first succeeding taxable year, the amount of such excess, and in the case of the second, third, fourth, or fifth succeeding taxable year, the portion of such excess not treated under this subparagraph as a charitable contribution described in subsection (b)(1)(A) paid in any taxable year intervening between the contribution year and such succeeding taxable year.
     - **(B)** In applying subparagraph (A), the excess determined under subparagraph (A) for the contribution year shall be reduced to the extent that such excess reduces taxable income (as computed for purposes of the second sentence of section 172(b)(2)) and increases the net operating loss deduction for a taxable year succeeding the contribution year.
-    - **(C)**
-      - **(i)** In the case of any taxable year from which an excess is carried forward (determined without regard to this subparagraph) under any carryover rule, the applicable carryover rule shall be applied by increasing the excess determined under such applicable carryover rule for the contribution year (before the application of subparagraph (B)) by the amount attributable to the charitable contributions to which such rule applies which is not allowed as a deduction for the contribution year by reason of subsection (b)(1)(I).
-      - **(ii)** For purposes of this subparagraph, the term “carryover rule” means—
-        - **(I)** subparagraph (A) of this paragraph,
-        - **(II)** subparagraphs (C)(ii), (D)(ii), (E)(ii), and (G)(ii) of subsection (b)(1), and
-        - **(III)** the second sentence of subsection (b)(1)(B).
-      - **(iii)** For purposes of this subparagraph, the term “applicable carryover rule” means any carryover rule applicable to charitable contributions which were (in whole or in part) not allowed as a deduction for the contribution year by reason of subsection (b)(1)(I).
   - **(2)**
-    - **(A)** Any charitable contribution taken into account under subsection (b)(2)(A) for any taxable year which is not allowed as a deduction by reason of clause (ii) thereof shall be taken into account as a charitable contribution for the succeeding taxable year, except that, for purposes of determining under this subparagraph whether such contribution is allowed in such succeeding taxable year, contributions in such succeeding taxable year (determined without regard to this paragraph) shall be taken into account under subsection (b)(2)(A) before any contribution taken into account by reason of this paragraph.
-    - **(B)** No charitable contribution may be carried forward under subparagraph (A) to any taxable year following the fifth taxable year after the taxable year in which the charitable contribution was first taken into account. For purposes of the preceding sentence, contributions shall be treated as allowed on a first-in first-out basis.
-    - **(C)** In the case of any taxable year from which a charitable contribution is carried forward under subparagraph (A) (determined without regard this subparagraph), subparagraph (A) shall be applied by substituting “clause (i) or (ii)” for “clause (ii)”.
-    - **(D)** The amount of charitable contributions carried forward under subparagraph (A) shall be reduced to the extent that such carryfoward would (but for this subparagraph) reduce taxable income (as computed for purposes of the second sentence of section 172(b)(2)) and increase a net operating loss carryover under section 172 to a succeeding taxable year.
+    - **(A)** Any contribution made by a corporation in a taxable year (hereinafter in this paragraph referred to as the “contribution year”) in excess of the amount deductible for such year under subsection (b)(2)(A) shall be deductible for each of the 5 succeeding taxable years in order of time, but only to the extent of the lesser of the two following amounts: (i) the excess of the maximum amount deductible for such succeeding taxable year under subsection (b)(2)(A) over the sum of the contributions made in such year plus the aggregate of the excess contributions which were made in taxable years before the contribution year and which are deductible under this subparagraph for such succeeding taxable year; or (ii) in the case of the first succeeding taxable year, the amount of such excess contribution, and in the case of the second, third, fourth, or fifth succeeding taxable year, the portion of such excess contribution not deductible under this subparagraph for any taxable year intervening between the contribution year and such succeeding taxable year.
+    - **(B)** For purposes of subparagraph (A), the excess of—
+      - **(i)** the contributions made by a corporation in a taxable year to which this section applies, over
+      - **(ii)** the amount deductible in such year under the limitation in subsection (b)(2)(A),
 - **(e)**
   - **(1)** The amount of any charitable contribution of property otherwise taken into account under this section shall be reduced by the sum of—
     - **(A)** the amount of gain which would not have been long-term capital gain (determined without regard to section 1221(b)(3)) if the property contributed had been sold by the taxpayer at its fair market value (determined at the time of such contribution), and
@@ -148,20 +119,17 @@ generated_at: "2026-03-30T02:55:27.645Z"
       - **(i)** In the case of a charitable contribution of food from any trade or business of the taxpayer, this paragraph shall be applied—
         - **(I)** without regard to whether the contribution is made by a C corporation, and
         - **(II)** only to food that is apparently wholesome food.
-      - **(ii)** The aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed—
-        - **(I)** in the case of any taxpayer other than a C corporation, 15 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section, and
-        - **(II)** in the case of a C corporation, 15 percent of taxable income (as defined in subsection (b)(2)(D)).
-      - **(iii)**
-        - **(I)** If such aggregate amount exceeds the limitation imposed under clause (ii), such excess shall be treated (in a manner consistent with the rules of subsection (d)) as a charitable contribution described in clause (i) in each of the 5 succeeding taxable years in order of time.
-        - **(II)** In the case of any charitable contribution which is allowable after the application of clause (ii)(II), subsection (b)(2)(A) shall not apply to such contribution, but the limitation imposed by such subsection shall be reduced (but not below zero) by the aggregate amount of such contributions. For purposes of subsection (b)(2)(B), such contributions shall be treated as allowable under subsection (b)(2)(A).
-      - **(iv)** If a taxpayer—
-        - **(I)** does not account for inventories under section 471, and
-        - **(II)** is not required to capitalize indirect costs under section 263A,
-      - **(v)** In the case of any such contribution of apparently wholesome food which cannot or will not be sold solely by reason of internal standards of the taxpayer, lack of market, or similar circumstances, or by reason of being produced by the taxpayer exclusively for the purposes of transferring the food to an organization described in subparagraph (A), the fair market value of such contribution shall be determined—
-        - **(I)** without regard to such internal standards, such lack of market, such circumstances, or such exclusive purpose, and
-        - **(II)** by taking into account the price at which the same or substantially the same food items (as to both type and quality) are sold by the taxpayer at the time of the contribution (or, if not so sold at such time, in the recent past).
-      - **(vi)** For purposes of this subparagraph, the term “apparently wholesome food” has the meaning given to such term by section 22(b)(2) of the Bill Emerson Good Samaritan Food Donation Act ( 42 U.S.C. 1791(b)(2) ), as in effect on the date of the enactment of this subparagraph.
-    - **(D)** This paragraph shall not apply to so much of the amount of the gain described in paragraph (1)(A) which would be long-term capital gain but for the application of sections 617, 1245, 1250, or 1252.
+      - **(ii)** In the case of a taxpayer other than a C corporation, the aggregate amount of such contributions for any taxable year which may be taken into account under this section shall not exceed 10 percent of the taxpayer’s aggregate net income for such taxable year from all trades or businesses from which such contributions were made for such year, computed without regard to this section.
+      - **(iii)** For purposes of this subparagraph, the term “apparently wholesome food” has the meaning given to such term by section 22(b)(2) of the Bill Emerson Good Samaritan Food Donation Act ( 42 U.S.C. 1791(b)(2) ), as in effect on the date of the enactment of this subparagraph.
+      - **(iv)** This subparagraph shall not apply to contributions made after December 31, 2013 .
+    - **(D)**
+      - **(i)** In determining whether a qualified book contribution is a qualified contribution, subparagraph (A) shall be applied without regard to whether the donee is an organization described in the matter preceding clause (i) of subparagraph (A).
+      - **(ii)** For purposes of this paragraph, the term “qualified book contribution” means a charitable contribution of books to a public school which is an educational organization described in subsection (b)(1)(A)(ii) and which provides elementary education or secondary education (kindergarten through grade 12).
+      - **(iii)** Subparagraph (A) shall not apply to any contribution of books unless (in addition to the certifications required by subparagraph (A) (as modified by this subparagraph)), the donee certifies in writing that—
+        - **(I)** the books are suitable, in terms of currency, content, and quantity, for use in the donee’s educational programs, and
+        - **(II)** the donee will use the books in its educational programs.
+      - **(iv)** This subparagraph shall not apply to contributions made after December 31, 2011 .
+    - **(E)** This paragraph shall not apply to so much of the amount of the gain described in paragraph (1)(A) which would be long-term capital gain but for the application of sections 617, 1245, 1250, or 1252.
   - **(4)**
     - **(A)** In the case of a qualified research contribution, the reduction under paragraph (1)(A) shall be no greater than the amount determined under paragraph (3)(B).
     - **(B)** For purposes of this paragraph, the term “qualified research contribution” means a charitable contribution by a corporation of tangible personal property described in paragraph (1) of section 1221(a), but only if—
@@ -185,7 +153,33 @@ generated_at: "2026-03-30T02:55:27.645Z"
     - **(C)**
       - **(i)** In the case of any donor, the term “qualified appreciated stock” shall not include any stock of a corporation contributed by the donor in a contribution to which paragraph (1)(B)(ii) applies (determined without regard to this paragraph) to the extent that the amount of the stock so contributed (when increased by the aggregate amount of all prior such contributions by the donor of stock in such corporation) exceeds 10 percent (in value) of all of the outstanding stock of such corporation.
       - **(ii)** For purposes of clause (i), an individual shall be treated as making all contributions made by any member of his family (as defined in section 267(c)(4)).
-  - **[(6)**
+  - **(6)**
+    - **(A)** In the case of a qualified computer contribution, the reduction under paragraph (1)(A) shall be no greater than the amount determined under paragraph (3)(B).
+    - **(B)** For purposes of this paragraph, the term “qualified computer contribution” means a charitable contribution by a corporation of any computer technology or equipment, but only if—
+      - **(i)** the contribution is to—
+        - **(I)** an educational organization described in subsection (b)(1)(A)(ii),
+        - **(II)** an entity described in section 501(c)(3) and exempt from tax under section 501(a) (other than an entity described in subclause (I)) that is organized primarily for purposes of supporting elementary and secondary education, or
+        - **(III)** a public library (within the meaning of section 213(1)(A) of the Library Services and Technology Act ( 20 U.S.C. 9122(1)(A) )), 1 1 So in original. The third closing parenthesis probably should not appear. as in effect on the date of the enactment of the Community Renewal Tax Relief Act of 2000), established and maintained by an entity described in subsection (c)(1),
+      - **(ii)** the contribution is made not later than 3 years after the date the taxpayer acquired the property (or in the case of property constructed or assembled by the taxpayer, the date the construction or assembling of the property is substantially completed),
+      - **(iii)** the original use of the property is by the donor or the donee,
+      - **(iv)** substantially all of the use of the property by the donee is for use within the United States for educational purposes that are related to the purpose or function of the donee,
+      - **(v)** the property is not transferred by the donee in exchange for money, other property, or services, except for shipping, installation and transfer costs,
+      - **(vi)** the property will fit productively into the donee’s education plan,
+      - **(vii)** the donee’s use and disposition of the property will be in accordance with the provisions of clauses (iv) and (v), and
+      - **(viii)** the property meets such standards, if any, as the Secretary may prescribe by regulation to assure that the property meets minimum functionality and suitability standards for educational purposes.
+    - **(C)** A contribution by a corporation of any computer technology or equipment to a private foundation (as defined in section 509) shall be treated as a qualified computer contribution for purposes of this paragraph if—
+      - **(i)** the contribution to the private foundation satisfies the requirements of clauses (ii) and (v) of subparagraph (B), and
+      - **(ii)** within 30 days after such contribution, the private foundation—
+        - **(I)** contributes the property to a donee described in clause (i) of subparagraph (B) that satisfies the requirements of clauses (iv) through (vii) of subparagraph (B), and
+        - **(II)** notifies the donor of such contribution.
+    - **(D)** In the case of property which is reacquired by the person who constructed or assembled the property—
+      - **(i)** subparagraph (B)(ii) shall be applied to a contribution of such property by such person by taking into account the date that the original construction or assembly of the property was substantially completed, and
+      - **(ii)** subparagraph (B)(iii) shall not apply to such contribution.
+    - **(E)** For the purposes of this paragraph, the rules of paragraph (4)(C) shall apply.
+    - **(F)** For the purposes of this paragraph—
+      - **(i)** The term “computer technology or equipment” means computer software (as defined by section 197(e)(3)(B)), computer or peripheral equipment (as defined by section 168(i)(2)(B)), and fiber optic cable related to computer use.
+      - **(ii)** The term “corporation” has the meaning given to such term by paragraph (4)(D).
+    - **(G)** This paragraph shall not apply to any contribution made during any taxable year beginning after December 31, 2011 .
   - **(7)**
     - **(A)** In the case of an applicable disposition of applicable property, there shall be included in the income of the donor of such property for the taxable year of such donor in which the applicable disposition occurs an amount equal to the excess (if any) of—
       - **(i)** the amount of the deduction allowed to the donor under this section with respect to such property, over
@@ -233,7 +227,8 @@ generated_at: "2026-03-30T02:55:27.645Z"
     - **(C)** For purposes of subparagraph (A), an acknowledgment shall be considered to be contemporaneous if the taxpayer obtains the acknowledgment on or before the earlier of—
       - **(i)** the date on which the taxpayer files a return for the taxable year in which the contribution was made, or
       - **(ii)** the due date (including extensions) for filing such return.
-    - **(D)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide that some or all of the requirements of this paragraph do not apply in appropriate cases.
+    - **(D)** Subparagraph (A) shall not apply to a contribution if the donee organization files a return, on such form and in accordance with such regulations as the Secretary may prescribe, which includes the information described in subparagraph (B) with respect to the contribution.
+    - **(E)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide that some or all of the requirements of this paragraph do not apply in appropriate cases.
   - **(9)** No deduction shall be allowed under this section for a contribution to an organization which conducts activities to which section 162(e)(1) applies on matters of direct financial interest to the donor’s trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
   - **(10)**
     - **(A)** Nothing in this section or in section 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 shall be construed to allow a deduction, and no deduction shall be allowed, for any transfer to or for the use of an organization described in subsection (c) if in connection with such transfer—
@@ -280,7 +275,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
         - **(III)** meets such other requirements as may be prescribed by the Secretary in regulations or other guidance.
       - **(iii)** An individual shall not be treated as a qualified appraiser with respect to any specific appraisal unless—
         - **(I)** the individual demonstrates verifiable education and experience in valuing the type of property subject to the appraisal, and
-        - **(II)** the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) 2 2 See References in Text note below. of title 31, United States Code, at any time during the 3-year period ending on the date of the appraisal.
+        - **(II)** the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) of title 31 , United States Code, at any time during the 3-year period ending on the date of the appraisal.
     - **(F)** For purposes of determining thresholds under this paragraph, property and all similar items of property donated to 1 or more donees shall be treated as 1 property.
     - **(G)** In the case of a partnership or S corporation, this paragraph shall be applied at the entity level, except that the deduction shall be denied at the partner or shareholder level.
     - **(H)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide that some or all of the requirements of this paragraph do not apply in appropriate cases.
@@ -340,15 +335,6 @@ generated_at: "2026-03-30T02:55:27.645Z"
       - **(i)** described in paragraph (3), (4), or (5) of subsection (c), or
       - **(ii)** a type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
     - **(B)** the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of paragraph (8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
-  - **(19)**
-    - **(A)** In the case of a qualified conservation contribution to which this paragraph applies, no deduction shall be allowed under subsection (a) for such contribution unless the partnership making such contribution—
-      - **(i)** includes on its return for the taxable year in which the contribution is made a statement that the partnership made such a contribution, and
-      - **(ii)** provides such information about the contribution as the Secretary may require.
-    - **(B)** This paragraph shall apply to any qualified conservation contribution—
-      - **(i)** the conservation purpose of which is the preservation of any building which is a certified historic structure (as defined in subsection (h)(4)(C)),
-      - **(ii)** which is made by a partnership (whether directly or as a distributive share of a contribution of another partnership), and
-      - **(iii)** the amount of which exceeds 2.5 times the sum of each partner’s relevant basis (as defined in subsection (h)(7)) in the partnership making the contribution.
-    - **(C)** Except as may be otherwise provided by the Secretary, the rules of this paragraph shall apply to S corporations and other pass-through entities in the same manner as such rules apply to partnerships.
 - **(g)**
   - **(1)** Subject to the limitations provided by paragraph (2), amounts paid by the taxpayer to maintain an individual (other than a dependent, as defined in section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), or a relative of the taxpayer) as a member of his household during the period that such individual is—
     - **(A)** a member of the taxpayer’s household under a written agreement between the taxpayer and an organization described in paragraph (2), (3), or (4) of subsection (c) to implement a program of the organization to provide educational opportunities for pupils or students in private homes, and
@@ -402,40 +388,16 @@ generated_at: "2026-03-30T02:55:27.645Z"
   - **(6)** For purposes of this subsection, the term “qualified mineral interest” means—
     - **(A)** subsurface oil, gas, or other minerals, and
     - **(B)** the right to access to such minerals.
-  - **(7)**
-    - **(A)** A contribution by a partnership (whether directly or as a distributive share of a contribution of another partnership) shall not be treated as a qualified conservation contribution for purposes of this section if the amount of such contribution exceeds 2.5 times the sum of each partner’s relevant basis in such partnership.
-    - **(B)** For purposes of this paragraph—
-      - **(i)** The term “relevant basis” means, with respect to any partner, the portion of such partner’s modified basis in the partnership which is allocable (under rules similar to the rules of section 755) to the portion of the real property with respect to which the contribution described in subparagraph (A) is made.
-      - **(ii)** The term “modified basis” means, with respect to any partner, such partner’s adjusted basis in the partnership as determined—
-        - **(I)** immediately before the contribution described in subparagraph (A),
-        - **(II)** without regard to section 752, and
-        - **(III)** by the partnership after taking into account the adjustments described in subclauses (I) and (II) and such other adjustments as the Secretary may provide.
-    - **(C)** Subparagraph (A) shall not apply to any contribution which is made at least 3 years after the latest of—
-      - **(i)** the last date on which the partnership that made such contribution acquired any portion of the real property with respect to which such contribution is made,
-      - **(ii)** the last date on which any partner in the partnership that made such contribution acquired any interest in such partnership, and
-      - **(iii)** if the interest in the partnership that made such contribution is held through 1 or more partnerships—
-        - **(I)** the last date on which any such partnership acquired any interest in any other such partnership, and
-        - **(II)** the last date on which any partner in any such partnership acquired any interest in such partnership.
-    - **(D)**
-      - **(i)** Subparagraph (A) shall not apply with respect to any contribution made by any partnership if substantially all of the partnership interests in such partnership are held, directly or indirectly, by an individual and members of the family of such individual.
-      - **(ii)** For purposes of this subparagraph, the term “members of the family” means, with respect to any individual—
-        - **(I)** the spouse of such individual, and
-        - **(II)** any individual who bears a relationship to such individual which is described in subparagraphs (A) through (G) of section 152(d)(2).
-    - **(E)** Subparagraph (A) shall not apply to any qualified conservation contribution the conservation purpose of which is the preservation of any building which is a certified historic structure (as defined in paragraph (4)(C)).
-    - **(F)** Except as may be otherwise provided by the Secretary, the rules of this paragraph shall apply to S corporations and other pass-through entities in the same manner as such rules apply to partnerships.
-    - **(G)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance—
-      - **(i)** to require reporting, including reporting related to tiered partnerships and the modified basis of partners, and
-      - **(ii)** to prevent the avoidance of the purposes of this paragraph.
 - **(i)** For purposes of computing the deduction under this section for use of a passenger automobile, the standard mileage rate shall be 14 cents per mile.
 - **(j)** No deduction shall be allowed under this section for traveling expenses (including amounts expended for meals and lodging) while away from home, whether paid directly or by reimbursement, unless there is no significant element of personal pleasure, recreation, or vacation in such travel.
-- **[(k)**
+- **(k)** For disallowance of deductions for contributions to or for the use of communist controlled organizations, see section 11(a) 2 2 See References in Text note below. of the Internal Security Act of 1950 ( 50 U.S.C. 790 ).
 - **(l)**
-  - **(1)** No deduction shall be allowed under this section for any amount described in paragraph (2).
+  - **(1)** For purposes of this section, 80 percent of any amount described in paragraph (2) shall be treated as a charitable contribution.
   - **(2)** For purposes of paragraph (1), an amount is described in this paragraph if—
     - **(A)** the amount is paid by the taxpayer to or for the benefit of an educational organization—
       - **(i)** which is described in subsection (b)(1)(A)(ii), and
       - **(ii)** which is an institution of higher education (as defined in section 3304(f)), and
-    - **(B)** the taxpayer receives (directly or indirectly) as a result of paying such amount the right to purchase tickets for seating at an athletic event in an athletic stadium of such institution.
+    - **(B)** such amount would be allowable as a deduction under this section but for the fact that the taxpayer receives (directly or indirectly) as a result of paying such amount the right to purchase tickets for seating at an athletic event in an athletic stadium of such institution.
 - **(m)**
   - **(1)** In the case of a taxpayer who makes a qualified intellectual property contribution, the deduction allowed under subsection (a) for each taxable year of the taxpayer ending on or after the date of such contribution shall be increased (subject to the limitations under subsection (b)) by the applicable percentage of qualified donee income with respect to such contribution which is properly allocable to such year under this subsection.
   - **(2)** With respect to any qualified intellectual property contribution, the deduction allowed under subsection (a) shall be increased under paragraph (1) only to the extent that the aggregate amount of such increases with respect to such contribution exceed the amount allowed as a deduction under subsection (a) with respect to such contribution determined without regard to this subsection.
@@ -456,7 +418,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
       - **(i)** modifying the application of this subsection in the case of a donor or donee with a short taxable year, and
       - **(ii)** providing for the determination of an amount to be treated as net income of the donee which is properly allocable to qualified intellectual property in the case of a donee who uses such property to further a purpose or function constituting the basis of the donee’s exemption under section 501 (or, in the case of a governmental unit, any purpose described in section 170(c)) and does not possess a right to receive any payment from a third party with respect to such property.
 - **(n)**
-  - **(1)** In the case of an individual who is recognized by the Alaska Eskimo Whaling Commission as a whaling captain charged with the responsibility of maintaining and carrying out sanctioned whaling activities and who engages in such activities during the taxable year, the amount described in paragraph (2) (to the extent such amount does not exceed $50,000 for the taxable year) shall be treated for purposes of this section as a charitable contribution.
+  - **(1)** In the case of an individual who is recognized by the Alaska Eskimo Whaling Commission as a whaling captain charged with the responsibility of maintaining and carrying out sanctioned whaling activities and who engages in such activities during the taxable year, the amount described in paragraph (2) (to the extent such amount does not exceed $10,000 for the taxable year) shall be treated for purposes of this section as a charitable contribution.
   - **(2)**
     - **(A)** The amount described in this paragraph is the aggregate of the reasonable and necessary whaling expenses paid by the taxpayer during the taxable year in carrying out sanctioned whaling activities.
     - **(B)** For purposes of subparagraph (A), the term “whaling expenses” includes expenses for—
@@ -486,16 +448,13 @@ generated_at: "2026-03-30T02:55:27.645Z"
   - **(4)** For purposes of this subsection—
     - **(A)** The term “additional contribution” means any charitable contribution by the taxpayer of any interest in property with respect to which the taxpayer has previously made an initial fractional contribution.
     - **(B)** The term “initial fractional contribution” means, with respect to any taxpayer, the first charitable contribution of an undivided portion of the taxpayer’s entire interest in any tangible personal property.
-- **(p)** In the case of any taxable year, if the individual does not elect to itemize deductions for such taxable year, the deduction under this section shall be equal to the deduction, not in excess of 1,000 ($2,000 in the case of a joint return), which would be determined under this section if the only charitable contributions taken into account in determining such deduction were contributions made in cash during such taxable year (determined without regard to subsections (b)(1)(G)(ii), (b)(1)(I), and (d)(1)) to an organization described in section 170(b)(1)(A) and not—
-  - **(1)** to an organization described in section 509(a)(3), or
-  - **(2)** for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).
-- **(q)**
+- **(p)**
   - **(1)** For treatment of certain organizations providing child care, see section 501(k).
   - **(2)** For charitable contributions of estates and trusts, see section 642(c).
   - **(3)** For nondeductibility of contributions by common trust funds, see section 584.
   - **(4)** For charitable contributions of partners, see section 702.
   - **(5)** For charitable contributions of nonresident aliens, see section 873.
-  - **(6)** For treatment of gifts for benefit of or use in connection with the Naval Academy as gifts to or for use of the United States, see section 8473 of title 10 , United States Code.
+  - **(6)** For treatment of gifts for benefit of or use in connection with the Naval Academy as gifts to or for use of the United States, see section 6973 of title 10 , United States Code.
   - **(7)** For treatment of gifts accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency, as gifts to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.
   - **(8)** For treatment of gifts of money accepted by the Attorney General for credit to the “Commissary Funds Federal Prisons” as gifts to or for the use of the United States, see section 4043 of title 18 , United States Code.
   - **(9)** For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.

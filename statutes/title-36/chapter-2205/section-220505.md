@@ -1,14 +1,15 @@
 ---
-title: "Section 220505 - Powers and duties"
+title: "Section 220505 - Powers"
 usc_title: 36
 usc_section: "220505"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 220505"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-03-30T03:05:43.656Z"
+status: "active"
 ---
 
-# § 220505. Powers and duties
+# § 220505. Powers
 
 - **(a)** The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—
   - **(1)** publishes, in its principal publication, a notice of the proposed amendment, including—
@@ -30,19 +31,7 @@ generated_at: "2026-03-30T02:55:44.709Z"
 - **(c)** The corporation may—
   - **(1)** serve as the coordinating body for amateur athletic activity in the United States directly related to international amateur athletic competition;
   - **(2)** represent the United States as its national Olympic committee in relations with the International Olympic Committee and the Pan-American Sports Organization and as its national Paralympic committee in relations with the International Paralympic Committee;
-  - **(3)** organize, finance, and control the representation of the United States in the competitions and events of the Olympic Games, the Paralympic Games, the Pan-American Games, and the Parapan American Games, and obtain, directly or by delegation to the appropriate national governing body, amateur representation for those games;
-  - **(4)** certify national governing bodies for any sport that is included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games;
-  - **(5)** facilitate, through orderly and effective administrative procedures, the resolution of conflicts or disputes that involve any of its members and any amateur athlete, coach, trainer, manager, administrator, official, national governing body, or amateur sports organization and that arise in connection with their eligibility for and participation in the Olympic Games, the Paralympic Games, the Pan-American Games, the Parapan American Games, world championship competition, the Pan-American world championship competition, or other protected competition as defined in the constitution and bylaws of the corporation; and
+  - **(3)** organize, finance, and control the representation of the United States in the competitions and events of the Olympic Games, the Paralympic Games, and the Pan-American Games, and obtain, directly or by delegation to the appropriate national governing body, amateur representation for those games;
+  - **(4)** recognize eligible amateur sports organizations as national governing bodies for any sport that is included on the program of the Olympic Games or the Pan-American Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;
+  - **(5)** facilitate, through orderly and effective administrative procedures, the resolution of conflicts or disputes that involve any of its members and any amateur athlete, coach, trainer, manager, administrator, official, national governing body, or amateur sports organization and that arise in connection with their eligibility for and participation in the Olympic Games, the Paralympic Games, the Pan-American Games, world championship competition, the Pan-American world championship competition, or other protected competition as defined in the constitution and bylaws of the corporation; and
   - **(6)** provide financial assistance to any organization or association, except a corporation organized for profit, in furtherance of the purposes of the corporation.
-- **(d)**
-  - **(1)** The duty of the corporation to amateur athletes includes the adoption, effective implementation, and enforcement of policies and procedures designed—
-    - **(A)** to immediately report to law enforcement and the Center any allegation of child abuse of an amateur athlete who is a minor;
-    - **(B)** to ensure that each national governing body has in place policies and procedures to report immediately any allegation of child abuse of an amateur athlete, consistent with—
-      - **(i)** the policies and procedures developed under subparagraph (C) of section 220541(a)(1); and
-      - **(ii)** the requirement described in paragraph (2)(A) of section 220542(a);
-    - **(C)** to ensure that each national governing body and the corporation enforces temporary measures and sanctions issued pursuant to the authority of the Center; and
-    - **(D)** with respect to a sport for which the corporation conducts separate programs for female and male athletes, to ensure that female and male athletes who represent the United States in international amateur athletic events receive, from funds directly provided by the corporation to the athlete (excluding any prize or award based on the athlete’s performance in an international amateur athletic competition), equivalent and nondiscriminatory compensation, wages, benefits, medical care, travel arrangements, and payment or reimbursement for expenses, all insofar as these are implemented in connection with such amateur athletic events, where “equivalent” means “equal” except that it shall be permissible—
-      - **(i)** to consider merit, performance, seniority, or quantity of play in determining contract or other terms of participation; and
-      - **(ii)** to provide more beneficial terms of participation to athletes representing the United States in international events to address disparities in outside income, including in compensation made available by international sports federations and other event organizers, or the need to foster underdeveloped programs or address documented and justifiable personal need on the part of specific athletes or teams.
-  - **(2)** The corporation shall take all reasonable steps, in collaboration with affected athletes, to advocate to international sports federations and other event organizers to equalize prizes, compensation, funding, and other support provided to athletes by such federations and organizers.
-  - **(3)** Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.

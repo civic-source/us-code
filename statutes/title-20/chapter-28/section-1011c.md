@@ -3,14 +3,15 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-03-30T02:54:48.092Z"
+generated_at: "2026-03-30T03:04:46.238Z"
+status: "active"
 ---
 
 # § 1011c. National Advisory Committee on Institutional Quality and Integrity
 
-- **(a)** There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the “Committee”) to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title ) under subchapter IV.
+- **(a)** There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the “Committee”) to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title ) under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 - **(b)**
   - **(1)** The Committee shall have 18 members, of which—
     - **(A)** six members shall be appointed by the Secretary;
@@ -28,10 +29,10 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(C)** six years for members appointed under paragraph (1)(C).
   - **(6)** The members of the Committee shall select a chairperson from among the members.
 - **(c)** The Committee shall—
-  - **(1)** advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part H of subchapter IV;
+  - **(1)** advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part G of subchapter IV of this chapter;
   - **(2)** advise the Secretary with respect to the recognition of a specific accrediting agency or association;
   - **(3)** advise the Secretary with respect to the preparation and publication of the list of nationally recognized accrediting agencies and associations;
-  - **(4)** advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV, together with recommendations for improvements in such process;
+  - **(4)** advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, together with recommendations for improvements in such process;
   - **(5)** advise the Secretary with respect to the relationship between—
     - **(A)** accreditation of institutions of higher education and the certification and eligibility of such institutions; and
     - **(B)** State licensing responsibilities with respect to such institutions; and
@@ -44,7 +45,7 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(A)** The agenda for a meeting of the Committee shall be established by the Chairperson and shall be submitted to the members of the Committee upon notification of the meeting.
     - **(B)** The agenda shall include, at a minimum, opportunity for public comment during the Committee’s deliberations.
   - **(3)** The Secretary shall designate an employee of the Department to serve as the Secretary’s designee to the Committee, and the Chairperson shall invite the Secretary’s designee to attend all meetings of the Committee.
-  - **(4)** Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5 shall not apply.
+  - **(4)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act shall not apply.
 - **(e)**
   - **(1)** The Secretary shall annually publish in the Federal Register—
     - **(A)** a list containing, for each member of the Committee—
@@ -57,4 +58,4 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(B)** a list of the date and location of each meeting during the fiscal year preceding the fiscal year in which the report is made;
     - **(C)** a list of the members of the Committee; and
     - **(D)** a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
-- **(f)** The Committee shall terminate on September 30, 2021 . 1 1 See Termination of Committee note below.
+- **(f)** The Committee shall terminate on September 30, 2014 .

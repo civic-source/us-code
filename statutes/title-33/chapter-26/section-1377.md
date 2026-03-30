@@ -3,22 +3,17 @@ title: "Section 1377 - Indian tribes"
 usc_title: 33
 usc_section: "1377"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1377"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-03-30T03:05:36.284Z"
+status: "active"
 ---
 
 # § 1377. Indian tribes
 
 - **(a)** Nothing in this section shall be construed to affect the application of section 1251(g) of this title , and all of the provisions of this section shall be carried out in accordance with the provisions of such section 1251(g) of this title . Indian tribes shall be treated as States for purposes of such section 1251(g) of this title .
 - **(b)** The Administrator, in cooperation with the Director of the Indian Health Service, shall assess the need for sewage treatment works to serve Indian tribes, the degree to which such needs will be met through funds allotted to States under section 1285 of this title and priority lists under section 1296 of this title , and any obstacles which prevent such needs from being met. Not later than one year after February 4, 1987 , the Administrator shall submit a report to Congress on the assessment under this subsection, along with recommendations specifying (1) how the Administrator intends to provide assistance to Indian tribes to develop waste treatment management plans and to construct treatment works under this chapter, and (2) methods by which the participation in and administration of programs under this chapter by Indian tribes can be maximized.
-- **(c)**
-  - **(1)** The Administrator shall reserve each of fiscal years 1987 through 2014, before allotments to the States under section 1285(e) of this title , one-half of one percent of the sums appropriated under section 1287 of this title .
-  - **(2)** For fiscal year 2015 and each fiscal year thereafter, the Administrator shall reserve, before allotments to the States under section 1384(a) of this title , not less than 0.5 percent and not more than 2.0 percent of the funds made available to carry out subchapter VI.
-  - **(3)** Funds reserved under this subsection shall be available only for grants for projects and activities eligible for assistance under section 1383(c) of this title to serve—
-    - **(A)** Indian tribes (as defined in subsection (h));
-    - **(B)** former Indian reservations in Oklahoma (as determined by the Secretary of the Interior); and
-    - **(C)** Native villages (as defined in section 1602 of title 43 ).
+- **(c)** The Administrator shall reserve each fiscal year beginning after September 30, 1986 , before allotments to the States under section 1285(e) of this title , one-half of one percent of the sums appropriated under section 1287 of this title . Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203 [ 43 U.S.C. 1601 et seq.].
 - **(d)** In order to ensure the consistent implementation of the requirements of this chapter, an Indian tribe and the State or States in which the lands of such tribe are located may enter into a cooperative agreement, subject to the review and approval of the Administrator, to jointly plan and administer the requirements of this chapter.
 - **(e)** The Administrator is authorized to treat an Indian tribe as a State for purposes of subchapter II of this chapter and sections 1254, 1256, 1313, 1315, 1318, 1319, 1324, 1329, 1341, 1342, 1344, and 1346 of this title to the degree necessary to carry out the objectives of this section, but only if—
   - **(1)** the Indian tribe has a governing body carrying out substantial governmental duties and powers;

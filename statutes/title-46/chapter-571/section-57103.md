@@ -1,16 +1,17 @@
 ---
-title: "Section 57103 - Donation of vessels in the National Defense Reserve Fleet"
+title: "Section 57103 - Donation of nonretention vessels in the National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57103"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 57103"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-03-30T03:06:27.193Z"
+status: "active"
 ---
 
-# § 57103. Donation of vessels in the National Defense Reserve Fleet
+# § 57103. Donation of nonretention vessels in the National Defense Reserve Fleet
 
-- **(a)** The Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel, if the recipient—
+- **(a)** The Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel of insufficient value to warrant its further preservation, if the recipient—
   - **(1)** is a non-profit organization, a State, or a municipal corporation or political subdivision of a State;
   - **(2)** agrees not to use, or allow others to use, the vessel for commercial transportation purposes;
   - **(3)** agrees to make the vessel available to the Government whenever the Secretary indicates that it is needed by the Government;

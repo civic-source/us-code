@@ -3,9 +3,10 @@ title: "Section 2361 - Sense of Congress concerning contracting policy"
 usc_title: 50
 usc_section: "2361"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2361"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-03-30T03:06:37.675Z"
+status: "active"
 ---
 
 # § 2361. Sense of Congress concerning contracting policy
@@ -13,6 +14,6 @@ generated_at: "2026-03-30T02:56:26.223Z"
 It is the sense of Congress that the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and the Secretary of State, to the extent authorized by law, should—
 
   - **(1)** contract directly with suppliers in independent states of the former Soviet Union when such action would—
-    - **(A)** result in significant savings of the programs referred to in subchapter III; and
-    - **(B)** substantially expedite completion of the programs referred to in subchapter III; and
+    - **(A)** result in significant savings of the programs referred to in subchapter III of this chapter; and
+    - **(B)** substantially expedite completion of the programs referred to in subchapter III of this chapter; and
   - **(2)** seek means to use innovative contracting approaches to avoid delay and increase the effectiveness of such programs and of the exercise of such authorities.

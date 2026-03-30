@@ -3,9 +3,10 @@ title: "Section 3614 - Enforcement by Attorney General"
 usc_title: 42
 usc_section: "3614"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3614"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-03-30T03:06:22.692Z"
+status: "active"
 ---
 
 # § 3614. Enforcement by Attorney General
@@ -20,11 +21,11 @@ generated_at: "2026-03-30T02:56:11.191Z"
     - **(B)** A civil action may be commenced under this paragraph not later than the expiration of 90 days after the referral of the alleged breach under section 3610(c) of this title .
 - **(c)** The Attorney General, on behalf of the Secretary, or other party at whose request a subpoena is issued, under this subchapter, may enforce such subpoena in appropriate proceedings in the United States district court for the district in which the person to whom the subpoena was addressed resides, was served, or transacts business.
 - **(d)**
-  - **(1)** In a civil action under subsection (a) or (b), the court—
+  - **(1)** In a civil action under subsection (a) or (b) of this section, the court—
     - **(A)** may award such preventive relief, including a permanent or temporary injunction, restraining order, or other order against the person responsible for a violation of this subchapter as is necessary to assure the full enjoyment of the rights granted by this subchapter;
     - **(B)** may award such other relief as the court deems appropriate, including monetary damages to persons aggrieved; and
     - **(C)** may, to vindicate the public interest, assess a civil penalty against the respondent—
       - **(i)** in an amount not exceeding $50,000, for a first violation; and
       - **(ii)** in an amount not exceeding $100,000, for any subsequent violation.
   - **(2)** In a civil action under this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 2412 of title 28 .
-- **(e)** Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under section 3613 of this title .
+- **(e)** Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) of this section which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under section 3613 of this title .

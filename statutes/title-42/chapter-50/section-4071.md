@@ -3,18 +3,19 @@ title: "Section 4071 - Federal operation of program; determination by Administra
 usc_title: 42
 usc_section: "4071"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4071"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-03-30T03:06:22.709Z"
+status: "active"
 ---
 
 # § 4071. Federal operation of program; determination by Administrator; fiscal agents; report to Congress
 
-- **(a)** If at any time, after consultation with representatives of the insurance industry, the Administrator determines that operation of the flood insurance program as provided under part A cannot be carried out, or that such operation, in itself, would be assisted materially by the Federal Government’s assumption, in whole or in part, of the operational responsibility for flood insurance under this chapter (on a temporary or other basis) he shall promptly undertake any necessary arrangements to carry out the program of flood insurance authorized under subchapter I through the facilities of the Federal Government, utilizing, for purposes of providing flood insurance coverage, either—
+- **(a)** If at any time, after consultation with representatives of the insurance industry, the Administrator determines that operation of the flood insurance program as provided under part A cannot be carried out, or that such operation, in itself, would be assisted materially by the Federal Government’s assumption, in whole or in part, of the operational responsibility for flood insurance under this chapter (on a temporary or other basis) he shall promptly undertake any necessary arrangements to carry out the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, utilizing, for purposes of providing flood insurance coverage, either—
   - **(1)** insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations, as fiscal agents of the United States,
   - **(2)** such other officers and employees of any executive agency (as defined in section 105 of title 5 ) as the Administrator and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
   - **(3)** both the alternatives specified in paragraphs (1) and (2).
-- **(b)** Upon making the determination referred to in subsection (a), the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title . Such report shall—
+- **(b)** Upon making the determination referred to in subsection (a) of this section, the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title . Such report shall—
   - **(1)** state the reason for such determinations,
   - **(2)** be supported by pertinent findings,
   - **(3)** indicate the extent to which it is anticipated that the insurance industry will be utilized in providing flood insurance coverage under the program, and

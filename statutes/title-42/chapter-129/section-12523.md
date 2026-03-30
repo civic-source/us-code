@@ -3,9 +3,10 @@ title: "Section 12523 - Assistance to States, territories, and Indian tribes"
 usc_title: 42
 usc_section: "12523"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12523"
-generated_at: "2026-03-30T02:56:11.414Z"
+generated_at: "2026-03-30T03:06:22.901Z"
+status: "active"
 ---
 
 # § 12523. Assistance to States, territories, and Indian tribes
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
     - **(C)** forming local partnerships described in paragraph (2) or (4)(D) to develop school-based service-learning programs in accordance with this part;
     - **(D)** devising appropriate methods for research on and evaluation of the educational value of service-learning and the effect of service-learning activities on communities;
     - **(E)** establishing effective outreach and dissemination of information to ensure the broadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
-    - **(F)** establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of title 20 ;
+    - **(F)** establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools not making adequate yearly progress for two or more consecutive years under section 6311 of title 20 ;
   - **(2)** implementing, operating, or expanding school-based service-learning programs, which may include paying for the cost of the recruitment, training, supervision, placement, salaries, and benefits of service-learning coordinators, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to projects operated by local partnerships among—
     - **(A)** local educational agencies; and
     - **(B)** 1 or more community partners that—
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
       - **(ii)** may include a private for-profit business, private elementary school or secondary school, or Indian tribe (except that an Indian tribe distributing funds to a project under this paragraph is not eligible to be part of the partnership operating that project);
   - **(3)** planning of school-based service-learning programs, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to local educational agencies and Indian tribes, which planning may include paying for the cost of—
     - **(A)** the salaries and benefits of service-learning coordinators; or
-    - **(B)** the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title , or who may participate in a Youthbuild program under section 3226 of title 29 ,
+    - **(B)** the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under section 5001 of this title , or who may participate in a Youthbuild program under section 2918a of title 29 ,
   - **(4)** implementing, operating, or expanding school-based service-learning programs to utilize adult volunteers in service-learning to improve the education of students, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to—
     - **(A)** local educational agencies;
     - **(B)** Indian tribes (except that an Indian tribe distributing funds under this paragraph is not eligible to be a recipient of those funds);

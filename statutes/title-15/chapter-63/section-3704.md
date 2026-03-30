@@ -3,9 +3,10 @@ title: "Section 3704 - Experimental Program to Stimulate Competitive Technology"
 usc_title: 15
 usc_section: "3704"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3704"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-03-30T03:04:31.219Z"
+status: "active"
 ---
 
 # § 3704. Experimental Program to Stimulate Competitive Technology
@@ -76,7 +77,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
       - **(ix)** a minority institution, as defined in section 1067k of title 20 , with an enrollment of needy students, as defined in section 1058(d) of title 20 .
     - **(C)** The term “institution of higher education” has the meaning given the term in section 1001 of title 20 .
     - **(D)** The term “local educational agency” has the meaning given the term in section 7801 of title 20 .
-    - **(E)** The term “minority business” includes HUBZone small business concerns (as defined in section 632(p) 1 1 See References in Text note below. of this title).
+    - **(E)** The term “minority business” includes HUBZone small business concerns (as defined in section 632(p) of this title ).
     - **(F)** The term “minority individual” means an American Indian, Alaskan Native, Black (not of Hispanic origin), Hispanic (including persons of Mexican, Puerto Rican, Cuban, and Central or South American origin), or Pacific Islander individual.
     - **(G)** The term “State” has the meaning given the term in section 7801 of title 20 .
     - **(H)** The term “State educational agency” has the meaning given the term in section 7801 of title 20 .

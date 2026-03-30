@@ -1,12 +1,15 @@
 ---
-title: "Section 1252 - Omitted"
+title: "Section 1252 - Tax exemption"
 usc_title: 25
 usc_section: "1252"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1252"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.862Z"
+status: "active"
 ---
 
-# § 1252. Omitted
+# § 1252. Tax exemption
+
+Any part of such funds that may be distributed to members of the Tribes shall not be subject to Federal or State income tax.
 

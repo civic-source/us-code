@@ -3,9 +3,10 @@ title: "Section 9836 - Designation of Head Start agencies"
 usc_title: 42
 usc_section: "9836"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9836"
-generated_at: "2026-03-30T02:56:11.367Z"
+generated_at: "2026-03-30T03:06:22.858Z"
+status: "active"
 ---
 
 # § 9836. Designation of Head Start agencies
@@ -66,12 +67,13 @@ generated_at: "2026-03-30T02:56:11.367Z"
     - **(F)** the plan of such applicant to meet standards described in section 9836a(a)(1) of this title , with particular attention to the standards described in subparagraphs (A) and (B) of such section;
     - **(G)** the proposed budget of the applicant and plan of such applicant to maintain strong fiscal controls and cost-effective fiscal management;
     - **(H)** the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
-      - **(i)** preschool programs under title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.);
-      - **(ii)** programs under section 619 and part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1419 , 1431 et seq.);
-      - **(iii)** State prekindergarten programs;
-      - **(iv)** child care programs;
-      - **(v)** the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
-      - **(vi)** local entities, such as a public or school library, for—
+      - **(i)** programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6371 et seq., 6381 et seq.);
+      - **(ii)** other preschool programs under title I of that Act ( 20 U.S.C. 6301 et seq.);
+      - **(iii)** programs under section 619 and part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1419 , 1431 et seq.);
+      - **(iv)** State prekindergarten programs;
+      - **(v)** child care programs;
+      - **(vi)** the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
+      - **(vii)** local entities, such as a public or school library, for—
         - **(I)** conducting reading readiness programs;
         - **(II)** developing innovative programs to excite children about the world of books, including providing fresh books in the Head Start classroom;
         - **(III)** assisting in literacy training for Head Start teachers; or
@@ -80,7 +82,7 @@ generated_at: "2026-03-30T02:56:11.367Z"
     - **(J)** the plan of such applicant—
       - **(i)** to facilitate the involvement of parents (including grandparents and kinship caregivers, as appropriate) of children participating in the proposed Head Start program, in activities (at home and, if practicable, at the location of the Head Start program) designed to help such parents become full partners in the education of their children;
       - **(ii)** to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance, as appropriate;
-      - **(iii)** to offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
+      - **(iii)** to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
         - **(I)** family literacy services; and
         - **(II)** parenting skills training;
       - **(iv)** to offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), if needed, including information on the effect of drug exposure on infants and fetal alcohol syndrome;

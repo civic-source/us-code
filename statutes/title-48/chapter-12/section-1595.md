@@ -3,9 +3,10 @@ title: "Section 1595 - Vacancy in office of Governor or Lieutenant Governor"
 usc_title: 48
 usc_section: "1595"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1595"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-03-30T03:06:26.530Z"
+status: "active"
 ---
 
 # § 1595. Vacancy in office of Governor or Lieutenant Governor

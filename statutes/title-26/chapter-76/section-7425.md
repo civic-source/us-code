@@ -3,9 +3,10 @@ title: "Section 7425 - Discharge of liens"
 usc_title: 26
 usc_section: "7425"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7425"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-03-30T03:05:18.741Z"
+status: "active"
 ---
 
 # § 7425. Discharge of liens
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
 - **(a)** If the United States is not joined as a party, a judgment in any civil action or suit described in subsection (a) of section 2410 of title 28 of the United States Code, or a judicial sale pursuant to such a judgment, with respect to property on which the United States has or claims a lien under the provisions of this title—
   - **(1)** shall be made subject to and without disturbing the lien of the United States, if notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced, or
   - **(2)** shall have the same effect with respect to the discharge or divestment of such lien of the United States as may be provided with respect to such matters by the local law of the place where such property is situated, if no notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced or if the law makes no provision for such filing.
-- **(b)** Notwithstanding subsection (a) a sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien on such property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
+- **(b)** Notwithstanding subsection (a) sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien on such property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
   - **(1)** shall, except as otherwise provided, be made subject to and without disturbing such lien or title, if notice of such lien was filed or such title recorded in the place provided by law for such filing or recording more than 30 days before such sale and the United States is not given notice of such sale in the manner prescribed in subsection (c)(1); or
   - **(2)** shall have the same effect with respect to the discharge or divestment of such lien or such title of the United States, as may be provided with respect to such matters by the local law of the place where such property is situated, if—
     - **(A)** notice of such lien or such title was not filed or recorded in the place provided by law for such filing more than 30 days before such sale,

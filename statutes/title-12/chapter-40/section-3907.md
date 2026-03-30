@@ -3,9 +3,10 @@ title: "Section 3907 - Capital adequacy"
 usc_title: 12
 usc_section: "3907"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 3907"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-03-30T03:04:29.312Z"
+status: "active"
 ---
 
 # § 3907. Capital adequacy
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(1)** Each appropriate Federal banking agency shall cause banking institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such banking institutions and by using such other methods as the appropriate Federal banking agency deems appropriate. Each appropriate Federal banking agency shall seek to make the capital standards required under this section or other provisions of Federal law for insured depository institutions countercyclical so that the amount of capital required to be maintained by an insured depository institution increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the insured depository institution.
   - **(2)** Each appropriate Federal banking agency shall have the authority to establish such minimum level of capital for a banking institution as the appropriate Federal banking agency, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the banking institution.
 - **(b)**
-  - **(1)** Failure of a banking institution to maintain capital at or above its minimum level as established pursuant to subsection (a) may be deemed by the appropriate Federal banking agency, in its discretion, to constitute an unsafe and unsound practice within the meaning of section 1818 of this title .
+  - **(1)** Failure of a banking institution to maintain capital at or above its minimum level as established pursuant to subsection (a) of this section may be deemed by the appropriate Federal banking agency, in its discretion, to constitute an unsafe and unsound practice within the meaning of section 1818 of this title .
   - **(2)**
-    - **(A)** In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 1 1 So in original. Probably should be “capital”. at or above its required level as established pursuant to subsection (a).
+    - **(A)** In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the appropriate Federal banking agency may issue a directive to a banking institution that fails to maintain captial 1 1 So in original. Probably should be “capital”. at or above its required level as established pursuant to subsection (a) of this section.
     - **(B)**
       - **(i)** Such directive may require the banking institution to submit and adhere to a plan acceptable to the appropriate Federal banking agency describing the means and timing by which the banking institution shall achieve its required capital level.
       - **(ii)** Any such directive issued pursuant to this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 1818(i) of this title to the same extent as an effective and outstanding order issued pursuant to section 1818(b) of this title which has become final.

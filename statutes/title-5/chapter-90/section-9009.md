@@ -3,9 +3,10 @@ title: "Section 9009 - Cost accounting standards"
 usc_title: 5
 usc_section: "9009"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 9009"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-03-30T03:04:06.115Z"
+status: "active"
 ---
 
 # § 9009. Cost accounting standards

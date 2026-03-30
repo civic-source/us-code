@@ -1,12 +1,15 @@
 ---
-title: "Section 1273 - Omitted"
+title: "Section 1273 - Tax exemption"
 usc_title: 25
 usc_section: "1273"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1273"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.862Z"
+status: "active"
 ---
 
-# § 1273. Omitted
+# § 1273. Tax exemption
+
+None of the funds distributed per capita under the provisions of this subchapter shall be subject to Federal or State income taxes.
 

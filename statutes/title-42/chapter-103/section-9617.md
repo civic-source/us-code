@@ -3,9 +3,10 @@ title: "Section 9617 - Public participation"
 usc_title: 42
 usc_section: "9617"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9617"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-03-30T03:06:22.851Z"
+status: "active"
 ---
 
 # § 9617. Public participation
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
 - **(a)** Before adoption of any plan for remedial action to be undertaken by the President, by a State, or by any other person, under section 9604, 9606, 9620, or 9622 of this title, the President or State, as appropriate, shall take both of the following actions:
   - **(1)** Publish a notice and brief analysis of the proposed plan and make such plan available to the public.
   - **(2)** Provide a reasonable opportunity for submission of written and oral comments and an opportunity for a public meeting at or near the facility at issue regarding the proposed plan and regarding any proposed findings under section 9621(d)(4) of this title (relating to cleanup standards). The President or the State shall keep a transcript of the meeting and make such transcript available to the public.
-- **(b)** Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a).
+- **(b)** Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a) of this section.
 - **(c)** After adoption of a final remedial action plan—
   - **(1)** if any remedial action is taken,
   - **(2)** if any enforcement action under section 9606 of this title is taken, or

@@ -3,9 +3,10 @@ title: "Section 1257 - Disposition of converted wetlands or highly erodible crop
 usc_title: 26
 usc_section: "1257"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1257"
-generated_at: "2026-03-30T02:55:27.763Z"
+generated_at: "2026-03-30T03:05:18.650Z"
+status: "active"
 ---
 
 # § 1257. Disposition of converted wetlands or highly erodible croplands
@@ -13,9 +14,9 @@ generated_at: "2026-03-30T02:55:27.763Z"
 - **(a)** Any gain on the disposition of converted wetland or highly erodible cropland shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
 - **(b)** Any loss recognized on the disposition of converted wetland or highly erodible cropland shall be treated as a long-term capital loss.
 - **(c)** For purposes of this section—
-  - **(1)** The term “converted wetland” means any converted wetland (as defined in section 1201(a)(7) of the Food Security Act of 1985 ( 16 U.S.C. 3801(7) )) held—
+  - **(1)** The term “converted wetland” means any converted wetland (as defined in section 1201(4) 1 1 See References in Text note below. of the Food Security Act of 1985 ( 16 U.S.C. 3801(4) )) held—
     - **(A)** by the person whose activities resulted in such land being converted wetland, or
     - **(B)** by any other person who at any time used such land for farming purposes.
-  - **(2)** The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(a)(10) of the Food Security Act of 1985 ( 16 U.S.C. 3801(10) )), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
+  - **(2)** The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) 1 of the Food Security Act of 1985 ( 16 U.S.C. 3801(6) )), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
   - **(3)** If any land is converted wetland or highly erodible cropland in the hands of any person, such land shall be treated as converted wetland or highly erodible cropland in the hands of any other person whose adjusted basis in such land is determined (in whole or in part) by reference to the adjusted basis of such land in the hands of such person.
 - **(d)** Under regulations prescribed by the Secretary, rules similar to the rules applicable under section 1245 shall apply for purposes of subsection (a). For purposes of sections 170(e) and 751(c), amounts treated as ordinary income under subsection (a) shall be treated in the same manner as amounts treated as ordinary income under section 1245.

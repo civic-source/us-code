@@ -3,9 +3,10 @@ title: "Section 12 - AVLIS"
 usc_title: 42
 usc_section: "12"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:11.163Z"
+generated_at: "2026-03-30T03:06:22.666Z"
+status: "active"
 ---
 
 # § 2297h–12. AVLIS
@@ -17,4 +18,4 @@ generated_at: "2026-03-30T02:56:11.163Z"
     - **(B)** all other facilities, equipment, materials, processes, patents, technical information of any kind, contracts, agreements, and leases.
   - **(2)** Facilities, real estate, improvements, and equipment related to the gaseous diffusion, and gas centrifuge, uranium enrichment programs of the Secretary shall not transfer under paragraph (1)(B).
   - **(3)** The President’s authority to transfer property under this subsection shall expire upon the privatization date.
-- **(c)** With respect to any right, title, or interest provided to the Corporation under subsection (a) or (b), the Corporation shall have sole liability for any payments made or awards under section 157b.(3) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2187(b)(3) ), or any settlements or judgments involving claims for alleged patent infringement. Any royalty agreement under subsection (a) of this section shall provide for a reduction of royalty payments to the Secretary to offset any payments, awards, settlements, or judgments under this subsection.
+- **(c)** With respect to any right, title, or interest provided to the Corporation under subsection (a) or (b) of this section, the Corporation shall have sole liability for any payments made or awards under section 157b.(3) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2187(b)(3) ), or any settlements or judgments involving claims for alleged patent infringement. Any royalty agreement under subsection (a) of this section shall provide for a reduction of royalty payments to the Secretary to offset any payments, awards, settlements, or judgments under this subsection.

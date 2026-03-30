@@ -3,9 +3,10 @@ title: "Section 2421 - Trade and Development Agency"
 usc_title: 22
 usc_section: "2421"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2421"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-03-30T03:04:53.640Z"
+status: "active"
 ---
 
 # § 2421. Trade and Development Agency
@@ -38,7 +39,7 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(4)** All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Trade and Development Agency and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the Government Accountability Office designated by the Comptroller General.
 - **(f)**
   - **(1)**
-    - **(A)** There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $79,500,000 for fiscal year 2020 and such sums as may be necessary for each fiscal year thereafter.
+    - **(A)** There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
     - **(B)** Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
   - **(2)**
     - **(A)** The Trade and Development Agency should, in carrying out its program, provide, as appropriate, funds to multilateral development banks for technical assistance grants.

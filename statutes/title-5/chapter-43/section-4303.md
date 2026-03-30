@@ -3,9 +3,10 @@ title: "Section 4303 - Actions based on unacceptable performance"
 usc_title: 5
 usc_section: "4303"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 4303"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-03-30T03:04:06.072Z"
+status: "active"
 ---
 
 # § 4303. Actions based on unacceptable performance
@@ -34,6 +35,5 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(3)** in the excepted service and covered by subchapter II of chapter 75,
 - **(f)** This section does not apply to—
   - **(1)** the reduction to the grade previously held of a supervisor or manager who has not completed the probationary period under section 3321(a)(2) of this title ,
-  - **(2)** the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less,
-  - **(3)** the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions, or
-  - **(4)** any removal or demotion under section 714 of title 38 .
+  - **(2)** the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less, or
+  - **(3)** the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions.

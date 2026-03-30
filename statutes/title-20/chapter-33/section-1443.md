@@ -3,9 +3,10 @@ title: "Section 1443 - Allocation of funds"
 usc_title: 20
 usc_section: "1443"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1443"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-03-30T03:04:46.305Z"
+status: "active"
 ---
 
 # § 1443. Allocation of funds
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
   - **(1)** From the sums appropriated to carry out this subchapter for any fiscal year, the Secretary may reserve not more than 1 percent for payments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands in accordance with their respective needs for assistance under this subchapter.
   - **(2)** The provisions of Public Law 95–134 , permitting the consolidation of grants to the outlying areas, shall not apply to funds those areas receive under this subchapter.
 - **(b)**
-  - **(1)** The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 5304 of title 25 ), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+  - **(1)** The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 450b of title 25 ), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
   - **(2)** For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants and toddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
   - **(3)** To receive a payment under this subsection, the tribe, tribal organization, or consortium shall submit such information to the Secretary of the Interior as is needed to determine the amounts to be distributed under paragraph (2).
   - **(4)** The funds received by a tribe, tribal organization, or consortium shall be used to assist States in child find, screening, and other procedures for the early identification of Indian children under 3 years of age and for parent training. Such funds may also be used to provide early intervention services in accordance with this subchapter. Such activities may be carried out directly or through contracts or cooperative agreements with the Bureau of Indian Affairs, local educational agencies, and other public or private nonprofit organizations. The tribe, tribal organization, or consortium is encouraged to involve Indian parents in the development and implementation of these activities. The above entities shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.

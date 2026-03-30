@@ -1,12 +1,15 @@
 ---
-title: "Section 48 - Transferred"
+title: "Section 48 - Certification of salary and mileage accounts"
 usc_title: 2
 usc_section: "48"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 48"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.391Z"
+status: "active"
 ---
 
-# § 48. Transferred
+# § 48. Certification of salary and mileage accounts
+
+Salary and mileage accounts of Representatives and Delegates shall be certified by the Speaker of the House of Representatives; and such certificates shall be conclusive upon all the departments and officers of the Government.
 

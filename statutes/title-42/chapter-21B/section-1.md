@@ -3,14 +3,15 @@ title: "Section 1 - Free exercise of religion protected"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-03-30T03:06:22.648Z"
+status: "active"
 ---
 
 # § 2000bb–1. Free exercise of religion protected
 
-- **(a)** Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b).
+- **(a)** Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b) of this section.
 - **(b)** Government may substantially burden a person’s exercise of religion only if it demonstrates that application of the burden to the person—
   - **(1)** is in furtherance of a compelling governmental interest; and
   - **(2)** is the least restrictive means of furthering that compelling governmental interest.

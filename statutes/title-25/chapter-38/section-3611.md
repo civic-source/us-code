@@ -3,16 +3,17 @@ title: "Section 3611 - Office of Tribal Justice Support"
 usc_title: 25
 usc_section: "3611"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3611"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-03-30T03:05:02.908Z"
+status: "active"
 ---
 
 # § 3611. Office of Tribal Justice Support
 
 - **(a)** There is hereby established within the Bureau the Office of Tribal Justice Support. The purpose of the Office shall be to further the development, operation, and enhancement of tribal justice systems and Courts of Indian Offenses.
 - **(b)** All functions performed before December 3, 1993 , by the Branch of Judicial Services of the Bureau and all personnel assigned to such Branch as of December 3, 1993 , are hereby transferred to the Office of Tribal Justice Support. Any reference in any law, regulation, executive order, reorganization plan, or delegation of authority to the Branch of Judicial Services is deemed to be a reference to the Office of Tribal Justice Support.
-- **(c)** In addition to the functions transferred to the Office pursuant to subsection (b), the Office shall perform the following functions:
+- **(c)** In addition to the functions transferred to the Office pursuant to subsection (b) of this section, the Office shall perform the following functions:
   - **(1)** Provide funds to Indian tribes and tribal organizations for the development, enhancement, and continuing operation of tribal justice systems.
   - **(2)** Provide technical assistance and training, including programs of continuing education and training for personnel of Courts of Indian Offenses.
   - **(3)** Study and conduct research concerning the operation of tribal justice systems.

@@ -3,9 +3,10 @@ title: "Section 4113 - Representation rights and duties"
 usc_title: 22
 usc_section: "4113"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4113"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-03-30T03:04:53.676Z"
+status: "active"
 ---
 
 # § 4113. Representation rights and duties
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
   - **(2)** The Department shall annually inform employees of their rights under paragraph (1)(B).
 - **(c)** The Department and the exclusive representative, through appropriate representatives, shall meet and negotiate in good faith for the purposes of arriving at a collective bargaining agreement. In addition, the Department and the exclusive representative may determine appropriate techniques, consistent with the provisions of section 4110 of this title , to assist in any negotiation.
 - **(d)** The rights of an exclusive representative under this section shall not preclude an employee from—
-  - **(1)** being represented by an attorney or other representative of the employee’s own choosing, other than the exclusive representative, in any grievance proceeding under subchapter XI; or
+  - **(1)** being represented by an attorney or other representative of the employee’s own choosing, other than the exclusive representative, in any grievance proceeding under subchapter XI of this chapter; or
   - **(2)** exercising grievance or appeal rights established by law, rule, or regulation.
 - **(e)** The duty of the Department and the exclusive representative to negotiate in good faith shall include the obligation—
   - **(1)** to approach the negotiations with a sincere resolve to reach a collective bargaining agreement;

@@ -3,9 +3,10 @@ title: "Section 1766b - Language training for families of officers and employees
 usc_title: 7
 usc_section: "1766b"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1766b"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-03-30T03:04:20.942Z"
+status: "active"
 ---
 
 # § 1766b. Language training for families of officers and employees assigned abroad

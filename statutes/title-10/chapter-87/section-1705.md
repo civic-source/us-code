@@ -1,47 +1,66 @@
 ---
-title: "Section 1705 - Department of Defense Acquisition Workforce Development Account"
+title: "Section 1705 - Department of Defense Acquisition Workforce Development Fund"
 usc_title: 10
 usc_section: "1705"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1705"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-03-30T03:04:17.263Z"
+status: "active"
 ---
 
-# § 1705. Department of Defense Acquisition Workforce Development Account
+# § 1705. Department of Defense Acquisition Workforce Development Fund
 
-- **(a)** The Secretary of Defense shall establish an account to be known as the “Department of Defense Acquisition Workforce Development Account” (in this section referred to as the “Account”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
-- **(b)** The purpose of the Account is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
-- **(c)** The Account shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition and Sustainment for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
-- **(d)** The Account shall consist of amounts appropriated to the Account by law.
+- **(a)** The Secretary of Defense shall establish a fund to be known as the “Department of Defense Acquisition Workforce Development Fund” (in this section referred to as the “Fund”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+- **(b)** The purpose of the Fund is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
+- **(c)** The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
+- **(d)**
+  - **(1)** The Fund shall consist of amounts as follows:
+    - **(A)** Amounts credited to the Fund under paragraph (2).
+    - **(B)** Amounts transferred to the Fund pursuant to paragraph (3).
+    - **(C)** Any other amounts appropriated to, credited to, or deposited into the Fund by law.
+  - **(2)**
+    - **(A)** There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services from amounts available for contract services for operation and maintenance.
+    - **(B)** Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
+    - **(C)** For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund in such fiscal year of an amount as follows:
+      - **(i)** For fiscal year 2013, $500,000,000.
+      - **(ii)** For fiscal year 2014, $800,000,000.
+      - **(iii)** For fiscal year 2015, $700,000,000.
+      - **(iv)** For fiscal year 2016, $600,000,000.
+      - **(v)** For fiscal year 2017, $500,000,000.
+      - **(vi)** For fiscal year 2018, $400,000,000.
+    - **(D)** The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
+  - **(3)** To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
+  - **(4)**
+    - **(A)** In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
+    - **(B)** Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
 - **(e)**
-  - **(1)**
-    - **(A)** Subject to the provisions of this subsection, amounts in the Account shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Account, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (g)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
-    - **(B)** Amounts in the Account also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Account.
-    - **(C)** Amounts in the Account may be used to pay the expenses of the public-private talent exchange program established under section 1599g of this title .
-  - **(2)** Amounts in the Account may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
-  - **(3)** The Under Secretary of Defense for Acquisition and Sustainment, acting through the senior official designated to manage the Account, shall issue guidance for the administration of the Account. Such guidance shall include provisions—
-    - **(A)** identifying areas of need in the acquisition workforce for which amounts in the Account may be used, including—
+  - **(1)** Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department. In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
+  - **(2)** Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
+  - **(3)** The Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the senior official designated to manage the Fund, shall issue guidance for the administration of the Fund. Such guidance shall include provisions—
+    - **(A)** identifying areas of need in the acquisition workforce for which amounts in the Fund may be used, including—
       - **(i)** changes to the types of skills needed in the acquisition workforce;
       - **(ii)** incentives to retain in the acquisition workforce qualified, experienced acquisition workforce personnel; and
       - **(iii)** incentives for attracting new, high-quality personnel to the acquisition workforce;
-    - **(B)** describing the manner and timing for applications for amounts in the Account to be submitted;
-    - **(C)** describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Account in any fiscal year;
-    - **(D)** describing measurable objectives of performance for determining whether amounts in the Account are being used in compliance with this section; and
-    - **(E)** describing the amount from the Account that may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Account and the circumstances under which such amounts may be used for such purpose.
-  - **(4)** Amounts in the Account shall not be available for payments to contractors or contractor employees, other than for the purposes of—
-    - **(A)** providing advanced training to Department of Defense employees;
-    - **(B)** developing acquisition tools and methodologies and performing research on acquisition policies and best practices that will improve the efficiency and effectiveness of defense acquisition efforts; and
-    - **(C)** supporting human capital and talent management of the acquisition workforce, including benchmarking studies, assessments, and requirements planning.
-  - **(5)** Amounts in the Account may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008 , and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
-  - **(6)** Amounts appropriated to the Account pursuant to subsection (d) shall remain available for expenditure for the fiscal year in which appropriated and the succeeding fiscal year.
-- **(f)** For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
-  - **(1)** designate any category of positions in the acquisition workforce as positions for which there exists a shortage of candidates or there is a critical hiring need; and
-  - **(2)** utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
-- **(g)** In this section, the term “acquisition workforce” means the following:
+    - **(B)** describing the manner and timing for applications for amounts in the Fund to be submitted;
+    - **(C)** describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year; and
+    - **(D)** describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section.
+  - **(4)** Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
+  - **(5)** Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008 , and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
+  - **(6)** Amounts credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.
+- **(f)** Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+  - **(1)** A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
+  - **(2)** A description of the expenditures made from the Fund (including expenditures following a transfer of amounts in the Fund to a military department or Defense Agency) in such fiscal year, including the purpose of such expenditures.
+  - **(3)** A description and assessment of improvements in the Department of Defense acquisition workforce resulting from such expenditures.
+  - **(4)** Recommendations for additional authorities to fulfill the purpose of the Fund.
+  - **(5)** A statement of the balance remaining in the Fund at the end of such fiscal year.
+- **(g)**
+  - **(1)** For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
+    - **(A)** designate any category of acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need; and
+    - **(B)** utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
+  - **(2)** The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017 .
+- **(h)** In this section, the term “acquisition workforce” means the following:
   - **(1)** Personnel in positions designated under section 1721 of this title as acquisition positions for purposes of this chapter.
   - **(2)** Other military personnel or civilian employees of the Department of Defense who—
-    - **(A)**
-      - **(i)** contribute significantly to the acquisition process by virtue of their assigned duties; or
-      - **(ii)** contribute significantly to the acquisition or development of systems relating to cybersecurity; and
-    - **(B)** are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition and Sustainment, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
+    - **(A)** contribute significantly to the acquisition process by virtue of their assigned duties; and
+    - **(B)** are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.

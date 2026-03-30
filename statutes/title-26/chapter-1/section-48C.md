@@ -3,9 +3,10 @@ title: "Section 48C - Qualifying advanced energy project credit"
 usc_title: 26
 usc_section: "48C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 48C"
-generated_at: "2026-03-30T02:55:27.609Z"
+generated_at: "2026-03-30T03:05:18.530Z"
+status: "active"
 ---
 
 # § 48C. Qualifying advanced energy project credit
@@ -14,32 +15,22 @@ generated_at: "2026-03-30T02:55:27.609Z"
 - **(b)**
   - **(1)** For purposes of subsection (a), the qualified investment for any taxable year is the basis of eligible property placed in service by the taxpayer during such taxable year which is part of a qualifying advanced energy project.
   - **(2)** Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
-  - **(3)** The amount which is treated as the qualified investment for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section.
+  - **(3)** The amount which is treated for all taxable years with respect to any qualifying advanced energy project shall not exceed the amount designated by the Secretary as eligible for the credit under this section.
 - **(c)**
   - **(1)**
-    - **(A)** The term “qualifying advanced energy project” means a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section—
-      - **(i)** which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of—
-        - **(I)** property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
-        - **(II)** fuel cells, microturbines, or energy storage systems and components,
-        - **(III)** electric grid modernization equipment or components,
-        - **(IV)** property designed to capture, remove, use, or sequester carbon oxide emissions,
-        - **(V)** equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is—
-        - **(VI)** property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),
-        - **(VII)** light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as—
-        - **(VIII)** hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or
-        - **(IX)** other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,
-      - **(ii)** which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of—
-        - **(I)** low- or zero-carbon process heat systems,
-        - **(II)** carbon capture, transport, utilization and storage systems,
-        - **(III)** energy efficiency and reduction in waste from industrial processes, or
-        - **(IV)** any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or
-      - **(iii)** which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 ( 30 U.S.C. 1606(a) ) 1 1 So in original. Probably should be followed by a closing parenthesis. .
+    - **(A)** The term “qualifying advanced energy project” means a project—
+      - **(i)** which re-equips, expands, or establishes a manufacturing facility for the production of—
+        - **(I)** property designed to be used to produce energy from the sun, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
+        - **(II)** fuel cells, microturbines, or an energy storage system for use with electric or hybrid-electric motor vehicles,
+        - **(III)** electric grids to support the transmission of intermittent sources of renewable energy, including storage of such energy,
+        - **(IV)** property designed to capture and sequester carbon dioxide emissions,
+        - **(V)** property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),
+        - **(VI)** new qualified plug-in electric drive motor vehicles (as defined by section 30D), qualified plug-in electric vehicles (as defined by section 30(d)), or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or
+        - **(VII)** other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary, and
+      - **(ii)** any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section.
     - **(B)** Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels).
   - **(2)** The term “eligible property” means any property—
-    - **(A)** which is necessary for—
-      - **(i)** the production or recycling of property described in clause (i) of paragraph (1)(A),
-      - **(ii)** re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or
-      - **(iii)** re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,
+    - **(A)** which is necessary for the production of property described in paragraph (1)(A)(i),
     - **(B)** which is—
       - **(i)** tangible personal property, or
       - **(ii)** other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility, and
@@ -67,22 +58,4 @@ generated_at: "2026-03-30T02:55:27.609Z"
       - **(ii)** any certification made pursuant to paragraph (2) has been revoked pursuant to paragraph (2)(B) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
     - **(C)** If the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorized to conduct an additional program for applications for certification.
   - **(5)** The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
-- **(e)**
-  - **(1)** Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.
-  - **(2)** The total amount of credits which may be allocated under the program established under paragraph (1) shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract which—
-    - **(A)** is described in clause (iii) of section 45(b)(11)(B), and
-    - **(B)** prior to the date of enactment of this subsection, had no project which received a certification and allocation of credits under subsection (d).
-  - **(3)**
-    - **(A)** Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require.
-    - **(B)** Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
-    - **(C)** An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification.
-    - **(D)** In the case of an applicant which receives a certification, if the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.
-  - **(4)**
-    - **(A)** For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting “6 percent” for “30 percent”.
-    - **(B)** In the case of any project which satisfies the requirements of paragraphs (5)(A) and (6), subparagraph (A) shall not apply.
-  - **(5)**
-    - **(A)** The requirements described in this subparagraph with respect to a project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the re-equipping, expansion, or establishment of a manufacturing facility shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
-    - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
-  - **(6)** Rules similar to the rules of section 45(b)(8) shall apply.
-  - **(7)** The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
-- **(f)** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
+- **(e)** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, or 48B.

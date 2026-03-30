@@ -3,20 +3,21 @@ title: "Section 2035 - Simplified supplemental nutrition assistance program"
 usc_title: 7
 usc_section: "2035"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2035"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-03-30T03:04:20.965Z"
+status: "active"
 ---
 
 # § 2035. Simplified supplemental nutrition assistance program
 
 - **(a)** In this section, the term “Federal costs” does not include any Federal costs incurred under section 2026 of this title .
-- **(b)** Subject to subsection (d), a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a “Program”), statewide or in a political subdivision of the State, in accordance with this section.
+- **(b)** Subject to subsection (d) of this section, a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a “Program”), statewide or in a political subdivision of the State, in accordance with this section.
 - **(c)** If a State elects to carry out a Program, within the State or a political subdivision of the State—
   - **(1)** a household in which no members receive assistance under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) may not participate in the Program;
   - **(2)** a household in which all members receive assistance under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) shall automatically be eligible to participate in the Program;
   - **(3)** if approved by the Secretary, a household in which 1 or more members but not all members receive assistance under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) may be eligible to participate in the Program; and
-  - **(4)** subject to subsection (f), benefits under the Program shall be determined under rules and procedures established by the State under—
+  - **(4)** subject to subsection (f) of this section, benefits under the Program shall be determined under rules and procedures established by the State under—
     - **(A)** a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.);
     - **(B)** the supplemental nutrition assistance program; or
     - **(C)** a combination of a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) and the supplemental nutrition assistance program.
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:53:42.374Z"
   - **(3)** In operating a Program, a State or political subdivision shall comply with the requirements of—
     - **(A)** subsections (a) through (f) of section 2016 of this title ;
     - **(B)** section 2017(a) of this title (except that the income of a household may be determined under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.));
-    - **(C)** subsections (b) and (d) of section 2017 of this title ;
+    - **(C)** subsection 1 1 So in original. Probably should be “subsections”. (b) and (d) of section 2017 of this title ;
     - **(D)** subsections (a), (c), (d), and (n) of section 2020 of this title ;
     - **(E)** paragraphs (8), (12), (15), (17), (18), (22), and (23) of section 2020(e) of this title ;
     - **(F)** section 2020(e)(10) of this title (or a comparable requirement established by the State under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)); and

@@ -1,16 +1,15 @@
 ---
-title: "Section 5100 - Definitions"
+title: "Section 5100 - Definition of “claimant”"
 usc_title: 38
 usc_section: "5100"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5100"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-03-30T03:05:59.221Z"
+status: "active"
 ---
 
-# § 5100. Definitions
+# § 5100. Definition of “claimant”
 
-In this chapter:
+For purposes of this chapter, the term “claimant” means any individual applying for, or submitting a claim for, any benefit under the laws administered by the Secretary.
 
-  - **(1)** The term “claimant” means any individual applying for, or submitting a claim for, any benefit under the laws administered by the Secretary.
-  - **(2)** The term “notice” means a communication issued through means (including electronic means) prescribed by the Secretary.

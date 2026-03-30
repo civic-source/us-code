@@ -1,12 +1,22 @@
 ---
-title: "Section 7672 - Repealed. Pub. L. 113–79, title VII, § 7311 , Feb. 7, 2014 , 128 Stat. 893"
+title: "Section 7672 - Study of federally funded agricultural research, extension, and education"
 usc_title: 7
 usc_section: "7672"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7672"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-03-30T03:04:21.023Z"
+status: "active"
 ---
 
-# §§ 7671, 7672. Repealed. Pub. L. 113–79, title VII, § 7311 , Feb. 7, 2014 , 128 Stat. 893
+# § 7672. Study of federally funded agricultural research, extension, and education
 
+- **(a)** Not later than January 1, 1999 , the Secretary of Agriculture shall request the National Academy of Sciences to conduct a study of the role and mission of federally funded agricultural research, extension, and education.
+- **(b)** The study shall—
+  - **(1)** evaluate the strength of science conducted by the Agricultural Research Service and the relevance of the science to national priorities;
+  - **(2)** examine how the work of the Agricultural Research Service relates to the capacity of the agricultural research, extension, and education system of the United States;
+  - **(3)** examine the appropriateness of the formulas for the allocation of funds under the Smith-Lever Act ( 7 U.S.C. 341 et seq.) and the Hatch Act of 1887 ( 7 U.S.C. 361a et seq.) with respect to current conditions of the agricultural economy and other factors of the various regions and States of the United States and develop recommendations to revise the formulas to more accurately reflect the current conditions; and
+  - **(4)** examine the system of competitive grants for agricultural research, extension, and education.
+- **(c)** The Secretary shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
+  - **(1)** not later than 18 months after the commencement of the study, a report that describes the results of the study as it relates to paragraphs (1) and (2) of subsection (b) of this section, including any appropriate recommendations; and
+  - **(2)** not later than 3 years after the commencement of the study, a report that describes the results of the study as it relates to paragraphs (3) and (4) of subsection (b) of this section, including the recommendations developed under paragraph (3) of subsection (b) of this section and other appropriate recommendations.

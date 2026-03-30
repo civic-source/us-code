@@ -3,9 +3,10 @@ title: "Section 9203 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9203"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9203"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-03-30T03:06:22.844Z"
+status: "active"
 ---
 
 # § 9203. Comprehensive program management plan
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(2)** an eight-year program for large wind energy systems, and
   - **(3)** a three-year program for wind resource assessment 1 1 So in original. Probably should be followed by a comma.
 - **(b)** The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate within nine months after September 8, 1980 .
-- **(c)** Concurrently with the submission of the President’s annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b), the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
+- **(c)** Concurrently with the submission of the President’s annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b) of this section, the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
   - **(1)** the anticipated research, development, demonstration, and technology application objectives to be achieved by the program;
   - **(2)** the program elements, management structure, and activities, including any regional aspects and field responsibilities thereof;
   - **(3)** the program strategies and technology applications plans, including detailed mile- stone goals to be achieved during the next fiscal year for all major activities and projects;

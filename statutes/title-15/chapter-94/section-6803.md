@@ -3,9 +3,10 @@ title: "Section 6803 - Disclosure of institution privacy policy"
 usc_title: 15
 usc_section: "6803"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 6803"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-03-30T03:04:31.240Z"
+status: "active"
 ---
 
 # § 6803. Disclosure of institution privacy policy
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
   - **(2)** disclosing nonpublic personal information of persons who have ceased to be customers of the financial institution; and
   - **(3)** protecting the nonpublic personal information of consumers.
 - **(b)** Disclosures required by subsection (a) shall be made in accordance with the regulations prescribed under section 6804 of this title .
-- **(c)** The disclosure required by subsection (a) shall include—
+- **(c)** The disclosure required by subsection (a) of this section shall include—
   - **(1)** the policies and practices of the institution with respect to disclosing nonpublic personal information to nonaffiliated third parties, other than agents of the institution, consistent with section 6802 of this title , and including—
     - **(A)** the categories of persons to whom the information is or may be disclosed, other than the persons to whom the information may be provided pursuant to section 6802(e) of this title ; and
     - **(B)** the policies and practices of the institution with respect to disclosing of nonpublic personal information of persons who have ceased to be customers of the financial institution;
@@ -38,6 +39,3 @@ generated_at: "2026-03-30T02:54:08.216Z"
     - **(D)** be succinct, and use an easily readable type font.
   - **(3)** A model form required to be developed by this subsection shall be issued in proposed form for public comment not later than 180 days after October 13, 2006 .
   - **(4)** Any financial institution that elects to provide the model form developed by the agencies under this subsection shall be deemed to be in compliance with the disclosures required under this section.
-- **(f)** A financial institution that—
-  - **(1)** provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of section 6802 of this title or regulations prescribed under section 6804(b) of this title , and
-  - **(2)** has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,

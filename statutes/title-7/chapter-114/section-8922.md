@@ -3,9 +3,10 @@ title: "Section 8922 - Agricultural biosecurity grant program"
 usc_title: 7
 usc_section: "8922"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8922"
-generated_at: "2026-03-30T02:53:42.482Z"
+generated_at: "2026-03-30T03:04:21.039Z"
+status: "active"
 ---
 
 # § 8922. Agricultural biosecurity grant program
@@ -27,6 +28,4 @@ generated_at: "2026-03-30T02:53:42.482Z"
     - **(B)** capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
     - **(C)** other capacity and infrastructure program costs that the Secretary considers appropriate.
   - **(2)** Funds received under this section may not be used for the construction, renovation, or rehabilitation of a building or facility.
-- **(e)** There are authorized to be appropriated to carry out this section—
-  - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and
-  - **(2)** $5,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
+- **(e)** There are authorized to be appropriated sums as are necessary to carry out this section for each of fiscal years 2008 through 2012, to remain available until expended.

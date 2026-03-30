@@ -1,12 +1,15 @@
 ---
-title: "Section 1154 - Omitted"
+title: "Section 1154 - Tax exemption"
 usc_title: 25
 usc_section: "1154"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1154"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.861Z"
+status: "active"
 ---
 
-# § 1154. Omitted
+# § 1154. Tax exemption
+
+The funds distributed under the provisions of this subchapter shall not be subject to Federal or State income taxes.
 

@@ -3,9 +3,10 @@ title: "Section 7234 - Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(B)(i
 usc_title: 26
 usc_section: "7234"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7234"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-03-30T03:05:18.739Z"
+status: "repealed"
 ---
 
 # [§ 7234. Repealed. Pub. L. 94–455, title XIX, § 1904(b)(7)(B)(i) , Oct. 4, 1976 , 90 Stat. 1815 ]

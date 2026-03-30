@@ -3,9 +3,10 @@ title: "Section 7259a - Activities of Department of Energy facilities"
 usc_title: 42
 usc_section: "7259a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7259a"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-03-30T03:06:22.787Z"
+status: "active"
 ---
 
 # § 7259a. Activities of Department of Energy facilities
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
     - **(B)** The Energy Reorganization Act of 1974 [ 42 U.S.C. 5801 et seq.].
     - **(C)** The Federal Nonnuclear Energy Research and Development Act of 1974 ( 42 U.S.C. 5901 et seq.).
 - **(b)**
-  - **(1)** The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out under subsection (a) a charge for such research and activities in carrying out such research and activities, which shall include—
+  - **(1)** The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out under subsection (a) of this section a charge for such research and activities in carrying out such research and activities, which shall include—
     - **(A)** the direct cost incurred in carrying out such research and activities; and
     - **(B)** the overhead cost, including site-wide indirect costs, associated with such research and activities.
   - **(2)**

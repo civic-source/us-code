@@ -3,9 +3,10 @@ title: "Section 2739 - Amounts recovered from third parties for loss or damage t
 usc_title: 10
 usc_section: "2739"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2739"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-03-30T03:04:17.300Z"
+status: "active"
 ---
 
 # § 2739. Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense: crediting to appropriations

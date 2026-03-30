@@ -1,12 +1,18 @@
 ---
-title: "Section 763 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021 , 134 Stat. 4757 ; Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(13) , Dec. 23, 2022 , 136 Stat. 4165"
+title: "Section 763 - Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay"
 usc_title: 33
 usc_section: "763"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 763"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-03-30T03:05:36.261Z"
+status: "active"
 ---
 
-# § 763. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021 , 134 Stat. 4757 ; Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(13) , Dec. 23, 2022 , 136 Stat. 4165
+# § 763. Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay
+
+  - **(1)** shall have reached the age of fifty-five years, after having been thirty years in the active service of the Government,
+  - **(2)** shall have reached the age of sixty-two years, after having been twenty-five years in the active service of the Government, or
+  - **(3)** are involuntarily separated from further performance of duty, except by removal for cause on charges of misconduct or delinquency, after completing twenty-five years in the active service of the Government, or after completing twenty years of such service and after reaching the age of fifty years, may at their option be retired from further performance of duty; and all such officers and employees who shall have reached the age of seventy years shall be compulsorily retired from further performance of duty: Provided , That the annual compensation of persons so retired shall be a sum equal to one-fortieth of the average annual pay received for the last three years of service for each year of active service in the Lighthouse Service, or in a department or branch of the Government having a retirement system, not to exceed in any case thirty-fortieths of such average annual pay received: Provided further , That the retirement pay computed under the preceding proviso for any such officer or employee retiring under clause
+  - **(3)** shall be reduced by one-sixth of 1 per centum for each full month the officer or employee is under fifty-five years of age at the date of retirement: Provided further , That such retirement pay shall not include any amount on account of subsistence or other allowance: Provided further , That the retirement provisions and pay shall not apply to persons in the field service of the Lighthouse Service whose duties do not require substantially all their time. Any person entitled to retirement pay under this section may decline to accept all or any part of such retirement pay by a waiver signed and filed with the Secretary of the Treasury. Such waiver may be revoked in writing at any time, but no payment of the retirement pay waived shall be made covering the period during which such waiver was in effect.
 

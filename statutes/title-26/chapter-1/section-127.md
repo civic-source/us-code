@@ -3,9 +3,10 @@ title: "Section 127 - Educational assistance programs"
 usc_title: 26
 usc_section: "127"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 127"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-03-30T03:05:18.542Z"
+status: "active"
 ---
 
 # § 127. Educational assistance programs
@@ -22,9 +23,8 @@ generated_at: "2026-03-30T02:55:27.626Z"
   - **(6)** Reasonable notification of the availability and terms of the program must be provided to eligible employees.
 - **(c)** For purposes of this section—
   - **(1)** The term “educational assistance” means—
-    - **(A)** the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment),
-    - **(B)** the payment by an employer, whether paid to the employee or to a lender, of principal or interest on any qualified education loan (as defined in section 221(d)(1)) incurred by the employee for education of the employee, and
-    - **(C)** the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
+    - **(A)** the payment, by an employer, of expenses incurred by or on behalf of an employee for education of the employee (including, but not limited to, tuition, fees, and similar payments, books, supplies, and equipment), and
+    - **(B)** the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
   - **(2)** The term “employee” includes, for any year, an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
   - **(3)** An individual who owns the entire interest in an unincorporated trade or business shall be treated as his own employer. A partnership shall be treated as the employer of each partner who is an employee within the meaning of paragraph (2).
   - **(4)**
@@ -35,9 +35,4 @@ generated_at: "2026-03-30T02:55:27.626Z"
     - **(B)** successful completion, or attaining a particular course grade, is required for or considered in determining reimbursement under the program.
   - **(6)** This section shall not be construed to affect the deduction or inclusion in income of amounts (not within the exclusion under this section) which are paid or incurred, or received as reimbursement, for educational expenses under section 117, 162 or 212.
   - **(7)** No deduction or credit shall be allowed to the employee under any other section of this chapter for any amount excluded from income by reason of this section.
-- **(d)**
-  - **(1)** In the case of any taxable year beginning after 2026, both of the $5,250 amounts in subsection (a)(2) shall each be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(2)** If any increase under paragraph (1) is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
-- **(e)** For reporting and recordkeeping requirements, see section 6039D.
+- **(d)** For reporting and recordkeeping requirements, see section 6039D.

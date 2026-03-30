@@ -3,9 +3,10 @@ title: "Section 295j - Preferences and required information in certain programs"
 usc_title: 42
 usc_section: "295j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 295j"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-03-30T03:06:22.371Z"
+status: "active"
 ---
 
 # § 295j. Preferences and required information in certain programs
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:10.781Z"
 - **(b)** For purposes of this section, the term “graduate” means, unless otherwise specified, an individual who has successfully completed all training and residency requirements necessary for full certification in the health profession selected by the individual.
 - **(c)**
   - **(1)** To permit new programs to compete equitably for funding under this section, those new programs that meet at least 4 of the criteria described in paragraph (3) shall qualify for a funding preference under this section.
-  - **(2)** As used in this subsection, the term “new program” means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a).
+  - **(2)** As used in this subsection, the term “new program” means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a) of this section.
   - **(3)** The criteria referred to in paragraph (1) are the following:
     - **(A)** The mission statement of the program identifies a specific purpose of the program as being the preparation of health professionals to serve underserved populations.
     - **(B)** The curriculum of the program includes content which will help to prepare practitioners to serve underserved populations.

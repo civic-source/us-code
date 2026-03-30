@@ -3,9 +3,10 @@ title: "Section 12185 - Study"
 usc_title: 42
 usc_section: "12185"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12185"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-03-30T03:06:22.898Z"
+status: "active"
 ---
 
 # § 12185. Study
@@ -20,9 +21,9 @@ generated_at: "2026-03-30T02:56:11.411Z"
   - **(4)** The cost of providing accessible over-the-road buses and bus service to individuals with disabilities, including consideration of recent technological and cost saving developments in equipment and devices.
   - **(5)** Possible design changes in over-the-road buses that could enhance accessibility, including the installation of accessible restrooms which do not result in a loss of seating capacity.
   - **(6)** The impact of accessibility requirements on the continuation of over-the-road bus service, with particular consideration of the impact of such requirements on such service to rural communities.
-- **(c)** In conducting the study required by subsection (a), the Office of Technology Assessment shall establish an advisory committee, which shall consist of—
+- **(c)** In conducting the study required by subsection (a) of this section, the Office of Technology Assessment shall establish an advisory committee, which shall consist of—
   - **(1)** members selected from among private operators and manufacturers of over-the-road buses;
   - **(2)** members selected from among individuals with disabilities, particularly individuals who use wheelchairs, who are potential riders of such buses; and
   - **(3)** members selected for their technical expertise on issues included in the study, including manufacturers of boarding assistance equipment and devices.
-- **(d)** The study required by subsection (a), along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990 . If the President determines that compliance with the regulations issued pursuant to section 12186(a)(2)(B) of this title on or before the applicable deadlines specified in section 12186(a)(2)(B) of this title will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.
-- **(e)** In developing the study required by subsection (a), the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29 . The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).
+- **(d)** The study required by subsection (a) of this section, along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990 . If the President determines that compliance with the regulations issued pursuant to section 12186(a)(2)(B) of this title on or before the applicable deadlines specified in section 12186(a)(2)(B) of this title will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.
+- **(e)** In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under section 792 of title 29 . The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d) of this section.

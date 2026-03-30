@@ -3,9 +3,10 @@ title: "Section 165a - Omitted"
 usc_title: 7
 usc_section: "165a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 165a"
-generated_at: "2026-03-30T02:53:42.275Z"
+generated_at: "2026-03-30T03:04:20.890Z"
+status: "omitted"
 ---
 
 # § 165a. Omitted

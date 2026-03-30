@@ -3,9 +3,10 @@ title: "Section 6412 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6412"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6412"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-03-30T03:04:21.002Z"
+status: "active"
 ---
 
 # § 6412. Investigations and power to subpoena
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:53:42.430Z"
   - **(1)** for the effective administration of this chapter; or
   - **(2)** to determine whether any person has engaged or is engaging in any act that constitutes a violation of this chapter, or any order, rule, or regulation issued under this chapter.
 - **(b)**
-  - **(1)** For the purpose of an investigation under subsection (a), the Secretary may administer oaths and affirmations, and issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
+  - **(1)** For the purpose of an investigation under subsection (a) of this section, the Secretary may administer oaths and affirmations, and issue a subpoena to require the production of any records that are relevant to the inquiry. The production of any such records may be required from any place in the United States.
   - **(2)** For the purpose of an administrative hearing held under section 6410 or 6411 of this title, the presiding officer is authorized to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States.
-- **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b). The court may issue an order requiring such person to comply with such a subpoena.
+- **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b) of this section. The court may issue an order requiring such person to comply with such a subpoena.
 - **(d)** Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(e)** Process in any such case may be served in the judicial district in which such person resides or conducts business or wherever such person may be found.
 - **(f)** The site of any hearings held under section 6410 or 6411 of this title shall be within the judicial district where such person resides or has a principal place of business.

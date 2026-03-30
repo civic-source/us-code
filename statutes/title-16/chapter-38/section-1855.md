@@ -3,9 +3,10 @@ title: "Section 1855 - Other requirements and authority"
 usc_title: 16
 usc_section: "1855"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1855"
-generated_at: "2026-03-30T02:54:22.990Z"
+generated_at: "2026-03-30T03:04:48.583Z"
+status: "active"
 ---
 
 # § 1855. Other requirements and authority
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:22.990Z"
   - **(2)** The Secretary shall include with such list guidelines for determining when fishing gear or a fishery is sufficiently different from those listed as to require notification under paragraph (3).
   - **(3)** Effective 180 days after the publication of such list, no person or vessel may employ fishing gear or engage in a fishery not included on such list without giving 90 days advance written notice to the appropriate Council, or the Secretary with respect to a fishery to which section 1852(a)(3) of this title applies. A signed return receipt shall serve as adequate evidence of such notice and as the date upon which the 90-day period begins.
   - **(4)** A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and an opportunity for public comment, upon receiving any such proposed changes from a Council.
-  - **(5)** A Council may request the Secretary to promulgate emergency regulations under subsection (c) to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
+  - **(5)** A Council may request the Secretary to promulgate emergency regulations under subsection (c) of this section to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
   - **(6)** Nothing in this subsection shall be construed to permit a person or vessel to engage in fishing or employ fishing gear when such fishing or gear is prohibited or restricted by regulation under a fishery management plan or plan amendment, or under other applicable law.
 - **(b)**
   - **(1)**
@@ -115,7 +116,7 @@ generated_at: "2026-03-30T02:54:22.990Z"
       - **(iii)** The panel shall—
         - **(I)** administer those aspects of the program not otherwise addressed in this paragraph, either through private contractual arrangement or through recommendations to the North Pacific Council, the Secretary, or the State of Alaska, as the case may be; and
         - **(II)** coordinate and facilitate activities of the entities under the program.
-      - **(iv)** The panel may act only by the affirmative vote of at least 5 of its members, except that any decision made pursuant to the last sentence of subparagraph (C) shall require the unanimous vote of all 6 members of the panel.
+      - **(iv)** The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel.
     - **(H)**
       - **(i)** During calendar year 2012 and every 10 years thereafter, the State of Alaska shall evaluate the performance of each entity participating in the program based on the criteria described in clause (ii).
       - **(ii)** The panel shall establish a system to be applied under this subparagraph that allows each entity participating in the program to assign relative values to the following criteria to reflect the particular needs of its villages:

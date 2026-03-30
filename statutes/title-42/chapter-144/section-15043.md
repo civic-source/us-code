@@ -3,14 +3,15 @@ title: "Section 15043 - System required"
 usc_title: 42
 usc_section: "15043"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15043"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-03-30T03:06:22.956Z"
+status: "active"
 ---
 
 # § 15043. System required
 
-- **(a)** In order for a State to receive an allotment under part B or this part—
+- **(a)** In order for a State to receive an allotment under part B of this subchapter or this part—
   - **(1)** the State shall have in effect a system to protect and advocate the rights of individuals with developmental disabilities;
   - **(2)** such system shall—
     - **(A)** have the authority to—

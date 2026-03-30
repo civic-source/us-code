@@ -3,9 +3,10 @@ title: "Section 3503 - Indian tribal energy resource regulation"
 usc_title: 25
 usc_section: "3503"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3503"
-generated_at: "2026-03-30T02:54:52.853Z"
+generated_at: "2026-03-30T03:05:02.907Z"
+status: "active"
 ---
 
 # § 3503. Indian tribal energy resource regulation
@@ -19,11 +20,11 @@ generated_at: "2026-03-30T02:54:52.853Z"
       - **(i)** the development and enforcement of tribal laws (including regulations) relating to tribal energy resource development; and
       - **(ii)** the development of technical infrastructure to protect the environment under applicable law; or
     - **(D)** by a Native Corporation for the development and implementation of corporate policies and the development of technical infrastructure to protect the environment under applicable law; and
-  - **(2)** by an Indian tribe for the training of employees that—
+        - **(2)** by an Indian tribe for the training of employees that—
     - **(A)** are engaged in the development of energy resources on Indian land; or
     - **(B)** are responsible for protecting the environment.
 - **(c)**
-  - **(1)** In carrying out the obligations of the United States under this chapter, the Secretary shall ensure, to the maximum extent practicable and to the extent of available resources, that on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization shall have available scientific and technical information and expertise, for use in the regulation, development, and management of energy resources of the Indian tribe on Indian land.
+  - **(1)** In carrying out the obligations of the United States under this chapter, the Secretary shall ensure, to the maximum extent practicable and to the extent of available resources, that on the request of an Indian tribe, the Indian tribe shall have available scientific and technical information and expertise, for use in the regulation, development, and management of energy resources of the Indian tribe on Indian land.
   - **(2)** The Secretary may carry out paragraph (1)—
     - **(A)** directly, through the use of Federal officials; or
-    - **(B)** indirectly, by providing financial assistance to an Indian tribe or tribal energy development organization to secure independent assistance.
+    - **(B)** indirectly, by providing financial assistance to an Indian tribe to secure independent assistance.

@@ -3,9 +3,10 @@ title: "Section 1397C - Enterprise zone business defined"
 usc_title: 26
 usc_section: "1397C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1397C"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-03-30T03:05:18.658Z"
+status: "active"
 ---
 
 # § 1397C. Enterprise zone business defined
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:55:27.774Z"
   - **(4)** The term “qualified business” shall not include any trade or business consisting predominantly of the development or holding of intangibles for sale or license.
   - **(5)** The term “qualified business” shall not include—
     - **(A)** any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
-    - **(B)** any trade or business the principal activity of which is farming (within the meaning of subparagraph (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+    - **(B)** any trade or business the principal activity of which is farming (within the meaning of subparagraphs 1 1 So in original. Probably should be “subparagraph”. (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
       - **(i)** the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
       - **(ii)** the aggregate value of assets leased by the taxpayer which are used in such a trade or business,
 - **(e)** For purposes of this section, the term “nonqualified financial property” means debt, stock, partnership interests, options, futures contracts, forward contracts, warrants, notional principal contracts, annuities, and other similar property specified in regulations; except that such term shall not include—

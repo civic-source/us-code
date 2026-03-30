@@ -3,9 +3,10 @@ title: "Section 1803 - Health care"
 usc_title: 38
 usc_section: "1803"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1803"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-03-30T03:05:59.199Z"
+status: "active"
 ---
 
 # § 1803. Health care

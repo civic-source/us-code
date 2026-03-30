@@ -3,9 +3,10 @@ title: "Section 3602 - Special agricultural safeguard authority"
 usc_title: 19
 usc_section: "3602"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3602"
-generated_at: "2026-03-30T02:54:24.694Z"
+generated_at: "2026-03-30T03:04:42.058Z"
+status: "active"
 ---
 
 # § 3602. Special agricultural safeguard authority
@@ -19,11 +20,9 @@ generated_at: "2026-03-30T02:54:24.694Z"
 - **(b)** If the President determines with respect to a special safeguard agricultural good that it is appropriate to impose—
   - **(1)** the price-based safeguard in accordance with subparagraph 1(b) of Article 5; or
   - **(2)** the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
-- **(c)** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b).
+- **(c)** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b) of this section.
 - **(d)** A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
-- **(e)**
-  - **(1)** The President shall exempt from any duty imposed under this section any good that qualifies as an originating good under section 4531 of this title of a USMCA country with respect to which preferential tariff treatment is provided under the USMCA.
-  - **(2)** In this subsection, the terms “preferential tariff treatment”, “USMCA”, and “USMCA country” have the meanings given those terms in section 4502 of this title .
+- **(e)** The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title ).
 - **(f)** The Secretary of Agriculture shall advise the President on the implementation of this section.
 - **(g)** This section shall cease to be effective on the date, as determined by the President, that the special safeguard provisions of Article 5 are no longer in force with respect to the United States.
 - **(h)** For purposes of this section—

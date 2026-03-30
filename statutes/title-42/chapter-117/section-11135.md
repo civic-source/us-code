@@ -3,9 +3,10 @@ title: "Section 11135 - Duty of hospitals to obtain information"
 usc_title: 42
 usc_section: "11135"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11135"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-03-30T03:06:22.884Z"
+status: "active"
 ---
 
 # § 11135. Duty of hospitals to obtain information
@@ -13,5 +14,5 @@ generated_at: "2026-03-30T02:56:11.395Z"
 - **(a)** It is the duty of each hospital to request from the Secretary (or the agency designated under section 11134(b) of this title ), on and after the date information is first required to be reported under section 11134(a) of this title )— 1 1 So in original. The closing parenthesis probably should not appear.
   - **(1)** at the time a physician or licensed health care practitioner applies to be on the medical staff (courtesy or otherwise) of, or for clinical privileges at, the hospital, information reported under this subchapter concerning the physician or practitioner, and
   - **(2)** once every 2 years information reported under this subchapter concerning any physician or such practitioner who is on the medical staff (courtesy or otherwise) of, or has been granted clinical privileges at, the hospital.
-- **(b)** With respect to a medical malpractice action, a hospital which does not request information respecting a physician or practitioner as required under subsection (a) is presumed to have knowledge of any information reported under this subchapter to the Secretary with respect to the physician or practitioner.
+- **(b)** With respect to a medical malpractice action, a hospital which does not request information respecting a physician or practitioner as required under subsection (a) of this section is presumed to have knowledge of any information reported under this subchapter to the Secretary with respect to the physician or practitioner.
 - **(c)** Each hospital may rely upon information provided to the hospital under this chapter and shall not be held liable for such reliance in the absence of the hospital’s knowledge that the information provided was false.

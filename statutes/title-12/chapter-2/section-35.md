@@ -3,9 +3,10 @@ title: "Section 35 - Organization of State banks as national banking association
 usc_title: 12
 usc_section: "35"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 35"
-generated_at: "2026-03-30T02:53:53.370Z"
+generated_at: "2026-03-30T03:04:29.189Z"
+status: "active"
 ---
 
 # § 35. Organization of State banks as national banking associations

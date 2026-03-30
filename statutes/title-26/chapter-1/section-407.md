@@ -3,9 +3,10 @@ title: "Section 407 - Certain employees of domestic subsidiaries engaged in busi
 usc_title: 26
 usc_section: "407"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 407"
-generated_at: "2026-03-30T02:55:27.678Z"
+generated_at: "2026-03-30T03:05:18.581Z"
+status: "active"
 ---
 
 # § 407. Certain employees of domestic subsidiaries engaged in business outside the United States
@@ -25,7 +26,6 @@ generated_at: "2026-03-30T02:55:27.678Z"
     - **(A)** if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as having such capacity with respect to such domestic parent corporation; and
     - **(B)** the determination of whether such individual is a highly compensated employee (as so defined) shall be made by treating such individual’s total compensation (determined with the application of paragraph (2) of this subsection) as compensation paid by such domestic parent corporation and by determining such individual’s status with regard to such domestic parent corporation.
   - **(2)** For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parent corporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
-- **[(c)**
 - **(d)** For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuity plan by a domestic parent corporation, or by another corporation which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such domestic corporation under subsection (a)—
   - **(1)** except as provided in paragraph (2), no deduction shall be allowed to such domestic parent corporation or to any other corporation which is entitled to deduct its contributions under such sections,
   - **(2)** there shall be allowed as a deduction to the domestic subsidiary of which such individual is an employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the domestic parent corporation if he were an employee of the domestic parent corporation, and

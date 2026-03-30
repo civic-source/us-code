@@ -3,9 +3,10 @@ title: "Section 1769d - Childhood hunger research"
 usc_title: 42
 usc_section: "1769d"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1769d"
-generated_at: "2026-03-30T02:56:11.118Z"
+generated_at: "2026-03-30T03:06:22.623Z"
+status: "active"
 ---
 
 # § 1769d. Childhood hunger research
@@ -79,7 +80,7 @@ generated_at: "2026-03-30T02:56:11.118Z"
     - **(D)**
       - **(i)** No project may be funded under this subsection for more than 5 years.
       - **(ii)** No project that makes use of, alters, or coordinates with the supplemental nutrition assistance program may be funded under this subsection unless the project is fully consistent with the project requirements described in section 17(b)(1)(B) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2026(b)(1)(B) ).
-      - **(iii)** No project may be funded under this subsection that receives funding under section 7517 of title 7 . 1 1 See References in Text note below.
+      - **(iii)** No project may be funded under this subsection that receives funding under section 7517 of title 7 .
       - **(iv)** Funds made available under this subsection may not be used for any project in a manner that is inconsistent with—
         - **(I)** this chapter;
         - **(II)** the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.);

@@ -3,9 +3,10 @@ title: "Section 6502 - Executive agencies telework requirement"
 usc_title: 5
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 6502"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-03-30T03:04:06.089Z"
+status: "active"
 ---
 
 # § 6502. Executive agencies telework requirement
@@ -26,14 +27,5 @@ generated_at: "2026-03-30T02:52:56.034Z"
   - **(3)** provide that an employee may not be authorized to telework if the performance of that employee does not comply with the terms of the written agreement between the agency manager and that employee;
   - **(4)** except in emergency situations as determined by the head of an agency, not apply to any employee of the agency whose official duties require on a daily basis (every work day)—
     - **(A)** direct handling of secure materials determined to be inappropriate for telework by the agency head; or
-    - **(B)** on-site activity that cannot be handled remotely or at an alternate worksite;
-  - **(5)** be incorporated as part of the continuity of operations plans of the agency in the event of an emergency; and
-  - **(6)** enumerate the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations, provided that, except in emergency situations as determined by the head of the agency, such circumstances shall not include a situation in which an employee’s official duties require on at least a monthly basis the direct handling of secure materials determined to be inappropriate for telework by the agency head.
-- **(c)** If an agency places an employee in investigative leave under section 6329b, the agency may require the employee to, through telework, perform duties similar to the duties that the employee performs on-site if—
-  - **(1)** the agency determines that such a requirement would not—
-    - **(A)** pose a threat to the employee or others;
-    - **(B)** result in the destruction of evidence relevant to an investigation;
-    - **(C)** result in the loss of or damage to Government property; or
-    - **(D)** otherwise jeopardize legitimate Government interests;
-  - **(2)** the employee is eligible to telework under subsections (a) and (b) of this section; and
-  - **(3)** the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
+    - **(B)** on-site activity that cannot be handled remotely or at an alternate worksite; and
+  - **(5)** be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.

@@ -3,9 +3,10 @@ title: "Section 4206 - Repealed. Pub. L. 99–498, title V, § 501(b) , Oct. 17,
 usc_title: 20
 usc_section: "4206"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 4206"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-03-30T03:04:46.320Z"
+status: "repealed"
 ---
 
 # §§ 4201 to 4206. Repealed. Pub. L. 99–498, title V, § 501(b) , Oct. 17, 1986 , 100 Stat. 1514

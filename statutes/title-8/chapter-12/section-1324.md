@@ -3,9 +3,10 @@ title: "Section 1324 - Bringing in and harboring certain aliens"
 usc_title: 8
 usc_section: "1324"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1324"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-03-30T03:04:14.634Z"
+status: "active"
 ---
 
 # § 1324. Bringing in and harboring certain aliens
@@ -44,12 +45,12 @@ generated_at: "2026-03-30T02:53:10.493Z"
       - **(i)** aliens were transported in a manner that endangered their lives; or
       - **(ii)** the aliens presented a life-threatening health risk to people in the United States.
 - **(b)**
-  - **(1)** Any conveyance, including any vessel, vehicle, or aircraft, that has been or is being used in the commission of a violation of subsection (a), the gross proceeds of such violation, and any property traceable to such conveyance or proceeds, shall be seized and subject to forfeiture.
+  - **(1)** Any conveyance, including any vessel, vehicle, or aircraft, that has been or is being used in the commission of a violation of subsection (a) of this section, the gross proceeds of such violation, and any property traceable to such conveyance or proceeds, shall be seized and subject to forfeiture.
   - **(2)** Seizures and forfeitures under this subsection shall be governed by the provisions of chapter 46 of title 18 relating to civil forfeitures, including section 981(d) of such title, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in that section shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Attorney General.
-  - **(3)** In determining whether a violation of subsection (a) has occurred, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
+  - **(3)** In determining whether a violation of subsection (a) of this section has occurred, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
     - **(A)** Records of any judicial or administrative proceeding in which that alien’s status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
     - **(B)** Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
     - **(C)** Testimony, by an immigration officer having personal knowledge of the facts concerning that alien’s status, that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 - **(c)** No officer or person shall have authority to make any arrests for a violation of any provision of this section except officers and employees of the Service designated by the Attorney General, either individually or as a member of a class, and all other officers whose duty it is to enforce criminal laws.
-- **(d)** Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
+- **(d)** Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) of this section who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
 - **(e)** The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, as appropriate, shall develop and implement an outreach program to educate the public in the United States and abroad about the penalties for bringing in and harboring aliens in violation of this section.

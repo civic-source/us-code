@@ -1,12 +1,15 @@
 ---
-title: "Section 1771h - Omitted"
+title: "Section 1771h - Limitations of action; jurisdiction"
 usc_title: 25
 usc_section: "1771h"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1771h"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.882Z"
+status: "active"
 ---
 
-# § 1771h. Omitted
+# § 1771h. Limitations of action; jurisdiction
+
+Notwithstanding any other provision of law, any action to contest the constitutionality or validity under law of this subchapter shall be barred unless the complaint is filed within thirty days after August 18, 1987 . Exclusive original jurisdiction over any such action and any proceedings under section 1771d(e) of this title is hereby vested in the United States District Court of 1 1 So in original. Probably should be “for”. the District of Massachusetts.
 

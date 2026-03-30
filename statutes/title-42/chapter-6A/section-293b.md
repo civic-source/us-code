@@ -3,9 +3,10 @@ title: "Section 293b - Loan repayments and fellowships regarding faculty positio
 usc_title: 42
 usc_section: "293b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 293b"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-03-30T03:06:22.367Z"
+status: "active"
 ---
 
 # § 293b. Loan repayments and fellowships regarding faculty positions
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:56:10.775Z"
       - **(i)** the school will, for each year for which the individual will serve as a member of the faculty under the contract with the school, make payments of the principal and interest due on the educational loans of the individual for such year in an amount equal to the amount of such payments made by the Secretary for the year;
       - **(ii)** the payments made by the school pursuant to clause (i) on behalf of the individual will be in addition to the pay that the individual would otherwise receive for serving as a member of such faculty; and
       - **(iii)** the school, in making a determination of the amount of compensation to be provided by the school to the individual for serving as a member of the faculty, will make the determination without regard to the amount of payments made (or to be made) to the individual by the Federal Government under paragraph (1).
-  - **(5)** The provisions of sections 254m, 254p, and 254q–1 of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II, including the applicability of provisions regarding reimbursements for increased tax liability and regarding bankruptcy.
+  - **(5)** The provisions of sections 254m, 254p, and 254q–1 of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter, including the applicability of provisions regarding reimbursements for increased tax liability and regarding bankruptcy.
   - **(6)** The Secretary may waive the requirement established in paragraph (4)(B) if the Secretary determines that the requirement will impose an undue financial hardship on the school involved.
 - **(b)**
   - **(1)** The Secretary may make grants to and enter into contracts with eligible entities to assist such entities in increasing the number of underrepresented minority individuals who are members of the faculty of such schools.

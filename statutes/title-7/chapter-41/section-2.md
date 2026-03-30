@@ -3,9 +3,10 @@ title: "Section 2 - Micronutrient fortification programs"
 usc_title: 7
 usc_section: "2"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.339Z"
+generated_at: "2026-03-30T03:04:20.939Z"
+status: "active"
 ---
 
 # § 1736g–2. Micronutrient fortification programs
@@ -14,6 +15,6 @@ generated_at: "2026-03-30T02:53:42.339Z"
   - **(1)** Not later than September 30, 2008 , the Administrator, in consultation with the Secretary, shall establish micronutrient fortification programs.
   - **(2)** The purpose of a program shall be to—
     - **(A)** assist developing countries in correcting micronutrient dietary deficiencies among segments of the populations of the countries; and
-    - **(B)** assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid agricultural commodities, and products of those agricultural commodities.
+    - **(B)** assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid agricultural commodities, and products of those agricultural commodities, using recommendations included in the report entitled “Micronutrient Compliance Review of Fortified Public Law 480 Commodities”, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements.
 - **(b)** Under a program, grains and other commodities made available to a developing country selected to participate in a program may be fortified with 1 or more micronutrients (such as vitamin A, iron, iodine, and folic acid) with respect to which a substantial portion of the population in the country is deficient. The commodity may be fortified in the United States or in the developing country.
-- **(c)** The authority to carry out programs established under this section shall terminate on September 30, 2023 .
+- **(c)** The authority to carry out programs established under this section shall terminate on September 30, 2012 .

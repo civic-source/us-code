@@ -3,9 +3,10 @@ title: "Section 720k - Alaska pipeline construction training program"
 usc_title: 15
 usc_section: "720k"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 720k"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-03-30T03:04:31.151Z"
+status: "active"
 ---
 
 # § 720k. Alaska pipeline construction training program
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
   - **(1)** The Secretary of Labor (in this section referred to as the “Secretary”) shall make grants to the Alaska Workforce Investment Board—
     - **(A)** to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to construct and operate an Alaska gas pipeline system; and
     - **(B)** for the design and construction of a training facility to be located in Fairbanks, Alaska, to support an Alaska gas pipeline training program.
-  - **(2)** The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
+  - **(2)** The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.).
 - **(b)** The Secretary shall make a grant under subsection (a) only if—
   - **(1)** the Governor of the State of Alaska requests the grant funds and certifies in writing to the Secretary that there is a reasonable expectation that the construction of the Alaska natural gas pipeline system will commence by the date that is 2 years after the date of the certification; and
   - **(2)** the Secretary of Energy concurs in writing to the Secretary with the certification made under paragraph (1) after considering—

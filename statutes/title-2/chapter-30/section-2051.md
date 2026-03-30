@@ -3,9 +3,10 @@ title: "Section 2051 - Continued benefits for certain Senate Restaurants employe
 usc_title: 2
 usc_section: "2051"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2051"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-03-30T03:04:04.443Z"
+status: "active"
 ---
 
 # § 2051. Continued benefits for certain Senate Restaurants employees
@@ -29,9 +30,9 @@ generated_at: "2026-03-30T02:53:04.823Z"
 - **(c)**
   - **(1)** The rate of basic pay of a covered individual as an employee of a contractor, or successor contractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
   - **(2)**
-    - **(A)**
-      - **(i)** For purposes of chapters 83, 84, and 87 of title 5, any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol.
-      - **(ii)** For purposes of chapter 87 of title 5, the rate of basic pay of a covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
+    - **(A)** For purposes of chapters 83, 84, and 87 of title 5—
+      - **(i)** any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol; and
+      - **(ii)** the rate of basic pay of the covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
     - **(B)** In the case of a covered individual who on the day before the transfer date is subject to subchapter III of chapter 83 of title 5 but whose employment with the Architect of the Capitol is not employment for purposes of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26—
       - **(i)** the employment described under subparagraph (A)(i) shall, for purposes of subchapter III of chapter 83 of title 5, be deemed to be—
         - **(I)** employment of an individual described under section 8402(b)(2) of title 5 ; and
@@ -71,10 +72,10 @@ generated_at: "2026-03-30T02:53:04.823Z"
       - **(i)** any period of continuous service performed by a covered individual described under subparagraph (A) as an employee of a contractor shall be deemed to be a period of service as an employee of the Architect of the Capitol; and
       - **(ii)** any termination of employment of a covered individual described under subparagraph (A) with a contractor shall be treated as a separation from service with the Architect of the Capitol.
 - **(e)**
-  - **(1)** Not later than 30 days after July 17, 2008 , the Architect of the Capitol shall submit a plan under section 4505 of this title to the applicable committees as provided under that section.
+  - **(1)** Not later than 30 days after July 17, 2008 , the Architect of the Capitol shall submit a plan under section 60q of this title to the applicable committees as provided under that section.
   - **(2)**
-    - **(A)** Notwithstanding section 4505(e) of this title , the plan submitted under this subsection shall—
-      - **(i)** offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with section 4505 of this title ; and
+    - **(A)** Notwithstanding section 60q(e) of this title , the plan submitted under this subsection shall—
+      - **(i)** offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with section 60q of this title ; and
       - **(ii)** offer such a payment to any such employee who becomes a covered individual, if that individual accepts the offer during the 90-day period following the transfer date.
     - **(B)** For purposes of the plan under this subsection—
       - **(i)** any period of continuous service performed by a covered individual as an employee of a contractor shall be deemed to be a period of service as an employee of the Architect of the Capitol; and

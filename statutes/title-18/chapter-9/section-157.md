@@ -3,9 +3,10 @@ title: "Section 157 - Bankruptcy fraud"
 usc_title: 18
 usc_section: "157"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 157"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-03-30T03:04:41.077Z"
+status: "active"
 ---
 
 # § 157. Bankruptcy fraud
@@ -14,4 +15,4 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
   - **(1)** files a petition under title 11, including a fraudulent involuntary petition under section 303 of such title;
   - **(2)** files a document in a proceeding under title 11; or
-  - **(3)** makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
+  - **(3)** makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title, shall be fined under this title, imprisoned not more than 5 years, or both.

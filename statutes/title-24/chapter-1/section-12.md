@@ -3,9 +3,10 @@ title: "Section 12 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 24
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "24 U.S.C. § 12"
-generated_at: "2026-03-30T02:54:50.788Z"
+generated_at: "2026-03-30T03:04:55.817Z"
+status: "repealed"
 ---
 
 # §§ 7 to 12. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

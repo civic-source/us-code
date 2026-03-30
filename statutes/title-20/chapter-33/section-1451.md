@@ -3,9 +3,10 @@ title: "Section 1451 - Purpose; definition of personnel; program authority"
 usc_title: 20
 usc_section: "1451"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1451"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-03-30T03:04:46.305Z"
+status: "active"
 ---
 
 # § 1451. Purpose; definition of personnel; program authority
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
     - **(B)** the relative population of the State or outlying area;
     - **(C)** the types of activities proposed by the State or outlying area;
     - **(D)** the alignment of proposed activities with section 1412(a)(14) of this title ;
-    - **(E)** the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d) 1 1 So in original. Probably should be followed by a comma. respectively, of this title; and
+    - **(E)** the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6612, respectively, of this title; and
     - **(F)** the use, as appropriate, of scientifically based research activities.
 - **(d)**
   - **(1)** Except as provided in paragraphs (2) and (3), for the first fiscal year for which the amount appropriated under section 1455 of this title , that remains after the Secretary reserves funds under subsection (e) for the fiscal year, is equal to or greater than $100,000,000, and for each fiscal year thereafter, the Secretary shall allot to each State educational agency, whose application meets the requirements of this part, an amount that bears the same relation to the amount remaining as the amount the State received under section 1411(d) of this title for that fiscal year bears to the amount of funds received by all States (whose applications meet the requirements of this part) under section 1411(d) of this title for that fiscal year.

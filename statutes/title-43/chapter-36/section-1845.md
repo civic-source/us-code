@@ -3,15 +3,16 @@ title: "Section 1845 - Claims procedure"
 usc_title: 43
 usc_section: "1845"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1845"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-03-30T03:06:10.692Z"
+status: "active"
 ---
 
 # § 1845. Claims procedure
 
-- **(a)** Any commercial fisherman suffering damages compensable under this subchapter may file a claim for compensation with the Secretary under subsection (d)(1).
-- **(b)** Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claim to the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d).
+- **(a)** Any commercial fisherman suffering damages compensable under this subchapter may file a claim for compensation with the Secretary under subsection (d)(1) of this section.
+- **(b)** Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claim to the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d) of this section.
 - **(c)** The Secretary of the Interior shall make reasonable efforts to notify all persons known to have engaged in activities associated with Outer Continental Shelf energy activity in the vicinity. Each such person shall promptly notify the Secretary and the Secretary of the Interior as to whether he admits or denies responsibility for the damages claimed. Any such person, including lessees or permittees or their contractors or subcontractors, may submit evidence at any proceeding conducted with respect to such claim.
 - **(d)**
   - **(1)** The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title , specify the time, form and manner in which claims must be filed.
@@ -22,15 +23,15 @@ generated_at: "2026-03-30T02:55:57.494Z"
     - **(A)** The Secretary shall make an initial determination with respect to the claim within 60 days after the day on which the claim is accepted for filing. Within 30 days after the day on which the Secretary issues an initial determination on a claim, the claimant, or any other interested person who submitted evidence relating to the initial determination, may petition the Secretary for a review of that determination.
     - **(B)** If a petition for the review of an initial determination is not filed with the Secretary within the 30-day period provided under subparagraph (A), the initial determination shall thereafter be treated as a final determination by the Secretary on the claim involved.
     - **(C)** If a petition for review of an initial determination is timely filed under subparagraph (A), the Secretary shall allow the petitioner 30 days after the day on which the petition is received to submit written or oral evidence relating to the initial determination. The Secretary shall then undertake such review and, on the basis of such review, issue a final determination no later than the 60th day after the day on which the Secretary received the petition for review of an initial determination.
-- **(e)** If the decision of the Secretary under subsection (d) is in favor of the commercial fisherman filing the claim, the Secretary, as a part of the amount awarded, shall include reasonable claim preparation fees and reasonable attorney’s fees, if any, incurred by the claimant in pursuing the claim.
+- **(e)** If the decision of the Secretary under subsection (d) of this section is in favor of the commercial fisherman filing the claim, the Secretary, as a part of the amount awarded, shall include reasonable claim preparation fees and reasonable attorney’s fees, if any, incurred by the claimant in pursuing the claim.
 - **(f)**
   - **(1)** For purposes of any proceeding conducted pursuant to this section, the Secretary shall have the power to administer oaths and subpena the attendance or testimony of witnesses and the production of books, records, and other evidence relative or pertinent to the issues being presented for determination.
   - **(2)** In any proceeding conducted pursuant to this section with respect to a claim for damages resulting from activities on any area of the Outer Continental Shelf, the Secretary shall consider evidence of obstructions in such area which have been identified pursuant to the survey conducted under section 1847 1 1 See References in Text note below. of this title.
-- **(g)** Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located.
+- **(g)** Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located.
 - **(h)**
-  - **(1)** The amount awarded in an initial determination by the Secretary under subsection (d) shall be immediately disbursed, subject to the limitations of this section, by the Secretary if the claimant—
+  - **(1)** The amount awarded in an initial determination by the Secretary under subsection (d) of this section shall be immediately disbursed, subject to the limitations of this section, by the Secretary if the claimant—
     - **(A)** states in writing that he will not petition for review of the initial determination; and
-    - **(B)** enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
+    - **(B)** enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) of this section or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
   - **(2)** Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
   - **(3)** Any person who denies responsibility for damages with respect to which a claim is made and who is subquently 2 2 So in original. Probably should be “subsequently”. found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
-- **(i)** Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
+- **(i)** Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.

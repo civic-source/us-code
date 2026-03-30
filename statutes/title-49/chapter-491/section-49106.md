@@ -3,9 +3,10 @@ title: "Section 49106 - Metropolitan Washington Airports Authority"
 usc_title: 49
 usc_section: "49106"
 chapter: 491
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 49106"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-03-30T03:06:29.340Z"
+status: "active"
 ---
 
 # § 49106. Metropolitan Washington Airports Authority
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:19.409Z"
 - **(a)** The Metropolitan Washington Airports Authority shall be—
   - **(1)** a public body corporate and politic with the powers and jurisdiction—
     - **(A)** conferred upon it jointly by the legislative authority of Virginia and the District of Columbia or by either of them and concurred in by the legislative authority of the other jurisdiction; and
-    - **(B)** that at least meet the specifications of this section;
+    - **(B)** that at least meet the specifications of this section and section 49108 1 1 See References in Text note below. of this title;
   - **(2)** independent of Virginia and its local governments, the District of Columbia, and the United States Government; and
   - **(3)** a political subdivision constituted only to operate and improve the Metropolitan Washington Airports as primary airports serving the Metropolitan Washington area.
 - **(b)**
@@ -43,7 +44,7 @@ generated_at: "2026-03-30T02:56:19.409Z"
   - **(6)**
     - **(A)** Not more than 2 of the members of the board appointed by the President may be of the same political party.
     - **(B)** In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
-    - **(C)** A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of the jurisdiction from which the member is appointed.
+    - **(C)** A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 1 1 So in original. Probably should be preceded by “the”. from which the member is appointed.
   - **(7)** Ten votes are required to approve bond issues and the annual budget.
 - **(d)** Members of the board and their immediate families may not be employed by or otherwise hold a substantial financial interest in any enterprise that has or is seeking a contract or agreement with the Airports Authority or is an aeronautical, aviation services, or airport services enterprise that otherwise has interests that can be directly affected by the Airports Authority. The official appointing a member may make an exception if the financial interest is completely disclosed when the member is appointed and the member does not participate in board decisions that directly affect the interest.
 - **(e)** An action of the Airports Authority changing, or having the effect of changing, the hours of operation of, or the type of aircraft serving, either of the Metropolitan Washington Airports may be taken only by regulation of the Airports Authority.

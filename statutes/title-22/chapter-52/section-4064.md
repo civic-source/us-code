@@ -3,16 +3,17 @@ title: "Section 4064 - Reemployment"
 usc_title: 22
 usc_section: "4064"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4064"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-03-30T03:04:53.672Z"
+status: "active"
 ---
 
 # § 4064. Reemployment
 
 - **(a)**
   - **(1)**
-    - **(A)** 1 1 So in original. No par. (2) has been enacted. Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
+    - **(A)** 1 1 So in original. No par. (2) has been enacted. Except in the case of an annuitant who makes an election under subsection (b) of this section or in the case of a waiver under subsection (g) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
     - **(B)** If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
     - **(C)** If the annuity is terminated and the individual becomes covered under another contributory retirement system for Government employees pursuant to paragraph (A), the individual shall be entitled to benefits under the rules of that system. In addition, the individual shall be entitled to a resumption of any annuity terminated by reason of the employment.
 - **(b)**
@@ -27,16 +28,20 @@ generated_at: "2026-03-30T02:55:05.404Z"
       - **(ii)** the basic pay the annuitant was entitled to receive under this chapter on the date of retirement from the Service.
     - **(C)** For purposes of this section, the term “annuity” means the annuity earned by the reemployed member based on his or her service irrespective of whether or not the amount payable is reduced by the amount of an annuity payable under section 4054 or 4060(b) of this title.
   - **(4)** Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity of an annuitant who has made an election under paragraph (1) of this subsection shall resume.
-- **(c)** The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) shall not be less than the amount of an annuity resumed under the previous sentence.
+- **(c)** The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) of this section shall not be less than the amount of an annuity resumed under the previous sentence.
 - **(d)** The annuity rights of any participant who is reemployed in the Government shall be determined under this section instead of section 8468 of title 5 .
 - **(e)** When any such retired participant is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such participant the salary of the position in which he or she is serving.
 - **(f)** In the event of any overpayment under this section, such overpayment shall be recovered by withholding the amount involved from the salary payable to such reemployed participant or from any other moneys, including annuity payments, payable under this subchapter.
 - **(g)**
   - **(1)** The Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
     - **(A)** if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
-    - **(B)** if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+    - **(B)** to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
     - **(C)**
       - **(i)** to provide assistance to consular posts with a substantial backlog of visa applications; or
       - **(ii)** to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( Public Law 108–458 ; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
-  - **(2)** The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
-- **(h)** A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
+  - **(2)**
+    - **(A)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010 . An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+    - **(B)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009 .
+    - **(C)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009 .
+  - **(3)** The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
+- **(h)** A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.

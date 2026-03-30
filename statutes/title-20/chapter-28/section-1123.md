@@ -3,15 +3,16 @@ title: "Section 1123 - Language resource centers"
 usc_title: 20
 usc_section: "1123"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1123"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-03-30T03:04:46.283Z"
+status: "active"
 ---
 
 # § 1123. Language resource centers
 
 - **(a)** The Secretary is authorized to make grants to and enter into contracts with institutions of higher education, or consortia of such institutions, for the purpose of establishing, strengthening, and operating a small number of national language resource and training centers, which shall serve as resources to improve the capacity to teach and learn foreign languages effectively.
-- **(b)** The activities carried out by the centers described in subsection (a)—
+- **(b)** The activities carried out by the centers described in subsection (a) of this section—
   - **(1)** shall include effective dissemination efforts, whenever appropriate; and
   - **(2)** may include—
     - **(A)** the conduct and dissemination of research on new and improved teaching methods, including the use of advanced educational technology;

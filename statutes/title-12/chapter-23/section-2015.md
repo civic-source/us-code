@@ -3,9 +3,10 @@ title: "Section 2015 - Lending authority"
 usc_title: 12
 usc_section: "2015"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2015"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-03-30T03:04:29.286Z"
+status: "active"
 ---
 
 # § 2015. Lending authority
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
       - **(i)** is significantly involved in lending for agricultural or aquatic purposes;
       - **(ii)** demonstrates a continuing need for supplementary sources of funds to meet the credit requirements of its agricultural or aquatic borrowers;
       - **(iii)** has limited access to national or regional capital markets; and
-      - **(iv)** does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II.
+      - **(iv)** does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II of this chapter.
     - **(C)** The regulations may authorize a Farm Credit Bank to charge reasonable fees for any commitment to extend service under this section to such a financing institution.
     - **(D)** For purposes of this subsection, a financing institution together with the subsidiaries and affiliates of such may be considered as one, but such determination to consider such institution together with the subsidiaries and affiliates of such as one shall be made in the first instance by the bank and in the event of a denial by the bank of its services to a financial institution, then by the Farm Credit Administration on a case-by-case basis with due regard to the total relationship of the financing institution, its subsidiaries, and affiliates.
   - **(5)** Nothing in this section shall require termination of discount relationships in existence on December 24, 1980 .

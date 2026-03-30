@@ -3,9 +3,10 @@ title: "Section 1095 - Health care services incurred on behalf of covered benefi
 usc_title: 10
 usc_section: "1095"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1095"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-03-30T03:04:17.246Z"
+status: "active"
 ---
 
 # § 1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
@@ -38,8 +39,8 @@ generated_at: "2026-03-30T02:53:38.107Z"
   - **(2)** In cases in which a tort liability is created upon some third person, collection from a third-party payer that is an automobile liability insurance carrier shall be governed by the provisions of Public Law 87–693 ( 42 U.S.C. 2651 et seq.).
 - **(j)** The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
 - **(k)**
-  - **(1)** To improve the administration of this section and sections 1079(j)(1) 1 1 See References in Text note below. and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
+  - **(1)** To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
   - **(2)** The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act ( 42 U.S.C. 1395y(b)(5) ). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare & Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
   - **(3)** The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
   - **(4)** The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act ( 42 U.S.C. 1395y(b)(5)(C) ). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
-  - **(5)** Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) 1 and 1086(d) of this title.
+  - **(5)** Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.

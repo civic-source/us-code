@@ -3,9 +3,10 @@ title: "Section 7719 - Methyl bromide"
 usc_title: 7
 usc_section: "7719"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7719"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-03-30T03:04:21.023Z"
+status: "active"
 ---
 
 # § 7719. Methyl bromide
@@ -14,5 +15,5 @@ generated_at: "2026-03-30T02:53:42.461Z"
 - **(b)** The Secretary, in consultation with State, local and tribal authorities, shall establish a program to identify alternatives to methyl bromide for treatment and control of plant pests and weeds. For uses where no registered, effective, economically feasible alternatives available can currently be identified, the Secretary shall initiate research programs to develop alternative methods of control and treatment.
 - **(c)** Not later than 180 days after May 13, 2002 , the Secretary shall publish, and thereafter maintain, a registry of State, local, and tribal requirements authorized by the Secretary under this section.
 - **(d)**
-  - **(1)** Upon the promulgation of regulations to carry out this section, the Secretary shall make the determination required by subsection (a) not later than 90 days after receiving the request for such a determination.
+  - **(1)** Upon the promulgation of regulations to carry out this section, the Secretary shall make the determination required by subsection (a) of this section not later than 90 days after receiving the request for such a determination.
   - **(2)** Nothing in this section shall be construed to alter or modify the authority of the Administrator of the Environmental Protection Agency or to provide any authority to the Secretary of Agriculture under the Clean Air Act [ 42 U.S.C. 7401 et seq.] or regulations promulgated under the Clean Air Act.

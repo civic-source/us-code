@@ -3,9 +3,10 @@ title: "Section 3710 - Purchase or construction of homes"
 usc_title: 38
 usc_section: "3710"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3710"
-generated_at: "2026-03-30T02:55:53.512Z"
+generated_at: "2026-03-30T03:05:59.216Z"
+status: "active"
 ---
 
 # § 3710. Purchase or construction of homes
@@ -43,7 +44,6 @@ generated_at: "2026-03-30T02:55:53.512Z"
       - **(i)** the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title ; or
       - **(ii)** the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
   - **(8)** in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title .
-- **[(c)** Repealed. Pub. L. 100–198, § 3(a)(2) , Dec. 21, 1987 , 101 Stat. 1315 .]
 - **(d)**
   - **(1)** The Secretary shall carry out a program to demonstrate the feasibility of guaranteeing loans for the acquisition of an existing dwelling and the cost of making energy efficiency improvements to the dwelling or for energy efficiency improvements to a dwelling owned and occupied by a veteran. A loan may be guaranteed under this subsection only if it meets the requirements of this chapter, except as those requirements are modified by this subsection.
   - **(2)** The cost of energy efficiency measures that may be financed by a loan guaranteed under this section may not exceed the greater of—
@@ -52,7 +52,7 @@ generated_at: "2026-03-30T02:55:53.512Z"
   - **(3)** Notwithstanding the provisions of section 3703(a)(1)(A) of this title , any loan guaranteed under this subsection shall be guaranteed in an amount equal to the sum of—
     - **(A)** the guaranty that would be provided under those provisions for the dwelling without the energy efficiency improvements; and
     - **(B)** an amount that bears the same relation to the cost of the energy efficiency improvements as the guaranty referred to in subparagraph (A) bears to the amount of the loan minus the cost of such improvements.
-  - **(4)** The amount of the veteran’s entitlement, calculated in accordance with subparagraph (B) or (C) of section 3703(a)(1) of this title , shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
+  - **(4)** The amount of the veteran’s entitlement, calculated in accordance with section 3703(a)(1)(B) of this title , shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
   - **(5)** The Secretary shall take appropriate actions to notify eligible veterans, participating lenders, and interested realtors of the availability of loan guarantees under this subsection and the procedures and requirements that apply to the obtaining of such guarantees.
   - **(6)** For the purposes of this subsection:
     - **(A)** The term “energy efficiency improvement” includes a solar heating system, a solar heating and cooling system, or a combined solar heating and cooling system, and the application of a residential energy conservation measure.
@@ -108,31 +108,3 @@ generated_at: "2026-03-30T02:55:53.512Z"
     - **(B)** the dwelling unit that the purchase of stock or membership in the development, project, or structure of the cooperative housing corporation entitles the purchaser to occupy is a single family residential unit.
   - **(2)** In this subsection, the term “cooperative housing corporation” has the meaning given such term in section 216(b)(1) of the Internal Revenue Code of 1986.
   - **(3)** When applying the term “value of the property” to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
-- **(i)**
-  - **(1)** The Secretary, in consultation with the advisory group established under paragraph (3)(A), shall prescribe regulations and issue guidance to assist lenders in evaluating the sufficiency of the residual income of a veteran pursuant to paragraph (2).
-  - **(2)**
-    - **(A)** Pursuant to the regulations and guidance prescribed under paragraph (1), in the case of a loan to a veteran to be guaranteed under this chapter, if the veteran provides to the lender an energy efficiency report described in subparagraph (B)—
-      - **(i)** the evaluation by the lender of the sufficiency of the residual income of the veteran shall include a consideration of the estimate of the expected energy cost savings contained in the report; and
-      - **(ii)** the lender may apply the underwriting expertise of the lender in adjusting the residual income of the veteran in accordance with the information in the report.
-    - **(B)** An energy efficiency report described in this subparagraph is a report made with respect to a home for which a loan is to be guaranteed under this chapter that includes each of the following:
-      - **(i)** An estimate of the expected energy cost savings specific to the home, based on specific information about the home, including savings relating to electricity or natural gas, oil, and any other fuel regularly used to supply energy to the home.
-      - **(ii)** Any information required to be included pursuant to the regulations and guidance and regulations prescribed by the Secretary under paragraph (1).
-      - **(iii)** Information with respect to the energy efficiency of the home as determined pursuant to—
-        - **(I)** the Residential Energy Service Network’s Home Energy Rating System (commonly know as ‘HERS’) by an individual certified by such Network; or
-        - **(II)** an other method determined appropriate by the Secretary, in consultation with the advisory group under paragraph (3), including with respect to third-party quality assurance procedures.
-  - **(3)**
-    - **(A)** To assist the Secretary in carrying out this subsection, the Secretary shall establish an advisory group consisting of individuals representing the interests of—
-      - **(i)** mortgage lenders;
-      - **(ii)** appraisers;
-      - **(iii)** energy raters and residential energy consumption experts;
-      - **(iv)** energy efficiency organizations;
-      - **(v)** real estate agents;
-      - **(vi)** home builders and remodelers;
-      - **(vii)** consumer advocates;
-      - **(viii)** veterans’ service organizations; and
-      - **(ix)** other persons determined appropriate by the Secretary.
-    - **(B)** The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
-  - **(4)** The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection.
-  - **(5)** Not later than one year after the date on which the Secretary issues the regulations and guidance pursuant to paragraph (2), and every year thereafter, the Secretary shall submit to Congress and make publicly available a report that includes the following information for the year covered by the report:
-    - **(A)** An enumeration of the number of loans guaranteed under this chapter for which a veteran provided to the Secretary an energy efficiency report under this subsection, including the number of such loans for which cost savings were taken into account pursuant to paragraph (1).
-    - **(B)** Of the number of loans enumerated under subparagraph (A), an enumeration of the default rates and rates of foreclosure, including how such enumeration compares with the default rates and rates of foreclosure for guaranteed loans for which no energy efficiency report is provided.

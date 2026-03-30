@@ -1,87 +1,65 @@
 ---
-title: "Section 16372 - Determination of eligibility and project selection"
+title: "Section 16372 - Ultra-deepwater and unconventional onshore natural gas and other petroleum research and development program"
 usc_title: 42
 usc_section: "16372"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16372"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-03-30T03:06:22.977Z"
+status: "active"
 ---
 
-# § 16372. Determination of eligibility and project selection
+# § 16372. Ultra-deepwater and unconventional onshore natural gas and other petroleum research and development program
 
-- **(a)** The Secretary shall establish and carry out a carbon dioxide transportation infrastructure finance and innovation program, under which the Secretary shall provide for eligible projects in accordance with this part—
-  - **(1)** a Federal credit instrument under section 16373 of this title ;
-  - **(2)** a grant under section 16374 of this title ; or
-  - **(3)** both a Federal credit instrument and a grant.
-- **(b)**
-  - **(1)** A project shall be eligible to receive a Federal credit instrument or a grant under the CIFIA program if—
-    - **(A)** the entity proposing to carry out the project submits a letter of interest prior to submission of an application under paragraph (3) for the project; and
-    - **(B)** the project meets the criteria described in this subsection.
-  - **(2)**
-    - **(A)** Each project and obligor that receives a Federal credit instrument or a grant under the CIFIA program shall be creditworthy, such that there exists a reasonable prospect of repayment of the principal and interest on the Federal credit instrument, as determined by the Secretary under subparagraph (B).
-    - **(B)** The Secretary shall base a determination of whether there is a reasonable prospect of repayment under subparagraph (A) on a comprehensive evaluation of whether the obligor has a reasonable prospect of repaying the Federal credit instrument for the eligible project, including evaluation of—
-      - **(i)** the strength of the contractual terms of an eligible project (if available for the applicable market segment);
-      - **(ii)** the forecast of noncontractual cash flows supported by market projections from reputable sources, as determined by the Secretary, and cash sweeps or other structural enhancements;
-      - **(iii)** the projected financial strength of the obligor—
-        - **(I)** at the time of loan close; and
-        - **(II)** throughout the loan term, including after the project is completed;
-      - **(iv)** the financial strength of the investors and strategic partners of the obligor, if applicable; and
-      - **(v)** other financial metrics and analyses that are relied on by the private lending community and nationally recognized credit rating agencies, as determined appropriate by the Secretary.
-  - **(3)** To be eligible for assistance under the CIFIA program, an obligor shall submit to the Secretary a project application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
-  - **(4)** A project under the CIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed $100,000,000.
-  - **(5)** The applicable Federal credit instrument shall be repayable, in whole or in part, from—
-    - **(A)** user fees;
-    - **(B)** payments owing to the obligor under a public-private partnership; or
-    - **(C)** other revenue sources that also secure or fund the project obligations.
-  - **(6)** A State, local government, agency, or instrumentality of a State or local government, or a public authority, may submit to the Secretary an application under paragraph (3), under which a private party to a public-private partnership will be—
-    - **(A)** the obligor; and
-    - **(B)** identified at a later date through completion of a procurement and selection of the private party.
-  - **(7)** The Secretary shall determine that financial assistance for each project under the CIFIA program will—
-    - **(A)** attract public or private investment for the project; or
-    - **(B)** enable the project to proceed at an earlier date than the project would otherwise be able to proceed or reduce the lifecycle costs (including debt service costs) of the project.
-  - **(8)** To be eligible for assistance under the CIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument or grant is obligated for the project under the CIFIA program.
+- **(a)** The Secretary shall carry out the activities under section 16371 of this title , to maximize the value of natural gas and other petroleum resources of the United States, by increasing the supply of such resources, through reducing the cost and increasing the efficiency of exploration for and production of such resources, while improving safety and minimizing environmental impacts.
+- **(b)** The Secretary shall have ultimate responsibility for, and oversight of, all aspects of the program under this section.
 - **(c)**
-  - **(1)** The Secretary shall establish an application process under which projects that are eligible to receive assistance under subsection (b) may—
-    - **(A)** receive credit assistance on terms acceptable to the Secretary, if adequate funds are available (including any funds provided on behalf of an eligible project under paragraph (3)(B)(ii)) to cover the subsidy amount associated with the Federal credit instrument; and
-    - **(B)** receive grants under section 16374 of this title if—
-      - **(i)** adequate funds are available to cover the amount of the grant; and
-      - **(ii)** the Secretary determines that the project is eligible under subsection (b).
-  - **(2)** In selecting projects to receive credit assistance under subsection (b), the Secretary shall give priority to projects that—
-    - **(A)** are large-capacity, common carrier infrastructure;
-    - **(B)** have demonstrated demand for use of the infrastructure by associated projects that capture carbon dioxide from anthropogenic sources or ambient air;
-    - **(C)** enable geographical diversity in associated projects that capture carbon dioxide from anthropogenic sources or ambient air, with the goal of enabling projects in all major carbon dioxide-emitting regions of the United States; and
-    - **(D)** are sited within, or adjacent to, existing pipeline or other linear infrastructure corridors, in a manner that minimizes environmental disturbance and other siting concerns.
+  - **(1)** The Secretary shall contract with a corporation that is structured as a consortium to administer the programmatic activities outlined in this part. 1 1 See References in Text note below. The program consortium shall—
+    - **(A)** administer the program pursuant to subsection (f)(3), utilizing program administration funds only;
+    - **(B)** issue research project solicitations upon approval of the Secretary or the Secretary’s designee;
+    - **(C)** make project awards to research performers upon approval of the Secretary or the Secretary’s designee;
+    - **(D)** disburse research funds to research performers awarded under subsection (f) as directed by the Secretary in accordance with the annual plan under subsection (e); and
+    - **(E)** carry out other activities assigned to the program consortium by this section.
+  - **(2)** The Secretary may not assign any activities to the program consortium except as specifically authorized under this section.
   - **(3)**
-    - **(A)** The Secretary may enter into a master credit agreement for a project that the Secretary determines—
-      - **(i)** will likely be eligible for credit assistance under subsection (b), on obtaining—
-        - **(I)** additional commitments from associated carbon capture projects to use the project; or
-        - **(II)** all necessary permits and approvals; and
-      - **(ii)** is a project of high priority, as determined in accordance with the criteria described in paragraph (2).
-    - **(B)** If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a Federal credit instrument, a project sponsor (including a unit of State or local government) of an eligible project may elect—
-      - **(i)**
-        - **(I)** to enter into a master credit agreement in lieu of the Federal credit instrument; and
-        - **(II)** to wait to execute a Federal credit instrument until the fiscal year for which additional funds are available to receive credit assistance; or
-      - **(ii)** if the lack of adequate funding is solely with respect to amounts available for the subsidy amount, to pay the subsidy amount to fund the Federal credit instrument.
+    - **(A)** The Secretary shall establish procedures—
+      - **(i)** to ensure that each board member, officer, or employee of the program consortium who is in a decisionmaking capacity under subsection (f)(3) shall disclose to the Secretary any financial interests in, or financial relationships with, applicants for or recipients of awards under this section, including those of his or her spouse or minor child, unless such relationships or interests would be considered to be remote or inconsequential; and
+      - **(ii)** to require any board member, officer, or employee with a financial relationship or interest disclosed under clause (i) to recuse himself or herself from any oversight under subsection (f)(4) with respect to such applicant or recipient.
+    - **(B)** The Secretary may disqualify an application or revoke an award under this section if a board member, officer, or employee has failed to comply with procedures required under subparagraph (A)(ii).
 - **(d)**
-  - **(1)** Nothing in this part supersedes the applicability of any other requirement under Federal law (including regulations).
-  - **(2)** Federal credit assistance may only be provided under this part for a project that has received an environmental categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+  - **(1)** The Secretary shall select the program consortium through an open, competitive process.
+  - **(2)** The program consortium may include corporations, trade associations, institutions of higher education, National Laboratories, or other research institutions. After submitting a proposal under paragraph (4), the program consortium may not add members without the consent of the Secretary.
+  - **(3)** The Secretary shall not select a consortium under this section unless such consortium is an organization described in section 501(c)(3) of title 26 and exempt from tax under such section 501(a) of such title.
+  - **(4)** Not later than 90 days after August 8, 2005 , the Secretary shall solicit proposals from eligible consortia to perform the duties in subsection (c)(1), which shall be submitted not later than 180 days after August 8, 2005 . The Secretary shall select the program consortium not later than 270 days after August 8, 2005 .
+  - **(5)** Applicants shall submit a proposal including such information as the Secretary may require. At a minimum, each proposal shall—
+    - **(A)** list all members of the consortium;
+    - **(B)** fully describe the structure of the consortium, including any provisions relating to intellectual property; and
+    - **(C)** describe how the applicant would carry out the activities of the program consortium under this section.
+  - **(6)** To be eligible to be selected as the program consortium, an applicant must be an entity whose members have collectively demonstrated capabilities and experience in planning and managing research, development, demonstration, and commercial application programs for ultra-deepwater and unconventional natural gas or other petroleum exploration or production.
+  - **(7)**
+    - **(A)** Awards from allocations under section 16378(d)(1) of this title shall focus on the development and demonstration of individual exploration and production technologies as well as integrated systems technologies including new architectures for production in ultra-deepwater.
+    - **(B)** Awards from allocations under section 16378(d)(2) of this title shall focus on areas including advanced coalbed methane, deep drilling, natural gas production from tight sands, natural gas production from gas shales, stranded gas, innovative exploration and production techniques, enhanced recovery techniques, and environmental mitigation of unconventional natural gas and other petroleum resources exploration and production.
+    - **(C)** Awards from allocations under section 16378(d)(3) of this title shall be made to consortia consisting of small producers or organized primarily for the benefit of small producers, and shall focus on areas including complex geology involving rapid changes in the type and quality of the oil and gas reservoirs across the reservoir; low reservoir pressure; unconventional natural gas reservoirs in coalbeds, deep reservoirs, tight sands, or shales; and unconventional oil reservoirs in tar sands and oil shales.
 - **(e)**
-  - **(1)** Except as provided in paragraph (2), no Federal credit instrument or grant provided under the CIFIA program shall be made available for a project unless all iron, steel, and manufactured goods used in the project are produced in the United States.
-  - **(2)** Paragraph (1) shall not apply in any case or category of cases with respect to which the Secretary determines that—
-    - **(A)** the application would be inconsistent with the public interest;
-    - **(B)** iron, steel, or a relevant manufactured good is not produced in the United States in sufficient and reasonably available quantity, or of a satisfactory quality; or
-    - **(C)** the inclusion of iron, steel, or a manufactured good produced in the United States will increase the cost of the overall project by more than 25 percent.
-  - **(3)** If the Secretary receives a request for a waiver under this subsection, the Secretary shall—
-    - **(A)** make available to the public a copy of the request, together with any information available to the Secretary concerning the request—
-      - **(i)** on an informal basis; and
-      - **(ii)** by electronic means, including on the official public website of the Department;
-    - **(B)** allow for informal public comment relating to the request for not fewer than 15 days before making a determination with respect to the request; and
-    - **(C)** approve or disapprove the request by not later than the date that is 120 days after the date of receipt of the request.
-  - **(4)** This subsection shall be applied in accordance with any applicable obligations of the United States under international agreements.
+  - **(1)** The program under this section shall be carried out pursuant to an annual plan prepared by the Secretary in accordance with paragraph (2).
+  - **(2)**
+    - **(A)** Before drafting an annual plan under this subsection, the Secretary shall solicit specific written recommendations from the program consortium for each element to be addressed in the plan, including those described in paragraph (4). The program consortium shall submit its recommendations in the form of a draft annual plan.
+    - **(B)** The Secretary shall submit the recommendations of the program consortium under subparagraph (A) to the Ultra-Deepwater Advisory Committee established under section 16374(a) of this title and to the Unconventional Resources Technology Advisory Committee established under section 16374(b) of this title , and such Advisory Committees shall provide to the Secretary written comments by a date determined by the Secretary. The Secretary may also solicit comments from any other experts.
+    - **(C)** The Secretary shall consult regularly with the program consortium throughout the preparation of the annual plan.
+  - **(3)** The Secretary shall transmit to Congress and publish in the Federal Register the annual plan, along with any written comments received under paragraph (2)(A) and (B).
+  - **(4)** The annual plan shall describe the ongoing and prospective activities of the program under this section and shall include—
+    - **(A)** a list of any solicitations for awards to carry out research, development, demonstration, or commercial application activities, including the topics for such work, who would be eligible to apply, selection criteria, and the duration of awards; and
+    - **(B)** a description of the activities expected of the program consortium to carry out subsection (f)(3).
+  - **(5)** The Secretary, in consultation with the Secretary of the Interior, shall provide an annual report to Congress with the President’s budget on the estimated cumulative increase in Federal royalty receipts (if any) resulting from the implementation of this part. The initial report under this paragraph shall be submitted in the first President’s budget following the completion of the first annual plan required under this subsection.
 - **(f)**
-  - **(1)** Not later than 30 days after the date of receipt of an application under this section, the Secretary shall provide to the applicant a written notice describing whether—
-    - **(A)** the application is complete; or
-    - **(B)** additional information or materials are needed to complete the application.
-  - **(2)** Not later than 60 days after the date of issuance of a written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
-- **(g)** Any Federal credit instrument provided under the CIFIA program may be used to finance up to 100 percent of the cost of development-phase activities, as described in section 16371(4)(A) of this title .
+  - **(1)** Upon approval of the Secretary the program consortium shall make awards to research performers to carry out research, development, demonstration, and commercial application activities under the program under this section. The program consortium shall not be eligible to receive such awards, but provided that conflict of interest procedures in subsection (c)(3) are followed, entities who are members of the program consortium are not precluded from receiving research awards as either individual research performers or as research performers who are members of a research collaboration.
+  - **(2)** Upon approval of the Secretary the program consortium shall solicit proposals for awards under this subsection in such manner and at such time as the Secretary may prescribe, in consultation with the program consortium.
+  - **(3)**
+    - **(A)** The program consortium shall oversee the implementation of awards under this subsection, consistent with the annual plan under subsection (e), including disbursing funds and monitoring activities carried out under such awards for compliance with the terms and conditions of the awards.
+    - **(B)** Nothing in subparagraph (A) shall limit the authority or responsibility of the Secretary to oversee awards, or limit the authority of the Secretary to review or revoke awards.
+- **(g)**
+  - **(1)** To compensate the program consortium for carrying out its activities under this section, the Secretary shall provide to the program consortium funds sufficient to administer the program. This compensation may include a management fee consistent with Department of Energy contracting practices and procedures.
+  - **(2)** The Secretary shall advance funds to the program consortium upon selection of the consortium, which shall be deducted from amounts to be provided under paragraph (1).
+- **(h)** The Secretary shall retain an independent auditor, which shall include a review by the General Accountability Office, to determine the extent to which funds provided to the program consortium, and funds provided under awards made under subsection (f), have been expended in a manner consistent with the purposes and requirements of this part. The auditor shall transmit a report (including any review by the General Accountability Office) annually to the Secretary, who shall transmit the report to Congress, along with a plan to remedy any deficiencies cited in the report.
+- **(i)** The Secretary of the Interior, through the United States Geological Survey, shall, where appropriate, carry out programs of long-term research to complement the programs under this section.
+- **(j)** The National Energy Technology Laboratory, on behalf of the Secretary, shall (1) issue a competitive solicitation for the program consortium, (2) evaluate, select, and award a contract or other agreement to a qualified program consortium, and (3) have primary review and oversight responsibility for the program consortium, including review and approval of research awards proposed to be made by the program consortium, to ensure that its activities are consistent with the purposes and requirements described in this part. Up to 5 percent of program funds allocated under paragraphs (1) through (3) of section 16378(d) of this title may be used for this purpose, including program direction and the establishment of a site office if determined to be necessary to carry out the purposes of this subsection.

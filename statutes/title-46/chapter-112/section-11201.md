@@ -3,21 +3,22 @@ title: "Section 11201 - Eligibility for veterans’ burial and cemetery benefits
 usc_title: 46
 usc_section: "11201"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 11201"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-03-30T03:06:27.178Z"
+status: "active"
 ---
 
 # § 11201. Eligibility for veterans’ burial and cemetery benefits
 
 - **(a)**
-  - **(1)** The qualified service of an individual referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
+  - **(1)** The qualified service of a person referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:
     - **(A)** Chapter 23 (relating to burial benefits).
     - **(B)** Chapter 24 (relating to interment in national cemeteries).
-  - **(2)** Paragraph (1) applies to an individual who—
+  - **(2)** Paragraph (1) applies to a person who—
     - **(A)** receives an honorable service certificate under section 11203 of this title ; and
     - **(B)** is not eligible under any other provision of law for benefits under laws administered by the Secretary of Veterans Affairs.
-- **(b)** The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for an individual by reason of eligibility under this section.
+- **(b)** The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for a person by reason of eligibility under this section.
 - **(c)**
   - **(1)** Benefits may be provided under the provisions of law referred to in subsection (a)(1) by reason of this chapter only for deaths occurring after the date of the enactment of this chapter.
   - **(2)** Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.

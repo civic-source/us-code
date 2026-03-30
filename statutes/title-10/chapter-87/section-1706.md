@@ -3,16 +3,17 @@ title: "Section 1706 - Government performance of certain acquisition functions"
 usc_title: 10
 usc_section: "1706"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1706"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-03-30T03:04:17.264Z"
+status: "active"
 ---
 
 # § 1706. Government performance of certain acquisition functions
 
-- **(a)** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 4201 of this title ), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 4201(a)(2) of this title , and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
-  - **(1)** Portfolio acquisition executive.
-  - **(2)** Deputy portfolio acquisition executive.
+- **(a)** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+  - **(1)** Program executive officer.
+  - **(2)** Deputy program executive officer.
   - **(3)** Program manager.
   - **(4)** Deputy program manager.
   - **(5)** Senior contracting official.
@@ -24,5 +25,7 @@ generated_at: "2026-03-30T02:53:38.135Z"
   - **(11)** Program lead business financial manager.
   - **(12)** Program lead production, quality, and manufacturing.
   - **(13)** Program lead information technology.
-  - **(14)** Program lead software.
 - **(b)** The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
+- **(c)** In this section:
+  - **(1)** The term “major defense acquisition program” has the meaning given such term in section 2430(a) of this title .
+  - **(2)** The term “major automated information system program” has the meaning given such term in section 2445a(a) of this title .

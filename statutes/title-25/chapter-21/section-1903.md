@@ -3,9 +3,10 @@ title: "Section 1903 - Definitions"
 usc_title: 25
 usc_section: "1903"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1903"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-03-30T03:05:02.888Z"
+status: "active"
 ---
 
 # § 1903. Definitions
@@ -18,7 +19,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
       - **(iii)** “preadoptive placement” which shall mean the temporary placement of an Indian child in a foster home or institution after the termination of parental rights, but prior to or in lieu of adoptive placement; and
       - **(iv)** “adoptive placement” which shall mean the permanent placement of an Indian child for adoption, including any action resulting in a final decree of adoption.
   - **(2)** “extended family member” shall be as defined by the law or custom of the Indian child’s tribe or, in the absence of such law or custom, shall be a person who has reached the age of eighteen and who is the Indian child’s grandparent, aunt or uncle, brother or sister, brother-in-law or sister-in-law, niece or nephew, first or second cousin, or stepparent;
-  - **(3)** “Indian” means any person who is a member of an Indian tribe, or who is an Alaska Native and a member of a Regional Corporation as defined in section 1606 of title 43 ;
+  - **(3)** “Indian” means any person who is a member of an Indian tribe, or who is an Alaska Native and a member of a Regional Corporation as defined in 1606 of title 43;
   - **(4)** “Indian child” means any unmarried person who is under age eighteen and is either (a) a member of an Indian tribe or (b) is eligible for membership in an Indian tribe and is the biological child of a member of an Indian tribe;
   - **(5)** “Indian child’s tribe” means (a) the Indian tribe in which an Indian child is a member or eligible for membership or (b), in the case of an Indian child who is a member of or eligible for membership in more than one tribe, the Indian tribe with which the Indian child has the more significant contacts;
   - **(6)** “Indian custodian” means any Indian person who has legal custody of an Indian child under tribal law or custom or under State law or to whom temporary physical care, custody, and control has been transferred by the parent of such child;

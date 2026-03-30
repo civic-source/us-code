@@ -3,9 +3,10 @@ title: "Section 245 - Dividends received from certain foreign corporations"
 usc_title: 26
 usc_section: "245"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 245"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-03-30T03:05:18.565Z"
+status: "active"
 ---
 
 # § 245. Dividends received from certain foreign corporations
@@ -16,9 +17,7 @@ generated_at: "2026-03-30T02:55:27.656Z"
   - **(3)** For purposes of this subsection, the U.S.-source portion of any dividend is an amount which bears the same ratio to such dividend as—
     - **(A)** the post-1986 undistributed U.S. earnings, bears to
     - **(B)** the total post-1986 undistributed earnings.
-  - **(4)** The term “post-1986 undistributed earnings” means the amount of the earnings and profits of the foreign corporation (computed in accordance with sections 964(a) and 986) accumulated in taxable years beginning after December 31, 1986 —
-    - **(A)** as of the close of the taxable year of the foreign corporation in which the dividend is distributed, and
-    - **(B)** without diminution by reason of dividends distributed during such taxable year.
+  - **(4)** For purposes of this subsection, the term “post-1986 undistributed earnings” has the meaning given to such term by section 902(c)(1).
   - **(5)** For purposes of this subsection, the term “post-1986 undistributed U.S. earnings” means the portion of the post-1986 undistributed earnings which is attributable to—
     - **(A)** income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a trade or business within the United States and subject to tax under this chapter, or
     - **(B)** any dividend received (directly or through a wholly owned foreign corporation) from a domestic corporation at least 80 percent of the stock of which (by vote and value) is owned (directly or through such wholly owned foreign corporation) by the qualified 10-percent owned foreign corporation.
@@ -31,7 +30,6 @@ generated_at: "2026-03-30T02:55:27.656Z"
     - **(B)** under a treaty obligation of the United States (applied without regard to this subsection), such portion would be treated as arising from sources outside the United States, and
     - **(C)** the taxpayer chooses the benefits of this paragraph,
   - **(11)** For purposes of this subsection, the term “dividend” does not include any amount treated as a dividend under section 1248.
-  - **(12)** Regulated investment companies and real estate investment trusts shall not be treated as domestic corporations for purposes of paragraph (5)(B).
 - **(b)**
   - **(1)** In the case of dividends described in paragraph (2) received from a foreign corporation by a domestic corporation which, for its taxable year in which such dividends are received, owns (directly or indirectly) all of the outstanding stock of such foreign corporation, there shall be allowed as a deduction (in lieu of the deduction provided by subsection (a)) an amount equal to 100 percent of such dividends.
   - **(2)** Paragraph (1) shall apply only to dividends which are paid out of the earnings and profits of a foreign corporation for a taxable year during which—
@@ -43,7 +41,7 @@ generated_at: "2026-03-30T02:55:27.656Z"
 - **(c)**
   - **(1)** In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to—
     - **(A)** 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC, and
-    - **(B)** 50 percent (65 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
+    - **(B)** 70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
   - **(2)** Paragraph (1) shall not apply to any dividend which is distributed out of earnings and profits attributable to foreign trade income which—
     - **(A)** is section 923(a)(2) nonexempt income (within the meaning of section 927(d)(6)), or
     - **(B)** would not, but for section 923(a)(4), be treated as exempt foreign trade income.

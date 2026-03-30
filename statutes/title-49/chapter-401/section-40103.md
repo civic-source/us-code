@@ -3,16 +3,17 @@ title: "Section 40103 - Sovereignty and use of airspace"
 usc_title: 49
 usc_section: "40103"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 40103"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-03-30T03:06:29.315Z"
+status: "active"
 ---
 
 # § 40103. Sovereignty and use of airspace
 
 - **(a)**
   - **(1)** The United States Government has exclusive sovereignty of airspace of the United States.
-  - **(2)** A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 ( 29 U.S.C. 792 ) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for individuals with disabilities.
+  - **(2)** A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 ( 29 U.S.C. 792 ) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
 - **(b)**
   - **(1)** The Administrator of the Federal Aviation Administration shall develop plans and policy for the use of the navigable airspace and assign by regulation or order the use of the airspace necessary to ensure the safety of aircraft and the efficient use of airspace. The Administrator may modify or revoke an assignment when required in the public interest.
   - **(2)** The Administrator shall prescribe air traffic regulations on the flight of aircraft (including regulations on safe altitudes) for—

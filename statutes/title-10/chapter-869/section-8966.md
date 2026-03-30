@@ -1,0 +1,19 @@
+---
+title: "Section 8966 - Retired lists"
+usc_title: 10
+usc_section: "8966"
+chapter: 869
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 8966"
+generated_at: "2026-03-30T03:04:17.328Z"
+status: "active"
+---
+
+# § 8966. Retired lists
+
+- **(a)** The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force.
+- **(b)** The Secretary shall maintain a retired list containing the name of—
+  - **(1)** each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force; and
+  - **(2)** each retired warrant officer or enlisted member of the Air Force who is advanced to a commissioned grade.
+- **(c)** The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force.
+- **(d)** The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force.

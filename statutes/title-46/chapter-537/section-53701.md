@@ -3,9 +3,10 @@ title: "Section 53701 - Definitions"
 usc_title: 46
 usc_section: "53701"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 53701"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-03-30T03:06:27.189Z"
+status: "active"
 ---
 
 # § 53701. Definitions
@@ -22,7 +23,10 @@ In this chapter:
     - **(B)** if the vessel was reconstructed or reconditioned, the sum of—
       - **(i)** the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
       - **(ii)** any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
-  - **(5)**
+  - **(5)** The term “eligible export vessel” means a vessel that—
+    - **(A)** is constructed, reconstructed, or reconditioned in the United States for use in world-wide trade; and
+    - **(B)** will, on delivery or redelivery, become or remain documented under the laws of a country other than the United States.
+  - **(6)**
     - **(A)** Subject to subparagraph (B), the term “fishery facility” means—
       - **(i)** for operations on land—
         - **(I)** a structure or appurtenance thereto designed for the unloading and receiving from vessels, the processing, the holding pending processing, the distribution after processing, or the holding pending distribution, of fish from a fishery;
@@ -37,19 +41,7 @@ In this chapter:
     - **(B)** Under subparagraph (A), the structure, appurtenance, land, equipment, or vessel must be owned by—
       - **(i)** an individual who is a citizen of the United States; or
       - **(ii)** an entity that is a citizen of the United States under section 50501 of this title and that is at least 75 percent owned (as determined under that section) by citizens of the United States.
-  - **(6)** The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1802 ), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
-  - **(7)** The term “historical uses” includes—
-    - **(A)** refurbishing, repairing, rebuilding, or replacing equipment on a fishing vessel, without materially increasing harvesting capacity;
-    - **(B)** purchasing a used fishing vessel;
-    - **(C)** purchasing, constructing, expanding, or reconditioning a fishery facility;
-    - **(D)** refinancing existing debt;
-    - **(E)** reducing fishing capacity; and
-    - **(F)** making upgrades to a fishing vessel, including upgrades in technology, gear, or equipment, that improve—
-      - **(i)** collection and reporting of fishery-dependent data;
-      - **(ii)** bycatch reduction or avoidance;
-      - **(iii)** gear selectivity;
-      - **(iv)** adverse impacts caused by fishing gear; or
-      - **(v)** safety.
+  - **(7)** The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1802 ), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
   - **(8)** The term “mortgage” includes—
     - **(A)** a preferred mortgage as defined in section 31301 of this title ; and
     - **(B)** a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
@@ -77,4 +69,3 @@ In this chapter:
     - **(K)** a pollution treatment, abatement, or control vessel;
     - **(L)** a fishing vessel whose ownership meets the citizenship requirements under section 50501 of this title for documenting vessels to operate in the coastwise trade; and
     - **(M)** an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
-  - **(15)** The term “Vessel of National Interest” means a vessel deemed to be of national interest that meets characteristics determined by the Administrator, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, or the heads of other Federal agencies, as described in section 53703(d).

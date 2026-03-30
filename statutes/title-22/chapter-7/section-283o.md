@@ -3,9 +3,10 @@ title: "Section 283o - Increase in authorized capital stock and additional subsc
 usc_title: 22
 usc_section: "283o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 283o"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-03-30T03:04:53.593Z"
+status: "active"
 ---
 
 # § 283o. Increase in authorized capital stock and additional subscriptions of members thereto; increase in resources of Fund for Special Operations and contributions thereto; United States share; authorization of appropriations

@@ -3,9 +3,10 @@ title: "Section 103 - Special provisions relating to marriages"
 usc_title: 38
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 103"
-generated_at: "2026-03-30T02:55:53.469Z"
+generated_at: "2026-03-30T03:05:59.187Z"
+status: "active"
 ---
 
 # § 103. Special provisions relating to marriages
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:55:53.469Z"
   - **(1)** The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
   - **(2)**
     - **(A)** The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
-    - **(B)** The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under chapter 13 or section 1781 of this title to such person as the surviving spouse of the veteran.
+    - **(B)** The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
   - **(3)** If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person’s spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
   - **(4)** The first month of eligibility for benefits for a surviving spouse by reason of paragraph (2)(A) or (3) shall be the month after—
     - **(A)** the month of the termination of such remarriage, in the case of a surviving spouse described in paragraph (2)(A); or
@@ -27,5 +28,4 @@ generated_at: "2026-03-30T02:55:53.469Z"
     - **(B)** Section 1781, relating to medical care for survivors and dependents of certain veterans.
     - **(C)** Chapter 35, relating to educational assistance.
     - **(D)** Chapter 37, relating to housing loans.
-    - **(E)** Section 1562(a)(2), relating to Medal of Honor special pension.
 - **(e)** The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.

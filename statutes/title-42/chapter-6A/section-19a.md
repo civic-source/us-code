@@ -1,80 +1,43 @@
 ---
-title: "Section 19a - Electronic health record reporting program"
+title: "Section 19a - Patient protections"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-30T02:56:10.846Z"
+generated_at: "2026-03-30T03:06:22.416Z"
+status: "active"
 ---
 
-# § 300jj–19a. Electronic health record reporting program
+# § 300gg–19a. Patient protections
 
-- **(a)**
-  - **(1)** Not later than 1 year after December 13, 2016 , the Secretary shall convene stakeholders, as described in paragraph (2), for the purpose of developing the reporting criteria in accordance with paragraph (3).
-  - **(2)** The reporting criteria under this subsection shall be developed through a public, transparent process that reflects input from relevant stakeholders, including—
-    - **(A)** health care providers, including primary care and specialty care health care professionals;
-    - **(B)** hospitals and hospital systems;
-    - **(C)** health information technology developers;
-    - **(D)** patients, consumers, and their advocates;
-    - **(E)** data sharing networks, such as health information exchanges;
-    - **(F)** authorized certification bodies and testing laboratories;
-    - **(G)** security experts;
-    - **(H)** relevant manufacturers of medical devices;
-    - **(I)** experts in health information technology market economics;
-    - **(J)** public and private entities engaged in the evaluation of health information technology performance;
-    - **(K)** quality organizations, including the consensus based entity described in section 1395aaa of this title ;
-    - **(L)** experts in human factors engineering and the measurement of user-centered design; and
-    - **(M)** other entities or individuals, as the Secretary determines appropriate.
-  - **(3)** The reporting criteria developed under this subsection—
-    - **(A)** shall include measures that reflect categories including—
-      - **(i)** security;
-      - **(ii)** usability and user-centered design;
-      - **(iii)** interoperability;
-      - **(iv)** conformance to certification testing; and
-      - **(v)** other categories, as appropriate to measure the performance of electronic health record technology;
-    - **(B)** may include categories such as—
-      - **(i)** enabling the user to order and view the results of laboratory tests, imaging tests, and other diagnostic tests;
-      - **(ii)** submitting, editing, and retrieving data from registries such as clinician-led clinical data registries;
-      - **(iii)** accessing and exchanging information and data from and through health information exchanges;
-      - **(iv)** accessing and exchanging information and data from medical devices;
-      - **(v)** accessing and exchanging information and data held by Federal, State, and local agencies and other applicable entities useful to a health care provider or other applicable user in the furtherance of patient care;
-      - **(vi)** accessing and exchanging information from other health care providers or applicable users;
-      - **(vii)** accessing and exchanging patient generated information;
-      - **(viii)** providing the patient or an authorized designee with a complete copy of their health information from an electronic record in a computable format;
-      - **(ix)** providing accurate patient information for the correct patient, including exchanging such information, and avoiding the duplication of patients records; and
-      - **(x)** other categories regarding performance, accessibility, 1 1 So in original. Probably should be “performance or accessibility,”. as the Secretary determines appropriate; and
-    - **(C)** shall be designed to ensure that small and startup health information technology developers are not unduly disadvantaged by the reporting criteria.
-  - **(4)** After the reporting criteria have been developed under paragraph (3), the Secretary may convene stakeholders and conduct a public comment period for the purpose of modifying the reporting criteria developed under such paragraph.
-- **(b)** As a condition of maintaining certification under section 300jj–11(c)(5)(D) of this title , a developer of certified electronic health records shall submit to an appropriate recipient of a grant, contract, or agreement under subsection (c)(1) responses to the criteria developed under subsection (a), with respect to all certified technology offered by such developer.
+- **(a)** If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee of a participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
+- **(b)**
+  - **(1)** If a group health plan, or a health insurance issuer offering group or individual health insurance issuer, 1 1 So in original. Probably should be “coverage,”. provides or covers any benefits with respect to services in an emergency department of a hospital, the plan or issuer shall cover emergency services (as defined in paragraph (2)(B))—
+    - **(A)** without the need for any prior authorization determination;
+    - **(B)** whether the health care provider furnishing such services is a participating provider with respect to such services;
+    - **(C)** in a manner so that, if such services are provided to a participant, beneficiary, or enrollee—
+      - **(i)** by a nonparticipating health care provider with or without prior authorization; or
+      - **(ii)**
+        - **(I)** such services will be provided without imposing any requirement under the plan for prior authorization of services or any limitation on coverage where the provider of services does not have a contractual relationship with the plan for the providing of services that is more restrictive than the requirements or limitations that apply to emergency department services received from providers who do have such a contractual relationship with the plan; and
+        - **(II)** if such services are provided out-of-network, the cost-sharing requirement (expressed as a copayment amount or coinsurance rate) is the same requirement that would apply if such services were provided in-network; 2 2 So in original. The word “and” probably should appear.
+    - **(D)** without regard to any other term or condition of such coverage (other than exclusion or coordination of benefits, or an affiliation or waiting period, permitted under section 2701 3 3 See References in Text note below. of this Act, section 1181 of title 29 , or section 9801 of title 26 , and other than applicable cost-sharing).
+  - **(2)** In this subsection:
+    - **(A)** The term “emergency medical condition” means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in a condition described in clause (i), (ii), or (iii) of section 1395dd(e)(1)(A) of this title .
+    - **(B)** The term “emergency services” means, with respect to an emergency medical condition—
+      - **(i)** a medical screening examination (as required under section 1395dd of this title ) that is within the capability of the emergency department of a hospital, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition, and
+      - **(ii)** within the capabilities of the staff and facilities available at the hospital, such further medical examination and treatment as are required under section 1395dd of this title to stabilize the patient.
+    - **(C)** The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (A)), has the meaning give 4 4 So in original. Probably should be “given”. in section 1395dd(e)(3) of this title .
 - **(c)**
-  - **(1)** Not later than 1 year after December 13, 2016 , the Secretary shall award grants, contracts, or agreements to independent entities on a competitive basis to support the convening of stakeholders as described in subsection (a)(2), collect the information required to be reported in accordance with the criteria established as described subsection (a)(3), and develop and implement a process in accordance with paragraph (5) and report such information to the Secretary.
-  - **(2)** An independent entity that seeks a grant, contract, or agreement under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a description of—
-    - **(A)** the proposed method for reviewing and summarizing information gathered based on reporting criteria established under subsection (a);
-    - **(B)** if applicable, the intended focus on a specific subset of certified electronic health record technology users, such as health care providers, including primary care, specialty care, and care provided in rural settings; hospitals and hospital systems; and patients, consumers, and patients and consumer advocates;
-    - **(C)** the plan for widely distributing reports described in paragraph (6);
-    - **(D)** the period for which the grant, contract, or agreement is requested, which may be up to 2 years; and
-    - **(E)** the budget for reporting program participation, and whether the eligible independent entity intends to continue participation after the period of the grant, contract, or agreement.
-  - **(3)** In awarding grants, contracts, and agreements under paragraph (1), the Secretary shall give priority to independent entities with appropriate expertise in health information technology usability, interoperability, and security (especially entities with such expertise in electronic health records) with respect to—
-    - **(A)** health care providers, including primary care, specialty care, and care provided in rural settings;
-    - **(B)** hospitals and hospital systems; and
-    - **(C)** patients, consumers, and patient and consumer advocates.
-  - **(4)**
-    - **(A)** Not later than 4 years after December 13, 2016 , and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
-      - **(i)** assess performance of the recipients of the grants, contracts, and agreements under paragraph (1) based on quality and usability of reports described in paragraph (6); and
-      - **(ii)** re-determine grants, contracts, and agreements as necessary.
-    - **(B)** The Secretary may not award a grant, contract, or cooperative agreement under paragraph (1) to—
-      - **(i)** a proprietor of certified health information technology or a business affiliate of such a proprietor;
-      - **(ii)** a developer of certified health information technology; or
-      - **(iii)** a State or local government agency.
-  - **(5)** Based on reporting criteria established under subsection (a), the recipients of grants, contracts, and agreements under paragraph (1) shall develop and implement a process to collect and verify confidential feedback on such criteria from—
-    - **(A)** health care providers, patients, and other users of certified electronic health record technology; and
-    - **(B)** developers of certified electronic health record technology.
-  - **(6)**
-    - **(A)** Each recipient of a grant, contract, or agreement under paragraph (1) shall report on the information reported to such recipient pursuant to subsection (a) and the user feedback collected under paragraph (5) by preparing summary reports and detailed reports of such information.
-    - **(B)** Each recipient of a grant, contract, or agreement under paragraph (1) shall submit the reports prepared under subparagraph (A) to the Secretary for public distribution in accordance with subsection (d).
-- **(d)** The Secretary shall distribute widely, as appropriate, and publish, on the Internet website of the Office of the National Coordinator—
-  - **(1)** the reporting criteria developed under subsection (a); and
-  - **(2)** the summary and detailed reports under subsection (c)(6).
-- **(e)** Each recipient of a grant, contract, or agreement under paragraph (1) shall develop and implement a process through which participating electronic health record technology developers may review and recommend changes to the reports created under subsection (c)(6) for products developed by such developer prior to the publication of such report under subsection (d).
-- **(f)** The Secretary may provide additional resources on the Internet website of the Office of the National Coordinator to better inform consumers of health information technology. Such reports may be carried out through partnerships with private organizations with appropriate expertise.
+  - **(1)** In the case of a person who has a child who is a participant, beneficiary, or enrollee under a group health plan, or health insurance coverage offered by a health insurance issuer in the group or individual market, if the plan or issuer requires or provides for the designation of a participating primary care provider for the child, the plan or issuer shall permit such person to designate a physician (allopathic or osteopathic) who specializes in pediatrics as the child’s primary care provider if such provider participates in the network of the plan or issuer.
+  - **(2)** Nothing in paragraph (1) shall be construed to waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of pediatric care.
+- **(d)**
+  - **(1)**
+    - **(A)** A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in paragraph (2) may not require authorization or referral by the plan, issuer, or any person (including a primary care provider described in paragraph (2)(B)) in the case of a female participant, beneficiary, or enrollee who seeks coverage for obstetrical or gynecological care provided by a participating health care professional who specializes in obstetrics or gynecology. Such professional shall agree to otherwise adhere to such plan’s or issuer’s policies and procedures, including procedures regarding referrals and obtaining prior authorization and providing services pursuant to a treatment plan (if any) approved by the plan or issuer.
+    - **(B)** A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+  - **(2)** A group health plan, or health insurance issuer offering group or individual health insurance coverage, described in this paragraph is a group health plan or coverage that—
+    - **(A)** provides coverage for obstetric or gynecologic care; and
+    - **(B)** requires the designation by a participant, beneficiary, or enrollee of a participating primary care provider.
+  - **(3)** Nothing in paragraph (1) shall be construed to—
+    - **(A)** waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
+    - **(B)** preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.

@@ -3,9 +3,10 @@ title: "Section 6 - Limitation of term “products of American fisheries”"
 usc_title: 1
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "1 U.S.C. § 6"
-generated_at: "2026-03-30T02:52:49.391Z"
+generated_at: "2026-03-30T03:04:03.261Z"
+status: "active"
 ---
 
 # § 6. Limitation of term “products of American fisheries”

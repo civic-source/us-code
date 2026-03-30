@@ -3,9 +3,10 @@ title: "Section 1397A - Increase in expensing under section 179"
 usc_title: 26
 usc_section: "1397A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1397A"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-03-30T03:05:18.658Z"
+status: "active"
 ---
 
 # § 1397A. Increase in expensing under section 179
@@ -16,4 +17,3 @@ generated_at: "2026-03-30T02:55:27.774Z"
     - **(B)** the cost of section 179 property which is qualified zone property placed in service during the taxable year, and
   - **(2)** the amount taken into account under section 179(b)(2) with respect to any section 179 property which is qualified zone property shall be 50 percent of the cost thereof.
 - **(b)** Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.
-- **(c)** This section shall not apply to any property placed in service in taxable years beginning after December 31, 2020 .

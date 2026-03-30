@@ -3,12 +3,13 @@ title: "Section 12836 - Labor"
 usc_title: 42
 usc_section: "12836"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12836"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-03-30T03:06:22.918Z"
+status: "active"
 ---
 
 # § 12836. Labor
 
 - **(a)** Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this part shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of affordable housing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
-- **(b)** Subsection (a) shall not apply if the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered and such persons are not otherwise employed at any time in the construction work.
+- **(b)** Subsection (a) of this section shall not apply if the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered and such persons are not otherwise employed at any time in the construction work.

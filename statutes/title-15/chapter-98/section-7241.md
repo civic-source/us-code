@@ -3,9 +3,10 @@ title: "Section 7241 - Corporate responsibility for financial reports"
 usc_title: 15
 usc_section: "7241"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 7241"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-03-30T03:04:31.244Z"
+status: "active"
 ---
 
 # § 7241. Corporate responsibility for financial reports
@@ -24,4 +25,4 @@ generated_at: "2026-03-30T02:54:08.220Z"
     - **(B)** any fraud, whether or not material, that involves management or other employees who have a significant role in the issuer’s internal controls; and
   - **(6)** the signing officers have indicated in the report whether or not there were significant changes in internal controls or in other factors that could significantly affect internal controls subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
 - **(b)** Nothing in this section shall be interpreted or applied in any way to allow any issuer to lessen the legal force of the statement required under this section, by an issuer having reincorporated or having engaged in any other transaction that resulted in the transfer of the corporate domicile or offices of the issuer from inside the United States to outside of the United States.
-- **(c)** The rules required by subsection (a) shall be effective not later than 30 days after July 30, 2002 .
+- **(c)** The rules required by subsection (a) of this section shall be effective not later than 30 days after July 30, 2002 .

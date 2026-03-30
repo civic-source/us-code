@@ -3,39 +3,32 @@ title: "Section 796c - State plan"
 usc_title: 29
 usc_section: "796c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 796c"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-03-30T03:05:09.689Z"
+status: "active"
 ---
 
 # § 796c. State plan
 
 - **(a)**
-  - **(1)** To be eligible to receive financial assistance under this part, a State shall submit to the Administrator, and obtain approval of, a State plan developed and signed in accordance with paragraph (2), containing such provisions as the Administrator may require, including, at a minimum, the provisions required in this section.
-  - **(2)** The plan under paragraph (1) shall be jointly—
-    - **(A)** developed by the chairperson of the Statewide Independent Living Council, and the directors of the centers for independent living in the State, after receiving public input from individuals with disabilities and other stakeholders throughout the State; and
-    - **(B)** signed by—
-      - **(i)** the chairperson of the Statewide Independent Living Council, acting on behalf of and at the direction of the Council;
-      - **(ii)** the director of the designated State entity described in subsection (c); and
-      - **(iii)** not less than 51 percent of the directors of the centers for independent living in the State.
+  - **(1)** To be eligible to receive financial assistance under this part, a State shall submit to the Commissioner, and obtain approval of, a State plan containing such provisions as the Commissioner may require, including, at a minimum, the provisions required in this section.
+  - **(2)** The plan under paragraph (1) shall be jointly developed and signed by—
+    - **(A)** the director of the designated State unit; and
+    - **(B)** the chairperson of the Statewide Independent Living Council, acting on behalf of and at the direction of the Council.
   - **(3)** The plan shall provide for the review and revision of the plan, not less than once every 3 years, to ensure the existence of appropriate planning, financial support and coordination, and other assistance to appropriately address, on a statewide and comprehensive basis, needs in the State for—
-    - **(A)** the provision of independent living services in the State;
+    - **(A)** the provision of State independent living services;
     - **(B)** the development and support of a statewide network of centers for independent living; and
-    - **(C)** working relationships and collaboration between—
-      - **(i)** centers for independent living; and
-      - **(ii)**
-        - **(I)** entities carrying out programs that provide independent living services, including those serving older individuals;
-        - **(II)** other community-based organizations that provide or coordinate the provision of housing, transportation, employment, information and referral assistance, services, and supports for individuals with significant disabilities; and
-        - **(III)** entities carrying out other programs providing services for individuals with disabilities.
-  - **(4)** The State shall submit the plan to the Administrator 90 days before the completion date of the preceding plan. If a State fails to submit such a plan that complies with the requirements of this section, the Administrator may withhold financial assistance under this part until such time as the State submits such a plan.
-  - **(5)** The State plan shall describe strategies for providing independent living services on a statewide basis, to the greatest extent possible.
+    - **(C)** working relationships between—
+      - **(i)** programs providing independent living services and independent living centers; and
+      - **(ii)** the vocational rehabilitation program established under subchapter I of this chapter, and other programs providing services for individuals with disabilities.
+  - **(4)** The State shall submit the plan to the Commissioner 90 days before the completion date of the preceding plan. If a State fails to submit such a plan that complies with the requirements of this section, the Commissioner may withhold financial assistance under this part until such time as the State submits such a plan.
 - **(b)** The plan shall provide for the establishment of a Statewide Independent Living Council in accordance with section 796d of this title .
-- **(c)** The plan shall designate a State entity of such State (referred to in this subchapter as the “designated State entity”) as the agency that, on behalf of the State, shall—
+- **(c)** The plan shall designate the designated State unit of such State as the agency that, on behalf of the State, shall—
   - **(1)** receive, account for, and disburse funds received by the State under this part based on the plan;
   - **(2)** provide administrative support services for a program under subpart 2, and a program under subpart 3 in a case in which the program is administered by the State under section 796f–2 of this title ;
-  - **(3)** keep such records and afford such access to such records as the Administrator finds to be necessary with respect to the programs;
-  - **(4)** submit such additional information or provide such assurances as the Administrator may require with respect to the programs; and
-  - **(5)** retain not more than 5 percent of the funds received by the State for any fiscal year under subpart 2, for the performance of the services outlined in paragraphs (1) through (4).
+  - **(3)** keep such records and afford such access to such records as the Commissioner finds to be necessary with respect to the programs; and
+  - **(4)** submit such additional information or provide such assurances as the Commissioner may require with respect to the programs.
 - **(d)** The plan shall—
   - **(1)** specify the objectives to be achieved under the plan and establish timelines for the achievement of the objectives; and
   - **(2)** explain how such objectives are consistent with and further the purpose of this part.
@@ -44,10 +37,8 @@ generated_at: "2026-03-30T02:55:18.699Z"
 - **(g)** The plan shall set forth a design for the establishment of a statewide network of centers for independent living that comply with the standards and assurances set forth in section 796f–4 of this title .
 - **(h)** In States in which State funding for centers for independent living equals or exceeds the amount of funds allotted to the State under subpart 3, as provided in section 796f–2 of this title , the plan shall include policies, practices, and procedures governing the awarding of grants to centers for independent living and oversight of such centers consistent with section 796f–2 of this title .
 - **(i)** The plan shall set forth the steps that will be taken to maximize the cooperation, coordination, and working relationships among—
-  - **(1)** the Statewide Independent Living Council;
-  - **(2)** centers for independent living;
-  - **(3)** the designated State entity; and
-  - **(4)** other State agencies or entities represented on the Council, other councils that address the needs and issues of specific disability populations, and other public and private entities determined to be appropriate by the Council.
+  - **(1)** the independent living rehabilitation service program, the Statewide Independent Living Council, and centers for independent living; and
+  - **(2)** the designated State unit, other State agencies represented on such Council, other councils that address the needs of specific disability populations and issues, and other public and private entities determined to be appropriate by the Council.
 - **(j)** The plan shall describe how services funded under this part will be coordinated with, and complement, other services, in order to avoid unnecessary duplication with other Federal, State, and local programs.
 - **(k)** The plan shall describe efforts to coordinate Federal and State funding for centers for independent living and independent living services.
 - **(l)** With respect to services and centers funded under this part, the plan shall set forth steps to be taken regarding outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
@@ -60,10 +51,9 @@ generated_at: "2026-03-30T02:55:18.699Z"
       - **(i)** the amount and disposition by such recipient of the proceeds of such financial assistance;
       - **(ii)** the total cost of the project or undertaking in connection with which such financial assistance is given or used; and
       - **(iii)** the amount of that portion of the cost of the project or undertaking supplied by other sources;
-    - **(B)** maintain such other records as the Administrator determines to be appropriate to facilitate an effective audit;
-    - **(C)** afford such access to records maintained under subparagraphs (A) and (B) as the Administrator determines to be appropriate; and
-    - **(D)** submit such reports with respect to such records as the Administrator determines to be appropriate;
-  - **(5)** provide access to the Administrator and the Comptroller General or any of their duly authorized representatives, for the purpose of conducting audits and examinations, of any books, documents, papers, and records of the recipients that are pertinent to the financial assistance received under this part; and
+    - **(B)** maintain such other records as the Commissioner determines to be appropriate to facilitate an effective audit;
+    - **(C)** afford such access to records maintained under subparagraphs (A) and (B) as the Commissioner determines to be appropriate; and
+    - **(D)** submit such reports with respect to such records as the Commissioner determines to be appropriate;
+  - **(5)** provide access to the Commissioner and the Comptroller General or any of their duly authorized representatives, for the purpose of conducting audits and examinations, of any books, documents, papers, and records of the recipients that are pertinent to the financial assistance received under this part; and
   - **(6)** provide for public hearings regarding the contents of the plan during both the formulation and review of the plan.
-- **(n)** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
-- **(o)** The plan shall describe how the State will provide independent living services described in section 705(18) of this title that promote full access to community life for individuals with significant disabilities.
+- **(n)** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d) of this section, including evaluation of satisfaction by individuals with disabilities.

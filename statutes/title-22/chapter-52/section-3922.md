@@ -3,9 +3,10 @@ title: "Section 3922 - Utilization of Foreign Service personnel system by other 
 usc_title: 22
 usc_section: "3922"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3922"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-03-30T03:04:53.668Z"
+status: "active"
 ---
 
 # § 3922. Utilization of Foreign Service personnel system by other agencies
@@ -22,5 +23,5 @@ generated_at: "2026-03-30T02:55:05.398Z"
     - **(A)** Whenever (and to the extent) the Secretary of State considers it in the best interests of the United States Government, the Secretary of State may authorize the head of any agency or other Government establishment (including any establishment in the legislative or judicial branch) to appoint under section 3943 of this title individuals described in subparagraph (B) as members of the Service and to utilize the Foreign Service personnel system with respect to such individuals under such regulations as the Secretary of State may prescribe.
     - **(B)** The individuals referred to in subparagraph (A) are individuals eligible for employment abroad under section 3951(a) of this title .
 - **(b)** Subject to section 3921(b) of this title —
-  - **(1)** the agency heads referred to in subsection (a), and
+  - **(1)** the agency heads referred to in subsection (a) of this section, and
   - **(2)** the head of any other agency (to the extent authority to utilize the Foreign Service personnel system is granted to such agency head under any other chapter),

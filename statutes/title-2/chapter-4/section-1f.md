@@ -1,12 +1,15 @@
 ---
-title: "Section 1f - Transferred"
+title: "Section 1f - Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable"
 usc_title: 2
 usc_section: "1f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1f"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.399Z"
+status: "active"
 ---
 
-# § 72a–1f. Transferred
+# § 72a–1f. Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable
+
+Notwithstanding any other provisions of law, a Senator who is the Chairman or Vice Chairman of the Senate Select Committee on Ethics may designate one employee employed in his Senate office to perform part-time service for such Committee, and such Committee shall reimburse such Senator for such employee’s services for the Committee by transferring from the contingent fund of the Senate, upon vouchers approved by the Chairman of such Committee, to such Senator’s Administrative, Clerical, and Legislative Assistance Allowance, with respect to each pay period of such employee, an amount which bears the same ratio to such employee’s salary (but not more than one-half of such salary) for such period, as the portion of the time spent (or to be spent) by such employee in performing services for such Committee during such period bears to the total time for which such employee worked (or will work) during such period (as determined by the Chairman of such Committee) for such Committee and in such Senator’s office. Any funds transferred under authority of the preceding sentence to a Senator’s Administrative, Clerical, and Legislative Assistance 1 1 So in original. Probably should be “Assistance Allowance”. shall be available for the same purposes and in like manner as funds therein which were not transferred thereto under such authority. For purposes of any law of the United States, a State, a territory, or a political subdivision thereof, an employee designated by a Senator pursuant to this section shall be considered to be an employee of such Senator’s Senate office and not an employee of the Senate Select Committee on Ethics.
 

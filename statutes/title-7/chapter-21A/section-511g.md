@@ -3,9 +3,10 @@ title: "Section 511g - Placing of grade on warehouse tickets, etc.; form"
 usc_title: 7
 usc_section: "511g"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 511g"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-03-30T03:04:20.901Z"
+status: "active"
 ---
 
 # § 511g. Placing of grade on warehouse tickets, etc.; form

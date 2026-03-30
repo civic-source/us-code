@@ -3,9 +3,10 @@ title: "Section 576 - Information to be furnished to selection boards; selection
 usc_title: 10
 usc_section: "576"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 576"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-03-30T03:04:17.224Z"
+status: "active"
 ---
 
 # § 576. Information to be furnished to selection boards; selection procedures
@@ -15,9 +16,7 @@ generated_at: "2026-03-30T02:53:38.066Z"
   - **(2)** The names and pertinent records of all officers in each grade (or grade and competitive category) to be considered.
   - **(3)** Such information or guidelines relating to the needs of the armed force concerned for warrant officers having particular skills, including guidelines or information relating to the need for either a minimum number or a maximum number of officers with particular skills within a grade or competitive category, as the Secretary concerned determines to be relevant in relation to the requirements of that armed force.
 - **(b)** From each promotion zone for a grade (or grade and competitive category), the selection board shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
-- **(c)** The names of warrant officers selected for promotion under this section shall be arranged in the report of such board in the following order of priority:
-  - **(1)** Warrant officers recommended under section 575(e) of this title to be placed higher on the promotion list, in the order in which the board determines.
-  - **(2)** Warrant officers otherwise recommended for promotion, in the order of seniority on the warrant officer active-duty list.
+- **(c)** The names of warrant officers selected for promotion under this section shall be arranged in the board’s report in order of the seniority on the warrant officer active-duty list.
 - **(d)** Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, for retirement or separation under section 1166 of this title .
 - **(e)** The report of the selection board shall be submitted to the Secretary concerned. The Secretary may approve or disapprove all or part of the report.
 - **(f)**

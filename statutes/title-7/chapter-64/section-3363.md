@@ -3,9 +3,10 @@ title: "Section 3363 - Resident instruction grants for insular areas"
 usc_title: 7
 usc_section: "3363"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3363"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-03-30T03:04:20.982Z"
+status: "active"
 ---
 
 # § 3363. Resident instruction grants for insular areas
@@ -16,8 +17,6 @@ generated_at: "2026-03-30T02:53:42.403Z"
   - **(3)** facilitate cooperative initiatives between two or more insular area eligible institutions, or between those institutions and units of State Government or organizations in the private sector, to maximize the development and use of resources such as faculty, facilities, and equipment to improve food and agricultural sciences teaching programs; and
   - **(4)** conduct undergraduate scholarship programs to assist in meeting national needs for training food and agricultural scientists.
 - **(b)**
-  - **(1)** The Secretary of Agriculture shall ensure that each eligible institution, prior to receiving grant funds under subsection (a), shall have a significant demonstrable commitment to higher education programs in the food and agricultural sciences and to each specific subject area for which grant funds under this section are to be used.
+  - **(1)** The Secretary of Agriculture shall ensure that each eligible institution, prior to receiving grant funds under subsection (a) of this section, shall have a significant demonstrable commitment to higher education programs in the food and agricultural sciences and to each specific subject area for which grant funds under this section are to be used.
   - **(2)** The Secretary of Agriculture may require that any grant awarded under this section contain provisions that require funds to be targeted to meet the needs identified in section 3101 of this title .
-- **(c)** There are authorized to be appropriated to carry out this section—
-  - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+- **(c)** There are authorized to be appropriated such sums as are necessary for each of the fiscal years 2002 through 2012 to carry out this section.

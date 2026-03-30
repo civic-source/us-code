@@ -3,18 +3,19 @@ title: "Section 9514 - Office of the Director"
 usc_title: 20
 usc_section: "9514"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9514"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-03-30T03:04:46.374Z"
+status: "active"
 ---
 
 # § 9514. Office of the Director
 
-- **(a)** Except as provided in subsection (b)(2), the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
+- **(a)** Except as provided in subsection (b)(2) of this section, the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
 - **(b)**
   - **(1)** The Director shall serve for a term of 6 years, beginning on the date of appointment of the Director.
   - **(2)** The President, without the advice and consent of the Senate, may appoint the Assistant Secretary for the Office of Educational Research and Improvement (as such office existed on the day before November 5, 2002 ) to serve as the first Director of the Institute.
-  - **(3)** The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a), other than a Director appointed under paragraph (2).
+  - **(3)** The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a) of this section, other than a Director appointed under paragraph (2).
 - **(c)** The Director shall receive the rate of basic pay for level II of the Executive Schedule.
 - **(d)** The Director shall be selected from individuals who are highly qualified authorities in the fields of scientifically valid research, statistics, or evaluation in education, as well as management within such areas, and have a demonstrated capacity for sustained productivity and leadership in these areas.
 - **(e)** The Director shall—
@@ -33,5 +34,5 @@ generated_at: "2026-03-30T02:54:48.226Z"
   - **(10)** To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educational field in the planning and carrying out of the Institute’s activities.
   - **(11)** To coordinate the wide dissemination of information on scientifically valid research.
   - **(12)** To carry out and support other activities consistent with the priorities and mission of the Institute.
-- **(g)** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. Chapter 10 of title 5 shall not apply to a peer-review group or an advisory committee established under this subsection.
+- **(g)** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer-review group or an advisory committee established under this subsection.
 - **(h)** The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.

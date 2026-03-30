@@ -3,9 +3,10 @@ title: "Section 5413 - Inspections and investigations for promulgation or enforc
 usc_title: 42
 usc_section: "5413"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5413"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-03-30T03:06:22.737Z"
+status: "active"
 ---
 
 # § 5413. Inspections and investigations for promulgation or enforcement of standards or execution of other duties
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
 - **(b)**
   - **(1)** For purposes of enforcement of this chapter, persons duly designated by the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, are authorized—
     - **(A)** to enter, at reasonable times and without advance notice, any factory, warehouse, or establishment in which manufactured homes are manufactured, stored, or held, for sale; and
-    - **(B)** to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c). Each such inspection shall be commenced and completed with reasonable promptness.
+    - **(B)** to inspect, at reasonable times and within reasonable limits and in a reasonable manner, any such factory, warehouse, or establishment, and to inspect such books, papers, records, and documents as are set forth in subsection (c) of this section. Each such inspection shall be commenced and completed with reasonable promptness.
   - **(2)** The Secretary is authorized to contract with State and local governments and private inspection organizations to carry out his functions under this subsection.
 - **(c)** For the purpose of carrying out the provisions of this chapter, the Secretary is authorized—
   - **(1)** to hold such hearings, take such testimony, sit and act at such times and places, administer such oaths, and require, by subpena or otherwise, the attendance and testimony of such witnesses and the production of such books, papers, correspondence, memorandums, contracts, agreements, or other records, as the Secretary or such officer or employee deems advisable. Witnesses summoned pursuant to this subsection shall be paid the same fees and mileage that are paid witnesses in the courts of the United States;
@@ -28,4 +29,4 @@ generated_at: "2026-03-30T02:56:11.235Z"
 - **(g)** Each manufacturer of manufactured homes shall provide to the Secretary such performance data and other technical data related to performance and safety as may be required to carry out the purposes of this chapter. These shall include records of tests and test results which the Secretary may require to be performed. The Secretary is authorized to require the manufacturer to give notification of such performance and technical data to—
   - **(1)** each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer’s manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
   - **(2)** the first person who purchases a manufactured home for purposes other than resale, at the time of such purchase or in printed matter placed in the manufactured home.
-- **(h)** All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+- **(h)** All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.

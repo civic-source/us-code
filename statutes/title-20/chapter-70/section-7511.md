@@ -3,9 +3,10 @@ title: "Section 7511 - Short title"
 usc_title: 20
 usc_section: "7511"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7511"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-03-30T03:04:46.363Z"
+status: "active"
 ---
 
 # § 7511. Short title

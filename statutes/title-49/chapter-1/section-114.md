@@ -3,40 +3,31 @@ title: "Section 114 - Transportation Security Administration"
 usc_title: 49
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 114"
-generated_at: "2026-03-30T02:56:19.295Z"
+generated_at: "2026-03-30T03:06:29.268Z"
+status: "active"
 ---
 
 # § 114. Transportation Security Administration
 
-- **(a)** The Transportation Security Administration shall be an administration of the Department of Homeland Security.
+- **(a)** The Transportation Security Administration shall be an administration of the Department of Transportation.
 - **(b)**
-  - **(1)**
-    - **(A)** The head of the Administration shall be the Administrator of the Transportation Security Administration (referred to in this section as the “Administrator”). The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
-    - **(B)** The Administrator must—
-      - **(i)** be a citizen of the United States; and
-      - **(ii)** have experience in a field directly related to transportation or security.
-    - **(C)** Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after the date of enactment of the TSA Modernization Act, the term of office of an individual appointed as the Administrator shall be 5 years. The term of office of an individual serving as the Administrator on the date of enactment of the TSA Modernization Act shall be 5 years beginning on the date that the Administrator began serving.
-  - **(2)**
-    - **(A)** There is established in the Transportation Security Administration a Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
-    - **(B)** The Deputy Administrator shall be Acting Administrator during the absence or incapacity of the Administrator or during a vacancy in the office of Administrator.
-    - **(C)** The Deputy Administrator must—
-      - **(i)** be a citizen of the United States; and
-      - **(ii)** have experience in a field directly related to transportation or security.
-  - **(3)**
-    - **(A)** There is established in the Transportation Security Administration a Chief Counsel, who shall advise the Administrator and other senior officials on all legal matters relating to the responsibilities, functions, and management of the Transportation Security Administration.
-    - **(B)** The Chief Counsel must be a citizen of the United States.
-- **(c)** The Administrator may not own stock in or bonds of a transportation or security enterprise or an enterprise that makes equipment that could be used for security purposes.
-- **(d)** The Administrator shall be responsible for security in all modes of transportation, including—
+  - **(1)** The head of the Administration shall be the Under Secretary of Transportation for Security. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+  - **(2)** The Under Secretary must—
+    - **(A)** be a citizen of the United States; and
+    - **(B)** have experience in a field directly related to transportation or security.
+  - **(3)** The term of office of an individual appointed as the Under Secretary shall be 5 years.
+- **(c)** The Under Secretary may not own stock in or bonds of a transportation or security enterprise or an enterprise that makes equipment that could be used for security purposes.
+- **(d)** The Under Secretary shall be responsible for security in all modes of transportation, including—
   - **(1)** carrying out chapter 449, relating to civil aviation security, and related research and development activities; and
   - **(2)** security responsibilities over other modes of transportation that are exercised by the Department of Transportation.
-- **(e)** The Administrator shall—
+- **(e)** The Under Secretary shall—
   - **(1)** be responsible for day-to-day Federal security screening operations for passenger air transportation and intrastate air transportation under sections 44901 and 44935;
   - **(2)** develop standards for the hiring and retention of security screening personnel;
   - **(3)** train and test security screening personnel; and
   - **(4)** be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening is required under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
-- **(f)** In addition to carrying out the functions specified in subsections (d) and (e), the Administrator shall—
+- **(f)** In addition to carrying out the functions specified in subsections (d) and (e), the Under Secretary shall—
   - **(1)** receive, assess, and distribute intelligence information related to transportation security;
   - **(2)** assess threats to transportation;
   - **(3)** develop policies, strategies, and plans for dealing with threats to transportation security;
@@ -50,76 +41,63 @@ generated_at: "2026-03-30T02:56:19.295Z"
   - **(11)** oversee the implementation, and ensure the adequacy, of security measures at airports and other transportation facilities;
   - **(12)** require background checks for airport security screening personnel, individuals with access to secure areas of airports, and other transportation security personnel;
   - **(13)** work in conjunction with the Administrator of the Federal Aviation Administration with respect to any actions or activities that may affect aviation safety or air carrier operations;
-  - **(14)** work with the International Civil Aviation Organization and appropriate aeronautic authorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation;
-  - **(15)** establish and maintain a National Deployment Office as required under section 44948 of this title ; and
-  - **(16)** carry out such other duties, and exercise such other powers, relating to transportation security as the Administrator considers appropriate, to the extent authorized by law.
+  - **(14)** work with the International Civil Aviation Organization and appropriate aeronautic authorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation; and
+  - **(15)** carry out such other duties, and exercise such other powers, relating to transportation security as the Under Secretary considers appropriate, to the extent authorized by law.
 - **(g)**
-  - **(1)** Subject to the direction and control of the Secretary of Homeland Security, the Administrator, during a national emergency, shall have the following responsibilities:
+  - **(1)** Subject to the direction and control of the Secretary, the Under Secretary, during a national emergency, shall have the following responsibilities:
     - **(A)** To coordinate domestic transportation, including aviation, rail, and other surface transportation, and maritime transportation (including port security).
     - **(B)** To coordinate and oversee the transportation-related responsibilities of other departments and agencies of the Federal Government other than the Department of Defense and the military departments.
     - **(C)** To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, including departments and agencies for transportation, law enforcement, and border control, about threats to transportation.
-    - **(D)** To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary of Homeland Security shall prescribe.
-  - **(2)** The authority of the Administrator under this subsection shall not supersede the authority of any other department or agency of the Federal Government under law with respect to transportation or transportation-related matters, whether or not during a national emergency.
-  - **(3)** The Secretary of Homeland Security shall prescribe the circumstances constituting a national emergency for purposes of this subsection.
-- **(h)** In consultation with the Transportation Security Oversight Board, the Administrator shall—
+    - **(D)** To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary shall prescribe.
+  - **(2)** The authority of the Under Secretary under this subsection shall not supersede the authority of any other department or agency of the Federal Government under law with respect to transportation or transportation-related matters, whether or not during a national emergency.
+  - **(3)** The Secretary shall prescribe the circumstances constituting a national emergency for purposes of this subsection.
+- **(h)** In consultation with the Transportation Security Oversight Board, the Under Secretary shall—
   - **(1)** enter into memoranda of understanding with Federal agencies or other entities to share or otherwise cross-check as necessary data on individuals identified on Federal agency databases who may pose a risk to transportation or national security;
   - **(2)** establish procedures for notifying the Administrator of the Federal Aviation Administration, appropriate State and local law enforcement officials, and airport or airline security officers of the identity of individuals known to pose, or suspected of posing, a risk of air piracy or terrorism or a threat to airline or passenger safety;
   - **(3)** in consultation with other appropriate Federal agencies and air carriers, establish policies and procedures requiring air carriers—
     - **(A)** to use information from government agencies to identify individuals on passenger lists who may be a threat to civil aviation or national security; and
     - **(B)** if such an individual is identified, notify appropriate law enforcement agencies, prevent the individual from boarding an aircraft, or take other appropriate action with respect to that individual; and
   - **(4)** consider requiring passenger air carriers to share passenger lists with appropriate Federal agencies for the purpose of identifying individuals who may pose a threat to aviation safety or national security.
-- **(i)** In taking any action under this section that could affect safety, the Administrator shall give great weight to the timely views of the National Transportation Safety Board.
+- **(i)** In taking any action under this section that could affect safety, the Under Secretary shall give great weight to the timely views of the National Transportation Safety Board.
 - **(j)**
-  - **(1)** The Administrator is authorized—
-    - **(A)** to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Administrator considers necessary;
-    - **(B)** to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Administrator considers necessary;
+  - **(1)** The Under Secretary is authorized—
+    - **(A)** to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
+    - **(B)** to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
     - **(C)** to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
-    - **(D)** to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
+    - **(D)** to acquire services, including such personal services as the Secretary determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
     - **(E)** in cooperation with the Administrator of the Federal Aviation Administration, to utilize the research and development facilities of the Federal Aviation Administration.
   - **(2)** Title to any property or interest therein acquired pursuant to this subsection shall be held by the Government of the United States.
-- **(k)** The Administrator is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in section 551(1) of title 5 ) to carry out functions assigned by law to the Administrator.
+- **(k)** The Under Secretary is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in section 551(1) of title 5 ) to carry out functions transferred, on or after the date of enactment of the Aviation and Transportation Security Act, by law to the Under Secretary.
 - **(l)**
-  - **(1)** The Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out the functions of the Administration.
+  - **(1)** The Under Secretary is authorized to issue, rescind, and revise such regulations as are necessary to carry out the functions of the Administration.
   - **(2)**
-    - **(A)** Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Administrator determines that a regulation or security directive must be issued immediately in order to protect transportation security, the Administrator shall issue the regulation or security directive without providing notice or an opportunity for comment and without prior approval of the Secretary.
-    - **(B)** Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective for a period not to exceed 90 days unless ratified or disapproved by the Board or rescinded by the Administrator.
-  - **(3)** In determining whether to issue, rescind, or revise a regulation under this section, the Administrator shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Administrator may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Administrator determines that it is not feasible to make such an estimate.
+    - **(A)** Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Under Secretary determines that a regulation or security directive must be issued immediately in order to protect transportation security, the Under Secretary shall issue the regulation or security directive without providing notice or an opportunity for comment and without prior approval of the Secretary.
+    - **(B)** Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective for a period not to exceed 90 days unless ratified or disapproved by the Board or rescinded by the Under Secretary.
+  - **(3)** In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
   - **(4)**
-    - **(A)** The Administrator shall not take an aviation security action under this title if the Administrator of the Federal Aviation Administration notifies the Administrator that the action could adversely affect the airworthiness of an aircraft.
-    - **(B)** Notwithstanding subparagraph (A), the Administrator may take such an action, after receiving a notification concerning the action from the Administrator of the Federal Aviation Administration under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
+    - **(A)** The Under Secretary shall not take an aviation security action under this title if the Administrator of the Federal Aviation Administration notifies the Under Secretary that the action could adversely affect the airworthiness of an aircraft.
+    - **(B)** Notwithstanding subparagraph (A), the Under Secretary may take such an action, after receiving a notification concerning the action from the Administrator under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
 - **(m)**
-  - **(1)** In carrying out the functions of the Administration, the Administrator shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections ( l ) and (m) of section 106.
-  - **(2)** The head of a Federal agency shall have the same authority to provide services, supplies, equipment, personnel, and facilities to the Administrator as the head has to provide services, supplies, equipment, personnel, and facilities to the Administrator of the Federal Aviation Administration under section 106(m).
-- **(n)**
-  - **(1)** The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Administrator may make such modifications to the personnel management system with respect to such employees as the Administrator considers appropriate, such as adopting aspects of other personnel systems of the Department of Homeland Security.
-  - **(2)** Notwithstanding section 40122(g)(2) of this title , the applicable sections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
-    - **(A)** for purposes of applying such provisions to the personnel management system—
-      - **(i)** the term “agency” means the Department of Homeland Security;
-      - **(ii)** the term “senior executive” means a Transportation Security Administration executive serving on a Transportation Security Executive Service appointment;
-      - **(iii)** the term “career appointee” means a Transportation Security Administration executive serving on a career Transportation Security Executive Service appointment; and
-      - **(iv)** The 1 1 So in original. Probably should not be capitalized. term “senior career employee” means a Transportation Security Administration employee covered by the Transportation Security Administration Core Compensation System at the L or M pay band;
-    - **(B)** receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system; and
-    - **(C)** receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
-  - **(3)** In this subsection, the term “applicable sections of title 5” means—
-    - **(A)** subsections (b), (c) and (d) of section 4507 of title 5 ; and
-    - **(B)** subsections (b) and (c) of section 4507a of title 5 .
-- **(o)** The Transportation Security Administration shall be subject to chapter 4 of title 5 and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
+  - **(1)** In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections ( l ) and (m) of section 106.
+  - **(2)** The head of a Federal agency shall have the same authority to provide services, supplies, equipment, personnel, and facilities to the Under Secretary as the head has to provide services, supplies, equipment, personnel, and facilities to the Administrator of the Federal Aviation Administration under section 106(m).
+- **(n)** The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
+- **(o)** The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Transportation.
 - **(p)**
-  - **(1)** The Administrator may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
+  - **(1)** The Under Secretary may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
   - **(2)** While engaged in official duties of the Administration as required to fulfill the responsibilities under this section, a law enforcement officer designated under paragraph (1) may—
     - **(A)** carry a firearm;
     - **(B)** make an arrest without a warrant for any offense against the United States committed in the presence of the officer, or for any felony cognizable under the laws of the United States if the officer has probable cause to believe that the person to be arrested has committed or is committing the felony; and
     - **(C)** seek and execute warrants for arrest or seizure of evidence issued under the authority of the United States upon probable cause that a violation has been committed.
-  - **(3)** The authority provided by this subsection shall be exercised in accordance with guidelines prescribed by the Administrator, in consultation with the Attorney General of the United States, and shall include adherence to the Attorney General’s policy on use of deadly force.
-  - **(4)** The powers authorized by this subsection may be rescinded or suspended should the Attorney General determine that the Administrator has not complied with the guidelines prescribed in paragraph (3) and conveys the determination in writing to the Secretary of Homeland Security and the Administrator.
-- **(q)** The Administrator may grant an exemption from a regulation prescribed in carrying out this section if the Administrator determines that the exemption is in the public interest.
+  - **(3)** The authority provided by this subsection shall be exercised in accordance with guidelines prescribed by the Under Secretary, in consultation with the Attorney General of the United States, and shall include adherence to the Attorney General’s policy on use of deadly force.
+  - **(4)** The powers authorized by this subsection may be rescinded or suspended should the Attorney General determine that the Under Secretary has not complied with the guidelines prescribed in paragraph (3) and conveys the determination in writing to the Secretary of Transportation and the Under Secretary.
+- **(q)** The Under Secretary may grant an exemption from a regulation prescribed in carrying out this section if the Under Secretary determines that the exemption is in the public interest.
 - **(r)**
-  - **(1)** Notwithstanding section 552 of title 5 , the Administrator shall prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act ( Public Law 107–71 ) or under chapter 449 of this title if the Administrator decides that disclosing the information would—
+  - **(1)** Notwithstanding section 552 of title 5 , the Under Secretary shall prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act ( Public Law 107–71 ) or under chapter 449 of this title if the Under Secretary decides that disclosing the information would—
     - **(A)** be an unwarranted invasion of personal privacy;
     - **(B)** reveal a trade secret or privileged or confidential commercial or financial information; or
     - **(C)** be detrimental to the security of transportation.
   - **(2)** Paragraph (1) does not authorize information to be withheld from a committee of Congress authorized to have the information.
-  - **(3)** Except as otherwise provided by law, the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
+  - **(3)** Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
   - **(4)** Nothing in this subsection, or any other provision of law, shall be construed to authorize the designation of information as sensitive security information (as defined in section 1520.5 of title 49, Code of Federal Regulations)—
     - **(A)** to conceal a violation of law, inefficiency, or administrative error;
     - **(B)** to prevent embarrassment to a person, organization, or agency;
@@ -132,7 +110,7 @@ generated_at: "2026-03-30T02:56:19.295Z"
   - **(2)** The Secretary of Homeland Security shall work jointly with the Secretary of Transportation in developing, revising, and updating the documents required by paragraph (1).
   - **(3)** The National Strategy for Transportation Security shall include the following:
     - **(A)** An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
-    - **(B)** The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007) across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
+    - **(B)** The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 1 1 So in original. Probably should be followed by a closing parenthesis. across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
     - **(C)** The most appropriate, practical, and cost-effective means of defending those assets against threats to their security.
     - **(D)** A forward-looking strategic plan that sets forth the agreed upon roles and missions of Federal, State, regional, local, and tribal authorities and establishes mechanisms for encouraging cooperation and participation by private sector entities, including nonprofit employee labor organizations, in the implementation of such plan.
     - **(E)** A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems.
@@ -141,16 +119,17 @@ generated_at: "2026-03-30T02:56:19.295Z"
     - **(H)** Methods for linking the individual transportation modal security plans and the programs contained therein, and a plan for addressing the security needs of intermodal transportation.
     - **(I)** Transportation modal security plans described in paragraph (1)(B), including operational recovery plans to expedite, to the maximum extent practicable, the return to operation of an adversely affected transportation system following a major terrorist attack on that system or other incident. These plans shall be coordinated with the resumption of trade protocols required under section 202 of the SAFE Port Act ( 6 U.S.C. 942 ) and the National Maritime Transportation Security Plan required under section 70103(a) of title 46 .
   - **(4)**
-    - **(A)** The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans and any revisions to the National Strategy for Transportation Security and the transportation modal security plans, to appropriate congressional committees not less frequently than April 1 of each even-numbered year.
-    - **(B)**
+    - **(A)** The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005 .
+    - **(B)** After December 31, 2005 , the Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans and any revisions to the National Strategy for Transportation Security and the transportation modal security plans, to appropriate congressional committees not less frequently than April 1 of each even-numbered year.
+    - **(C)**
       - **(i)** Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31 , United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progress made on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
       - **(ii)** Each progress report submitted under this subparagraph shall include, at a minimum, the following:
         - **(I)** Recommendations for improving and implementing the National Strategy for Transportation Security and the transportation modal and intermodal security plans that the Secretary of Homeland Security, in consultation with the Secretary of Transportation, considers appropriate.
         - **(II)** An accounting of all grants for transportation security, including grants and contracts for research and development, awarded by the Secretary of Homeland Security in the most recent fiscal year and a description of how such grants accomplished the goals of the National Strategy for Transportation Security.
         - **(III)** An accounting of all—
       - **(iii)** At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
-    - **(C)** Any part of the National Strategy for Transportation Security or the transportation modal security plans that involve information that is properly classified under criteria established by Executive order shall be submitted to the appropriate congressional committees separately in a classified format.
-    - **(D)** In this subsection, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+    - **(D)** Any part of the National Strategy for Transportation Security or the transportation modal security plans that involve information that is properly classified under criteria established by Executive order shall be submitted to the appropriate congressional committees separately in a classified format.
+    - **(E)** In this subsection, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
   - **(5)**
     - **(A)** The National Strategy for Transportation Security shall be the governing document for Federal transportation security efforts.
     - **(B)** The National Strategy for Transportation Security shall include, as an integral part or as an appendix—
@@ -161,121 +140,88 @@ generated_at: "2026-03-30T02:56:19.295Z"
       - **(v)** any other transportation security plan or report that the Secretary of Homeland Security determines appropriate for inclusion.
   - **(6)** In carrying out the responsibilities under this section, the Secretary of Homeland Security, in coordination with the Secretary of Transportation, shall consult, as appropriate, with Federal, State, and local agencies, tribal governments, private sector entities (including nonprofit employee labor organizations), institutions of higher learning, and other entities.
   - **(7)** The Secretary of Homeland Security shall make available and appropriately publicize an unclassified version of the National Strategy for Transportation Security, including its component transportation modal security plans, to Federal, State, regional, local and tribal authorities, transportation system owners or operators, private sector stakeholders, including nonprofit employee labor organizations representing transportation employees, institutions of higher learning, and other appropriate entities.
-- **(t)**
+- **(u)**
   - **(1)** In this subsection:
-    - **(A)** The term “appropriate congressional committees” has the meaning given that term in subsection (s)(4)(E).
+    - **(A)** The term “appropriate congressional committees” has the meaning given that term in subsection (t). 3 3 So in original. Probably should be “subsection (s).”.
     - **(B)** The term “Plan” means the Transportation Security Information Sharing Plan established under paragraph (2).
     - **(C)** The term “public and private stakeholders” means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
-    - **(D)** The term “transportation security information” means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
-  - **(2)** The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary of Homeland Security shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ).
+    - **(D)** The term “Secretary” means the Secretary of Homeland Security.
+    - **(E)** The term “transportation security information” means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
+  - **(2)** The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ).
   - **(3)** The Plan shall promote sharing of transportation security information between the Department of Homeland Security and public and private stakeholders.
   - **(4)** The Plan shall include—
     - **(A)** a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
-    - **(B)** the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department of Homeland Security that has the primary authority, or has been delegated such authority by the Secretary of Homeland Security, to regulate the security of that transportation mode;
+    - **(B)** the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
     - **(C)** a reasonable deadline by which the Plan will be implemented; and
     - **(D)** a description of resource needs for fulfilling the Plan.
   - **(5)** The Plan shall be—
     - **(A)** implemented in coordination, as appropriate, with the program manager for the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ); and
     - **(B)** consistent with the establishment of the information sharing environment and any policies, guidelines, procedures, instructions, or standards established by the President or the program manager for the implementation and management of the information sharing environment.
-  - **(6)** The Secretary of Homeland Security shall annually submit to the appropriate congressional committees a report containing the Plan.
-  - **(7)** The Secretary of Homeland Security shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
-  - **(8)** The Secretary of Homeland Security, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
-- **(u)**
+  - **(6)**
+    - **(A)** Not later than 150 days after the date of enactment of this subsection, and annually thereafter, the Secretary shall submit to the appropriate congressional committees, a report containing the Plan.
+    - **(B)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall submit to the appropriate congressional committees a report on updates to and the implementation of the Plan.
+  - **(7)**
+    - **(A)** The Comptroller General of the United States shall conduct a biennial survey of the satisfaction of recipients of transportation intelligence reports disseminated under the Plan.
+    - **(B)** The survey conducted under subparagraph (A) shall seek information about the quality, speed, regularity, and classification of the transportation security information products disseminated by the Department of Homeland Security to public and private stakeholders.
+    - **(C)** Not later than 1 year after the date of the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, and every even numbered year thereafter, the Comptroller General shall submit to the appropriate congressional committees, a report on the results of the survey conducted under subparagraph (A). The Comptroller General shall also provide a copy of the report to the Secretary.
+  - **(8)** The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
+  - **(9)** The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
+- **(v)**
   - **(1)**
     - **(A)** This subsection applies to the enforcement of regulations prescribed, and orders issued, by the Secretary of Homeland Security under a provision of chapter 701 of title 46 and under a provision of this title other than a provision of chapter 449 (in this subsection referred to as an “applicable provision of this title”).
-    - **(B)** The penalties for violations of regulations prescribed and orders issued by the Secretary of Homeland Security or the Administrator under chapter 449 of this title are provided under chapter 463 of this title.
+    - **(B)** The penalties for violations of regulations prescribed and orders issued by the Secretary of Homeland Security under chapter 449 of this title are provided under chapter 463 of this title.
     - **(C)**
       - **(i)** Paragraphs (2) through (5) do not apply to violations of regulations prescribed, and orders issued, by the Secretary of Homeland Security under a provision of this title—
         - **(I)** involving the transportation of personnel or shipments of materials by contractors where the Department of Defense has assumed control and responsibility;
         - **(II)** by a member of the armed forces of the United States when performing official duties; or
         - **(III)** by a civilian employee of the Department of Defense when performing official duties.
-      - **(ii)** Violations described in subclause (I), (II), or (III) of clause (i) shall be subject to penalties as determined by the Secretary of Defense or the Secretary of Defense’s designee.
+      - **(ii)** Violations described in subclause (I), (II), or (III) of clause (i) shall be subject to penalties as determined by the Secretary of Defense or the Secretary’s designee.
   - **(2)**
     - **(A)** A person is liable to the United States Government for a civil penalty of not more than $10,000 for a violation of a regulation prescribed, or order issued, by the Secretary of Homeland Security under an applicable provision of this title.
     - **(B)** A separate violation occurs under this paragraph for each day the violation continues.
   - **(3)**
     - **(A)** The Secretary of Homeland Security may impose a civil penalty for a violation of a regulation prescribed, or order issued, under an applicable provision of this title. The Secretary shall give written notice of the finding of a violation and the penalty.
-    - **(B)** In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security under this subsection, a court may not re-examine issues of liability or the amount of the penalty.
-    - **(C)** The district courts of the United States shall have exclusive jurisdiction of civil actions to collect a civil penalty imposed by the Secretary of Homeland Security under this subsection if—
+    - **(B)** In a civil action to collect a civil penalty imposed by the Secretary under this subsection, a court may not re-examine issues of liability or the amount of the penalty.
+    - **(C)** The district courts of the United States shall have exclusive jurisdiction of civil actions to collect a civil penalty imposed by the Secretary under this subsection if—
       - **(i)** the amount in controversy is more than—
         - **(I)** $400,000, if the violation was committed by a person other than an individual or small business concern; or
         - **(II)** $50,000 if the violation was committed by an individual or small business concern;
       - **(ii)** the action is in rem or another action in rem based on the same violation has been brought; or
       - **(iii)** another action has been brought for an injunction based on the same violation.
-    - **(D)** The maximum civil penalty the Secretary of Homeland Security administratively may impose under this paragraph is—
+    - **(D)** The maximum civil penalty the Secretary administratively may impose under this paragraph is—
       - **(i)** $400,000, if the violation was committed by a person other than an individual or small business concern; or
       - **(ii)** $50,000, if the violation was committed by an individual or small business concern.
-    - **(E)** Before imposing a penalty under this section the Secretary of Homeland Security shall provide to the person against whom the penalty is to be imposed—
+    - **(E)** Before imposing a penalty under this section the Secretary shall provide to the person against whom the penalty is to be imposed—
       - **(i)** written notice of the proposed penalty; and
-      - **(ii)** the opportunity to request a hearing on the proposed penalty, if the Secretary of Homeland Security receives the request not later than 30 days after the date on which the person receives notice.
+      - **(ii)** the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 days after the date on which the person receives notice.
   - **(4)**
-    - **(A)** The Secretary of Homeland Security may compromise the amount of a civil penalty imposed under this subsection.
+    - **(A)** The Secretary may compromise the amount of a civil penalty imposed under this subsection.
     - **(B)** The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
-  - **(5)** Chapter 461 shall apply to investigations and proceedings brought under this subsection to the same extent that it applies to investigations and proceedings brought with respect to aviation security duties designated to be carried out by the Secretary of Homeland Security.
+  - **(5)** Chapter 461 shall apply to investigations and proceedings brought under this subsection to the same extent that it applies to investigations and proceedings brought with respect to aviation security duties designated to be carried out by the Secretary.
   - **(6)** In this subsection:
     - **(A)** The term “person” does not include—
       - **(i)** the United States Postal Service; or
       - **(ii)** the Department of Defense.
     - **(B)** The term “small business concern” has the meaning given that term in section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(7)**
-    - **(A)** The Secretary of Homeland Security shall—
+    - **(A)** Not later than December 31, 2008 , and annually thereafter, the Secretary shall—
       - **(i)** provide an annual summary to the public of all enforcement actions taken by the Secretary under this subsection; and
       - **(ii)** include in each such summary the docket number of each enforcement action, the type of alleged violation, the penalty or penalties proposed, and the final assessment amount of each penalty.
     - **(B)** Each summary under this paragraph shall be made available to the public by electronic means.
     - **(C)** Nothing in this subsection shall be construed to require disclosure of information or records that are exempt from disclosure under sections 552 or 552a of title 5.
-- **(v)** There are authorized to be appropriated to the Transportation Security Administration for salaries, operations, and maintenance of the Administration—
-  - **(1)** $7,849,247,000 for fiscal year 2019;
-  - **(2)** $7,888,494,000 for fiscal year 2020; and
-  - **(3)** $7,917,936,000 for fiscal year 2021.
-- **(w)**
-  - **(1)** For each of the areas described in paragraph (2), the Administrator of the Transportation Security Administration shall appoint at least 1 individual who shall—
-    - **(A)** report directly to the Administrator or the Administrator’s designated direct report; and
-    - **(B)** be responsible and accountable for that area.
-  - **(2)** The areas described in this paragraph are as follows:
-    - **(A)** Aviation security operations and training, including risk-based, adaptive security—
-      - **(i)** focused on airport checkpoint and baggage screening operations;
-      - **(ii)** workforce training and development programs; and
-      - **(iii)** ensuring compliance with aviation security law, including regulations, and other specialized programs designed to secure air transportation.
-    - **(B)** Surface transportation security operations and training, including risk-based, adaptive security—
-      - **(i)** focused on accomplishing security systems assessments;
-      - **(ii)** reviewing and prioritizing projects for appropriated surface transportation security grants;
-      - **(iii)** operator compliance with surface transportation security law, including regulations, and voluntary industry standards; and
-      - **(iv)** workforce training and development programs, and other specialized programs designed to secure surface transportation.
-    - **(C)** Transportation industry engagement and planning, including the development, interpretation, promotion, and oversight of a unified effort regarding risk-based, risk-reducing security policies and plans (including strategic planning for future contingencies and security challenges) between government and transportation stakeholders, including airports, domestic and international airlines, general aviation, air cargo, mass transit and passenger rail, freight rail, pipeline, highway and motor carriers, and maritime.
-    - **(D)** International strategy and operations, including agency efforts to work with international partners to secure the global transportation network.
-    - **(E)** Trusted and registered traveler programs, including the management and marketing of the agency’s trusted traveler initiatives, including the PreCheck Program, and coordination with trusted traveler programs of other Department of Homeland Security agencies and the private sector.
-    - **(F)** Technology acquisition and deployment, including the oversight, development, testing, evaluation, acquisition, deployment, and maintenance of security technology and other acquisition programs.
-    - **(G)** Inspection and compliance, including the integrity, efficiency and effectiveness of the agency’s workforce, operations, and programs through objective audits, covert testing, inspections, criminal investigations, and regulatory compliance.
-    - **(H)** Civil rights, liberties, and traveler engagement, including ensuring that agency employees and the traveling public are treated in a fair and lawful manner consistent with Federal laws and regulations protecting privacy and prohibiting discrimination and reprisal.
-    - **(I)** Legislative and public affairs, including communication and engagement with internal and external audiences in a timely, accurate, and transparent manner, and development and implementation of strategies within the agency to achieve congressional approval or authorization of agency programs and policies.
-  - **(3)** The Administrator shall submit to the appropriate committees of Congress—
-    - **(A)** not later than 180 days after the date of enactment of the TSA Modernization Act, a list of the names of the individuals appointed under paragraph (1); and
-    - **(B)** an update of the list not later than 5 days after any new individual is appointed under paragraph (1).
-- **(x)**
-  - **(1)** Not later than two years after the date of the enactment of this subsection, the Secretary of Homeland Security, acting through the Administrator, in coordination with the Chief Medical Officer of the Department of Homeland Security, and in consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), shall develop a transportation security preparedness plan to address the event of a communicable disease outbreak. The Secretary, acting through the Administrator, shall ensure such plan aligns with relevant Federal plans and strategies for communicable disease outbreaks.
-  - **(2)** In developing the plan required under paragraph (1), the Secretary, acting through the Administrator, shall consider each of the following:
-    - **(A)** The findings of the survey required under section 6411 of the National Defense Authorization Act for Fiscal Year 2022.
-    - **(B)** The findings of the analysis required under section 6414 of the National Defense Authorization Act for Fiscal Year 2022.
-    - **(C)** The plan required under section 6415 of the National Defense Authorization Act for Fiscal Year 2022.
-    - **(D)** All relevant reports and recommendations regarding the Administration’s response to the COVID–19 pandemic, including any reports and recommendations issued by the Comptroller General and the Inspector General of the Department of Homeland Security.
-    - **(E)** Lessons learned from Federal interagency efforts during the COVID–19 pandemic.
-  - **(3)** The plan developed under paragraph (1) shall include each of the following:
-    - **(A)** Plans for communicating and collaborating in the event of a communicable disease outbreak with the following partners:
-      - **(i)** Appropriate Federal departments and agencies, including the Department of Health and Human Services, the Centers for Disease Control and Prevention, the Department of Transportation, the Department of Labor, and appropriate interagency task forces.
-      - **(ii)** The workforce of the Administration, including through the labor organization certified as the exclusive representative of full- and part-time non-supervisory Administration personnel carrying out screening functions under section 44901 of this title .
-      - **(iii)** International partners, including the International Civil Aviation Organization and foreign governments, airports, and air carriers.
-      - **(iv)** Public and private stakeholders, as such term is defined under subsection (t)(1)(C).
-      - **(v)** The traveling public.
-    - **(B)** Plans for protecting the safety of the Transportation Security Administration workforce, including—
-      - **(i)** reducing the risk of communicable disease transmission at screening checkpoints and within the Administration’s workforce related to the Administration’s transportation security operations and mission;
-      - **(ii)** ensuring the safety and hygiene of screening checkpoints and other workstations;
-      - **(iii)** supporting equitable and appropriate access to relevant vaccines, prescriptions, and other medical care; and
-      - **(iv)** tracking rates of employee illness, recovery, and death.
-    - **(C)** Criteria for determining the conditions that may warrant the integration of additional actions in the aviation screening system in response to the communicable disease outbreak and a range of potential roles and responsibilities that align with such conditions.
-    - **(D)** Contingency plans for temporarily adjusting checkpoint operations to provide for passenger and employee safety while maintaining security during the communicable disease outbreak.
-    - **(E)** Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform with other appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
-    - **(F)** A description of scenarios in which the Administrator should consider exercising authorities provided under subsection (g) and for what purposes.
-    - **(G)** Considerations for assessing the appropriateness of issuing security directives and emergency amendments to regulated parties in various modes of transportation, including surface transportation, and plans for ensuring compliance with such measures.
-    - **(H)** A description of any potential obstacles, including funding constraints and limitations to authorities, that could restrict the ability of the Administration to respond appropriately to a communicable disease outbreak.
-  - **(4)** Upon development of the plan required under paragraph (1), the Administrator shall disseminate the plan to the partners identified under paragraph (3)(A) and to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate.
-  - **(5)** Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
+    - **(D)** Not later than 180 days after the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary shall provide a report to the public describing the enforcement process established under this subsection.
+- **(w)** There are authorized to be appropriated to the Secretary of Homeland Security for—
+  - **(1)** railroad security—
+    - **(A)** $488,000,000 for fiscal year 2008;
+    - **(B)** $483,000,000 for fiscal year 2009;
+    - **(C)** $508,000,000 for fiscal year 2010; and
+    - **(D)** $508,000,000 for fiscal year 2011;
+  - **(2)** over-the-road bus and trucking security—
+    - **(A)** $14,000,000 for fiscal year 2008;
+    - **(B)** $27,000,000 for fiscal year 2009;
+    - **(C)** $27,000,000 for fiscal year 2010; and
+    - **(D)** $27,000,000 for fiscal year 2011; and
+  - **(3)** hazardous material and pipeline security—
+    - **(A)** $12,000,000 for fiscal year 2008;
+    - **(B)** $12,000,000 for fiscal year 2009; and
+    - **(C)** $12,000,000 for fiscal year 2010.

@@ -1,12 +1,15 @@
 ---
-title: "Section 767 - Omitted"
+title: "Section 767 - Legal claims barred for lands lost through tax or other sales since September 1, 1954"
 usc_title: 25
 usc_section: "767"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 767"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.855Z"
+status: "active"
 ---
 
-# § 767. Omitted
+# § 767. Legal claims barred for lands lost through tax or other sales since September 1, 1954
+
+Any legal claims for lands owned by the Shivwits, Kanosh, Koosharem, or Indian Peaks Bands of Paiute Indians of Utah and lost through tax sales or any other sales to individuals, corporations, or the State of Utah since September 1, 1954 , are hereby barred.
 

@@ -3,9 +3,10 @@ title: "Section 4051 - Requirement of prior authorization"
 usc_title: 15
 usc_section: "4051"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4051"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-03-30T03:04:31.225Z"
+status: "active"
 ---
 
 # § 4051. Requirement of prior authorization
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
 - **(a)** Notwithstanding any other provision of law, money appropriated to the Department of Commerce for expenses to carry out any export promotion program may be obligated or expended only if—
   - **(1)** the appropriation thereof has been previously authorized by law enacted on or after July 12, 1985 ; or
   - **(2)** the amount of all such obligations and expenditures does not exceed an amount previously prescribed by law enacted on or after such date.
-- **(b)** To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) shall have no effect.
+- **(b)** To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) of this section shall have no effect.
 - **(c)** The provisions of this section shall not be superseded except by a provision of law enacted after July 12, 1985 , which specifically repeals, modifies, or supersedes the provisions of this section.
 - **(d)** For purposes of this subchapter, the term “export promotion program” means any activity of the Department of Commerce designed to stimulate or assist United States businesses in marketing their goods and services abroad competitively with businesses from other countries, including, but not limited to—
   - **(1)** trade development (except for the trade adjustment assistance program) and dissemination of foreign marketing opportunities and other marketing information to United States producers of goods and services, including the expansion of foreign markets for United States textiles and apparel and any other United States products;

@@ -3,9 +3,10 @@ title: "Section 1913 - Compliance reports"
 usc_title: 33
 usc_section: "1913"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1913"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-03-30T03:05:36.290Z"
+status: "active"
 ---
 
 # § 1913. Compliance reports
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:55:41.110Z"
   - **(2)** an alternative schedule for achieving that compliance as rapidly as is technologically feasible;
   - **(3)** the ships operated or contracted for operation by the agency for which full compliance with section 3(b)(2)(A) [ 33 U.S.C. 1902(b)(2)(A) ] is not technologically feasible; and
   - **(4)** any other information which the agency head considers relevant and appropriate.
-- **(c)** Upon receipt of the compliance report under subsection (b), the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [ 33 U.S.C. 1902(b)(1)(A) ], as may be appropriate with respect to the requirements of Annex V to the Convention.
+- **(c)** Upon receipt of the compliance report under subsection (b) of this section, the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [ 33 U.S.C. 1902(b)(1)(A) ], as may be appropriate with respect to the requirements of Annex V to the Convention.

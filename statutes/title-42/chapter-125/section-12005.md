@@ -3,9 +3,10 @@ title: "Section 12005 - Demonstration and commercial application projects"
 usc_title: 42
 usc_section: "12005"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12005"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-03-30T03:06:22.894Z"
+status: "active"
 ---
 
 # § 12005. Demonstration and commercial application projects
@@ -13,14 +14,14 @@ generated_at: "2026-03-30T02:56:11.407Z"
 - **(a)** The purpose of this section is to direct the Secretary to further the commercialization of renewable energy and energy efficiency technologies through a five-year program.
 - **(b)**
   - **(1)**
-    - **(A)** The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c). Such projects may include projects for—
+    - **(A)** The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c) of this section. Such projects may include projects for—
       - **(i)** the production and sale of electricity, thermal energy, or other forms of energy using a renewable energy technology;
       - **(ii)** increasing the efficiency of energy use; and
       - **(iii)** improvements in, or expansion of, facilities for the manufacture of renewable energy or energy efficiency technologies.
     - **(B)** Each project selected under this section shall include at least one for-profit business. Activities supported under this section shall be performed in the United States. Each project under this section shall require the manufacture and reproduction substantially within the United States for commercial sale of any invention or product that may result from the project.
   - **(2)**
-    - **(A)** In supporting projects selected under subsection (c), the Secretary may choose from among the forms of agreements described in section 13541 of this title .
-    - **(B)** In supporting projects selected under subsection (c), the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
+    - **(A)** In supporting projects selected under subsection (c) of this section, the Secretary may choose from among the forms of agreements described in section 13541 of this title .
+    - **(B)** In supporting projects selected under subsection (c) of this section, the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
   - **(3)** Cost sharing for projects under this section shall be conducted according to the procedures described in section 13542(b) and (c) of this title.
   - **(4)**
     - **(A)** The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—

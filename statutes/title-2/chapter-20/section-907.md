@@ -3,9 +3,10 @@ title: "Section 907 - The baseline"
 usc_title: 2
 usc_section: "907"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 907"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-03-30T03:04:04.428Z"
+status: "active"
 ---
 
 # § 907. The baseline
@@ -15,13 +16,13 @@ generated_at: "2026-03-30T02:53:04.806Z"
   - **(1)** Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
   - **(2)**
     - **(A)**
-      - **(i)** No program established by a law enacted on or before August 5, 1997 , with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differences between CBO and OMB.
+      - **(i)** No program established by a law enacted on or before August 5, 1997 , with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes 1 1 So in original. Probably should be “differences”. between CBO and OMB.
       - **(ii)** On the expiration of the suspension of a provision of law that is suspended under section 7301 of title 7 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
     - **(B)** The increase for veterans’ compensation for a fiscal year is assumed to be the same as that required by law for veterans’ pensions unless otherwise provided by law enacted in that session.
     - **(C)** Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
     - **(D)** If any law expires before the budget year or any outyear, then any program with estimated current year outlays greater than $50,000,000 that operates under that law shall be assumed to continue to operate under that law as in effect immediately before its expiration.
   - **(3)** Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
-- **(c)** For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
+- **(c)** For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
   - **(1)** Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account for changes required by law in the level of agency payments for personnel benefits other than pay.
   - **(2)** New budget authority to renew expiring multiyear subsidized housing contracts shall be adjusted to reflect the difference in the number of such contracts that are scheduled to expire in that fiscal year and the number expiring in the current year, with the per-contract renewal cost equal to the average current-year cost of renewal contracts.
   - **(3)** Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.

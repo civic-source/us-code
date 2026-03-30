@@ -3,14 +3,15 @@ title: "Section 3801 - Definitions"
 usc_title: 16
 usc_section: "3801"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3801"
-generated_at: "2026-03-30T02:54:23.021Z"
+generated_at: "2026-03-30T03:04:48.608Z"
+status: "active"
 ---
 
 # § 3801. Definitions
 
-- **(a)** For purposes of subchapters I through VIII:
+- **(a)** For purposes of subchapters I through V of this chapter:
   - **(1)** The term “agricultural commodity” means—
     - **(A)** any agricultural commodity planted and produced in a State by annual tilling of the soil, including tilling by one-trip planters; or
     - **(B)** sugarcane planted and produced in a State.
@@ -51,18 +52,18 @@ generated_at: "2026-03-30T02:54:23.021Z"
   - **(13)** The term “hydrophytic vegetation” means a plant growing in—
     - **(A)** water; or
     - **(B)** a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
-  - **(14)** The term “Indian tribe” has the meaning given the term in section 5304(e) of title 25 .
-  - **(15)** The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV.
+  - **(14)** The term “Indian tribe” has the meaning given the term in section 450b(e) of title 25 .
+  - **(15)** The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
   - **(16)** The term “integrated pest management” means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
   - **(17)** The term “livestock” means all animals raised on farms, as determined by the Secretary.
   - **(18)** The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
     - **(A)** has existing tree cover or is suitable for growing trees; and
     - **(B)** is owned by any nonindustrial private individual, group, association, corporation, Indian tribe, or other private legal entity that has definitive decisionmaking authority over the land.
   - **(19)** For purposes of applying payment limitations under subchapter IV, the terms “person” and “legal entity” have the meanings given those terms in section 1308(a) of title 7 .
-  - **(20)** The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV.
+  - **(20)** The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
   - **(21)** The term “Secretary” means the Secretary of Agriculture.
   - **(22)** The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
-  - **(23)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e)(2) 1 1 See References in Text note below. of title 7.
+  - **(23)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e)(2) of title 7 .
   - **(24)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
   - **(25)** The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
     - **(A)** Technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of conservation practices.

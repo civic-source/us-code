@@ -1,0 +1,16 @@
+---
+title: "Section 492 - Travel and transportation: members escorting certain dependents"
+usc_title: 37
+usc_section: "492"
+chapter: 8
+current_through: "PL 113-21"
+classification: "37 U.S.C. § 492"
+generated_at: "2026-03-30T03:05:39.927Z"
+status: "active"
+---
+
+# § 492. Travel and transportation: members escorting certain dependents
+
+- **(a)** Under regulations prescribed by the Secretary concerned, a member of a uniformed service may be provided round trip transportation and travel allowances for travel performed or to be performed under competent orders as an escort for the member’s dependent when travel by the dependent is authorized by competent authority and the dependent is incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances.
+- **(b)** Whenever possible, the Air Mobility Command or Military Sealift Command shall be used, on a space-required basis, for the travel authorized by this section.
+- **(c)** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.

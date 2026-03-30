@@ -1,0 +1,19 @@
+---
+title: "Section 2881 - Purposes"
+usc_title: 29
+usc_section: "2881"
+chapter: 30
+current_through: "PL 113-21"
+classification: "29 U.S.C. § 2881"
+generated_at: "2026-03-30T03:05:09.743Z"
+status: "active"
+---
+
+# § 2881. Purposes
+
+The purposes of this subchapter are—
+
+  - **(1)** to maintain a national Job Corps program, carried out in partnership with States and communities, to assist eligible youth who need and can benefit from an intensive program, operated in a group setting in residential and nonresidential centers, to become more responsible, employable, and productive citizens;
+  - **(2)** to set forth standards and procedures for selecting individuals as enrollees in the Job Corps;
+  - **(3)** to authorize the establishment of Job Corps centers in which enrollees will participate in intensive programs of activities described in this subchapter; and
+  - **(4)** to prescribe various other powers, duties, and responsibilities incident to the operation and continuing development of the Job Corps.

@@ -3,9 +3,10 @@ title: "Section 8732 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "8732"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8732"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-03-30T03:04:21.036Z"
+status: "active"
 ---
 
 # § 8732. Loan rates for nonrecourse marketing assistance loans
@@ -38,7 +39,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
   - **(16)** In the case of nongraded wool, $0.40 per pound.
   - **(17)** In the case of mohair, $4.20 per pound.
   - **(18)** In the case of honey, $0.60 per pound.
-- **(b)** Except as provided in section 8715 1 1 See References in Text note below. of this title, for purposes of the 2009 crop year, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
+- **(b)** Except as provided in section 8715 of this title , for purposes of the 2009 crop year, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
   - **(1)** In the case of wheat, $2.75 per bushel.
   - **(2)** In the case of corn, $1.95 per bushel.
   - **(3)** In the case of grain sorghum, $1.95 per bushel.
@@ -67,7 +68,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
   - **(17)** In the case of nongraded wool, $0.40 per pound.
   - **(18)** In the case of mohair, $4.20 per pound.
   - **(19)** In the case of honey, $0.60 per pound.
-- **(c)** Except as provided in section 8715 1 of this title, for purposes of each of the 2010 through 2012 crop years, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
+- **(c)** Except as provided in section 8715 of this title , for purposes of each of the 2010 through 2012 crop years, the loan rate for a marketing assistance loan under section 8731 of this title for a loan commodity shall be equal to the following:
   - **(1)** In the case of wheat, $2.94 per bushel.
   - **(2)** In the case of corn, $1.95 per bushel.
   - **(3)** In the case of grain sorghum, $1.95 per bushel.

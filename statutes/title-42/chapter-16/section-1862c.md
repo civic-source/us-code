@@ -3,9 +3,10 @@ title: "Section 1862c - Procedures, guidelines, and planning activities"
 usc_title: 42
 usc_section: "1862c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1862c"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-03-30T03:06:22.630Z"
+status: "active"
 ---
 
 # § 1862c. Procedures, guidelines, and planning activities
@@ -32,6 +33,6 @@ generated_at: "2026-03-30T02:56:11.124Z"
     - **(C)** programmatic approaches that recognize and support excellence, strengthen scientific and engineering research potential and, to the maximum extent possible and consistent with the purposes of this Act, assure an equitable distribution of resources with respect to institutions and geographical areas; and
     - **(D)** any recommendations necessary to improve the Program and further meet the purposes of sections 1862a to 1862d of this title.
 - **(e)** The Director shall prepare and submit, not later than June 15, 1989 , a report containing the comprehensive plan required by subsection (d) of this section to the Committee on Labor and Human Resources and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
-- **(f)** Final guidelines shall be published in the Federal Register not later than 45 days after the submission of the report required under subsection (e).
+- **(f)** Final guidelines shall be published in the Federal Register not later than 45 days after the submission of the report required under subsection (e) of this section.
 - **(g)** The Director shall, from amounts available to the Foundation under section 101(b) of this Act for fiscal year 1989, make available an amount, not to exceed $1,000,000, to carry out the provisions of this section. None of the funds authorized to be appropriated in section 101 of this Act may be used for grant or contract awards under the Program prior to completion and submission to Congress of the comprehensive plan required by subsection (d) of this section.
 - **(h)** In conducting the activities under the Program, the Director shall consult with the Secretary of Education and the heads of other related agencies.

@@ -3,9 +3,10 @@ title: "Section 65 - Omitted"
 usc_title: 8
 usc_section: "65"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 65"
-generated_at: "2026-03-30T02:53:10.469Z"
+generated_at: "2026-03-30T03:04:14.613Z"
+status: "omitted"
 ---
 
 # §§ 61 to 65. Omitted

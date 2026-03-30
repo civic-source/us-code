@@ -3,9 +3,10 @@ title: "Section 340 - Significantly viewed signals permitted to be carried"
 usc_title: 47
 usc_section: "340"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 340"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-03-30T03:06:26.191Z"
+status: "active"
 ---
 
 # § 340. Significantly viewed signals permitted to be carried
@@ -21,13 +22,13 @@ generated_at: "2026-03-30T02:56:24.511Z"
 - **(c)**
   - **(1)** The Commission shall—
     - **(A)** within 60 days after December 8, 2004 —
-      - **(i)** publish a list of the stations that are eligible for retransmission under subsection (a)(1) and the communities in which such stations are eligible for such retransmission; and
+      - **(i)** publish a list of the stations that are eligible for retransmission under subsection (a)(1) of this section and the communities in which such stations are eligible for such retransmission; and
       - **(ii)** commence a rulemaking proceeding to implement this section by publication of a notice of proposed rulemaking;
     - **(B)** adopt rules pursuant to such rulemaking within 1 year after December 8, 2004 .
-  - **(2)** The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which the Commission issues an order making any modification of such stations and communities.
+  - **(2)** The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) of this section and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which the Commission issues an order making any modification of such stations and communities.
   - **(3)** In addition to cable operators and television broadcast station licensees, the Commission shall permit a satellite carrier to petition for decisions and orders—
-    - **(A)** by which stations may be added to those that are eligible for retransmission under subsection (a), and by which communities may be added in which such stations are eligible for such retransmission; and
-    - **(B)** by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e).
+    - **(A)** by which stations may be added to those that are eligible for retransmission under subsection (a) of this section, and by which communities may be added in which such stations are eligible for such retransmission; and
+    - **(B)** by which network nonduplication or syndicated exclusivity regulations are applied to the retransmission in accordance with subsection (e) of this section.
 - **(d)**
   - **(1)** Carriage of a signal under this section is not mandatory, and any right of a station licensee to have the signal of such station carried under section 338 of this title is not affected by the eligibility of such station to be carried under this section.
   - **(2)** The eligibility of the signal of a station to be carried under this section does not affect any right of the licensee of such station to grant (or withhold) retransmission consent under section 325(b)(1) of this title .

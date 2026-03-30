@@ -3,9 +3,10 @@ title: "Section 719 - Comptroller General reports"
 usc_title: 31
 usc_section: "719"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 719"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-03-30T03:05:28.350Z"
+status: "active"
 ---
 
 # § 719. Comptroller General reports
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:55:34.047Z"
   - **(1)** The Comptroller General shall prepare—
     - **(A)** each month a list of reports issued during the prior month; and
     - **(B)** at least once each year a list of reports issued during the prior 12 months.
-  - **(2)** The Comptroller General shall make each list available through the public website of the Government Accountability Office. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member of Congress.
+  - **(2)** A copy of each list shall be sent to each committee of Congress and each member of Congress. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member.
 - **(h)** On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
   - **(1)** evaluate a program or activity of an agency within the jurisdiction of the committee; or
   - **(2)** in its consideration of proposed legislation.

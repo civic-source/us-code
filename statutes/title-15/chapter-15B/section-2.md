@@ -3,9 +3,10 @@ title: "Section 2 - Natural gas market transparency rules"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-03-30T03:04:31.149Z"
+status: "active"
 ---
 
 # § 717t–2. Natural gas market transparency rules
@@ -15,10 +16,10 @@ generated_at: "2026-03-30T02:54:08.119Z"
   - **(2)** The Commission may prescribe such rules as the Commission determines necessary and appropriate to carry out the purposes of this section. The rules shall provide for the dissemination, on a timely basis, of information about the availability and prices of natural gas sold at wholesale and in interstate commerce to the Commission, State commissions, buyers and sellers of wholesale natural gas, and the public.
   - **(3)** The Commission may—
     - **(A)** obtain the information described in paragraph (2) from any market participant; and
-    - **(B)** rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b).
+    - **(B)** rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
   - **(4)** In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency.
 - **(b)**
-  - **(1)** Rules described in subsection (a)(2), if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
+  - **(1)** Rules described in subsection (a)(2) of this section, if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
   - **(2)** In determining the information to be made available under this section and the time to make the information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
 - **(c)**
   - **(1)** Within 180 days of August 8, 2005 , the Commission shall conclude a memorandum of understanding with the Commodity Futures Trading Commission relating to information sharing, which shall include, among other things, provisions ensuring that information requests to markets within the respective jurisdiction of each agency are properly coordinated to minimize duplicative information requests, and provisions regarding the treatment of proprietary trading information.

@@ -3,34 +3,33 @@ title: "Section 6515 - Requirements of certifying agents"
 usc_title: 7
 usc_section: "6515"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6515"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-03-30T03:04:21.003Z"
+status: "active"
 ---
 
 # § 6515. Requirements of certifying agents
 
 - **(a)** To be accredited as a certifying agent under section 6514 of this title , a governing State official or a person shall be able to fully implement the applicable organic certification program established under this chapter.
 - **(b)** Any certifying agent shall employ a sufficient number of inspectors to implement the applicable organic certification program established under this chapter, as determined by the Secretary.
-- **(c)** Any certifying agent shall enter into an agreement with the Secretary under which such agent shall—
+- **(c)**
+  - **(1)** Any certifying agent shall maintain all records concerning its activities under this chapter for a period of not less than 10 years.
+  - **(2)** Any certifying agent shall allow representatives of the Secretary and the governing State official access to any and all records concerning the certifying agent’s activities under this chapter.
+  - **(3)** If any private person that was certified under this chapter is dissolved or loses its accreditation, all records or copies of records concerning such person’s activities under this chapter shall be transferred to the Secretary and made available to the applicable governing State official.
+- **(d)** Any certifying agent shall enter into an agreement with the Secretary under which such agent shall—
   - **(1)** agree to carry out the provisions of this chapter; and
   - **(2)** agree to such other terms and conditions as the Secretary determines appropriate.
-- **(d)** Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c)—
+- **(e)** Any certifying agent that is a private person shall, in addition to the agreement required in subsection (d) of this section—
   - **(1)** agree to hold the Secretary harmless for any failure on the part of the certifying agent to carry out the provisions of this chapter; and
   - **(2)** furnish reasonable security, in an amount determined by the Secretary, for the purpose of protecting the rights of participants in the applicable organic certification program established under this chapter.
-- **(e)** Any certifying agent shall fully comply with the terms and conditions of the applicable organic certification program implemented under this chapter.
-- **(f)** Except as provided in section 6506(a)(9) of this title , any certifying agent shall maintain strict confidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
-- **(g)** Any certifying agent shall not—
+- **(f)** Any certifying agent shall fully comply with the terms and conditions of the applicable organic certification program implemented under this chapter.
+- **(g)** Except as provided in section 6506(a)(9) of this title , any certifying agent shall maintain strict confidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
+- **(h)** Any certifying agent shall not—
   - **(1)** carry out any inspections of any operation in which such certifying agent, or employee of such certifying agent has, or has had, a commercial interest, including the provision of consultancy services;
   - **(2)** accept payment, gifts, or favors of any kind from the business inspected other than prescribed fees; or
   - **(3)** provide advice concerning organic practices or techniques for a fee, other than fees established under such program.
-- **(h)** A certifying agent that is a private person shall nominate the individual who controls the day-to-day operation of the agent.
-- **(i)**
-  - **(1)** If the Secretary or the governing State official (if applicable) determines that a certifying agent or an entity acting as an agent of the certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
-  - **(2)**
-    - **(A)** If the Secretary determines that an office of a certifying agent or entity described in paragraph (1) is not complying with the provisions of this chapter, the Secretary may suspend the operations of the certifying agent or the noncompliant office, including—
-      - **(i)** an office operating in a foreign country; and
-      - **(ii)** an office operating in the United States, including an office acting on behalf of a foreign-domiciled entity.
-    - **(B)** The Secretary shall provide for a process that is otherwise consistent with this section that authorizes a suspended office to resume operations.
-  - **(3)** If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
-- **(j)** Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.
+- **(i)** A certifying agent that is a private person shall nominate the individual who controls the day-to-day operation of the agent.
+- **(j)**
+  - **(1)** If the Secretary or the governing State official (if applicable) determines that a certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
+  - **(2)** If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.

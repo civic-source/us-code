@@ -3,9 +3,10 @@ title: "Section 87e - General authorities"
 usc_title: 7
 usc_section: "87e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 87e"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-03-30T03:04:20.876Z"
+status: "active"
 ---
 
 # § 87e. General authorities
@@ -30,5 +31,5 @@ generated_at: "2026-03-30T02:53:42.254Z"
   - **(1)** In accordance with such regulations as the Secretary may provide, the Secretary may perform such other services as the Secretary considers to be appropriate.
   - **(2)** In addition to the fees authorized by sections 79, 79a, 79b, and 87f–1 of this title, and this section, the Secretary shall collect reasonable fees to cover the estimated costs of services performed under paragraph (1) other than standardization and foreign monitoring activities.
   - **(3)** To the extent practicable, the fees collected under paragraph (2), together with any proceeds from the sale of any samples, shall cover the costs, including administrative and supervisory costs, of services performed under paragraph (1).
-- **(j)** Fees collected under subsections (g), (h), and (i) shall be deposited into the fund created under section 79(j) of this title .
+- **(j)** Fees collected under subsections (g), (h), and (i) of this section shall be deposited into the fund created under section 79(j) of this title .
 - **(k)** The Secretary may extend appropriate courtesies to official representatives of foreign countries in order to establish and maintain relationships to carry out the policy stated in section 74 of this title . No gift offered or accepted pursuant to this subsection shall exceed $20 in value.

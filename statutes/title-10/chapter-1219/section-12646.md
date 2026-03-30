@@ -3,17 +3,18 @@ title: "Section 12646 - Commissioned officers: retention of after completing 18 
 usc_title: 10
 usc_section: "12646"
 chapter: 1219
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 12646"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-03-30T03:04:17.339Z"
+status: "active"
 ---
 
 # § 12646. Commissioned officers: retention of after completing 18 or more, but less than 20, years of service
 
-- **(a)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under section 12732 of this title , he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 1 1 See References in Text note below. of title 14, without his consent before the earlier of the following dates—
+- **(a)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under section 12732 of this title , he may not be discharged or transferred from an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
   - **(1)** the date on which he is entitled to be credited with 20 years of service computed under section 12732 of this title ; or
   - **(2)** the third anniversary of the date on which he would otherwise be discharged or transferred from an active status.
-- **(b)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under section 12732 of this title , he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 1 of title 14, without his consent before the earlier of the following dates—
+- **(b)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under section 12732 of this title , he may not be discharged or transferred from an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
   - **(1)** the date on which he is entitled to be credited with 20 years of service computed under section 12732 of this title ; or
   - **(2)** the second anniversary of the date on which he would otherwise be discharged or transferred from an active status.
 - **(c)** An officer who is retained in an active status under subsection (a) or (b) is an additional number to those otherwise authorized.
@@ -21,8 +22,8 @@ generated_at: "2026-03-30T02:53:38.271Z"
   - **(1)** officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
   - **(2)** commissioned warrant officers.
 - **(e)**
-  - **(1)** A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 1 of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
+  - **(1)** A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 6389, 14513, or 14514 of this title or section 740 of title 14 , is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
   - **(2)** An officer may be retained on active duty or full-time National Guard duty under paragraph (1) only if—
-    - **(A)** at the end of the period for which the officer is retained the officer will be qualified for retirement under section 7311, 8323, or 9311 of this title; and
+    - **(A)** at the end of the period for which the officer is retained the officer will be qualified for retirement under section 3911, 6323, or 8911 of this title; and
     - **(B)** the officer will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14.
   - **(3)** An officer who is retained on active duty or full-time National Guard duty under this section may not be removed from an active status while on that duty.

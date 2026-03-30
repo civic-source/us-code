@@ -1,29 +1,30 @@
 ---
-title: "Section 3209 - National Indian Child Resource and Family Services Center"
+title: "Section 3209 - Indian Child Resource and Family Services Centers"
 usc_title: 25
 usc_section: "3209"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3209"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-03-30T03:05:02.905Z"
+status: "active"
 ---
 
-# § 3209. National Indian Child Resource and Family Services Center
+# § 3209. Indian Child Resource and Family Services Centers
 
-- **(a)** Not later than 1 year after December 23, 2024 , the Secretary shall establish a National Indian Child Resource and Family Services Center.
-- **(b)** Not later than 2 years after December 23, 2024 , the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the status of the National Indian Child Resource and Family Services Center.
-- **(c)** The Center established under subsection (a) shall be staffed by a team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
-- **(d)** The Center established under subsection (a) shall—
-  - **(1)** provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, inter-tribal consortia, and urban Indian organizations upon request;
-  - **(2)** provide training to appropriate personnel of Indian tribes, tribal organizations, urban Indian organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
-  - **(3)** develop training and technical assistance materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes, Tribal organizations, and urban Indian organizations;
-  - **(4)** develop recommendations to assist Federal, State, Tribal, and urban Indian personnel to respond to cases of family violence, child abuse, and child neglect; and
-  - **(5)** develop model intergovernmental agreements between Tribes and States, and other materials that provide examples of how Federal, State, and Tribal governments can develop effective relationships and provide for maximum cooperation in the furtherance of prevention, investigation, treatment, and prosecution of incidents of family violence and child abuse and child neglect involving Indian children and families.
-- **(e)** The team established under this section shall include, but is not limited to, personnel with a background in—
+- **(a)** The Secretary shall establish within each area office of the Bureau an Indian Child Resource and Family Services Center.
+- **(b)** The Secretary and the Secretary of Health and Human Services shall enter into a Memorandum of Agreement which provides for the staffing of the Centers established under this section.
+- **(c)** Each Center established under subsection (a) of this section shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+- **(d)** Each Center established under subsection (a) of this section shall—
+  - **(1)** provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
+  - **(2)** provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
+  - **(3)** develop training materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes and to tribal organizations;
+  - **(4)** develop recommendations to assist Federal and tribal personnel to respond to cases of family violence, child abuse, and child neglect; and
+  - **(5)** develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.
+- **(e)** Each multidisciplinary team established under this section shall include, but is not limited to, personnel with a background in—
   - **(1)** law enforcement,
   - **(2)** child protective services,
   - **(3)** juvenile counseling and adolescent mental health, and
   - **(4)** domestic violence.
-- **(f)** The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
-- **(g)** The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
+- **(f)** The Secretary, in consultation with the Secretary of Health and Human Services, shall establish, for each Indian Child Resource and Family Services Center, an advisory board to advise and assist such Center in carrying out its activities under this chapter. Each advisory board shall consist of 7 members appointed by the Secretary from Indian tribes and human service providers served by an area office of the Bureau. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training materials, and developing policies and procedures relating to family violence, child abuse, and child neglect.
+- **(g)** Indian Child Resource and Family Services Centers established under subsection (a) of this section shall be subject to the provisions of the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
 - **(h)** There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.

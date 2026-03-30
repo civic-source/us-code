@@ -3,9 +3,10 @@ title: "Section 4a - “Program or activity” and “program” defined"
 usc_title: 42
 usc_section: "4a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T02:56:11.138Z"
+generated_at: "2026-03-30T03:06:22.645Z"
+status: "active"
 ---
 
 # § 2000d–4a. “Program or activity” and “program” defined
@@ -23,4 +24,4 @@ For the purposes of this subchapter, the term “program or activity” and the 
       - **(i)** if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
-  - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+  - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3); any part of which is extended Federal financial assistance.

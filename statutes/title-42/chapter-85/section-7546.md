@@ -3,9 +3,10 @@ title: "Section 7546 - Renewable fuel"
 usc_title: 42
 usc_section: "7546"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7546"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-03-30T03:06:22.813Z"
+status: "active"
 ---
 
 # § 7546. Renewable fuel
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:56:11.315Z"
       - **(i)** The Secretary may issue additional loan guarantees for a project to cover up to 80 percent of the excess of actual project cost over estimated project cost but not to exceed 15 percent of the amount of the original guarantee.
       - **(ii)** Subject to subparagraph (A), the Secretary shall guarantee 100 percent of the principal and interest of a loan made under subparagraph (A).
   - **(5)** To be eligible for a loan guarantee under this section, an applicant for the loan guarantee shall have binding commitments from equity investors to provide an initial equity contribution of at least 20 percent of the total project cost.
-  - **(6)** If the amount made available to carry out this section is insufficient to allow the Secretary to make loan guarantees for 3 projects described in subsection (b), the Secretary shall issue loan guarantees for one or more qualifying projects under this section in the order in which the applications for the projects are received by the Secretary.
+  - **(6)** If the amount made available to carry out this section is insufficient to allow the Secretary to make loan guarantees for 3 projects described in subsection (b) of this section, the Secretary shall issue loan guarantees for one or more qualifying projects under this section in the order in which the applications for the projects are received by the Secretary.
   - **(7)** An application for a loan guarantee under this section shall be approved or disapproved by the Secretary not later than 90 days after the application is received by the Secretary.
 - **(c)** There is authorized to be appropriated, for a resource center to further develop bioconversion technology using low-cost biomass for the production of ethanol at the Center for Biomass-Based Energy at the Mississippi State University and the Oklahoma State University, $4,000,000 for each of fiscal years 2005 through 2007.
 - **(d)**

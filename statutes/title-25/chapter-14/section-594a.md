@@ -1,12 +1,15 @@
 ---
-title: "Section 594a - Omitted"
+title: "Section 594a - Rules and regulations"
 usc_title: 25
 usc_section: "594a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 594a"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.844Z"
+status: "active"
 ---
 
-# § 594a. Omitted
+# § 594a. Rules and regulations
+
+The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of this section and section 594 of this title .
 

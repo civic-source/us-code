@@ -3,9 +3,10 @@ title: "Section 14109 - Reports of promotion boards: in general"
 usc_title: 10
 usc_section: "14109"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 14109"
-generated_at: "2026-03-30T02:53:38.273Z"
+generated_at: "2026-03-30T03:04:17.340Z"
+status: "active"
 ---
 
 # § 14109. Reports of promotion boards: in general
@@ -17,6 +18,3 @@ generated_at: "2026-03-30T02:53:38.273Z"
 - **(c)**
   - **(1)** A promotion board convened under section 14101(a) of this title shall include in its report to the Secretary concerned the name of any reserve officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required to show cause for retention in an active status.
   - **(2)** If such a report names an officer as having a record which indicates that the officer should be required to show cause for retention, the Secretary concerned may provide for the review of the record of that officer as provided under regulations prescribed under section 14902 of this title .
-- **(d)** A promotion board convened under section 14101(a) of this title shall, when authorized under section 14108(f) of this title , include in its report to the Secretary concerned—
-  - **(1)** the names of those officers the promotion board recommends be placed higher on the promotion list; and
-  - **(2)** the order in which the promotion board recommends those officers should be placed on the promotion list.

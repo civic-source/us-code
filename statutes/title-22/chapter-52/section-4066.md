@@ -3,9 +3,10 @@ title: "Section 4066 - Cost-of-living adjustment of annuities"
 usc_title: 22
 usc_section: "4066"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4066"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-03-30T03:04:53.673Z"
+status: "active"
 ---
 
 # § 4066. Cost-of-living adjustment of annuities

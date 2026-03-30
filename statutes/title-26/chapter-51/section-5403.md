@@ -3,9 +3,10 @@ title: "Section 5403 - Cross references"
 usc_title: 26
 usc_section: "5403"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5403"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-03-30T03:05:18.703Z"
+status: "active"
 ---
 
 # § 5403. Cross references

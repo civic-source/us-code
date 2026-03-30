@@ -3,9 +3,10 @@ title: "Section 7e - Health care fraud and abuse data collection program"
 usc_title: 42
 usc_section: "7e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T02:56:10.911Z"
+generated_at: "2026-03-30T03:06:22.473Z"
+status: "active"
 ---
 
 # § 1320a–7e. Health care fraud and abuse data collection program
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:56:10.911Z"
 - **(d)**
   - **(1)** The information collected under this section shall be available from the National Practitioner Data Bank to the agencies, authorities, and officials which are provided under section 1396r–2(b) of this title information reported under section 1396r–2(a) of this title .
   - **(2)** The Secretary may establish or approve reasonable fees for the disclosure of information under this section. The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary to cover such costs.
-- **(e)** No person or entity, including the agency designated by the Secretary in subsection (b)(5) shall be held liable in any civil action with respect to any report made as required by this section, without knowledge of the falsity of the information contained in the report.
+- **(e)** No person or entity, including the agency designated by the Secretary in subsection (b)(5) of this section shall be held liable in any civil action with respect to any report made as required by this section, without knowledge of the falsity of the information contained in the report.
 - **(f)** In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 ( 42 U.S.C. 11131 et seq.) and section 1396r–2 of this title .
 - **(g)** For purposes of this section:
   - **(1)**

@@ -3,9 +3,10 @@ title: "Section 9921 - Discretionary authority of Secretary"
 usc_title: 42
 usc_section: "9921"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9921"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-03-30T03:06:22.867Z"
+status: "active"
 ---
 
 # § 9921. Discretionary authority of Secretary
@@ -23,4 +24,4 @@ generated_at: "2026-03-30T02:56:11.378Z"
     - **(B)** grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
   - **(4)** The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 - **(b)** The Secretary shall require all activities receiving assistance under this section to be evaluated for their effectiveness. Funding for such evaluations shall be provided as a stated percentage of the assistance or through a separate grant awarded by the Secretary specifically for the purpose of evaluation of a particular activity or group of activities.
-- **(c)** The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
+- **(c)** The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) of this section and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.

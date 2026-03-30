@@ -1,12 +1,15 @@
 ---
-title: "Section 47 - Transferred"
+title: "Section 47 - Mode of payment"
 usc_title: 2
 usc_section: "47"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 47"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.391Z"
+status: "active"
 ---
 
-# § 47. Transferred
+# § 47. Mode of payment
+
+The compensation of Members and Delegates shall be passed as public accounts, and paid out of the public Treasury.
 

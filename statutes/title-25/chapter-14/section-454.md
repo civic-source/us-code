@@ -1,12 +1,15 @@
 ---
-title: "Section 454 - Transferred"
+title: "Section 454 - Rules and regulations; minimum standards of service"
 usc_title: 25
 usc_section: "454"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 454"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.836Z"
+status: "active"
 ---
 
-# § 454. Transferred
+# § 454. Rules and regulations; minimum standards of service
+
+The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations, including minimum standards of service, as may be necessary and proper for the purpose of carrying the provisions of sections 452 to 457 of this title into effect: Provided , That such minimum standards of service are not less than the highest maintained by the States or Territories within which said contract or contracts, as herein provided, are to be effective.
 

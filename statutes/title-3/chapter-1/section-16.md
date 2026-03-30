@@ -1,14 +1,15 @@
 ---
-title: "Section 16 - Same; seats for officers and Members of two Houses in joint session"
+title: "Section 16 - Same; seats for officers and Members of two Houses in joint meeting"
 usc_title: 3
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "3 U.S.C. § 16"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-03-30T03:04:03.451Z"
+status: "active"
 ---
 
-# § 16. Same; seats for officers and Members of two Houses in joint session
+# § 16. Same; seats for officers and Members of two Houses in joint meeting
 
-At such joint session of the two Houses seats shall be provided as follows: For the President of the Senate, the Speaker’s chair; for the Speaker, immediately upon his left; the Senators, in the body of the Hall upon the right of the presiding officer; for the Representatives, in the body of the Hall not provided for the Senators; for the tellers, Secretary of the Senate, and Clerk of the House of Representatives, at the Clerk’s desk; for the other officers of the two Houses, in front of the Clerk’s desk and upon each side of the Speaker’s platform. Such joint session shall not be dissolved until the count of electoral votes shall be completed and the result declared; and no recess shall be taken unless a question shall have arisen in regard to counting any such votes, or otherwise under this subchapter, in which case it shall be competent for either House, acting separately, in the manner hereinbefore provided, to direct a recess of such House not beyond the next calendar day, Sunday excepted, at the hour of 10 o’clock in the forenoon. But if the counting of the electoral votes and the declaration of the result shall not have been completed before the fifth calendar day next after such first session of the two Houses, no further or other recess shall be taken by either House.
+At such joint meeting of the two Houses seats shall be provided as follows: For the President of the Senate, the Speaker’s chair; for the Speaker, immediately upon his left; the Senators, in the body of the Hall upon the right of the presiding officer; for the Representatives, in the body of the Hall not provided for the Senators; for the tellers, Secretary of the Senate, and Clerk of the House of Representatives, at the Clerk’s desk; for the other officers of the two Houses, in front of the Clerk’s desk and upon each side of the Speaker’s platform. Such joint meeting shall not be dissolved until the count of electoral votes shall be completed and the result declared; and no recess shall be taken unless a question shall have arisen in regard to counting any such votes, or otherwise under this subchapter, in which case it shall be competent for either House, acting separately, in the manner hereinbefore provided, to direct a recess of such House not beyond the next calendar day, Sunday excepted, at the hour of 10 o’clock in the forenoon. But if the counting of the electoral votes and the declaration of the result shall not have been completed before the fifth calendar day next after such first meeting of the two Houses, no further or other recess shall be taken by either House.
 

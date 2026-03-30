@@ -3,9 +3,10 @@ title: "Section 1471 - Definitions"
 usc_title: 7
 usc_section: "1471"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1471"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-03-30T03:04:20.925Z"
+status: "active"
 ---
 
 # § 1471. Definitions
@@ -17,11 +18,11 @@ As used in this subchapter:
       - **(i)** an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
       - **(ii)** a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in, the United States, if such cooperative, corporation, partnership, or joint operation is engaged in livestock production or husbandry, or dairy production; or
     - **(B)** Any 1 1 So in original. Probably should not be capitalized. of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
-      - **(i)** any Indian tribe (as defined in section 5304(b) of title 25 ); 2 2 See References in Text note below.
-      - **(ii)** any Indian organization or entity chartered under the Act of June 18, 1934 ( 48 Stat. 984 , chapter 576; 25 U.S.C. 461 et seq.), 2 commonly known as the “Indian Reorganization Act”;
-      - **(iii)** any tribal organization (as defined in section 5304(c) of title 25 ); 2 or
+      - **(i)** any Indian tribe (as defined in section 450b(b) of title 25 ); 2 2 See References in Text note below.
+      - **(ii)** any Indian organization or entity chartered under the Act of June 18, 1934 ( 48 Stat. 984 , chapter 576; 25 U.S.C. 461 et seq.), commonly known as the “Indian Reorganization Act”;
+      - **(iii)** any tribal organization (as defined in section 450b(c) of title 25 ); 2 or
       - **(iv)** any economic enterprise (as defined in section 1452(e) of title 25 );
-  - **(2)** The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that—
+  - **(2)** The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary (at the Secretary’s sole discretion) that—
     - **(A)** are part of a foundation herd (including producing dairy cattle) or offspring; or
     - **(B)** are purchased as part of a normal operation and not to obtain additional benefits under this subchapter.
   - **(3)** The term “State” means any State of the United States, the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.

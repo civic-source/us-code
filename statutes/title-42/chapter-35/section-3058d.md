@@ -3,16 +3,17 @@ title: "Section 3058d - Additional State plan requirements"
 usc_title: 42
 usc_section: "3058d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3058d"
-generated_at: "2026-03-30T02:56:11.180Z"
+generated_at: "2026-03-30T03:06:22.683Z"
+status: "active"
 ---
 
 # § 3058d. Additional State plan requirements
 
 - **(a)** In order to be eligible to receive an allotment under this part, a State shall include in the State plan submitted under section 3027 of this title —
   - **(1)** an assurance that the State, in carrying out any subpart of this part for which the State receives funding under this part, will establish programs in accordance with the requirements of the subpart and this subpart;
-  - **(2)** an assurance that the State will hold public hearings, and use other means, to obtain the views of older individuals, area agencies on aging, recipients of grants under subchapter X, and other interested persons and entities regarding programs carried out under this part;
+  - **(2)** an assurance that the State will hold public hearings, and use other means, to obtain the views of older individuals, area agencies on aging, recipients of grants under subchapter X of this chapter, and other interested persons and entities regarding programs carried out under this part;
   - **(3)** an assurance that the State, in consultation with area agencies on aging, will identify and prioritize statewide activities aimed at ensuring that older individuals have access to, and assistance in securing and maintaining, benefits and rights;
   - **(4)** an assurance that the State will use funds made available under this part for a subpart in addition to, and will not supplant, any funds that are expended under any Federal or State law in existence on the day before September 30, 1992 , to carry out each of the vulnerable elder rights protection activities described in the subpart;
   - **(5)** an assurance that the State will place no restrictions, other than the requirements referred to in clauses (i) through (iv) of section 3058g(a)(5)(C) of this title , on the eligibility of entities for designation as local Ombudsman entities under section 3058g(a)(5) of this title ;

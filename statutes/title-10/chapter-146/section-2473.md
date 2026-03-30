@@ -1,23 +1,13 @@
 ---
-title: "Section 2473 - Annual five-year plans on improvement of depot infrastructure"
+title: "Section 2473 - Repealed. Pub. L. 111–383, div. A, title VIII, § 822(a) , Jan. 7, 2011 , 124 Stat. 4268 ]"
 usc_title: 10
 usc_section: "2473"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2473"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-03-30T03:04:17.289Z"
+status: "repealed"
 ---
 
-# § 2473. Annual five-year plans on improvement of depot infrastructure
+# [§ 2473. Repealed. Pub. L. 111–383, div. A, title VIII, § 822(a) , Jan. 7, 2011 , 124 Stat. 4268 ]
 
-- **(a)** As part of the annual budget submission of the President under section 1105(a) of title 31 , each Secretary of a military department shall submit to the congressional defense committees a plan describing the objectives of that Secretary to improve depot infrastructure during the five fiscal years following the fiscal year for which such budget is submitted.
-- **(b)** Each plan submitted by a Secretary of a military department under subsection (a) shall include the following:
-  - **(1)** With respect to the five-year period covered by the plan, an identification of the major lines of effort, milestones, and specific goals of the Secretary over such period relating to the improvement of depot infrastructure and a description of how such goals support the goals outlined in section 359(b)(1)(B) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1324 ; 10 U.S.C. 2476 note).
-  - **(2)** The estimated costs of necessary depot infrastructure improvements and a description of how such costs would be addressed by the Department of Defense budget request submitted during the same year as the plan and the applicable future-years defense program.
-  - **(3)** Information regarding the plan of the Secretary to initiate such environmental and engineering studies as may be necessary to carry out planned depot infrastructure improvements.
-  - **(4)** Detailed information regarding how depot infrastructure improvement projects will be paced and sequenced to ensure continuous operations.
-- **(c)** Each plan under subsection (a) shall incorporate the leading results-oriented management practices identified in the report of the Comptroller General of the United States titled “Actions Needed to Improve Poor Conditions of Facilities and Equipment that Affect Maintenance Timeliness and Efficiency” (GAO–19–242), or any successor report, including—
-  - **(1)** analytically based goals;
-  - **(2)** results-oriented metrics;
-  - **(3)** the identification of required resources, risks, and stakeholders; and
-  - **(4)** regular reporting on progress to decision makers.

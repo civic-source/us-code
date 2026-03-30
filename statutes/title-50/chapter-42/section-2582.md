@@ -1,0 +1,29 @@
+---
+title: "Section 2582 - Requirement to develop future use plans for environmental management programs"
+usc_title: 50
+usc_section: "2582"
+chapter: 42
+current_through: "PL 113-21"
+classification: "50 U.S.C. § 2582"
+generated_at: "2026-03-30T03:06:37.680Z"
+status: "active"
+---
+
+# § 2582. Requirement to develop future use plans for environmental management programs
+
+- **(a)** The Secretary of Energy may develop future use plans for any defense nuclear facility at which environmental restoration and waste management activities are occurring.
+- **(b)** The Secretary shall develop a future use plan for each of the following defense nuclear facilities:
+  - **(1)** Hanford Site, Richland, Washington.
+  - **(2)** Rocky Flats Plant, Golden, Colorado.
+  - **(3)** Savannah River Site, Aiken, South Carolina.
+  - **(4)** Idaho National Engineering Laboratory, Idaho.
+- **(c)**
+  - **(1)** At each defense nuclear facility for which the Secretary of Energy intends or is required to develop a future use plan under this section and for which no citizen advisory board has been established, the Secretary shall establish a citizen advisory board.
+  - **(2)** The Secretary may authorize the manager of a defense nuclear facility for which a future use plan is developed under this section (or, if there is no such manager, an appropriate official of the Department of Energy designated by the Secretary) to pay routine administrative expenses of a citizen advisory board established for that facility. Such payments shall be made from funds available to the Secretary for program direction in carrying out environmental restoration and waste management activities necessary for national security programs.
+- **(d)** In developing a future use plan under this section with respect to a defense nuclear facility, the Secretary of Energy shall consult with a citizen advisory board established pursuant to subsection (c) or a similar advisory board already in existence as of September 23, 1996 , for such facility, affected local governments (including any local future use redevelopment authorities), and other appropriate State agencies.
+- **(e)** A future use plan developed under this section shall cover a period of at least 50 years.
+- **(f)** For each facility listed in subsection (b), the Secretary of Energy shall develop a draft future use plan by October 1, 1997 , and a final future use plan by March 15, 1998 .
+- **(g)** Not later than 60 days after completing development of a final plan for a site listed in subsection (b), the Secretary of Energy shall submit to Congress a report on the plan. The report shall describe the plan and contain such findings and recommendations with respect to the site as the Secretary considers appropriate.
+- **(h)**
+  - **(1)** Nothing in this section, or in a future use plan developed under this section with respect to a defense nuclear facility, shall be construed as requiring any modification to a future use plan with respect to a defense nuclear facility that was developed before September 23, 1996 .
+  - **(2)** Nothing in this section may be construed to affect statutory requirements for an environmental restoration or waste management activity or project or to modify or otherwise affect applicable statutory or regulatory environmental restoration and waste management requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.

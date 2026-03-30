@@ -3,9 +3,10 @@ title: "Section 18022 - Essential health benefits requirements"
 usc_title: 42
 usc_section: "18022"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 18022"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-03-30T03:06:22.999Z"
+status: "active"
 ---
 
 # § 18022. Essential health benefits requirements
@@ -53,12 +54,20 @@ generated_at: "2026-03-30T02:56:11.512Z"
       - **(i)** in the case of self-only coverage, be equal to the dollar amount under subparagraph (A) for self-only coverage for plan years beginning in 2014, increased by an amount equal to the product of that amount and the premium adjustment percentage under paragraph (4) for the calendar year; and
       - **(ii)** in the case of other coverage, twice the amount in effect under clause (i).
   - **(2)**
+    - **(A)** In the case of a health plan offered in the small group market, the deductible under the plan shall not exceed—
+      - **(i)** $2,000 in the case of a plan covering a single individual; and
+      - **(ii)** $4,000 in the case of any other plan.
+    - **(B)** In the case of any plan year beginning in a calendar year after 2014—
+      - **(i)** the dollar amount under subparagraph (A)(i) shall be increased by an amount equal to the product of that amount and the premium adjustment percentage under paragraph (4) for the calendar year; and
+      - **(ii)** the dollar amount under subparagraph (A)(ii) shall be increased to an amount equal to twice the amount in effect under subparagraph (A)(i) for plan years beginning in the calendar year, determined after application of clause (i).
+    - **(C)** The limitation under this paragraph shall be applied in such a manner so as to not affect the actuarial value of any health plan, including a plan in the bronze level.
+    - **(D)** Nothing in this paragraph shall be construed to allow a plan to have a deductible under the plan apply to benefits described in section 2713 of the Public Health Service Act [ 42 U.S.C. 300gg–13 ].
   - **(3)** In this title— 1
     - **(A)** The term “cost-sharing” includes—
       - **(i)** deductibles, coinsurance, copayments, or similar charges; and
       - **(ii)** any other expenditure required of an insured individual which is a qualified medical expense (within the meaning of section 223(d)(2) of title 26 ) with respect to essential health benefits covered under the plan.
     - **(B)** Such term does not include premiums, balance billing amounts for non-network providers, or spending for non-covered services.
-  - **(4)** For purposes of paragraph (1)(B)(i), the premium adjustment percentage for any calendar year is the percentage (if any) by which the average per capita premium for health insurance coverage in the United States for the preceding calendar year (as estimated by the Secretary no later than October 1 of such preceding calendar year) exceeds such average per capita premium for 2013 (as determined by the Secretary).
+  - **(4)** For purposes of paragraphs (1)(B)(i) and (2)(B)(i), the premium adjustment percentage for any calendar year is the percentage (if any) by which the average per capita premium for health insurance coverage in the United States for the preceding calendar year (as estimated by the Secretary no later than October 1 of such preceding calendar year) exceeds such average per capita premium for 2013 (as determined by the Secretary).
 - **(d)**
   - **(1)** The levels of coverage described in this subsection are as follows:
     - **(A)** A plan in the bronze level shall provide a level of coverage that is designed to provide benefits that are actuarially equivalent to 60 percent of the full actuarial value of the benefits provided under the plan.

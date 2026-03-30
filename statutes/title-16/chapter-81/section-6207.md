@@ -1,0 +1,27 @@
+---
+title: "Section 6207 - Annual adjustment of cabin user fee"
+usc_title: 16
+usc_section: "6207"
+chapter: 81
+current_through: "PL 113-21"
+classification: "16 U.S.C. § 6207"
+generated_at: "2026-03-30T03:04:48.633Z"
+status: "active"
+---
+
+# § 6207. Annual adjustment of cabin user fee
+
+- **(a)** The Secretary shall adjust the cabin user fee annually, using a rolling 5-year average of a published price index in accordance with subsection (b) or (c) of this section that reports changes in rural or similar land values in the State, county, or market area in which the lot is located.
+- **(b)**
+  - **(1)** For the period of 10 years beginning on October 11, 2000 , the Secretary shall use changes in agricultural land prices in the appropriate State or county, as reported in the Index of Agricultural Land Prices published by the Department of Agriculture, to determine the annual adjustment to the cabin user fee in accordance with subsections (a) and (d) of this section.
+  - **(2)** In determining the annual adjustment to the cabin user fee for an authorization located in a county in which agricultural land prices are influenced by the criteria described in section 6205(b)(2) of this title , the Secretary shall use average statewide changes in the State in which the lot is located.
+- **(c)**
+  - **(1)** Not later than 10 years after October 11, 2000 , the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) of this section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
+  - **(2)** Before selecting a new index, the Secretary shall—
+    - **(A)** solicit and consider comments from the public; and
+    - **(B)** not later than 60 days before the date on which the Secretary makes a final index selection, submit any proposed selection of a new index to—
+      - **(i)** the Committee on Resources of the House of Representatives; and
+      - **(ii)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+- **(d)** In calculating an annual adjustment to the base cabin user fee as determined by the initial index described in section 1 1 So in original. Probably should be “subsection”. (b) of this section, the Secretary shall—
+  - **(1)** limit any annual fee adjustment to an amount that is not more than 5 percent per year when the change in agricultural land values exceeds 5 percent in any 1 year; and
+  - **(2)** apply the amount of any adjustment that exceeds 5 percent to the annual fee payment for the next year in which the change in the index factor is less than 5 percent.

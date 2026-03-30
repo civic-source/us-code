@@ -3,9 +3,10 @@ title: "Section 4424 - Compliance with other Acts"
 usc_title: 20
 usc_section: "4424"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 4424"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-03-30T03:04:46.322Z"
+status: "active"
 ---
 
 # § 4424. Compliance with other Acts
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
 - **(a)** The Institute shall comply with the provisions of—
   - **(1)** Public Law 95–341 ( 42 U.S.C. 1996 [, 1996a]), popularly known as the American Indian Religious Freedom Act,
   - **(2)** the Archeological Resources Protection Act of 1979 ( 16 U.S.C. 470aa et seq.), and
-  - **(3)** division A of subtitle III of title 54.
+  - **(3)** the National Historic Preservation Act ( 16 U.S.C. 470 et seq.).
 - **(b)** All Federal criminal laws relating to larceny, embezzlement, or conversion of the funds or the property of the United States shall apply to the funds and property of the Institute.
 - **(c)**
   - **(1)** Funds received by the institute 1 1 So in original. Probably should be capitalized. pursuant to this chapter 2 2 See References in Text note below. shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.

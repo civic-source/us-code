@@ -3,9 +3,10 @@ title: "Section 1402 - Extension of industrial alcohol and internal revenue laws
 usc_title: 48
 usc_section: "1402"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1402"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-03-30T03:06:26.524Z"
+status: "active"
 ---
 
 # § 1402. Extension of industrial alcohol and internal revenue laws to Virgin Islands

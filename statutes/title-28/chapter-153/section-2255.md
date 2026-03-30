@@ -3,9 +3,10 @@ title: "Section 2255 - Federal custody; remedies on motion attacking sentence"
 usc_title: 28
 usc_section: "2255"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 2255"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-03-30T03:05:05.830Z"
+status: "active"
 ---
 
 # § 2255. Federal custody; remedies on motion attacking sentence
@@ -23,4 +24,4 @@ generated_at: "2026-03-30T02:55:30.147Z"
 - **(g)** Except as provided in section 408 of the Controlled Substances Act, in all proceedings brought under this section, and any subsequent proceedings on review, the court may appoint counsel, except as provided by a rule promulgated by the Supreme Court pursuant to statutory authority. Appointment of counsel under this section shall be governed by section 3006A of title 18 .
 - **(h)** A second or successive motion must be certified as provided in section 2244 by a panel of the appropriate court of appeals to contain—
   - **(1)** newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or
-  - **(2)** a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
+  - **(2)** a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable. ( June 25, 1948, ch. 646 , 62 Stat. 967 ; May 24, 1949, ch. 139, § 114 , 63 Stat. 105 ; Pub. L. 104–132, title I, § 105 , Apr. 24, 1996 , 110 Stat. 1220 ; Pub. L. 110–177, title V, § 511 , Jan. 7, 2008 , 121 Stat. 2545 .)

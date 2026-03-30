@@ -3,9 +3,10 @@ title: "Section 2715c - Conservation and disposition of estates"
 usc_title: 22
 usc_section: "2715c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2715c"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-03-30T03:04:53.652Z"
+status: "active"
 ---
 
 # § 2715c. Conservation and disposition of estates
@@ -28,11 +29,11 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(5)** Nothing in this section supersedes or otherwise affects the authority of any military commander under title 10 with respect to the person or property of any decedent who died while under a military command or jurisdiction or the authority of the Peace Corps with respect to a Peace Corps volunteer or the volunteer’s property.
 - **(b)**
   - **(1)**
-    - **(A)** After receipt of a personal estate pursuant to subsection (a), the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
-    - **(B)** If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a), no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shall dispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
+    - **(A)** After receipt of a personal estate pursuant to subsection (a) of this section, the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
+    - **(B)** If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a) of this section, no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shall dispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
     - **(C)** The net cash estate after disposition as provided in subparagraph (B) shall be transferred to the miscellaneous receipts account of the Treasury of the United States.
   - **(2)**
-    - **(A)** In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949. 1 1 See References in Text note below.
+    - **(A)** In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) of this section and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949. 1 1 See References in Text note below.
     - **(B)** In the event that the Department requires such property, the Secretary of State shall treat such property as if it were an unconditional gift accepted on behalf of the Department of State under section 2697 of this title and section 300(a)(3) of this title .
 - **(c)**
   - **(1)** The Secretary is authorized to compensate the estate of any United States citizen who has died overseas for property—
@@ -41,5 +42,5 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(2)**
     - **(A)** Any such compensation shall be in lieu of personal liability of officers or employees of the Department of State.
     - **(B)** An officer or employee of the Department of State may be liable to the Department of State to the extent of any compensation provided under paragraph (1).
-    - **(C)** The liability of any officer or employee of the Department of State to the Department for any payment made under subsection (a) shall be determined pursuant to the Department’s procedures for determining accountability for United States Government property.
+    - **(C)** The liability of any officer or employee of the Department of State to the Department for any payment made under subsection (a) of this section shall be determined pursuant to the Department’s procedures for determining accountability for United States Government property.
 - **(d)** The Secretary of State may prescribe such regulations as may be necessary to carry out this section.

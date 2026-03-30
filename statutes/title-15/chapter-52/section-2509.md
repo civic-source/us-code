@@ -3,9 +3,10 @@ title: "Section 2509 - Loan guarantees"
 usc_title: 15
 usc_section: "2509"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2509"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-03-30T03:04:31.205Z"
+status: "active"
 ---
 
 # § 2509. Loan guarantees
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
   - **(2)** the terms of such loan require full repayment over a period not to exceed 15 years;
   - **(3)** in the judgment of the Secretary of Energy, the amount of the loan (when combined with amounts available to the qualified borrower from other sources) will be sufficient to carry out the activity with respect to which the loan is made;
   - **(4)** in the judgment of the Secretary of Energy, there is reasonable assurance of repayment of the loan by the qualified borrower; and
-  - **(5)** no loan shall be guaranteed by the Secretary of Energy under subsection (b) unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
+  - **(5)** no loan shall be guaranteed by the Secretary of Energy under subsection (b) of this section unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
 - **(e)**
   - **(1)** The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(2)** The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.

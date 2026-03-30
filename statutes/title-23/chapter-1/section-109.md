@@ -3,9 +3,10 @@ title: "Section 109 - Standards"
 usc_title: 23
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 109"
-generated_at: "2026-03-30T02:55:12.546Z"
+generated_at: "2026-03-30T03:04:51.151Z"
+status: "active"
 ---
 
 # § 109. Standards
@@ -15,26 +16,20 @@ generated_at: "2026-03-30T02:55:12.546Z"
   - **(2)** be designed and constructed in accordance with criteria best suited to accomplish the objectives described in paragraph (1) and to conform to the particular needs of each locality.
 - **(b)** The geometric and construction standards to be adopted for the Interstate System shall be those approved by the Secretary in cooperation with the State transportation departments. Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title , of the plans, specifications, and estimates for actual construction of such project. Such standards shall in all cases provide for at least four lanes of traffic. The right-of-way width of the Interstate System shall be adequate to permit construction of projects on the Interstate System to such standards. The Secretary shall apply such standards uniformly throughout all the States.
 - **(c)**
-  - **(1)** A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) shall consider, in addition to the criteria described in subsection (a)—
+  - **(1)** A design for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the National Highway System (other than a highway also on the Interstate System) may take into account, in addition to the criteria described in subsection (a)—
     - **(A)** the constructed and natural environment of the area;
-    - **(B)** the environmental, scenic, aesthetic, historic, community, and preservation impacts of the activity;
-    - **(C)** cost savings by utilizing flexibility that exists in current design guidance and regulations; and
-    - **(D)** access for other modes of transportation.
+    - **(B)** the environmental, scenic, aesthetic, historic, community, and preservation impacts of the activity; and
+    - **(C)** access for other modes of transportation.
   - **(2)** The Secretary, in cooperation with State transportation departments, may develop criteria to implement paragraph (1). In developing criteria under this paragraph, the Secretary shall consider—
     - **(A)** the results of the committee process of the American Association of State Highway and Transportation Officials as used in adopting and publishing “A Policy on Geometric Design of Highways and Streets”, including comments submitted by interested parties as part of such process;
     - **(B)** the publication entitled “Flexibility in Highway Design” of the Federal Highway Administration;
-    - **(C)** “Eight Characteristics of Process to Yield Excellence and the Seven Qualities of Excellence in Transportation Design” developed by the conference held during 1998 entitled “Thinking Beyond the Pavement National Workshop on Integrating Highway Development with Communities and the Environment while Maintaining Safety and Performance”;
-    - **(D)** the publication entitled “Highway Safety Manual” of the American Association of State Highway and Transportation Officials;
-    - **(E)** the publication entitled “Urban Street Design Guide” of the National Association of City Transportation Officials;
-    - **(F)** the publication of the Federal Highway Administration entitled “Wildlife Crossing Structure Handbook: Design and Evaluation in North America” and dated March 2011; and
-    - **(G)** any other material that the Secretary determines to be appropriate.
-- **(d)**
-  - **(1)** On any highway project in which Federal funds hereafter participate, or on any such proj­ect constructed since December 20, 1944 , the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State transportation department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safety, inclusion, and mobility of all users and efficient utilization of the highways.
-  - **(2)** Not later than 18 months after the date of enactment of the Surface Transportation Reauthorization Act of 2021 and not less frequently than every 4 years thereafter, the Secretary shall update the Manual on Uniform Traffic Control Devices.
+    - **(C)** “Eight Characteristics of Process to Yield Excellence and the Seven Qualities of Excellence in Transportation Design” developed by the conference held during 1998 entitled “Thinking Beyond the Pavement National Workshop on Integrating Highway Development with Communities and the Environment while Maintaining Safety and Performance”; and
+    - **(D)** any other material that the Secretary determines to be appropriate.
+- **(d)** On any highway project in which Federal funds hereafter participate, or on any such proj­ect constructed since December 20, 1944 , the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State transportation department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safe and efficient utilization of the highways.
 - **(e)**
   - **(1)** No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2 of this title, unless proper safety protective devices complying with safety standards determined by the Secretary at that time as being adequate shall be installed or be in operation at any highway and railroad grade crossing or drawbridge on that portion of the highway with respect to which such expenditures are to be made.
   - **(2)** No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2, unless proper temporary traffic control devices to improve safety in work zones will be installed and maintained during construction, utility, and maintenance operations on that portion of the highway with respect to which such expenditures are to be made. Installation and maintenance of the devices shall be in accordance with the Manual on Uniform Traffic Control Devices.
-- **(f)** The Secretary shall not, as a condition precedent to his approval under section 106 of this title , require any State to acquire title to, or control of, any marginal land along the proposed highway in addition to that reasonably necessary for road surfaces, median strips, bikeways, pedestrian walkways, gutters, ditches, and side slopes, and of sufficient width to provide service roads for adjacent property to permit safe access at controlled locations in order to expedite traffic, promote safety, and minimize roadside parking.
+- **(f)** The Secretary shall not, as a condition precedent to his approval under section 106 of this title , require any State to acquire title to, or control of, any marginal land along the proposed highway in addition to that reasonably necessary for road surfaces, median strips, bikeways, gutters, ditches, and side slopes, and of sufficient width to provide service roads for adjacent property to permit safe access at controlled locations in order to expedite traffic, promote safety, and minimize roadside parking.
 - **(g)** Not later than January 30, 1971 , the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 - **(h)** Not later than July 1, 1972 , the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
   - **(1)** air, noise, and water pollution;
@@ -57,17 +52,10 @@ generated_at: "2026-03-30T02:55:12.546Z"
     - **(B)** the term “right-of-way” means any real property, or interest therein, acquired, dedicated, or reserved for the construction, operation, and maintenance of a highway.
 - **(m)** The Secretary shall not approve any project or take any regulatory action under this title that will result in the severance of an existing major route or have significant adverse impact on the safety for nonmotorized transportation traffic and light motorcycles, unless such project or regulatory action provides for a reasonable alternate route or such a route exists.
 - **(n)** It is the intent of Congress that any project for resurfacing, restoring, or rehabilitating any highway, other than a highway access to which is fully controlled, in which Federal funds participate shall be constructed in accordance with standards to preserve and extend the service life of highways and enhance highway safety.
-- **(o)**
-    - **(A)** Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
-    - **(B)** Notwithstanding subparagraph (A), a local jurisdiction may use a roadway design guide recognized by the Federal Highway Administration and adopted by the local jurisdiction that is different from the roadway design guide used by the State in which the local jurisdiction is located for the design of projects on all roadways under the ownership of the local jurisdiction (other than a highway on the National Highway System) for which the local jurisdiction is the project sponsor, provided that the design complies with all other applicable Federal laws.
+- **(o)** Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
 - **(p)** Notwithstanding subsections (b) and (c), the Secretary may approve a project for the National Highway System if the project is designed to—
   - **(1)** allow for the preservation of environmental, scenic, or historic values;
   - **(2)** ensure safe use of the facility; and
   - **(3)** comply with subsection (a).
 - **(q)** Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with a statewide transportation improvement program approved by the Secretary.
 - **(r)** The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
-- **(s)**
-  - **(1)** Electric vehicle charging infrastructure installed using funds provided under this title shall provide, at a minimum—
-    - **(A)** non-proprietary charging connectors that meet applicable industry safety standards; and
-    - **(B)** open access to payment methods that are available to all members of the public to ensure secure, convenient, and equal access to the electric vehicle charging infrastructure that shall not be limited by membership to a particular payment provider.
-  - **(2)** Notwithstanding any other provision of law, a project to install electric vehicle charging infrastructure using funds provided under this title shall be treated as if the project is located on a Federal-aid highway.

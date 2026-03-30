@@ -1,12 +1,15 @@
 ---
-title: "Section 911 - Omitted"
+title: "Section 911 - Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination"
 usc_title: 25
 usc_section: "911"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 911"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.856Z"
+status: "active"
 ---
 
-# § 911. Omitted
+# § 911. Membership roll; preparation; eligibility for enrollment; applications for enrollment; protests; finality of determination
+
+The Secretary of the Interior is authorized and directed to prepare a roll of the persons whose names appear on the Quapaw membership roll forwarded under date of January 4, 1890 , and whose membership in the tribe was then based upon Quapaw blood rather than solely upon adoption, and the descendants of such persons, who are living on July 17, 1959 . Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, on forms prescribed by the Secretary, within six months after July 17, 1959 . For a period of three months thereafter, the Secretary shall permit the examination of the applications by the Quapaw Tribal Business Committee or by persons having a material interest therein for the purpose of lodging protests against any application. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 

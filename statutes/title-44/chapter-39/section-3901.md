@@ -3,15 +3,16 @@ title: "Section 3901 - Purpose and establishment of the Office of Inspector Gene
 usc_title: 44
 usc_section: "3901"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 3901"
-generated_at: "2026-03-30T02:55:56.300Z"
+generated_at: "2026-03-30T03:06:01.369Z"
+status: "active"
 ---
 
 # § 3901. Purpose and establishment of the Office of Inspector General
 
 In order to create an independent and objective office—
 
-  - **(1)** to conduct and supervise audits and investigations relating to the Government Publishing Office;
+  - **(1)** to conduct and supervise audits and investigations relating to the Government Printing Office;
   - **(2)** to provide leadership and coordination and recommend policies to promote economy, efficiency, and effectiveness; and
-  - **(3)** to provide a means of keeping the Director of the Government Publishing Office and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Government Publishing Office;
+  - **(3)** to provide a means of keeping the Public Printer and the Congress fully and currently informed about problems and deficiencies relating to the administration and operations of the Government Printing Office; there is hereby established an Office of Inspector General in the Government Printing Office.

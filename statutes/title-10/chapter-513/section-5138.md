@@ -1,0 +1,20 @@
+---
+title: "Section 5138 - Bureau of Medicine and Surgery: Dental Corps; Chief; functions"
+usc_title: 10
+usc_section: "5138"
+chapter: 513
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 5138"
+generated_at: "2026-03-30T03:04:17.315Z"
+status: "active"
+---
+
+# § 5138. Bureau of Medicine and Surgery: Dental Corps; Chief; functions
+
+- **(a)** An officer of the Dental Corps not below the grade of rear admiral (lower half) shall be detailed as Chief of the Dental Corps.
+- **(b)** The Chief of the Dental Corps is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title .
+- **(c)** The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps. All matters relating to dentistry shall be referred to the Chief of the Dental Corps.
+- **(d)** The Chief of the Dental Corps shall—
+  - **(1)** establish professional standards and policies for dental practice;
+  - **(2)** initiate and recommend action pertaining to complements, strength, appointments, advancement, training assignment, and transfer of dental personnel; and
+  - **(3)** serve as the advisor for the Bureau on all matters relating directly to dentistry.

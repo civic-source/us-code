@@ -3,9 +3,10 @@ title: "Section 852 - Taxation of regulated investment companies and their share
 usc_title: 26
 usc_section: "852"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 852"
-generated_at: "2026-03-30T02:55:27.733Z"
+generated_at: "2026-03-30T03:05:18.624Z"
+status: "active"
 ---
 
 # § 852. Taxation of regulated investment companies and their shareholders
@@ -13,22 +14,22 @@ generated_at: "2026-03-30T02:55:27.733Z"
 - **(a)** The provisions of this part (other than subsection (c) of this section) shall not be applicable to a regulated investment company for a taxable year unless—
   - **(1)** the deduction for dividends paid during the taxable year (as defined in section 561, but without regard to capital gain dividends) equals or exceeds the sum of—
     - **(A)** 90 percent of its investment company taxable income for the taxable year determined without regard to subsection (b)(2)(D); and
-    - **(B)** 90 percent of the excess of (i) its interest income excludable from gross income under section 103(a) over (ii) its deductions disallowed under sections 265 and 171(a)(2), and
+    - **(B)** 90 percent of the excess of (i) its interest income excludable from gross income under section 103(a) over (ii) its deductions disallowed under sections 265, 171(a)(2), and
   - **(2)** either—
     - **(A)** the provisions of this part applied to the investment company for all taxable years ending on or after November 8, 1983 , or
     - **(B)** as of the close of the taxable year, the investment company has no earnings and profits accumulated in any taxable year to which the provisions of this part (or the corresponding provisions of prior law) did not apply to it.
 - **(b)**
-  - **(1)** There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11.
+  - **(1)** There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11. In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).
   - **(2)** The investment company taxable income shall be the taxable income of the regulated investment company adjusted as follows:
     - **(A)** There shall be excluded the amount of the net capital gain, if any.
     - **(B)** The net operating loss deduction provided in section 172 shall not be allowed.
     - **(C)** The deductions for corporations provided in part VIII (except section 248) in subchapter B (section 241 and following, relating to the deduction for dividends received, etc.) shall not be allowed.
-    - **(D)** The deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
+    - **(D)** the 1 1 So in original. Probably should be capitalized. deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
     - **(E)** The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
     - **(F)** The taxable income shall be computed without regard to section 454(b) (relating to short-term obligations issued on a discount basis) if the company so elects in a manner prescribed by the Secretary.
     - **(G)** There shall be deducted an amount equal to the tax imposed by subsections (d)(2) and (i) of section 851 for the taxable year.
   - **(3)**
-    - **(A)** There is hereby imposed for each taxable year in the case of every regulated investment company a tax, determined as provided in section 11(b), on the excess, if any, of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gain dividends only.
+    - **(A)** There is hereby imposed for each taxable year in the case of every regulated investment company a tax, determined as provided in section 1201(a), on the excess, if any, of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gain dividends only.
     - **(B)** A capital gain dividend shall be treated by the shareholders as a gain from the sale or exchange of a capital asset held for more than 1 year.
     - **(C)** For purposes of this part—
       - **(i)** Except as provided in clause (ii), a capital gain dividend is any dividend, or part thereof, which is reported by the company as a capital gain dividend in written statements furnished to its shareholders.
@@ -97,20 +98,19 @@ generated_at: "2026-03-30T02:55:27.733Z"
     - **(B)** For purposes of this paragraph, the term “qualified late-year loss” means—
       - **(i)** any post-October capital loss, and
       - **(ii)** any late-year ordinary loss.
-    - **(C)** For purposes of this paragraph, the term “post-October capital loss” means—
-      - **(i)** any net capital loss attributable to the portion of the taxable year after October 31, or
-      - **(ii)** if there is no such loss—
-        - **(I)** any net long-term capital loss attributable to such portion of the taxable year, or
-        - **(II)** any net short-term capital loss attributable to such portion of the taxable year.
-    - **(D)** For purposes of this paragraph, the term “late-year ordinary loss” means the sum of any post-October specified loss and any post-December ordinary loss.
-    - **(E)** For purposes of this paragraph, the term “post-October specified loss” means the excess (if any) of—
-      - **(i)** the specified losses (as defined in section 4982(e)(5)(B)(ii)) attributable to the portion of the taxable year after October 31, over
-      - **(ii)** the specified gains (as defined in section 4982(e)(5)(B)(i)) attributable to such portion of the taxable year.
-    - **(F)** For purposes of this paragraph, the term “post-December ordinary loss” means the excess (if any) of—
-      - **(i)** the ordinary losses not described in subparagraph (E)(i) and attributable to the portion of the taxable year after December 31, over
-      - **(ii)** the ordinary income not described in subparagraph (E)(ii) and attributable to such portion of the taxable year.
-    - **(G)** In the case of a company to which an election under section 4982(e)(4) applies—
-      - **(i)** if such company’s taxable year ends with the month of November, the amount of qualified late-year losses (if any) shall be computed without regard to any income, gain, or loss described in subparagraphs (C) and (E), and
+    - **(C)** For purposes of this paragraph, the term “post-October capital loss” means the greatest of—
+      - **(i)** the net capital loss attributable to the portion of the taxable year after October 31,
+      - **(ii)** the net long-term capital loss attributable to such portion of the taxable year, or
+      - **(iii)** the net short-term capital loss attributable to such portion of the taxable year.
+    - **(D)** For purposes of this paragraph, the term “late-year ordinary loss” means the excess (if any) of—
+      - **(i)** the sum of—
+        - **(I)** the specified losses (as defined in section 4982(e)(5)(B)(ii)) attributable to the portion of the taxable year after October 31, plus
+        - **(II)** the ordinary losses not described in subclause (I) attributable to the portion of the taxable year after December 31, over
+      - **(ii)** the sum of—
+        - **(I)** the specified gains (as defined in section 4982(e)(5)(B)(i)) attributable to the portion of the taxable year after October 31, plus
+        - **(II)** the ordinary income not described in subclause (I) attributable to the portion of the taxable year after December 31.
+    - **(E)** In the case of a company to which an election under section 4982(e)(4) applies—
+      - **(i)** if such company’s taxable year ends with the month of November, the amount of qualified late-year losses (if any) shall be computed without regard to any income, gain, or loss described in subparagraphs (C), (D)(i)(I), and (D)(ii)(I), and
       - **(ii)** if such company’s taxable year ends with the month of December, subparagraph (A) shall not apply.
   - **(9)** For purposes of this title, if a regulated investment company is the holder of record of any share of stock on the record date for any dividend payable with respect to such stock, such dividend shall be included in gross income by such company as of the later of—
     - **(A)** the date such share became ex-dividend with respect to such dividend, or
@@ -123,7 +123,7 @@ generated_at: "2026-03-30T02:55:27.733Z"
     - **(B)**
       - **(i)** The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction (other than by reason of section 265 or 171(a)(2)) in computing its taxable income for such taxable year.
       - **(ii)** Clause (i) shall not apply to a net capital loss to which subparagraph (A) applies.
-  - **(2)** For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31, without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)), without regard to any capital loss arising on the first day of the taxable year by reason of clauses (ii) and (iii) of section 1212(a)(3)(A), and with such other adjustments as the Secretary may prescribe. The preceding sentence shall apply—
+  - **(2)** For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)). The preceding sentence shall apply—
     - **(A)** only to the extent that the amount distributed by the company with respect to the calendar year does not exceed the required distribution for such calendar year (as determined under section 4982 by substituting “100 percent” for each percentage set forth in section 4982(b)(1)), and
     - **(B)** except as provided in regulations, only if an election under section 4982(e)(4) is not in effect with respect to such company.
   - **(3)** Any distribution which is made in order to comply with the requirements of subsection (a)(2)(B)—

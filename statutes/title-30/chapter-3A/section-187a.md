@@ -3,9 +3,10 @@ title: "Section 187a - Oil or gas leases; partial assignments"
 usc_title: 30
 usc_section: "187a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 187a"
-generated_at: "2026-03-30T02:55:29.378Z"
+generated_at: "2026-03-30T03:05:07.395Z"
+status: "active"
 ---
 
 # § 187a. Oil or gas leases; partial assignments
@@ -14,4 +15,4 @@ Notwithstanding anything to the contrary in section 187 of this title , any oil 
 
   - **(1)** A separate zone or deposit under any lease.
   - **(2)** A part of a legal subdivision.
-  - **(3)** Less than 640 acres outside Alaska or of less than 2,560 acres within Alaska.
+  - **(3)** Less than 640 acres outside Alaska or of less than 2,560 acres within Alaska. Requests for approval of assignment or sublease shall be processed promptly by the Secretary. Except where the assignment or sublease is not in accordance with applicable law, the approval shall be given within 60 days of the date of receipt by the Secretary of a request for such approval. Upon approval of any assignment or sublease, the assignee or sublessee shall be bound by the terms of the lease to the same extent as if such assignee or sublessee were the original lessee, any conditions in the assignment or sublease to the contrary notwithstanding. Any partial assignment of any lease shall segregate the assigned and retained portions thereof, and as above provided, release and discharge the assignor from all obligations thereafter accruing with respect to the assigned lands; and such segregated leases shall continue in full force and effect for the primary term of the original lease, but for not less than two years after the date of discovery of oil or gas in paying quantities upon any other segregated portion of the lands originally subject to such lease. Assignments under this section may also be made of parts of leases which are in their extended term because of any provision of this chapter. Upon the segregation by an assignment of a lease issued after September 2, 1960 and held beyond its primary term by production, actual or suspended, or the payment of compensatory royalty, the segregated lease of an undeveloped, assigned, or retained part shall continue for two years, and so long thereafter as oil or gas is produced in paying quantities.

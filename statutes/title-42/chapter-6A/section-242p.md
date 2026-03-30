@@ -3,9 +3,10 @@ title: "Section 242p - National disease prevention data profile"
 usc_title: 42
 usc_section: "242p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 242p"
-generated_at: "2026-03-30T02:56:10.691Z"
+generated_at: "2026-03-30T03:06:22.304Z"
+status: "active"
 ---
 
 # § 242p. National disease prevention data profile
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:56:10.691Z"
   - **(2)** morbidity rates associated with preventable diseases;
   - **(3)** the physical determinants of health of the population of the United States and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability; and
   - **(4)** the behavioral determinants of health of the population of the United States including, but not limited to, smoking, nutritional and dietary habits, exercise, and alcohol consumption, and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability.
-- **(b)** In preparing the profile required by subsection (a), the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
+- **(b)** In preparing the profile required by subsection (a) of this section, the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.

@@ -3,9 +3,10 @@ title: "Section 394 - Establishment of National Endowment"
 usc_title: 47
 usc_section: "394"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 394"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-03-30T03:06:26.193Z"
+status: "active"
 ---
 
 # § 394. Establishment of National Endowment
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:56:24.512Z"
       - **(iii)** the administrative costs of the programming production; and
     - **(C)** criteria to otherwise maximize the proportion of funds made available by the Endowment that are expended for the cost of programming production.
   - **(2)** Applications for grants under this section shall be submitted to the Secretary in such form and containing such information as the Secretary shall require by regulation.
-- **(d)** Upon approving any application for a grant under subsection (b)(1)(B), the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
+- **(d)** Upon approving any application for a grant under subsection (b)(1)(B) of this section, the Secretary shall make a grant to the applicant in an amount determined by the Secretary, except that such amounts shall not exceed 75 percent of the amount determined by the Secretary to be the reasonable and necessary cost of the project for which the grant is made.
 - **(e)**
   - **(1)** The Secretary shall establish an Advisory Council on Children’s Educational Television. The Secretary shall appoint ten individuals as members of the Council and designate one of such members to serve as Chairman.
   - **(2)** Members of the Council shall have terms of two years, and no member shall serve for more than three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.

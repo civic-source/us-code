@@ -3,9 +3,10 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-03-30T03:04:17.270Z"
+status: "active"
 ---
 
 # § 2165. National Defense University: component institutions
@@ -15,11 +16,9 @@ generated_at: "2026-03-30T02:53:38.146Z"
   - **(1)** The National War College.
   - **(2)** The Dwight D. Eisenhower School for National Security and Resource Strategy.
   - **(3)** The Joint Forces Staff College.
-  - **(4)** The Institute for National Strategic Studies (including a Center for Strategic Deterrence and Weapons of Mass Destruction Studies).
-  - **(5)** The College of Information and Cyberspace.
-  - **(6)** The College of International Security Affairs.
-  - **(7)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
-- **[(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B) , Oct. 17, 2006 , 120 Stat. 2353 .]
+  - **(4)** The Institute for National Strategic Studies.
+  - **(5)** The Information Resources Management College.
+  - **(6)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 - **(d)** Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 - **(e)**
   - **(1)** The Secretary of Defense may authorize the President of the National Defense University to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of one of the institutions comprising the University for a scientific, literary, or educational purpose.
@@ -28,6 +27,3 @@ generated_at: "2026-03-30T02:53:38.146Z"
   - **(4)** The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
   - **(5)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
   - **(6)** The Secretary shall prescribe regulations for the administration of this subsection.
-- **(f)**
-  - **(1)** In engaging in research and development projects pursuant to subsection (a) of section 4001 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the National Defense University.
-  - **(2)** The National Defense University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a ).

@@ -3,9 +3,10 @@ title: "Section 4111 - Exclusive recognition"
 usc_title: 22
 usc_section: "4111"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4111"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-03-30T03:04:53.676Z"
+status: "active"
 ---
 
 # § 4111. Exclusive recognition
@@ -27,5 +28,5 @@ generated_at: "2026-03-30T02:55:05.407Z"
 - **(e)** A labor organization seeking exclusive recognition shall submit to the Board and to the Department a roster of its officers and representatives, a copy of its constitution and bylaws, and a statement of its objectives.
 - **(f)** Exclusive recognition shall not be accorded to a labor organization—
   - **(1)** if the Board determines that the labor organization is subject to corrupt influence or influences opposed to democratic principles; or
-  - **(2)** in the case of a petition filed under subsection (b)(1)(A), if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
+  - **(2)** in the case of a petition filed under subsection (b)(1)(A) of this section, if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
 - **(g)** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Board.

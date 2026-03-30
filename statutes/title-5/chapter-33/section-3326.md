@@ -3,17 +3,19 @@ title: "Section 3326 - Appointments of retired members of the armed forces to po
 usc_title: 5
 usc_section: "3326"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 3326"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-03-30T03:04:06.067Z"
+status: "active"
 ---
 
 # § 3326. Appointments of retired members of the armed forces to positions in the Department of Defense
 
 - **(a)** For the purpose of this section, “member” and “Secretary concerned” have the meanings given them by section 101 of title 37 .
 - **(b)** A retired member of the armed forces may be appointed to a position in the civil service in or under the Department of Defense (including a nonappropriated fund instrumentality under the jurisdiction of the armed forces) during the period of 180 days immediately after his retirement only if—
-  - **(1)** the proposed appointment is authorized by the Secretary concerned or his designee for the purpose, and, if the position is in the competitive service, after approval by the Office of Personnel Management; or
-  - **(2)** the minimum rate of basic pay for the position has been increased under section 5305 of this title .
+  - **(1)** the proposed appointment is authorized by the Secretary concerned or his designee for the purpose, and, if the position is in the competitive service, after approval by the Office of Personnel Management;
+  - **(2)** the minimum rate of basic pay for the position has been increased under section 5305 of this title ; or
+  - **(3)** a state of national emergency exists.
 - **(c)** A request by appropriate authority for the authorization, or the authorization and approval, as the case may be, required by subsection (b)(1) of this section shall be accompanied by a statement which shows the actions taken to assure that—
   - **(1)** full consideration, in accordance with placement and promotion procedures of the department concerned, was given to eligible career employees;
   - **(2)** when selection is by other than certification from an established civil service register, the vacancy has been publicized to give interested candidates an opportunity to apply;

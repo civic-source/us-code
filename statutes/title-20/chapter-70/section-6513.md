@@ -1,0 +1,23 @@
+---
+title: "Section 6513 - State applications"
+usc_title: 20
+usc_section: "6513"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 6513"
+generated_at: "2026-03-30T03:04:46.339Z"
+status: "active"
+---
+
+# § 6513. State applications
+
+- **(a)** Each State educational agency that desires to receive a grant under this part shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+- **(b)** Each such application shall describe—
+  - **(1)** the process and selection criteria by which the State educational agency, using expert review, will select local educational agencies to receive subgrants under this part;
+  - **(2)** how the State educational agency will ensure that funds under this part are limited to comprehensive school reform programs that—
+    - **(A)** include each of the components described in section 6516(a) of this title ;
+    - **(B)** have the capacity to improve the academic achievement of all students in core academic subjects within participating schools; and
+    - **(C)** are supported by technical assistance providers that have a successful track record, financial stability, and the capacity to deliver high quality materials, professional development for school personnel, and on-site support during the full implementation period of the reforms;
+  - **(3)** how the State educational agency will disseminate materials and information on comprehensive school reforms that are based on scientifically based research and effective practices;
+  - **(4)** how the State educational agency will evaluate annually the implementation of such reforms and measure the extent to which the reforms have resulted in increased student academic achievement; and
+  - **(5)** how the State educational agency will provide technical assistance to the local educational agency or consortia of local educational agencies, and to participating schools, in evaluating, developing, and implementing comprehensive school reform.

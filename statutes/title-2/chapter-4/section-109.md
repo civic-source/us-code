@@ -1,12 +1,15 @@
 ---
-title: "Section 109 - Transferred"
+title: "Section 109 - American goods to be preferred in purchases for Senate and House"
 usc_title: 2
 usc_section: "109"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 109"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.403Z"
+status: "active"
 ---
 
-# § 109. Transferred
+# § 109. American goods to be preferred in purchases for Senate and House
+
+The Secretary of the Senate and the Chief Administrative Officer of the House of Representatives shall, in disbursing the public moneys for the use of the two Houses, respectively, purchase only articles the growth and manufacture of the United States, provided the articles required can be procured of such growth and manufacture upon as good terms as to quality and price as are demanded for like articles of foreign growth and manufacture.
 

@@ -3,9 +3,10 @@ title: "Section 4211 - Provision of assistance"
 usc_title: 16
 usc_section: "4211"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 4211"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-03-30T03:04:48.620Z"
+status: "active"
 ---
 
 # § 4211. Provision of assistance
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
   - **(4)** an estimate of the funds and time required to complete the project;
   - **(5)** evidence of support of the project by governmental entities of countries within which the project will be conducted, if such support may be important for the success of the project; and
   - **(6)** any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
-- **(c)** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
+- **(c)** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
 - **(d)** The Secretary may approve a project under this section if the project will enhance programs for African elephant research, conservation, management, or protection by—
   - **(1)** developing in a usable form sound scientific information on African elephant habitat condition and carrying capacity, total elephant numbers and population trends, or annual reproduction and mortality; or
   - **(2)** assisting efforts—
@@ -27,6 +28,3 @@ generated_at: "2026-03-30T02:54:23.041Z"
     - **(C)** to enhance compliance with the CITES Ivory Control System.
 - **(e)** To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects that will enhance sustainable conservation programs to ensure effective long-term conservation of African elephants.
 - **(f)** Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
-- **(g)**
-  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
-  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

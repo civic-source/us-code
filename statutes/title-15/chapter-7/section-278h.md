@@ -3,9 +3,10 @@ title: "Section 278h - Research program on security of computer systems"
 usc_title: 15
 usc_section: "278h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 278h"
-generated_at: "2026-03-30T02:54:08.079Z"
+generated_at: "2026-03-30T03:04:31.117Z"
+status: "active"
 ---
 
 # § 278h. Research program on security of computer systems
@@ -21,14 +22,14 @@ generated_at: "2026-03-30T02:54:08.079Z"
     - **(A)** To be eligible for an award under this subsection, an individual shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
     - **(B)** Under this subsection, the Director is authorized to provide stipends for post-doctoral research fellowships at the level of the Institute’s Post Doctoral Research Fellowship Program and senior research fellowships at levels consistent with support for a faculty member in a sabbatical position.
 - **(c)**
-  - **(1)** The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds made available under this section shall be made available directly to any for-profit partners.
+  - **(1)** The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a) of this section. No funds made available under this section shall be made available directly to any for-profit partners.
   - **(2)** To be eligible for an award under this section, an institution of higher education shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
     - **(A)** the number of graduate students anticipated to participate in the research project and the level of support to be provided to each;
     - **(B)** the number of post-doctoral research positions included under the research project and the level of support to be provided to each;
     - **(C)** the number of individuals, if any, intending to change research fields and pursue studies related to the security of computer systems to be included under the research project and the level of support to be provided to each; and
     - **(D)** how the for-profit entities, nonprofit research institutions, and any other partners will participate in developing and carrying out the research and education agenda of the partnership.
 - **(d)**
-  - **(1)** The program established under subsection (a) shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
+  - **(1)** The program established under subsection (a) of this section shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
   - **(2)** Program managers designated under paragraph (1) may be new or existing employees of the Institute or individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [ 42 U.S.C. 4701 et seq.], except that individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 shall not directly manage such employees.
   - **(3)** Program managers designated under paragraph (1) shall be responsible for—
     - **(A)** establishing and publicizing the broad research goals for the program;
@@ -38,12 +39,12 @@ generated_at: "2026-03-30T02:54:08.079Z"
       - **(ii)** the demonstrated capabilities of the individual or individuals submitting the applications to successfully carry out the proposed research;
       - **(iii)** the impact the proposed projects will have on increasing the number of computer security researchers;
       - **(iv)** the nature of the participation by for-profit entities and the extent to which the proposed projects address the concerns of industry; and
-      - **(v)** other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c); and
+      - **(v)** other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c) of this section; and
     - **(D)** monitoring the progress of research projects supported under the program.
-  - **(4)** The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [ 42 U.S.C. 4701 et seq.] who are performing duties under subsection (d).
+  - **(4)** The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 [ 42 U.S.C. 4701 et seq.] who are performing duties under subsection (d) of this section.
 - **(e)**
-  - **(1)** The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under section 278g–4 of this title , on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
-  - **(2)** The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A), and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
+  - **(1)** The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d) of this section. In conducting those reviews, the Director shall seek the advice of the Computer System Security 1 and Privacy Advisory Board, established under section 278g–4 of this title , on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d) of this section.
+  - **(2)** The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
 - **(f)** In this section:
   - **(1)** The term “computer system” has the meaning given that term in section 278g–3(d)(1) 2 of this title.
   - **(2)** The term “institution of higher education” has the meaning given that term in section 1001(a) of title 20 .

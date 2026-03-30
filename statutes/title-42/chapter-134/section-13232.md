@@ -3,12 +3,13 @@ title: "Section 13232 - Labeling requirements"
 usc_title: 42
 usc_section: "13232"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13232"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-03-30T03:06:22.924Z"
+status: "active"
 ---
 
 # § 13232. Labeling requirements
 
 - **(a)** The Federal Trade Commission, in consultation with the Secretary, the Administrator of the Environmental Protection Agency, and the Secretary of Transportation, shall, within 18 months after October 24, 1992 , issue a notice of proposed rulemaking for a rule to establish uniform labeling requirements, to the greatest extent practicable, for alternative fuels and alternative fueled vehicles, including requirements for appropriate information with respect to costs and benefits, so as to reasonably enable the consumer to make choices and comparisons. Required labeling under the rule shall be simple and, where appropriate, consolidated with other labels providing information to the consumer. In formulating the rule, the Federal Trade Commission shall give consideration to the problems associated with developing and publishing useful and timely cost and benefit information, taking into account lead time, costs, the frequency of changes in costs and benefits that may occur, and other relevant factors. The Commission shall obtain the views of affected industries, consumer organizations, Federal and State agencies, and others in formulating the rule. A final rule shall be issued within 1 year after the notice of proposed rulemaking is issued. Such rule shall be updated periodically to reflect the most recent available information.
-- **(b)** The Secretary shall provide technical assistance to the Federal Trade Commission in developing labeling requirements under subsection (a). The Secretary shall coordinate activities under this section with activities under section 13231 of this title .
+- **(b)** The Secretary shall provide technical assistance to the Federal Trade Commission in developing labeling requirements under subsection (a) of this section. The Secretary shall coordinate activities under this section with activities under section 13231 of this title .

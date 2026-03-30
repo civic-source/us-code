@@ -3,9 +3,10 @@ title: "Section 1482 - Expenses incident to death"
 usc_title: 10
 usc_section: "1482"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1482"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-03-30T03:04:17.258Z"
+status: "active"
 ---
 
 # § 1482. Expenses incident to death
@@ -18,16 +19,8 @@ generated_at: "2026-03-30T02:53:38.125Z"
   - **(5)** Furnishing of a casket or urn, or both, with outside box.
   - **(6)** Hearse service.
   - **(7)** Funeral director’s services.
-  - **(8)**
-    - **(A)** Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for an escort of one person, to the place, subject to subparagraph (B), selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
-    - **(B)** The person designated to direct disposition of the remains may select two places under subparagraph (A) if the second place is a national cemetery. If that person selects two places, the Secretary concerned may pay for transportation to the second place only by means of reimbursement under subsection (b).
-    - **(C)** When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
-  - **(9)** Interment or inurnment of the remains.
-  - **(10)** In the case of a decedent under the jurisdiction of a Secretary of a military department at the time of death, enduring care of remains interred in a foreign cemetery if the burial location was designated by such Secretary.
-  - **(11)**
-    - **(A)** Delivery of personal effects of a decedent to the next of kin or other appropriate person.
-    - **(B)** If the Secretary concerned enters into an agreement with an entity to carry out subparagraph (A), the Secretary concerned may, at the request of the person described in such subparagraph, pursue a claim against such entity that arises from the failure of such entity to substantially perform such subparagraph.
-    - **(C)** If an entity described in subparagraph (B) fails to substantially perform subparagraph (A) by damaging, losing, or destroying the personal effects of a decedent, the Secretary concerned shall reimburse the person designated under subsection (c) the greater of $1,000 or the fair market value of such damage, loss, or destruction. The Secretary concerned may request, from the person designated under subsection (c), proof of fair market value and ownership of the personal effects.
+  - **(8)** Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
+  - **(9)** Interment of the remains.
 - **(b)** If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 - **(c)** The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
   - **(1)** The person identified by the decedent on the record of emergency data maintained by the Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.
@@ -52,9 +45,4 @@ generated_at: "2026-03-30T02:53:38.125Z"
   - **(5)** In this subsection:
     - **(A)** The term “parent” includes a natural parent, a stepparent, a parent by adoption, or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to the decedent. Preference under paragraph (1)(B) shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.
     - **(B)** The term “child” has the meaning prescribed by section 1477(d) of this title .
-- **(f)** The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
-- **(g)**
-  - **(1)** The payment of expenses incident to the recovery, care, and disposition of the remains of a decedent covered by section 1481(a)(10) of this title is limited to those expenses that, as determined under regulations prescribed by the Secretary of Defense, would not have been incurred but for the retention of those remains for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under section 1471 of this title .
-  - **(2)** In a case covered by paragraph (1), if the person designated under subsection (c) to direct disposition of the remains of a decedent does not direct disposition of the remains that were retained for the forensic pathology investigation, the Secretary may pay for the transportation of those remains to, and interment or inurnment of those remains in, an appropriate place selected by the Secretary, in lieu of the transportation authorized to be paid under paragraph (8) of subsection (a).
-  - **(3)** In a case covered by paragraph (1), expenses that may be paid do not include expenses with respect to an escort under paragraph (8) of subsection (a), whether or not on a reimbursable basis.
-  - **(4)** The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
+- **(f)** The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.

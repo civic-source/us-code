@@ -3,9 +3,10 @@ title: "Section 5315 - Private sector participation"
 usc_title: 49
 usc_section: "5315"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5315"
-generated_at: "2026-03-30T02:56:19.315Z"
+generated_at: "2026-03-30T03:06:29.279Z"
+status: "active"
 ---
 
 # § 5315. Private sector participation
@@ -21,6 +22,3 @@ generated_at: "2026-03-30T02:56:19.315Z"
   - **(1)** identify best practices for public-private partnerships models in the United States and in other countries;
   - **(2)** develop standard public-private partnership transaction model contracts; and
   - **(3)** perform financial assessments that include the calculation of public and private benefits of a proposed public-private partnership transaction.
-- **(d)** Nothing in this section shall be construed to alter—
-  - **(1)** the eligibilities, requirements, or priorities for assistance provided under this chapter; or
-  - **(2)** the requirements of section 5306(a).

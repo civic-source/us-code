@@ -3,9 +3,10 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T02:55:27.772Z"
+generated_at: "2026-03-30T03:05:18.657Z"
+status: "active"
 ---
 
 # § 1391. Designation procedure
@@ -13,12 +14,12 @@ generated_at: "2026-03-30T02:55:27.772Z"
 - **(a)** From among the areas nominated for designation under this section, the appropriate Secretaries may designate empowerment zones and enterprise communities.
 - **(b)**
   - **(1)** The appropriate Secretaries may designate in the aggregate 95 nominated areas as enterprise communities under this section, subject to the availability of eligible nominated areas. Of that number, not more than 65 may be designated in urban areas and not more than 30 may be designated in rural areas.
-  - **(2)** The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 8 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
+  - **(2)** The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
 - **(c)** A designation may be made under subsection (a) only after 1993 and before 1996.
 - **(d)**
   - **(1)** Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
     - **(A)**
-      - **(i)** in the case of an empowerment zone, December 31, 2025 , or
+      - **(i)** in the case of an empowerment zone, December 31, 2013 , or
       - **(ii)** in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
     - **(B)** the termination date designated by the State and local governments as provided for in their nomination, or
     - **(C)** the date the appropriate Secretary revokes the designation.
@@ -64,9 +65,9 @@ generated_at: "2026-03-30T02:55:27.772Z"
     - **(D)** Subsection (e)(5) shall not apply to any enterprise community designated under subsection (a) that is also nominated for designation under this subsection.
     - **(E)**
       - **(i)** Section 1393(a)(4) shall not apply to an area nominated for designation under this subsection.
-      - **(ii)** An area in an Indian reservation shall be treated as nominated by a State and a local government if it is nominated by the reservation governing body (as determined by the Secretary of the Interior).
+      - **(ii)** An area in an Indian reservation shall be treated as nominated by a State and a local government if it is nominated by the reservation governing body (as determined by the Secretary of 1 1 So in original. Probably should be followed by “the”. Interior).
 - **(h)**
   - **(1)** In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
   - **(2)** A designation may be made under this subsection after the date of the enactment of this subsection and before January 1, 2002 .
   - **(3)** The rules of subsection (g)(3) shall apply to designations under this subsection.
-  - **(4)** The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). 1 1 See References in Text note below. Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
+  - **(4)** The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.

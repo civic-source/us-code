@@ -3,9 +3,10 @@ title: "Section 40307 - Exemption from antitrust laws"
 usc_title: 46
 usc_section: "40307"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 40307"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-03-30T03:06:27.183Z"
+status: "active"
 ---
 
 # § 40307. Exemption from antitrust laws
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:56:15.564Z"
   - **(6)** an agreement or activity to provide wharfage, dock, warehouse, or other terminal facilities outside the United States; or
   - **(7)** an agreement, modification, or cancellation approved before June 18, 1984 , by the Commission under section 15 of the Shipping Act, 1916, or permitted under section 14b of that Act, and any properly published tariff, rate, fare, or charge, or classification, rule, or regulation explanatory thereof implementing that agreement, modification, or cancellation.
 - **(b)** This part does not extend antitrust immunity to—
-  - **(1)** an agreement with or among air carriers, rail carriers, motor carriers, tug operators, or common carriers by water not subject to this part relating to transportation within the United States;
+  - **(1)** an agreement with or among air carriers, rail carriers, motor carriers, or common carriers by water not subject to this part relating to transportation within the United States;
   - **(2)** a discussion or agreement among common carriers subject to this part relating to the inland divisions (as opposed to the inland portions) of through rates within the United States;
   - **(3)** an agreement among common carriers subject to this part to establish, operate, or maintain a marine terminal in the United States; or
   - **(4)** a loyalty contract.

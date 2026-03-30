@@ -1,12 +1,15 @@
 ---
-title: "Section 758 - Omitted"
+title: "Section 758 - Status of Tribes"
 usc_title: 25
 usc_section: "758"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 758"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.854Z"
+status: "active"
 ---
 
-# § 758. Omitted
+# § 758. Status of Tribes
 
+- **(a)** Effective on the date of the proclamation provided for in section 757 of this title , the corporate charter issued pursuant to the Act of June 18, 1934 ( 48 Stat. 984 ), as amended [ 25 U.S.C. 461 et seq.], to the Kanosh Band of Paiute Indians of the Kanosh Reservation, Utah, and ratified by the band on August 15, 1943 , and to the Shivwits Band of Paiute Indians of the Shivwits Reservation, Utah, and ratified by the band on August 30, 1941 , are revoked.
+- **(b)** Effective on the date of the proclamation provided for in section 757 of this title , all powers of the Secretary or other officer of the United States to take, review, or approve any action under the constitution and bylaws of the tribe are terminated. Any powers conferred upon the tribe by such constitution which are inconsistent with the provisions of this subchapter are terminated. Such termination shall not affect the power of the tribe to take any action under its constitution and bylaws that is consistent with this subchapter without the participation of the Secretary or other officer of the United States.

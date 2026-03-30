@@ -1,12 +1,23 @@
 ---
-title: "Section 3713c - Transferred"
+title: "Section 3713c - Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers"
 usc_title: 42
 usc_section: "3713c"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3713c"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.693Z"
+status: "active"
 ---
 
-# § 3713c. Transferred
+# § 3713c. Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers
 
+- **(a)**
+  - **(1)** In addition to amounts otherwise authorized for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers, there are authorized to be appropriated for each of the fiscal years 2009 through 2013—
+    - **(A)** $10,000,000 to the Director of the Federal Bureau of Investigation; and
+    - **(B)** $10,000,000 to the Attorney General for the Criminal Division of the Department of Justice.
+  - **(2)** Any amounts appropriated under paragraph (1) shall remain available until expended.
+- **(b)** Funds made available under subsection (a) shall be used by the Director of the Federal Bureau of Investigation and the Attorney General, for the Federal Bureau of Investigation and the Criminal Division of the Department of Justice, respectively, to—
+  - **(1)** hire and train law enforcement officers to—
+    - **(A)** investigate intellectual property crimes and other crimes committed through the use of computers and other information technology, including through the use of the Internet; and
+    - **(B)** assist in the prosecution of such crimes; and
+  - **(2)** enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools of forensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.

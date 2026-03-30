@@ -3,9 +3,10 @@ title: "Section 631b - Reports to Congress; state of small business"
 usc_title: 15
 usc_section: "631b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 631b"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-03-30T03:04:31.121Z"
+status: "active"
 ---
 
 # § 631b. Reports to Congress; state of small business
@@ -19,8 +20,8 @@ generated_at: "2026-03-30T02:54:08.085Z"
 - **(b)** The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 - **(c)** The President may transmit from time to time to the Congress reports supplementary to the Report on Small Business and Competition, each of which shall include such supplementary or revised recommendations as he may deem necessary or desirable to achieve the policy declared in section 631a of this title .
 - **(d)** The Report on Small Business and Competition and all supplementary reports transmitted under subsections (b) and (c) of this section shall, when transmitted to Congress, be referred to the Senate Select Committee on Small Business and the Committee on Small Business of the House of Representatives.
-- **(e)** The information and data required to be reported pursuant to subsection (a) shall separately detail those portions of such information and data that are relevant to—
+- **(e)** The information and data required to be reported pursuant to subsection (a) of this section shall separately detail those portions of such information and data that are relevant to—
   - **(1)** small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to section 637(d) of this title ;
   - **(2)** small business concerns owned and controlled by women; and
-  - **(3)** 2 2 So in original. Two pars. (3) have been enacted. qualified HUBZone small business concern (as defined in section 632(p) 3 3 See References in Text note below. of this title).
+  - **(3)** 2 2 So in original. Two pars. (3) have been enacted. qualified HUBZone small business concern (as defined in section 632(p) of this title ).
   - **(3)** 2 small business concerns owned and controlled by veterans, as defined in section 632(q) of this title , and small business concerns owned and controlled by service-disabled veterans, as defined in such section 632(q) of this title .

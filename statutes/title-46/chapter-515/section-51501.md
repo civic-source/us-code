@@ -3,13 +3,13 @@ title: "Section 51501 - General support program"
 usc_title: 46
 usc_section: "51501"
 chapter: 515
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 51501"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-03-30T03:06:27.187Z"
+status: "active"
 ---
 
 # § 51501. General support program
 
 - **(a)** The Secretary of Transportation shall cooperate with and assist State maritime academies in providing instruction to individuals to prepare them for service in the merchant marine of the United States.
 - **(b)** The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.
-- **(c)** The Secretary shall designate each State maritime academy as an American Maritime Center of Excellence.

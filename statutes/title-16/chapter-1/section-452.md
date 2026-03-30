@@ -1,12 +1,15 @@
 ---
-title: "Section 452 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 452 - Revenues of national parks covered into Treasury; estimates for care of parks"
 usc_title: 16
 usc_section: "452"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 452"
-generated_at: "2026-03-30T02:54:22.804Z"
+generated_at: "2026-03-30T03:04:48.448Z"
+status: "active"
 ---
 
-# § 452. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 452. Revenues of national parks covered into Treasury; estimates for care of parks
+
+All revenues of the national parks shall be covered into the Treasury to the credit of miscellaneous receipts, except in case of Hot Springs National Park such as may be necessary to pay obligations outstanding on June 30, 1922 .
 

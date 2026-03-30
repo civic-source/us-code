@@ -1,12 +1,15 @@
 ---
-title: "Section 500c - Omitted"
+title: "Section 500c - Acceptance of gifts"
 usc_title: 25
 usc_section: "500c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 500c"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.841Z"
+status: "active"
 ---
 
-# § 500c. Omitted
+# § 500c. Acceptance of gifts
+
+The Secretary of the Interior is hereby authorized to receive, in the name of the United States, for and on behalf of said natives of Alaska, gifts made for the purposes of this subchapter.
 

@@ -1,12 +1,15 @@
 ---
-title: "Section 5 - Omitted"
+title: "Section 5 - Interim government"
 usc_title: 25
 usc_section: "5"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-03-30T03:05:02.867Z"
+status: "active"
 ---
 
-# § 1300n–5. Omitted
+# § 1300n–5. Interim government
+
+Until the Tribe ratifies a final constitution consistent with section 1300n–6 of this title , the Tribe’s governing body shall be an Interim Tribal Council. The initial membership of the Interim Tribal Council shall consist of the members serving on December 27, 2000 , who have been elected under the tribal constitution adopted May 3, 1997 . The Interim Tribal Council shall continue to operate in the manner prescribed under such tribal constitution. Any vacancy on the Interim Tribal Council shall be filled by individuals who meet the membership criteria set forth in section 1300n–4(b) of this title and who are elected in the same manner as are Tribal Council members under the tribal constitution adopted May 3, 1997 .
 

@@ -3,9 +3,10 @@ title: "Section 901 - Definitions"
 usc_title: 20
 usc_section: "901"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 901"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-03-30T03:04:46.234Z"
+status: "active"
 ---
 
 # § 901. Definitions
@@ -19,7 +20,7 @@ For the purposes of this chapter, the term—
       - **(ii)** any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor’s degree in education from an accredited institution of higher education; or
       - **(iii)** any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity.
   - **(2)** “teacher” means an individual—
-    - **(A)** who is a citizen of the United States or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction,
+    - **(A)** who is a citizen of the United States,
     - **(B)** who is a civilian, and
     - **(C)** who is employed in a teaching position described in paragraph (1).
   - **(3)** “overseas area” means any area situated outside the United States.

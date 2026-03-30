@@ -3,17 +3,19 @@ title: "Section 102 - Michigan"
 usc_title: 28
 usc_section: "102"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 102"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-03-30T03:05:05.808Z"
+status: "active"
 ---
 
 # § 102. Michigan
 
+Michigan is divided into two judicial districts to be known as the Eastern and Western Districts of Michigan.
+
 - **(a)** The Eastern District comprises two divisions.
   - **(1)** The Southern Division comprises the counties of Genesee, Jackson, Lapeer, Lenawee, Livingston, Macomb, Monroe, Oakland, Saint Clair, Sanilac, Shiawassee, Washtenaw, and Wayne. Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
-  - **(2)** The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola. Court for the Northern Division shall be held at Bay City. Western District
+  - **(2)** The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola. Court for the Northern Division shall be held at Bay City.
 - **(b)** The Western District comprises two divisions.
   - **(1)** The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet, Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford. Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
   - **(2)** The Northern Division comprises the counties of Alger, Baraga, Chippewa, Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft. Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
-

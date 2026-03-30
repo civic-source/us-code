@@ -3,26 +3,27 @@ title: "Section 2621 - Consideration and determination respecting certain ratema
 usc_title: 16
 usc_section: "2621"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2621"
-generated_at: "2026-03-30T02:54:23.004Z"
+generated_at: "2026-03-30T03:04:48.594Z"
+status: "active"
 ---
 
 # § 2621. Consideration and determination respecting certain ratemaking standards
 
-- **(a)** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title , the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+- **(a)** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of this section, and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title , the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 - **(b)**
-  - **(1)** The consideration referred to in subsection (a) shall be made after public notice and hearing. The determination referred to in subsection (a) shall be—
+  - **(1)** The consideration referred to in subsection (a) of this section shall be made after public notice and hearing. The determination referred to in subsection (a) of this section shall be—
     - **(A)** in writing,
     - **(B)** based upon findings included in such determination and upon the evidence presented at the hearing, and
     - **(C)** available to the public.
-  - **(2)** Except as otherwise provided in paragraph (1), in the second sentence of section 2622(a) of this title , and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) shall be those established by the State regulatory authority or the nonregulated electric utility.
+  - **(2)** Except as otherwise provided in paragraph (1), in the second sentence of section 2622(a) of this title , and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) of this section shall be those established by the State regulatory authority or the nonregulated electric utility.
 - **(c)**
   - **(1)** The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—
-    - **(A)** implement any such standard determined under subsection (a) to be appropriate to carry out the purposes of this chapter, or
+    - **(A)** implement any such standard determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, or
     - **(B)** decline to implement any such standard.
-  - **(2)** If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) which is determined under subsection (a) to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
-  - **(3)** If a State regulatory authority implements a standard established by subsection (d)(7) or (8), such authority shall—
+  - **(2)** If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) of this section which is determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
+  - **(3)** If a State regulatory authority implements a standard established by subsection (d)(7) or (8) of this section, such authority shall—
     - **(A)** consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation or servicing of energy conservation, energy efficiency or other demand side management measures, and
     - **(B)** implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
 - **(d)** The following Federal standards are hereby established:
@@ -97,13 +98,3 @@ generated_at: "2026-03-30T02:54:23.004Z"
       - **(iii)** Updates of information on prices and usage shall be offered on not less than a daily basis, shall include hourly price and use information, where available, and shall include a day-ahead projection of such price information to the extent available.
       - **(iv)** Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
     - **(C)** Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
-  - **(20)**
-    - **(A)** Each electric utility shall promote the use of demand-response and demand flexibility practices by commercial, residential, and industrial consumers to reduce electricity consumption during periods of unusually high demand.
-    - **(B)**
-      - **(i)** Each State regulatory authority shall consider establishing rate mechanisms allowing an electric utility with respect to which the State regulatory authority has ratemaking authority to timely recover the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
-      - **(ii)** A nonregulated electric utility may establish rate mechanisms for the timely recovery of the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
-  - **(21)** Each State shall consider measures to promote greater electrification of the transportation sector, including the establishment of rates that—
-    - **(A)** promote affordable and equitable electric vehicle charging options for residential, commercial, and public electric vehicle charging infrastructure;
-    - **(B)** improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;
-    - **(C)** accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and
-    - **(D)** appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.

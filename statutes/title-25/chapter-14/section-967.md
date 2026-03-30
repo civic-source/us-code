@@ -1,12 +1,15 @@
 ---
-title: "Section 967 - Omitted"
+title: "Section 967 - Rules and regulations"
 usc_title: 25
 usc_section: "967"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 967"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.858Z"
+status: "active"
 ---
 
-# § 967. Omitted
+# § 967. Rules and regulations
+
+The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 

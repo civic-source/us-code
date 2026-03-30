@@ -3,15 +3,15 @@ title: "Section 9102 - Standards for tank vessels of the United States"
 usc_title: 46
 usc_section: "9102"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 9102"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-03-30T03:06:27.175Z"
+status: "active"
 ---
 
 # § 9102. Standards for tank vessels of the United States
 
-The Secretary shall prescribe standards for the manning of each vessel of the United States to which chapter 37 of this title applies, related to the duties, qualifications, and training of the officers and crew of the vessel, including standards related to—
-
+- **(a)** The Secretary shall prescribe standards for the manning of each vessel of the United States to which chapter 37 of this title applies, related to the duties, qualifications, and training of the officers and crew of the vessel, including standards related to—
   - **(1)** instruction in vessel and cargo handling and vessel navigation under normal operating conditions in coastal and confined waters and on the high seas;
   - **(2)** instruction in vessel and cargo handling and vessel navigation in emergency situations and under marine casualty or potential casualty conditions;
   - **(3)** qualifications for licenses by specific type and size of vessels;
@@ -20,3 +20,4 @@ The Secretary shall prescribe standards for the manning of each vessel of the Un
   - **(6)** periodic retraining and special training for upgrading positions, changing vessel type or size, or assuming new responsibilities;
   - **(7)** decisions about licenses and certificates, conditions of licensing or certification, and periods of licensing or certification by reference to experience, amount of training completed, and regular performance testing; and
   - **(8)** instruction in vessel maintenance functions.
+- **(b)** The Secretary shall waive the application of criteria required by subsection (a)(5) of this section for an individual having a license or certificate (including a renewal of the license or certificate) in effect on October 17, 1978 . When the waiver is granted, the Secretary may prescribe conditions for the license or certificate and its renewal, as the Secretary decides are reasonable and necessary for the safety of a vessel on which the individual may be employed.

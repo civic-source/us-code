@@ -3,9 +3,10 @@ title: "Section 156 - Approval by Congress necessary for withdrawal, reservation
 usc_title: 43
 usc_section: "156"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 156"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-03-30T03:06:10.642Z"
+status: "active"
 ---
 
 # § 156. Approval by Congress necessary for withdrawal, reservation, or restriction of over 5,000 acres for any Department of Defense project or facility

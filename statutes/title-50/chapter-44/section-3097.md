@@ -3,9 +3,10 @@ title: "Section 3097 - Budget treatment of costs of acquisition of major systems
 usc_title: 50
 usc_section: "3097"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3097"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-03-30T03:06:37.690Z"
+status: "active"
 ---
 
 # § 3097. Budget treatment of costs of acquisition of major systems by the intelligence community
@@ -24,8 +25,8 @@ generated_at: "2026-03-30T02:56:26.235Z"
     - **(C)** any change in circumstances that renders the current independent cost estimate for the major system inaccurate.
   - **(5)** Any update of an independent cost estimate for a major system under paragraph (4) shall meet all requirements for independent cost estimates under this section, and shall be treated as the most current independent cost estimate for the major system until further updated under that paragraph.
 - **(b)**
-  - **(1)** The Director shall establish within the Office of the Director of National Intelligence for Community Management an office which shall be responsible for preparing independent cost estimates, and any updates thereof, under subsection (a), unless a designation is made under paragraph (2).
-  - **(2)** In the case of the acquisition of a major system for an element of the intelligence community within the Department of Defense, the Director and the Secretary of Defense shall provide that the independent cost estimate, and any updates thereof, under subsection (a) be prepared by an entity jointly designated by the Director and the Secretary in accordance with section 2434(b)(1)(A) 1 1 See References in Text note below. of title 10.
+  - **(1)** The Director shall establish within the Office of the Director of National Intelligence for Community Management an office which shall be responsible for preparing independent cost estimates, and any updates thereof, under subsection (a) of this section, unless a designation is made under paragraph (2).
+  - **(2)** In the case of the acquisition of a major system for an element of the intelligence community within the Department of Defense, the Director and the Secretary of Defense shall provide that the independent cost estimate, and any updates thereof, under subsection (a) of this section be prepared by an entity jointly designated by the Director and the Secretary in accordance with section 2434(b)(1)(A) of title 10 .
 - **(c)**
   - **(1)** If the budget of the President requests appropriations for any fiscal year for the development or procurement of a major system by the intelligence community, the President shall, subject to paragraph (2), request in such budget an amount of appropriations for the development or procurement, as the case may be, of the major system that is equivalent to the amount of appropriations identified in the most current independent cost estimate for the major system for obligation for each fiscal year for which appropriations are requested for the major system in such budget.
   - **(2)** If the amount of appropriations requested in the budget of the President for the development or procurement of a major system is less than the amount of appropriations identified in the most current independent cost estimate for the major system for obligation for each fiscal year for which appropriations are requested for the major system in such budget, the President shall include in the budget justification materials submitted to Congress in support of such budget—

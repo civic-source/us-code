@@ -3,9 +3,10 @@ title: "Section 21 - Management authorities and purposes"
 usc_title: 16
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-03-30T03:04:48.477Z"
+status: "active"
 ---
 
 # § 460nnn–21. Management authorities and purposes

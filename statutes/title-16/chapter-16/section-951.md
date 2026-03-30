@@ -3,21 +3,18 @@ title: "Section 951 - Definitions"
 usc_title: 16
 usc_section: "951"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 951"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-03-30T03:04:48.547Z"
+status: "active"
 ---
 
 # § 951. Definitions
 
-In this chapter:
+As used in this chapter, the term—
 
-  - **(1)** The term “Antigua Convention” means the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention Between the United States of America and the Republic of Costa Rica, signed at Washington, November 14, 2003 .
-  - **(2)** The term “Commission” means the Inter-American Tropical Tuna Commission provided for by the Convention.
-  - **(3)** The term “Convention” means—
-    - **(A)** the Convention for the Establishment of an Inter-American Tropical Tuna Commission, signed at Washington, May 31, 1949 , by the United States of America and the Republic of Costa Rica;
-    - **(B)** the Antigua Convention, upon its entry into force for the United States, and any amendments thereto that are in force for the United States; or
-    - **(C)** both such Conventions, as the context requires.
-  - **(4)** The term “person” means an individual, partnership, corporation, or association subject to the jurisdiction of the United States.
-  - **(5)** The term “United States” includes all areas under the sovereignty of the United States.
-  - **(6)** The term “United States commissioners” 1 1 So in original. Probably should be capitalized. means the individuals appointed in accordance with section 952(a) of this title .
+- **(a)** “convention” includes (1) the Convention for the Establishment of an International Commission for the Scientific Investigation of Tuna, signed at Mexico City, January 25, 1949 , by the United States of America and the United Mexican States, (2) the Convention for the Establishment of an Inter-American Tropical Tuna Commission, signed at Washington, May 31, 1949 , by the United States of America and the Republic of Costa Rica, or both such conventions, as the context requires;
+- **(b)** “commission” includes (1) the International Commission for the Scientific Investigation of Tuna, (2) the Inter-American Tropical Tuna Commission provided for by the conventions referred to in subsection (a) of this section, or both such commissions, as the context requires;
+- **(c)** “United States Commissioners” means the members of the commissions referred to in subsection (b) of this section representing the United States of America and appointed pursuant to the terms of the pertinent convention and section 952 of this title ;
+- **(d)** “person” means every individual, partnership, corporation, and association subject to the jurisdiction of the United States; and
+- **(e)** “United States” shall include all areas under the sovereignty of the United States, the Trust Territory of the Pacific Islands, and the Canal Zone.

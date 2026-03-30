@@ -3,9 +3,10 @@ title: "Section 2514a - Authorization for Peace Corps to provide separation pay 
 usc_title: 22
 usc_section: "2514a"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2514a"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-03-30T03:04:53.645Z"
+status: "active"
 ---
 
 # § 2514a. Authorization for Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps

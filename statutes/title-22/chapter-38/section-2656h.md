@@ -3,9 +3,10 @@ title: "Section 2656h - International credit reports"
 usc_title: 22
 usc_section: "2656h"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2656h"
-generated_at: "2026-03-30T02:55:05.376Z"
+generated_at: "2026-03-30T03:04:53.647Z"
+status: "active"
 ---
 
 # § 2656h. International credit reports
@@ -14,4 +15,4 @@ generated_at: "2026-03-30T02:55:05.376Z"
   - **(1)** assessing country risk;
   - **(2)** projecting loan repayments; and
   - **(3)** estimating subsidy levels.
-- **(b)** Beginning 180 days after the submission of the report in subsection (a) and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.
+- **(b)** Beginning 180 days after the submission of the report in subsection (a) of this section and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.

@@ -3,13 +3,14 @@ title: "Section 4083 - Required leave"
 usc_title: 22
 usc_section: "4083"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4083"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-03-30T03:04:53.674Z"
+status: "active"
 ---
 
 # § 4083. Required leave
 
 - **(a)** The Secretary may order a member of the Service (other than a member employed under section 3951 of this title ) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title ) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
-- **(b)** Leave ordered under this section may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands. In cases in which a member of the Service has official orders to an unaccompanied post and in which the family members of the member reside apart from the member at authorized locations outside the United States, the member may take the leave ordered under this section where that member’s family members reside, notwithstanding section 10305 of title 5 .
+- **(b)** Leave ordered under this section may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 - **(c)** While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.

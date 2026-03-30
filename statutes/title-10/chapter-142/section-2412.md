@@ -1,12 +1,17 @@
 ---
-title: "Section 2412 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1872(b)(1) , Jan. 1, 2021 , 134 Stat. 4289 ]"
+title: "Section 2412 - Purposes"
 usc_title: 10
 usc_section: "2412"
 chapter: 142
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2412"
-generated_at: "2026-03-30T02:53:38.158Z"
+generated_at: "2026-03-30T03:04:17.287Z"
+status: "active"
 ---
 
-# [§§ 2411, 2412. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1872(b)(1) , Jan. 1, 2021 , 134 Stat. 4289 ]
+# § 2412. Purposes
 
+The purposes of the program authorized by this chapter are—
+
+  - **(1)** to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
+  - **(2)** to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.

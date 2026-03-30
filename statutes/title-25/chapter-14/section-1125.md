@@ -1,12 +1,15 @@
 ---
-title: "Section 1125 - Omitted"
+title: "Section 1125 - Applications for enrollment"
 usc_title: 25
 usc_section: "1125"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1125"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.860Z"
+status: "active"
 ---
 
-# § 1125. Omitted
+# § 1125. Applications for enrollment
+
+An application for addition of a name to the roll pursuant to section 1124 of this title must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, on forms prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 

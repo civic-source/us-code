@@ -3,9 +3,10 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-03-30T03:05:18.696Z"
+status: "active"
 ---
 
 # § 4980H. Shared responsibility for employers regarding health coverage
@@ -37,9 +38,6 @@ generated_at: "2026-03-30T02:55:27.814Z"
         - **(II)** the overall limitation under subsection (b)(2).
       - **(ii)** In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) 1 1 So in original. Probably means subclause (I) or (II) of clause (i). shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
     - **(E)** Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
-    - **(F)** Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
-      - **(i)** chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
-      - **(ii)** under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
   - **(3)** The term “applicable premium tax credit and cost-sharing reduction” means—
     - **(A)** any premium tax credit allowed under section 36B,
     - **(B)** any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act, and
@@ -58,4 +56,3 @@ generated_at: "2026-03-30T02:55:27.814Z"
   - **(1)** Any assessable payment provided by this section shall be paid upon notice and demand by the Secretary, and shall be assessed and collected in the same manner as an assessable penalty under subchapter B of chapter 68.
   - **(2)** The Secretary may provide for the payment of any assessable payment provided by this section on an annual, monthly, or other periodic basis as the Secretary may prescribe.
   - **(3)** The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
-  - **(4)** The Secretary shall allow an applicable large employer at least 90 days from the date of the first letter which informs the employer of a proposed assessment of the employer shared responsibility payment under this section to respond to the proposed assessment before taking any further action with respect to such proposed assessment.

@@ -3,9 +3,10 @@ title: "Section 2296 - Acquisition of recreation lands"
 usc_title: 33
 usc_section: "2296"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2296"
-generated_at: "2026-03-30T02:55:41.121Z"
+generated_at: "2026-03-30T03:05:36.294Z"
+status: "active"
 ---
 
 # § 2296. Acquisition of recreation lands

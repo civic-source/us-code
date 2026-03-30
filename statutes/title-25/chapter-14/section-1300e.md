@@ -1,12 +1,15 @@
 ---
-title: "Section 1300e - Omitted"
+title: "Section 1300e - Disposition of funds; percentage basis for division; attorney fees and expenses"
 usc_title: 25
 usc_section: "1300e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1300e"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.864Z"
+status: "active"
 ---
 
-# § 1300e. Omitted
+# § 1300e. Disposition of funds; percentage basis for division; attorney fees and expenses
+
+The funds appropriated by the Act of January 8, 1971 ( 84 Stat. 1981 ), to pay a judgment to the Assiniboine Tribes of the Fort Peck and Fort Belknap Reservations, Montana, in Indian Claims Commission docket numbered 279–A, together with interest thereon, after payment of attorney fees and litigation expenses, shall be divided by the Secretary of the Interior on the basis of 50 per centum to the Assiniboine Tribe of the Fort Peck Reservation and 50 per centum to the Assiniboine Tribe of the Fort Belknap Reservation.
 

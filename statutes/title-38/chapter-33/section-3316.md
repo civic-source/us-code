@@ -3,18 +3,19 @@ title: "Section 3316 - Supplemental educational assistance: members with critica
 usc_title: 38
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3316"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-03-30T03:05:59.210Z"
+status: "active"
 ---
 
 # § 3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service
 
 - **(a)**
-  - **(1)** In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
+  - **(1)** In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
   - **(2)** The amount of the increase in educational assistance authorized by paragraph (1) may not exceed the amount equal to the monthly amount of increased basic educational assistance providable under section 3015(d)(1) at the time of the increase under paragraph (1).
 - **(b)**
-  - **(1)** The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
+  - **(1)** The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
   - **(2)** Eligibility for supplemental educational assistance under this subsection shall be determined in accordance with the provisions of subchapter III of chapter 30, except that any reference in such provisions to eligibility for basic educational assistance under a provision of subchapter II of chapter 30 shall be treated as a reference to eligibility for educational assistance under the appropriate provision of this chapter.
   - **(3)** The amount of supplemental educational assistance payable under this subsection shall be the amount equal to the monthly amount of supplemental educational assistance payable under section 3022.
 - **(c)**

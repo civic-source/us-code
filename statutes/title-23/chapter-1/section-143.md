@@ -3,9 +3,10 @@ title: "Section 143 - Highway use tax evasion projects"
 usc_title: 23
 usc_section: "143"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 143"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-03-30T03:04:51.158Z"
+status: "active"
 ---
 
 # § 143. Highway use tax evasion projects
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:12.558Z"
 - **(b)**
   - **(1)** The Secretary shall carry out highway use tax evasion projects in accordance with this subsection.
   - **(2)**
-    - **(A)** From administrative funds made available under section 104(a), the Secretary may deduct such sums as are necessary, not to exceed $4,000,000 for each of fiscal years 2022 through 2026, to carry out this section.
+    - **(A)** From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.
     - **(B)** Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
   - **(3)** Except as otherwise provided in this section, the Secretary shall not impose any condition on the use of funds allocated to the Internal Revenue Service under this subsection.
   - **(4)** Funds made available to carry out this section shall be used only—
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:55:12.558Z"
   - **(6)** The Federal share of the cost of a project carried out under this subsection shall be 100 percent.
   - **(7)** Funds authorized to carry out this section shall remain available for obligation for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
   - **(8)** In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
-  - **(9)** The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
+  - **(9)** The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
 - **(c)**
   - **(1)** Not later than 90 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
     - **(A)** the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 ( Public Law 108–357 ), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excise taxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,

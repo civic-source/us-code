@@ -3,16 +3,21 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-03-30T03:04:48.521Z"
+status: "active"
 ---
 
-# § 698u–1. Definitions
+# § 698v–1. Definitions
 
-In sections 698u to 698u–7 of this title:
+In sections 698v to 698v–10 of this title:
 
-  - **(1)** The term “Advisory Committee” means the Advisory Committee established under section 698u–5 of this title .
-  - **(2)** The term “Preserve” means the Tallgrass Prairie National Preserve established by section 698u–2 of this title .
-  - **(3)** The term “Secretary” means the Secretary of the Interior.
-  - **(4)** The term “Trust” means the National Park Trust, Inc., a District of Columbia nonprofit corporation, or any successor-in-interest.
+  - **(1)** The term “Baca ranch” means the lands and facilities described in section 698v–2(a) of this title .
+  - **(2)** The terms “Board of Trustees” and “Board” mean the Board of Trustees as described in section 698v–5 of this title .
+  - **(3)** The term “Committees of Congress” means the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
+  - **(4)** The term “financially self-sustaining” means management and operating expenditures equal to or less than proceeds derived from fees and other receipts for resource use and development and interest on invested funds. Management and operating expenditures shall include Trustee expenses, salaries and benefits of staff, administrative and operating expenses, improvements to and maintenance of lands and facilities of the Preserve, and other similar expenses. Funds appropriated to the Trust by Congress, either directly or through the Secretary, for the purposes of sections 698v to 698v–10 of this title shall not be considered.
+  - **(5)** The term “multiple use and sustained yield” has the combined meaning of the terms “multiple use” and “sustained yield of the several products and services”, as defined under the Multiple-Use Sustained-Yield Act of 1960 ( 16 U.S.C. 531 ).
+  - **(6)** The term “Preserve” means the Valles Caldera National Preserve established under section 698v–3 of this title .
+  - **(7)** Except where otherwise provided, the term “Secretary” means the Secretary of Agriculture.
+  - **(8)** The term “Trust” means the Valles Caldera Trust established under section 698v–4 of this title .

@@ -1,0 +1,32 @@
+---
+title: "Section 6255 - Definitions and special rules"
+usc_title: 26
+usc_section: "6255"
+chapter: 63
+current_through: "PL 113-21"
+classification: "26 U.S.C. § 6255"
+generated_at: "2026-03-30T03:05:18.723Z"
+status: "active"
+---
+
+# § 6255. Definitions and special rules
+
+- **(a)** For purposes of this subchapter—
+  - **(1)** The term “electing large partnership” has the meaning given to such term by section 775.
+  - **(2)** The term “partnership item” has the meaning given to such term by section 6231(a)(3).
+- **(b)**
+  - **(1)** Each electing large partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) who shall have the sole authority to act on behalf of such partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any partner as the partner with such authority.
+  - **(2)** An electing large partnership and all partners of such partnership shall be bound—
+    - **(A)** by actions taken under this subchapter by the partnership, and
+    - **(B)** by any decision in a proceeding brought under this subchapter.
+- **(c)** For purposes of sections 6247 and 6252, a principal place of business located outside the United States shall be treated as located in the District of Columbia.
+- **(d)** If a partnership ceases to exist before a partnership adjustment under this subchapter takes effect, such adjustment shall be taken into account by the former partners of such partnership under regulations prescribed by the Secretary.
+- **(e)** For purposes of this subchapter, the principles of section 7481(a) shall be applied in determining the date on which a decision of a district court or the Claims Court becomes final.
+- **(f)**
+  - **(1)** The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any amount required to be paid under section 6242) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
+    - **(A)** for adjustment or assessment, 60 days thereafter, and
+    - **(B)** for collection, 6 months thereafter.
+  - **(2)** The running of the period specified in section 6247(a) or 6252(b) shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6247 or 6252 and for 60 days thereafter.
+- **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subchapter, including regulations—
+  - **(1)** to prevent abuse through manipulation of the provisions of this subchapter, and
+  - **(2)** providing that this subchapter shall not apply to any case described in section 6231(c)(1) (or the regulations prescribed thereunder) where the application of this subchapter to such a case would interfere with the effective and efficient enforcement of this title.

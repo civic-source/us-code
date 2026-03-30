@@ -3,9 +3,10 @@ title: "Section 2279b - Transfer of lending authority"
 usc_title: 12
 usc_section: "2279b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2279b"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-03-30T03:04:29.296Z"
+status: "active"
 ---
 
 # § 2279b. Transfer of lending authority
@@ -14,8 +15,8 @@ generated_at: "2026-03-30T02:53:53.482Z"
   - **(1)** the Farm Credit Administration Board;
   - **(2)** the Board of Directors of both institutions; and
   - **(3)** a majority of the stockholders of the bank and of the association, in accordance with the voting provisions of sections 2279a and 2279c–1 of this title, respectively.
-- **(b)** After a transfer described in subsection (a) or (d)—
+- **(b)** After a transfer described in subsection (a) or (d) of this section—
   - **(1)** the Federal land bank association shall possess all of the direct long-term real estate mortgage loan authority, formerly possessed by the transferring bank, in the territory served by the association; and
-  - **(2)** the bank may provide and extend financial assistance to, and discount for, or purchase from, the transferee Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association under subsection (a).
-- **(c)** The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that make transfers are consolidated and, to the extent necessary, reconciled in the association referred to in subsection (a).
+  - **(2)** the bank may provide and extend financial assistance to, and discount for, or purchase from, the transferee Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association under subsection (a) of this section.
+- **(c)** The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the banks that make transfers are consolidated and, to the extent necessary, reconciled in the association referred to in subsection (a) of this section.
 - **(d)** On the merger of one or more production credit associations with one or more Federal land bank associations, the bank supervising the Federal land bank association shall transfer all of the direct lending authority of the bank in the territory served by such Federal land bank association to such merged association.

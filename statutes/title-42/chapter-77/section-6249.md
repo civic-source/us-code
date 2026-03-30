@@ -3,9 +3,10 @@ title: "Section 6249 - Contracting for petroleum product and facilities"
 usc_title: 42
 usc_section: "6249"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6249"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-03-30T03:06:22.751Z"
+status: "active"
 ---
 
 # § 6249. Contracting for petroleum product and facilities
@@ -14,13 +15,13 @@ generated_at: "2026-03-30T02:56:11.244Z"
   - **(1)** for storage, in otherwise unused Strategic Petroleum Reserve facilities, of petroleum product not owned by the United States; and
   - **(2)** for storage, in storage facilities other than those of the Reserve, of petroleum product either owned or not owned by the United States.
 - **(b)**
-  - **(1)** Petroleum product stored pursuant to such a contract shall, until the expiration, termination, or other conclusion of the contract, be a part of the Reserve and subject to the Secretary’s authority under part B.
-  - **(2)** The Secretary may enter into a contract for storage of petroleum product under subsection (a) only if—
-    - **(A)** the Secretary determines (i) that entering into one or more contracts under such subsection would achieve benefits comparable to the acquisition of an equivalent amount of petroleum product, or an equivalent volume of storage capacity, for the Reserve under part B, and (ii) that, because of budgetary constraints, the acquisition of an equivalent amount of petroleum product or volume of storage space for the Reserve cannot be accomplished under part B; and
+  - **(1)** Petroleum product stored pursuant to such a contract shall, until the expiration, termination, or other conclusion of the contract, be a part of the Reserve and subject to the Secretary’s authority under part B of this subchapter.
+  - **(2)** The Secretary may enter into a contract for storage of petroleum product under subsection (a) of this section only if—
+    - **(A)** the Secretary determines (i) that entering into one or more contracts under such subsection would achieve benefits comparable to the acquisition of an equivalent amount of petroleum product, or an equivalent volume of storage capacity, for the Reserve under part B of this subchapter, and (ii) that, because of budgetary constraints, the acquisition of an equivalent amount of petroleum product or volume of storage space for the Reserve cannot be accomplished under part B of this subchapter; and
     - **(B)** the Secretary notifies each House of the Congress of the determination and identifies in the notification the location, type, and ownership of storage and related facilities proposed to be included, or the volume, type, and ownership of petroleum products proposed to be stored, in the Reserve, and an estimate of the proposed benefits.
-  - **(3)** A contract entered into under subsection (a) shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
-  - **(4)** A contract entered into under subsection (a) shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
-- **(c)** The Secretary may store petroleum product pursuant to a contract entered into under subsection (a)(1) with or without charge or may pay a fee for its storage.
-- **(d)** Contracts entered into under subsection (a) may be of such duration as the Secretary considers necessary or appropriate.
-- **(e)** The Secretary may agree to binding arbitration of disputes under any contract entered into under subsection (a).
-- **(f)** The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a), and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.
+  - **(3)** A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
+  - **(4)** A contract entered into under subsection (a) of this section shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
+- **(c)** The Secretary may store petroleum product pursuant to a contract entered into under subsection (a)(1) of this section with or without charge or may pay a fee for its storage.
+- **(d)** Contracts entered into under subsection (a) of this section may be of such duration as the Secretary considers necessary or appropriate.
+- **(e)** The Secretary may agree to binding arbitration of disputes under any contract entered into under subsection (a) of this section.
+- **(f)** The Secretary may utilize such funds as are available in the SPR Petroleum Account to carry out the activities described in subsection (a) of this section, and may obligate and expend such funds to carry out such activities, in advance of the receipt of petroleum products.

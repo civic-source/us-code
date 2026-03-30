@@ -3,9 +3,10 @@ title: "Section 2154 - Special rules for former spouses"
 usc_title: 50
 usc_section: "2154"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2154"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-03-30T03:06:37.674Z"
+status: "active"
 ---
 
 # § 2154. Special rules for former spouses
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(1)**
     - **(A)** Unless otherwise expressly provided by a spousal agreement or court order governing disposition of benefits payable under subchapter II or V of chapter 84 of title 5, a qualified former spouse of an employee is entitled to a share (determined under subparagraph (B)) of all benefits otherwise payable to such employee under subchapter II or V of chapter 84 of title 5.
     - **(B)** The share referred to in subparagraph (A) equals—
-      - **(i)** 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 5; or
+      - **(i)** 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 50; 1 1 So in original. Probably should be title “5”. or
       - **(ii)** a pro rata share of 50 percent, if the qualified former spouse was not married to the employee throughout such creditable service.
   - **(2)** The benefits payable to an employee under subchapter II of chapter 84 of title 5 shall include, for purposes of this subsection, any annuity supplement payable to such employee under sections 8421 and 8421a of such title.
   - **(3)** A qualified former spouse shall not be entitled to any benefit under this subsection if, before the commencement of any benefit, the qualified former spouse remarries before becoming 55 years of age.
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(5)**
     - **(A)** Any reduction in payments to a retired employee as a result of payments to a qualified former spouse under this subsection shall be disregarded in calculating—
       - **(i)** the survivor annuity for any spouse, former spouse (qualified or otherwise), or other survivor under chapter 84 of title 5, and
-      - **(ii)** any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under section 8442 or 8445 of title 5.
+      - **(ii)** any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under sections 2 2 So in original. Probably should be “section”. 8442 or 8445 of title 5.
     - **(B)** If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title , the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
   - **(6)** Notwithstanding paragraphs (1) and (4), in the case of any qualified former spouse of a disability annuitant—
     - **(A)** the annuity of such former spouse shall commence on the date on which the employee would qualify, on the basis of the employee’s creditable service, for benefits under subchapter II of chapter 84 of title 5 or on the date on which the disability annuity begins, whichever is later; and
@@ -68,7 +69,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
     - **(A)** 50 percent of the employee’s annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title ), multiplied by the proportion that the number of days of marriage during the period of the employee’s creditable service before the effective date of the election to transfer bears to the employee’s total creditable service before such effective date; and
     - **(B)** if applicable—
       - **(i)** 50 percent of the employee’s annuity under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title ), plus
-      - **(ii)** the survivor benefits referred to in subsection (d)(2)(A),
+      - **(ii)** the survivor benefits referred to in subsection (d)(2)(A) of this section,
 - **(e)**
   - **(1)**
     - **(A)** Unless otherwise expressly provided by a spousal agreement or court order governing disposition of the balance of an account in the Thrift Savings Fund under subchapter III of chapter 84 of title 5, a qualified former spouse of an employee is entitled to a share (determined under subparagraph (B)) of the balance in the employee’s account in the Thrift Savings Fund on the date the divorce of the qualified former spouse and employee becomes final.
@@ -83,12 +84,12 @@ generated_at: "2026-03-30T02:56:26.219Z"
 - **(f)** An employee may not make an election or modification of election under section 8417 or 8418 of title 5, or other section relating to the employee’s annuity under subchapter II of chapter 84 of title 5, that would diminish the entitlement of a qualified former spouse to any benefit granted to such former spouse by this section or by court order or spousal agreement.
 - **(g)** Whenever an employee or former employee becomes entitled to receive the lump-sum credit under section 8424(a) of title 5 , a share (determined under subsection (c)(1)(B) of this section) of that lump-sum credit shall be paid to any qualified former spouse of such employee, unless otherwise expressly provided by any spousal agreement or court order governing disposition of the lump-sum credit involved.
 - **(h)** In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
-  - **(1)** any right of the qualified former spouse to any retirement benefits under subsection (c) and to any survivor benefits under subsection (d), and the amount of any such benefits;
-  - **(2)** any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e), and the amount of any such benefit; and
-  - **(3)** any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g), and the amount of any such payment;
+  - **(1)** any right of the qualified former spouse to any retirement benefits under subsection (c) of this section and to any survivor benefits under subsection (d) of this section, and the amount of any such benefits;
+  - **(2)** any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e) of this section, and the amount of any such benefit; and
+  - **(3)** any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g) of this section, and the amount of any such payment;
 - **(i)**
   - **(1)** Except as provided in paragraph (2), in the case of an employee who has elected to become subject to chapter 84 of title 5, the provisions of sections 2034 and 2035 of this title shall apply to such employee’s former spouse (as defined in section 2002(a)(4) of this title ) who would otherwise be eligible for benefits under sections 2034 and 2035 of this title but for the employee having elected to become subject to such chapter.
   - **(2)** For the purposes of computing such former spouse’s benefits under sections 2034 and 2035 of this title—
-    - **(A)** the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
+    - **(A)** the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A) of this section; and
     - **(B)** the survivor benefits shall be equal to 55 percent of the full amount of the employee’s annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or regulations prescribed under section 2157 of this title .
   - **(3)** Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.

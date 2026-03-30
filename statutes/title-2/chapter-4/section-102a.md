@@ -1,12 +1,15 @@
 ---
-title: "Section 102a - Transferred"
+title: "Section 102a - Withdrawal of unexpended balances of appropriations"
 usc_title: 2
 usc_section: "102a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 102a"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.401Z"
+status: "active"
 ---
 
-# § 102a. Transferred
+# § 102a. Withdrawal of unexpended balances of appropriations
+
+Notwithstanding the provisions of any other law, the unexpended balances of appropriations for the fiscal year 1955 and succeeding fiscal years which are subject to disbursement by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives shall be withdrawn as of June 30 of the second fiscal year following the year for which provided, except that the unexpended balances of such appropriations for the period commencing on July 1, 1976 , and ending on September 30, 1976 , and for each fiscal year beginning on or after October 1, 1976 , shall be withdrawn as of September 30 of the second fiscal year following the period or year for which provided. Unpaid obligations chargeable to any of the balances so withdrawn or appropriations for prior years shall be liquidated from any appropriations for the same general purpose, which, at the time of payment, are available for disbursement.
 

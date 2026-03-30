@@ -3,25 +3,26 @@ title: "Section 1181 - Increased portability through limitation on preexisting c
 usc_title: 29
 usc_section: "1181"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1181"
-generated_at: "2026-03-30T02:55:18.722Z"
+generated_at: "2026-03-30T03:05:09.722Z"
+status: "active"
 ---
 
 # § 1181. Increased portability through limitation on preexisting condition exclusions
 
-- **(a)** Subject to subsection (d), a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+- **(a)** Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
   - **(1)** such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
   - **(2)** such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
-  - **(3)** the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1)) applicable to the participant or beneficiary as of the enrollment date.
+  - **(3)** the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
 - **(b)** For purposes of this part—
   - **(1)**
     - **(A)** The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
-    - **(B)** Genetic information shall not be treated as a condition described in subsection (a)(1) in the absence of a diagnosis of the condition related to such information.
+    - **(B)** Genetic information shall not be treated as a condition described in subsection (a)(1) of this section in the absence of a diagnosis of the condition related to such information.
   - **(2)** The term “enrollment date” means, with respect to an individual covered under a group health plan or health insurance coverage, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.
   - **(3)** The term “late enrollee” means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
     - **(A)** the first period in which the individual is eligible to enroll under the plan, or
-    - **(B)** a special enrollment period under subsection (f).
+    - **(B)** a special enrollment period under subsection (f) of this section.
   - **(4)** The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 - **(c)**
   - **(1)** For purposes of this part, the term “creditable coverage” means, with respect to an individual, coverage of the individual under any of the following:
@@ -37,17 +38,17 @@ generated_at: "2026-03-30T02:55:18.722Z"
     - **(J)** A health benefit plan under section 2504(e) of title 22 .
   - **(2)**
     - **(A)** A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
-    - **(B)** For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
+    - **(B)** For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
     - **(C)** In the case of plan years beginning before January 1, 2014 —
       - **(i)** In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
       - **(ii)** The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 1165(b)(4) of this title .
   - **(3)**
-    - **(A)** Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3), a group health plan, and a health insurance issuer offering group health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
-    - **(B)** A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
+    - **(A)** Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
+    - **(B)** A group health plan, or a health insurance issuer offering group health insurance coverage, may elect to apply subsection (a)(3) of this section based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
     - **(C)** In the case of an election with respect to a group health plan under subparagraph (B) (whether or not health insurance coverage is provided in connection with such plan), the plan shall—
       - **(i)** prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election, and
       - **(ii)** include in such statements a description of the effect of this election.
-  - **(4)** Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+  - **(4)** Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) of this section or in such other manner as may be specified in regulations.
 - **(d)**
   - **(1)** Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
   - **(2)** Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
@@ -63,7 +64,7 @@ generated_at: "2026-03-30T02:55:18.722Z"
       - **(i)** the period of creditable coverage of the individual under such plan and the coverage (if any) under such COBRA continuation provision, and
       - **(ii)** the waiting period (if any) (and affiliation period, if applicable) imposed with respect to the individual for any coverage under such plan.
     - **(C)** To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
-  - **(2)** In the case of an election described in subsection (c)(3)(B) by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
+  - **(2)** In the case of an election described in subsection (c)(3)(B) of this section by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
     - **(A)** upon request of such plan or issuer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan or issuer information on coverage of classes and categories of health benefits available under such entity’s plan or coverage, and
     - **(B)** such entity may charge the requesting plan or issuer for the reasonable cost of disclosing such information.
   - **(3)** The Secretary shall establish rules to prevent an entity’s failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.

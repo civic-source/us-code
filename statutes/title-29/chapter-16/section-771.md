@@ -3,9 +3,10 @@ title: "Section 771 - Declaration of purpose and competitive basis of grants and
 usc_title: 29
 usc_section: "771"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 771"
-generated_at: "2026-03-30T02:55:18.696Z"
+generated_at: "2026-03-30T03:05:09.685Z"
+status: "active"
 ---
 
 # § 771. Declaration of purpose and competitive basis of grants and contracts
@@ -14,6 +15,8 @@ generated_at: "2026-03-30T02:55:18.696Z"
   - **(1)**
     - **(A)** provide academic training to ensure that skilled personnel are available to provide rehabilitation services to individuals with disabilities through vocational, medical, social, and psychological rehabilitation programs (including supported employment programs), through economic and business development programs, through independent living services programs, and through client assistance programs; and
     - **(B)** provide training to maintain and upgrade basic skills and knowledge of personnel (including personnel specifically trained to deliver services to individuals with disabilities whose employment outcome is self-employment or telecommuting) employed to provide state-of-the-art service delivery and rehabilitation technology services;
-  - **(2)** conduct special projects and demonstrations that expand and improve the provision of rehabilitation and other services (including those services provided through community rehabilitation programs) authorized under this chapter, or that otherwise further the purposes of this chapter, including related research and evaluation; and
-  - **(3)** provide training and information to individuals with disabilities and the individuals’ representatives, and other appropriate parties to develop the skills necessary for individuals with disabilities to gain access to the rehabilitation system and statewide workforce development systems and to become active decisionmakers in the rehabilitation process.
+  - **(2)** conduct special projects and demonstrations that expand and improve the provision of rehabilitation and other services (including those services provided through community rehabilitation programs) authorized under this chapter, or that otherwise further the purposes of this chapter, including related research and evaluation;
+  - **(3)** provide vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers;
+  - **(4)** initiate recreational programs to provide recreational activities and related experiences for individuals with disabilities to aid such individuals in employment, mobility, socialization, independence, and community integration; and
+  - **(5)** provide training and information to individuals with disabilities and the individuals’ representatives, and other appropriate parties to develop the skills necessary for individuals with disabilities to gain access to the rehabilitation system and statewide workforce investment systems and to become active decisionmakers in the rehabilitation process.
 - **(b)** The Secretary shall ensure that all grants and contracts are awarded under this subchapter on a competitive basis.

@@ -3,9 +3,10 @@ title: "Section 3703 - Basic provisions relating to loan guaranty and insurance"
 usc_title: 38
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:53.511Z"
+generated_at: "2026-03-30T03:05:59.215Z"
+status: "active"
 ---
 
 # § 3703. Basic provisions relating to loan guaranty and insurance
@@ -17,15 +18,10 @@ generated_at: "2026-03-30T02:55:53.511Z"
         - **(I)** in the case of any loan of not more than $45,000, 50 percent of the loan;
         - **(II)** in the case of any loan of more than $45,000, but not more than $56,250, $22,500;
         - **(III)** except as provided in subclause (IV) of this clause, in the case of any loan of more than $56,250, the lesser of $36,000 or 40 percent of the loan; or
-        - **(IV)** in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title , 25 percent of the loan; or
-      - **(ii)** the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) or (C).
-    - **(B)** With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
-    - **(C)**
-      - **(i)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a veteran not covered by clause (ii), the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the loan.
-      - **(ii)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a covered veteran, the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the Freddie Mac conforming loan limit, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
-      - **(iii)** In this subparagraph:
-        - **(I)** The term “covered veteran” means a veteran who has previously used entitlement under this chapter and for whom the full amount of entitlement so used has not been restored as a result of the exclusion in section 3702(b) of this title .
-        - **(II)** The term “Freddie Mac conforming loan limit” means the limit determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1454(a)(2) ) for a single-family residence, as adjusted for the year involved.
+        - **(IV)** in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of section 3710(a) of this title , the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or 25 percent of the loan; or
+      - **(ii)** the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
+    - **(B)** The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title .
+    - **(C)** In this paragraph, the term “maximum guaranty amount” means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1454(a)(2) ) for a single-family residence, as adjusted for the year involved.
   - **(2)**
     - **(A)** Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insured by the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
     - **(B)** Loans insured under this section shall be made on such other terms, conditions, and restrictions as the Secretary may prescribe within the limitations set forth in this chapter.
@@ -55,11 +51,7 @@ generated_at: "2026-03-30T02:55:53.511Z"
       - **(i)** the initial principal amount of the loan may not exceed the reasonable value of the property as of the time the loan is made; and
       - **(ii)** the principal amount of the loan thereafter (including the amount of all interest to be deferred and added to principal) may not at any time be scheduled to exceed the projected value of the property.
     - **(C)** For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
-  - **(3)**
-    - **(A)** Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
-      - **(i)** A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
-      - **(ii)** A private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.
-    - **(B)** With respect to any superior lien described in subparagraph (A) created after June 6, 1969 , the Secretary’s determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.
+  - **(3)** Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969 , the Secretary’s determination must have been made prior to the recordation of the covenant.
 - **(e)**
   - **(1)** Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title , or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989 , shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
   - **(2)** The exemption from liability provided by paragraph (1) of this subsection shall not apply to—

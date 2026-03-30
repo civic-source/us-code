@@ -3,9 +3,10 @@ title: "Section 2242 - Authority of Secretary"
 usc_title: 43
 usc_section: "2242"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 2242"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-03-30T03:06:10.693Z"
+status: "active"
 ---
 
 # § 2242. Authority of Secretary

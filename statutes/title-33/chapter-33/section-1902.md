@@ -3,9 +3,10 @@ title: "Section 1902 - Ships subject to preventive measures"
 usc_title: 33
 usc_section: "1902"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-03-30T03:05:36.289Z"
+status: "active"
 ---
 
 # § 1902. Ships subject to preventive measures
@@ -72,9 +73,8 @@ generated_at: "2026-03-30T02:55:41.109Z"
     - **(A)** Not later than December 31, 2000 , the Secretary of the Navy shall prescribe and publish in the Federal Register standards to ensure that each ship described in subparagraph (B) is, to the maximum extent practicable without impairing the operations or operational capabilities of the ship, operated in a manner that is consistent with the special area requirements of Regulation 5 of Annex V to the Convention.
     - **(B)** Subparagraph (A) applies to surface ships that are owned or operated by the Department of the Navy that the Secretary plans to decommission during the period beginning on January 1, 2001 , and ending on December 31, 2005 .
     - **(C)** At the same time that the Secretary publishes standards under subparagraph (A), the Secretary shall publish in the Federal Register a list of the ships covered by subparagraph (B).
-- **(e)** Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of this chapter that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
-- **(f)** The Secretary or the Administrator, consistent with section 1903 of this title , shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
-- **(g)**
+- **(e)** The Secretary or the Administrator, consistent with section 1903 of this title , shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
+- **(f)**
   - **(1)** The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with subsection (b) of this section.
   - **(2)** Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention and subsection (b)(3)(B)(i) of this section with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
   - **(3)** Except when necessary for the purpose of securing the safety of the ship, the health of the ship’s personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
@@ -84,6 +84,6 @@ generated_at: "2026-03-30T02:55:41.109Z"
   - **(4)** The Secretary of Defense shall publish in the Federal Register:
     - **(A)** Each year, the amount and nature of the discharges in special areas, not otherwise authorized under this chapter, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.
     - **(B)** Beginning on October 1, 1996 , and each year thereafter until October 1, 1998 , a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
-- **(h)** The President may waive the effective dates of the requirements set forth in subsection (c) 1 1 See References in Text note below. of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
-- **(i)** The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
-- **(j)** Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
+- **(g)** The President may waive the effective dates of the requirements set forth in subsection (c) 1 1 See References in Text note below. of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
+- **(h)** The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+- **(i)** Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.

@@ -3,24 +3,25 @@ title: "Section 1144 - Other laws"
 usc_title: 29
 usc_section: "1144"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1144"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-03-30T03:05:09.721Z"
+status: "active"
 ---
 
 # § 1144. Other laws
 
-- **(a)** Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title . This section shall take effect on January 1, 1975 .
+- **(a)** Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title . This section shall take effect on January 1, 1975 .
 - **(b)**
   - **(1)** This section shall not apply with respect to any cause of action which arose, or any act or omission which occurred, before January 1, 1975 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), nothing in this subchapter shall be construed to exempt or relieve any person from any law of any State which regulates insurance, banking, or securities.
     - **(B)** Neither an employee benefit plan described in section 1003(a) of this title , which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer, bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
   - **(3)** Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under section 1136 of this title .
-  - **(4)** Subsection (a) shall not apply to any generally applicable criminal law of a State.
+  - **(4)** Subsection (a) of this section shall not apply to any generally applicable criminal law of a State.
   - **(5)**
-    - **(A)** Except as provided in subparagraph (B), subsection (a) shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 through 393–51).
-    - **(B)** Nothing in subparagraph (A) shall be construed to exempt from subsection (a)—
+    - **(A)** Except as provided in subparagraph (B), subsection (a) of this section shall not apply to the Hawaii Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 through 393–51).
+    - **(B)** Nothing in subparagraph (A) shall be construed to exempt from subsection (a) of this section—
       - **(i)** any State tax law relating to employee benefit plans, or
       - **(ii)** any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974 , to the extent it provides for more than the effective administration of such Act as in effect on such date.
     - **(C)** Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983 ), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
     - **(B)** The Secretary may, under regulations which may be prescribed by the Secretary, exempt from subparagraph (A)(ii), individually or by class, multiple employer welfare arrangements which are not fully insured. Any such exemption may be granted with respect to any arrangement or class of arrangements only if such arrangement or each arrangement which is a member of such class meets the requirements of section 1002(1) and section 1003 of this title necessary to be considered an employee welfare benefit plan to which this subchapter applies.
     - **(C)** Nothing in subparagraph (A) shall affect the manner or extent to which the provisions of this subchapter apply to an employee welfare benefit plan which is not a multiple employer welfare arrangement and which is a plan, fund, or program participating in, subscribing to, or otherwise using a multiple employer welfare arrangement to fund or administer benefits to such plan’s participants and beneficiaries.
     - **(D)** For purposes of this paragraph, a multiple employer welfare arrangement shall be considered fully insured only if the terms of the arrangement provide for benefits the amount of all of which the Secretary determines are guaranteed under a contract, or policy of insurance, issued by an insurance company, insurance service, or insurance organization, qualified to conduct business in a State.
-  - **(7)** Subsection (a) shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title ), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title ), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent they apply to qualified medical child support orders.
+  - **(7)** Subsection (a) of this section shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title ), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title ), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent they apply to qualified medical child support orders.
   - **(8)** Subsection (a) of this section shall not be construed to preclude any State cause of action—
     - **(A)** with respect to which the State exercises its acquired rights under section 1169(b)(3) of this title with respect to a group health plan (as defined in section 1167(1) of this title ), or
     - **(B)** for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.

@@ -3,9 +3,10 @@ title: "Section 11364 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11364"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11364"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-03-30T03:06:22.887Z"
+status: "active"
 ---
 
 # § 11364. Authorization of appropriations

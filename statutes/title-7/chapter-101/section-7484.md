@@ -3,9 +3,10 @@ title: "Section 7484 - Required terms in orders"
 usc_title: 7
 usc_section: "7484"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7484"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-03-30T03:04:21.019Z"
+status: "active"
 ---
 
 # § 7484. Required terms in orders
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
   - **(3)** to appoint members of the Board to serve on an executive committee;
   - **(4)** to propose, receive, evaluate, and approve budgets, plans, and projects of promotion, research, consumer information, and industry information, and to contract with appropriate persons to implement the plans or projects;
   - **(5)** to accept and receive voluntary contributions, gifts, and market promotion or similar funds;
-  - **(6)** to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f), only in—
+  - **(6)** to invest, pending disbursement under a plan or project, funds collected through assessments authorized under subsection (f) of this section, only in—
     - **(A)** obligations of the United States or an agency of the United States;
     - **(B)** general obligations of a State or a political subdivision of a State;
     - **(C)** an interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System; or
@@ -47,7 +48,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
     - **(A)** The rate of assessment prescribed in the order shall be a rate established by the Board but not more than $.08 per hundredweight of popcorn.
     - **(B)** The order shall provide that the Board, with the approval of the Secretary, may raise or lower the rate of assessment annually up to a maximum of $.08 per hundredweight of popcorn.
   - **(4)**
-    - **(A)** Subject to subparagraphs (B) and (C) and subsection (c)(5), the order shall provide that the assessments collected shall be used by the Board—
+    - **(A)** Subject to subparagraphs (B) and (C) and subsection (c)(5) of this section, the order shall provide that the assessments collected shall be used by the Board—
       - **(i)** to pay expenses incurred in implementing and administering the order, with provision for a reasonable reserve; and
       - **(ii)** to cover such administrative costs as are incurred by the Secretary, except that the administrative costs incurred by the Secretary (other than any legal expenses incurred to defend and enforce the order) that may be reimbursed by the Board may not exceed 15 percent of the projected annual revenues of the Board.
     - **(B)** In implementing plans and projects of promotion, research, consumer information, and industry information, the Board shall expend funds on—

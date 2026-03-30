@@ -3,9 +3,10 @@ title: "Section 4082 - Use of insurance pool, companies, or other private organi
 usc_title: 42
 usc_section: "4082"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4082"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-03-30T03:06:22.710Z"
+status: "active"
 ---
 
 # § 4082. Use of insurance pool, companies, or other private organizations for certain payments
@@ -16,8 +17,8 @@ generated_at: "2026-03-30T02:56:11.198Z"
   - **(3)** Making such audits of the records of any insurance company or other insurer, insurance agent or broker, or insurance adjustment organization as may be necessary to assure that proper payments are made.
   - **(4)** Placing reinsurance coverage on insurance provided by such program.
   - **(5)** Otherwise assisting in such manner as the contract may provide to further the purposes of this chapter.
-- **(b)** Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a), and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
-- **(c)** Any contract entered into under subsection (a) may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competitive bidding.
+- **(b)** Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
+- **(c)** Any contract entered into under subsection (a) of this section may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competitive bidding.
 - **(d)** No contract may be entered into under this section unless the Administrator finds that the pool, company, or organization will perform its obligations under the contract efficiently and effectively, and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 - **(e)**
   - **(1)** Any such contract may require the pool, company, or organization or any of its officers or employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Administrator may deem appropriate.

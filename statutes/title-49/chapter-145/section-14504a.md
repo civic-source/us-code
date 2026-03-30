@@ -3,9 +3,10 @@ title: "Section 14504a - Unified Carrier Registration System plan and agreement"
 usc_title: 49
 usc_section: "14504a"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 14504a"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-03-30T03:06:29.291Z"
+status: "active"
 ---
 
 # § 14504a. Unified Carrier Registration System plan and agreement
@@ -102,7 +103,7 @@ generated_at: "2026-03-30T02:56:19.331Z"
   - **(8)** No individual appointed to serve on the board shall be liable to any other director or to any other party for harm, either economic or non-economic, caused by an act or omission of the individual arising from the individual’s service on the board if—
     - **(A)** the individual was acting within the scope of his or her responsibilities as a director; and
     - **(B)** the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the right or safety of the party harmed by the individual.
-  - **(9)** Chapter 10 of title 5 shall not apply to the unified carrier registration plan, the board, or its committees.
+  - **(9)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the unified carrier registration plan, the board, or its committees.
   - **(10)** This section does not limit the amount of money a State may charge for vehicle registration or the amount of any fuel use tax a State may impose pursuant to the International Fuel Tax Agreement (as defined in section 31701).
 - **(e)**
   - **(1)** No State shall be eligible to participate in the unified carrier registration plan or to receive any revenues derived under the UCR agreement, unless the State submits to the Secretary, not later than 3 years after the date of enactment of the Unified Carrier Registration Act of 2005, a plan—

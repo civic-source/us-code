@@ -1,12 +1,23 @@
 ---
-title: "Section 5929 - Repealed. Pub. L. 113–79, title VII, § 7215 , Feb. 7, 2014 , 128 Stat. 887"
+title: "Section 5929 - Red meat safety research center"
 usc_title: 7
 usc_section: "5929"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5929"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-03-30T03:04:20.996Z"
+status: "active"
 ---
 
-# § 5929. Repealed. Pub. L. 113–79, title VII, § 7215 , Feb. 7, 2014 , 128 Stat. 887
+# § 5929. Red meat safety research center
 
+- **(a)** The Secretary of Agriculture shall award a grant, on a competitive basis, to a research facility described in subsection (b) of this section to establish a red meat safety research center.
+- **(b)** A research facility eligible for a grant under subsection (a) of this section is a research facility that—
+  - **(1)** is part of a land-grant college or university, or other federally supported agricultural research facility, located in close proximity to a livestock slaughter and processing facility; and
+  - **(2)** is staffed by professionals with a wide diversity of scientific expertise covering all aspects of meat science.
+- **(c)** The red meat safety research center established under subsection (a) of this section shall carry out research related to general food safety, including—
+  - **(1)** the development of intervention strategies that reduce microbiological contamination of carcass surfaces;
+  - **(2)** research regarding microbiological mapping of carcass surfaces; and
+  - **(3)** the development of model hazard analysis and critical control point plans.
+- **(d)** The Secretary of Agriculture shall administer funds appropriated to carry out this section.
+- **(e)** There are authorized to be appropriated such sums as are necessary for fiscal year 1997 to carry out this section.

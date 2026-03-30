@@ -3,9 +3,10 @@ title: "Section 2722 - Theft or loss of ammunition, destructive devices, and exp
 usc_title: 10
 usc_section: "2722"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2722"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-03-30T03:04:17.300Z"
+status: "active"
 ---
 
 # § 2722. Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury

@@ -1,30 +1,50 @@
 ---
-title: "Section 9 - Translational research grants"
+title: "Section 9 - Experimental Program to Stimulate Competitive Research"
 usc_title: 42
 usc_section: "9"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-03-30T03:06:22.634Z"
+status: "active"
 ---
 
-# § 1862s–9. Translational research grants
+# § 1862p–9. Experimental Program to Stimulate Competitive Research
 
-- **(a)** It is the sense of Congress that—
-  - **(1)** commercialization of federally funded research may benefit society and the economy; and
-  - **(2)** not-for-profit organizations support the commercialization of federally funded research by providing useful business and technical expertise to researchers.
-- **(b)** The Director of the Foundation shall continue to award grants on a competitive, merit-reviewed basis to eligible entities to promote the commercialization of federally funded research results.
-- **(c)** Activities supported by grants under this section may include—
-  - **(1)** identifying Foundation-sponsored research and technologies that have the potential for accelerated commercialization;
-  - **(2)** supporting prior or current Foundation-sponsored investigators, institutions of higher education, and non-profit organizations that partner with an institution of higher education in undertaking proof-of-concept work, including development of prototypes of technologies that are derived from Foundation-sponsored research and have potential market value;
-  - **(3)** promoting sustainable partnerships between Foundation-funded institutions, industry, and other organizations within academia and the private sector with the purpose of accelerating the transfer of technology;
-  - **(4)** developing multi-disciplinary innovation ecosystems which involve and are responsive to specific needs of academia and industry; and
-  - **(5)** providing professional development, mentoring, and advice in entrepreneurship, project management, and technology and business development to innovators.
+- **(a)** The Congress finds that—
+  - **(1)** The National Science Foundation Act of 1950 [ 42 U.S.C. 1861 et seq.] stated, “it shall be an objective of the Foundation to strengthen research and education in the sciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education,”;
+  - **(2)** National Science Foundation funding remains highly concentrated, with 27 States and 2 jurisdictions, taken together, receiving only about 10 percent of all NSF research funding; each of these States received only a fraction of one percent of Foundation’s research dollars each year;
+  - **(3)** the Nation requires the talent, expertise, and research capabilities of all States in order to prepare sufficient numbers of scientists and engineers, remain globally competitive and support economic development.
+- **(b)** The Director shall continue to carry out EPSCoR, with the objective of helping the eligible States to develop the research infrastructure that will make them more competitive for Foundation and other Federal research funding. The program shall continue to increase as the National Science Foundation funding increases.
+- **(c)** The Director shall report to the appropriate committees of Congress on an annual basis, using the most recent available data—
+  - **(1)** the total amount made available, by State, under EPSCoR;
+  - **(2)** the amount of co-funding made available to EPSCoR States;
+  - **(3)** the total amount of National Science Foundation funding made available to all institutions and entities within EPSCoR States; and
+  - **(4)** efforts and accomplishments to more fully integrate the 29 EPSCoR jurisdictions in major activities and initiatives of the Foundation.
 - **(d)**
-  - **(1)** The following organizations may be eligible for grants under this section:
-    - **(A)** Institutions of higher education.
-    - **(B)** Public or nonprofit technology transfer organizations.
-    - **(C)** A nonprofit organization that partners with an institution of higher education.
-    - **(D)** A consortia of 2 or more of the organizations described under subparagraphs (A) through (C).
-  - **(2)** Any eligible organization under paragraph (1) may apply as a lead organization.
-- **(e)** An eligible entity seeking a grant under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+  - **(1)** The Congress finds that a number of Federal agencies have programs, such as Experimental Programs to Stimulate Competitive Research and the National Institutes of Health Institutional Development Award program, designed to increase the capacity for and quality of science and technology research and training at academic institutions in States that historically have received relatively little Federal research and development funding.
+  - **(2)** The EPSCoR Interagency Coordinating Committee, chaired by the National Science Foundation, shall—
+    - **(A)** coordinate EPSCoR and Federal EPSCoR-like programs to maximize the impact of Federal support for building competitive research infrastructure, and in order to achieve an integrated Federal effort;
+    - **(B)** coordinate agency objectives with State and institutional goals, to obtain continued non-Federal support of science and technology research and training;
+    - **(C)** develop metrics to assess gains in academic research quality and competitiveness, and in science and technology human resource development;
+    - **(D)** conduct a cross-agency evaluation of EPSCoR and other Federal EPSCoR-like programs and accomplishments, including management, investment, and metric-measuring strategies implemented by the different agencies aimed to increase the number of new investigators receiving peer-reviewed funding, broaden participation, and empower knowledge generation, dissemination, application, and national research and development competitiveness;
+    - **(E)** coordinate the development and implementation of new, novel workshops, outreach activities, and follow-up mentoring activities among EPSCoR or EPSCoR-like programs for colleges and universities in EPSCoR States and territories in order to increase the number of proposals submitted and successfully funded and to enhance statewide coordination of EPSCoR and Federal EPSCoR-like programs;
+    - **(F)** coordinate the development of new, innovative solicitations and programs to facilitate collaborations, partnerships, and mentoring activities among faculty at all levels in non-EPSCoR and EPSCoR States and jurisdictions;
+    - **(G)** conduct an evaluation of the roles, responsibilities and degree of autonomy that program officers or managers (or the equivalent position) have in executing EPSCoR programs at the different Federal agencies and the impacts these differences have on the number of EPSCoR State and jurisdiction faculty participating in the peer review process and the percentage of successful awards by individual EPSCoR State jurisdiction and individual researcher; and
+    - **(H)** conduct a survey of colleges and university faculty at all levels regarding their knowledge and understanding of EPSCoR, and their level of interaction with and knowledge about their respective State or Jurisdictional EPSCoR Committee.
+  - **(3)** The Committee shall meet at least twice each fiscal year and shall submit an annual report to the appropriate committees of Congress describing progress made in carrying out paragraph (2).
+- **(e)** Each Federal agency that administers an EPSCoR or Federal EPSCoR-like program shall submit to the OSTP as part of its Federal budget submission—
+  - **(1)** a description of the program strategy and objectives;
+  - **(2)** a description of the awards made in the previous year, including—
+    - **(A)** the percentage of reviewers and number of new reviewers from EPSCoR States;
+    - **(B)** the percentage of new investigators from EPSCoR States;
+    - **(C)** the number of programs or large collaborator awards involving a partnership of organizations and institutions from EPSCoR and non-EPSCoR States; and
+  - **(3)** an analysis of the gains in academic research quality and competitiveness, and in science and technology human resource development, achieved by the program in the last year.
+- **(f)**
+  - **(1)** The Director shall contract with the National Academy of Sciences to conduct a study on all Federal agencies that administer an Experimental Program to Stimulate Competitive Research or a program similar to the Experimental Program to Stimulate Competitive Research.
+  - **(2)** The study conducted under paragraph (1) shall include the following:
+    - **(A)** A delineation of the policies of each Federal agency with respect to the awarding of grants to EPSCoR States.
+    - **(B)** The effectiveness of each program.
+    - **(C)** Recommendations for improvements for each agency to achieve EPSCoR goals.
+    - **(D)** An assessment of the effectiveness of EPSCoR States in using awards to develop science and engineering research and education, and science and engineering infrastructure within their States.
+    - **(E)** Such other issues that address the effectiveness of EPSCoR as the National Academy of Sciences considers appropriate.

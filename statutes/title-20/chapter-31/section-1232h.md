@@ -3,9 +3,10 @@ title: "Section 1232h - Protection of pupil rights"
 usc_title: 20
 usc_section: "1232h"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1232h"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-03-30T03:04:46.296Z"
+status: "active"
 ---
 
 # § 1232h. Protection of pupil rights
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(7)** religious practices, affiliations, or beliefs of the student or student’s parent; or
   - **(8)** income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),
 - **(c)**
-  - **(1)** Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+  - **(1)** Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
     - **(A)**
       - **(i)** The right of a parent of a student to inspect, upon the request of the parent, a survey created by a third party before the survey is administered or distributed by a school to a student; and
       - **(ii)** any applicable procedures for granting a request by a parent for reasonable access to such survey within a reasonable period of time after the request is received.
@@ -72,7 +73,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
       - **(ii)** Paragraph (1)(D) does not apply to a survey administered to a student in accordance with the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.).
     - **(B)** The rights provided to parents under this section transfer to the student when the student turns 18 years old, or is an emancipated minor (under an applicable State law) at any age.
     - **(C)** The Secretary shall annually inform each State educational agency and each local educational agency of the educational agency’s obligations under this section and section 1232g of this title .
-    - **(D)** A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7101 et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
+    - **(D)** A State educational agency or local educational agency may use funds provided under part A of title V of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7201 et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
   - **(6)** As used in this subsection:
     - **(A)** The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
     - **(B)** The term “invasive physical examination” means any medical examination that involves the exposure of private body parts, or any act during such examination that includes incision, insertion, or injection into the body, but does not include a hearing, vision, or scoliosis screening.

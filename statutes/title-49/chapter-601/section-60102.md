@@ -3,9 +3,10 @@ title: "Section 60102 - Purpose and general authority"
 usc_title: 49
 usc_section: "60102"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 60102"
-generated_at: "2026-03-30T02:56:19.410Z"
+generated_at: "2026-03-30T03:06:29.341Z"
+status: "active"
 ---
 
 # § 60102. Purpose and general authority
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:56:19.410Z"
       - **(i)** shall review the report;
       - **(ii)** shall provide a written response to the committee that is the author of the report concerning all significant peer review comments and recommended alternatives contained in the report; and
       - **(iii)** may revise the risk assessment and the proposed standard before promulgating the final standard.
-  - **(5)** Except where otherwise required by statute, the Secretary shall propose or issue a standard under this chapter only upon a reasoned determination that the benefits, including safety and environmental benefits, of the intended standard justify its costs.
+  - **(5)** Except where otherwise required by statute, the Secretary shall propose or issue a standard under this Chapter 1 1 So in original. Probably should not be capitalized. only upon a reasoned determination that the benefits of the intended standard justify its costs.
   - **(6)** The requirements of subparagraphs (D) and (E) of paragraph (2) do not apply when—
     - **(A)** the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standards that receives no significant adverse comment within 60 days of notice in the Federal Register;
     - **(B)** based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
@@ -68,7 +69,7 @@ generated_at: "2026-03-30T02:56:19.410Z"
   - **(2)** To the extent a public safety program referred to in paragraph (1) of this subsection is not available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
   - **(3)** The Secretary may include in the standards prescribed under subsection (a) of this section a requirement that an operator of a hazardous liquid pipeline facility participate in a public safety program meeting the requirements of paragraph (1) of this subsection or maintain and carry out a damage prevention program that provides services comparable to services that would be available under a public safety program.
   - **(4)**
-    - **(A)** Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996, 1 1 See References in Text note below. and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+    - **(A)** Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996, 2 2 See References in Text note below. and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
     - **(B)**
       - **(i)** Not later than June 1, 1998 , the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
       - **(ii)** Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretary shall report to Congress the reasons for that finding.
@@ -99,15 +100,7 @@ generated_at: "2026-03-30T02:56:19.410Z"
   - **(1)** The Secretary shall prescribe regulations requiring each operator of a pipeline facility (except a master meter) to submit to the Secretary a written report on any—
     - **(A)** condition that is a hazard to life, property, or the environment; and
     - **(B)** safety-related condition that causes or has caused a significant change or restriction in the operation of a pipeline facility.
-  - **(2)** As soon as practicable, but not later than 5 business days, after a representative of a person to whom this section applies first establishes that a condition described in paragraph (1) exists, the operator shall submit the report required under that paragraph to—
-    - **(A)** the Secretary;
-    - **(B)** the appropriate State authority or, where no appropriate State authority exists, to the Governor of a State where the subject of the Safety Related Condition report occurred; and
-    - **(C)** the appropriate Tribe where the subject of the Safety Related Condition report occurred.
-  - **(3)** Upon request, a State authority or a Governor that receives a report submitted under this subsection may submit the report to any relevant emergency response or planning entity, including any—
-    - **(A)** State emergency response commission established pursuant to section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ( 42 U.S.C. 11001 );
-    - **(B)** Tribal emergency response commission or emergency planning committee (as defined in part 355 of title 40, Code of Federal Regulations (or a successor regulation));
-    - **(C)** local emergency planning committee established pursuant to section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ( 42 U.S.C. 11001 ); or
-    - **(D)** other public agency responsible for emergency response.
+  - **(2)** The Secretary must receive the report not later than 5 working days after a representative of a person to which this section applies first establishes that the condition exists. Notice of the condition shall be given concurrently to appropriate State authorities.
 - **(i)**
   - **(1)** The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
   - **(2)**
@@ -138,70 +131,4 @@ generated_at: "2026-03-30T02:56:19.410Z"
   - **(1)** The Secretary may collect geospatial or technical data on transportation-related oil flow lines, including unregulated transportation-related oil flow lines.
   - **(2)** In this subsection, the term “transportation-related oil flow line” means a pipeline transporting oil off of the grounds of the well where it originated and across areas not owned by the producer, regardless of the extent to which the oil has been processed, if at all.
   - **(3)** Nothing in this subsection authorizes the Secretary to prescribe standards for the movement of oil through production, refining, or manufacturing facilities or through oil production flow lines located on the grounds of wells.
-- **(p)** Beginning 3 years after the date of enactment of this subsection, the Secretary may not issue a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge.
-- **(q)**
-  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall promulgate final regulations that require operators of regulated gathering lines (as defined pursuant to subsection (b) of section 60101 for purposes of subsection (a)(21) of that section) in a Class 2 location, Class 3 location, or Class 4 location, as determined under section 192.5 of title 49, Code of Federal Regulations, operators of new and existing gas transmission pipeline facilities, and operators of new and existing gas distribution pipeline facilities to conduct leak detection and repair programs—
-    - **(A)** to meet the need for gas pipeline safety, as determined by the Secretary; and
-    - **(B)** to protect the environment.
-  - **(2)**
-    - **(A)** The final regulations promulgated under paragraph (1) shall include, for the leak detection and repair programs described in that paragraph, minimum performance standards that reflect the capabilities of commercially available advanced technologies that, with respect to each pipeline covered by the programs, are appropriate for—
-      - **(i)** the type of pipeline;
-      - **(ii)** the location of the pipeline;
-      - **(iii)** the material of which the pipeline is constructed; and
-      - **(iv)** the materials transported by the pipeline.
-    - **(B)** The leak detection and repair programs described in paragraph (1) shall be able to identify, locate, and categorize all leaks that—
-      - **(i)** are hazardous to human safety or the environment; or
-      - **(ii)** have the potential to become explosive or otherwise hazardous to human safety.
-  - **(3)**
-    - **(A)** The final regulations promulgated under paragraph (1) shall—
-      - **(i)** require the use of advanced leak detection technologies and practices described in subparagraph (B);
-      - **(ii)** identify any scenarios where operators may use leak detection practices that depend on human senses; and
-      - **(iii)** include a schedule for repairing or replacing each leaking pipe, except a pipe with a leak so small that it poses no potential hazard, with appropriate deadlines.
-    - **(B)** The advanced leak detection technologies and practices referred to in subparagraph (A)(i) include—
-      - **(i)** for new and existing gas distribution pipeline facilities, technologies and practices to detect pipeline leaks—
-        - **(I)** through continuous monitoring on or along the pipeline; or
-        - **(II)** through periodic surveys with handheld equipment, equipment mounted on mobile platforms, or other means using commercially available technology;
-      - **(ii)** for new and existing gas transmission pipeline facilities, technologies and practices to detect pipeline leaks through—
-        - **(I)** equipment that is capable of continuous monitoring; or
-        - **(II)** periodic surveys with handheld equipment, equipment mounted on mobile platforms, or other means using commercially available technology; and
-      - **(iii)** for regulated gathering lines in Class 2 locations, Class 3 locations, or Class 4 locations, technologies and practices to detect pipeline leaks through—
-        - **(I)** equipment that is capable of continuous monitoring; or
-        - **(II)** periodic surveys with handheld equipment, equipment mounted on mobile platforms, or other means using commercially available technology.
-  - **(4)**
-    - **(A)** In promulgating regulations under this subsection, the Secretary—
-      - **(i)** may not reduce the frequency of surveys required under any other provision of this chapter or stipulated by regulation as of the date of enactment of this subsection; and
-      - **(ii)** may not extend the duration of any timelines for the repair or remediation of leaks that are stipulated by regulation as of the date of enactment of this subsection.
-    - **(B)** The limitations in this paragraph do not restrict the Secretary’s ability to modify any regulations through proceedings separate from or subsequent to the final regulations required under paragraph (1).
-    - **(C)** Nothing in this subsection may be construed to alter the authority of the Secretary to regulate gathering lines as defined pursuant to section 60101.
-- **(r)** Not later than 2 years after the date of enactment of this subsection, the Secretary shall update regulations to ensure that each emergency response plan developed by an operator of a distribution system under subsection (d)(5), includes written procedures for—
-  - **(1)** establishing communication with first responders and other relevant public officials, as soon as practicable, beginning from the time of confirmed discovery, as determined by the Secretary, by the operator of a gas pipeline emergency involving a release of gas from a distribution system of that operator that results in—
-    - **(A)** a fire related to an unintended release of gas;
-    - **(B)** an explosion;
-    - **(C)** 1 or more fatalities; or
-    - **(D)** the unscheduled release of gas and shutdown of gas service to a significant number of customers, as determined by the Secretary;
-  - **(2)** establishing general public communication through an appropriate channel—
-    - **(A)** as soon as practicable, as determined by the Secretary, after a gas pipeline emergency described in paragraph (1); and
-    - **(B)** that provides information regarding—
-      - **(i)** the emergency described in subparagraph (A); and
-      - **(ii)** the status of public safety; and
-  - **(3)** the development and implementation of a voluntary, opt-in system that would allow operators of distribution systems to rapidly communicate with customers in the event of an emergency.
-- **(s)** Not later than 2 years after the date of enactment of this subsection, the Secretary shall update regulations to ensure that each procedural manual for operations, maintenance, and emergencies developed by an operator of a distribution pipeline under subsection (d)(4), includes written procedures for—
-  - **(1)** responding to overpressurization indications, including specific actions and an order of operations for immediately reducing pressure in or shutting down portions of the gas distribution system, if necessary; and
-  - **(2)** a detailed procedure for the management of the change process, which shall—
-    - **(A)** be applied to significant technology, equipment, procedural, and organizational changes to the distribution system; and
-    - **(B)** ensure that relevant qualified personnel, such as an engineer with a professional engineer licensure, subject matter expert, or other employee who possesses the necessary knowledge, experience, and skills regarding natural gas distribution systems, review and certify construction plans for accuracy, completeness, and correctness.
-- **(t)**
-  - **(1)** Not later than 2 years after the date of enactment of this subsection, the Secretary shall promulgate regulations to require an operator of a distribution system—
-    - **(A)** to identify and manage traceable, reliable, and complete records, including maps and other drawings, critical to ensuring proper pressure controls for a gas distribution system, and updating these records as needed, while collecting and identifying other records necessary for risk analysis on an opportunistic basis; and
-    - **(B)** to ensure that the records required under subparagraph (A) are—
-      - **(i)** accessible to all personnel responsible for performing or overseeing relevant construction or engineering work; and
-      - **(ii)** submitted to, or made available for inspection by, the Secretary or the relevant State authority with a certification in effect under section 60105.
-  - **(2)**
-    - **(A)** Not later than 180 days after the date of enactment of this subsection, the Secretary shall promulgate regulations to require that not less than 1 agent of an operator of a distribution system who is qualified to perform relevant covered tasks, as determined by the Secretary, shall monitor gas pressure at the district regulator station or at an alternative site with equipment capable of ensuring proper pressure controls and have the capability to promptly shut down the flow of gas or control over pressurization at a district regulator station during any construction project that has the potential to cause a hazardous overpressurization at that station, including tie-ins and abandonment of distribution lines and mains, based on an evaluation, conducted by the operator, of threats that could result in unsafe operation.
-    - **(B)** In promulgating regulations under subparagraph (A), the Secretary shall ensure that those regulations do not apply to a district regulating station that has a monitoring system and the capability for remote or automatic shutoff.
-  - **(3)**
-    - **(A)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall promulgate regulations to require that each operator of a distribution system assesses and upgrades, as appropriate, each district regulator station of the operator to ensure that—
-      - **(i)** the risk of the gas pressure in the distribution system exceeding, by a common mode of failure, the maximum allowable operating pressure (as described in section 192.623 of title 49, Code of Federal Regulations (or a successor regulation)) allowed under Federal law (including regulations) is minimized;
-      - **(ii)** the gas pressure of a low-pressure distribution system is monitored, particularly at or near the location of critical pressure-control equipment;
-      - **(iii)** the regulator station has secondary or backup pressure-relieving or overpressure-protection safety technology, such as a relief valve or automatic shutoff valve, or other pressure-limiting devices appropriate for the configuration and siting of the station and, in the case of a regulator station that employs the primary and monitor regulator design, the operator shall eliminate the common mode of failure or provide backup protection capable of either shutting the flow of gas, relieving gas to the atmosphere to fully protect the distribution system from overpressurization events, or there must be technology in place to eliminate a common mode of failure; and
-      - **(iv)** if the Secretary determines that it is not operationally possible for an operator to implement the requirements under clause (iii), the Secretary shall require such operator to identify actions in their plan that minimize the risk of an overpressurization event.
+- **(p)** Beginning 1 year after the date of enactment of this subsection, the Secretary may not issue guidance or a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge, on an Internet Web site.

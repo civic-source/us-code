@@ -3,14 +3,15 @@ title: "Section 1851 - Grants authorized"
 usc_title: 25
 usc_section: "1851"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1851"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-03-30T03:05:02.888Z"
+status: "active"
 ---
 
 # § 1851. Grants authorized
 
-- **(a)** The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
+- **(a)** The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act [ 25 U.S.C. 640a et seq.] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
   - **(1)** Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
   - **(2)** Development of consistent courses of instruction to prepare postsecondary students, tribal officials and others to meet the needs defined under paragraph (1). The development of such courses may be coordinated with secondary institutions to the extent practicable.
   - **(3)** The conduct of vocational courses, including administrative expenses and student support services.
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:54:52.830Z"
   - **(5)** Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
   - **(6)** The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
 - **(b)** The grants shall be of such amount and duration as to afford the greatest opportunity for success and the generation of relevant data.
-- **(c)** Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter. 1 1 See References in Text note below.
+- **(c)** Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act [ 25 U.S.C. 640a et seq.] may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter. 1 1 See References in Text note below.

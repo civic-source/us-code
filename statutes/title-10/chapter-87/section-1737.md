@@ -3,18 +3,19 @@ title: "Section 1737 - Definitions and general provisions"
 usc_title: 10
 usc_section: "1737"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1737"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-03-30T03:04:17.264Z"
+status: "active"
 ---
 
 # § 1737. Definitions and general provisions
 
 - **(a)** In this subchapter:
-  - **(1)** The term “program manager” means, with respect to a defense acquisition program, the member of the acquisition workforce responsible for managing the program, regardless of the title given the member.
+  - **(1)** The term “program manager” means, with respect to a defense acquisition program, the member of the Acquisition Corps responsible for managing the program, regardless of the title given the member.
   - **(2)** The term “deputy program manager” means the person who has authority to act on behalf of the program manager in the absence of the program manager.
-  - **(3)** The term “significant nonmajor defense acquisition program” means a Department of Defense acquisition program that is not a major defense acquisition program (as defined in section 4201 of this title ) and that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than the dollar threshold set forth in section 3041(b)(1) of this title for such purposes for a major system or an eventual total expenditure for procurement of more than the dollar threshold set forth in section 3041(b)(1) of this title for such purpose for a major system.
-  - **(4)** The term “portfolio acquisition executive” means an individual described in section 1732(a) of this title .
+  - **(3)** The term “significant nonmajor defense acquisition program” means a Department of Defense acquisition program that is not a major defense acquisition program (as defined in section 2430 of this title ) and that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than the dollar threshold set forth in section 2302(5)(A) of this title for such purposes for a major system or an eventual total expenditure for procurement of more than the dollar threshold set forth in section 2302(5)(A) of this title for such purpose for a major system.
+  - **(4)** The term “program executive officer” has the meaning given such term in regulations prescribed by the Secretary of Defense.
   - **(5)** The term “senior contracting official” means a director of contracting, or a principal deputy to a director of contracting, serving in the office of the Secretary of a military department, the headquarters of a military department, the head of a Defense Agency, a subordinate command headquarters, or in a major systems or logistics contracting activity in the Department of Defense.
-- **(b)** Any civilian or military member of the acquisition workforce who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
-- **(c)** The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition and Sustainment) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual’s qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
+- **(b)** Any civilian or military member of the Corps who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
+- **(c)** The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual’s qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.

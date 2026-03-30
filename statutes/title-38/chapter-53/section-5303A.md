@@ -3,9 +3,10 @@ title: "Section 5303A - Minimum active-duty service requirement"
 usc_title: 38
 usc_section: "5303A"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5303A"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-03-30T03:05:59.223Z"
+status: "active"
 ---
 
 # § 5303A. Minimum active-duty service requirement
@@ -24,13 +25,12 @@ generated_at: "2026-03-30T02:55:53.520Z"
     - **(C)** to a person who has a disability that the Secretary has determined to be compensable under chapter 11 of this title;
     - **(D)** to the provision of a benefit for or in connection with a service-connected disability, condition, or death;
     - **(E)** to benefits under chapter 19 of this title;
-    - **(F)** to benefits under section 2011, 2012, 2013, 2044, or 2061 of this title;
-    - **(G)** to benefits under chapter 30 or chapter 37 of this title by reason of—
+    - **(F)** to benefits under chapter 30 or chapter 37 of this title by reason of—
       - **(i)** a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
       - **(ii)** a discharge or release from active duty for a medical condition which preexisted service on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title ;
       - **(iii)** an involuntary discharge or release from active duty for the convenience of the Government as a result of a reduction in force, as described in clauses (A)(ii)(III) and (B)(ii)(III) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(v) of this title ; or
       - **(iv)** a discharge or release from active duty for a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as described in section 3011(a)(1)(A)(ii)(I) of this title ; or
-    - **(H)** to benefits under chapter 43 of this title.
+    - **(G)** to benefits under chapter 43 of this title.
 - **(c)**
   - **(1)** Except as provided in paragraph (2) of this subsection, no dependent or survivor of a person as to whom subsection (b) of this section requires the denial of benefits shall, by reason of such person’s period of active duty, be provided with any benefit under this title or any other law administered by the Secretary.
   - **(2)** Paragraph (1) of this subsection does not apply to benefits under chapters 19 and 37 of this title.

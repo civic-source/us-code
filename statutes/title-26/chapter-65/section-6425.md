@@ -3,15 +3,16 @@ title: "Section 6425 - Adjustment of overpayment of estimated income tax by corp
 usc_title: 26
 usc_section: "6425"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6425"
-generated_at: "2026-03-30T02:55:27.854Z"
+generated_at: "2026-03-30T03:05:18.728Z"
+status: "active"
 ---
 
 # § 6425. Adjustment of overpayment of estimated income tax by corporation
 
 - **(a)**
-  - **(1)** A corporation may, after the close of the taxable year and on or before the 15th day of the fourth month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
+  - **(1)** A corporation may, after the close of the taxable year and on or before the 15th day of the third month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
   - **(2)** An application under this subsection shall be verified in the manner prescribed by section 6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
     - **(A)** the estimated income tax paid by the corporation during the taxable year,
     - **(B)** the amount which, at the time of filing the application, the corporation estimates as its income tax liability for the taxable year,
@@ -24,8 +25,8 @@ generated_at: "2026-03-30T02:55:27.854Z"
   - **(4)** For purposes of this title (other than section 6655), any adjustment under this section shall be treated as a reduction, in the estimated income tax paid, made on the day the credit is allowed or the refund is paid.
 - **(c)** For purposes of this section and section 6655(h) (relating to excessive adjustment)—
   - **(1)** The term “income tax liability” means the excess of—
-    - **(A)** the sum of—
-      - **(i)** the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, plus
+    - **(A)** The sum of—
+      - **(i)** the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
       - **(ii)** the tax imposed by section 55, plus
       - **(iii)** the tax imposed by section 59A, over
     - **(B)** the credits against tax provided by part IV of subchapter A of chapter 1.

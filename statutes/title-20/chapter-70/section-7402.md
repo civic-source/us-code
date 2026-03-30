@@ -3,15 +3,17 @@ title: "Section 7402 - Purpose"
 usc_title: 20
 usc_section: "7402"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7402"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-03-30T03:04:46.361Z"
+status: "active"
 ---
 
 # § 7402. Purpose
 
-It is the purpose of this part to support the efforts of local educational agencies, Indian tribes and organizations, postsecondary institutions, and other entities—
-
-  - **(1)** to meet the unique educational and culturally related academic needs of Indian students, so that such students can meet the challenging State academic standards;
-  - **(2)** to ensure that Indian students gain knowledge and understanding of Native communities, languages, tribal histories, traditions, and cultures; and
-  - **(3)** to ensure that teachers, principals, other school leaders, and other staff who serve Indian students have the ability to provide culturally appropriate and effective instruction and supports to such students.
+- **(a)** It is the purpose of this part to support the efforts of local educational agencies, Indian tribes and organizations, postsecondary institutions, and other entities to meet the unique educational and culturally related academic needs of American Indian and Alaska Native students, so that such students can meet the same challenging State student academic achievement standards as all other students are expected to meet.
+- **(b)** This part carries out the purpose described in subsection (a) of this section by authorizing programs of direct assistance for—
+  - **(1)** meeting the unique educational and culturally related academic needs of American Indians and Alaska Natives;
+  - **(2)** the education of Indian children and adults;
+  - **(3)** the training of Indian persons as educators and counselors, and in other professions serving Indian people; and
+  - **(4)** research, evaluation, data collection, and technical assistance.

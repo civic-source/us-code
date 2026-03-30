@@ -3,9 +3,10 @@ title: "Section 1122 - Functions"
 usc_title: 41
 usc_section: "1122"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 1122"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-03-30T03:06:01.214Z"
+status: "active"
 ---
 
 # § 1122. Functions
@@ -23,8 +24,8 @@ generated_at: "2026-03-30T02:55:55.799Z"
   - **(8)** developing standard contract forms and contract language in order to reduce the Federal Government’s cost of procuring property and services and the private sector’s cost of doing business with the Federal Government;
   - **(9)** providing for a Government-wide award to recognize and promote vendor excellence;
   - **(10)** providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
-  - **(11)** developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
-  - **(12)** developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
+  - **(11)** developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act ( 15 U.S.C. 632(p) )), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+  - **(12)** developing policies that will promote achievement of goals for participation by small businesses, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act ( 15 U.S.C. 632(p) )), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
   - **(13)** completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 - **(b)** In carrying out the functions in subsection (a), the Administrator—
   - **(1)** shall consult with the affected executive agencies, including the Small Business Administration;

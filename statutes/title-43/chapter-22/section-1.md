@@ -3,9 +3,10 @@ title: "Section 1 - Rights of way in Alaska; railroad rights of way; reservation
 usc_title: 43
 usc_section: "1"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.465Z"
+generated_at: "2026-03-30T03:06:10.665Z"
+status: "active"
 ---
 
 # § 942–1. Rights of way in Alaska; railroad rights of way; reservations; water transportation connections; State title to submerged lands; Federal repossession as trustee; “navigable waters” defined; posting schedules of rates; changes in rates

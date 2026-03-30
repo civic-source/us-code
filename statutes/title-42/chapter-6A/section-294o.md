@@ -3,15 +3,16 @@ title: "Section 294o - Advisory Council on Graduate Medical Education"
 usc_title: 42
 usc_section: "294o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 294o"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-03-30T03:06:22.370Z"
+status: "active"
 ---
 
 # § 294o. Advisory Council on Graduate Medical Education
 
 - **(a)** There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
-  - **(1)** make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+  - **(1)** make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
     - **(A)** the supply and distribution of physicians in the United States;
     - **(B)** current and future shortages or excesses of physicians in medical and surgical specialties and subspecialties;
     - **(C)** issues relating to foreign medical school graduates;
@@ -24,15 +25,14 @@ generated_at: "2026-03-30T02:56:10.779Z"
   - **(5)** recommend appropriation levels for programs under this subchapter, except for programs under part C or D.
 - **(b)** The Council shall be composed of—
   - **(1)** the Assistant Secretary for Health or the designee of the Assistant Secretary;
-  - **(2)** the Administrator of the Centers for Medicare & Medicaid Services;
+  - **(2)** the Administrator of the Health Care Financing Administration;
   - **(3)** the Chief Medical Director of the Department of Veterans Affairs;
-  - **(4)** the Administrator of the Health Resources and Services Administration;
-  - **(5)** 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
-  - **(6)** 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
-  - **(7)** 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
+  - **(4)** 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
+  - **(5)** 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+  - **(6)** 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
 - **(c)**
-  - **(1)** Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
-  - **(2)** The Secretary shall appoint the first members to the Council under paragraphs (4), (5), and (6) of subsection (b) within 60 days after October 13, 1992 .
+  - **(1)** Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) of this section shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
+  - **(2)** The Secretary shall appoint the first members to the Council under paragraphs (4), (5), and (6) of subsection (b) of this section within 60 days after October 13, 1992 .
 - **(d)** The Council shall elect one of its members as Chairman of the Council.
 - **(e)** Nine members of the Council shall constitute a quorum, but a lesser number may hold hearings.
 - **(f)** Any vacancy in the Council shall not affect its power to function.
@@ -42,5 +42,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
     - **(A)** collect such information, hold such hearings, and sit and act at such times and places, either as a whole or by subcommittee, and request the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents as the Council or such subcommittee may consider available; and
     - **(B)** request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments, agencies, and instrumentalities are authorized to provide such cooperation and assistance.
   - **(2)** The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title . The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
-- **(i)** Not later than September 30, 2023 , and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
-- **(j)** Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
+- **(i)** In the reports required under subsection (a) of this section, the Council shall specify its activities during the period for which the report is made.
+- **(j)** Not later than April 1, 2002 , the Council shall submit a final report under subsection (a) of this section.
+- **(k)** The Council shall terminate September 30, 2003 .
+- **(l)** Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.

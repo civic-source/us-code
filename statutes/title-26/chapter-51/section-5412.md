@@ -3,12 +3,13 @@ title: "Section 5412 - Removal of beer in containers or by pipeline"
 usc_title: 26
 usc_section: "5412"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5412"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-03-30T03:05:18.703Z"
+status: "active"
 ---
 
 # § 5412. Removal of beer in containers or by pipeline
 
-Beer may be removed from the brewery for consumption or sale only in hogsheads, packages, and similar containers, marked, branded, or labeled in such manner as the Secretary may by regulation require, except that beer may be removed from the brewery pursuant to section 5414 or by pipeline to contiguous distilled spirits plants under section 5222.
+Beer may be removed from the brewery for consumption or sale only in hogsheads, packages, and similar containers, marked, branded, or labeled in such manner as the Secretary may by regulation require, except that beer may be removed from the brewery by pipeline to contiguous distilled spirits plants under section 5222.
 

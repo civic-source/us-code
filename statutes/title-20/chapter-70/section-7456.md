@@ -1,12 +1,35 @@
 ---
-title: "Section 7456 - Repealed. Pub. L. 114–95, title VI, § 6002(q) , Dec. 10, 2015 , 129 Stat. 2062"
+title: "Section 7456 - Improvement of educational opportunities for adult Indians"
 usc_title: 20
 usc_section: "7456"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7456"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-03-30T03:04:46.363Z"
+status: "active"
 ---
 
-# § 7456. Repealed. Pub. L. 114–95, title VI, § 6002(q) , Dec. 10, 2015 , 129 Stat. 2062
+# § 7456. Improvement of educational opportunities for adult Indians
 
+- **(a)** The Secretary shall make grants to State educational agencies, local educational agencies, and Indian tribes, institutions, and organizations—
+  - **(1)** to support planning, pilot, and demonstration projects that are designed to test and demonstrate the effectiveness of programs for improving employment and educational opportunities for adult Indians;
+  - **(2)** to assist in the establishment and operation of programs that are designed to stimulate—
+    - **(A)** the provision of basic literacy opportunities for all nonliterate Indian adults; and
+    - **(B)** the provision of opportunities to all Indian adults to qualify for a secondary school diploma, or its recognized equivalent, in the shortest period of time feasible;
+  - **(3)** to support a major research and development program to develop more innovative and effective techniques for achieving literacy and secondary school equivalency for Indians;
+  - **(4)** to provide for basic surveys and evaluations to define accurately the extent of the problems of illiteracy and lack of secondary school completion among Indians; and
+  - **(5)** to encourage the dissemination of information and materials relating to, and the evaluation of, the effectiveness of education programs that may offer educational opportunities to Indian adults.
+- **(b)** The Secretary may make grants to Indian tribes, institutions, and organizations to develop and establish educational services and programs specifically designed to improve educational opportunities for Indian adults.
+- **(c)** The Secretary may make grants to, and enter into contracts with, public agencies and institutions and Indian tribes, institutions, and organizations, for—
+  - **(1)** the dissemination of information concerning educational programs, services, and resources available to Indian adults, including evaluations of the programs, services, and resources; and
+  - **(2)** the evaluation of federally assisted programs in which Indian adults may participate to determine the effectiveness of the programs in achieving the purposes of the programs with respect to Indian adults.
+- **(d)**
+  - **(1)** Each entity desiring a grant or contract under this section shall submit to the Secretary an application at such time, in such manner, containing such information, and consistent with such criteria, as the Secretary may prescribe in regulations.
+  - **(2)** Each application described in paragraph (1) shall contain—
+    - **(A)** a statement describing the activities to be conducted and the objectives to be achieved under the grant or contract; and
+    - **(B)** a description of the method to be used for evaluating the effectiveness of the activities for which assistance is sought and determining whether the objectives of the grant or contract are achieved.
+  - **(3)** The Secretary shall not approve an application described in paragraph (1) unless the Secretary determines that such application, including any documentation submitted with the application, indicates that—
+    - **(A)** there has been adequate participation, by the individuals to be served and the appropriate tribal communities, in the planning and development of the activities to be assisted; and
+    - **(B)** the individuals and tribal communities referred to in subparagraph (A) will participate in the operation and evaluation of the activities to be assisted.
+  - **(4)** In approving applications under paragraph (1), the Secretary shall give priority to applications from Indian educational agencies, organizations, and institutions.
+- **(e)** Not more than 5 percent of the funds made available to an entity through a grant or contract made or entered into under this section for a fiscal year may be used to pay for administrative costs.

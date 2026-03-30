@@ -3,9 +3,10 @@ title: "Section 6k - Registration of associates of futures commission merchants,
 usc_title: 7
 usc_section: "6k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6k"
-generated_at: "2026-03-30T02:53:42.241Z"
+generated_at: "2026-03-30T03:04:20.866Z"
+status: "active"
 ---
 
 # § 6k. Registration of associates of futures commission merchants, commodity pool operators, and commodity trading advisors; required disclosure of disqualifications; exemptions for associated persons

@@ -3,26 +3,25 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-30T02:55:27.617Z"
+generated_at: "2026-03-30T03:05:18.535Z"
+status: "active"
 ---
 
 # § 63. Taxable income defined
 
 - **(a)** Except as provided in subsection (b), for purposes of this subtitle, the term “taxable income” means gross income minus the deductions allowed by this chapter (other than the standard deduction).
 - **(b)** In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
-  - **(1)** the standard deduction,
-  - **(2)** the deduction for personal exemptions provided in section 151,
-  - **(3)** any deduction provided in section 199A,
-  - **(4)** the deduction provided in section 170(p),
-  - **(5)** the deduction provided in section 224,
-  - **(6)** the deduction provided in section 225 and 1 1 So in original. Probably should be preceded by a comma.
-  - **(7)** so much of the deduction allowed by section 163(a) as is attributable to the exception under section 163(h)(4)(A).
+  - **(1)** the standard deduction, and
+  - **(2)** the deduction for personal exemptions provided in section 151.
 - **(c)** For purposes of this subtitle—
   - **(1)** Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
-    - **(A)** the basic standard deduction, and
-    - **(B)** the additional standard deduction.
+    - **(A)** the basic standard deduction,
+    - **(B)** the additional standard deduction,
+    - **(C)** in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
+    - **(D)** the disaster loss deduction, and
+    - **(E)** the motor vehicle sales tax deduction.
   - **(2)** For purposes of paragraph (1), the basic standard deduction is—
     - **(A)** 200 percent of the dollar amount in effect under subparagraph (C) for the taxable year in the case of—
       - **(i)** a joint return, or
@@ -32,7 +31,7 @@ generated_at: "2026-03-30T02:55:27.617Z"
   - **(3)** For purposes of paragraph (1), the additional standard deduction is the sum of each additional amount to which the taxpayer is entitled under subsection (f).
   - **(4)** In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
       - **(i)** “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
       - **(ii)** “calendar year 1997” in the case of the dollar amount contained in paragraph (5)(B).
   - **(5)** In the case of an individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, the basic standard deduction applicable to such individual for such individual’s taxable year shall not exceed the greater of—
@@ -43,18 +42,14 @@ generated_at: "2026-03-30T02:55:27.617Z"
     - **(B)** a nonresident alien individual,
     - **(C)** an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in his annual accounting period, or
     - **(D)** an estate or trust, common trust fund, or partnership,
-  - **(7)** In the case of a taxable year beginning after December 31, 2017 —
-    - **(A)** Paragraph (2) shall be applied—
-      - **(i)** by substituting “$23,625” for “$4,400” in subparagraph (B), and
-      - **(ii)** by substituting “$15,750” for “$3,000” in subparagraph (C).
-    - **(B)**
-      - **(i)** Paragraph (4) shall not apply to the dollar amounts contained in paragraphs (2)(B) and (2)(C).
-      - **(ii)** In the case of a taxable year beginning after 2025, the $23,625 and $15,750 amounts in subparagraph (A) shall each be increased by an amount equal to—
-        - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2024” for “2016” in subparagraph (A)(ii) thereof.
+  - **(7)** For purposes of paragraph (1), the real property tax deduction is the lesser of—
+    - **(A)** the amount allowable as a deduction under this chapter for State and local taxes described in section 164(a)(1), or
+    - **(B)** $500 ($1,000 in the case of a joint return).
+  - **(8)** For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
+  - **(9)** For purposes of paragraph (1), the term “motor vehicle sales tax deduction” means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
 - **(d)** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
   - **(1)** the deductions allowable in arriving at adjusted gross income, and
-  - **(2)** any deduction referred to in any paragraph of subsection (b).
+  - **(2)** the deduction for personal exemptions provided by section 151.
 - **(e)**
   - **(1)** Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
   - **(2)** Any election under this subsection shall be made on the taxpayer’s return, and the Secretary shall prescribe the manner of signifying such election on the return.

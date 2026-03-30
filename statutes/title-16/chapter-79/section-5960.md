@@ -1,12 +1,15 @@
 ---
-title: "Section 5960 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 5960 - Multiple contracts within park"
 usc_title: 16
 usc_section: "5960"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5960"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-03-30T03:04:48.632Z"
+status: "active"
 ---
 
-# § 5960. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 5960. Multiple contracts within park
+
+If multiple concessions contracts are awarded to authorize concessioners to provide the same or similar outfitting, guiding, river running, or other similar services at the same approximate location or resource within a specific national park, the Secretary shall establish a comparable franchise fee structure for all such same or similar contracts, except that the terms and conditions of any existing concessions contract shall not be subject to modification or open to renegotiation by the Secretary because of an award of a new contract at the same approximate location or resource.
 

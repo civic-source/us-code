@@ -3,9 +3,10 @@ title: "Section 254o - Breach of scholarship contract or loan repayment contract
 usc_title: 42
 usc_section: "254o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 254o"
-generated_at: "2026-03-30T02:56:10.715Z"
+generated_at: "2026-03-30T03:06:22.321Z"
+status: "active"
 ---
 
 # § 254o. Breach of scholarship contract or loan repayment contract
@@ -20,9 +21,9 @@ generated_at: "2026-03-30T02:56:10.715Z"
     - **(B)** in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254 l –1(b)(1)(B)(ii) of this title,
 - **(b)**
   - **(1)**
-    - **(A)** Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) or section 254p(d) of this title ) to begin such individual’s service obligation under section 254 l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254 l (f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+    - **(A)** Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title ) to begin such individual’s service obligation under section 254 l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254 l (f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula t−s A=3ϕ A —— B t in which “A” is the amount the United States is entitled to recover, “ϕ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual’s period of obligated service; and “s” is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title .
     - **(B)**
-      - **(i)** Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title .
+      - **(i)** Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title .
       - **(ii)** If damages described in clause (i) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
         - **(I)** utilize collection agencies contracted with by the Administrator of the General Services Administration; or
         - **(II)** enter into contracts for the recovery of such damages with collection agencies selected by the Secretary.
@@ -33,14 +34,14 @@ generated_at: "2026-03-30T02:56:10.715Z"
     - **(A)** submits a written request for such termination; and
     - **(B)** repays all amounts paid to, or on behalf of, the individual under section 254 l (g) of this title.
 - **(c)**
-  - **(1)** If (for any reason not specified in subsection (a) or section 254p(d) of this title ) an individual breaches the written contract of the individual under section 254 l –1 of this title by failing either to begin such individual’s service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
+  - **(1)** If (for any reason not specified in subsection (a) of this section or section 254p(d) of this title ) an individual breaches the written contract of the individual under section 254 l –1 of this title by failing either to begin such individual’s service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
     - **(A)** the total of the amounts paid by the United States under section 254 l –1(g) of this title on behalf of the individual for any period of obligated service not served;
     - **(B)** an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
     - **(C)** the interest on the amounts described in subparagraphs (A) and (B), at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach;
   - **(2)** The Secretary may terminate a contract with an individual under section 254 l –1 of this title if, not later than 45 days before the end of the fiscal year in which the contract was entered into, the individual—
     - **(A)** submits a written request for such termination; and
     - **(B)** repays all amounts paid on behalf of the individual under section 254 l –1(g) of this title.
-  - **(3)** Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B).
+  - **(3)** Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B) of this section.
 - **(d)**
   - **(1)** Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
   - **(2)** The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
@@ -48,6 +49,6 @@ generated_at: "2026-03-30T02:56:10.715Z"
     - **(A)** Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
     - **(B)**
       - **(i)** Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
-      - **(ii)** The provision of law referred to in clause (i) is subsection (f) of section 234 1 of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484 .
+      - **(ii)** The provision of law referred to in clause (i) is subsection (f) of section 234 2 2 See References in Text note below. of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484 .
 - **(e)** Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 - **(f)** The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 ( Public Law 107–251 ) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002 .

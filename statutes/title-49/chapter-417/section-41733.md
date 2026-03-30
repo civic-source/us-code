@@ -3,9 +3,10 @@ title: "Section 41733 - Level of basic essential air service"
 usc_title: 49
 usc_section: "41733"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 41733"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-03-30T03:06:29.320Z"
+status: "active"
 ---
 
 # § 41733. Level of basic essential air service
@@ -13,15 +14,15 @@ generated_at: "2026-03-30T02:56:19.377Z"
 - **(a)** For each eligible place for which a decision was made before October 1, 1988 , under section 419 of the Federal Aviation Act of 1958, establishing the level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988 .
 - **(b)**
   - **(1)** The Secretary shall decide on the level of basic essential air service for each eligible place for which a decision was not made before October 1, 1988 , establishing the level of essential air transportation, when the Secretary receives notice that service to that place will be provided by only one air carrier. The Secretary shall make the decision by the last day of the 6-month period beginning on the date the Secretary receives the notice. The Secretary may impose notice requirements necessary to carry out this subsection. Before making a decision, the Secretary shall consider the views of any interested community and the appropriate State authority of the State in which the community is located.
-  - **(2)** Until the Secretary has made a decision on a level of basic essential air service for an eligible place under this subsection, the Secretary, on petition by an appropriate representative of the place, as defined by the Secretary, shall prohibit an air carrier from ending, suspending, or reducing air transportation to that place that appears to deprive the place of basic essential air service.
+  - **(2)** Until the Secretary has made a decision on a level of basic essential air service for an eligible place under this subsection, the Secretary, on petition by an appropriate representative of the place, shall prohibit an air carrier from ending, suspending, or reducing air transportation to that place that appears to deprive the place of basic essential air service.
 - **(c)**
   - **(1)** If the Secretary decides that basic essential air service will not be provided to an eligible place without compensation, the Secretary shall provide notice that an air carrier may apply to provide basic essential air service to the place for compensation under this section. In selecting an applicant, the Secretary shall consider, among other factors—
     - **(A)** the demonstrated reliability of the applicant in providing scheduled air service;
-    - **(B)** the contractual, marketing, code-share, or interline arrangements the applicant has made with a larger air carrier serving the hub airport;
-    - **(C)** the preferences of the actual and potential users of air transportation at the eligible place, including the views of the elected officials representing the users;
-    - **(D)** whether the air carrier has included a plan in its proposal to market its services to the community;
-    - **(E)** for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title; and
-    - **(F)** the total compensation proposed by the air carrier for providing scheduled air service under this section.
+    - **(B)** the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
+    - **(C)** the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+    - **(D)** the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users;
+    - **(E)** whether the air carrier has included a plan in its proposal to market its services to the community; and
+    - **(F)** for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
   - **(2)** Under guidelines prescribed under section 41737(a) of this title , the Secretary shall pay the rate of compensation for providing basic essential air service under this section and section 41734 of this title .
 - **(d)** The Secretary shall pay compensation under this section at times and in the way the Secretary decides is appropriate. The Secretary shall end payment of compensation to an air carrier for providing basic essential air service to an eligible place when the Secretary decides the compensation is no longer necessary to maintain basic essential air service to the place.
 - **(e)** The Secretary shall review periodically the level of basic essential air service for each eligible place. Based on the review and consultations with an interested community and the appropriate State authority of the State in which the community is located, the Secretary may make appropriate adjustments in the level of service, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community.
@@ -39,14 +40,4 @@ generated_at: "2026-03-30T02:56:19.377Z"
       - **(i)** the rate of subsidy per passenger under the proposal does not exceed the subsidy cap;
       - **(ii)** the proposal is likely to result in an average number of enplanements per day that will satisfy the requirement in section 41731(a)(1)(B); and
       - **(iii)** the proposal is consistent with the legal and regulatory requirements of the essential air service program.
-- **(h)** In this section, the term “subsidy cap” means the subsidy-per-passenger cap established under section 41731(a)(1)(C).
-- **(i)**
-  - **(1)** An appropriate representative of an eligible place, as defined by the Secretary, may submit to the Secretary a petition expressing no confidence in the air carrier providing basic essential air service under this section and requesting a review by the Secretary. A petition submitted under this subsection shall demonstrate that the air carrier—
-    - **(A)** is unwilling or unable to meet the operational specifications outlined in the order issued by the Secretary specifying the terms of basic essential air service to such place;
-    - **(B)** is experiencing reliability challenges with the potential to adversely affect air service to such place; or
-    - **(C)** is no longer able to provide service to such place at the rate of compensation specified by the Secretary.
-  - **(2)** Not later than 2 months after the date on which the Secretary receives a petition under paragraph (1), the Secretary shall review the operational performance of the air carrier providing basic essential air service to such place that submitted such petition and determine whether such air carrier is fully complying with the obligations specified in the order issued by the Secretary specifying the terms of basic essential air service to such place.
-  - **(3)** If based on a review under paragraph (2), the Secretary determines noncompliance by an air carrier with an order specifying the terms for basic essential air service to the community, the Secretary may—
-    - **(A)** terminate the order issued to the air carrier; and
-    - **(B)** issue a notice pursuant to subsection (c) that an air carrier may apply to provide basic essential air service to such place for compensation under this section and select an applicant pursuant to such subsection.
-  - **(4)** If the Secretary makes a determination under paragraph (3) to terminate an order issued to an air carrier under this section, the Secretary shall ensure continuity in air service to the affected place.
+- **(h)** In this section, the term “subsidy cap” means the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 ( Public Law 106–69 ; 113 Stat. 1022 ).

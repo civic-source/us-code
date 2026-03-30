@@ -1,0 +1,19 @@
+---
+title: "Section 70302 - Purpose, policy, and goals"
+usc_title: 51
+usc_section: "70302"
+chapter: 703
+current_through: "PL 113-21"
+classification: "51 U.S.C. § 70302"
+generated_at: "2026-03-30T03:06:49.078Z"
+status: "active"
+---
+
+# § 70302. Purpose, policy, and goals
+
+The purpose of this chapter is to set, for commercial and foreign users, the reimbursement pricing policy for the Space Transportation System that is consistent with the findings included in section 70301 of this title , encourages the full and effective use of space, and is designed to achieve the following goals:
+
+  - **(1)** The preservation of the role of the United States as a leader in space research, technology, and development.
+  - **(2)** The efficient and cost effective use of the Space Transportation System.
+  - **(3)** The achievement of greatly increased commercial space activity.
+  - **(4)** The enhancement of the international competitive position of the United States.

@@ -3,9 +3,10 @@ title: "Section 206 - Recreational trails program"
 usc_title: 23
 usc_section: "206"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 206"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-03-30T03:04:51.162Z"
+status: "active"
 ---
 
 # § 206. Recreational trails program
@@ -27,19 +28,19 @@ generated_at: "2026-03-30T02:55:12.565Z"
 - **(d)**
   - **(1)** Funds apportioned to a State to carry out this section shall be obligated for recreational trails and related projects that—
     - **(A)** have been planned and developed under the laws, policies, and administrative procedures of the State; and
-    - **(B)** are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by chapter 2003 of title 54, that is in effect.
+    - **(B)** are identified in, or further a specific goal of, a recreational trail plan, or a statewide comprehensive outdoor recreation plan required by the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 et seq.), that is in effect.
   - **(2)** Permissible uses of funds apportioned to a State for a fiscal year to carry out this section include—
     - **(A)** maintenance and restoration of existing recreational trails;
     - **(B)** development and rehabilitation of trailside and trailhead facilities and trail linkages for recreational trails;
     - **(C)** purchase and lease of recreational trail construction and maintenance equipment;
     - **(D)** construction of new recreational trails, except that, in the case of new recreational trails crossing Federal lands, construction of the trails shall be—
       - **(i)** permissible under other law;
-      - **(ii)** necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by chapter 2003 of title 54 and that is in effect;
+      - **(ii)** necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 et seq.) and that is in effect;
       - **(iii)** approved by the administering agency of the State designated under subsection (c)(1); and
       - **(iv)** approved by each Federal agency having jurisdiction over the affected lands under such terms and conditions as the head of the Federal agency determines to be appropriate, except that the approval shall be contingent on compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974 ( 16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.);
     - **(E)** acquisition of easements and fee simple title to property for recreational trails or recreational trail corridors;
     - **(F)** assessment of trail conditions for accessibility and maintenance;
-    - **(G)** development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the uses of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
+    - **(G)** development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
     - **(H)** payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year.
   - **(3)**
     - **(A)** Except as provided in subparagraphs (B) and (C), of the apportionments made to a State for a fiscal year to carry out this section—
@@ -79,9 +80,8 @@ generated_at: "2026-03-30T02:55:12.565Z"
     - **(B)** Any funds or the fair market value of any materials or services may be provided by a Federal project sponsor and shall be credited to the Federal agency’s share in accordance with subsection (f).
     - **(C)** The Secretary may allow preapproval planning and environmental compliance costs to be credited toward the non-Federal share of the cost of a project described in subsection (d)(2) (other than subparagraph (H)) in accordance with subsection (f), limited to costs incurred less than 18 months prior to project approval.
   - **(2)** A project funded under this section is intended to enhance recreational opportunity and is not subject to section 138 of this title or section 303 of title 49 .
-  - **(3)** At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 200305(f)(3) of title 54 .
+  - **(3)** At the option of each State, funds apportioned to the State to carry out this section may be treated as Land and Water Conservation Fund apportionments for the purposes of section 6(f)(3) of the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –8(f)(3)).
   - **(4)**
     - **(A)** As a condition of making available apportionments for work on recreational trails that would affect privately owned land, a State shall obtain written assurances that the owner of the land will cooperate with the State and participate as necessary in the activities to be conducted.
     - **(B)** Any use of the apportionments to a State to carry out this section on privately owned land must be accompanied by an easement or other legally binding agreement that ensures public access to the recreational trail improvements funded by the apportionments.
 - **(i)** Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
-- **(j)** Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.

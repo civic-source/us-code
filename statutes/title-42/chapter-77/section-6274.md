@@ -3,15 +3,16 @@ title: "Section 6274 - Exchange of information with International Energy Agency"
 usc_title: 42
 usc_section: "6274"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6274"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-03-30T03:06:22.752Z"
+status: "active"
 ---
 
 # § 6274. Exchange of information with International Energy Agency
 
 - **(a)**
-  - **(1)** Except as provided in subsections (b) and (c), the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
+  - **(1)** Except as provided in subsections (b) and (c) of this section, the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B) of this paragraph, any such information or data which is geological or geophysical information or a trade secret or commercial or financial information to which section 552(b)(9) or (b)(4) of title 5 applies shall, prior to such transmittal, be aggregated, accumulated, or otherwise reported in such manner as to avoid, to the fullest extent feasible, identification of any person from whom the United States obtained such information or data, and in the case of geological or geophysical information, a competitive disadvantage to such person.
     - **(B)**
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:56:11.245Z"
 - **(e)** The authority under this section to transmit information shall be subject to any limitations on disclosure contained in other laws, except that such authority may be exercised without regard to—
   - **(1)** section 11(d) of the Energy Supply and Environmental Coordination Act of 1974 [ 15 U.S.C. 796(d) ];
   - **(2)** section 14(b) of the Federal Energy Administration Act of 1974 [ 15 U.S.C. 773(b) ];
-  - **(3)** section 12 1 1 See References in Text note below. of the Export Administration Act of 1979;
+  - **(3)** section 12 of the Export Administration Act of 1979 [50 U.S.C. App. 2411];
   - **(4)** section 9 of title 13 ;
   - **(5)** section 176a of title 15 ; and
   - **(6)** section 1905 of title 18 .

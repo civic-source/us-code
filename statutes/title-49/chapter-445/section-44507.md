@@ -1,14 +1,15 @@
 ---
-title: "Section 44507 - Regions and centers"
+title: "Section 44507 - Civil aeromedical research"
 usc_title: 49
 usc_section: "44507"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 44507"
-generated_at: "2026-03-30T02:56:19.381Z"
+generated_at: "2026-03-30T03:06:29.324Z"
+status: "active"
 ---
 
-# § 44507. Regions and centers
+# § 44507. Civil aeromedical research
 
 The Civil Aeromedical Institute established by section 106(j) of this title may—
 

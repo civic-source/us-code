@@ -1,12 +1,17 @@
 ---
-title: "Section 74d - Transferred"
+title: "Section 74d - Corrections Calendar Office"
 usc_title: 2
 usc_section: "74d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 74d"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.400Z"
+status: "active"
 ---
 
-# § 74d. Transferred
+# § 74d. Corrections Calendar Office
 
+There is established in the House of Representatives an office to be known as the Corrections Calendar Office, which shall have the responsibility of assisting the Speaker in the management of the Corrections Calendar under the Rules of the House of Representatives. The Office shall have not more than five employees—
+
+  - **(1)** who shall be appointed by the Speaker, in consultation with the minority leader; and
+  - **(2)** whose annual rate of pay shall be established by the Speaker, but may not exceed 75 percent of the maximum annual rate under the general limitation specified by the order of the Speaker in effect under section 60a–2a of this title .

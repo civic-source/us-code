@@ -3,9 +3,10 @@ title: "Section 149 - Bonds must be registered to be tax exempt; other requireme
 usc_title: 26
 usc_section: "149"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 149"
-generated_at: "2026-03-30T02:55:27.635Z"
+generated_at: "2026-03-30T03:05:18.549Z"
+status: "active"
 ---
 
 # § 149. Bonds must be registered to be tax exempt; other requirements
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:55:27.635Z"
     - **(C)** the payment of principal or interest on such bond is otherwise indirectly guaranteed (in whole or in part) by the United States (or an agency or instrumentality thereof).
   - **(3)**
     - **(A)** A bond shall not be treated as federally guaranteed by reason of—
-      - **(i)** any guarantee by the Federal Housing Administration, the Department of Veterans Affairs, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
+      - **(i)** any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
       - **(ii)** any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans,
       - **(iii)** any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act ( 16 U.S.C. 839d ) as in effect on the date of the enactment of the Tax Reform Act of 1984, or
       - **(iv)** subject to subparagraph (E), any guarantee by a Federal home loan bank made in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).
@@ -46,7 +47,6 @@ generated_at: "2026-03-30T02:55:27.635Z"
       - **(ii)** Clause (i) shall not apply to any bond which is federally guaranteed within the meaning of paragraph (2)(B)(ii).
     - **(D)** Except as provided in paragraph (2)(B)(ii), a bond which is issued as part of an issue shall not be treated as federally guaranteed merely by reason of the fact that the proceeds of such issue are used in making loans to a financial institution or there is a guarantee by a financial institution unless such guarantee constitutes a federally insured deposit or account.
     - **(E)** Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008 .
-    - **(F)** A bond shall not be treated as federally guaranteed merely because of the payment of rent, user fees, or other charges by the United States (or any agency or instrumentality thereof) in exchange for the use of the spaceport by the United States (or any agency or instrumentality thereof).
   - **(4)** For purposes of this subsection—
     - **(A)** To the extent provided in regulations prescribed by the Secretary, any entity with statutory authority to borrow from the United States shall be treated as an instrumentality of the United States. Except in the case of an exempt facility bond, a qualified small issue bond, and a qualified student loan bond, nothing in the preceding sentence shall be construed as treating the District of Columbia or any possession of the United States as an instrumentality of the United States.
     - **(B)** The term “federally insured deposit or account” means any deposit or account in a financial institution to the extent such deposit or account is insured under Federal law by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any similar federally chartered corporation.
@@ -60,9 +60,30 @@ generated_at: "2026-03-30T02:55:27.635Z"
       - **(ii)** such bond is issued pursuant to section 608(a)(6)(A) of Public Law 97–468 , as in effect on the date of the enactment of the Tax Reform Act of 1986; or
       - **(iii)** such bond is issued before June 19, 1984 under section 11(b) of the United States Housing Act of 1937.
 - **(d)**
-  - **(1)** Nothing in section 103(a) or in any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond issued to advance refund another bond.
-  - **(2)** For purposes of this part, a bond shall be treated as issued to advance refund another bond if it is issued more than 90 days before the redemption of the refunded bond.
-  - **(3)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
+  - **(1)** Nothing in section 103(a) or in any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond issued as part of an issue described in paragraph (2), (3), or (4).
+  - **(2)** An issue is described in this paragraph if any bond (issued as part of such issue) is issued to advance refund a private activity bond (other than a qualified 501(c)(3) bond).
+  - **(3)**
+    - **(A)** An issue is described in this paragraph if any bond (issued as part of such issue), hereinafter in this paragraph referred to as the “refunding bond”, is issued to advance refund a bond unless—
+      - **(i)** the refunding bond is only—
+        - **(I)** the 1st advance refunding of the original bond if the original bond is issued after 1985, or
+        - **(II)** the 1st or 2nd advance refunding of the original bond if the original bond was issued before 1986,
+      - **(ii)** in the case of refunded bonds issued before 1986, the refunded bond is redeemed not later than the earliest date on which such bond may be redeemed at par or at a premium of 3 percent or less,
+      - **(iii)** in the case of refunded bonds issued after 1985, the refunded bond is redeemed not later than the earliest date on which such bond may be redeemed,
+      - **(iv)** the initial temporary period under section 148(c) ends—
+        - **(I)** with respect to the proceeds of the refunding bond not later than 30 days after the date of issue of such bond, and
+        - **(II)** with respect to the proceeds of the refunded bond on the date of issue of the refunding bond, and
+      - **(v)** in the case of refunded bonds to which section 148(e) did not apply, on and after the date of issue of the refunding bond, the amount of proceeds of the refunded bond invested in higher yielding investments (as defined in section 148(b)) which are nonpurpose investments (as defined in section 148(f)(6)(A)) does not exceed—
+        - **(I)** the amount so invested as part of a reasonably required reserve or replacement fund or during an allowable temporary period, and
+        - **(II)** the amount which is equal to the lesser of 5 percent of the proceeds of the issue of which the refunded bond is a part or $100,000 (to the extent such amount is allocable to the refunded bond).
+    - **(B)**
+      - **(i)** Clause (ii) and (iii) of subparagraph (A) shall apply only if the issuer may realize present value debt service savings (determined without regard to administrative expenses) in connection with the issue of which the refunding bond is a part.
+      - **(ii)** For purposes of clauses (ii) and (iii) of subparagraph (A), the earliest date referred to in such clauses shall not be earlier than the 90th day after the date of issuance of the refunding bond.
+  - **(4)** An issue is described in this paragraph if any bond (issued as part of such issue) is issued to advance refund another bond and a device is employed in connection with the issuance of such issue to obtain a material financial advantage (based on arbitrage) apart from savings attributable to lower interest rates.
+  - **(5)** For purposes of this part, a bond shall be treated as issued to advance refund another bond if it is issued more than 90 days before the redemption of the refunded bond.
+  - **(6)** For purposes of paragraph (3), bonds issued before the date of the enactment of this subsection shall be taken into account under subparagraph (A)(i) thereof except—
+    - **(A)** a refunding which occurred before 1986 shall be treated as an advance refunding only if the refunding bond was issued more than 180 days before the redemption of the refunded bond, and
+    - **(B)** a bond issued before 1986, shall be treated as advance refunded no more than once before March 15, 1986 .
+  - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 - **(e)**
   - **(1)** Nothing in section 103(a) or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond unless such bond satisfies the requirements of paragraph (2).
   - **(2)** A bond satisfies the requirements of this paragraph if the issuer submits to the Secretary, not later than the 15th day of the 2d calendar month after the close of the calendar quarter in which the bond is issued (or such later time as the Secretary may prescribe with respect to any portion of the statement), a statement concerning the issue of which the bond is a part which contains—

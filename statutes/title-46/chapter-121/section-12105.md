@@ -3,9 +3,10 @@ title: "Section 12105 - Issuance of documentation"
 usc_title: 46
 usc_section: "12105"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 12105"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-03-30T03:06:27.179Z"
+status: "active"
 ---
 
 # § 12105. Issuance of documentation
@@ -17,18 +18,3 @@ generated_at: "2026-03-30T02:56:15.558Z"
   - **(2)** identify the owner of the vessel; and
   - **(3)** contain additional information prescribed by the Secretary.
 - **(d)** The Secretary shall prescribe procedures to ensure the integrity of, and the accuracy of information contained in, certificates of documentation.
-- **(e)**
-  - **(1)** Except as provided in paragraphs (2) and (3), a certificate of documentation issued under this part is valid for a 1-year period and may be renewed for additional 1-year periods.
-  - **(2)**
-    - **(A)** The owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for a certificate of documentation for a recreational vessel or the renewal thereof.
-    - **(B)**
-      - **(i)** The Secretary shall assess and collect a fee—
-        - **(I)** for the issuance of a certificate of documentation for a recreational vessel that is equivalent to the fee established for the issuance of a certificate of documentation under section 2110; and
-        - **(II)** for the renewal of a certificate of documentation for a recreational vessel that is equivalent to the number of years of effectiveness of the certificate of documentation multiplied by the fee established for the renewal of a certificate of documentation under section 2110.
-      - **(ii)** Fees collected under this subsection—
-        - **(I)** shall be credited to the account from which the costs of such issuance or renewal were paid; and
-        - **(II)** may remain available until expended.
-  - **(3)**
-    - **(A)** The owner of a vessel shall notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation for the vessel is based that occurs before the expiration of the certificate under this subsection, by not later than 30 days after such change.
-    - **(B)** The certificate of documentation for a vessel shall terminate upon the expiration of such 30-day period if the owner has not notified the Coast Guard of such change before the end of such period.
-  - **(4)** Nothing in this section shall be construed to limit the authority of a State or local authority from taking action to remove an abandoned or derelict vessel.

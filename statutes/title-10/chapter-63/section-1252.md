@@ -3,14 +3,15 @@ title: "Section 1252 - Age 64: permanent professors at academies"
 usc_title: 10
 usc_section: "1252"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1252"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-03-30T03:04:17.251Z"
+status: "active"
 ---
 
 # § 1252. Age 64: permanent professors at academies
 
-- **(a)** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force covered by subsection (b) shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
+- **(a)** Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps covered by subsection (b) shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 - **(b)** This section applies to the following officers:
   - **(1)** An officer who is a permanent professor or the director of admissions of the United States Military Academy.
   - **(2)** An officer who is a permanent professor at the United States Naval Academy.

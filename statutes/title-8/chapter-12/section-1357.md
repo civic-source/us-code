@@ -3,9 +3,10 @@ title: "Section 1357 - Powers of immigration officers and employees"
 usc_title: 8
 usc_section: "1357"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1357"
-generated_at: "2026-03-30T02:53:10.496Z"
+generated_at: "2026-03-30T03:04:14.636Z"
+status: "active"
 ---
 
 # § 1357. Powers of immigration officers and employees
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:53:10.496Z"
   - **(1)** has reason to believe that the alien may not have been lawfully admitted to the United States or otherwise is not lawfully present in the United States,
   - **(2)** expeditiously informs an appropriate officer or employee of the Service authorized and designated by the Attorney General of the arrest and of facts concerning the status of the alien, and
   - **(3)** requests the Service to determine promptly whether or not to issue a detainer to detain the alien,
-- **(e)** Notwithstanding any other provision of this section other than paragraph (3) of subsection (a), an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person’s right to be or to remain in the United States.
+- **(e)** Notwithstanding any other provision of this section other than paragraph (3) of subsection (a) of this section, an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person’s right to be or to remain in the United States.
 - **(f)**
   - **(1)** Under regulations of the Attorney General, the Commissioner shall provide for the fingerprinting and photographing of each alien 14 years of age or older against whom a proceeding is commenced under section 1229a of this title .
   - **(2)** Such fingerprints and photographs shall be made available to Federal, State, and local law enforcement agencies, upon request.

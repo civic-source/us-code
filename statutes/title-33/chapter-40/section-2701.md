@@ -3,9 +3,10 @@ title: "Section 2701 - Definitions"
 usc_title: 33
 usc_section: "2701"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2701"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-03-30T03:05:36.298Z"
+status: "active"
 ---
 
 # § 2701. Definitions
@@ -40,8 +41,8 @@ For the purposes of this Act, the term—
   - **(26)** “owner or operator”—
     - **(A)** means—
       - **(i)** in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
-      - **(ii)** in the case of an onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity owning or operating such facility;
-      - **(iii)** in the case of any abandoned offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that owned or operated such facility immediately prior to such abandonment;
+      - **(ii)** in the case of an onshore or offshore facility, any person owning or operating such facility;
+      - **(iii)** in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
       - **(iv)** in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
       - **(v)** notwithstanding subparagraph (B)(i), and in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including for purposes of liability under section 2702 of this title , any State or local government that has caused or contributed to a discharge or substantial threat of a discharge of oil from a vessel or facility ownership or control of which was acquired involuntarily through—
         - **(I)** seizure or otherwise in connection with law enforcement activity;
@@ -69,13 +70,12 @@ For the purposes of this Act, the term—
   - **(30)** “remove” or “removal” means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
   - **(31)** “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil, the costs to prevent, minimize, or mitigate oil pollution from such an incident;
   - **(32)** “responsible party” means the following:
-    - **(A)** In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 .
+    - **(A)** In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46 ).
     - **(B)** In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
     - **(C)** In the case of an offshore facility (other than a pipeline or a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501 et seq.)), the lessee or permittee of the area in which the facility is located or the holder of a right of use and easement granted under applicable State law or the Outer Continental Shelf Lands Act ( 43 U.S.C. 1301–135 6) for the area in which the facility is located (if the holder is a different person than the lessee or permittee), except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as owner transfers possession and right to use the property to another person by lease, assignment, or permit.
-    - **(D)** In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
-    - **(E)** In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501–152 4), the licensee.
-    - **(F)** In the case of a pipeline, any person owning or operating the pipeline.
-    - **(G)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+    - **(D)** In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501–152 4), the licensee.
+    - **(E)** In the case of a pipeline, any person owning or operating the pipeline.
+    - **(F)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
   - **(33)** “Secretary” means the Secretary of the department in which the Coast Guard is operating;
   - **(34)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
     - **(A)** is a vessel of the United States;
@@ -99,9 +99,9 @@ For the purposes of this Act, the term—
       - **(viii)** restructuring, renegotiating, or otherwise agreeing to alter the terms and conditions of the extension of credit or security interest, exercising forbearance;
       - **(ix)** exercising other remedies that may be available under applicable law for the breach of a term or condition of the extension of credit or security agreement; or
       - **(x)** conducting a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
-  - **(39)** “extension of credit” has the meaning provided in section 101(20)(H)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(i) ); 1 1 See References in Text note below.
-  - **(40)** “financial or administrative function” has the meaning provided in section 101(20)(H)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(ii) ); 1
-  - **(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(H)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iii) ); 1
-  - **(42)** “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iv) ); 1
-  - **(43)** “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(v) ); 1 and
-  - **(44)** “security interest” has the meaning provided in ection 101(20)(H)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(vi) ). 1
+  - **(39)** “extension of credit” has the meaning provided in section 101(20)(G)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(i) );
+  - **(40)** “financial or administrative function” has the meaning provided in section 101(20)(G)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(ii) );
+  - **(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(G)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iii) );
+  - **(42)** “lender” has the meaning provided in section 101(20)(G)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iv) );
+  - **(43)** “operational function” has the meaning provided in section 101(20)(G)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(v) ); and
+  - **(44)** “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(vi) ).

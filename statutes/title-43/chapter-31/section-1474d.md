@@ -3,9 +3,10 @@ title: "Section 1474d - Environmental Improvement and Restoration Fund"
 usc_title: 43
 usc_section: "1474d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1474d"
-generated_at: "2026-03-30T02:55:57.474Z"
+generated_at: "2026-03-30T03:06:10.675Z"
+status: "active"
 ---
 
 # § 1474d. Environmental Improvement and Restoration Fund
@@ -19,11 +20,11 @@ generated_at: "2026-03-30T02:55:57.474Z"
   - **(3)** Any obligations acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
   - **(4)** The interest earned from investments of the Fund shall be covered into and form a part of the Fund.
 - **(c)** Each year, interest earned and covered into the Fund in the previous fiscal year shall be made available as follows:
-  - **(1)** To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
-  - **(2)** 20 percent of such amounts shall be made available without further appropriation to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e).
-- **(d)** A project referred to in subsection (c)(1) shall be consistent with the laws governing the National Park System, the National Wildlife Refuge System, the public lands and Forest Service lands and management plan for such unit.
+  - **(1)** To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
+  - **(2)** 20 percent of such amounts shall be made available without further appropriation to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
+- **(d)** A project referred to in subsection (c)(1) of this section shall be consistent with the laws governing the National Park System, the National Wildlife Refuge System, the public lands and Forest Service lands and management plan for such unit.
 - **(e)**
-  - **(1)** Funds available under subsection (c)(2) shall be used by the Secretary of Commerce according to this subsection to provide grants to Federal, State, private or foreign organizations or individuals to conduct research activities on or relating to the fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, and Arctic Ocean (including any lesser related bodies of water).
+  - **(1)** Funds available under subsection (c)(2) of this section shall be used by the Secretary of Commerce according to this subsection to provide grants to Federal, State, private or foreign organizations or individuals to conduct research activities on or relating to the fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, and Arctic Ocean (including any lesser related bodies of water).
   - **(2)** Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, and shall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
   - **(3)** The Board shall be comprised of the following representatives or their designees—
     - **(A)** the Secretary of Commerce;
@@ -37,15 +38,10 @@ generated_at: "2026-03-30T02:55:57.474Z"
     - **(I)** the Director of the Oil Spill Recovery Institute;
     - **(J)** the Director of the Alaska SeaLife Center;
     - **(K)** five members nominated by the Governor of Alaska and appointed by the Secretary of Commerce, one of whom shall represent fishing interests, one of whom shall represent Alaska Natives, one of whom shall represent environmental interests, one of whom shall represent academia, and one of whom shall represent oil and gas interests;
-    - **(L)** three members nominated by the Governor of Washington and appointed by the Secretary of Commerce;
-    - **(M)** one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce;
-    - **(N)** one member who shall represent fishing interests and shall be nominated by the Board and appointed by the Secretary; and
-    - **(O)** one member who shall represent Alaska Natives and possesses personal knowledge of, and direct experience with, subsistence uses and shall be nominated by the Board and appointed by the Secretary.
+    - **(L)** three members nominated by the Governor of Washington and appointed by the Secretary of Commerce; and 1 1 So in original. The word “and” probably should not appear.
+    - **(M)** one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce. 2 2 So in original. The period probably should be “; and”.
+    - **(N)** one member who shall represent fishing interests and shall be nominated by the Board and appointed by the Secretary.
   - **(4)**
     - **(A)** The Secretary of Commerce shall review grants recommended by the Board. If the Secretary does not approve a grant recommended by the Board, the Secretary shall explain in writing the reasons for not approving such grant, and the amount recommended to be used for such grant shall be available only for other grants recommended by the Board.
     - **(B)** The Board shall establish written criteria for the submission of grant requests through a competitive process and for deciding upon the award of grants. Grants shall be recommended by the Board on the basis of merit in accordance with the priorities established by the Board. The Secretary shall provide the Board such administrative and technical support as is necessary for the effective functioning of the Board. The Board shall be considered an advisory panel established under section 1852(g) of title 16 for the purposes of section 1852(i)(1) of title 16 , and the other procedural matters applicable to advisory panels under section 1852(i) of title 16 shall apply to the Board to the extent practicable. Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board. Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
-  - **(5)** If the amount made available for a fiscal year under subsection (c)(2) is less than the amount made available in the previous fiscal year, the Administrator of the National Oceanic and Atmospheric Administration may increase the 15 percent cap on administrative expenses provided under paragraph (4)(B) for that fiscal year to prioritize—
-    - **(A)** continuing operation of the Board;
-    - **(B)** maximizing the percentage of funds directed to research; and
-    - **(C)** maintaining the highest quality standards in administering grants under this subsection.
-  - **(6)** All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000 .
+  - **(5)** All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000 .

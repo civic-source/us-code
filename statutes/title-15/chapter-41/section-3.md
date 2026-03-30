@@ -3,9 +3,10 @@ title: "Section 3 - Affiliate sharing"
 usc_title: 15
 usc_section: "3"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.153Z"
+generated_at: "2026-03-30T03:04:31.186Z"
+status: "active"
 ---
 
 # § 1681s–3. Affiliate sharing
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:54:08.153Z"
     - **(E)** using information in response to solicitations authorized or requested by the consumer; or
     - **(F)** if compliance with this section by that person would prevent compliance by that person with any provision of State insurance laws pertaining to unfair discrimination in any State in which the person is lawfully doing business.
   - **(5)** This subsection shall not prohibit the use of information to send a solicitation to a consumer if such information was received prior to the date on which persons are required to comply with regulations implementing this subsection.
-- **(b)** A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a), and that is provided by a person described in subsection (a) to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a).
+- **(b)** A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a) of this section, and that is provided by a person described in subsection (a) of this section to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a) of this section.
 - **(c)** Requirements with respect to the use by a person of information received from another person related to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 1681t(b)(2) of this title .
 - **(d)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “pre-existing business relationship” means a relationship between a person, or a person’s licensed agent, and a consumer, based on—
@@ -36,4 +37,4 @@ generated_at: "2026-03-30T02:54:08.153Z"
     - **(B)** the purchase, rental, or lease by the consumer of that person’s goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
     - **(C)** an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or
     - **(D)** any other pre-existing customer relationship defined in the regulations implementing this section.
-  - **(2)** The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+  - **(2)** The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.

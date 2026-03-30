@@ -3,9 +3,10 @@ title: "Section 6603 - Sense of Congress on innovation acceleration research"
 usc_title: 42
 usc_section: "6603"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6603"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-03-30T03:06:22.768Z"
+status: "active"
 ---
 
 # § 6603. Sense of Congress on innovation acceleration research
@@ -15,6 +16,10 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(2)** involve multidisciplinary work; and
   - **(3)** involve a high degree of novelty.
 - **(b)** It is the sense of Congress that each Executive agency that funds research in science, technology, engineering, or mathematics should set a goal of allocating an appropriate percentage of the annual basic research budget of such agency to funding high-risk, high-reward basic research projects described in subsection (a).
-- **(c)** In this section:
+- **(c)** Each Executive agency described in subsection (b) shall submit to Congress each year, together with documents submitted to Congress in support of the budget of the President for the fiscal year beginning in such year (as submitted pursuant to section 1105 of title 31 ), a report describing whether a funding goal as described in subsection (b) has been established, and if such a goal has been established, the following:
+  - **(1)** A description of such funding goal.
+  - **(2)** Whether such funding goal is being met by the agency.
+  - **(3)** A description of activities supported by amounts allocated in accordance with such funding goal.
+- **(d)** In this section:
   - **(1)** The term “basic research” has the meaning given such term in the Office of Management and Budget Circular No. A–11.
   - **(2)** The term “Executive agency” has the meaning given such term in section 105 of title 5 .

@@ -3,9 +3,10 @@ title: "Section 2694a - Conveyance of surplus real property for natural resource
 usc_title: 10
 usc_section: "2694a"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2694a"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-03-30T03:04:17.298Z"
+status: "active"
 ---
 
 # § 2694a. Conveyance of surplus real property for natural resource conservation
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:53:38.171Z"
     - **(B)** to conduct incidental revenue-producing activities on the property that are compatible with the use of the property for conservation purposes.
   - **(3)** The deed of conveyance may contain such additional terms, reservations, restrictions, and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 - **(d)** With the concurrence of the Secretary of Interior, the Secretary concerned may grant a release from a covenant included in the deed of conveyance of real property conveyed under this section, subject to the condition that the recipient of the property pay the fair market value, as determined by the Secretary concerned, of the property at the time of the release of the covenant. The Secretary concerned may reduce the amount required to be paid under this subsection to account for the value of the natural resource conservation benefit that has accrued to the United States during the period the covenant was in effect, if the benefit was not taken into account in determining the original consideration for the conveyance.
-- **(e)** The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a notice of the proposed reconveyance or release.
+- **(e)** The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
 - **(f)** The conveyance of real property under this section shall not be used as a condition of allowing any defense activity under any Federal, State, or local permitting or review process. The Secretary concerned may make the conveyance, with the restrictions specified in subsection (c), to establish a mitigation bank, but only if the establishment of the mitigation bank does not occur in order to satisfy any condition for permitting military activity under a Federal, State, or local permitting or review process.
 - **(g)** In fixing the consideration for the conveyance of real property under this section, or in determining the amount of any reduction of the amount to be paid for the release of a covenant under subsection (d), the Secretary concerned shall take into consideration any benefit that has accrued or may accrue to the United States from the use of such property for the conservation of natural resources.
 - **(h)**

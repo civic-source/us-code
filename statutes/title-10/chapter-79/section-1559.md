@@ -3,18 +3,24 @@ title: "Section 1559 - Personnel limitation"
 usc_title: 10
 usc_section: "1559"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1559"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-03-30T03:04:17.261Z"
+status: "active"
 ---
 
 # § 1559. Personnel limitation
 
-- **(a)** Before December 31, 2025 , the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency.
+- **(a)** Before December 31, 2016 , the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until—
+  - **(1)** the Secretary submits to Congress a report that—
+    - **(A)** describes the reduction proposed to be made;
+    - **(B)** provides the Secretary’s rationale for that reduction; and
+    - **(C)** specifies the number of such personnel that would be assigned to duty with that agency after the reduction; and
+  - **(2)** a period of 90 days has elapsed after the date on which the report is submitted.
 - **(b)** The baseline number for a service review agency under this section is—
   - **(1)** for purposes of the first report with respect to a service review agency under this section, the number of military and civilian personnel assigned to duty with that agency as of January 1, 2002 ; and
   - **(2)** for purposes of any subsequent report with respect to a service review agency under this section, the number of such personnel specified in the most recent report with respect to that agency under this section.
 - **(c)** In this section, the term “service review agency” means—
   - **(1)** with respect to the Department of the Army, the Army Review Boards Agency;
   - **(2)** with respect to the Department of the Navy, the Board for Correction of Naval Records; and
-  - **(3)** with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
+  - **(3)** with respect to the Department of the Air Force, the Air Force Review Boards Agency.

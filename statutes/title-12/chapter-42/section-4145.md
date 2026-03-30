@@ -3,14 +3,15 @@ title: "Section 4145 - Delivery of assistance through intermediaries"
 usc_title: 12
 usc_section: "4145"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4145"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-03-30T03:04:29.316Z"
+status: "active"
 ---
 
 # § 4145. Delivery of assistance through intermediaries
 
-- **(a)** The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretary under subsection (b). If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
+- **(a)** The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretary under subsection (b) of this section. If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
 - **(b)**
   - **(1)** The Secretary shall develop criteria to select eligible intermediaries, through a competitive process, to administer assistance under this subchapter. The process shall include provision for a reasonable administrative fee.
   - **(2)** With respect to all forms of grants available under section 4143 of this title , such criteria shall give priority to applications from eligible intermediaries with demonstrated expertise or experience with the program established under this title 1 1 See References in Text note below. or under the Emergency Low Income Housing Preservation Act of 1987.
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(4)** The Secretary may select more than 1 State or regional intermediary for a single State or region. The number of intermediaries chosen for each State or region may be based on the number of eligible low-income housing projects in the State or region, provided there is no duplication of geographic coverage by intermediaries in the administration of the direct assistance grant program.
   - **(5)** National nonprofit intermediaries shall be selected to administer the assistance made available under section 4143 of this title only with respect to States or regions for which no other eligible intermediary, acceptable to the Secretary, has submitted a proposal to participate.
   - **(6)** With respect to assistance made available under section 4144 of this title , preference shall be given to eligible regional, State, and local intermediaries, over national nonprofit organizations.
-- **(c)** Eligible intermediaries selected under subsection (b) to disburse assistance under section 4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+- **(c)** Eligible intermediaries selected under subsection (b) of this section to disburse assistance under section 4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
   - **(1)** establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
   - **(2)** receive a reasonable administrative fee, except that they may not provide other services to grant recipients with respect to projects that are the subject of the grant application and may not receive payment, directly or indirectly, from the proceeds of grants they have approved.
 - **(d)** For purposes of this section, the term “eligible intermediary” means a State, regional, or national organization (including a quasi-public organization) or a State or local housing agency that—

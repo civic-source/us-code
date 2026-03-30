@@ -3,14 +3,15 @@ title: "Section 40308 - Space grant review panel"
 usc_title: 51
 usc_section: "40308"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 40308"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-03-30T03:06:49.075Z"
+status: "active"
 ---
 
 # § 40308. Space grant review panel
 
-- **(a)** The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of chapter 10 of title 5.
+- **(a)** The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of the Federal Advisory Committee Act (5 App. U.S.C.).
 - **(b)** The panel shall take such steps as may be necessary to review, and shall advise the Administrator with respect to—
   - **(1)** applications or proposals for, and performance under, grants and contracts awarded pursuant to sections 40304 and 40305 of this title;
   - **(2)** the space grant fellowship program;

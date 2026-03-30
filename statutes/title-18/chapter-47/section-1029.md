@@ -3,9 +3,10 @@ title: "Section 1029 - Fraud and related activity in connection with access devi
 usc_title: 18
 usc_section: "1029"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 1029"
-generated_at: "2026-03-30T02:54:16.479Z"
+generated_at: "2026-03-30T03:04:41.094Z"
+status: "active"
 ---
 
 # § 1029. Fraud and related activity in connection with access devices
@@ -51,4 +52,6 @@ generated_at: "2026-03-30T02:54:16.479Z"
 - **(g)**
   - **(1)** It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection for the purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
   - **(2)** In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
-- **(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
+- **(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
+  - **(1)** the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
+  - **(2)** the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.

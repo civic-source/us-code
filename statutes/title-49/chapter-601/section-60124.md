@@ -3,9 +3,10 @@ title: "Section 60124 - Biennial reports"
 usc_title: 49
 usc_section: "60124"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 60124"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-03-30T03:06:29.344Z"
+status: "active"
 ---
 
 # § 60124. Biennial reports
@@ -17,9 +18,8 @@ generated_at: "2026-03-30T02:56:19.415Z"
   - **(4)** an evaluation of the degree of compliance with applicable safety standards, including a list of enforcement actions and compromises of alleged violations by location and company name.
   - **(5)** a summary of outstanding problems in carrying out this chapter, in order of priority.
   - **(6)** an analysis and evaluation of—
-    - **(A)** research activities, including their policy implications, completed as a result of the United States Government and private sponsorship;
-    - **(B)** technological progress in safety achieved; and
-    - **(C)** a summary of each research and development project carried out with Federal and non-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.
+    - **(A)** research activities, including their policy implications, completed as a result of the United States Government and private sponsorship; and
+    - **(B)** technological progress in safety achieved.
   - **(7)** a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter.
   - **(8)** the extent to which technical information was distributed to the scientific community and consumer-oriented information was made available to the public.
   - **(9)** a compilation of certifications filed under section 60105 of this title that were—

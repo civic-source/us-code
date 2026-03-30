@@ -1,12 +1,13 @@
 ---
-title: "Section 351g - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)] , Sept. 30, 1996 , 110 Stat. 3009–233 , 3009–312"
+title: "Section 351g - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)], Sept. 30, 1996 , 110 Stat. 3009–233 , 3009–312"
 usc_title: 20
 usc_section: "351g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 351g"
-generated_at: "2026-03-30T02:54:48.085Z"
+generated_at: "2026-03-30T03:04:46.233Z"
+status: "repealed"
 ---
 
-# §§ 351 to 351g. Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)] , Sept. 30, 1996 , 110 Stat. 3009–233 , 3009–312
+# §§ 351 to 351g. Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)], Sept. 30, 1996 , 110 Stat. 3009–233 , 3009–312
 

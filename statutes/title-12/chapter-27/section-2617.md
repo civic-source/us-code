@@ -3,9 +3,10 @@ title: "Section 2617 - Authority of Bureau"
 usc_title: 12
 usc_section: "2617"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2617"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-03-30T03:04:29.301Z"
+status: "active"
 ---
 
 # § 2617. Authority of Bureau

@@ -3,9 +3,10 @@ title: "Section 240 - Border Enforcement Security Task Force"
 usc_title: 6
 usc_section: "240"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 240"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-03-30T03:04:24.342Z"
+status: "active"
 ---
 
 # § 240. Border Enforcement Security Task Force
@@ -33,5 +34,5 @@ generated_at: "2026-03-30T02:53:09.453Z"
   - **(3)** In determining whether to establish a new BEST unit or to expand an existing BEST unit in a given jurisdiction, the Secretary shall ensure that the BEST unit under consideration does not duplicate the efforts of other existing interagency task forces or centers within that jurisdiction.
 - **(d)** After determining the jurisdictions in which to establish BEST units under subsection (c)(2), and in order to provide Federal assistance to such jurisdictions, the Secretary may—
   - **(1)** direct the assignment of Federal personnel to BEST, subject to the approval of the head of the department or agency that employs such personnel; and
-  - **(2)** take other actions to assist Federal, State, local, and tribal entities to participate in BEST, including providing financial assistance, as appropriate, for operational, administrative, salary reimbursement, and technological costs associated with the participation of Federal, State, local, and tribal law enforcement agencies in BEST.
+  - **(2)** take other actions to assist Federal, State, local, and tribal entities to participate in BEST, including providing financial assistance, as appropriate, for operational, administrative, and technological costs associated with the participation of Federal, State, local, and tribal law enforcement agencies in BEST.
 - **(e)** Not later than 180 days after the date on which BEST is established under this section, and annually thereafter for the following 5 years, the Secretary shall submit a report to Congress that describes the effectiveness of BEST in enhancing border security and reducing the drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States, as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests.

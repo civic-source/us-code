@@ -3,9 +3,10 @@ title: "Section 1824 - Borrowing authority"
 usc_title: 12
 usc_section: "1824"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1824"
-generated_at: "2026-03-30T02:53:53.454Z"
+generated_at: "2026-03-30T03:04:29.269Z"
+status: "active"
 ---
 
 # § 1824. Borrowing authority
@@ -19,19 +20,19 @@ generated_at: "2026-03-30T02:53:53.454Z"
     - **(C)** The Corporation may not borrow pursuant to subparagraph (A) to fund obligations of the Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 [ 12 U.S.C. 5201 et seq.] to purchase or guarantee assets.
 - **(b)** The Corporation is authorized to issue and sell the Corporation’s obligations, on behalf of the Deposit Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 [ 12 U.S.C. 2281 et seq.]. The Federal Financing Bank is authorized to purchase and sell the Corporation’s obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title . This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
 - **(c)**
-  - **(1)** No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) unless an agreement is in effect between the Secretary and the Corporation which—
+  - **(1)** No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section unless an agreement is in effect between the Secretary and the Corporation which—
     - **(A)** provides a schedule for the repayment of the outstanding amount of any borrowing under such subsection; and
     - **(B)** demonstrates that income to the Corporation from assessments under this chapter will be sufficient to amortize the outstanding balance within the period established in the repayment schedule and pay the interest accruing on such balance.
   - **(2)** The Secretary of the Treasury and the Corporation shall—
     - **(A)** consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under section 1817(b)(7) of this title ; and
-    - **(B)** submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a).
+    - **(B)** submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section.
 - **(d)**
   - **(1)** The Corporation may issue obligations to insured depository institutions, and may borrow from insured depository institutions and give security for any amount borrowed, and may pay interest on (and any redemption premium with respect to) any such obligation or amount to the extent—
     - **(A)** the proceeds of any such obligation or amount are used by the Corporation solely for purposes of carrying out the Corporation’s functions with respect to the Deposit Insurance Fund; and
     - **(B)** the terms of the obligation or instrument limit the liability of the Corporation or the Deposit Insurance Fund for the payment of interest and the repayment of principal to the amount which is equal to the amount of assessment income received by the Fund from assessments under section 1817 of this title .
   - **(2)**
     - **(A)** For purposes of the public debt limit established in section 3101(b) of title 31 , any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an obligation to which such limit applies.
-    - **(B)** For purposes of the dollar amount limitation established in subsection (a), any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
+    - **(B)** For purposes of the dollar amount limitation established in subsection (a) of this section, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
     - **(C)** The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
     - **(D)** The terms of any obligation issued by the Corporation under paragraph (1) shall provide that the obligation will be valid only if held by a 2 2 So in original. Probably should be “an”. insured depository institution.
   - **(3)** Any obligation issued or amount borrowed under paragraph (1) shall be a liability of the Deposit Insurance Fund.

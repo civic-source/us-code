@@ -3,9 +3,10 @@ title: "Section 1421f - National Marine Mammal Tissue Bank and tissue analysis"
 usc_title: 16
 usc_section: "1421f"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1421f"
-generated_at: "2026-03-30T02:54:22.965Z"
+generated_at: "2026-03-30T03:04:48.567Z"
+status: "active"
 ---
 
 # § 1421f. National Marine Mammal Tissue Bank and tissue analysis
@@ -26,9 +27,9 @@ generated_at: "2026-03-30T02:54:22.965Z"
 - **(c)**
   - **(1)** The Secretary shall maintain a central data base which provides an effective means for tracking and accessing data on marine mammals, including relevant data on marine mammal tissues collected for and maintained in the Tissue Bank.
   - **(2)** The data base established under this subsection shall include—
-    - **(A)** reference data on marine mammal health and mortality and the health of populations of marine mammals; and
+    - **(A)** reference data on the health of marine mammals and populations of marine mammals; and
     - **(B)** data on species of marine mammals that are subject to unusual mortality events.
-- **(d)** The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for public access to—
+- **(d)** The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for access to—
   - **(1)** marine mammal tissues in the Tissue Bank;
-  - **(2)** analyses conducted pursuant to subsection (b); and
-  - **(3)** marine mammal data in the data base maintained under subsection (c);
+  - **(2)** analyses conducted pursuant to subsection (b) of this section; and
+  - **(3)** marine mammal data in the data base maintained under subsection (c) of this section;

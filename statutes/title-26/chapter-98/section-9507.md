@@ -3,9 +3,10 @@ title: "Section 9507 - Hazardous Substance Superfund"
 usc_title: 26
 usc_section: "9507"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 9507"
-generated_at: "2026-03-30T02:55:27.892Z"
+generated_at: "2026-03-30T03:05:18.757Z"
+status: "active"
 ---
 
 # § 9507. Hazardous Substance Superfund
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:27.892Z"
   - **(2)** appropriated to the Superfund pursuant to section 517(b) of the Superfund Revenue Act of 1986, or
   - **(3)** credited to the Superfund as provided in section 9602(b).
 - **(b)** There are hereby appropriated to the Superfund amounts equivalent to—
-  - **(1)** the taxes received in the Treasury under section 4611, 4661, or 4671 (relating to environmental taxes),
+  - **(1)** the taxes received in the Treasury under section 59A, 4611, 4661, or 4671 (relating to environmental taxes),
   - **(2)** amounts recovered on behalf of the Superfund under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this section referred to as “CERCLA”),
   - **(3)** all moneys recovered or collected under section 311(b)(6)(B) of the Clean Water Act, 1 1 See References in Text note below.
   - **(4)** penalties assessed under title I of CERCLA, and
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:55:27.892Z"
   - **(2)** The maximum aggregate amount of repayable advances to the Superfund which is outstanding at any one time shall not exceed an amount equal to the amount which the Secretary estimates will be equal to the sum of the amounts appropriated to the Superfund under subsection (b)(1) during the following 24 months.
   - **(3)**
     - **(A)** Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Superfund.
-    - **(B)** No advance shall be made to the Superfund after December 31, 2032 , and all advances to such Fund shall be repaid on or before such date.
+    - **(B)** No advance shall be made to the Superfund after December 31, 1995 , and all advances to such Fund shall be repaid on or before such date.
     - **(C)** Interest on advances made to the Superfund shall be at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding and shall be compounded annually.
 - **(e)**
   - **(1)** Any claim filed against the Superfund may be paid only out of the Superfund.

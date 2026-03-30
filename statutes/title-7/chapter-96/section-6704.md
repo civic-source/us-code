@@ -3,9 +3,10 @@ title: "Section 6704 - Office of International Forestry"
 usc_title: 7
 usc_section: "6704"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6704"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-03-30T03:04:21.004Z"
+status: "active"
 ---
 
 # § 6704. Office of International Forestry
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:53:42.433Z"
   - **(1)** be responsible for the international forestry activities of the Forest Service;
   - **(2)** coordinate the activities of the Forest Service in implementing the provisions of this chapter; and
   - **(3)** serve as Forest Service liaison to the director for the program established pursuant to section 6701 of this title .
-- **(d)** There are authorized to be appropriated for each of fiscal years 1996 through 2018 such sums as are necessary to carry out this section.
+- **(d)** There are authorized to be appropriated for each of fiscal years 1996 through 2012 such sums as are necessary to carry out this section.

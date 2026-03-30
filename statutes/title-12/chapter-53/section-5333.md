@@ -3,9 +3,10 @@ title: "Section 5333 - Study of the effects of size and complexity of financial 
 usc_title: 12
 usc_section: "5333"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5333"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-03-30T03:04:29.340Z"
+status: "active"
 ---
 
 # § 5333. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth

@@ -3,9 +3,10 @@ title: "Section 3022 - Joint Intelligence Community Council"
 usc_title: 50
 usc_section: "3022"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3022"
-generated_at: "2026-03-30T02:56:26.227Z"
+generated_at: "2026-03-30T03:06:37.686Z"
+status: "active"
 ---
 
 # § 3022. Joint Intelligence Community Council
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:56:26.227Z"
 - **(c)** The Joint Intelligence Community Council shall assist the Director of National Intelligence in developing and implementing a joint, unified national intelligence effort to protect national security by—
   - **(1)** advising the Director on establishing requirements, developing budgets, financial management, and monitoring and evaluating the performance of the intelligence community, and on such other matters as the Director may request; and
   - **(2)** ensuring the timely execution of programs, policies, and directives established or developed by the Director.
-- **(d)** The Director of National Intelligence shall convene meetings of the Joint Intelligence Community Council as the Director considers appropriate.
+- **(d)** The Director of National Intelligence shall convene regular meetings of the Joint Intelligence Community Council.
 - **(e)**
   - **(1)** A member of the Joint Intelligence Community Council (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Director of National Intelligence to the President or the National Security Council, in the role of the Chairman as Chairman of the Joint Intelligence Community Council. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time the Chairman presents the advice of the Chairman to the President or the National Security Council, as the case may be.
   - **(2)** The Chairman shall establish procedures to ensure that the presentation of the advice of the Chairman to the President or the National Security Council is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Council.

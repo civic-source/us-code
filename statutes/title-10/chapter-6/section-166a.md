@@ -3,9 +3,10 @@ title: "Section 166a - Combatant commands: funding through the Chairman of Joint
 usc_title: 10
 usc_section: "166a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 166a"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-03-30T03:04:17.215Z"
+status: "active"
 ---
 
 # § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
@@ -22,17 +23,15 @@ generated_at: "2026-03-30T02:53:38.042Z"
   - **(8)** Personnel expenses of defense personnel for bilateral or regional cooperation programs.
   - **(9)** Force protection.
   - **(10)** Joint warfighting capabilities.
-  - **(11)** Incremental expenses (as such term is defined in section 301(5) of this title ) related to security cooperation programs and activities of the Department of Defense (as such term is defined in section 301(7) of this title ).
 - **(c)** The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combatant Commander Initiative Fund, should give priority consideration to—
   - **(1)** requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds;
-  - **(2)** the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States;
-  - **(3)** the provision of funds to be used for urgent and unanticipated humanitarian relief and reconstruction assistance, particularly in a foreign country where the armed forces are engaged in a contingency operation; and
-  - **(4)** incremental expenses related to security cooperation programs and activities of the Department of Defense, as authorized by subsection (b)(11), for United States Africa Command and United States Southern Command.
+  - **(2)** the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States; and
+  - **(3)** the provision of funds to be used for urgent and unanticipated humanitarian relief and reconstruction assistance, particularly in a foreign country where the armed forces are engaged in a contingency operation.
 - **(d)** Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 - **(e)**
   - **(1)** Of funds made available under this section for any fiscal year—
-    - **(A)** not more than $25,000,000 may be used to purchase items with a unit cost in excess of $300,000;
-    - **(B)** not more than $15,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
-    - **(C)** not more than $10,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+    - **(A)** not more than $20,000,000 may be used to purchase items with a unit cost in excess of the investment unit cost threshold in effect under section 2245a of this title ;
+    - **(B)** not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+    - **(C)** not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
   - **(2)** Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 - **(f)** For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.

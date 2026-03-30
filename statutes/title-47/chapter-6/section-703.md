@@ -1,12 +1,18 @@
 ---
-title: "Section 703 - Repealed. Pub. L. 115–141, div. P, title IV, § 402(b) , Mar. 23, 2018 , 132 Stat. 1089"
+title: "Section 703 - Satellite service report"
 usc_title: 47
 usc_section: "703"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 703"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-03-30T03:06:26.235Z"
+status: "active"
 ---
 
-# § 703. Repealed. Pub. L. 115–141, div. P, title IV, § 402(b) , Mar. 23, 2018 , 132 Stat. 1089
+# § 703. Satellite service report
 
+- **(a)** The Federal Communications Commission shall review competitive market conditions with respect to domestic and international satellite communications services and shall include in an annual report an analysis of those conditions. The Commission shall transmit a copy of the report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
+- **(b)** The Commission shall include in the report—
+  - **(1)** an identification of the number and market share of competitors in domestic and international satellite markets;
+  - **(2)** an analysis of whether there is effective competition in the market for domestic and international satellite services; and
+  - **(3)** a list of any foreign nations in which legal or regulatory practices restrict access to the market for satellite services in such nation in a manner that undermines competition or favors a particular competitor or set of competitors.

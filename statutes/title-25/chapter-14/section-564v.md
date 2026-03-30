@@ -1,12 +1,15 @@
 ---
-title: "Section 564v - Omitted"
+title: "Section 564v - Rules and regulations; tribal referenda"
 usc_title: 25
 usc_section: "564v"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 564v"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.843Z"
+status: "active"
 ---
 
-# § 564v. Omitted
+# § 564v. Rules and regulations; tribal referenda
+
+The Secretary is authorized to issue rules or regulations necessary to effectuate the purposes of this subchapter, and may in his discretion provide for tribal referenda on matters pertaining to management or disposition of tribal assets.
 

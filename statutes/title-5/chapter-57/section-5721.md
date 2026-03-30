@@ -3,9 +3,10 @@ title: "Section 5721 - Definitions"
 usc_title: 5
 usc_section: "5721"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 5721"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-03-30T03:04:06.083Z"
+status: "active"
 ---
 
 # § 5721. Definitions
@@ -20,7 +21,7 @@ For the purpose of this subchapter—
     - **(E)** the Library of Congress;
     - **(F)** the Botanic Garden;
     - **(G)** the Architect of the Capitol;
-    - **(H)** the Government Publishing Office; and
+    - **(H)** the Government Printing Office; and
     - **(I)** the government of the District of Columbia;
   - **(2)** “employee” means an individual employed in or under an agency;
   - **(3)** “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii;

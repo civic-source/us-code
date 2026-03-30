@@ -3,12 +3,13 @@ title: "Section 6305 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6305"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 6305"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-03-30T03:04:48.635Z"
+status: "active"
 ---
 
 # § 6305. Authorization of appropriations
 
-There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029.
+There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2006 through 2010.
 

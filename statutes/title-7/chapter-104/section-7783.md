@@ -3,9 +3,10 @@ title: "Section 7783 - Grants to weed management entities"
 usc_title: 7
 usc_section: "7783"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7783"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-03-30T03:04:21.024Z"
+status: "active"
 ---
 
 # § 7783. Grants to weed management entities
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
   - **(3)** the extent to which the weed management entity has made progress in addressing the noxious weeds problem; and
   - **(4)** other factors that the Secretary determines to be relevant.
 - **(c)**
-  - **(1)** A weed management entity that receives a grant under subsection (a) shall use the grant funds to carry out a project authorized by subsection (d) for the control or eradication of a noxious weed.
+  - **(1)** A weed management entity that receives a grant under subsection (a) of this section shall use the grant funds to carry out a project authorized by subsection (d) of this section for the control or eradication of a noxious weed.
   - **(2)**
     - **(A)** The Federal share of the cost of carrying out an authorized project under this section exclusively on non-Federal land shall not exceed 50 percent.
     - **(B)** The non-Federal share of the cost of carrying out an authorized project under this section may be provided in cash or in kind.

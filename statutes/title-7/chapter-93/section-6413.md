@@ -3,15 +3,16 @@ title: "Section 6413 - Requirement of initial referendum"
 usc_title: 7
 usc_section: "6413"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6413"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-03-30T03:04:21.002Z"
+status: "active"
 ---
 
 # § 6413. Requirement of initial referendum
 
 - **(a)** Within the 60-day period immediately preceding the effective date of an order issued under section 6405(a) of this title , the Secretary shall conduct a referendum among fluid milk processors to ascertain whether the order shall go into effect.
-- **(b)** If, as a result of the referendum conducted under subsection (a), the Secretary determines that implementation of the order is favored—
+- **(b)** If, as a result of the referendum conducted under subsection (a) of this section, the Secretary determines that implementation of the order is favored—
   - **(1)** by at least 50 percent of fluid milk processors voting in the referendum; and
   - **(2)** by fluid milk processors voting in the referendum that marketed during the representative period, as determined by the Secretary, 60 percent or more of the volume of fluid milk products marketed by fluid milk processors voting in the referendum;
 - **(c)** The Secretary shall be reimbursed from any assessments collected by the Board for any expenses incurred by the Department in connection with the conduct of any referendum under this chapter.

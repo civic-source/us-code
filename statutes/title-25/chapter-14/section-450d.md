@@ -1,12 +1,15 @@
 ---
-title: "Section 450d - Transferred"
+title: "Section 450d - Criminal activities involving grants, contracts, etc.; penalties"
 usc_title: 25
 usc_section: "450d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 450d"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.834Z"
+status: "active"
 ---
 
-# § 450d. Transferred
+# § 450d. Criminal activities involving grants, contracts, etc.; penalties
+
+Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of a contract, subcontract, grant, or subgrant pursuant to this subchapter or the Act of April 16, 1934 ( 48 Stat. 596 ), as amended [ 25 U.S.C. 452 et seq.], embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds assets, or property which are the subject of such a grant, subgrant, contract, or subcontract, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 

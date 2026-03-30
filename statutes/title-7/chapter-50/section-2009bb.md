@@ -3,9 +3,10 @@ title: "Section 2009bb - Definitions"
 usc_title: 7
 usc_section: "2009bb"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2009bb"
-generated_at: "2026-03-30T02:53:42.359Z"
+generated_at: "2026-03-30T03:04:20.953Z"
+status: "active"
 ---
 
 # § 2009bb. Definitions
@@ -19,5 +20,5 @@ In this subchapter:
     - **(C)** constructing or equipping a highway, road, bridge, or facility;
     - **(D)** carrying out other economic development activities; or
     - **(E)** conducting research activities related to the activities described in subparagraphs (A) through (D).
-  - **(3)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(3)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(4)** The term “region” means the States of Iowa, Minnesota, Missouri (other than counties included in the Delta Regional Authority), Nebraska, North Dakota, and South Dakota.

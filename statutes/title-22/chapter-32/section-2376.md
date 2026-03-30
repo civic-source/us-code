@@ -3,9 +3,10 @@ title: "Section 2376 - Nuclear non-proliferation policy in South Asia"
 usc_title: 22
 usc_section: "2376"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2376"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-03-30T03:04:53.636Z"
+status: "active"
 ---
 
 # § 2376. Nuclear non-proliferation policy in South Asia
@@ -21,3 +22,4 @@ generated_at: "2026-03-30T02:55:05.362Z"
   - **(8)** in 1991, a proposal was made for a regional conference on non-proliferation in South Asia which would include Pakistan, India, the People’s Republic of China, the Soviet Union, and the United States; and
   - **(9)** thus far, Pakistan, China, Russia, and the United States have expressed interest in attending such a conference, whereas India has refused to attend.
 - **(b)** It is the sense of the Congress that the President should pursue a policy which seeks a regional negotiated solution to the issue of nuclear non-proliferation in South Asia at the earliest possible time, including a protocol to be signed by all nuclear weapons states, prohibiting nuclear attacks by nuclear weapons states on countries in the region. Such a policy should have as its ultimate goal concurrent accession by Pakistan and India to the Nuclear Non-Proliferation Treaty, and should also include as needed a phased approach to that goal through a series of agreements among the parties on nuclear issues, such as the agreement reached by Pakistan and India not to attack one another’s nuclear facilities.
+- **(c)** Not later than April 1 of each year, the President shall submit a report to the Committees on Appropriations, the Speaker of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate, on nuclear proliferation in South Asia, including efforts taken by the United States to achieve a regional agreement on nuclear non-proliferation, and including a comprehensive list of the obstacles to concluding such a regional agreement.

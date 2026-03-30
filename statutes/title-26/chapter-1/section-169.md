@@ -3,9 +3,10 @@ title: "Section 169 - Amortization of pollution control facilities"
 usc_title: 26
 usc_section: "169"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 169"
-generated_at: "2026-03-30T02:55:27.645Z"
+generated_at: "2026-03-30T03:05:18.556Z"
+status: "active"
 ---
 
 # § 169. Amortization of pollution control facilities
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
 - **(b)** The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxable year in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
 - **(c)** A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
 - **(d)** For purposes of this section—
-  - **(1)** The term “certified pollution control facility” means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976 , to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or emission of pollutants, contaminants, wastes, or heat and which—
+  - **(1)** The term “certified pollution control facility” means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976 , to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or omission of pollutants, contaminants, wastes, or heat and which—
     - **(A)** the State certifying authority having jurisdiction with respect to such facility has certified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
     - **(B)** the Federal certifying authority has certified to the Secretary (i) as being in compliance with the applicable regulations of Federal agencies and (ii) as being in furtherance of the general policy of the United States for cooperation with the States in the prevention and abatement of water pollution under the Federal Water Pollution Control Act, as amended ( 33 U.S.C. 466 et seq.), or in the prevention and abatement of atmospheric pollution and contamination under the Clean Air Act, as amended ( 42 U.S.C. 1857 et seq.); and
     - **(C)** does not significantly—
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:27.645Z"
     - **(B)** In the case of any facility described in paragraph (1) solely by reason of paragraph (5), subparagraph (A) shall be applied by substituting “ April 11, 2005 ” for “ December 31, 1968 ” each place it appears therein.
   - **(5)** In the case of any atmospheric pollution control facility which is placed in service after April 11, 2005 , and used in connection with an electric generation plant or other property which is primarily coal fired—
     - **(A)** paragraph (1) shall be applied without regard to the phrase “in operation before January 1, 1976 ”, and
-    - **(B)** in the case of a facility placed in service in connection with a plant or other property placed in operation after December 31, 1975 , this section shall be applied by substituting “84” for “60” each place it appears in subsections (a) and (b).
+    - **(B)** in the case of facility 1 1 So in original. Probably should be “a facility”. placed in service in connection with a plant or other property placed in operation after December 31, 1975 , this section shall be applied by substituting “84” for “60” each place it appears in subsections (a) and (b).
 - **(e)** The Federal certifying authority shall not certify any property under subsection (d)(1)(B) to the extent it appears that by reason of profits derived through the recovery of wastes or otherwise in the operation of such property, its costs will be recovered over its actual useful life.
 - **(f)**
   - **(1)** For purposes of this section, the term “amortizable basis” means that portion of the adjusted basis (for determining gain) of a certified pollution control facility which may be amortized under this section.

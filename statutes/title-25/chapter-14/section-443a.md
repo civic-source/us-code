@@ -1,12 +1,15 @@
 ---
-title: "Section 443a - Transferred"
+title: "Section 443a - Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined"
 usc_title: 25
 usc_section: "443a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 443a"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.834Z"
+status: "active"
 ---
 
-# § 443a. Transferred
+# § 443a. Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined
+
+The Secretary of the Interior at the request of any Indian tribe, band, or group is authorized to convey to such Indian tribe, band, or group, by such means as he may deem appropriate, title to any federally owned buildings, improvements, or facilities (including any personal property used in connection with such buildings, improvements, or facilities) that are situated on lands of such tribe, band, or group or on lands reserved for the administration of its affairs, and that are no longer required by the Secretary for the administration of Indian affairs. Any tribe, band, or group to which property is conveyed pursuant to this section may dispose of such property whenever its governing body determines that the property is no longer needed for its use. If, at any time while property conveyed pursuant to this section remains in the ownership of any Indian tribe, band, or group, the Secretary of the Interior determines that such property is not being adequately maintained or properly utilized by such tribe, band, or group or that the property creates a health or safety hazard or other undesirable condition, he may declare a forfeiture of the conveyance and the title to such property shall thereupon revert to the United States. Such determination by the Secretary shall be final. For the purpose of this section, the term “Indian” shall include Eskimos and Aleuts.
 

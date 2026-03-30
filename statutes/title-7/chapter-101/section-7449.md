@@ -3,9 +3,10 @@ title: "Section 7449 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7449"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7449"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-03-30T03:04:21.018Z"
+status: "active"
 ---
 
 # § 7449. Investigations and power to subpoena
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:53:42.453Z"
   - **(1)** for the effective administration of this subchapter; and
   - **(2)** to determine whether any person has engaged or is engaging in an act that constitutes a violation of this subchapter, or an order, rule, or regulation issued under this subchapter.
 - **(b)**
-  - **(1)** For the purpose of an investigation under subsection (a), the Secretary may administer oaths and affirmations, subpoena witnesses, take evidence, and issue subpoenas to require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States.
+  - **(1)** For the purpose of an investigation under subsection (a) of this section, the Secretary may administer oaths and affirmations, subpoena witnesses, take evidence, and issue subpoenas to require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States.
   - **(2)** For the purpose of an administrative hearing held under section 7447 or 7448 of this title, the presiding officer is authorized to administer oaths and affirmations, subpoena and compel the attendance of witnesses, take evidence, and require the production of any records that are relevant to the inquiry. The attendance of witnesses and the production of records may be required from any place in the United States.
-- **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b). The court may issue an order requiring the person to comply with the subpoena.
+- **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b) of this section. The court may issue an order requiring the person to comply with the subpoena.
 - **(d)** A failure to obey an order of the court under this section may be punished by the court as contempt of the court.
 - **(e)** Process may be served on a person in the judicial district in which the person resides or carries on business or wherever the person may be found.
 - **(f)** The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.

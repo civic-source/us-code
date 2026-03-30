@@ -3,9 +3,10 @@ title: "Section 1831 - Information and recordkeeping requirements"
 usc_title: 29
 usc_section: "1831"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1831"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-03-30T03:05:09.734Z"
+status: "active"
 ---
 
 # § 1831. Information and recordkeeping requirements
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:55:18.740Z"
     - **(G)** the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and
     - **(H)** whether State workers’ compensation insurance is provided, and, if so, the name of the State workers’ compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.
   - **(2)** Each farm labor contractor, agricultural employer, and agricultural association which recruits seasonal agricultural workers through use of a day-haul operation described in section 1802(10)(A)(ii) of this title shall ascertain and disclose in writing to the worker at the place of recruitment the information described in paragraph (1).
-- **(b)** Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
+- **(b)** Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a) of this section. Such employer shall provide, upon request, a written statement of the information described in subsection (a) of this section.
 - **(c)** Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall—
   - **(1)** with respect to each such worker, make, keep, and preserve records for three years of the following information:
     - **(A)** the basis on which wages are paid;
@@ -32,6 +33,6 @@ generated_at: "2026-03-30T02:55:18.740Z"
     - **(F)** the net pay; and
   - **(2)** provide to each such worker for each pay period, an itemized written statement of the information required by paragraph (1) of this subsection.
 - **(d)**
-  - **(1)** 1 1 So in original. No par. (2) has been enacted. Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1). The recipient of these records shall keep them for a period of three years from the end of the period of employment.
-- **(e)** No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c).
+  - **(1)** 1 1 So in original. No par. (2) has been enacted. Each farm labor contractor shall provide to any other farm labor contractor and to any agricultural employer and agricultural association to which such farm labor contractor has furnished seasonal agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (c)(1) of this section. The recipient of these records shall keep them for a period of three years from the end of the period of employment.
+- **(e)** No farm labor contractor, agricultural employer, or agricultural association shall knowingly provide false or misleading information to any seasonal agricultural worker concerning the terms, conditions, or existence of agricultural employment required to be disclosed by subsection (a), (b), or (c) of this section.
 - **(f)** The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.

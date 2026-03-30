@@ -3,27 +3,28 @@ title: "Section 3002 - Definitions"
 usc_title: 42
 usc_section: "3002"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-03-30T03:06:22.673Z"
+status: "active"
 ---
 
 # § 3002. Definitions
 
 For the purposes of this chapter—
 
-  - **(1)** The term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
+  - **(1)** The term “abuse” means the willful—
+    - **(A)** infliction of injury, unreasonable confinement, intimidation, or cruel punishment with resulting physical harm, pain, or mental anguish; or
+    - **(B)** deprivation by a person, including a caregiver, of goods or services that are necessary to avoid physical harm, mental anguish, or mental illness.
   - **(2)** The term “Administration” means the Administration on Aging.
-  - **(3)** The term “adult protective services” means such services provided to adults as the Secretary may specify and includes services such as—
-    - **(A)** receiving reports of adult abuse, neglect, or exploitation;
-    - **(B)** investigating the reports described in subparagraph (A);
-    - **(C)** case planning, monitoring, evaluation, and other casework and services; and
-    - **(D)** providing, arranging for, or facilitating the provision of medical, social service, economic, legal, housing, law enforcement, or other protective, emergency, or support services.
-  - **(4)** The term “Aging and Disability Resource Center” means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in section 12102 of this title ), and the caregivers of older individuals and individuals with disabilities, that provides, in collaboration with (as appropriate) area agencies on aging, centers for independent living (as described in part C of chapter 1 of title VII of the Rehabilitation Act of 1973 ( 29 U.S.C. 796f et seq.)), and other aging or disability entities—
-    - **(A)** comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
-    - **(B)** person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term services, supports, and care that is consistent with the desires and choices of such an individual and designed to meet the individual’s specific needs, goals, and circumstances;
-    - **(C)** access for individuals to the full range of publicly-supported long-term care services and supports for which the individuals may be eligible, including home and community-based service options, by serving as a convenient point of entry for such programs and supports; and
-    - **(D)** in cooperation with area agencies on aging, centers for independent living described in part C of chapter 1 of title VII of the Rehabilitation Act of 1973, and other community-based entities, including other aging or disability entities, information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community.
+  - **(3)** The term “adult child with a disability” means a child who—
+    - **(A)** is 18 years of age or older;
+    - **(B)** is financially dependent on an older individual who is a parent of the child; and
+    - **(C)** has a disability.
+  - **(4)** The term “Aging and Disability Resource Center” means an entity established by a State as part of the State system of long-term care, to provide a coordinated system for providing—
+    - **(A)** comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care;
+    - **(B)** personal counseling to assist individuals in assessing their existing or anticipated long-term care needs, and developing and implementing a plan for long-term care designed to meet their specific needs and circumstances; and
+    - **(C)** consumers access to the range of publicly-supported long-term care programs for which consumers may be eligible, by serving as a convenient point of entry for such programs.
   - **(5)** The term “aging network” means the network of—
     - **(A)** State agencies, area agencies on aging, title VI [subchapter X of this chapter] grantees, and the Administration; and
     - **(B)** organizations that—
@@ -36,7 +37,6 @@ For the purposes of this chapter—
   - **(8)**
     - **(A)** The term “assistive device” includes an assistive technology device.
     - **(B)** The terms “assistive technology”, “assistive technology device”, and “assistive technology service” have the meanings given such terms in section 3002 of title 29 .
-    - **(C)** The term “State assistive technology entity” means the agency, office, or other entity designated under subsection (c)(1) of section 3003 of title 29 to carry out State activities under such section.
   - **(9)** The term “at risk for institutional placement” means, with respect to an older individual, that such individual is unable to perform at least 2 activities of daily living without substantial assistance (including verbal reminding, physical cuing, or supervision) and is determined by the State involved to be in need of placement in a long-term care facility.
   - **(10)** The term “board and care facility” means an institution regulated by a State pursuant to section 1382e(e) of this title .
   - **(11)** The term “case management service”—
@@ -57,32 +57,27 @@ For the purposes of this chapter—
   - **(13)** The term “disability” means (except when such term is used in the phrase “severe disability”, “developmental disabilities”, “physical or mental disability”, “physical and mental disabilities”, or “physical disabilities”) a disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that results in substantial functional limitations in 1 or more of the following areas of major life activity: (A) self-care, (B) receptive and expressive language, (C) learning, (D) mobility, (E) self-direction, (F) capacity for independent living, (G) economic self-sufficiency, (H) cognitive functioning, and (I) emotional adjustment.
   - **(14)** The term “disease prevention and health promotion services” means—
     - **(A)** health risk assessments;
-    - **(B)** routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, oral health, immunization status, and nutrition screening (including screening for malnutrition);
+    - **(B)** routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, and nutrition screening;
     - **(C)** nutritional counseling and educational services for individuals and their primary caregivers;
-    - **(D)** evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), infectious disease, and vaccine-preventable disease, prevention of sexually transmitted diseases, as well as alcohol and substance abuse reduction, chronic pain management, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
+    - **(D)** evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
     - **(E)** programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
       - **(i)** an institution of higher education;
       - **(ii)** a local educational agency, as defined in section 8801 1 1 See References in Text note below. of title 20; or
       - **(iii)** a community-based organization;
     - **(F)** home injury control services, including screening of high-risk home environments and provision of educational programs on injury prevention (including fall and fracture prevention) in the home environment;
-    - **(G)** screening for the prevention of depression and screening for suicide risk, coordination of community mental and behavioral health services, provision of educational activities, and referral to psychiatric and psychological services;
-    - **(H)** screening for fall-related traumatic brain injury and other fall-related injuries, coordination of treatment, rehabilitation and related services, and referral services related to such injury or injuries;
-    - **(I)** educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.);
-    - **(J)** medication management screening and education to prevent incorrect medication and adverse drug reactions;
-    - **(K)** information concerning diagnosis, prevention, treatment, and rehabilitation concerning age-related diseases and chronic disabling conditions, including osteoporosis, cardiovascular diseases, diabetes, and Alzheimer’s disease and related disorders with neurological and organic brain dysfunction;
-    - **(L)** services that are a part of responses to a public health emergency or emerging health threat;
-    - **(M)** gerontological counseling;
-    - **(N)** screening for the prevention of negative health effects associated with social isolation and coordination of supportive services and health care to address negative health effects associated with social isolation; and
-    - **(O)** counseling regarding social services and followup health services based on any of the services described in subparagraphs (A) through (N).
+    - **(G)** screening for the prevention of depression, coordination of community mental health services, provision of educational activities, and referral to psychiatric and psychological services;
+    - **(H)** educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.);
+    - **(I)** medication management screening and education to prevent incorrect medication and adverse drug reactions;
+    - **(J)** information concerning diagnosis, prevention, treatment, and rehabilitation concerning age-related diseases and chronic disabling conditions, including osteoporosis, cardiovascular diseases, diabetes, and Alzheimer’s disease and related disorders with neurological and organic brain dysfunction;
+    - **(K)** gerontological counseling; and
+    - **(L)** counseling regarding social services and followup health services based on any of the services described in subparagraphs (A) through (K).
   - **(15)** The term “elder abuse” means abuse of an older individual.
   - **(16)** The term “elder abuse, neglect, and exploitation” means abuse, neglect, and exploitation, of an older individual.
-  - **(17)** The term “elder justice” means—
-    - **(A)** from a societal perspective, efforts to—
-      - **(i)** prevent, detect, treat, intervene in, and prosecute elder abuse, neglect, and exploitation; and
-      - **(ii)** protect older individuals with diminished capacity while maximizing their autonomy; and
-    - **(B)** from an individual perspective, the recognition of an older individual’s rights, including the right to be free of abuse, neglect, and exploitation.
+  - **(17)** The term “elder justice”—
+    - **(A)** used with respect to older individuals, collectively, means efforts to prevent, detect, treat, intervene in, and respond to elder abuse, neglect, and exploitation and to protect older individuals with diminished capacity while maximizing their autonomy; and
+    - **(B)** used with respect to an individual who is an older individual, means the recognition of the individual’s rights, including the right to be free of abuse, neglect, and exploitation.
   - **(18)**
-    - **(A)** The terms “exploitation” and “financial exploitation” mean the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
+    - **(A)** The term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
     - **(B)** In subparagraph (A), the term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an older individual.
   - **(19)** The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act [ 42 U.S.C. 10401 et seq.].
   - **(20)** The term “fiduciary”—
@@ -149,27 +144,23 @@ For the purposes of this chapter—
   - **(35)** The term “long-term care facility” means—
     - **(A)** any skilled nursing facility, as defined in section 1819(a) of the Social Security Act ( 42 U.S.C. 1395i–3(a) );
     - **(B)** any nursing facility, as defined in section 1919(a) of the Social Security Act ( 42 U.S.C. 1396r(a) );
-    - **(C)** a board and care facility; and
+    - **(C)** for purposes of sections 3027(a)(9) and 3058g of this title, a board and care facility; and
     - **(D)** any other adult care home, including an assisted living facility, similar to a facility or institution described in subparagraphs (A) through (C).
-  - **(36)** The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental and behavioral health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
+  - **(36)** The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
   - **(37)** The term “Native American” means—
-    - **(A)** an Indian as defined in paragraph (26); and
+    - **(A)** an Indian as defined in paragraph (5); 2 2 So in original. Probably should refer to paragraph (26). and
     - **(B)** a Native Hawaiian, as defined in section 3057k of this title .
   - **(38)** The term “neglect” means—
     - **(A)** the failure of a caregiver (as defined in paragraph (18)(B)) or fiduciary to provide the goods or services that are necessary to maintain the health or safety of an older individual; or
     - **(B)** self-neglect.
   - **(39)** The term “nonprofit” as applied to any agency, institution, or organization means an agency, institution, or organization which is, or is owned and operated by, one or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
   - **(40)** The term “older individual” means an individual who is 60 years of age or older.
-  - **(41)** The term “person-centered, trauma-informed”, with respect to services, means services provided through an aging program that—
-    - **(A)** use a holistic approach to providing services or care;
-    - **(B)** promote the dignity, strength, and empowerment of victims of trauma; and
-    - **(C)** incorporate evidence-based practices based on knowledge about the role of trauma in trauma victims’ lives.
-  - **(42)** The term “physical harm” means bodily injury, impairment, or disease.
-  - **(43)** The term “planning and service area” means an area designated by a State agency under section 3025(a)(1)(E) of this title , including a single planning and service area described in section 3025(b)(5)(A) of this title .
-  - **(44)** The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title . 2 2 So in original. A closing parenthesis probably should follow “this title”.
-  - **(45)** The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
-  - **(46)** The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
-  - **(47)** The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
+  - **(41)** The term “physical harm” means bodily injury, impairment, or disease.
+  - **(42)** The term “planning and service area” means an area designated by a State agency under section 3025(a)(1)(E) of this title , including a single planning and service area described in section 3025(b)(5)(A) of this title .
+  - **(43)** The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title . 3 3 So in original. A closing parenthesis probably should follow “this title”.
+  - **(44)** The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+  - **(45)** The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+  - **(46)** The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
     - **(A)** such services (including the amount, duration, scope, provider, and location of such services) are planned, budgeted, and purchased under the direction and control of such individual;
     - **(B)** such individual is provided with such information and assistance as are necessary and appropriate to enable such individual to make informed decisions about the individual’s care options;
     - **(C)** the needs, capabilities, and preferences of such individual with respect to such services, and such individual’s ability to direct and control the individual’s receipt of such services, are assessed by the area agency on aging (or other agency designated by the area agency on aging) involved;
@@ -178,17 +169,16 @@ For the purposes of this chapter—
       - **(ii)** a determination of the role of family members (and others whose participation is sought by such individual) in providing services under such plan; and
       - **(iii)** a budget for such services; and
     - **(E)** the area agency on aging or State agency provides for oversight of such individual’s self-directed receipt of services, including steps to ensure the quality of services provided and the appropriate use of funds under this chapter.
-  - **(48)** The term “self-neglect” means an adult’s inability, due to physical or mental impairment or diminished capacity, to perform essential self-care tasks including—
+  - **(47)** The term “self-neglect” means an adult’s inability, due to physical or mental impairment or diminished capacity, to perform essential self-care tasks including—
     - **(A)** obtaining essential food, clothing, shelter, and medical care;
-    - **(B)** obtaining goods and services necessary to maintain physical health, mental and behavioral health, or general safety; or
+    - **(B)** obtaining goods and services necessary to maintain physical health, mental health, or general safety; or
     - **(C)** managing one’s own financial affairs.
-  - **(49)** The term “severe disability” means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
+  - **(48)** The term “severe disability” means a severe, chronic disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that—
     - **(A)** is likely to continue indefinitely; and
-    - **(B)** results in substantial functional limitation in 3 or more of the major life activities specified in subparagraphs (A) through (G) of paragraph (8). 3 3 So in original. Probably should refer to paragraph (13).
-  - **(50)** The term “sexual assault” has the meaning given the term in section 10447 of title 34 . 1
-  - **(51)** The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
-  - **(52)** The term “State agency” means the agency designated under section 3025(a)(1) of this title .
-  - **(53)** The term “State system of long-term care” means the Federal, State, and local programs and activities administered by a State that provide, support, or facilitate access to long-term care for individuals in such State.
-  - **(54)** The term “supportive service” means a service described in section 3030d(a) of this title .
-  - **(55)** The term “traumatic brain injury” has the meaning given such term in section 280b–1c(d) of this title .
-  - **(56)** Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
+    - **(B)** results in substantial functional limitation in 3 or more of the major life activities specified in subparagraphs (A) through (G) of paragraph (8). 4 4 So in original. Probably should refer to paragraph (13).
+  - **(49)** The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title . 1
+  - **(50)** The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  - **(51)** The term “State agency” means the agency designated under section 3025(a)(1) of this title .
+  - **(52)** The term “State system of long-term care” means the Federal, State, and local programs and activities administered by a State that provide, support, or facilitate access to long-term care for individuals in such State.
+  - **(53)** The term “supportive service” means a service described in section 3030d(a) of this title .
+  - **(54)** Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.

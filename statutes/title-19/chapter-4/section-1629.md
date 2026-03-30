@@ -3,19 +3,20 @@ title: "Section 1629 - Inspections and preclearance in foreign countries"
 usc_title: 19
 usc_section: "1629"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1629"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-03-30T03:04:42.018Z"
+status: "active"
 ---
 
 # § 1629. Inspections and preclearance in foreign countries
 
 - **(a)** When authorized by treaty or executive agreement, the Secretary may station customs officers in foreign countries for the purpose of examining persons and merchandise prior to their arrival in, or subsequent to their exit from, the United States.
-- **(b)** Customs officers stationed in a foreign country under subsection (a) may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
+- **(b)** Customs officers stationed in a foreign country under subsection (a) of this section may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
 - **(c)** The Secretary may by regulation require compliance with the customs laws of the United States in a foreign country and, in such a case the customs laws and other civil and criminal laws of the United States relating to the importation or exportation of merchandise, filing of false statements, and the unlawful removal of merchandise from customs custody shall apply in the same manner as if the foreign station is a port of entry or exit within the customs territory of the United States.
 - **(d)** When authorized by treaty, agreement or foreign law, merchandise which is subject to seizure or forfeiture under United States law may be seized in a foreign country and transported under customs custody to the customs territory to the United States to be proceeded against under the customs law.
 - **(e)** The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of ensuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
-- **(f)** When customs officials of a foreign country are stationed in the United States in accordance with subsection (e), and if similar provisions are applied to United States officials stationed in that country—
+- **(f)** When customs officials of a foreign country are stationed in the United States in accordance with subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
   - **(1)** sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
   - **(2)** any person who in any matter before a foreign customs official stationed in the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, is liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
 - **(g)** Any person designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.

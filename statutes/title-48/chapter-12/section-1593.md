@@ -3,14 +3,15 @@ title: "Section 1593 - Initiative and recall"
 usc_title: 48
 usc_section: "1593"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "48 U.S.C. § 1593"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-03-30T03:06:26.530Z"
+status: "active"
 ---
 
 # § 1593. Initiative and recall
 
-- **(a)** The people of the Virgin Islands shall have the rights of initiative and recall to be exercised as provided in subsection (b) and subsection (c), respectively.
+- **(a)** The people of the Virgin Islands shall have the rights of initiative and recall to be exercised as provided in subsection (b) and subsection (c) of this section, respectively.
 - **(b)**
   - **(1)** An initiative may enact, amend, or repeal any law, except that an initiative shall not be used to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
   - **(2)** An initiative that proposes a reduction of taxes shall also provide for an equivalent reduction of expenditures or an equivalent increase in revenues from other sources.

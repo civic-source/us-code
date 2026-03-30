@@ -1,16 +1,20 @@
 ---
-title: "Section 8020 - Naval Inspector General: detail; duties"
+title: "Section 8020 - Inspector General"
 usc_title: 10
 usc_section: "8020"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 8020"
-generated_at: "2026-03-30T02:53:38.237Z"
+generated_at: "2026-03-30T03:04:17.326Z"
+status: "active"
 ---
 
-# § 8020. Naval Inspector General: detail; duties
+# § 8020. Inspector General
 
-- **(a)** There is in the Office of the Secretary of the Navy the Office of the Naval Inspector General. The Naval Inspector General shall be detailed from officers on the active-duty list in the line of the Navy serving in grades above captain.
-- **(b)** The Naval Inspector General, when directed, shall inquire into and report upon any matter that affects the discipline or military efficiency of the Department of the Navy. He shall make such inspections, investigations, and reports as the Secretary of the Navy or the Chief of Naval Operations directs.
-- **(c)** The Naval Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under chapter 4 of title 5 regarding the Department of the Navy.
-- **(d)** The Naval Inspector General shall periodically propose programs of inspections to the Secretary of the Navy and shall recommend additional inspections and investigations as may appear appropriate.
+- **(a)** There is an Inspector General of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
+- **(b)** When directed by the Secretary or the Chief of Staff, the Inspector General shall—
+  - **(1)** inquire into and report upon the discipline, efficiency, and economy of the Air Force; and
+  - **(2)** perform any other duties prescribed by the Secretary or the Chief of Staff.
+- **(c)** The Inspector General shall periodically propose programs of inspections to the Secretary of the Air Force and shall recommend additional inspections and investigations as may appear appropriate.
+- **(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Air Force.
+- **(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.

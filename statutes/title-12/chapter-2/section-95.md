@@ -3,9 +3,10 @@ title: "Section 95 - Emergency limitations and restrictions on business of membe
 usc_title: 12
 usc_section: "95"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 95"
-generated_at: "2026-03-30T02:53:53.374Z"
+generated_at: "2026-03-30T03:04:29.192Z"
+status: "active"
 ---
 
 # § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined

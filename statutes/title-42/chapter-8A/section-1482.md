@@ -3,9 +3,10 @@ title: "Section 1482 - Repealed. Pub. L. 98–181, title I [title V, § 509], No
 usc_title: 42
 usc_section: "1482"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1482"
-generated_at: "2026-03-30T02:56:11.096Z"
+generated_at: "2026-03-30T03:06:22.607Z"
+status: "repealed"
 ---
 
 # § 1482. Repealed. Pub. L. 98–181, title I [title V, § 509], Nov. 30, 1983 , 97 Stat. 1243

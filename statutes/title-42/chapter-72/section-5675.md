@@ -1,12 +1,18 @@
 ---
-title: "Section 5675 - Transferred"
+title: "Section 5675 - Payments"
 usc_title: 42
 usc_section: "5675"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5675"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-03-30T03:06:22.743Z"
+status: "active"
 ---
 
-# § 5675. Transferred
+# § 5675. Payments
 
+- **(a)** Payments under this subchapter, pursuant to a grant or contract, may be made (after necessary adjustment, in the case of grants, on account of previously made overpayments or underpayments) in advance or by way of reimbursement, in such installments and on such conditions as the Administrator may determine.
+- **(b)** Except as provided in the second sentence of section 5632(c) of this title , financial assistance extended under this subchapter shall be 100 per centum of the approved costs of the program or activity involved.
+- **(c)**
+  - **(1)** In the case of a grant under this subchapter to an Indian tribe, if the Administrator determines that the tribe does not have sufficient funds available to meet the local share of the cost of any program or activity to be funded under the grant, the Administrator may increase the Federal share of the cost thereof to the extent the Administrator deems necessary.
+  - **(2)** If a State does not have an adequate forum to enforce grant provisions imposing any liability on Indian tribes, the Administrator may waive State liability attributable to the liability of such tribes and may pursue such legal remedies as are necessary.

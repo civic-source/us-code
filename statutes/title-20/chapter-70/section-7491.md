@@ -3,9 +3,10 @@ title: "Section 7491 - Definitions"
 usc_title: 20
 usc_section: "7491"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7491"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-03-30T03:04:46.363Z"
+status: "active"
 ---
 
 # § 7491. Definitions
@@ -26,4 +27,3 @@ For the purposes of this part:
     - **(C)** considered by the Secretary of the Interior to be an Indian for any purpose;
     - **(D)** an Eskimo, Aleut, or other Alaska Native; or
     - **(E)** a member of an organized Indian group that received a grant under the Indian Education Act of 1988 as in effect the day preceding October 20, 1994 .
-  - **(4)** The term “traditional leaders” has the meaning given the term in section 2902 of title 25 .

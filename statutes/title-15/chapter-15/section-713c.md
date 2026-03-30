@@ -3,9 +3,10 @@ title: "Section 713c - Federal Surplus Commodities Corporation; continuance of e
 usc_title: 15
 usc_section: "713c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 713c"
-generated_at: "2026-03-30T02:54:08.115Z"
+generated_at: "2026-03-30T03:04:31.146Z"
+status: "active"
 ---
 
 # § 713c. Federal Surplus Commodities Corporation; continuance of existence; purchase and distribution of surplus agricultural commodities

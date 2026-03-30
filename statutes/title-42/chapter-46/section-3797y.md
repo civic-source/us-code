@@ -1,12 +1,15 @@
 ---
-title: "Section 3797y - Transferred"
+title: "Section 3797y - Grant authority"
 usc_title: 42
 usc_section: "3797y"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3797y"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-03-30T03:06:22.705Z"
+status: "active"
 ---
 
-# § 3797y. Transferred
+# § 3797y. Grant authority
+
+The Attorney General shall award grants to rural State criminal justice agencies, Byrne agencies, or other agencies as designated by the Governor of that State and approved by the Attorney General, to develop rural States’ capacity to assist local communities in the prevention and reduction of crime, violence, and substance abuse.
 

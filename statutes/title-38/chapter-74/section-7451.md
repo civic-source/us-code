@@ -3,9 +3,10 @@ title: "Section 7451 - Nurses and other health-care personnel: competitive pay"
 usc_title: 38
 usc_section: "7451"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 7451"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-03-30T03:05:59.232Z"
+status: "active"
 ---
 
 # § 7451. Nurses and other health-care personnel: competitive pay
@@ -14,8 +15,7 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(1)** It is the purpose of this section to ensure, by a means providing increased responsibility and authority to directors of Department health-care facilities, that the rates of basic pay for health-care personnel positions described in paragraph (2) in each Department health-care facility (including the rates of basic pay of personnel employed in such positions on a part-time basis) are sufficient for that facility to be competitive, on the basis of pay and other employee benefits, with non-Department health-care facilities in the same labor-market area in the recruitment and retention of qualified personnel for those positions.
   - **(2)** The health-care personnel positions referred to in paragraph (1) (hereinafter in this section referred to as “covered positions”) are the following:
     - **(A)** Registered nurse.
-    - **(B)** Physician assistant.
-    - **(C)** Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, optometrist, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+    - **(B)** Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, and registered nurse) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), the rates of basic pay for covered positions in the Department shall be established and adjusted in accordance with this section instead of subsection (b)(1) of section 7404 of this title or chapter 53 of title 5.
     - **(B)** Under such regulations as the Secretary shall prescribe, the Secretary shall establish and adjust the rates of basic pay for covered positions at the following health-care facilities in order to provide rates of basic pay that enable the Secretary to recruit and retain sufficient numbers of health-care personnel in such positions at those facilities:
@@ -25,17 +25,8 @@ generated_at: "2026-03-30T02:55:53.531Z"
 - **(b)** The Secretary shall maintain the five grade levels for nurses employed by the Department under section 7401(1) of this title as specified in the Nurse Schedule in section 7404(b) of this title . The Secretary shall, pursuant to regulations prescribed to carry out this subchapter, establish grades for other covered positions as the Secretary considers appropriate.
 - **(c)**
   - **(1)** For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g), 1 1 See References in Text note below. provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
-  - **(2)**
-    - **(A)** The maximum rate of basic pay for any grade for a covered position may not exceed—
-      - **(i)** in the case of an advanced practice nurse, the maximum rate of basic pay established for positions in level I of the Executive Schedule under section 5312 of title 5 ;
-      - **(ii)** in the case of a physician assistant, the maximum rate of basic pay established for positions in level I of the Executive Schedule under section 5312 of title 5 ;
-      - **(iii)** in the case of a registered nurse, the maximum rate of basic pay established for positions in level II of the Executive Schedule under section 5313 of title 5 ; and
-      - **(iv)** in the case of any other covered position, the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5315 of title 5 .
-    - **(B)** The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in subparagraph (A).
+  - **(2)** The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 1 of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.
   - **(3)** The range of basic pay for each such grade shall be divided into equal increments, known as “steps”. The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
-  - **(4)**
-    - **(A)** The director of each medical center of the Department shall submit to the Secretary an annual locality pay survey and rates of basic pay for covered positions at such medical center to ensure that pay rates remain competitive in the local labor market.
-    - **(B)** Not less than once per fiscal year, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on rates of basic pay for covered positions at medical centers of the Department.
 - **(d)**
   - **(1)** Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
     - **(A)** whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage as the adjustment in the rates of basic pay under the General Schedule; and

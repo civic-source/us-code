@@ -1,12 +1,15 @@
 ---
-title: "Section 2843 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705"
+title: "Section 2843 - Identification of eligible providers of youth activities"
 usc_title: 29
 usc_section: "2843"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 2843"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-03-30T03:05:09.741Z"
+status: "active"
 ---
 
-# §§ 2841 to 2843. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705
+# § 2843. Identification of eligible providers of youth activities
+
+From funds allocated under paragraph (2)(A) or (3) of section 2853(b) of this title to a local area, the local board for such area shall identify eligible providers of youth activities by awarding grants or contracts on a competitive basis, based on the recommendations of the youth council and on the criteria contained in the State plan, to the providers to carry out the activities, and shall conduct oversight with respect to the providers, in the local area.
 

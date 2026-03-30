@@ -3,9 +3,10 @@ title: "Section 128 - Authorization of appropriations for partial support of ope
 usc_title: 20
 usc_section: "128"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 128"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-03-30T03:04:46.232Z"
+status: "active"
 ---
 
 # § 128. Authorization of appropriations for partial support of operation of facilities; separate account

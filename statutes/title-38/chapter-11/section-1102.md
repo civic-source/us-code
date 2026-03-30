@@ -3,9 +3,10 @@ title: "Section 1102 - Special provisions relating to surviving spouses"
 usc_title: 38
 usc_section: "1102"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1102"
-generated_at: "2026-03-30T02:55:53.476Z"
+generated_at: "2026-03-30T03:05:59.192Z"
+status: "active"
 ---
 
 # § 1102. Special provisions relating to surviving spouses

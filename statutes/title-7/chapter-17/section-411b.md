@@ -1,12 +1,15 @@
 ---
-title: "Section 411b - Transferred"
+title: "Section 411b - Estimates of apple production"
 usc_title: 7
 usc_section: "411b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 411b"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.896Z"
+status: "active"
 ---
 
-# § 411b. Transferred
+# § 411b. Estimates of apple production
+
+On and after October 18, 1986 , no funds available to the Department of Agriculture shall be available to publish estimates of apple production for other than the commercial crop.
 

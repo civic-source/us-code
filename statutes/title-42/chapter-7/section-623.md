@@ -3,18 +3,15 @@ title: "Section 623 - Allotments to States"
 usc_title: 42
 usc_section: "623"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 623"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-03-30T03:06:22.449Z"
+status: "active"
 ---
 
 # § 623. Allotments to States
 
-- **(a)**
-  - **(1)** Subject to paragraph (2), for each fiscal year, the sum appropriated pursuant to section 625 of this title remaining after applying section 628(a) of this title shall be allotted by the Secretary for use by cooperating State public welfare agencies which have plans developed jointly by the State agency and the Secretary as follows: The Secretary shall first allot $70,000 to each State, and shall then allot to each State an amount which bears the same ratio to the remainder of such sum as the product of (1) the population of the State under the age of twenty-one and (2) the allotment percentage of the State (as determined under this section) bears to the sum of the corresponding products of all the States.
-  - **(2)** For each fiscal year beginning with fiscal year 2023 for which the amount appropriated under section 625 of this title for the fiscal year exceeds $270,000,000—
-    - **(A)** the Secretary shall reserve from such excess amount such sums as are necessary for making grants under section 628c of this title for such fiscal year, not to exceed $10,000,000; and
-    - **(B)** the remainder to be applied under paragraph (1) for purposes of making allotments to States for such fiscal year shall be determined after the Secretary first allots $70,000 to each State under such paragraph and reserves such sums under subparagraph (A) of this paragraph.
+- **(a)** The sum appropriated pursuant to section 625 of this title for each fiscal year shall be allotted by the Secretary for use by cooperating State public welfare agencies which have plans developed jointly by the State agency and the Secretary as follows: The Secretary shall first allot $70,000 to each State, and shall then allot to each State an amount which bears the same ratio to the remainder of such sum as the product of (1) the population of the State under the age of twenty-one and (2) the allotment percentage of the State (as determined under this section) bears to the sum of the corresponding products of all the States.
 - **(b)** The “allotment percentage” for any State shall be 100 percent less the State percentage; and the State percentage shall be the percentage which bears the same ratio to 50 percent as the per capita income of such State bears to the per capita income of the United States; except that (1) the allotment percentage shall in no case be less than 30 percent or more than 70 percent, and (2) the allotment percentage shall be 70 percent in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 - **(c)** The allotment percentage for each State shall be promulgated by the Secretary between October 1 and November 30 of each even-numbered year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the two fiscal years in the period beginning October 1 next succeeding such promulgation.
 - **(d)** For purposes of this section, the term “United States” means the 50 States and the District of Columbia.

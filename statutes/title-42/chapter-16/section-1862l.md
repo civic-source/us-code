@@ -3,9 +3,10 @@ title: "Section 1862l - National research facilities"
 usc_title: 42
 usc_section: "1862l"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1862l"
-generated_at: "2026-03-30T02:56:11.125Z"
+generated_at: "2026-03-30T03:06:22.630Z"
+status: "active"
 ---
 
 # § 1862l. National research facilities
@@ -25,4 +26,4 @@ generated_at: "2026-03-30T02:56:11.125Z"
   - **(3)** The plan shall include cost estimates in the categories of construction, repair, and upgrades—
     - **(A)** for the year in which the plan is submitted to Congress; and
     - **(B)** for not fewer than the succeeding 4 years.
-- **(b)** The plan required under subsection (a) shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.
+- **(b)** The plan required under subsection (a) of this section shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.

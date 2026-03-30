@@ -3,9 +3,10 @@ title: "Section 9838 - Submission of plans to chief executive officer"
 usc_title: 42
 usc_section: "9838"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9838"
-generated_at: "2026-03-30T02:56:11.369Z"
+generated_at: "2026-03-30T03:06:22.860Z"
+status: "active"
 ---
 
 # § 9838. Submission of plans to chief executive officer

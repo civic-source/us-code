@@ -3,16 +3,17 @@ title: "Section 2151q - Endangered species"
 usc_title: 22
 usc_section: "2151q"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2151q"
-generated_at: "2026-03-30T02:55:05.346Z"
+generated_at: "2026-03-30T03:04:53.622Z"
+status: "active"
 ---
 
 # § 2151q. Endangered species
 
 - **(a)** The Congress finds the survival of many animal and plant species is endangered by over-hunting, by the presence of toxic chemicals in water, air and soil, and by the destruction of habitats. The Congress further finds that the extinction of animal and plant species is an irreparable loss with potentially serious environmental and economic consequences for developing and developed countries alike. Accordingly, the preservation of animal and plant species through the regulation of the hunting and trade in endangered species, through limitations on the pollution of natural ecosystems, and through the protection of wildlife habitats should be an important objective of the United States development assistance.
 - **(b)** In order to preserve biological diversity, the President is authorized to furnish assistance under subchapter I of this chapter, notwithstanding section 2420 of this title , to assist countries in protecting and maintaining wildlife habitats and in developing sound wildlife management and plant conservation programs. Special efforts should be made to establish and maintain wildlife sanctuaries, reserves, and parks; to enact and enforce anti-poaching measures; and to identify, study, and catalog animal and plant species, especially in tropical environments.
-- **(c)** For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title , relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
+- **(c)** For fiscal year 1987, not less than $2,500,000 of the funds available to carry out subchapter I of this chapter (excluding funds made available to carry out section 2151b(c)(2) of this title , relating to the Child Survival Fund) shall be allocated for assistance pursuant to subsection (b) of this section for activities which were not funded prior to fiscal year 1987. In addition, the Agency for International Development shall, to the fullest extent possible, continue and increase assistance pursuant to subsection (b) of this section for activities for which assistance was provided in fiscal years prior to fiscal year 1987.
 - **(d)** Each country development strategy statement or other country plan prepared by the Agency for International Development shall include an analysis of—
   - **(1)** the actions necessary in that country to conserve biological diversity, and
   - **(2)** the extent to which the actions proposed for support by the Agency meet the needs thus identified.

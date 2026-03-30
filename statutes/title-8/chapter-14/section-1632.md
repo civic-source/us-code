@@ -3,17 +3,18 @@ title: "Section 1632 - Authority for States to provide for attribution of sponso
 usc_title: 8
 usc_section: "1632"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1632"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-03-30T03:04:14.646Z"
+status: "active"
 ---
 
 # § 1632. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
 
-- **(a)** Except as provided in subsection (b), in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+- **(a)** Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
   - **(1)** the income and resources of any individual who executed an affidavit of support pursuant to section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
   - **(2)** the income and resources of the spouse (if any) of the individual.
-- **(b)** Subsection (a) shall not apply with respect to the following State public benefits:
+- **(b)** Subsection (a) of this section shall not apply with respect to the following State public benefits:
   - **(1)** Assistance described in section 1621(b)(1) of this title .
   - **(2)** Short-term, non-cash, in-kind emergency disaster relief.
   - **(3)** Programs comparable to assistance or benefits under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.].

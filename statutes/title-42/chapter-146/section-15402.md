@@ -1,12 +1,24 @@
 ---
-title: "Section 15402 - Transferred"
+title: "Section 15402 - Allocation of funds"
 usc_title: 42
 usc_section: "15402"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15402"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-03-30T03:06:22.960Z"
+status: "active"
 ---
 
-# § 15402. Transferred
+# § 15402. Allocation of funds
 
+- **(a)** Subject to subsection (c) of this section, the amount of a requirements payment made to a State for a year shall be equal to the product of—
+  - **(1)** the total amount appropriated for requirements payments for the year pursuant to the authorization under section 15407 of this title ; and
+  - **(2)** the State allocation percentage for the State (as determined under subsection (b) of this section).
+- **(b)** The “State allocation percentage” for a State is the amount (expressed as a percentage) equal to the quotient of—
+  - **(1)** the voting age population of the State (as reported in the most recent decennial census); and
+  - **(2)** the total voting age population of all States (as reported in the most recent decennial census).
+- **(c)** The amount of a requirements payment made to a State for a year may not be less than—
+  - **(1)** in the case of any of the several States or the District of Columbia, one-half of 1 percent of the total amount appropriated for requirements payments for the year under section 15407 of this title ; or
+  - **(2)** in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or the United States Virgin Islands, one-tenth of 1 percent of such total amount.
+- **(d)** The Administrator 1 1 So in original. Probably should be “Commission”. shall make such pro rata reductions to the allocations determined under subsection (a) of this section as are necessary to comply with the requirements of subsection (c) of this section.
+- **(e)** A requirements payment made to a State under this subpart shall be available to the State without fiscal year limitation.

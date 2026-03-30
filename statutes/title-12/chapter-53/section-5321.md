@@ -3,9 +3,10 @@ title: "Section 5321 - Financial Stability Oversight Council established"
 usc_title: 12
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5321"
-generated_at: "2026-03-30T02:53:53.528Z"
+generated_at: "2026-03-30T03:04:29.339Z"
+status: "active"
 ---
 
 # § 5321. Financial Stability Oversight Council established
@@ -34,15 +35,12 @@ generated_at: "2026-03-30T02:53:53.528Z"
   - **(1)** The independent member of the Council shall serve for a term of 6 years, and each nonvoting member described in subparagraphs (C), (D), and (E) of subsection (b)(2) shall serve for a term of 2 years.
   - **(2)** Any vacancy on the Council shall be filled in the manner in which the original appointment was made.
   - **(3)** In the event of a vacancy in the office of the head of a member agency or department, and pending the appointment of a successor, or during the absence or disability of the head of a member agency or department, the acting head of the member agency or department shall serve as a member of the Council in the place of that agency or department head.
-  - **(4)** Notwithstanding paragraph (1), if a successor to the independent member of the Council serving under subsection (b)(1)(J) is not appointed and confirmed by the end of the term of service of such member, such member may continue to serve until the earlier of—
-    - **(A)** 18 months after the date on which the term of service ends; or
-    - **(B)** the date on which a successor to such member is appointed and confirmed.
 - **(d)** The Council may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
 - **(e)**
   - **(1)** The Council shall meet at the call of the Chairperson or a majority of the members then serving, but not less frequently than quarterly.
   - **(2)** The Council shall adopt such rules as may be necessary for the conduct of the business of the Council. Such rules shall be rules of agency organization, procedure, or practice for purposes of section 553 of title 5 .
 - **(f)** Unless otherwise specified, the Council shall make all decisions that it is authorized or required to make by a majority vote of the voting members then serving.
-- **(g)** Chapter 10 of title 5 shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
+- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
 - **(h)** Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services, funds, facilities, staff, and other support services as the Council may determine advisable.
 - **(i)**
   - **(1)** All members of the Council who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.

@@ -3,19 +3,20 @@ title: "Section 2002 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2002"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-03-30T03:04:04.442Z"
+status: "active"
 ---
 
 # § 2002. Acquisition of buildings and facilities for use in emergency situation
 
 - **(a)** Notwithstanding any other provision of law, in order to respond to an emergency situation, the Chief Administrative Officer of the House of Representatives may acquire buildings and facilities, subject to the availability of appropriations, for the use of the House of Representatives by lease, purchase, or such other arrangement as the Chief Administrative Officer considers appropriate (including a memorandum of understanding with the head of an executive agency, as defined in section 105 of title 5 , in the case of a building or facility under the control of such Agency), subject to the approval of the House Office Building Commission.
-- **(b)** Notwithstanding any other provision of law, for purposes of carrying out subsection (a), the Chief Administrative Officer may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Chief Administrative Officer considers appropriate, including—
+- **(b)** Notwithstanding any other provision of law, for purposes of carrying out subsection (a) of this section, the Chief Administrative Officer may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Chief Administrative Officer considers appropriate, including—
   - **(1)** agreements with the United States Capitol Police or any other entity relating to the policing of such building or facility; and
   - **(2)** agreements with the Architect of the Capitol or any other entity relating to the care and maintenance of such building or facility.
 - **(c)**
-  - **(1)** Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Chief Administrative Officer pursuant to subsection (b).
+  - **(1)** Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Chief Administrative Officer pursuant to subsection (b) of this section.
   - **(2)**
-- **(d)** Subject to the approval of the Committee on Appropriations of the House of Representatives, the Architect of the Capitol may transfer to the Chief Administrative Officer amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the House office buildings during a fiscal year in order to cover any portion of the costs incurred by the Chief Administrative Officer during the year in acquiring a building or facility pursuant to subsection (a).
+- **(d)** Subject to the approval of the Committee on Appropriations of the House of Representatives, the Architect of the Capitol may transfer to the Chief Administrative Officer amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the House office buildings during a fiscal year in order to cover any portion of the costs incurred by the Chief Administrative Officer during the year in acquiring a building or facility pursuant to subsection (a) of this section.
 - **(e)** This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.

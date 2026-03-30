@@ -1,17 +1,29 @@
 ---
-title: "Section 1 - Establishment of Museum"
+title: "Section 1 - Establishment of joint project at Library of Congress and National Museum of African American History and Culture to collect video and audio recordings of histories of participants in American Civil Rights movement"
 usc_title: 20
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:48.080Z"
+generated_at: "2026-03-30T03:04:46.231Z"
+status: "active"
 ---
 
-# § 80t–1. Establishment of Museum
+# § 80s–1. Establishment of joint project at Library of Congress and National Museum of African American History and Culture to collect video and audio recordings of histories of participants in American Civil Rights movement
 
-- **(a)** There is established within the Smithsonian Institution a comprehensive women’s history museum, to be named by the Board of Regents in consultation with the council established under section 80t–2 of this title (referred to in this subchapter 1 1 See References in Text note below. as the “Museum”).
-- **(b)** The purpose of the Museum established under this section shall be to provide for—
-  - **(1)** the collection and study of, and the establishment of programs relating to, women’s contributions to various fields and throughout different periods of history that have influenced the direction of the United States;
-  - **(2)** collaboration with other Smithsonian Institution museums and facilities, outside museums, and educational institutions; and
-  - **(3)** the creation of exhibitions and programs that recognize diverse perspectives on women’s history and contributions.
+- **(a)**
+  - **(1)** Within the limits of available funds, the Librarian of Congress (hereafter referred to as the “Librarian”) and the Secretary of the Smithsonian Institution (hereafter referred to as the “Secretary)”, 1 1 So in original. The closing quotation marks probably should precede the closing parenthesis. acting jointly, shall establish an oral history project—
+    - **(A)** to survey, during the initial phase of the project, collections of audio and video recordings of the reminiscences of participants in the Civil Rights movement that are housed in archives, libraries, museums, and other educational institutions, as well as ongoing documentary work, in order to augment and complement these endeavors and avoid duplication of effort;
+    - **(B)** to solicit, reproduce, and collect—
+      - **(i)** video and audio recordings of personal histories and testimonials of individuals who participated in the Civil Rights movement, and
+      - **(ii)** visual and written materials (such as letters, diaries, photographs, and ephemera) relevant to the personal histories of individuals;
+    - **(C)** to create a collection of the recordings and other materials obtained, and to catalog and index the collection in a manner the Librarian and the Secretary consider appropriate; and
+    - **(D)** to make the collection available for public use through the Library of Congress and the National Museum of African American History and Culture, as well as through such other methods as the Librarian and the Secretary consider appropriate.
+  - **(2)** The Secretary shall carry out the Secretary’s duties under this subchapter through the Director of the National Museum of African American History and Culture.
+- **(b)** The Librarian and the Secretary may carry out the activities described in subsection (a)(1) through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the project under this subchapter.
+- **(c)** In carrying out activities described in subsection (a)(1), the Librarian and the Secretary may—
+  - **(1)** procure temporary and intermittent services under section 3109 of title 5 ;
+  - **(2)** accept and utilize the services of volunteers and other uncompensated personnel and reimburse them for travel expenses, including per diem, as authorized under section 5703 of title 5 ; and
+  - **(3)** make advances of money and payments in advance in accordance with section 3324 of title 31 .
+- **(d)** As soon as practicable after May 12, 2009 , the Librarian and the Secretary shall begin collecting video and audio recordings and other materials under subsection (a)(1), and shall attempt to collect the first such recordings from the oldest individuals involved.
+- **(e)** In this subchapter, the term “Civil Rights movement” means the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights legislation for all American citizens.

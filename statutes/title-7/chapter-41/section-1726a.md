@@ -3,9 +3,10 @@ title: "Section 1726a - Administration"
 usc_title: 7
 usc_section: "1726a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1726a"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-03-30T03:04:20.937Z"
+status: "active"
 ---
 
 # § 1726a. Administration
@@ -19,8 +20,8 @@ generated_at: "2026-03-30T02:53:42.337Z"
   - **(2)** make the proposed guideline or annual policy guidance available, on request, to the eligible organizations and other persons referred to in paragraph (1); and
   - **(3)** take any comments received into consideration prior to the issuance of the final guideline or annual policy guidance.
 - **(c)**
-  - **(1)** The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter. Not later than 270 days after the date of the enactment of the Agriculture Improvement Act of 2018, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.
-  - **(2)** The Administrator shall develop regulations and guidance with the intent of—
+  - **(1)** The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter.
+  - **(2)** The Administrator shall develop regulations with the intent of—
     - **(A)** simplifying procedures for participation in the programs established under this subchapter;
     - **(B)** reducing paperwork requirements under such programs;
     - **(C)** establishing reasonable and realistic accountability standards to be applied to eligible organizations participating in the programs established under this subchapter, taking into consideration the problems associated with carrying out programs in developing countries; and
@@ -37,16 +38,20 @@ generated_at: "2026-03-30T02:53:42.337Z"
     - **(C)** the identification and implementation of best practices for food aid programs;
     - **(D)** the evaluation of monetization programs;
     - **(E)** early warning assessments and systems to help prevent famines; and
-    - **(F)** maintenance of information technology systems.
-  - **(3)**
+    - **(F)** upgraded information technology systems.
+  - **(3)** Not later than 180 days after June 18, 2008 , the Administrator shall submit to the appropriate committees of Congress a report on efforts undertaken by the Administrator to conduct oversight of nonemergency programs under this subchapter.
+  - **(4)** Not later than 270 days after the date of submission of the report under paragraph (3), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report that contains—
+    - **(A)** a review of, and comments addressing, the report described in paragraph (3); and
+    - **(B)** recommendations relating to any additional actions that the Comptroller General of the United States determines to be necessary to improve the monitoring and evaluation of assistance provided under this subchapter.
+  - **(5)**
     - **(A)** Subject to subparagraphs (B) and (C), in carrying out administrative and management activities relating to each activity carried out by the Administrator under paragraph (1), the Administrator may enter into contracts with 1 or more individuals for personal service to be performed in recipient countries or neighboring countries.
     - **(B)** An individual who enters into a contract with the Administrator under subparagraph (A) shall not be considered to be an employee of the Federal Government for the purpose of any law (including regulations) administered by the Office of Personnel Management.
     - **(C)** Subparagraph (A) does not limit the ability of the Administrator to enter into a contract with any individual for personal service under section 1722(a) of this title .
-  - **(4)**
-    - **(A)** Subject to section 1722(h)(3) of this title , in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to 1.5 percent, but not less than $17,000,000, of the funds made available under this subchapter for each of fiscal years 2014 through 2023, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2023.
+  - **(6)**
+    - **(A)** Subject to section 1722(h)(3) of this title , in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.
     - **(B)**
-      - **(i)** Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2023, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
-      - **(ii)** No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
+      - **(i)** Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2012, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
+      - **(ii)** No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
 - **(g)**
   - **(1)** In submitting project reports to the Administrator, a private voluntary organization or cooperative shall provide a copy of the report in such form as is necessary for the report to be displayed for public use on the website of the United States Agency for International Development.
   - **(2)** An organization or cooperative described in paragraph (1) may omit any confidential information from the copy of the report submitted for public display under that paragraph.

@@ -3,9 +3,10 @@ title: "Section 805 - Judicial review"
 usc_title: 5
 usc_section: "805"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 805"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-03-30T03:04:06.058Z"
+status: "active"
 ---
 
 # § 805. Judicial review

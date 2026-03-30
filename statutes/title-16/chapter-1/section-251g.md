@@ -3,9 +3,10 @@ title: "Section 251g - Land acquisition; study and investigation of use of priva
 usc_title: 16
 usc_section: "251g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 251g"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-03-30T03:04:48.412Z"
+status: "active"
 ---
 
 # § 251g. Land acquisition; study and investigation of use of private lands; transmittal to President and Congress; transfer of lands to Secretary of Agriculture; excluded property within Indian reservation; continuation of concession contracts; termination of concession contracts and purchase of possessory interest; Indian hunting and fishing rights

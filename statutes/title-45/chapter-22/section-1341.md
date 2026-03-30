@@ -3,9 +3,10 @@ title: "Section 1341 - Abolition of United States Railway Association"
 usc_title: 45
 usc_section: "1341"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "45 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-03-30T03:06:08.163Z"
+status: "active"
 ---
 
 # § 1341. Abolition of United States Railway Association
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(3)** The sole function of the United States Railway Association after January 1, 1987 , shall be the termination of its affairs and the liquidation of its assets.
 - **(b)**
   - **(1)** Any securities of the Corporation held by the United States Railway Association shall, upon 1 1 So in original. Probably should be “on”. October 21, 1986 , be transferred to the Secretary of Transportation.
-  - **(2)** If, on the date the United States Railway Association is abolished under subsection (a), such association shall not have completed the termination of its affairs and the liquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
+  - **(2)** If, on the date the United States Railway Association is abolished under subsection (a) of this section, such association shall not have completed the termination of its affairs and the liquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
 - **(c)**
   - **(1)** On January 1, 1987 , the Amended and Restated Financing Agreement, dated May 10, 1979 , between the United States Railway Association and the Corporation, together with any and all rights and obligations of or on behalf of any person with respect to such agreement, shall terminate and be of no further force or effect, except for those provisions specifying terms and conditions for payments made to the United States with respect to debentures, preferred stock, and contingent interest notes.
   - **(2)** Effective as of the sale date, those provisions of the Financing Agreement referred to in paragraph (1) shall terminate.

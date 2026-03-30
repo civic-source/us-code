@@ -3,9 +3,10 @@ title: "Section 6966a - Increased use of recovered mineral component in federall
 usc_title: 42
 usc_section: "6966a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6966a"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-03-30T03:06:22.779Z"
+status: "active"
 ---
 
 # § 6966a. Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:56:11.276Z"
   - **(2)** In carrying out paragraph (1) an agency head shall give priority to achieving greater use of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
   - **(3)** The Administrator and each agency head shall carry out this subsection in accordance with section 6962 of this title .
 - **(c)**
-  - **(1)** The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b), may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
+  - **(1)** The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which current procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
   - **(2)** The study shall—
     - **(A)** quantify the extent to which recovered mineral components are being substituted for Portland cement, particularly as a result of current procurement requirements, and the energy savings and environmental benefits associated with that substitution;
     - **(B)** identify all barriers in procurement requirements to greater realization of energy savings and environmental benefits, including barriers resulting from exceptions from current law; and
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:56:11.276Z"
       - **(ii)** evaluate the feasibility of establishing guidelines or standards for optimized substitution rates of recovered mineral component in those cement or concrete projects; and
       - **(iii)** identify any potential environmental or economic effects that may result from greater substitution of recovered mineral component in those cement or concrete projects.
   - **(3)** Not later than 30 months after August 10, 2005 , the Administrator shall submit to Congress a report on the study.
-- **(d)** Unless the study conducted under subsection (c) identifies any effects or other problems described in subsection (c)(2)(C)(iii) that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the release of the report in accordance with subsection (c)(3), take additional actions authorized under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects, so as to—
+- **(d)** Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the release of the report in accordance with subsection (c)(3) of this section, take additional actions authorized under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects, so as to—
   - **(1)** realize more fully the energy savings and environmental benefits associated with increased substitution; and
-  - **(2)** eliminate barriers identified under subsection (c).
+  - **(2)** eliminate barriers identified under subsection (c) of this section.
 - **(e)** Nothing in this section affects the requirements of section 6962 of this title (including the guidelines and specifications for implementing those requirements).

@@ -3,9 +3,10 @@ title: "Section 773k - Location of office space and other facilities on or near 
 usc_title: 16
 usc_section: "773k"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 773k"
-generated_at: "2026-03-30T02:54:22.908Z"
+generated_at: "2026-03-30T03:04:48.529Z"
+status: "active"
 ---
 
 # § 773k. Location of office space and other facilities on or near University of Washington campus in State of Washington

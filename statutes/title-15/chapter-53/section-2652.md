@@ -3,14 +3,15 @@ title: "Section 2652 - Asbestos Ombudsman"
 usc_title: 15
 usc_section: "2652"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2652"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-03-30T03:04:31.210Z"
+status: "active"
 ---
 
 # § 2652. Asbestos Ombudsman
 
-- **(a)** The Administrator shall appoint an Asbestos Ombudsman, who shall carry out the duties described in subsection (b).
+- **(a)** The Administrator shall appoint an Asbestos Ombudsman, who shall carry out the duties described in subsection (b) of this section.
 - **(b)** The duties of the Asbestos Ombudsman are—
   - **(1)** to receive complaints, grievances, and requests for information submitted by any person with respect to any aspect of this subchapter,
   - **(2)** to render assistance with respect to the complaints, grievances, and requests received, and

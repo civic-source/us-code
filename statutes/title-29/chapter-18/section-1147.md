@@ -3,9 +3,10 @@ title: "Section 1147 - National Summit on Retirement Savings"
 usc_title: 29
 usc_section: "1147"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1147"
-generated_at: "2026-03-30T02:55:18.720Z"
+generated_at: "2026-03-30T03:05:09.721Z"
+status: "active"
 ---
 
 # § 1147. National Summit on Retirement Savings
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
   - **(2)** facilitate the development of a broad-based, public education program to encourage and enhance individual commitment to a personal retirement savings strategy;
   - **(3)** develop recommendations for additional research, reforms, and actions in the field of private pensions and individual retirement savings; and
   - **(4)** disseminate the report of, and information obtained by, the National Summit and exhibit materials and works of the National Summit.
-- **(b)** The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2). The Secretary shall also, in carrying out the Secretary’s duties under this subsection, consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
+- **(b)** The National Summit shall be planned and conducted under the direction of the Secretary, in consultation with, and with the assistance of, the heads of such other Federal departments and agencies as the President may designate. Such assistance may include the assignment of personnel. The Secretary shall, in planning and conducting the National Summit, consult with the congressional leaders specified in subsection (e)(2) of this section. The Secretary shall also, in carrying out the Secretary’s duties under this subsection, consult and coordinate with at least one organization made up of private sector businesses and associations partnered with Government entities to promote long-term financial security in retirement through savings.
 - **(c)** The purpose of the National Summit shall be—
   - **(1)** to increase the public awareness of the value of personal savings for retirement;
   - **(2)** to advance the public’s knowledge and understanding of retirement savings and its critical importance to the future well-being of American workers and their families;
@@ -41,7 +42,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
     - **(D)** the Chairman and ranking Member of the Committee on Labor and Human Resources of the Senate;
     - **(E)** the Chairman and ranking Member of the Special Committee on Aging of the Senate;
     - **(F)** the Chairman and ranking Member of the Subcommittees on Labor, Health and Human Services, and Education of the Senate and House of Representatives; and
-    - **(G)** the parties referred to in subsection (b).
+    - **(G)** the parties referred to in subsection (b) of this section.
   - **(3)**
     - **(A)** There shall be not more than 200 additional participants. Of such additional participants—
       - **(i)** one-half shall be appointed by the President, in consultation with the elected leaders of the President’s party in Congress (either the Speaker of the House of Representatives or the Minority Leader of the House of Representatives, and either the Majority Leader or the Minority Leader of the Senate; 1 1 So in original. A closing parenthesis probably should precede the semicolon. and
@@ -53,7 +54,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
   - **(4)** The National Summit shall be presided over equally by representatives of the executive and legislative branches.
 - **(f)**
   - **(1)** In administering this section, the Secretary shall—
-    - **(A)** request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) as may be appropriate in the carrying out of this section;
+    - **(A)** request the cooperation and assistance of such other Federal departments and agencies and other parties referred to in subsection (b) of this section as may be appropriate in the carrying out of this section;
     - **(B)** furnish all reasonable assistance to State agencies, area agencies, and other appropriate organizations to enable them to organize and conduct conferences in conjunction with the National Summit;
     - **(C)** make available for public comment a proposed agenda for the National Summit that reflects to the greatest extent possible the purposes for the National Summit set out in this section;
     - **(D)** prepare and make available background materials for the use of participants in the National Summit that the Secretary considers necessary; and
@@ -62,7 +63,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
     - **(A)** the National Summit shall be conducted in a manner that ensures broad participation of Federal, State, and local agencies and private organizations, professionals, and others involved in retirement income savings and provides a strong basis for assistance to be provided under paragraph (1)(B);
     - **(B)** the agenda prepared under paragraph (1)(C) for the National Summit is published in the Federal Register; and
     - **(C)** the personnel appointed under paragraph (1)(E) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities.
-  - **(3)** The provisions of chapter 10 of title 5 shall not apply to the National Summit.
+  - **(3)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Summit.
 - **(g)** The Secretary shall prepare a report describing the activities of the National Summit and shall submit the report to the President, the Speaker and Minority Leader of the House of Representatives, the Majority and Minority Leaders of the Senate, and the chief executive officers of the States not later than 90 days after the date on which the National Summit is adjourned.
 - **(h)** For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 - **(i)**

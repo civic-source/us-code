@@ -3,9 +3,10 @@ title: "Section 3102 - Basic entitlement"
 usc_title: 38
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-03-30T03:05:59.208Z"
+status: "active"
 ---
 
 # § 3102. Basic entitlement
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:53.500Z"
   - **(1)** the person—
     - **(A)** is—
       - **(i)** a veteran who has a service-connected disability rated at 20 percent or more which was incurred or aggravated in service on or after September 16, 1940 ; or
-      - **(ii)** hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
+      - **(ii)** hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that—
         - **(I)** the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
         - **(II)** the person is suffering from a disability which will likely be compensable at a rate of 20 percent or more under chapter 11 of this title; and
     - **(B)** is determined by the Secretary to be in need of rehabilitation because of an employment handicap; or

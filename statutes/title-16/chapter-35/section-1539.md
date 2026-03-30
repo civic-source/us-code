@@ -3,16 +3,17 @@ title: "Section 1539 - Exceptions"
 usc_title: 16
 usc_section: "1539"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1539"
-generated_at: "2026-03-30T02:54:22.977Z"
+generated_at: "2026-03-30T03:04:48.574Z"
+status: "active"
 ---
 
 # § 1539. Exceptions
 
 - **(a)**
   - **(1)** The Secretary may permit, under such terms and conditions as he shall prescribe—
-    - **(A)** any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j); or
+    - **(A)** any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j) of this section; or
     - **(B)** any taking otherwise prohibited by section 1538(a)(1)(B) of this title if such taking is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
   - **(2)**
     - **(A)** No permit may be issued by the Secretary authorizing any taking referred to in paragraph (1)(B) unless the applicant therefor submits to the Secretary a conservation plan that specifies—

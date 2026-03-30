@@ -3,9 +3,10 @@ title: "Section 1274 - Determination of issue price in the case of certain debt 
 usc_title: 26
 usc_section: "1274"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1274"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-03-30T03:05:18.651Z"
+status: "active"
 ---
 
 # § 1274. Determination of issue price in the case of certain debt instruments issued for property
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:55:27.765Z"
   - **(3)**
     - **(A)** In the case of any potentially abusive situation, the imputed principal amount of any debt instrument received in exchange for property shall be the fair market value of such property adjusted to take into account other consideration involved in the transaction.
     - **(B)** For purposes of subparagraph (A), the term “potentially abusive situation” means—
-      - **(i)** a tax shelter (as defined in section 6662(d)(2)(C)(ii)), and
+      - **(i)** a tax shelter (as defined in section 6662(d)(2)(C)(iii)), 1 1 See References in Text note below. and
       - **(ii)** any other situation which, by reason of—
         - **(I)** recent sales transactions,
         - **(II)** nonrecourse financing,

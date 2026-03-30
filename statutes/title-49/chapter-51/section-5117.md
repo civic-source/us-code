@@ -3,9 +3,10 @@ title: "Section 5117 - Special permits and exclusions"
 usc_title: 49
 usc_section: "5117"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5117"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-03-30T03:06:29.274Z"
+status: "active"
 ---
 
 # § 5117. Special permits and exclusions
@@ -15,13 +16,13 @@ generated_at: "2026-03-30T02:56:19.307Z"
     - **(A)** at least equal to the safety level required under this chapter; or
     - **(B)** consistent with the public interest and this chapter, if a required safety level does not exist.
   - **(2)** A special permit issued under this section shall be effective for an initial period of not more than 2 years and may be renewed by the Secretary upon application for successive periods of not more than 4 years each or, in the case of a special permit relating to section 5112, for an additional period of not more than 2 years.
-- **(b)** When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
-- **(c)** The Secretary shall issue or renew a special permit or approval for which an application was filed or deny such issuance or renewal within 120 days after the first day of the month following the date of the filing of such application, or the Secretary shall make available to the public a statement of the reason why the Secretary’s decision on a special permit or approval is delayed, along with an estimate of the additional time necessary before the decision is made.
+- **(b)** When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. This subsection does not require the release of information protected by law from public disclosure.
+- **(c)** The Secretary shall issue or renew the special permit for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the special permit is delayed, along with an estimate of the additional time necessary before the decision is made.
 - **(d)**
   - **(1)** The Secretary shall exclude, in any part, from this chapter and regulations prescribed under this chapter—
     - **(A)** a public vessel (as defined in section 2101 of title 46 );
     - **(B)** a vessel exempted under section 3702 of title 46 from chapter 37 of title 46; and
-    - **(C)** a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 1 1 See References in Text note below. ( 33 U.S.C. 1221 et seq.).
+    - **(C)** a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 ( 33 U.S.C. 1221 et seq.).
   - **(2)** This chapter and regulations prescribed under this chapter do not prohibit—
     - **(A)** or regulate transportation of a firearm (as defined in section 232 of title 18 ), or ammunition for a firearm, by an individual for personal use; or
     - **(B)** transportation of a firearm or ammunition in commerce.
@@ -34,6 +35,3 @@ generated_at: "2026-03-30T02:56:19.307Z"
     - **(C)** the suitability of provisions in the special permit for incorporation into the hazardous materials regulations; and
     - **(D)** rulemaking activity in related areas.
   - **(3)** After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary’s justification for why the special permit is not appropriate for incorporation into the regulations.
-- **(g)** The Secretary shall periodically, but at least every 120 days—
-  - **(1)** publish in the Federal Register notice of the final disposition of each application for a new special permit, modification to an existing special permit, or approval during the preceding quarter; and
-  - **(2)** make available to the public on the Department of Transportation’s Internet Web site notice of the final disposition of any other special permit during the preceding quarter.

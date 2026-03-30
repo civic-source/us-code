@@ -3,9 +3,10 @@ title: "Section 6202 - Definitions"
 usc_title: 42
 usc_section: "6202"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6202"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-03-30T03:06:22.750Z"
+status: "active"
 ---
 
 # § 6202. Definitions
@@ -22,7 +23,7 @@ As used in this chapter:
   - **(8)** The term “severe energy supply interruption” means a national energy supply shortage which the President determines—
     - **(A)** is, or is likely to be, of significant scope and duration, and of an emergency nature;
     - **(B)** may cause major adverse impact on national safety or the national economy; and
-    - **(C)** results, or is likely to result, from (i) an interruption in the supply of imported petroleum products, (ii) an interruption in the supply of domestic petroleum products, or (iii) sabotage, an act of terrorism, or an act of God.
+    - **(C)** results, or is likely to result, from (i) an interruption in the supply of imported petroleum products, (ii) an interruption in the supply of domestic petroleum products, or (iii) sabotage or an act of God.
   - **(9)** The term “antitrust laws” includes—
     - **(A)** the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890 ( 15 U.S.C. 1 , et seq.);
     - **(B)** the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914 ( 15 U.S.C. 12 , et seq.);

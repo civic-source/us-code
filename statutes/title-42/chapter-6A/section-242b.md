@@ -3,15 +3,16 @@ title: "Section 242b - General authority respecting research, evaluations, and d
 usc_title: 42
 usc_section: "242b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 242b"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-03-30T03:06:22.304Z"
+status: "active"
 ---
 
 # § 242b. General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology
 
-- **(a)** The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII.
-- **(b)** To implement subsection (a) and section 242k of this title , the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
+- **(a)** The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII of this chapter.
+- **(b)** To implement subsection (a) of this section and section 242k of this title , the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
   - **(1)** Utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, provide technical assistance and advice, make grants to public and nonprofit private entities and individuals, and, when appropriate, enter into contracts with public and private entities and individuals.
   - **(2)** Admit and treat at hospitals and other facilities of the Service persons not otherwise eligible for admission and treatment at such facilities.
   - **(3)** Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5 , the assistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c, 1 1 See References in Text note below. 242k, and 242n 1 of this title, obtain (in accordance with section 3109 of title 5 , but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.

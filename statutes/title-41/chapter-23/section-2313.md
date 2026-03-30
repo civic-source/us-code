@@ -3,9 +3,10 @@ title: "Section 2313 - Database for Federal agency contract and grant officers a
 usc_title: 41
 usc_section: "2313"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 2313"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-03-30T03:06:01.218Z"
+status: "active"
 ---
 
 # § 2313. Database for Federal agency contract and grant officers and suspension and debarment officials
@@ -31,22 +32,13 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(5)** Each final finding by a Federal official in the period that the person has been determined not to be a responsible source under paragraph (3) or (4) of section 113 of this title .
   - **(6)** Other information that shall be provided for purposes of this section in the Federal Acquisition Regulation.
   - **(7)** To the maximum extent practicable, information similar to the information covered by paragraphs (1) to (4) in connection with the award or performance of a contract or grant with a State government.
-  - **(8)** Whether the person is included on any of the following lists maintained by the Office of Foreign Assets Control of the Department of the Treasury:
-    - **(A)** The specially designated nationals and blocked persons list (commonly known as the “SDN list”).
-    - **(B)** The sectoral sanctions identification list.
-    - **(C)** The foreign sanctions evaders list.
-    - **(D)** The list of persons sanctioned under the Iran Sanctions Act of 1996 ( Public Law 104–172 ; 50 U.S.C. 1701 note) that do not appear on the SDN list (commonly known as the “Non-SDN Iranian Sanctions Act list”).
-    - **(E)** The list of foreign financial institutions subject to part 561 of title 31, Code of Federal Regulations.
 - **(d)**
   - **(1)** The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officials have taken with regard to contractors or grant recipients.
   - **(2)** The Administrator of General Services shall develop policies to require—
     - **(A)** the timely and accurate input of information into the database;
     - **(B)** the timely notification of any covered person when information relevant to the person is entered into the database; and
     - **(C)** opportunities for any covered person to submit comments pertaining to information about the person for inclusion in the database.
-  - **(3)** The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation, and an identification of any beneficial owner of such corporation, in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
-  - **(4)** In this subsection:
-    - **(A)** The term “beneficial ownership” has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1505 ; 10 U.S.C. 2509 note).
-    - **(B)** The term “corporation” means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity.
+  - **(3)** The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
 - **(e)**
   - **(1)** The Administrator of General Services shall ensure that the information in the database is available to appropriate acquisition officials of Federal agencies, other government officials as the Administrator of General Services determines appropriate, and, on request, the Chairman and Ranking Member of the committees of Congress having jurisdiction.
   - **(2)**

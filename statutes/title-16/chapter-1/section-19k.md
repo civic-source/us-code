@@ -1,12 +1,15 @@
 ---
-title: "Section 19k - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19k - Bylaws, rules, and regulations; contracts for services"
 usc_title: 16
 usc_section: "19k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 19k"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.399Z"
+status: "active"
 ---
 
-# § 19k. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19k. Bylaws, rules, and regulations; contracts for services
+
+In carrying out the provisions of this subchapter, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and contract for any necessary services.
 

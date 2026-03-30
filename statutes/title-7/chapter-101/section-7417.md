@@ -3,9 +3,10 @@ title: "Section 7417 - Referenda"
 usc_title: 7
 usc_section: "7417"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7417"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-03-30T03:04:21.017Z"
+status: "active"
 ---
 
 # § 7417. Referenda
@@ -14,18 +15,18 @@ generated_at: "2026-03-30T02:53:42.451Z"
   - **(1)** For the purpose of ascertaining whether the persons to be covered by an order favor the order going into effect, the order may provide for the Secretary to conduct an initial referendum among persons to be subject to an assessment under section 7416 of this title who, during a representative period determined by the Secretary, engaged in—
     - **(A)** the production or handling of the agricultural commodity covered by the order; or
     - **(B)** the importation of the agricultural commodity.
-  - **(2)** The results of the referendum shall be determined in accordance with subsection (e). The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
+  - **(2)** The results of the referendum shall be determined in accordance with subsection (e) of this section. The Secretary may require that the agricultural commodity industry involved post a bond or other collateral to cover the cost of the referendum.
 - **(b)**
   - **(1)** For the purpose of ascertaining whether the persons covered by an order favor the continuation, suspension, or termination of the order, the Secretary shall conduct a referendum among persons subject to assessments under section 7416 of this title who, during a representative period determined by the Secretary, have engaged in—
     - **(A)** the production or handling of the agricultural commodity covered by the order; or
     - **(B)** the importation of the agricultural commodity.
   - **(2)** The referendum shall be conducted not later than 3 years after assessments first begin under the order.
-  - **(3)** This subsection shall not apply if an initial referendum was conducted under subsection (a).
+  - **(3)** This subsection shall not apply if an initial referendum was conducted under subsection (a) of this section.
 - **(c)** The Secretary shall conduct a subsequent referendum—
   - **(1)** not later than 7 years after assessments first begin under the order;
   - **(2)** at the request of the board established under the order; or
-  - **(3)** at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1);
-- **(d)** The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1).
+  - **(3)** at the request of 10 percent or more of the number of persons eligible to vote under subsection (b)(1) of this section;
+- **(d)** The Secretary may conduct a referendum at any time to determine whether the continuation, suspension, or termination of the order or a provision of the order is favored by persons eligible to vote under subsection (b)(1) of this section.
 - **(e)** An order may provide for its approval in a referendum—
   - **(1)** by a majority of those persons voting;
   - **(2)** by persons voting for approval who represent a majority of the volume of the agricultural commodity; or

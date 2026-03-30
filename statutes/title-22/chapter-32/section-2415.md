@@ -3,9 +3,10 @@ title: "Section 2415 - Annual military assistance report"
 usc_title: 22
 usc_section: "2415"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2415"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-03-30T03:04:53.640Z"
+status: "active"
 ---
 
 # § 2415. Annual military assistance report

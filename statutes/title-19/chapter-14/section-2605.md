@@ -3,9 +3,10 @@ title: "Section 2605 - Cultural Property Advisory Committee"
 usc_title: 19
 usc_section: "2605"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2605"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-03-30T03:04:42.044Z"
+status: "active"
 ---
 
 # § 2605. Cultural Property Advisory Committee
@@ -48,7 +49,7 @@ generated_at: "2026-03-30T02:54:24.681Z"
     - **(A)** cause exists for suspending, under section 2602(d) of this title , the import restrictions imposed under an agreement;
     - **(B)** any agreement or emergency action is not achieving the purposes for which entered into or implemented; or
     - **(C)** changes are required to this chapter in order to implement fully the obligations of the United States under the Convention;
-- **(h)** The provisions of chapter 10 of title 5 shall apply to the Committee, except that the requirements of subsections (a) and (b) of section 1009 and section 1010 of title 5 (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee’s proceedings would compromise the Government’s negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
+- **(h)** The provisions of the Federal Advisory Committee Act ( Public Law 92–463 ; 5 U.S.C. Appendix) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee’s proceedings would compromise the Government’s negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
 - **(i)**
   - **(1)** Any information (including trade secrets and commercial or financial information which is privileged or confidential) submitted in confidence by the private sector to officers or employees of the United States or to the Committee in connection with the responsibilities of the Committee shall not be disclosed to any person other than to—
     - **(A)** officers and employees of the United States designated by the Director of the United States Information Agency;

@@ -3,9 +3,10 @@ title: "Section 1231 - Detention and removal of aliens ordered removed"
 usc_title: 8
 usc_section: "1231"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1231"
-generated_at: "2026-03-30T02:53:10.488Z"
+generated_at: "2026-03-30T03:04:14.629Z"
+status: "active"
 ---
 
 # § 1231. Detention and removal of aliens ordered removed
@@ -18,9 +19,7 @@ generated_at: "2026-03-30T02:53:10.488Z"
       - **(ii)** If the removal order is judicially reviewed and if a court orders a stay of the removal of the alien, the date of the court’s final order.
       - **(iii)** If the alien is detained or confined (except under an immigration process), the date the alien is released from detention or confinement.
     - **(C)** The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien’s departure or conspires or acts to prevent the alien’s removal subject to an order of removal.
-  - **(2)**
-    - **(A)** During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
-    - **(B)** The attorney general of a State, or other authorized State officer, alleging a violation of the detention requirement under subparagraph (A) that harms such State or its residents shall have standing to bring an action against the Secretary of Homeland Security on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this subparagraph to the greatest extent practicable. For purposes of this subparagraph, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.
+  - **(2)** During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
   - **(3)** If the alien does not leave or is not removed within the removal period, the alien, pending removal, shall be subject to supervision under regulations prescribed by the Attorney General. The regulations shall include provisions requiring the alien—
     - **(A)** to appear before an immigration officer periodically for identification;
     - **(B)** to submit, if necessary, to a medical and psychiatric examination at the expense of the United States Government;
@@ -98,11 +97,11 @@ generated_at: "2026-03-30T02:53:10.488Z"
       - **(ii)** condition that the alien appear when required as a witness and for removal; and
       - **(iii)** other conditions the Attorney General may prescribe.
   - **(3)**
-    - **(A)** Except as provided in subparagraph (B) and subsection (d), 4 4 So in original. Probably should be subsection “(e),”. an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
-      - **(i)** while the alien is detained under subsection (d)(1), and
+    - **(A)** Except as provided in subparagraph (B) and subsection (d) 4 4 So in original. Probably should be subsection “(e)”. of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+      - **(i)** while the alien is detained under subsection (d)(1) of this section, and
       - **(ii)** in the case of an alien who is a stowaway, while the alien is being detained pursuant to—
-        - **(I)** subsection (d)(2)(A) or (d)(2)(B)(i),
-        - **(II)** subsection (d)(2)(B)(ii) or (iii) for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
+        - **(I)** subsection (d)(2)(A) or (d)(2)(B)(i) of this section,
+        - **(II)** subsection (d)(2)(B)(ii) or (iii) of this section for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
         - **(III)** section 1225(b)(1)(B)(ii) of this title , for a period not to exceed 15 days (excluding Saturdays, Sundays, and holidays) commencing on the first such day which begins on the earlier of 72 hours after the time of the initial presentation of the stowaway for inspection or at the time the stowaway is determined to have a credible fear of persecution.
     - **(B)** Subparagraph (A) shall not apply if—
       - **(i)** the alien is a crewmember;

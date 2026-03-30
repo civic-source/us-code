@@ -3,9 +3,10 @@ title: "Section 1314 - Public advisory groups"
 usc_title: 42
 usc_section: "1314"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1314"
-generated_at: "2026-03-30T02:56:10.904Z"
+generated_at: "2026-03-30T03:06:22.468Z"
+status: "active"
 ---
 
 # § 1314. Public advisory groups
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:10.904Z"
 - **(b)** The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
 - **(c)** The Council is authorized to engage such technical assistance as may be required to carry out its functions, and the Secretary shall, in addition, make available to the Council such secretarial, clerical, and other assistance and such pertinent data prepared by the Department of Health and Human Services as it may require to carry out such functions.
 - **(d)** The Council shall make a report of its findings and recommendations (including recommendations for changes in the provisions of this chapter) to the Secretary, such report to be submitted not later than July 1, 1966 , after which date such Council shall cease to exist.
-- **(e)** The Secretary shall also from time to time thereafter appoint an Advisory Council on Public Welfare, with the same functions and constituted in the same manner as prescribed for the Advisory Council in the preceding subsections of this section. Each Council so appointed shall report its findings and recommendations, as prescribed in subsection (d), not later than July 1 of the second year after the year in which it is appointed, after which date such Council shall cease to exist.
+- **(e)** The Secretary shall also from time to time thereafter appoint an Advisory Council on Public Welfare, with the same functions and constituted in the same manner as prescribed for the Advisory Council in the preceding subsections of this section. Each Council so appointed shall report its findings and recommendations, as prescribed in subsection (d) of this section, not later than July 1 of the second year after the year in which it is appointed, after which date such Council shall cease to exist.
 - **(f)** The Secretary may also appoint, without regard to the provisions of title 5 governing appointments in the competitive service, such advisory committees as he may deem advisable to advise and consult with him in carrying out any of his functions under this chapter. The Secretary shall report to the Congress annually on the number of such committees and on the membership and activities of each such committee.
 - **(g)** Members of the Council or of any advisory committee appointed under this section who are not regular full-time employees of the United States shall, while serving on business of the Council or any such committee, be entitled to receive compensation at rates fixed by the Secretary, but not exceeding $75 per day, including travel time; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 - **(h)**

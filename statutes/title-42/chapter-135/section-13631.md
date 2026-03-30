@@ -3,21 +3,22 @@ title: "Section 13631 - Requirement to provide service coordinators"
 usc_title: 42
 usc_section: "13631"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13631"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-03-30T03:06:22.934Z"
+status: "active"
 ---
 
 # § 13631. Requirement to provide service coordinators
 
-- **(a)** To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d)) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
+- **(a)** To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
 - **(b)** Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle 1 1 See References in Text note below. or the amendments made by this subtitle— 1
   - **(1)** shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
   - **(2)** shall manage and coordinate the provision of such services for residents of the project;
   - **(3)** may provide training to tenants of the project in the obligations of tenancy or coordinate such training;
   - **(4)** shall meet the minimum qualifications and standards required under section 8011(d)(4) of this title ; and
   - **(5)** may carry out other appropriate activities for residents of the project.
-- **(c)** Supportive services referred to under subsection (b)(1) may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socialization activities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f), and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
+- **(c)** Supportive services referred to under subsection (b)(1) of this section may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socialization activities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section, and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
 - **(d)** For purposes of this subtitle, 1 the term “covered federally assisted housing” means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title ), except that such term does not include housing described in subparagraphs (C) and (D) of such section.
 - **(e)** To the extent only that this section applies to service coordinators for covered federally assisted housing described in subparagraphs (B), (C), (D), (E), (F), and (G) of section 13641(2) of this title , any reference in this section to elderly or disabled residents of a project shall be construed to include low-income elderly or disabled families living in the vicinity of such project.
 - **(f)**

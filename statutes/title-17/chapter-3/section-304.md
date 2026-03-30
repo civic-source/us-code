@@ -3,9 +3,10 @@ title: "Section 304 - Duration of copyright: Subsisting copyrights"
 usc_title: 17
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "17 U.S.C. § 304"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-03-30T03:04:38.588Z"
+status: "active"
 ---
 
 # § 304. Duration of copyright: Subsisting copyrights
@@ -56,6 +57,6 @@ generated_at: "2026-03-30T02:54:15.350Z"
     - **(D)** A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the author or any of the persons provided by the first sentence of clause (6) of this subsection, or between the persons provided by subclause (C) of this clause, and the original grantee or such grantee’s successor in title, after the notice of termination has been served as provided by clause (4) of this subsection.
     - **(E)** Termination of a grant under this subsection affects only those rights covered by the grant that arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws.
     - **(F)** Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
-- **(d)** In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978 , by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
+- **(d)**
   - **(1)** The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
   - **(2)** Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.

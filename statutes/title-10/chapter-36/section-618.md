@@ -3,9 +3,10 @@ title: "Section 618 - Action on reports of selection boards"
 usc_title: 10
 usc_section: "618"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 618"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-03-30T03:04:17.226Z"
+status: "active"
 ---
 
 # § 618. Action on reports of selection boards
@@ -30,9 +31,6 @@ generated_at: "2026-03-30T02:53:38.068Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
   - **(2)** In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
-  - **(3)** The Secretary of Defense shall notify the congressional defense committees of the removal of the name of an officer from the report of a selection board by the President or the Secretary or Deputy Secretary of Defense under paragraph (1) or paragraph (2), respectively, for any reason other than misconduct—
-    - **(A)** not later than 30 days after the name of an officer is removed; and
-    - **(B)** prior to submission to the Senate of a promotion list with respect to such report pursuant to section 624(c) of this title .
 - **(e)**
   - **(1)** The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
     - **(A)** In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
@@ -41,5 +39,4 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(2)** A list of names of officers disseminated under paragraph (1) may not include—
     - **(A)** any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
     - **(B)** the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
-- **[(f)** Repealed. Pub. L. 109–364, div. A, title V, § 547(a)(2) , Oct. 17, 2006 , 120 Stat. 2216 .]
 - **(g)** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.

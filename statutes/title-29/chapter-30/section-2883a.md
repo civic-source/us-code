@@ -1,12 +1,15 @@
 ---
-title: "Section 2883a - Omitted"
+title: "Section 2883a - Office of Job Corps"
 usc_title: 29
 usc_section: "2883a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 2883a"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-03-30T03:05:09.743Z"
+status: "active"
 ---
 
-# § 2883a. Omitted
+# § 2883a. Office of Job Corps
+
+Not later than 90 days after December 30, 2005 , the Secretary of Labor shall permanently establish and maintain an Office of Job Corps within the Office of the Secretary, in the Department of Labor, to carry out the functions (including duties, responsibilities, and procedures) of subtitle C of title I of the Workforce Investment Act of 1998 ( 29 U.S.C. 2881 et seq.). The Secretary shall appoint a senior member of the civil service to head that Office of Job Corps and carry out subtitle C. The Secretary shall transfer funds appropriated for the program carried out under that subtitle C, including the administration of such program, to the head of that Office of Job Corps. The head of that Office of Job Corps shall have contracting authority and shall receive support as necessary from the Assistant Secretary for Administration and Management with respect to contracting functions and the Assistant Secretary for Policy with respect to research and evaluation functions.
 

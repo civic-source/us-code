@@ -1,12 +1,31 @@
 ---
-title: "Section 2501 - Renumbered § 4811]"
+title: "Section 2501 - National security strategy for national technology and industrial base"
 usc_title: 10
 usc_section: "2501"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-03-30T03:04:17.290Z"
+status: "active"
 ---
 
-# [§ 2501. Renumbered § 4811]
+# § 2501. National security strategy for national technology and industrial base
 
+- **(a)** The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
+  - **(1)** Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
+    - **(A)** the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 404a ); 1 1 See References in Text note below.
+    - **(B)** the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of this title ; and
+    - **(C)** the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of this title .
+  - **(2)** Sustaining production, maintenance, repair, logistics, and other activities in support of military operations of various durations and intensity.
+  - **(3)** Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
+  - **(4)** Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+  - **(5)** Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
+  - **(6)** Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
+  - **(7)** Providing for the development, production, and integration of information technology within the national technology and industrial base.
+  - **(8)** Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
+  - **(9)** Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
+  - **(10)** Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
+- **(b)** It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
+  - **(1)** Relying, to the maximum extent practicable, upon the commercial national technology and industrial base that is required to meet the national security needs of the United States.
+  - **(2)** Reducing the reliance of the Department of Defense on technology and industrial base sectors that are economically dependent on Department of Defense business.
+  - **(3)** Reducing Federal Government barriers to the use of commercial products, processes, and standards.

@@ -3,9 +3,10 @@ title: "Section 1853 - Contents of fishery management plans"
 usc_title: 16
 usc_section: "1853"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1853"
-generated_at: "2026-03-30T02:54:22.989Z"
+generated_at: "2026-03-30T03:04:48.582Z"
+status: "active"
 ---
 
 # § 1853. Contents of fishery management plans
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:22.989Z"
 - **(a)** Any fishery management plan which is prepared by any Council, or by the Secretary, with respect to any fishery, shall—
   - **(1)** contain the conservation and management measures, applicable to foreign fishing and fishing by vessels of the United States, which are—
     - **(A)** necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
-    - **(B)** described in this subsection or subsection (b), or both; and
+    - **(B)** described in this subsection or subsection (b) of this section, or both; and
     - **(C)** consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits), and any other applicable law;
   - **(2)** contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenues from the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
   - **(3)** assess and specify the present and probable future condition of, and the maximum sustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;

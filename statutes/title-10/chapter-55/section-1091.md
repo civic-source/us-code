@@ -3,9 +3,10 @@ title: "Section 1091 - Personal services contracts"
 usc_title: 10
 usc_section: "1091"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1091"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-03-30T03:04:17.245Z"
+status: "active"
 ---
 
 # § 1091. Personal services contracts
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:38.106Z"
   - **(1)** The Secretary shall establish by regulation procedures for entering into personal services contracts with individuals under subsection (a). At a minimum, such procedures shall assure—
     - **(A)** the provision of adequate notice of contract opportunities to individuals residing in the area of the medical treatment facility involved; and
     - **(B)** consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
-  - **(2)** Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 1 1 See References in Text note below. of this title or any other similar requirements of law.
+  - **(2)** Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
   - **(3)** The procedures established under paragraph (1) may provide for a contracting officer to authorize a contractor to enter into a subcontract for personal services on behalf of the agency upon a determination that the subcontract is—
     - **(A)** consistent with the requirements of this section and the procedures established under paragraph (1); and
     - **(B)** in the best interests of the agency.

@@ -3,9 +3,10 @@ title: "Section 1385 - Partial withdrawals"
 usc_title: 29
 usc_section: "1385"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1385"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-03-30T03:05:09.730Z"
+status: "active"
 ---
 
 # § 1385. Partial withdrawals
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
 - **(a)** Except as otherwise provided in this section, there is a partial withdrawal by an employer from a plan on the last day of a plan year if for such plan year—
   - **(1)** there is a 70-percent contribution decline, or
   - **(2)** there is a partial cessation of the employer’s contribution obligation.
-- **(b)** For purposes of subsection (a)—
+- **(b)** For purposes of subsection (a) of this section—
   - **(1)**
     - **(A)** There is a 70-percent contribution decline for any plan year if during each plan year in the 3-year testing period the employer’s contribution base units do not exceed 30 percent of the employer’s contribution base units for the high base year.
     - **(B)** For purposes of subparagraph (A)—
@@ -26,8 +27,8 @@ generated_at: "2026-03-30T02:55:18.734Z"
     - **(B)** For purposes of subparagraph (A), a cessation of obligations under a collective bargaining agreement shall not be considered to have occurred solely because, with respect to the same plan, one agreement that requires contributions to the plan has been substituted for another agreement.
 - **(c)**
   - **(1)** In the case of a plan in which a majority of the covered employees are employed in the retail food industry, the plan may be amended to provide that this section shall be applied with respect to such plan—
-    - **(A)** by substituting “35 percent” for “70 percent” in subsections (a) and (b), and
-    - **(B)** by substituting “65 percent” for “30 percent” in subsection (b).
+    - **(A)** by substituting “35 percent” for “70 percent” in subsections (a) and (b) of this section, and
+    - **(B)** by substituting “65 percent” for “30 percent” in subsection (b) of this section.
   - **(2)** Any amendment adopted under paragraph (1) shall provide rules for the equitable reduction of withdrawal liability in any case in which the number of the plan’s contribution base units, in the 2 plan years following the plan year of withdrawal of the employer, is higher than such number immediately after the withdrawal.
   - **(3)** Section 1388 of this title shall not apply to a plan which has been amended under paragraph (1).
 - **(d)** In the case of a plan described in section 404(c) of title 26 , or a continuation thereof, the plan may be amended to provide rules setting forth other conditions consistent with the purposes of this chapter under which an employer has liability for partial withdrawal.

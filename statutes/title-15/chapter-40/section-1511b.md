@@ -3,16 +3,17 @@ title: "Section 1511b - United States fishery trade officers"
 usc_title: 15
 usc_section: "1511b"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1511b"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-03-30T03:04:31.170Z"
+status: "active"
 ---
 
 # § 1511b. United States fishery trade officers
 
 - **(a)** For purposes of carrying out export promotion and other fishery development responsibilities, the Secretary of Commerce (hereinafter in this section referred to as the “Secretary”) shall appoint not fewer than six officers who shall serve abroad to promote United States fishing interests. These officers shall be knowledgeable about the United States fishing industry, preferably with experience derived from the harvesting, processing, or marketing sectors of the industry or from the administration of fisheries programs. Such officers, who shall be employees of the Department of Commerce, shall have the designation of fishery trade officers.
 - **(b)** Upon the request of the Secretary, the Secretary of State shall officially assign fishery trade officers to such diplomatic missions of the United States as the Secretary designates (three of which shall be those in Brussels, Belgium; Rome, Italy; and Tokyo, Japan) and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by foreign service personnel of comparable rank and salary.
-- **(c)** The functions of fishery trade officers appointed under subsection (a) shall be—
+- **(c)** The functions of fishery trade officers appointed under subsection (a) of this section shall be—
   - **(1)** to increase the effectiveness of United States fishery export promotion efforts through such activities as the coordination of market development efforts and the provision of services and facilities for exporters of United States fishery products;
   - **(2)** to develop, maintain, and make available to interested persons listings of (A) trade, government, and other organizations that are concerned with, or have an interest in, international trade in United States fishery products, and (B) United States fishery products available for such trade;
   - **(3)** to prepare quarterly reports regarding (A) the supply, demand, and prices of each United States fishery product exported, or for which there may be export potential, to the foreign nation or area concerned, and (B) the trade barriers or incentives of such nation or area that affect imports of such products;

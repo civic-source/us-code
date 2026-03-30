@@ -3,9 +3,10 @@ title: "Section 12601 - Establishment of the National Service Trust"
 usc_title: 42
 usc_section: "12601"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12601"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-03-30T03:06:22.905Z"
+status: "active"
 ---
 
 # § 12601. Establishment of the National Service Trust
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
   - **(1)** payments of national service educational awards, summer of service educational awards, and silver scholar educational awards in accordance with section 12604 of this title ; and
   - **(2)** payments of interest in accordance with section 12604(e) of this title .
 - **(d)** Not later than March 1 of each year, the Corporation shall submit a report to the authorizing committees on the financial status of the Trust during the preceding fiscal year. Such report shall—
-  - **(1)** specify the amount deposited to the Trust from the most recent appropriation to the Corporation, the amount received by the Corporation as gifts, bequests, devises, or otherwise pursuant to section 12651g(a)(2) of this title during the period covered by the report, and any amounts obtained by the Trust pursuant to subsection (a)(3);
+  - **(1)** specify the amount deposited to the Trust from the most recent appropriation to the Corporation, the amount received by the Corporation as gifts, bequests, devises, or otherwise pursuant to section 12651g(a)(2) of this title during the period covered by the report, and any amounts obtained by the Trust pursuant to subsection (a)(3) of this section;
   - **(2)** identify the number of individuals who are currently performing service to qualify, or have qualified, for national service educational awards, summer of service educational awards, or silver scholar awards;
   - **(3)** identify the number of individuals whose expectation to receive national service educational awards, summer of service educational awards, or silver scholar awards during the period covered by the report—
     - **(A)** has been reduced pursuant to section 12603(c) of this title ; or

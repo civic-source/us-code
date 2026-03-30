@@ -3,9 +3,10 @@ title: "Section 14923 - Standards and procedures for providing accreditation or 
 usc_title: 42
 usc_section: "14923"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14923"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-03-30T03:06:22.952Z"
+status: "active"
 ---
 
 # § 14923. Standards and procedures for providing accreditation or approval
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(2)** In developing such regulations, the Secretary shall consider any standards or procedures developed or proposed by, and the views of, individuals and entities with interest and expertise in international adoptions and family social services, including public and private entities with experience in licensing and accrediting adoption agencies.
   - **(3)** Subsections (b), (c), and (d) of section 553 of title 5 shall apply in the development and issuance of regulations under this section.
 - **(b)**
-  - **(1)** The standards prescribed under subsection (a) shall include the requirement that accreditation of an agency may not be provided or continued under this subchapter unless the agency meets the following requirements:
+  - **(1)** The standards prescribed under subsection (a) of this section shall include the requirement that accreditation of an agency may not be provided or continued under this subchapter unless the agency meets the following requirements:
     - **(A)**
       - **(i)** The agency provides prospective adoptive parents of a child in a prospective Convention adoption a copy of the medical records of the child (which, to the fullest extent practicable, shall include an English-language translation of such records) on a date which is not later than the earlier of the date that is 2 weeks before: (I) the adoption; or (II) the date on which the prospective parents travel to a foreign country to complete all procedures in such country relating to the adoption.
       - **(ii)** The agency ensures that a thorough background report (home study) on the prospective adoptive parent or parents has been completed in accordance with the Convention and with applicable Federal and State requirements and transmitted to the Attorney General with respect to each Convention adoption. Each such report shall include a criminal background check and a full and complete statement of all facts relevant to the eligibility of the prospective adopting parent or parents to adopt a child under any requirements specified by the central authority of the child’s country of origin under section 14912(b)(3) of this title , including, in the case of a child emigrating to the United States for the purpose of adoption, the requirements of the child’s country of origin applicable to adoptions taking place in such country. For purposes of this clause, the term “background report (home study)” includes any supplemental statement submitted by the agency to the Attorney General for the purpose of providing information relevant to any requirements specified by the child’s country of origin.
@@ -32,11 +33,11 @@ generated_at: "2026-03-30T02:56:11.453Z"
     - **(E)** The agency agrees to have in force adequate liability insurance for professional negligence and any other insurance that the Secretary considers appropriate.
     - **(F)** The agency has established adequate measures to comply (and to ensure compliance of their agents and clients) with the Convention, this chapter, and any other applicable law.
     - **(G)** The agency is a private nonprofit organization licensed to provide adoption services in at least one State.
-  - **(2)** The standards prescribed under subsection (a) shall include the requirement that a person shall not be approved under this subchapter unless the person is a private for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
-  - **(3)** The standards prescribed under subsection (a) shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
+  - **(2)** The standards prescribed under subsection (a) of this section shall include the requirement that a person shall not be approved under this subchapter unless the person is a private for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
+  - **(3)** The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
 - **(c)**
-  - **(1)** For a 1-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 100 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
-  - **(2)** For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
+  - **(1)** For a 1-year period after the entry into force of the Convention and notwithstanding subsection (b) of this section, the Secretary may provide, in regulations issued pursuant to subsection (a) of this section, that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 100 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
+  - **(2)** For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b) of this section, the Secretary may provide, in regulations issued pursuant to subsection (a) of this section, that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
   - **(3)** Agencies registered under this subsection shall meet the following criteria:
     - **(A)** The agency is licensed in the State in which it is located and is a nonprofit agency.
     - **(B)** The agency has been providing adoption services in connection with intercountry adoptions for at least 3 years.

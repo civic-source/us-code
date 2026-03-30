@@ -3,9 +3,10 @@ title: "Section 12145 - Temporary relief where lifts are unavailable"
 usc_title: 42
 usc_section: "12145"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12145"
-generated_at: "2026-03-30T02:56:11.409Z"
+generated_at: "2026-03-30T03:06:22.896Z"
+status: "active"
 ---
 
 # § 12145. Temporary relief where lifts are unavailable
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.409Z"
   - **(2)** the unavailability from any qualified manufacturer of hydraulic, electromechanical, or other lifts for such new buses;
   - **(3)** that the public entity seeking temporary relief has made good faith efforts to locate a qualified manufacturer to supply the lifts to the manufacturer of such buses in sufficient time to comply with such solicitation; and
   - **(4)** that any further delay in purchasing new buses necessary to obtain such lifts would significantly impair transportation services in the community served by the public entity.
-- **(b)** Any relief granted under subsection (a) shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
-- **(c)** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) was fraudulently applied for, the Secretary shall—
+- **(b)** Any relief granted under subsection (a) of this section shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
+- **(c)** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) of this section was fraudulently applied for, the Secretary shall—
   - **(1)** cancel such relief if such relief is still in effect; and
   - **(2)** take such other action as the Secretary considers appropriate.

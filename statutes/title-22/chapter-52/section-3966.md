@@ -3,9 +3,10 @@ title: "Section 3966 - Within-class salary increases"
 usc_title: 22
 usc_section: "3966"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3966"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-03-30T03:04:53.669Z"
+status: "active"
 ---
 
 # § 3966. Within-class salary increases
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(a)** Any member of the Service receiving a salary under the Foreign Service Schedule shall be advanced to the next higher salary step in the member’s class at the beginning of the first applicable pay period following the completion by that member of a period of—
   - **(1)** 52 calendar weeks of service in each of salary steps 1 through 9, and
   - **(2)** 104 calendar weeks of service in each of salary steps 10 through 13,
-- **(b)** The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
+- **(b)** The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a) of this section, an additional salary increase to any higher step in the salary class in which the member is serving.

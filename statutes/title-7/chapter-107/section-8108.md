@@ -3,20 +3,18 @@ title: "Section 8108 - Biomass research and development"
 usc_title: 7
 usc_section: "8108"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8108"
-generated_at: "2026-03-30T02:53:42.471Z"
+generated_at: "2026-03-30T03:04:21.031Z"
+status: "active"
 ---
 
 # § 8108. Biomass research and development
 
 - **(a)** In this section:
   - **(1)** The term “biobased product” means—
-    - **(A)** an industrial product (including chemicals, materials, and polymers) produced from biomass;
-    - **(B)** a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel; or
-    - **(C)** carbon dioxide that—
-      - **(i)** is intended for permanent sequestration or utilization; and
-      - **(ii)** is a byproduct of the production of the products described in subparagraphs (A) and (B).
+    - **(A)** an industrial product (including chemicals, materials, and polymers) produced from biomass; or
+    - **(B)** a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel.
   - **(2)** The term “demonstration” means demonstration of technology in a pilot plant or semi-works scale facility, including a plant or facility located on a farm.
   - **(3)** The term “Initiative” means the Biomass Research and Development Initiative established under subsection (e).
 - **(b)**
@@ -56,9 +54,8 @@ generated_at: "2026-03-30T02:53:42.471Z"
       - **(ix)** an individual with expertise in the economics of biofuels and biobased products;
       - **(x)** an individual with expertise in agricultural economics;
       - **(xi)** an individual with expertise in plant biology and biomass feedstock development;
-      - **(xii)** an individual with expertise in agronomy, crop science, or soil science;
-      - **(xiii)** an individual with expertise in carbon dioxide capture, utilization, and sequestration; and
-      - **(xiv)** at the option of the points of contact, other members.
+      - **(xii)** an individual with expertise in agronomy, crop science, or soil science; and
+      - **(xiii)** at the option of the points of contact, other members.
     - **(B)** The members of the Advisory Committee shall be appointed by the points of contact.
   - **(3)** The Advisory Committee shall—
     - **(A)** advise the points of contact with respect to the Initiative; and
@@ -79,16 +76,14 @@ generated_at: "2026-03-30T02:53:42.471Z"
     - **(A)** technologies and processes necessary for abundant commercial production of biofuels at prices competitive with fossil fuels;
     - **(B)** high-value biobased products—
       - **(i)** to enhance the economic viability of biofuels and power;
-      - **(ii)** to serve as substitutes for petroleum-based feedstocks and products;
+      - **(ii)** to serve as substitutes for petroleum-based feedstocks and products; and
       - **(iii)** to enhance the value of coproducts produced using the technologies and processes; and
-      - **(iv)** to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C); and
     - **(C)** a diversity of economically and environmentally sustainable domestic sources of renewable biomass for conversion to biofuels, bioenergy, and biobased products.
   - **(3)** The Secretary of Agriculture and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and heads of other appropriate departments and agencies (referred to in this subsection as the “Secretaries”), shall direct the Initiative in the 3 following areas:
     - **(A)** Research, development, and demonstration activities regarding feedstocks and feedstock logistics (including the harvest, handling, transport, preprocessing, and storage) relevant to production of raw materials for conversion to biofuels and biobased products.
     - **(B)** Research, development, and demonstration activities to support—
-      - **(i)** the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products;
-      - **(ii)** product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery; and
-      - **(iii)** the development of technologies to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C).
+      - **(i)** the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products; and
+      - **(ii)** product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery.
     - **(C)**
       - **(i)** The development of analysis that provides strategic guidance for the application of renewable biomass technologies to improve sustainability and environmental quality, cost effectiveness, security, and rural economic development.
       - **(ii)** Development of systematic evaluations of the impact of expanded biofuel production on the environment (including forest land) and on the food supply for humans and animals, including the improvement and development of tools for life cycle analysis of current and potential biofuels.
@@ -121,7 +116,7 @@ generated_at: "2026-03-30T02:53:42.471Z"
       - **(ii)** The non-Federal share of the cost of a demonstration or commercial project under this section shall be not less than 50 percent.
     - **(C)** The Secretary of Agriculture and the Secretary of Energy shall ensure that applicable research results and technologies from the Initiative are—
       - **(i)** adapted, made available, and disseminated, as appropriate; and
-      - **(ii)** included in the best practices database established under section 5925e(e) 1 1 See References in Text note below. of this title.
+      - **(ii)** included in the best practices database established under section 5925e(e) of this title .
 - **(f)**
   - **(1)** The Secretary of Energy and the Secretary of Agriculture may provide such administrative support and funds of the Department of Energy and the Department of Agriculture to the Board and the Advisory Committee as are necessary to enable the Board and the Advisory Committee to carry out their duties under this section.
   - **(2)** The heads of the agencies referred to in subsection (c)(2)(B), and the other members of the Board appointed under subsection (c)(2)(C), are encouraged to provide administrative support and funds of their respective agencies to the Board and the Advisory Committee.
@@ -134,7 +129,6 @@ generated_at: "2026-03-30T02:53:42.471Z"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out this section, to remain available until expended—
     - **(A)** $20,000,000 for fiscal year 2009;
     - **(B)** $28,000,000 for fiscal year 2010;
-    - **(C)** $30,000,000 for fiscal year 2011;
-    - **(D)** $40,000,000 for fiscal year 2012; and
-    - **(E)** $3,000,000 for each of fiscal years 2014 through 2017.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
+    - **(C)** $30,000,000 for fiscal year 2011; and
+    - **(D)** $40,000,000 for fiscal year 2012.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2013.

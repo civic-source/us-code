@@ -3,17 +3,18 @@ title: "Section 4517 - Examinations"
 usc_title: 12
 usc_section: "4517"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4517"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-03-30T03:04:29.320Z"
+status: "active"
 ---
 
 # § 4517. Examinations
 
 - **(a)** The Director shall annually conduct an on-site examination under this section of each regulated entity to determine the condition of the regulated entity for the purpose of ensuring its financial safety and soundness.
-- **(b)** In addition to annual examinations under subsection (a), the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
+- **(b)** In addition to annual examinations under subsection (a) of this section, the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
 - **(c)** The Director shall appoint examiners to conduct examinations under this section. The Director may contract with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation for the services of examiners to conduct examinations under this section. The Director shall reimburse such agencies for any costs of providing examiners from amounts available in the Federal Housing Enterprises Oversight Fund.
-- **(d)** There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 403(a) of title 5 .
+- **(d)** There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 3(a) of the Inspector General Act of 1978.
 - **(e)** The Director and each examiner shall have the same authority and each examiner shall be subject to the same disclosures, prohibitions, obligations, and penalties as are applicable to examiners employed by the Federal Reserve banks.
 - **(f)** The Director may obtain the services of any technical experts the Director considers appropriate to provide temporary technical assistance relating to examinations to the Director, officers, and employees of the Office. The Director shall describe, in the record of each examination, the nature and extent of any such temporary technical assistance.
 - **(g)** In connection with examinations under this section, the Director shall have the authority provided under section 4641 of this title .

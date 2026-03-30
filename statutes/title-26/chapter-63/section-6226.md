@@ -1,40 +1,41 @@
 ---
-title: "Section 6226 - Alternative to payment of imputed underpayment by partnership"
+title: "Section 6226 - Judicial review of final partnership administrative adjustments"
 usc_title: 26
 usc_section: "6226"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6226"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-03-30T03:05:18.721Z"
+status: "active"
 ---
 
-# § 6226. Alternative to payment of imputed underpayment by partnership
+# § 6226. Judicial review of final partnership administrative adjustments
 
-- **(a)** If the partnership—
-  - **(1)** not later than 45 days after the date of the notice of final partnership adjustment, elects the application of this section with respect to an imputed underpayment, and
-  - **(2)** at such time and in such manner as the Secretary may provide, furnishes to each partner of the partnership for the reviewed year and to the Secretary a statement of the partner’s share of any adjustment to a partnership-related item (as determined in the notice of final partnership adjustment),
+- **(a)** Within 90 days after the day on which a notice of a final partnership administrative adjustment is mailed to the tax matters partner, the tax matters partner may file a petition for a readjustment of the partnership items for such taxable year with—
+  - **(1)** the Tax Court,
+  - **(2)** the district court of the United States for the district in which the partnership’s principal place of business is located, or
+  - **(3)** the Court of Federal Claims.
 - **(b)**
-  - **(1)** Except as provided in paragraph (4), each partner’s tax imposed by chapter 1 for the taxable year which includes the date the statement was furnished under subsection (a) shall be adjusted by the aggregate of the correction amounts determined under paragraph (2) for the taxable years referred to therein.
-  - **(2)** The correction amounts determined under this paragraph are—
-    - **(A)** in the case of the taxable year of the partner which includes the end of the reviewed year, the amount by which the tax imposed under chapter 1 would increase or decrease if the partner’s share of the adjustments described in subsection (a) were taken into account for such taxable year, and
-    - **(B)** in the case of any taxable year after the taxable year referred to in subparagraph (A) and before the taxable year referred to in paragraph (1), the amount by which the tax imposed under chapter 1 would increase or decrease by reason of the adjustment to tax attributes under paragraph (3).
-  - **(3)** Any tax attribute which would have been affected if the adjustments described in subsection (a) were taken into account for the taxable year referred to in paragraph (2)(A) shall—
-    - **(A)** in the case of any taxable year referred to in paragraph (2)(B), be appropriately adjusted for purposes of applying such paragraph, and
-    - **(B)** in the case of any subsequent taxable year, be appropriately adjusted.
-  - **(4)**
-    - **(A)** If a partner which receives a statement under subsection (a)(2) is a partnership or an S corporation, such partner shall, with respect to the partner’s share of the adjustment—
-      - **(i)** file with the Secretary a partnership adjustment tracking report which includes such information as the Secretary may require, and
-      - **(ii)**
-        - **(I)** furnish statements under rules similar to the rules of subsection (a)(2), or
-        - **(II)** if no such statements are furnished, compute and pay an imputed underpayment under rules similar to the rules of section 6225 (other than paragraphs (2), (7), and (9) of subsection (c) thereof).
-    - **(B)** For purposes of subparagraph (A), with respect to a partner’s share of the adjustment, the partnership adjustment tracking report shall be filed, and the imputed underpayment shall be paid or statements shall be furnished, not later than the due date for the return for the adjustment year of the audited partnership.
-    - **(C)** In the case of a partnership which has elected the application of section 6221(b) with respect to the taxable year of the partnership which includes the end of the reviewed year of the audited partnership, this paragraph shall apply notwithstanding such election.
-    - **(D)** For purposes of this paragraph, the term “audited partnership” means, with respect to any partner described in subparagraph (A), the partnership in the chain of ownership originally electing the application of this section.
-    - **(E)** The Secretary shall prescribe such rules as may be necessary with respect to trusts which receive a statement under subsection (a)(2).
-- **(c)**
-  - **(1)** Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided under section 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
-  - **(2)** In the case of an imputed underpayment with respect to which the application of this section is elected, or which is described in subsection (b)(4)(A)(ii)(I), interest shall be determined—
-    - **(A)** at the partner level,
-    - **(B)** from the due date of the return for the taxable year to which the increase is attributable (determined by taking into account any increases attributable to a change in tax attributes for a taxable year under subsection (b)(2)), and
-    - **(C)** at the underpayment rate under section 6621(a)(2), determined by substituting “5 percentage points” for “3 percentage points” in subparagraph (B) thereof.
-- **(d)** For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
+  - **(1)** If the tax matters partner does not file a readjustment petition under subsection (a) with respect to any final partnership administrative adjustment, any notice partner (and any 5-percent group) may, within 60 days after the close of the 90-day period set forth in subsection (a), file a petition for a readjustment of the partnership items for the taxable year involved with any of the courts described in subsection (a).
+  - **(2)** If more than 1 action is brought under paragraph (1) with respect to any partnership for any partnership taxable year, the first such action brought in the Tax Court shall go forward.
+  - **(3)** If more than 1 action is brought under paragraph (1) with respect to any partnership for any taxable year but no such action is brought in the Tax Court, the first such action brought shall go forward.
+  - **(4)** If an action is brought under paragraph (1) in addition to the action which goes forward under paragraph (2) or (3), such action shall be dismissed.
+  - **(5)** If—
+    - **(A)** a petition for a readjustment of partnership items for the taxable year involved is filed by a notice partner (or a 5-percent group) during the 90-day period described in subsection (a), and
+    - **(B)** no action is brought under paragraph (1) during the 60-day period described therein with respect to such taxable year which is not dismissed,
+  - **(6)** The tax matters partner may intervene in any action brought under this subsection.
+- **(c)** If an action is brought under subsection (a) or (b) with respect to a partnership for any partnership taxable year—
+  - **(1)** each person who was a partner in such partnership at any time during such year shall be treated as a party to such action, and
+  - **(2)** the court having jurisdiction of such action shall allow each such person to participate in the action.
+- **(d)**
+  - **(1)** Subsection (c) shall not apply to a partner after the day on which—
+    - **(A)** the partnership items of such partner for the partnership taxable year became nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, or
+    - **(B)** the period within which any tax attributable to such partnership items may be assessed against that partner expired.
+  - **(2)** No partner may file a readjustment petition under subsection (b) unless such partner would (after the application of paragraph (1) of this subsection) be treated as a party to the proceeding.
+- **(e)**
+  - **(1)** A readjustment petition under this section may be filed in a district court of the United States or the Court of Federal Claims only if the partner filing the petition deposits with the Secretary, on or before the day the petition is filed, the amount by which the tax liability of the partner would be increased if the treatment of partnership items on the partner’s return were made consistent with the treatment of partnership items on the partnership return, as adjusted by the final partnership administrative adjustment. In the case of a petition filed by a 5-percent group, the requirement of the preceding sentence shall apply to each member of the group. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirements and any shortfall in the amount required to be deposited is timely corrected.
+  - **(2)** If an action brought in a district court of the United States or in the Court of Federal Claims is dismissed by reason of the priority of a Tax Court action under paragraph (2) of subsection (b), the Secretary shall, at the request of the partner who made the deposit, refund the amount deposited under paragraph (1).
+  - **(3)** Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
+- **(f)** A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of final partnership administrative adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item.
+- **(g)** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
+- **(h)** If an action brought under this section is dismissed (other than under paragraph (4) of subsection (b)), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership administrative adjustment is correct, and an appropriate order shall be entered in the records of the court.

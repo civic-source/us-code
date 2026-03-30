@@ -3,12 +3,13 @@ title: "Section 1802 - Compensation"
 usc_title: 2
 usc_section: "1802"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1802"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-03-30T03:04:04.437Z"
+status: "active"
 ---
 
 # § 1802. Compensation
 
-The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the annual rate of basic pay for level II of the Executive Schedule under section 5313 of title 5 .
+The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.
 

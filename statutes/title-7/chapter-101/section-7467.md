@@ -3,9 +3,10 @@ title: "Section 7467 - Petition and review"
 usc_title: 7
 usc_section: "7467"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7467"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-03-30T03:04:21.019Z"
+status: "active"
 ---
 
 # § 7467. Petition and review
@@ -18,9 +19,9 @@ generated_at: "2026-03-30T02:53:42.454Z"
   - **(3)** After the hearing, the Secretary shall issue a ruling on the petition which shall be final if the petition is in accordance with law.
   - **(4)** Any petition filed under this subchapter challenging an order, or any obligation imposed in connection with an order, shall be filed not later than 2 years after the effective date of the order or imposition of the obligation.
 - **(b)**
-  - **(1)** The district court of the United States for any district in which the person who is a petitioner under subsection (a) resides or carries on business is vested with jurisdiction to review the ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a).
+  - **(1)** The district court of the United States for any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business is vested with jurisdiction to review the ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a) of this section.
   - **(2)** Service of process in the proceedings shall be conducted in accordance with the Federal Rules of Civil Procedure.
   - **(3)** If the court determines that the ruling is not in accordance with law, the court shall remand the matter to the Secretary with directions—
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
-  - **(4)** The pendency of a proceeding instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title .
+  - **(4)** The pendency of a proceeding instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title .

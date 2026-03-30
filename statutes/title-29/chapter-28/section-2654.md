@@ -3,12 +3,13 @@ title: "Section 2654 - Regulations"
 usc_title: 29
 usc_section: "2654"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 2654"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-03-30T03:05:09.738Z"
+status: "active"
 ---
 
 # § 2654. Regulations
 
-The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I and this subchapter not later than 120 days after February 5, 1993 .
+The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I of this chapter and this subchapter not later than 120 days after February 5, 1993 .
 

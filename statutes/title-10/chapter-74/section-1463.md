@@ -3,17 +3,18 @@ title: "Section 1463 - Payments from the Fund"
 usc_title: 10
 usc_section: "1463"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1463"
-generated_at: "2026-03-30T02:53:38.124Z"
+generated_at: "2026-03-30T03:04:17.257Z"
+status: "active"
 ---
 
 # § 1463. Payments from the Fund
 
 - **(a)** There shall be paid from the Fund—
-  - **(1)** retired pay payable to members on the retired lists of the Army, Navy, Air Force, Marine Corps, and Coast Guard, and Space Force 1 1 See 2021 Amendment notes below. and payments under section 1413a, 1414, or 1415 of this title paid to such members;
-  - **(2)** retired pay payable under chapter 1223 of this title to former members of the armed forces;
+  - **(1)** retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps and payments under section 1413a or 1414 of this title paid to such members;
+  - **(2)** retired pay payable under chapter 1223 of this title to former members of the armed forces (other than retired pay payable by the Secretary of Homeland Security);
   - **(3)** retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
-  - **(4)** benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425 , and section 5 of Public Law 96–402 ; and
+  - **(4)** benefits payable under programs under the jurisdiction of the Department of Defense that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425 , and section 5 of Public Law 96–402 ; and
   - **(5)** amounts payable under section 1408(h) of this title .
 - **(b)** The assets of the Fund are hereby made available for payments under subsection (a).

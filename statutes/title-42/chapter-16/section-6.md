@@ -1,14 +1,21 @@
 ---
-title: "Section 6 - Presidential awards for excellence in STEM mentoring"
+title: "Section 6 - Research experiences for undergraduates"
 usc_title: 42
 usc_section: "6"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-03-30T03:06:22.634Z"
+status: "active"
 ---
 
-# § 1862s–6. Presidential awards for excellence in STEM mentoring
+# § 1862p–6. Research experiences for undergraduates
 
-- **(a)** The Director of the Foundation shall continue to administer awards on behalf of the Office of Science and Technology Policy to recognize outstanding mentoring in STEM fields.
-- **(b)** The Director of the Foundation shall provide Congress with a list of award recipients, including the name, institution, and a brief synopsis of the impact of the mentoring efforts.
+- **(a)** The Director shall award grants, on a merit-reviewed, competitive basis, to institutions of higher education, nonprofit organizations, or consortia of such institutions and organizations, for sites designated by the Director to provide research experiences for 6 or more undergraduate STEM students for sites designated at primarily undergraduate institutions of higher education and 10 or more undergraduate STEM students for all other sites, with consideration given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title. The Director shall ensure that—
+  - **(1)** at least half of the students participating in a program funded by a grant under this subsection at each site shall be recruited from institutions of higher education where research opportunities in STEM are limited, including 2-year institutions;
+  - **(2)** the awards provide undergraduate research experiences in a wide range of STEM disciplines;
+  - **(3)** the awards support a variety of projects, including independent investigator-led projects, interdisciplinary projects, and multi-institutional projects (including virtual projects);
+  - **(4)** students participating in each program funded have mentors, including during the academic year to the extent practicable, to help connect the students’ research experiences to the overall academic course of study and to help students achieve success in courses of study leading to a baccalaureate degree in a STEM field;
+  - **(5)** mentors and students are supported with appropriate salary or stipends; and
+  - **(6)** student participants are tracked, for employment and continued matriculation in STEM fields, through receipt of the undergraduate degree and for at least 3 years thereafter.
+- **(b)** The Director shall require that every recipient of a research grant from the Foundation proposing to include 1 or more students enrolled in certificate, associate, or baccalaureate degree programs in carrying out the research under the grant shall request support, including stipend support, for such undergraduate students as part of the research proposal itself rather than as a supplement to the research proposal, unless such undergraduate participation was not foreseeable at the time of the original proposal.

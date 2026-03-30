@@ -1,15 +1,23 @@
 ---
-title: "Section 1087mm - Special rules for student aid index"
+title: "Section 1087mm - Family contribution"
 usc_title: 20
 usc_section: "1087mm"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1087mm"
-generated_at: "2026-03-30T02:54:48.128Z"
+generated_at: "2026-03-30T03:04:46.270Z"
+status: "active"
 ---
 
-# § 1087mm. Special rules for student aid index
+# § 1087mm. Family contribution
 
-- **(a)** For the purpose of this chapter, the term “student aid index” means, with respect to a student, an index that reflects an evaluation of a student’s approximate financial resources to contribute toward the student’s postsecondary education for the academic year, as determined in accordance with this part.
-- **(b)** The Secretary shall consider an applicant to automatically have a student aid index equal to zero if the applicant is eligible for the total maximum Federal Pell Grant under section 1070a(b)(1)(A) of this title , except that, if the applicant has a calculated student aid index of less than zero the Secretary shall consider the negative number as the student aid index for the applicant.
-- **(c)** Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant’s parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.
+- **(a)** For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b), the term “family contribution” with respect to any student means the amount which the student and the student’s family may be reasonably expected to contribute toward the student’s postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
+- **(b)**
+  - **(1)** Notwithstanding any other provision of this subchapter and part C of subchapter I of chapter 34 of title 42, the family contribution of each student described in paragraph (2) shall be deemed to be zero for the academic year for which the determination is made.
+  - **(2)** Paragraph (1) shall apply to any dependent or independent student with respect to determinations of need for academic year 2009–2010 and succeeding academic years—
+    - **(A)** who is eligible to receive a Federal Pell Grant for the academic year for which the determination is made;
+    - **(B)** whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001 ; and
+    - **(C)** who, at the time of the parent or guardian’s death, was—
+      - **(i)** less than 24 years of age; or
+      - **(ii)** enrolled at an institution of higher education on a part-time or full-time basis.
+  - **(3)** Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of paragraph (2).

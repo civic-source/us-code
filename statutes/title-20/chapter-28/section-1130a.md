@@ -3,9 +3,10 @@ title: "Section 1130a - Education and training programs"
 usc_title: 20
 usc_section: "1130a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1130a"
-generated_at: "2026-03-30T02:54:48.144Z"
+generated_at: "2026-03-30T03:04:46.284Z"
+status: "active"
 ---
 
 # § 1130a. Education and training programs
@@ -24,5 +25,5 @@ generated_at: "2026-03-30T02:54:48.144Z"
   - **(10)** the establishment of internships overseas to enable foreign language students to develop their foreign language skills and knowledge of foreign cultures and societies;
   - **(11)** the establishment of linkages overseas with institutions of higher education and organizations that contribute to the educational objectives of this section; and
   - **(12)** summer institutes in international business, foreign area and other international studies designed to carry out the purposes of this section.
-- **(c)** No grant may be made and no contract may be entered into under this section unless an institution of higher education submits an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Each such application shall be accompanied by a copy of the agreement entered into by the institution of higher education with a business enterprise, trade organization or association engaged in international economic activity, or a combination or consortium of such enterprises, organizations or associations, for the purpose of establishing, developing, improving or expanding activities eligible for assistance under subsection (b) of this section. Each such application shall contain assurances that the institution of higher education will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (b). Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs.
+- **(c)** No grant may be made and no contract may be entered into under this section unless an institution of higher education submits an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Each such application shall be accompanied by a copy of the agreement entered into by the institution of higher education with a business enterprise, trade organization or association engaged in international economic activity, or a combination or consortium of such enterprises, organizations or associations, for the purpose of establishing, developing, improving or expanding activities eligible for assistance under subsection (b) of this section. Each such application shall contain assurances that the institution of higher education will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (b) of this section. Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs.
 - **(d)** The Federal share under this part for each fiscal year shall not exceed 50 percent of the cost of such program.

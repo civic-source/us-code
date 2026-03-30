@@ -3,9 +3,10 @@ title: "Section 3151 - Use of funds in projects constructed under projected cost
 usc_title: 42
 usc_section: "3151"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3151"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-03-30T03:06:22.685Z"
+status: "active"
 ---
 
 # § 3151. Use of funds in projects constructed under projected cost
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
 - **(a)** In the case of a grant to a recipient for a construction project under section 3141 or 3149 of this title, if the Secretary determines, before closeout of the project, that the cost of the project, based on the designs and specifications that were the basis of the grant, has decreased because of decreases in costs, the Secretary may approve, without further appropriation, the use of the excess funds (or a portion of the excess funds) by the recipient—
   - **(1)** to increase the Federal share of the cost of a project under this title to the maximum percentage allowable under section 3144 of this title ; or
   - **(2)** to improve the project.
-- **(b)** Any amount of excess funds remaining after application of subsection (a) may be used by the Secretary for providing assistance under this chapter.
-- **(c)** In the case of excess funds described in subsection (a) in projects using funds transferred from other Federal agencies pursuant to section 3214 of this title , the Secretary shall—
-  - **(1)** use the funds in accordance with subsection (a), with the approval of the originating agency; or
+- **(b)** Any amount of excess funds remaining after application of subsection (a) of this section may be used by the Secretary for providing assistance under this chapter.
+- **(c)** In the case of excess funds described in subsection (a) of this section in projects using funds transferred from other Federal agencies pursuant to section 3214 of this title , the Secretary shall—
+  - **(1)** use the funds in accordance with subsection (a) of this section, with the approval of the originating agency; or
   - **(2)** return the funds to the originating agency.

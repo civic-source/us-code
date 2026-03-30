@@ -3,9 +3,10 @@ title: "Section 402a - Supplemental subsistence allowance for low-income members
 usc_title: 37
 usc_section: "402a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "37 U.S.C. § 402a"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-03-30T03:05:39.922Z"
+status: "active"
 ---
 
 # § 402a. Supplemental subsistence allowance for low-income members with dependents
@@ -17,13 +18,12 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(A)** The value of that allotment.
     - **(B)** $1,100.
 - **(b)**
-  - **(1)** Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member’s income, together with the income of the rest of the member’s household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2014(c) ) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
+  - **(1)** Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member’s income, together with the income of the rest of the member’s household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2014(c) ) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
   - **(2)** In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
   - **(3)** In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall not take into consideration—
     - **(A)** the amount of the supplemental subsistence allowance that is payable under this section;
-    - **(B)** the amount of any special pay that is payable to the member under section 310 or 351 of this title, relating to duty subject to hostile fire or imminent danger; or
+    - **(B)** the amount of any special pay that is payable to the member under section 310 of this title , relating to duty subject to hostile fire or imminent danger; or
     - **(C)** the amount of any family separation allowance that is payable to the member under section 427 of this title .
-  - **(4)** After September 30, 2016 , a member is eligible for a supplemental subsistence allowance under this section only if the member is serving outside the United States, the Commonwealth of Puerto Rico, the United States Virgin Islands, or Guam.
 - **(c)** To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member’s satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 - **(d)** The entitlement of a member to receive the supplemental subsistence allowance terminates upon the occurrence of any of the following events, even though the member continues to meet the eligibility criteria described in subsection (b):
   - **(1)** Payment of the supplemental subsistence allowance for 12 consecutive months.
@@ -36,7 +36,7 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(A)** Assistance provided under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.).
     - **(B)** Assistance provided under the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
     - **(C)** A service provided under the Head Start Act ( 42 U.S.C. 9831 et seq.).
-    - **(D)** Assistance under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858 1 1 See References in Text note below. et seq.).
+    - **(D)** Assistance under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858 et seq.).
   - **(3)** A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 ( 42 U.S.C. 8621 et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 - **(g)** In this section:
   - **(1)** The term “Secretary concerned” means—

@@ -1,12 +1,15 @@
 ---
-title: "Section 439c - Transferred"
+title: "Section 439c - Authorization of appropriations"
 usc_title: 2
 usc_section: "439c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 439c"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-03-30T03:04:04.417Z"
+status: "active"
 ---
 
-# § 439c. Transferred
+# § 439c. Authorization of appropriations
+
+There are authorized to be appropriated to the Commission for the purpose of carrying out its functions under this Act, and under chapters 95 and 96 of title 26, not to exceed $5,000,000 for the fiscal year ending June 30, 1975 . There are authorized to be appropriated to the Commission $6,000,000 for the fiscal year ending June 30, 1976 , $1,500,000 for the period beginning July 1, 1976 , and ending September 30, 1976 , $6,000,000 for the fiscal year ending September 30, 1977 , $7,811,500 for the fiscal year ending September 30, 1978 , and $9,400,000 (of which not more than $400,000 are authorized to be appropriated for the national clearinghouse function described in section 438(a)(10) 1 1 See References in Text note below. of this title) for the fiscal year ending September 30, 1981 .
 

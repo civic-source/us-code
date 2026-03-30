@@ -1,12 +1,43 @@
 ---
-title: "Section 8754 - Repealed. Pub. L. 113–79, title I, § 1102(a) , Feb. 7, 2014 , 128 Stat. 658"
+title: "Section 8754 - Availability of counter-cyclical payments for peanuts"
 usc_title: 7
 usc_section: "8754"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8754"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-03-30T03:04:21.037Z"
+status: "active"
 ---
 
-# § 8754. Repealed. Pub. L. 113–79, title I, § 1102(a) , Feb. 7, 2014 , 128 Stat. 658
+# § 8754. Availability of counter-cyclical payments for peanuts
 
+- **(a)** Except as provided in section 8715 of this title , for each of the 2008 through 2012 crop years for peanuts, the Secretary shall make counter-cyclical payments to producers on farms for which payment yields and base acres for peanuts are established if the Secretary determines that the effective price for peanuts is less than the target price for peanuts.
+- **(b)** For purposes of subsection (a), the effective price for peanuts is equal to the sum of the following:
+  - **(1)** The higher of the following:
+    - **(A)** The national average market price for peanuts received by producers during the 12-month marketing year for peanuts, as determined by the Secretary.
+    - **(B)** The national average loan rate for a marketing assistance loan for peanuts in effect for the applicable period under this subchapter.
+  - **(2)** The payment rate in effect for peanuts under section 8753 of this title for the purpose of making direct payments.
+- **(c)** For purposes of subsection (a), the target price for peanuts shall be equal to $495 per ton.
+- **(d)** The payment rate used to make counter-cyclical payments for a crop year shall be equal to the difference between—
+  - **(1)** the target price for peanuts; and
+  - **(2)** the effective price determined under subsection (b) for peanuts.
+- **(e)** If counter-cyclical payments are required to be paid for any of the 2008 through 2012 crops of peanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+  - **(1)** The payment rate specified in subsection (d).
+  - **(2)** The payment acres on the farm.
+  - **(3)** The payment yield for the farm.
+- **(f)**
+  - **(1)** Except as provided in paragraph (2), if the Secretary determines under subsection (a) that counter-cyclical payments are required to be made under this section for a crop of peanuts, beginning October 1, or as soon as practicable after the end of the marketing year, the Secretary shall make the counter-cyclical payments for the crop.
+  - **(2)**
+    - **(A)** If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under this section for a crop year, the Secretary shall give producers on a farm the option to receive partial payments of the counter-cyclical payment projected to be made for the crop.
+    - **(B)**
+      - **(i)** The Secretary shall allow producers on a farm to make an election to receive partial payments under subparagraph (A) at any time but not later than 60 days prior to the end of the marketing year for the crop.
+      - **(ii)** The Secretary shall issue the partial payment after the date of an announcement by the Secretary but not later than 30 days prior to the end of the marketing year.
+  - **(3)** When the Secretary makes partial payments for any of the 2008 through 2010 crop years—
+    - **(A)** the first partial payment shall be made after completion of the first 180 days of the marketing year for that crop; and
+    - **(B)** the final partial payment shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for that crop.
+  - **(4)**
+    - **(A)** For each of the 2008 through 2010 crop years, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+    - **(B)** The final payment for a crop year shall be equal to the difference between—
+      - **(i)** the actual counter-cyclical payment to be made to the producers for that crop year; and
+      - **(ii)** the amount of the partial payment made to the producers under subparagraph (A).
+  - **(5)** The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for that crop year.

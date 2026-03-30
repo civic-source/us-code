@@ -3,9 +3,10 @@ title: "Section 12643 - Rights of access, examination, and copying"
 usc_title: 42
 usc_section: "12643"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12643"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-03-30T03:06:22.909Z"
+status: "active"
 ---
 
 # § 12643. Rights of access, examination, and copying
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:56:11.423Z"
   - **(1)** within the possession or control of the Corporation or any State or local government, territory, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under the national service laws; and
   - **(2)** that relates to—
     - **(A)** such assistance; and
-    - **(B)** the duties of the Inspector General under chapter 4 of title 5.
+    - **(B)** the duties of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.).

@@ -3,9 +3,10 @@ title: "Section 9841 - Appeals, notice, hearing, and mediation; alternative agen
 usc_title: 42
 usc_section: "9841"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9841"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-03-30T03:06:22.861Z"
+status: "active"
 ---
 
 # § 9841. Appeals, notice, hearing, and mediation; alternative agency for Indian tribe
@@ -26,8 +27,8 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(A)** except as provided in subparagraph (B), for not more than 30 days; or
     - **(B)** in the case of a recipient under this subchapter that has multiple and recurring deficiencies for 180 days or more and has not made substantial and significant progress toward meeting the goals of the grantee’s quality improvement plan or eliminating all deficiencies identified by the Secretary, during the hearing of an appeal described in paragraph (3), for any amount of time; and
   - **(6)** procedures to assure that in cases where a Head Start agency prevails in a decision under paragraph (4), the Secretary may determine and provide a reimbursement to the Head Start agency for fees deemed reasonable and customary.
-- **(b)** In prescribing procedures for the mediation described in subsection (a)(4), the Secretary shall specify—
-  - **(1)** the date by which a Head Start agency engaged in a conflict described in subsection (a)(4) will notify the appropriate regional office of the Department of the conflict; and
+- **(b)** In prescribing procedures for the mediation described in subsection (a)(4) of this section, the Secretary shall specify—
+  - **(1)** the date by which a Head Start agency engaged in a conflict described in subsection (a)(4) of this section will notify the appropriate regional office of the Department of the conflict; and
   - **(2)** a reasonable period for the mediation.
 - **(c)** The Secretary shall also specify—
   - **(1)** a timeline for an administrative hearing, if necessary, on an adverse action; and

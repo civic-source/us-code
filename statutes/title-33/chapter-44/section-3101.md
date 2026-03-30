@@ -3,15 +3,16 @@ title: "Section 3101 - Interagency oceans and human health research program"
 usc_title: 33
 usc_section: "3101"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 3101"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-03-30T03:05:36.304Z"
+status: "active"
 ---
 
 # § 3101. Interagency oceans and human health research program
 
 - **(a)** The President, through the National Science and Technology Council, shall coordinate and support a national research program to improve understanding of the role of the oceans in human health.
-- **(b)** Within 1 year after December 8, 2004 , the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 1 1 See References in Text note below. of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
+- **(b)** Within 1 year after December 8, 2004 , the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ( 16 U.S.C. 1451 note). In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
   - **(1)** establish, for the 10-year period beginning in the year it is submitted, the goals and priorities for Federal research which most effectively advance scientific understanding of the connections between the oceans and human health, provide usable information for the prediction of marine-related public health problems and use the biological potential of the oceans for development of new treatments of human diseases and a greater understanding of human biology;
   - **(2)** describe specific activities required to achieve such goals and priorities, including the funding of competitive research grants, ocean and coastal observations, training and support for scientists, and participation in international research efforts;
   - **(3)** identify and address, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to the program;
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
     - **(E)** marine environmental microbiology;
     - **(F)** bioaccumulative and endocrine-disrupting chemical contaminants; and
     - **(G)** predictive models based on indicators of marine environmental health or public health threats.
-  - **(2)** Coordination with the National Ocean Research Leadership Council ( 10 U.S.C. 8932(a) ) 1 to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+  - **(2)** Coordination with the National Ocean Research Leadership Council ( 10 U.S.C. 7902(a) ) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
   - **(3)** Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
     - **(A)** genomics and proteomics to develop genetic and immunological detection approaches and predictive tools and to discover new biomedical resources;
     - **(B)** biomaterials and bioengineering;

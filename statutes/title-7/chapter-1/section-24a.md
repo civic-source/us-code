@@ -3,9 +3,10 @@ title: "Section 24a - Swap data repositories"
 usc_title: 7
 usc_section: "24a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 24a"
-generated_at: "2026-03-30T02:53:42.248Z"
+generated_at: "2026-03-30T03:04:20.873Z"
+status: "active"
 ---
 
 # § 24a. Swap data repositories
@@ -35,18 +36,19 @@ generated_at: "2026-03-30T02:53:42.248Z"
     - **(B)** provide the information described in paragraph (1) in such form and at such frequency as the Commission may require to comply with the public reporting requirements contained in section 2(a)(13) of this title ;
   - **(5)** at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing swap data, including compliance and frequency of end user clearing exemption claims by individual and affiliated entities;
   - **(6)** maintain the privacy of any and all swap transaction information that the swap data repository receives from a swap dealer, counterparty, or any other registered entity; and
-  - **(7)** on a confidential basis pursuant to section 12 of this title , upon request, and after notifying the Commission of the request, make available swap data obtained by the swap data repository, including individual counterparty trade and position data, to—
+  - **(7)** on a confidential basis pursuant to section 12 of this title , upon request, and after notifying the Commission of the request, make available all data obtained by the swap data repository, including individual counterparty trade and position data, to—
     - **(A)** each appropriate prudential regulator;
     - **(B)** the Financial Stability Oversight Council;
     - **(C)** the Securities and Exchange Commission;
     - **(D)** the Department of Justice; and
     - **(E)** any other person that the Commission determines to be appropriate, including—
       - **(i)** foreign financial supervisors (including foreign futures authorities);
-      - **(ii)** foreign central banks;
+      - **(ii)** foreign central banks; and
       - **(iii)** foreign ministries; and
-      - **(iv)** other foreign authorities; and
   - **(8)** establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allows for the timely recovery and resumption of operations and the fulfillment of the responsibilities and obligations of the organization.
-- **(d)** Before the swap data repository may share information with any entity described in subsection (c)(7), the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided.
+- **(d)** Before the swap data repository may share information with any entity described in subsection (c)(7)—
+  - **(1)** the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and
+  - **(2)** each entity shall agree to indemnify the swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title .
 - **(e)**
   - **(1)** Each swap data repository shall designate an individual to serve as a chief compliance officer.
   - **(2)** The chief compliance officer shall—

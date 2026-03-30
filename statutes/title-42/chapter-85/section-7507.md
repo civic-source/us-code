@@ -3,9 +3,10 @@ title: "Section 7507 - New motor vehicle emission standards in nonattainment are
 usc_title: 42
 usc_section: "7507"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7507"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-03-30T03:06:22.804Z"
+status: "active"
 ---
 
 # § 7507. New motor vehicle emission standards in nonattainment areas
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:56:11.305Z"
 Notwithstanding section 7543(a) of this title , any State which has plan provisions approved under this part may adopt and enforce for any model year standards relating to control of emissions from new motor vehicles or new motor vehicle engines and take such other actions as are referred to in section 7543(a) of this title respecting such vehicles if—
 
   - **(1)** such standards are identical to the California standards for which a waiver has been granted for such model year, and
-  - **(2)** California and such State adopt such standards at least two years before commencement of such model year (as determined by regulations of the Administrator).
+  - **(2)** California and such State adopt such standards at least two years before commencement of such model year (as determined by regulations of the Administrator). Nothing in this section or in subchapter II of this chapter shall be construed as authorizing any such State to prohibit or limit, directly or indirectly, the manufacture or sale of a new motor vehicle or motor vehicle engine that is certified in California as meeting California standards, or to take any action of any kind to create, or have the effect of creating, a motor vehicle or motor vehicle engine different than a motor vehicle or engine certified in California under California standards (a “third vehicle”) or otherwise create such a “third vehicle”.

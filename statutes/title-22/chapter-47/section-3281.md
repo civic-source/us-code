@@ -3,9 +3,10 @@ title: "Section 3281 - Annual Presidential report to Congress on governmental ef
 usc_title: 22
 usc_section: "3281"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3281"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-03-30T03:04:53.661Z"
+status: "active"
 ---
 
 # § 3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:05.391Z"
     - **(A)** all transactions for which—
       - **(i)** an export license was issued for any good controlled under section 2139a(c) of title 42 ;
       - **(ii)** an export license was issued under section 2139(b) of title 42 ;
-      - **(iii)** approvals were issued under the Export Administration Act of 1979, or section 2139(b)(3) of title 42 , for the retransfer of any item, technical data, component, or substance; or
+      - **(iii)** approvals were issued under the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], or section 2139(b)(3) of title 42 , for the retransfer of any item, technical data, component, or substance; or
       - **(iv)** authorizations were made as required by section 2077(b)(2) of title 42 to engage, directly or indirectly, in the production of special nuclear material;
     - **(B)** each instance in which—
       - **(i)** a sanction has been imposed under section 6301(a) of this title or section 6303 of this title or section 2799aa–1(b)(1) of this title ;

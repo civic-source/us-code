@@ -1,14 +1,13 @@
 ---
-title: "Section 986 - Policy regarding identification of gender or personal pronouns in official correspondence"
+title: "Section 986 - Repealed. Pub. L. 110–181, div. A, title X, § 1072(b)(1) , Jan. 28, 2008 , 122 Stat. 329 ]"
 usc_title: 10
 usc_section: "986"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 986"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-03-30T03:04:17.239Z"
+status: "repealed"
 ---
 
-# § 986. Policy regarding identification of gender or personal pronouns in official correspondence
-
-The Secretary of Defense may not require or prohibit a member of the armed forces or a civilian employee of the Department of Defense to identify the gender or personal pronouns of such member or employee in any official correspondence of the Department.
+# [§ 986. Repealed. Pub. L. 110–181, div. A, title X, § 1072(b)(1) , Jan. 28, 2008 , 122 Stat. 329 ]
 

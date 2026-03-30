@@ -3,9 +3,10 @@ title: "Section 4907 - Civil liability"
 usc_title: 12
 usc_section: "4907"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4907"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-03-30T03:04:29.332Z"
+status: "active"
 ---
 
 # § 4907. Civil liability
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
       - **(ii)** in which the liable party is not subject to section 4909 of this title , such amount as the court may allow, not to exceed $1,000 as to each member of the class, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the gross revenues of the liable party, as determined by the court;
   - **(3)** costs of the action; and
   - **(4)** reasonable attorney fees, as determined by the court.
-- **(b)** No action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.
+- **(b)** No action may be brought by a mortgagor under subsection (a) of this section later than 2 years after the date of the discovery of the violation that is the subject of the action.
 - **(c)**
   - **(1)** With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due to the failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.
   - **(2)** Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.

@@ -1,12 +1,15 @@
 ---
-title: "Section 3796aa - Transferred"
+title: "Section 3796aa - Function of Director"
 usc_title: 42
 usc_section: "3796aa"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3796aa"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.698Z"
+status: "active"
 ---
 
-# § 3796aa. Transferred
+# § 3796aa. Function of Director
+
+The Director shall provide funds to eligible States and units of local government pursuant to this subchapter.
 

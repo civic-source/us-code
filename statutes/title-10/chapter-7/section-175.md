@@ -3,9 +3,10 @@ title: "Section 175 - Reserve Forces Policy Board"
 usc_title: 10
 usc_section: "175"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 175"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-03-30T03:04:17.216Z"
+status: "active"
 ---
 
 # § 175. Reserve Forces Policy Board

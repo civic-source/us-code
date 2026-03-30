@@ -3,20 +3,21 @@ title: "Section 2321a - Hydroelectric power project uprating"
 usc_title: 33
 usc_section: "2321a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2321a"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-03-30T03:05:36.295Z"
+status: "active"
 ---
 
 # § 2321a. Hydroelectric power project uprating
 
-- **(a)** In carrying out the operation, maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may, to the extent funds are made available in appropriations Acts or in accordance with subsection (c), take such actions as are necessary to optimize the efficiency of energy production or increase the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that such actions—
+- **(a)** In carrying out the operation, maintenance, rehabilitation, and modernization of a hydroelectric power generating facility at a water resources project under the jurisdiction of the Department of the Army, the Secretary may, to the extent funds are made available in appropriations Acts or in accordance with subsection (c) of this section, take such actions as are necessary to optimize the efficiency of energy production or increase the capacity of the facility, or both, if, after consulting with the heads of other appropriate Federal and State agencies, the Secretary determines that such actions—
   - **(1)** are economically justified and financially feasible;
   - **(2)** will not result in any significant adverse effect on the other purposes for which the project is authorized;
   - **(3)** will not result in significant adverse environmental impacts;
   - **(4)** will not involve major structural or operational changes in the project; and
   - **(5)** will not adversely affect the use, management, or protection of existing Federal, State, or tribal water rights.
-- **(b)** Before proceeding with any proposed uprating under subsection (a), the Secretary shall provide affected State, tribal, and Federal agencies with a copy of the proposed determinations under subsection (a). If the agencies submit comments, the Secretary shall accept those comments or respond in writing to any objections those agencies raise to the proposed determinations.
+- **(b)** Before proceeding with any proposed uprating under subsection (a) of this section, the Secretary shall provide affected State, tribal, and Federal agencies with a copy of the proposed determinations under subsection (a) of this section. If the agencies submit comments, the Secretary shall accept those comments or respond in writing to any objections those agencies raise to the proposed determinations.
 - **(c)** In carrying out this section, the Secretary may accept and expend funds provided by preference customers under Federal law relating to the marketing of power.
 - **(d)** This section does not apply to any facility of the Department of the Army that is authorized to be funded under section 839d–1 of title 16 .
 - **(e)** This section shall not affect the authority of the Secretary and the Administrator of the Bonneville Power Administration under section 839d–1 of title 16 .

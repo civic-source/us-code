@@ -3,9 +3,10 @@ title: "Section 7939 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "7939"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7939"
-generated_at: "2026-03-30T02:53:42.467Z"
+generated_at: "2026-03-30T03:04:21.027Z"
+status: "active"
 ---
 
 # § 7939. Availability of recourse loans for high moisture feed grains and seed cotton
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:53:42.467Z"
     - **(D)** comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
   - **(2)** A loan under this subsection shall be made on a quantity of corn or grain sorghum of the same crop acquired by the producer equivalent to a quantity determined by multiplying—
     - **(A)** the acreage of the corn or grain sorghum in a high moisture state harvested on the producer’s farm; by
-    - **(B)** the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
+    - **(B)** the lower of the farm program payment yield used to make counter-cyclical payments under subchapter I of this chapter or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
   - **(3)** In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7931 of this title .
 - **(b)** For each of the 2002 through 2007 crops of upland cotton and extra long staple cotton, the Secretary shall make available recourse seed cotton loans, as determined by the Secretary, on any production.
 - **(c)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (determined in accordance with section 7283 of this title ).

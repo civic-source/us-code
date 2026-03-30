@@ -3,9 +3,10 @@ title: "Section 641 - Imposition of tax"
 usc_title: 26
 usc_section: "641"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 641"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-03-30T03:05:18.614Z"
+status: "active"
 ---
 
 # § 641. Imposition of tax
@@ -29,9 +30,6 @@ generated_at: "2026-03-30T02:55:27.722Z"
       - **(iii)** To the extent provided in regulations, State or local income taxes or administrative expenses to the extent allocable to items described in clauses (i) and (ii).
       - **(iv)** Any interest expense paid or accrued on indebtedness incurred to acquire stock in an S corporation.
     - **(D)** No amount shall be allowed under paragraph (1) or (2) of section 1211(b).
-    - **(E)**
-      - **(i)** Section 642(c) shall not apply.
-      - **(ii)** For purposes of section 170(b)(1)(G), adjusted gross income shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the trust and which would not have been incurred if the property were not held in such trust shall be treated as allowable in arriving at adjusted gross income.
   - **(3)** For purposes of determining—
     - **(A)** the amount of the tax imposed by this chapter on the portion of any electing small business trust not treated as a separate trust under paragraph (1), and
     - **(B)** the distributable net income of the entire trust,

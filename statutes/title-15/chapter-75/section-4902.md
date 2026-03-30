@@ -3,9 +3,10 @@ title: "Section 4902 - Interagency Trade Data Advisory Committee"
 usc_title: 15
 usc_section: "4902"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4902"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-03-30T03:04:31.229Z"
+status: "active"
 ---
 
 # § 4902. Interagency Trade Data Advisory Committee
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(10)** the Chairman of the Federal Reserve Board;
   - **(11)** the Chairman of the International Trade Commission;
   - **(12)** the President of the Export-Import Bank;
-  - **(13)** the Chief Executive Officer of the United States International Development Finance Corporation; and
+  - **(13)** the President of the Overseas Private Investment Corporation; and
   - **(14)** such other members as may be appointed by the President from full-time officers or employees of the Federal Government.
 - **(c)** The Secretary of Commerce shall be Chairman of the Committee.
 - **(d)** Any member of the Committee may appoint a designee to serve in place of such member on the Committee.

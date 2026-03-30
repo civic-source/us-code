@@ -3,9 +3,10 @@ title: "Section 7708 - Millennium Challenge Compact"
 usc_title: 22
 usc_section: "7708"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7708"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-03-30T03:04:53.713Z"
+status: "active"
 ---
 
 # § 7708. Millennium Challenge Compact
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
     - **(I)** a requirement that open, fair, and competitive procedures are used in a transparent manner in the administration of grants or cooperative agreements or the procurement of goods and services for the accomplishment of objectives under the Compact;
     - **(J)** the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
     - **(K)** a description of the role of the United States Agency for International Development in any design, implementation, and monitoring of programs and activities funded under the Compact.
-  - **(2)** In addition to the elements described in subparagraphs (A) through (K) of paragraph (1), the Compact shall identify a contribution, as appropriate, from the country relative to its national budget, taking into account the prevailing economic conditions, toward meeting the objectives of the Compact. Any such contribution should be in addition to government spending allocated for such purposes in the country’s budget for the year immediately preceding the establishment of the Compact and should continue for the duration of the Compact.
+  - **(2)** In addition to the elements described in subparagraphs (A) through (K) of paragraph (1), with respect to a lower middle income country described in section 7705(b) of this title , the Compact shall identify a contribution, as appropriate, from the country relative to its national budget, taking into account the prevailing economic conditions, toward meeting the objectives of the Compact. Any such contribution should be in addition to government spending allocated for such purposes in the country’s budget for the year immediately preceding the establishment of the Compact and should continue for the duration of the Compact.
   - **(3)** In this subsection, the term “national development strategy” means any strategy to achieve market-driven economic growth and eliminate extreme poverty that has been developed by the government of the country in consultation with a wide variety of civic participation, including nongovernmental organizations, private and voluntary organizations, academia, women’s and student organizations, local trade and labor unions, and the business community.
 - **(c)** In addition to the elements described in subsection (c), each Compact shall contain a provision that states that assistance provided by the United States under the Compact shall be exempt from taxation by the government of the eligible country.
 - **(d)** In entering into a Compact, the United States shall seek to ensure that the government of an eligible country—
@@ -38,7 +39,4 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(1)** shall prepare and transmit to the appropriate congressional committees a written report and justification that contains a detailed summary of the proposed increase in or extension of assistance under the Compact and a copy of the full text of the amendment to the Compact; and
   - **(2)** shall publish a detailed summary, full text, and justification of the proposed increase in or extension of assistance under the Compact in the Federal Register and on the Internet website of the Corporation.
 - **(j)** The duration of a Compact shall not exceed 5 years.
-- **(k)** An eligible country that has entered into and has in effect a Compact under this section may enter into and have in effect at the same time not more than one additional Compact in accordance with the requirements of this chapter if—
-  - **(1)** one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and
-  - **(2)** the Board determines that the country is making considerable and demonstrable progress in implementing the terms of the existing Compact and supplementary agreements thereto.
-- **(l)** An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
+- **(k)** An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section. An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.

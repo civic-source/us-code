@@ -3,9 +3,10 @@ title: "Section 455 - Dissemination of crop, market, etc., information by cooper
 usc_title: 7
 usc_section: "455"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 455"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.899Z"
+status: "active"
 ---
 
 # § 455. Dissemination of crop, market, etc., information by cooperative marketing associations

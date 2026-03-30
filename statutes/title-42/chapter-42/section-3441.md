@@ -3,9 +3,10 @@ title: "Section 3441 - Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405
 usc_title: 42
 usc_section: "3441"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3441"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-03-30T03:06:22.688Z"
+status: "repealed"
 ---
 
 # § 3441. Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(b) , Oct. 17, 2000 , 114 Stat. 1221

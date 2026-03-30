@@ -1,17 +1,16 @@
 ---
-title: "Section 2168 - Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language"
+title: "Section 2168 - Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language"
 usc_title: 10
 usc_section: "2168"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2168"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-03-30T03:04:17.271Z"
+status: "active"
 ---
 
-# § 2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language
+# § 2168. Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language
 
-- **(a)** Subject to subsection (b), the Commandant of the Defense Language Institute may confer—
-  - **(1)** an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree; or
-  - **(2)** a Bachelor of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.
+- **(a)** Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.
 - **(b)** A degree may be conferred upon a student under this section only if the Provost of the Center certifies to the Commandant that the student has satisfied all the requirements prescribed for the degree.
 - **(c)** The authority provided by subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.

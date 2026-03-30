@@ -3,19 +3,20 @@ title: "Section 1310 - Authority to require certain information"
 usc_title: 29
 usc_section: "1310"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1310"
-generated_at: "2026-03-30T02:55:18.730Z"
+generated_at: "2026-03-30T03:05:09.727Z"
+status: "active"
 ---
 
 # § 1310. Authority to require certain information
 
-- **(a)** Each person described in subsection (b) shall provide the corporation annually, on or before a date specified by the corporation in regulations, with—
+- **(a)** Each person described in subsection (b) of this section shall provide the corporation annually, on or before a date specified by the corporation in regulations, with—
   - **(1)** such records, documents, or other information that the corporation specifies in regulations as necessary to determine the liabilities and assets of plans covered by this subchapter; and
   - **(2)** copies of such person’s audited (or, if unavailable, unaudited) financial statements, and such other financial information as the corporation may prescribe in regulations.
-- **(b)** The persons covered by subsection (a) are each contributing sponsor, and each member of a contributing sponsor’s controlled group, of a single-employer plan covered by this subchapter, if—
+- **(b)** The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor’s controlled group, of a single-employer plan covered by this subchapter, if—
   - **(1)** the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
-  - **(2)** the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+  - **(2)** the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
   - **(3)** minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
 - **(c)** Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5 , and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 - **(d)**
@@ -27,5 +28,5 @@ generated_at: "2026-03-30T02:55:18.730Z"
     - **(A)** The term “funding target” has the meaning provided under section 1083(d)(1) of this title .
     - **(B)** The term “funding target attainment percentage” has the meaning provided under section 1083(d)(2) of this title .
     - **(C)** The term “at-risk status” has the meaning provided in section 1083(i)(4) of this title .
-  - **(3)** For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1083(h)(2)(C)(iv) 1 1 See References in Text note below. of this title.
+  - **(3)** For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1082(h)(2)(C)(iv) of this title .
 - **(e)** The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.

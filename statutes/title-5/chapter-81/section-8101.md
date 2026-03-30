@@ -3,9 +3,10 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-03-30T03:04:06.093Z"
+status: "active"
 ---
 
 # § 8101. Definitions
@@ -16,12 +17,10 @@ For the purpose of this subchapter—
     - **(A)** a civil officer or employee in any branch of the Government of the United States, including an officer or employee of an instrumentality wholly owned by the United States;
     - **(B)** an individual rendering personal service to the United States similar to the service of a civil officer or employee of the United States, without pay or for nominal pay, when a statute authorizes the acceptance or use of the service, or authorizes payment of travel or other expenses of the individual;
     - **(C)** an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
-    - **(D)** an individual employed by the government of the District of Columbia;
+    - **(D)** an individual employed by the government of the District of Columbia; and
     - **(E)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
-    - **(F)** an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
-    - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
       - **(i)** a commissioned officer of the Regular Corps of the Public Health Service;
-      - **(ii)** a commissioned officer of the Reserve Corps 1 1 See Change of Name note below. of the Public Health Service on active duty;
+      - **(ii)** a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
       - **(iii)** a commissioned officer of the Environmental Science Services Administration; or
       - **(iv)** a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
   - **(2)** “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
@@ -55,3 +54,4 @@ For the purpose of this subchapter—
   - **(18)** “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
   - **(19)** “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
   - **(20)** “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
+    - **(F)** 1 1 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;

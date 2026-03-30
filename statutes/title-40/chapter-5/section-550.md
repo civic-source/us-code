@@ -3,9 +3,10 @@ title: "Section 550 - Disposal of real property for certain purposes"
 usc_title: 40
 usc_section: "550"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 550"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-03-30T03:05:58.214Z"
+status: "active"
 ---
 
 # § 550. Disposal of real property for certain purposes
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:55:43.374Z"
 - **(h)**
   - **(1)**
     - **(A)** Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interest of the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
-    - **(B)** Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 102303 of title 54 . Only the portion of the property that is necessary for the preservation and proper observation of the property’s historic features may be determined to be suitable and desirable for use as a historic monument.
+    - **(B)** Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 ( 16 U.S.C. 463 ) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property’s historic features may be determined to be suitable and desirable for use as a historic monument.
   - **(2)**
     - **(A)** The Administrator may authorize use of any property conveyed under this subsection for revenue-producing activities if the Secretary of the Interior—
       - **(i)** determines that the activities are compatible with use of the property for historic monument purposes;

@@ -3,18 +3,19 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T02:56:10.870Z"
+generated_at: "2026-03-30T03:06:22.443Z"
+status: "active"
 ---
 
 # § 603. Grants to States
 
 - **(a)**
   - **(1)**
-    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 2017 and 2018, a grant in an amount equal to the State family assistance grant.
-    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ), reduced by the percentage specified in section 613(h)(1) of this title with respect to the fiscal year, as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
-    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 $16,566,542,000 for grants under this paragraph.
+    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for fiscal year 2012, a grant in an amount equal to the State family assistance grant.
+    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 $16,566,542,000 for grants under this paragraph.
   - **(2)**
     - **(A)**
       - **(i)** Subject to subparagraphs (B), (C), and (E), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting research and demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
@@ -44,7 +45,7 @@ generated_at: "2026-03-30T02:56:10.870Z"
         - **(II)** Activities to promote responsible parenting through activities such as counseling, mentoring, and mediation, disseminating information about good parenting practices, skills-based parenting education, encouraging child support payments, and other methods.
         - **(III)** Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
         - **(IV)** Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
-    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 for expenditure in accordance with this paragraph—
+    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 for expenditure in accordance with this paragraph—
       - **(i)** $75,000,000 for awarding funds for the purpose of carrying out healthy marriage promotion activities; and
       - **(ii)** $75,000,000 for awarding funds for the purpose of carrying out activities promoting responsible fatherhood.
     - **(E)** In awarding funds under this paragraph for fiscal year 2011, the Secretary shall give preference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
@@ -119,7 +120,7 @@ generated_at: "2026-03-30T02:56:10.870Z"
         - **(II)**
         - **(III)** The Governor of a State to which a grant is made under this subparagraph may distribute not more than 15 percent of the grant funds (plus any amount required to be distributed under this subclause by reason of subclause (II)(bb)) to projects that appear likely to help long-term recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) enter unsubsidized employment.
       - **(vii)**
-        - **(I)** The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3102 ]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+        - **(I)** The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 101 of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 ]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
         - **(II)** Notwithstanding subclause (I) of this clause, on a determination by the Governor of a State that a private industry council (or an alternate agency described in clause (ii)(I)(dd)) has used funds provided under this subparagraph in a manner inconsistent with the assurances described in clause (ii)(I)(dd)—
         - **(III)** The Secretary of Labor shall approve an application submitted under clause (ii)(I)(ee) or subclause (II)(bb) of this clause to waive subclause (I) of this clause with respect to 1 or more service delivery areas if the Secretary determines that the alternate agency designated in the application would improve the effectiveness or efficiency of the administration of amounts distributed under clause (vi)(II)(aa) for the benefit of the area or areas.
       - **(viii)** For purposes of this subparagraph, the number of adult recipients of assistance under a State program funded under this part for a fiscal year shall be determined using data for the most recent 12-month period for which such data is available before the beginning of the fiscal year.
@@ -149,7 +150,7 @@ generated_at: "2026-03-30T02:56:10.870Z"
       - **(iii)** An entity that operates a project with funds provided under this paragraph may use the funds to provide services in a form described in clause (i) to noncustodial parents with respect to whom the requirements of the following subclauses are met:
         - **(I)** The noncustodial parent is unemployed, underemployed, or having difficulty in paying child support obligations.
         - **(II)** At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to those noncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
-        - **(III)** In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999 , the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
+        - **(III)** In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999 , the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D of this subchapter, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
       - **(iv)** An entity that operates a project with funds provided under this paragraph may expend not more than 30 percent of all funds provided to the project for programs that provide assistance in a form described in clause (i)—
         - **(I)** to recipients of assistance under the program funded under this part of the State in which the entity is located who have characteristics associated with long-term welfare dependence (such as school dropout, teen pregnancy, or poor work history), including, at the option of the State, by providing assistance in such form as a condition of receiving assistance under the State program funded under this part;
         - **(II)** to children—
@@ -160,7 +161,7 @@ generated_at: "2026-03-30T02:56:10.870Z"
         - **(I)** The rules of section 604 of this title , other than subsections (b), (f), and (h) of section 604 of this title , shall not apply to a grant made under this paragraph.
         - **(II)** The Secretary of Labor shall carry out the functions otherwise assigned by section 605 of this title to the Secretary of Health and Human Services with respect to the grants payable under this paragraph.
         - **(III)** Section 616 of this title shall not apply to the programs under this paragraph.
-      - **(vii)** An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) or section 618 of this title or any other provision of this chapter or other Federal law.
+      - **(vii)** An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) of this section or section 618 of this title or any other provision of this chapter or other Federal law.
       - **(viii)** An entity to which funds are provided under this paragraph shall remit to the Secretary of Labor any part of the funds that are not expended within 5 years after the date the funds are so provided.
       - **(ix)** Within 90 days after August 5, 1997 , the Secretary of Labor, after consultation with the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall prescribe such regulations as may be necessary to implement this paragraph.
       - **(x)** The Secretary of Labor, in consultation with the Secretary of Health and Human Services, States, and organizations that represent State or local governments, shall establish requirements for the collection and maintenance of financial and participant information and the reporting of such information by entities carrying out activities under this paragraph.
@@ -168,8 +169,8 @@ generated_at: "2026-03-30T02:56:10.870Z"
       - **(i)** For purposes of this paragraph, the number of individuals with an income that is less than the poverty line shall be determined for a fiscal year—
         - **(I)** based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
         - **(II)** using data for the most recent year for which such data is available before the beginning of the fiscal year.
-      - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], as appropriate.
-      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 5 5 So in original.
+      - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area 5 5 So in original. Probably should be “Act”. of 1998 [ 29 U.S.C. 2801 et seq.], as appropriate.
+      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 6 6 So in original.
     - **(E)** 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title .
     - **(F)** 0.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title .
     - **(G)**
@@ -199,7 +200,7 @@ generated_at: "2026-03-30T02:56:10.870Z"
     - **(J)** If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
 - **(b)**
   - **(1)** There is hereby established in the Treasury of the United States a fund which shall be known as the “Contingency Fund for State Welfare Programs” (in this section referred to as the “Fund”).
-  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2018 such sums as are necessary for payment to the Fund in a total amount not to exceed $608,000,000.
+  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.
   - **(3)**
     - **(A)** If an eligible State submits to the Secretary a request for funds under this paragraph during an eligible month, the Secretary shall, subject to this paragraph, pay to the State, from amounts appropriated pursuant to paragraph (2), an amount equal to the amount of funds so requested.
     - **(B)** The Secretary shall make payments under subparagraph (A) in the order in which the Secretary receives requests for such payments.
@@ -245,35 +246,3 @@ generated_at: "2026-03-30T02:56:10.870Z"
         - **(II)** the amount that, in the absence of this subparagraph, would be required by subparagraph (A) or by section 609(a)(10) of this title to be remitted by the State in respect of the payment.
   - **(7)** As used in this subsection, the term “State” means each of the 50 States and the District of Columbia.
   - **(8)** The Secretary shall annually report to the Congress on the status of the Fund.
-- **(c)**
-  - **(1)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury of the United States not otherwise appropriated, $1,000,000,000, to remain available until expended, to carry out this subsection.
-  - **(2)** Of the amount specified in paragraph (1), the Secretary shall reserve $2,000,000 for administrative expenses and the provision of technical assistance to States and Indian tribes with respect to the use of funds provided under this subsection.
-  - **(3)**
-    - **(A)**
-      - **(i)** The Secretary shall allot a total of 92.5 percent of the amount specified in paragraph (1) that is not reserved under paragraph (2) among the States that are not a territory and that are operating a program funded under this part, in accordance with clause (ii) of this subparagraph.
-      - **(ii)** The Secretary shall allot to each such State the sum of the following percentages of the total amount described in clause (i):
-        - **(I)** 50 percent, multiplied by—
-        - **(II)** 50 percent, multiplied by—
-    - **(B)** The Secretary shall allot among the territories and Indian tribes otherwise eligible for a grant under this part such portions of 7.5 percent of the amount specified in paragraph (1) that are not reserved under paragraph (2) as the Secretary deems appropriate based on the needs of the territory or Indian tribe involved.
-    - **(C)** To receive the full amount of funding payable under this subsection, a State or Indian tribe shall inform the Secretary as to whether it intends to use all of its allotment under this paragraph and provide that information—
-      - **(i)** in the case of a State that is not a territory, within 45 days after March 11, 2021 ; or
-      - **(ii)** in the case of a territory or an Indian tribe, within 90 days after such date.
-  - **(4)**
-    - **(A)** The Secretary shall provide funds to each State and Indian tribe to which an amount is allotted under paragraph (3), from the amount so allotted.
-    - **(B)**
-      - **(i)** The Secretary shall reallot in accordance with paragraph (3) all funds provided to any State or Indian tribe under this subsection that are unused, among the other States and Indian tribes eligible for funds under this subsection. For purposes of paragraph (3), the Secretary shall treat the funds as if included in the amount specified in paragraph (1).
-      - **(ii)** The Secretary shall provide funds to each such other State or Indian tribe in an amount equal to the amount so reallotted.
-  - **(5)** In the case of a territory not operating a program funded under this part, the Secretary shall provide the funds required to be provided to the territory under this subsection, to the agency that administers the bulk of local human services programs in the territory.
-  - **(6)**
-    - **(A)** A State or Indian tribe to which funds are provided under this subsection may use the funds only for non-recurrent short term benefits, whether in the form of cash or in other forms.
-    - **(B)** A State to which funds are provided under this subsection shall not expend more than 15 percent of the funds for administrative purposes.
-    - **(C)** Funds provided under this subsection shall be used to supplement and not supplant other Federal, State, or tribal funds for services and activities that promote the purposes of this part.
-    - **(D)**
-      - **(i)** Except as provided in clause (ii), a State or Indian tribe to which funds are provided under this subsection shall expend the funds not later than the end of fiscal year 2022.
-      - **(ii)** A State or Indian tribe to which funds are provided under paragraph (4)(B) shall expend the funds within 12 months after receipt.
-  - **(7)** Section 1308 of this title shall not apply with respect to any funds provided under this subsection.
-  - **(8)** In this subsection:
-    - **(A)** The term “applicable period” means the period that begins with April 1, 2021 , and ends with September 30, 2022 .
-    - **(B)** The term “non-recurrent short term benefits” has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014 .
-    - **(C)** The term “State” means the 50 States of the United States, the District of Columbia, and the territories.
-    - **(D)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.

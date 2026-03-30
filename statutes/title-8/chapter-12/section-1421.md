@@ -3,9 +3,10 @@ title: "Section 1421 - Naturalization authority"
 usc_title: 8
 usc_section: "1421"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1421"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-03-30T03:04:14.640Z"
+status: "active"
 ---
 
 # § 1421. Naturalization authority
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:53:10.500Z"
     - **(A)** The exclusive authority of a court to administer the oath of allegiance under paragraph (1)(B) shall apply with respect to a person—
       - **(i)** only during the 45-day period beginning on the date on which the Attorney General certifies to the court that an applicant is eligible for naturalization, and
       - **(ii)** only if the court has notified the Attorney General, prior to the date of certification of eligibility, of the day or days (during such 45-day period) on which the court has scheduled oath administration ceremonies.
-    - **(B)** Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
+    - **(B)** Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) of this section during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
     - **(C)** Notwithstanding the previous provisions of this paragraph, a court may waive exclusive authority to administer the oath of allegiance under section 1448(a) of this title to a person under this subsection if the Attorney General has not provided the court with the certification described in subparagraph (A)(i) within a reasonable time before the date scheduled by the court for oath administration ceremonies. Upon notification of a court’s waiver of jurisdiction, the Attorney General shall promptly notify the applicant.
   - **(4)** The Attorney General shall provide for the issuance of certificates of naturalization at the time of administration of the oath of allegiance.
   - **(5)** For purposes of this section, the term “eligible court” means—

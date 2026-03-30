@@ -3,9 +3,10 @@ title: "Section 51302 - Nomination and competitive appointment of cadets"
 usc_title: 46
 usc_section: "51302"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 51302"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-03-30T03:06:27.186Z"
+status: "active"
 ---
 
 # § 51302. Nomination and competitive appointment of cadets
@@ -32,4 +33,3 @@ generated_at: "2026-03-30T02:56:15.569Z"
   - **(1)** The Secretary shall establish a competitive system for selecting individuals nominated under subsection (b) to fill the positions allocated under subsection (c). The system must determine the relative merit of each individual based on competitive examinations, an assessment of the individual’s academic background, and other effective indicators of motivation and probability of successful completion of training at the Academy.
   - **(2)** The Secretary shall appoint individuals to fill the positions allocated under subsection (c) for each jurisdiction in the order of merit of the individuals nominated from that jurisdiction.
   - **(3)** If positions remain unfilled after the appointments are made under paragraph (2), the Secretary shall appoint individuals to fill the positions in the order of merit of the remaining individuals nominated from all jurisdictions.
-- **(e)** When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.

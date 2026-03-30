@@ -3,9 +3,10 @@ title: "Section 552d - Punishment of violations of regulations"
 usc_title: 16
 usc_section: "552d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 552d"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-03-30T03:04:48.500Z"
+status: "active"
 ---
 
 # § 552d. Punishment of violations of regulations

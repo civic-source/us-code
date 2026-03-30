@@ -3,9 +3,10 @@ title: "Section 1463 - Supervision of savings associations"
 usc_title: 12
 usc_section: "1463"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1463"
-generated_at: "2026-03-30T02:53:53.395Z"
+generated_at: "2026-03-30T03:04:29.215Z"
+status: "active"
 ---
 
 # § 1463. Supervision of savings associations
@@ -35,14 +36,13 @@ generated_at: "2026-03-30T02:53:53.395Z"
     - **(B)** direct access by the public from any of its own offices to any premises used by any person for any purpose forbidden to the institution under paragraph (1).
   - **(3)** For purposes of this subsection—
     - **(A)** The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
-    - **(B)** The term “lottery” includes any arrangement, other than a savings promotion raffle, under which—
+    - **(B)** The term “lottery” includes any arrangement under which—
       - **(i)** 3 or more persons (hereafter in this subparagraph referred to as the “participants”) advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the “winners”) will receive by reason of those participants’ advances more than the amounts those participants have advanced; and
       - **(ii)** the identity of the winners is determined by any means which includes—
         - **(I)** a random selection;
         - **(II)** a game, race, or contest; or
         - **(III)** any record or tabulation of the result of 1 or more events in which any participant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
     - **(C)** The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
-    - **(D)** The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 5481 of this title ).
   - **(4)** Paragraphs (1) and (2) shall not apply with respect to any savings association accepting funds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
   - **(5)** The Comptroller shall prescribe such regulations as may be necessary to provide for enforcement of this subsection and to prevent any evasion of any provision of this subsection.
 - **(f)** A savings association may not make a federally related mortgage loan to an agent, trustee, nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.

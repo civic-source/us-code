@@ -3,9 +3,10 @@ title: "Section 8412 - Immediate retirement"
 usc_title: 5
 usc_section: "8412"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8412"
-generated_at: "2026-03-30T02:52:56.054Z"
+generated_at: "2026-03-30T03:04:06.103Z"
+status: "active"
 ---
 
 # § 8412. Immediate retirement
@@ -13,25 +14,9 @@ generated_at: "2026-03-30T02:52:56.054Z"
 - **(a)** An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 - **(b)** An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
 - **(c)** An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
-- **(d)**
-  - **(1)** An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
-    - **(A)** after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 25 years, or
-    - **(B)** after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years,
-  - **(2)**
-    - **(A)** In this paragraph—
-      - **(i)** the term “affected individual” means an individual covered under this chapter who—
-        - **(I)** is performing service in a covered position;
-        - **(II)** while on duty, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under paragraph (1) of this subsection or subsection (e), as applicable;
-        - **(III)** because of the illness or injury described in subclause (II), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the agency in which the individual was serving when such individual incurred the illness or injury; and
-        - **(IV)** is appointed to a position in the civil service that—
-      - **(ii)** the term “covered position” means a position as a law enforcement officer, customs and border protection officer, firefighter, air traffic controller, nuclear materials courier, member of the Capitol Police, or member of the Supreme Court Police.
-    - **(B)** Unless an affected individual files an election described in subparagraph (E), creditable service by the affected individual in a position described in subparagraph (A)(i)(IV) shall be treated as creditable service in a covered position for purposes of this chapter and determining the amount to be deducted and withheld from the pay of the affected individual under section 8422.
-    - **(C)** Subparagraph (B) shall only apply if the affected employee transitions to a position described in subparagraph (A)(i)(IV) without a break in service exceeding 3 days.
-    - **(D)** The service of an affected individual shall no longer be eligible for treatment under subparagraph (B) if such service occurs after the individual—
-      - **(i)** is transferred to a supervisory or administrative position related to the activities of the former covered position of the individual; or
-      - **(ii)** meets the age and service requirements that would subject the individual to mandatory separation under section 8425 if such individual had remained in the former covered position.
-    - **(E)** In accordance with procedures established by the Director of the Office of Personnel Management, an affected individual may file an election to have any creditable service performed by the affected individual treated in accordance with this chapter without regard to subparagraph (B).
-    - **(F)** Nothing in this paragraph shall be construed to apply to such affected individual any other pay-related laws or regulations applicable to a covered position.
+- **(d)** An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
+  - **(1)** after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 25 years, or
+  - **(2)** after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years,
 - **(e)** An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
   - **(1)** after completing 25 years of service as an air traffic controller, or
   - **(2)** after becoming 50 years of age and completing 20 years of service as an air traffic controller,

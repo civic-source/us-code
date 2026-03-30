@@ -3,9 +3,10 @@ title: "Section 203 - Federal lands transportation program"
 usc_title: 23
 usc_section: "203"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 203"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-03-30T03:04:51.162Z"
+status: "active"
 ---
 
 # § 203. Federal lands transportation program
@@ -22,9 +23,9 @@ generated_at: "2026-03-30T02:55:12.565Z"
       - **(v)** construction and reconstruction of roadside rest areas, including sanitary and water facilities;
       - **(vi)** congestion mitigation; and
       - **(vii)** other appropriate public road facilities, as determined by the Secretary;
-    - **(B)** capital, operations, and maintenance of transit facilities;
+    - **(B)** operation and maintenance of transit facilities;
     - **(C)** any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
-    - **(D)** not more $20,000,000 1 1 So in original. of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
+    - **(D)** not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv).
   - **(2)** In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
     - **(A)** a State (including a political subdivision of a State); or
     - **(B)** an Indian tribe.
@@ -35,26 +36,21 @@ generated_at: "2026-03-30T02:55:12.565Z"
   - **(5)**
     - **(A)** Subject to subparagraph (B), construction of each project shall be performed by contract awarded by competitive bidding.
     - **(B)** Subparagraph (A) shall not apply if the Secretary or the Secretary of the appropriate Federal land management agency affirmatively finds that, under the circumstances relating to the project, a different method is in the public interest.
-  - **(6)** In carrying out an activity described in paragraph (1), the entity carrying out the activity shall consider, to the maximum extent practicable—
-    - **(A)** the use of locally adapted native plant materials; and
-    - **(B)** designs that minimize runoff and heat generation.
 - **(b)**
-  - **(1)** On October 1, 2011 , and on October 1 of each fiscal year thereafter, the Secretary shall allocate the sums authorized to be appropriated for the fiscal year for the Federal lands transportation program on the basis of applications of need, as determined by the Secretary—
+  - **(1)**
     - **(A)** in consultation with the Secretaries of the applicable Federal land management agencies; and
     - **(B)** in coordination with the transportation plans required under section 201 of the respective transportation systems of—
       - **(i)** the National Park Service;
       - **(ii)** the Forest Service;
       - **(iii)** the United States Fish and Wildlife Service;
-      - **(iv)** the Corps of Engineers;
-      - **(v)** the Bureau of Land Management;
-      - **(vi)** the Bureau of Reclamation; and
-      - **(vii)** independent Federal agencies with natural resource and land management responsibilities.
+      - **(iv)** the Corps of Engineers; and
+      - **(v)** the Bureau of Land Management.
   - **(2)**
     - **(A)** Each application submitted by a Federal land management agency shall include proposed programs at various potential funding levels, as defined by the Secretary following collaborative discussions with applicable Federal land management agencies.
-    - **(B)** In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support performance management, including—
+    - **(B)** In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support—
       - **(i)** the transportation goals of—
         - **(I)** a state of good repair of transportation facilities;
-        - **(II)** a reduction of bridge deficiencies; and
+        - **(II)** a reduction of bridge deficiencies, 1 1 So in original. The comma probably should be a semicolon. and
         - **(III)** an improvement of safety;
       - **(ii)** high-use Federal recreational sites or Federal economic generators; and
       - **(iii)** the resource and asset management goals of the Secretary of the respective Federal land management agency.
@@ -69,27 +65,7 @@ generated_at: "2026-03-30T02:55:12.565Z"
       - **(iii)** The United States Fish and Wildlife Service.
       - **(iv)** The Bureau of Land Management.
       - **(v)** The Corps of Engineers.
-      - **(vi)** The Bureau of Reclamation.
   - **(3)** The inventories shall be made available to the Secretary.
   - **(4)** The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriate Federal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
   - **(5)** A decision to add or remove a facility from the inventory shall not be considered a Federal action for purposes of review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
 - **(d)** The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
-- **(e)**
-  - **(1)** In this subsection:
-    - **(A)** The term “environmental document” means an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-    - **(B)** The term “project” means a highway project, public transportation capital project, or multimodal project that—
-      - **(i)** receives funds under this title; and
-      - **(ii)** is authorized under this section or section 204.
-    - **(C)** The term “project sponsor” means the Federal land management agency that seeks or receives funds under this title for a project.
-  - **(2)** The Federal Highway Administration may prepare an environmental document pursuant to the implementing procedures of the Federal Highway Administration to comply with the requirements of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) if—
-    - **(A)** requested by a project sponsor; and
-    - **(B)** all areas of analysis required by the project sponsor can be addressed.
-  - **(3)**
-    - **(A)** To the maximum extent practicable, if the Federal Highway Administration prepares an environmental document pursuant to paragraph (2), that environmental document shall address all areas of analysis required by a Federal land management agency.
-    - **(B)** Notwithstanding any other provision of law, a Federal land management agency shall not be required to conduct an independent evaluation to determine the adequacy of an environmental document prepared by the Federal Highway Administration pursuant to paragraph (2).
-    - **(C)** In authorizing or implementing a project, a Federal land management agency may use an environmental document previously prepared by the Federal Highway Administration for a project addressing the same or substantially the same action to the same extent that the Federal land management agency could adopt or use a document previously prepared by another Federal agency.
-  - **(4)** In carrying out requirements under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) for a project, the project sponsor may use categorical exclusions designated under that Act in the implementing regulations of the Federal Highway Administration, subject to the conditions that—
-    - **(A)** the project sponsor makes a determination, in consultation with the Federal Highway Administration, that the categorical exclusion applies to the project;
-    - **(B)** the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); and
-    - **(C)** the use of the categorical exclusion does not otherwise conflict with the implementing regulations of the project sponsor, except any list of the project sponsor that designates categorical exclusions.
-  - **(5)** The Secretary shall assist the Federal land management agency with all design and mitigation commitments made jointly by the Secretary and the project sponsor in any environmental document prepared by the Secretary in accordance with this subsection.

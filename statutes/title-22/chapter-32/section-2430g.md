@@ -3,9 +3,10 @@ title: "Section 2430g - Americas Framework Agreements"
 usc_title: 22
 usc_section: "2430g"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2430g"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-03-30T03:04:53.641Z"
+status: "active"
 ---
 
 # § 2430g. Americas Framework Agreements
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:55:05.367Z"
 - **(b)** An Americas Framework Agreement with an eligible country shall—
   - **(1)** require that country to establish an Americas Fund;
   - **(2)** require that country to make interest payments under section 2430e(b)(1) of this title into an Americas Fund;
-  - **(3)** require that country to make prompt disbursements from the Americas Fund to the administering body described in subsection (c);
+  - **(3)** require that country to make prompt disbursements from the Americas Fund to the administering body described in subsection (c) of this section;
   - **(4)** when appropriate, seek to maintain the value of the local currency resources of the Americas Fund in terms of United States dollars;
-  - **(5)** specify, in accordance with subsection (d), the purposes for which amounts in an Americas Fund may be used; and
+  - **(5)** specify, in accordance with subsection (d) of this section, the purposes for which amounts in an Americas Fund may be used; and
   - **(6)** contain reasonable provisions for the enforcement of the terms of the agreement.
 - **(c)**
   - **(1)** Funds disbursed from the Americas Fund in each beneficiary country shall be administered by a body constituted under the laws of that country.
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
       - **(iii)** local community development nongovernmental organizations of the beneficiary country, and
       - **(iv)** scientific or academic organizations or institutions of the beneficiary country.
   - **(3)** The administering body—
-    - **(A)** shall receive proposals for grant assistance from eligible grant recipients (as determined under subsection (e)) and make grants to eligible grant recipients in accordance with the priorities agreed upon in the Americas Framework Agreement, consistent with subsection (d);
+    - **(A)** shall receive proposals for grant assistance from eligible grant recipients (as determined under subsection (e) of this section) and make grants to eligible grant recipients in accordance with the priorities agreed upon in the Americas Framework Agreement, consistent with subsection (d) of this section;
     - **(B)** shall be responsible for the management of the program and oversight of grant activities funded from resources of the Americas Fund;
     - **(C)** shall be subject, on an annual basis, to an audit of financial statements conducted in accordance with generally accepted auditing standards by an independent auditor;
     - **(D)** shall be required to grant to representatives of the United States Government Accountability Office such access to books and records associated with operations of the Americas Fund as the Comptroller General of the United States may request;

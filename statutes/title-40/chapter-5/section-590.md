@@ -3,9 +3,10 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-03-30T03:05:58.215Z"
+status: "active"
 ---
 
 # § 590. Child care
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:55:43.376Z"
 - **(e)** Notwithstanding section 1345 of title 31 , an agency, department, or instrumentality of the Government that provides or proposes to provide child care services for federal employees may reimburse a federal employee or any individual employed to provide child care services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or other meetings in connection with providing the services. A per diem allowance made under this subsection may not exceed the rate specified in regulations prescribed under section 5707 of title 5 .
 - **(f)**
   - **(1)** In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
-  - **(2)** All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ( 42 U.S.C. 13041 ). 1 1 See References in Text note below.
+  - **(2)** All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ( 42 U.S.C. 13041 ).
   - **(3)** This subsection does not apply to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
 - **(g)**
   - **(1)** For purposes of this subsection, the term “Executive agency” has the meaning given that term in section 105 of title 5 , but does not include the Government Accountability Office.
@@ -40,9 +41,3 @@ generated_at: "2026-03-30T02:55:43.376Z"
   - **(3)** Amounts used pursuant to paragraph (2) shall be applied to improve the affordability of child care for lower income federal employees using or seeking to use the child care services.
   - **(4)** Notwithstanding section 3324 of title 31 , amounts may be paid in advance to licensed or regulated child care providers for services to be rendered during an agreed period.
   - **(5)** No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
-  - **(6)** This subsection shall apply with respect to the House of Representatives in the same manner as it applies to an Executive agency, except that—
-    - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the House of Representatives by the Speaker of the House of Representatives in accordance with regulations promulgated by the Committee on House Administration; and
-    - **(B)** amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
-  - **(7)** This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
-    - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
-    - **(B)** amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.

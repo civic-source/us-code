@@ -3,9 +3,10 @@ title: "Section 12907 - AIDS short-term supported housing and services"
 usc_title: 42
 usc_section: "12907"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12907"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-03-30T03:06:22.921Z"
+status: "active"
 ---
 
 # § 12907. AIDS short-term supported housing and services
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:56:11.435Z"
   - **(1)**
     - **(A)** Any building or structure assisted with amounts from a grant under this section shall be maintained as a facility to provide short-term supported housing or assistance for eligible persons—
       - **(i)** in the case of assistance involving substantial rehabilitation or acquisition of the building, for a period of not less than 10 years; and
-      - **(ii)** in the case of assistance under paragraph (1), (3), or (4) of subsection (a), for a period of not less than 3 years.
+      - **(ii)** in the case of assistance under paragraph (1), (3), or (4) of subsection (a) of this section, for a period of not less than 3 years.
     - **(B)** The Secretary may waive the requirement under subparagraph (A) with respect to any building or structure if the organization or agency that received the grant under which the building was assisted demonstrates, to the satisfaction of the Secretary, that—
       - **(i)** the structure is no longer needed to provide short-term supported housing or assistance or the continued operation of the structure for such purposes is no longer feasible; and
       - **(ii)** the structure will be used to benefit individuals or families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.

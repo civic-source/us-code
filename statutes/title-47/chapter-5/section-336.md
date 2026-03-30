@@ -3,9 +3,10 @@ title: "Section 336 - Broadcast spectrum flexibility"
 usc_title: 47
 usc_section: "336"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 336"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-03-30T03:06:26.187Z"
+status: "active"
 ---
 
 # § 336. Broadcast spectrum flexibility
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
 - **(a)** If the Commission determines to issue additional licenses for advanced television services, the Commission—
   - **(1)** should limit the initial eligibility for such licenses to persons that, as of the date of such issuance, are licensed to operate a television broadcast station or hold a permit to construct such a station (or both); and
   - **(2)** shall adopt regulations that allow the holders of such licenses to offer such ancillary or supplementary services on designated frequencies as may be consistent with the public interest, convenience, and necessity.
-- **(b)** In prescribing the regulations required by subsection (a), the Commission shall—
+- **(b)** In prescribing the regulations required by subsection (a) of this section, the Commission shall—
   - **(1)** only permit such licensee or permittee to offer ancillary or supplementary services if the use of a designated frequency for such services is consistent with the technology or method designated by the Commission for the provision of advanced television services;
   - **(2)** limit the broadcasting of ancillary or supplementary services on designated frequencies so as to avoid derogation of any advanced television services, including high definition television broadcasts, that the Commission may require using such frequencies;
   - **(3)** apply to any other ancillary or supplementary service such of the Commission’s regulations as are applicable to the offering of analogous services by any other person, except that no ancillary or supplementary service shall have any rights to carriage under section 534 or 535 of this title or be deemed a multichannel video programming distributor for purposes of section 548 of this title ;
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
 - **(c)** If the Commission grants a license for advanced television services to a person that, as of the date of such issuance, is licensed to operate a television broadcast station or holds a permit to construct such a station (or both), the Commission shall, as a condition of such license, require that either the additional license or the original license held by the licensee be surrendered to the Commission for reallocation or reassignment (or both) pursuant to Commission regulation.
 - **(d)** Nothing in this section shall be construed as relieving a television broadcasting station from its obligation to serve the public interest, convenience, and necessity. In the Commission’s review of any application for renewal of a broadcast license for a television station that provides ancillary or supplementary services, the television licensee shall establish that all of its program services on the existing or advanced television spectrum are in the public interest. Any violation of the Commission rules applicable to ancillary or supplementary services shall reflect upon the licensee’s qualifications for renewal of its license.
 - **(e)**
-  - **(1)** If the regulations prescribed pursuant to subsection (a) permit a licensee to offer ancillary or supplementary services on a designated frequency—
+  - **(1)** If the regulations prescribed pursuant to subsection (a) of this section permit a licensee to offer ancillary or supplementary services on a designated frequency—
     - **(A)** for which the payment of a subscription fee is required in order to receive such services, or
     - **(B)** for which the licensee directly or indirectly receives compensation from a third party in return for transmitting material furnished by such third party (other than commercial advertisements used to support broadcasting for which a subscription fee is not required),
   - **(2)** The program required by paragraph (1) shall—
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), all proceeds obtained pursuant to the regulations required by this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
     - **(B)** Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this section and regulating and supervising advanced television services. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis.
-  - **(4)** The Commission shall annually advise the Congress on the amounts collected pursuant to the program required by this subsection.
+  - **(4)** Within 5 years after February 8, 1996 , the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
 - **(f)**
   - **(1)**
     - **(A)** Within 120 days after November 29, 1999 , the Commission shall prescribe regulations to establish a class A television license to be available to licensees of qualifying low-power television stations. Such regulations shall provide that—

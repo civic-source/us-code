@@ -1,14 +1,13 @@
 ---
-title: "Section 390b - Competitive grant program"
+title: "Section 390b - Repealed. Pub. L. 107–171, title VII, § 7308(a) , May 13, 2002 , 116 Stat. 455"
 usc_title: 7
 usc_section: "390b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 390b"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.896Z"
+status: "repealed"
 ---
 
-# § 390b. Competitive grant program
-
-The Secretary shall establish a program to make competitive grants to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of agricultural research facilities.
+# § 390b. Repealed. Pub. L. 107–171, title VII, § 7308(a) , May 13, 2002 , 116 Stat. 455
 

@@ -3,9 +3,10 @@ title: "Section 351 - Adulterated drugs and devices"
 usc_title: 21
 usc_section: "351"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 351"
-generated_at: "2026-03-30T02:54:54.229Z"
+generated_at: "2026-03-30T03:05:00.941Z"
+status: "active"
 ---
 
 # § 351. Adulterated drugs and devices
@@ -40,4 +41,4 @@ A drug or device shall be deemed to be adulterated—
 - **(g)** If it is a banned device.
 - **(h)** If it is a device and the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with applicable requirements under section 360j(f)(1) of this title or an applicable condition prescribed by an order under section 360j(f)(2) of this title .
 - **(i)** If it is a device for which an exemption has been granted under section 360j(g) of this title for investigational use and the person who was granted such exemption or any investigator who uses such device under such exemption fails to comply with a requirement prescribed by or under such section.
-- **(j)** If it is a drug or device and it has been manufactured, processed, packed, or held in any factory, warehouse, or establishment and the owner, operator, or agent of such factory, warehouse, or establishment delays, denies, or limits an inspection, or refuses to permit entry or inspection. For purposes of paragraph (a)(2)(B), the term “current good manufacturing practice” includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.
+- **(j)** If it is a drug and it has been manufactured, processed, packed, or held in any factory, warehouse, or establishment and the owner, operator, or agent of such factory, warehouse, or establishment delays, denies, or limits an inspection, or refuses to permit entry or inspection. For purposes of paragraph (a)(2)(B), the term “current good manufacturing practice” includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.

@@ -3,9 +3,10 @@ title: "Section 7003 - Specific exceptions"
 usc_title: 15
 usc_section: "7003"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 7003"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-03-30T03:04:31.242Z"
+status: "active"
 ---
 
 # § 7003. Specific exceptions
@@ -23,5 +24,5 @@ generated_at: "2026-03-30T02:54:08.217Z"
     - **(D)** recall of a product, or material failure of a product, that risks endangering health or safety; or
   - **(3)** any document required to accompany any transportation or handling of hazardous materials, pesticides, or other toxic or dangerous materials.
 - **(c)**
-  - **(1)** The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000 , the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
+  - **(1)** The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) of this section to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000 , the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
   - **(2)** If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of section 7001 of this title to the exceptions identified in such finding.

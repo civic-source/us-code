@@ -3,9 +3,10 @@ title: "Section 154 - Open container requirements"
 usc_title: 23
 usc_section: "154"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 154"
-generated_at: "2026-03-30T02:55:12.560Z"
+generated_at: "2026-03-30T03:04:51.160Z"
+status: "active"
 ---
 
 # § 154. Open container requirements
@@ -25,24 +26,20 @@ generated_at: "2026-03-30T02:55:12.560Z"
     - **(A)** in the passenger area of a motor vehicle designed, maintained, or used primarily for the transportation of persons for compensation; or
     - **(B)** in the living quarters of a house coach or house trailer,
 - **(c)**
-  - **(1)** On October 1, 2000 , and October 1, 2001 , if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (2), and (4) of section 104(b) to the apportionment of the State under section 402—
-    - **(A)** to be used for impaired driving countermeasures; or
-    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
+  - **(1)** On October 1, 2000 , and October 1, 2001 , if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) 1 1 See References in Text note below. to the apportionment of the State under section 402—
+    - **(A)** to be used for alcohol-impaired driving countermeasures; or
+    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
   - **(2)**
-    - **(A)**
-      - **(i)** On October 1, 2021 , and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
-      - **(ii)** A State referred to in clause (i) is a State—
-        - **(I)** that has not enacted or is not enforcing an open container law described in subsection (b); and
-        - **(II)** for which the Secretary determined for the prior fiscal year that the State had not enacted or was not enforcing an open container law described in subsection (b).
-    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A)(i), the Secretary shall—
+    - **(A)** On October 1, 2011 , and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3).
+    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
       - **(i)** transfer the reserved funds identified by the State for use as described in subparagraphs (A) and (B) of paragraph (1) to the apportionment of the State under section 402; and
       - **(ii)** release the reserved funds identified by the State as described in paragraph (3).
   - **(3)**
-    - **(A)** A State may elect to use all or a portion of the funds reserved under paragraph (2) for activities eligible under section 148.
+    - **(A)** A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
     - **(B)** If the State makes an election under subparagraph (A), the funds shall be transferred to the department of transportation of the State, which shall be responsible for the administration of the funds.
   - **(4)** The Federal share of the cost of a project carried out with funds transferred under paragraph (1) or (2), or used under paragraph (3), shall be 100 percent.
-  - **(5)** The amount to be transferred or released under paragraph (2) may be derived from the following:
-    - **(A)** The apportionment of the State under section 104(b)(1).
+  - **(5)** The amount to be transferred under paragraph (2) may be derived from the following:
+    - **(A)** The apportionment of the State under section 104(b)(l).
     - **(B)** The apportionment of the State under section 104(b)(2).
   - **(6)**
     - **(A)** If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall transfer an amount, determined under subparagraph (B), of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out projects under section 402.

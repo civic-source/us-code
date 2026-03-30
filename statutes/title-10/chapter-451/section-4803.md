@@ -1,0 +1,20 @@
+---
+title: "Section 4803 - Admiralty claims by United States"
+usc_title: 10
+usc_section: "4803"
+chapter: 451
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 4803"
+generated_at: "2026-03-30T03:04:17.313Z"
+status: "active"
+---
+
+# § 4803. Admiralty claims by United States
+
+- **(a)** Under the direction of the Secretary of Defense, the Secretary of the Army may settle, or compromise, and receive payment of a claim by the United States for damage to property under the jurisdiction of the Department of the Army or property for which the Department has assumed an obligation to respond for damage, if—
+  - **(1)** the claim is—
+    - **(A)** of a kind that is within the admiralty jurisdiction of a district court of the United States; or
+    - **(B)** for damage caused by a vessel or floating object; and
+  - **(2)** the amount to be received by the United States is not more than $500,000.
+- **(b)** In exchange for payment of an amount found to be due the United States under subsection (a), the Secretary of the Army may execute a release of the claim on behalf of the United States. Amounts received under this section shall be covered into the Treasury.
+- **(c)** In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Army may delegate his authority under subsections (a) and (b) to any person in the Department of the Army designated by him.

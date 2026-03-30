@@ -3,32 +3,28 @@ title: "Section 2326b - Sediment management"
 usc_title: 33
 usc_section: "2326b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2326b"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-03-30T03:05:36.296Z"
+status: "active"
 ---
 
 # § 2326b. Sediment management
 
 - **(a)** The Secretary may enter into cooperation agreements with non-Federal interests with respect to navigation projects, or other appropriate non-Federal entities, for the development of long-term management strategies for controlling sediments at such projects.
-- **(b)** Each strategy developed under subsection (a) shall—
+- **(b)** Each strategy developed under subsection (a) of this section shall—
   - **(1)** include assessments of sediment rates and composition, sediment reduction options, dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
   - **(2)** include a timetable for implementation of the strategy; and
   - **(3)** incorporate relevant ongoing planning efforts, including remedial action planning, dredged material management planning, harbor and waterfront development planning, and watershed management planning.
-- **(c)** In developing strategies under subsection (a), the Secretary shall consult with interested Federal agencies, States, and Indian tribes and provide an opportunity for public comment.
+- **(c)** In developing strategies under subsection (a) of this section, the Secretary shall consult with interested Federal agencies, States, and Indian tribes and provide an opportunity for public comment.
 - **(d)**
   - **(1)** The Secretary shall conduct a study to determine the feasibility of constructing and operating an underwater confined dredged material disposal site in the Port of New York-New Jersey that could accommodate as much as 250,000 cubic yards of dredged material for the purpose of demonstrating the feasibility of an underwater confined disposal pit as an environmentally suitable method of containing certain sediments.
-  - **(2)** The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
+  - **(2)** The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a) of this section.
 - **(e)**
-  - **(1)** In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a).
+  - **(1)** In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a) of this section.
   - **(2)** In developing a tributary sediment transport model under this subsection, the Secretary shall build on data and monitoring information generated in earlier studies and programs of the Great Lakes and their tributaries.
   - **(3)** Not later than December 31, 2003 , the Secretary shall transmit to Congress a report on the Secretary’s activities under this subsection.
 - **(f)** In this section, the term “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin.
-- **(g)** The Secretary shall develop and carry out a plan for the recurring mapping of coastlines that are experiencing rapid change, including such coastlines in—
-  - **(1)** Alaska;
-  - **(2)** Hawaii; and
-  - **(3)** any territory or possession of the United States.
-- **(h)**
+- **(g)**
   - **(1)** There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
-  - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
-  - **(3)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.
+  - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2012.

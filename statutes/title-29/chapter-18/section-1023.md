@@ -3,9 +3,10 @@ title: "Section 1023 - Annual reports"
 usc_title: 29
 usc_section: "1023"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1023"
-generated_at: "2026-03-30T02:55:18.704Z"
+generated_at: "2026-03-30T03:05:09.709Z"
+status: "active"
 ---
 
 # § 1023. Annual reports
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:55:18.704Z"
 - **(a)**
   - **(1)**
     - **(A)** An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title , and shall be made available and furnished to participants in accordance with section 1024(b) of this title .
-    - **(B)** The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), (f), and (g) and shall also include—
+    - **(B)** The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
       - **(i)** a financial statement and opinion, as required by paragraph (3) of this subsection, and
       - **(ii)** an actuarial statement and opinion, as required by paragraph (4) of this subsection.
   - **(2)** If some or all of the information necessary to enable the administrator to comply with the requirements of this subchapter is maintained by—
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:55:18.704Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (C), the administrator of an employee benefit plan shall engage, on behalf of all plan participants, an independent qualified public accountant, who shall conduct such an examination of any financial statements of the plan, and of other books and records of the plan, as the accountant may deem necessary to enable the accountant to form an opinion as to whether the financial statements and schedules required to be included in the annual reports by subsection (b) of this section are presented fairly in conformity with generally accepted accounting principles applied on a basis consistent with that of the preceding year. Such examination shall be conducted in accordance with generally accepted auditing standards, and shall involve such tests of the books and records of the plan as are considered necessary by the independent qualified public accountant. The independent qualified public accountant shall also offer his opinion as to whether the separate schedules specified in subsection (b)(3) of this section and the summary material required under section 1024(b)(3) of this title present fairly, and in all material respects the information contained therein when considered in conjunction with the financial statements taken as a whole. The opinion by the independent qualified public accountant shall be made a part of the annual report. In a case where a plan is not required to file an annual report, the requirements of this paragraph shall not apply. In a case where by reason of section 1024(a)(2) of this title a plan is required only to file a simplified annual report, the Secretary may waive the requirements of this paragraph.
     - **(B)** In offering his opinion under this section the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary, if he so states his reliance.
-    - **(C)** The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
+    - **(C)** The opinion required by subparagraph (A) need not be expressed as to any statements required by subsection (b)(3)(G) of this section prepared by a bank or similar institution or insurance carrier regulated and supervised and subject to periodic examination by a State or Federal agency if such statements are certified by the bank, similar institution, or insurance carrier as accurate and are made a part of the annual report.
     - **(D)** For purposes of this subchapter, the term “qualified public accountant” means—
       - **(i)** a person who is a certified public accountant, certified by a regulatory authority of a State;
       - **(ii)** a person who is a licensed public accountant licensed by a regulatory authority of a State; or
@@ -34,7 +35,7 @@ generated_at: "2026-03-30T02:55:18.704Z"
       - **(i)** are in the aggregate reasonably related to the experience of the plan and to reasonable expectations; and
       - **(ii)** represent his best estimate of anticipated experience under the plan.
     - **(C)** For purposes of this subchapter, the term “enrolled actuary” means an actuary enrolled under subtitle C of subchapter II of this chapter.
-    - **(D)** In making a certification under this section the enrolled actuary may rely on the correctness of any accounting matter under subsection (b) to which any qualified public accountant has expressed an opinion, if he so states his reliance.
+    - **(D)** In making a certification under this section the enrolled actuary may rely on the correctness of any accounting matter under subsection (b) of this section to which any qualified public accountant has expressed an opinion, if he so states his reliance.
 - **(b)** An annual report under this section shall include a financial statement containing the following information:
   - **(1)** With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
   - **(2)** With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
@@ -73,8 +74,8 @@ generated_at: "2026-03-30T02:55:18.704Z"
   - **(7)** A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of this title , or the accumulated funding deficiency determined under section 1084 of this title , to zero.
   - **(8)** A statement by the enrolled actuary—
     - **(A)** that to the best of his knowledge the report is complete and accurate, and
-    - **(B)** the applicable requirements of sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
-  - **(9)** A copy of the opinion required by subsection (a)(4).
+    - **(B)** the applicable requirements of sections 1083(h) and 1084(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
+  - **(9)** A copy of the opinion required by subsection (a)(4) of this section.
   - **(10)** A statement by the actuary which discloses—
     - **(A)** any event which the actuary has not taken into account, and
     - **(B)** any trend which, for purposes of the actuarial assumptions used, was not assumed to continue in the future,
@@ -105,6 +106,3 @@ generated_at: "2026-03-30T02:55:18.704Z"
     - **(G)** Whether the plan was in critical or endangered status under section 1085 of this title for such plan year, and if so, a summary of any funding improvement or rehabilitation plan (or modification thereto) adopted during the plan year, and the funded percentage of the plan.
     - **(H)** The number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers.
     - **(I)** In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
-- **(g)** An annual report under this section for a plan year shall include—
-  - **(1)** with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
-  - **(2)** with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.

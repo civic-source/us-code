@@ -3,14 +3,15 @@ title: "Section 27c - Exclusion of certain other identified banking products"
 usc_title: 7
 usc_section: "27c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 27c"
-generated_at: "2026-03-30T02:53:42.251Z"
+generated_at: "2026-03-30T03:04:20.874Z"
+status: "active"
 ---
 
 # § 27c. Exclusion of certain other identified banking products
 
-- **(a)** No provision of the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] shall apply to, and the Commodity Futures Trading Commission shall not exercise regulatory authority with respect to, a banking product if the product is a hybrid instrument that is predominantly a banking product under the predominance test set forth in subsection (b).
+- **(a)** No provision of the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] shall apply to, and the Commodity Futures Trading Commission shall not exercise regulatory authority with respect to, a banking product if the product is a hybrid instrument that is predominantly a banking product under the predominance test set forth in subsection (b) of this section.
 - **(b)** A hybrid instrument shall be considered to be predominantly a banking product for purposes of this section if—
   - **(1)** the issuer of the hybrid instrument receives payment in full of the purchase price of the hybrid instrument substantially contemporaneously with delivery of the hybrid instrument;
   - **(2)** the purchaser or holder of the hybrid instrument is not required to make under the terms of the instrument, or any arrangement referred to in the instrument, any payment to the issuer in addition to the purchase price referred to in paragraph (1), whether as margin, settlement payment, or otherwise during the life of the hybrid instrument or at maturity;

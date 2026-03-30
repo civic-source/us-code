@@ -3,9 +3,10 @@ title: "Section 17154 - Use of funds"
 usc_title: 42
 usc_section: "17154"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17154"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-03-30T03:06:22.989Z"
+status: "active"
 ---
 
 # § 17154. Use of funds
@@ -52,9 +53,8 @@ An eligible entity may use a grant received under this part to carry out activit
     - **(A)** solar energy;
     - **(B)** wind energy;
     - **(C)** fuel cells; and
-    - **(D)** biomass;
-  - **(14)** programs for financing energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure), capital investments, projects, and programs, which may include loan programs and performance contracting programs, for leveraging of additional public and private sector funds, and programs that allow rebates, grants, or other incentives for the purchase and installation of energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure) measures; and
-  - **(15)** any other appropriate activity, as determined by the Secretary, in consultation with—
+    - **(D)** biomass; and
+  - **(14)** any other appropriate activity, as determined by the Secretary, in consultation with—
     - **(A)** the Administrator of the Environmental Protection Agency;
     - **(B)** the Secretary of Transportation; and
     - **(C)** the Secretary of Housing and Urban Development.

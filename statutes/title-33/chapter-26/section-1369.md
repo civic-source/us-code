@@ -3,9 +3,10 @@ title: "Section 1369 - Administrative procedure and judicial review"
 usc_title: 33
 usc_section: "1369"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1369"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-03-30T03:05:36.284Z"
+status: "active"
 ---
 
 # § 1369. Administrative procedure and judicial review
@@ -17,7 +18,4 @@ generated_at: "2026-03-30T02:55:41.103Z"
   - **(1)** Review of the Administrator’s action (A) in promulgating any standard of performance under section 1316 of this title , (B) in making any determination pursuant to section 1316(b)(1)(C) of this title , (C) in promulgating any effluent standard, prohibition, or pretreatment standard under section 1317 of this title , (D) in making any determination as to a State permit program submitted under section 1342(b) of this title , (E) in approving or promulgating any effluent limitation or other limitation under section 1311, 1312, 1316, or 1345 of this title, (F) in issuing or denying any permit under section 1342 of this title , and (G) in promulgating any individual control strategy under section 1314( l ) of this title, may be had by any interested person in the Circuit Court of Appeals of the United States for the Federal judicial district in which such person resides or transacts business which is directly affected by such action upon application by such person. Any such application shall be made within 120 days from the date of such determination, approval, promulgation, issuance or denial, or after such date only if such application is based solely on grounds which arose after such 120th day.
   - **(2)** Action of the Administrator with respect to which review could have been obtained under paragraph (1) of this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement.
   - **(3)** In any judicial proceeding under this subsection, the court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party whenever it determines that such award is appropriate.
-  - **(4)**
-    - **(A)** Except as provided in subparagraph (B), any interested person may file a petition for review of a final agency action under section 1322(p) of this title of the Administrator or the Secretary of the department in which the Coast Guard is operating in accordance with the requirements of this subsection.
-    - **(B)** Subject to section 1322(p)(7)(C)(v) of this title , a petition for review of a final agency action under section 1322(p) of this title of the Administrator or the Secretary of the department in which the Coast Guard is operating may be filed only in the United States Court of Appeals for the District of Columbia Circuit.
 - **(c)** In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.

@@ -3,9 +3,10 @@ title: "Section 10701 - Standards for rates, classifications, through routes, ru
 usc_title: 49
 usc_section: "10701"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 10701"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-03-30T03:06:29.284Z"
+status: "active"
 ---
 
 # § 10701. Standards for rates, classifications, through routes, rules, and practices
@@ -19,4 +20,4 @@ generated_at: "2026-03-30T02:56:19.323Z"
     - **(A)** the amount of traffic which is transported at revenues which do not contribute to going concern value and the efforts made to minimize such traffic;
     - **(B)** the amount of traffic which contributes only marginally to fixed costs and the extent to which, if any, rates on such traffic can be changed to maximize the revenues from such traffic; and
     - **(C)** the carrier’s mix of rail traffic to determine whether one commodity is paying an unreasonable share of the carrier’s overall revenues,
-  - **(3)** The Board shall maintain 1 or more simplified and expedited methods for determining the reasonableness of challenged rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
+  - **(3)** The Board shall, within one year after January 1, 1996 , complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.

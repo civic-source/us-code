@@ -1,12 +1,15 @@
 ---
-title: "Section 1733 - Omitted"
+title: "Section 1733 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1733"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1733"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.880Z"
+status: "active"
 ---
 
-# § 1733. Omitted
+# § 1733. Authorization of appropriations
+
+There is hereby authorized to be appropriated $81,500,000 for the fiscal year beginning October 1, 1980 , for transfer to the funds established by section 1724 of this title .
 

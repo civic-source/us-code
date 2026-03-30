@@ -1,51 +1,21 @@
 ---
-title: "Section 832 - Art. 32. Preliminary hearing required before referral to general court-martial"
+title: "Section 832 - Art. 32. Investigation"
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-30T02:53:38.079Z"
+generated_at: "2026-03-30T03:04:17.232Z"
+status: "active"
 ---
 
-# § 832. Art. 32. Preliminary hearing required before referral to general court-martial
+# § 832. Art. 32. Investigation
 
-- **(a)**
-  - **(1)**
-    - **(A)** Except as provided in subparagraph (B), a preliminary hearing shall be held before referral of charges and specifications for trial by general court-martial. The preliminary hearing shall be conducted by an impartial hearing officer detailed in accordance with subparagraph (C).
-    - **(B)** Under regulations prescribed by the President, a preliminary hearing need not be held if the accused submits a written waiver to—
-      - **(i)** except as provided in clause (ii), the convening authority and the convening authority determines that a hearing is not required; and
-      - **(ii)** with respect to charges and specifications over which the special trial counsel is exercising authority in accordance with section 824a of this title (article 24a), the special trial counsel and the special trial counsel determines that a hearing is not required.
-    - **(C)**
-      - **(i)** Except as provided in clause (ii), the convening authority shall detail a hearing officer.
-      - **(ii)** If a special trial counsel is exercising authority over the charges and specifications subject to a preliminary hearing under this section (article), the special trial counsel shall request a hearing officer and a hearing officer shall be provided by the convening authority, in accordance with regulations prescribed by the President.
-  - **(2)** The purpose of the preliminary hearing shall be limited to determining the following:
-    - **(A)** Whether or not the specification alleges an offense under this chapter.
-    - **(B)** Whether or not there is probable cause to believe that the accused committed the offense charged.
-    - **(C)** Whether or not the convening authority has court-martial jurisdiction over the accused and over the offense.
-    - **(D)** A recommendation as to the disposition that should be made of the case.
-- **(b)**
-  - **(1)** A preliminary hearing under this section shall be conducted by an impartial hearing officer, who—
-    - **(A)** whenever practicable, shall be a judge advocate who is certified under section 827(b)(2) of this title (article 27(b)(2)); or
-    - **(B)** when it is not practicable to appoint a judge advocate because of exceptional circumstances, is not a judge advocate so certified.
-  - **(2)** In the case of a hearing officer under paragraph (1)(B), a judge advocate who is certified under section 827(b)(2) of this title (article 27(b)(2)) shall be available to provide legal advice to the hearing officer.
-  - **(3)** Whenever practicable, the hearing officer shall be equal in grade or senior in grade to military counsel who are detailed to represent the accused or the Government at the preliminary hearing.
-- **(c)** After a preliminary hearing under this section, the hearing officer shall submit to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel, a written report (accompanied by a recording of the preliminary hearing under subsection (e)) that includes the following:
-  - **(1)** For each specification, a statement of the reasoning and conclusions of the hearing officer with respect to determinations under subsection (a)(2), including a summary of relevant witness testimony and documentary evidence presented at the hearing and any observations of the hearing officer concerning the testimony of witnesses and the availability and admissibility of evidence at trial.
-  - **(2)** Recommendations for any necessary modifications to the form of the charges or specifications.
-  - **(3)** An analysis of any additional information submitted after the hearing by the parties or by a victim of an offense, that, under such rules as the President may prescribe, is relevant to disposition under sections 830 and 834 of this title (articles 30 and 34).
-  - **(4)** A statement of action taken on evidence adduced with respect to uncharged offenses, as described in subsection (f).
-- **(d)**
-  - **(1)** The accused shall be advised of the charges against the accused and of the accused’s right to be represented by counsel at the preliminary hearing under this section. The accused has the right to be represented at the preliminary hearing as provided in section 838 of this title (article 38) and in regulations prescribed under that section.
-  - **(2)** The accused may cross-examine witnesses who testify at the preliminary hearing and present additional evidence that is relevant to the issues for determination under subsection (a)(2).
-  - **(3)** A victim may not be required to testify at the preliminary hearing. A victim who declines to testify shall be deemed to be not available for purposes of the preliminary hearing. A declination under this paragraph shall not serve as the sole basis for ordering a deposition under section 849 of this title (article 49).
-  - **(4)** The presentation of evidence and examination (including cross-examination) of witnesses at a preliminary hearing shall be limited to the matters relevant to determinations under subsection (a)(2).
-- **(e)** A preliminary hearing under subsection (a) shall be recorded by a suitable recording device. The victim may request the recording and shall have access to the recording under such rules as the President may prescribe.
-- **(f)** If evidence adduced in a preliminary hearing under subsection (a) indicates that the accused committed an uncharged offense, the hearing officer may consider the subject matter of that offense without the accused having first been charged with the offense if the accused—
-  - **(1)** is present at the preliminary hearing;
-  - **(2)** is informed of the nature of each uncharged offense considered; and
-  - **(3)** is afforded the opportunities for representation, cross-examination, and presentation consistent with subsection (d).
-- **(g)** The requirements of this section are binding on all persons administering this chapter, but failure to follow the requirements does not constitute jurisdictional error. A defect in a report under subsection (c) is not a basis for relief if the report is in substantial compliance with that subsection.
-- **(h)** In this section, the term “victim” means a person who—
-  - **(1)** is alleged to have suffered a direct physical, emotional, or pecuniary harm as a result of the matters set forth in a charge or specification being considered; and
-  - **(2)** is named in one of the specifications.
+- **(a)** No charge or specification may be referred to a general court-martial for trial until a thorough and impartial investigation of all the matters set forth therein has been made. This investigation shall include inquiry as to the truth of the matter set forth in the charges, consideration of the form of charges, and a recommendation as to the disposition which should be made of the case in the interest of justice and discipline.
+- **(b)** The accused shall be advised of the charges against him and of his right to be represented at that investigation by counsel. The accused has the right to be represented at that investigation as provided in section 838 of this title (article 38) and in regulations prescribed under that section. At that investigation full opportunity shall be given to the accused to cross-examine witnesses against him if they are available and to present anything he may desire in his own behalf, either in defense or mitigation, and the investigating officer shall examine available witnesses requested by the accused. If the charges are forwarded after the investigation, they shall be accompanied by a statement of the substance of the testimony taken on both sides and a copy thereof shall be given to the accused.
+- **(c)** If an investigation of the subject matter of an offense has been conducted before the accused is charged with the offense, and if the accused was present at the investigation and afforded the opportunities for representation, cross-examination, and presentation prescribed in subsection (b), no further investigation of that charge is necessary under this article unless it is demanded by the accused after he is informed of the charge. A demand for further investigation entitles the accused to recall witnesses for further cross-examination and to offer any new evidence in his own behalf.
+- **(d)** If evidence adduced in an investigation under this article indicates that the accused committed an uncharged offense, the investigating officer may investigate the subject matter of that offense without the accused having first been charged with the offense if the accused—
+  - **(1)** is present at the investigation;
+  - **(2)** is informed of the nature of each uncharged offense investigated; and
+  - **(3)** is afforded the opportunities for representation, cross-examination, and presentation prescribed in subsection (b).
+- **(e)** The requirements of this article are binding on all persons administering this chapter but failure to follow them does not constitute jurisdictional error.

@@ -3,9 +3,10 @@ title: "Section 2213 - Reports"
 usc_title: 19
 usc_section: "2213"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2213"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-03-30T03:04:42.032Z"
+status: "active"
 ---
 
 # § 2213. Reports
@@ -24,12 +25,8 @@ generated_at: "2026-03-30T02:54:24.666Z"
     - **(G)** the results of actions to obtain the removal of foreign trade restrictions (including discriminatory restrictions) against United States exports and the removal of foreign practices which discriminate against United States service industries (including transportation and tourism) and investment;
     - **(H)** the measures being taken to seek the removal of other significant foreign import restrictions;
     - **(I)** each of the referrals made under section 2171(d)(1)(B) of this title and any action taken with respect to such referral;
-    - **(J)** other information relating to the trade agreements program and to the agreements entered into thereunder;
-    - **(K)** the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications; and
-    - **(L)** the operation of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under section 2171(h) of this title , including—
-      - **(i)** information relating to the personnel of the Center, including a description of any employees detailed or assigned to the Center by a Federal agency under paragraph (3)(B) of such section;
-      - **(ii)** information relating to the functions of the Center; and
-      - **(iii)** an assessment of the operating costs of the Center.
+    - **(J)** other information relating to the trade agreements program and to the agreements entered into thereunder; and
+    - **(K)** the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
   - **(3)**
     - **(A)** The national trade policy agenda required under paragraph (1)(B) for the year in which a report is submitted shall be in the form of a statement of—
       - **(i)** the trade policy objectives and priorities of the United States for the year, and the reasons therefor;
@@ -54,21 +51,8 @@ generated_at: "2026-03-30T02:54:24.666Z"
       - **(viii)** the impact on United States trade of market barriers and other unfair practices,
     - **(B)** projections for each of the economic factors described in subparagraph (A) (except those described in clauses (v) and (viii)) for each of the countries and groups of countries referred to in subparagraph (A) for the year in which the report is submitted and for the succeeding year; and
     - **(C)** conclusions and recommendations, based upon the projections referred to in subparagraph (B), for policy changes, including trade policy, exchange rate policy, fiscal policy, and other policies that should be implemented to improve the outlook.
-  - **(2)** To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
+  - **(2)** To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) of this section or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
   - **(3)** The Trade Representative and the Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System in the preparation of each report required under this subsection.
   - **(4)** The Trade Representative and the Secretary of the Treasury may separately submit any information, analysis, or conclusion referred to in paragraph (1) to the Committees in confidence if the Trade Representative and the Secretary consider confidentiality appropriate.
   - **(5)** After submission of each report required under paragraph (1), the Trade Representative and the Secretary of the Treasury shall consult with each of the Committees with respect to the report.
 - **(c)** The United States International Trade Commission shall submit to the Congress, at least once a year, a factual report on the operation of the trade agreements program.
-- **(d)**
-  - **(1)** Pursuant to the goals and objectives of the strategic plan of the Office of the United States Trade Representative as required under section 306 of title 5 , the Trade Representative shall, every 4 years, develop a plan—
-    - **(A)** to analyze internal quality controls and record management of the Office;
-    - **(B)** to identify existing staff of the Office and new staff that will be necessary to support the trade negotiation and enforcement functions and powers of the Office (including those functions and powers of the Trade Policy Staff Committee) as described in section 2171 of this title and section 2411 of this title ;
-    - **(C)** to identify existing staff of the Office and staff in other Federal agencies who will be required to be detailed or assigned to support interagency programs led by the Trade Representative, including any associated expenses;
-    - **(D)** to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for the fiscal years required under the strategic plan; and
-    - **(E)** to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for interagency programs led by the Trade Representative for the fiscal years required under the strategic plan.
-  - **(2)**
-    - **(A)** The Trade Representative shall submit to the appropriate congressional committees a report that contains the plan required under paragraph (1). Except as provided in subparagraph (B), the report required under this subparagraph shall be submitted in conjunction with the strategic plan of the Office as required under section 306 of title 5 .
-    - **(B)** The Trade Representative shall submit to the appropriate congressional committees an initial report that contains the plan required under paragraph (1) not later than June 1, 2016 .
-    - **(C)** In this paragraph, the term “appropriate congressional committees” means—
-      - **(i)** the Committee on Finance and the Committee on Appropriations of the Senate; and
-      - **(ii)** the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives.

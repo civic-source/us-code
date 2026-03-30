@@ -3,13 +3,14 @@ title: "Section 2434 - Social services reports"
 usc_title: 25
 usc_section: "2434"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2434"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-03-30T03:05:02.898Z"
+status: "active"
 ---
 
 # § 2434. Social services reports
 
-- **(a)** The Secretary of the Interior, with respect to the administration of any family or social services program by the Bureau of Indian Affairs directly or through contracts under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.], shall require the compilation of data relating to the number and types of child abuse and neglect cases seen and the type of assistance provided. Additionally, such data should also be categorized to reflect those cases that involve, or appear to involve, alcohol and substance abuse, those cases which are recurring, and those cases which involve other minor siblings.
-- **(b)** The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 1 1 See References in Text note below. of this title.
-- **(c)** In carrying out the requirements of subsections (a) and (b), the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
+- **(a)** The Secretary of the Interior, with respect to the administration of any family or social services program by the Bureau of Indian Affairs directly or through contracts under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.], shall require the compilation of data relating to the number and types of child abuse and neglect cases seen and the type of assistance provided. Additionally, such data should also be categorized to reflect those cases that involve, or appear to involve, alcohol and substance abuse, those cases which are recurring, and those cases which involve other minor siblings.
+- **(b)** The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 1 1 See References in Text note below. of this title.
+- **(c)** In carrying out the requirements of subsections (a) and (b) of this section, the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.

@@ -3,9 +3,10 @@ title: "Section 713a - Repealed. June 30, 1947, ch. 166 , title II, § 206(p), 6
 usc_title: 15
 usc_section: "713a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 713a"
-generated_at: "2026-03-30T02:54:08.114Z"
+generated_at: "2026-03-30T03:04:31.145Z"
+status: "repealed"
 ---
 
 # § 713a. Repealed. June 30, 1947, ch. 166 , title II, § 206(p), 61 Stat. 208

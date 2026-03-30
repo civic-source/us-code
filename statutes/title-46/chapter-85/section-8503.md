@@ -3,9 +3,10 @@ title: "Section 8503 - Federal pilots authorized"
 usc_title: 46
 usc_section: "8503"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 8503"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-03-30T03:06:27.175Z"
+status: "active"
 ---
 
 # § 8503. Federal pilots authorized
@@ -18,6 +19,6 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(b)** A requirement prescribed under subsection (a) of this section is terminated when the State having jurisdiction over the area involved—
   - **(1)** establishes a requirement for a State licensed pilot; and
   - **(2)** notifies the Secretary of that fact.
-- **(c)** For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.
+- **(c)** For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Saint Lawrence Seaway Development Corporation.
 - **(d)** A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 - **(e)** A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.

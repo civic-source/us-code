@@ -3,9 +3,10 @@ title: "Section 3658 - Benefits based on basic pay"
 usc_title: 22
 usc_section: "3658"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3658"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-03-30T03:04:53.664Z"
+status: "active"
 ---
 
 # § 3658. Benefits based on basic pay
@@ -17,4 +18,4 @@ For the purpose of determining—
   - **(3)** amounts of insurance under chapter 87 of title 5, relating to life insurance;
   - **(4)** amounts of overtime pay or other premium pay;
   - **(5)** annual leave benefits; and
-  - **(6)** any other benefits related to basic pay;
+  - **(6)** any other benefits related to basic pay; the basic pay of each employee shall include the rate of basic pay established for his position under section 3642 of this title plus the amount of any additional compensation provided under section 3657(a) 1 1 See References in Text note below. of this title.

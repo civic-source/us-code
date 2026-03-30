@@ -1,0 +1,15 @@
+---
+title: "Section 9779 - Use of public property"
+usc_title: 10
+usc_section: "9779"
+chapter: 949
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 9779"
+generated_at: "2026-03-30T03:04:17.332Z"
+status: "active"
+---
+
+# § 9779. Use of public property
+
+- **(a)** When the economy of the Air Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
+- **(b)** No money appropriated for the support of the Air Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.

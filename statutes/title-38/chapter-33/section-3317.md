@@ -3,14 +3,15 @@ title: "Section 3317 - Public-private contributions for additional educational a
 usc_title: 38
 usc_section: "3317"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3317"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-03-30T03:05:59.210Z"
+status: "active"
 ---
 
 # § 3317. Public-private contributions for additional educational assistance
 
-- **(a)** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title , which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
+- **(a)** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1) and (2) of section 3311(b).
 - **(b)** The program under this section shall be known as the “Yellow Ribbon G.I. Education Enhancement Program”.
 - **(c)** The Secretary shall enter into an agreement with each college or university seeking to participate in the program under this section. Each agreement shall specify the following:
   - **(1)** The manner (whether by direct grant, scholarship, or otherwise) of the contributions to be made by the college or university concerned.

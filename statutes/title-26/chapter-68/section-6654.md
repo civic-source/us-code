@@ -3,14 +3,15 @@ title: "Section 6654 - Failure by individual to pay estimated income tax"
 usc_title: 26
 usc_section: "6654"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6654"
-generated_at: "2026-03-30T02:55:27.860Z"
+generated_at: "2026-03-30T03:05:18.733Z"
+status: "active"
 ---
 
 # § 6654. Failure by individual to pay estimated income tax
 
-- **(a)** Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1, the tax under chapter 2, and the tax under chapter 2A for the taxable year an amount determined by applying—
+- **(a)** Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1 1 1 So in original. A comma probably should appear. the tax under chapter 2, and the tax under chapter 2A for the taxable year an amount determined by applying—
   - **(1)** the underpayment rate established under section 6621,
   - **(2)** to the amount of the underpayment,
   - **(3)** for the period of the underpayment.
@@ -32,9 +33,17 @@ generated_at: "2026-03-30T02:55:27.860Z"
       - **(i)** 90 percent of the tax shown on the return for the taxable year (or, if no return is filed, 90 percent of the tax for such year), or
       - **(ii)** 100 percent of the tax shown on the return of the individual for the preceding taxable year.
     - **(C)**
-      - **(i)** If the adjusted gross income shown on the return of the individual for the preceding taxable year beginning in any calendar year exceeds $150,000, clause (ii) of subparagraph (B) shall be applied by substituting “110 percent” for “100 percent”.
+      - **(i)** If the adjusted gross income shown on the return of the individual for the preceding taxable year beginning in any calendar year exceeds $150,000, clause (ii) of subparagraph (B) shall be applied by substituting the applicable percentage for “100 percent”. For purposes of the preceding sentence, the applicable percentage shall be determined in accordance with the following table: The If the preceding taxable applicable year begins in: percentage is: 1998 105 1999 108.6 2000 110 2001 112 2002 or thereafter 110.
       - **(ii)** In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (i) shall be applied by substituting “$75,000” for “$150,000”.
       - **(iii)** In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
+    - **(D)**
+      - **(i)** Notwithstanding subparagraph (C), in the case of any taxable year beginning in 2009, clause (ii) of subparagraph (B) shall be applied to any qualified individual by substituting “90 percent” for “100 percent”.
+      - **(ii)** For purposes of this subparagraph, the term “qualified individual” means any individual if—
+        - **(I)** the adjusted gross income shown on the return of such individual for the preceding taxable year is less than $500,000, and
+        - **(II)** such individual certifies that more than 50 percent of the gross income shown on the return of such individual for the preceding taxable year was income from a small business.
+      - **(iii)** For purposes of clause (ii), income from a small business means, with respect to any individual, income from a trade or business the average number of employees of which was less than 500 employees for the calendar year ending with or within the preceding taxable year of the individual.
+      - **(iv)** In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (ii)(I) shall be applied by substituting “$250,000” for “$500,000”.
+      - **(v)** In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
   - **(2)**
     - **(A)** In the case of any required installment, if the individual establishes that the annualized income installment is less than the amount determined under paragraph (1)—
       - **(i)** the amount of such required installment shall be the annualized income installment, and
@@ -44,10 +53,10 @@ generated_at: "2026-03-30T02:55:27.860Z"
       - **(ii)** the aggregate amount of any prior required installments for the taxable year.
     - **(C)** For purposes of this paragraph—
       - **(i)** The taxable income, alternative minimum taxable income, and adjusted self-employment income shall be placed on an annualized basis under regulations prescribed by the Secretary.
-      - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
+      - **(ii)** In the case of the following The applicable required installments: percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
       - **(iii)** The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section 1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
     - **(D)**
-      - **(i)** Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+      - **(i)** Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
       - **(ii)** If a taxpayer elects to have this clause apply to any taxable year—
         - **(I)** clause (i) shall not apply, and
         - **(II)** for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
@@ -67,7 +76,7 @@ generated_at: "2026-03-30T02:55:27.860Z"
 - **(f)** For purposes of this section, the term “tax” means—
   - **(1)** the tax imposed by chapter 1 (other than any increase in such tax by reason of section 143(m)), plus
   - **(2)** the tax imposed by chapter 2, plus
-  - **(3)** the tax imposed by chapter 2A, minus
+  - **(3)** the taxes imposed by chapter 2A, minus
   - **(4)** the credits against tax provided by part IV of subchapter A of chapter 1, other than the credit against tax provided by section 31 (relating to tax withheld on wages).
 - **(g)**
   - **(1)** For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
@@ -91,7 +100,7 @@ generated_at: "2026-03-30T02:55:27.860Z"
   - **(2)** The due dates for required installments under this subsection shall be determined under the following table: In the case of the following required installments: The due date is: 1st June 15 2nd September 15 3rd January 15 of the following taxable year.
   - **(3)**
     - **(A)** In the case of the first required installment, subsection (d) shall be applied by substituting “50 percent” for “25 percent” in subsection (d)(1)(A).
-    - **(B)** The applicable percentage for purposes of subsection (d)(2) shall be determined under the following table: In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
+    - **(B)** The applicable percentage for purposes of subsection (d)(2) shall be determined under the following table: In the case of the following The applicable required installments: percentage is: 1st 45 2nd 67.5 3rd 90.
 - **(k)**
   - **(1)** In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
   - **(2)** This section shall be applied to taxable years of less than 12 months in accordance with regulations prescribed by the Secretary.

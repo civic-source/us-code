@@ -1,12 +1,16 @@
 ---
-title: "Section 14136b - Transferred"
+title: "Section 14136b - DNA research and development"
 usc_title: 42
 usc_section: "14136b"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14136b"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.947Z"
+status: "active"
 ---
 
-# § 14136b. Transferred
+# § 14136b. DNA research and development
 
+- **(a)** The Attorney General shall make grants for research and development to improve forensic DNA technology, including increasing the identification accuracy and efficiency of DNA analysis, decreasing time and expense, and increasing portability.
+- **(b)** The Attorney General shall make grants to appropriate entities under which research is carried out through demonstration projects involving coordinated training and commitment of resources to law enforcement agencies and key criminal justice participants to demonstrate and evaluate the use of forensic DNA technology in conjunction with other forensic tools. The demonstration projects shall include scientific evaluation of the public safety benefits, improvements to law enforcement operations, and cost-effectiveness of increased collection and use of DNA evidence.
+- **(c)** There are authorized to be appropriated $15,000,000 for each of fiscal years 2005 through 2009 to carry out this section.

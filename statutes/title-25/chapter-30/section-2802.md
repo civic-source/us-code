@@ -3,9 +3,10 @@ title: "Section 2802 - Indian law enforcement responsibilities"
 usc_title: 25
 usc_section: "2802"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2802"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-03-30T03:05:02.902Z"
+status: "active"
 ---
 
 # § 2802. Indian law enforcement responsibilities
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(11)** communicating with tribal leaders, tribal community and victims’ advocates, tribal justice officials, indigent defense representatives, and residents of Indian country on a regular basis regarding public safety and justice concerns facing tribal communities;
   - **(12)** conducting meaningful and timely consultation with tribal leaders and tribal justice officials in the development of regulatory policies and other actions that affect public safety and justice in Indian country;
   - **(13)** providing technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center and other national crime information databases pursuant to section 534 of title 28 ;
-  - **(14)** in coordination with the Attorney General pursuant to subsection (g) of section 10132 of title 34 , collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
+  - **(14)** in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42 , collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
   - **(15)** on an annual basis, sharing with the Department of Justice all relevant crime data, including Uniform Crime Reports, that the Office of Justice Services prepares and receives from tribal law enforcement agencies on a tribe-by-tribe basis to ensure that individual tribal governments providing data are eligible for programs offered by the Department of Justice;
   - **(16)** submitting to the appropriate committees of Congress, for each fiscal year, a detailed spending report regarding tribal public safety and justice programs that includes—
     - **(A)**
@@ -50,7 +51,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(2)** The Branch of Criminal Investigations shall not be primarily responsible for the routine law enforcement and police operations of the Bureau in Indian country.
   - **(3)** The Secretary shall prescribe regulations which shall establish a procedure for active cooperation and consultation of the criminal investigative employees of the Bureau assigned to an Indian reservation with the governmental and law enforcement officials of the Indian tribe located on such reservation.
   - **(4)**
-      - **(i)** Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 [ 25 U.S.C. 5301 et seq.] or to maintain its own criminal investigative operations.
+      - **(i)** Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 [ 25 U.S.C. 450 et seq.] or to maintain its own criminal investigative operations.
       - **(ii)** At the end of one year following the date of establishment of the separate Branch of Criminal Investigations, any tribe may, by resolution of the governing body of the tribe, request the Secretary to reestablish line authority through the Agency Superintendent or Bureau of Indian Affairs Area Office Director. In the absence of good cause to the contrary, the Secretary, upon receipt of such resolution, shall reestablish the line authority as requested by the tribe.
 - **(e)**
   - **(1)**
@@ -64,10 +65,10 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(3)** In classifying positions in the Office of Justice Services under paragraph (2), the Secretary shall ensure that such positions are classified at GS grades comparable to those for other Federal law enforcement personnel in other Federal agencies in light of the responsibilities, duties, and qualifications required of such positions.
   - **(4)**
     - **(A)** The Office of Justice Services shall develop standards and deadlines for the provision of background checks to tribal law enforcement and corrections officials.
-    - **(B)** If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 2 2 See References in Text note below. the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
+    - **(B)** If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
 - **(f)** Not later than 1 year after July 29, 2010 , the Secretary, acting through the Bureau, in coordination with the Department of Justice and in consultation with tribal leaders, tribal courts, tribal law enforcement officers, and tribal corrections officials, shall submit to Congress a long-term plan to address incarceration in Indian country, including—
   - **(1)** a description of proposed activities for—
-    - **(A)** the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title 3 3 So in original. Probably should be followed by a closing parenthesis. and adult detention facilities (including regional facilities) in Indian country;
+    - **(A)** the construction, operation, and maintenance of juvenile (in accordance with section 2453(a)(3) of this title 2 2 So in original. Probably should be followed by a closing parenthesis. and adult detention facilities (including regional facilities) in Indian country;
     - **(B)** contracting with State and local detention centers, upon approval of affected tribal governments; and
     - **(C)** alternatives to incarceration, developed in cooperation with tribal court systems;
   - **(2)** an assessment and consideration of the construction of Federal detention facilities in Indian country; and

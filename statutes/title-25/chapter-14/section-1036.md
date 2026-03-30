@@ -1,12 +1,15 @@
 ---
-title: "Section 1036 - Omitted"
+title: "Section 1036 - Taxes"
 usc_title: 25
 usc_section: "1036"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1036"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.859Z"
+status: "active"
 ---
 
-# § 1036. Omitted
+# § 1036. Taxes
+
+No part of any of the funds distributed in accordance with this subchapter shall be subject to Federal or State income tax.
 

@@ -3,13 +3,14 @@ title: "Section 3692 - Advisory committee"
 usc_title: 38
 usc_section: "3692"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3692"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-03-30T03:05:59.215Z"
+status: "active"
 ---
 
 # § 3692. Advisory committee
 
-- **(a)** There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, 33, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include a representative sample of veterans and other individuals who have used, or may in the future use, educational assistance benefits administered by the Secretary. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
+- **(a)** There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, 33, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
 - **(b)** The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, 33, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
-- **(c)** The committee shall remain in existence until December 31, 2026 .
+- **(c)** The committee shall remain in existence until December 31, 2013 .

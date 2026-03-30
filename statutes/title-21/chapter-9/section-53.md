@@ -3,69 +3,33 @@ title: "Section 53 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "53"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 53"
-generated_at: "2026-03-30T02:54:54.273Z"
+generated_at: "2026-03-30T03:05:00.965Z"
+status: "active"
 ---
 
 # § 379j–53. Reauthorization; reporting requirements
 
-- **(a)**
-  - **(1)** Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) 1 1 See References in Text note below. of the Biosimilar User Fee Amendments of 2022 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
-  - **(2)** The report under this subsection shall include the progress of the Food and Drug Administration in achieving the goals, and future plans for meeting the goals, including—
-    - **(A)** information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort;
-    - **(B)** the number of original biosimilar biological product applications filed per fiscal year, and the number of approvals issued by the agency for such applications; and
-    - **(C)** the number of resubmitted original biosimilar biological product applications filed per fiscal year and the number of approvals 2 2 So in original. letters issued by the agency for such applications.
-  - **(3)**
-    - **(A)** Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart, the Secretary shall post the data described in subparagraph (B) for such quarter and on a cumulative basis for the fiscal year on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
-    - **(B)** The Secretary shall post the following data in accordance with subparagraph (A):
-      - **(i)** The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022.
-      - **(ii)** The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022.
-  - **(4)** Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
-    - **(A)** data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 4001(b) of the Biosimilar User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–52 of this title , and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
-    - **(B)** data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying—
-      - **(i)** drivers of such changes; and
-      - **(ii)** changes in the average total cost per full-time equivalent in the biosimilar biological product review program;
-    - **(C)** for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
-    - **(D)** data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of biosimilar biological product application.
-  - **(5)** For each fiscal year, the Secretary shall include in the report an analysis of the following:
-    - **(A)** The difference between the aggregate number of biosimilar biological product applications and supplements filed and the aggregate number of approvals issued by the agency, accounting for—
-      - **(i)** such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
-      - **(ii)** the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year.
-    - **(B)** Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met the performance enhancement goals identified by the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year.
-    - **(C)** The most common causes and trends for external or other circumstances affecting the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022.
-- **(b)** Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
-- **(c)** For each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
-  - **(1)** For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified by the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the biosimilar biological product application review process.
-  - **(2)** For each of the goals identified by the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
-    - **(A)** a justification for such determination and a description of the types of circumstances and trends, as applicable, under which biosimilar biological product applications missed the review goal times but were approved during the first cycle review, or review goals were missed; and
-    - **(B)** with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such 2 fiscal year.
+- **(a)** Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Act of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
+- **(b)** Not later than 120 days after the end of fiscal year 2013 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+- **(c)** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
 - **(d)**
-  - **(1)** Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
-  - **(2)** Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
-- **(e)** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
-- **(f)**
-  - **(1)** In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2027, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+  - **(1)** The Secretary shall contract with an independent accounting or consulting firm to study the workload volume and full costs associated with the process for the review of biosimilar biological product applications.
+  - **(2)** Not later than June 1, 2015 , the Secretary shall publish, for public comment, interim results of the study described under paragraph (1).
+  - **(3)** Not later than September 30, 2016 , the Secretary shall publish, for public comment, the final results of the study described under paragraph (1).
+- **(e)**
+  - **(1)** In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2017, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
     - **(A)** the Committee on Energy and Commerce of the House of Representatives;
     - **(B)** the Committee on Health, Education, Labor, and Pensions of the Senate;
     - **(C)** scientific and academic experts;
     - **(D)** health care professionals;
     - **(E)** representatives of patient and consumer advocacy groups; and
     - **(F)** the regulated industry.
-  - **(2)** Prior to beginning negotiations with the regulated industry on the reauthorization of this subpart, the Secretary shall—
-    - **(A)** publish a notice in the Federal Register requesting public input on the reauthorization;
-    - **(B)** hold a public meeting at which the public may present its views on the reauthorization;
-    - **(C)** provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this part; and
-    - **(D)** publish the comments on the Food and Drug Administration’s website.
-  - **(3)** Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
-  - **(4)** The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this subpart to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
-  - **(5)** After negotiations with the regulated industry, the Secretary shall—
+  - **(2)** After negotiations with the regulated industry, the Secretary shall—
     - **(A)** present the recommendations developed under paragraph (1) to the congressional committees specified in such paragraph;
     - **(B)** publish such recommendations in the Federal Register;
     - **(C)** provide for a period of 30 days for the public to provide written comments on such recommendations;
     - **(D)** hold a meeting at which the public may present its views on such recommendations; and
     - **(E)** after consideration of such public views and comments, revise such recommendations as necessary.
-  - **(6)** Not later than January 15, 2027 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
-  - **(7)**
-    - **(A)** The Secretary shall make publicly available, on the public website of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
-    - **(B)** The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+  - **(3)** Not later than January 15, 2017 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.

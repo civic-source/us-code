@@ -1,12 +1,23 @@
 ---
-title: "Section 17200 - Repealed. Pub. L. 116–260, div. Z, title III, § 3002(i)(1) , Dec. 27, 2020 , 134 Stat. 2495"
+title: "Section 17200 - Reports"
 usc_title: 42
 usc_section: "17200"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17200"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-03-30T03:06:22.990Z"
+status: "active"
 ---
 
-# §§ 17199, 17200. Repealed. Pub. L. 116–260, div. Z, title III, § 3002(i)(1) , Dec. 27, 2020 , 134 Stat. 2495
+# § 17200. Reports
 
+- **(a)** Not later than 3 years and 5 years after December 19, 2007 , the Secretary shall report to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on advanced concepts and technologies to maximize the geothermal resource potential of the United States. The reports shall include—
+  - **(1)** the use of carbon dioxide as an alternative geofluid with potential carbon sequestration benefits;
+  - **(2)** mineral recovery from geofluids;
+  - **(3)** use of geothermal energy to produce hydrogen;
+  - **(4)** use of geothermal energy to produce biofuels;
+  - **(5)** use of geothermal heat for oil recovery from oil shales and tar sands; and
+  - **(6)** other advanced geothermal technologies, including advanced drilling technologies and advanced power conversion technologies.
+- **(b)**
+  - **(1)** Not later than 36 months after December 19, 2007 , the Secretary shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an interim report describing the progress made under this part. At the end of 60 months, the Secretary shall submit to Congress a report on the results of projects undertaken under this part and other such information the Secretary considers appropriate.
+  - **(2)** As necessary, the Secretary shall report to the Congress on any legal, regulatory, or other barriers encountered that hinder economic development of these resources, and provide recommendations on legislative or other actions needed to address such impediments.

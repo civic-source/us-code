@@ -3,9 +3,10 @@ title: "Section 2121 - Voluntary contributions"
 usc_title: 50
 usc_section: "2121"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2121"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-03-30T03:06:37.673Z"
+status: "active"
 ---
 
 # § 2121. Voluntary contributions
@@ -20,6 +21,6 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(2)** used to purchase an additional life annuity;
   - **(3)** used to purchase an additional life annuity for the participant and to provide for a cash payment on the participant’s death to a beneficiary; or
   - **(4)** used to purchase an additional life annuity for the participant and a life annuity commencing on the participant’s death payable to a beneficiary, with a guaranteed return to the beneficiary or the beneficiary’s legal representative of an amount equal to the cash payment referred to in paragraph (3).
-- **(c)** The benefits provided by subsection (b)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
+- **(c)** The benefits provided by subsection (b)(2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
 - **(d)** A voluntary contribution account shall be paid in a lump sum at such time as the participant dies or separates from the Agency without entitlement to an annuity. In the case of death, the account shall be paid in the order of precedence specified in section 2071(c) of this title .
 - **(e)** Any benefit payable to a participant or to the participant’s beneficiary with respect to the additional contributions provided under this section shall be in addition to benefits otherwise provided under this subchapter.

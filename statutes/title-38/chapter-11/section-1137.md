@@ -3,12 +3,13 @@ title: "Section 1137 - Wartime presumptions for certain veterans"
 usc_title: 38
 usc_section: "1137"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1137"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-03-30T03:05:59.192Z"
+status: "active"
 ---
 
 # § 1137. Wartime presumptions for certain veterans
 
-For the purposes of this subchapter and subchapter V of this chapter and notwithstanding the provisions of sections 1132 and 1133 of this subchapter, the provisions of sections 1111, 1112, and 1113 of this chapter shall be applicable in the case of any veteran who served in the active military, naval, air, or space service after December 31, 1946 .
+For the purposes of this subchapter and subchapter V of this chapter and notwithstanding the provisions of sections 1132 and 1133 of this subchapter, the provisions of sections 1111, 1112, and 1113 of this chapter shall be applicable in the case of any veteran who served in the active military, naval, or air service after December 31, 1946 .
 

@@ -1,0 +1,15 @@
+---
+title: "Section 507 - Disposition of effects of decedents"
+usc_title: 14
+usc_section: "507"
+chapter: 13
+current_through: "PL 113-21"
+classification: "14 U.S.C. § 507"
+generated_at: "2026-03-30T03:04:26.485Z"
+status: "active"
+---
+
+# § 507. Disposition of effects of decedents
+
+All moneys, articles of value, papers, keepsakes, and other similar effects belonging to the deceased persons in the Coast Guard, not claimed by their legal heirs or next of kin, shall be deposited in safe custody, and if any such moneys, articles of value, papers, keepsakes, or other similar effects so deposited have been, or shall hereafter be, unclaimed for a period of two years from the date of the death of such person, such articles and effects shall be sold and the proceeds thereof, together with the moneys above mentioned, shall be deposited in the Treasury as miscellaneous receipts. The Secretary shall make diligent inquiry in every instance after the death of such person to ascertain the whereabouts of his heirs or next of kin, and prescribe necessary regulations to carry out the foregoing provisions. Claims may be presented hereunder at any time within five years after such moneys or proceeds have been so deposited in the Treasury, and, when supported by competent proof in any case after such deposit in the Treasury, shall be certified to Congress for consideration.
+

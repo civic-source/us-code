@@ -1,12 +1,15 @@
 ---
-title: "Section 957 - Omitted"
+title: "Section 957 - Allotments deemed full equalization"
 usc_title: 25
 usc_section: "957"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 957"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.858Z"
+status: "active"
 ---
 
-# § 957. Omitted
+# § 957. Allotments deemed full equalization
+
+Allotments in accordance with the provisions of this subchapter shall be deemed complete and full equalization of allotments on the Agua Caliente Reservation.
 

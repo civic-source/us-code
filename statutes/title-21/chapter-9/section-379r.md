@@ -3,18 +3,19 @@ title: "Section 379r - National uniformity for nonprescription drugs"
 usc_title: 21
 usc_section: "379r"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 379r"
-generated_at: "2026-03-30T02:54:54.275Z"
+generated_at: "2026-03-30T03:05:00.966Z"
+status: "active"
 ---
 
 # § 379r. National uniformity for nonprescription drugs
 
-- **(a)** Except as provided in subsection (b), (c)(1), (d), (e), or (f), no State or political subdivision of a State may establish or continue in effect any requirement—
+- **(a)** Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, no State or political subdivision of a State may establish or continue in effect any requirement—
   - **(1)** that relates to the regulation of a drug that is not subject to the requirements of section 353(b)(1) or 353(f)(1)(A) of this title; and
   - **(2)** that is different from or in addition to, or that is otherwise not identical with, a requirement under this chapter, the Poison Prevention Packaging Act of 1970 ( 15 U.S.C. 1471 et seq.), or the Fair Packaging and Labeling Act ( 15 U.S.C. 1451 et seq.).
 - **(b)**
-  - **(1)** Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a), under such conditions as may be prescribed in such regulation, a State or political subdivision requirement that—
+  - **(1)** Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a State or political subdivision requirement that—
     - **(A)** protects an important public interest that would otherwise be unprotected, including the health and safety of children;
     - **(B)** would not cause any drug to be in violation of any applicable requirement or prohibition under Federal law; and
     - **(C)** would not unduly burden interstate commerce.
@@ -23,10 +24,10 @@ generated_at: "2026-03-30T02:54:54.275Z"
   - **(1)** This section shall not apply to—
     - **(A)** any State or political subdivision requirement that relates to the practice of pharmacy; or
     - **(B)** any State or political subdivision requirement that a drug be dispensed only upon the prescription of a practitioner licensed by law to administer such drug.
-  - **(2)** For purposes of subsection (a), a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
+  - **(2)** For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 - **(d)**
-  - **(1)** In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997 ) or a final order under section 355h of this title by the Secretary establishing conditions under which the drug is generally recognized as safe and effective, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
-    - **(A)** a regulation or order in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
+  - **(1)** In the case of a drug described in subsection (a)(1) of this section that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997 ) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) of this section shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
+    - **(A)** a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2) of this section; or
     - **(B)** any other requirement in effect with respect to the drug pursuant to an amendment to such a statute made on or after November 21, 1997 .
   - **(2)** This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997 .
 - **(e)** Nothing in this section shall be construed to modify or otherwise affect any action or the liability of any person under the product liability law of any State.

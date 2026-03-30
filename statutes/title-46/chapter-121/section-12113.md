@@ -3,9 +3,10 @@ title: "Section 12113 - Fishery endorsement"
 usc_title: 46
 usc_section: "12113"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 12113"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-03-30T03:06:27.179Z"
+status: "active"
 ---
 
 # § 12113. Fishery endorsement
@@ -43,7 +44,7 @@ generated_at: "2026-03-30T02:56:15.558Z"
     - **(C)** the vessel—
       - **(i)** is either a rebuilt vessel or replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–627 );
       - **(ii)** is eligible for a fishery endorsement under this section; and
-      - **(iii)** in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 ( Public Law 108–447 ; 118 Stat. 2887 )); or
+      - **(iii)** in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277 ; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 ( Public Law 108–447 ; 118 Stat. 2887 ); or
     - **(D)** the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 - **(e)**
   - **(1)** The Administrator of the Maritime Administration shall administer subsections (c) and (d) with respect to vessels 100 feet or greater in registered length. The owner of each such vessel shall file a statement of citizenship setting forth all relevant facts regarding vessel ownership and control with the Administrator on an annual basis to demonstrate compliance with those provisions.
@@ -53,6 +54,6 @@ generated_at: "2026-03-30T02:56:15.558Z"
     - **(B)** the control of persons not eligible to own a vessel with a fishery endorsement under subsection (c) or (d), over the management, sales, financing, or other operations of an entity; and
     - **(C)** contracts involving the purchase over extended periods of time of all, or substantially all, of the living marine resources harvested by a fishing vessel.
 - **(f)** The Secretary shall establish reasonable and necessary requirements to demonstrate compliance with subsections (c) and (d), with respect to vessels measuring less than 100 feet in registered length, and shall seek to minimize the administrative burden on individuals who own and operate those vessels.
-- **(g)** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) or section 308 2 2 See References in Text note below. of the Interjurisdictional Fisheries Act of 1986 ( 16 U.S.C. 4107 ) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+- **(g)** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 ( 16 U.S.C. 4107 ) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 - **(h)** The Secretary shall revoke the fishery endorsement of any vessel subject to subsection (c) or (d) whose owner does not comply with those provisions.
 - **(i)** Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.

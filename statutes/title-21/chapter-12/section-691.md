@@ -3,9 +3,10 @@ title: "Section 691 - Omitted"
 usc_title: 21
 usc_section: "691"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 691"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-03-30T03:05:00.977Z"
+status: "omitted"
 ---
 
 # § 691. Omitted

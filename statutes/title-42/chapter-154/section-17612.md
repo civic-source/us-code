@@ -1,12 +1,28 @@
 ---
-title: "Section 17612 - Transferred"
+title: "Section 17612 - Establishment of National ICAC Task Force Program"
 usc_title: 42
 usc_section: "17612"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17612"
-generated_at: "2026-03-30T02:56:11.509Z"
+generated_at: "2026-03-30T03:06:22.996Z"
+status: "active"
 ---
 
-# § 17612. Transferred
+# § 17612. Establishment of National ICAC Task Force Program
 
+- **(a)**
+  - **(1)** There is established within the Department of Justice, under the general authority of the Attorney General, a National Internet Crimes Against Children Task Force Program (hereinafter in this subchapter referred to as the “ICAC Task Force Program”), which shall consist of a national program of State and local law enforcement task forces dedicated to developing effective responses to online enticement of children by sexual predators, child exploitation, and child obscenity and pornography cases.
+  - **(2)** It is the purpose and intent of Congress that the ICAC Task Force Program established under paragraph (1) is intended to continue the ICAC Task Force Program authorized under title I of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, and funded under title IV of the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5771 et seq.].
+- **(b)**
+  - **(1)** The ICAC Task Force Program established under subsection (a) shall include at least 1 ICAC task force in each State.
+  - **(2)** In order to maintain established capacity and continuity of investigations and prosecutions of child exploitation cases, the Attorney General, shall, in establishing the ICAC Task Force Program under subsection (a) consult with and consider all 59 task forces in existence on October 13, 2008 . The Attorney General shall include all existing ICAC task forces in the ICAC Task Force Program, unless the Attorney General makes a determination that an existing ICAC 1 1 So in original. Probably should be “ICAC task force”. does not have a proven track record of success.
+  - **(3)** The Attorney General shall—
+    - **(A)** conduct periodic reviews of the effectiveness of each ICAC task force established under this section; and
+    - **(B)** have the discretion to establish a new task force if the Attorney General determines that such decision will enhance the effectiveness of combating child exploitation provided that the Attorney General notifies Congress in advance of any such decision and that each state 2 2 So in original. Probably should be capitalized. maintains at least 1 ICAC task force at all times.
+  - **(4)**
+    - **(A)** The Attorney General may establish national training programs to support the mission of the ICAC task forces, including the effective use of the National Internet Crimes Against Children Data System.
+    - **(B)** In establishing training courses under this paragraph, the Attorney General may not award any one entity other than a law enforcement agency more than $4,000,000 annually to establish and conduct training courses for ICAC task force members and other law enforcement officials.
+    - **(C)** The Attorney General shall—
+      - **(i)** conduct periodic reviews of the effectiveness of each training session authorized by this paragraph; and
+      - **(ii)** consider outside reports related to the effective use of Federal funding in making future grant awards for training.

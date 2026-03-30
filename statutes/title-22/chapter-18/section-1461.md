@@ -3,9 +3,10 @@ title: "Section 1461 - General authorization"
 usc_title: 22
 usc_section: "1461"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1461"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-03-30T03:04:53.609Z"
+status: "active"
 ---
 
 # § 1461. General authorization

@@ -3,9 +3,10 @@ title: "Section 5946 - Membership fees; expenses of attendance at meetings; limi
 usc_title: 5
 usc_section: "5946"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 5946"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-03-30T03:04:06.085Z"
+status: "active"
 ---
 
 # § 5946. Membership fees; expenses of attendance at meetings; limitations
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:52:56.028Z"
 Except as authorized by a specific appropriation, by express terms in a general appropriation, or by sections 4109 and 4110 of this title, appropriated funds may not be used for payment of—
 
   - **(1)** membership fees or dues of an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia in a society or association; or
-  - **(2)** expenses of attendance of an individual at meetings or conventions of members of a society or association.
+  - **(2)** expenses of attendance of an individual at meetings or conventions of members of a society or association. This section does not prevent the use of appropriations for the Department of Agriculture for expenses incident to the delivery of lectures, the giving of instructions, or the acquiring of information at meetings by its employees on subjects relating to the authorized work of the Department.

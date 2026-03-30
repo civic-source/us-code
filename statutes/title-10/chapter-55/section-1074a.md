@@ -3,9 +3,10 @@ title: "Section 1074a - Medical and dental care: members on duty other than acti
 usc_title: 10
 usc_section: "1074a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1074a"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-03-30T03:04:17.242Z"
+status: "active"
 ---
 
 # § 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days

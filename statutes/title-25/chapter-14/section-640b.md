@@ -1,12 +1,15 @@
 ---
-title: "Section 640b - Omitted"
+title: "Section 640b - Grants"
 usc_title: 25
 usc_section: "640b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 640b"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.846Z"
+status: "active"
 ---
 
-# § 640b. Omitted
+# § 640b. Grants
+
+The Secretary of the Interior is authorized to make grants to the Navajo Nation to assist the tribe in the construction, maintenance, and operation of Diné College. Such college shall be designed and operated by the Navajo Nation to insure that the Navajo people and other qualified applicants have educational opportunities which are suited to their unique needs and interests.
 

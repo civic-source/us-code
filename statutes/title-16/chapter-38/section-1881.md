@@ -3,9 +3,10 @@ title: "Section 1881 - Registration and information management"
 usc_title: 16
 usc_section: "1881"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1881"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-03-30T03:04:48.586Z"
+status: "active"
 ---
 
 # § 1881. Registration and information management
@@ -34,12 +35,12 @@ generated_at: "2026-03-30T02:54:22.994Z"
   - **(4)** a description of fishing gear used in the fishery, including the amount and type of such gear and the appropriate unit of fishing effort; and
   - **(5)** other information required under subsection 1 1 So in original. Probably should be “section”. 1853(a)(5) of this title or requested by the Council under section 1881a of this title .
 - **(d)** Any registration recommended under this section shall not be considered a permit for the purposes of this chapter, and the Secretary may not propose to revoke, suspend, deny, or impose any other conditions or restrictions on any such registration or the use of such registration under this chapter.
-- **(e)** Within one year after October 11, 1996 , the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c). The proposal shall include—
+- **(e)** Within one year after October 11, 1996 , the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
   - **(1)** a description of the arrangements of the Secretary for consultation and cooperation with the department in which the Coast Guard is operating, the States, the Councils, Marine Fisheries Commissions, the fishing industry and other interested parties; and
   - **(2)** any proposed regulations or legislation necessary to implement the proposal.
-- **(f)** Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
+- **(f)** Within 60 days after the end of the comment period and after consideration of comments received under subsection (e) of this section, the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
   - **(1)** any modifications made after comment and consultation;
-  - **(2)** a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4); and
+  - **(2)** a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4) of this section; and
   - **(3)** recommendations for any such additional legislation as the Secretary considers necessary or desirable to implement the proposed system.
 - **(g)**
   - **(1)** The Secretary shall establish and implement a regionally based registry program for recreational fishermen in each of the 8 fishery management regions. The program, which shall not require a fee before January 1, 2011 , shall provide for—
@@ -61,25 +62,4 @@ generated_at: "2026-03-30T02:54:22.994Z"
       - **(iv)** development of a weather corrective factor that can be applied to recreational catch and effort estimates; and
       - **(v)** an independent committee composed of recreational fishermen, academics, persons with expertise in stock assessments and survey design, and appropriate personnel from the National Marine Fisheries Service to review the collection estimates, geographic, and other variables related to dockside intercepts and to identify deficiencies in recreational data collection, and possible correction measures.
     - **(D)** The Secretary shall complete the program under this paragraph and implement the improved Marine Recreational Fishery Statistics Survey not later than January 1, 2009 .
-  - **(4)**
-    - **(A)** The Secretary shall establish a partnership with a State to develop best practices for implementing the State program established under paragraph (2).
-    - **(B)** The Secretary shall develop guidance, in cooperation with the States, that details best practices for administering State programs pursuant to paragraph (2), and provide such guidance to the States.
-    - **(C)** The Secretary shall submit to the appropriate committees of Congress and publish biennial reports that include—
-      - **(i)** the estimated accuracy of—
-        - **(I)** the information provided under subparagraphs (A) and (B) of paragraph (1) for each registry program established under that paragraph; and
-        - **(II)** the information from each State program that is used to assist in completing surveys or evaluating effects of conservation and management measures under paragraph (2);
-      - **(ii)** priorities for improving recreational fishing data collection; and
-      - **(iii)** an explanation of any use of information collected by such State programs and by the Secretary.
-    - **(D)**
-      - **(i)** The Secretary may make grants to States to—
-        - **(I)** improve implementation of State programs consistent with this subsection; and
-        - **(II)** assist such programs in complying with requirements related to changes in recreational data collection under paragraph (3).
-      - **(ii)** Any funds awarded through such grants shall be used to support data collection, quality assurance, and outreach to entities submitting such data. The Secretary shall prioritize such grants based on the ability of the grant to improve the quality and accuracy of such programs.
-  - **(5)** Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.
-- **(h)** The Secretary shall—
-  - **(1)** within 90 days after December 31, 2018 , enter into an agreement with the National Academy of Sciences to evaluate, in the form of a report—
-    - **(A)** how the design of the Marine Recreational Information Program, for the purposes of stock assessment and the determination of stock management reference points, can be improved to better meet the needs of in-season management of annual catch limits under section 1853(a)(15) of this title ; and
-    - **(B)** what actions the Secretary, Councils, and States could take to improve the accuracy and timeliness of data collection and analysis to improve the Marine Recreational Information Program and facilitate in-season management; and
-  - **(2)** within 6 months after receiving the report under paragraph (1), submit to Congress recommendations regarding—
-    - **(A)** changes to be made to the Marine Recreational Information Program to make the program better meet the needs of in-season management of annual catch limits and other requirements under such section; and
-    - **(B)** alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
+  - **(4)** Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.

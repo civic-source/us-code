@@ -3,9 +3,10 @@ title: "Section 4104a - Notice requirements"
 usc_title: 42
 usc_section: "4104a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4104a"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-03-30T03:06:22.710Z"
+status: "active"
 ---
 
 # § 4104a. Notice requirements
@@ -19,6 +20,6 @@ generated_at: "2026-03-30T02:56:11.199Z"
     - **(C)** a statement that flood insurance coverage may be purchased under the national flood insurance program and is also available from private insurers, as required under section 102(b)(6) of the Flood Disaster Protection Act of 1973 ( 42 U.S.C. 4012a(b)(6) ); and
     - **(D)** any other information that the Administrator considers necessary to carry out the purposes of the national flood insurance program.
 - **(b)**
-  - **(1)** Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1), to notify the Administrator (or the designee of the Administrator) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Administrator (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
-  - **(2)** Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
+  - **(1)** Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Administrator (or the designee of the Administrator) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Administrator (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+  - **(2)** Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) of this section that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
 - **(c)** The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.

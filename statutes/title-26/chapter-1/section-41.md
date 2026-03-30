@@ -3,9 +3,10 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-30T02:55:27.594Z"
+generated_at: "2026-03-30T03:05:18.521Z"
+status: "active"
 ---
 
 # § 41. Credit for increasing research activities
@@ -82,18 +83,24 @@ generated_at: "2026-03-30T02:55:27.594Z"
     - **(C)** In no event shall the fixed-base percentage exceed 16 percent.
     - **(D)** The percentages determined under subparagraphs (A) and (B)(ii) shall be rounded to the nearest 1/100th of 1 percent.
   - **(4)**
-    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
+    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of—
+      - **(i)** 3 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
+      - **(ii)** 4 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
+      - **(iii)** 5 percent of so much of such expenses as exceeds 2 percent of such average.
+    - **(B)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+  - **(5)**
+    - **(A)** At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent (12 percent in the case of taxable years ending before January 1, 2009 ) of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
     - **(B)**
       - **(i)** The credit under this paragraph shall be determined under this subparagraph if the taxpayer has no qualified research expenses in any one of the 3 taxable years preceding the taxable year for which the credit is being determined.
       - **(ii)** The credit determined under this subparagraph shall be equal to 6 percent of the qualified research expenses for the taxable year.
-    - **(C)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
-  - **(5)**
+    - **(C)** An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary. An election under this paragraph may not be made for any taxable year to which an election under paragraph (4) applies.
+  - **(6)**
     - **(A)** Notwithstanding whether the period for filing a claim for credit or refund has expired for any taxable year taken into account in determining the fixed-base percentage, the qualified research expenses taken into account in computing such percentage shall be determined on a basis consistent with the determination of qualified research expenses for the credit year.
     - **(B)** The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer’s qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer’s fixed-base percentage.
-  - **(6)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
+  - **(7)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified research” means research—
-    - **(A)** with respect to which expenditures are treated as domestic research or experimental expenditures under section 174A,
+    - **(A)** with respect to which expenditures may be treated as expenses under section 174,
     - **(B)** which is undertaken for the purpose of discovering information—
       - **(i)** which is technological in nature, and
       - **(ii)** the application of which is intended to be useful in the development of a new or improved business component of the taxpayer, and
@@ -159,8 +166,8 @@ generated_at: "2026-03-30T02:55:27.594Z"
         - **(I)** in computing the amount of the credit under this section (as in effect during the base period) during any taxable year in the base period, or
         - **(II)** as a basic research payment for purposes of this section.
     - **(C)**
-      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(A)(ii) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 2016. Such substitution shall be in lieu of the substitution under clause (i).
+      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
   - **(6)** For purposes of this subsection, the term “qualified organization” means any of the following organizations:
     - **(A)** Any educational organization which—
       - **(i)** is an institution of higher education (within the meaning of section 3304(f)), and
@@ -253,40 +260,10 @@ generated_at: "2026-03-30T02:55:27.594Z"
   - **(3)** is a beneficiary of an estate or trust, or
   - **(4)** is a shareholder in an S corporation,
 - **(h)**
-  - **(1)** At the election of a qualified small business for any taxable year, section 3111(f) shall apply to the payroll tax credit portion of the credit otherwise determined under subsection (a) for the taxable year and such portion shall not be treated (other than for purposes of section 280C) as a credit determined under subsection (a).
-  - **(2)** For purposes of this subsection, the payroll tax credit portion of the credit determined under subsection (a) with respect to any qualified small business for any taxable year is the least of—
-    - **(A)** the amount specified in the election made under this subsection,
-    - **(B)** the credit determined under subsection (a) for the taxable year (determined before the application of this subsection), or
-    - **(C)** in the case of a qualified small business other than a partnership or S corporation, the amount of the business credit carryforward under section 39 carried from the taxable year (determined before the application of this subsection to the taxable year).
-  - **(3)** For purposes of this subsection—
-    - **(A)** The term “qualified small business” means, with respect to any taxable year—
-      - **(i)** a corporation or partnership, if—
-        - **(I)** the gross receipts (as determined under the rules of section 448(c)(3), without regard to subparagraph (A) thereof) of such entity for the taxable year is less than $5,000,000, and
-        - **(II)** such entity did not have gross receipts (as so determined) for any taxable year preceding the 5-taxable-year period ending with such taxable year, and
-      - **(ii)** any person (other than a corporation or partnership) who meets the requirements of subclauses (I) and (II) of clause (i), determined—
-        - **(I)** by substituting “person” for “entity” each place it appears, and
-        - **(II)** by only taking into account the aggregate gross receipts received by such person in carrying on all trades or businesses of such person.
-    - **(B)** Such term shall not include an organization which is exempt from taxation under section 501.
-  - **(4)**
-    - **(A)** Any election under this subsection for any taxable year—
-      - **(i)** shall specify the amount of the credit to which such election applies,
-      - **(ii)** shall be made on or before the due date (including extensions) of—
-        - **(I)** in the case of a qualified small business which is a partnership, the return required to be filed under section 6031,
-        - **(II)** in the case of a qualified small business which is an S corporation, the return required to be filed under section 6037, and
-        - **(III)** in the case of any other qualified small business, the return of tax for the taxable year, and
-      - **(iii)** may be revoked only with the consent of the Secretary.
-    - **(B)**
-      - **(i)**
-        - **(I)** The amount specified in any election made under this subsection shall not exceed $250,000.
-        - **(II)** In the case of taxable years beginning after December 31, 2022 , the amount in subclause (I) shall be increased by $250,000.
-      - **(ii)** A person may not make an election under this subsection if such person (or any other person treated as a single taxpayer with such person under paragraph (5)(A)) has made an election under this subsection for 5 or more preceding taxable years.
-    - **(C)** In the case of a qualified small business which is a partnership or S corporation, the election made under this subsection shall be made at the entity level.
-  - **(5)**
-    - **(A)** Except as provided in subparagraph (B), all persons or entities treated as a single taxpayer under subsection (f)(1) shall be treated as a single taxpayer for purposes of this subsection.
-    - **(B)** For purposes of this subsection and section 3111(f)—
-      - **(i)** each of the persons treated as a single taxpayer under subparagraph (A) may separately make the election under paragraph (1) for any taxable year, and
-      - **(ii)** each of the $250,000 amounts under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
-  - **(6)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
-    - **(A)** regulations to prevent the avoidance of the purposes of the limitations and aggregation rules under this subsection through the use of successor companies or other means,
-    - **(B)** regulations to minimize compliance and record-keeping burdens under this subsection, and
-    - **(C)** regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
+  - **(1)** This section shall not apply to any amount paid or incurred—
+    - **(A)** after June 30, 1995 , and before July 1, 1996 , or
+    - **(B)** after December 31, 2013 .
+  - **(2)** No election under subsection (c)(4) shall apply to taxable years beginning after December 31, 2008 .
+  - **(2)** In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year—
+    - **(A)** the amount determined under subsection (c)(1)(B) with respect to such taxable year shall be the amount which bears the same ratio to such amount (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year, and
+    - **(B)** for purposes of subsection (c)(5), the average qualified research expenses for the preceding 3 taxable years shall be the amount which bears the same ratio to such average qualified research expenses (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.

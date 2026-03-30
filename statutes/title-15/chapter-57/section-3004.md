@@ -3,9 +3,10 @@ title: "Section 3004 - Regulation of interstate off-track wagering"
 usc_title: 15
 usc_section: "3004"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3004"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-03-30T03:04:31.215Z"
+status: "active"
 ---
 
 # § 3004. Regulation of interstate off-track wagering
@@ -17,8 +18,8 @@ generated_at: "2026-03-30T02:54:08.185Z"
   - **(2)** the host racing commission;
   - **(3)** the off-track racing commission.
 - **(b)**
-  - **(1)** In addition to the requirement of subsection (a), any off-track betting office shall obtain the approval of—
+  - **(1)** In addition to the requirement of subsection (a) of this section, any off-track betting office shall obtain the approval of—
     - **(A)** all currently operating tracks within 60 miles of such off-track betting office; and
     - **(B)** if there are no currently operating tracks within 60 miles then the closest currently operating track in an adjoining State.
-  - **(2)** Notwithstanding the provisions of paragraph (1) of this subsection, any off-track betting office in a State with at least 250 days of on-track parimutuel horseracing a year, may accept interstate off-track wagers for a total of 60 racing days and 25 special events a year without the approval required by paragraph (1), if with respect to such 60 racing days, there is no racing of the same type at the same time of day being conducted within the off-track betting State within 60 miles of the off-track betting office accepting the wager, or such racing program cannot be completed. Excluded from such 60 days and from the consent required by subsection (b)(1) may be dark days which occur during a regularly scheduled race meeting in said off-track betting State. In order to accept any interstate off-track wager under the terms of the preceding sentence the off-track betting office shall make identical offers to any racing association described in subparagraph (A) of subsection (b)(1). Nothing in this subparagraph shall be construed to reduce or eliminate the necessity of obtaining all the approvals required by subsection (a).
+  - **(2)** Notwithstanding the provisions of paragraph (1) of this subsection, any off-track betting office in a State with at least 250 days of on-track parimutuel horseracing a year, may accept interstate off-track wagers for a total of 60 racing days and 25 special events a year without the approval required by paragraph (1), if with respect to such 60 racing days, there is no racing of the same type at the same time of day being conducted within the off-track betting State within 60 miles of the off-track betting office accepting the wager, or such racing program cannot be completed. Excluded from such 60 days and from the consent required by subsection (b)(1) of this section may be dark days which occur during a regularly scheduled race meeting in said off-track betting State. In order to accept any interstate off-track wager under the terms of the preceding sentence the off-track betting office shall make identical offers to any racing association described in subparagraph (A) of subsection (b)(1) of this section. Nothing in this subparagraph shall be construed to reduce or eliminate the necessity of obtaining all the approvals required by subsection (a) of this section.
 - **(c)** No parimutuel off-track betting system may employ a takeout for an interstate wager which is greater than the takeout for corresponding wagering pools of off-track wagers on races run within the off-track State except where such greater takeout is authorized by State law in the off-track State.

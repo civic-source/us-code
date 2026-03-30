@@ -3,9 +3,10 @@ title: "Section 1526 - Merchandise bearing American trade-mark"
 usc_title: 19
 usc_section: "1526"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1526"
-generated_at: "2026-03-30T02:54:24.641Z"
+generated_at: "2026-03-30T03:04:42.014Z"
+status: "active"
 ---
 
 # § 1526. Merchandise bearing American trade-mark
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:54:24.641Z"
   - **(2)** by gift to such eleemosynary institutions as in the opinion of the Secretary have a need for such merchandise, or
   - **(3)** more than 90 days after the date of forfeiture, by sale by the Customs Service at public auction under such regulations as the Secretary prescribes, except that before making any such sale the Secretary shall determine that no Federal, State, or local government agency or eleemosynary institution has established a need for such merchandise under paragraph (1) or (2).
 - **(f)**
-  - **(1)** Any person who directs, assists financially or otherwise, or aids and abets the importation of merchandise for sale or public distribution that is seized under subsection (e) shall be subject to a civil fine.
+  - **(1)** Any person who directs, assists financially or otherwise, or aids and abets the importation of merchandise for sale or public distribution that is seized under subsection (e) of this section shall be subject to a civil fine.
   - **(2)** For the first such seizure, the fine shall be not more than the value that the merchandise would have had if it were genuine, according to the manufacturer’s suggested retail price, determined under regulations promulgated by the Secretary.
   - **(3)** For the second seizure and thereafter, the fine shall be not more than twice the value that the merchandise would have had if it were genuine, as determined under regulations promulgated by the Secretary.
   - **(4)** The imposition of a fine under this subsection shall be within the discretion of the Customs Service, and shall be in addition to any other civil or criminal penalty or other remedy authorized by law.

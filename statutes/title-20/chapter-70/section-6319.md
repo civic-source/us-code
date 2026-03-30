@@ -1,12 +1,61 @@
 ---
-title: "Section 6319 - Repealed. Pub. L. 114–95, title I, § 1000(1) , Dec. 10, 2015 , 129 Stat. 1814"
+title: "Section 6319 - Qualifications for teachers and paraprofessionals"
 usc_title: 20
 usc_section: "6319"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 6319"
-generated_at: "2026-03-30T02:54:48.195Z"
+generated_at: "2026-03-30T03:04:46.332Z"
+status: "active"
 ---
 
-# § 6319. Repealed. Pub. L. 114–95, title I, § 1000(1) , Dec. 10, 2015 , 129 Stat. 1814
+# § 6319. Qualifications for teachers and paraprofessionals
 
+- **(a)**
+  - **(1)** Beginning with the first day of the first school year after January 8, 2002 , each local educational agency receiving assistance under this part shall ensure that all teachers hired after such day and teaching in a program supported with funds under this part are highly qualified.
+  - **(2)** As part of the plan described in section 6311 of this title , each State educational agency receiving assistance under this part shall develop a plan to ensure that all teachers teaching in core academic subjects within the State are highly qualified not later than the end of the 2005–2006 school year. Such plan shall establish annual measurable objectives for each local educational agency and school that, at a minimum—
+    - **(A)** shall include an annual increase in the percentage of highly qualified teachers at each local educational agency and school, to ensure that all teachers teaching in core academic subjects in each public elementary school and secondary school are highly qualified not later than the end of the 2005–2006 school year;
+    - **(B)** shall include an annual increase in the percentage of teachers who are receiving high-quality professional development to enable such teachers to become highly qualified and successful classroom teachers; and
+    - **(C)** may include such other measures as the State educational agency determines to be appropriate to increase teacher qualifications.
+  - **(3)** As part of the plan described in section 6312 of this title , each local educational agency receiving assistance under this part shall develop a plan to ensure that all teachers teaching within the school district served by the local educational agency are highly qualified not later than the end of the 2005–2006 school year.
+- **(b)**
+  - **(1)**
+    - **(A)** Each State educational agency described in subsection (a)(2) of this section shall require each local educational agency receiving funds under this part to publicly report, each year, beginning with the 2002–2003 school year, the annual progress of the local educational agency as a whole and of each of the schools served by the agency, in meeting the measurable objectives described in subsection (a)(2) of this section.
+    - **(B)** Each State educational agency receiving assistance under this part shall prepare and submit each year, beginning with the 2002–2003 school year, a report to the Secretary, describing the State educational agency’s progress in meeting the measurable objectives described in subsection (a)(2) of this section.
+    - **(C)** A State educational agency or local educational agency may submit information from the reports described in section 6311(h) of this title for the purposes of this subsection, if such report is modified, as may be necessary, to contain the information required by this subsection, and may submit such information as a part of the reports required under section 6311(h) of this title .
+  - **(2)** Each year, beginning with the 2002–2003 school year, the Secretary shall publicly report the annual progress of State educational agencies, local educational agencies, and schools, in meeting the measurable objectives described in subsection (a)(2) of this section.
+- **(c)**
+  - **(1)** Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired after January 8, 2002 , and working in a program supported with funds under this part shall have—
+    - **(A)** completed at least 2 years of study at an institution of higher education;
+    - **(B)** obtained an associate’s (or higher) degree; or
+    - **(C)** met a rigorous standard of quality and can demonstrate, through a formal State or local academic assessment—
+      - **(i)** knowledge of, and the ability to assist in instructing, reading, writing, and mathematics; or
+      - **(ii)** knowledge of, and the ability to assist in instructing, reading readiness, writing readiness, and mathematics readiness, as appropriate.
+  - **(2)** The receipt of a secondary school diploma (or its recognized equivalent) shall be necessary but not sufficient to satisfy the requirements of paragraph (1)(C).
+- **(d)** Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired before January 8, 2002 , and working in a program supported with funds under this part shall, not later than 4 years after January 8, 2002 , satisfy the requirements of subsection (c) of this section.
+- **(e)** Subsections (c) and (d) of this section shall not apply to a paraprofessional—
+  - **(1)** who is proficient in English and a language other than English and who provides services primarily to enhance the participation of children in programs under this part by acting as a translator; or
+  - **(2)** whose duties consist solely of conducting parental involvement activities consistent with section 6318 of this title .
+- **(f)** Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals working in a program supported with funds under this part, regardless of the paraprofessionals’ hiring date, have earned a secondary school diploma or its recognized equivalent.
+- **(g)**
+  - **(1)** Each local educational agency receiving assistance under this part shall ensure that a paraprofessional working in a program supported with funds under this part is not assigned a duty inconsistent with this subsection.
+  - **(2)** A paraprofessional described in paragraph (1) may be assigned—
+    - **(A)** to provide one-on-one tutoring for eligible students, if the tutoring is scheduled at a time when a student would not otherwise receive instruction from a teacher;
+    - **(B)** to assist with classroom management, such as organizing instructional and other materials;
+    - **(C)** to provide assistance in a computer laboratory;
+    - **(D)** to conduct parental involvement activities;
+    - **(E)** to provide support in a library or media center;
+    - **(F)** to act as a translator; or
+    - **(G)** to provide instructional services to students in accordance with paragraph (3).
+  - **(3)** A paraprofessional described in paragraph (1)—
+    - **(A)** may not provide any instructional service to a student unless the paraprofessional is working under the direct supervision of a teacher consistent with this section; and
+    - **(B)** may assume limited duties that are assigned to similar personnel who are not working in a program supported with funds under this part, including duties beyond classroom instruction or that do not benefit participating children, so long as the amount of time spent on such duties is the same proportion of total work time as prevails with respect to similar personnel at the same school.
+- **(h)** A local educational agency receiving funds under this part may use such funds to support ongoing training and professional development to assist teachers and paraprofessionals in satisfying the requirements of this section.
+- **(i)**
+  - **(1)** In verifying compliance with this section, each local educational agency, at a minimum, shall require that the principal of each school operating a program under section 6314 or 6315 of this title attest annually in writing as to whether such school is in compliance with the requirements of this section.
+  - **(2)** Copies of attestations under paragraph (1)—
+    - **(A)** shall be maintained at each school operating a program under section 6314 or 6315 of this title and at the main office of the local educational agency; and
+    - **(B)** shall be available to any member of the general public on request.
+- **(j)** Funds provided under this part that are used for professional development purposes may be combined with funds provided under subchapter II of this chapter, other Acts, and other sources.
+- **(k)** Except as provided in subsection ( l ) of this section, no State educational agency shall require a school or a local educational agency to expend a specific amount of funds for professional development activities under this part, except that this paragraph shall not apply with respect to requirements under section 6316(c)(3) of this title .
+- **(l)** Each local educational agency that receives funds under this part shall use not less than 5 percent, or more than 10 percent, of such funds for each of fiscal years 2002 and 2003, and not less than 5 percent of the funds for each subsequent fiscal year, for professional development activities to ensure that teachers who are not highly qualified become highly qualified not later than the end of the 2005–2006 school year.

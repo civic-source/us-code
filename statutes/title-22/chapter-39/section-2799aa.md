@@ -3,9 +3,10 @@ title: "Section 2799aa - Nuclear enrichment transfers"
 usc_title: 22
 usc_section: "2799aa"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2799aa"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-03-30T03:04:53.658Z"
+status: "active"
 ---
 
 # § 2799aa. Nuclear enrichment transfers
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
   - **(1)** the supplying country and receiving country have reached agreement to place all such equipment, materials, or technology, upon delivery, under multilateral auspices and management when available; and
   - **(2)** the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel and facilities in such country under the safeguards system of such Agency.
 - **(b)**
-  - **(1)** Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that—
+  - **(1)** Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that—
     - **(A)** the termination of such assistance would have a serious adverse effect on vital United States interests; and
     - **(B)** he has received reliable assurances that the country in question will not acquire or develop nuclear weapons or assist other nations in doing so.
   - **(2)**

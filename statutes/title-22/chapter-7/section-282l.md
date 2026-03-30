@@ -3,9 +3,10 @@ title: "Section 282l - Capital stock increase"
 usc_title: 22
 usc_section: "282l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 282l"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-03-30T03:04:53.592Z"
+status: "active"
 ---
 
 # § 282l. Capital stock increase
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:55:05.314Z"
     - **(A)** vote for an increase of 1,000,000 shares in the authorized capital stock of the Corporation; and
     - **(B)** subscribe on behalf of the United States to 250,000 additional shares of the capital stock of the Corporation.
   - **(2)** The subscription authority provided in paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-- **(b)** In order to pay for the subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
+- **(b)** In order to pay for the subscription authorized in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.

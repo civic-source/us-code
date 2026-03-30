@@ -3,9 +3,10 @@ title: "Section 5678 - Edward R. Madigan United States Agricultural Export Excel
 usc_title: 7
 usc_section: "5678"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5678"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-03-30T03:04:20.993Z"
+status: "active"
 ---
 
 # § 5678. Edward R. Madigan United States Agricultural Export Excellence Award
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
     - **(B)** recognizing achievements of those who have exhibited or supported entrepreneurial efforts to expand and create new markets for United States agricultural exports or increase the volume or value of United States agricultural exports; and
     - **(C)** disseminating information on successful methods used to develop and expand markets for United States agricultural exports.
 - **(b)** There is established the Edward R. Madigan United States Agricultural Export Excellence Award, which shall be evidenced by a medal bearing the inscription “Edward R. Madigan United States Agricultural Export Excellence Award”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary of Agriculture (referred to in this section as the “Secretary”) may prescribe.
-- **(c)** The President or the Secretary (on the basis of recommendations received from the board established under subsection (h)) shall periodically provide the award to companies and other entities that in the judgment of the President or the Secretary substantially encourage entrepreneurial efforts in the food and agriculture sector for advancing United States agricultural exports.
+- **(c)** The President or the Secretary (on the basis of recommendations received from the board established under subsection (h) of this section) shall periodically provide the award to companies and other entities that in the judgment of the President or the Secretary substantially encourage entrepreneurial efforts in the food and agriculture sector for advancing United States agricultural exports.
 - **(d)** The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary considers proper.
 - **(e)** An entity to which an award is made under this section may publicize the receipt of the award by the entity and use the award in advertising of the entity.
 - **(f)** Separate awards shall be made to qualifying entities in each of the following categories:
@@ -29,16 +30,16 @@ generated_at: "2026-03-30T02:53:42.418Z"
   - **(3)** Creative marketing of products or services in agricultural export markets.
 - **(g)** An entity may qualify for an award under this section only if the entity—
   - **(1)**
-    - **(A)** applies to the board established under subsection (h) in writing for the award; or
+    - **(A)** applies to the board established under subsection (h) of this section in writing for the award; or
     - **(B)** is recommended for the award by a Governor of a State;
   - **(2)**
     - **(A)** has exhibited significant entrepreneurial effort to create new markets for United States agricultural exports or increase United States agricultural exports; or
     - **(B)** has provided significant assistance to others in an effort to create new markets for United States agricultural exports or increase United States agricultural exports;
-  - **(3)** has not received another award in the same category under subsection (f) during the preceding 5-year period; and
+  - **(3)** has not received another award in the same category under subsection (f) of this section during the preceding 5-year period; and
   - **(4)** meets such other requirements and specifications as the Secretary determines are appropriate to achieve the objectives of this section.
 - **(h)**
   - **(1)** The Secretary shall appoint a board of evaluators, consisting of at least 5 individuals from the private sector selected for their knowledge and experience in exporting United States agricultural products.
-  - **(2)** The board shall meet at least once annually to review and evaluate all applicants and entities recommended by States under subsection (g)(1).
+  - **(2)** The board shall meet at least once annually to review and evaluate all applicants and entities recommended by States under subsection (g)(1) of this section.
   - **(3)** The board shall report its recommendations concerning the making of the award to the Secretary.
   - **(4)** Each member of the board may serve a term of not to exceed 3 years.
 - **(i)** The Secretary may seek and accept gifts from public and private sources to carry out this section.

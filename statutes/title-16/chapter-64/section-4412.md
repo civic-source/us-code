@@ -3,9 +3,10 @@ title: "Section 4412 - Limitation on assessments against Migratory Bird Conserva
 usc_title: 16
 usc_section: "4412"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 4412"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-03-30T03:04:48.622Z"
+status: "active"
 ---
 
 # § 4412. Limitation on assessments against Migratory Bird Conservation Fund

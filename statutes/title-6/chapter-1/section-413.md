@@ -3,9 +3,10 @@ title: "Section 413 - Use of counternarcotics enforcement activities in certain 
 usc_title: 6
 usc_section: "413"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 413"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-03-30T03:04:24.348Z"
+status: "active"
 ---
 
 # § 413. Use of counternarcotics enforcement activities in certain employee performance appraisals
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(2)** the degree to which that employee cooperated with or contributed to the efforts of other employees, either within the Department or other Federal, State, or local agencies, in counternarcotics enforcement.
 - **(b)** For purposes of this section—
   - **(1)** the term “National Drug Control Program Agency” means—
-    - **(A)** a National Drug Control Program Agency 1 1 So in original. Probably should be “agency”. , as defined in section 1701(7) 2 2 See References in Text note below. of title 21 (as last in effect); and
+    - **(A)** a National Drug Control Program Agency, as defined in section 1701(7) of title 21 (as last in effect); and
     - **(B)** any subdivision of the Department that has a significant counternarcotics responsibility, as determined by—
       - **(i)** the counternarcotics officer, appointed under section 458 of this title ; or
       - **(ii)** if applicable, the counternarcotics officer’s successor in function (as determined by the Secretary); and

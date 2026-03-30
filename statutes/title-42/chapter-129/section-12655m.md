@@ -3,14 +3,15 @@ title: "Section 12655m - Joint programs"
 usc_title: 42
 usc_section: "12655m"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12655m"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-03-30T03:06:22.913Z"
+status: "active"
 ---
 
 # § 12655m. Joint programs
 
-- **(a)** The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.]).
-- **(b)** Regulations promulgated under subsection (a) shall establish standards for the approval of joint programs that meet both the purposes of this subchapter and the purposes of such statutes under which assistance is made available to support such projects.
+- **(a)** The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.]).
+- **(b)** Regulations promulgated under subsection (a) of this section shall establish standards for the approval of joint programs that meet both the purposes of this subchapter and the purposes of such statutes under which assistance is made available to support such projects.
 - **(c)** Program agencies may enter into contracts and other appropriate arrangements with local government agencies and nonprofit organizations for the operation or management of any projects or facilities under the program.
 - **(d)** The Corporation and program agencies carrying out programs under this division shall coordinate the programs with related Federal, State, local, and private activities.

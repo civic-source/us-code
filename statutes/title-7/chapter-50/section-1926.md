@@ -3,9 +3,10 @@ title: "Section 1926 - Water and waste facility loans and grants"
 usc_title: 7
 usc_section: "1926"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1926"
-generated_at: "2026-03-30T02:53:42.344Z"
+generated_at: "2026-03-30T03:04:20.943Z"
+status: "active"
 ---
 
 # § 1926. Water and waste facility loans and grants
@@ -23,12 +24,12 @@ generated_at: "2026-03-30T02:53:42.344Z"
         - **(II)** short-term costs incurred for replacement equipment, small-scale extension services, or other small capital projects that are not part of the regular operations and maintenance activities of existing water and wastewater systems.
       - **(ii)** To be eligible to obtain financing from a revolving fund under clause (i), an eligible entity must be eligible to obtain a loan, loan guarantee, or grant under paragraph (1) or this paragraph.
       - **(iii)** The amount of financing made to an eligible entity under this subparagraph shall not exceed—
-        - **(I)** $200,000 for costs described in clause (i)(I); and
-        - **(II)** $200,000 for costs described in clause (i)(II).
+        - **(I)** $100,000 for costs described in clause (i)(I); and
+        - **(II)** $100,000 for costs described in clause (i)(II).
       - **(iv)** The term of financing provided to an eligible entity under this subparagraph shall not exceed 10 years.
       - **(v)** The Secretary shall limit the amount of grant funds that may be used by a grant recipient for administrative costs incurred under this subparagraph.
       - **(vi)** A nonprofit entity receiving a grant under this subparagraph shall submit to the Secretary an annual report that describes the number and size of communities served and the type of financing provided.
-      - **(vii)** There are authorized to be appropriated to carry out this subparagraph $15,000,000 for each of fiscal years 2019 through 2023.
+      - **(vii)** There are authorized to be appropriated to carry out this subparagraph $30,000,000 for each of fiscal years 2008 through 2012.
     - **(C)**
       - **(i)** The Secretary may establish the Special Evaluation Assistance for Rural Communities and Households (SEARCH) program, to make predevelopment planning grants for feasibility studies, design assistance, and technical assistance, to financially distressed communities in rural areas with populations of 2,500 or fewer inhabitants for water and waste disposal projects described in paragraph (1), this paragraph, and paragraph (24).
       - **(ii)**
@@ -46,7 +47,18 @@ generated_at: "2026-03-30T02:53:42.344Z"
   - **(8)** In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
   - **(9)** No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the “Safe Drinking Water Act”) ( 42 U.S.C. 300f et seq.).
   - **(10)** No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
-  - **(11)** Repealed. Pub. L. 113–79, title VI, § 6012(b) , Feb. 7, 2014 , 128 Stat. 845 .
+  - **(11)**
+    - **(A)** The Secretary may make grants, not to exceed $1,500,000 annually, to public bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable the recipients—
+      - **(i)** to identify and analyze business opportunities, including opportunities in export markets, that will use local rural economic and human resources;
+      - **(ii)** to identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
+      - **(iii)** to establish business support centers and otherwise assist in the creation of new rural businesses, the development of methods of financing local businesses, and the enhancement of the capacity of local individuals and entities to engage in sound economic activities;
+      - **(iv)** to conduct regional, community, and local economic development planning and coordination, and leadership development; and
+      - **(v)** to establish centers for training, technology, and trade that will provide training to rural businesses in the utilization of interactive communications technologies to develop international trade opportunities and markets.
+    - **(B)** In awarding the grants, the Secretary shall consider, among other criteria to be established by the Secretary—
+      - **(i)** the extent to which the applicant provides development services in the rural service area of the applicant; and
+      - **(ii)** the capability of the applicant to accomplish the activities described in the relevant clauses of subparagraph (A).
+    - **(C)** The Secretary shall ensure, to the maximum extent practicable, that assistance provided under this paragraph is coordinated with and delivered in cooperation with similar services or assistance provided to rural residents by the National Institute of Food and Agriculture or other Federal agencies.
+    - **(D)** There are authorized to be appropriated to carry out this paragraph $15,000,000 for each of fiscal years 2008 through 2012.
   - **(12)**
     - **(A)** The Secretary shall, in cooperation with institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307 and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, establish a system for the dissemination of information and technical assistance on federally sponsored or funded programs. The system shall be for the use of institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307, and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, and other persons concerned with rural development.
     - **(B)** The informational system developed under this paragraph shall contain all pertinent information, including, but not limited to, information contained in the Federal Procurement Data System, Federal Assistance Program Retrieval System, Catalogue of Federal Domestic Assistance, Geographic Distribution of Federal Funds, United States Census, and Code of Federal Regulations.
@@ -56,12 +68,10 @@ generated_at: "2026-03-30T02:53:42.344Z"
   - **(14)**
     - **(A)** The Secretary may make grants to private nonprofit organizations for the purpose of enabling them to provide to associations described in paragraph (1) of this subsection technical assistance and training to—
       - **(i)** identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
-      - **(ii)** prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source;
-      - **(iii)** improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
-      - **(iv)** identify options to enhance the long-term sustainability of rural water and waste systems, including operational practices, revenue enhancements, partnerships, consolidation, regionalization, or contract services; and
-      - **(v)** address the contamination of drinking water and surface water supplies by emerging contaminants, including per- and polyfluoroalkyl substances.
+      - **(ii)** prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source; and
+      - **(iii)** improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas.
     - **(B)** In selecting recipients of grants to be made under subparagraph (A), the Secretary shall give priority to private nonprofit organizations that have experience in providing the technical assistance and training described in subparagraph (A) to associations serving rural areas in which residents have low income and in which water supply systems or waste facilities are unhealthful.
-    - **(C)** Not less than 3 percent and not more than 5 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 3 percent of those funds.
+    - **(C)** Not less than 1 nor more than 3 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
   - **(15)** In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and section 1927(a)(3)(A) of this title .
   - **(16)** Grants under paragraph (2) of this subsection may be used to pay the local share requirements of another Federal grant-in-aid program to the extent permitted under the law providing for such grant-in-aid program.
   - **(17)**
@@ -69,62 +79,56 @@ generated_at: "2026-03-30T02:53:42.344Z"
     - **(B)** If the Secretary determines that a design or materials, other than those that were recommended, should be used in the water or waste disposal facility, the Secretary shall provide such applicant or borrower with a comprehensive justification for such determination.
   - **(18)** In making or insuring loans or making grants under this subsection, the Secretary may not condition approval of such loans or grants upon any requirement, condition or certification other than those specified under this chapter.
   - **(19)**
-    - **(A)** The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian Tribes (as defined in section 5304(e) of title 25 ), and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
+    - **(A)** The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian tribes (as such term is defined under section 450b(e) of title 25 ),, 1 1 So in original. and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
     - **(B)**
       - **(i)** Except as provided in clauses (ii) and (iii), the Secretary shall, by regulation, establish the amount of the Federal share of the cost of the facility under this paragraph.
       - **(ii)** The amount of a grant provided under this paragraph for a facility shall not exceed 75 percent of the cost of developing the facility.
       - **(iii)** The Secretary shall provide for a graduated scale for the amount of the Federal share provided under this paragraph, with higher Federal shares for facilities in communities that have lower community population and income levels, as determined by the Secretary.
+    - **(C)**
+      - **(i)** For each fiscal year, not less than 10 percent of the funds made available to carry out this paragraph shall be reserved for grants to pay the Federal share of the cost of developing and constructing day care facilities for children in rural areas.
+      - **(ii)** Funds reserved under clause (i) for a fiscal year shall be reserved only until June 1 of the fiscal year.
   - **(20)**
     - **(A)** In this paragraph, the term “not employed rate”, with respect to a community, means the percentage of individuals over the age of 18 who reside within the community and who are ready, willing, and able to be employed but are unable to find employment, as determined by the department of labor of the State in which the community is located.
-    - **(B)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 5304 of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in rural communities with respect to which the not employed rate is greater than the lesser of—
+    - **(B)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in rural communities with respect to which the not employed rate is greater than the lesser of—
       - **(i)** 500 percent of the average national unemployment rate on November 9, 2000 , as determined by the Bureau of Labor Statistics; or
       - **(ii)** 200 percent of the average national unemployment rate during the Great Depression, as determined by the Bureau of Labor Statistics.
     - **(C)** Paragraph (19)(B) shall apply to a grant made under this paragraph.
     - **(D)** There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
-    - **(E)** Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 1 1 So in original. Probably should be capitalized. with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
+    - **(E)** Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 2 2 So in original. Probably should be capitalized. with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
   - **(21)**
-    - **(A)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 5304 of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
+    - **(A)** The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25 ) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
       - **(i)** that is represented by—
         - **(I)** any political subdivision of a State;
         - **(II)** an Indian tribe on a Federal or State reservation; or
         - **(III)** other federally recognized Indian tribal group;
-      - **(ii)** that is located in a rural area (as defined in section 2009 2 2 See References in Text note below. of this title);
+      - **(ii)** that is located in a rural area (as defined in section 2009 3 3 See References in Text note below. of this title);
       - **(iii)** with respect to which, during the most recent 5-year period, the net out-migration of inhabitants, or other population loss, from the area equals or exceeds 5 percent of the population of the area; and
       - **(iv)** that has a median household income that is less than the nonmetropolitan median household income of the United States.
     - **(B)** Paragraph (19)(B) shall apply to a grant made under this paragraph.
     - **(C)** There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
   - **(22)**
-    - **(A)** The Secretary shall continue a national rural water and wastewater circuit rider program that—
-      - **(i)** is consistent with the activities and results of the program conducted before February 7, 2014 , as determined by the Secretary; and
-      - **(ii)** receives funding from the Secretary, acting through the Rural Utilities Service.
-    - **(B)** There is authorized to be appropriated to carry out this paragraph $25,000,000 for each of fiscal years 2019 through 2023.
-  - **(23)** Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(A) , Dec. 20, 2018 , 132 Stat. 4775 .
+    - **(A)** The Secretary shall establish a national rural water and wastewater circuit rider program that is based on the rural water circuit rider program of the National Rural Water Association that (as of May 13, 2002 ) receives funding from the Secretary, acting through the Rural Utilities Service.
+    - **(B)** The program established under subparagraph (A) shall not affect the authority of the Secretary to carry out the circuit rider program for which funds are made available under the heading “ rural community advancement program ” in title III of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002 ( 115 Stat. 719 ).
+    - **(C)** There is authorized to be appropriated to carry out this paragraph $25,000,000 for fiscal year 2008 and each fiscal year thereafter.
+  - **(23)**
+    - **(A)** The Secretary shall provide grants to multijurisdictional regional planning and development organizations to pay the Federal share of the cost of providing assistance to local governments to improve the infrastructure, services, and business development capabilities of local governments and local economic development organizations.
+    - **(B)** In determining which organizations will receive a grant under this paragraph, the Secretary shall give priority to an organization that—
+      - **(i)** serves a rural area that, during the most recent 5-year period—
+        - **(I)** had a net out-migration of inhabitants, or other population loss, from the rural area that equals or exceeds 5 percent of the population of the rural area; or
+        - **(II)** had a median household income that is less than the nonmetropolitan median household income of the applicable State; and
+      - **(ii)** has a history of providing substantive assistance to local governments and economic development organizations.
+    - **(C)** A grant provided under this paragraph shall be for not more than 75 percent of the cost of providing assistance described in subparagraph (A).
+    - **(D)** The amount of a grant provided to an organization under this paragraph shall not exceed $100,000.
+    - **(E)** There is authorized to be appropriated to carry out this paragraph $30,000,000 for each of fiscal years 2003 through 2007.
   - **(24)**
     - **(A)** The Secretary may guarantee a loan made to finance a community facility or water or waste facility project in a rural area, including a loan financed by the net proceeds of a bond described in section 142(a) of title 26 .
     - **(B)** To be eligible for a loan guarantee under subparagraph (A), an individual or entity offering to purchase the loan shall demonstrate to the Secretary that the person has—
       - **(i)** the capabilities and resources necessary to service the loan in a manner that ensures the continued performance of the loan, as determined by the Secretary; and
       - **(ii)** the ability to generate capital to provide borrowers of the loan with the additional credit necessary to properly service the loan.
-    - **(C)** The Secretary shall consider the benefits to communities that result from using loan guarantees in carrying out the community facilities program and, to the maximum extent practicable, use guarantees to enhance community involvement.
-    - **(D)**
-      - **(i)** The Secretary shall prioritize water and waste facility projects under this paragraph in rural areas with a population of not more than 10,000 people.
-      - **(ii)** Of the funds made available to carry out this paragraph for community facility loan guarantees for a fiscal year the following amounts shall be reserved for projects in rural areas with a population of not more than 20,000 inhabitants:
-        - **(I)** 100 percent of the first $200,000,000 so made available;
-        - **(II)** 50 percent of the next $200,000,000 so made available; and
-        - **(III)** 25 percent of all amounts exceeding $400,000,000 so made available,
   - **(25)**
     - **(A)** The Secretary may make grants to an entity that is a Tribal College or University (as defined in section 1059c of title 20 ) to provide the Federal share of the cost of developing specific Tribal College or University essential community facilities in rural areas.
     - **(B)** The Secretary shall establish the maximum percentage of the cost of the facility that may be covered by a grant under this paragraph, except that the Secretary may not require non-Federal financial support in an amount that is greater than 5 percent of the total cost of the facility.
-    - **(C)** There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2023.
-  - **(26)**
-    - **(A)** The Secretary may make grants to public bodies and private nonprofit corporations (such as States, counties, cities, townships, and incorporated towns and villages, boroughs, authorities, districts, and Indian tribes on Federal and State reservations) that will serve rural areas for the purpose of enabling the public bodies and private nonprofit corporations to provide to associations described in paragraph (1) technical assistance and training, with respect to essential community facilities programs authorized under this subsection—
-      - **(i)** to assist communities in identifying and planning for community facility needs;
-      - **(ii)** to identify public and private resources to finance community facility needs;
-      - **(iii)** to prepare reports and surveys necessary to request financial assistance to develop community facilities;
-      - **(iv)** to prepare applications for financial assistance;
-      - **(v)** to improve the management, including financial management, related to the operation of community facilities; or
-      - **(vi)** to assist with other areas of need identified by the Secretary.
-    - **(B)** In selecting recipients of grants under this paragraph, the Secretary shall give priority to private, nonprofit, or public organizations that have experience in providing technical assistance and training to rural entities.
-    - **(C)** Not less than 3 nor more than 5 percent of any funds appropriated to carry out each of the essential community facilities grant, loan and loan guarantee programs as authorized under this subsection for a fiscal year shall be reserved for grants under this paragraph.
+    - **(C)** There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2012.
 - **(b)** The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 - **(c)**
 - **(d)** Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.

@@ -3,9 +3,10 @@ title: "Section 410ww - Establishment"
 usc_title: 16
 usc_section: "410ww"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 410ww"
-generated_at: "2026-03-30T02:54:22.771Z"
+generated_at: "2026-03-30T03:04:48.430Z"
+status: "active"
 ---
 
 # § 410ww. Establishment
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:54:22.771Z"
   - **(2)** The Setzer building property (also known as the Aviation Trail building property), Dayton, Ohio.
   - **(3)** The residential properties at 26 South Williams Street and at 30 South Williams Street, Dayton, Ohio.
   - **(4)** Huffman Prairie Flying Field, located at Wright-Patterson Air Force Base, Ohio.
-  - **(5)** The Wright 1905 Flyer III and Wright Hall, including constructed additions and attached structures, known collectively as the John W. Berry, Sr. Wright Brothers National Museum, Dayton, Ohio.
+  - **(5)** The Wright 1905 Flyer III and Wright Hall, including constructed additions and attached structures, known collectively as the John W. Berry, Sr. Wright Brothers Aviation Center, Dayton, Ohio.
   - **(6)** The Paul Laurence Dunbar State Memorial, Dayton, Ohio.
 - **(c)** In addition to the sites described in subsection (b), the park shall consist of the following sites, as generally depicted on a map titled “Dayton Aviation Heritage National Historical Park”, numbered 362/80,013 and dated May 2008:
   - **(1)** Hawthorn Hill, Oakwood, Ohio.

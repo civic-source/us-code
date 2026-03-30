@@ -3,9 +3,10 @@ title: "Section 4746 - Reports"
 usc_title: 12
 usc_section: "4746"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4746"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-03-30T03:04:29.331Z"
+status: "active"
 ---
 
 # § 4746. Reports
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:53:53.518Z"
     - **(C)** there has been no unapproved amendment to any participation agreement or the form of participation agreements; and
     - **(D)** the participating State is otherwise implementing the Program in accordance with this subchapter and regulations issued pursuant to section 4749 of this title .
 - **(b)** Not later than March 31 of each year, each participating State shall submit to the Fund annual data indicating the number of borrowers financed under the Program, the total amount of covered loans, and breakdowns by industry type, loan size, annual sales, and number of employees of the borrowers financed.
-- **(c)** The reports and data filed pursuant to subsections (a) and (b) shall be in such form as the Fund may require.
+- **(c)** The reports and data filed pursuant to subsections (a) and (b) of this section shall be in such form as the Fund may require.

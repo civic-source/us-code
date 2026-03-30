@@ -3,9 +3,10 @@ title: "Section 638a - GAO study with respect to venture capital operating compa
 usc_title: 15
 usc_section: "638a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 638a"
-generated_at: "2026-03-30T02:54:08.099Z"
+generated_at: "2026-03-30T03:04:31.132Z"
+status: "active"
 ---
 
 # § 638a. GAO study with respect to venture capital operating company, hedge fund, and private equity firm involvement

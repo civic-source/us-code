@@ -3,9 +3,10 @@ title: "Section 6062 - Assistance for Cuban people"
 usc_title: 22
 usc_section: "6062"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6062"
-generated_at: "2026-03-30T02:55:05.423Z"
+generated_at: "2026-03-30T03:04:53.693Z"
+status: "active"
 ---
 
 # § 6062. Assistance for Cuban people
@@ -28,13 +29,13 @@ generated_at: "2026-03-30T02:55:05.423Z"
       - **(i)** assistance under chapter 1 of part I [ 22 U.S.C. 2151 et seq.] (relating to development assistance), and chapter 4 of part II [ 22 U.S.C. 2346 et seq.] (relating to the economic support fund), of the Foreign Assistance Act of 1961;
       - **(ii)** assistance under the Food for Peace Act [ 7 U.S.C. 1691 et seq.];
       - **(iii)** financing, guarantees, and other forms of assistance provided by the Export-Import Bank of the United States;
-      - **(iv)** financial support provided by the United States International Development Finance Corporation for investment projects in Cuba;
+      - **(iv)** financial support provided by the Overseas Private Investment Corporation for investment projects in Cuba;
       - **(v)** assistance provided by the Trade and Development Agency;
       - **(vi)** Peace Corps programs; and
       - **(vii)** other appropriate assistance to carry out the policy of section 6061 of this title .
     - **(C)** Assistance to a transition government in Cuba and to a democratically elected government in Cuba shall also include assistance in preparing the Cuban military forces to adjust to an appropriate role in a democracy.
-- **(c)** The plan developed under subsection (b) shall include a strategy for distributing assistance under the plan.
-- **(d)** Assistance under the plan developed under subsection (b) shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
+- **(c)** The plan developed under subsection (b) of this section shall include a strategy for distributing assistance under the plan.
+- **(d)** Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
 - **(e)** The President shall take the necessary steps—
   - **(1)** to seek to obtain the agreement of other countries and of international financial institutions and multilateral organizations to provide to a transition government in Cuba, and to a democratically elected government in Cuba, assistance comparable to that provided by the United States under this chapter; and
   - **(2)** to work with such countries, institutions, and organizations to coordinate all such assistance programs.
@@ -47,6 +48,6 @@ generated_at: "2026-03-30T02:55:05.423Z"
       - **(i)** reciprocal extension of nondiscriminatory trade treatment (most-favored-nation treatment);
       - **(ii)** designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 [ 19 U.S.C. 2461 et seq.] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act [ 19 U.S.C. 2701 et seq.], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country or beneficiary country or is a party to the North American Free Trade Agreement; and
       - **(iii)** negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
-    - **(C)** specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3317(b)(5) ); 1 1 See References in Text note below. and
+    - **(C)** specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 3317(b)(5) of title 19 ; and
     - **(D)** actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
   - **(2)** The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 [ 19 U.S.C. 2155 ] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).

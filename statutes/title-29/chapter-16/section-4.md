@@ -3,30 +3,31 @@ title: "Section 4 - Standards and assurances for centers for independent living"
 usc_title: 29
 usc_section: "4"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-30T02:55:18.701Z"
+generated_at: "2026-03-30T03:05:09.691Z"
+status: "active"
 ---
 
 # § 796f–4. Standards and assurances for centers for independent living
 
-- **(a)** Each center for independent living that receives assistance under this subpart shall comply with the standards set out in subsection (b) and provide and comply with the assurances set out in subsection (c) in order to ensure that all programs and activities under this subpart are planned, conducted, administered, and evaluated in a manner consistent with the purposes of this part and the objective of providing assistance effectively and efficiently.
+- **(a)** Each center for independent living that receives assistance under this subpart shall comply with the standards set out in subsection (b) of this section and provide and comply with the assurances set out in subsection (c) of this section in order to ensure that all programs and activities under this subpart are planned, conducted, administered, and evaluated in a manner consistent with the purposes of this part and the objective of providing assistance effectively and efficiently.
 - **(b)**
   - **(1)** The center shall promote and practice the independent living philosophy of—
     - **(A)** consumer control of the center regarding decisionmaking, service delivery, management, and establishment of the policy and direction of the center;
     - **(B)** self-help and self-advocacy;
     - **(C)** development of peer relationships and peer role models; and
-    - **(D)** equal access for individuals with significant disabilities, within their communities, to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
+    - **(D)** equal access of individuals with significant disabilities to society and to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
   - **(2)** The center shall provide services to individuals with a range of significant disabilities. The center shall provide services on a cross-disability basis (for individuals with all different types of significant disabilities, including individuals with significant disabilities who are members of populations that are unserved or underserved by programs under this subchapter). Eligibility for services at any center for independent living shall be determined by the center, and shall not be based on the presence of any one or more specific significant disabilities.
   - **(3)** The center shall facilitate the development and achievement of independent living goals selected by individuals with significant disabilities who seek such assistance by the center.
   - **(4)** The center shall work to increase the availability and improve the quality of community options for independent living in order to facilitate the development and achievement of independent living goals by individuals with significant disabilities.
   - **(5)** The center shall provide independent living core services and, as appropriate, a combination of any other independent living services.
   - **(6)** The center shall conduct activities to increase the capacity of communities within the service area of the center to meet the needs of individuals with significant disabilities.
   - **(7)** The center shall conduct resource development activities to obtain funding from sources other than this part.
-- **(c)** The eligible agency shall provide at such time and in such manner as the Administrator may require, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
+- **(c)** The eligible agency shall provide at such time and in such manner as the Commissioner may require, such satisfactory assurances as the Commissioner may require, including satisfactory assurances that—
   - **(1)** the applicant is an eligible agency;
   - **(2)** the center will be designed and operated within local communities by individuals with disabilities, including an assurance that the center will have a Board that is the principal governing body of the center and a majority of which shall be composed of individuals with significant disabilities;
-  - **(3)** the applicant will comply with the standards set forth in subsection (b);
+  - **(3)** the applicant will comply with the standards set forth in subsection (b) of this section;
   - **(4)** the applicant will establish clear priorities through annual and 3-year program and financial planning objectives for the center, including overall goals or a mission for the center, a work plan for achieving the goals or mission, specific objectives, service priorities, and types of services to be provided, and a description that shall demonstrate how the proposed activities of the applicant are consistent with the most recent 3-year State plan under section 796c of this title ;
   - **(5)** the applicant will use sound organizational and personnel assignment practices, including taking affirmative action to employ and advance in employment qualified individuals with significant disabilities on the same terms and conditions required with respect to the employment of individuals with disabilities under section 793 of this title ;
   - **(6)** the applicant will ensure that the majority of the staff, and individuals in decisionmaking positions, of the applicant are individuals with disabilities;
@@ -42,5 +43,5 @@ generated_at: "2026-03-30T02:55:18.701Z"
   - **(10)** aggressive outreach regarding services provided through the center will be conducted in an effort to reach populations of individuals with significant disabilities that are unserved or underserved by programs under this subchapter, especially minority groups and urban and rural populations;
   - **(11)** staff at centers for independent living will receive training on how to serve such unserved and underserved populations, including minority groups and urban and rural populations;
   - **(12)** the center will submit to the Statewide Independent Living Council a copy of its approved grant application and the annual report required under paragraph (8);
-  - **(13)** the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b); and
+  - **(13)** the center will prepare and submit a report to the designated State unit or the Commissioner, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
   - **(14)** an independent living plan described in section 796c(e) of this title will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.

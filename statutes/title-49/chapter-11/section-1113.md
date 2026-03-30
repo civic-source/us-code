@@ -3,15 +3,16 @@ title: "Section 1113 - Administrative"
 usc_title: 49
 usc_section: "1113"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 1113"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-03-30T03:06:29.272Z"
+status: "active"
 ---
 
 # § 1113. Administrative
 
 - **(a)**
-  - **(1)** The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpoena or otherwise, necessary witnesses and evidence.
+  - **(1)** The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpena or otherwise, necessary witnesses and evidence.
   - **(2)** A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
   - **(3)** A subpoena shall be issued under the signature of the Chairman or the Chairman’s delegate but may be served by any person designated by the Chairman.
   - **(4)** If a person disobeys a subpoena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpoena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena, order, or notice as a contempt of court.
@@ -24,12 +25,8 @@ generated_at: "2026-03-30T02:56:19.303Z"
     - **(E)** appoint advisory committees composed of qualified private citizens and officials of the Government and State and local governments as appropriate;
     - **(F)** accept voluntary and uncompensated services notwithstanding another law;
     - **(G)** accept gifts of money and other property;
-    - **(H)** make contracts with nonprofit entities to carry out studies related to duties and powers of the Board;
-    - **(I)** negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board;
-    - **(J)** notwithstanding section 1343 of title 31 , acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter; and
-    - **(K)** notwithstanding section 3301 of title 41 , acquire training on emerging transportation technologies if such training—
-      - **(i)** is required for an ongoing investigation; and
-      - **(ii)** meets the criteria under section 3304(a)(7)(A) of title 41 .
+    - **(H)** make contracts with nonprofit entities to carry out studies related to duties and powers of the Board; and
+    - **(I)** negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
   - **(2)** The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 - **(c)** When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress. The Board shall develop and approve a process for the Board’s review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.
 - **(d)** The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
@@ -40,23 +37,5 @@ generated_at: "2026-03-30T02:56:19.303Z"
   - **(2)** An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
   - **(3)** The Board may not make overtime payments under paragraph (1) for work performed in any fiscal year in a total amount that exceeds 1.5 percent of the amount appropriated to carry out this chapter for that fiscal year.
   - **(4)** In this subsection, the term “basic pay” includes any applicable locality-based comparability payment under section 5304 of title 5 (or similar provision of law) and any special rate of pay under section 5305 of title 5 (or similar provision of law).
-- **(h)**
-  - **(1)** The Board shall develop a strategic workforce plan that addresses the immediate and long-term workforce needs of the Board with respect to carrying out the authorities and duties of the Board under this chapter.
-  - **(2)** In developing the strategic workforce plan under paragraph (1), the Board shall take into consideration—
-    - **(A)** the current state and capabilities of the Board, including a high-level review of mission requirements, structure, workforce, and performance of the Board;
-    - **(B)** the significant workforce trends, needs, issues, and challenges with respect to the Board and the transportation industry;
-    - **(C)** with respect to employees involved in transportation safety work, the needs, issues, and challenges, including accident severity and risk, posed by each mode of transportation, and how the Board’s staffing for each transportation mode reflects these aspects;
-    - **(D)** the workforce policies, strategies, performance measures, and interventions to mitigate succession risks that guide the workforce investment decisions of the Board;
-    - **(E)** a workforce planning strategy that identifies workforce needs, including the knowledge, skills, and abilities needed to recruit and retain skilled employees at the Board;
-    - **(F)** a workforce management strategy that is aligned with the mission of the Board, including plans for continuity of leadership and knowledge sharing;
-    - **(G)** an implementation system that addresses workforce competency gaps, particularly in mission-critical occupations; and
-    - **(H)** a system for analyzing and evaluating the performance of the Board’s workforce management policies, programs, and activities.
-  - **(3)** The strategic workforce plan developed under paragraph (1) shall address a 5-year forecast period, but may include planning for longer periods based on information about emerging technologies or safety trends in transportation.
-  - **(4)** The Board shall update the strategic workforce plan developed under paragraph (1) not less than once every 5 years.
-  - **(5)** The strategic workforce plan developed under paragraph (1) may be developed separately from, or incorporated into, the strategic plan required under section 306 of title 5 .
-  - **(6)** The strategic workforce plan under paragraph (1) and the strategic plan required under section 306 of title 5 shall be—
-    - **(A)** submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
-    - **(B)** made available to the public on a website of the Board.
-- **(i)**
-  - **(1)** The Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for each Board member.
-  - **(2)** The Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of any non-accident-related travel budget overrun for any Board member not later than 30 days of such overrun becoming known to the Board.
+  - **(5)** Not later than January 31, 2002 , and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
+- **(h)** The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.

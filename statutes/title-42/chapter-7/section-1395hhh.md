@@ -3,14 +3,15 @@ title: "Section 1395hhh - Health care infrastructure improvement program"
 usc_title: 42
 usc_section: "1395hhh"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1395hhh"
-generated_at: "2026-03-30T02:56:11.028Z"
+generated_at: "2026-03-30T03:06:22.555Z"
+status: "active"
 ---
 
 # § 1395hhh. Health care infrastructure improvement program
 
-- **(a)** The Secretary shall establish a loan program that provides loans to qualifying hospitals for payment of the capital costs of projects described in subsection (d).
+- **(a)** The Secretary shall establish a loan program that provides loans to qualifying hospitals for payment of the capital costs of projects described in subsection (d) of this section.
 - **(b)** No loan may be provided under this section to a qualifying hospital except pursuant to an application that is submitted and approved in a time, manner, and form specified by the Secretary. A loan under this section shall be on such terms and conditions and meet such requirements as the Secretary determines appropriate.
 - **(c)**
   - **(1)** The Secretary shall establish criteria for selecting among qualifying hospitals that apply for a loan under this section. Such criteria shall consider the extent to which the project for which loan is sought is nationally or regionally significant, in terms of expanding or improving the health care infrastructure of the United States or the region or in terms of the medical benefit that the project will have.

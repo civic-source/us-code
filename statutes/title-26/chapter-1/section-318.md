@@ -3,9 +3,10 @@ title: "Section 318 - Constructive ownership of stock"
 usc_title: 26
 usc_section: "318"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 318"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-03-30T03:05:18.572Z"
+status: "active"
 ---
 
 # § 318. Constructive ownership of stock
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:55:27.665Z"
     - **(A)** Stock owned, directly or indirectly, by or for a partner or a beneficiary of an estate shall be considered as owned by the partnership or estate.
     - **(B)**
       - **(i)** Stock owned, directly or indirectly, by or for a beneficiary of a trust (other than an employees’ trust described in section 401(a) which is exempt from tax under section 501(a)) shall be considered as owned by the trust, unless such beneficiary’s interest in the trust is a remote contingent interest. For purposes of this clause, a contingent interest of a beneficiary in a trust shall be considered remote if, under the maximum exercise of discretion by the trustee in favor of such beneficiary, the value of such interest, computed actuarially, is 5 percent or less of the value of the trust property.
-      - **(ii)** Stock owned, directly or indirectly, by or for a person who is considered the owner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners) shall be considered as owned by the trust.
+      - **(ii)** Stock owned, directly or indirectly, by or for a person who is considered the owner of any portion of a trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners), shall be considered as owned by the trust.
     - **(C)** If 50 percent or more in value of the stock in a corporation is owned, directly or indirectly, by or for any person, such corporation shall be considered as owning the stock owned, directly or indirectly, by or for such person.
   - **(4)** If any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
   - **(5)**

@@ -3,9 +3,10 @@ title: "Section 5721 - Yukon River Salmon Panel"
 usc_title: 16
 usc_section: "5721"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5721"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-03-30T03:04:48.630Z"
+status: "active"
 ---
 
 # § 5721. Yukon River Salmon Panel
@@ -31,8 +32,8 @@ generated_at: "2026-03-30T02:54:23.054Z"
     - **(D)** At least one of the members appointed under paragraph (1)(C) shall be an Alaska Native.
   - **(3)**
     - **(A)** The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under paragraphs (1)(A) and (C), who meets the same qualifications, to serve in the absence of the Panel member.
-    - **(B)** The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B), who meets the same qualifications, to serve in the absence of that Panel member.
+    - **(B)** The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B) of this section, who meets the same qualifications, to serve in the absence of that Panel member.
 - **(c)** Panel members and alternate Panel members shall serve 4-year terms. Any individual appointed to fill a vacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
 - **(d)** Panel members and alternate Panel members shall be eligible for reappointment.
-- **(e)** Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1).
+- **(e)** Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1) of this section.
 - **(f)** In carrying out their functions, Panel members may consult with such other interested parties as they consider appropriate.

@@ -3,9 +3,10 @@ title: "Section 2081 - Undercover investigative operations of Customs Service"
 usc_title: 19
 usc_section: "2081"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2081"
-generated_at: "2026-03-30T02:54:24.662Z"
+generated_at: "2026-03-30T03:04:42.029Z"
+status: "active"
 ---
 
 # § 2081. Undercover investigative operations of Customs Service
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:54:24.662Z"
     - **(B)** to establish or to acquire proprietary corporations or business entities as part of the undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
   - **(2)** sums authorized to be appropriated for the Service and the proceeds from the undercover operation, may be deposited in banks or other financial institutions without regard to the provisions of section 648 of title 18 and section 3302 of title 31 ; and
   - **(3)** the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of section 3302 of title 31 ;
-- **(b)** If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+- **(b)** If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) of this section with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 - **(c)** As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under paragraphs (2) and (3) of subsection (a) of this section are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 - **(d)**
   - **(1)** The Service shall conduct a detailed financial audit of each undercover investigative operation which is closed in each fiscal year, and

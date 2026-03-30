@@ -3,9 +3,10 @@ title: "Section 62 - Manufacture, shipment, or delivery for shipment in intersta
 usc_title: 21
 usc_section: "62"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 62"
-generated_at: "2026-03-30T02:54:54.214Z"
+generated_at: "2026-03-30T03:05:00.929Z"
+status: "active"
 ---
 
 # § 62. Manufacture, shipment, or delivery for shipment in interstate or foreign commerce prohibited

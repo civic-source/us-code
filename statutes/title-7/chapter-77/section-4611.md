@@ -3,9 +3,10 @@ title: "Section 4611 - Requirements of referendum"
 usc_title: 7
 usc_section: "4611"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 4611"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-03-30T03:04:20.987Z"
+status: "active"
 ---
 
 # § 4611. Requirements of referendum
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
   - **(2)** The Secretary may amend an order in accordance with the administrative procedures specified in sections 4604 and 4605 of this title, except that the Secretary may not amend a provision of an order that implements a provision of this chapter that specifically provides for approval in a referendum without the approval provided for in this section.
 - **(c)**
   - **(1)** Each producer-packer and each importer shall have 1 vote as a handler as well as 1 vote as a producer or importer (unless exempt under section 4606(e)(4) of this title ) in all referenda concerning orders assessing handlers to the extent that the individual producer-packer or importer owes assessments as a handler.
-  - **(2)** For the purpose of subsection (b)(1)(B)—
+  - **(2)** For the purpose of subsection (b)(1)(B) of this section—
     - **(A)** the quantity of honey or honey products on which the qualifying producer-packer or importer owes assessments as a handler shall be attributed to the person’s vote as a handler under paragraph (1); and
     - **(B)** the quantity of honey or honey products on which the producer-packer or importer owes an assessment as a producer or importer shall be attributed to the person’s vote as a producer or importer.
 - **(d)** The ballots and other information or reports that reveal, or tend to reveal, the identity or vote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.

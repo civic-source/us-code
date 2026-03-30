@@ -3,22 +3,23 @@ title: "Section 44701 - General requirements"
 usc_title: 49
 usc_section: "44701"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 44701"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-03-30T03:06:29.324Z"
+status: "active"
 ---
 
 # § 44701. General requirements
 
 - **(a)** The Administrator of the Federal Aviation Administration shall promote safe flight of civil aircraft in air commerce by prescribing—
-  - **(1)** minimum standards required in the interest of safety for appliances and for the design, material, construction, quality of work, cybersecurity, and performance of aircraft, aircraft engines, and propellers;
+  - **(1)** minimum standards required in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
   - **(2)** regulations and minimum standards in the interest of safety for—
     - **(A)** inspecting, servicing, and overhauling aircraft, aircraft engines, propellers, and appliances;
     - **(B)** equipment and facilities for, and the timing and manner of, the inspecting, servicing, and overhauling; and
     - **(C)** a qualified private person, instead of an officer or employee of the Administration, to examine and report on the inspecting, servicing, and overhauling;
   - **(3)** regulations required in the interest of safety for the reserve supply of aircraft, aircraft engines, propellers, appliances, and aircraft fuel and oil, including the reserve supply of fuel and oil carried in flight;
   - **(4)** regulations in the interest of safety for the maximum hours or periods of service of airmen and other employees of air carriers; and
-  - **(5)** regulations and minimum standards for cybersecurity and other practices, methods, and procedures the Administrator finds necessary for safety in air commerce and national security.
+  - **(5)** regulations and minimum standards for other practices, methods, and procedure the Administrator finds necessary for safety in air commerce and national security.
 - **(b)** The Administrator may prescribe minimum safety standards for—
   - **(1)** an air carrier to whom a certificate is issued under section 44705 of this title ; and
   - **(2)** operating an airport serving any passenger operation of air carrier aircraft designed for at least 31 passenger seats.
@@ -35,24 +36,4 @@ generated_at: "2026-03-30T02:56:19.382Z"
   - **(4)** In this subsection, the term “registered aircraft” means—
     - **(A)** aircraft registered in the United States and operated pursuant to an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
     - **(B)** aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
-  - **(5)**
-    - **(A)** Subject to subparagraph (D), the Administrator may accept an airworthiness directive, as defined in section 39.3 of title 14, Code of Federal Regulations, issued by an aeronautical safety authority of a foreign country, and leverage that authority’s regulatory process, if—
-      - **(i)** the country is the state of design for the product that is the subject of the airworthiness directive;
-      - **(ii)** the United States has a bilateral safety agreement relating to aircraft certification with the country;
-      - **(iii)** as part of the bilateral safety agreement with the country, the Administrator has determined that such aeronautical safety authority has an aircraft certification system relating to safety that produces a level of safety equivalent to the level produced by the system of the Federal Aviation Administration;
-      - **(iv)** the aeronautical safety authority of the country utilizes an open and transparent notice and comment process in the issuance of airworthiness directives; and
-      - **(v)** the airworthiness directive is necessary to provide for the safe operation of the aircraft subject to the directive.
-    - **(B)** Notwithstanding subparagraph (A), the Administrator may issue a Federal Aviation Administration airworthiness directive instead of accepting an airworthiness directive otherwise eligible for acceptance under such subparagraph, if the Administrator determines that such issuance is necessary for safety or operational reasons due to the complexity or unique features of the Federal Aviation Administration airworthiness directive or the United States aviation system.
-    - **(C)** The Administrator may—
-      - **(i)** accept an alternative means of compliance, with respect to an airworthiness directive accepted under subparagraph (A), that was approved by the aeronautical safety authority of the foreign country that issued the airworthiness directive; or
-      - **(ii)** notwithstanding subparagraph (A), and at the request of any person affected by an airworthiness directive accepted under such subparagraph, approve an alternative means of compliance with respect to the airworthiness directive.
-    - **(D)** The Administrator may not accept an airworthiness directive issued by an aeronautical safety authority of a foreign country if the airworthiness directive addresses matters other than those involving the safe operation of an aircraft.
 - **(f)** The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
-- **(g)** Notwithstanding any other provision of law and except as provided in section 40131, the Administrator, in consultation with the heads of such other agencies as the Administrator determines necessary, shall have exclusive authority to prescribe regulations for purposes of assuring the cybersecurity of civil aircraft, aircraft engines, propellers, and appliances.
-- **(h)**
-  - **(1)** The Administrator shall ensure consistency in the application of policies, orders, and guidance of the Administration by—
-    - **(A)** audits of the application and interpretation of such material by Administration personnel from person to person and office to office;
-    - **(B)** updating policies, orders, and guidance to resolve inconsistencies and clarify demonstrated ambiguities, such as through repeated inconsistent interpretation; and
-    - **(C)** ensuring officials are properly documenting findings and decisions throughout a project to decrease the occurrence of duplicative work and inconsistent findings by subsequent officials assigned to the same project.
-  - **(2)** The Administrator shall consult as appropriate with regulated entities who will be impacted by proposed changes to the content or application of policies, orders, and guidance before making such changes.
-  - **(3)** The Administrator shall issue policies, orders, and guidance documents that are related to a law or regulation or clarify the intent of or compliance with specific laws and regulations.

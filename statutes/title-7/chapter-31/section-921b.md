@@ -1,12 +1,15 @@
 ---
-title: "Section 921b - Repealed. Pub. L. 115–334, title VI, § 6602(b)(13) , (14), Dec. 20, 2018 , 132 Stat. 4777"
+title: "Section 921b - Policy of expansion of markets for debentures"
 usc_title: 7
 usc_section: "921b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 921b"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-03-30T03:04:20.908Z"
+status: "active"
 ---
 
-# §§ 921a, 921b. Repealed. Pub. L. 115–334, title VI, § 6602(b)(13) , (14), Dec. 20, 2018 , 132 Stat. 4777
+# § 921b. Policy of expansion of markets for debentures
+
+It is hereby declared to be the policy of the Congress that the Rural Telephone Bank should have the capability of obtaining adequate funds for its supplementary financing program at the lowest possible costs. In order to effectuate this policy, it will be necessary to expand the market for debentures to be issued by the Telephone Bank.
 

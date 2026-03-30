@@ -1,12 +1,15 @@
 ---
-title: "Section 503 - Transferred"
+title: "Section 503 - Organization of tribes or bands; constitution; charter; right to participate in revolving credit fund"
 usc_title: 25
 usc_section: "503"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 503"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.842Z"
+status: "active"
 ---
 
-# § 503. Transferred
+# § 503. Organization of tribes or bands; constitution; charter; right to participate in revolving credit fund
+
+Any recognized tribe or band of Indians residing in Oklahoma shall have the right to organize for its common welfare and to adopt a constitution and bylaws, under such rules and regulations as the Secretary of the Interior may prescribe. The Secretary of the Interior may issue to any such organized group a charter of incorporation, which shall become operative when ratified by a majority vote of the adult members of the organization voting: Provided, however , That such election shall be void unless the total vote cast be at least 30 per centum of those entitled to vote. Such charter may convey to the incorporated group, in addition to any powers which may properly be vested in a body corporate under the laws of the State of Oklahoma, the right to participate in the revolving credit fund and to enjoy any other rights or privileges secured to an organized Indian tribe under the Act of June 18, 1934 ( 48 Stat. 984 ) [ 25 U.S.C. 461 et seq.]: Provided , That the corporate funds of any such chartered group may be deposited in any national bank within the State of Oklahoma or otherwise invested, utilized, or disbursed in accordance with the terms of the corporate charter.
 

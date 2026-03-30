@@ -3,9 +3,10 @@ title: "Section 3106 - Erection, repair, or furnishing of public buildings and i
 usc_title: 41
 usc_section: "3106"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 3106"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-03-30T03:06:01.218Z"
+status: "active"
 ---
 
 # § 3106. Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division

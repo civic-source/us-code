@@ -3,9 +3,10 @@ title: "Section 8121 - Claim"
 usc_title: 5
 usc_section: "8121"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8121"
-generated_at: "2026-03-30T02:52:56.041Z"
+generated_at: "2026-03-30T03:04:06.094Z"
+status: "active"
 ---
 
 # § 8121. Claim
@@ -17,4 +18,4 @@ Compensation under this subchapter may be allowed only if an individual or someo
   - **(3)** be on a form approved by the Secretary;
   - **(4)** contain all information required by the Secretary;
   - **(5)** be sworn to by the individual entitled to compensation or someone on his behalf; and
-  - **(6)** except in case of death, be accompanied by a certificate of the physician of the employee stating the nature of the injury and the nature and probable extent of the disability.
+  - **(6)** except in case of death, be accompanied by a certificate of the physician of the employee stating the nature of the injury and the nature and probable extent of the disability. The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.

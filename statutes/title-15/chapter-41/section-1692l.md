@@ -3,9 +3,10 @@ title: "Section 1692l - Administrative enforcement"
 usc_title: 15
 usc_section: "1692l"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1692l"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-03-30T03:04:31.189Z"
+status: "active"
 ---
 
 # § 1692l. Administrative enforcement
@@ -21,5 +22,5 @@ generated_at: "2026-03-30T02:54:08.155Z"
   - **(4)** part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part;
   - **(5)** the Packers and Stockyards Act, 1921 [ 7 U.S.C. 181 et seq.] (except as provided in section 406 of that Act [ 7 U.S.C. 226 , 227]), by the Secretary of Agriculture with respect to any activities subject to that Act; and
   - **(6)** subtitle E of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subchapter.
-- **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
+- **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d) of this section.
 - **(d)** Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5519(a) ], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.

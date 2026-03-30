@@ -1,14 +1,15 @@
 ---
-title: "Section 2367 - Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles"
+title: "Section 2367 - Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles"
 usc_title: 50
 usc_section: "2367"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2367"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-03-30T03:06:37.675Z"
+status: "active"
 ---
 
-# § 2367. Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles
+# § 2367. Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles
 
 - **(a)** Not later than January 30 of each year, the Secretary of Defense, in consultation with the Director of National Intelligence, shall submit to the appropriate congressional committees a report on the following:
   - **(1)** The threats posed to the United States and allies of the United States—
@@ -28,5 +29,5 @@ generated_at: "2026-03-30T02:56:26.223Z"
 - **(c)** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 - **(d)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The congressional defense committees.
-  - **(2)** The congressional intelligence committees (as defined in section 3003 of this title ).
+  - **(2)** The congressional intelligence committees (as defined in section 401a of this title ).
   - **(3)** The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.

@@ -3,12 +3,13 @@ title: "Section 140 - Diversion of appropriations for employees and supplies"
 usc_title: 25
 usc_section: "140"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 140"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-03-30T03:05:02.824Z"
+status: "active"
 ---
 
 # § 140. Diversion of appropriations for employees and supplies
 
-The several appropriations made for millers, blacksmiths, engineers, carpenters, physicians, and other persons, and for various articles provided for by treaty stipulation for the several Indian tribes, may be diverted to other uses for the benefit of said tribes, respectively, within the discretion of the President, and with the consent of said tribes, expressed in the usual manner; and he shall cause report to be made to Congress, at its next session thereafter, of his action under this provision.
+The several appropriations made for millers, blacksmiths, engineers, carpenters, physicians, and other persons, and for various articles provided for by treaty stipulation for the several Indian tribes, may be diverted to other uses for the benefit of said tribes, respectively, within the discretion of the President, and with the consent of said tribes, expressed in the usual manner; and he shall cause report to be made to Congress, at its next session thereafter of his action under this provision.
 

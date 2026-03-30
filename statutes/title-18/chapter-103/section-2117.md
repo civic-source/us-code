@@ -3,9 +3,10 @@ title: "Section 2117 - Breaking or entering carrier facilities"
 usc_title: 18
 usc_section: "2117"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 2117"
-generated_at: "2026-03-30T02:54:16.495Z"
+generated_at: "2026-03-30T03:04:41.106Z"
+status: "active"
 ---
 
 # § 2117. Breaking or entering carrier facilities

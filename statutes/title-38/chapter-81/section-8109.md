@@ -3,9 +3,10 @@ title: "Section 8109 - Parking facilities"
 usc_title: 38
 usc_section: "8109"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 8109"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-03-30T03:05:59.236Z"
+status: "active"
 ---
 
 # § 8109. Parking facilities
@@ -18,9 +19,8 @@ generated_at: "2026-03-30T02:55:53.536Z"
   - **(3)** The term “eligible person” means an individual to whom the Secretary is authorized to furnish medical examination or treatment.
 - **(b)** In order to accommodate the vehicles of employees of medical facilities, vehicles used to transport veterans and eligible persons to or from such facilities for the purpose of examination or treatment, and the vehicles of visitors and other individuals having business at such facilities, the Secretary—
   - **(1)** may construct or alter parking facilities, and may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, such land or interests in land as the Secretary considers necessary for use as the site for any such construction or alteration;
-  - **(2)** may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, any facility that the Secretary considers necessary for use as a parking facility;
-  - **(3)** may operate and maintain parking facilities; and
-  - **(4)** notwithstanding subsection (a) of section 1344 of title 31 , may use a passenger carrier (as such term is defined in subsection (h)(1) of such section) to transport such an employee between a parking facility and the medical facility of the Department at which the employee works.
+  - **(2)** may acquire, by purchase, lease, condemnation, donation, exchange, or otherwise, any facility that the Secretary considers necessary for use as a parking facility; and
+  - **(3)** may operate and maintain parking facilities.
 - **(c)**
   - **(1)** Except as provided in paragraph (2) of this subsection, each employee, visitor, and other individual having business at a medical facility for which parking fees have been established under subsection (d) or (e) of this section shall be charged the applicable parking fee for the use of a parking facility at such medical facility.
   - **(2)** A parking fee shall not be charged under this subsection for the accommodation of any vehicle used to transport to or from a medical facility—

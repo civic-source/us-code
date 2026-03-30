@@ -3,9 +3,10 @@ title: "Section 1005 - Lease term and work commitment requirements"
 usc_title: 30
 usc_section: "1005"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1005"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-03-30T03:05:07.410Z"
+status: "active"
 ---
 
 # § 1005. Lease term and work commitment requirements
@@ -13,15 +14,15 @@ generated_at: "2026-03-30T02:55:29.395Z"
 - **(a)**
   - **(1)** A geothermal lease shall be for a primary term of 10 years.
   - **(2)** The Secretary shall extend the primary term of a geothermal lease for 5 years if, for each year after the 10th year of the lease—
-    - **(A)** the Secretary determined under subsection (b) that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
-    - **(B)** the lessee paid in annual payments accordance with subsection (c).
-  - **(3)** The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) that the lessee satisfied the minimum work requirements that applied to the lease for that year.
+    - **(A)** the Secretary determined under subsection (b) of this section that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
+    - **(B)** the lessee paid in annual payments accordance with subsection (c) of this section.
+  - **(3)** The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) of this section that the lessee satisfied the minimum work requirements that applied to the lease for that year.
 - **(b)**
   - **(1)** The lessee for a geothermal lease shall, for each year after the 10th year of the lease, satisfy minimum work requirements prescribed by the Secretary that apply to the lease for that year.
   - **(2)** The Secretary shall issue regulations prescribing minimum work requirements for geothermal leases, that—
     - **(A)** establish a geothermal potential; and
     - **(B)** if a geothermal potential has been established, confirm the existence of producible geothermal resources.
-- **(c)** In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
+- **(c)** In lieu of the minimum work requirements set forth in subsection (b)(2) of this section, the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a) of this section.
 - **(d)** The Secretary shall by regulation establish transition rules for leases issued before August 8, 2005 , including terms under which a lease that is near the end of its term on August 8, 2005 , may be extended for up to 2 years—
   - **(1)** to allow achievement of production under the lease; or
   - **(2)** to allow the lease to be included in a producing unit.

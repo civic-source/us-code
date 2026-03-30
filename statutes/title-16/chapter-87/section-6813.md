@@ -3,9 +3,10 @@ title: "Section 6813 - Relation to other laws and fee collection authorities"
 usc_title: 16
 usc_section: "6813"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 6813"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-03-30T03:04:48.639Z"
+status: "active"
 ---
 
 # § 6813. Relation to other laws and fee collection authorities
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:54:23.070Z"
   - **(2)** Section 13 of the Act of March 1, 1911 ( 16 U.S.C. 500 ; commonly known as the Weeks Act).
   - **(3)** The fourteenth paragraph under the heading “ Forest service ” in the Act of March 4, 1913 ( 16 U.S.C. 501 ).
   - **(4)** Section 1012 of title 7 .
-  - **(5)** Title II of the Act of August 8, 1937 , 1 1 See References in Text note below. and the Act of May 24, 1939 ( 43 U.S.C. 1181f et seq.) 1 .
+  - **(5)** Title II of the Act of August 8, 1937 , 1 1 See References in Text note below. and the Act of May 24, 1939 ( 43 U.S.C. 1181f [1181f–1] et seq.).
   - **(6)** Section 869–4 of title 43 .
   - **(7)** Chapter 69 of title 31.
   - **(8)** Section 715s of this title .

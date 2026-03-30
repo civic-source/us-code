@@ -3,9 +3,10 @@ title: "Section 255 - Effect on existing homestead, mineral, etc., entries; revi
 usc_title: 16
 usc_section: "255"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 255"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-03-30T03:04:48.412Z"
+status: "active"
 ---
 
 # § 255. Effect on existing homestead, mineral, etc., entries; revision of boundaries

@@ -3,9 +3,10 @@ title: "Section 4804 - Membership"
 usc_title: 15
 usc_section: "4804"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4804"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-03-30T03:04:31.228Z"
+status: "active"
 ---
 
 # § 4804. Membership
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
       - **(ii)** one shall be a national leader with experience and background in the labor community;
       - **(iii)** one shall be a national leader with experience and background in the academic community; and
       - **(iv)** one shall be a representative of State or local government.
-  - **(2)** In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv), other Federal officials may participate on an ex-officio basis as requested by the Council.
+  - **(2)** In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv) of this section, other Federal officials may participate on an ex-officio basis as requested by the Council.
   - **(3)** All members of the Council shall be individuals who have a broad understanding of the United States economy and the United States competitive position internationally.
   - **(4)** Not more than 6 members of the Council shall be members of the same political party.
 - **(b)** The initial members of the Council shall be appointed within 30 days after August 20, 1990 .
@@ -43,7 +44,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(2)** The Council shall not commence its duties until all the nongovernmental members have been appointed and have qualified.
 - **(h)** The Council shall elect, by a two-thirds vote of the entire Council, a chairperson from among the nongovernmental members.
 - **(i)** The Council shall meet at the call of the chairperson or a majority of the members.
-- **(j)** Except as provided in subsection (g), no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
+- **(j)** Except as provided in subsection (g) of this section, no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
 - **(k)**
   - **(1)** Each member of the Council shall designate one alternate representative to attend any meeting that such member is unable to attend.
   - **(2)** In the course of attending any such meeting, an alternate representative shall be considered a member of the Council for all purposes, except for voting.

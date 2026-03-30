@@ -3,14 +3,15 @@ title: "Section 3362 - Distance education grants for insular areas"
 usc_title: 7
 usc_section: "3362"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3362"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-03-30T03:04:20.982Z"
+status: "active"
 ---
 
 # § 3362. Distance education grants for insular areas
 
-- **(a)** The Secretary may make competitive grants to eligible institutions in insular areas to strengthen the capacity of such institutions to carry out distance food and agricultural education programs using digital network technologies.
+- **(a)** The Secretary may make competitive or noncompetitive grants to eligible institutions in insular areas to strengthen the capacity of such institutions to carry out distance food and agricultural education programs using digital network technologies.
 - **(b)** Grants made under this section shall be used—
   - **(1)** to acquire the equipment, instrumentation, networking capability, hardware and software, digital network technology, and infrastructure necessary to teach students and teachers about technology in the classroom;
   - **(2)** to develop and provide educational services (including faculty development) to prepare students or faculty seeking a degree or certificate that is approved by the State or a regional accrediting body recognized by the Secretary of Education;
@@ -22,6 +23,4 @@ generated_at: "2026-03-30T02:53:42.402Z"
 - **(e)**
   - **(1)** The Secretary may establish a requirement that an eligible institution receiving a grant under this section shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the grant.
   - **(2)** If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscal year if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
-- **(f)** There is authorized to be appropriated to carry out this section—
-  - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+- **(f)** There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2012.

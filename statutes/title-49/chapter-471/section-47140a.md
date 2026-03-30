@@ -1,12 +1,17 @@
 ---
-title: "Section 47140a - Renumbered § 47140]"
+title: "Section 47140a - Increasing the energy efficiency of airport power sources"
 usc_title: 49
 usc_section: "47140a"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 47140a"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-03-30T03:06:29.338Z"
+status: "active"
 ---
 
-# [§ 47140a. Renumbered § 47140]
+# § 47140a. Increasing the energy efficiency of airport power sources
 
+- **(a)** The Secretary of Transportation shall establish a program under which the Secretary shall encourage the sponsor of each public-use airport to assess the airport’s energy requirements, including heating and cooling, base load, back-up power, and power for on-road airport vehicles and ground support equipment, in order to identify opportunities to increase energy efficiency at the airport.
+- **(b)**
+  - **(1)** The Secretary may make grants from amounts made available under section 48103 to assist airport sponsors that have completed the assessment described in subsection (a) to acquire or construct equipment, including hydrogen equipment and related infrastructure, that will increase energy efficiency at the airport.
+  - **(2)** To be eligible for a grant under paragraph (1), the sponsor of a public-use airport shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.

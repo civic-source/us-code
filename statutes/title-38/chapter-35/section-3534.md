@@ -3,9 +3,10 @@ title: "Section 3534 - Apprenticeship or other on-job training; correspondence c
 usc_title: 38
 usc_section: "3534"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3534"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-03-30T03:05:59.213Z"
+status: "active"
 ---
 
 # § 3534. Apprenticeship or other on-job training; correspondence courses

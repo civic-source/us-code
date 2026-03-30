@@ -3,15 +3,16 @@ title: "Section 3015 - Gifts and donations"
 usc_title: 42
 usc_section: "3015"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3015"
-generated_at: "2026-03-30T02:56:11.171Z"
+generated_at: "2026-03-30T03:06:22.675Z"
+status: "active"
 ---
 
 # § 3015. Gifts and donations
 
-- **(a)** The Assistant Secretary may accept, use, and dispose of, on behalf of the United States, gifts or donations (in cash or in kind, including voluntary and uncompensated services or property), which shall be available until expended for the purposes specified in subsection (b). Gifts of cash and proceeds of the sale of property shall be available in addition to amounts appropriated to carry out this chapter.
-- **(b)** Gifts and donations accepted pursuant to subsection (a) may be used either directly, or for grants to or contracts with public or nonprofit private entities, for the following activities:
+- **(a)** The Assistant Secretary may accept, use, and dispose of, on behalf of the United States, gifts or donations (in cash or in kind, including voluntary and uncompensated services or property), which shall be available until expended for the purposes specified in subsection (b) of this section. Gifts of cash and proceeds of the sale of property shall be available in addition to amounts appropriated to carry out this chapter.
+- **(b)** Gifts and donations accepted pursuant to subsection (a) of this section may be used either directly, or for grants to or contracts with public or nonprofit private entities, for the following activities:
   - **(1)** The design and implementation of demonstrations of innovative ideas and best practices in programs and services for older individuals.
   - **(2)** The planning and conduct of conferences for the purpose of exchanging information, among concerned individuals and public and private entities and organizations, relating to programs and services provided under this chapter and other programs and services for older individuals.
   - **(3)** The development, publication, and dissemination of informational materials (in print, visual, electronic, or other media) relating to the programs and services provided under this chapter and other matters of concern to older individuals.

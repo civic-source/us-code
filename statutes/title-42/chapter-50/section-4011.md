@@ -3,15 +3,16 @@ title: "Section 4011 - Authorization to establish and carry out program"
 usc_title: 42
 usc_section: "4011"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4011"
-generated_at: "2026-03-30T02:56:11.195Z"
+generated_at: "2026-03-30T03:06:22.707Z"
+status: "active"
 ---
 
 # § 4011. Authorization to establish and carry out program
 
 - **(a)** To carry out the purposes of this chapter, the Administrator of the Federal Emergency Management Agency is authorized to establish and carry out a national flood insurance program which will enable interested persons to purchase insurance against loss resulting from physical damage to or loss of real property or personal property related thereto arising from any flood occurring in the United States.
-- **(b)** The national flood insurance program established pursuant to subsection (a) shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
+- **(b)** The national flood insurance program established pursuant to subsection (a) of this section shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
   - **(1)** properties that are repetitive loss structures;
   - **(2)** properties that are substantially damaged structures;
   - **(3)** properties that have sustained flood damage on multiple occasions, if the Administrator determines that it is cost-effective and in the best interests of the National Flood Insurance Fund to require the implementation of such measures; and

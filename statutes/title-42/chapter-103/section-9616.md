@@ -3,9 +3,10 @@ title: "Section 9616 - Schedules"
 usc_title: 42
 usc_section: "9616"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9616"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-03-30T03:06:22.851Z"
+status: "active"
 ---
 
 # § 9616. Schedules
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
   - **(1)** not later than January 1, 1988 , the President shall complete preliminary assessments of all facilities that are contained (as of October 17, 1986 ) on the Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS) including in each assessment a statement as to whether a site inspection is necessary and by whom it should be carried out; and
   - **(2)** not later than January 1, 1989 , the President shall assure the completion of site inspections at all facilities for which the President has stated a site inspection is necessary pursuant to paragraph (1).
 - **(b)** Within 4 years after October 17, 1986 , each facility listed (as of October 17, 1986 ) in the CERCLIS shall be evaluated if the President determines that such evaluation is warranted on the basis of a site inspection or preliminary assessment. The evaluation shall be in accordance with the criteria established in section 9605 of this title under the National Contingency Plan for determining priorities among release for inclusion on the National Priorities List. In the case of a facility listed in the CERCLIS after October 17, 1986 , the facility shall be evaluated within 4 years after the date of such listing if the President determines that such evaluation is warranted on the basis of a site inspection or preliminary assessment.
-- **(c)** If any of the goals established by subsection (a) or (b) are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
+- **(c)** If any of the goals established by subsection (a) or (b) of this section are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
 - **(d)** The President shall assure that remedial investigations and feasibility studies (RI/FS) are commenced for facilities listed on the National Priorities List, in addition to those commenced prior to October 17, 1986 , in accordance with the following schedule:
   - **(1)** not fewer than 275 by the date 36 months after October 17, 1986 , and
   - **(2)** if the requirement of paragraph (1) is not met, not fewer than an additional 175 by the date 4 years after October 17, 1986 , an additional 200 by the date 5 years after October 17, 1986 , and a total of 650 by the date 5 years after October 17, 1986 .

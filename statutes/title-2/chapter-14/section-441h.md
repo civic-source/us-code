@@ -1,12 +1,19 @@
 ---
-title: "Section 441h - Transferred"
+title: "Section 441h - Fraudulent misrepresentation of campaign authority"
 usc_title: 2
 usc_section: "441h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 441h"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-03-30T03:04:04.418Z"
+status: "active"
 ---
 
-# § 441h. Transferred
+# § 441h. Fraudulent misrepresentation of campaign authority
 
+- **(a)** No person who is a candidate for Federal office or an employee or agent of such a candidate shall—
+  - **(1)** fraudulently misrepresent himself or any committee or organization under his control as speaking or writing or otherwise acting for or on behalf of any other candidate or political party or employee or agent thereof on a matter which is damaging to such other candidate or political party or employee or agent thereof; or
+  - **(2)** willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
+- **(b)** No person shall—
+  - **(1)** fraudulently misrepresent the person as speaking, writing, or otherwise acting for or on behalf of any candidate or political party or employee or agent thereof for the purpose of soliciting contributions or donations; or
+  - **(2)** willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).

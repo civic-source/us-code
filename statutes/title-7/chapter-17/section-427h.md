@@ -3,10 +3,11 @@ title: "Section 427h - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "427h"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 427h"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.898Z"
+status: "repealed"
 ---
 
-# § 427h. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674
+# §§ 427a to 427h. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674
 

@@ -3,15 +3,16 @@ title: "Section 2421a - Capital projects office within Agency for International 
 usc_title: 22
 usc_section: "2421a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2421a"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-03-30T03:04:53.640Z"
+status: "active"
 ---
 
 # § 2421a. Capital projects office within Agency for International Development
 
-- **(a)** The Administrator of AID shall establish a capital projects office to carry out the purposes described in subsection (b).
-- **(b)** The purposes referred to in subsection (a) are—
+- **(a)** The Administrator of AID shall establish a capital projects office to carry out the purposes described in subsection (b) of this section.
+- **(b)** The purposes referred to in subsection (a) of this section are—
   - **(1)** to develop an AID program that would focus solely on developmentally sound capital projects, taking into consideration development needs of the host country and the export opportunities for the United States; and
   - **(2)** to consider specifically opportunities for United States high-technology firms, including small- and medium-sized firms, in supporting capital projects for developing countries and for countries making the transition from nonmarket to market economies.
 - **(c)** The Administrator of AID (acting through the capital projects office), in coordination with the appropriate members of the Trade Promotion Coordination Committee—

@@ -3,9 +3,10 @@ title: "Section 175 - Soil and water conservation expenditures; endangered speci
 usc_title: 26
 usc_section: "175"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 175"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-03-30T03:05:18.559Z"
+status: "active"
 ---
 
 # § 175. Soil and water conservation expenditures; endangered species recovery expenditures
@@ -23,7 +24,9 @@ generated_at: "2026-03-30T02:55:27.648Z"
       - **(ii)** if there is no plan described in clause (i), any soil conservation plan of a comparable State agency.
     - **(B)** Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
 - **(d)**
-  - **(1)** A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for the taxpayer’s first taxable year for which expenditures described in subsection (a) are paid or incurred.
+  - **(1)** A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
+    - **(A)** which begins after December 31, 1953 , and ends after August 16, 1954 , and
+    - **(B)** for which expenditures described in subsection (a) are paid or incurred.
   - **(2)** A taxpayer may, with the consent of the Secretary, adopt at any time the method provided in this section.
 - **(e)** The method adopted under this section shall apply to all expenditures described in subsection (a). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
 - **(f)**

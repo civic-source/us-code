@@ -3,12 +3,13 @@ title: "Section 6572 - Agreements and records"
 usc_title: 20
 usc_section: "6572"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 6572"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-03-30T03:04:46.341Z"
+status: "active"
 ---
 
 # § 6572. Agreements and records
 
-- **(a)** In any case in which a negotiated rulemaking process is established under section 6571(b) of this title , all published proposed regulations shall conform to agreements that result from the rulemaking described in section 6571 of this title unless the Secretary reopens the negotiated rulemaking process.
+- **(a)** All published proposed regulations shall conform to agreements that result from negotiated rulemaking described in section 6571 of this title unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants involved in the process explaining why the Secretary decided to depart from, and not adhere to, such agreements.
 - **(b)** The Secretary shall ensure that an accurate and reliable record of agreements reached during the negotiations process is maintained.

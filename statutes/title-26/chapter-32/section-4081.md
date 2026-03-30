@@ -3,9 +3,10 @@ title: "Section 4081 - Imposition of tax"
 usc_title: 26
 usc_section: "4081"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4081"
-generated_at: "2026-03-30T02:55:27.798Z"
+generated_at: "2026-03-30T03:05:18.683Z"
+status: "active"
 ---
 
 # § 4081. Imposition of tax
@@ -56,9 +57,9 @@ generated_at: "2026-03-30T02:55:27.798Z"
     - **(B)** the blender establishes the amount of the tax paid with respect to such fuel by reason of subsection (a),
 - **(c)** If any person separates the taxable fuel from a diesel-water fuel emulsion on which tax was imposed under subsection (a) at a rate determined under subsection (a)(2)(D) (or with respect to which a credit or payment was allowed or made by reason of section 6427), such person shall be treated as the refiner of such taxable fuel. The amount of tax imposed on any removal of such fuel by such person shall be reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or entry of such fuel.
 - **(d)**
-  - **(1)** The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2028 .
+  - **(1)** The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2016 .
   - **(2)** The rates of tax specified in subsection (a)(2)(A)(ii) and (a)(2)(C)(ii) shall be 4.3 cents per gallon—
     - **(A)** after December 31, 1996 , and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-    - **(B)** after September 30, 2028 .
-  - **(3)** The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997 , and before October 1, 2028 .
+    - **(B)** after September 30, 2015 .
+  - **(3)** The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997 , and before October 1, 2016 .
 - **(e)** Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.

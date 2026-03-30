@@ -3,21 +3,17 @@ title: "Section 50702 - Establishment"
 usc_title: 51
 usc_section: "50702"
 chapter: 507
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 50702"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-03-30T03:06:49.076Z"
+status: "active"
 ---
 
 # § 50702. Establishment
 
-- **(a)** There is established within the Department of Commerce an Office of Space Commerce.
+- **(a)** There is established within the Department of Commerce an Office of Space Commercialization.
 - **(b)** The Office shall be headed by a Director, who shall be a senior executive and shall be compensated at a level in the Senior Executive Service under section 5382 of title 5 as determined by the Secretary of Commerce.
-- **(c)** The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce, including—
-  - **(1)** to foster the conditions for the economic growth and technological advancement of the United States space commerce industry;
-  - **(2)** to coordinate space commerce policy issues and actions within the Department of Commerce;
-  - **(3)** to represent the Department of Commerce in the development of United States policies and in negotiations with foreign countries to promote United States space commerce;
-  - **(4)** to promote the advancement of United States geospatial technologies related to space commerce, in cooperation with relevant interagency working groups; and
-  - **(5)** to provide support to Federal Government organizations working on Space-Based Positioning Navigation, and Timing policy, including the National Coordination Office for Space-Based Position, 1 1 So in original. Probably should be “Positioning,”. Navigation, and Timing.
+- **(c)** The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce.
 - **(d)** The primary responsibilities of the Director in carrying out the functions of the Office shall include—
   - **(1)** promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information on space markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
   - **(2)** assisting United States commercial providers in the efforts of those providers to conduct business with the United States Government;

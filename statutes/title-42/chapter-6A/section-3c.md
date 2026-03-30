@@ -3,15 +3,16 @@ title: "Section 3c - National assistance program for water infrastructure and wa
 usc_title: 42
 usc_section: "3c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3c"
-generated_at: "2026-03-30T02:56:10.801Z"
+generated_at: "2026-03-30T03:06:22.389Z"
+status: "active"
 ---
 
 # § 300j–3c. National assistance program for water infrastructure and watersheds
 
 - **(a)** The Administrator of the Environmental Protection Agency may provide technical and financial assistance in the form of grants to States (1) for the construction, rehabilitation, and improvement of water supply systems, and (2) consistent with nonpoint source management programs established under section 1329 of title 33 , for source water quality protection programs to address pollutants in navigable waters for the purpose of making such waters usable by water supply systems.
-- **(b)** Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2).
+- **(b)** Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2) of this section.
 - **(c)** As a condition to receiving assistance under this section, a State shall ensure that such assistance is carried out in the most cost-effective manner, as determined by the State.
 - **(d)**
   - **(1)** There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 1997 through 2003. Such sums shall remain available until expended.

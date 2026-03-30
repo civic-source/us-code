@@ -1,12 +1,21 @@
 ---
-title: "Section 1225 - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264"
+title: "Section 1225 - Waterfront safety"
 usc_title: 33
 usc_section: "1225"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1225"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-03-30T03:05:36.268Z"
+status: "active"
 ---
 
-# §§ 1224, 1225. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264
+# § 1225. Waterfront safety
 
+- **(a)** The Secretary may take such action as is necessary to—
+  - **(1)** prevent damage to, or the destruction of, any bridge or other structure on or in the navigable waters of the United States, or any land structure or shore area immediately adjacent to such waters; and
+  - **(2)** protect the navigable waters and the resources therein from harm resulting from vessel or structure damage, destruction, or loss. Such action may include, but need not be limited to—
+    - **(A)** establishing procedures, measures, and standards for the handling, loading, unloading, storage, stowage, and movement on the structure (including the emergency removal, control, and disposition) of explosives or other dangerous articles and substances, including oil or hazardous material as those terms are defined in section 2101 of title 46 ;
+    - **(B)** prescribing minimum safety equipment requirements for the structure to assure adequate protection from fire, explosion, natural disaster, and other serious accidents or casualties;
+    - **(C)** establishing water or waterfront safety zones, or other measures for limited, controlled, or conditional access and activity when necessary for the protection of any vessel, structure, waters, or shore area; and
+    - **(D)** establishing procedures for examination to assure compliance with the requirements prescribed under this section.
+- **(b)** Nothing contained in this section, with respect to structures, prohibits a State or political subdivision thereof from prescribing higher safety equipment requirements or safety standards than those which may be prescribed by regulations hereunder.

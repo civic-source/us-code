@@ -3,9 +3,10 @@ title: "Section 2008 - Administrative cost grants"
 usc_title: 25
 usc_section: "2008"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2008"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-03-30T03:05:02.891Z"
+status: "active"
 ---
 
 # § 2008. Administrative cost grants
@@ -69,21 +70,21 @@ generated_at: "2026-03-30T02:54:52.833Z"
   - **(2)** Indirect cost funds for programs at the school which share common administrative services with tribal elementary or secondary educational programs may be included in the administrative cost account described in paragraph (1).
 - **(f)** Funds received as grants under this section with respect to tribal elementary or secondary education programs shall remain available to the contract or grant school without fiscal year limitation and without diminishing the amount of any grants otherwise payable to the school under this section for any fiscal year beginning after the fiscal year for which the grant is provided.
 - **(g)** Funds received as grants under this section for Bureau-funded programs operated by a tribe or tribal organization under a contract or agreement shall not be taken into consideration for purposes of indirect cost underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived.
-- **(h)** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5325 ] with respect to an Indian tribe or tribal organization that—
+- **(h)** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450j–1 ] with respect to an Indian tribe or tribal organization that—
   - **(1)** receives funds under this section for administrative costs incurred in operating a contract or grant school or a school operated under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.]; and
-  - **(2)** operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.],
+  - **(2)** operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 450 et seq.],
 - **(i)**
   - **(1)** Not later than 120 days after January 8, 2002 , the Director of the Office of Indian Education Programs shall—
-    - **(A)** conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c); and
+    - **(A)** conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c) of this section; and
     - **(B)** conduct a study to determine—
       - **(i)** a maximum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the smallest tribal elementary or secondary educational programs;
       - **(ii)** a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
-      - **(iii)** a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) will—
+      - **(iii)** a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
         - **(I)** be equal to the median between the maximum base rate and the minimum base rate; and
         - **(II)** ensure that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of tribal elementary or secondary educational programs closest to the size of the program.
   - **(2)** The studies required under paragraph (1) shall—
     - **(A)** be conducted in full consultation (in accordance with section 2011 of this title ) with—
-      - **(i)** the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c); and
+      - **(i)** the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c) of this section; and
       - **(ii)** all national and regional Indian organizations of which such tribes and tribal organizations are typically members;
     - **(B)** be conducted onsite with a representative statistical sample of the tribal elementary or secondary educational programs under a contract entered into with a nationally reputable public accounting and business consulting firm;
     - **(C)** take into account the availability of skilled labor commodities, business and automatic data processing services, related Indian preference and Indian control of education requirements, and any other market factors found to substantially affect the administrative costs and efficiency of each such tribal elementary or secondary educational program studied in order to ensure that all required administrative activities can reasonably be delivered in a cost effective manner for each such program, given an administrative cost allowance generated by the values, percentages, or other factors found in the studies to be relevant in such formula;
@@ -91,12 +92,12 @@ generated_at: "2026-03-30T02:54:52.833Z"
     - **(E)** identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any of the tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
   - **(3)** In carrying out the studies required under this subsection, the Director shall obtain the input of, and afford an opportunity to participate to, the Inspector General of the Department of the Interior.
   - **(4)** Determinations described in paragraph (2)(C) shall be based on what is practicable at each location studied, given prudent management practice, irrespective of whether required administrative services were actually or fully delivered at these sites, or whether other services were delivered instead, during the period of the study.
-  - **(5)** Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) that are used in the formula set forth in subsection (c).
-  - **(6)** The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+  - **(5)** Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) of this section that are used in the formula set forth in subsection (c) of this section.
+  - **(6)** The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
   - **(7)** For purposes of this subsection, the size of tribal elementary or secondary educational programs is determined by the aggregate direct cost program funding level for all Bureau-funded programs which share common administrative cost functions.
 - **(j)**
   - **(1)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
-  - **(2)** If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) bears to the total of all grants determined under subsection (c) section 1 1 So in original. for all tribes and tribal organizations for such fiscal year.
+  - **(2)** If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) of this section for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) of this section for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) of this section bears to the total of all grants determined under subsection (c) section 1 1 So in original. for all tribes and tribal organizations for such fiscal year.
 - **(k)** The provisions of this section shall apply to schools operating under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.].
 - **(l)**
   - **(1)** Beginning with President’s 2 2 So in original. Probably should be preceded by “the”. annual budget request under section 1105 of title 31 for fiscal year 2002, and with respect to each succeeding budget request, at the discretion of the Secretary, the Secretary shall submit to the appropriate committees of Congress information and funding requests for the full funding of administrative costs grants required to be paid under this section.

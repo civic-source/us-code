@@ -3,9 +3,10 @@ title: "Section 7932 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "7932"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7932"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-03-30T03:04:21.027Z"
+status: "active"
 ---
 
 # § 7932. Loan rates for nonrecourse marketing assistance loans
@@ -64,7 +65,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
   - **(15)** In the case of dry peas, $6.22 per hundredweight.
   - **(16)** In the case of lentils, $11.72 per hundredweight.
   - **(17)** In the case of small chickpeas, $7.43 per hundredweight.
-- **(c)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10).
+- **(c)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10) of this section.
 - **(d)** The loan rate for dry peas, lentils, and small chickpeas shall be based on—
   - **(1)** in the case of dry peas, United States feed peas;
   - **(2)** in the case of lentils, United States number 3 lentils; and

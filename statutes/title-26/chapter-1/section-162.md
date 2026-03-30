@@ -3,9 +3,10 @@ title: "Section 162 - Trade or business expenses"
 usc_title: 26
 usc_section: "162"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 162"
-generated_at: "2026-03-30T02:55:27.637Z"
+generated_at: "2026-03-30T03:05:18.550Z"
+status: "active"
 ---
 
 # § 162. Trade or business expenses
@@ -26,11 +27,16 @@ generated_at: "2026-03-30T02:55:27.637Z"
     - **(B)** participation in, or intervention in, any political campaign on behalf of (or in opposition to) any candidate for public office,
     - **(C)** any attempt to influence the general public, or segments thereof, with respect to elections, legislative matters, or referendums, or
     - **(D)** any direct communication with a covered executive branch official in an attempt to influence the official actions or positions of such official.
-  - **(2)** No deduction shall be allowed under subsection (a) for the portion of dues or other similar amounts paid by the taxpayer to an organization which is exempt from tax under this subtitle which the organization notifies the taxpayer under section 6033(e)(1)(A)(ii) is allocable to expenditures to which paragraph (1) applies.
-  - **(3)** For purposes of this subsection—
+  - **(2)** In the case of any legislation of any local council or similar governing body—
+    - **(A)** paragraph (1)(A) shall not apply, and
+    - **(B)** the deduction allowed by subsection (a) shall include all ordinary and necessary expenses (including, but not limited to, traveling expenses described in subsection (a)(2) and the cost of preparing testimony) paid or incurred during the taxable year in carrying on any trade or business—
+      - **(i)** in direct connection with appearances before, submission of statements to, or sending communications to the committees, or individual members, of such council or body with respect to legislation or proposed legislation of direct interest to the taxpayer, or
+      - **(ii)** in direct connection with communication of information between the taxpayer and an organization of which the taxpayer is a member with respect to any such legislation or proposed legislation which is of direct interest to the taxpayer and to such organization,
+  - **(3)** No deduction shall be allowed under subsection (a) for the portion of dues or other similar amounts paid by the taxpayer to an organization which is exempt from tax under this subtitle which the organization notifies the taxpayer under section 6033(e)(1)(A)(ii) is allocable to expenditures to which paragraph (1) applies.
+  - **(4)** For purposes of this subsection—
     - **(A)** The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
     - **(B)** The term “legislation” has the meaning given such term by section 4911(e)(2).
-  - **(4)**
+  - **(5)**
     - **(A)** In the case of any taxpayer engaged in the trade or business of conducting activities described in paragraph (1), paragraph (1) shall not apply to expenditures of the taxpayer in conducting such activities directly on behalf of another person (but shall apply to payments by such other person to the taxpayer for conducting such activities).
     - **(B)**
       - **(i)** Paragraph (1) shall not apply to any in-house expenditures for any taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in paragraphs (1)(A) and (D).
@@ -38,28 +44,15 @@ generated_at: "2026-03-30T02:55:27.637Z"
         - **(I)** payments by the taxpayer to a person engaged in the trade or business of conducting activities described in paragraph (1) for the conduct of such activities on behalf of the taxpayer, or
         - **(II)** dues or other similar amounts paid or incurred by the taxpayer which are allocable to activities described in paragraph (1).
     - **(C)** Any amount paid or incurred for research for, or preparation, planning, or coordination of, any activity described in paragraph (1) shall be treated as paid or incurred in connection with such activity.
-  - **(5)** For purposes of this subsection, the term “covered executive branch official” means—
+  - **(6)** For purposes of this subsection, the term “covered executive branch official” means—
     - **(A)** the President,
     - **(B)** the Vice President,
     - **(C)** any officer or employee of the White House Office of the Executive Office of the President, and the 2 most senior level officers of each of the other agencies in such Executive Office, and
     - **(D)**
       - **(i)** any individual serving in a position in level I of the Executive Schedule under section 5312 of title 5 , United States Code, (ii) any other individual designated by the President as having Cabinet level status, and (iii) any immediate deputy of an individual described in clause (i) or (ii).
-  - **(6)** For reporting requirements and alternative taxes related to this subsection, see section 6033(e).
-- **(f)**
-  - **(1)** Except as provided in the following paragraphs of this subsection, no deduction otherwise allowable shall be allowed under this chapter for any amount paid or incurred (whether by suit, agreement, or otherwise) to, or at the direction of, a government or governmental entity in relation to the violation of any law or the investigation or inquiry by such government or entity into the potential violation of any law.
-  - **(2)**
-    - **(A)** Paragraph (1) shall not apply to any amount that—
-      - **(i)** the taxpayer establishes—
-        - **(I)** constitutes restitution (including remediation of property) for damage or harm which was or may be caused by the violation of any law or the potential violation of any law, or
-        - **(II)** is paid to come into compliance with any law which was violated or otherwise involved in the investigation or inquiry described in paragraph (1),
-      - **(ii)** is identified as restitution or as an amount paid to come into compliance with such law, as the case may be, in the court order or settlement agreement, and
-      - **(iii)** in the case of any amount of restitution for failure to pay any tax imposed under this title in the same manner as if such amount were such tax, would have been allowed as a deduction under this chapter if it had been timely paid.
-    - **(B)** Subparagraph (A) shall not apply to any amount paid or incurred as reimbursement to the government or entity for the costs of any investigation or litigation.
-  - **(3)** Paragraph (1) shall not apply to any amount paid or incurred by reason of any order of a court in a suit in which no government or governmental entity is a party.
-  - **(4)** Paragraph (1) shall not apply to any amount paid or incurred as taxes due.
-  - **(5)** For purposes of this subsection, the following nongovernmental entities shall be treated as governmental entities:
-    - **(A)** Any nongovernmental entity which exercises self-regulatory powers (including imposing sanctions) in connection with a qualified board or exchange (as defined in section 1256(g)(7)).
-    - **(B)** To the extent provided in regulations, any nongovernmental entity which exercises self-regulatory powers (including imposing sanctions) as part of performing an essential governmental function.
+  - **(7)** For purposes of this subsection, an Indian tribal government shall be treated in the same manner as a local council or similar governing body.
+  - **(8)** For reporting requirements and alternative taxes related to this subsection, see section 6033(e).
+- **(f)** No deduction shall be allowed under subsection (a) for any fine or similar penalty paid to a government for the violation of any law.
 - **(g)** If in a criminal proceeding a taxpayer is convicted of a violation of the antitrust laws, or his plea of guilty or nolo contendere to an indictment or information charging such a violation is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) for two-thirds of any amount paid or incurred—
   - **(1)** on any judgment for damages entered against the taxpayer under section 4 of the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914 (commonly known as the Clayton Act), on account of such violation or any related violation of the antitrust laws which occurred prior to the date of the final judgment of such conviction, or
   - **(2)** in settlement of any action brought under such section 4 on account of such violation or related violation.
@@ -74,8 +67,7 @@ generated_at: "2026-03-30T02:55:27.637Z"
     - **(A)** the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or
     - **(B)** the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
   - **(3)** An election under this subsection for any taxable year shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
-  - **(4)** This subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
-- **[(i)**
+  - **(4)** For taxable years beginning after December 31, 1980 , this subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
 - **(j)**
   - **(1)** No deduction shall be allowed under subsection (a) for any expenses of an advertisement carried by a foreign broadcast undertaking and directed primarily to a market in the United States. This paragraph shall apply only to foreign broadcast undertakings located in a country which denies a similar deduction for the cost of advertising directed primarily to a market in the foreign country when placed with a United States broadcast undertaking.
   - **(2)** For purposes of paragraph (1), the term “broadcast undertaking” includes (but is not limited to) radio and television stations.
@@ -106,23 +98,23 @@ generated_at: "2026-03-30T02:55:27.637Z"
     - **(B)** there shall be such adjustments in the application of this subsection as the Secretary may by regulations prescribe.
 - **(m)**
   - **(1)** In the case of any publicly held corporation, no deduction shall be allowed under this chapter for applicable employee remuneration with respect to any covered employee to the extent that the amount of such remuneration for the taxable year with respect to such employee exceeds $1,000,000.
-  - **(2)** For purposes of this subsection, the term “publicly held corporation” means any corporation which is an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c ))—
-    - **(A)** the securities of which are required to be registered under section 12 of such Act ( 15 U.S.C. 78 l ), or
-    - **(B)** that is required to file reports under section 15(d) of such Act ( 15 U.S.C. 78 o (d)).
+  - **(2)** For purposes of this subsection, the term “publicly held corporation” means any corporation issuing any class of common equity securities required to be registered under section 12 of the Securities Exchange Act of 1934.
   - **(3)** For purposes of this subsection, the term “covered employee” means any employee of the taxpayer if—
-    - **(A)** such employee is the principal executive officer or principal financial officer of the taxpayer at any time during the taxable year, or was an individual acting in such a capacity,
-    - **(B)** the total compensation of such employee for the taxable year is required to be reported to shareholders under the Securities Exchange Act of 1934 by reason of such employee being among the 3 highest compensated officers for the taxable year (other than any individual described in subparagraph (A)),
-    - **(C)** in the case of taxable years beginning after December 31, 2026 , such employee is among the 5 highest compensated employees for the taxable year other than any individual described in subparagraph (A) or (B), or
-    - **(D)** was a covered employee described in subparagraph (A) or (B) of the taxpayer (or any predecessor) for any preceding taxable year beginning after December 31, 2016 .
+    - **(A)** as of the close of the taxable year, such employee is the chief executive officer of the taxpayer or is an individual acting in such a capacity, or
+    - **(B)** the total compensation of such employee for the taxable year is required to be reported to shareholders under the Securities Exchange Act of 1934 by reason of such employee being among the 4 highest compensated officers for the taxable year (other than the chief executive officer).
   - **(4)** For purposes of this subsection—
     - **(A)** Except as otherwise provided in this paragraph, the term “applicable employee remuneration” means, with respect to any covered employee for any taxable year, the aggregate amount allowable as a deduction under this chapter for such taxable year (determined without regard to this subsection) for remuneration for services performed by such employee (whether or not during the taxable year).
-    - **(B)** The term “applicable employee remuneration” shall not include any remuneration payable under a written binding contract which was in effect on February 17, 1993 , and which was not modified thereafter in any material respect before such remuneration is paid.
-    - **(C)** For purposes of this paragraph, the term “remuneration” includes any remuneration (including benefits) in any medium other than cash, but shall not include—
+    - **(B)** The term “applicable employee remuneration” shall not include any remuneration payable on a commission basis solely on account of income generated directly by the individual performance of the individual to whom such remuneration is payable.
+    - **(C)** The term “applicable employee remuneration” shall not include any remuneration payable solely on account of the attainment of one or more performance goals, but only if—
+      - **(i)** the performance goals are determined by a compensation committee of the board of directors of the taxpayer which is comprised solely of 2 or more outside directors,
+      - **(ii)** the material terms under which the remuneration is to be paid, including the performance goals, are disclosed to shareholders and approved by a majority of the vote in a separate shareholder vote before the payment of such remuneration, and
+      - **(iii)** before any payment of such remuneration, the compensation committee referred to in clause (i) certifies that the performance goals and any other material terms were in fact satisfied.
+    - **(D)** The term “applicable employee remuneration” shall not include any remuneration payable under a written binding contract which was in effect on February 17, 1993 , and which was not modified thereafter in any material respect before such remuneration is paid.
+    - **(E)** For purposes of this paragraph, the term “remuneration” includes any remuneration (including benefits) in any medium other than cash, but shall not include—
       - **(i)** any payment referred to in so much of section 3121(a)(5) as precedes subparagraph (E) thereof, and
       - **(ii)** any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from gross income under this chapter.
-    - **(D)** The dollar limitation contained in paragraph (1) shall be reduced (but not below zero) by the amount (if any) which would have been included in the applicable employee remuneration of the covered employee for the taxable year but for being disallowed under section 280G.
-    - **(E)** The dollar limitation contained in paragraph (1) with respect to any covered employee shall be reduced (but not below zero) by the amount of any payment (with respect to such employee) of the tax imposed by section 4985 directly or indirectly by the expatriated corporation (as defined in such section) or by any member of the expanded affiliated group (as defined in such section) which includes such corporation.
-    - **(F)** Remuneration shall not fail to be applicable employee remuneration merely because it is includible in the income of, or paid to, a person other than the covered employee, including after the death of the covered employee.
+    - **(F)** The dollar limitation contained in paragraph (1) shall be reduced (but not below zero) by the amount (if any) which would have been included in the applicable employee remuneration of the covered employee for the taxable year but for being disallowed under section 280G.
+    - **(G)** The dollar limitation contained in paragraph (1) with respect to any covered employee shall be reduced (but not below zero) by the amount of any payment (with respect to such employee) of the tax imposed by section 4985 directly or indirectly by the expatriated corporation (as defined in such section) or by any member of the expanded affiliated group (as defined in such section) which includes such corporation.
   - **(5)**
     - **(A)** In the case of an applicable employer, no deduction shall be allowed under this chapter—
       - **(i)** in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
@@ -146,9 +138,9 @@ generated_at: "2026-03-30T02:55:27.637Z"
         - **(I)** on the basis of the shareholder disclosure rules for compensation under the Securities Exchange Act of 1934 (without regard to whether those rules apply to the employer), and
         - **(II)** by only taking into account employees employed during the portion of the taxable year described in clause (i)(I).
       - **(iii)** If an employee is a covered executive with respect to an applicable employer for any applicable taxable year, such employee shall be treated as a covered executive with respect to such employer for all subsequent applicable taxable years and for all subsequent taxable years in which deferred deduction executive remuneration with respect to services performed in all such applicable taxable years would (but for this paragraph) be deductible.
-    - **(E)** For purposes of this paragraph, the term “executive remuneration” means the applicable employee remuneration of the covered executive, as determined under paragraph (4) without regard to subparagraph (B) thereof. Such term shall not include any deferred deduction executive remuneration with respect to services performed in a prior applicable taxable year.
+    - **(E)** For purposes of this paragraph, the term “executive remuneration” means the applicable employee remuneration of the covered executive, as determined under paragraph (4) without regard to subparagraphs (B), (C), and (D) thereof. Such term shall not include any deferred deduction executive remuneration with respect to services performed in a prior applicable taxable year.
     - **(F)** For purposes of this paragraph, the term “deferred deduction executive remuneration” means remuneration which would be executive remuneration for services performed in an applicable taxable year but for the fact that the deduction under this chapter (determined without regard to this paragraph) for such remuneration is allowable in a subsequent taxable year.
-    - **(G)** Rules similar to the rules of subparagraphs (D) and (E) of paragraph (4) shall apply for purposes of this paragraph.
+    - **(G)** Rules similar to the rules of subparagraphs (F) and (G) of paragraph (4) shall apply for purposes of this paragraph.
     - **(H)** The Secretary may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this paragraph and the Emergency Economic Stabilization Act of 2008, including the extent to which this paragraph applies in the case of any acquisition, merger, or reorganization of an applicable employer.
   - **(6)**
     - **(A)** No deduction shall be allowed under this chapter—
@@ -162,26 +154,13 @@ generated_at: "2026-03-30T02:55:27.637Z"
         - **(I)** with respect to taxable years beginning after December 31, 2009 , and before January 1, 2013 , any employer which is a health insurance issuer (as defined in section 9832(b)(2)) and which receives premiums from providing health insurance coverage (as defined in section 9832(b)(1)), and
         - **(II)** with respect to taxable years beginning after December 31, 2012 , any employer which is a health insurance issuer (as defined in section 9832(b)(2)) and with respect to which not less than 25 percent of the gross premiums received from providing health insurance coverage (as defined in section 9832(b)(1)) is from minimum essential coverage (as defined in section 5000A(f)).
       - **(ii)** Two or more persons who are treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 shall be treated as a single employer, except that in applying section 1563(a) for purposes of any such subsection, paragraphs (2) and (3) thereof shall be disregarded.
-    - **(D)** For purposes of this paragraph, the term “applicable individual remuneration” means, with respect to any applicable individual for any disqualified taxable year, the aggregate amount allowable as a deduction under this chapter for such taxable year (determined without regard to this subsection) for remuneration (as defined in paragraph (4) without regard to subparagraph (B) thereof) for services performed by such individual (whether or not during the taxable year). Such term shall not include any deferred deduction remuneration with respect to services performed during the disqualified taxable year.
+    - **(D)** For purposes of this paragraph, the term “applicable individual remuneration” means, with respect to any applicable individual for any disqualified taxable year, the aggregate amount allowable as a deduction under this chapter for such taxable year (determined without regard to this subsection) for remuneration (as defined in paragraph (4) without regard to subparagraphs (B), (C), and (D) thereof) for services performed by such individual (whether or not during the taxable year). Such term shall not include any deferred deduction remuneration with respect to services performed during the disqualified taxable year.
     - **(E)** For purposes of this paragraph, the term “deferred deduction remuneration” means remuneration which would be applicable individual remuneration for services performed in a disqualified taxable year but for the fact that the deduction under this chapter (determined without regard to this paragraph) for such remuneration is allowable in a subsequent taxable year.
     - **(F)** For purposes of this paragraph, the term “applicable individual” means, with respect to any covered health insurance provider for any disqualified taxable year, any individual—
       - **(i)** who is an officer, director, or employee in such taxable year, or
       - **(ii)** who provides services for or on behalf of such covered health insurance provider during such taxable year.
-    - **(G)** Rules similar to the rules of subparagraphs (D) and (E) of paragraph (4) shall apply for purposes of this paragraph.
+    - **(G)** Rules similar to the rules of subparagraphs (F) and (G) of paragraph (4) shall apply for purposes of this paragraph.
     - **(H)** The Secretary may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this paragraph.
-  - **(7)**
-    - **(A)** In the case of any publicly held corporation which is a member of a controlled group—
-      - **(i)** paragraph (1) shall be applied by substituting “specified covered employee” for “covered employee”, and
-      - **(ii)** if any person which is a member of such controlled group (other than such publicly held corporation) provides applicable employee remuneration to an individual who is a specified covered employee of such controlled group and the aggregate amount described in subparagraph (B)(ii) with respect to such specified covered employee exceeds $1,000,000—
-        - **(I)** paragraph (1) shall apply to such person with respect to such remuneration, and
-        - **(II)** paragraph (1) shall apply to such publicly held corporation and to each such related person by substituting “the allocable limitation amount” for “$1,000,000”.
-    - **(B)** For purposes of this paragraph, the term “allocable limitation amount” means, with respect to any member of the controlled group referred to in subparagraph (A) with respect to any specified covered employee of such controlled group, the amount which bears the same ratio to $1,000,000 as—
-      - **(i)** the amount of applicable employee remuneration provided by such member with respect to such specified covered employee, bears to
-      - **(ii)** the aggregate amount of applicable employee remuneration provided by all such members with respect to such specified covered employee.
-    - **(C)** For purposes of this paragraph, the term “specified covered employee” means, with respect to any controlled group—
-      - **(i)** any employee described in subparagraph (A), (B), or (D) of paragraph (3), with respect to the publicly held corporation which is a member of such controlled group, and
-      - **(ii)** any employee who would be described in subparagraph (C) of paragraph (3) if such subparagraph were applied by taking into account the employees of all members of the controlled group.
-    - **(D)** For purposes of this paragraph, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
 - **(n)**
   - **(1)** No deduction shall be allowed under this chapter to an employer for any amount paid or incurred in connection with a group health plan if the plan does not reimburse for inpatient hospital care services provided in the State of New York—
     - **(A)** except as provided in subparagraphs (B) and (C), at the same rate as licensed commercial insurers are required to reimburse hospitals for such services when such reimbursement is not through such a plan,
@@ -194,31 +173,9 @@ generated_at: "2026-03-30T02:55:27.637Z"
     - **(A)** the amount allowable as a deduction under this chapter for the use of a vehicle in performing such services shall be equal to the amount of such qualified reimbursements; and
     - **(B)** such qualified reimbursements shall be treated as paid under a reimbursement or other expense allowance arrangement for purposes of section 62(a)(2)(A) (and section 62(c) shall not apply to such qualified reimbursements).
   - **(2)** Notwithstanding paragraph (1)(A), if the expenses incurred by an employee for the use of a vehicle in performing services described in paragraph (1) exceed the qualified reimbursements for such expenses, such excess shall be taken into account in computing the miscellaneous itemized deductions of the employee under section 67.
-  - **(3)** For purposes of this subsection, the term “qualified reimbursements” means the amounts paid by the United States Postal Service to employees as an equipment maintenance allowance under the 1991 collective bargaining agreement between the United States Postal Service and the National Rural Letter Carriers’ Association. Amounts paid as an equipment maintenance allowance by such Postal Service under later collective bargaining agreements that supersede the 1991 agreement shall be considered qualified reimbursements if such amounts do not exceed the amounts that would have been paid under the 1991 agreement, adjusted by increasing any such amount under the 1991 agreement by an amount equal to—
-    - **(A)** such amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1990” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(3)** For purposes of this subsection, the term “qualified reimbursements” means the amounts paid by the United States Postal Service to employees as an equipment maintenance allowance under the 1991 collective bargaining agreement between the United States Postal Service and the National Rural Letter Carriers’ Association. Amounts paid as an equipment maintenance allowance by such Postal Service under later collective bargaining agreements that supersede the 1991 agreement shall be considered qualified reimbursements if such amounts do not exceed the amounts that would have been paid under the 1991 agreement, adjusted for changes in the Consumer Price Index (as defined in section 1(f)(5)) since 1991.
 - **(p)** For purposes of subsection (a)(2), in the case of an individual who performs services as a member of a reserve component of the Armed Forces of the United States at any time during the taxable year, such individual shall be deemed to be away from home in the pursuit of a trade or business for any period during which such individual is away from home in connection with such service.
-- **(q)** No deduction shall be allowed under this chapter for—
-  - **(1)** any settlement or payment related to sexual harassment or sexual abuse if such settlement or payment is subject to a nondisclosure agreement, or
-  - **(2)** attorney’s fees related to such a settlement or payment.
-- **(r)**
-  - **(1)** No deduction shall be allowed for the applicable percentage of any FDIC premium paid or incurred by the taxpayer.
-  - **(2)** Paragraph (1) shall not apply to any taxpayer for any taxable year if the total consolidated assets of such taxpayer (determined as of the close of such taxable year) do not exceed $10,000,000,000.
-  - **(3)** For purposes of this subsection, the term “applicable percentage” means, with respect to any taxpayer for any taxable year, the ratio (expressed as a percentage but not greater than 100 percent) which—
-    - **(A)** the excess of—
-      - **(i)** the total consolidated assets of such taxpayer (determined as of the close of such taxable year), over
-      - **(ii)** $10,000,000,000, bears to
-    - **(B)** $40,000,000,000.
-  - **(4)** For purposes of this subsection, the term “FDIC premium” means any assessment imposed under section 7(b) of the Federal Deposit Insurance Act ( 12 U.S.C. 1817(b) ).
-  - **(5)** For purposes of this subsection, the term “total consolidated assets” has the meaning given such term under section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5365 ).
-  - **(6)**
-    - **(A)** Members of an expanded affiliated group shall be treated as a single taxpayer for purposes of applying this subsection.
-    - **(B)**
-      - **(i)** For purposes of this paragraph, the term “expanded affiliated group” means an affiliated group as defined in section 1504(a), determined—
-        - **(I)** by substituting “more than 50 percent” for “at least 80 percent” each place it appears, and
-        - **(II)** without regard to paragraphs (2) and (3) of section 1504(b).
-      - **(ii)** A partnership or any other entity (other than a corporation) shall be treated as a member of an expanded affiliated group if such entity is controlled (within the meaning of section 954(d)(3)) by members of such group (including any entity treated as a member of such group by reason of this clause).
-- **(s)**
+- **(q)**
   - **(1)** For special rule relating to expenses in connection with subdividing real property for sale, see section 1237.
   - **(2)** For special rule relating to the treatment of payments by a transferee of a franchise, trademark, or trade name, see section 1253.
   - **(3)** For special rules relating to—

@@ -1,12 +1,15 @@
 ---
-title: "Section 61e - Transferred"
+title: "Section 61e - Compensation of Sergeant at Arms and Doorkeeper of Senate"
 usc_title: 2
 usc_section: "61e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 61e"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.396Z"
+status: "active"
 ---
 
-# § 61e. Transferred
+# § 61e. Compensation of Sergeant at Arms and Doorkeeper of Senate
+
+The Sergeant at Arms and Doorkeeper of the Senate shall be paid at an annual rate of compensation of $40,000.
 

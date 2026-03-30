@@ -3,17 +3,18 @@ title: "Section 6962 - Federal procurement"
 usc_title: 42
 usc_section: "6962"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6962"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-03-30T03:06:22.779Z"
+status: "active"
 ---
 
 # § 6962. Federal procurement
 
-- **(a)** Except as provided in subsection (b), a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
+- **(a)** Except as provided in subsection (b) of this section, a procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
 - **(b)** Any procurement, by any procuring agency, which is subject to regulations of the Administrator under section 6964 of this title (as promulgated before October 21, 1976 , under comparable provisions of prior law) shall not be subject to the requirements of this section to the extent that such requirements are inconsistent with such regulations.
 - **(c)**
-  - **(1)** After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+  - **(1)** After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
     - **(A)** are not reasonably available within a reasonable period of time;
     - **(B)** fail to meet the performance standards set forth in the applicable specifications or fail to meet the reasonable performance standards of the procuring agencies; or
     - **(C)** are only available at an unreasonable price. Any determination under subparagraph (B) shall be made on the basis of the guidelines of the National Institute of Standards and Technology in any case in which such material is covered by such guidelines.
@@ -27,16 +28,16 @@ generated_at: "2026-03-30T02:56:11.276Z"
   - **(1)** as expeditiously as possible but in any event no later than eighteen months after November 8, 1984 , eliminate from such specifications—
     - **(A)** any exclusion of recovered materials and
     - **(B)** any requirement that items be manufactured from virgin materials; and
-  - **(2)** within one year after the date of publication of applicable guidelines under subsection (e), or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
-- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021 , and thereafter, as appropriate, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
-  - **(1)** designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
+  - **(2)** within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of recovered materials to the maximum extent possible without jeopardizing the intended end use of the item.
+- **(e)** The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Public Printer, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+  - **(1)** designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
   - **(2)** set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
     - **(A)** the availability of such items;
     - **(B)** the impact of the procurement of such items by procuring agencies on the volume of solid waste which must be treated, stored or disposed of;
     - **(C)** the economic and technological feasibility of producing and using such items; and
     - **(D)** other uses for such recovered materials.
 - **(f)** A procuring agency shall, to the maximum extent practicable, manage or arrange for the procurement of solid waste management services in a manner which maximizes energy and resource recovery.
-- **(g)** The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d).
+- **(g)** The Office of Procurement Policy in the Executive Office of the President, in cooperation with the Administrator, shall implement the requirements of this section. It shall be the responsibility of the Office of Procurement Policy to coordinate this policy with other policies for Federal procurement, in such a way as to maximize the use of recovered resources, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
 - **(h)** As used in this section, in the case of paper products, the term “recovered materials” includes—
   - **(1)** postconsumer materials such as—
     - **(A)** paper, paperboard, and fibrous wastes from retail stores, office buildings, homes, and so forth, after they have passed through their end-usage as a consumer item, including: used corrugated boxes; old newspapers; old magazines; mixed waste paper; tabulating cards; and used cordage; and
@@ -48,18 +49,12 @@ generated_at: "2026-03-30T02:56:11.276Z"
     - **(D)** wastes generated by the conversion of goods made from fibrous material (that is, waste rope from cordage manufacture, textile mill waste, and cuttings); and
     - **(E)** fibers recovered from waste water which otherwise would enter the waste stream.
 - **(i)**
-  - **(1)** Within one year after the date of publication of applicable guidelines under subsection (e), each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+  - **(1)** Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
   - **(2)** Each affirmative procurement program required under this subsection shall, at a minimum, contain—
     - **(A)** a recovered materials preference program;
     - **(B)** an agency promotion program to promote the preference program adopted under subparagraph (A);
     - **(C)** a program for requiring estimates of the total percentage of recovered material utilized in the performance of a contract; certification of minimum recovered material content actually utilized, where appropriate; and reasonable verification procedures for estimates and certifications; and
     - **(D)** annual review and monitoring of the effectiveness of an agency’s affirmative procurement program.
   - **(3)** In developing the preference program, the following options shall be considered for adoption:
-    - **(A)** Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C), a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1)). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
-    - **(B)** Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1)) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C).
-- **(j)** The Administrator shall—
-  - **(1)** consult with each procuring agency, including contractors of the procuring agency, to clarify the responsibilities of the procuring agency under this section; and
-  - **(2)** provide to each procuring agency information on the requirements under this section and the responsibilities of the procuring agency under this section.
-- **(k)** The Administrator, in consultation with the Administrator of General Services, shall submit to Congress an annual report describing—
-  - **(1)** the quantity of federally procured recycled products listed in the guidelines under subsection (e); and
-  - **(2)** with respect to the products described in paragraph (1), the percentage of recycled material in each product.
+    - **(A)** Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C) of this section, a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1) of this section). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
+    - **(B)** Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1) of this section) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C) of this section.

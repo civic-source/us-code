@@ -3,9 +3,10 @@ title: "Section 3511 - Repealed. Pub. L. 98–164, title X, § 1011(a)(6) , Nov.
 usc_title: 22
 usc_section: "3511"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3511"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-03-30T03:04:53.663Z"
+status: "repealed"
 ---
 
 # § 3511. Repealed. Pub. L. 98–164, title X, § 1011(a)(6) , Nov. 22, 1983 , 97 Stat. 1061

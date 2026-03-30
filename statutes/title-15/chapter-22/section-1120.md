@@ -3,9 +3,10 @@ title: "Section 1120 - Civil liability for false or fraudulent registration"
 usc_title: 15
 usc_section: "1120"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1120"
-generated_at: "2026-03-30T02:54:08.127Z"
+generated_at: "2026-03-30T03:04:31.158Z"
+status: "active"
 ---
 
 # § 1120. Civil liability for false or fraudulent registration

@@ -1,21 +1,28 @@
 ---
-title: "Section 2881a - Temporary authority for acquisition or construction of privatized military unaccompanied housing"
+title: "Section 2881a - Pilot projects for acquisition or construction of military unaccompanied housing"
 usc_title: 10
 usc_section: "2881a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-03-30T02:53:38.182Z"
+generated_at: "2026-03-30T03:04:17.304Z"
+status: "active"
 ---
 
-# § 2881a. Temporary authority for acquisition or construction of privatized military unaccompanied housing
+# § 2881a. Pilot projects for acquisition or construction of military unaccompanied housing
 
-- **(a)** The Secretary concerned may use the authority under this subchapter to enter into contracts with appropriate private sector entities for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
-- **(b)** The Secretary concerned may assign members of the armed forces without dependents to housing units acquired or constructed pursuant to this section, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of section 403 of title 37 .
+- **(a)** The Secretary of the Navy may carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
+- **(b)** The Secretary of the Navy may assign members of the armed forces without dependents to housing units acquired or constructed under the pilot projects, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of section 403 of title 37 .
 - **(c)**
-  - **(1)** The Secretary of Defense may prescribe and, under section 403( o ) of title 37, pay for members of the armed forces without dependents in privatized housing units acquired or constructed pursuant to this section higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
+  - **(1)** The Secretary of Defense may prescribe and, under section 403(n) of title 37 , pay for members of the armed forces without dependents in privatized housing acquired or constructed under the pilot projects higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
   - **(2)** The partial basic allowance for housing paid for a member at a higher rate under this subsection may be paid directly to the private sector source of the housing to whom the member is obligated to pay rent or other charge for residing in such housing if the private sector source credits the amount so paid against the amount owed by the member for the rent or other charge.
 - **(d)**
-  - **(1)** The Secretary concerned shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities pursuant to this section.
-  - **(2)** Subject to 30 days prior notification to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title , such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
-- **(e)** The authority of the Secretary concerned to enter into a contract under this section shall expire September 30, 2029 .
+  - **(1)** The Secretary of the Navy shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under the pilot projects.
+  - **(2)** Subject to 30 days prior notification to the appropriate committees of Congress, such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
+- **(e)**
+  - **(1)** The Secretary of the Navy shall transmit to the appropriate committees of Congress a report describing—
+    - **(A)** each contract for the acquisition of military unaccompanied housing that the Secretary proposes to solicit under the pilot projects;
+    - **(B)** each conveyance or lease proposed under section 2878 of this title in furtherance of the pilot projects; and
+    - **(C)** the proposed partial basic allowance for housing rates for each contract as they vary by grade of the member and how they compare to basic allowance for housing rates for other contracts written under the authority of the pilot programs.
+  - **(2)** The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title .
+- **(f)** The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009 .

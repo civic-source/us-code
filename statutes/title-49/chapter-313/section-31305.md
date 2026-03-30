@@ -3,9 +3,10 @@ title: "Section 31305 - General driver fitness, testing, and training"
 usc_title: 49
 usc_section: "31305"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 31305"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-03-30T03:06:29.308Z"
+status: "active"
 ---
 
 # § 31305. General driver fitness, testing, and training
@@ -43,23 +44,3 @@ generated_at: "2026-03-30T02:56:19.360Z"
   - **(3)** requiring effective instruction to acquire the knowledge, skills, and training referred to in paragraphs (1) and (2), including classroom and behind-the-wheel instruction;
   - **(4)** requiring certification that an individual operating a commercial motor vehicle meets the requirements established by the Secretary; and
   - **(5)** requiring a training provider (including a public or private driving school, motor carrier, or owner or operator of a commercial motor vehicle) that offers training that results in the issuance of a certification to an individual under paragraph (4) to demonstrate that the training meets the requirements of the regulations, through a process established by the Secretary.
-- **(d)**
-  - **(1)** Not later than December 31, 2016 , the Secretary shall modify the regulations prescribed under subsections (a) and (c) to—
-    - **(A)** exempt a covered individual from all or a portion of a driving test if the covered individual had experience in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle;
-    - **(B)** ensure that a covered individual may apply for an exemption under subparagraph (A)—
-      - **(i)** while serving in the armed forces or reserve components; and
-      - **(ii)** during the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
-    - **(C)** credit the training and knowledge a covered individual received in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle for purposes of satisfying minimum standards for training and knowledge.
-  - **(2)** In this subsection, the following definitions apply:
-    - **(A)** The term “armed forces” has the meaning given that term in section 101(a) of title 10 .
-    - **(B)** The term “covered individual” means an individual over the age of 21 years who is—
-      - **(i)** a current or former member of the armed forces; or
-      - **(ii)** a current or former member of one of the reserve components.
-    - **(C)** The term “reserve components” means—
-      - **(i)** the Army National Guard of the United States;
-      - **(ii)** the Army Reserve;
-      - **(iii)** the Navy Reserve;
-      - **(iv)** the Marine Corps Reserve;
-      - **(v)** the Air National Guard of the United States;
-      - **(vi)** the Air Force Reserve; and
-      - **(vii)** the Coast Guard Reserve.

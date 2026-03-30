@@ -3,14 +3,15 @@ title: "Section 6303 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "6303"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6303"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-03-30T03:04:21.000Z"
+status: "active"
 ---
 
 # § 6303. Issuance and amendment of orders
 
-- **(a)** To effectuate the declared policy of section 6301(b) of this title , the Secretary, subject to the procedures provided in subsection (b), shall issue orders under this chapter applicable to producers and first purchasers of soybeans. Any such order shall be national in scope, and not more than one order shall be in effect under this chapter at any one time.
+- **(a)** To effectuate the declared policy of section 6301(b) of this title , the Secretary, subject to the procedures provided in subsection (b) of this section, shall issue orders under this chapter applicable to producers and first purchasers of soybeans. Any such order shall be national in scope, and not more than one order shall be in effect under this chapter at any one time.
 - **(b)**
   - **(1)** The Secretary may propose the issuance of an order under this chapter, or an association of soybean producers or any other person that would be affected by an order issued pursuant to this chapter may request the issuance of, and submit a proposal for, such an order.
   - **(2)** Not later than 30 days after the receipt of a request and proposal for an order pursuant to paragraph (1), or whenever the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.

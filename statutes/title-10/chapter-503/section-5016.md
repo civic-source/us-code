@@ -1,0 +1,21 @@
+---
+title: "Section 5016 - Assistant Secretaries of the Navy"
+usc_title: 10
+usc_section: "5016"
+chapter: 503
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 5016"
+generated_at: "2026-03-30T03:04:17.313Z"
+status: "active"
+---
+
+# § 5016. Assistant Secretaries of the Navy
+
+- **(a)** There are four Assistant Secretaries of the Navy. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+- **(b)**
+  - **(1)** The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
+  - **(2)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Navy.
+  - **(3)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
+  - **(4)**
+    - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, and acquisition matters of the Department of the Navy.
+    - **(B)** The Assistant Secretary shall have a Principal Military Deputy, who shall be a vice admiral of the Navy or a lieutenant general of the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title .

@@ -3,12 +3,13 @@ title: "Section 274m - Authorization of appropriations"
 usc_title: 42
 usc_section: "274m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 274m"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-03-30T03:06:22.331Z"
+status: "active"
 ---
 
 # § 274m. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $31,009,000 for each of fiscal years 2022 through 2026.
+For the purpose of carrying out this part, there are authorized to be appropriated $30,000,000 for each of fiscal years 2011 through 2014 and $33,000,000 for fiscal year 2015.
 

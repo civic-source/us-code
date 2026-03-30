@@ -1,0 +1,27 @@
+---
+title: "Section 7265d - Availability of funds"
+usc_title: 20
+usc_section: "7265d"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 7265d"
+generated_at: "2026-03-30T03:04:46.357Z"
+status: "active"
+---
+
+# § 7265d. Availability of funds
+
+If sufficient funds are made available under section 7241 of this title to carry out this subpart for a fiscal year, the Secretary shall make available, to support activities described in section 7265b(b) of this title , the following amounts:
+
+  - **(1)** Not less than $2,000,000 each to—
+    - **(A)** the New Bedford Whaling Museum, in partnership with the New Bedford Oceanarium, in Massachusetts;
+    - **(B)** the Inupiat Heritage Center in Alaska; and
+    - **(C)** the Mississippi Band of Choctaw Indians in Choctaw, Mississippi.
+  - **(2)** For the New Trade Winds project, not less than $1,000,000 each to—
+    - **(A)** the Alaska Native Heritage Center in Alaska;
+    - **(B)** the Bishop Museum in Hawaii; and
+    - **(C)** the Peabody-Essex Museum in Massachusetts.
+  - **(3)** For internship and apprenticeship programs (including the Museum Action Corps of the Peabody-Essex Museum), not less than $1,000,000 each to—
+    - **(A)** the Alaska Native Heritage Center in Alaska;
+    - **(B)** the Bishop Museum in Hawaii; and
+    - **(C)** the Peabody-Essex Museum in Massachusetts.

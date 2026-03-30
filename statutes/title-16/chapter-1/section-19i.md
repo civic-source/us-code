@@ -1,12 +1,15 @@
 ---
-title: "Section 19i - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19i - Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance"
 usc_title: 16
 usc_section: "19i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 19i"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.398Z"
+status: "active"
 ---
 
-# § 19i. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19i. Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance
+
+The Foundation shall have perpetual succession, with all the usual powers and obligations of a corporation acting as a trustee, including the power to sue and to be sued in its own name, but the members of the Board shall not be personally liable, except for malfeasance.
 

@@ -3,9 +3,10 @@ title: "Section 30118 - Notification of defects and noncompliance"
 usc_title: 49
 usc_section: "30118"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 30118"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-03-30T03:06:29.302Z"
+status: "active"
 ---
 
 # § 30118. Notification of defects and noncompliance
@@ -16,13 +17,8 @@ generated_at: "2026-03-30T02:56:19.351Z"
   - **(2)** If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains the defect or does not comply, the Secretary shall order the manufacturer to—
     - **(A)** give notification under section 30119 of this title to the owners, purchasers, and dealers of the vehicle or equipment of the defect or noncompliance; and
     - **(B)** remedy the defect or noncompliance under section 30120 of this title .
-- **(c)** A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
+- **(c)** A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
   - **(1)** learns the vehicle or equipment contains a defect and decides in good faith that the defect is related to motor vehicle safety; or
   - **(2)** decides in good faith that the vehicle or equipment does not comply with an applicable motor vehicle safety standard prescribed under this chapter.
 - **(d)** On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 - **(e)** On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
-- **(f)**
-  - **(1)** Each manufacturer that is conducting a campaign under subsection (b) or (c) or any other provision of law (including regulations) to notify manufacturers, distributors, owners, purchasers, or dealers of a defect or noncompliance shall submit to the Administrator of the National Highway Traffic Safety Administration—
-    - **(A)** by the applicable date described in section 573.7(d) of title 49, Code of Federal Regulations (or a successor regulation), a quarterly report describing the campaign for each of 8 consecutive quarters, beginning with the quarter in which the campaign was initiated; and
-    - **(B)** an annual report for each of the 3 years beginning after the date of completion of the last quarter for which a quarterly report is submitted under subparagraph (A).
-  - **(2)** Except as otherwise provided in this subsection, each report under this subsection shall comply with the requirements of section 573.7 of title 49, Code of Federal Regulations (or a successor regulation).

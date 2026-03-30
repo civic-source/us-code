@@ -3,9 +3,10 @@ title: "Section 1654 - Intervention authorization in implementation of court ord
 usc_title: 20
 usc_section: "1654"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1654"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-03-30T03:04:46.307Z"
+status: "active"
 ---
 
 # § 1654. Intervention authorization in implementation of court orders

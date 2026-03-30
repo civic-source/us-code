@@ -3,14 +3,15 @@ title: "Section 2503 - Technical assistance"
 usc_title: 29
 usc_section: "2503"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 2503"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-03-30T03:05:09.736Z"
+status: "active"
 ---
 
 # § 2503. Technical assistance
 
-- **(a)** With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b). Such technical assistance may include—
+- **(a)** With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b) of this section. Such technical assistance may include—
   - **(1)** developing outreach and orientation sessions to recruit women into the employers’ apprenticeable occupations and nontraditional occupations;
   - **(2)** developing preapprenticeable occupations or nontraditional skills training to prepare women for apprenticeable occupations or nontraditional occupations;
   - **(3)** providing ongoing orientations for employers, unions, and workers on creating a successful environment for women in apprenticeable occupations or nontraditional occupations;
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(5)** setting up a local computerized data base referral system to maintain a current list of tradeswomen who are available for work;
   - **(6)** serving as a liaison between tradeswomen and employers and tradeswomen and labor unions to address workplace issues related to gender; and
   - **(7)** conducting exit interviews with tradeswomen to evaluate their on-the-job experience and to assess the effectiveness of the program.
-- **(b)** The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a).
+- **(b)** The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a) of this section.

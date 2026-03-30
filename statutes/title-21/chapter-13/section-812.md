@@ -3,14 +3,15 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T02:54:54.291Z"
+generated_at: "2026-03-30T03:05:00.978Z"
+status: "active"
 ---
 
 # § 812. Schedules of controlled substances
 
-- **(a)** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970 , and shall be updated and republished on an annual basis thereafter. 1 1 See Amendment of Schedules of Controlled Substances note below.
+- **(a)** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970 , and shall be updated and republished on an annual basis thereafter.
 - **(b)** Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970 , and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
   - **(1)**
     - **(A)** The drug or other substance has a high potential for abuse.
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
     - **(A)** The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
     - **(B)** The drug or other substance has a currently accepted medical use in treatment in the United States.
     - **(C)** Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
-- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title , consist of the following drugs or other substances, 1 by whatever official name, common or usual name, chemical name, or brand name designated:
+- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended 1 1 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. pursuant to section 811 of this title , consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated: Schedule I
 - **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
   - **(1)** Acetylmethadol.
   - **(2)** Allylprodine.
@@ -72,7 +73,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(36)** Phenomorphan.
   - **(37)** Phenoperidine.
   - **(38)** Piritramide.
-  - **(39)** Proheptazine.
+  - **(39)** Propheptazine.
   - **(40)** Properidine.
   - **(41)** Racemoramide.
   - **(42)** Trimeperidine.
@@ -106,7 +107,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(4)** Bufotenine.
   - **(5)** Diethyltryptamine.
   - **(6)** Dimethyltryptamine.
-  - **(7)** 4-methyl-2,5-dimethoxyamphetamine.
+  - **(7)** 4-methyl-2,5-diamethoxyamphetamine.
   - **(8)** Ibogaine.
   - **(9)** Lysergic acid diethylamide.
   - **(10)** Marihuana.
@@ -116,7 +117,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(14)** N-methyl-3-piperidyl benzilate.
   - **(15)** Psilocybin.
   - **(16)** Psilocyn.
-  - **(17)** Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 1639 o of title 7).
+  - **(17)** Tetrahydrocannabinols.
   - **(18)** 4-methylmethcathinone (Mephedrone).
   - **(19)** 3,4-methylenedioxypyrovalerone (MDPV).
   - **(20)** 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C–E).
@@ -153,20 +154,6 @@ generated_at: "2026-03-30T02:54:54.291Z"
       - **(xiii)** 1-pentyl-3-[(4-methoxy)-benzoyl]indole (SR–19 and RCS–4);
       - **(xiv)** 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (SR–18 and RCS–8); and
       - **(xv)** 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH–203).
-- **(e)**
-  - **(1)** Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of a fentanyl-related substance, or which contains the salts, isomers, and salts of isomers of a fentanyl-related substance whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation.
-  - **(2)** For purposes of paragraph (1), except as provided in paragraph (3), the term “fentanyl-related substance” means any substance that is structurally related to fentanyl by 1 or more of the following modifications:
-    - **(A)** By replacement of the phenyl portion of the phenethyl group by any monocycle, whether or not further substituted in or on the monocycle.
-    - **(B)** By substitution in or on the phenethyl group with alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino, or nitro groups.
-    - **(C)** By substitution in or on the piperidine ring with alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino, or nitro groups.
-    - **(D)** By replacement of the aniline ring with any aromatic monocycle whether or not further substituted in or on the aromatic monocycle.
-    - **(E)** By replacement of the N-propionyl group with another acyl group.
-  - **(3)** A substance that satisfies the definition of the term “fentanyl-related substance” in paragraph (2) shall nonetheless not be treated as a fentanyl-related substance subject to this schedule if the substance—
-    - **(A)** is controlled by action of the Attorney General under section 811 of this title ; or
-    - **(B)** is otherwise expressly listed in a schedule other than this schedule.
-  - **(4)**
-    - **(A)** The Attorney General may by order publish in the Federal Register a list of substances that satisfy the definition of the term “fentanyl-related substance” in paragraph (2).
-    - **(B)** The absence of a substance from a list published under subparagraph (A) does not negate the control status of the substance under this schedule if the substance satisfies the definition of the term “fentanyl-related substance” in paragraph (2).
 - **(a)** Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
   - **(1)** Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate.
   - **(2)** Any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of the substances referred to in clause (1), except that these substances shall not include the isoquinoline alkaloids of opium.
@@ -194,7 +181,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(19)** Piminodine.
   - **(20)** Racemethorphan.
   - **(21)** Racemorphan.
-- **(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.
+- **(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers. Schedule III
 - **(a)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
   - **(1)** Amphetamine, its salts, optical isomers, and salts of its optical isomers.
   - **(2)** Phenmetrazine and its salts.
@@ -202,7 +189,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(4)** Methylphenidate.
 - **(b)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system:
   - **(1)** Any substance which contains any quantity of a derivative of barbituric acid, or any salt of a derivative of barbituric acid.
-  - **(2)** Chorhexadol. 4 4 So in original. Probably should be “Chlorhexadol.”
+  - **(2)** Chorhexadol.
   - **(3)** Glutethimide.
   - **(4)** Lysergic acid.
   - **(5)** Lysergic acid amide.
@@ -233,3 +220,8 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(9)** Paraldehyde.
   - **(10)** Petrichloral.
   - **(11)** Phenobarbital.
+        - **(1)** Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
+        - **(2)** Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
+        - **(3)** Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
+        - **(4)** Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
+        - **(5)** Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.

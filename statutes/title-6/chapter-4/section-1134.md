@@ -3,9 +3,10 @@ title: "Section 1134 - Security assessments and plans"
 usc_title: 6
 usc_section: "1134"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1134"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-03-30T03:04:24.360Z"
+status: "active"
 ---
 
 # § 1134. Security assessments and plans
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
 - **(c)**
   - **(1)**
     - **(A)** The Secretary shall require public transportation agencies determined by the Secretary to be at high risk for terrorism to develop a comprehensive security plan. The Secretary shall provide technical assistance and guidance to public transportation agencies in preparing and implementing security plans under this section.
-    - **(B)** Provided that no public transportation agency that has not been designated high risk shall be required to develop a security plan, the Secretary may also establish a security program for public transportation agencies not designated high risk by the Secretary, to assist those public transportation agencies which request assistance, including—
+    - **(B)**
       - **(i)** guidance to assist such agencies in conducting security assessments and preparing and implementing security plans; and
       - **(ii)** a process for the Secretary to review and approve such assessments and plans, as appropriate.
   - **(2)** The Secretary shall ensure that security plans include, as appropriate—

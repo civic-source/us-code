@@ -1,16 +1,17 @@
 ---
-title: "Section 898 - Art. 98. Misconduct as prisoner"
+title: "Section 898 - Art. 98. Noncompliance with procedural rules"
 usc_title: 10
 usc_section: "898"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 898"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-03-30T03:04:17.234Z"
+status: "active"
 ---
 
-# § 898. Art. 98. Misconduct as prisoner
+# § 898. Art. 98. Noncompliance with procedural rules
 
-Any person subject to this chapter who, while in the hands of the enemy in time of war—
+Any person subject to this chapter who—
 
-  - **(1)** for the purpose of securing favorable treatment by his captors acts without proper authority in a manner contrary to law, custom, or regulation, to the detriment of others of whatever nationality held by the enemy as civilian or military prisoners; or
-  - **(2)** while in a position of authority over such persons maltreats them without justifiable cause;
+  - **(1)** is responsible for unnecessary delay in the disposition of any case of a person accused of an offense under this chapter; or
+  - **(2)** knowingly and intentionally fails to enforce or comply with any provision of this chapter regulating the proceedings before, during, or after trial of an accused; shall be punished as a court-martial may direct.

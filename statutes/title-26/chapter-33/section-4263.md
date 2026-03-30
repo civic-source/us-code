@@ -3,9 +3,10 @@ title: "Section 4263 - Special rules"
 usc_title: 26
 usc_section: "4263"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4263"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-03-30T03:05:18.686Z"
+status: "active"
 ---
 
 # § 4263. Special rules
@@ -13,6 +14,6 @@ generated_at: "2026-03-30T02:55:27.802Z"
 - **(a)** If the payment upon which tax is imposed by section 4261 is made outside the United States for a prepaid order, exchange order, or similar order, the person furnishing the initial transportation pursuant to such order shall collect the amount of the tax.
 - **(b)** Every person who refunds any amount with respect to a ticket or order which was purchased without payment of the tax imposed by section 4261 shall deduct from the amount refundable, to the extent available, any tax due under such section as a result of the use of a portion of the transportation purchased in connection with such ticket or order, and shall report to the Secretary the amount of any such tax remaining uncollected.
 - **(c)** Where any tax imposed by section 4261 is not paid at the time payment for transportation is made, then, under regulations prescribed by the Secretary, to the extent that such tax is not collected under any other provision of this subchapter, such tax shall be paid by the carrier providing the initial segment of such transportation which begins or ends in the United States.
-- **(d)** The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless the taxpayer establishes, pursuant to regulations prescribed by the Secretary, at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
+- **(d)** The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless the taxpayer establishes, pursuant to regulations prescribed by the Secretary at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
 - **(e)** In applying this subchapter to a round trip, such round trip shall be considered to consist of transportation from the point of departure to the destination, and of separate transportation thereafter.
 - **(f)** In applying this subchapter to transportation any part of which is outside the northern portion of the Western Hemisphere, if the route of such transportation leaves and reenters the northern portion of the Western Hemisphere, such transportation shall be considered to consist of transportation to a point outside such northern portion, and of separate transportation thereafter. For purposes of this subsection, the term “northern portion of the Western Hemisphere” means the area lying west of the 30th meridian west of Greenwich, east of the international dateline, and north of the Equator, but not including any country of South America.

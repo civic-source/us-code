@@ -3,9 +3,10 @@ title: "Section 7445 - Assessments"
 usc_title: 7
 usc_section: "7445"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7445"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-03-30T03:04:21.018Z"
+status: "active"
 ---
 
 # § 7445. Assessments
@@ -14,10 +15,10 @@ generated_at: "2026-03-30T02:53:42.452Z"
   - **(1)** During the effective period of an order issued pursuant to this subchapter, assessments shall be—
     - **(A)** levied on all canola or rapeseed produced in the United States and marketed; and
     - **(B)** deducted from the payment made to a producer for all canola or rapeseed sold to a first purchaser.
-  - **(2)** The order shall provide that any person processing canola or rapeseed of that person’s own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under section 7444(b)(6) of this title , in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d).
-- **(b)** No more than 1 assessment may be assessed under subsection (a) on any canola or rapeseed produced (as remitted by a first purchaser).
+  - **(2)** The order shall provide that any person processing canola or rapeseed of that person’s own production and marketing the canola or rapeseed, or canola or rapeseed products, shall remit to the Board or a State organization certified to represent producers under section 7444(b)(6) of this title , in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for under subsection (d) of this section.
+- **(b)** No more than 1 assessment may be assessed under subsection (a) of this section on any canola or rapeseed produced (as remitted by a first purchaser).
 - **(c)**
-  - **(1)** Assessments required under subsection (a) shall be remitted to the Board by a first purchaser. The Board shall use State organizations certified to represent producers under section 7444(b)(6) of this title to collect the assessments. If an appropriate certified State organization does not exist to collect an assessment, the assessment shall be collected by the Board. There shall be only 1 certified State organization in each State.
+  - **(1)** Assessments required under subsection (a) of this section shall be remitted to the Board by a first purchaser. The Board shall use State organizations certified to represent producers under section 7444(b)(6) of this title to collect the assessments. If an appropriate certified State organization does not exist to collect an assessment, the assessment shall be collected by the Board. There shall be only 1 certified State organization in each State.
   - **(2)** Each first purchaser shall remit the assessment to the Board as provided for in the order.
 - **(d)**
   - **(1)** The initial assessment rate shall be 4 cents per hundredweight of canola or rapeseed produced and marketed.

@@ -1,12 +1,15 @@
 ---
-title: "Section 711f - Omitted"
+title: "Section 711f - Rules and regulations"
 usc_title: 25
 usc_section: "711f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 711f"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.852Z"
+status: "active"
 ---
 
-# § 711f. Omitted
+# § 711f. Rules and regulations
+
+The Secretary may make such rules and regulations as are necessary to carry out the purposes of this subchapter.
 

@@ -1,12 +1,15 @@
 ---
-title: "Section 5716 - Transferred"
+title: "Section 5716 - Federal and non-Federal share; methods of payment"
 usc_title: 42
 usc_section: "5716"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5716"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-03-30T03:06:22.744Z"
+status: "active"
 ---
 
-# § 5716. Transferred
+# § 5716. Federal and non-Federal share; methods of payment
 
+- **(a)** The Federal share for the renovation of existing structures, the provision of counseling services, staff training, and the general costs of operations of such facility’s budget for any fiscal year shall be 90 per centum. The non-Federal share may be in cash or in kind, fairly evaluated by the Secretary, including plant, equipment, or services.
+- **(b)** Payments under this section may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.

@@ -3,9 +3,10 @@ title: "Section 2113 - Authority to exempt certain vessels"
 usc_title: 46
 usc_section: "2113"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 2113"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-03-30T03:06:27.167Z"
+status: "active"
 ---
 
 # § 2113. Authority to exempt certain vessels
@@ -14,5 +15,10 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
   - **(1)** for a vessel, issue a special permit specifying the conditions of operation and equipment;
   - **(2)** exempt an oceanographic research vessel from that provision under conditions the Secretary may specify;
-  - **(3)** establish different operating and equipment requirements for vessels defined in section 2101(55)(A) of this title ; and
-  - **(4)** maintain different structural fire protection, manning, operating, and equipment requirements for vessels that satisfied requirements set forth in the Passenger Vessel Safety Act of 1993 ( Public Law 103–206 ) before June 21, 1994 .
+  - **(3)** establish different operating and equipment requirements for vessels defined in section 2101(42)(A) of this title ;
+  - **(4)** establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages if the owner of the vessel—
+    - **(A)** makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
+    - **(B)** provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act; and
+  - **(5)** establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title , carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
+    - **(A)** makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
+    - **(B)** provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act.

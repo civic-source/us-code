@@ -3,9 +3,10 @@ title: "Section 1322 - International traffic and rescue work; United States-Mexi
 usc_title: 19
 usc_section: "1322"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1322"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-03-30T03:04:42.006Z"
+status: "active"
 ---
 
 # § 1322. International traffic and rescue work; United States-Mexico Boundary Treaty of 1970

@@ -3,9 +3,10 @@ title: "Section 1757a - Limitation on member business loans"
 usc_title: 12
 usc_section: "1757a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1757a"
-generated_at: "2026-03-30T02:53:53.435Z"
+generated_at: "2026-03-30T03:04:29.251Z"
+status: "active"
 ---
 
 # § 1757a. Limitation on member business loans
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
 - **(a)** On and after August 7, 1998 , no insured credit union may make any member business loan that would result in a total amount of such loans outstanding at that credit union at any one time equal to more than the lesser of—
   - **(1)** 1.75 times the actual net worth of the credit union; or
   - **(2)** 1.75 times the minimum net worth required under section 1790d(c)(1)(A) of this title for a credit union to be well capitalized.
-- **(b)** Subsection (a) does not apply in the case of—
+- **(b)** Subsection (a) of this section does not apply in the case of—
   - **(1)** an insured credit union chartered for the purpose of making, or that has a history of primarily making, member business loans to its members, as determined by the Board; or
   - **(2)** an insured credit union that—
     - **(A)** serves predominantly low-income members, as defined by the Board; or
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
   - **(1)** the term “member business loan”—
     - **(A)** means any loan, line of credit, or letter of credit, the proceeds of which will be used for a commercial, corporate or other business investment property or venture, or agricultural purpose; and
     - **(B)** does not include an extension of credit—
-      - **(i)** that is fully secured by a lien on a 1- to 4-family dwelling;
+      - **(i)** that is fully secured by a lien on a 1- to 4-family dwelling that is the primary residence of a member;
       - **(ii)** that is fully secured by shares in the credit union making the extension of credit or deposits in other financial institutions;
       - **(iii)** that is described in subparagraph (A), if it was made to a borrower or an associated member that has a total of all such extensions of credit in an amount equal to less than $50,000;
       - **(iv)** the repayment of which is fully insured or fully guaranteed by, or where there is an advance commitment to purchase in full by, any agency of the Federal Government or of a State, or any political subdivision thereof; or
@@ -33,5 +34,5 @@ generated_at: "2026-03-30T02:53:53.435Z"
       - **(i)** uninsured; and
       - **(ii)** subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund; and
   - **(3)** the term “associated member” means any member having a shared ownership, investment, or other pecuniary interest in a business or commercial endeavor with the borrower.
-- **(d)** An insured credit union that has, on August 7, 1998 , a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) shall, not later than 3 years after August 7, 1998 , reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a).
+- **(d)** An insured credit union that has, on August 7, 1998 , a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) of this section shall, not later than 3 years after August 7, 1998 , reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a) of this section.
 - **(e)** In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.

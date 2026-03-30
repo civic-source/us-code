@@ -3,9 +3,10 @@ title: "Section 4401 - Findings and purpose"
 usc_title: 12
 usc_section: "4401"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4401"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-03-30T03:04:29.318Z"
+status: "active"
 ---
 
 # § 4401. Findings and purpose

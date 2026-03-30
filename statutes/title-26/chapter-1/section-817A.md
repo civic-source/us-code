@@ -3,9 +3,10 @@ title: "Section 817A - Special rules for modified guaranteed contracts"
 usc_title: 26
 usc_section: "817A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 817A"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-03-30T03:05:18.621Z"
+status: "active"
 ---
 
 # § 817A. Special rules for modified guaranteed contracts
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:55:27.730Z"
   - **(4)** which provides for a net surrender value or a policyholder’s fund (as defined in section 807(e)(1)).
 - **(e)** The Secretary may prescribe regulations—
   - **(1)** to provide for the treatment of market value adjustments under sections 72, 7702, 7702A, and 807(e)(1)(B),
-  - **(2)** to determine the interest rates applicable under sections 807(c)(3) and 807(d)(2)(B) with respect to a modified guaranteed contract annually, in a manner appropriate for modified guaranteed contracts and, to the extent appropriate for such a contract, to modify or waive the applicability of section 811(d),
+  - **(2)** to determine the interest rates applicable under sections 807(c)(3), 807(d)(2)(B), and 812 with respect to a modified guaranteed contract annually, in a manner appropriate for modified guaranteed contracts and, to the extent appropriate for such a contract, to modify or waive the applicability of section 811(d),
   - **(3)** to provide rules to limit ordinary gain or loss treatment to assets constituting reserves for modified guaranteed contracts (and not other assets) of the company,
   - **(4)** to provide appropriate treatment of transfers of assets to and from the segregated account, and
   - **(5)** as may be necessary or appropriate to carry out the purposes of this section.

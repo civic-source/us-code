@@ -3,9 +3,10 @@ title: "Section 5607 - Consultative committee"
 usc_title: 16
 usc_section: "5607"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5607"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-03-30T03:04:48.630Z"
+status: "active"
 ---
 
 # § 5607. Consultative committee
@@ -13,9 +14,9 @@ generated_at: "2026-03-30T02:54:23.053Z"
 - **(a)** The Secretary of State and the Secretary, shall jointly establish a consultative committee to advise the Secretaries on issues related to the Convention.
 - **(b)**
   - **(1)** The membership of the Committee shall include representatives from the New England and Mid-Atlantic Fishery Management Councils, the States represented on those Councils, the Atlantic States Marine Fisheries Commission, the fishing industry, the seafood processing industry, and others knowledgeable and experienced in the conservation and management of fisheries in the Northwest Atlantic Ocean.
-  - **(2)** Each member of the consultative committee shall serve for a term of 2 years and shall be eligible for reappointment.
+  - **(2)** Each member of the consultative committee shall serve for a term of two years and shall be eligible for reappointment.
 - **(c)** Members of the consultative committee may attend—
-  - **(1)** all public meetings of the Commission;
-  - **(2)** any other meetings to which they are invited by the Commission; and
+  - **(1)** all public meetings of the General Council or the Fisheries Commission;
+  - **(2)** any other meetings to which they are invited by the General Council or the Fisheries Commission; and
   - **(3)** all nonexecutive meetings of the United States Commissioners.
-- **(d)** Chapter 10 of title 5 shall not apply to the consultative committee established under this section.
+- **(d)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the consultative committee established under this section.

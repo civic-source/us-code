@@ -3,9 +3,10 @@ title: "Section 5330 - Registration of money transmitting businesses"
 usc_title: 31
 usc_section: "5330"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 5330"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-03-30T03:05:28.368Z"
+status: "active"
 ---
 
 # § 5330. Registration of money transmitting businesses
@@ -33,10 +34,10 @@ generated_at: "2026-03-30T02:55:34.070Z"
   - **(2)** The Secretary of the Treasury shall prescribe regulations establishing, on the basis of such criteria as the Secretary determines to be appropriate, a threshold point for treating an agent of a money transmitting business as a money transmitting business for purposes of this section.
 - **(d)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “money transmitting business” means any business other than the United States Postal Service which—
-    - **(A)** provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+    - **(A)** provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;; 1 1 So in original.
     - **(B)** is required to file reports under section 5313; and
     - **(C)** is not a depository institution (as defined in section 5313(g)).
-  - **(2)** The term “money transmitting service” includes accepting currency, funds, or value that substitutes for currency and transmitting the currency, funds, or value that substitutes for currency by any means, including through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
+  - **(2)** The term “money transmitting service” includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
 - **(e)**
   - **(1)** Any person who fails to comply with any requirement of this section or any regulation prescribed under this section shall be liable to the United States for a civil penalty of $5,000 for each such violation.
   - **(2)** Each day a violation described in paragraph (1) continues shall constitute a separate violation for purposes of such paragraph.

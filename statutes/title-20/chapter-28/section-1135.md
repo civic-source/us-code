@@ -3,9 +3,10 @@ title: "Section 1135 - Grants to academic departments and programs of institutio
 usc_title: 20
 usc_section: "1135"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1135"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-03-30T03:04:46.285Z"
+status: "active"
 ---
 
 # § 1135. Grants to academic departments and programs of institutions
@@ -25,5 +26,5 @@ generated_at: "2026-03-30T02:54:48.146Z"
     - **(B)** The Secretary shall award a grant to an academic department, program or unit of an institution of higher education under this subpart for a fiscal year in an amount that is not less than $100,000 and not greater than $750,000.
   - **(3)** Whenever the Secretary determines that an academic department, program or unit of an institution of higher education is unable to use all of the amounts available to the department, program or unit under this subpart, the Secretary shall, on such dates during each fiscal year as the Secretary may fix, reallot the amounts not needed to academic departments, programs and units of institutions which can use the grants authorized by this subpart.
 - **(c)**
-  - **(1)** The Secretary shall make new grant awards under this subpart only to the extent that each previous grant recipient under this subpart has received continued funding in accordance with subsection (b)(2)(A).
-  - **(2)** To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A).
+  - **(1)** The Secretary shall make new grant awards under this subpart only to the extent that each previous grant recipient under this subpart has received continued funding in accordance with subsection (b)(2)(A) of this section.
+  - **(2)** To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.

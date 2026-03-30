@@ -1,12 +1,15 @@
 ---
-title: "Section 8f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 8f - Roads leading to certain historical areas; “State” defined"
 usc_title: 16
 usc_section: "8f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 8f"
-generated_at: "2026-03-30T02:54:22.724Z"
+generated_at: "2026-03-30T03:04:48.396Z"
+status: "active"
 ---
 
-# § 8f. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 8f. Roads leading to certain historical areas; “State” defined
+
+The word “State” as used in section 8e of this title includes Hawaii, Alaska, Puerto Rico, Guam, and the Virgin Islands.
 

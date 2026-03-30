@@ -3,9 +3,10 @@ title: "Section 437 - Repealed. Pub. L. 91–224, title I, § 108 , Apr. 3, 1970
 usc_title: 33
 usc_section: "437"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 437"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-03-30T03:05:36.249Z"
+status: "repealed"
 ---
 
 # §§ 431 to 437. Repealed. Pub. L. 91–224, title I, § 108 , Apr. 3, 1970 , 84 Stat. 113

@@ -3,9 +3,10 @@ title: "Section 4215 - Priority of service for veterans in Department of Labor j
 usc_title: 38
 usc_section: "4215"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 4215"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-03-30T03:05:59.220Z"
+status: "active"
 ---
 
 # § 4215. Priority of service for veterans in Department of Labor job training programs
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:53.517Z"
       - **(iv)** Any veteran who died while a disability so evaluated was in existence.
   - **(2)** The term “qualified job training program” means any workforce preparation, development, or delivery program or service that is directly funded, in whole or in part, by the Department of Labor and includes the following:
     - **(A)** Any such program or service that uses technology to assist individuals to access workforce development programs (such as job and training opportunities, labor market information, career assessment tools, and related support services).
-    - **(B)** Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, 1 1 See References in Text note below. a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
+    - **(B)** Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
     - **(C)** Any such program or service that is a workforce development program targeted to specific groups.
   - **(3)** The term “priority of service” means, with respect to any qualified job training program, that a covered person shall be given priority over nonveterans for the receipt of employment, training, and placement services provided under that program, notwithstanding any other provision of law. Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.
 - **(b)**

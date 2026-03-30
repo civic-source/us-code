@@ -1,12 +1,15 @@
 ---
-title: "Section 724 - Omitted"
+title: "Section 724 - Cancellation of indebtedness"
 usc_title: 25
 usc_section: "724"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 724"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.853Z"
+status: "active"
 ---
 
-# § 724. Omitted
+# § 724. Cancellation of indebtedness
+
+The indebtedness of the Alabama and Coushatta Tribes of Texas to the United States incurred under the provisions of the Act of May 29, 1928 ( 45 Stat. 883 , 900), is canceled, effective on the date of the proclamation to be issued in accordance with the provisions of section 722 of this title .
 

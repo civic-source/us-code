@@ -3,9 +3,10 @@ title: "Section 637b - Availability of information"
 usc_title: 15
 usc_section: "637b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 637b"
-generated_at: "2026-03-30T02:54:08.095Z"
+generated_at: "2026-03-30T03:04:31.129Z"
+status: "active"
 ---
 
 # § 637b. Availability of information
@@ -14,6 +15,6 @@ generated_at: "2026-03-30T02:54:08.095Z"
   - **(1)** a copy of bid sets and specifications with respect to such contract;
   - **(2)** the name and telephone number of an employee of such agency to answer questions with respect to such contract; and
   - **(3)** adequate citations to each major Federal law or agency rule with which such business concern must comply in performing such contract.
-- **(b)** Subsection (a) shall not apply to any contract or subcontract under such contract which—
+- **(b)** Subsection (a) of this section shall not apply to any contract or subcontract under such contract which—
   - **(1)** will be performed entirely outside any State, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico; or
   - **(2)** is for services which are personal in nature.

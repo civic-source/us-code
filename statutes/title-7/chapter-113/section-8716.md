@@ -3,9 +3,10 @@ title: "Section 8716 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "8716"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8716"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-03-30T03:04:21.035Z"
+status: "active"
 ---
 
 # § 8716. Producer agreement required as condition of provision of payments
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
   - **(2)** If a producer entitled to a direct payment, counter-cyclical payment, or average crop revenue election payment dies, becomes incompetent, or is otherwise unable to receive the payment, the Secretary shall make the payment, in accordance with rules issued by the Secretary.
 - **(c)**
   - **(1)** As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
-  - **(2)** As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 1 1 See References in Text note below. of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
+  - **(2)** As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715 of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
   - **(3)** No penalty with respect to benefits under this subchapter or subchapter II shall be assessed against the producers on a farm for an inaccurate acreage or production report unless the producers on the farm knowingly and willfully falsified the acreage or production report.
 - **(d)** In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
 - **(e)** The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments among the producers on a farm on a fair and equitable basis.

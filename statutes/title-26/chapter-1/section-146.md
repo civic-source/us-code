@@ -3,9 +3,10 @@ title: "Section 146 - Volume cap"
 usc_title: 26
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 146"
-generated_at: "2026-03-30T02:55:27.634Z"
+generated_at: "2026-03-30T03:05:18.547Z"
+status: "active"
 ---
 
 # § 146. Volume cap
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:55:27.634Z"
     - **(B)** $225,000,000 ($187,500,000 in the case of calendar year 2001).
   - **(2)** In the case of a calendar year after 2002, each of the dollar amounts contained in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
   - **(3)** For purposes of this section—
     - **(A)** The volume cap for any constitutional home rule city for any calendar year shall be determined under paragraph (1) of subsection (c) by substituting “100 percent” for “50 percent”.
     - **(B)** In the case of any State which contains 1 or more constitutional home rule cities, for purposes of applying subsections (b) and (c) with respect to issuing authorities in such State other than constitutional home rule cities, the State ceiling for any calendar year shall be reduced by the aggregate volume caps determined for such year for all constitutional home rule cities in such State.
@@ -76,10 +77,8 @@ generated_at: "2026-03-30T02:55:27.634Z"
 - **(g)** Only for purposes of this section, the term “private activity bond” shall not include—
   - **(1)** any qualified veterans’ mortgage bond,
   - **(2)** any qualified 501(c)(3) bond,
-  - **(3)** any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a),
-  - **(4)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities),
-  - **(5)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (16) of section 142(a) (relating to qualified broadband projects), and
-  - **(6)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (17) of section 142(a) (relating to qualified carbon dioxide capture facilities).
+  - **(3)** any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a), and
+  - **(4)** 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities).
 - **(h)**
   - **(1)** Only for purposes of this section, the term “private activity bond” shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
   - **(2)** In determining ownership for purposes of paragraph (1), section 142(b)(1)(B) shall apply, except that a lease term shall be treated as satisfying clause (ii) thereof if it is not more than 20 years.

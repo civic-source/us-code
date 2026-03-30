@@ -3,21 +3,22 @@ title: "Section 2083 - Capitol Preservation Fund"
 usc_title: 2
 usc_section: "2083"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2083"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-03-30T03:04:04.444Z"
+status: "active"
 ---
 
 # § 2083. Capitol Preservation Fund
 
-- **(a)** There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d), (2) obligations obtained under subsection (e), and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
+- **(a)** There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d) of this section, (2) obligations obtained under subsection (e) of this section, and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
 - **(b)** The fund shall be available to the Commission—
   - **(1)** for payment of transaction costs and similar expenses incurred under section 2082 of this title ;
   - **(2)** subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, for improvement and preservation projects for the United States Capitol;
   - **(3)** for disbursement with respect to works of fine art and other property as provided in section 2082 of this title ; and
   - **(4)** for such other payments as may be required to carry out section 2081 of this title or section 2082 of this title .
 - **(c)** In carrying out this section, the Commission shall, to the extent practicable, take such action as may be necessary—
-  - **(1)** to minimize disbursements under subsection (b)(1); and
-  - **(2)** to equalize disbursements under subsection (b) between the Senate and the House of Representatives.
+  - **(1)** to minimize disbursements under subsection (b)(1) of this section; and
+  - **(2)** to equalize disbursements under subsection (b) of this section between the Senate and the House of Representatives.
 - **(d)** The Commission shall deposit in the fund gifts of money and proceeds of transactions under section 2082 of this title . The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund. Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the co-chairmen.
 - **(e)** The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Commission, is not required to meet current withdrawals. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Commission has a maturity suitable for the fund. In carrying out this subsection, the Secretary may make such purchases, sales, and redemptions of obligations as may be approved by the Commission.

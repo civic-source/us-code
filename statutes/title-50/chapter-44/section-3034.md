@@ -3,14 +3,15 @@ title: "Section 3034 - Chief Financial Officer of the Intelligence Community"
 usc_title: 50
 usc_section: "3034"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3034"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-03-30T03:06:37.688Z"
+status: "active"
 ---
 
 # § 3034. Chief Financial Officer of the Intelligence Community
 
-- **(a)** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there is within the Office of the Director of National Intelligence a Chief Financial Officer of the Intelligence Community who shall be appointed by the Director. The Chief Financial Officer shall report directly to the Director of National Intelligence.
+- **(a)** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there is within the Office of the Director of National Intelligence a Chief Financial Officer of the Intelligence Community who shall be appointed by the Director.
 - **(b)** Subject to the direction of the Director of National Intelligence, the Chief Financial Officer of the Intelligence Community shall—
   - **(1)** serve as the principal advisor to the Director of National Intelligence and the Principal Deputy Director of National Intelligence on the management and allocation of intelligence community budgetary resources;
   - **(2)** participate in overseeing a comprehensive and integrated strategic process for resource management within the intelligence community;

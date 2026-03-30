@@ -3,9 +3,10 @@ title: "Section 12511 - Definitions"
 usc_title: 42
 usc_section: "12511"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12511"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-03-30T03:06:22.900Z"
+status: "active"
 ---
 
 # § 12511. Definitions
@@ -49,7 +50,7 @@ For purposes of this subchapter:
   - **(20)** The term “Indian lands” means any real property owned by an Indian tribe, any real property held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
   - **(21)** The term “Indian tribe” means—
     - **(A)** an Indian tribe, band, nation, or other organized group or community, including—
-      - **(i)** any Native village, as defined in section 1602(c) of title 43 , whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984 , chapter 576; 25 U.S.C 461 et seq.); 1 1 See References in Text note below. and
+      - **(i)** any Native village, as defined in section 1602(c) of title 43 , whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984 , chapter 576; 25 U.S.C 461 et seq.); and
       - **(ii)** any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of section 1602 of title 43 ,
     - **(B)** any tribal organization controlled, sanctioned, or chartered by an entity described in subparagraph (A).
   - **(22)** Except as provided in section 12635(a) of this title , the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29 .
@@ -65,7 +66,7 @@ For purposes of this subchapter:
     - **(C)** is not enrolled in an elementary or secondary school or institution of higher education.
   - **(30)**
     - **(A)** The term “participant” means—
-      - **(i)** for purposes of division C, an individual in an approved national service position; and
+      - **(i)** for purposes of division C of this subchapter, an individual in an approved national service position; and
       - **(ii)** for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
     - **(B)** A participant shall not be considered to be an employee of the organization receiving assistance under the national service laws through which the participant is engaging in service.
   - **(31)** The term “partnership program” means a program through which an adult volunteer, a public or private nonprofit organization, an institution of higher education, or a business assists a local educational agency.
@@ -81,7 +82,7 @@ For purposes of this subchapter:
       - **(v)** presentation of studies and methods in sufficient detail and clarity to allow for replication or, at a minimum, to offer the opportunity to build systematically on the findings of the research;
       - **(vi)** acceptance by a peer-reviewed journal or critique by a panel of independent experts through a comparably rigorous, objective, and scientific review; and
       - **(vii)** consistency of findings across multiple studies or sites to support the generality of results and conclusions.
-  - **(34)** The term “program”, unless the context otherwise requires, and except when used as part of the term “academic program”, means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title , or in paragraph (1) or (2) of section 12612(b) of this title , section 12653b of this title , 12653c of this title, 198G, 1 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653 o , 12653p, or 12657 of this title.
+  - **(34)** The term “program”, unless the context otherwise requires, and except when used as part of the term “academic program”, means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title , or in paragraph (1) or (2) of section 12612(b) of this title , section 12653b of this title , 12653c of this title, 198G, 1 1 See References in Text note below. 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653 o , 12653p, or 12657 of this title.
   - **(35)** The term “project” means an activity, carried out through a program that receives assistance under this subchapter, that results in a specific identifiable service or improvement that otherwise would not be done with existing funds, and that does not duplicate the routine services or functions of the employer to whom participants are assigned.
   - **(36)** The term “qualified organization” means a public or private nonprofit organization with experience working with school-age youth that meets such criteria as the Chief Executive Officer may establish.
   - **(37)** The term “school-age youth” means—

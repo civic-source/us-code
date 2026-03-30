@@ -3,9 +3,10 @@ title: "Section 1755 - Direct expenditures for agricultural commodities and othe
 usc_title: 42
 usc_section: "1755"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1755"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-03-30T03:06:22.617Z"
+status: "active"
 ---
 
 # § 1755. Direct expenditures for agricultural commodities and other foods
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:11.108Z"
   - **(1)** not to exceed 3½ per centum thereof which per centum is hereby made available to the Secretary for the Secretary’s administrative expenses under this chapter and under the Child Nutrition Act of 1966 [ 42 U.S.C. 1771 et seq.];
   - **(2)** the amount apportioned by the Secretary pursuant to section 1753 of this title and the amount appropriated pursuant to sections 1759a and 1761 of this title and sections 4 and 7 of the Child Nutrition Act of 1966 [ 42 U.S.C. 1773 and 1776]; and
   - **(3)** not to exceed 1 per centum of the funds provided for carrying out the programs under this chapter and the programs under the Child Nutrition Act of 1966 [ 42 U.S.C. 1771 et seq.], other than section 3 [ 42 U.S.C. 1772 ], which per centum is hereby made available to the Secretary to supplement the nutritional benefits of these programs through grants to States and other means for nutritional training and education for workers, cooperators, and participants in these programs, for pilot projects and the cash-in-lieu of commodities study required to be carried out under section 1769 of this title , and for necessary surveys and studies of requirements for food service programs in furtherance of the purposes expressed in section 1751 of this title , and section 2 of the Child Nutrition Act of 1966 [ 42 U.S.C. 1771 ],
-- **(b)** The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) 1 1 See References in Text note below. for each school year for the school lunch program in the State, not later than September 30 of the following school year.
+- **(b)** The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) 1 1 See References in Text note below. of this section for each school year for the school lunch program in the State, not later than September 30 of the following school year.
 - **(c)**
   - **(1)**
     - **(A)** The national average value of donated foods, or cash payments in lieu thereof, shall be 11 cents, adjusted on July 1, 1982 , and each July 1 thereafter to reflect changes in the Price Index for Food Used in Schools and Institutions. The Index shall be computed using 5 major food components in the Bureau of Labor Statistics’ Producer Price Index (cereal and bakery products, meats, poultry and fish, dairy products, processed fruits and vegetables, and fats and oils). Each component shall be weighed using the same relative weight as determined by the Bureau of Labor Statistics.
@@ -27,27 +28,5 @@ generated_at: "2026-03-30T02:56:11.108Z"
 - **(e)**
   - **(1)** Subject to paragraph (2), in each school year the Secretary shall ensure that not less than 12 percent of the assistance provided under section 1753 of this title , this section, and section 1759a of this title shall be in the form of—
     - **(A)** commodity assistance provided under this section, including cash in lieu of commodities and administrative costs for procurement of commodities under this section; or
-    - **(B)** during the period beginning October 1, 2003 , and ending September 30, 2018 , commodities provided by the Secretary under any provision of law.
+    - **(B)** during the period beginning October 1, 2003 , and ending September 30, 2020 , commodities provided by the Secretary under any provision of law.
   - **(2)** If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under section 1762a(a) of this title to meet the requirement for the school year.
-- **(f)**
-  - **(1)** The Secretary shall conduct a pilot project under which the Secretary shall facilitate the procurement of unprocessed fruits and vegetables in not more than 8 States receiving funds under this chapter.
-  - **(2)** The purpose of the pilot project required by this subsection is to provide selected States flexibility for the procurement of unprocessed fruits and vegetables by permitting each State—
-    - **(A)** to utilize multiple suppliers and products established and qualified by the Secretary; and
-    - **(B)** to allow geographic preference, if desired, in the procurement of the products under the pilot project.
-  - **(3)**
-    - **(A)** The Secretary shall select States for participation in the pilot project in accordance with criteria established by the Secretary and terms and conditions established for participation.
-    - **(B)** The Secretary shall ensure that at least 1 project is located in a State in each of—
-      - **(i)** the Pacific Northwest Region;
-      - **(ii)** the Northeast Region;
-      - **(iii)** the Western Region;
-      - **(iv)** the Midwest Region; and
-      - **(v)** the Southern Region.
-  - **(4)** In selecting States for participation in the pilot project, the Secretary shall prioritize applications based on—
-    - **(A)** the quantity and variety of growers of local fruits and vegetables in the States on a per capita basis;
-    - **(B)** the demonstrated commitment of the States to farm-to-school efforts, as evidenced by prior efforts to increase and promote farm-to-school programs in the States; and
-    - **(C)** whether the States contain a sufficient quantity of local educational agencies, various population sizes, and geographical locations.
-  - **(5)**
-    - **(A)** States selected to participate in the pilot project, and participating school food authorities within those States, shall keep records of the fruits and vegetables received under the pilot project in such manner and form as requested by the Secretary.
-    - **(B)** Each participating State shall submit to the Secretary a report on the success of the pilot project in the State, including information on—
-      - **(i)** the quantity and cost of each type of fruit and vegetable received by the State under the pilot project; and
-      - **(ii)** the benefit provided by those procurements in conducting school food service in the State, including meeting school meal requirements.

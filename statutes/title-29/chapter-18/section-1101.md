@@ -3,9 +3,10 @@ title: "Section 1101 - Coverage"
 usc_title: 29
 usc_section: "1101"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1101"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-03-30T03:05:09.718Z"
+status: "active"
 ---
 
 # § 1101. Coverage
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:55:18.716Z"
   - **(2)** The Secretary shall ensure that the regulations issued under paragraph (1)—
     - **(A)** are administratively feasible, and
     - **(B)** protect the interests and rights of the plan and of its participants and beneficiaries (including meeting the requirements of paragraph (3)).
-  - **(3)** The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B))—
+  - **(3)** The regulations prescribed by the Secretary pursuant to paragraph (1) shall require, in connection with any policy issued by an insurer to or for the benefit of an employee benefit plan to the extent that the policy is not a guaranteed benefit policy (as defined in subsection (b)(2)(B) of this section)—
     - **(A)** that a plan fiduciary totally independent of the insurer authorize the purchase of such policy (unless such purchase is a transaction exempt under section 1108(b)(5) of this title ),
     - **(B)** that the insurer describe (in such form and manner as shall be prescribed in such regulations), in annual reports and in policies issued to the policyholder after the date on which such regulations are issued in final form pursuant to paragraph (1)(C)—
       - **(i)** a description of the method by which any income and expenses of the insurer’s general account are allocated to the policy during the term of the policy and upon the termination of the policy, and

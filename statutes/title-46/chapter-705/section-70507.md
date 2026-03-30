@@ -3,14 +3,15 @@ title: "Section 70507 - Forfeitures"
 usc_title: 46
 usc_section: "70507"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 70507"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-03-30T03:06:27.197Z"
+status: "active"
 ---
 
 # § 70507. Forfeitures
 
-- **(a)** Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 881(a) ) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 or 70508 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ( 21 U.S.C. 881 ).
+- **(a)** Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 881(a) ) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ( 21 U.S.C. 881 ).
 - **(b)** Practices commonly recognized as smuggling tactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under section 70503 of this title , and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
   - **(1)** The construction or adaptation of the vessel in a manner that facilitates smuggling, including—
     - **(A)** the configuration of the vessel to ride low in the water or present a low hull profile to avoid being detected visually or by radar;

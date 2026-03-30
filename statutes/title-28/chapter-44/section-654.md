@@ -3,9 +3,10 @@ title: "Section 654 - Arbitration"
 usc_title: 28
 usc_section: "654"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 654"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-03-30T03:05:05.819Z"
+status: "active"
 ---
 
 # § 654. Arbitration

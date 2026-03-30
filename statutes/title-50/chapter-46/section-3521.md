@@ -3,9 +3,10 @@ title: "Section 3521 - Central services program"
 usc_title: 50
 usc_section: "3521"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3521"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-03-30T03:06:37.697Z"
+status: "active"
 ---
 
 # § 3521. Central services program
@@ -16,26 +17,26 @@ generated_at: "2026-03-30T02:56:26.255Z"
     - **(A)** designate the elements of the Agency that are to provide items or services under the program (in this section referred to as “central service providers”);
     - **(B)** specify the items or services to be provided under the program by such providers;
     - **(C)** assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
-    - **(D)** authorize such providers to make known their services to the entities specified in subsection (a) through Government communication channels.
+    - **(D)** authorize such providers to make known their services to the entities specified in section 1 1 So in original. Probably should be “subsection”. (a) through Government communication channels.
   - **(2)** The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
   - **(3)** The authority in paragraph (1)(D) does not include the authority to distribute gifts or promotional items.
 - **(c)**
   - **(1)** There is established a fund to be known as the Central Services Working Capital Fund (in this section referred to as the “Fund”). The purpose of the Fund is to provide sums for activities under the program.
   - **(2)** There shall be deposited in the Fund the following:
     - **(A)** Amounts appropriated to the Fund.
-    - **(B)** Amounts credited to the Fund from payments received by central service providers under subsection (e).
-    - **(C)** Fees imposed and collected under subsection (f)(1).
+    - **(B)** Amounts credited to the Fund from payments received by central service providers under subsection (e) of this section.
+    - **(C)** Fees imposed and collected under subsection (f)(1) of this section.
     - **(D)** Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
-    - **(E)** Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider as a result of activities under the program.
+    - **(E)** Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider. 2 2 So in original. The period probably should not appear. as a result of activities under the program.
     - **(F)** Receipts from individuals in reimbursement for utility services and meals provided under the program.
     - **(G)** Receipts from individuals for the rental of property and equipment under the program.
     - **(H)** Such other amounts as the Director is authorized to deposit in or transfer to the Fund.
   - **(3)** Amounts in the Fund shall be available, without fiscal year limitation, for the following purposes:
     - **(A)** To pay the costs of providing items or services under the program.
-    - **(B)** To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2).
+    - **(B)** To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2) of this section.
 - **(d)** The total value of all orders for items or services to be provided under the program in any fiscal year may not exceed an amount specified in advance by the Director of the Office of Management and Budget.
 - **(e)**
-  - **(1)** A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
+  - **(1)** A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
   - **(2)** Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 - **(f)**
   - **(1)** The Director may permit a central service provider to impose and collect a fee with respect to the provision of an item or service under the program. The amount of the fee may not exceed an amount equal to four percent of the payment received by the provider for the item or service.

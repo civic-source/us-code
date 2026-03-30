@@ -1,0 +1,17 @@
+---
+title: "Section 6561 - Definitions"
+usc_title: 20
+usc_section: "6561"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 6561"
+generated_at: "2026-03-30T03:04:46.340Z"
+status: "active"
+---
+
+# § 6561. Definitions
+
+In this subpart:
+
+  - **(1)** The term “low-income student” means a student who is determined by a local educational agency to be from a low-income family using the measures described in section 6313(c) of this title .
+  - **(2)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Bureau of Indian Affairs for purposes of serving schools funded by the Bureau.

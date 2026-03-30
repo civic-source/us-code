@@ -3,14 +3,15 @@ title: "Section 670f - Appropriations and expenditures"
 usc_title: 16
 usc_section: "670f"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 670f"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-03-30T03:04:48.513Z"
+status: "active"
 ---
 
 # § 670f. Appropriations and expenditures
 
 - **(a)** The Secretary of Defense shall expend such funds as may be collected in accordance with the integrated natural resources management plans agreed to under sections 670a and 670b of this title and cooperative agreements agreed to under section 670c–1 of this title and for no other purpose. All funds that are so collected shall remain available until expended.
-- **(b)** Of the amounts authorized to be appropriated to the Department of Defense, there are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 2014 through 2019, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title . The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
-- **(c)** Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized to be appropriated to the Secretary of the Interior not to exceed $3,000,000 for each of the fiscal years 2014 through 2019, to carry out such functions and responsibilities as the Secretary may have under integrated natural resources management plans to which such Secretary is a party under this section, including those for the enhancement of fish and wildlife habitat and the development of public recreation and other facilities.
+- **(b)** Of the amounts authorized to be appropriated to the Department of Defense, there are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 2009 through 2014, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title . The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
+- **(c)** Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized to be appropriated to the Secretary of the Interior not to exceed $3,000,000 for each of the fiscal years 2009 through 2014, to carry out such functions and responsibilities as the Secretary may have under integrated natural resources management plans to which such Secretary is a party under this section, including those for the enhancement of fish and wildlife habitat and the development of public recreation and other facilities.
 - **(d)** The Secretary of Defense and the Secretary of the Interior may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.

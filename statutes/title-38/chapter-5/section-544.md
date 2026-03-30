@@ -3,9 +3,10 @@ title: "Section 544 - Advisory Committee on Minority Veterans"
 usc_title: 38
 usc_section: "544"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 544"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-03-30T03:05:59.191Z"
+status: "active"
 ---
 
 # § 544. Advisory Committee on Minority Veterans
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:55:53.474Z"
   - **(4)** The Committee shall meet as often as the Secretary considers necessary or appropriate, but not less often than twice each fiscal year.
 - **(b)** The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for veterans who are minority group members, reports and studies pertaining to such veterans and the needs of such veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Minority Veterans.
 - **(c)**
-  - **(1)** Not later than July 1 of every other year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are minority group members. Each such report shall include—
+  - **(1)** Not later than July 1 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are minority group members. Each such report shall include—
     - **(A)** an assessment of the needs of veterans who are minority group members with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
     - **(B)** a review of the programs and activities of the Department designed to meet such needs; and
     - **(C)** such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
@@ -44,4 +45,4 @@ generated_at: "2026-03-30T02:55:53.474Z"
   - **(3)** Hispanic;
   - **(4)** Native American (including American Indian, Alaskan Native, and Native Hawaiian); or
   - **(5)** Pacific-Islander American.
-- **(e)** The Committee shall cease to exist September 30, 2026 .
+- **(e)** The Committee shall cease to exist December 31, 2014 .

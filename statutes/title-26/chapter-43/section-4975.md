@@ -3,9 +3,10 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-30T02:55:27.811Z"
+generated_at: "2026-03-30T03:05:18.693Z"
+status: "active"
 ---
 
 # § 4975. Tax on prohibited transactions
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(B)** lending of money or other extension of credit between a plan and a disqualified person;
     - **(C)** furnishing of goods, services, or facilities between a plan and a disqualified person;
     - **(D)** transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a plan;
-    - **(E)** act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interest or for his own account; or
+    - **(E)** act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interests or for his own account; or
     - **(F)** receipt of any consideration for his own personal account by any disqualified person who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
   - **(2)** The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any disqualified person or transaction, orders of disqualified persons or transactions, from all or part of the restrictions imposed by paragraph (1) of this subsection. Action under this subparagraph may be taken only after consultation and coordination with the Secretary of Labor. The Secretary may not grant an exemption under this paragraph unless he finds that such exemption is—
     - **(A)** administratively feasible,
@@ -28,7 +29,6 @@ generated_at: "2026-03-30T02:55:27.811Z"
   - **(4)** An individual for whose benefit an Archer MSA (within the meaning of section 220(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 220(e)(2) applies to such transaction.
   - **(5)** An individual for whose benefit a Coverdell education savings account is established and any contributor to such account shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 530(d) applies with respect to such transaction.
   - **(6)** An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
-  - **(7)** Any party to an arrangement which satisfies the requirements of section 408(h) of the Employee Retirement Income Security Act of 1974 shall be exempt from the tax imposed by this section with respect to such arrangement.
 - **(d)** Except as provided in subsection (f)(6), the prohibitions provided in subsection (c) shall not apply to—
   - **(1)** any loan made by the plan to a disqualified person who is a participant or beneficiary of the plan if such loan—
     - **(A)** is available to all such participants or beneficiaries on a reasonably equivalent basis,
@@ -37,7 +37,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(D)** bears a reasonable rate of interest, and
     - **(E)** is adequately secured;
   - **(2)** any contract, or reasonable arrangement, made with a disqualified person for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor;
-  - **(3)** any loan to a leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
+  - **(3)** any loan to an 1 1 So in original. Probably should be “a”. leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
     - **(A)** such loan is primarily for the benefit of participants and beneficiaries of the plan, and
     - **(B)** such loan is at a reasonable rate of interest, and any collateral which is given to a disqualified person by the plan consists only of qualifying employer securities (as defined in subsection (e)(8));
   - **(4)** the investment of all or part of a plan’s assets in deposits which bear a reasonable interest rate in a bank or similar financial institution supervised by the United States or a State, if such bank or other institution is a fiduciary of such plan and if—
@@ -51,7 +51,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(B)** the extent to which such ancillary service is provided is subject to specific guidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federal and State supervisory authority), and under such guidelines the bank or similar financial institution does not provide such ancillary service—
       - **(i)** in an excessive or unreasonable manner, and
       - **(ii)** in a manner that would be inconsistent with the best interests of participants and beneficiaries of employee benefit plans;
-  - **(7)** the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion;
+  - **(7)** the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary but only if the plan receives no less than adequate consideration pursuant to such conversion;
   - **(8)** any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund of an insurance company qualified to do business in a State if—
     - **(A)** the transaction is a sale or purchase of an interest in the fund,
     - **(B)** the bank, trust company, or insurance company receives not more than a reasonable compensation, and
@@ -64,23 +64,23 @@ generated_at: "2026-03-30T02:55:27.811Z"
   - **(14)** any transaction required or permitted under part 1 of subtitle E of title IV or section 4223 of the Employee Retirement Income Security Act of 1974, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F);
   - **(15)** a merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 4231 of such Act, but this paragraph shall not apply with respect to the application of subsection (c)(1)(E) or (F);
   - **(16)** a sale of stock held by a trust which constitutes an individual retirement account under section 408(a) to the individual for whose benefit such account is established if—
-    - **(A)** such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) )),
+    - **(A)** such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) ), 2 2 So in original. Another closing parenthesis probably should precede the comma.
     - **(B)** such stock is held by such trust as of the date of the enactment of this paragraph,
     - **(C)** such sale is pursuant to an election under section 1362(a) by such bank or company,
     - **(D)** such sale is for fair market value at the time of sale (as established by an independent appraiser) and the terms of the sale are otherwise at least as favorable to such trust as the terms that would apply on a sale to an unrelated party,
     - **(E)** such trust does not pay any commissions, costs, or other expenses in connection with the sale, and
     - **(F)** the stock is sold in a single transaction for cash not later than 120 days after the S corporation election is made;
-  - **(17)** any transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
+  - **(17)** Any 3 3 So in original. Probably should not be capitalized. transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
     - **(A)** the transaction is—
       - **(i)** the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,
       - **(ii)** the acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice, or
       - **(iii)** the direct or indirect receipt of fees or other compensation by the fiduciary adviser or an affiliate thereof (or any employee, agent, or registered representative of the fiduciary adviser or affiliate) in connection with the provision of the advice or in connection with an acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice; and
-    - **(B)** the requirements of subsection (f)(8) are met, 1 1 So in original. The comma probably should be a semicolon.
+    - **(B)** the requirements of subsection (f)(8) are met, 4 4 So in original. The comma probably should be a semicolon.
   - **(18)** any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person (other than a fiduciary described in subsection (e)(3)) with respect to a plan if—
     - **(A)** the transaction involves a block trade,
     - **(B)** at the time of the transaction, the interest of the plan (together with the interests of any other plans maintained by the same plan sponsor), does not exceed 10 percent of the aggregate size of the block trade,
-    - **(C)** the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 2 2 So in original. Probably should be “arm’s-length”. transaction, and
-    - **(D)** the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 2 transaction with an unrelated party, 1
+    - **(C)** the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 5 5 So in original. Probably should be “arm’s-length”. transaction, and
+    - **(D)** the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 5 transaction with an unrelated party, 4
   - **(19)** any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person if—
     - **(A)** the transaction is executed through an electronic communication network, alternative trading system, or similar execution system or trading venue subject to regulation and oversight by—
       - **(i)** the applicable Federal regulating entity, or
@@ -88,15 +88,15 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(B)** either—
       - **(i)** the transaction is effected pursuant to rules designed to match purchases and sales at the best price available through the execution system in accordance with applicable rules of the Securities and Exchange Commission or other relevant governmental authority, or
       - **(ii)** neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
-    - **(C)** the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 2 transaction with an unrelated party,
-    - **(D)** if 3 3 So in original. The word “if” probably should not appear. the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
-    - **(E)** not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue, 1
-  - **(20)** transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration, 1
-  - **(21)** any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person, if—
+    - **(C)** the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 5 transaction with an unrelated party,
+    - **(D)** if 6 6 So in original. The word “if” probably should not appear. the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
+    - **(E)** not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue, 4
+  - **(20)** transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration, 4
+  - **(21)** any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person person, 7 7 So in original. if—
     - **(A)** the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
-    - **(B)** at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 2 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
+    - **(B)** at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 5 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
     - **(C)** the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
-    - **(D)** the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction, 1
+    - **(D)** the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction, 4
   - **(22)** any transaction described in subsection (c)(1)(A) involving the purchase and sale of a security between a plan and any other account managed by the same investment manager, if—
     - **(A)** the transaction is a purchase or sale, for no consideration other than cash payment against prompt delivery of a security for which market quotations are readily available,
     - **(B)** the transaction is effected at the independent current market price of the security (within the meaning of section 270.17a–7(b) of title 17, Code of Federal Regulations),
@@ -107,9 +107,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(G)** the investment manager does not base its fee schedule on the plan’s consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan’s consent to cross trading,
     - **(H)** the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager’s pricing policies and procedures, and the manager’s policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
     - **(I)** the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
-  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period, 1
-  - **(24)** the provision of a de minimis financial incentive described in section 401(k)(4)(A), 1 or
-  - **(25)** the receipt of fees and compensation by the automatic portability provider for services provided in connection with an automatic portability transaction.
+  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
 - **(e)**
   - **(1)** For purposes of this section, the term “plan” means—
     - **(A)** a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a),
@@ -195,7 +193,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
         - **(III)** The term “eligible investment expert” means any person which meets such requirements as the Secretary of Labor may provide and which does not bear any material affiliation or contractual relationship with any investment adviser or a related person thereof (or any employee, agent, or registered representative of the investment adviser or related person).
       - **(iv)** The requirements of this clause are met with respect to any investment advice program if—
         - **(I)** the only investment advice provided under the program is the advice generated by the computer model described in clause (ii), and
-        - **(II)** any transaction described in subsection (d)(17)(A)(ii) occurs solely at the direction of the participant or beneficiary.
+        - **(II)** any transaction described in (d)(17)(A)(ii) 8 8 So in original. Probably should be “subsection (d)(17)(A)(ii)”. occurs solely at the direction of the participant or beneficiary.
     - **(D)** The requirements of this subparagraph are met with respect to an arrangement if the arrangement is expressly authorized by a plan fiduciary other than the person offering the investment advice program, any person providing investment options under the plan, or any affiliate of either.
     - **(E)**
       - **(i)** The requirements of this subparagraph are met if an independent auditor, who has appropriate technical training or experience and proficiency and so represents in writing—
@@ -205,11 +203,11 @@ generated_at: "2026-03-30T02:55:27.811Z"
       - **(iii)** For purposes of this subparagraph, an auditor is considered independent if it is not related to the person offering the arrangement to the plan and is not related to any person providing investment options under the plan.
     - **(F)** The requirements of this subparagraph are met if—
       - **(i)** the fiduciary adviser provides to a participant or a beneficiary before the initial provision of the investment advice with regard to any security or other property offered as an investment option, a written notification (which may consist of notification by means of electronic communication)—
-        - **(I)** of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser in the development of the investment advice program and in the selection of investment options available under the plan,
+        - **(I)** of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser, 9 9 So in original. The comma probably should not appear. in the development of the investment advice program and in the selection of investment options available under the plan,
         - **(II)** of the past performance and historical rates of return of the investment options available under the plan,
         - **(III)** of all fees or other compensation relating to the advice that the fiduciary adviser or any affiliate thereof is to receive (including compensation provided by any third party) in connection with the provision of the advice or in connection with the sale, acquisition, or holding of the security or other property,
         - **(IV)** of any material affiliation or contractual relationship of the fiduciary adviser or affiliates thereof in the security or other property,
-        - **(V)** of the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
+        - **(V)** the 10 10 So in original. Probably should be “of the”. manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
         - **(VI)** of the types of services provided by the fiduciary adviser in connection with the provision of investment advice by the fiduciary adviser,
         - **(VII)** that the adviser is acting as a fiduciary of the plan in connection with the provision of the advice, and
         - **(VIII)** that a recipient of the advice may separately arrange for the provision of advice by another adviser, that could have no material affiliation with and receive no fees or other compensation in connection with the security or other property, and
@@ -222,7 +220,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
       - **(i)** the fiduciary adviser provides appropriate disclosure, in connection with the sale, acquisition, or holding of the security or other property, in accordance with all applicable securities laws,
       - **(ii)** the sale, acquisition, or holding occurs solely at the direction of the recipient of the advice,
       - **(iii)** the compensation received by the fiduciary adviser and affiliates thereof in connection with the sale, acquisition, or holding of the security or other property is reasonable, and
-      - **(iv)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 2 transaction would be.
+      - **(iv)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 5 transaction would be.
     - **(H)**
       - **(i)** The requirements of this subparagraph are met if the notification required to be provided to participants and beneficiaries under subparagraph (F)(i) is written in a clear and conspicuous manner and in a manner calculated to be understood by the average plan participant and is sufficiently accurate and comprehensive to reasonably apprise such participants and beneficiaries of the information required to be provided in the notification.
       - **(ii)** The Secretary of Labor shall issue a model form for the disclosure of fees and other compensation required in subparagraph (F)(i)(III) which meets the requirements of clause (i).
@@ -255,41 +253,6 @@ generated_at: "2026-03-30T02:55:27.811Z"
       - **(iii)** The term “correct” means, with respect to a transaction—
         - **(I)** to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
         - **(II)** to restore to the plan or affected account any profits made through the use of assets of the plan.
-  - **(12)**
-    - **(A)** For purposes of subsection (d)(25)—
-      - **(i)** An automatic portability transaction is a transfer of assets made—
-        - **(I)** from an individual retirement plan which is established on behalf of an individual and to which amounts were transferred under section 401(a)(31)(B)(i),
-        - **(II)** to an employer-sponsored retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) (other than a defined benefit plan) in which such individual is an active participant, and
-        - **(III)** after such individual has been given advance notice of the transfer and has not affirmatively opted out of such transfer.
-      - **(ii)** An automatic portability provider is a person, other than an individual, who executes transfers described in clause (i).
-    - **(B)** Subsection (d)(25) shall not apply to an automatic portability transaction unless the following requirements are satisfied:
-      - **(i)** An automatic portability provider shall acknowledge in writing, at such time and format as specified by the Secretary of Labor, that the provider is a fiduciary with respect to the individual retirement plan described in subparagraph (A)(i)(I).
-      - **(ii)** The fees and compensation received, directly or indirectly, by the automatic portability provider for services provided in connection with the automatic portability transaction (including any increase in such fees or compensation and any fees or compensation in connection with, but received before, the transaction)—
-        - **(I)** shall not exceed reasonable compensation, and
-        - **(II)** shall be fully disclosed to and approved in writing in advance of the transaction by a plan fiduciary of the plan described in subparagraph (A)(i)(II) which is independent of the automatic portability provider.
-      - **(iii)** The automatic portability provider shall not market or sell data relating to the individual retirement plan described in subparagraph (A)(i)(I) or to the participants of the plan described in subparagraph (A)(i)(II).
-      - **(iv)** The automatic portability provider shall offer automatic portability transactions on the same terms to any plan described in subparagraph (A)(i)(II).
-      - **(v)** At least 60 days in advance of an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual retirement plan described in subparagraph (A)(i)(I) is established which includes—
-        - **(I)** a description of the automatic portability transaction and a complete and accurate statement of all fees which will be charged and all compensation which will be received in connection with the transaction,
-        - **(II)** a clear and prominent description of the individual’s right to affirmatively elect not to participate in the transaction as well as the other available distribution options, the deadline by which the individual must make an election, the procedures for such an election, and a telephone number for the automatic portability provider that the individual may call to make such election,
-        - **(III)** a description of the individual’s right to designate a beneficiary and the procedures to do so, and
-        - **(IV)** such other disclosures as the Secretary of Labor may require by regulation.
-      - **(vi)** Not later than 3 business days after an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual retirement plan described in subparagraph (A)(i)(I) is established of—
-        - **(I)** the actions taken by the automatic portability provider with respect to the individual’s account,
-        - **(II)** all relevant information regarding the location and amount of any transferred assets,
-        - **(III)** a statement of fees charged against the account by the automatic portability provider or its affiliates in connection with the transfer,
-        - **(IV)** a telephone number at which the individual can contact the automatic portability provider, and
-        - **(V)** such other disclosures as the Secretary of Labor may require by regulation.
-      - **(vii)** The notices required under clauses (v) and (vi) shall be written in a manner calculated to be understood by the average person and shall not include inaccurate or misleading statements.
-      - **(viii)** The automatic portability provider shall query on at least a monthly basis whether any individual with an individual retirement plan described in subparagraph (A)(i)(I) has an account in a plan described in subparagraph (A)(i)(II).
-      - **(ix)** After liquidating the assets of an individual retirement plan described in subparagraph (A)(i)(I) to cash, an automatic portability provider shall transfer the account balance of such plan as soon as practicable to the plan described in subparagraph (A)(i)(II).
-      - **(x)** The automatic portability provider shall neither have nor exercise discretion to affect the timing or amount of the transfer pursuant to an automatic portability transaction other than to deduct the appropriate fees as described in clause (ii).
-      - **(xi)**
-        - **(I)** An automatic portability provider shall, for not less than 6 years after the automatic portability transaction has occurred, maintain the records sufficient to demonstrate the terms of this subparagraph have been met. The automatic portability provider shall make such records available to any authorized employee of the Department of the Treasury or the Department of Labor within 30 calendar days of the date of a written request for such records.
-        - **(II)** An automatic portability provider shall conduct an annual audit, in accordance with regulations promulgated by the Secretary of Labor, of automatic portability transactions occurring during the calendar year to demonstrate compliance with this paragraph and any regulations thereunder and identify any instances of noncompliance therewith, and shall submit such audit annually to the Secretary of Labor, in such form and manner as specified by such Secretary.
-      - **(xii)** The automatic portability provider shall maintain a website which contains—
-        - **(I)** a list of recordkeepers for each plan described in subparagraph (A)(i)(II) with respect to which the provider carries out automatic portability transactions, and
-        - **(II)** a list of all fees described in clause (ii)(II) paid to the provider.
 - **(g)** This section shall not apply—
   - **(1)** in the case of a plan to which a guaranteed benefit policy (as defined in section 401(b)(2)(B) of the Employee Retirement Income Security Act of 1974) is issued, to any assets of the insurance company, insurance service, or insurance organization merely because of its issuance of such policy;
   - **(2)** to a governmental plan (within the meaning of section 414(d)); or

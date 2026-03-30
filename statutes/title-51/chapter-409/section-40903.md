@@ -1,16 +1,17 @@
 ---
-title: "Section 40903 - Established Program to Stimulate Competitive Research—merit grant competition requirements"
+title: "Section 40903 - Experimental Program to Stimulate Competitive Research—merit grant competition requirements"
 usc_title: 51
 usc_section: "40903"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 40903"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-03-30T03:06:49.075Z"
+status: "active"
 ---
 
-# § 40903. Established Program to Stimulate Competitive Research—merit grant competition requirements
+# § 40903. Experimental Program to Stimulate Competitive Research—merit grant competition requirements
 
-- **(a)** In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Established Program to Stimulate Competitive Research.
+- **(a)** In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Experimental Program to Stimulate Competitive Research.
 - **(b)** Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
   - **(1)** the application’s merit and relevance to the mission of the Administration;
   - **(2)** the potential for the grant to serve as a catalyst to enhance the ability of researchers in the State to become more competitive for regular Administration funding;

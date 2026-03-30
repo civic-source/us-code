@@ -3,9 +3,10 @@ title: "Section 3995 - Local applications"
 usc_title: 20
 usc_section: "3995"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3995"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-03-30T03:04:46.318Z"
+status: "active"
 ---
 
 # § 3995. Local applications
@@ -14,16 +15,16 @@ generated_at: "2026-03-30T02:54:48.181Z"
 - **(b)** The State shall require each application to include—
   - **(1)** a description of the activities for which assistance under this part is sought;
   - **(2)** assurances that not more than 5 percent of the amount received by the applicant in any fiscal year shall be expended on administrative expenses;
-  - **(3)** if the funds are to be used for improvement of elementary and secondary resources as described in subsection (b)(1)—
+  - **(3)** if the funds are to be used for improvement of elementary and secondary resources as described in subsection (b)(1) of this section—
     - **(A)** an estimate of the amount to be spent on equipment, facilities improvement, library resources, and classroom instructional material;
     - **(B)** an estimate of the number of elementary and secondary students who will be aided by activities and expenditures under the grant;
     - **(C)** assurances that—
-      - **(i)** except as provided in subsection (c), a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
+      - **(i)** except as provided in subsection (c) of this section, a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
       - **(ii)** no stipend shall be paid directly to employees of a profitmaking business concern;
       - **(iii)** provision shall be made for the equitable participation in the project of children who are enrolled in private elementary and secondary schools; and
       - **(iv)** consideration will be given to programs and activities designed to meet the needs of educationally disadvantaged and other traditionally underserved populations; and
-  - **(4)** if the funds are to be used for advanced placement programs as described in subsection (b)(2), a commitment as to the percentage of funds received from the State on a per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
-- **(c)** The State may waive or reduce the amount of matching funds required under subsection (b)(3)(C)(i) if the State determines that—
+  - **(4)** if the funds are to be used for advanced placement programs as described in subsection (b)(2) of this section, a commitment as to the percentage of funds received from the State on a per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
+- **(c)** The State may waive or reduce the amount of matching funds required under subsection (b)(3)(C)(i) of this section if the State determines that—
   - **(1)** substantial need exists in the area served by the applicant for a grant under this part; and
   - **(2)** the required amount of matching funds cannot be made available.
-- **(d)** A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a).
+- **(d)** A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a) of this section.

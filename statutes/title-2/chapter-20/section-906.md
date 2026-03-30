@@ -3,9 +3,10 @@ title: "Section 906 - General and special sequestration rules"
 usc_title: 2
 usc_section: "906"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 906"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-03-30T03:04:04.428Z"
+status: "active"
 ---
 
 # § 906. General and special sequestration rules
@@ -48,13 +49,13 @@ generated_at: "2026-03-30T02:53:04.806Z"
     - **(A)** The term “statutory pay system” shall have the meaning given that term in section 5302(1) of title 5 .
     - **(B)** The term “elements of military pay” means—
       - **(i)** the elements of compensation of members of the uniformed services specified in section 1009 of title 37 ,
-      - **(ii)** allowances provided members of the uniformed services under sections 403b and 405 of such title, and
+      - **(ii)** allowances provided members of the uniformed services under sections 403a and 475 of such title, and
       - **(iii)** cadet pay and midshipman pay under section 203(c) of such title.
     - **(C)** The term “uniformed services” shall have the meaning given that term in section 101(3) of title 37 .
 - **(h)**
   - **(1)** Notwithstanding any other provision of this title, 1 1 See References in Text note below. administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title , without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
   - **(2)** Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
-  - **(3)** Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) 1 shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+  - **(3)** Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) 1 of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
   - **(4)** Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
     - **(A)** Comptroller of the Currency.
     - **(B)** Federal Deposit Insurance Corporation.
@@ -62,13 +63,11 @@ generated_at: "2026-03-30T02:53:04.806Z"
     - **(D)** National Credit Union Administration, central liquidity facility.
     - **(E)** Federal Retirement Thrift Investment Board.
     - **(F)** Farm Credit Administration.
-    - **(G)** Cost of War Toxic Exposures Fund.
 - **(i)**
   - **(1)** For purposes of section 904 of this title —
     - **(A)** any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [ 42 U.S.C. 1104(a) ]),
-    - **(B)** any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [ 42 U.S.C. 1104(g) ]) under title XII of such Act [ 42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [ 42 U.S.C. 1323 ],
-    - **(C)** any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [ 42 U.S.C. 1109 ]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
-    - **(D)** any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act [ 45 U.S.C. 360 ]) for the purpose of carrying out the Railroad Unemployment Insurance Act [ 45 U.S.C. 351 et seq.], and funds appropriated or transferred to or otherwise deposited in such Account,
+    - **(B)** any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [ 42 U.S.C. 1104(g) ]) under title XII of such Act [ 42 U.S.C. 1321 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [ 42 U.S.C. 1323 ], and
+    - **(C)** any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [ 42 U.S.C. 1109 ]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
   - **(2)**
     - **(A)** A State may reduce each weekly bene­fit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
     - **(B)** A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26 .

@@ -3,12 +3,13 @@ title: "Section 7453 - Rules of practice, procedure, and evidence"
 usc_title: 26
 usc_section: "7453"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7453"
-generated_at: "2026-03-30T02:55:27.874Z"
+generated_at: "2026-03-30T03:05:18.743Z"
+status: "active"
 ---
 
 # § 7453. Rules of practice, procedure, and evidence
 
-Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the Federal Rules of Evidence.
+Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the rules of evidence applicable in trials without a jury in the United States District Court of the District of Columbia.
 

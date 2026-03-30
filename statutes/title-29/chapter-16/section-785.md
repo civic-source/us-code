@@ -3,12 +3,13 @@ title: "Section 785 - Authorization of appropriations"
 usc_title: 29
 usc_section: "785"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 785"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-03-30T03:05:09.686Z"
+status: "active"
 ---
 
 # § 785. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter $3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.
+There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
 

@@ -1,12 +1,15 @@
 ---
-title: "Section 61g - Transferred"
+title: "Section 61g - Compensation of Secretaries for Senate Majority and Minority"
 usc_title: 2
 usc_section: "61g"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 61g"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.397Z"
+status: "active"
 ---
 
-# § 61g. Transferred
+# § 61g. Compensation of Secretaries for Senate Majority and Minority
+
+The Secretary for the Majority of the Senate (other than the incumbent holding office on April 1, 1977 ) and the Secretary for the Minority of the Senate shall each be paid at an annual rate of compensation of $39,500.
 

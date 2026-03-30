@@ -1,15 +1,16 @@
 ---
-title: "Section 517 - Authorized enlisted end strength: members in pay grades E–8 and E–9"
+title: "Section 517 - Authorized daily average: members in pay grades E–8 and E–9"
 usc_title: 10
 usc_section: "517"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 517"
-generated_at: "2026-03-30T02:53:38.065Z"
+generated_at: "2026-03-30T03:04:17.223Z"
+status: "active"
 ---
 
-# § 517. Authorized enlisted end strength: members in pay grades E–8 and E–9
+# § 517. Authorized daily average: members in pay grades E–8 and E–9
 
-- **(a)** The authorized end strength for enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 as of the last day of a fiscal year may not be more than 3.0 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training). In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title .
-- **[(b)** Repealed. Pub. L. 116–283, div. A, title IV, § 403(a)(3) , Jan. 1, 2021 , 134 Stat. 3556 .]
+- **(a)** The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title .
+- **(b)** Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 - **(c)** Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.

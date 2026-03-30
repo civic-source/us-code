@@ -3,9 +3,10 @@ title: "Section 112 - Secretary; functions"
 usc_title: 6
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 112"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-03-30T03:04:24.336Z"
+status: "active"
 ---
 
 # § 112. Secretary; functions
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(1)** except as otherwise provided by this chapter, may delegate any of the Secretary’s functions to any officer, employee, or organizational unit of the Department;
   - **(2)** shall have the authority to make contracts, grants, and cooperative agreements, and to enter into agreements with other executive agencies, as may be necessary and proper to carry out the Secretary’s responsibilities under this chapter or otherwise provided by law; and
   - **(3)** shall take reasonable steps to ensure that information systems and databases of the Department are compatible with each other and with appropriate databases of other Departments.
-- **(c)** With respect to homeland security, the Secretary shall coordinate through the Office of State and Local Coordination 1 1 So in original. Probably should be “Office for State and Local Government Coordination”. (established under section 361 of this title ) (including the provision of training and equipment) with State and local government personnel, agencies, and authorities, with the private sector, and with other entities, including by—
+- **(c)** With respect to homeland security, the Secretary shall coordinate through the Office of State and Local Coordination 1 1 So in original. Probably should be “Office of State and Local Government Coordination”. (established under section 361 of this title ) (including the provision of training and equipment) with State and local government personnel, agencies, and authorities, with the private sector, and with other entities, including by—
   - **(1)** coordinating with State and local government personnel, agencies, and authorities, and with the private sector, to ensure adequate planning, equipment, training, and exercise activities;
   - **(2)** coordinating and, as appropriate, consolidating, the Federal Government’s communications and systems of communications relating to homeland security with State and local government personnel, agencies, and authorities, the private sector, other entities, and the public; and
   - **(3)** distributing or, as appropriate, coordinating the distribution of, warnings and information to State and local government personnel, agencies, and authorities and to the public.
@@ -39,7 +40,6 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(7)** assisting in the development and promotion of private sector best practices to secure critical infrastructure;
   - **(8)** providing information to the private sector regarding voluntary preparedness standards and the business justification for preparedness and promoting to the private sector the adoption of voluntary preparedness standards;
   - **(9)** coordinating industry efforts, with respect to functions of the Department of Homeland Security, to identify private sector resources and capabilities that could be effective in supplementing Federal, State, and local government agency efforts to prevent or respond to a terrorist attack;
-  - **(10)** coordinating with the Commissioner of U.S. Customs and Border Protection and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
+  - **(10)** coordinating with the Directorate of Border and Transportation Security and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
   - **(11)** consulting with the Office of State and Local Government Coordination and Preparedness on all matters of concern to the private sector, including the tourism industry.
 - **(g)** All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 ( 15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
-- **(h)** The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) 2 2 See References in Text note below. shall not apply whenever such advice or feedback is sought in accordance with this subsection.

@@ -3,26 +3,27 @@ title: "Section 410ddd - New Bedford Whaling National Historical Park"
 usc_title: 16
 usc_section: "410ddd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 410ddd"
-generated_at: "2026-03-30T02:54:22.777Z"
+generated_at: "2026-03-30T03:04:48.433Z"
+status: "active"
 ---
 
 # § 410ddd. New Bedford Whaling National Historical Park
 
 - **(a)**
   - **(1)** The Congress finds that—
-    - **(A)** the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2), including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
+    - **(A)** the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
     - **(B)** the city of New Bedford was the 19th century capital of the world’s whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
     - **(C)** New Bedford’s historic resources provide unique opportunities for illustrating and interpreting the whaling industry’s contribution to the economic, social, and environmental history of the United States and provide opportunities for public use and enjoyment; and 1 1 So in original. The word “and” probably should not appear.
     - **(D)** during the nineteenth century, over two thousand whaling voyages sailed out of New Bedford to the Arctic region of Alaska, and joined Alaska Natives from Barrow, Alaska and other areas in the Arctic region in subsistence whaling activities; and
     - **(E)** the National Park System presently contains no sites commemorating whaling and its contribution to American history.
   - **(2)** The purposes of this section are—
-    - **(A)** to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2), including architecture, setting, and associated archival and museum collections;
+    - **(A)** to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
     - **(B)** to collaborate with the city of New Bedford and with associated historical, cultural, and preservation organizations to further the purposes of the park established under this section; and
     - **(C)** to provide opportunities for the inspirational benefit and education of the American people.
 - **(b)** For the purposes of this section—
-  - **(1)** the term “park” means the New Bedford Whaling National Historical Park established by subsection (c); and
+  - **(1)** the term “park” means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
   - **(2)** the term “Secretary” means the Secretary of the Interior.
 - **(c)**
   - **(1)** In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain districts, structures, and relics located in New Bedford, Massachusetts, and associated with the history of whaling and related social and economic themes in America, there is established the New Bedford Whaling National Historical Park.
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:54:22.777Z"
   - **(1)** financial and other assistance to establish links between the New Bedford Whaling National Historical Park and the North Slope Borough Cultural Center, located in Barrow, Alaska; and
   - **(2)** appropriate assistance and funding for the North Slope Borough Cultural Center.
 - **(e)**
-  - **(1)** The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1 , 2, 3, and 4) 2 2 See References in Text note below. and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461–467 ). 2
+  - **(1)** The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
   - **(2)**
     - **(A)** The Secretary may consult and enter into cooperative agreements with interested entities and individuals to provide for the preservation, development, interpretation, and use of the park.
     - **(B)** Any payment made by the Secretary pursuant to a cooperative agreement under this paragraph shall be subject to an agreement that conversion, use, or disposal of the project so assisted for purposes contrary to the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of all funds made available to such project or the proportion of the increased value of the project attributable to such funds as determined at the time of such conversion, use, or disposal, whichever is greater.
@@ -53,10 +54,10 @@ generated_at: "2026-03-30T02:54:22.777Z"
     - **(B)** For the purposes of this paragraph, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this section, any money so contributed. With the approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for the purposes of this paragraph.
   - **(4)** For the purposes of the park, the Secretary may acquire only by donation such lands, interests in lands, and improvements thereon within the park as are needed for essential visitor contact and interpretive facilities.
   - **(5)** The Secretary may accept donated funds, property, and services to carry out this section.
-- **(f)** Not later than the end of the second fiscal year beginning after November 12, 1996 , the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 100502 of title 54 and other applicable law.
+- **(f)** Not later than the end of the second fiscal year beginning after November 12, 1996 , the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
 - **(g)**
-  - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d).
+  - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
   - **(2)** In carrying out this section—
     - **(A)** not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
     - **(B)** none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
-    - **(C)** not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).
+    - **(C)** not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.

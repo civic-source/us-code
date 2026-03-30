@@ -3,15 +3,16 @@ title: "Section 5509 - Forfeitures"
 usc_title: 16
 usc_section: "5509"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5509"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-03-30T03:04:48.629Z"
+status: "active"
 ---
 
 # § 5509. Forfeitures
 
 - **(a)** Any high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any living marine resources (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 5505 of this title (other than an act for which the issuance of a citation under section 5506 of this title is a sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such living marine resources (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
-- **(b)** Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
+- **(b)** Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
 - **(c)** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained. The provisions of the customs laws relating to—
   - **(1)** the seizure, forfeiture, and condemnation of property for violation of the customs law;
   - **(2)** the disposition of such property or the proceeds from the sale thereof; and

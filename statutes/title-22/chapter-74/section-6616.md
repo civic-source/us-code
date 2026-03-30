@@ -3,9 +3,10 @@ title: "Section 6616 - Authority of Secretary of State to facilitate transition"
 usc_title: 22
 usc_section: "6616"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6616"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-03-30T03:04:53.699Z"
+status: "active"
 ---
 
 # § 6616. Authority of Secretary of State to facilitate transition

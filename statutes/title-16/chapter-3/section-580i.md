@@ -3,9 +3,10 @@ title: "Section 580i - Acquisition of winter range, land, and helicopter landing
 usc_title: 16
 usc_section: "580i"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 580i"
-generated_at: "2026-03-30T02:54:22.879Z"
+generated_at: "2026-03-30T03:04:48.502Z"
+status: "active"
 ---
 
 # § 580i. Acquisition of winter range, land, and helicopter landing site
@@ -14,4 +15,4 @@ There are authorized to be appropriated—
 
 - **(a)** such sums as may be necessary for the acquisition of parcels of land and interests in land in Sanders County, Montana, needed by the Forest Service to provide winter range for its saddle, pack, and draft animals;
 - **(b)** not to exceed $50,000 for the acquisition of additional land adjacent to the present site of the Forest Products Laboratory at Madison, Wisconsin; and
-- **(c)** not to exceed $25,000 for the acquisition of one helicopter landing site in southern California.
+- **(c)** not to exceed $25,000 for the acquisition of one helicopter landing site in southern California. Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.

@@ -3,15 +3,16 @@ title: "Section 7266 - Enhanced review of periodic disclosures by issuers"
 usc_title: 15
 usc_section: "7266"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 7266"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-03-30T03:04:31.245Z"
+status: "active"
 ---
 
 # § 7266. Enhanced review of periodic disclosures by issuers
 
 - **(a)** The Commission shall review disclosures made by issuers reporting under section 78m(a) of this title (including reports filed on Form 10–K), and which have a class of securities listed on a national securities exchange or traded on an automated quotation facility of a national securities association, on a regular and systematic basis for the protection of investors. Such review shall include a review of an issuer’s financial statement.
-- **(b)** For purposes of scheduling the reviews required by subsection (a), the Commission shall consider, among other factors—
+- **(b)** For purposes of scheduling the reviews required by subsection (a) of this section, the Commission shall consider, among other factors—
   - **(1)** issuers that have issued material restatements of financial results;
   - **(2)** issuers that experience significant volatility in their stock price as compared to other issuers;
   - **(3)** issuers with the largest market capitalization;

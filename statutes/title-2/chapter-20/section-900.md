@@ -3,9 +3,10 @@ title: "Section 900 - Statement of budget enforcement through sequestration; def
 usc_title: 2
 usc_section: "900"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 900"
-generated_at: "2026-03-30T02:53:04.804Z"
+generated_at: "2026-03-30T03:04:04.426Z"
+status: "active"
 ---
 
 # § 900. Statement of budget enforcement through sequestration; definitions
@@ -20,9 +21,6 @@ generated_at: "2026-03-30T02:53:04.804Z"
     - **(A)** The term “nonsecurity category” means all discretionary appropriations not included in the security category defined in subparagraph (B).
     - **(B)** The term “security category” includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
     - **(C)** The term “discretionary category” includes all discretionary appropriations.
-    - **(D)** The term “revised security category” means discretionary appropriations in budget function 050.
-    - **(E)** The term “revised nonsecurity category” means discretionary appropriations other than in budget function 050.
-    - **(F)** The term “category” means the subsets of discretionary appropriations in section 901(c) of this title . Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
   - **(5)** The term “baseline” means the projection (described in section 907 of this title ) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
   - **(6)** The term “budgetary resources” means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
   - **(7)** The term “discretionary appropriations” means budgetary resources (except to fund direct-spending programs) provided in appropriation Acts.

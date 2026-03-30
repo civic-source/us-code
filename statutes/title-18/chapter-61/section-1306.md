@@ -3,9 +3,10 @@ title: "Section 1306 - Participation by financial institutions"
 usc_title: 18
 usc_section: "1306"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 1306"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-03-30T03:04:41.097Z"
+status: "active"
 ---
 
 # § 1306. Participation by financial institutions

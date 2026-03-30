@@ -3,9 +3,10 @@ title: "Section 22 - Credit for the elderly and the permanently and totally disa
 usc_title: 26
 usc_section: "22"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 22"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-03-30T03:05:18.515Z"
+status: "active"
 ---
 
 # § 22. Credit for the elderly and the permanently and totally disabled
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:55:27.585Z"
       - **(i)** which is excluded from gross income and payable under—
         - **(I)** title II of the Social Security Act,
         - **(II)** the Railroad Retirement Act of 1974, or
-        - **(III)** a law administered by the Department of Veterans Affairs, or
+        - **(III)** a law administered by the Veterans’ Administration, or
       - **(ii)** which is excluded from gross income under any provision of law not contained in this title.
     - **(B)** For purposes of subparagraph (A), any amount treated as a social security benefit under section 86(d)(3) shall be treated as a disability benefit received under title II of the Social Security Act.
 - **(d)** If the adjusted gross income of the taxpayer exceeds—

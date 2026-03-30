@@ -3,9 +3,10 @@ title: "Section 9852b - Centers of Excellence in Early Childhood"
 usc_title: 42
 usc_section: "9852b"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9852b"
-generated_at: "2026-03-30T02:56:11.372Z"
+generated_at: "2026-03-30T03:06:22.864Z"
+status: "active"
 ---
 
 # § 9852b. Centers of Excellence in Early Childhood
@@ -28,10 +29,11 @@ generated_at: "2026-03-30T02:56:11.372Z"
       - **(vi)** a description of how the center involved, in order to expand accessibility and continuity of quality early childhood education and development services and programs, will coordinate activities, as appropriate, assisted under this section with—
         - **(I)** programs carried out under subchapter II–B;
         - **(II)** the Early Head Start programs carried out under section 9840a of this title ;
-        - **(III)** preschool programs carried out under title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.);
-        - **(IV)** programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1419 , 1431 et seq.);
-        - **(V)** State prekindergarten programs; and
-        - **(VI)** other programs of early childhood education and development.
+        - **(III)** Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6371 et seq., 6381 et seq.);
+        - **(IV)** other preschool programs carried out under title I of that Act ( 20 U.S.C. 6301 et seq.);
+        - **(V)** programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1419 , 1431 et seq.);
+        - **(VI)** State prekindergarten programs; and
+        - **(VII)** other programs of early childhood education and development.
   - **(2)** In selecting agencies to designate as centers of excellence under subsection (b), the Secretary shall designate not less than 1 from each of the 50 States, the District of Columbia, an Indian Head Start program, a migrant or seasonal Head Start program, and the Commonwealth of Puerto Rico.
   - **(3)** In making bonus grant determinations under this section, the Secretary shall give priority to agencies that, through their applications, demonstrate that their programs are of exceptional quality and would serve as exemplary models for programs in the same geographic region. The Secretary may also consider the populations served by the applicants, such as agencies that serve large proportions of families of limited English proficient children or other underserved populations, and may make bonus grants to agencies that do an exceptional job meeting the needs of children in such populations.
   - **(4)**

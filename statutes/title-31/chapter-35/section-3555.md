@@ -3,9 +3,10 @@ title: "Section 3555 - Regulations; authority of Comptroller General to verify a
 usc_title: 31
 usc_section: "3555"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 3555"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-03-30T03:05:28.359Z"
+status: "active"
 ---
 
 # § 3555. Regulations; authority of Comptroller General to verify assertions
@@ -16,14 +17,5 @@ generated_at: "2026-03-30T02:55:34.058Z"
   - **(2)** the last day after such act, event, or default be included, unless—
     - **(A)** such last day is a Saturday, a Sunday, or a legal holiday; or
     - **(B)** in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
-- **(c)**
-  - **(1)** The Comptroller General shall establish and operate an electronic filing and document dissemination system under which, in accordance with procedures prescribed by the Comptroller General—
-    - **(A)** a person filing a protest under this subchapter may file the protest through electronic means; and
-    - **(B)** all documents and information required with respect to the protest may be disseminated and made available to the parties to the protest through electronic means.
-  - **(2)**
-    - **(A)** The Comptroller General may require each person who files a protest under this subchapter to pay a fee to support the establishment and operation of the electronic system under this subsection, without regard to whether or not the person uses the system with respect to the protest.
-    - **(B)** The Comptroller General shall establish (and from time to time shall update) a schedule setting forth the amount of the fee to be paid under subparagraph (A).
-  - **(3)**
-    - **(A)** The Comptroller General shall maintain a separate account among the accounts of the Government Accountability Office for the electronic system under this subsection, and shall deposit all amounts received as fees under paragraph (2) into the account.
-    - **(B)** Amounts in the account maintained under this paragraph shall be available to the Comptroller General, without fiscal year limitation, solely to establish and operate the electronic system under this subsection.
+- **(c)** The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
 - **(d)** The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.

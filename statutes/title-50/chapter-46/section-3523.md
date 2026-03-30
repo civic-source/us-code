@@ -3,15 +3,16 @@ title: "Section 3523 - Intelligence operations and cover enhancement authority"
 usc_title: 50
 usc_section: "3523"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3523"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-03-30T03:06:37.697Z"
+status: "active"
 ---
 
 # § 3523. Intelligence operations and cover enhancement authority
 
 - **(a)** In this section—
-  - **(1)** the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b); and
+  - **(1)** the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b) of this section; and
   - **(2)** the term “Federal retirement system” includes the Central Intelligence Agency Retirement and Disability System, and the Federal Employees’ Retirement System (including the Thrift Savings Plan).
 - **(b)**
   - **(1)** Notwithstanding any other provision of law, the Director of the Central Intelligence Agency may exercise the authorities under this section in order to—
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:56:26.255Z"
       - **(iv)** intelligence cover mechanisms; or
     - **(B)** meet the special requirements of work related to collection of foreign intelligence or other authorized activities of the Agency.
   - **(2)** The Director of the Central Intelligence Agency may designate any employee of the Agency who is under nonofficial cover to be an employee to whom this section applies. Such designation may be made with respect to any or all authorities exercised under this section.
-- **(c)** The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i), retain any salary, allowances, and other benefits provided under this section.
+- **(c)** The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i) of this section, retain any salary, allowances, and other benefits provided under this section.
 - **(d)**
   - **(1)** The Director of the Central Intelligence Agency may establish and administer a nonofficial cover employee retirement system for designated employees (and the spouse, former spouses, and survivors of such designated employees). A designated employee may not participate in the retirement system established under this paragraph and another Federal retirement system at the same time.
   - **(2)**
@@ -83,6 +84,6 @@ generated_at: "2026-03-30T02:56:26.255Z"
       - **(ii)** meet the special requirements of work related to collection of foreign intelligence or other authorized activities of the Agency; and
     - **(B)** shall receive social security benefits based on the social security contributions made.
   - **(2)** The Director of the Central Intelligence Agency shall establish procedures to carry out this subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
-- **(i)** The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+- **(i)** The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 - **(j)** Any determinations authorized by this section to be made by the Director of the Central Intelligence Agency or the Director’s designee shall be final and conclusive and shall not be subject to review by any court.
 - **(k)** No law enacted after the effective date of this section shall affect the authorities and provisions of this section unless such law specifically refers to this section.

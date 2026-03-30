@@ -3,9 +3,10 @@ title: "Section 902 - Commissioner; Deputy Commissioner; other officers"
 usc_title: 42
 usc_section: "902"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 902"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-03-30T03:06:22.464Z"
+status: "active"
 ---
 
 # § 902. Commissioner; Deputy Commissioner; other officers
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:56:10.898Z"
   - **(7)** The Commissioner may assign duties, and delegate, or authorize successive redelegations of, authority to act and to render decisions, to such officers and employees of the Administration as the Commissioner may find necessary. Within the limitations of such delegations, redelegations, or assignments, all official acts and decisions of such officers and employees shall have the same force and effect as though performed or rendered by the Commissioner.
   - **(8)** The Commissioner and the Secretary of Health and Human Services (in this subchapter referred to as the “Secretary”) shall consult, on an ongoing basis, to ensure—
     - **(A)** the coordination of the programs administered by the Commissioner, as described in section 901 of this title , with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
-    - **(B)** that adequate information concerning benefits under such subchapters XVIII and XIX is available to the public.
+    - **(B)** that adequate information concerning benefits under such subchapters XVIII and XIX of this chapter is available to the public.
 - **(b)**
   - **(1)** There shall be in the Administration a Deputy Commissioner of Social Security (in this subchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** The Deputy Commissioner shall be appointed for a term of 6 years, except that the initial term of office for the Deputy Commissioner shall terminate January 19, 2001 . In any case in which a successor does not take office at the end of a Deputy Commissioner’s term of office, such Deputy Commissioner may continue in office until the entry upon office of such a successor. A Deputy Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term.
@@ -30,4 +31,4 @@ generated_at: "2026-03-30T02:56:10.898Z"
   - **(1)** There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
   - **(2)** The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5 .
 - **(d)** There shall be in the Administration a Chief Financial Officer appointed by the Commissioner in accordance with section 901(a)(2) of title 31 .
-- **(e)** There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 403(a) of title 5 .
+- **(e)** There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.

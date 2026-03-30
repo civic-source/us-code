@@ -3,9 +3,10 @@ title: "Section 284 - Omitted"
 usc_title: 12
 usc_section: "284"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 284"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-03-30T03:04:29.196Z"
+status: "omitted"
 ---
 
 # § 284. Omitted

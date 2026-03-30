@@ -3,9 +3,10 @@ title: "Section 404 - Foreign disaster assistance"
 usc_title: 10
 usc_section: "404"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 404"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-03-30T03:04:17.219Z"
+status: "active"
 ---
 
 # § 404. Foreign disaster assistance

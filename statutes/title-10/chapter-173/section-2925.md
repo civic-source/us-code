@@ -1,25 +1,39 @@
 ---
-title: "Section 2925 - Annual report on energy performance, resilience, and readiness of Department of Defense"
+title: "Section 2925 - Annual Department of Defense energy management reports"
 usc_title: 10
 usc_section: "2925"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2925"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-03-30T03:04:17.305Z"
+status: "active"
 ---
 
-# § 2925. Annual report on energy performance, resilience, and readiness of Department of Defense
+# § 2925. Annual Department of Defense energy management reports
 
-- **(a)** Not later than 240 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report detailing the fulfillment during that fiscal year of the authorities and requirements under sections 2688, 2911, 2912, 2920, and 2926 of this title, including progress on energy resilience at military installations and the use of operational energy in combat platforms and at contingency locations.
-- **(b)** Each report under subsection (a) shall include the following:
-  - **(1)** For the year covered by the report, the following:
-    - **(A)** A description of the progress made to achieve the goals of the Energy Policy Act of 2005 ( Public Law 109–58 ), section 2911(g) of this title , and the Energy Independence and Security Act of 2007 ( Public Law 110–140 ).
-    - **(B)** A description of the energy savings, return on investment, and enhancements to installation mission assurance realized by the fulfillment of the goals described in subparagraph (A).
-    - **(C)** A description of and progress toward the energy security, resilience, and performance goals and master planning for the Department of Defense, including associated metrics pursuant to subsections (c) and (d) of section 2911 of this title and requirements under section 2688(g) of this title .
-    - **(D)** An evaluation of progress made by the Department in implementing the operational energy strategy of the Department, including the progress of key initiatives and technology investments related to operational energy demand and management.
-    - **(E)** Details of the amounts of any funds transferred by the Secretary of Defense pursuant to section 2912 of this title , including a detailed description of the purpose for which such amounts have been used.
-  - **(2)** Statistical information on operational energy demands of the Department, in terms of expenditures and consumption, for the preceding five fiscal years, including information on funding made available in regular defense appropriations Acts and any supplemental appropriations Acts.
-  - **(3)** A description of each initiative related to the operational energy strategy of the Department and a summary of funds appropriated for each initiative in the previous fiscal year and current fiscal year and requested for each initiative for the next five fiscal years.
-  - **(4)** Such recommendations as the Secretary considers appropriate for additional changes in organization or authority within the Department to enable further implementation of the energy strategy and such other comments and recommendations as the Secretary considers appropriate.
-- **(c)** If a report under subsection (a) is submitted in classified form, the Secretary of Defense shall, concurrently with such report, submit to the congressional defense committees an unclassified version of the report.
-- **(d)** The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing energy performance, resilience, and readiness.
+- **(a)** Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title . Each report shall contain the following:
+  - **(1)** A description of the progress made to achieve the goals of the Energy Policy Act of 2005 ( Public Law 109–58 ), section 2911(e) of this title , section 553 of the National Energy Conservation Policy Act ( 42 U.S.C. 8259b ), the Energy Independence and Security Act of 2007 ( Public Law 110–140 ), and the energy performance goals for the Department of Defense during the preceding fiscal year.
+  - **(2)** A table detailing funding, by account, for all energy projects funded through appropriations.
+  - **(3)** A table listing all energy projects financed through third party financing mechanisms (including energy savings performance contracts, enhanced use leases, utility energy service contracts, utility privatization agreements, and other contractual mechanisms), the duration of each such mechanism, an estimate of the financial obligation incurred through the duration of each such mechanism, whether the project incorporates energy security into its design, and the estimated payback period for each such mechanism.
+  - **(4)** In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.
+  - **(5)** A description of the actions taken to implement the energy performance master plan in effect under section 2911 of this title and carry out this chapter during the preceding fiscal year.
+  - **(6)** A description of the energy savings realized from such actions.
+  - **(7)** An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.
+  - **(8)** A description of the types and amount of financial incentives received under section 2913 of this title during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
+  - **(9)** A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 ( Public Law 110–140 ; 121 Stat. 1612 ).
+  - **(10)** A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
+  - **(11)** Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.
+  - **(12)** A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
+- **(b)**
+  - **(1)** Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c of this title .
+  - **(2)** The annual report under this subsection shall address and include the following:
+    - **(A)** Statistical information on operational energy demands, in terms of expenditures and consumption, for the preceding five fiscal years, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
+    - **(B)** An estimate of operational energy demands for the current fiscal year and next fiscal year, including funding requested to meet operational energy demands in the budget submitted to Congress under section 1105 of title 31 and in any supplemental requests.
+    - **(C)** A description of each initiative related to the operational energy strategy and a summary of funds appropriated for each initiative in the previous fiscal year and current fiscal year and requested for each initiative for the next five fiscal years.
+    - **(D)** An evaluation of progress made by the Department of Defense—
+      - **(i)** in implementing the operational energy strategy, including the progress of key initiatives and technology investments related to operational energy demand and management; and
+      - **(ii)** in meeting the operational energy goals set forth in the strategy.
+    - **(E)** A description of the alternative fuel initiatives of the Department of Defense, including funding and expenditures by account and activity for the preceding fiscal year, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
+    - **(F)** An evaluation of practices used in contingency operations during the previous fiscal year and potential improvements to such practices to reduce vulnerabilities associated with fuel convoys, including improvements in tent and structure efficiency, improvements in generator efficiency, and displacement of liquid fuels with on-site renewable energy generation. Such evaluation should identify challenges associated with the deployment of more efficient structures and equipment and renewable energy generation, and recommendations for overcoming such challenges.
+    - **(G)** Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
+  - **(3)** If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.

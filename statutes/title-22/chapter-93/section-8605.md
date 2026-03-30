@@ -3,9 +3,10 @@ title: "Section 8605 - Definitions"
 usc_title: 22
 usc_section: "8605"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 8605"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-03-30T03:04:53.722Z"
+status: "active"
 ---
 
 # § 8605. Definitions
@@ -15,4 +16,4 @@ In this chapter:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
     - **(B)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
-  - **(2)** The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) 1 1 See References in Text note below. of this title.
+  - **(2)** The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) of this title .

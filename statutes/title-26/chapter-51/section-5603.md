@@ -1,14 +1,15 @@
 ---
-title: "Section 5603 - Penalty relating to records, returns, and reports"
+title: "Section 5603 - Penalty relating to records, returns and reports"
 usc_title: 26
 usc_section: "5603"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5603"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-03-30T03:05:18.704Z"
+status: "active"
 ---
 
-# § 5603. Penalty relating to records, returns, and reports
+# § 5603. Penalty relating to records, returns and reports
 
 - **(a)** Any person required by this chapter (other than subchapters F and G) or regulations issued pursuant thereto to keep or file any record, return, report, summary, transcript, or other document, who, with intent to defraud the United States, shall—
   - **(1)** fail to keep any such document or to make required entries therein; or

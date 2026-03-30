@@ -3,12 +3,13 @@ title: "Section 2343 - Waiver of applicability of certain laws"
 usc_title: 10
 usc_section: "2343"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2343"
-generated_at: "2026-03-30T02:53:38.155Z"
+generated_at: "2026-03-30T03:04:17.281Z"
+status: "active"
 ---
 
 # § 2343. Waiver of applicability of certain laws
 
-Sections 4651, 3201, 3351, 3352(a), 3352(c), 3701 through 3708, and 3841 of this title and section 6306 of title 41 shall not apply to acquisitions made under the authority of section 2341 of this title or to agreements entered into under section 2342 of this title .
+Sections 2207, 2304(a), 2306(a), 2306(b), 2306(e), 2306a, and 2313 of this title and section 6306 of title 41 shall not apply to acquisitions made under the authority of section 2341 of this title or to agreements entered into under section 2342 of this title .
 

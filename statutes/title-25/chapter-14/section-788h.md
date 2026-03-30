@@ -1,12 +1,15 @@
 ---
-title: "Section 788h - Omitted"
+title: "Section 788h - Rules and regulations"
 usc_title: 25
 usc_section: "788h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 788h"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.855Z"
+status: "active"
 ---
 
-# § 788h. Omitted
+# § 788h. Rules and regulations
+
+The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 788e to 788h of this title, including an appropriate deadline for filing applications for enrollment.
 

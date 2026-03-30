@@ -3,9 +3,10 @@ title: "Section 641 - Applicability of chapter"
 usc_title: 10
 usc_section: "641"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 641"
-generated_at: "2026-03-30T02:53:38.070Z"
+generated_at: "2026-03-30T03:04:17.227Z"
+status: "active"
 ---
 
 # § 641. Applicability of chapter
@@ -14,9 +15,10 @@ Officers in the following categories are not subject to this chapter (other than
 
   - **(1)** Reserve officers—
     - **(A)** on active duty authorized under section 115(a)(1)(B) or 115(b)(1) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title ;
-    - **(B)** on active duty under section 7038, 8083, 8084, 9038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32 ; or
+    - **(B)** on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32 ; or
     - **(C)** on full-time National Guard duty.
   - **(2)** The director of admissions, dean, and permanent professors at the United States Military Academy, the registrar, dean, and permanent professors at the United States Air Force Academy, and permanent professors of the Navy (as defined in regulations prescribed by the Secretary of the Navy).
   - **(3)** Warrant officers.
   - **(4)** Retired officers on active duty.
   - **(5)** Students at the Uniformed Services University of the Health Sciences.
+  - **(6)** Officers appointed pursuant to an agreement under section 329 of title 37 .

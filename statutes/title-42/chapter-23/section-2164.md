@@ -3,9 +3,10 @@ title: "Section 2164 - International cooperation"
 usc_title: 42
 usc_section: "2164"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2164"
-generated_at: "2026-03-30T02:56:11.153Z"
+generated_at: "2026-03-30T03:06:22.658Z"
+status: "active"
 ---
 
 # § 2164. International cooperation
@@ -22,11 +23,11 @@ generated_at: "2026-03-30T02:56:11.153Z"
   - **(2)** the training of personnel in the employment of and defense against atomic weapons and other military applications of atomic energy;
   - **(3)** the evaluation of the capabilities of potential enemies in the employment of atomic weapons and other military applications of atomic energy; and
   - **(4)** the development of compatible delivery systems for atomic weapons;
-- **(c)** In addition to the cooperation authorized in subsections (a) and (b), the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
+- **(c)** In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
   - **(1)** to exchange with that nation Restricted Data concerning atomic weapons: Provided , That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
   - **(2)** to communicate or exchange with that nation Restricted Data concerning research, development, or design, of military reactors,
 - **(d)**
-  - **(1)** In addition to the cooperation authorized in subsections (a), (b), and (c), the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title , as is necessary for—
+  - **(1)** In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title , as is necessary for—
     - **(A)** the support of a program for the control of and accounting for fissile material and other weapons material;
     - **(B)** the support of the control of and accounting for atomic weapons;
     - **(C)** the verification of a treaty; and
@@ -35,4 +36,4 @@ generated_at: "2026-03-30T02:56:11.153Z"
     - **(A)** will promote the common defense and security interests of the United States and the nation concerned; and
     - **(B)** will not constitute an unreasonable risk to such common defense and security interests.
   - **(3)** Cooperation under this subsection shall be undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title .
-- **(e)** The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d), such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
+- **(e)** The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.

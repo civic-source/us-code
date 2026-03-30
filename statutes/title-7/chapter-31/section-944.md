@@ -1,0 +1,15 @@
+---
+title: "Section 944 - Governor of telephone bank; functions, powers, and duties"
+usc_title: 7
+usc_section: "944"
+chapter: 31
+current_through: "PL 113-21"
+classification: "7 U.S.C. § 944"
+generated_at: "2026-03-30T03:04:20.910Z"
+status: "active"
+---
+
+# § 944. Governor of telephone bank; functions, powers, and duties
+
+Subject to the provisions of section 950 of this title , the Secretary shall designate an official of the Department of Agriculture who shall serve as the chief executive officer of the telephone bank (herein called the Governor of the telephone bank). Except as to matters specifically reserved to the Telephone Bank Board in this subchapter, the Governor of the telephone bank shall exercise and perform all functions, powers, and duties of the telephone bank.
+

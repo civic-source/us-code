@@ -3,15 +3,16 @@ title: "Section 3519a - Separation pay program for voluntary separation from ser
 usc_title: 50
 usc_section: "3519a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3519a"
-generated_at: "2026-03-30T02:56:26.255Z"
+generated_at: "2026-03-30T03:06:37.697Z"
+status: "active"
 ---
 
 # § 3519a. Separation pay program for voluntary separation from service
 
 - **(a)** For purposes of this section—
-  - **(1)** the term “Director” means the Director of the Central Intelligence Agency; and
+  - **(1)** the term “Director” means the Director of the Central Intelligence Agency; 1 1 So in original. Probably should be followed by “and”.
   - **(2)** the term “employee” means an employee of the Central Intelligence Agency, serving under an appointment without time limitation, who has been currently employed for a continuous period of at least 12 months, except that such term does not include—
     - **(A)** a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
     - **(B)** an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
@@ -33,5 +34,5 @@ generated_at: "2026-03-30T02:56:26.255Z"
   - **(4)** shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595 of title 5 based on any other separation.
 - **(f)** The Director shall prescribe such regulations as may be necessary to carry out this section.
 - **(g)**
-  - **(1)** The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d).
+  - **(1)** The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d) of this section.
   - **(2)** At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.

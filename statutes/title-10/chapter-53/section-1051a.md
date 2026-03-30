@@ -1,12 +1,28 @@
 ---
-title: "Section 1051a - Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1) , Dec. 23, 2016 , 130 Stat. 2516 ]"
+title: "Section 1051a - Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses"
 usc_title: 10
 usc_section: "1051a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1051a"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-03-30T03:04:17.240Z"
+status: "active"
 ---
 
-# [§§ 1050a to 1051a. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1) , Dec. 23, 2016 , 130 Stat. 2516 ]
+# § 1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses
 
+- **(a)** The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a military operation with the United States while the liaison officer is assigned temporarily as follows:
+  - **(1)** To the headquarters of a combatant command, component command, or subordinate operational command of the United States in connection with the planning for, or conduct of, a military operation.
+  - **(2)** To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.
+- **(b)**
+  - **(1)** The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer to the headquarters of a combatant command as described in subsection (a), if the assignment is requested by the commander of the combatant command.
+  - **(2)** Expenses of a liaison officer that may be paid under paragraph (1) in connection with an assignment described in that paragraph are the following:
+    - **(A)** Travel and subsistence expenses.
+    - **(B)** Personal expenses directly necessary to carry out the duties of that officer in connection with that assignment.
+    - **(C)** Expenses for medical care at a civilian medical facility if—
+      - **(i)** adequate medical care is not available to the liaison officer at a local military medical treatment facility;
+      - **(ii)** the Secretary determines that payment of such medical expenses is necessary and in the best interests of the United States; and
+      - **(iii)** medical care is not otherwise available to the liaison officer pursuant to any treaty or other international agreement.
+  - **(3)** The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.
+- **(c)** To the extent that the Secretary determines appropriate, the Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients.
+- **(d)** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, and computer support.

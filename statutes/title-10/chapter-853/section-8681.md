@@ -1,0 +1,16 @@
+---
+title: "Section 8681 - Presentation of United States flag upon retirement"
+usc_title: 10
+usc_section: "8681"
+chapter: 853
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 8681"
+generated_at: "2026-03-30T03:04:17.327Z"
+status: "active"
+---
+
+# § 8681. Presentation of United States flag upon retirement
+
+- **(a)** Upon the release of a member of the Air Force from active duty for retirement, the Secretary of the Air Force shall present a United States flag to the member.
+- **(b)** A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
+- **(c)** The presentation of a flag under this section shall be at no cost to the recipient.

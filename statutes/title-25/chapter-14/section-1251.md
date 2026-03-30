@@ -1,12 +1,15 @@
 ---
-title: "Section 1251 - Omitted"
+title: "Section 1251 - Distribution of funds; attorney fees and expenses"
 usc_title: 25
 usc_section: "1251"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1251"
-generated_at: "2026-03-30T02:54:52.814Z"
+generated_at: "2026-03-30T03:05:02.862Z"
+status: "active"
 ---
 
-# § 1251. Omitted
+# § 1251. Distribution of funds; attorney fees and expenses
+
+The funds appropriated to the credit of the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana, in satisfaction of judgments awarded in paragraphs 7 and 10 in docket numbered 50233, United States Court of Claims, including interest thereon, after payment of attorneys fees and other litigation expenses, shall be used as follows: 85 per centum thereof shall be distributed in equal per capita shares to each person who is enrolled or entitled to be enrolled on March 17, 1972 ; the remainder may be advanced, expended, invested or reinvested for any purposes that are authorized by the tribal governing body and approved by the Secretary of the Interior.
 

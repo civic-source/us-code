@@ -1,12 +1,15 @@
 ---
-title: "Section 62 - Transferred"
+title: "Section 62 - Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate"
 usc_title: 2
 usc_section: "62"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 62"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.398Z"
+status: "active"
 ---
 
-# § 62. Transferred
+# § 62. Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate
+
+The Sergeant at Arms and Doorkeeper of the Senate shall receive, directly or indirectly, no fees or other compensation or emolument whatever for performing the duties of the office, or in connection therewith, other than the salary prescribed by law.
 

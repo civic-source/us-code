@@ -3,12 +3,13 @@ title: "Section 906a - Use of funds outside the United States or its territories
 usc_title: 7
 usc_section: "906a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 906a"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-03-30T03:04:20.907Z"
+status: "active"
 ---
 
 # § 906a. Use of funds outside the United States or its territories prohibited
 
-No funds provided under the Rural Electrification Act of 1936, as amended [ 7 U.S.C. 901 et seq.], shall be used outside the United States or any of its territories.
+No funds provided under this chapter shall be used outside the United States or any of its territories.
 

@@ -3,9 +3,10 @@ title: "Section 61 - Estimates for personal services in Indian Office"
 usc_title: 25
 usc_section: "61"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 61"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-03-30T03:05:02.822Z"
+status: "active"
 ---
 
 # § 61. Estimates for personal services in Indian Office

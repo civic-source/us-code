@@ -3,9 +3,10 @@ title: "Section 4306 - Application of section 4303 protections to production of 
 usc_title: 15
 usc_section: "4306"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4306"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-03-30T03:04:31.225Z"
+status: "active"
 ---
 
 # § 4306. Application of section 4303 protections to production of products, processes, and services

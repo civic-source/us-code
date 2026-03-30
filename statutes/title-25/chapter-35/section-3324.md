@@ -3,9 +3,10 @@ title: "Section 3324 - Critical area service agreements"
 usc_title: 25
 usc_section: "3324"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3324"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-03-30T03:05:02.906Z"
+status: "active"
 ---
 
 # § 3324. Critical area service agreements
@@ -18,13 +19,13 @@ generated_at: "2026-03-30T02:54:52.851Z"
 - **(b)** The tribe or tribal organization shall agree that a student performing services under a critical area service agreement—
   - **(1)** shall be provided compensation, benefits, and working conditions at the same level and to the same extent as any other employee working a similar length of time and doing the same type of work;
   - **(2)** may be treated as providing services to the tribe or organization if the student provides services for members of the tribe or organization that are approved by the tribe or organization and agreed to by the student even though such services are performed while the student is employed by a Federal, State, or local agency or instrumentality or by a nonprofit or for-profit private institution or organization; and
-  - **(3)** may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c).
+  - **(3)** may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c) of this section.
 - **(c)**
   - **(1)** An Indian tribe or tribal organization may, by formal action, waive the service agreement of an Indian student for just cause, as determined in accordance with regulations prescribed by the Secretary. The tribe or organization shall notify the Secretary in writing of any waiver granted under this subsection.
   - **(2)** The obligation of a student to perform services under a critical area service agreement—
     - **(A)** shall be suspended for not more than 18 months if, at the request of the student, the tribe or organization determines that there are no employment opportunities available in any critical service area; and
     - **(B)** shall be suspended if the student ceases to attend an institution of higher education as a consequence of an institutional determination of unsatisfactory performance.
-- **(d)** The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A).
+- **(d)** The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) of this section in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A) of this section.
 - **(e)** An Indian tribe or tribal organization receiving services under a critical area service agreement—
   - **(1)** shall establish procedures for monitoring and evaluating the provisions of this subchapter, and provide a copy of such procedures to the Secretary and to each individual providing services under a critical area service agreement;
   - **(2)** shall annually certify to the Secretary the identities of the individuals performing service under such agreements; and

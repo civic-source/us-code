@@ -3,18 +3,19 @@ title: "Section 4301 - Definitions"
 usc_title: 5
 usc_section: "4301"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 4301"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-03-30T03:04:06.072Z"
+status: "active"
 ---
 
 # § 4301. Definitions
 
-Except as otherwise expressly provided, for the purpose of this subchapter—
+For the purpose of this subchapter—
 
   - **(1)** “agency” means—
     - **(A)** an Executive agency; and
-    - **(B)** the Government Publishing Office;
+    - **(B)** the Government Printing Office;
       - **(i)** a Government corporation;
       - **(ii)** the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, or any Executive agency or unit thereof which is designated by the President and the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
       - **(iii)** the Government Accountability Office;

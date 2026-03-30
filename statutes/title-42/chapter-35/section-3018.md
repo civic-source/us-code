@@ -3,43 +3,38 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-03-30T03:06:22.675Z"
+status: "active"
 ---
 
 # § 3018. Reports to Congress
 
 - **(a)** Not later than one hundred and twenty days after the close of each fiscal year, the Assistant Secretary shall prepare and submit to the President and to the Congress a full and complete report on the activities carried out under this chapter. Such annual reports shall include—
   - **(1)** statistical data reflecting services and activities provided to individuals during the preceding fiscal year;
-  - **(2)** statistical data collected under section 3012(a)(16) of this title ;
+  - **(2)** statistical data collected under section 3012(a)(19) 1 1 See References in Text note below. of this title;
   - **(3)** statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
-  - **(4)** a description of the implementation of the plan required by section 3012(a)(14) of this title .
+  - **(4)** a description of the implementation of the plan required by section 3012(a)(17) 1 of this title.
 - **(b)**
   - **(1)** Not later than March 1 of each year, the Assistant Secretary shall compile a report—
-    - **(A)** summarizing and analyzing the data collected under subchapters III and XI in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
+    - **(A)** summarizing and analyzing the data collected under subchapters III and XI of this chapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
     - **(B)** identifying significant problems and issues revealed by such data (with special emphasis on problems relating to quality of care and residents’ rights);
     - **(C)** discussing current issues concerning the long-term care ombudsman programs of the States; and
     - **(D)** making recommendations regarding legislation and administrative actions to resolve such problems.
   - **(2)** The Assistant Secretary shall submit the report required by paragraph (1) to—
     - **(A)** the Special Committee on Aging of the Senate;
-    - **(B)** the Committee on Education and Labor of the House of Representatives; and
+    - **(B)** the Committee on Education and the Workforce of the House of Representatives; and
     - **(C)** the Committee on Health, Education, Labor, and Pensions of the Senate.
-  - **(3)** The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI in accordance with section 3058g(h)(1) of this title available, to—
-    - **(A)** the Administrator of the Centers for Medicare & Medicaid Services;
+  - **(3)** The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI of this chapter in accordance with section 3058g(h)(1) of this title available, to—
+    - **(A)** the Administrator of the Health Care Finance Administration;
     - **(B)** the Office of the Inspector General of the Department of Health and Human Services;
     - **(C)** the Office of Civil Rights of the Department of Health and Human Services;
     - **(D)** the Secretary of Veterans Affairs; and
-    - **(E)** each public agency or private organization designated as an Office of the State Long-Term Care Ombudsman under subchapter III or XI in accordance with section 3058g(a)(4)(A) of this title .
-- **(c)** The Assistant Secretary shall, as part of the annual report submitted under subsection (a), prepare and submit a report on the outreach activities supported under this chapter, together with such recommendations as the Assistant Secretary deems appropriate. In carrying out this subsection, the Assistant Secretary shall consider—
+    - **(E)** each public agency or private organization designated as an Office of the State Long-Term Care Ombudsman under subchapter III or XI of this chapter in accordance with section 3058g(a)(4)(A) of this title .
+- **(c)** The Assistant Secretary shall, as part of the annual report submitted under subsection (a) of this section, prepare and submit a report on the outreach activities supported under this chapter, together with such recommendations as the Assistant Secretary deems appropriate. In carrying out this subsection, the Assistant Secretary shall consider—
   - **(1)** the number of older individuals reached through the activities;
   - **(2)** the dollar amount of the assistance and benefits received by older individuals as a result of such activities;
   - **(3)** the cost of such activities in terms of the number of individuals reached and the dollar amount described in paragraph (2);
   - **(4)** the effect of such activities on supportive services and nutrition services furnished under subchapter III of this chapter; and
   - **(5)** the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas) to receive services under this chapter.
-- **(d)** The Assistant Secretary shall provide the evaluation required under section 3017(b) of this title to—
-  - **(1)** the Committee on Health, Education, Labor, and Pensions of the Senate;
-  - **(2)** the Committee on Appropriations of the Senate;
-  - **(3)** the Special Committee on Aging of the Senate;
-  - **(4)** the Committee on Education and Labor of the House of Representatives; and
-  - **(5)** the Committee on Appropriations of the House of Representatives.

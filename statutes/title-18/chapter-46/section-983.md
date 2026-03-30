@@ -3,9 +3,10 @@ title: "Section 983 - General rules for civil forfeiture proceedings"
 usc_title: 18
 usc_section: "983"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 983"
-generated_at: "2026-03-30T02:54:16.477Z"
+generated_at: "2026-03-30T03:04:41.092Z"
+status: "active"
 ---
 
 # § 983. General rules for civil forfeiture proceedings
@@ -154,7 +155,7 @@ generated_at: "2026-03-30T02:54:16.477Z"
     - **(A)** the Tariff Act of 1930 or any other provision of law codified in title 19;
     - **(B)** the Internal Revenue Code of 1986;
     - **(C)** the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.);
-    - **(D)** the Trading with the Enemy Act ( 50 U.S.C. 4301 et seq.), the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), or the North Korea Sanctions Enforcement Act of 2016; 1 1 See References in Text note below. or
+    - **(D)** the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) ( 50 U.S.C. 1701 et seq.); or
     - **(E)** section 1 of title VI of the Act of June 15, 1917 ( 40 Stat. 233 ; 22 U.S.C. 401 ).
 - **(j)**
   - **(1)** Upon application of the United States, the court may enter a restraining order or injunction, require the execution of satisfactory performance bonds, create receiverships, appoint conservators, custodians, appraisers, accountants, or trustees, or take any other action to seize, secure, maintain, or preserve the availability of property subject to civil forfeiture—

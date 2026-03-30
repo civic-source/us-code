@@ -3,9 +3,10 @@ title: "Section 291 - Special rules relating to corporate preference items"
 usc_title: 26
 usc_section: "291"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 291"
-generated_at: "2026-03-30T02:55:27.663Z"
+generated_at: "2026-03-30T03:05:18.570Z"
+status: "active"
 ---
 
 # § 291. Special rules relating to corporate preference items
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:55:27.663Z"
 - **(c)** For purposes of this subtitle—
   - **(1)** Section 168 shall apply with respect to that portion of the basis of any property not taken into account under section 169 by reason of subsection (a)(4).
   - **(2)** Subsection (a)(1) shall not apply to any section 1250 property which is part of a certified pollution control facility (within the meaning of section 169(d)(1)) with respect to which an election under section 169 was made.
-- **(d)** In the case of a real estate investment trust (as defined in section 856), the difference between the amounts described in subparagraphs (A) and (B) of subsection (a)(1) shall be reduced to the extent that a capital gain dividend (as defined in section 857(b)(3)(C), 1 1 See References in Text note below. applied without regard to this section) is treated as paid out of such difference. Any capital gain dividend treated as having been paid out of such difference to a shareholder which is an applicable corporation retains its character in the hands of the shareholder as gain from the disposition of section 1250 property for purposes of applying subsection (a)(1) to such shareholder.
+- **(d)** In the case of a real estate investment trust (as defined in section 856), the difference between the amounts described in subparagraphs (A) and (B) of subsection (a)(1) shall be reduced to the extent that a capital gain dividend (as defined in section 857(b)(3)(C), applied without regard to this section) is treated as paid out of such difference. Any capital gain dividend treated as having been paid out of such difference to a shareholder which is an applicable corporation retains its character in the hands of the shareholder as gain from the disposition of section 1250 property for purposes of applying subsection (a)(1) to such shareholder.
 - **(e)** For purposes of this section—
   - **(1)** The term “financial institution preference item” includes the following:
     - **[(A)**

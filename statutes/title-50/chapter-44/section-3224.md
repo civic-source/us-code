@@ -3,9 +3,10 @@ title: "Section 3224 - Intelligence officer training program"
 usc_title: 50
 usc_section: "3224"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3224"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-03-30T03:06:37.693Z"
+status: "active"
 ---
 
 # § 3224. Intelligence officer training program
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
     - **(C)** Laboratory equipment or improvements.
     - **(D)** Faculty research.
 - **(c)**
-  - **(1)** The Director may provide grants to historically black colleges and universities, Predominantly Black Institutions, Hispanic-serving institutions, and Asian American and Native American Pacific Islander-serving institutions to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
+  - **(1)** The Director may provide grants to historically black colleges and universities to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
   - **(2)** A grant provided under paragraph (1) may be used to provide programs of study in the following educational disciplines:
     - **(A)** Intermediate and advanced foreign languages deemed in the immediate interest of the intelligence community, including Farsi, Pashto, Middle Eastern, African, and South Asian dialects.
     - **(B)** Study abroad programs and cultural immersion programs.
@@ -35,10 +36,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(1)** The term “Director” means the Director of National Intelligence.
   - **(2)** The term “historically black college and university” has the meaning given the term “part B institution” in section 1061 of title 20 .
   - **(3)** The term “institution of higher education” has the meaning given the term in section 1001 of title 20 .
-  - **(4)** The term “Predominantly Black Institution” has the meaning given the term in section 1059e of title 20 .
-  - **(5)** The term “Hispanic-serving institution” has the meaning given that term in section 1101a(a)(5) of title 20 .
-  - **(6)** The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given that term in section 1059g(b)(2) of title 20 .
-  - **(7)** The term “study abroad program” means a program of study that—
-    - **(A)** takes place outside the geographical boundaries of the United States;
+  - **(4)** The term “study abroad program” means a program of study that—
+    - **(A)** takes places 1 1 So in original. Probably should be “takes place”. outside the geographical boundaries of the United States;
     - **(B)** focuses on areas of the world that are critical to the national security interests of the United States and are generally underrepresented in study abroad programs at institutions of higher education, including Africa, Asia, Central and Eastern Europe, Eurasia, Latin America, and the Middle East; and
     - **(C)** is a credit or noncredit program.

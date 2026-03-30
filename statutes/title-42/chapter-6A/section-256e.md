@@ -3,21 +3,22 @@ title: "Section 256e - Program of payments to children’s hospitals that operat
 usc_title: 42
 usc_section: "256e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 256e"
-generated_at: "2026-03-30T02:56:10.718Z"
+generated_at: "2026-03-30T03:06:22.323Z"
+status: "active"
 ---
 
 # § 256e. Program of payments to children’s hospitals that operate graduate medical education programs
 
-- **(a)** The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+- **(a)** The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005 and each of fiscal years 2007 through 2011, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 - **(b)**
   - **(1)** Subject to paragraphs (2) and (3), the amounts payable under this section to a children’s hospital for an approved graduate medical residency training program for a fiscal year are each of the following amounts:
-    - **(A)** The amount determined under subsection (c) for direct expenses associated with operating approved graduate medical residency training programs.
-    - **(B)** The amount determined under subsection (d) for indirect expenses associated with the treatment of more severely ill patients and the additional costs relating to teaching residents in such programs.
+    - **(A)** The amount determined under subsection (c) of this section for direct expenses associated with operating approved graduate medical residency training programs.
+    - **(B)** The amount determined under subsection (d) of this section for indirect expenses associated with the treatment of more severely ill patients and the additional costs relating to teaching residents in such programs.
   - **(2)**
-    - **(A)** The total of the payments made to children’s hospitals under paragraph (1)(A) or paragraph (1)(B) in a fiscal year shall not exceed the funds appropriated under paragraph (1) or (2), respectively, of subsection (f) for such payments for that fiscal year.
-    - **(B)** If the Secretary determines that the amount of funds appropriated under subsection (f)(1) for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
+    - **(A)** The total of the payments made to children’s hospitals under paragraph (1)(A) or paragraph (1)(B) in a fiscal year shall not exceed the funds appropriated under paragraph (1) or (2), respectively, of subsection (f) of this section for such payments for that fiscal year.
+    - **(B)** If the Secretary determines that the amount of funds appropriated under subsection (f)(1) of this section for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
   - **(3)**
     - **(A)**
       - **(i)** The amount payable under this section to a children’s hospital for a fiscal year (beginning with fiscal year 2008 and after taking into account paragraph (2)) shall be reduced by 25 percent if the Secretary determines that—
@@ -35,7 +36,7 @@ generated_at: "2026-03-30T02:56:10.718Z"
     - **(C)** The residents described in this subparagraph are those who—
       - **(i)** are in full-time equivalent resident training positions in any training program sponsored by the hospital; or
       - **(ii)** are in a training program sponsored by an entity other than the hospital, but who spend more than 75 percent of their training time at the hospital.
-    - **(D)** Not later than the end of fiscal year 2018, and the end of fiscal year 2022, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+    - **(D)** Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
       - **(i)** summarizing the information submitted in reports to the Secretary under subparagraph (B);
       - **(ii)** describing the results of the program carried out under this section; and
       - **(iii)** making recommendations for improvements to the program.
@@ -60,44 +61,25 @@ generated_at: "2026-03-30T02:56:10.718Z"
   - **(1)** The amount determined under this subsection for payments to a children’s hospital for indirect expenses associated with the treatment of more severely ill patients and the additional costs associated with the teaching of residents for a fiscal year is equal to an amount determined appropriate by the Secretary.
   - **(2)** In determining the amount under paragraph (1), the Secretary shall—
     - **(A)** take into account variations in case mix among children’s hospitals and the ratio of the number of full-time equivalent residents in the hospitals’ approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
-    - **(B)** assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2).
+    - **(B)** assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2) of this section.
 - **(e)**
   - **(1)** The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital’s most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital’s most recently completed Medicare cost report filing period.
   - **(2)** The Secretary shall withhold up to 25 percent from each interim installment for direct and indirect graduate medical education paid under paragraph (1) as necessary to ensure a hospital will not be overpaid on an interim basis.
   - **(3)** Prior to the end of each fiscal year, the Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made and pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395 oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 1 1 See References in Text note below. of this title is subject to review under such section.
 - **(f)**
   - **(1)**
-    - **(A)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A)—
+    - **(A)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A) of this section—
       - **(i)** for fiscal year 2000, $90,000,000;
       - **(ii)** for fiscal year 2001, $95,000,000;
-      - **(iii)** for each of the fiscal years 2002 through 2005, such sums as may be necessary;
-      - **(iv)** for each of fiscal years 2007 through 2011, $110,000,000;
-      - **(v)** for each of fiscal years 2014 through 2018, $100,000,000; and
-      - **(vi)** for each of fiscal years 2019 through 2023, $105,000,000.
+      - **(iii)** for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+      - **(iv)** for each of fiscal years 2007 through 2011, $110,000,000.
     - **(B)** The amounts appropriated under subparagraph (A) for fiscal year 2000 shall remain available for obligation through the end of fiscal year 2001.
-  - **(2)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B)—
+  - **(2)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B) of this section—
     - **(A)** for fiscal year 2000, $190,000,000;
     - **(B)** for fiscal year 2001, $190,000,000;
-    - **(C)** for each of the fiscal years 2002 through 2005, such sums as may be necessary;
-    - **(D)** for each of fiscal years 2007 through 2011, $220,000,000;
-    - **(E)** for each of fiscal years 2014 through 2018, $200,000,000; and
-    - **(F)** for each of fiscal years 2019 through 2023, $220,000,000.
+    - **(C)** for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+    - **(D)** for each of fiscal years 2007 through 2011, $220,000,000.
 - **(g)** In this section:
   - **(1)** The term “approved graduate medical residency training program” has the meaning given the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title .
   - **(2)** The term “children’s hospital” means a hospital with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
   - **(3)** The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title .
-- **(h)**
-  - **(1)** The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
-  - **(2)**
-    - **(A)** To qualify to receive payments under paragraph (1), a hospital shall be a free-standing hospital—
-      - **(i)** with a Medicare payment agreement and that is excluded from the Medicare inpatient hospital prospective payment system pursuant to section 1395ww(d)(1)(B) of this title and its accompanying regulations;
-      - **(ii)** whose inpatients are predominantly individuals under 18 years of age;
-      - **(iii)** that has an approved medical residency training program as defined in section 1395ww(h)(5)(A) of this title ; and
-      - **(iv)** that is not otherwise qualified to receive payments under this section or section 1395ww(h) of this title .
-    - **(B)** In the case of a freestanding children’s hospital that, on April 7, 2014 , meets the requirements of subparagraph (A) but for which the Secretary has not determined an average number of full-time equivalent residents under section 1395ww(h)(4) of this title , the Secretary may establish such number of full-time equivalent residents for the purposes of calculating payments under this subsection.
-  - **(3)** Payments to hospitals made under this subsection shall be made in the same manner as payments are made to children’s hospitals, as described in subsections (b) through (e).
-  - **(4)** The direct and indirect payment amounts under this subsection shall be determined using per resident amounts that are no greater than the per resident amounts used for determining direct and indirect payment amounts under subsection (a).
-  - **(5)** A hospital receiving payments under this subsection shall be subject to the reporting requirements under subsection (b)(3).
-  - **(6)**
-    - **(A)** If the payments to qualified hospitals under paragraph (1) for a fiscal year are less than the total amount made available under such paragraph for that fiscal year, any remaining amounts for such fiscal year may be made available to all hospitals participating in the program under this subsection or subsection (a).
-    - **(B)** For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.

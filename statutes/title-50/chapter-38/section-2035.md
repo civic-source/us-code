@@ -3,14 +3,15 @@ title: "Section 2035 - Retirement annuity for certain former spouses"
 usc_title: 50
 usc_section: "2035"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2035"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-03-30T03:06:37.651Z"
+status: "active"
 ---
 
 # § 2035. Retirement annuity for certain former spouses
 
-- **(a)** An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982 , and any former spouse divorced after November 15, 1982 , from a participant or former participant who retired before November 15, 1982 , shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to an annuity—
+- **(a)** An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982 , and any former spouse divorced after November 15, 1982 , from a participant or former participant who retired before November 15, 1982 , shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
   - **(1)** if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
   - **(2)** if not married to the participant throughout such creditable service, equal to that former spouse’s pro rata share of 50 percent of such annuity.
 - **(b)** A former spouse is not entitled to an annuity under this section if—
@@ -32,5 +33,5 @@ generated_at: "2026-03-30T02:56:26.217Z"
   - **(4)**
     - **(A)** An annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require, not later than June 2, 1990 . The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
     - **(B)** Upon approval of an application under subparagraph (A), the appropriate annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987 .
-- **(d)** Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
+- **(d)** Notwithstanding subsection (c)(4)(A) of this section, the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B) of this section.
 - **(e)** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.

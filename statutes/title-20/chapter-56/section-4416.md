@@ -3,9 +3,10 @@ title: "Section 4416 - Staff of Institute"
 usc_title: 20
 usc_section: "4416"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 4416"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-03-30T03:04:46.322Z"
+status: "active"
 ---
 
 # § 4416. Staff of Institute
@@ -30,12 +31,12 @@ generated_at: "2026-03-30T02:54:48.184Z"
 - **(d)** Individuals who elect to remain civil service employees shall be transferred in accordance with applicable laws and regulations relating to the transfer of functions and personnel, except that any such transfer shall not result in a reduction in classification or compensation with respect to any such individual for at least one year after the date on which such transfer occurs.
 - **(e)**
   - **(1)** Any individual who—
-    - **(A)** elects under subsection (g) to be covered under the provisions of this section, or
+    - **(A)** elects under subsection (g) of this section to be covered under the provisions of this section, or
     - **(B)** is an employee of the Federal Government and is transferred or reappointed, without a break in service, from a position under a different leave system to the Institute,
-  - **(2)** Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) shall not be so liquidated.
-  - **(3)** In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
+  - **(2)** Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
+  - **(3)** In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) of this section shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
 - **(f)**
-  - **(1)** This section shall apply to any individual appointed after October 17, 1986 , for employment in the Institute. Except as provided in subsections (d) and (g), the enactment of this chapter shall not affect—
+  - **(1)** This section shall apply to any individual appointed after October 17, 1986 , for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
     - **(A)** the continued employment of any individual employed before October 17, 1986 ; or
     - **(B)** such individual’s right to receive the compensation attached to such position.
   - **(2)** This section shall not apply to an individual whose services are procured by the Institute pursuant to a written procurement contract.

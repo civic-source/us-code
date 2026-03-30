@@ -3,9 +3,10 @@ title: "Section 17231 - Energy storage competitiveness"
 usc_title: 42
 usc_section: "17231"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17231"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-03-30T03:06:22.990Z"
+status: "active"
 ---
 
 # § 17231. Energy storage competitiveness
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
     - **(C)** The Secretary shall select a Chairperson for the Council from among the members appointed under subparagraph (A).
   - **(3)**
     - **(A)** The Council shall meet not less than once a year.
-    - **(B)** Chapter 10 of title 5 shall apply to a meeting of the Council.
+    - **(B)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to a meeting of the Council.
   - **(4)** No later than 1 year after December 19, 2007 , and every 5 years thereafter, the Council, in conjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
   - **(5)** The Council shall—
     - **(A)** assess, every 2 years, the performance of the Department in meeting the goals of the plans developed under paragraph (4); and
@@ -115,80 +116,17 @@ generated_at: "2026-03-30T02:56:11.501Z"
     - **(D)** New technologies and processes that reduce manufacturing costs.
     - **(E)** Integration of advanced vehicle technologies with electricity distribution system and smart metering technology.
     - **(F)** Control systems that minimize emissions profiles in cases in which clean diesel engines are part of a plug-in hybrid drive system.
-- **(k)**
-  - **(1)** In this subsection:
-    - **(A)** The term “battery recycling and second-life applications program” means the electric drive vehicle battery recycling and second-life applications program established under paragraph (3).
-    - **(B)** The term “critical material” has the meaning given the term in section 1606(a) of title 30 .
-    - **(C)** The term “economically distressed area” means an area described in section 3161(a) of this title .
-    - **(D)** The term “electric drive 2 2 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
-    - **(E)** The term “eligible entity” means an entity described in any of paragraphs (1) through (5) of section 16353(b) of this title .
-  - **(2)** The Secretary shall carry out a program of research, development, and demonstration of—
-    - **(A)** second-life applications for electric drive vehicle batteries that have been used to power electric drive vehicles; and
-    - **(B)** technologies and processes for final recycling and disposal of the devices described in subparagraph (A).
-  - **(3)**
-    - **(A)** In carrying out the program under paragraph (2), the Secretary shall establish an electric drive vehicle battery recycling and second-life applications program under which the Secretary shall—
-      - **(i)** award grants under subparagraph (D); and
-      - **(ii)** carry out other activities in accordance with this paragraph.
-    - **(B)** The purposes of the battery recycling and second-life applications program are the following:
-      - **(i)** To improve the recycling rates and second-use adoption rates of electric drive vehicle batteries.
-      - **(ii)** To optimize the design and adaptability of electric drive vehicle batteries to make electric drive vehicle batteries more easily recyclable.
-      - **(iii)** To establish alternative supply chains for critical materials that are found in electric drive vehicle batteries.
-      - **(iv)** To reduce the cost of manufacturing, installation, purchase, operation, and maintenance of electric drive vehicle batteries.
-      - **(v)** To improve the environmental impact of electric drive vehicle battery recycling processes.
-    - **(C)** In carrying out the battery recycling and second-life applications program, the Secretary shall address near-term (up to 2 years), mid-term (up to 5 years), and long-term (up to 10 years) challenges to the recycling of electric drive vehicle batteries.
-    - **(D)**
-      - **(i)** In carrying out the battery recycling and second-life applications program, the Secretary shall award multiyear grants on a competitive, merit-reviewed basis to eligible entities—
-        - **(I)** to conduct research, development, testing, and evaluation of solutions to increase the rate and productivity of electric drive vehicle battery recycling; and
-        - **(II)** for research, development, and demonstration projects to create innovative and practical approaches to increase the recycling and second-use of electric drive vehicle batteries, including by addressing—
-      - **(ii)** In awarding grants under clause (i), the Secretary shall give priority to projects that—
-        - **(I)** are located in geographically diverse regions of the United States;
-        - **(II)** include business commercialization plans that have the potential for the recycling of electric drive vehicle batteries at high volumes;
-        - **(III)** support the development of advanced manufacturing technologies that have the potential to improve the competitiveness of the United States in the international electric drive vehicle battery manufacturing sector;
-        - **(IV)** provide the greatest potential to reduce costs for consumers and promote accessibility and community implementation of demonstrated technologies;
-        - **(V)** increase disclosure and transparency of information to consumers;
-        - **(VI)** support the development or demonstration of projects in economically distressed areas; and
-        - **(VII)** support other relevant priorities, as determined to be appropriate by the Secretary.
-      - **(iii)** Not later than 90 days after November 15, 2021 , and annually thereafter, the Secretary shall conduct a national solicitation for applications for grants described in clause (i).
-      - **(iv)** The Secretary shall publish the results of the projects carried out through grants awarded under clause (i) through—
-        - **(I)** best practices relating to those grants, for use in the electric drive vehicle battery manufacturing, design, installation, refurbishing, or recycling industries;
-        - **(II)** coordination with information dissemination programs relating to general recycling of electronic devices; and
-        - **(III)** educational materials for the public, produced in conjunction with State and local governments or nonprofit organizations, on the problems and solutions relating to the recycling and second-life applications of electric drive vehicle batteries.
-    - **(E)** In carrying out the battery recycling and second-life applications program, the Secretary shall coordinate and leverage the resources of complementary efforts of the Department.
-    - **(F)**
-      - **(i)** The Secretary shall conduct a study on the viable market opportunities available for the recycling, second-use, and manufacturing of electric drive vehicle batteries in the United States.
-      - **(ii)** Not later than 1 year after November 15, 2021 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and any other relevant committee of Congress a report containing the results of the study under clause (i), including a description of—
-        - **(I)** the ability of relevant businesses or other entities to competitively manufacture electric drive vehicle batteries and recycle electric drive vehicle batteries in the United States;
-        - **(II)** any existing electric drive vehicle battery recycling and second-use practices and plans of electric drive vehicle manufacturing companies in the United States;
-        - **(III)** any barriers to electric drive vehicle battery recycling in the United States;
-        - **(IV)** opportunities and barriers in electric drive vehicle battery supply chains in the United States and internationally, including with allies and trading partners;
-        - **(V)** opportunities for job creation in the electric drive vehicle battery recycling and manufacturing fields and the necessary skills employees must acquire for growth of those fields in the United States;
-        - **(VI)** policy recommendations for enhancing electric drive vehicle battery manufacturing and recycling in the United States;
-        - **(VII)** any recommendations for lowering logistics costs and creating better coordination and efficiency with respect to the removal, collection, transportation, storage, and disassembly of electric drive vehicle batteries;
-        - **(VIII)** any recommendations for areas of coordination with other Federal agencies to improve electric drive vehicle battery recycling rates in the United States;
-        - **(IX)** an aggressive 2-year target and plan, the implementation of which shall begin during the 90-day period beginning on the date on which the report is submitted, to enhance the competitiveness of electric drive vehicle battery manufacturing and recycling in the United States; and
-        - **(X)** needs for future research, development, and demonstration projects in electric drive vehicle battery manufacturing, recycling, and related areas, as determined by the Secretary.
-    - **(G)** Not later than 3 years after the date on which the report under subparagraph (F)(ii) is submitted, and every 4 years thereafter, the Secretary shall conduct, and make available to the public and the relevant committees of Congress, an independent review of the progress of the grants awarded under subparagraph (D) in meeting the recommendations and targets included in the report.
+- **(k)** The Secretary shall carry out a program of research, development, and demonstration of—
+  - **(1)** secondary applications of energy storage devices following service in electric drive vehicles; and
+  - **(2)** technologies and processes for final recycling and disposal of the devices.
 - **(l)** The Secretary shall carry out the programs established under this section in accordance with section 16352 of this title .
 - **(m)** The Secretary shall carry out the programs established under subsections (i), (j), and (k) in accordance with section 16353 of this title .
 - **(n)** To the maximum extent practicable, the Secretary shall coordinate activities under this section with other programs and laboratories of the Department and other Federal research programs.
 - **(o)** On the business day that is 5 years after December 19, 2007 , the Secretary shall offer to enter into an arrangement with the National Academy of Sciences to assess the performance of the Department in carrying out this section.
 - **(p)** There are authorized to be appropriated to carry out—
   - **(1)** the basic research program under subsection (f) $50,000,000 for each of fiscal years 2009 through 2018;
-  - **(2)** the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 2
+  - **(2)** the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 2 2 So in original.
   - **(3)** the energy storage research center program under subsection (h) $100,000,000 for each of fiscal years 2009 through 2018;
   - **(4)** the energy storage systems demonstration program under subsection (i) $30,000,000 for each of fiscal years 2009 through 2018;
   - **(5)** the vehicle energy storage demonstration program under subsection (j) $30,000,000 for each of fiscal years 2009 through 2018; and
-  - **(6)** the electric drive vehicle battery recycling and second-life applications program under subsection (k) $200,000,000 for the period of fiscal years 2022 through 2026.
-- **(q)**
-  - **(1)** In this subsection:
-    - **(A)** The term “critical material” has the meaning given the term in 1606 of title 30.
-    - **(B)** The term “critical material recycling” means the separation and recovery of critical materials embedded within an energy storage system through physical or chemical means for the purpose of reuse of those critical materials in other technologies.
-  - **(2)** Not later than 180 days after December 27, 2020 , the Secretary shall establish a research, development, and demonstration program for critical material recycling and reuse of energy storage systems containing critical materials.
-  - **(3)** In carrying out the program established under paragraph (1), the Secretary shall conduct—
-    - **(A)** research, development, and demonstration activities for—
-      - **(i)** technologies, process improvements, and design optimizations that facilitate and promote critical material recycling of energy storage systems, including separation and sorting of component materials of such systems, and extraction, recovery, and reuse of critical materials from such systems;
-      - **(ii)** technologies and methods that mitigate emissions and environmental impacts that arise from critical material recycling, including disposal of toxic reagents and byproducts related to critical material recycling processes;
-      - **(iii)** technologies to enable extraction, recovery, and reuse of energy storage systems from electric vehicles and critical material recycling from such vehicles; and
-      - **(iv)** technologies and methods to enable the safe transport, storage, and disposal of energy storage systems containing critical materials, including waste materials and components recovered during the critical material recycling process; and
-    - **(B)** research on nontechnical barriers to improve the collection and critical material recycling of energy storage systems, including strategies to improve consumer education of, acceptance of, and participation in, the critical material recycling of energy storage systems.
-  - **(4)** Not later than 2 years after December 27, 2020 , and every 3 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report summarizing the activities, findings, and progress of the program.
+  - **(6)** the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.

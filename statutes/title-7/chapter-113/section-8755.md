@@ -3,15 +3,16 @@ title: "Section 8755 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "8755"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8755"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-03-30T03:04:21.037Z"
+status: "active"
 ---
 
 # § 8755. Producer agreement required as condition on provision of payments
 
 - **(a)**
-  - **(1)** Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 1 1 See References in Text note below. of this title, with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+  - **(1)** Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715 of this title , with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
     - **(A)** to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.);
     - **(B)** to comply with applicable wetland protection requirements under subtitle C of title XII of that Act ( 16 U.S.C. 3821 et seq.);
     - **(C)** to comply with the planting flexibility requirements of section 8756 of this title ;
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
   - **(1)** As a condition on the receipt of any benefits under this subchapter, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
   - **(2)** No penalty with respect to benefits under this subchapter shall be assessed against the producers on a farm for an inaccurate acreage report unless the producers on the farm knowingly and willfully falsified the acreage report.
 - **(d)** In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
-- **(e)** The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 1 of this title among the producers on a farm on a fair and equitable basis.
+- **(e)** The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 of this title among the producers on a farm on a fair and equitable basis.
 - **(f)**
   - **(1)** Notwithstanding any other provision of law, the Secretary shall extend the 2008 crop year deadline for the signup for benefits under this subchapter by producers on a farm with base acres of 10 acres or less until the later of—
     - **(A)** November 14, 2008 ; or

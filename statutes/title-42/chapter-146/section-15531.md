@@ -1,12 +1,15 @@
 ---
-title: "Section 15531 - Transferred"
+title: "Section 15531 - Transfer of functions of Office of Election Administration of Federal Election Commission"
 usc_title: 42
 usc_section: "15531"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15531"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-03-30T03:06:22.962Z"
+status: "active"
 ---
 
-# § 15531. Transferred
+# § 15531. Transfer of functions of Office of Election Administration of Federal Election Commission
+
+There are transferred to the Election Assistance Commission established under section 15321 of this title all functions which the Office of Election Administration, established within the Federal Election Commission, exercised before October 29, 2002 .
 

@@ -1,18 +1,19 @@
 ---
-title: "Section 142l - Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General"
+title: "Section 142l - Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General"
 usc_title: 2
 usc_section: "142l"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 142l"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-03-30T03:04:04.407Z"
+status: "active"
 ---
 
-# § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General
+# § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General
 
   - **(1)** be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting paper and the legality of the proposed payment under the appropriation or fund involved,
   - **(2)** be held responsible and accountable for the correctness of the computations of certifications made, and
   - **(3)** be held accountable for and required to make good to the United States the amount of any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate made by them, as well as for any payment prohibited by law which did not represent a legal obligation under the appropriation or fund involved: Provided , That the Comptroller General of the United States may, at his discretion, relieve such certifying officer or employee of liability for any payment otherwise proper whenever he finds
   - **(1)** that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or
-  - **(2)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: Provided further , That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions. The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Compliance. 1
+  - **(2)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: Provided further , That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions. The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Compliance.
 

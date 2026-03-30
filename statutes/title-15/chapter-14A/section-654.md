@@ -3,9 +3,10 @@ title: "Section 654 - Paul D. Coverdell drug-free workplace program"
 usc_title: 15
 usc_section: "654"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 654"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-03-30T03:04:31.136Z"
+status: "active"
 ---
 
 # § 654. Paul D. Coverdell drug-free workplace program
@@ -43,10 +44,10 @@ generated_at: "2026-03-30T02:54:08.104Z"
   - **(2)** In addition to grants under paragraph (1), the Administrator may make grants to, or enter into cooperative agreements or contracts with, any grantee for the purpose of providing, in cooperation with one or more small business development centers, technical assistance to small business concerns seeking to establish a drug-free workplace program.
   - **(3)** Each grant made under this subsection shall be for a period of 2 years, subject to an annual performance review by the Administrator.
 - **(c)**
-  - **(1)** The Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, shall provide technical assistance and information to each eligible intermediary under subsection (b) regarding the most effective practices in establishing and carrying out drug-free workplace programs.
+  - **(1)** The Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, shall provide technical assistance and information to each eligible intermediary under subsection (b) of this section regarding the most effective practices in establishing and carrying out drug-free workplace programs.
   - **(2)**
-    - **(A)** Each eligible intermediary receiving a grant under this section shall establish a system to collect and analyze information regarding the effectiveness of drug-free workplace programs established with assistance provided under this section through the intermediary, including information regarding any increase or decrease among employees in drug use, awareness of the adverse consequences of drug use, and absenteeism, injury, and disciplinary problems related to drug use. Such system shall conform to such requirements as the Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, may prescribe. Not more than 5 percent of the amount of each grant made under subsection (b) shall be used by the eligible intermediary to carry out this paragraph.
-    - **(B)** The Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, shall provide technical assistance and guidance to each eligible intermediary receiving a grant under subsection (b) regarding the collection and analysis of information to evaluate the effectiveness of drug-free workplace programs established with assistance provided under this section, including the information referred to in paragraph (1). Such assistance shall include the identification of additional information suitable for measuring the benefits of drug-free workplace programs to the small business concern and to the concern’s employees and the identification of methods suitable for analyzing such information.
+    - **(A)** Each eligible intermediary receiving a grant under this section shall establish a system to collect and analyze information regarding the effectiveness of drug-free workplace programs established with assistance provided under this section through the intermediary, including information regarding any increase or decrease among employees in drug use, awareness of the adverse consequences of drug use, and absenteeism, injury, and disciplinary problems related to drug use. Such system shall conform to such requirements as the Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, may prescribe. Not more than 5 percent of the amount of each grant made under subsection (b) of this section shall be used by the eligible intermediary to carry out this paragraph.
+    - **(B)** The Administrator, after consultation with the Director of the Center for Substance Abuse and Prevention, shall provide technical assistance and guidance to each eligible intermediary receiving a grant under subsection (b) of this section regarding the collection and analysis of information to evaluate the effectiveness of drug-free workplace programs established with assistance provided under this section, including the information referred to in paragraph (1). Such assistance shall include the identification of additional information suitable for measuring the benefits of drug-free workplace programs to the small business concern and to the concern’s employees and the identification of methods suitable for analyzing such information.
 - **(d)** Not later than 18 months after October 21, 1998 , the Administrator, in coordination with the Secretary of Labor, the Secretary of Health and Human Services, and the Director of National Drug Control Policy, shall—
   - **(1)** evaluate the drug-free workplace programs established with assistance made available under this section; and
   - **(2)** submit to Congress a report describing the results of the evaluation under paragraph (1).
@@ -57,5 +58,5 @@ generated_at: "2026-03-30T02:54:08.104Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to carry out this section (other than subsection (b)(2)), $5,000,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph shall remain available until expended.
   - **(2)** Of the total amount made available under paragraph (1) for each of fiscal years 2005 and 2006, not more than the greater of 10 percent or $500,000 may be used to carry out section 648(c)(3)(T) of this title .
-  - **(3)** There are authorized to be appropriated to carry out subsection (b)(2), $1,500,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph shall remain available until expended.
+  - **(3)** There are authorized to be appropriated to carry out subsection (b)(2) of this section, $1,500,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph shall remain available until expended.
   - **(4)** Not more than 5 percent of the total amount made available under this subsection for any fiscal year shall be used for administrative costs (determined without regard to the administrative costs of eligible intermediaries).

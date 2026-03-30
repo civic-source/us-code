@@ -3,9 +3,10 @@ title: "Section 4101 - Congressional findings"
 usc_title: 25
 usc_section: "4101"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 4101"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-03-30T03:05:02.911Z"
+status: "active"
 ---
 
 # § 4101. Congressional findings
@@ -21,4 +22,4 @@ The Congress finds that—
   - **(4)** the Congress, through treaties, statutes, and the general course of dealing with Indian tribes, has assumed a trust responsibility for the protection and preservation of Indian tribes and for working with tribes and their members to improve their housing conditions and socioeconomic status so that they are able to take greater responsibility for their own economic condition;
   - **(5)** providing affordable homes in safe and healthy environments is an essential element in the special role of the United States in helping tribes and their members to improve their housing conditions and socioeconomic status;
   - **(6)** the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
-  - **(7)** Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
+  - **(7)** Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 ( 25 U.S.C. 450 et seq.).

@@ -1,16 +1,17 @@
 ---
-title: "Section 251 - Transfer of functions"
+title: "Section 251 - Transfer of functions to Under Secretary for Border and Transportation Security"
 usc_title: 6
 usc_section: "251"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 251"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-03-30T03:04:24.342Z"
+status: "active"
 ---
 
-# § 251. Transfer of functions
+# § 251. Transfer of functions to Under Secretary for Border and Transportation Security
 
-In accordance with subchapter XII (relating to transition provisions), there shall be transferred from the Commissioner of Immigration and Naturalization to the Secretary all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs:
+In accordance with subchapter XII of this chapter (relating to transition provisions), there shall be transferred from the Commissioner of Immigration and Naturalization to the Under Secretary for Border and Transportation Security all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs:
 
   - **(1)** The Border Patrol program.
   - **(2)** The detention and removal program.

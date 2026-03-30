@@ -3,9 +3,10 @@ title: "Section 1677j - Prevention of circumvention of antidumping and counterva
 usc_title: 19
 usc_section: "1677j"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1677j"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-03-30T03:04:42.026Z"
+status: "active"
 ---
 
 # § 1677j. Prevention of circumvention of antidumping and countervailing duty orders
@@ -56,10 +57,10 @@ generated_at: "2026-03-30T02:54:24.658Z"
     - **(A)** an investigation under this subtitle,
     - **(B)** an antidumping duty order issued under section 1673e of this title ,
     - **(C)** a finding issued under the Antidumping Act, 1921, or
-    - **(D)** a countervailing duty order issued under section 1671e of this title or section 1303 1 of this title,
+    - **(D)** a countervailing duty order issued under section 1671e of this title or section 1303 2 2 See References in Text note below. of this title,
   - **(2)** Paragraph (1) shall not apply with respect to altered merchandise if the administering authority determines that it would be unnecessary to consider the altered merchandise within the scope of the investigation, order, or finding.
 - **(d)**
-  - **(1)** For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 1 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 1 of this title as a result of such investigation, the administering authority shall consider whether—
+  - **(1)** For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 2 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 2 of this title as a result of such investigation, the administering authority shall consider whether—
     - **(A)** the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
     - **(B)** the expectations of the ultimate purchasers of the later-developed merchandise are the same as for the earlier product,
     - **(C)** the ultimate use of the earlier product and the later-developed merchandise are the same,
@@ -70,9 +71,9 @@ generated_at: "2026-03-30T02:54:24.658Z"
     - **(B)** permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
 - **(e)**
   - **(1)** Before making a determination—
-    - **(A)** under subsection (a) with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
-    - **(B)** under subsection (b) with respect to merchandise completed or assembled in other foreign countries, or
-    - **(C)** under subsection (d) with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
+    - **(A)** under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+    - **(B)** under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
+    - **(C)** under subsection (d) of this section with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
   - **(2)** After receiving notice under paragraph (1), the Commission may request consultations with the administering authority regarding the inclusion. Upon the request of the Commission, the administering authority shall consult with the Commission and any such consultation shall be completed within 15 days after the date of the request.
   - **(3)** If the Commission believes, after consultation under paragraph (2), that a significant injury issue is presented by the proposed inclusion, the Commission may provide written advice to the administering authority as to whether the inclusion would be inconsistent with the affirmative determination of the Commission on which the order or finding is based. If the Commission decides to provide such written advice, it shall promptly notify the administering authority of its intention to do so, and must provide such advice within 60 days after the date of notification under paragraph (1). For purposes of formulating its advice with respect to merchandise completed or assembled in the United States from parts or components produced in a foreign country, the Commission shall consider whether the inclusion of such parts or components taken as a whole would be inconsistent with its prior affirmative determination.
 - **(f)** The administering authority shall, to the maximum extent practicable, make the determinations under this section within 300 days from the date of the initiation of a countervailing duty or antidumping circumvention inquiry under this section.

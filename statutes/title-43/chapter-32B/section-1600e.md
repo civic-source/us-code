@@ -3,9 +3,10 @@ title: "Section 1600e - Exceptions"
 usc_title: 43
 usc_section: "1600e"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1600e"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-03-30T03:06:10.678Z"
+status: "active"
 ---
 
 # § 1600e. Exceptions
@@ -21,7 +22,7 @@ Notwithstanding section 1600d of this title , the appropriate Federal officer, a
 - **(e)** any of the following actions or projects, but only if the Secretary finds that the making available of expenditures or assistance therefor is consistent with the purposes of this chapter:
   - **(1)** projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects;
   - **(2)** the establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto;
-  - **(3)** projects eligible for funding under chapter 2003 of title 54;
+  - **(3)** projects eligible for funding under the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 through 11);
   - **(4)** scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife and other research, development, and applications;
   - **(5)** assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 305 and 306 of the Disaster Relief Act of 1974 1 1 See References in Text note below. ( 42 U.S.C. 5145 and 5146) and are limited to actions that are necessary to alleviate the emergency. Disaster assistance under other provisions of the Disaster Relief Act of 1974 1 ( Public Law 93–288 , as amended) [ 42 U.S.C. 5121 et seq.] may also be provided with respect to persons residing within the Floodway, or structures or public infrastructure in existence or substantially under construction therein, on the date ninety days after October 8, 1986 : Provided , That, such persons, or with respect to public infrastructure the State or local political entity which owns or controls such infrastructure, had purchased flood insurance for structures or infrastructure under the National Flood Insurance Program, if eligible, and had taken prudent and reasonable steps, as determined by the Administrator of the Federal Emergency Management Agency, to minimize damage from future floods or operations of the Floodway established in the chapter;
   - **(6)** other assistance for public health purposes, such as mosquito abatement programs;

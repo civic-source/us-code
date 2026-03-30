@@ -1,12 +1,19 @@
 ---
-title: "Section 490 - Transferred"
+title: "Section 490 - Tribal rights and privileges in connection with loans"
 usc_title: 25
 usc_section: "490"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 490"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.841Z"
+status: "active"
 ---
 
-# § 490. Transferred
+# § 490. Tribal rights and privileges in connection with loans
+
+  - **(1)** may waive in writing any immunity from suit or liability which it may possess,
+  - **(2)** may mortgage or otherwise hypothecate trust or restricted property if
+- **(a)** authorized by its constitution or charter or by a tribal referendum, and
+- **(b)** approved by the Secretary of the Interior, and
+  - **(3)** shall comply with rules and regulations prescribed by the Secretary of Agriculture in connection with such loans.
 

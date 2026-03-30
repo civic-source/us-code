@@ -1,22 +1,29 @@
 ---
-title: "Section 16378 - Authorization of appropriations; contract authority"
+title: "Section 16378 - Funding"
 usc_title: 42
 usc_section: "16378"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16378"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-03-30T03:06:22.978Z"
+status: "active"
 ---
 
-# § 16378. Authorization of appropriations; contract authority
+# § 16378. Funding
 
-- **(a)**
-  - **(1)** There are authorized to be appropriated to the Secretary to carry out this part—
-    - **(A)** $600,000,000 for each of fiscal years 2022 and 2023; and
-    - **(B)** $300,000,000 for each of fiscal years 2024 through 2026.
-  - **(2)** Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
-  - **(3)** If the subsidy amount of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 661c(f) of title 2 .
-  - **(4)** Of the amounts made available to carry out the CIFIA program, the Secretary may use not more than $9,000,000 (as indexed for United States dollar inflation from November 15, 2021 (as measured by the Consumer Price Index)) each fiscal year for the administration of the CIFIA program.
-- **(b)**
-  - **(1)** Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the CIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
-  - **(2)** Amounts made available to carry out the CIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.
+- **(a)** For each of fiscal years 2007 through 2017, from any Federal royalties, rents, and bonuses derived from Federal onshore and offshore oil and gas leases issued under the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 et seq.) and the Mineral Leasing Act ( 30 U.S.C. 181 et seq.) which are deposited in the Treasury, and after distribution of any such funds as described in subsection (c), $50,000,000 shall be deposited into the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund (in this section referred to as the “Fund”). For purposes of this section, the term “royalties” excludes proceeds from the sale of royalty production taken in kind and royalty production that is transferred under section 27(a)(3) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1353(a)(3) ).
+- **(b)** Monies in the Fund shall be available to the Secretary for obligation under this part without fiscal year limitation, to remain available until expended.
+- **(c)** The distributions described in subsection (a) are those required by law—
+  - **(1)** to States and to the Reclamation Fund under the Mineral Leasing Act ( 30 U.S.C. 191(a) ); and
+  - **(2)** to other funds receiving monies from Federal oil and gas leasing programs, including—
+    - **(A)** any recipients pursuant to section 8(g) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1337(g) );
+    - **(B)** the Land and Water Conservation Fund, pursuant to section 460 l –5(c) of title 16;
+    - **(C)** the Historic Preservation Fund, pursuant to section 470h of title 16 ; and
+    - **(D)** the coastal impact assistance program established under section 31 of the Outer Continental Shelf Lands Act [ 43 U.S.C. 1356a ].
+- **(d)** Amounts obligated from the Fund under subsection (a)(1) in each fiscal year shall be allocated as follows:
+  - **(1)** 35 percent shall be for activities under section 16371(b)(1) of this title .
+  - **(2)** 32.5 percent shall be for activities under section 16371(b)(2) of this title .
+  - **(3)** 7.5 percent shall be for activities under section 16371(b)(3) of this title .
+  - **(4)** 25 percent shall be for complementary research under section 16371(b)(4) of this title and other activities under section 16371(b) of this title to include program direction funds, overall program oversight, contract management, and the establishment and operation of a technical committee to ensure that in-house research activities funded under section 16371(b)(4) of this title are technically complementary to, and not duplicative of, research conducted under paragraphs (1), (2), and (3) of section 16371(b) of this title .
+- **(e)** In addition to other amounts that are made available to carry out this section, there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2007 through 2016.
+- **(f)** There is hereby established in the Treasury of the United States a separate fund to be known as the “Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund”.

@@ -3,14 +3,15 @@ title: "Section 34 - Allocation among States"
 usc_title: 20
 usc_section: "34"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-30T02:54:48.108Z"
+generated_at: "2026-03-30T03:04:46.253Z"
+status: "active"
 ---
 
 # § 1070d–34. Allocation among States
 
-- **(a)** From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b).
+- **(a)** From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
 - **(b)** The number of scholarships to be made available in a State for any fiscal year shall bear the same ratio to the number of scholarships made available to all States as the State’s population ages 5 through 17 bears to the population ages 5 through 17 in all the States, except that not less than 10 scholarships shall be made available to any State.
 - **(c)** For the purpose of this section, the population ages 5 through 17 in a State and in all the States shall be determined by the most recently available data, satisfactory to the Secretary, from the Bureau of the Census.
 - **(d)** Notwithstanding section 1469a of title 48 , funds allocated under this part to an Insular Area described in that section shall be deemed to be direct payments to classes of individuals, and the Insular Area may not consolidate such funds with other funds received by the Insular Area from any department or agency of the United States Government.

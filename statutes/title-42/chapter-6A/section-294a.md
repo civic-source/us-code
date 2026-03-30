@@ -3,9 +3,10 @@ title: "Section 294a - Area health education centers"
 usc_title: 42
 usc_section: "294a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 294a"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-03-30T03:06:22.368Z"
+status: "active"
 ---
 
 # § 294a. Area health education centers
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
   - **(2)** An eligible entity desiring to receive an award under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(c)**
   - **(1)** An eligible entity shall use amounts awarded under a grant under subsection (a)(1) or (a)(2) to carry out the following activities:
-    - **(A)** Develop and implement strategies, in coordination with the applicable one-stop delivery system under section 3151(e) of title 29 , to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
+    - **(A)** Develop and implement strategies, in coordination with the applicable one-stop delivery system under section 2864(c) of title 29 , to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
     - **(B)** Develop and implement strategies to foster and provide community-based training and education to individuals seeking careers in health professions within underserved areas for the purpose of developing and maintaining a diverse health care workforce that is prepared to deliver high-quality care, with an emphasis on primary care, in underserved areas or for health disparity populations, in collaboration with other Federal and State health care workforce development programs, the State workforce agency, and local workforce investment boards, and in health care safety net sites.
     - **(C)** Prepare individuals to more effectively provide health services to underserved areas and health disparity populations through field placements or preceptorships in conjunction with community-based organizations, accredited primary care residency training programs, Federally qualified health centers, rural health clinics, public health departments, or other appropriate facilities.
     - **(D)** Conduct and participate in interdisciplinary training that involves physicians, physician assistants, nurse practitioners, nurse midwives, dentists, psychologists, pharmacists, optometrists, community health workers, public and allied health professionals, or other health professionals, as practicable.
@@ -55,7 +56,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
   - **(2)** The periods described in paragraph (1) shall not apply to programs receiving point of service maintenance and enhancement awards under subsection (a)(2) to maintain existing centers and activities.
 - **(i)** Notwithstanding any other provision of this subchapter, section 295j(a) of this title shall not apply to an area health education center funded under this section.
 - **(j)**
-  - **(1)** There is authorized to be appropriated to carry out this section $41,250,000 for each of fiscal years 2021 through 2025.
+  - **(1)** There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
   - **(2)** Of the amounts appropriated for a fiscal year under paragraph (1)—
     - **(A)** not more than 35 percent shall be used for awards under subsection (a)(1);
     - **(B)** not less than 60 percent shall be used for awards under subsection (a)(2);

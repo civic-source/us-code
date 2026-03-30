@@ -3,9 +3,10 @@ title: "Section 6104 - Required terms in orders"
 usc_title: 7
 usc_section: "6104"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6104"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-03-30T03:04:20.999Z"
+status: "active"
 ---
 
 # § 6104. Required terms in orders
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
   - **(1)** to administer the order in accordance with its terms and provisions;
   - **(2)** to make rules and regulations to effectuate the terms and provisions of the order;
   - **(3)** to appoint members of the Council to serve on an executive committee;
-  - **(4)** to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
+  - **(4)** to propose, receive, evaluate, approve and submit to the Secretary for approval under subsection (d) of this section budgets, plans, and projects of mushroom promotion, research, consumer information, and industry information, as well as to contract and enter into agreements with appropriate persons to implement such plans or projects;
   - **(5)** to develop and propose to the Secretary voluntary quality and grade standards for mushrooms;
   - **(6)** to develop and propose to the Secretary programs for good agricultural and good handling practices and related activities for mushrooms;
   - **(7)** to receive, investigate, and report to the Secretary complaints of violations of the order;
@@ -85,4 +86,4 @@ generated_at: "2026-03-30T02:53:42.424Z"
     - **(A)** Except as otherwise provided in this chapter, information obtained under this chapter may be made available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
     - **(B)** Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
   - **(5)** Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
-- **(j)** The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
+- **(j)** The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g) of this section.

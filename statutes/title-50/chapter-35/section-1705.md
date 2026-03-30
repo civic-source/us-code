@@ -3,9 +3,10 @@ title: "Section 1705 - Penalties"
 usc_title: 50
 usc_section: "1705"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1705"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-03-30T03:06:37.642Z"
+status: "active"
 ---
 
 # § 1705. Penalties
@@ -15,8 +16,3 @@ generated_at: "2026-03-30T02:56:26.207Z"
   - **(1)** $250,000; or
   - **(2)** an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 - **(c)** A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act described in subsection (a) shall, upon conviction, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
-- **(d)**
-  - **(1)**
-    - **(A)** An action, suit, or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, under this section shall not be entertained unless commenced within 10 years after the latest date of the violation upon which the civil fine, penalty, or forfeiture is based.
-    - **(B)** For purposes of this paragraph, the commencement of an action, suit, or proceeding includes the issuance of a pre-penalty notice or finding of violation.
-  - **(2)** No person shall be prosecuted, tried, or punished for any offense under subsection (c) unless the indictment is found or the information is instituted within 10 years after the latest date of the violation upon which the indictment or information is based.

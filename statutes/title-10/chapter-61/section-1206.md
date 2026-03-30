@@ -3,9 +3,10 @@ title: "Section 1206 - Members on active duty for 30 days or less or on inactive
 usc_title: 10
 usc_section: "1206"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1206"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-03-30T03:04:17.250Z"
+status: "active"
 ---
 
 # § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
@@ -24,4 +25,4 @@ Upon a determination by the Secretary concerned that a member of the armed force
       - **(iii)** remained overnight at or in the vicinity of that place immediately before so serving;
   - **(3)** the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
   - **(4)** based upon accepted medical principles, the disability is or may be of a permanent nature; and
-  - **(5)** the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999 , was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
+  - **(5)** the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999 , was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed. However, if the member is eligible for transfer to the inactive status list under section 1209 of this title , and so elects, he shall be transferred to that list instead of being separated.

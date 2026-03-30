@@ -3,9 +3,10 @@ title: "Section 1101b - Authorized activities"
 usc_title: 20
 usc_section: "1101b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1101b"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-03-30T03:04:46.282Z"
+status: "active"
 ---
 
 # § 1101b. Authorized activities
@@ -26,11 +27,11 @@ generated_at: "2026-03-30T02:54:48.141Z"
   - **(12)** Establishing or enhancing a program of teacher education designed to qualify students to teach in public elementary schools and secondary schools.
   - **(13)** Establishing community outreach programs that will encourage elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education.
   - **(14)** Expanding the number of Hispanic and other underrepresented graduate and professional students that can be served by the institution by expanding courses and institutional resources.
-  - **(15)** Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV.
+  - **(15)** Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
   - **(16)** Other activities proposed in the application submitted pursuant to section 1101c of this title that—
     - **(A)** contribute to carrying out the purposes of this subchapter; and
     - **(B)** are approved by the Secretary as part of the review and acceptance of such application.
 - **(c)**
   - **(1)** A Hispanic-serving institution may not use more than 20 percent of the grant funds provided under this subchapter for any fiscal year for establishing or improving an endowment fund.
   - **(2)** A Hispanic-serving institution that uses any portion of the grant funds provided under this subchapter for any fiscal year for establishing or improving an endowment fund shall provide from non-Federal funds an amount equal to or greater than the portion.
-  - **(3)** The provisions of part C of subchapter III regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+  - **(3)** The provisions of part C of subchapter III of this chapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).

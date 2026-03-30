@@ -3,9 +3,10 @@ title: "Section 277 - International Boundary Commission, United States and Mexic
 usc_title: 22
 usc_section: "277"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 277"
-generated_at: "2026-03-30T02:55:05.311Z"
+generated_at: "2026-03-30T03:04:53.589Z"
+status: "active"
 ---
 
 # § 277. International Boundary Commission, United States and Mexico; study of boundary waters

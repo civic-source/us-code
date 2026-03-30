@@ -3,9 +3,10 @@ title: "Section 105 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(12), 
 usc_title: 22
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 105"
-generated_at: "2026-03-30T02:55:05.302Z"
+generated_at: "2026-03-30T03:04:53.582Z"
+status: "repealed"
 ---
 
 # § 105. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(12), 60 Stat. 1036

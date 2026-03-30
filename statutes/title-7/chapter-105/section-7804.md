@@ -3,9 +3,10 @@ title: "Section 7804 - Required terms in orders"
 usc_title: 7
 usc_section: "7804"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7804"
-generated_at: "2026-03-30T02:53:42.463Z"
+generated_at: "2026-03-30T03:04:21.025Z"
+status: "active"
 ---
 
 # § 7804. Required terms in orders
@@ -44,11 +45,11 @@ generated_at: "2026-03-30T02:53:42.463Z"
   - **(3)** recommend to the Secretary rules and regulations to effectuate the terms and provisions of the order;
   - **(4)** employ such persons as the Board determines are necessary, and set the compensation and define the duties of the persons;
   - **(5)**
-    - **(A)** develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d); and
-    - **(B)** propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
+    - **(A)** develop budgets for the implementation of the order and submit the budgets to the Secretary for approval under subsection (d) of this section; and
+    - **(B)** propose and develop (or receive and evaluate), approve, and submit to the Secretary for approval under subsection (d) of this section plans or projects for Hass avocado promotion, industry information, consumer information, or related research;
   - **(6)**
-    - **(A)** implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
-    - **(B)** contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+    - **(A)** implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d) of this section; or
+    - **(B)** contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e) of this section, and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
   - **(7)** evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 [ 7 U.S.C. 7411 et seq.]);
   - **(8)** receive, investigate, and report to the Secretary complaints of violations of the order;
   - **(9)** recommend to the Secretary amendments to the order;
@@ -94,7 +95,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
   - **(1)** The order shall provide that the Board shall, as soon as practicable after the order becomes effective and after consultation with the Secretary and other appropriate persons, implement a system of cost controls based on normally accepted business practices that—
     - **(A)** will ensure that the costs incurred by the Board in administering the order in any fiscal year shall not exceed 10 percent of the projected level of assessments to be collected by the Board for that fiscal year; and
     - **(B)** cover the minimum administrative activities and personnel needed to properly administer and enforce the order, and conduct, supervise, and evaluate plans and projects under the order.
-  - **(2)** The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A).
+  - **(2)** The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A) of this section.
 - **(h)**
   - **(1)**
     - **(A)** The order shall provide that each first handler shall remit to the Board, in the manner provided in the order, an assessment collected from the producer, except to the extent that the sale is excluded from assessments under paragraph (6). In the case of imports, the assessment shall be levied upon imports and remitted to the Board by Customs.
@@ -117,7 +118,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
     - **(A)** stating the basis for such exemption; and
     - **(B)** certifying such person will not purchase Hass avocados in the United States on which an assessment has not been paid for the current fiscal year.
   - **(6)** An order shall exclude from assessments under the order any sale of Hass avocados for export from the United States.
-  - **(7)** The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i).
+  - **(7)** The order shall provide that assessment funds shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter, including any expenses incurred by the Secretary in conducting referenda under this chapter, subject to subsection (i) of this section.
   - **(8)** The order shall provide that a State organization of avocado producers established pursuant to State law shall receive an amount equal to the product obtained by multiplying the aggregate amount of assessments attributable to the pounds of Hass avocados produced in such State by 85 percent. The State organization shall use such funds and any proceeds from the investment of such funds for financing domestic promotion, research, consumer information, and industry information plans and projects, except that no such funds shall be used for the administrative expenses of such State organization.
   - **(9)**
     - **(A)** The order shall provide that any importers association shall receive a credit described in subparagraph (B) if such association is—
@@ -136,7 +137,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
     - **(A)** make any reference to private brand names;
     - **(B)** make false, misleading, or disparaging claims on behalf of Hass avocados; or
     - **(C)** make false, misleading, or disparaging statements with respect to the attributes or use of any competing products.
-  - **(2)** Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
+  - **(2)** Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A) of this section.
 - **(k)**
   - **(1)** Except as otherwise provided in paragraph (2), the order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
   - **(2)** Paragraph (1) shall not apply to the development or recommendation of amendments to the order.
@@ -159,4 +160,4 @@ generated_at: "2026-03-30T02:53:42.463Z"
   - **(2)**
     - **(A)** For the purposes described in paragraph (1), the order shall authorize the appointment of special committees composed of persons other than Board members.
     - **(B)** A committee appointed under subparagraph (A) shall consult directly with the Board.
-- **(o)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
+- **(o)** The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section).

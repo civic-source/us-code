@@ -1,0 +1,15 @@
+---
+title: "Section 5808 - Release from liability"
+usc_title: 16
+usc_section: "5808"
+chapter: 78
+current_through: "PL 113-21"
+classification: "16 U.S.C. § 5808"
+generated_at: "2026-03-30T03:04:48.631Z"
+status: "active"
+---
+
+# § 5808. Release from liability
+
+- **(a)** The United States shall not be liable for any debt, default, act, or omission of the Foundation. The full faith and credit of the United States shall not extend to the Foundation.
+- **(b)** An obligation issued by the Foundation, and a document offering an obligation, shall include a prominent statement that the obligation is not directly or indirectly guaranteed, in whole or in part, by the United States (or an agency or instrumentality of the United States).

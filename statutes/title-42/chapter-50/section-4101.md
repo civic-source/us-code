@@ -3,9 +3,10 @@ title: "Section 4101 - Identification of flood-prone areas"
 usc_title: 42
 usc_section: "4101"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4101"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-03-30T03:06:22.710Z"
+status: "active"
 ---
 
 # § 4101. Identification of flood-prone areas
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
 - **(d)** The Administrator shall, not later than September 30, 1984 , submit to the Congress a plan for bringing all communities containing flood-risk zones into full program status by September 30, 1987 .
 - **(e)** Once during each 5-year period (the 1st such period beginning on September 23, 1994 ) or more often as the Administrator determines necessary, the Administrator shall assess the need to revise and update all floodplain areas and flood risk zones identified, delineated, or established under this section, based on an analysis of all natural hazards affecting flood risks.
 - **(f)** The Administrator shall revise and update any floodplain areas and flood-risk zones—
-  - **(1)** upon the determination of the Administrator, according to the assessment under subsection (e), that revision and updating are necessary for the areas and zones; or
+  - **(1)** upon the determination of the Administrator, according to the assessment under subsection (e) of this section, that revision and updating are necessary for the areas and zones; or
   - **(2)** upon the request from any State or local government stating that specific floodplain areas or flood-risk zones in the State or locality need revision or updating, if sufficient technical data justifying the request is submitted and the unit of government making the request agrees to provide funds in an amount determined by the Administrator.
 - **(g)** To promote compliance with the requirements of this chapter, the Administrator shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title .
 - **(h)** The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issued in the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.

@@ -1,12 +1,22 @@
 ---
-title: "Section 2 - Transferred"
+title: "Section 2 - National procedures for voter registration for elections for Federal office"
 usc_title: 42
 usc_section: "2"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-03-30T03:06:22.641Z"
+status: "active"
 ---
 
-# § 1973gg–2. Transferred
+# § 1973gg–2. National procedures for voter registration for elections for Federal office
 
+- **(a)** Except as provided in subsection (b) of this section, notwithstanding any other Federal or State law, in addition to any other method of voter registration provided for under State law, each State shall establish procedures to register to vote in elections for Federal office—
+  - **(1)** by application made simultaneously with an application for a motor vehicle driver’s license pursuant to section 1973gg–3 of this title ;
+  - **(2)** by mail application pursuant to section 1973gg–4 of this title ; and
+  - **(3)** by application in person—
+    - **(A)** at the appropriate registration site designated with respect to the residence of the applicant in accordance with State law; and
+    - **(B)** at a Federal, State, or nongovernmental office designated under section 1973gg–5 of this title .
+- **(b)** This subchapter does not apply to a State described in either or both of the following paragraphs:
+  - **(1)** A State in which, under law that is in effect continuously on and after August 1, 1994 , there is no voter registration requirement for any voter in the State with respect to an election for Federal office.
+  - **(2)** A State in which, under law that is in effect continuously on and after August 1, 1994 , or that was enacted on or prior to August 1, 1994 , and by its terms is to come into effect upon the enactment of this subchapter, so long as that law remains in effect, all voters in the State may register to vote at the polling place at the time of voting in a general election for Federal office.

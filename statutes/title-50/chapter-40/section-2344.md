@@ -3,9 +3,10 @@ title: "Section 2344 - Strengthened international security for nuclear materials
 usc_title: 50
 usc_section: "2344"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2344"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-03-30T03:06:37.675Z"
+status: "active"
 ---
 
 # § 2344. Strengthened international security for nuclear materials and security of nuclear operations

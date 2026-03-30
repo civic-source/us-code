@@ -3,9 +3,10 @@ title: "Section 8473 - Employee Thrift Advisory Council"
 usc_title: 5
 usc_section: "8473"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8473"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-03-30T03:04:06.109Z"
+status: "active"
 ---
 
 # § 8473. Employee Thrift Advisory Council
@@ -35,4 +36,4 @@ generated_at: "2026-03-30T02:52:56.063Z"
     - **(A)** investment policies for the Thrift Savings Fund; and
     - **(B)** the administration of this subchapter and subchapter III of this chapter; and
   - **(2)** perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
-- **(f)** Section 1013(a) of this title shall not apply to the Council.
+- **(f)** Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.

@@ -1,12 +1,15 @@
 ---
-title: "Section 757 - Omitted"
+title: "Section 757 - Termination of Federal trust"
 usc_title: 25
 usc_section: "757"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 757"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.854Z"
+status: "active"
 ---
 
-# § 757. Omitted
+# § 757. Termination of Federal trust
 
+- **(a)** Upon removal of Federal restrictions on the property of each tribe and individual members thereof, the Secretary shall publish in the Federal Register a proclamation declaring that the Federal trust relationship to the affairs of the tribe and its members has terminated. Thereafter individual members of the tribe shall not be entitled to any of the services performed by the United States for Indians because of their status as Indians, all statutes of the United States which affect Indians because of their status as Indians shall no longer be applicable to the members of the tribe, and the laws of the several States shall apply to the tribe and its members in the same manner as they apply to other citizens or persons within their jurisdiction.
+- **(b)** Nothing in this subchapter shall affect the status of the members of the tribe as citizens of the United States, or shall affect their rights, privileges, immunities, and obligations as such citizens.

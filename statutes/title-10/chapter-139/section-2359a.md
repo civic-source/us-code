@@ -1,12 +1,42 @@
 ---
-title: "Section 2359a - Renumbered § 4061]"
+title: "Section 2359a - Technology Transition Initiative"
 usc_title: 10
 usc_section: "2359a"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2359a"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-03-30T03:04:17.282Z"
+status: "active"
 ---
 
-# [§ 2359a. Renumbered § 4061]
+# § 2359a. Technology Transition Initiative
 
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out an initiative, to be known as the Technology Transition Initiative (hereinafter in this section referred to as the “Initiative”), to facilitate the rapid transition of new technologies from science and technology programs of the Department of Defense into acquisition programs of the Department for the production of such technologies.
+- **(b)** The objectives of the Initiative are as follows:
+  - **(1)** To accelerate the introduction of new technologies into operational capabilities for the armed forces.
+  - **(2)** To successfully demonstrate new technologies in relevant environments.
+- **(c)**
+  - **(1)** The Under Secretary shall designate a senior official of the Department of Defense (hereinafter in this section referred to as the “Manager”) to manage the Initiative.
+  - **(2)** In managing the Initiative, the Manager shall—
+    - **(A)** report directly to the Under Secretary; and
+    - **(B)** obtain advice and other assistance from the Technology Transition Council established under subsection (g).
+  - **(3)** The Manager shall—
+    - **(A)** in consultation with the Technology Transition Council established under subsection (g), identify promising technology transition projects that can contribute to meeting Department of Defense technology goals and requirements;
+    - **(B)** identify potential sponsors in the Department of Defense to manage such projects; and
+    - **(C)** provide funds under subsection (f) for those projects that are selected under subsection (d)(2).
+- **(d)**
+  - **(1)** The science and technology and acquisition executives of each military department and each appropriate Defense Agency and the commanders of the unified and specified combatant commands may nominate technology transition projects for implementation under subsection (e) and shall submit a list of the projects so nominated to the Manager.
+  - **(2)** The Manager, in consultation with the Technology Transition Council established under subsection (g), shall select projects for implementation under subsection (e) from among the projects on the lists submitted under paragraph (1).
+- **(e)** For each project selected under subsection (d)(2), the Manager shall designate a military department or Defense Agency to implement the project.
+- **(f)**
+  - **(1)** From funds made available to the Manager for the Initiative, the Manager shall, subject to paragraphs (2) and (3), provide funds for each project selected under subsection (d)(2) in an amount determined by mutual agreement between the Manager and the acquisition executive of the military department or Defense Agency concerned.
+  - **(2)** The amount of funds provided to a project under paragraph (1) by the military department or Defense Agency concerned shall be the appropriate share of the military department or Defense Agency, as the case may be, of the cost of the project, as determined by the Manager.
+  - **(3)** A project shall not be provided funds under this subsection for more than four fiscal years.
+- **(g)**
+  - **(1)** There is a Technology Transition Council in the Department of Defense. The Council is composed of the following members:
+    - **(A)** The science and technology executive of each military department and each Defense Agency.
+    - **(B)** The acquisition executive of each military department.
+    - **(C)** The members of the Joint Requirements Oversight Council.
+  - **(2)** The duty of the Council shall be to support the Under Secretary of Defense for Acquisition, Technology, and Logistics in developing policies to facilitate the rapid transition of technologies from science and technology programs into acquisition programs of the Department of Defense.
+  - **(3)** The Council shall meet not less often than semiannually to carry out its duty under paragraph (2).
+- **(h)** In this section, the term “acquisition executive”, with respect to a military department or Defense Agency, means the official designated as the senior procurement executive for that military department or Defense Agency for the purposes of section 16(c) 1 1 See References in Text note below. of the Office of Federal Procurement Policy Act ( 41 U.S.C. 414(c) ).

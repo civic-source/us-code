@@ -3,14 +3,15 @@ title: "Section 321l - Guidance and recommendations"
 usc_title: 6
 usc_section: "321l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 321l"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-03-30T03:04:24.345Z"
+status: "active"
 ---
 
 # § 321l. Guidance and recommendations
 
-- **(a)** Consistent with their responsibilities and authorities under law, as of the day before August 3, 2007 , the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the private sector, may develop guidance or recommendations and identify best practices to assist or foster action by the private sector in—
+- **(a)** Consistent with their responsibilities and authorities under law, as of the day before August 3, 2007 , the Administrator and the Assistant Secretary for Infrastructure Protection, in consultation with the private sector, may develop guidance or recommendations and identify best practices to assist or foster action by the private sector in—
   - **(1)** identifying potential hazards and assessing risks and impacts;
   - **(2)** mitigating the impact of a wide variety of hazards, including weapons of mass destruction;
   - **(3)** managing necessary emergency preparedness and response resources;
@@ -22,5 +23,5 @@ generated_at: "2026-03-30T02:53:09.458Z"
 - **(b)** Any guidance or recommendations developed or best practices identified under subsection (a) shall be—
   - **(1)** issued through the Administrator; and
   - **(2)** promoted by the Secretary to the private sector.
-- **(c)** In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15 ), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
+- **(c)** In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Assistant Secretary for Infrastructure Protection shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15 ), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
 - **(d)** Nothing in this section may be construed to supersede any requirement established under any other provision of law.

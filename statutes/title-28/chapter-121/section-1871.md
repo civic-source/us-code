@@ -3,16 +3,17 @@ title: "Section 1871 - Fees"
 usc_title: 28
 usc_section: "1871"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 1871"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-03-30T03:05:05.827Z"
+status: "active"
 ---
 
 # § 1871. Fees
 
 - **(a)** Grand and petit jurors in district courts appearing pursuant to this chapter shall be paid the fees and allowances provided by this section. The requisite fees and allowances shall be disbursed on the certificate of the clerk of court in accordance with the procedure established by the Director of the Administrative Office of the United States Courts. Attendance fees for extended service under subsection (b) of this section shall be certified by the clerk only upon the order of a district judge.
 - **(b)**
-  - **(1)** A juror shall be paid an attendance fee of $50 per day for actual attendance at the place of trial or hearing. A juror shall also be paid the attendance fee for the time necessarily occupied in going to and returning from such place at the beginning and end of such service or at any time during such service.
+  - **(1)** A juror shall be paid an attendance fee of $40 per day for actual attendance at the place of trial or hearing. A juror shall also be paid the attendance fee for the time necessarily occupied in going to and returning from such place at the beginning and end of such service or at any time during such service.
   - **(2)** A petit juror required to attend more than ten days in hearing one case may be paid, in the discretion of the trial judge, an additional fee, not exceeding $10 more than the attendance fee, for each day in excess of ten days on which he is required to hear such case.
   - **(3)** A grand juror required to attend more than forty-five days of actual service may be paid, in the discretion of the district judge in charge of the particular grand jury, an additional fee, not exceeding $10 more than the attendance fee, for each day in excess of forty-five days of actual service.
   - **(4)** A grand or petit juror required to attend more than ten days of actual service may be paid, in the discretion of the judge, the appropriate fees at the end of the first ten days and at the end of every ten days of service thereafter.

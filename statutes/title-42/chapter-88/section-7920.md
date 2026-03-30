@@ -3,9 +3,10 @@ title: "Section 7920 - Enforcement"
 usc_title: 42
 usc_section: "7920"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7920"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-03-30T03:06:22.826Z"
+status: "active"
 ---
 
 # § 7920. Enforcement
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(3)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review. Section 7172(d) of this title shall not apply with respect to the functions of the Secretary under this section.
   - **(4)** No civil penalty may be assessed against the United States or any State or political subdivision of a State or any official or employee of the foregoing.
   - **(5)** Nothing in this section shall prevent the Secretary from enforcing any provision of this subchapter or any cooperative agreement or any such rule by injunction or other equitable remedy.
-- **(b)** Subsection (a) shall not apply to any licensing requirement under the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.]. Such licensing requirements shall be enforced by the Commission as provided in such Act.
+- **(b)** Subsection (a) of this section shall not apply to any licensing requirement under the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.]. Such licensing requirements shall be enforced by the Commission as provided in such Act.

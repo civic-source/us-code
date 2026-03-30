@@ -3,9 +3,10 @@ title: "Section 4908 - Assessment procedures"
 usc_title: 7
 usc_section: "4908"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 4908"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-03-30T03:04:20.990Z"
+status: "active"
 ---
 
 # § 4908. Assessment procedures
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
       - **(ii)** the total quantity of watermelons that are exempt from the plan; and
       - **(iii)** such other information as may be prescribed by the Board.
     - **(D)** No more than 1 assessment shall be made on any imported watermelon.
-- **(b)** Handlers and importers responsible for payment of assessments under subsection (a) shall maintain and make available for inspection by the Secretary such books and records as required by the plan and file reports at the times, in the manner, and having the content prescribed by the plan, to the end that information and data shall be made available to the Board and to the Secretary that is appropriate or necessary to the effectuation, administration, or enforcement of this chapter or of any plan or regulation issued under this chapter.
-- **(c)** All information obtained under subsections (a) and (b) shall be kept confidential by all officers and employees of the Department of Agriculture and of the Board, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or on the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the plan with reference to which the information to be disclosed was furnished or acquired. Nothing in this subsection shall be deemed to prohibit—
+- **(b)** Handlers and importers responsible for payment of assessments under subsection (a) of this section shall maintain and make available for inspection by the Secretary such books and records as required by the plan and file reports at the times, in the manner, and having the content prescribed by the plan, to the end that information and data shall be made available to the Board and to the Secretary that is appropriate or necessary to the effectuation, administration, or enforcement of this chapter or of any plan or regulation issued under this chapter.
+- **(c)** All information obtained under subsections (a) and (b) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Board, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or on the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the plan with reference to which the information to be disclosed was furnished or acquired. Nothing in this subsection shall be deemed to prohibit—
   - **(1)** the issuance of general statements based on the reports of a number of handlers or importers subject to a plan if such statements do not identify the information furnished by any person; or
   - **(2)** the publication by direction of the Secretary of the name of any person violating any plan together with a statement of the particular provisions of the plan violated by such person.

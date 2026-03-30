@@ -1,20 +1,38 @@
 ---
-title: "Section 6227 - Administrative adjustment request by partnership"
+title: "Section 6227 - Administrative adjustment requests"
 usc_title: 26
 usc_section: "6227"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6227"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-03-30T03:05:18.721Z"
+status: "active"
 ---
 
-# § 6227. Administrative adjustment request by partnership
+# § 6227. Administrative adjustment requests
 
-- **(a)** A partnership may file a request for an administrative adjustment in the amount of one or more partnership-related items for any partnership taxable year.
-- **(b)** Any such adjustment under subsection (a) shall be determined and taken into account for the partnership taxable year in which the administrative adjustment request is filed—
-  - **(1)** by the partnership under rules similar to the rules of section 6225 (other than paragraphs (2), (7), and (9) of subsection (c) thereof) for the partnership taxable year in which the administrative adjustment request is filed, or
-  - **(2)** by the partnership and partners under rules similar to the rules of section 6226 (determined without regard to the substitution described in subsection (c)(2)(C) thereof).
-- **(c)** A partnership may not file such a request more than 3 years after the later of—
-  - **(1)** the date on which the partnership return for such year is filed, or
-  - **(2)** the last day for filing the partnership return for such year (determined without regard to extensions).
-- **(d)** The Secretary shall issue regulations or other guidance which provide for the proper coordination of this section and section 905(c).
+- **(a)** A partner may file a request for an administrative adjustment of partnership items for any partnership taxable year at any time which is—
+  - **(1)** within 3 years after the later of—
+    - **(A)** the date on which the partnership return for such year is filed, or
+    - **(B)** the last day for filing the partnership return for such year (determined without regard to extensions), and
+  - **(2)** before the mailing to the tax matters partner of a notice of final partnership administrative adjustment with respect to such taxable year.
+- **(b)** The period prescribed by subsection (a)(1) for filing of a request for an administrative adjustment shall be extended—
+  - **(1)** for the period within which an assessment may be made pursuant to an agreement (or any extension thereof) under section 6229(b), and
+  - **(2)** for 6 months thereafter.
+- **(c)**
+  - **(1)** If the tax matters partner—
+    - **(A)** files a request for an administrative adjustment, and
+    - **(B)** asks that the treatment shown on the request be substituted for the treatment of partnership items on the partnership return to which the request relates,
+  - **(2)**
+    - **(A)** If the tax matters partner files an administrative adjustment request on behalf of the partnership which is not treated as a substituted return under paragraph (1), the Secretary may, with respect to all or any part of the requested adjustments—
+      - **(i)** without conducting any proceeding, allow or make to all partners the credits or refunds arising from the requested adjustments,
+      - **(ii)** conduct a partnership proceeding under this subchapter, or
+      - **(iii)** take no action on the request.
+    - **(B)** Clause (i) of subparagraph (A) shall not apply with respect to a partner after the day on which the partnership items become nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231.
+  - **(3)** The tax matters partner shall furnish with any administrative adjustment request on behalf of the partnership revised schedules showing the effect of such request on the distributive shares of the partners and such other information as may be required under regulations.
+- **(d)** If any partner files a request for an administrative adjustment (other than a request described in subsection (c)), the Secretary may—
+  - **(1)** process the request in the same manner as a claim for credit or refund with respect to items which are not partnership items,
+  - **(2)** assess any additional tax that would result from the requested adjustments,
+  - **(3)** mail to the partner, under subparagraph (A) of section 6231(b)(1) (relating to items becoming nonpartnership items), a notice that all partnership items of the partner for the partnership taxable year to which such request relates shall be treated as nonpartnership items, or
+  - **(4)** conduct a partnership proceeding.
+- **(e)** In the case of that portion of any request for an administrative adjustment which relates to the deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).

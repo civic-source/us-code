@@ -3,9 +3,10 @@ title: "Section 3452 - Resource conservation and development program"
 usc_title: 16
 usc_section: "3452"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3452"
-generated_at: "2026-03-30T02:54:23.016Z"
+generated_at: "2026-03-30T03:04:48.603Z"
+status: "active"
 ---
 
 # § 3452. Resource conservation and development program

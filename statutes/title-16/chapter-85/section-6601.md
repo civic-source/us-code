@@ -3,9 +3,10 @@ title: "Section 6601 - Findings and purposes"
 usc_title: 16
 usc_section: "6601"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 6601"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-03-30T03:04:48.637Z"
+status: "active"
 ---
 
 # § 6601. Findings and purposes
@@ -22,7 +23,4 @@ generated_at: "2026-03-30T02:54:23.065Z"
   - **(9)** the reduction, removal, or other effective addressing of the threats to the long-term viability of populations of marine turtles will require the joint commitment and effort of—
     - **(A)** countries that have within their boundaries marine turtle nesting habitats; and
     - **(B)** persons with expertise in the conservation of marine turtles.
-- **(b)** The purpose of this chapter is to assist in the conservation of marine turtles, freshwater turtles, and tortoises and the habitats of marine turtles, freshwater turtles, and tortoises in foreign countries and territories of the United States by supporting and providing financial resources for projects—
-  - **(1)** to conserve marine turtle, freshwater turtle, and tortoise habitats under the jurisdiction of United States Fish and Wildlife Service programs;
-  - **(2)** to conserve marine turtles, freshwater turtles, and tortoises in those habitats; and
-  - **(3)** to address other threats to the survival of marine turtles, freshwater turtles, and tortoises, including habitat loss, poaching of turtles or their eggs, and wildlife trafficking.
+- **(b)** The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.

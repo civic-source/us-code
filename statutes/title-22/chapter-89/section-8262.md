@@ -3,9 +3,10 @@ title: "Section 8262 - United States democracy assistance programs"
 usc_title: 22
 usc_section: "8262"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 8262"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-03-30T03:04:53.717Z"
+status: "active"
 ---
 
 # § 8262. United States democracy assistance programs

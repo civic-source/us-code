@@ -3,9 +3,10 @@ title: "Section 833 - Treatment of Blue Cross and Blue Shield organizations, etc
 usc_title: 26
 usc_section: "833"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 833"
-generated_at: "2026-03-30T02:55:27.731Z"
+generated_at: "2026-03-30T03:05:18.622Z"
+status: "active"
 ---
 
 # § 833. Treatment of Blue Cross and Blue Shield organizations, etc.
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:55:27.731Z"
     - **(D)** The term “adjusted net operating loss” means the net operating loss for any taxable year determined with the adjustments set forth in subparagraph (C).
     - **(E)** The term “net exempt income” means—
       - **(i)** any tax-exempt interest received or accrued during the taxable year, reduced by any amount (not otherwise deductible) which would have been allowable as a deduction for the taxable year if such interest were not tax-exempt, and
-      - **(ii)** the aggregate amount allowed as a deduction for the taxable year under sections 243 and 245.
+      - **(ii)** the aggregate amount allowed as a deduction for the taxable year under sections 243, 244, and 245.
   - **(4)** Any determination under this subsection shall be made by only taking into account items attributable to the health-related business of the taxpayer.
 - **(c)**
   - **(1)** This section shall apply to—
@@ -60,4 +61,4 @@ generated_at: "2026-03-30T02:55:27.731Z"
     - **(B)** An organization is described in this subparagraph if it—
       - **(i)** is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profit health insurance or health service type organizations, and
       - **(ii)** is not a Blue Cross or Blue Shield organization or health maintenance organization.
-  - **(5)** Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
+  - **(5)** Notwithstanding the preceding paragraphs, this section shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.

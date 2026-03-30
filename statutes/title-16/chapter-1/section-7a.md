@@ -1,12 +1,15 @@
 ---
-title: "Section 7a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 7a - Airports in national parks, monuments and recreation areas; construction, etc."
 usc_title: 16
 usc_section: "7a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 7a"
-generated_at: "2026-03-30T02:54:22.724Z"
+generated_at: "2026-03-30T03:04:48.396Z"
+status: "active"
 ---
 
-# § 7a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 7a. Airports in national parks, monuments and recreation areas; construction, etc.
+
+The Secretary of the Interior (hereinafter called the “Secretary”) is authorized to plan, acquire, establish, construct, enlarge, improve, maintain, equip, operate, regulate, and protect airports in the continental United States in, or in close proximity to, national parks, national monuments, and national recreation areas, when such airports are determined by him to be necessary to the proper performance of the functions of the Department of the Interior: Provided , That no such airport shall be acquired, established, or constructed by the Secretary unless such airport is included in the then current revision of the national airport plan formulated by the Secretary of Transportation pursuant to the provisions of the Federal Airport Act: Provided further , That the operation and maintenance of such airports shall be in accordance with the standards, rules, or regulations prescribed by the Secretary of Transportation.
 

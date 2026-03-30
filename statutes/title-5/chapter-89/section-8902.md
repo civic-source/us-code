@@ -3,9 +3,10 @@ title: "Section 8902 - Contracting authority"
 usc_title: 5
 usc_section: "8902"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8902"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-03-30T03:04:06.112Z"
+status: "active"
 ---
 
 # § 8902. Contracting authority
@@ -40,4 +41,3 @@ generated_at: "2026-03-30T02:52:56.066Z"
     - **(D)** involving case management, if the circumstances so warrant; and
   - **(2)** to establish incentives to encourage compliance with measures under paragraph (1).
 - **(o)** A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
-- **(p)** Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.

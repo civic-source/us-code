@@ -3,9 +3,10 @@ title: "Section 1395k - Scope of benefits; definitions"
 usc_title: 42
 usc_section: "1395k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1395k"
-generated_at: "2026-03-30T02:56:10.942Z"
+generated_at: "2026-03-30T03:06:22.496Z"
+status: "active"
 ---
 
 # § 1395k. Scope of benefits; definitions
@@ -34,5 +35,5 @@ generated_at: "2026-03-30T02:56:10.942Z"
     - **(G)** covered items (described in section 1395m(a)(13) of this title ) furnished by a provider of services or by others under arrangements with them made by a provider of services;
     - **(H)** outpatient critical access hospital services (as defined in section 1395x(mm)(3) of this title );
     - **(I)** prosthetic devices and orthotics and prosthetics (described in section 1395m(h)(4) of this title ) furnished by a provider of services or by others under arrangements with them made by a provider of services; and
-    - **(J)** partial hospitalization services and intensive outpatient services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title ).
+    - **(J)** partial hospitalization services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title ).
 - **(b)** For definitions of “spell of illness”, “medical and other health services”, and other terms used in this part, see section 1395x of this title .

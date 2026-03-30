@@ -3,9 +3,10 @@ title: "Section 31306 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "31306"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 31306"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-03-30T03:06:29.308Z"
+status: "active"
 ---
 
 # § 31306. Alcohol and controlled substances testing
@@ -13,24 +14,17 @@ generated_at: "2026-03-30T02:56:19.360Z"
 - **(a)** In this section and section 31306a, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 802 ) specified by the Secretary of Transportation.
 - **(b)**
   - **(1)**
-    - **(A)** In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation.
-    - **(B)** The regulations prescribed under subparagraph (A) shall permit motor carriers—
-      - **(i)** to conduct preemployment testing of commercial motor vehicle operators for the use of alcohol; and
-      - **(ii)** to use hair testing as an acceptable alternative to urine testing—
-        - **(I)** in conducting preemployment testing for the use of a controlled substance; and
-        - **(II)** in conducting random testing for the use of a controlled substance if the operator was subject to hair testing for preemployment testing.
-    - **(C)** When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+    - **(A)** In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
+    - **(B)** When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
   - **(2)** In prescribing regulations under this subsection, the Secretary of Transportation—
-    - **(A)** shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle;
-    - **(B)** may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle; and
-    - **(C)** shall provide an exemption from hair testing for commercial motor vehicle operators with established religious beliefs that prohibit the cutting or removal of hair.
+    - **(A)** shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle; and
+    - **(B)** may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle.
 - **(c)** In carrying out subsection (b) of this section, the Secretary of Transportation shall develop requirements that shall—
   - **(1)** promote, to the maximum extent practicable, individual privacy in the collection of specimens;
-  - **(2)** for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988 , and any amendments to those guidelines, for urine testing, and technical guidelines for hair testing, including mandatory guidelines establishing—
+  - **(2)** for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988 , and any amendments to those guidelines, including mandatory guidelines establishing—
     - **(A)** comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
-    - **(B)** the minimum list of controlled substances for which individuals may be tested;
-    - **(C)** appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section; and
-    - **(D)** laboratory protocols and cut-off levels for hair testing to detect the use of a controlled substance;
+    - **(B)** the minimum list of controlled substances for which individuals may be tested; and
+    - **(C)** appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section;
   - **(3)** require that a laboratory involved in testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
   - **(4)** provide that any test indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
   - **(5)** provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual’s confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;

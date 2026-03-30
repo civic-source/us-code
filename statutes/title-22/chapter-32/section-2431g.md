@@ -1,22 +1,25 @@
 ---
-title: "Section 2431g - Conservation Agreement"
+title: "Section 2431g - Tropical Forest Agreement"
 usc_title: 22
 usc_section: "2431g"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2431g"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-03-30T03:04:53.642Z"
+status: "active"
 ---
 
-# § 2431g. Conservation Agreement
+# § 2431g. Tropical Forest Agreement
 
-- **(a)** The Secretary of State is authorized, in consultation with other appropriate officials of the Federal Government, to enter into a Conservation Agreement with any eligible country concerning the operation and use of the Fund for that country.
+- **(a)**
+  - **(1)** The Secretary of State is authorized, in consultation with other appropriate officials of the Federal Government, to enter into a Tropical Forest Agreement with any eligible country concerning the operation and use of the Fund for that country.
+  - **(2)** In the negotiation of such an Agreement, the Secretary shall consult with the Board in accordance with section 2431i of this title .
 - **(b)** The requirements contained in section 2430g(b) of this title (relating to contents of an agreement) shall apply to an Agreement in the same manner as such requirements apply to an Americas Framework Agreement.
 - **(c)**
   - **(1)** Amounts disbursed from the Fund in each beneficiary country shall be administered by a body constituted under the laws of that country.
   - **(2)**
     - **(A)** The administering body shall consist of—
-      - **(i)** one or more individuals appointed by the United States Government to serve in an official capacity;
+      - **(i)** one or more individuals appointed by the United States Government;
       - **(ii)** one or more individuals appointed by the government of the beneficiary country; and
       - **(iii)** individuals who represent a broad range of—
         - **(I)** environmental nongovernmental organizations of, or active in, the beneficiary country;
@@ -24,18 +27,18 @@ generated_at: "2026-03-30T02:55:05.367Z"
         - **(III)** scientific, academic, or forestry organizations of the beneficiary country.
     - **(B)** A majority of the members of the administering body shall be individuals described in subparagraph (A)(iii).
   - **(3)** The requirements contained in section 2430g(c)(3) of this title (relating to responsibilities of the administering body) shall apply to an administering body described in paragraph (1) in the same manner as such requirements apply to an administering body described in section 2430g(c)(1) of this title .
-- **(d)** Amounts deposited in a Fund shall be used only to provide grants to conserve, maintain, and restore the tropical forests and coral reef ecosystems in the beneficiary country, through one or more of the following activities:
+- **(d)** Amounts deposited in a Fund shall be used only to provide grants to conserve, maintain, and restore the tropical forests in the beneficiary country, through one or more of the following activities:
   - **(1)** Establishment, restoration, protection, and maintenance of parks, protected areas, and reserves.
   - **(2)** Development and implementation of scientifically sound systems of natural resource management, including land and ecosystem management practices.
   - **(3)** Training programs to increase the scientific, technical, and managerial capacities of individuals and organizations involved in conservation efforts.
   - **(4)** Restoration, protection, or sustainable use of diverse animal and plant species.
-  - **(5)** Research and identification of medicinal uses of plant life to treat human diseases, illnesses, and health related concerns.
-  - **(6)** Development and support of the livelihoods of individuals dependent on a tropical forest or coral reef ecosystem and related resources in a manner consistent with conserving such resources.
+  - **(5)** Research and identification of medicinal uses of tropical forest plant life to treat human diseases, illnesses, and health related concerns.
+  - **(6)** Development and support of the livelihoods of individuals living in or near a tropical forest in a manner consistent with protecting such tropical forest.
 - **(e)**
   - **(1)** Grants made from a Fund shall be made to—
     - **(A)** nongovernmental environmental, forestry, conservation, and indigenous peoples organizations of, or active in, the beneficiary country;
     - **(B)** other appropriate local or regional entities of, or active in, the beneficiary country; or
-    - **(C)** in limited circumstances, the government of the beneficiary country when needed to improve governance and enhance management of tropical forests or coral reef ecosystems, without replacing existing levels of financial efforts by the government of the beneficiary country and with priority given to projects that complement grants made under subparagraphs (A) and (B).
+    - **(C)** in exceptional circumstances, the government of the beneficiary country.
   - **(2)** In providing grants under paragraph (1), priority shall be given to projects that are run by nongovernmental organizations and other private entities and that involve local communities in their planning and execution.
-- **(f)** Any grant of more than $250,000 from a Fund must be approved by the Government of the United States and the government of the beneficiary country.
+- **(f)** Any grant of more than $100,000 from a Fund shall be subject to veto by the Government of the United States or the government of the beneficiary country.
 - **(g)** In the event that a country ceases to meet the eligibility requirements set forth in section 2431c(a) of this title , as determined by the President pursuant to section 2431c(b) of this title , then grants from the Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2431c(a) of this title .

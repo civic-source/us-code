@@ -3,9 +3,10 @@ title: "Section 6672 - Failure to collect and pay over tax, or attempt to evade 
 usc_title: 26
 usc_section: "6672"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6672"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-03-30T03:05:18.734Z"
+status: "active"
 ---
 
 # § 6672. Failure to collect and pay over tax, or attempt to evade or defeat tax
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:55:27.862Z"
     - **(A)** pays an amount which is not less than the minimum amount required to commence a proceeding in court with respect to his liability for such penalty,
     - **(B)** files a claim for refund of the amount so paid, and
     - **(C)** furnishes a bond which meets the requirements of paragraph (3),
-  - **(2)** If, within 30 days after the day on which his claim for refund with respect to any penalty under subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Federal Claims) for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
+  - **(2)** If, within 30 days after the day on which his claim for refund with respect to any penalty under subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Claims) 1 1 See References in Text note below. for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
   - **(3)** The bond referred to in paragraph (1) shall be in such form and with such sureties as the Secretary may by regulations prescribe and shall be in an amount equal to 1½ times the amount of excess of the penalty assessed over the payment described in paragraph (1).
   - **(4)** The running of the period of limitations provided in section 6502 on the collection by levy or by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
   - **(5)** If the Secretary makes a finding that the collection of the penalty is in jeopardy, nothing in this subsection shall prevent the immediate collection of such penalty.

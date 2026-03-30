@@ -1,12 +1,17 @@
 ---
-title: "Section 14092 - Transferred"
+title: "Section 14092 - Definitions"
 usc_title: 42
 usc_section: "14092"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14092"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.945Z"
+status: "active"
 ---
 
-# § 14092. Transferred
+# § 14092. Definitions
 
+In this part—
+
+    - **(A)** was no more than 21 years old; or
+    - **(B)** if older than 21 years, was in fact dependent on the child’s parents for at least one-half of the child’s support (excluding educational expenses), as determined by the Director. “Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093 1 1 So in original. Section 14093 of this title does not provide for the appointment of a Director. of this title. “educational expenses” means expenses that are directly attributable to a course of education leading to the award of either a baccalaureate or graduate degree in a course of study which, in the judgment of the State or local police force to which the participant will be assigned, includes appropriate preparation for police service including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses. “institution of higher education” has the meaning stated in the first sentence of section 1001 of title 20 . “participant” means a participant in the Police Corps program selected pursuant to section 14095 2 2 So in original. Probably should be section “14096”. of this title. “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands. “State Police Corps program” means a State police corps program that meets the requirements of section 14099 of this title .

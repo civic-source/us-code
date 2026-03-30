@@ -3,9 +3,10 @@ title: "Section 1674 - Renewable Resources Extension Program plan"
 usc_title: 16
 usc_section: "1674"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1674"
-generated_at: "2026-03-30T02:54:22.981Z"
+generated_at: "2026-03-30T03:04:48.577Z"
+status: "active"
 ---
 
 # § 1674. Renewable Resources Extension Program plan

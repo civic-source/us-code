@@ -1,16 +1,13 @@
 ---
-title: "Section 11389 - Indian tribes and tribally designated housing entities"
+title: "Section 11389 - Repealed. Pub. L. 111–22, div. B, title III, § 1305(1) , May 20, 2009 , 123 Stat. 1690"
 usc_title: 42
 usc_section: "11389"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11389"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-03-30T03:06:22.889Z"
+status: "repealed"
 ---
 
-# § 11389. Indian tribes and tribally designated housing entities
+# § 11389. Repealed. Pub. L. 111–22, div. B, title III, § 1305(1) , May 20, 2009 , 123 Stat. 1690
 
-Notwithstanding any other provision of this subchapter, for purposes of this part, an Indian Tribe or tribally designated housing entity (as defined in section 4103 of title 25 ) may—
-
-  - **(1)** be a collaborative applicant or eligible entity; or
-  - **(2)** receive grant amounts from another entity that receives a grant directly from the Secretary, and use the amounts in accordance with this part.

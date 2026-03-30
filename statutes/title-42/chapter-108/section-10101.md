@@ -3,9 +3,10 @@ title: "Section 10101 - Definitions"
 usc_title: 42
 usc_section: "10101"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10101"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-03-30T03:06:22.868Z"
+status: "active"
 ---
 
 # § 10101. Definitions
@@ -54,12 +55,12 @@ For purposes of this chapter:
   - **(23)** The term “spent nuclear fuel” means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.
   - **(24)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
   - **(25)** The term “storage” means retention of high-level radioactive waste, spent nuclear fuel, or transuranic waste with the intent to recover such waste or fuel for subsequent use, processing, or disposal.
-  - **(26)** The term “Storage Fund” means the Interim Storage Fund established in section 10156(c) 2 of this title.
+  - **(26)** The term “Storage Fund” means the Interim Storage Fund established in section 10156(c) 3 3 See References in Text note below. of this title.
   - **(27)** The term “test and evaluation facility” means an at-depth, prototypic, underground cavity with subsurface lateral excavations extending from a central shaft that is used for research and development purposes, including the development of data and experience for the safe handling and disposal of solidified high-level radioactive waste, transuranic waste, or spent nuclear fuel.
   - **(28)** The term “unit of general local government” means any borough, city, county, parish, town, township, village, or other general purpose political subdivision of a State.
   - **(29)** The term “Waste Fund” means the Nuclear Waste Fund established in section 10222(c) of this title .
   - **(30)** The term “Yucca Mountain site” means the candidate site in the State of Nevada recommended by the Secretary to the President under section 10132(b)(1)(B) of this title on May 27, 1986 .
   - **(31)** The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repository or a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
   - **(32)** The term “Negotiator” means the Nuclear Waste Negotiator.
-  - **(33)** As used in subchapter IV, the term “Office” means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
+  - **(33)** As used in subchapter IV of this chapter, the term “Office” means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
   - **(34)** The term “monitored retrievable storage facility” means the storage facility described in section 10161(b)(1) of this title .

@@ -3,9 +3,10 @@ title: "Section 7237 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "7237"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7237"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-03-30T03:04:21.013Z"
+status: "active"
 ---
 
 # § 7237. Availability of recourse loans for high moisture feed grains and seed cotton and other fibers
@@ -29,5 +30,5 @@ generated_at: "2026-03-30T02:53:42.446Z"
   - **(1)** Notwithstanding any other provision of law, during fiscal year 1999, the Secretary shall make available recourse loans, as determined by the Secretary, to producers of mohair produced during or before that fiscal year.
   - **(2)** The loan rate for a loan under paragraph (1) shall be equal to $2.00 per pound.
   - **(3)** A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the first month after the month in which the loan is made.
-  - **(4)** Notwithstanding subsection (d), the Secretary shall not charge interest on a loan made under paragraph (1).
+  - **(4)** Notwithstanding subsection (d) of this section, the Secretary shall not charge interest on a loan made under paragraph (1).
 - **(d)** Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).

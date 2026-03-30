@@ -3,9 +3,10 @@ title: "Section 15910 - Enhanced oil and natural gas production through carbon d
 usc_title: 42
 usc_section: "15910"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 15910"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-03-30T03:06:22.967Z"
+status: "active"
 ---
 
 # § 15910. Enhanced oil and natural gas production through carbon dioxide injection

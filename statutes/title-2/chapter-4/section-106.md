@@ -1,12 +1,15 @@
 ---
-title: "Section 106 - Transferred"
+title: "Section 106 - Stationery for Senate; advertisements for"
 usc_title: 2
 usc_section: "106"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 106"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.402Z"
+status: "active"
 ---
 
-# § 106. Transferred
+# § 106. Stationery for Senate; advertisements for
+
+The Secretary of the Senate shall annually advertise, once a week for at least four weeks, in one or more of the principal papers published in the District of Columbia, for sealed proposals for supplying the Senate during the next session of Congress with the necessary stationery. The advertisement must describe the kind of stationery required, and must require the proposals to be accompanied with sufficient security for their performance.
 

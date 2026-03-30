@@ -3,9 +3,10 @@ title: "Section 2171 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2171"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2171"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-03-30T03:04:04.445Z"
+status: "active"
 ---
 
 # § 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government
@@ -34,4 +35,3 @@ generated_at: "2026-03-30T02:53:04.826Z"
   - **(2)**
     - **(A)** Not later than 3 years after August 16, 2012 , and every 3 years thereafter, the Architect of the Capitol shall submit a report to the Committee on House Administration of the House of Representatives determining whether Members (including any Delegate or Resident Commissioner to Congress) and covered employees using battery charging stations as authorized by this section are receiving a subsidy from the taxpayers.
     - **(B)** If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
-- **(f)** This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.

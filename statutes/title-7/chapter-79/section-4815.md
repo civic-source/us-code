@@ -3,16 +3,17 @@ title: "Section 4815 - Enforcement"
 usc_title: 7
 usc_section: "4815"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 4815"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-03-30T03:04:20.989Z"
+status: "active"
 ---
 
 # § 4815. Enforcement
 
 - **(a)**
   - **(1)** A district court of the United States shall have jurisdiction specifically to enforce, and to prevent and restrain a person from violating an order, rule, or regulation issued under this chapter.
-  - **(2)** A civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to a person who committed such violation or by administrative action under subsection (b).
+  - **(2)** A civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter if the Secretary believes that the administration and enforcement of this chapter would be adequately served by providing a suitable written notice or warning to a person who committed such violation or by administrative action under subsection (b) of this section.
 - **(b)**
   - **(1)**
     - **(A)** A person who willfully violates an order, rule, or regulation issued by the Secretary under this chapter may be assessed—
@@ -34,4 +35,4 @@ generated_at: "2026-03-30T02:53:42.412Z"
   - **(4)**
     - **(A)** If a person fails to pay a valid civil penalty imposed under this subsection by the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in an appropriate district court of the United States.
     - **(B)** In such action, the validity and appropriateness of the order imposing such civil penalty shall not be subject to review.
-- **(c)** The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
+- **(c)** The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, other remedies that may be available.

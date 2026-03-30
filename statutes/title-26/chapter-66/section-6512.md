@@ -3,9 +3,10 @@ title: "Section 6512 - Limitations in case of petition to Tax Court"
 usc_title: 26
 usc_section: "6512"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6512"
-generated_at: "2026-03-30T02:55:27.858Z"
+generated_at: "2026-03-30T03:05:18.731Z"
+status: "active"
 ---
 
 # § 6512. Limitations in case of petition to Tax Court
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:27.858Z"
   - **(5)** As to any amount collected within the period during which the Secretary is prohibited from making the assessment or from collecting by levy or through a proceeding in court under the provisions of section 6213(a), and
   - **(6)** As to overpayments the Secretary is authorized to refund or credit pending appeal as provided in subsection (b).
 - **(b)**
-  - **(1)** Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, when the decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
+  - **(1)** Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year, or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, when the decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
   - **(2)** If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determined by the Tax Court, together with the interest thereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
   - **(3)** No such credit or refund shall be allowed or made of any portion of the tax unless the Tax Court determines as part of its decision that such portion was paid—
     - **(A)** after the mailing of the notice of deficiency,

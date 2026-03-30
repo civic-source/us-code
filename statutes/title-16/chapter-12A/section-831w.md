@@ -3,9 +3,10 @@ title: "Section 831w - Acquisition of real or personal property; payment by deli
 usc_title: 16
 usc_section: "831w"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 831w"
-generated_at: "2026-03-30T02:54:22.925Z"
+generated_at: "2026-03-30T03:04:48.539Z"
+status: "active"
 ---
 
 # § 831w. Acquisition of real or personal property; payment by delivery of power; sale or lease of vacant land for industrial purposes

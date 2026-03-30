@@ -3,9 +3,10 @@ title: "Section 1862 - Safeguarding national security"
 usc_title: 19
 usc_section: "1862"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1862"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-03-30T03:04:42.028Z"
+status: "active"
 ---
 
 # § 1862. Safeguarding national security
@@ -27,11 +28,11 @@ generated_at: "2026-03-30T02:54:24.660Z"
   - **(4)** The Secretary shall prescribe such procedural regulations as may be necessary to carry out the provisions of this subsection.
 - **(c)**
   - **(1)**
-    - **(A)** Within 90 days after receiving a report submitted under subsection (b)(3)(A) in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
+    - **(A)** Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
       - **(i)** determine whether the President concurs with the finding of the Secretary, and
       - **(ii)** if the President concurs, determine the nature and duration of the action that, in the judgment of the President, must be taken to adjust the imports of the article and its derivatives so that such imports will not threaten to impair the national security.
     - **(B)** If the President determines under subparagraph (A) to take action to adjust imports of an article and its derivatives, the President shall implement that action by no later than the date that is 15 days after the day on which the President determines to take action under subparagraph (A).
-  - **(2)** By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e).
+  - **(2)** By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e) of this section.
   - **(3)**
     - **(A)** If—
       - **(i)** the action taken by the President under paragraph (1) is the negotiation of an agreement which limits or restricts the importation into, or the exportation to, the United States of the article that threatens to impair national security, and
@@ -43,10 +44,10 @@ generated_at: "2026-03-30T02:54:24.660Z"
       - **(ii)** the President determines not to take any additional actions under this subsection,
 - **(d)** For the purposes of this section, the Secretary and the President shall, in the light of the requirements of national security and without excluding other relevant factors, give consideration to domestic production needed for projected national defense requirements, the capacity of domestic industries to meet such requirements, existing and anticipated availabilities of the human resources, products, raw materials, and other supplies and services essential to the national defense, the requirements of growth of such industries and such supplies and services including the investment, exploration, and development necessary to assure such growth, and the importation of goods in terms of their quantities, availabilities, character, and use as those affect such industries and the capacity of the United States to meet national security requirements. In the administration of this section, the Secretary and the President shall further recognize the close relation of the economic welfare of the Nation to our national security, and shall take into consideration the impact of foreign competition on the economic welfare of individual domestic industries; and any substantial unemployment, decrease in revenues of government, loss of skills or investment, or other serious effects resulting from the displacement of any domestic products by excessive imports shall be considered, without excluding other factors, in determining whether such weakening of our internal economy may impair the national security.
 - **(d)**
-  - **(1)** Upon the disposition of each request, application, or motion under subsection (b), the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
+  - **(1)** Upon the disposition of each request, application, or motion under subsection (b) of this section, the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
   - **(2)** Omitted.
 - **(f)**
-  - **(1)** An action taken by the President under subsection (c) to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
+  - **(1)** An action taken by the President under subsection (c) of this section to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
   - **(2)**
     - **(A)** This paragraph is enacted by the Congress—
       - **(i)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedures to be followed in that House in the case of disapproval resolutions and such procedures supersede other rules only to the extent that they are inconsistent therewith; and

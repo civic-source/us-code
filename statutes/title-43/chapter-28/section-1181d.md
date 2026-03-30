@@ -1,12 +1,15 @@
 ---
-title: "Section 1181d - Transferred"
+title: "Section 1181d - Leasing of lands for grazing; disposition of moneys; rules and regulations covering grazing lands"
 usc_title: 43
 usc_section: "1181d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 1181d"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-03-30T03:06:10.668Z"
+status: "active"
 ---
 
-# § 1181d. Transferred
+# § 1181d. Leasing of lands for grazing; disposition of moneys; rules and regulations covering grazing lands
+
+The Secretary of the Interior is authorized, in his discretion, to lease for grazing any of said revested or reconveyed lands which may be so used without interfering with the production of timber or other purposes of sections 1181a to 1181f of this title as stated in section 1181a of this title : Provided , That all the moneys received on account of grazing leases shall be covered either into the “Oregon and California land-grant fund” or the “Coos Bay Wagon Road grant fund” in the Treasury as the location of the leased lands shall determine, and be subject to distribution as other moneys in such funds: Provided further , That the Secretary is also authorized to formulate rules and regulations for the use, protection, improvement, and rehabilitation of such grazing lands.
 

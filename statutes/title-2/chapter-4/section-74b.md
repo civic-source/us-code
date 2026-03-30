@@ -1,12 +1,15 @@
 ---
-title: "Section 74b - Transferred"
+title: "Section 74b - Employment of additional administrative assistants"
 usc_title: 2
 usc_section: "74b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 74b"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.400Z"
+status: "active"
 ---
 
-# § 74b. Transferred
+# § 74b. Employment of additional administrative assistants
+
+The Secretary of the Senate is authorized to employ such administrative assistants as may be necessary in order to carry out the provisions of this Act under the jurisdiction of the Secretary.
 

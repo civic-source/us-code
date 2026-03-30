@@ -3,9 +3,10 @@ title: "Section 1999 - Interest rate reduction program"
 usc_title: 7
 usc_section: "1999"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1999"
-generated_at: "2026-03-30T02:53:42.353Z"
+generated_at: "2026-03-30T03:04:20.949Z"
+status: "active"
 ---
 
 # § 1999. Interest rate reduction program
@@ -17,14 +18,14 @@ generated_at: "2026-03-30T02:53:42.353Z"
     - **(B)** is otherwise unable to make payments on such loan in a timely manner; and
     - **(C)** has a total estimated cash income during the 24-month period beginning on the date such contract is entered into (including all farm and nonfarm income) that will equal or exceed the total estimated cash expenses to be incurred by the borrower during such period (including all farm and nonfarm expenses); and
   - **(2)** the lender reduces during the term of such contract the annual rate of interest payable on such loan by a minimum percentage specified in such contract.
-- **(c)** In return for a contract entered into by a lender under subsection (b) for the reduction of the interest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
+- **(c)** In return for a contract entered into by a lender under subsection (b) of this section for the reduction of the interest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
 - **(d)** The term of a contract entered into under this section to reduce the interest rate on a guaranteed loan may not exceed the outstanding term of such loan.
 - **(e)**
   - **(1)** Notwithstanding any other provision of this chapter, the Agricultural Credit Insurance Fund established under section 1929 of this title may be used by the Secretary to carry out this section.
   - **(2)**
     - **(A)** The total amount of funds used by the Secretary to carry out this section for a fiscal year shall not exceed $750,000,000.
     - **(B)**
-      - **(i)** The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers or veteran farmers and ranchers (as defined in section 2279(a) of this title ).
-      - **(ii)** Funds reserved for farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
+      - **(i)** The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
+      - **(ii)** Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 - **(f)** The Secretary shall make available to farmers, on request, a list of lenders in the area that participate in guaranteed farm loan programs and other lenders in the area that express a desire to participate in such programs and that request inclusion in the list.
 - **(g)** Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988 , shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.

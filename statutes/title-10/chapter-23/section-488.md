@@ -1,22 +1,15 @@
 ---
-title: "Section 488 - Management and review of electromagnetic spectrum"
+title: "Section 488 - Management of electromagnetic spectrum: biennial strategic plan"
 usc_title: 10
 usc_section: "488"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 488"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-03-30T03:04:17.222Z"
+status: "active"
 ---
 
-# § 488. Management and review of electromagnetic spectrum
+# § 488. Management of electromagnetic spectrum: biennial strategic plan
 
-- **(a)** The Secretary of Defense shall—
-  - **(1)** ensure the effective organization and management of the electromagnetic spectrum used by the Department of Defense; and
-  - **(2)** establish an enduring review and evaluation process that—
-    - **(A)** considers all requirements relating to such spectrum; and
-    - **(B)** ensures that all users of such spectrum, regardless of the classification of such uses, are involved in the decision-making process of the Department concerning the potential sharing, reassigning, or reallocating of such spectrum, or the relocation of the uses by the Department of such spectrum.
-- **(b)**
-  - **(1)** From time to time as the Secretary and the Chairman of the Joint Chiefs of Staff determine useful for the effective oversight of the access by the Department to electromagnetic spectrum, but not less frequently than every two years, the Secretary and the Chairman shall jointly submit to the congressional defense committees a report on national policy plans regarding implications for such access in bands identified for study for potential reallocation, or under consideration for potential reallocation, by the Policy and Plans Steering Group established by the National Telecommunications and Information Administration.
-  - **(2)** Each report under paragraph (1) shall address, with respect to the electromagnetic spectrum used by the Department that is covered by the report, the implications to the missions of the Department resulting from sharing, reassigning, or reallocating the spectrum, or relocating the uses by the Department of such spectrum, if the Secretary and the Chairman jointly determine that such sharing, reassigning, reallocating, or relocation—
-    - **(A)** would potentially create a loss of essential military capability to the missions of the Department, as determined under feasibility assessments to ensure comparable capability; or
-    - **(B)** would not likely be possible within the 10-year period beginning on the date of the report.
+- **(a)** Every other year, and in time for submission to Congress under subsection (b), the Secretary of Defense shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the mission of the Department of Defense.
+- **(b)** The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under section 1105(a) of title 31 .

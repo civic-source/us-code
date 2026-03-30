@@ -1,0 +1,19 @@
+---
+title: "Section 6961 - Purpose"
+usc_title: 20
+usc_section: "6961"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 6961"
+generated_at: "2026-03-30T03:04:46.348Z"
+status: "active"
+---
+
+# § 6961. Purpose
+
+The purpose of this subpart is to assist eligible local educational agencies that experience unexpectedly large increases in their student population due to immigration—
+
+  - **(1)** to provide high-quality instruction to immigrant children and youth; and
+  - **(2)** to help such children and youth—
+    - **(A)** with their transition into American society; and
+    - **(B)** meet the same challenging State academic content and student academic achievement standards as all children are expected to meet.

@@ -1,12 +1,15 @@
 ---
-title: "Section 500a - Omitted"
+title: "Section 500a - Acquisition of reindeer and other property"
 usc_title: 25
 usc_section: "500a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 500a"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.841Z"
+status: "active"
 ---
 
-# § 500a. Omitted
+# § 500a. Acquisition of reindeer and other property
+
+The Secretary of the Interior is hereby authorized and directed, to acquire, in the name of the United States, by purchase or other lawful means, including exercise of the power of eminent domain, for and on behalf of the Eskimos and other natives of Alaska, reindeer, reindeer-range equipment, abattoirs, cold-storage plants, warehouses, and other property, real or personal, the acquisition of which he determines to be necessary to the effectuation of the purposes of this subchapter. Any condemnation proceedings undertaken by virtue of the authority granted in this section shall conform, as nearly as may be, to the procedure provided for the condemnation of real estate by section 3113 of title 40 , or to that provided by sections 3114 to 3116 and 3118 of title 40: Provided , That nothing herein contained shall authorize the Secretary of the Interior to consolidate native-owned herds of reindeer with herds owned by others than natives prior to the purchase or acquisition of such herds of others than natives.
 

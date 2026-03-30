@@ -3,9 +3,10 @@ title: "Section 7671f - Exchange authority"
 usc_title: 42
 usc_section: "7671f"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7671f"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-03-30T03:06:22.824Z"
+status: "active"
 ---
 
 # § 7671f. Exchange authority
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(1)** The rules under this section shall permit a production allowance for a substance for any year to be transferred for a production allowance for another substance for the same year on an ozone depletion weighted basis.
   - **(2)** Allowances for substances in each group of class I substances (as listed pursuant to section 7671a of this title ) may only be transferred for allowances for other substances in the same Group.
   - **(3)** The Administrator shall, as appropriate, establish groups of class II substances for trading purposes and assign class II substances to such groups. In the case of class II substances, allowances may only be transferred for allowances for other class II substances that are in the same Group.
-- **(c)** The rules under this section shall permit 2 or more persons to transfer production allowances (including interpollutant transfers which meet the requirements of subsections (a) and (b)) if the transferor of such allowances will be subject, under such rules, to an enforceable and quantifiable reduction in annual production which—
+- **(c)** The rules under this section shall permit 2 or more persons to transfer production allowances (including interpollutant transfers which meet the requirements of subsections (a) and (b) of this section) if the transferor of such allowances will be subject, under such rules, to an enforceable and quantifiable reduction in annual production which—
   - **(1)** exceeds the reduction otherwise applicable to the transferor under this subchapter,
   - **(2)** exceeds the production allowances transferred to the transferee, and
   - **(3)** would not have occurred in the absence of such transaction.

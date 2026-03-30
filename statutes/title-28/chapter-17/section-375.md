@@ -3,9 +3,10 @@ title: "Section 375 - Recall of certain judges and magistrate judges"
 usc_title: 28
 usc_section: "375"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 375"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-03-30T03:05:05.812Z"
+status: "active"
 ---
 
 # § 375. Recall of certain judges and magistrate judges
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:55:30.128Z"
 - **(e)** Except as provided in subsection (b), nothing in this section shall affect the right of judges or magistrate judges who retire under the provisions of chapter 83 or chapter 84 of title 5 to serve as reemployed annuitants in accordance with the provisions of title 5. A judge or magistrate judge to whom this section applies may be recalled under section 155, 636(h), or 797 of this title, as the case may be, other than during a 5-year period in which a certification under subsection (a) is in effect with respect to that judge or magistrate judge.
 - **(f)** For purposes of determining the years of service requirements in order to be eligible for recall under this section, any service as a bankruptcy judge or a United States magistrate judge, and any prior service as a referee in bankruptcy or a United States commissioner, may be credited.
 - **(g)** Except as provided in subsection (c), a judge or magistrate judge recalled under this section who retired under the applicable provisions of title 5 shall be considered to be a reemployed annuitant under chapter 83 or chapter 84, as the case may be, of title 5.
-- **(h)** The Judicial Conference of the United States shall promulgate regulations to implement this section.
+- **(h)** The Judicial Conference of the United States may promulgate regulations to implement this section.

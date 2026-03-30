@@ -3,20 +3,21 @@ title: "Section 1232 - Protection for employees under Federal procurement, const
 usc_title: 29
 usc_section: "1232"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1232"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-03-30T03:05:09.725Z"
+status: "active"
 ---
 
 # § 1232. Protection for employees under Federal procurement, construction, and research contracts and grants
 
 - **(a)** The Secretary of Labor shall, during the 2–year period beginning on September 2, 1974 , conduct a full and complete study and investigation of the steps necessary to be taken to insure that professional, scientific, and technical personnel and others working in associated occupations employed under Federal procurement, construction, or research contracts or grants will, to the extent feasible, be protected against forfeitures of pension or retirement rights or benefits, otherwise provided, as a consequence of job transfers or loss of employment resulting from terminations or modifications of Federal contracts, grants, or procurement policies. The Secretary of Labor shall report the results of his study and investigation to the Congress within 2 years after September 2, 1974 . The Secretary of Labor is authorized, to the extent provided by law, to obtain the services of private research institutions and such other persons by contract or other arrangement as he determines necessary in carrying out the provisions of this section.
-- **(b)** In the course of conducting the study and investigation described in subsection (a), and in developing the regulations referred to in subsection (c), the Secretary of Labor shall consult—
+- **(b)** In the course of conducting the study and investigation described in subsection (a) of this section, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
   - **(1)** with appropriate professional societies, business organizations, and labor organizations, and
   - **(2)** with the heads of interested Federal departments and agencies.
-- **(c)** Within 1 year after the date on which he submits his report to the Congress under subsection (a), the Secretary of Labor shall, if he determines it to be feasible, develop regulations, which will provide the protection of pension and retirement rights and benefits referred to in subsection (a).
+- **(c)** Within 1 year after the date on which he submits his report to the Congress under subsection (a) of this section, the Secretary of Labor shall, if he determines it to be feasible, develop regulations, which will provide the protection of pension and retirement rights and benefits referred to in subsection (a) of this section.
 - **(d)**
-  - **(1)** Any regulations developed pursuant to subsection (c) shall take effect if, and only if—
+  - **(1)** Any regulations developed pursuant to subsection (c) of this section shall take effect if, and only if—
     - **(A)** the Secretary of Labor, not later than the day which is 3 years after September 2, 1974 , delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
     - **(B)** before the close of the 120–day period which begins on the day on which the copies of such regulations are delivered to the House of Representatives and to the Senate, neither the House of Representatives nor the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval.
   - **(2)** For purposes of this subsection, the term “resolution of disapproval” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the __ does not favor the taking effect of the regulations transmitted to the Congress by the Secretary of Labor on __”, the first blank space therein being filled with the name of the resolving House and the second blank space therein being filled with the day and year.

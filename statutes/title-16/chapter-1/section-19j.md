@@ -1,12 +1,15 @@
 ---
-title: "Section 19j - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19j - Authority for execution of contracts, instruments, and necessary or appropriate acts"
 usc_title: 16
 usc_section: "19j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 19j"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.398Z"
+status: "active"
 ---
 
-# § 19j. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19j. Authority for execution of contracts, instruments, and necessary or appropriate acts
+
+The Foundation shall have the power to enter into contracts, to execute instruments, and generally to do any and all lawful acts necessary or appropriate to its purposes.
 

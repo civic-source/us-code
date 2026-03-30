@@ -3,9 +3,10 @@ title: "Section 40113 - Airspace systems research"
 usc_title: 51
 usc_section: "40113"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 40113"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-03-30T03:06:49.074Z"
+status: "active"
 ---
 
 # § 40113. Airspace systems research

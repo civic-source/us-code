@@ -3,9 +3,10 @@ title: "Section 8336 - Immediate retirement"
 usc_title: 5
 usc_section: "8336"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8336"
-generated_at: "2026-03-30T02:52:56.047Z"
+generated_at: "2026-03-30T03:04:06.099Z"
+status: "active"
 ---
 
 # § 8336. Immediate retirement
@@ -17,21 +18,6 @@ generated_at: "2026-03-30T02:52:56.047Z"
   - **(2)** An employee is entitled to an annuity if the employee—
     - **(A)** was a law enforcement officer or firefighter employed by the Panama Canal Company or the Canal Zone Government at any time during the period beginning March 31, 1979 , and ending September 30, 1979 ; and
     - **(B)** is separated from the service before January 1, 2000 , after becoming 48 years of age and completing 18 years of service as a law enforcement officer or firefighter, or any combination of such service totaling at least 18 years.
-  - **(3)**
-    - **(A)** In this paragraph—
-      - **(i)** the term “affected individual” means an individual covered under this subchapter who—
-        - **(I)** is performing service in a covered position;
-        - **(II)** while on duty, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under paragraph (1) of this subsection or subsection (e), (m), or (n), as applicable;
-        - **(III)** because of the illness or injury described in subclause (II), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the agency in which the individual was serving when such individual incurred the illness or injury; and
-        - **(IV)** is appointed to a position in the civil service that—
-      - **(ii)** the term “covered position” means a position as a law enforcement officer, customs and border protection officer, firefighter, air traffic controller, nuclear materials courier, member of the Capitol Police, or member of the Supreme Court Police.
-    - **(B)** Unless an affected individual files an election described in subparagraph (E), creditable service by the affected individual in a position described in subparagraph (A)(i)(IV) shall be treated as creditable service in a covered position for purposes of this chapter and determining the amount to be deducted and withheld from the pay of the affected individual under section 8334.
-    - **(C)** Subparagraph (B) shall only apply if the affected employee transitions to a position described in subparagraph (A)(i)(IV) without a break in service exceeding 3 days.
-    - **(D)** The service of an affected individual shall no longer be eligible for treatment under subparagraph (B) if such service occurs after the individual—
-      - **(i)** is transferred to a supervisory or administrative position related to the activities of the former covered position of the individual; or
-      - **(ii)** meets the age and service requirements that would subject the individual to mandatory separation under section 8335 if such individual had remained in the former covered position.
-    - **(E)** In accordance with procedures established by the Director of the Office of Personnel Management, an affected individual may file an election to have any creditable service performed by the affected individual treated in accordance with this chapter without regard to subparagraph (B).
-    - **(F)** Nothing in this paragraph shall be construed to apply to such affected individual any other pay-related laws or regulations applicable to a covered position.
 - **(d)** An employee who—
   - **(1)** is separated from the service involuntarily, except by removal for cause on charges of misconduct or delinquency; or
   - **(2)**
@@ -90,7 +76,7 @@ generated_at: "2026-03-30T02:52:56.047Z"
       - **(ii)** the Secretary finds that such postponement is necessary for the continued effective operation of the agency.
   - **(4)** For the purpose of this subsection—
     - **(A)** “Bureau of Indian Affairs” means (i) the Bureau of Indian Affairs and (ii) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
-    - **(B)** “Indian preference laws” means section 12 of the Act of June 18, 1934 ( 25 U.S.C. 472 ; 48 Stat. 986 ), 3 or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
+    - **(B)** “Indian preference laws” means section 12 of the Act of June 18, 1934 ( 25 U.S.C. 472 ; 48 Stat. 986 ), or any other provision of law granting a preference to Indians in promotions or other Federal personnel actions.
 - **(k)** A bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge, United States magistrate judge, or Court of Federal Claims judge, is entitled to an annuity.
 - **(l)** A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 - **(m)** A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.

@@ -3,16 +3,20 @@ title: "Section 503 - Requirements for exemption"
 usc_title: 26
 usc_section: "503"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:27.711Z"
+generated_at: "2026-03-30T03:05:18.606Z"
+status: "active"
 ---
 
 # § 503. Requirements for exemption
 
 - **(a)**
-  - **(1)** An organization described in paragraph (17) or (18) of section 501(c), or described in section 401(a) and referred to in section 4975(g) (2) or (3), shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction.
-  - **(2)** An organization described in paragraph (1) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+  - **(1)**
+    - **(A)** An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959 .
+    - **(B)** An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954 .
+    - **(C)** An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969 .
+  - **(2)** An organization described in section 501(c) (17) or (18) or paragraph (1)(B) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 - **(b)** For purposes of this section, the term “prohibited transaction” means any transaction in which an organization subject to the provisions of this section—
   - **(1)** lends any part of its income or corpus, without the receipt of adequate security and a reasonable rate of interest, to;
   - **(2)** pays any compensation, in excess of a reasonable allowance for salaries or other compensation for personal services actually rendered, to;
@@ -20,7 +24,7 @@ generated_at: "2026-03-30T02:55:27.711Z"
   - **(4)** makes any substantial purchase of securities or any other property, for more than adequate consideration in money or money’s worth, from;
   - **(5)** sells any substantial part of its securities or other property, for less than an adequate consideration in money or money’s worth, to; or
   - **(6)** engages in any other transaction which results in a substantial diversion of its income or corpus to;
-- **(c)** Any organization described in subsection (a)(1) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
+- **(c)** Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 - **[(d)**
 - **(e)** For purposes of subsection (b)(1), a bond, debenture, note, or certificate or other evidence of indebtedness (hereinafter in this subsection referred to as “obligation”) shall not be treated as a loan made without the receipt of adequate security if—
   - **(1)** such obligation is acquired—

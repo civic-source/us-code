@@ -3,9 +3,10 @@ title: "Section 268a - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 22
 usc_section: "268a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 268a"
-generated_at: "2026-03-30T02:55:05.309Z"
+generated_at: "2026-03-30T03:04:53.588Z"
+status: "repealed"
 ---
 
 # § 268a. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 650

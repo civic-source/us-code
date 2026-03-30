@@ -3,9 +3,10 @@ title: "Section 791 - Employment of individuals with disabilities"
 usc_title: 29
 usc_section: "791"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 791"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-03-30T03:05:09.686Z"
+status: "active"
 ---
 
 # § 791. Employment of individuals with disabilities
@@ -15,4 +16,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
 - **(c)** The Commission, after consultation with the Committee, shall develop and recommend to the Secretary for referral to the appropriate State agencies, policies and procedures which will facilitate the hiring, placement, and advancement in employment of individuals who have received rehabilitation services under State vocational rehabilitation programs, veterans’ programs, or any other program for individuals with disabilities, including the promotion of job opportunities for such individuals. The Secretary shall encourage such State agencies to adopt and implement such policies and procedures.
 - **(d)** The Commission, after consultation with the Committee, shall, on June 30, 1974 , and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the Smithsonian Institution and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action to insure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
 - **(e)** An individual who, as a part of an individualized plan for employment under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
-- **(f)** The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.
+- **(f)**
+  - **(1)** The Secretary of Labor and the Secretary of Education are authorized and directed to cooperate with the President’s Committee on Employment of People With Disabilities in carrying out its functions.
+  - **(2)** In selecting personnel to fill all positions on the President’s Committee on Employment of People With Disabilities, special consideration shall be given to qualified individuals with disabilities.
+- **(g)** The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.

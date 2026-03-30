@@ -3,14 +3,15 @@ title: "Section 3193 - Authorization to Secretary of Agriculture"
 usc_title: 7
 usc_section: "3193"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3193"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-03-30T03:04:20.979Z"
+status: "active"
 ---
 
 # § 3193. Authorization to Secretary of Agriculture
 
-- **(a)** In order to carry out the purpose of this subchapter, the Secretary is authorized to cooperate with, encourage, and assist the States in carrying out programs of animal health and disease research at eligible institutions under sections 3195(a) and 3196 of this title in the manner hereinafter described in this subchapter.
+- **(a)** In order to carry out the purpose of this subchapter, the Secretary is authorized to cooperate with, encourage, and assist the States in carrying out programs of animal health and disease research at eligible institutions in the manner hereinafter described in this subchapter.
 - **(b)**
   - **(1)** The Secretary shall commission the National Academy of Sciences, working through the Board on Agriculture of the National Research Council, to conduct a study of the delivery system utilized to provide farmers, including small and limited resource farmers, and ranchers with animal care and veterinary medical services, including animal drugs.
   - **(2)** The study required by this subsection shall assess opportunities to—

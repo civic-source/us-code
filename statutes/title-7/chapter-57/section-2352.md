@@ -3,9 +3,10 @@ title: "Section 2352 - Form of papers filed"
 usc_title: 7
 usc_section: "2352"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2352"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-03-30T03:04:20.971Z"
+status: "active"
 ---
 
 # § 2352. Form of papers filed

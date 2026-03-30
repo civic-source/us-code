@@ -3,9 +3,10 @@ title: "Section 5549 - Effect on other statutes"
 usc_title: 5
 usc_section: "5549"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 5549"
-generated_at: "2026-03-30T02:52:56.021Z"
+generated_at: "2026-03-30T03:04:06.081Z"
+status: "active"
 ---
 
 # § 5549. Effect on other statutes
@@ -16,4 +17,4 @@ This subchapter does not prevent payment for overtime services or for Sunday or 
   - **(2)** sections 1353a and 1353b of title 8;
   - **(3)** sections 261, 1 1 See References in Text note below. 267, 1450, 1451, 1451a, 1 and 1452 of title 19;
   - **(4)** sections 2111 and 2112 of title 46; and
-  - **(5)** section 154(f)(3) of title 47 .
+  - **(5)** section 154(f)(3) of title 47 . However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.

@@ -1,12 +1,15 @@
 ---
-title: "Section 1054 - Omitted"
+title: "Section 1054 - Costs"
 usc_title: 25
 usc_section: "1054"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1054"
-generated_at: "2026-03-30T02:54:52.813Z"
+generated_at: "2026-03-30T03:05:02.860Z"
+status: "active"
 ---
 
-# § 1054. Omitted
+# § 1054. Costs
+
+Any costs incurred by the Secretary in the preparation of the rolls and in the distribution of payment of pro rata shares in accordance with the provisions of this subchapter shall be paid by appropriate withdrawals from the judgment fund.
 

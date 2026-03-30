@@ -3,9 +3,10 @@ title: "Section 4304 - Provision of benefits"
 usc_title: 22
 usc_section: "4304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4304"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-03-30T03:04:53.679Z"
+status: "active"
 ---
 
 # § 4304. Provision of benefits
@@ -16,16 +17,16 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(2)** to protect the interests of the United States,
   - **(3)** to adjust for costs and procedures of obtaining benefits for missions of the United States abroad,
   - **(4)** to assist in resolving a dispute affecting United States interests and involving a foreign mission or sending State, or
-  - **(5)** subject to subsection (f), to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
+  - **(5)** subject to subsection (f) of this section, to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
 - **(c)** Terms and conditions established by the Secretary under this section may include—
   - **(1)** a requirement to pay to the Secretary a surcharge or fee, and
   - **(2)** a waiver by a foreign mission (or any assignee of or person deriving rights from a foreign mission) of any recourse against any governmental authority, any entity providing public services, any employee or agent of such an authority or entity, or any other person, in connection with any action determined by the Secretary to be undertaken in furtherance of this chapter.
 - **(d)** For purposes of effectuating a waiver of recourse which is required under this section, the Secretary may designate any officer of the Department of State as the agent of a foreign mission (or of any assignee of or person deriving rights from a foreign mission). Any such waiver by an officer so designated shall for all purposes (including any court or administrative proceeding) be deemed to be a waiver by the foreign mission (or the assignee of or other person deriving rights from a foreign mission).
 - **(e)** Nothing in this chapter shall be deemed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service.
 - **(f)**
-  - **(1)** Upon a determination in each specific case by the Secretary of State or the Secretary’s designee that the purpose of the Foreign Service Buildings Act, 1926 [ 22 U.S.C. 292 et seq.], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5), the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title . Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5).
-  - **(2)** The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
-  - **(3)** The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5).
+  - **(1)** Upon a determination in each specific case by the Secretary of State or the Secretary’s designee that the purpose of the Foreign Service Buildings Act, 1926 [ 22 U.S.C. 292 et seq.], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title . Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
+  - **(2)** The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) of this section only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
+  - **(3)** The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5) of this section.
   - **(4)** At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
   - **(5)**
     - **(A)** Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 [ 22 U.S.C. 300 ]).

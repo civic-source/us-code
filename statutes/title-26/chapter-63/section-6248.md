@@ -1,0 +1,25 @@
+---
+title: "Section 6248 - Period of limitations for making adjustments"
+usc_title: 26
+usc_section: "6248"
+chapter: 63
+current_through: "PL 113-21"
+classification: "26 U.S.C. § 6248"
+generated_at: "2026-03-30T03:05:18.723Z"
+status: "active"
+---
+
+# § 6248. Period of limitations for making adjustments
+
+- **(a)** Except as otherwise provided in this section, no adjustment under this subpart to any partnership item for any partnership taxable year may be made after the date which is 3 years after the later of—
+  - **(1)** the date on which the partnership return for such taxable year was filed, or
+  - **(2)** the last day for filing such return for such year (determined without regard to extensions).
+- **(b)** The period described in subsection (a) (including an extension period under this subsection) may be extended by an agreement entered into by the Secretary and the partnership before the expiration of such period.
+- **(c)**
+  - **(1)** In the case of a false or fraudulent partnership return with intent to evade tax, the adjustment may be made at any time.
+  - **(2)** If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
+  - **(3)** In the case of a failure by a partnership to file a return for any taxable year, the adjustment may be made at any time.
+  - **(4)** For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
+- **(d)** If notice of a partnership adjustment with respect to any taxable year is mailed to the partnership, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
+  - **(1)** for the period during which an action may be brought under section 6247 (and, if a petition is filed under section 6247 with respect to such notice, until the decision of the court becomes final), and
+  - **(2)** for 1 year thereafter.

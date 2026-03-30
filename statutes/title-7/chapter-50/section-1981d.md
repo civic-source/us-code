@@ -3,15 +3,16 @@ title: "Section 1981d - Notice of loan service programs"
 usc_title: 7
 usc_section: "1981d"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1981d"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-03-30T03:04:20.946Z"
+status: "active"
 ---
 
 # § 1981d. Notice of loan service programs
 
 - **(a)** The Secretary shall provide notice by certified mail to each borrower who is at least 90 days past due on the payment of principal or interest on a loan made or insured under this chapter.
-- **(b)** The notice required under subsection (a) shall—
+- **(b)** The notice required under subsection (a) of this section shall—
   - **(1)** include a summary of all primary loan service programs, preservation loan service programs, debt settlement programs, and appeal procedures, including the eligibility criteria, and terms and conditions of such programs and procedures;
   - **(2)** include a summary of the manner in which the borrower may apply, and be considered, for all such programs, except that the Secretary shall not require the borrower to select among such programs or waive any right in order to be considered for any program carried out by the Secretary;
   - **(3)** advise the borrower regarding all filing requirements and any deadlines that must be met for requesting loan servicing;
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:42.350Z"
   - **(5)** advise the borrower that a copy of regulations is available on request; and
   - **(6)** be designed to be readable and understandable by the borrower.
 - **(c)** All notices required by this section shall be contained in the regulations implementing this chapter.
-- **(d)** The notice described in subsection (b) shall be provided—
+- **(d)** The notice described in subsection (b) of this section shall be provided—
   - **(1)** at the time an application is made for participation in a loan service program;
   - **(2)** on written request of the borrower; and
   - **(3)** before the earliest of—

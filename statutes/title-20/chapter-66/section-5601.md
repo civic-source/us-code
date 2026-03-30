@@ -3,9 +3,10 @@ title: "Section 5601 - Findings"
 usc_title: 20
 usc_section: "5601"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 5601"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-03-30T03:04:46.325Z"
+status: "active"
 ---
 
 # § 5601. Findings
@@ -18,7 +19,7 @@ The Congress finds that—
   - **(4)** it is a fitting tribute to the leadership, courage, and vision Congressman Morris K. Udall exemplifies to establish in his name programs to encourage the continued use, enjoyment, education, and exploration of our Nation’s rich and bountiful natural resources;
   - **(5)** the Foundation—
     - **(A)** since 1995, has operated exceptional scholarship, internship, and fellowship programs for areas of study related to the environment and Native American tribal policy and health care;
-    - **(B)** since 1999, has provided valuable environmental conflict resolution services and leadership through the National Center (previously known as the United States Institute for Environmental Conflict Resolution); and
+    - **(B)** since 1999, has provided valuable environmental conflict resolution services and leadership through the United States Institute for Environmental Conflict Resolution; and
     - **(C)** is committed to continue making a substantial contribution toward public policy in the future by—
       - **(i)** playing a significant role in developing the next generation of environmental and Native American leaders; and
       - **(ii)** working with current leaders to improve decisionmaking on—

@@ -3,9 +3,10 @@ title: "Section 717b - Exportation or importation of natural gas; LNG terminals"
 usc_title: 15
 usc_section: "717b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 717b"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-03-30T03:04:31.147Z"
+status: "active"
 ---
 
 # § 717b. Exportation or importation of natural gas; LNG terminals
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:08.117Z"
 - **(b)** With respect to natural gas which is imported into the United States from a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, and with respect to liquefied natural gas—
   - **(1)** the importation of such natural gas shall be treated as a “first sale” within the meaning of section 3301(21) of this title ; and
   - **(2)** the Commission shall not, on the basis of national origin, treat any such imported natural gas on an unjust, unreasonable, unduly discriminatory, or preferential basis.
-- **(c)** For purposes of subsection (a), the importation of the natural gas referred to in subsection (b), or the exportation of natural gas to a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
+- **(c)** For purposes of subsection (a) of this section, the importation of the natural gas referred to in subsection (b) of this section, or the exportation of natural gas to a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
 - **(d)** Except as specifically provided in this chapter, nothing in this chapter affects the rights of States under—
   - **(1)** the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451 et seq.);
   - **(2)** the Clean Air Act ( 42 U.S.C. 7401 et seq.); or

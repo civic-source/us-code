@@ -3,9 +3,10 @@ title: "Section 6435a - Standards of conduct and disclosure"
 usc_title: 22
 usc_section: "6435a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6435a"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-03-30T03:04:53.697Z"
+status: "active"
 ---
 
 # § 6435a. Standards of conduct and disclosure
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
     - **(B)** a nongovernmental agency or project of which that member, or a relative of that member, of the Commission is an officer, trustee, partner, director, or employee.
 - **(c)**
   - **(1)** Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5 , except that the Commission may not expend more than $250,000 in any fiscal year to procure such services.
-  - **(2)** In the case of a study requested under section 6474 2 2 See References in Text note below. of this title, the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
+  - **(2)** In the case of a study requested under section 6474 of this title , the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
 - **(d)**
   - **(1)** In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
   - **(2)** This subsection shall not apply to the following:
@@ -34,5 +35,3 @@ generated_at: "2026-03-30T02:55:05.428Z"
     - **(F)** Informational materials such as documents, books, videotapes, periodicals, or other forms of communications.
     - **(G)** Goods or services provided by any agency or component of the Government of the United States, including any commission established under the authority of such Government.
 - **(e)** In addition to providing the reports required under section 6432 of this title , the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
-- **(f)** The Commission shall comply with all of the records management requirements set forth in chapter 31 of title 44 (commonly referred to as the “Federal Records Act of 1950”).
-- **(g)** When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.

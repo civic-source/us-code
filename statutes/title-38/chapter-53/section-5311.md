@@ -3,9 +3,10 @@ title: "Section 5311 - Prohibition of certain benefit payments"
 usc_title: 38
 usc_section: "5311"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5311"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-03-30T03:05:59.223Z"
+status: "active"
 ---
 
 # § 5311. Prohibition of certain benefit payments

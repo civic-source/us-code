@@ -3,12 +3,13 @@ title: "Section 1249 - Gain from certain sales or exchanges of patents, etc., to
 usc_title: 26
 usc_section: "1249"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1249"
-generated_at: "2026-03-30T02:55:27.762Z"
+generated_at: "2026-03-30T03:05:18.648Z"
+status: "active"
 ---
 
 # § 1249. Gain from certain sales or exchanges of patents, etc., to foreign corporations
 
-- **(a)** Gain from the sale or exchange of a patent, an invention, model, or design (whether or not patented), a copyright, a secret formula or process, or any other similar property right to any foreign corporation by any United States person (as defined in section 7701(a)(30)) which controls such foreign corporation shall, if such gain would (but for the provisions of this subsection) be gain from the sale or exchange of a capital asset or of property described in section 1231, be considered as ordinary income.
+- **(a)** Gain from the sale or exchange after December 31, 1962 , of a patent, an invention, model, or design (whether or not patented), a copyright, a secret formula or process, or any other similar property right to any foreign corporation by any United States person (as defined in section 7701(a)(30)) which controls such foreign corporation shall, if such gain would (but for the provisions of this subsection) be gain from the sale or exchange of a capital asset or of property described in section 1231, be considered as ordinary income.
 - **(b)** For purposes of subsection (a), control means, with respect to any foreign corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote. For purposes of this subsection, the rules for determining ownership of stock prescribed by section 958 shall apply.

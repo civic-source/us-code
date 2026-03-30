@@ -3,9 +3,10 @@ title: "Section 13334 - Nonfuel use of coal"
 usc_title: 42
 usc_section: "13334"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13334"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-03-30T03:06:22.927Z"
+status: "active"
 ---
 
 # § 13334. Nonfuel use of coal
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(3)** production of chemicals from coal-derived synthesis gas;
   - **(4)** coal treatment processes, including methodologies such as solvent-extraction techniques that produce low ash, low sulfur, coal-based chemical feedstocks; and
   - **(5)** waste utilization, including recovery, processing, and marketing of products derived from sulfur, carbon dioxide, nitrogen, and ash from coal.
-- **(b)** The plan described in subsection (a) shall address and evaluate—
+- **(b)** The plan described in subsection (a) of this section shall address and evaluate—
   - **(1)** the known and potential processes for using coal in the creation of products in the chemical, utility, fuel, and carbon-based materials industries;
   - **(2)** the costs, benefits, and economic feasibility of using coal products in the chemical and materials industries, including value-added chemicals, carbon-based products, coke, and waste derived from coal;
   - **(3)** the economics of coproduction of products from coal in conjunction with the production of electric power, thermal energy, and fuel;

@@ -3,9 +3,10 @@ title: "Section 9578 - Scientific or technical employees"
 usc_title: 20
 usc_section: "9578"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9578"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-03-30T03:04:46.376Z"
+status: "active"
 ---
 
 # § 9578. Scientific or technical employees
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(2)** the rate of basic pay for such employees does not exceed the maximum rate of basic pay payable for positions at GS–15, as determined in accordance with section 5376 of title 5 , except that not more than 7 individuals appointed under this section may be paid at a rate that does not exceed the rate of basic pay for level III of the Executive Schedule;
   - **(3)** the appointment of such employee is necessary (as determined by the Director on the basis of clear and convincing evidence) to provide the Institute or the office, board, committee, or center with scientific or technical expertise which could not otherwise be obtained by the Institute or the office, board, committee, or center through the competitive service; and
   - **(4)** the total number of such employees does not exceed 40 individuals or ⅕ of the number of full-time, regular scientific or professional employees of the Institute, whichever is greater.
-- **(b)** All employees described in subsection (a) shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
+- **(b)** All employees described in subsection (a) of this section shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.

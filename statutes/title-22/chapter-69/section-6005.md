@@ -3,9 +3,10 @@ title: "Section 6005 - Sanctions"
 usc_title: 22
 usc_section: "6005"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6005"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-03-30T03:04:53.691Z"
+status: "active"
 ---
 
 # § 6005. Sanctions
@@ -22,4 +23,4 @@ generated_at: "2026-03-30T02:55:05.422Z"
     - **(B)** the term “United States” includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19 ; and
     - **(C)** the term “Cuban national” means a national of Cuba, as the term “national” is defined in section 515.302 of title 31, Code of Federal Regulations, as of August 1, 1992 .
 - **(c)** The President shall establish strict limits on remittances to Cuba by United States persons for the purpose of financing the travel of Cubans to the United States, in order to ensure that such remittances reflect only the reasonable costs associated with such travel, and are not used by the Government of Cuba as a means of gaining access to United States currency.
-- **(d)** The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [ 50 U.S.C. 4305(b)(4) ].
+- **(d)** The prohibitions contained in subsections (a), (b), and (c) of this section shall not apply with respect to any activity otherwise permitted by section 6004 of this title or section 6006 of this title or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [ 12 U.S.C. 95a(4) , 50 U.S.C. App. 5(b)(4)].

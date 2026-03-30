@@ -3,9 +3,10 @@ title: "Section 4727 - Trade Promotion Coordinating Committee"
 usc_title: 15
 usc_section: "4727"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4727"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-03-30T03:04:31.228Z"
+status: "active"
 ---
 
 # § 4727. Trade Promotion Coordinating Committee
@@ -23,14 +24,13 @@ generated_at: "2026-03-30T02:54:08.203Z"
   - **(4)** prevent unnecessary duplication in Federal export promotion and export financing activities;
   - **(5)** assess the appropriate levels and allocation of resources among agencies in support of export promotion and export financing and provide recommendations to the President based on its assessment; and
   - **(6)** carry out such other duties as are deemed to be appropriate, consistent with the purpose of the TPCC.
-- **(c)** To carry out subsection (b), the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
+- **(c)** To carry out subsection (b) of this section, the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
   - **(1)** establish a set of priorities for Federal activities in support of United States exports and explain the rationale for the priorities;
   - **(2)** review current Federal programs designed to promote the sale of United States exports in light of the priorities established under paragraph (1) and develop a plan to bring such activities into line with the priorities and to improve coordination of such activities;
   - **(3)** identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
   - **(4)** propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
-  - **(5)** review efforts by the States (as defined in section 4721(i) of this title ) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data;
-  - **(6)** reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC; and
-  - **(7)** in coordination with State trade promotion agencies, include a survey and analysis regarding the overall effectiveness of Federal-State coordination and export promotion goals on an annual basis, to further include best practices, recommendations to better assist small businesses, and other relevant matters.
+  - **(5)** review efforts by the States (as defined in section 4721(i) of this title ) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
+  - **(6)** reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
 - **(d)**
   - **(1)** Members of the TPCC shall include representatives from—
     - **(A)** the Department of Commerce;
@@ -43,12 +43,11 @@ generated_at: "2026-03-30T02:54:08.203Z"
     - **(H)** the Small Business Administration;
     - **(I)** the Agency for International Development;
     - **(J)** the Trade and Development Program;
-    - **(K)** the United States International Development Finance Corporation;
+    - **(K)** the Overseas Private Investment Corporation;
     - **(L)** the Export-Import Bank of the United States; and
     - **(M)** at the discretion of the President, such other departments or agencies as may be necessary.
-  - **(2)** The TPCC shall also include 1 or more members appointed by the President who are representatives of State trade promotion agencies.
-  - **(3)** The Secretary of Commerce shall serve as the chairperson of the TPCC.
-- **(e)** Members of the TPCC (other than members described in subsection (d)(2)) shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
+  - **(2)** The Secretary of Commerce shall serve as the chairperson of the TPCC.
+- **(e)** Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
 - **(f)** The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
-  - **(1)** the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
+  - **(1)** the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
   - **(2)** the implementation of sections 5823 and 5824 of title 22 1 1 See References in Text note below. concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.

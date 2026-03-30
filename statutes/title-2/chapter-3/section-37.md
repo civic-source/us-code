@@ -1,12 +1,15 @@
 ---
-title: "Section 37 - Transferred"
+title: "Section 37 - Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms"
 usc_title: 2
 usc_section: "37"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 37"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-03-30T03:04:04.389Z"
+status: "active"
 ---
 
-# § 37. Transferred
+# § 37. Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms
+
+The salaries of Representatives in Congress, Delegates from Territories, and Resident Commissioners, elected for unexpired terms, shall commence on the date of their election and not before.
 

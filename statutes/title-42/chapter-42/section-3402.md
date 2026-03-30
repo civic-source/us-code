@@ -3,9 +3,10 @@ title: "Section 3402 - State facilities and personnel for care and treatment; en
 usc_title: 42
 usc_section: "3402"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3402"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-03-30T03:06:22.688Z"
+status: "active"
 ---
 
 # § 3402. State facilities and personnel for care and treatment; encouragement of adequate provision; benefit of experience of Surgeon General and Attorney General

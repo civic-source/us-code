@@ -3,12 +3,13 @@ title: "Section 11 - Program"
 usc_title: 42
 usc_section: "11"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-03-30T03:06:22.683Z"
+status: "active"
 ---
 
 # § 3057k–11. Program
 
-- **(a)** The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in section 3030s–1 of this title for caregivers described in section 3030s–1 of this title .
-- **(b)** In providing services under subsection (a), a tribal organization shall meet the requirements specified for an area agency on aging and for a State in the provisions of subsections (c), (d), and (f) of section 3030s–1 of this title and of section 3030s–2 of this title . For purposes of this subsection, references in such provisions to a State program shall be considered to be references to a tribal program under this part.
+- **(a)** The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B of this subchapter, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in section 3030s–1 of this title for caregivers described in section 3030s–1 of this title .
+- **(b)** In providing services under subsection (a) of this section, a tribal organization shall meet the requirements specified for an area agency on aging and for a State in the provisions of subsections (c), (d), and (e) of section 3030s–1 of this title and of section 3030s–2 of this title . For purposes of this subsection, references in such provisions to a State program shall be considered to be references to a tribal program under this part.

@@ -3,9 +3,10 @@ title: "Section 9611 - Uses of Fund"
 usc_title: 42
 usc_section: "9611"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9611"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-03-30T03:06:22.850Z"
+status: "active"
 ---
 
 # § 9611. Uses of Fund
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
   - **(2)** No money in the Fund may be used for the payment of any claim under subsection (b) of this section where such expenses are associated with injury or loss resulting from long-term exposure to ambient concentrations of air pollutants from multiple or diffuse sources.
 - **(e)**
   - **(1)** Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
-  - **(2)** In any fiscal year, 85 percent of the money credited to the Fund under subchapter II 1 of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
+  - **(2)** In any fiscal year, 85 percent of the money credited to the Fund under subchapter II 2 2 See References in Text note below. of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
   - **(3)** No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
   - **(4)** Paragraphs (1) and (4) of subsection (a) of this section shall in the aggregate be subject to such amounts as are provided in appropriation Acts.
 - **(f)** The President is authorized to promulgate regulations designating one or more Federal officials who may obligate money in the Fund in accordance with this section or portions thereof. The President is also authorized to delegate authority to obligate money in the Fund or to settle claims to officials of a State or Indian tribe operating under a contract or cooperative agreement with the Federal Government pursuant to section 9604(d) of this title .
@@ -56,7 +57,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
   - **(2)** the claimant is not otherwise compensated for his loss;
   - **(3)** the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended ( 43 U.S.C. 1331 et seq.) or the Deepwater Port Act of 1974, as amended ( 33 U.S.C. 1501 et seq.); and
   - **(4)** recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
-- **(m)** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+- **(m)** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 - **(n)**
   - **(1)** For each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, not more than $20,000,000 of the amounts available in the Fund may be used for the purposes of carrying out the applied research, development, and demonstration program for alternative or innovative technologies and training program authorized under section 9660(b) of this title (relating to research, development, and demonstration) other than basic research. Such amounts shall remain available until expended.
   - **(2)** From the amounts available in the Fund, not more than the following amounts may be used for the purposes of section 9660(a) of this title (relating to hazardous substance research, demonstration, and training activities):

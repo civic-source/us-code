@@ -3,17 +3,16 @@ title: "Section 5310 - Formula grants for the enhanced mobility of seniors and i
 usc_title: 49
 usc_section: "5310"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5310"
-generated_at: "2026-03-30T02:56:19.313Z"
+generated_at: "2026-03-30T03:06:29.278Z"
+status: "active"
 ---
 
 # § 5310. Formula grants for the enhanced mobility of seniors and individuals with disabilities
 
 - **(a)** In this section, the following definitions shall apply:
-  - **(1)** The term “recipient” means—
-    - **(A)** a designated recipient or a State that receives a grant under this section directly; or
-    - **(B)** a State or local governmental entity that operates a public transportation service.
+  - **(1)** The term “recipient” means a designated recipient or a State that receives a grant under this section directly.
   - **(2)** The term “subrecipient” means a State or local governmental authority, a private nonprofit organization, or an operator of public transportation that receives a grant under this section indirectly through a recipient.
 - **(b)**
   - **(1)** The Secretary may make grants under this section to recipients for—
@@ -92,9 +91,3 @@ generated_at: "2026-03-30T02:56:19.313Z"
     - **(B)** ridership;
     - **(C)** accessibility improvements; and
     - **(D)** other measures, as the Secretary determines is appropriate.
-- **(i)** The Secretary shall collect from, review, and disseminate to public transportation agencies—
-  - **(1)** innovative practices;
-  - **(2)** program models;
-  - **(3)** new service delivery options;
-  - **(4)** findings from activities under subsection (h); and
-  - **(5)** transit cooperative research program reports.

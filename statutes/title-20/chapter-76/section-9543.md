@@ -3,9 +3,10 @@ title: "Section 9543 - Duties"
 usc_title: 20
 usc_section: "9543"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9543"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-03-30T03:04:46.375Z"
+status: "active"
 ---
 
 # § 9543. Duties
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
     - **(E)** access to, and opportunity for, postsecondary education, including data on financial aid to postsecondary students;
     - **(F)** teaching, including—
       - **(i)** data on in-service professional development, including a comparison of courses taken in the core academic areas of reading, mathematics, and science with courses in noncore academic areas, including technology courses; and
-      - **(ii)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title . 1 1 So in original. The period probably should not appear. in each State and, where feasible, in each local educational agency and school;
+      - **(ii)** the percentage of teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )) in each State and, where feasible, in each local educational agency and school;
     - **(G)** instruction, the conditions of the education workplace, and the supply of, and demand for, teachers;
     - **(H)** the incidence, frequency, seriousness, and nature of violence affecting students, school personnel, and other individuals participating in school activities, as well as other indices of school safety, including information regarding—
       - **(i)** the relationship between victims and perpetrators;

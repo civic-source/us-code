@@ -1,0 +1,31 @@
+---
+title: "Section 6534 - Advanced placement test fee program"
+usc_title: 20
+usc_section: "6534"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 6534"
+generated_at: "2026-03-30T03:04:46.340Z"
+status: "active"
+---
+
+# § 6534. Advanced placement test fee program
+
+- **(a)** From amounts made available under section 6533 of this title for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this section to enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
+  - **(1)** are enrolled in an advanced placement course; and
+  - **(2)** plan to take an advanced placement test.
+- **(b)** In determining the amount of the grant awarded to a State educational agency under this section for a fiscal year, the Secretary shall consider the number of children eligible to be counted under section 6333(c) of this title in the State in relation to the number of such children so counted in all the States.
+- **(c)** A State educational agency awarded a grant under this section shall disseminate information regarding the availability of advanced placement test fee payments under this section to eligible individuals through secondary school teachers and guidance counselors.
+- **(d)** Each State educational agency desiring to receive a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. At a minimum, each State educational agency application shall—
+  - **(1)** describe the advanced placement test fees the State educational agency will pay on behalf of low-income individuals in the State from grant funds awarded under this section;
+  - **(2)** provide an assurance that any grant funds awarded under this section shall be used only to pay for advanced placement test fees; and
+  - **(3)** contain such information as the Secretary may require to demonstrate that the State educational agency will ensure that a student is eligible for payments authorized under this section, including documentation required under chapter 1 of subpart 2 of part A of title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070a–11 et seq.].
+- **(e)** The Secretary shall prescribe such regulations as are necessary to carry out this section.
+- **(f)**
+  - **(1)** Each State educational agency awarded a grant under this section shall, with respect to each advanced placement subject, annually report to the Secretary on—
+    - **(A)** the number of students in the State who are taking an advanced placement course in that subject;
+    - **(B)** the number of advanced placement tests taken by students in the State who have taken an advanced placement course in that subject;
+    - **(C)** the number of students in the State scoring at different levels on advanced placement tests in that subject; and
+    - **(D)** demographic information regarding individuals in the State taking advanced placement courses and tests in that subject disaggregated by race, ethnicity, sex, English proficiency status, and socioeconomic status.
+  - **(2)** The Secretary shall annually compile the information received from each State educational agency under paragraph (1) and report to the appropriate committees of Congress regarding the information.
+- **(g)** For purposes of this section the Bureau of Indian Affairs shall be treated as a State educational agency.

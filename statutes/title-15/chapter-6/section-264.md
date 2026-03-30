@@ -3,12 +3,13 @@ title: "Section 264 - Part of Idaho in fourth zone"
 usc_title: 15
 usc_section: "264"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 264"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-03-30T03:04:31.115Z"
+status: "active"
 ---
 
 # § 264. Part of Idaho in fourth zone
 
-In the division of territory, and in the definition of the limits of each zone, as provided in sections 261 to 264 of this title, so much of the State of Idaho as lies south of the Salmon River, traversing the State from east to west near forty-five degrees thirty minutes latitude shall be embraced in the fourth zone: Provided , That common carriers within such portion of the State of Idaho may conduct their operations on Pacific time.
+In the division of territory, and in the definition of the limits of each zone, as provided in sections 261 to 264 of this title, so much of the State of Idaho as lies south of the Salmon River, traversing the State from east to west near forty-five degrees thirty minutes latitude, shall be embraced in the fourth zone: Provided , That common carriers within such portion of the State of Idaho may conduct their operations on Pacific time.
 

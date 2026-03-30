@@ -3,9 +3,10 @@ title: "Section 347c - Advances to individuals, partnerships, and corporations; 
 usc_title: 12
 usc_section: "347c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 347c"
-generated_at: "2026-03-30T02:53:53.379Z"
+generated_at: "2026-03-30T03:04:29.198Z"
+status: "active"
 ---
 
 # § 347c. Advances to individuals, partnerships, and corporations; security; interest rate

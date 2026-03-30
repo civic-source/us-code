@@ -3,9 +3,10 @@ title: "Section 1871 - Semiannual report of the Attorney General"
 usc_title: 50
 usc_section: "1871"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1871"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-03-30T03:06:37.644Z"
+status: "active"
 ---
 
 # § 1871. Semiannual report of the Attorney General
@@ -15,19 +16,17 @@ generated_at: "2026-03-30T02:56:26.210Z"
     - **(A)** electronic surveillance under section 1805 of this title ;
     - **(B)** physical searches under section 1824 of this title ;
     - **(C)** pen registers under section 1842 of this title ;
-    - **(D)** access to records under section 1861 1 1 See References in Text note below. of this title;
+    - **(D)** access to records under section 1861 of this title ;
     - **(E)** acquisitions under section 1881b of this title ; and
     - **(F)** acquisitions under section 1881c of this title ;
-  - **(2)** the number of individuals covered by an order issued pursuant to section 1801(b)(1)(C) 1 of this title;
+  - **(2)** the number of individuals covered by an order issued pursuant to section 1801(b)(1)(C) of this title ;
   - **(3)** the number of times that the Attorney General has authorized that information obtained under this chapter may be used in a criminal proceeding or any information derived therefrom may be used in a criminal proceeding;
   - **(4)** a summary of significant legal interpretations of this chapter involving matters before the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review, including interpretations presented in applications or pleadings filed with the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review by the Department of Justice; and
   - **(5)** copies of all decisions, orders, or opinions of the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review that include significant construction or interpretation of the provisions of this chapter.
 - **(b)** The first report under this section shall be submitted not later than 6 months after December 17, 2004 . Subsequent reports under this section shall be submitted semi-annually thereafter.
 - **(c)** The Attorney General shall submit to the committees of Congress referred to in subsection (a)—
-  - **(1)** not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion;
-  - **(2)** a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008 , and not previously submitted in a report under subsection (a);
-  - **(3)** for any hearing, oral argument, or other proceeding before the Foreign Intelligence Surveillance Court or Foreign Intelligence Surveillance Court of Review for which a court reporter produces a transcript, not later than 45 days after the government receives the final transcript or the date on which the matter of the hearing, oral argument, or other proceeding is resolved, whichever is later, a notice of the existence of such transcript. Not later than three business days after a committee referred to in subsection (a) requests to review an existing transcript, the Attorney General shall facilitate such request; and
-  - **(4)** a copy of each declassified document that has undergone review under section 1872 of this title .
+  - **(1)** a copy of any decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review that includes significant construction or interpretation of any provision of this chapter, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, not later than 45 days after such decision, order, or opinion is issued; and
+  - **(2)** a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008 , and not previously submitted in a report under subsection (a).
 - **(d)** The Attorney General, in consultation with the Director of National Intelligence, may authorize redactions of materials described in subsection (c) that are provided to the committees of Congress referred to in subsection (a), if such redactions are necessary to protect the national security of the United States and are limited to sensitive sources and methods information or the identities of targets.
 - **(e)** In this section:
   - **(1)** The term “Foreign Intelligence Surveillance Court” means the court established under section 1803(a) of this title .

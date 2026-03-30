@@ -3,17 +3,18 @@ title: "Section 274 - Organ procurement and transplantation network"
 usc_title: 42
 usc_section: "274"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 274"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-03-30T03:06:22.330Z"
+status: "active"
 ---
 
 # § 274. Organ procurement and transplantation network
 
-- **(a)** The Secretary shall provide for the continued operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The Secretary may award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.
+- **(a)** The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
 - **(b)**
-  - **(1)** The Organ Procurement and Transplantation Network shall—
-    - **(A)** be operated through awards to public or private entities made by the Secretary that are distinct from the awards made to support the organization tasked with supporting the board of directors described in subparagraph (B); and
+  - **(1)** The Organ Procurement and Transplantation Network shall carry out the functions described in paragraph (2) and shall—
+    - **(A)** be a private nonprofit entity that has an expertise in organ procurement and transplantation, and
     - **(B)** have a board of directors—
       - **(i)** that includes representatives of organ procurement organizations (including organizations that have received grants under section 273 of this title ), transplant centers, voluntary health associations, and the general public; and
       - **(ii)** that shall establish an executive committee and other committees, whose chairpersons shall be selected to ensure continuity of leadership for the board.
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(B)** establish membership criteria and medical criteria for allocating organs and provide to members of the public an opportunity to comment with respect to such criteria,
     - **(C)** maintain a twenty-four-hour telephone service to facilitate matching organs with individuals included in the list,
     - **(D)** assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients,
-    - **(E)** adopt and use standards of quality for the acquisition and transportation of donated organs,
+    - **(E)** adopt and use standards of quality for the acquisition and transportation of donated organs, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
     - **(F)** prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors,
     - **(G)** coordinate, as appropriate, the transportation of organs from organ procurement organizations to transplant centers,
     - **(H)** provide information to physicians and other health professionals regarding organ donation,
@@ -35,11 +36,6 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(M)** recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
     - **(N)** carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
     - **(O)** provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18.
-  - **(3)** In adopting and using standards of quality under paragraph (2)(E), the Organ Procurement and Transplantation Network may adopt and use such standards with respect to organs infected with human immunodeficiency virus (in this paragraph referred to as “HIV”), provided that any such standards ensure that organs infected with HIV may be transplanted only into individuals who—
-    - **(A)** are infected with HIV before receiving such organ; and
-    - **(B)**
-      - **(i)** are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title ; or
-      - **(ii)** if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title .
 - **(c)** The Secretary shall establish procedures for—
-  - **(1)** receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
+  - **(1)** receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
   - **(2)** the consideration by the Secretary of such critical comments.

@@ -3,14 +3,15 @@ title: "Section 41108 - Additional penalties"
 usc_title: 46
 usc_section: "41108"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 41108"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-03-30T03:06:27.184Z"
+status: "active"
 ---
 
 # § 41108. Additional penalties
 
-- **(a)** For a violation of paragraph (1), (2), or (7) of section 41104(a) of this title , the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+- **(a)** For a violation of section 41104(1), (2), or (7) of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 - **(b)** A common carrier that accepts or handles cargo for carriage under a tariff that has been suspended, or after its right to use that tariff has been suspended, is liable to the United States Government for a civil penalty of not more than $50,000 for each shipment.
 - **(c)**
   - **(1)** If the Commission finds, after notice and opportunity for a hearing, that a common carrier has failed to supply information ordered to be produced or compelled by subpoena under section 41303 of this title , the Commission may—

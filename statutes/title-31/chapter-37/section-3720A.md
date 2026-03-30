@@ -3,9 +3,10 @@ title: "Section 3720A - Reduction of tax refund by amount of debt"
 usc_title: 31
 usc_section: "3720A"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 3720A"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-03-30T03:05:28.360Z"
+status: "active"
 ---
 
 # § 3720A. Reduction of tax refund by amount of debt
@@ -28,15 +29,15 @@ generated_at: "2026-03-30T02:55:34.060Z"
 - **(g)** In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995 . In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994 .
 - **(h)**
   - **(1)** 1 1 So in original. Subsec. (h) contains two pars. designated (1) and (2). The disbursing official of the Department of the Treasury—
-  - **(1)** 1 shall notify a taxpayer in writing of—
+        - **(1)** 1 shall notify a taxpayer in writing of—
     - **(A)** the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
     - **(B)** the identity of the creditor agency requesting the offset; and
     - **(C)** a contact point within the creditor agency that will handle concerns regarding the offset;
-  - **(2)** 1 shall notify the Internal Revenue Service on a weekly basis of—
+        - **(2)** 1 shall notify the Internal Revenue Service on a weekly basis of—
     - **(A)** the occurrence of an offset to satisfy a past-due legally enforceable non-tax 2 2 So in original. Probably should not be hyphenated. debt;
     - **(B)** the amount of such offset; and
     - **(C)** any other information required by regulations; and
-  - **(3)** shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
+        - **(3)** shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
 - **(h)**
   - **(2)** 1 The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
 - **(i)** An agency subject to section 9 of the Act of May 18, 1933 ( 16 U.S.C. 831h ), may implement this section at its discretion.

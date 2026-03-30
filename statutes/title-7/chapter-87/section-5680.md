@@ -1,12 +1,29 @@
 ---
-title: "Section 5680 - Repealed. Pub. L. 115–334, title III, § 3201(b)(4) , Dec. 20, 2018 , 132 Stat. 4617"
+title: "Section 5680 - Technical assistance for specialty crops"
 usc_title: 7
 usc_section: "5680"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5680"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-03-30T03:04:20.993Z"
+status: "active"
 ---
 
-# § 5680. Repealed. Pub. L. 115–334, title III, § 3201(b)(4) , Dec. 20, 2018 , 132 Stat. 4617
+# § 5680. Technical assistance for specialty crops
 
+- **(a)** The Secretary of Agriculture shall establish an export assistance program (referred to in this section as the “program”) to address unique barriers that prohibit or threaten the export of United States specialty crops.
+- **(b)** The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and related barriers to trade.
+- **(c)** The program shall address time sensitive and strategic market access projects based on—
+  - **(1)** trade effect on market retention, market access, and market expansion; and
+  - **(2)** trade impact.
+- **(d)** Not later than 180 days after June 18, 2008 , and annually thereafter, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the period covered by the report, a description of each factor that affects the export of specialty crops, including each factor relating to any—
+  - **(1)** significant sanitary or phytosanitary issue; or
+  - **(2)** trade barrier.
+- **(e)**
+  - **(1)** The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
+  - **(2)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
+    - **(A)** $4,000,000 for fiscal year 2008;
+    - **(B)** $7,000,000 for fiscal year 2009;
+    - **(C)** $8,000,000 for fiscal year 2010;
+    - **(D)** $9,000,000 for fiscal year 2011; and
+    - **(E)** $9,000,000 for fiscal year 2012.

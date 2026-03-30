@@ -3,14 +3,15 @@ title: "Section 1114 - Effective date"
 usc_title: 29
 usc_section: "1114"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1114"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-03-30T03:05:09.720Z"
+status: "active"
 ---
 
 # § 1114. Effective date
 
-- **(a)** Except as provided in subsections (b), (c), and (d), this part shall take effect on January 1, 1975 .
+- **(a)** Except as provided in subsections (b), (c), and (d) of this section, this part shall take effect on January 1, 1975 .
 - **(b)**
   - **(1)** The provisions of this part authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974 .
   - **(2)** Upon application of a plan, the Secretary may postpone until not later than January 1, 1976 , the applicability of any provision of sections 1102, 1103 (other than 1103(c)), 1105 (other than 1105(a) and (d)), and 1110(a) of this title, as it applies to any plan in existence on September 2, 1974 , if he determines such postponement is (A) necessary to amend the instrument establishing the plan under which the plan is maintained and (B) not adverse to the interest of participants and beneficiaries.

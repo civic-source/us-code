@@ -3,20 +3,21 @@ title: "Section 4153 - Conversion to Senior Foreign Service"
 usc_title: 22
 usc_section: "4153"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4153"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-03-30T03:04:53.677Z"
+status: "active"
 ---
 
 # § 4153. Conversion to Senior Foreign Service
 
 - **(a)** Foreign Service officers and Foreign Service Reserve officers with limited or unlimited tenure who, immediately before February 15, 1981 , are serving under appointments at class 2 or a higher class of the schedule established under section 412 or 414 of the Foreign Service Act of 1946 may at any time within 120 days after such date submit to the Secretary a written request for appointment to the Senior Foreign Service.
-- **(b)** Except as provided in subsection (d), if a request is submitted under subsection (a) by a Foreign Service Reserve officer with limited tenure, the Secretary shall grant to such officer a limited appointment to the Senior Foreign Service in the appropriate class established under section 3962 of this title .
-- **(c)** If a request is submitted under subsection (a) by a Foreign Service officer or, except as provided in subsection (d), a Foreign Service Reserve officer with unlimited tenure, the Secretary shall recommend to the President a career appointment of such officer, by and with the advice and consent of the Senate, to the Senior Foreign Service in the appropriate class established under section 3962 of this title .
-- **(d)** If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or a recommendation for appointment under subsection (c) shall be made only if—
+- **(b)** Except as provided in subsection (d) of this section, if a request is submitted under subsection (a) of this section by a Foreign Service Reserve officer with limited tenure, the Secretary shall grant to such officer a limited appointment to the Senior Foreign Service in the appropriate class established under section 3962 of this title .
+- **(c)** If a request is submitted under subsection (a) of this section by a Foreign Service officer or, except as provided in subsection (d) of this section, a Foreign Service Reserve officer with unlimited tenure, the Secretary shall recommend to the President a career appointment of such officer, by and with the advice and consent of the Senate, to the Senior Foreign Service in the appropriate class established under section 3962 of this title .
+- **(d)** If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) of this section is not available for worldwide assignment, an appointment under subsection (b) of this section or a recommendation for appointment under subsection (c) of this section shall be made only if—
   - **(1)** the Secretary certifies that there is a need for the services of such officer in the Senior Foreign Service; and
   - **(2)** such officer agrees in writing to accept availability for worldwide assignment as a condition of continued employment.
-- **(e)** If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981 , and before the end of the 3-year period beginning on February 15, 1981 , the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title , subject to the conditions specified in subsection (d) and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
-- **(f)** Any officer of the Foreign Service who is eligible to submit a request under subsection (a) and—
-  - **(1)** who does not submit a request under subsection (a), or
-  - **(2)** who submits such a request more than 120 days after February 15, 1981 , and is not appointed to the Senior Foreign Service for any reason other than failure to meet the conditions specified in subsection (d),
+- **(e)** If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981 , and before the end of the 3-year period beginning on February 15, 1981 , the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title , subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
+- **(f)** Any officer of the Foreign Service who is eligible to submit a request under subsection (a) of this section and—
+  - **(1)** who does not submit a request under subsection (a) of this section, or
+  - **(2)** who submits such a request more than 120 days after February 15, 1981 , and is not appointed to the Senior Foreign Service for any reason other than failure to meet the conditions specified in subsection (d) of this section,

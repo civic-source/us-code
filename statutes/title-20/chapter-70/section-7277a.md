@@ -1,0 +1,25 @@
+---
+title: "Section 7277a - State uses of funds"
+usc_title: 20
+usc_section: "7277a"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 7277a"
+generated_at: "2026-03-30T03:04:46.358Z"
+status: "active"
+---
+
+# § 7277a. State uses of funds
+
+- **(a)**
+  - **(1)** A State educational agency receiving a grant under this subpart shall use funds made available under the grant to award subgrants to local educational agencies to permit such local educational agencies to carry out the activities described in section 7277b of this title .
+  - **(2)** A State educational agency shall award subgrants under this subsection to local educational agencies that are the neediest, as determined by the State, and that have made a commitment to develop healthy, high-performance school buildings in accordance with the plan developed and approved under paragraph (3)(A).
+  - **(3)**
+    - **(A)** A State educational agency shall award subgrants under this subsection only to local educational agencies that, in consultation with the State educational agency and State agencies with responsibilities relating to energy and health, have developed plans that the State educational agency determines to be feasible and appropriate in order to achieve the purposes for which the subgrants are made.
+    - **(B)** The State educational agency shall encourage local educational agencies that receive subgrants under this subsection to supplement their subgrant funds with funds from other sources in order to implement their plans.
+- **(b)** A State educational agency receiving a grant under this subpart shall use the grant funds made available under this subpart for one or more of the following:
+  - **(1)** To evaluate compliance by local educational agencies with the requirements of this subpart.
+  - **(2)** To distribute information and materials on healthy, high-performance school buildings for both new and existing facilities.
+  - **(3)** To organize and conduct programs for school board members, school district personnel, and others to disseminate information on healthy, high-performance school buildings.
+  - **(4)** To provide technical services and assistance in planning and designing healthy, high-performance school buildings.
+  - **(5)** To collect and monitor information pertaining to healthy, high-performance school building projects.

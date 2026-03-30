@@ -3,21 +3,22 @@ title: "Section 2671 - Emergency expenditures"
 usc_title: 22
 usc_section: "2671"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2671"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-03-30T03:04:53.649Z"
+status: "active"
 ---
 
 # § 2671. Emergency expenditures
 
 - **(a)** The Secretary of State is authorized to—
-  - **(1)** subject to subsection (b), make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with section 3526(e) of title 31 ; and
+  - **(1)** subject to subsection (b) of this section, make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with section 3526(e) of title 31 ; and
   - **(2)** delegate to subordinate officials the authority vested in him by section 3526(e) of title 31 pertaining to certification of expenditures.
 - **(b)**
-  - **(1)** Expenditures described under subsection (a) shall be made only for such activities as—
+  - **(1)** Expenditures described under subsection (a) of this section shall be made only for such activities as—
     - **(A)** serve to further the realization of foreign policy objectives;
     - **(B)** are a matter of urgency to implement;
-    - **(C)** with respect to activities the expenditures for which are required to be certified under subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+    - **(C)** with respect to activities the expenditures for which are required to be certified under subsection (a) of this section, require confidentiality in the best interests of the conduct of foreign policy by the United States; and
     - **(D)** are not otherwise prohibited by law.
   - **(2)** Activities described in paragraph (1) include—
     - **(A)** the evacuation when their lives are endangered by war, civil unrest, or natural disaster of—

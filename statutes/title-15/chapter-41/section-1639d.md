@@ -3,9 +3,10 @@ title: "Section 1639d - Escrow or impound accounts relating to certain consumer 
 usc_title: 15
 usc_section: "1639d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1639d"
-generated_at: "2026-03-30T02:54:08.143Z"
+generated_at: "2026-03-30T03:04:31.177Z"
+status: "active"
 ---
 
 # § 1639d. Escrow or impound accounts relating to certain consumer credit transactions
@@ -18,16 +19,11 @@ generated_at: "2026-03-30T02:54:08.143Z"
     - **(A)** does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12 , and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 1.5 or more percentage points; or
     - **(B)** exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12 , and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 2.5 or more percentage points; or
   - **(4)** so required pursuant to regulation.
-- **(c)**
-  - **(1)** The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
-    - **(A)** operates in rural or underserved areas;
-    - **(B)** together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
-    - **(C)** retains its mortgage loan originations in portfolio; and
-    - **(D)** meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
-  - **(2)** The Bureau shall, by regulation, exempt from the requirements of subsection (a) any loan made by an insured depository institution or an insured credit union secured by a first lien on the principal dwelling of a consumer if—
-    - **(A)** the insured depository institution or insured credit union has assets of $10,000,000,000 or less;
-    - **(B)** during the preceding calendar year, the insured depository institution or insured credit union and its affiliates originated 1,000 or fewer loans secured by a first lien on a principal dwelling; and
-    - **(C)** the transaction satisfies the criteria in sections 1026.35(b)(2)(iii)(A), 1026.35(b)(2)(iii)(D), and 1026.35(b)(2)(v) of title 12, Code of Federal Regulations, or any successor regulation.
+- **(c)** The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
+  - **(1)** operates predominantly in rural or underserved areas;
+  - **(2)** together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
+  - **(3)** retains its mortgage loan originations in portfolio; and
+  - **(4)** meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
 - **(d)** An escrow or impound account established pursuant to subsection (b) shall remain in existence for a minimum period of 5 years, beginning with the date of the consummation of the loan, unless and until—
   - **(1)** such borrower has sufficient equity in the dwelling securing the consumer credit transaction so as to no longer be required to maintain private mortgage insurance;
   - **(2)** such borrower is delinquent;
@@ -56,8 +52,6 @@ generated_at: "2026-03-30T02:54:08.143Z"
 - **(i)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “flood insurance” means flood insurance coverage provided under the national flood insurance program pursuant to the National Flood Insurance Act of 1968 [ 42 U.S.C. 4001 et seq.].
   - **(2)** The term “hazard insurance” shall have the same meaning as provided for “hazard insurance”, “casualty insurance”, “homeowner’s insurance”, or other similar term under the law of the State where the real property securing the consumer credit transaction is located.
-  - **(3)** The term “insured credit union” has the meaning given the term in section 1752 of title 12 .
-  - **(4)** The term “insured depository institution” has the meaning given the term in section 1813 of title 12 .
 - **(j)**
   - **(1)** If—
     - **(A)** an impound, trust, or other type of account for the payment of property taxes, insurance premiums, or other purposes relating to real property securing a consumer credit transaction is not established in connection with the transaction; or

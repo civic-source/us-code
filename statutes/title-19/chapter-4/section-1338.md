@@ -3,9 +3,10 @@ title: "Section 1338 - Discrimination by foreign countries"
 usc_title: 19
 usc_section: "1338"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1338"
-generated_at: "2026-03-30T02:54:24.630Z"
+generated_at: "2026-03-30T03:04:42.008Z"
+status: "active"
 ---
 
 # § 1338. Discrimination by foreign countries

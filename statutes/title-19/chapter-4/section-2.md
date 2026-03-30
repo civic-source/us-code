@@ -3,9 +3,10 @@ title: "Section 2 - Calculation of countervailable subsidies on certain processe
 usc_title: 19
 usc_section: "2"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:24.656Z"
+generated_at: "2026-03-30T03:04:42.025Z"
+status: "active"
 ---
 
 # § 1677–2. Calculation of countervailable subsidies on certain processed agricultural products
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:54:24.656Z"
 In the case of an agricultural product processed from a raw agricultural product in which—
 
   - **(1)** the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and
-  - **(2)** the processing operation adds only limited value to the raw commodity,
+  - **(2)** the processing operation adds only limited value to the raw commodity, countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.

@@ -3,9 +3,10 @@ title: "Section 142 - Appointment of experts"
 usc_title: 4
 usc_section: "142"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "4 U.S.C. § 142"
-generated_at: "2026-03-30T02:52:51.499Z"
+generated_at: "2026-03-30T03:04:03.806Z"
+status: "active"
 ---
 
 # § 142. Appointment of experts

@@ -1,25 +1,15 @@
 ---
-title: "Section 12 - Definitions"
+title: "Section 12 - Medical officers in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands to be included in the quality improvement program"
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-03-30T03:06:22.482Z"
+status: "active"
 ---
 
-# § 1397n–12. Definitions
+# § 1320c–12. Medical officers in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands to be included in the quality improvement program
 
-In this division:
+For purposes of applying this part to American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, individuals licensed to practice medicine in those places shall be considered to be physicians and doctors of medicine.
 
-  - **(1)** The term “agency” has the meaning given that term in section 551 of title 5 .
-  - **(2)** The term “intervention” means a specific service delivered to achieve an impact through a social impact partnership project.
-  - **(3)** The term “Secretary” means the Secretary of the Treasury.
-  - **(4)** The term “social impact partnership project” means a project that finances social services using a social impact partnership model.
-  - **(5)** The term “social impact partnership model” means a method of financing social services in which—
-    - **(A)** Federal funds are awarded to a State or local government only if a State or local government achieves certain outcomes agreed on by the State or local government and the Secretary; and
-    - **(B)** the State or local government coordinates with service providers, investors (if applicable to the project), and (if necessary) an intermediary to identify—
-      - **(i)** an intervention expected to produce the outcome;
-      - **(ii)** a service provider to deliver the intervention to the target population; and
-      - **(iii)** investors to fund the delivery of the intervention.
-  - **(6)** The term “State” means each State of the United States, the District of Columbia, each commonwealth, territory or possession of the United States, and each federally recognized Indian tribe.

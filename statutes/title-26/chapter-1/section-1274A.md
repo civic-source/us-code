@@ -3,9 +3,10 @@ title: "Section 1274A - Special rules for certain transactions where stated prin
 usc_title: 26
 usc_section: "1274A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1274A"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-03-30T03:05:18.652Z"
+status: "active"
 ---
 
 # § 1274A. Special rules for certain transactions where stated principal amount does not exceed $2,800,000
@@ -29,9 +30,11 @@ generated_at: "2026-03-30T02:55:27.765Z"
   - **(1)** For purposes of this section—
     - **(A)** all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange, and
     - **(B)** all debt instruments arising from the same transaction (or a series of related transactions) shall be treated as 1 debt instrument.
-  - **(2)** In the case of any debt instrument arising out of a sale or exchange during any calendar year after 1989, each dollar amount contained in the preceding provisions of this section shall be increased by an amount equal to—
-    - **(A)** such amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(2)**
+    - **(A)** In the case of any debt instrument arising out of a sale or exchange during any calendar year after 1989, each dollar amount contained in the preceding provisions of this section shall be increased by the inflation adjustment for such calendar year. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
+    - **(B)** For purposes of subparagraph (A), the inflation adjustment for any calendar year is the percentage (if any) by which—
+      - **(i)** the CPI for the preceding calendar year exceeds
+      - **(ii)** the CPI for calendar year 1988.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
   - **(1)** regulations coordinating the provisions of this section with other provisions of this title,
   - **(2)** regulations necessary to prevent the avoidance of tax through the abuse of the provisions of subsection (c), and

@@ -3,9 +3,10 @@ title: "Section 4113 - Assistance for displaced tenants"
 usc_title: 12
 usc_section: "4113"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4113"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-03-30T03:04:29.315Z"
+status: "active"
 ---
 
 # § 4113. Assistance for displaced tenants
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:53.501Z"
 - **(d)** An owner who prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing and maintains the housing for residential rental occupancy may not refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable or deny the rent of a dwelling unit in such property to any person, or discriminate against any person in the terms, conditions, or privileges of rental of a dwelling (or in the provision of services or facilities in connection therewith), because the person receives assistance under section 1437f of title 42 .
 - **(e)** In providing assistance under this section, the Secretary shall allocate the assistance on a regional basis through the regional offices of the Department of Housing and Urban Development. The Secretary shall allocate assistance under this section in a manner so that the total number of assisted units in each such region available for occupancy by, and affordable to, lower income families and persons does not decrease because of the prepayment or payment of a mortgage on eligible low-income housing or the termination of an insurance contract on such housing.
 - **(f)**
-  - **(1)** In lieu of benefits under subsections (b), (c), and (d), and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42 .
+  - **(1)** In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42 .
   - **(2)** A family described in this paragraph is a family that is—
     - **(A)**
       - **(i)** a low-income family; or

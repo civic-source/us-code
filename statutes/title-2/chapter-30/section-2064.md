@@ -3,9 +3,10 @@ title: "Section 2064 - Senate Employee Child Care Center employee benefits"
 usc_title: 2
 usc_section: "2064"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 2064"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-03-30T03:04:04.444Z"
+status: "active"
 ---
 
 # § 2064. Senate Employee Child Care Center employee benefits
@@ -16,11 +17,11 @@ generated_at: "2026-03-30T02:53:04.824Z"
     - **(B)** makes an election to be covered by this section with the Secretary of the Senate, no later than 60 days after October 6, 1992 ; or
   - **(2)** is hired by the Center after October 6, 1992 , and makes an election to be covered by this section with the Secretary of the Senate, no later than 60 days after the date such individual begins employment.
 - **(b)**
-  - **(1)** Any individual described under subsection (a) may be credited, 1 1 So in original. The comma probably should not appear. under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993 , if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
-  - **(2)** An individual described under subsection (a) shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992 , if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5 .
-- **(c)** Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) as an employee of the Senate day care center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
-- **(d)** An individual described under subsection (a) shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992 .
-- **(e)** An individual described under subsection (a) shall be deemed an employee under section 8701(a)(3) of title 5 for purposes of life insurance coverage under chapter 87 of such title.
+  - **(1)** Any individual described under subsection (a) of this section may be credited, 1 1 So in original. The comma probably should not appear. under section 8411 of title 5 for service as an employee of the Senate day care center before January 1, 1993 , if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
+  - **(2)** An individual described under subsection (a) of this section shall be credited under section 8411 of title 5 for any service as an employee of the Senate day care center on or after October 6, 1992 , if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under section 8422 of title 5 .
+- **(c)** Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) of this section as an employee of the Senate day care center is deemed to be civilian service creditable under section 8411 of title 5 for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to section 8422 of title 5 for such period so credited, together with interest thereon.
+- **(d)** An individual described under subsection (a) of this section shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992 .
+- **(e)** An individual described under subsection (a) of this section shall be deemed an employee under section 8701(a)(3) of title 5 for purposes of life insurance coverage under chapter 87 of such title.
 - **(f)** Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708, 2 2 So in original. The words “of title 5” probably should precede the comma. shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 - **(g)** The Office of Personnel Management shall accept the certification of the Secretary of the Senate concerning creditable service for the purpose of this section.
 - **(h)**

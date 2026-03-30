@@ -1,17 +1,15 @@
 ---
-title: "Section 16376 - State and local permits"
+title: "Section 16376 - Sunset"
 usc_title: 42
 usc_section: "16376"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16376"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-03-30T03:06:22.978Z"
+status: "active"
 ---
 
-# § 16376. State and local permits
+# § 16376. Sunset
 
-The provision of credit assistance under the CIFIA program with respect to a project shall not—
+The authority provided by this part shall terminate on September 30, 2014 .
 
-  - **(1)** relieve any recipient of the assistance of any project obligation to obtain any required State or local permit or approval with respect to the project;
-  - **(2)** limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
-  - **(3)** otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.

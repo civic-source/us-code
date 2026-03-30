@@ -1,16 +1,15 @@
 ---
-title: "Section 5108 - Supplemental claims"
+title: "Section 5108 - Reopening disallowed claims"
 usc_title: 38
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5108"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-03-30T03:05:59.222Z"
+status: "active"
 ---
 
-# § 5108. Supplemental claims
+# § 5108. Reopening disallowed claims
 
-- **(a)** If new and relevant evidence is presented or secured with respect to a supplemental claim, the Secretary shall readjudicate the claim taking into consideration all of the evidence of record.
-- **(b)**
-  - **(1)** If a claimant, in connection with a supplemental claim, reasonably identifies existing records, whether or not in the custody of a Federal department or agency, the Secretary shall assist the claimant in obtaining the records in accordance with section 5103A of this title .
-  - **(2)** Assistance under paragraph (1) shall not be predicated upon a finding that new and relevant evidence has been presented or secured.
+If new and material evidence is presented or secured with respect to a claim which has been disallowed, the Secretary shall reopen the claim and review the former disposition of the claim.
+

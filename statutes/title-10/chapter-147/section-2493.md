@@ -3,9 +3,10 @@ title: "Section 2493 - Fisher Houses: administration as nonappropriated fund ins
 usc_title: 10
 usc_section: "2493"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2493"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-03-30T03:04:17.290Z"
+status: "active"
 ---
 
 # § 2493. Fisher Houses: administration as nonappropriated fund instrumentality
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:53:38.161Z"
       - **(iii)** Other persons providing the equivalent of familial support for such patients.
     - **(B)** With respect to the Fisher House described in paragraph (2), the following persons:
       - **(i)** The primary next of kin of a member of the armed forces who dies while located or serving overseas.
-      - **(ii)** Other family members of the deceased member who are eligible for transportation under section 453(f) of title 37 .
+      - **(ii)** Other family members of the deceased member who are eligible for transportation under section 481f(e) of title 37 .
       - **(iii)** An escort of a family member described in clause (i) or (ii).
 - **(b)** The Secretary of each military department shall administer all Fisher Houses and Fisher Suites associated with facilities of that military department as a nonappropriated fund instrumentality of the United States.
 - **(c)** The Secretary of each military department shall establish a system for the governance of the nonappropriated fund instrumentality required by subsection (b) for that military department.

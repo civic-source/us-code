@@ -3,9 +3,10 @@ title: "Section 8511 - National and State emergency conservation targets"
 usc_title: 42
 usc_section: "8511"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 8511"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-03-30T03:06:22.838Z"
+status: "active"
 ---
 
 # § 8511. National and State emergency conservation targets
@@ -25,15 +26,15 @@ generated_at: "2026-03-30T02:56:11.343Z"
         - **(II)** energy shortages which may affect energy consumption; and
         - **(III)** variations in weather from seasonal norms.
     - **(D)** For purposes of this subsection, the uniform national percentage shall be designed by the President to minimize the impact on the domestic economy of the projected shortage in the energy source for which a target is established by saving an amount of such energy source equivalent to the projected shortage, taking into consideration such other factors related to that shortage as the President considers appropriate.
-- **(b)** The President shall notify the Governor of each State of each target established under subsection (a) for that State, and shall publish in the Federal Register, the targets, the base period consumption for each State and other data on which the targets are based, and the factors considered under subsection (a)(3).
-- **(c)** In connection with the establishment of any national target under subsection (a) the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D). Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+- **(b)** The President shall notify the Governor of each State of each target established under subsection (a) of this section for that State, and shall publish in the Federal Register, the targets, the base period consumption for each State and other data on which the targets are based, and the factors considered under subsection (a)(3) of this section.
+- **(c)** In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
   - **(1)** by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
   - **(2)** by Federal employees and officials through increased use of car and van pooling, preferential parking for multipassenger vehicles, and greater use of mass transit.
 - **(d)**
-  - **(1)** From time to time, the President shall review and, consistent with subsection (a), modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.
+  - **(1)** From time to time, the President shall review and, consistent with subsection (a) of this section, modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.
   - **(2)** Any modification under this paragraph shall be accompanied by such information and analysis as is necessary to provide the basis therefor and shall be available to the Congress and the public.
   - **(3)**
     - **(A)** Before the end of the 12th month following the establishment of any conservation target under this section, and annually thereafter while such target is in effect, the President shall determine, for the energy source for which that target was established, whether a severe energy supply interruption exists or is imminent or that actions to restrain domestic energy demand are required in order to fulfill the obligations of the United States under the international energy program. The President shall transmit to the Congress and make public the information and other data on which any determination under this subparagraph is based.
     - **(B)** If the President determines such an energy supply interruption does not exist or is not imminent or such actions are not required, the conservation targets established under this section with respect to such energy source shall cease to be effective.
-- **(e)** Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) is in effect, and (2) whether the targets under subsection (a) have been substantially met or are likely to be met.
+- **(e)** Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) of this section is in effect, and (2) whether the targets under subsection (a) of this section have been substantially met or are likely to be met.
 - **(f)** Notwithstanding any other provision of law, the authority vested in the President under this section may not be delegated.

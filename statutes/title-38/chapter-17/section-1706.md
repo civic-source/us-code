@@ -3,9 +3,10 @@ title: "Section 1706 - Management of health care: other requirements"
 usc_title: 38
 usc_section: "1706"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1706"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-03-30T03:05:59.194Z"
+status: "active"
 ---
 
 # § 1706. Management of health care: other requirements
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:55:53.482Z"
     - **(C)** For traumatic brain injury, the number of patients treated annually and the amounts expended.
   - **(4)** In carrying out paragraph (1), the Secretary may not use patient outcome data as a substitute for, or the equivalent of, compliance with the requirement under that paragraph for maintenance of capacity.
   - **(5)**
-    - **(A)** Not later than April 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
+    - **(A)** Not later than April 1 of each year through 2008, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s compliance, by facility and by service-network, with the requirements of this subsection. Each such report shall include information on recidivism rates associated with substance-use disorder treatment.
     - **(B)** In preparing each report under subparagraph (A), the Secretary shall use standardized data and data definitions.
     - **(C)** Each report under subparagraph (A) shall be audited by the Inspector General of the Department, who shall submit to Congress a certification as to the accuracy of each such report.
   - **(6)**

@@ -3,22 +3,13 @@ title: "Section 2862 - Turn-key selection procedures"
 usc_title: 10
 usc_section: "2862"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2862"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-03-30T03:04:17.303Z"
+status: "active"
 ---
 
 # § 2862. Turn-key selection procedures
 
-- **(a)** The Secretary concerned may use one-step turn-key selection procedures for the purpose of entering into a contract for any of the following purposes:
-  - **(1)** The construction of an authorized military construction project.
-  - **(2)** A repair project (as defined in section 2811(e) of this title ) with an approved cost equal to or less than $4,000,000. 1 1 See Temporary Expansion of Authority for Use of One-Step Turn-Key Procedures for Repair Projects note below.
-  - **(3)** The construction of a facility as part of an authorized security assistance activity.
-- **(b)** In this section:
-  - **(1)** The term “one-step turn-key selection procedures” means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.
-  - **(2)** The term “security assistance activity” means—
-    - **(A)** humanitarian and civic assistance authorized by sections 401 and 2561 of this title;
-    - **(B)** foreign disaster assistance authorized by section 404 of this title ;
-    - **(C)** foreign military construction sales authorized by section 29 of the Arms Export Control Act ( 22 U.S.C. 2769 );
-    - **(D)** foreign assistance authorized under sections 607 and 632 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2357 , 2392); and
-    - **(E)** other international security assistance specifically authorized by law.
+- **(a)** The Secretary concerned may use one-step turn-key selection procedures for the purpose of entering into contracts for the construction of authorized military construction projects.
+- **(b)** In this section, the term “one-step turn-key selection procedures” means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.

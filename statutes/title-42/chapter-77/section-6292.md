@@ -3,9 +3,10 @@ title: "Section 6292 - Coverage"
 usc_title: 42
 usc_section: "6292"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6292"
-generated_at: "2026-03-30T02:56:11.246Z"
+generated_at: "2026-03-30T03:06:22.753Z"
+status: "active"
 ---
 
 # § 6292. Coverage
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:56:11.246Z"
   - **(17)** Water closets.
   - **(18)** Urinals.
   - **(19)** Metal halide lamp fixtures.
-  - **(20)** Any other type of consumer product which the Secretary classifies as a covered product under subsection (b).
+  - **(20)** Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.
 - **(b)**
   - **(1)** The Secretary may classify a type of consumer product as a covered product if he determines that—
     - **(A)** classifying products of such type as covered products is necessary or appropriate to carry out the purposes of this chapter, and

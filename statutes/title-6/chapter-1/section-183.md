@@ -3,14 +3,15 @@ title: "Section 183 - Functions transferred"
 usc_title: 6
 usc_section: "183"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 183"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-03-30T03:04:24.340Z"
+status: "active"
 ---
 
 # § 183. Functions transferred
 
-In accordance with subchapter XII, there shall be transferred to the Secretary the functions, personnel, assets, and liabilities of the following entities:
+In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary the functions, personnel, assets, and liabilities of the following entities:
 
   - **(1)** The following programs and activities of the Department of Energy, including the functions of the Secretary of Energy relating thereto (but not including programs and activities relating to the strategic nuclear defense posture of the United States):
     - **(A)** The chemical and biological national security and supporting programs and activities of the nonproliferation and verification research and development program.

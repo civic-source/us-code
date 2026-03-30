@@ -3,9 +3,10 @@ title: "Section 2051 - Implementation of the Agreement; executive designation an
 usc_title: 19
 usc_section: "2051"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2051"
-generated_at: "2026-03-30T02:54:24.662Z"
+generated_at: "2026-03-30T03:04:42.029Z"
+status: "active"
 ---
 
 # § 2051. Implementation of the Agreement; executive designation and duty of Federal agencies
@@ -16,4 +17,4 @@ The President of the United States is authorized to designate a Federal agency o
   - **(2)** because it might lend itself to misinterpretation, or to misrepresentation of the United States or other countries, or their people or institutions;
   - **(3)** because it is not representative, authentic, or accurate or does not represent the current state of factual knowledge of a subject or aspect of a subject unless the material contains widespread and gross misstatements of fact;
   - **(4)** because it does not augment international understanding and goodwill, unless its primary purpose or effect is not to instruct or inform through the development of a subject or an aspect of a subject and its content is not such as to maintain, increase, or diffuse knowledge; or
-  - **(5)** because in the opinion of the agency the material is propaganda.
+  - **(5)** because in the opinion of the agency the material is propaganda. Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.

@@ -3,9 +3,10 @@ title: "Section 504 - Persons not qualified"
 usc_title: 10
 usc_section: "504"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 504"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-03-30T03:04:17.222Z"
+status: "active"
 ---
 
 # § 504. Persons not qualified
@@ -19,22 +20,4 @@ generated_at: "2026-03-30T02:53:38.064Z"
       - **(i)** The Compact of Free Association between the Federated States of Micronesia and the United States ( section 201(a) of Public Law 108–188 ( 117 Stat. 2784 ; 48 U.S.C. 1921 note)).
       - **(ii)** The Compact of Free Association between the Republic of the Marshall Islands and the United States ( section 201(b) of Public Law 108–188 ( 117 Stat. 2823 ; 48 U.S.C. 1921 note)).
       - **(iii)** The Compact of Free Association between Palau and the United States ( section 201 of Public Law 99–658 ( 100 Stat. 3678 ; 48 U.S.C. 1931 note)).
-  - **(2)** Notwithstanding paragraph (1), and subject to paragraph (3), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such person possesses a critical skill or expertise—
-    - **(A)** that is vital to the national interest; and
-    - **(B)** that the person will use in the primary daily duties of that person as a member of the armed forces.
-  - **(3)**
-    - **(A)** No person who enlists under paragraph (2) may report to initial training until after the Secretary concerned has completed all required background investigations and security and suitability screening as determined by the Secretary of Defense regarding that person.
-    - **(B)** A Secretary concerned may not authorize more than 1,000 enlistments under paragraph (2) per military department in a calendar year until after—
-      - **(i)** the Secretary of Defense submits to Congress written notice of the intent of that Secretary concerned to authorize more than 1,000 such enlistments in a calendar year; and
-      - **(ii)** a period of 30 days has elapsed after the date on which Congress receives the notice.
-- **(c)**
-  - **(1)** The Secretary of Defense shall carry out a program to provide to an individual described in paragraph (2) information about opportunities to work in areas of national interest to the United States.
-  - **(2)** An individual described in this paragraph is an individual who seeks to originally enlist in an armed force but is denied enlistment.
-  - **(3)** In carrying out the program required by paragraph (1), the Secretary shall—
-    - **(A)** identify job opportunities in the defense industrial base, cybersecurity or intelligence support, research and development in defense technologies, national emergency and disaster preparedness, or any other non-military field the Secretary considers in the national interests of the United States;
-    - **(B)** provide available information about training or certification programs to obtain the skills necessary for such a job; and
-    - **(C)** seek to enter into agreements with entities in the fields described in subparagraph (A).
-  - **(4)** The Secretary of Defense shall annually submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the program required by this subsection. Such report shall include, with respect to the year preceding the date of the report, the following elements:
-    - **(A)** The number of individuals described in paragraph (2) provided information described in paragraph (3)(A).
-    - **(B)** The number of individuals described in paragraph (2) provided information described in paragraph (3)(B).
-    - **(C)** The number of agreements described in paragraph (3)(C) into which the Secretary entered.
+  - **(2)** Notwithstanding paragraph (1), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such enlistment is vital to the national interest.

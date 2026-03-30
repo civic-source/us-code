@@ -3,44 +3,29 @@ title: "Section 7632 - Specialty crop research initiative"
 usc_title: 7
 usc_section: "7632"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7632"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-03-30T03:04:21.021Z"
+status: "active"
 ---
 
 # § 7632. Specialty crop research initiative
 
 - **(a)** In this section:
-  - **(1)** The term “citrus disease subcommittee” means the subcommittee established under section 3123a(a)(2) of this title .
-  - **(2)** The term “Initiative” means the specialty crop research and extension initiative established by subsection (b).
-  - **(3)** The term “specialty crop” has the meaning given that term in section 3 of the Specialty Crops Competitiveness Act of 2004 ( 7 U.S.C. 1621 note; Public Law 108–465 ).
-  - **(4)** The term “specialty crops committee” means the committee established under section 3123a of this title .
+  - **(1)** The term “Initiative” means the specialty crop research and extension initiative established by subsection (b).
+  - **(2)** The term “specialty crop” has the meaning given that term in section 3 of the Specialty Crops Competitiveness Act of 2004 ( 7 U.S.C. 1621 note; Public Law 108–465 ).
 - **(b)** There is established within the Department a specialty crop research and extension initiative to address the critical needs of the specialty crop industry by developing and disseminating science-based tools to address needs of specific crops and their regions, including—
-  - **(1)** research in plant breeding, genetics, genomics, and other methods to improve crop characteristics, such as—
+  - **(1)** research in plant breeding, genetics, and genomics to improve crop characteristics, such as—
     - **(A)** product, taste, quality, and appearance;
-    - **(B)** size-controlling rootstock systems for perennial crops;
-    - **(C)** environmental responses and tolerances;
-    - **(D)** nutrient management, including plant nutrient uptake efficiency;
-    - **(E)** pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
-    - **(F)** enhanced phytonutrient content;
-  - **(2)** efforts to identify and address threats from pests and diseases, including—
-    - **(A)** threats to specialty crop pollinators;
-    - **(B)** emerging and invasive species; and
-    - **(C)** a more effective understanding and utilization of existing natural enemy complexes;
-  - **(3)** efforts—
-    - **(A)** to improve production efficiency, handling and processing, productivity, and profitability over the long term (including specialty crop policy and marketing); and
-    - **(B)** to achieve a better understanding of—
-      - **(i)** the soil rhizosphere microbiome;
-      - **(ii)** pesticide application systems and certified drift-reduction technologies; and
-      - **(iii)** systems to improve and extend the storage life of specialty crops;
-  - **(4)** new innovations and technology, including—
-    - **(A)** mechanization and automation of labor-intensive tasks in production and processing;
-    - **(B)** technologies that delay or inhibit ripening;
-    - **(C)** decision support systems driven by phenology and environmental factors;
-    - **(D)** improved monitoring systems for agricultural pests; and
-    - **(E)** effective systems for preharvest and postharvest management of quarantine pests; and
+    - **(B)** environmental responses and tolerances;
+    - **(C)** nutrient management, including plant nutrient uptake efficiency;
+    - **(D)** pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
+    - **(E)** enhanced phytonutrient content;
+  - **(2)** efforts to identify and address threats from pests and diseases, including threats to specialty crop pollinators;
+  - **(3)** efforts to improve production efficiency, productivity, and profitability over the long term (including specialty crop policy and marketing);
+  - **(4)** new innovations and technology, including improved mechanization and technologies that delay or inhibit ripening; and
   - **(5)** methods to prevent, detect, monitor, control, and respond to potential food safety hazards in the production and processing of specialty crops, including fresh produce.
-- **(c)** The Secretary may carry out this section through—
+- **(c)** The Secretary may carry out the Initiative through—
   - **(1)** Federal agencies;
   - **(2)** national laboratories;
   - **(3)** colleges and universities;
@@ -49,55 +34,22 @@ generated_at: "2026-03-30T02:53:42.459Z"
   - **(6)** State agricultural experiment stations;
   - **(7)** individuals; or
   - **(8)** groups consisting of 2 or more entities described in paragraphs (1) through (7).
-- **(d)** In carrying out this section, the Secretary shall award competitive grants on the basis of—
-  - **(1)** a scientific peer review conducted by a panel of subject matter experts from Federal agencies, non-Federal entities, and the specialty crop industry; and
-  - **(2)** a review and ranking for merit, relevance, and impact conducted by a panel of specialty crop industry representatives for the specific specialty crop.
-- **(e)** Each fiscal year, before conducting the scientific peer review described in paragraph (1) of subsection (d) and the merit and relevancy review described in paragraph (2) of such subsection, the Secretary shall consult with the specialty crops committee regarding such reviews. The committee shall provide the Secretary—
-  - **(1)** in the first fiscal year in which that consultation occurs, any recommendations for conducting such reviews in such fiscal year; and
-  - **(2)** in any subsequent fiscal year in which such consultation occurs—
-    - **(A)** an assessment of the procedures and objectives used by the Secretary for such reviews in the previous fiscal year;
-    - **(B)** any recommendations for such reviews for the current fiscal year; and
-    - **(C)** any comments on grants awarded under subsection (d) during the previous fiscal year.
-- **(f)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on—
-  - **(1)** the results of the consultations with the specialty crops committee (and subcommittees thereof) conducted under subsection (e) of this section and subsection (g) of section 3123a of this title ;
-  - **(2)** the specialty crops committee’s (and subcommittees thereof) recommendations, if any, provided to the Secretary during such consultations; and
-  - **(3)** the specialty crops committee’s (and subcommittees thereof) review of the grants awarded under subsection (d) and (j), as applicable, in the previous fiscal year.
-- **(g)**
-  - **(1)** With respect to grants awarded under this section, the Secretary shall seek and accept proposals for grants.
+- **(d)** In carrying out this section, the Secretary shall award grants on a competitive basis.
+- **(e)**
+  - **(1)** With respect to grants awarded under subsection (d), the Secretary shall—
+    - **(A)** seek and accept proposals for grants;
+    - **(B)** determine the relevance and merit of proposals through a system of peer and merit review in accordance with section 7613 of this title ; and
+    - **(C)** award grants on the basis of merit, quality, and relevance.
   - **(2)** The term of a grant under this section may not exceed 10 years.
-  - **(3)**
-    - **(A)** An entity receiving a grant under this section shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
-    - **(B)** Non-Federal matching funds described in subparagraph (A) may include in-kind support.
-  - **(4)** The Secretary may set such other conditions on the award of a grant under the Initiative as the Secretary determines to be appropriate.
-- **(h)** In making grants under the Initiative, the Secretary shall provide a higher priority to projects that—
+  - **(3)** The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount that is at least equal to the amount provided by the Federal Government.
+  - **(4)** The Secretary may set such other conditions on the award of a grant under this section as the Secretary determines to be appropriate.
+- **(f)** In making grants under this section, the Secretary shall provide a higher priority to projects that—
   - **(1)** are multistate, multi-institutional, or multidisciplinary; and
   - **(2)** include explicit mechanisms to communicate results to producers and the public.
-- **(i)** Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement, and architect fees).
-- **(j)**
-  - **(1)** The Secretary shall establish a competitive research and extension grant program to combat diseases of citrus under which the Secretary awards competitive grants to eligible entities—
-    - **(A)** to conduct scientific research and extension activities, technical assistance, and development activities to combat citrus diseases and pests, both domestic and invasive, which pose imminent harm to the United States citrus production and threaten the future viability of the citrus industry, including huanglongbing and the Asian Citrus Psyllid; and
-    - **(B)** to provide support for the dissemination and commercialization of relevant information, techniques, and technologies discovered pursuant to research and extension activities funded through—
-      - **(i)** the emergency citrus disease research and extension program; or
-      - **(ii)** other research and extension projects intended to solve problems caused by citrus production diseases and invasive pests.
-  - **(2)** In awarding grants under this subsection, the Secretary shall give priority to grants that address the research and extension priorities established pursuant to subsection (g)(4) of section 3123a of this title .
-  - **(3)** When developing the proposed research and extension agenda and budget under subsection (g)(2) of section 3123a of this title for the funds made available under this subsection for a fiscal year, the citrus disease subcommittee shall—
-    - **(A)** seek input from Federal and State agencies and other entities involved in citrus disease response; and
-    - **(B)** take into account other public and private citrus-related research and extension projects and the funding for such projects.
-  - **(4)** The Secretary shall ensure that funds made available to carry out the emergency citrus disease research and extension activities under this subsection shall be in addition to and not supplant funds made available to carry out other citrus disease activities carried out by the Department of Agriculture in consultation with State agencies.
-  - **(5)** In addition to the amounts reserved under subsection (k)(1)(C), there are authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 2014 through 2018.
-  - **(6)** In this subsection:
-    - **(A)** The term “citrus” means edible fruit of the family Rutaceae, including any hybrid of such fruits and products of such hybrids that are produced for commercial purposes in the United States.
-    - **(B)** The term “citrus producer” means any person that is engaged in the domestic production and commercial sale of citrus in the United States.
-    - **(C)** The term “emergency citrus disease research and extension program” means the emergency citrus research and extension grant program established under this subsection.
-- **(k)**
-  - **(1)**
-    - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
-    - **(B)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
-      - **(i)** $80,000,000 for each of fiscal years 2014 through 2025; and
-      - **(ii)** $175,000,000 for fiscal year 2026 and each fiscal year thereafter.
-    - **(C)** For each of fiscal years 2014 through 2018, the Secretary shall reserve not less than $25,000,000 of the funds made available under subparagraph (B) to carry out the program established under subsection (j).
-    - **(D)** Funds reserved under subparagraph (C) shall remain available and reserved for the purpose described in such subparagraph until expended.
-  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2023.
+- **(g)** Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement, and architect fees).
+- **(h)**
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
+  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2008 through 2012.
   - **(3)** There is authorized to be appropriated to carry out this section $100,000,000 for fiscal year 2013.
   - **(4)** Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title , the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental Protection Agency for use in conducting a meta-analysis relating to methyl bromide.
   - **(5)** Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.

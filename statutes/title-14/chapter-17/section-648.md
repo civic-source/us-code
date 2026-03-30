@@ -1,0 +1,15 @@
+---
+title: "Section 648 - Accounting for industrial work"
+usc_title: 14
+usc_section: "648"
+chapter: 17
+current_through: "PL 113-21"
+classification: "14 U.S.C. § 648"
+generated_at: "2026-03-30T03:04:26.487Z"
+status: "active"
+---
+
+# § 648. Accounting for industrial work
+
+The Secretary may prescribe regulations governing accounting for industrial work, including charges for overhead for civilian labor and for maintenance of industrial plant and equipment, performed at the Coast Guard Yard or such similar Coast Guard industrial establishments as he may designate. Any orders placed for such industrial work shall be covered by a transfer or advance of funds to cover the estimated cost thereof, and shall be credited to such accounts as may be necessary and established by the Secretary to carry out the provisions of this section. Accounts so established shall be available for materials, supplies, or equipment, and civilian labor, including overhead and maintenance, required in performing the work ordered. Upon completion of an order an adjustment will be made to make the amount transferred or advanced equal to the actual cost as computed in accordance with the accounting regulations prescribed by the Secretary.
+

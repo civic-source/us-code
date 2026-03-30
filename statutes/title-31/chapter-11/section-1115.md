@@ -3,19 +3,18 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-03-30T03:05:28.352Z"
+status: "active"
 ---
 
 # § 1115. Federal Government and agency performance plans
 
-- **(a)** In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on a website described in section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
+- **(a)** In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on the website provided under section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
   - **(1)** establish Federal Government performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year for each of the Federal Government priority goals required under section 1120(a) of this title ;
   - **(2)** identify the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities contributing to each Federal Government performance goal during the current fiscal year;
-  - **(3)** for each Federal Government performance goal, identify, as appropriate, not fewer than 2 lead Government officials who shall jointly be responsible for coordinating the efforts to achieve the goal, of whom—
-    - **(A)** not less than 1 shall be from the Executive Office of the President; and
-    - **(B)** not less than 1 shall be from an agency identified as contributing to the Federal Government performance goal described in paragraph (2);
+  - **(3)** for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;
   - **(4)** establish common Federal Government performance indicators with quarterly targets to be used in measuring or assessing—
     - **(A)** overall progress toward each Federal Government performance goal; and
     - **(B)** the individual contribution of each agency, organization, program activity, regulation, tax expenditure, policy, and other activity identified under paragraph (2);
@@ -29,12 +28,11 @@ generated_at: "2026-03-30T02:55:34.049Z"
     - **(B)** any of the Federal Government performance goals established in the Federal Government performance plan required by subsection (a)(1);
   - **(4)** identify among the performance goals those which are designated as agency priority goals as required by section 1120(b) of this title , if applicable;
   - **(5)** provide a description of how the performance goals are to be achieved, including—
-    - **(A)** the human capital, training, data and evidence, information technology, and skill sets required to meet the performance goals;
-    - **(B)** the technology modernization investments, system upgrades, staff technology skills and expertise, stakeholder input and feedback, and other resources and strategies needed and required to meet the performance goals;
-    - **(C)** clearly defined milestones;
-    - **(D)** an identification of the organizations, program activities, regulations, policies, operational processes, and other activities that contribute to each performance goal, both within and external to the agency;
-    - **(E)** a description of how the agency is working with other agencies and the organizations identified in subparagraph (D) to measure and achieve its performance goals as well as relevant Federal Government performance goals; and
-    - **(F)** an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
+    - **(A)** the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals;
+    - **(B)** clearly defined milestones;
+    - **(C)** an identification of the organizations, program activities, regulations, policies, and other activities that contribute to each performance goal, both within and external to the agency;
+    - **(D)** a description of how the agency is working with other agencies to achieve its performance goals as well as relevant Federal Government performance goals; and
+    - **(E)** an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
   - **(6)** establish a balanced set of performance indicators to be used in measuring or assessing progress toward each performance goal, including, as appropriate, customer service, efficiency, output, and outcome indicators;
   - **(7)** provide a basis for comparing actual program results with the established performance goals;
   - **(8)** a description of how the agency will ensure the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
@@ -60,8 +58,8 @@ generated_at: "2026-03-30T02:55:34.049Z"
   - **(1)** is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy; and
   - **(2)** is properly classified pursuant to such Executive order.
 - **(f)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of performance plans under this section shall be performed only by Federal employees.
-- **(g)** The Performance Improvement Officer of each agency (or the functional equivalent) shall collaborate with the Chief Human Capital Officer (or the functional equivalent), the Chief Information Officer (or the functional equivalent), the Chief Data Officer (or the functional equivalent), and the Chief Financial Officer (or the functional equivalent) of that agency to prepare that portion of the annual performance plan described under subsection (b)(5) for that agency.
-- **(h)** For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
+- **(g)** With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
+- **(h)** For purposes of this section and sections 1116 through 1125, and sections 9703 1 1 See References in Text note below. and 9704, the term—
   - **(1)** “agency” has the same meaning as such term is defined under section 306(f) of title 5 ;
   - **(2)** “crosscutting” means across organizational (such as agency) boundaries;
   - **(3)** “customer service measure” means an assessment of service delivery to a customer, client, citizen, or other recipient, which can include an assessment of quality, timeliness, and satisfaction among other factors;

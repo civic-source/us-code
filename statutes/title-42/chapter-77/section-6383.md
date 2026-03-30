@@ -3,16 +3,17 @@ title: "Section 6383 - Accounting practices"
 usc_title: 42
 usc_section: "6383"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6383"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-03-30T03:06:22.766Z"
+status: "active"
 ---
 
 # § 6383. Accounting practices
 
-- **(a)** For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975 , and shall take effect with respect to the fiscal year of each such person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2).
-- **(b)** In carrying out its responsibilities under subsection (a), the Securities and Exchange Commission shall—
-  - **(1)** consult with the Secretary, the Government Accountability Office, and the Federal Energy Regulatory Commission with respect to accounting practices to be developed under subsection (a), and
+- **(a)** For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975 , and shall take effect with respect to the fiscal year of each such person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2) of this section.
+- **(b)** In carrying out its responsibilities under subsection (a) of this section, the Securities and Exchange Commission shall—
+  - **(1)** consult with the Secretary, the Government Accountability Office, and the Federal Energy Regulatory Commission with respect to accounting practices to be developed under subsection (a) of this section, and
   - **(2)** have authority to prescribe rules applicable to persons engaged in the production of crude oil or natural gas, or make effective by recognition, or by other appropriate means indicating a determination to rely on, accounting practices developed by the Financial Accounting Standards Board, if the Securities and Exchange Commission is assured that such practice will be observed by persons engaged in the production of crude oil or natural gas to the same extent as would result if the Securities and Exchange Commission had prescribed such practices by rule.
 - **(c)** The Securities and Exchange Commission shall assure that accounting practices developed pursuant to this section, to the greatest extent practicable, permit the compilation, treating domestic and foreign operations as separate categories, of an energy data base consisting of:
   - **(1)** The separate calculation of capital, revenue, and operating cost information pertaining to—

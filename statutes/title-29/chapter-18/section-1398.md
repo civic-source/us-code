@@ -3,9 +3,10 @@ title: "Section 1398 - Withdrawal not to occur because of change in business for
 usc_title: 29
 usc_section: "1398"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1398"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-03-30T03:05:09.731Z"
+status: "active"
 ---
 
 # § 1398. Withdrawal not to occur because of change in business form or suspension of contributions during labor dispute
@@ -15,4 +16,4 @@ Notwithstanding any other provision of this part, an employer shall not be consi
   - **(1)** an employer ceases to exist by reason of—
     - **(A)** a change in corporate structure described in section 1369(b) of this title , or
     - **(B)** a change to an unincorporated form of business enterprise,
-  - **(2)** an employer suspends contributions under the plan during a labor dispute involving its employees.
+  - **(2)** an employer suspends contributions under the plan during a labor dispute involving its employees. For purposes of this part, a successor or parent corporation or other entity resulting from any such change shall be considered the original employer.

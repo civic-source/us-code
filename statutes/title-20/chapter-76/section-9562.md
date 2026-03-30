@@ -3,9 +3,10 @@ title: "Section 9562 - Commissioner for Education Evaluation and Regional Assist
 usc_title: 20
 usc_section: "9562"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9562"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-03-30T03:04:46.375Z"
+status: "active"
 ---
 
 # § 9562. Commissioner for Education Evaluation and Regional Assistance
@@ -20,10 +21,10 @@ generated_at: "2026-03-30T02:54:48.227Z"
     - **(E)** those topics covered by the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 ( 20 U.S.C. 6041(f) ) (as such provision was in effect on the day before November 5, 2002 );
   - **(3)** make such information accessible in a user-friendly, timely, and efficient manner (including through use of a searchable Internet-based online database that shall include all topics covered in paragraph (2)(E)) to schools, institutions of higher education, educators (including early childhood educators), parents, administrators, policymakers, researchers, public and private entities (including providers of early childhood services), entities responsible for carrying out technical assistance through the Department, and the general public;
   - **(4)** support the regional educational laboratories in conducting applied research, the development and dissemination of educational research, products and processes, the provision of technical assistance, and other activities to serve the educational needs of such laboratories’ regions;
-  - **(5)** manage the National Library of Education described in subsection (d), and other sources of digital information on education research;
+  - **(5)** manage the National Library of Education described in subsection (d) of this section, and other sources of digital information on education research;
   - **(6)** assist the Director in the preparation of a biennial report, described in section 9519 of this title ; and
   - **(7)** award a contract for a prekindergarten through grade 12 mathematics and science teacher clearinghouse.
-- **(b)** In carrying out subsection (a), the Evaluation and Regional Assistance Commissioner shall—
+- **(b)** In carrying out subsection (a) of this section, the Evaluation and Regional Assistance Commissioner shall—
   - **(1)** ensure that information disseminated under this section is provided in a cost-effective, nonduplicative manner that includes the most current research findings, which may include through the continuation of individual clearinghouses authorized under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (title IX of the Goals 2000: Educate America Act; 20 U.S.C. 6001 et seq.) (as such Act existed on the day before November 5, 2002 );
   - **(2)** describe prominently the type of scientific evidence that is used to support the findings that are disseminated;
   - **(3)** explain clearly the scientifically appropriate and inappropriate uses of—

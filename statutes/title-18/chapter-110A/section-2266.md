@@ -3,9 +3,10 @@ title: "Section 2266 - Definitions"
 usc_title: 18
 usc_section: "2266"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 2266"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-03-30T03:04:41.109Z"
+status: "active"
 ---
 
 # § 2266. Definitions
@@ -35,6 +36,3 @@ In this chapter:
     - **(A)** the length of the relationship; and
     - **(B)** the type of relationship; and
     - **(C)** the frequency of interaction between the persons involved in the relationship.
-  - **(11)** The term “pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, turtle, or other animal that is kept for pleasure rather than for commercial purposes.
-  - **(12)** The term “emotional support animal” means an animal that is covered by the exclusion specified in section 5.303 of title 24, Code of Federal Regulations (or a successor regulation), and that is not a service animal.
-  - **(13)** The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).

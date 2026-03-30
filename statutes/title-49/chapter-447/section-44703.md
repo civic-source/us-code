@@ -3,9 +3,10 @@ title: "Section 44703 - Airman certificates"
 usc_title: 49
 usc_section: "44703"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 44703"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-03-30T03:06:29.324Z"
+status: "active"
 ---
 
 # § 44703. Airman certificates
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:56:19.382Z"
     - **(C)** the use by an applicant of a post office box or “mail drop” as a return address to evade identification of the applicant’s address.
     - **(D)** the use of counterfeit and stolen airman certificates by pilots.
     - **(E)** the absence of information about physical characteristics of holders of those certificates.
-  - **(2)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of U.S. Customs and Border Protection, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+  - **(2)** The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
   - **(3)** For purposes of this section, the term “acts of terrorism” means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
   - **(4)** The Administrator is authorized and directed to work with State and local authorities, and other Federal agencies, to assist in the identification of individuals applying for or holding airmen certificates.
 - **(h)**
@@ -98,7 +99,7 @@ generated_at: "2026-03-30T02:56:19.382Z"
   - **(16)** This subsection shall cease to be effective on the date specified in regulations issued under subsection (i).
 - **(i)**
   - **(1)** Before allowing an individual to begin service as a pilot, an air carrier shall access and evaluate, in accordance with the requirements of this subsection, information pertaining to the individual from the pilot records database established under paragraph (2).
-  - **(2)** Not later than April 30, 2017 , the Administrator shall establish and make available for use an electronic database (in this subsection referred to as the “database”) containing the following records:
+  - **(2)** The Administrator shall establish an electronic database (in this subsection referred to as the “database”) containing the following records:
     - **(A)** From the Administrator—
       - **(i)** records that are maintained by the Administrator concerning current airman certificates, including airman medical certificates and associated type ratings and information on any limitations to those certificates and ratings;
       - **(ii)** records that are maintained by the Administrator concerning any failed attempt of an individual to pass a practical test required to obtain a certificate or type rating under part 61 of title 14, Code of Federal Regulations; and
@@ -187,10 +188,3 @@ generated_at: "2026-03-30T02:56:19.382Z"
     - **(A)** An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
     - **(B)** No action or proceeding may be brought against an air carrier by or on behalf of an individual who has applied for or is seeking a position as a pilot with the air carrier if the air carrier refused to hire the individual after the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute a release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 - **(k)** Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
-- **(l)** An individual may obtain a temporary airman certificate from the Administrator after requesting a permanent replacement airman certificate issued under this section. A temporary airman certificate shall be—
-  - **(1)** made available—
-    - **(A)** electronically to the individual immediately upon submitting an online application for a replacement certificate to the Administrator; or
-    - **(B)** physically to the individual at a flight standards district office—
-      - **(i)** if the individual submits an online application for a replacement certificate; or
-      - **(ii)** if the individual applies for a permanent replacement certificate other than by online application and such application has been received by the Federal Aviation Administration; and
-  - **(2)** destroyed upon receipt of the permanent replacement airman certificate from the Administrator.

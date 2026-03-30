@@ -3,9 +3,10 @@ title: "Section 6432 - Allocation of funds"
 usc_title: 20
 usc_section: "6432"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 6432"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-03-30T03:04:46.338Z"
+status: "active"
 ---
 
 # § 6432. Allocation of funds
@@ -22,11 +23,15 @@ generated_at: "2026-03-30T02:54:48.199Z"
     - **(A)** be determined by the State agency by a deadline set by the Secretary, except that no State agency shall be required to determine the number of such children and youth on a specific date set by the Secretary; and
     - **(B)** be adjusted, as the Secretary determines is appropriate, to reflect the relative length of such agency’s annual programs.
 - **(b)**
-  - **(1)** For each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amount determined by multiplying the number of children counted under subsection (a)(1)(A) for the Commonwealth of Puerto Rico by the product of—
+  - **(1)** For each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amount determined by multiplying the number of children counted under subsection (a)(1)(A) of this section for the Commonwealth of Puerto Rico by the product of—
     - **(A)** the percentage which the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
     - **(B)** 32 percent of the average per-pupil expenditure in the United States.
-  - **(2)** The percentage in paragraph (1)(A) shall not be less than 85 percent.
+  - **(2)** The percentage in paragraph (1)(A) shall not be less than—
+    - **(A)** for fiscal year 2002, 77.5 percent;
+    - **(B)** for fiscal year 2003, 80.0 percent;
+    - **(C)** for fiscal year 2004, 82.5 percent; and
+    - **(D)** for fiscal year 2005 and succeeding fiscal years, 85.0 percent.
   - **(3)** If the application of paragraph (2) would result in any of the 50 States or the District of Columbia receiving less under this subpart than it received under this subpart for the preceding fiscal year, then the percentage described in paragraph (1)(A) that is used for the Commonwealth of Puerto Rico for the fiscal year for which the determination is made shall be the greater of—
     - **(A)** the percentage in paragraph (1)(A) for such fiscal year; or
     - **(B)** the percentage used for the preceding fiscal year.
-- **(c)** If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
+- **(c)** If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) of this section is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.

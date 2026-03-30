@@ -3,9 +3,10 @@ title: "Section 2411 - Inter-departmental Memorandum of Agreement"
 usc_title: 25
 usc_section: "2411"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2411"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-03-30T03:05:02.898Z"
+status: "active"
 ---
 
 # § 2411. Inter-departmental Memorandum of Agreement
@@ -22,10 +23,10 @@ generated_at: "2026-03-30T02:54:52.840Z"
   - **(5)** delineate the responsibilities of the Bureau of Indian Affairs, Department of Justice, Substance Abuse and Mental Health Services Administration, and the Indian Health Service to coordinate alcohol and substance abuse-related services at the central, area, agency, and service unit levels,
   - **(6)** direct Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit directors to cooperate fully with tribal requests made pursuant to section 2412 of this title , and
   - **(7)** provide for an annual review of such agreements by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services.
-- **(b)** To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986 . Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 1 1 See References in Text note below. and local control, in accordance with section 2010 1 of this title.
-- **(c)** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a), consult with and solicit the comments of—
+- **(b)** To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986 . Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), and local control, in accordance with section 2010 1 1 See References in Text note below. of this title.
+- **(c)** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a) of this section, consult with and solicit the comments of—
   - **(1)** interested Indian tribes,
   - **(2)** Indian individuals,
   - **(3)** Indian organizations, and
   - **(4)** professionals in the treatment of alcohol and substance abuse.
-- **(d)** The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010 . At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
+- **(d)** The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010 . At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.

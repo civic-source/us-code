@@ -3,9 +3,10 @@ title: "Section 6305 - Advisory council on transportation statistics"
 usc_title: 49
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 6305"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-03-30T03:06:29.283Z"
+status: "active"
 ---
 
 # § 6305. Advisory council on transportation statistics
@@ -27,4 +28,4 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(1)** Except as provided in paragraph (2), members of the advisory council shall be appointed to staggered terms not to exceed 3 years.
   - **(2)** A member may be renominated for 1 additional 3-year term.
   - **(3)** A member serving on an advisory council on transportation statistics on the day before the date of enactment of the Transportation Research and Innovative Technology Act of 2012 shall serve until the end of the appointed term of the member.
-- **(e)** Chapter 10 of title 5 shall apply to the advisory council established under this section, except that section 1013 of title 5 shall not apply.
+- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory council established under this section, except that section 14 of that Act shall not apply.

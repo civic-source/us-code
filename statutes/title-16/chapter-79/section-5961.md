@@ -1,12 +1,15 @@
 ---
-title: "Section 5961 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 5961 - Special rule for transportation contracting services"
 usc_title: 16
 usc_section: "5961"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5961"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-03-30T03:04:48.632Z"
+status: "active"
 ---
 
-# § 5961. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 5961. Special rule for transportation contracting services
 
+- **(a)** Notwithstanding any other provision of law, a service contract entered into by the Secretary for the provision solely of transportation services in a unit of the National Park System shall be no more than 10 years in length, including a base period of 5 years and annual extensions for an additional 5-year period based on satisfactory performance and approval by the Secretary.
+- **(b)** Notwithstanding any other provision of law, with respect to a service contract for the provision solely of transportation services at Zion National Park, the Secretary may obligate the expenditure of fees received in fiscal year 2002 under section 5981 of this title before the fees are received.

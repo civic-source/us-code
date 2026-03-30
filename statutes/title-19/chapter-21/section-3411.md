@@ -1,12 +1,15 @@
 ---
-title: "Section 3411 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78"
+title: "Section 3411 - Transportation"
 usc_title: 19
 usc_section: "3411"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3411"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-03-30T03:04:42.054Z"
+status: "active"
 ---
 
-# § 3411. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78
+# § 3411. Transportation
+
+No regulation issued by the Secretary of Transportation implementing a recommendation of the Land Transportation Standards Subcommittee established under article 913(5)(a)(i) of the Agreement may take effect before the date 90 days after the date of issuance.
 

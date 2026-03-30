@@ -3,9 +3,10 @@ title: "Section 50 - Repealed. Pub. L. 88–448, title IV, § 402(a)(2) , Aug. 1
 usc_title: 25
 usc_section: "50"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 50"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-03-30T03:05:02.822Z"
+status: "repealed"
 ---
 
 # § 50. Repealed. Pub. L. 88–448, title IV, § 402(a)(2) , Aug. 19, 1964 , 78 Stat. 492

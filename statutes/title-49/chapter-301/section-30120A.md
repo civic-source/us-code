@@ -3,12 +3,13 @@ title: "Section 30120A - Recall obligations and bankruptcy of a manufacturer"
 usc_title: 49
 usc_section: "30120A"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 30120A"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-03-30T03:06:29.302Z"
+status: "active"
 ---
 
 # § 30120A. Recall obligations and bankruptcy of a manufacturer
 
-A manufacturer’s filing of a petition in bankruptcy under chapter 7 or chapter 11 of title 11 does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
+A manufacturer’s filing of a petition in bankruptcy under chapter 11 of title 11, does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
 

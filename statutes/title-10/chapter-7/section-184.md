@@ -1,26 +1,38 @@
 ---
-title: "Section 184 - Civilian Protection Center of Excellence"
+title: "Section 184 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-03-30T03:04:17.216Z"
+status: "active"
 ---
 
-# § 184. Civilian Protection Center of Excellence
+# § 184. Regional Centers for Security Studies
 
-- **(a)** The Secretary of Defense shall operate the Civilian Protection Center of Excellence. The purpose of the Center shall be to—
-  - **(1)** serve as the focal point for matters related to civilian casualties and other forms of civilian harm resulting from military operations involving the United States Armed Forces; and
-  - **(2)** institutionalize and advance knowledge, practices, and tools for preventing, mitigating, and responding to civilian harm.
-- **(b)** The Center shall be used to—
-  - **(1)** develop standardized civilian-harm operational reporting and data management processes to improve data collection, sharing, and learning across the Department of Defense;
-  - **(2)** develop, recommend, and review guidance, and the implementation of guidance, on how the Department responds to civilian harm;
-  - **(3)** develop recommended guidance for addressing civilian harm across the full spectrum of armed conflict and for use in doctrine and operational plans;
-  - **(4)** recommend training and exercises for the prevention and investigation of civilian harm;
-  - **(5)** develop a repository of civilian casualty and civilian harm information;
-  - **(6)** capture lessons learned from assessments and investigations of civilian casualty incidents and supporting institutionalization of such lessons learned within policy, doctrine, training, exercises, and tactics, techniques, and procedures of the Department of Defense;
-  - **(7)** support the coordination and synchronization of efforts across combatant commands, the Department of State, and other relevant United States Government departments and agencies to prevent, mitigate, and respond to incidents of civilian harm;
-  - **(8)** engage with nongovernmental organizations and civilian casualty experts; and
-  - **(9)** perform such other functions as the Secretary of Defense may specify.
-- **(c)** The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.
+- **(a)** The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
+- **(b)**
+  - **(1)** A Department of Defense Regional Center for Security Studies is a Department of Defense institution that—
+    - **(A)** is operated, and designated as such, by the Secretary of Defense for the study of security issues relating to a specified geographic region of the world; and
+    - **(B)** serves as a forum for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
+  - **(2)** The Department of Defense Regional Centers for Security Studies are the following:
+    - **(A)** The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
+    - **(B)** The Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
+    - **(C)** The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
+    - **(D)** The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
+    - **(E)** The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
+  - **(3)** No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after October 17, 2006 .
+- **(c)** The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary.
+- **(d)** Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
+- **(e)** At each Regional Center, the Secretary may, subject to the availability of appropriations—
+  - **(1)** employ a Director, a Deputy Director, and as many civilians as professors, instructors, and lecturers as the Secretary considers necessary; and
+  - **(2)** prescribe the compensation of such persons, in accordance with Federal guidelines.
+- **(f)**
+  - **(1)** Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
+  - **(2)** For a foreign national participant, payment of costs may be made by the participant, the participant’s own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under section 2611 of this title on behalf of the participant’s government.
+  - **(3)** The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security civilian government officials from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
+  - **(4)** Funds accepted for the payment of costs shall be credited to the appropriation then currently available to the Department of Defense for the Regional Center that incurred the costs. Funds so credited shall be merged with the appropriation to which credited and shall be available to that Regional Center for the same purposes and same period as the appropriation with which merged.
+  - **(5)** Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.
+  - **(6)** Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+- **(g)** The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.

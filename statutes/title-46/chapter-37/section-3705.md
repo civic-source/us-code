@@ -3,9 +3,10 @@ title: "Section 3705 - Crude oil tanker minimum standards"
 usc_title: 46
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 3705"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-03-30T03:06:27.170Z"
+status: "active"
 ---
 
 # § 3705. Crude oil tanker minimum standards
@@ -14,9 +15,11 @@ generated_at: "2026-03-30T02:56:15.545Z"
   - **(1)** protectively located segregated ballast tanks;
   - **(2)** a crude oil washing system; and
   - **(3)** a cargo tank protection system consisting of a fixed deck froth system and a fixed inert gas system.
-- **(b)** An existing crude oil tanker of at least 40,000 deadweight tons shall be equipped with—
-  - **(1)** segregated ballast tanks; or
-  - **(2)** a crude oil washing system.
-- **(c)** An existing crude oil tanker of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or a crude oil washing system.
+- **(b)**
+  - **(1)** An existing crude oil tanker of at least 40,000 deadweight tons shall be equipped with—
+    - **(A)** segregated ballast tanks; or
+    - **(B)** a crude oil washing system.
+  - **(2)** Compliance with paragraph (1) of this subsection may be delayed until June 1, 1985 , for any tanker of less than 70,000 deadweight tons that has dedicated clean ballast tanks.
+- **(c)** An existing crude oil tanker of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or a crude oil washing system before January 2, 1986 , or the date on which the tanker reaches 15 years of age, whichever is later.
 - **(d)** An existing crude oil tanker of at least 20,000 deadweight tons shall be equipped with an inert gas system. However, for a crude oil tanker of less than 40,000 deadweight tons not fitted with high capacity tank washing machines, the Secretary may grant an exemption if the vessel’s owner can show clearly that compliance would be unreasonable and impracticable due to the vessel’s design characteristics.
 - **(e)** A crude oil tanker engaged in transferring oil from an offshore oil exploitation or production facility on the Outer Continental Shelf of the United States shall be equipped with segregated ballast tanks, or may operate with dedicated clean ballast tanks or special ballast arrangements. However, the tanker shall comply with other applicable minimum standards of this section.

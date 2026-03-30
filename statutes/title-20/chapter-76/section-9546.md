@@ -3,9 +3,10 @@ title: "Section 9546 - Dissemination"
 usc_title: 20
 usc_section: "9546"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 9546"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-03-30T03:04:46.375Z"
+status: "active"
 ---
 
 # § 9546. Dissemination
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
 - **(b)** The Statistics Center shall furnish such special statistical compilations and surveys as the relevant congressional committees may request.
 - **(c)** The Statistics Center may engage in joint statistical projects related to the mission of the Center, or other statistical purposes authorized by law, with nonprofit organizations or agencies, and the cost of such projects shall be shared equitably as determined by the Secretary.
 - **(d)**
-  - **(1)** Statistical compilations and surveys under this section, other than those carried out pursuant to subsections (b) and (c), may be made subject to the payment of the actual or estimated cost of such work.
+  - **(1)** Statistical compilations and surveys under this section, other than those carried out pursuant to subsections (b) and (c) of this section, may be made subject to the payment of the actual or estimated cost of such work.
   - **(2)** All funds received in payment for work or services described in this subsection may be used to pay directly the costs of such work or services, to repay appropriations that initially bore all or part of such costs, or to refund excess sums when necessary.
 - **(e)**
   - **(1)** The Statistics Center shall, consistent with section 9573 of this title , cooperate with other Federal agencies having a need for educational data in providing access to educational data received by the Statistics Center.

@@ -3,9 +3,10 @@ title: "Section 1d - National program for traumatic brain injury surveillance an
 usc_title: 42
 usc_section: "1d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1d"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-03-30T03:06:22.331Z"
+status: "active"
 ---
 
 # § 280b–1d. National program for traumatic brain injury surveillance and registries
@@ -16,4 +17,3 @@ generated_at: "2026-03-30T02:56:10.726Z"
   - **(3)** administrative information about the source of the collected information, dates of hospitalization and treatment, and the date of injury; and
   - **(4)** information characterizing the clinical aspects of the traumatic brain injury, including the severity of the injury, outcomes of the injury, the types of treatments received, and the types of services utilized.
 - **(b)** Not later than 18 months after April 28, 2008 , the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that contains the findings derived from an evaluation concerning activities and procedures that can be implemented by the Centers for Disease Control and Prevention to improve the collection and dissemination of compatible epidemiological studies on the incidence and prevalence of traumatic brain injury in individuals who were formerly in the military. The report shall include recommendations on the manner in which such agencies can further collaborate on the development and improvement of traumatic brain injury diagnostic tools and treatments.
-- **(c)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may implement concussion data collection and analysis to determine the prevalence and incidence of concussion.

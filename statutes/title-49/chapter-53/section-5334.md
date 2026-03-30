@@ -3,9 +3,10 @@ title: "Section 5334 - Administrative provisions"
 usc_title: 49
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5334"
-generated_at: "2026-03-30T02:56:19.316Z"
+generated_at: "2026-03-30T03:06:29.281Z"
+status: "active"
 ---
 
 # § 5334. Administrative provisions
@@ -39,33 +40,17 @@ generated_at: "2026-03-30T02:56:19.316Z"
   - **(1)** deprive a State or political subdivision of a State of jurisdiction of the property; or
   - **(2)** impair the civil rights, under the laws of a State or political subdivision of a State, of an inhabitant of the property.
 - **(h)**
-  - **(1)** If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which such asset was acquired, the Secretary may authorize the recipient to transfer such asset to—
-    - **(A)** a local governmental authority to be used for a public purpose with no further obligation to the Government if the Secretary decides—
-      - **(i)** the asset will remain in public use for at least 5 years after the date the asset is transferred;
-      - **(ii)** there is no purpose eligible for assistance under this chapter for which the asset should be used;
-      - **(iii)** the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
-      - **(iv)** through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land; or
-    - **(B)** a local governmental authority, nonprofit organization, or other third party entity to be used for the purpose of transit-oriented development with no further obligation to the Government if the Secretary decides—
-      - **(i)** the asset is a necessary component of a proposed transit-oriented development project;
-      - **(ii)** the transit-oriented development project will increase transit ridership;
-      - **(iii)** at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent 1 1 So in original. Probably should be followed by “of”. the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
-      - **(iv)** the asset will remain in use as described in this section for at least 30 years after the date the asset is transferred; and
-      - **(v)** with respect to a transfer to a third party entity—
-        - **(I)** a local government authority or nonprofit organization is unable to receive the property;
-        - **(II)** the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
-        - **(III)** the third party has demonstrated a satisfactory history of construction or operating an affordable housing development.
+  - **(1)** If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
+    - **(A)** the asset will remain in public use for at least 5 years after the date the asset is transferred;
+    - **(B)** there is no purpose eligible for assistance under this chapter for which the asset should be used;
+    - **(C)** the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
+    - **(D)** through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land.
   - **(2)** A decision under paragraph (1) must be in writing and include the reason for the decision.
   - **(3)** This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
   - **(4)**
     - **(A)** When real property, equipment, or supplies acquired with assistance under this chapter are no longer needed for public transportation purposes as determined under the applicable assistance agreement, the Secretary may authorize the sale, transfer, or lease of the assets under conditions determined by the Secretary and subject to the requirements of this subsection.
-    - **(B)**
-      - **(i)** With respect to rolling stock and equipment with a unit fair market value of $5,000 or less per unit and unused supplies with a total aggregate fair market value of $5,000 or less that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained, sold, or otherwise disposed of at the end of the service life of the rolling stock, equipment, or supplies without any obligation to reimburse the Federal Transit Administration.
-      - **(ii)**
-        - **(I)** With respect to rolling stock and equipment with a unit fair market value of more than $5,000 per unit and unused supplies with a total aggregate fair market value of more than $5,000 that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained or sold at the end of the service life of the rolling stock, equipment, or supplies.
-        - **(II)** If rolling stock, equipment, or supplies described in subclause (I) is sold, of the proceeds from the sale—
-      - **(iii)** Rolling stock, equipment, or supplies described in clause (i) or (ii) that is retained by a recipient under those clauses may be used by the recipient for other public transportation projects or programs with no obligation to reimburse the Federal Transit Administration, and no approval of the Secretary to retain that rolling stock, equipment, or supplies is required.
-    - **(C)** The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
-    - **(D)** The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
+    - **(B)** The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
+    - **(C)** The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
 - **(i)**
   - **(1)** Amounts made available for a public transportation project under title 23 may be transferred to and administered by the Secretary under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
   - **(2)** The provisions of title 23 related to the non-Government share apply to amounts under title 23 used for public transportation projects. The provisions of this chapter related to the non-Government share apply to amounts under this chapter used for highway projects.

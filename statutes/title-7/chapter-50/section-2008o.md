@@ -1,12 +1,48 @@
 ---
-title: "Section 2008o - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(D) , Dec. 20, 2018 , 132 Stat. 4775"
+title: "Section 2008o - Historic barn preservation"
 usc_title: 7
 usc_section: "2008o"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2008o"
-generated_at: "2026-03-30T02:53:42.356Z"
+generated_at: "2026-03-30T03:04:20.951Z"
+status: "active"
 ---
 
-# § 2008o. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(D) , Dec. 20, 2018 , 132 Stat. 4775
+# § 2008o. Historic barn preservation
 
+- **(a)** In this section:
+  - **(1)** The term “barn” means a building (other than a dwelling) on a farm, ranch, or other agricultural operation for—
+    - **(A)** housing animals;
+    - **(B)** storing or processing crops;
+    - **(C)** storing and maintaining agricultural equipment; or
+    - **(D)** serving an essential or useful purpose related to agricultural activities conducted on the adjacent land.
+  - **(2)** The term “eligible applicant” means—
+    - **(A)** a State department of agriculture (or a designee);
+    - **(B)** a national or State nonprofit organization that—
+      - **(i)** is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of title 26 ; and
+      - **(ii)** has experience or expertise, as determined by the Secretary, in the identification, evaluation, rehabilitation, preservation, or protection of historic barns; and
+    - **(C)** a State historic preservation office.
+  - **(3)** The term “historic barn” means a barn that—
+    - **(A)** is at least 50 years old;
+    - **(B)** retains sufficient integrity of design, materials, and construction to clearly identify the barn as an agricultural building; and
+    - **(C)** meets the criteria for listing on National, State, or local registers or inventories of historic structures.
+  - **(4)** The term “Secretary” means the Secretary, acting through the Under Secretary of Rural Development.
+- **(b)** The Secretary shall establish a historic barn preservation program—
+  - **(1)** to assist States in developing a list of historic barns;
+  - **(2)** to collect and disseminate information on historic barns;
+  - **(3)** to foster educational programs relating to the history, construction techniques, rehabilitation, and contribution to society of historic barns; and
+  - **(4)** to sponsor and conduct research on—
+    - **(A)** the history of barns; and
+    - **(B)** best practices to protect and rehabilitate historic barns from the effects of decay, fire, arson, and natural disasters.
+- **(c)**
+  - **(1)** The Secretary may make grants to, or enter into contracts or cooperative agreements with, eligible applicants to carry out an eligible project under paragraph (2).
+  - **(2)** A grant under this subsection may be made to an eligible applicant for a project—
+    - **(A)** to rehabilitate or repair historic barns;
+    - **(B)** to preserve historic barns through—
+      - **(i)** the installation of a fire protection system, including fireproofing or fire detection system and sprinklers; and
+      - **(ii)** the installation of a system to prevent vandalism; and
+    - **(C)** to identify, document, and conduct research on historic barns (including surveys) to develop and evaluate appropriate techniques or best practices for protecting historic barns.
+  - **(3)** In making grants under this subsection, the Secretary shall give the highest priority to funding projects described in paragraph (2)(C).
+  - **(4)** An eligible applicant that receives a grant for a project under this subsection shall comply with any standards established by the Secretary of the Interior for historic preservation projects.
+  - **(5)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.

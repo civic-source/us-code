@@ -3,9 +3,10 @@ title: "Section 12653p - Volunteer generation fund"
 usc_title: 42
 usc_section: "12653p"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12653p"
-generated_at: "2026-03-30T02:56:11.426Z"
+generated_at: "2026-03-30T03:06:22.912Z"
+status: "active"
 ---
 
 # § 12653p. Volunteer generation fund
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:56:11.426Z"
 - **(d)**
   - **(1)** Of the funds allocated by the Corporation for provision of assistance under this section for a fiscal year—
     - **(A)** the Corporation shall use 50 percent of such funds to award grants, on a competitive basis, to State Commissions and nonprofit organizations for such fiscal year; and
-    - **(B)** the Corporation shall use 50 percent of such funds make 2 2 So in original. Probably should be preceded by “to”. an allotment to the State Commissions of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico based on the formula described in subsections (e) and (f) of section 12581 of this title , subject to paragraph (2).
+    - **(B)** the Corporation shall use 50 percent of such funds make an allotment to the State Commissions of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico based on the formula described in subsections (e) and (f) of section 12581 of this title , subject to paragraph (2).
   - **(2)** In order to ensure that each State Commission is able to improve efforts to recruit, manage, or support volunteers, the Corporation may determine a minimum grant amount for allotments under paragraph (1)(B).
 - **(e)** Not more than 5 percent of the amount of any grant provided under this section for a fiscal year may be used to pay for administrative costs incurred by either the recipient of the grant or any community-based entity receiving assistance or a subgrant under such grant.
 - **(f)** The Corporation share of the cost of carrying out a program that receives assistance under this section, whether the assistance is provided directly or as a subgrant from the original recipient of the assistance, may not exceed—

@@ -3,9 +3,10 @@ title: "Section 7309 - Readjustment Counseling Service"
 usc_title: 38
 usc_section: "7309"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 7309"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-03-30T03:05:59.228Z"
+status: "active"
 ---
 
 # § 7309. Readjustment Counseling Service
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
     - **(D)** meet the quality standards and requirements of the Department; and
     - **(E)** are veterans who served in combat as members of the Armed Forces.
 - **(c)**
-  - **(1)** The Readjustment Counseling Service is a distinct organizational element within the Veterans Health Administration.
+  - **(1)** The Readjustment Counseling Service is a distinct organizational element within Veterans 1 1 So in original. Probably should be preceded by “the”. Health Administration.
   - **(2)** The Readjustment Counseling Service shall provide counseling and services as described in subsection (a).
   - **(3)** The Chief Officer shall have direct authority over all Readjustment Counseling Service staff and assets, including Vet Centers.
 - **(d)**
@@ -31,17 +32,9 @@ generated_at: "2026-03-30T02:55:53.527Z"
   - **(2)** Amounts for activities of the Readjustment Counseling Service, including the operations of its Vet Centers, shall not be allocated through the Veterans Equitable Resource Allocation system.
   - **(3)** In each budget request submitted for the Department of Veterans Affairs by the President to Congress under section 1105 of title 31 , the budget request for the Readjustment Counseling Service shall be listed separately.
 - **(e)**
-  - **(1)** Not later than March 15 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Readjustment Counseling Service during the preceding fiscal year.
+  - **(1)** Not later than March 15 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Readjustment Counseling Service during the preceding calendar year.
   - **(2)** Each report submitted under paragraph (1) shall include, with respect to the period covered by the report, the following:
     - **(A)** A summary of the activities of the Readjustment Counseling Service, including Vet Centers.
     - **(B)** A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
-    - **(C)** A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
-    - **(D)** A description of actions taken by the Secretary to reduce—
-      - **(i)** vacancies in counselor positions in the Readjustment Counseling Service; and
-      - **(ii)** the time it takes to hire such counselors.
-  - **(3)** For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
-    - **(A)** trends in demand for care;
-    - **(B)** long-term investments required with respect to the provision of care;
-    - **(C)** requirements relating to maintenance of infrastructure; and
-    - **(D)** other capital investment requirements with respect to the Readjustment Counseling Service, including Vet Centers, mobile Vet Centers, and community access points.
+    - **(C)** A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need.
 - **(f)** In this section, the term “Vet Center” has the meaning given the term in section 1712A(h)(1) of this title .

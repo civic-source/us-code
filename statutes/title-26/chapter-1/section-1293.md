@@ -3,9 +3,10 @@ title: "Section 1293 - Current taxation of income from qualified electing funds"
 usc_title: 26
 usc_section: "1293"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1293"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-03-30T03:05:18.653Z"
+status: "active"
 ---
 
 # § 1293. Current taxation of income from qualified electing funds
@@ -25,9 +26,8 @@ generated_at: "2026-03-30T02:55:27.767Z"
   - **(2)** A qualified electing fund’s net capital gain for any taxable year shall not exceed its earnings and profits for such taxable year.
   - **(3)** The earnings and profits of any qualified electing fund shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earnings and profits by an amount which was previously distributed by the qualified electing fund.
 - **(f)** For purposes of section 960—
-  - **(1)** any amount included in the gross income under subsection (a) shall be treated as if it were included under section 951(a),
-  - **(2)** any amount excluded from gross income under subsection (c) shall be treated in the same manner as amounts excluded from gross income under section 959, and
-  - **(3)** a domestic corporation which owns (or is treated under section 1298(a) as owning) stock of a qualified electing fund shall be treated in the same manner as a United States shareholder of a controlled foreign corporation (and such qualified electing fund shall be treated in the same manner as such controlled foreign corporation) if such domestic corporation meets the stock ownership requirements of subsection (a) or (b) of section 902 (as in effect before its repeal) with respect to such qualified electing fund.
+  - **(1)** any amount included in the gross income under subsection (a) shall be treated as if it were included under section 951(a), and
+  - **(2)** any amount excluded from gross income under subsection (c) shall be treated in the same manner as amounts excluded from gross income under section 959.
 - **(g)**
   - **(1)** For purposes of determining the amount included in the gross income of any person under this section, the ordinary earnings and net capital gain of a qualified electing fund shall not include any item of income received by such fund if—
     - **(A)** such fund is a controlled foreign corporation (as defined in section 957(a)) and such person is a United States shareholder (as defined in section 951(b)) in such fund, and

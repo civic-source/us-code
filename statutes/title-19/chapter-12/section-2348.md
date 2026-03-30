@@ -3,9 +3,10 @@ title: "Section 2348 - Protective provisions"
 usc_title: 19
 usc_section: "2348"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2348"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-03-30T03:04:42.036Z"
+status: "active"
 ---
 
 # § 2348. Protective provisions
@@ -15,4 +16,3 @@ generated_at: "2026-03-30T02:54:24.671Z"
 - **(c)** No adjustment assistance under this part shall be extended to any firm unless the owners, partners, or officers certify to the Secretary—
   - **(1)** the names of any attorneys, agents, and other persons engaged by or on behalf of the firm for the purpose of expediting applications for such adjustment assistance; and
   - **(2)** the fees paid or to be paid to any such person.
-- **(d)** No financial assistance shall be provided to any firm under this part unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within 1 year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary shall have determined involve discretion with respect to the provision of such financial assistance.

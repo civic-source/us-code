@@ -3,9 +3,10 @@ title: "Section 877A - Tax responsibilities of expatriation"
 usc_title: 26
 usc_section: "877A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 877A"
-generated_at: "2026-03-30T02:55:27.741Z"
+generated_at: "2026-03-30T03:05:18.631Z"
+status: "active"
 ---
 
 # § 877A. Tax responsibilities of expatriation
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:27.741Z"
     - **(B)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
       - **(ii)** If any amount as adjusted under clause (i) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
 - **(b)**
   - **(1)** If the taxpayer elects the application of this subsection with respect to any property treated as sold by reason of subsection (a), the time for payment of the additional tax attributable to such property shall be extended until the due date of the return for the taxable year in which such property is disposed of (or, in the case of property disposed of in a transaction in which gain is not recognized in whole or in part, until such other date as the Secretary may prescribe).
@@ -70,7 +71,7 @@ generated_at: "2026-03-30T02:55:27.741Z"
     - **(A)** the covered expatriate shall be treated as receiving a distribution of his entire interest in such account on the day before the expatriation date,
     - **(B)** no early distribution tax shall apply by reason of such treatment, and
     - **(C)** appropriate adjustments shall be made to subsequent distributions from the account to reflect such treatment.
-  - **(2)** For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+  - **(2)** For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 - **(f)**
   - **(1)** In the case of a distribution (directly or indirectly) of any property from a nongrantor trust to a covered expatriate—
     - **(A)** the trustee shall deduct and withhold from such distribution an amount equal to 30 percent of the taxable portion of the distribution, and
@@ -104,7 +105,7 @@ generated_at: "2026-03-30T02:55:27.741Z"
     - **(C)** the date the United States Department of State issues to the individual a certificate of loss of nationality, or
     - **(D)** the date a court of the United States cancels a naturalized citizen’s certificate of naturalization.
   - **(5)** The term “long-term resident” has the meaning given to such term by section 877(e)(2).
-  - **(6)** The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(f)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
+  - **(6)** The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4), 1 1 See References in Text note below. 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
 - **(h)**
   - **(1)** In the case of any covered expatriate, notwithstanding any other provision of this title—
     - **(A)** any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and

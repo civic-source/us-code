@@ -3,9 +3,10 @@ title: "Section 12617 - Service projects"
 usc_title: 42
 usc_section: "12617"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12617"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-03-30T03:06:22.907Z"
+status: "active"
 ---
 
 # § 12617. Service projects
@@ -21,5 +22,5 @@ generated_at: "2026-03-30T02:56:11.420Z"
     - **(B)** Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corps campus. Corps members shall also be encouraged to identify projects for the Corps.
   - **(2)** The process for developing project proposals under paragraph (1) shall include consultation with the Corporation, representatives of local communities, State Commissions, and persons involved in other youth service programs.
 - **(c)**
-  - **(1)** The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b).
+  - **(1)** The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b) of this section.
   - **(2)** The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.

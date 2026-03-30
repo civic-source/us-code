@@ -3,9 +3,10 @@ title: "Section 197f - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(54),
 usc_title: 15
 usc_section: "197f"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 197f"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-03-30T03:04:31.113Z"
+status: "repealed"
 ---
 
 # § 197f. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(54), 60 Stat. 1039

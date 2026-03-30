@@ -3,9 +3,10 @@ title: "Section 4401 - Imposition of tax"
 usc_title: 26
 usc_section: "4401"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4401"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-03-30T03:05:18.686Z"
+status: "active"
 ---
 
 # § 4401. Imposition of tax

@@ -3,16 +3,17 @@ title: "Section 1461 - National Estuarine Research Reserve System"
 usc_title: 16
 usc_section: "1461"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1461"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-03-30T03:04:48.572Z"
+status: "active"
 ---
 
 # § 1461. National Estuarine Research Reserve System
 
 - **(a)** There is established the National Estuarine Research Reserve System (hereinafter referred to in this section as the “System”) that consists of—
   - **(1)** each estuarine sanctuary designated under this section as in effect before April 7, 1986 ; and
-  - **(2)** each estuarine area designated as a national estuarine reserve under subsection (b).
+  - **(2)** each estuarine area designated as a national estuarine reserve under subsection (b) of this section.
 - **(b)** After April 7, 1986 , the Secretary may designate an estuarine area as a national estuarine reserve if—
   - **(1)** the Governor of the coastal state in which the area is located nominates the area for that designation; and
   - **(2)** the Secretary finds that—
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
   - **(2)** the establishment of common research principles and objectives to guide the development of research programs within the System;
   - **(3)** the identification of uniform research methodologies which will ensure comparability of data, the broadest application of research results, and the maximum use of the System for research purposes;
   - **(4)** the establishment of performance standards upon which the effectiveness of the research efforts and the value of reserves within the System in addressing the coastal management issues identified in paragraph (1) may be measured; and
-  - **(5)** the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d).
+  - **(5)** the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d) of this section.
 - **(d)** The Secretary shall take such action as is necessary to promote and coordinate the use of the System for research purposes including—
   - **(1)** requiring that the National Oceanic and Atmospheric Administration, in conducting or supporting estuarine research, give priority consideration to research that uses the System; and
   - **(2)** consulting with other Federal and State agencies to promote use of one or more reserves within the System by such agencies when conducting estuarine research.
@@ -35,7 +36,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
       - **(i)** for purposes of acquiring such lands and waters, and any property interests therein, as are necessary to ensure the appropriate long-term management of an area as a national estuarine reserve,
       - **(ii)** for purposes of operating or managing a national estuarine reserve and constructing appropriate reserve facilities, or
       - **(iii)** for purposes of conducting educational or interpretive activities; and
-    - **(B)** to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c).
+    - **(B)** to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c) of this section.
   - **(2)** Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal states to execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
   - **(3)**
     - **(A)** The amount of the financial assistance provided under paragraph (1)(A)(i) with respect to the acquisition of lands and waters, or interests therein, for any one national estuarine reserve may not exceed an amount equal to 50 percent of the costs of the lands, waters, and interests therein or $5,000,000, whichever amount is less.
@@ -43,12 +44,12 @@ generated_at: "2026-03-30T02:54:22.972Z"
     - **(C)** Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent of the costs of activities carried out with the assistance.
 - **(f)**
   - **(1)** The Secretary shall periodically evaluate the operation and management of each national estuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
-  - **(2)** If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c), the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) until the deficiency or inconsistency is remedied.
+  - **(2)** If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c) of this section, the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) of this section until the deficiency or inconsistency is remedied.
   - **(3)** The Secretary may withdraw the designation of an estuarine area as a national estuarine reserve if evaluation under paragraph (1) reveals that—
-    - **(A)** the basis for any one or more of the findings made under subsection (b)(2) regarding that area no longer exists; or
-    - **(B)** a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c).
+    - **(A)** the basis for any one or more of the findings made under subsection (b)(2) of this section regarding that area no longer exists; or
+    - **(B)** a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c) of this section.
 - **(g)** The Secretary shall include in the report required under section 1462 of this title information regarding—
   - **(1)** new designations of national estuarine reserves;
   - **(2)** any expansion of existing national estuarine reserves;
   - **(3)** the status of the research program being conducted within the System; and
-  - **(4)** a summary of the evaluations made under subsection (f).
+  - **(4)** a summary of the evaluations made under subsection (f) of this section.

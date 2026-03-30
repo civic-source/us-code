@@ -3,13 +3,14 @@ title: "Section 411 - Supreme Court reports; printing, binding, and distribution
 usc_title: 28
 usc_section: "411"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 411"
-generated_at: "2026-03-30T02:55:30.129Z"
+generated_at: "2026-03-30T03:05:05.813Z"
+status: "active"
 ---
 
 # § 411. Supreme Court reports; printing, binding, and distribution
 
 - **(a)** The decisions of the Supreme Court of the United States shall be printed, bound, and distributed in the preliminary prints and bound volumes of the United States Reports as soon as practicable after rendition, to be charged to the proper appropriation for the judiciary. The number and distribution of the copies shall be under the control of the Joint Committee on Printing.
 - **(b)** Reports printed prior to June 12, 1926 , shall not be furnished the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force.
-- **(c)** The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
+- **(c)** The Public Printer, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.

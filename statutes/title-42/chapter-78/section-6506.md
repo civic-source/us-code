@@ -3,12 +3,13 @@ title: "Section 6506 - Applicability of antitrust provisions; plans and proposal
 usc_title: 42
 usc_section: "6506"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6506"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-03-30T03:06:22.767Z"
+status: "active"
 ---
 
 # § 6506. Applicability of antitrust provisions; plans and proposals submitted to Congress to contain report by Attorney General on impact of plans and proposals on competition
 
-Unless otherwise provided by Act of Congress, whenever development leading to production of petroleum is authorized, the provisions of subsections (g), (h), and (i) of section 8730 of title 10 shall be deemed applicable to the Secretary of the Interior with respect to rules and regulations, plans of development and amendments thereto, and contracts and operating agreements. All plans and proposals submitted to the Congress under this chapter or pursuant to legislation authorizing development leading to production shall contain a report by the Attorney General of the United States on the anticipated effects upon competition of such plans and proposals.
+Unless otherwise provided by Act of Congress, whenever development leading to production of petroleum is authorized, the provisions of subsections (g), (h), and (i) of section 7430 of title 10 shall be deemed applicable to the Secretary of the Interior with respect to rules and regulations, plans of development and amendments thereto, and contracts and operating agreements. All plans and proposals submitted to the Congress under this chapter or pursuant to legislation authorizing development leading to production shall contain a report by the Attorney General of the United States on the anticipated effects upon competition of such plans and proposals.
 

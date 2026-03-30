@@ -1,16 +1,13 @@
 ---
-title: "Section 908 - Limitations on use of assistance"
+title: "Section 908 - Repealed. Pub. L. 104–127, title VII, § 776 , Apr. 4, 1996 , 110 Stat. 1150"
 usc_title: 7
 usc_section: "908"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 908"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-03-30T03:04:20.907Z"
+status: "repealed"
 ---
 
-# § 908. Limitations on use of assistance
+# § 908. Repealed. Pub. L. 104–127, title VII, § 776 , Apr. 4, 1996 , 110 Stat. 1150
 
-- **(a)** Subject to subsections (b) and (c) of this section, the Secretary may allow a recipient of a grant, loan, or loan guarantee under this subchapter to set aside not more than 10 percent of the amount so received to provide retail broadband service.
-- **(b)** A recipient who sets aside funds under subsection (a) of this section may use the funds only in an area that is not being provided with the minimum acceptable level of broadband service established under section 950bb(e) of this title , unless the recipient meets the requirements of section 950bb(d) of this title .
-- **(c)** Nothing in this section shall be construed to limit the ability of any borrower to finance or deploy services authorized under this chapter.
-- **(d)** The Secretary shall not provide funding under subsection (a) if the funding would result in competitive harm to any grant, loan, or loan guarantee referred to in subsection (a).

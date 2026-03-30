@@ -1,12 +1,23 @@
 ---
-title: "Section 5401 - Omitted"
+title: "Section 5401 - Findings"
 usc_title: 16
 usc_section: "5401"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5401"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-03-30T03:04:48.628Z"
+status: "active"
 ---
 
-# § 5401. Omitted
+# § 5401. Findings
 
+The Congress finds and declares the following:
+
+  - **(1)** The United States is a nation with a rich maritime history, and it is desirable to foster in the American public a greater awareness and appreciation of the role of maritime endeavors in our Nation’s history and culture.
+  - **(2)** The maritime historical and cultural foundations of the Nation should be preserved as a part of our community life and development.
+  - **(3)** National, State, and local groups have been working independently to preserve the maritime heritage of the United States.
+  - **(4)** Historic resources significant to the Nation’s maritime heritage are being lost or substantially altered, often inadvertently, with increasing frequency.
+  - **(5)** The preservation of this irreplaceable maritime heritage is in the public interest so that its vital legacy of cultural, educational, aesthetic, inspirational, and economic benefits will be maintained and enriched for future generations of Americans.
+  - **(6)** The current governmental and nongovernmental historic preservation programs and activities are inadequate to ensure future generations a genuine opportunity to appreciate and enjoy the rich maritime heritage of our Nation.
+  - **(7)** A coordinated national program is needed immediately to redress the adverse consequences of a period of indifference during which the maritime heritage of the United States has become endangered and to ensure the future preservation of the Nation’s maritime heritage.
+  - **(8)** A national maritime heritage policy would greatly increase public awareness of, and participation in, the preservation of the Nation’s maritime heritage.

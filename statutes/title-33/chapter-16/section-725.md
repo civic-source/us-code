@@ -1,12 +1,15 @@
 ---
-title: "Section 725 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(1), Jan. 1, 2021 , 134 Stat. 4759"
+title: "Section 725 - Prohibition against officers and employees being interested in contracts for materials, etc."
 usc_title: 33
 usc_section: "725"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 725"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-03-30T03:05:36.260Z"
+status: "active"
 ---
 
-# § 725. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(1), Jan. 1, 2021 , 134 Stat. 4759
+# § 725. Prohibition against officers and employees being interested in contracts for materials, etc.
+
+No Commandant of the Coast Guard, superintendent of lighthouses, lightkeeper, or other person in any manner connected with the light-house service, shall be interested, either directly or indirectly, in any contract for labor, materials, or supplies for the light-house service, or in any patent, plan, or mode of construction or illumination, or in any article of supply for the light-house service.
 

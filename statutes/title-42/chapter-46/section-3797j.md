@@ -1,12 +1,15 @@
 ---
-title: "Section 3797j - Transferred"
+title: "Section 3797j - Grant authorization"
 usc_title: 42
 usc_section: "3797j"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3797j"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-03-30T03:06:22.702Z"
+status: "active"
 ---
 
-# § 3797j. Transferred
+# § 3797j. Grant authorization
+
+The Attorney General shall award grants to States and units of local government in accordance with this subchapter.
 

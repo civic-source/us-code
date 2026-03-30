@@ -3,9 +3,10 @@ title: "Section 300k - Establishment of program of grants to States"
 usc_title: 42
 usc_section: "300k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 300k"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-03-30T03:06:22.393Z"
+status: "active"
 ---
 
 # § 300k. Establishment of program of grants to States
@@ -18,10 +19,10 @@ generated_at: "2026-03-30T02:56:10.807Z"
   - **(5)** to establish mechanisms through which the States can monitor the quality of screening procedures for breast and cervical cancer, including the interpretation of such procedures; and
   - **(6)** to evaluate activities conducted under paragraphs (1) through (5) through appropriate surveillance or program-monitoring activities.
 - **(b)**
-  - **(1)** A State receiving a grant under subsection (a) may, subject to paragraphs (2) and (3), expend the grant to carry out the purpose described in such subsection through grants to public and nonprofit private entities and through contracts with public and private entities.
+  - **(1)** A State receiving a grant under subsection (a) of this section may, subject to paragraphs (2) and (3), expend the grant to carry out the purpose described in such subsection through grants to public and nonprofit private entities and through contracts with public and private entities.
   - **(2)** If a nonprofit private entity and a private entity that is not a nonprofit entity both submit applications to a State to receive an award of a grant or contract pursuant to paragraph (1), the State may give priority to the application submitted by the nonprofit private entity in any case in which the State determines that the quality of such application is equivalent to the quality of the application submitted by the other private entity.
-  - **(3)** The amount paid by a State to an entity under this subsection for a screening procedure under subsection (a)(1) may not exceed the amount that would be paid under part B of title XVIII of the Social Security Act [ 42 U.S.C. 1395j et seq.] if payment were made under such part for furnishing the procedure to a woman enrolled under such part.
-- **(c)** In making grants under subsection (a) to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whose proposal for carrying out programs under such subsection—
+  - **(3)** The amount paid by a State to an entity under this subsection for a screening procedure under subsection (a)(1) of this section may not exceed the amount that would be paid under part B of title XVIII of the Social Security Act [ 42 U.S.C. 1395j et seq.] if payment were made under such part for furnishing the procedure to a woman enrolled under such part.
+- **(c)** In making grants under subsection (a) of this section to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whose proposal for carrying out programs under such subsection—
   - **(1)** has been approved through a process of peer review; and
   - **(2)** is made with respect to geographic areas in which there is—
     - **(A)** a substantial rate of mortality from breast or cervical cancer; or

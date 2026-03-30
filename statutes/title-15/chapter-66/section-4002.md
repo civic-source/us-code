@@ -3,9 +3,10 @@ title: "Section 4002 - Definitions"
 usc_title: 15
 usc_section: "4002"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 4002"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-03-30T03:04:31.224Z"
+status: "active"
 ---
 
 # § 4002. Definitions
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:54:08.197Z"
   - **(5)** the term “State” means any of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;
   - **(6)** the term “United States” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands; and
   - **(7)** the term “antitrust laws” means the antitrust laws as defined in section 12(a) of this title , section 45 of this title to the extent that section 45 of this title applies to unfair methods of competition, and any State antitrust or unfair competition law.
-- **(b)** The Secretary of Commerce may by regulation further define any term defined in subsection (a), in order to carry out this subchapter.
+- **(b)** The Secretary of Commerce may by regulation further define any term defined in subsection (a) of this section, in order to carry out this subchapter.

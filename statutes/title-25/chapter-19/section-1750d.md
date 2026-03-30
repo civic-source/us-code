@@ -1,12 +1,15 @@
 ---
-title: "Section 1750d - Omitted"
+title: "Section 1750d - Miccosukee Indian Reservation lands"
 usc_title: 25
 usc_section: "1750d"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1750d"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.881Z"
+status: "active"
 ---
 
-# § 1750d. Omitted
+# § 1750d. Miccosukee Indian Reservation lands
+
+The lands transferred and held in trust for the Miccosukee Tribe under section 1750c(4) of this title shall be Miccosukee Indian Reservation lands.
 

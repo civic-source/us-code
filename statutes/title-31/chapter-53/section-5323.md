@@ -1,129 +1,17 @@
 ---
-title: "Section 5323 - Whistleblower incentives and protections"
+title: "Section 5323 - Rewards for informants"
 usc_title: 31
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 5323"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-03-30T03:05:28.368Z"
+status: "active"
 ---
 
-# § 5323. Whistleblower incentives and protections
+# § 5323. Rewards for informants
 
-- **(a)** In this section:
-  - **(1)** The term “covered judicial or administrative action” means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the “Secretary”) or the Attorney General under this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), or .), 1 1 So in original. and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000.
-  - **(2)** The term “monetary sanctions”, when used with respect to any judicial or administrative action—
-    - **(A)** means any monies, including penalties, disgorgement, and interest, ordered to be paid; and
-    - **(B)** does not include—
-      - **(i)** forfeiture;
-      - **(ii)** restitution; or
-      - **(iii)** any victim compensation payment.
-  - **(3)** The term “original information” means information that—
-    - **(A)** is derived from the independent knowledge or analysis of a whistleblower;
-    - **(B)** is not known to the Secretary or the Attorney General from any other source, unless the whistleblower is the original source of the information; and
-    - **(C)** is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
-  - **(4)** The term “related action”, when used with respect to any covered judicial or administrative action brought by the Secretary or the Attorney General, means any judicial or administrative action brought by an entity described in any of subclauses (I) through (III) of subsection (g)(4)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (b) that led to the successful enforcement of the covered action.
-  - **(5)**
-    - **(A)** The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), or .), 1 and for conspiracies to violate the aforementioned provisions to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
-    - **(B)** Solely for the purposes of subsection (g)(1), the term “whistleblower” includes any individual who takes, or 2 or more individuals acting jointly who take, an action described in subsection (g)(1)(A).
-- **(b)**
-  - **(1)** In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
-    - **(A)** not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and
-    - **(B)** not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
-  - **(2)**
-    - **(A)** Any amount paid under paragraph (1) shall be paid from the Fund established under paragraph (3).
-    - **(B)** The Secretary may pay awards less than the amount described in paragraph (1)(A) for related actions in which a whistleblower may be paid by another whistleblower award program.
-  - **(3)**
-    - **(A)** There shall be established in the Treasury of the United States a revolving fund to be known as the Financial Integrity Fund (referred to in this subsection as the “Fund”).
-    - **(B)** The Fund shall be available to the Secretary, without further appropriation or fiscal year limitations, only for the payment of awards to whistleblowers as provided in subsection (b).
-    - **(C)** The Fund shall not be available to pay any personnel or administrative expenses.
-  - **(4)**
-    - **(A)** There shall be deposited into or credited to the Fund an amount equal to—
-      - **(i)** any monetary sanction collected by the Secretary or Attorney General in any judicial or administrative action under this title, chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000; and
-      - **(ii)** all income from investments made under paragraph (5).
-    - **(B)** If the amounts deposited into or credited to the Fund under subparagraph (A) are not sufficient to satisfy an award made under this subsection, there shall be deposited into or credited to the Fund an amount equal to the unsatisfied portion of the award from any monetary sanction collected by the Secretary of the Treasury or Attorney General in the covered judicial or administrative action on which the award is based.
-    - **(C)** No amounts to be deposited or transferred into the United States Victims of State Sponsored Terrorism Fund pursuant to the Justice for United States Victims of State Sponsored Terrorism Act ( 34 U.S.C. 20144 ) or the Crime Victims Fund pursuant section 1402 of the Victims of Crime Act of 1984 ( 34 U.S.C. 20101 ) shall be deposited into or credited to the Fund.
-  - **(5)**
-    - **(A)** The Secretary of the Treasury may invest the portion of the Fund that is not required to meet the current needs of the Fund.
-    - **(B)** Investments shall be made by the Secretary of the Treasury in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, with maturities suitable to the needs of the Fund as determined by the Secretary.
-    - **(C)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to, and form a part of, the Fund.
-- **(c)**
-  - **(1)**
-    - **(A)** The determination of the amount of an award made under subsection (b) shall be in the discretion of the Secretary.
-    - **(B)** In determining the amount of an award made under subsection (b), the Secretary shall take into consideration—
-      - **(i)** the significance of the information provided by the whistleblower to the success of the covered judicial or administrative action;
-      - **(ii)** the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
-      - **(iii)** the programmatic interest of the Department of the Treasury in deterring violations of this this 1 subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.) by making awards to whistleblowers who provide information that lead to the successful enforcement of the covered judicial or administrative action; and
-      - **(iv)** such additional relevant factors as the Secretary, in consultation with the Attorney General, may establish by rule or regulation.
-  - **(2)** No award under subsection (b) may be made—
-    - **(A)** to any whistleblower who is, or was at the time the whistleblower acquired the original information submitted to the Secretary or the Attorney General, as applicable, a member, officer, or employee—
-      - **(i)** of—
-        - **(I)** an appropriate regulatory or banking agency;
-        - **(II)** the Department of the Treasury or the Department of Justice; or
-        - **(III)** a law enforcement agency; and
-      - **(ii)** acting in the normal course of the job duties of the whistleblower;
-    - **(B)** to any whistleblower who is convicted of a criminal violation related to the judicial or administrative action for which the whistleblower otherwise could receive an award under this section; or
-    - **(C)** to any whistleblower who fails to submit information to the Secretary or the Attorney General, as applicable, in such form as the Secretary, in consultation with the Attorney General, may, by rule, require.
-- **(d)**
-  - **(1)** Any whistleblower who makes a claim for an award under subsection (b) may be represented by counsel.
-  - **(2)**
-    - **(A)** Any whistleblower who anonymously makes a claim for an award under subsection (b) shall be represented by counsel if the whistleblower anonymously submits the information upon which the claim is based.
-    - **(B)** Before the payment of an award, a whistleblower shall disclose the identity of the whistleblower and provide such other information as the Secretary may require, directly or through counsel for the whistleblower.
-- **(e)** No contract with the Department of the Treasury is necessary for any whistleblower to receive an award under subsection (b), unless otherwise required by the Secretary by rule or regulation.
-- **(f)**
-  - **(1)** Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Secretary.
-  - **(2)**
-    - **(A)** Any determination described in paragraph (1), except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Secretary.
-    - **(B)** The court to which a determination by the Secretary is appealed under subparagraph (A) shall review the determination in accordance with section 706 of title 5 .
-- **(g)**
-  - **(1)** No employer may, directly or indirectly, discharge, demote, suspend, threaten, blacklist, harass, or in any other manner discriminate against a whistleblower in the terms and conditions of employment or post-employment because of any lawful act done by the whistleblower—
-    - **(A)** in providing information in accordance with this section to—
-      - **(i)** the Secretary or the Attorney General;
-      - **(ii)** a Federal regulatory or law enforcement agency;
-      - **(iii)** any Member of Congress or any committee of Congress; or
-      - **(iv)** a person with supervisory authority over the whistleblower, or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct; or
-    - **(B)** in initiating, testifying in, or assisting in any investigation or judicial or administrative action of the Department of the Treasury or the Department of Justice based upon or related to the information described in subparagraph (A); or
-    - **(C)** in providing information regarding any conduct that the whistleblower reasonably believes constitutes a violation of any law, rule, or regulation subject to the jurisdiction of the Department of the Treasury, or a violation of section 1956, 1957, or 1960 of title 18 (or any rule or regulation under any such provision), to—
-      - **(i)** a person with supervisory authority over the whistleblower at the employer of the whistleblower; or
-      - **(ii)** another individual working for the employer described in clause (i) who the whistleblower reasonably believes has the authority to—
-        - **(I)** investigate, discover, or terminate the misconduct; or
-        - **(II)** take any other action to address the misconduct.
-  - **(2)** Any individual who alleges discharge or other discrimination, or is otherwise aggrieved by an employer, in violation of paragraph (1), may seek relief by—
-    - **(A)** filing a complaint with the Secretary of Labor in accordance with the requirements of this subsection; or
-    - **(B)** if the Secretary of Labor has not issued a final decision within 180 days of the filing of a complaint under subparagraph (A), and there is no showing that such a delay is due to the bad faith of the claimant, bringing an action against the employer at law or in equity in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
-  - **(3)**
-    - **(A)**
-      - **(i)** Except as provided in clause (ii) and subparagraph (C), the requirements under section 42121(b) of title 49 , including the legal burdens of proof described in such section 42121(b), shall apply with respect to a complaint filed under paragraph (2)(A) by an individual against an employer.
-      - **(ii)** With respect to a complaint filed under paragraph (2)(A), notification required to be made under section 42121(b)(1) of title 49 shall be made to each person named in the complaint, including the employer.
-    - **(B)**
-      - **(i)** A party to an action brought under paragraph (2)(B) shall be entitled to trial by jury.
-      - **(ii)**
-        - **(I)** An action may not be brought under paragraph (2)(B)—
-        - **(II)** Notwithstanding subclause (I), an action under paragraph (2)(B) may not in any circumstance be brought more than 10 years after the date on which the violation occurs.
-    - **(C)** Relief for an individual prevailing with respect to a complaint filed under subparagraph (A) of paragraph (2) or an action brought under subparagraph (B) of that paragraph shall include—
-      - **(i)** reinstatement with the same seniority status that the individual would have had, but for the conduct that is the subject of the complaint or action, as applicable;
-      - **(ii)** 2 times the amount of back pay otherwise owed to the individual, with interest;
-      - **(iii)** the payment of compensatory damages, which shall include compensation for litigation costs, expert witness fees, and reasonable attorneys’ fees; and
-      - **(iv)** any other appropriate remedy with respect to the conduct that is the subject of the complaint or action, as applicable.
-  - **(4)**
-    - **(A)** Except as provided in subparagraphs (C) and (D), the Secretary or the Attorney General, as applicable, and any officer or employee of the Department of the Treasury or the Department of Justice, shall not disclose any information, including information provided by a whistleblower to either such official, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5 , unless and until required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the appropriate such official or any entity described in subparagraph (D).
-    - **(B)** For purposes of section 552 of title 5 , this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
-    - **(C)** Nothing in this section is intended to limit, or shall be construed to limit, the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
-    - **(D)**
-      - **(i)** Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), be made available to—
-        - **(I)** any appropriate Federal authority;
-        - **(II)** a State attorney general in connection with any criminal investigation;
-        - **(III)** any appropriate State regulatory authority; and
-        - **(IV)** a foreign law enforcement authority.
-      - **(ii)**
-        - **(I)** Each of the entities described in subclauses (I) through (III) of clause (i) shall maintain such information as confidential in accordance with the requirements established under subparagraph (A).
-        - **(II)** Each entity described in clause (i)(IV) shall maintain such information in accordance with such assurances of confidentiality as determined by the Secretary or Attorney General, as applicable.
-  - **(5)** Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any whistleblower under any Federal or State law or under any collective bargaining agreement.
-  - **(6)** This subsection shall not apply with respect to any employer that is subject to section 33 of the Federal Deposit Insurance Act ( 12 U.S.C. 1831j ) or section 213 or 214 of the Federal Credit Union Act ( 12 U.S.C. 1790b , 1790c).
-- **(h)** A whistleblower shall not be entitled to an award under this section if the whistleblower—
-  - **(1)** knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
-  - **(2)** uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
-- **(i)** The Secretary, in consultation with the Attorney General, shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
-- **(j)**
-  - **(1)** The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
-  - **(2)** No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
+- **(a)** The Secretary may pay a reward to an individual who provides original information which leads to a recovery of a criminal fine, civil penalty, or forfeiture, which exceeds $50,000, for a violation of this chapter.
+- **(b)** The Secretary shall determine the amount of a reward under this section. The Secretary may not award more than 25 per centum of the net amount of the fine, penalty, or forfeiture collected or $150,000, whichever is less.
+- **(c)** An officer or employee of the United States, a State, or a local government who provides information described in subsection (a) in the performance of official duties is not eligible for a reward under this section.
+- **(d)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.

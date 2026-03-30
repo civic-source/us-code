@@ -3,9 +3,10 @@ title: "Section 1406 - Appeal to Board"
 usc_title: 2
 usc_section: "1406"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1406"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-03-30T03:04:04.434Z"
+status: "active"
 ---
 
 # § 1406. Appeal to Board
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:53:04.813Z"
   - **(1)** arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
   - **(2)** not made consistent with required procedures; or
   - **(3)** unsupported by substantial evidence.
-- **(d)** In making determinations under subsection (c), the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+- **(d)** In making determinations under subsection (c) of this section, the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 - **(e)** The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.

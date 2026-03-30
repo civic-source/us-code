@@ -3,9 +3,10 @@ title: "Section 1124 - Program or project grants and contracts"
 usc_title: 33
 usc_section: "1124"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1124"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-03-30T03:05:36.267Z"
+status: "active"
 ---
 
 # § 1124. Program or project grants and contracts
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:55:41.080Z"
   - **(1)** implement the objective set forth in section 1121(b) of this title ; and
   - **(2)** be responsive to the needs or problems of individual States or regions.
 - **(b)** The Secretary may make special grants under this subsection to implement the objective set forth in section 1121(b) of this title . The amount of any such grant may equal 100 percent, or any lesser percent, of the total cost of the project involved. No grant may be made under this subsection unless the Secretary finds that—
-  - **(1)** no reasonable means is available through which the applicant can meet the matching requirement for a grant under subsection (a);
+  - **(1)** no reasonable means is available through which the applicant can meet the matching requirement for a grant under subsection (a) of this section;
   - **(2)** the probable benefit of such project outweighs the public interest in such matching requirement; and
-  - **(3)** the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a).
+  - **(3)** the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a) of this section.
 - **(c)** Any person may apply to the Secretary for a grant or contract under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Secretary shall by regulation prescribe. The Secretary shall act upon each such application within 6 months after the date on which all required information is received.
 - **(d)**
   - **(1)** Any grant made, or contract entered into, under this section shall be subject to the limitations and provisions set forth in paragraphs (2), (3), and (4) and to such other terms, conditions, and requirements as the Secretary deems necessary or appropriate. Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval.

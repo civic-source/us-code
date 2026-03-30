@@ -3,14 +3,15 @@ title: "Section 1603 - Implementation of policies"
 usc_title: 30
 usc_section: "1603"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1603"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-03-30T03:05:07.422Z"
+status: "active"
 ---
 
 # § 1603. Implementation of policies
 
-The President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to implement the policy described in section 1602 of this title and shall—
+For the purpose of implementing the policies set forth in section 1602 of this title and the provisions of section 1604 of this title , the Congress declares that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies, and shall—
 
   - **(1)** direct that the responsible departments and agencies identify, assist, and make recommendations for carrying out appropriate policies and programs to ensure adequate, stable, and economical materials supplies essential to national security, economic well-being, and industrial production;
   - **(2)** support basic and applied research and development to provide for, among other objectives—

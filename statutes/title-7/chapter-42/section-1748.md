@@ -3,9 +3,10 @@ title: "Section 1748 - Annual reports by agricultural attachés"
 usc_title: 7
 usc_section: "1748"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1748"
-generated_at: "2026-03-30T02:53:42.342Z"
+generated_at: "2026-03-30T03:04:20.941Z"
+status: "active"
 ---
 
 # § 1748. Annual reports by agricultural attachés
@@ -17,12 +18,12 @@ generated_at: "2026-03-30T02:53:42.342Z"
     - **(C)** where practicable, the average prices and costs of production in such countries for like commodities exported from the United States to such countries; and
   - **(2)** identify opportunities for the export of United States agricultural commodities and the products thereof to such countries.
 - **(b)** The Secretary shall—
-  - **(1)** annually compile the information contained in reports prepared under subsection (a)—
+  - **(1)** annually compile the information contained in reports prepared under subsection (a) of this section—
     - **(A)** on a country by country basis; and
     - **(B)** on a commodity by commodity basis for exports of United States agricultural commodities, as determined appropriate by the Secretary, the export of which is hampered by an unfair trade practice. Where practicable, the report shall include a comparison of the average prices and costs of production for such commodities in the United States and in the importing countries for the previous crop year;
-  - **(2)** in consultation with the agricultural technical advisory committees established under section 2155(c) of title 19 , include in the compilation a priority ranking of those trade barriers identified in subsection (a) by commodity group;
+  - **(2)** in consultation with the agricultural technical advisory committees established under section 2155(c) of title 19 , include in the compilation a priority ranking of those trade barriers identified in subsection (a) of this section by commodity group;
   - **(3)** include in the compilation a list of actions undertaken to reduce or eliminate such trade barriers; and
   - **(4)** not later than January 15 of each year, make the compilation available to Congress, the agricultural policy advisory committee, and other interested parties.
 - **(c)** The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technical advisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
-  - **(1)** reduce or eliminate trade barriers or distortions identified in the annual reports required to be submitted under subsections (a) and (b); and
+  - **(1)** reduce or eliminate trade barriers or distortions identified in the annual reports required to be submitted under subsections (a) and (b) of this section; and
   - **(2)** expand United States agricultural export opportunities identified in such annual reports.

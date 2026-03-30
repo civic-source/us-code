@@ -3,18 +3,19 @@ title: "Section 3030 - Disaster relief reimbursements"
 usc_title: 42
 usc_section: "3030"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3030"
-generated_at: "2026-03-30T02:56:11.174Z"
+generated_at: "2026-03-30T03:06:22.678Z"
+status: "active"
 ---
 
 # § 3030. Disaster relief reimbursements
 
 - **(a)**
-  - **(1)** The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.].
-  - **(2)** Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV.
+  - **(1)** The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X of this chapter), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.].
+  - **(2)** Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
   - **(3)** If the Assistant Secretary decides, in the 5-day period beginning on the date such disaster is declared by the President, to provide an amount of reimbursement under paragraph (1) to a State or such tribal organization, then the Assistant Secretary shall provide not less than 75 percent of such amount to such State or such tribal organization not later than 5 days after the date of such decision.
 - **(b)**
-  - **(1)** At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a), an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV.
-  - **(2)** Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV.
+  - **(1)** At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+  - **(2)** Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV of this chapter.
 - **(c)** Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.

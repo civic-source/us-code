@@ -1,12 +1,20 @@
 ---
-title: "Section 856a - Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b) , Dec. 23, 2016 , 130 Stat. 2920 ]"
+title: "Section 856a - Art. 56a. Sentence of confinement for life without eligibility for parole"
 usc_title: 10
 usc_section: "856a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 856a"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-03-30T03:04:17.232Z"
+status: "active"
 ---
 
-# [§ 856a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b) , Dec. 23, 2016 , 130 Stat. 2920 ]
+# § 856a. Art. 56a. Sentence of confinement for life without eligibility for parole
 
+- **(a)** For any offense for which a sentence of confinement for life may be adjudged, a court-martial may adjudge a sentence of confinement for life without eligibility for parole.
+- **(b)** An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
+  - **(1)** the sentence is set aside or otherwise modified as a result of—
+    - **(A)** action taken by the convening authority, the Secretary concerned, or another person authorized to act under section 860 of this title (article 60); or
+    - **(B)** any other action taken during post-trial procedure and review under any other provision of subchapter IX;
+  - **(2)** the sentence is set aside or otherwise modified as a result of action taken by a Court of Criminal Appeals, the Court of Appeals for the Armed Forces, or the Supreme Court; or
+  - **(3)** the accused is pardoned.

@@ -3,9 +3,10 @@ title: "Section 1070e - Child care access means parents in school"
 usc_title: 20
 usc_section: "1070e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1070e"
-generated_at: "2026-03-30T02:54:48.108Z"
+generated_at: "2026-03-30T03:04:46.253Z"
+status: "active"
 ---
 
 # § 1070e. Child care access means parents in school
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:54:48.108Z"
       - **(ii)** For any fiscal year for which the amount appropriated under the authority of subsection (g) is equal to or greater than $20,000,000, a grant under this section shall be awarded in an amount that is not less than $30,000.
   - **(3)**
     - **(A)** The Secretary shall award a grant under this section for a period of 4 years.
-    - **(B)** Subject to subsection (e)(2), the Secretary shall make annual grant payments under this section.
+    - **(B)** Subject to subsection (e)(2) of this section, the Secretary shall make annual grant payments under this section.
   - **(4)** An institution of higher education shall be eligible to receive a grant under this section for a fiscal year if the total amount of all Federal Pell Grant funds awarded to students enrolled at the institution of higher education for the preceding fiscal year equals or exceeds $350,000, except that for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $20,000,000, this sentence shall be applied by substituting “$250,000” for “$350,000”.
   - **(5)** Grant funds under this section shall be used by an institution of higher education to support or establish a campus-based child care program primarily serving the needs of low-income students enrolled at the institution of higher education. Grant funds under this section may be used to provide before and after school services to the extent necessary to enable low-income students enrolled at the institution of higher education to pursue postsecondary education.
   - **(6)** Nothing in this section shall be construed to prohibit an institution of higher education that receives grant funds under this section from serving the child care needs of the community served by the institution.
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:54:48.108Z"
       - **(ii)** section 1091(a)(5) of this title because the student is in the United States for a temporary purpose.
   - **(8)** The Secretary shall publicize the availability of grants under this section in appropriate periodicals, in addition to publication in the Federal Register, and shall inform appropriate educational organizations of such availability.
 - **(c)** An institution of higher education desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall—
-  - **(1)** demonstrate that the institution is an eligible institution described in subsection (b)(4);
+  - **(1)** demonstrate that the institution is an eligible institution described in subsection (b)(4) of this section;
   - **(2)** specify the amount of funds requested;
   - **(3)** demonstrate the need of low-income students at the institution for campus-based child care services by including in the application—
     - **(A)** information regarding student demographics;

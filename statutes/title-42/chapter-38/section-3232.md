@@ -3,12 +3,13 @@ title: "Section 3232 - Authorization of appropriations for defense conversion ac
 usc_title: 42
 usc_section: "3232"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3232"
-generated_at: "2026-03-30T02:56:11.185Z"
+generated_at: "2026-03-30T03:06:22.687Z"
+status: "active"
 ---
 
 # § 3232. Authorization of appropriations for defense conversion activities
 
 - **(a)** In addition to amounts made available under section 3231 of this title , there are authorized to be appropriated such sums as are necessary to carry out section 3149(c)(1) of this title , to remain available until expended.
-- **(b)** Funds made available under subsection (a) may be used for activities including pilot projects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.
+- **(b)** Funds made available under subsection (a) of this section may be used for activities including pilot projects for privatization of, and economic development activities for, closed or realigned military or Department of Energy installations.

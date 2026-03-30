@@ -3,9 +3,10 @@ title: "Section 7652 - Shipments to the United States"
 usc_title: 26
 usc_section: "7652"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7652"
-generated_at: "2026-03-30T02:55:27.881Z"
+generated_at: "2026-03-30T03:05:18.748Z"
+status: "active"
 ---
 
 # § 7652. Shipments to the United States
@@ -37,8 +38,8 @@ generated_at: "2026-03-30T02:55:27.881Z"
   - **(3)** For purposes of this subsection, the term “rum” means any article classified under subheading 2208.40.00 of the Harmonized Tariff Schedule of the United States ( 19 U.S.C. 1202 ).
   - **(4)** Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
 - **(f)** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
-  - **(1)** $13.25, or
-  - **(2)** the tax imposed under subsection (a)(1) of section 5001, determined as if subsection (c)(1) of such section did not apply, on each proof gallon.
+  - **(1)** $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999 , and before January 1, 2014 ), or
+  - **(2)** the tax imposed under section 5001(a)(1), on each proof gallon.
 - **(g)** In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
   - **(1)** subpart B of part II of subchapter A of chapter 51 shall be applied as if—
     - **(A)** the use and tax determination described in section 5111 had occurred in the United States by a United States person at the time the article is brought into the United States, and
@@ -47,4 +48,3 @@ generated_at: "2026-03-30T02:55:27.881Z"
 - **(h)** No amount shall be covered into the treasury of Puerto Rico or the Virgin Islands with respect to taxes for which cover over is provided under this section unless made in the manner specified in this section without regard to—
   - **(1)** any provision of law which is not contained in this title or in a revenue Act; and
   - **(2)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
-- **(i)** For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).

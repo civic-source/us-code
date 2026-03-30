@@ -3,20 +3,21 @@ title: "Section 3921 - National wetlands priority conservation plan"
 usc_title: 16
 usc_section: "3921"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3921"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-03-30T03:04:48.617Z"
+status: "active"
 ---
 
 # § 3921. National wetlands priority conservation plan
 
 - **(a)** The Secretary shall establish, and periodically review and revise, a national wetlands priority conservation plan which shall specify, on a region-by-region basis or other basis considered appropriate by the Secretary, the types of wetlands and interests in wetlands which should be given priority with respect to Federal and State acquisition.
-- **(b)** The Secretary shall establish the plan required by subsection (a) after consultation with—
+- **(b)** The Secretary shall establish the plan required by subsection (a) of this section after consultation with—
   - **(1)** the Administrator of the Environmental Protection Agency;
   - **(2)** the Secretary of Commerce;
   - **(3)** the Secretary of Agriculture; and
   - **(4)** (the chief executive officer of) each State.
-- **(c)** The Secretary, in establishing the plan required by subsection (a), shall consider—
+- **(c)** The Secretary, in establishing the plan required by subsection (a) of this section, shall consider—
   - **(1)** the estimated proportion remaining of the respective types of wetlands which existed at the time of European settlement;
   - **(2)** the estimated current rate of loss and the threat of future losses of the respective types of wetlands; and
   - **(3)** the contributions of the respective types of wetlands to—

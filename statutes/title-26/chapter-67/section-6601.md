@@ -3,9 +3,10 @@ title: "Section 6601 - Interest on underpayment, nonpayment, or extensions of ti
 usc_title: 26
 usc_section: "6601"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6601"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-03-30T03:05:18.731Z"
+status: "active"
 ---
 
 # § 6601. Interest on underpayment, nonpayment, or extensions of time for payment, of tax
@@ -13,10 +14,13 @@ generated_at: "2026-03-30T02:55:27.859Z"
 - **(a)** If any amount of tax imposed by this title (whether required to be shown on a return, or to be paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
 - **(b)** For purposes of this section, the last date prescribed for payment of the tax shall be determined under chapter 62 with the application of the following rules:
   - **(1)** The last date prescribed for payment shall be determined without regard to any extension of time for payment or any installment agreement entered into under section 6159.
-  - **(2)** The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
-  - **(3)** In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
-  - **(4)** In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
-- **(c)** In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period.
+  - **(2)** In the case of an election under section 6156(a) 1 1 See References in Text note below. to pay the tax in installments—
+    - **(A)** The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b), 1 and
+    - **(B)** The last date prescribed for payment of the first installment shall be deemed the last date prescribed for payment of any portion of the tax not shown on the return.
+  - **(3)** The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
+  - **(4)** In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
+  - **(5)** In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
+- **(c)** In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
 - **(d)**
   - **(1)** If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
   - **(2)** If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
@@ -47,6 +51,6 @@ generated_at: "2026-03-30T02:55:27.859Z"
     - **(B)** the amount of the tax imposed by chapter 11 which is extended as provided in section 6166.
   - **(3)** In the case of estates of decedents dying in a calendar year after 1998, the $1,000,000 amount contained in paragraph (2)(A) shall be increased by an amount equal to—
     - **(A)** $1,000,000, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
   - **(4)** If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
 - **(k)** For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).

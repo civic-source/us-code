@@ -3,40 +3,68 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-30T02:53:42.302Z"
+generated_at: "2026-03-30T03:04:20.913Z"
+status: "active"
 ---
 
 # § 1308–3a. Adjusted gross income limitation
 
 - **(a)**
-  - **(1)** In this section, the term “average adjusted gross income”, with respect to a person or legal entity, means the average of the adjusted gross income or comparable measure of the person or legal entity over the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by the Secretary.
-  - **(2)** In the case of a legal entity that is not required to file a Federal income tax return or a person or legal entity that did not have taxable income in 1 or more of the taxable years used to determine the average under paragraph (1), the Secretary shall provide, by regulation, a method for determining the average adjusted gross income of the person or legal entity for purposes of this section.
-  - **(3)** On the request of any person filing a joint tax return, the Secretary shall provide for the allocation of average adjusted gross income among the persons filing the return if—
-    - **(A)** the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income would have been declared and reported had the persons filed 2 separate returns; and
+  - **(1)** In this section:
+    - **(A)** The term “average adjusted gross income”, with respect to a person or legal entity, means the average of the adjusted gross income or comparable measure of the person or legal entity over the 3 taxable years preceding the most immediately preceding complete taxable year, as determined by the Secretary.
+    - **(B)** The term “average adjusted gross farm income”, with respect to a person or legal entity, means the average of the portion of adjusted gross income of the person or legal entity that is attributable to activities related to farming, ranching, or forestry for the 3 taxable years described in subparagraph (A), as determined by the Secretary in accordance with subsection (c).
+    - **(C)** The term “average adjusted gross nonfarm income”, with respect to a person or legal entity, means the difference between—
+      - **(i)** the average adjusted gross income of the person or legal entity; and
+      - **(ii)** the average adjusted gross farm income of the person or legal entity.
+  - **(2)** In the case of a legal entity that is not required to file a Federal income tax return or a person or legal entity that did not have taxable income in 1 or more of the taxable years used to determine the average under subparagraph (A) or (B) of paragraph (1), the Secretary shall provide, by regulation, a method for determining the average adjusted gross income, the average adjusted gross farm income, and the average adjusted gross nonfarm income of the person or legal entity for purposes of this section.
+  - **(3)** On the request of any person filing a joint tax return, the Secretary shall provide for the allocation of average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income among the persons filing the return if—
+    - **(A)** the person provides a certified statement by a certified public accountant or attorney that specifies the method by which the average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income would have been declared and reported had the persons filed 2 separate returns; and
     - **(B)** the Secretary determines that the method described in the statement is consistent with the information supporting the filed joint tax return.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, subject to paragraphs (3) and (4), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
-  - **(2)** Paragraph (1) applies with respect to the following:
-    - **(A)** A payment or benefit under subtitle A or E of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9011 et seq., 9081].
-    - **(B)** A marketing loan gain or loan deficiency payment under subtitle B of title I of the Agricultural Act of 2014 [ 7 U.S.C. 9031 et seq.].
-    - **(C)** Starting with fiscal year 2015, a payment or benefit under title II of the Agriculture Improvement Act of 2018, title II of the Agricultural Act of 2014, title II of the Farm Security and Rural Investment Act of 2002, title II of the Food, Conservation, and Energy Act of 2008, or title XII of the Food Security Act of 1985 [ 16 U.S.C. 3801 et seq.].
-    - **(D)** A payment or benefit under section 1524(b) of this title .
-    - **(E)** A payment or benefit under section 7333 of this title .
-  - **(3)** The Secretary may waive the limitation established by paragraph (1) with respect to a payment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
-  - **(4)**
-    - **(A)** In this paragraph:
-      - **(i)** The term “excepted payment or benefit” means—
-        - **(I)** a payment or benefit under subtitle E of title I of the Agricultural Act of 2014 ( 7 U.S.C. 9081 et seq.);
-        - **(II)** a payment or benefit under section 7333 of this title ; and
-        - **(III)** a payment or benefit described in paragraph (2)(C) received on or after October 1, 2024 .
-      - **(ii)** The term “farming, ranching, or silviculture activities” includes agri-tourism, direct-to-consumer marketing of agricultural products, the sale of agricultural equipment owned by the person or legal entity, and other agriculture-related activities, as determined by the Secretary.
-    - **(B)** In the case of an excepted payment or benefit, the limitation established by paragraph (1) shall not apply to a person or legal entity during a crop, fiscal, or program year, as appropriate, if greater than or equal to 75 percent of the average gross income of the person or legal entity derives from farming, ranching, or silviculture activities.
+  - **(1)**
+    - **(A)** Notwithstanding any other provision of law, a person or legal entity shall not be eligible to receive any benefit described in subparagraph (C) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross nonfarm income of the person or legal entity exceeds $500,000.
+    - **(B)** Notwithstanding any other provision of law, a person or legal entity shall not be eligible to receive a direct payment under subtitle A or C of title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8711 et seq., 8751 et seq.] during a crop year, if the average adjusted gross farm income of the person or legal entity exceeds $750,000.
+    - **(C)** Subparagraph (A) applies with respect to the following:
+      - **(i)** A direct payment or counter-cyclical payment under subtitle A or C of title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8711 et seq., 8751 et seq.] or an average crop revenue election payment under subtitle A of title I of that Act [ 7 U.S.C. 8711 et seq.].
+      - **(ii)** A marketing loan gain or loan deficiency payment under subtitle B or C of title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8731 et seq., 8751 et seq.].
+      - **(iii)** A payment or benefit under section 196 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7333 ).
+      - **(iv)** A payment or benefit under section 1506 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8773 ].
+      - **(v)** A payment or benefit under title IX of the Trade Act of 1974 [ 19 U.S.C. 2497 et seq.] or subtitle B of the Federal Crop Insurance Act [ 7 U.S.C. 1531 ].
+  - **(2)**
+    - **(A)**
+      - **(i)** Notwithstanding any other provision of law, except as provided in clause (ii), a person or legal entity shall not be eligible to receive any benefit described in subparagraph (B) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross nonfarm income of the person or legal entity exceeds $1,000,000, unless not less than 66.66 percent of the average adjusted gross income of the person or legal entity is average adjusted gross farm income.
+      - **(ii)** The Secretary may waive the limitation established under clause (i) on a case-by-case basis if the Secretary determines that environmentally sensitive land of special significance would be protected.
+    - **(B)** Subparagraph (A) applies with respect to the following:
+      - **(i)** A payment or benefit under title XII of this Act [ 16 U.S.C. 3801 et seq.].
+      - **(ii)** A payment or benefit under title II of the Farm Security and Rural Investment Act of 2002 ( Public Law 107–171 ; 116 Stat. 223 ) or title II of the Food, Conservation, and Energy Act of 2008.
+      - **(iii)** A payment or benefit under section 524(b) of the Federal Crop Insurance Act ( 7 U.S.C. 1524(b) ).
 - **(c)**
+  - **(1)** In determining the average adjusted gross farm income of a person or legal entity, the Secretary shall include income or benefits derived from or related to—
+    - **(A)** the production of crops, including specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ( 7 U.S.C. 1621 note; Public Law 108–465 )) and unfinished raw forestry products;
+    - **(B)** the production of livestock (including cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry, fish, and other aquacultural products used for food, honeybees, and other animals designated by the Secretary) and products produced by, or derived from, livestock;
+    - **(C)** the production of farm-based renewable energy (as defined in section 9001 of the Farm Security and Rural Investment Act of 2002 ( 7 U.S.C. 8101 ));
+    - **(D)** the sale, including the sale of easements and development rights, of farm, ranch, or forestry land, water or hunting rights, or environmental benefits;
+    - **(E)** the rental or lease of land or equipment used for farming, ranching, or forestry operations, including water or hunting rights;
+    - **(F)** the processing (including packing), storing (including shedding), and transporting of farm, ranch, and forestry commodities, including renewable energy;
+    - **(G)** the feeding, rearing, or finishing of livestock;
+    - **(H)** the sale of land that has been used for agriculture;
+    - **(I)** payments or other benefits received under any program authorized under title I of the Farm Security and Rural Investment Act of 2002 ( 7 U.S.C. 7901 et seq.) or title I of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8701 et seq.];
+    - **(J)** payments or other benefits received under any program authorized under title XII of this Act [ 16 U.S.C. 3801 et seq.], title II of the Farm Security and Rural Investment Act of 2002 ( Public Law 107–171 ; 116 Stat. 223 ), or title II of the Food, Conservation, and Energy Act of 2008;
+    - **(K)** payments or other benefits received under section 196 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7333 );
+    - **(L)** payments or other benefits received under title IX of the Trade Act of 1974 [ 19 U.S.C. 2497 et seq.] or subtitle B of the Federal Crop Insurance Act [ 7 U.S.C. 1531 ];
+    - **(M)** risk management practices, including benefits received under a program authorized under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) (including a catastrophic risk protection plan offered under section 508(b) of that Act ( 7 U.S.C. 1508(b) )); and
+    - **(N)** any other activity related to farming, ranching, or forestry, as determined by the Secretary.
+  - **(2)** In determining the average adjusted gross farm income of a person or legal entity, in addition to the inclusions described in paragraph (1), the Secretary shall include any income reported on the Schedule F or other schedule used by the person or legal entity to report income from farming, ranching, or forestry operations to the Internal Revenue Service, to the extent such income is not already included under paragraph (1).
+  - **(3)** If not less than 66.66 percent of the average adjusted gross income of a person or legal entity is derived from farming, ranching, or forestry operations described in paragraphs (1) and (2), in determining the average adjusted gross farm income of the person or legal entity, the Secretary shall also include—
+    - **(A)** the sale of equipment to conduct farm, ranch, or forestry operations; and
+    - **(B)** the provision of production inputs and services to farmers, ranchers, foresters, and farm operations.
+- **(d)**
   - **(1)** To comply with subsection (b), at least once every 3 years a person or legal entity shall provide to the Secretary—
-    - **(A)** a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the person or legal entity does not exceed the applicable limitation specified in that subsection; or
-    - **(B)** information and documentation regarding the average adjusted gross income of the person or legal entity through other procedures established by the Secretary.
-  - **(2)** If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in subsection (b)(2) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title .
+    - **(A)** a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income of the person or legal entity does not exceed the applicable limitation specified in that subsection; or
+    - **(B)** information and documentation regarding the average adjusted gross income, average adjusted gross farm income, and average adjusted gross nonfarm income of the person or legal entity through other procedures established by the Secretary.
+  - **(2)** If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in paragraphs (1)(C) and (2)(B) of subsection (b) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title .
   - **(3)** The Secretary shall establish statistically valid procedures under which the Secretary shall conduct targeted audits of such persons or legal entities as the Secretary determines are most likely to exceed the limitations under subsection (b).
-- **(d)** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
+- **(e)** In the case of a payment or benefit described in paragraphs (1)(C) and (2)(B) of subsection (b) made in a crop, program, or fiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income, average adjusted gross farm income, or average adjusted gross nonfarm income in excess of the applicable limitation specified in subsection (b).
+- **(f)** This section shall apply only during the 2009 through 2012 crop, program, or fiscal years, as appropriate.

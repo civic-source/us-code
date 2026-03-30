@@ -3,9 +3,10 @@ title: "Section 152 - Concealment of assets; false oaths and claims; bribery"
 usc_title: 18
 usc_section: "152"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 152"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-03-30T03:04:41.077Z"
+status: "active"
 ---
 
 # § 152. Concealment of assets; false oaths and claims; bribery
@@ -20,4 +21,4 @@ A person who—
   - **(6)** knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
   - **(7)** in a personal capacity or as an agent or officer of any person or corporation, in contemplation of a case under title 11 by or against the person or any other person or corporation, or with intent to defeat the provisions of title 11, knowingly and fraudulently transfers or conceals any of his property or the property of such other person or corporation;
   - **(8)** after the filing of a case under title 11 or in contemplation thereof, knowingly and fraudulently conceals, destroys, mutilates, falsifies, or makes a false entry in any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor; or
-  - **(9)** after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor,
+  - **(9)** after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor, shall be fined under this title, imprisoned not more than 5 years, or both.

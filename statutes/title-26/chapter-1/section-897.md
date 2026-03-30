@@ -3,20 +3,21 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-03-30T03:05:18.632Z"
+status: "active"
 ---
 
 # § 897. Disposition of investment in United States real property
 
 - **(a)**
   - **(1)** For purposes of this title, gain or loss of a nonresident alien individual or a foreign corporation from the disposition of a United States real property interest shall be taken into account—
-    - **(A)** in the case of a nonresident alien individual, under section 871(b)(1), or
+    - **(A)** in the case of a nonresident alien individual, under section 871(B)(1), or
     - **(B)** in the case of a foreign corporation, under section 882(a)(1),
   - **(2)**
-    - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
-      - **(i)** the individual’s alternative minimum taxable income (as defined in section 55(b)(1)(D)) for the taxable year, or
+    - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
+      - **(i)** the individual’s alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
       - **(ii)** the individual’s net United States real property gain for the taxable year.
     - **(B)** For purposes of subparagraph (A), the term “net United States real property gain” means the excess of—
       - **(i)** the aggregate of the gains for the taxable year from dispositions of United States real property interests, over
@@ -24,17 +25,16 @@ generated_at: "2026-03-30T02:55:27.742Z"
 - **(b)** In the case of an individual, a loss shall be taken into account under subsection (a) only to the extent such loss would be taken into account under section 165(c) (determined without regard to subsection (a) of this section).
 - **(c)** For purposes of this section—
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B) or subsection (k), the term “United States real property interest” means—
+    - **(A)** Except as provided in subparagraph (B), the term “United States real property interest” means—
       - **(i)** an interest in real property (including an interest in a mine, well, or other natural deposit) located in the United States or the Virgin Islands, and
       - **(ii)** any interest (other than an interest solely as a creditor) in any domestic corporation unless the taxpayer establishes (at such time and in such manner as the Secretary by regulations prescribes) that such corporation was at no time a United States real property holding corporation during the shorter of—
         - **(I)** the period after June 18, 1980 , during which the taxpayer held such interest, or
         - **(II)** the 5-year period ending on the date of the disposition of such interest.
     - **(B)** The term “United States real property interest” does not include any interest in a corporation if—
-      - **(i)** as of the date of the disposition of such interest, such corporation did not hold any United States real property interests,
+      - **(i)** as of the date of the disposition of such interest, such corporation did not hold any United States real property interests, and
       - **(ii)** all of the United States real property interests held by such corporation at any time during the shorter of the periods described in subparagraph (A)(ii)—
         - **(I)** were disposed of in transactions in which the full amount of the gain (if any) was recognized, or
-        - **(II)** ceased to be United States real property interests by reason of the application of this subparagraph to 1 or more other corporations, and
-      - **(iii)** neither such corporation nor any predecessor of such corporation was a regulated investment company or a real estate investment trust at any time during the shorter of the periods described in subparagraph (A)(ii).
+        - **(II)** ceased to be United States real property interests by reason of the application of this subparagraph to 1 or more other corporations.
   - **(2)** The term “United States real property holding corporation” means any corporation if—
     - **(A)** the fair market value of its United States real property interests equals or exceeds 50 percent of
     - **(B)** the fair market value of—
@@ -70,28 +70,23 @@ generated_at: "2026-03-30T02:55:27.742Z"
       - **(i)** transfers of property in reorganization, and
       - **(ii)** changes in interests in, or distributions from, a partnership, trust, or estate,
   - **(3)** For purposes of this subsection, the term “nonrecognition provision” means any provision of this title for not recognizing gain or loss.
-- **[(f)**
 - **(g)** Under regulations prescribed by the Secretary, the amount of any money, and the fair market value of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
 - **(h)** For purposes of this section—
   - **(1)** Any distribution by a qualified investment entity to a nonresident alien individual, a foreign corporation, or other qualified investment entity shall, to the extent attributable to gain from sales or exchanges by the qualified investment entity of United States real property interests, be treated as gain recognized by such nonresident alien individual, foreign corporation, or other qualified investment entity from the sale or exchange of a United States real property interest. Notwithstanding the preceding sentence, any distribution by a qualified investment entity to a nonresident alien individual or a foreign corporation with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if such individual or corporation did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of such distribution.
   - **(2)** The term “United States real property interest” does not include any interest in a domestically controlled qualified investment entity.
   - **(3)** In the case of a domestically controlled qualified investment entity, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.
   - **(4)**
-    - **(A)** The term “qualified investment entity” means—
-      - **(i)** any real estate investment trust, and
-      - **(ii)** any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company.
+    - **(A)**
+      - **(i)** The term “qualified investment entity” means—
+        - **(I)** any real estate investment trust, and
+        - **(II)** any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company.
+      - **(ii)** Clause (i)(II) shall not apply after December 31, 2013 . Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
     - **(B)** The term “domestically controlled qualified investment entity” means any qualified investment entity in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
     - **(C)** The term “foreign ownership percentage” means that percentage of the stock of the qualified investment entity which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
     - **(D)** The term “testing period” means whichever of the following periods is the shortest:
       - **(i)** the period beginning on June 19, 1980 , and ending on the date of the disposition or of the distribution, as the case may be,
       - **(ii)** the 5-year period ending on the date of the disposition or of the distribution, as the case may be, or
       - **(iii)** the period during which the qualified investment entity was in existence.
-    - **(E)** For purposes of determining the holder of stock under subparagraphs (B) and (C)—
-      - **(i)** in the case of any class of stock of the qualified investment entity which is regularly traded on an established securities market in the United States, a person holding less than 5 percent of such class of stock at all times during the testing period shall be treated as a United States person unless the qualified investment entity has actual knowledge that such person is not a United States person,
-      - **(ii)** any stock in the qualified investment entity held by another qualified investment entity—
-        - **(I)** any class of stock of which is regularly traded on an established securities market, or
-        - **(II)** which is a regulated investment company which issues redeemable securities (within the meaning of section 2 of the Investment Company Act of 1940),
-      - **(iii)** any stock in the qualified investment entity held by any other qualified investment entity not described in subclause (I) or (II) of clause (ii) shall only be treated as held by a United States person in proportion to the stock of such other qualified investment entity which is (or is treated under clause (ii) or (iii) as) held by a United States person.
   - **(5)**
     - **(A)** If an interest in a domestically controlled qualified investment entity is disposed of in an applicable wash sale transaction, the taxpayer shall, for purposes of this section, be treated as having gain from the sale or exchange of a United States real property interest in an amount equal to the portion of the distribution described in subparagraph (B) with respect to such interest which, but for the disposition, would have been treated by the taxpayer as gain from the sale or exchange of a United States real property interest under paragraph (1).
     - **(B)** For purposes of this paragraph—
@@ -111,69 +106,9 @@ generated_at: "2026-03-30T02:55:27.742Z"
   - **(3)** An election under paragraph (1) may be made only—
     - **(A)** if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980 , which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
     - **(B)** subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
-  - **(4)** The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1445, and section 6039C.
+  - **(4)** The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1145, and section 6039C.
 - **(j)** Except to the extent otherwise provided in regulations, gain shall be recognized by a nonresident alien individual or foreign corporation on the transfer of a United States real property interest to a foreign corporation if the transfer is made as paid in surplus or as a contribution to capital, in the amount of the excess of—
   - **(1)** the fair market value of such property transferred, over
   - **(2)** the sum of—
     - **(A)** the adjusted basis of such property in the hands of the transferor, plus
     - **(B)** the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
-- **(k)**
-  - **(1)**
-    - **(A)** In the case of any disposition of stock in a real estate investment trust, paragraphs (3) and (6)(C) of subsection (c) shall each be applied by substituting “more than 10 percent” for “more than 5 percent”.
-    - **(B)** In the case of any distribution from a real estate investment trust, subsection (h)(1) shall be applied by substituting “10 percent” for “5 percent”.
-  - **(2)**
-    - **(A)** Except as provided in subparagraph (B)—
-      - **(i)** stock of a real estate investment trust which is held directly (or indirectly through 1 or more partnerships) by a qualified shareholder shall not be treated as a United States real property interest, and
-      - **(ii)** notwithstanding subsection (h)(1), any distribution to a qualified shareholder shall not be treated as gain recognized from the sale or exchange of a United States real property interest to the extent the stock of the real estate investment trust held by such qualified shareholder is not treated as a United States real property interest under clause (i).
-    - **(B)** In the case of a qualified shareholder with one or more applicable investors—
-      - **(i)** subparagraph (A)(i) shall not apply to the applicable percentage of the stock of the real estate investment trust held by the qualified shareholder, and
-      - **(ii)** the applicable percentage of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
-    - **(C)** If a distribution by a real estate investment trust is treated as a sale or exchange of stock under section 301(c)(3), 302, or 331 with respect to a qualified shareholder—
-      - **(i)** in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
-      - **(ii)** in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) 1 1 See References in Text note below. as a dividend from a real estate investment trust notwithstanding any other provision of this title.
-    - **(D)** For purposes of this subsection, the term “applicable investor” means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
-      - **(i)** holds an interest (other than an interest solely as a creditor) in such qualified shareholder, and
-      - **(ii)** holds more than 10 percent of the stock of such real estate investment trust (whether or not by reason of the person’s ownership interest in the qualified shareholder).
-    - **(E)** For purposes of subparagraphs (B)(i) and (D), the constructive ownership rules under subsection (c)(6)(C) shall apply.
-    - **(F)** For purposes of subparagraph (B), the term “applicable percentage” means the percentage of the value of the interests (other than interests held solely as a creditor) in the qualified shareholder held by applicable investors.
-  - **(3)** For purposes of this subsection—
-    - **(A)** The term “qualified shareholder” means a foreign person which—
-      - **(i)**
-        - **(I)** is eligible for benefits of a comprehensive income tax treaty with the United States which includes an exchange of information program and the principal class of interests of which is listed and regularly traded on 1 or more recognized stock exchanges (as defined in such comprehensive income tax treaty), or
-        - **(II)** is a foreign partnership that is created or organized under foreign law as a limited partnership in a jurisdiction that has an agreement for the exchange of information with respect to taxes with the United States and has a class of limited partnership units which is regularly traded on the New York Stock Exchange or Nasdaq Stock Market and such class of limited partnership units value is greater than 50 percent of the value of all the partnership units,
-      - **(ii)** is a qualified collective investment vehicle, and
-      - **(iii)** maintains records on the identity of each person who, at any time during the foreign person’s taxable year, holds directly 5 percent or more of the class of interest described in subclause (I) or (II) of clause (i), as the case may be.
-    - **(B)** For purposes of this subsection, the term “qualified collective investment vehicle” means a foreign person—
-      - **(i)** which—
-        - **(I)** is eligible for benefits under the comprehensive income tax treaty described in subparagraph (A)(i)(I), but only if the dividends article of such treaty imposes conditions on the benefits allowable in the case of dividends paid by a real estate investment trust, and
-        - **(II)** is eligible under such treaty for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
-      - **(ii)** which—
-        - **(I)** is a publicly traded partnership (as defined in section 7704(b)) to which subsection (a) of section 7704 does not apply,
-        - **(II)** is a withholding foreign partnership for purposes of chapters 3, 4, and 61, and
-        - **(III)** if such foreign partnership were a domestic corporation, would be a United States real property holding corporation (determined without regard to paragraph (1)) at any time during the 5-year period ending on the date of disposition of, or distribution with respect to, such partnership’s interests in a real estate investment trust, or
-      - **(iii)** which is designated as a qualified collective investment vehicle by the Secretary and is either—
-        - **(I)** fiscally transparent within the meaning of section 894, or
-        - **(II)** required to include dividends in its gross income, but entitled to a deduction for distributions to persons holding interests (other than interests solely as a creditor) in such foreign person.
-  - **(4)**
-    - **(A)** For the purposes of this subsection, in the case of an applicable investor who is a nonresident alien individual or a foreign corporation and is a partner in a partnership that is a qualified shareholder, if such partner’s proportionate share of USRPI gain for the taxable year exceeds such partner’s distributive share of USRPI gain for the taxable year, then
-      - **(i)** such partner’s distributive share of the amount of gain taken into account under subsection (a)(1) by the partner for the taxable year (determined without regard to this paragraph) shall be increased by the amount of such excess, and
-      - **(ii)** such partner’s distributive share of items of income or gain for the taxable year that are not treated as gain taken into account under subsection (a)(1) (determined without regard to this paragraph) shall be decreased (but not below zero) by the amount of such excess.
-    - **(B)** For the purposes of this paragraph, the term “USRPI gain” means the excess (if any) of—
-      - **(i)** the sum of—
-        - **(I)** any gain recognized from the disposition of a United States real property interest, and
-        - **(II)** any distribution by a real estate investment trust that is treated as gain recognized from the sale or exchange of a United States real property interest, over
-      - **(ii)** any loss recognized from the disposition of a United States real property interest.
-    - **(C)** For purposes of this paragraph, an applicable investor’s proportionate share of USRPI gain shall be determined on the basis of such investor’s share of partnership items of income or gain (excluding gain allocated under section 704(c)), whichever results in the largest proportionate share. If the investor’s share of partnership items of income or gain (excluding gain allocated under section 704(c)) may vary during the period such investor is a partner in the partnership, such share shall be the highest share such investor may receive.
-- **(l)**
-  - **(1)** For purposes of this section, a qualified foreign pension fund shall not be treated as a nonresident alien individual or a foreign corporation. For purposes of the preceding sentence, an entity all the interests of which are held by a qualified foreign pension fund shall be treated as such a fund.
-  - **(2)** For purposes of this subsection, the term “qualified foreign pension fund” means any trust, corporation, or other organization or arrangement—
-    - **(A)** which is created or organized under the law of a country other than the United States,
-    - **(B)** which is established—
-      - **(i)** by such country (or one or more political subdivisions thereof) to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (including self-employed individuals) or persons designated by such employees, as a result of services rendered by such employees to their employers, or
-      - **(ii)** by one or more employers to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (including self-employed individuals) or persons designated by such employees in consideration for services rendered by such employees to such employers,
-    - **(C)** which does not have a single participant or beneficiary with a right to more than five percent of its assets or income,
-    - **(D)** which is subject to government regulation and with respect to which annual information about its beneficiaries is provided, or is otherwise available, to the relevant tax authorities in the country in which it is established or operates, and
-    - **(E)** with respect to which, under the laws of the country in which it is established or operates—
-      - **(i)** contributions to such trust, corporation, organization, or arrangement which would otherwise be subject to tax under such laws are deductible or excluded from the gross income of such entity or arrangement or taxed at a reduced rate, or
-      - **(ii)** taxation of any investment income of such trust, corporation, organization or arrangement is deferred, or such income is excluded from the gross income of such entity or arrangement or is taxed at a reduced rate.
-  - **(3)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.

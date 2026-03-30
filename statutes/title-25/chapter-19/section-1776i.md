@@ -1,12 +1,15 @@
 ---
-title: "Section 1776i - Omitted"
+title: "Section 1776i - Fort Laramie Treaty of 1868"
 usc_title: 25
 usc_section: "1776i"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1776i"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.884Z"
+status: "active"
 ---
 
-# § 1776i. Omitted
+# § 1776i. Fort Laramie Treaty of 1868
+
+Except for the adjustment to the eastern boundary of the Crow Indian Reservation, nothing in this subchapter or in the Settlement Agreement shall affect or modify the terms and conditions of the treaty between the United States of America and the Crow Tribe of Indians concluded May 7, 1868 (commonly known as the “Fort Laramie Treaty of 1868”; 15 Stat. 649 ).
 

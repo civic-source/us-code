@@ -1,12 +1,15 @@
 ---
-title: "Section 2541d - Renumbered § 4985]"
+title: "Section 2541d - Reports"
 usc_title: 10
 usc_section: "2541d"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2541d"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-03-30T03:04:17.293Z"
+status: "active"
 ---
 
-# [§ 2541d. Renumbered § 4985]
+# § 2541d. Reports
+
+The Secretary of Defense shall require each qualified commercial firm for which a loan is guaranteed under this subchapter to submit to the Secretary a report on the improvements financed or refinanced with the loan. The report shall include an assessment of the value of the improvements for the protection of the critical infrastructure of that commercial firm. The Secretary shall prescribe the time for submitting the report.
 

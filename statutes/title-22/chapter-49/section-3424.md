@@ -3,9 +3,10 @@ title: "Section 3424 - Nonreimbursed costs"
 usc_title: 22
 usc_section: "3424"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3424"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-03-30T03:04:53.662Z"
+status: "active"
 ---
 
 # § 3424. Nonreimbursed costs
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:55:05.394Z"
 - **(c)** The President may provide military training to members of the armed forces of other countries participating in the Multinational Force and Observers.
 - **(d)**
   - **(1)** The United States may use contractors to provide logistical support to the Multinational Force and Observers under this section in lieu of providing such support through a logistical support unit comprised of members of the United States Armed Forces.
-  - **(2)** Notwithstanding subsections (a) and (b) and section 3426(b) of this title , support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
+  - **(2)** Notwithstanding subsections (a) and (b) of this section and section 3426(b) of this title , support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.

@@ -3,9 +3,10 @@ title: "Section 13411 - Enhanced oil recovery"
 usc_title: 42
 usc_section: "13411"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13411"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-03-30T03:06:22.929Z"
+status: "active"
 ---
 
 # § 13411. Enhanced oil recovery
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
   - **(1)** The near-term priorities of the program include preserving access to high potential reservoirs, identifying available technologies that can extend the lifetime of wells and of stripper well property, and developing environmental field operations for waste disposal and injection practices.
   - **(2)** The mid-term priorities of the program include developing and testing identified but unproven technologies, and transferring those technologies for widespread use.
   - **(3)** The long-term priorities of the program include developing advanced techniques to recover oil not recoverable by other techniques.
-- **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a plan for carrying out under this section the accelerated field testing of technologies to achieve the priorities stated in subsection (b). In preparing the plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies, and with the Advisory Board established under section 13522 of this title .
+- **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a plan for carrying out under this section the accelerated field testing of technologies to achieve the priorities stated in subsection (b) of this section. In preparing the plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies, and with the Advisory Board established under section 13522 of this title .
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
 - **(e)** In carrying out the provisions of this section, the Secretary shall consult representatives of the oil and gas industry with respect to innovative research and development proposals to improve oil and gas recovery and shall consider relevant technical data from industry and other research and information centers and institutes.
 - **(f)** There are authorized to be appropriated to the Secretary for carrying out this section, including advanced extraction and process technology, $57,250,000 for fiscal year 1993 and $70,000,000 for fiscal year 1994.

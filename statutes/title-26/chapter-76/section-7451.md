@@ -1,18 +1,15 @@
 ---
-title: "Section 7451 - Petitions"
+title: "Section 7451 - Fee for filing petition"
 usc_title: 26
 usc_section: "7451"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7451"
-generated_at: "2026-03-30T02:55:27.874Z"
+generated_at: "2026-03-30T03:05:18.743Z"
+status: "active"
 ---
 
-# § 7451. Petitions
+# § 7451. Fee for filing petition
 
-- **(a)** The Tax Court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
-- **(b)**
-  - **(1)** Notwithstanding any other provision of this title, in any case (including by reason of a lapse in appropriations) in which a filing location is inaccessible or otherwise unavailable to the general public on the date a petition is due, the relevant time period for filing such petition shall be tolled for the number of days within the period of inaccessibility plus an additional 14 days.
-  - **(2)** For purposes of this subsection, the term “filing location” means—
-    - **(A)** the office of the clerk of the Tax Court, or
-    - **(B)** any on-line portal made available by the Tax Court for electronic filing of petitions.
+The tax court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
+

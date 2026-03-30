@@ -3,9 +3,10 @@ title: "Section 17103 - Commercial standards for passenger safety devices"
 usc_title: 40
 usc_section: "17103"
 chapter: 171
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 17103"
-generated_at: "2026-03-30T02:55:43.389Z"
+generated_at: "2026-03-30T03:05:58.226Z"
+status: "active"
 ---
 
 # § 17103. Commercial standards for passenger safety devices

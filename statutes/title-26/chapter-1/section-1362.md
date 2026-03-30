@@ -3,9 +3,10 @@ title: "Section 1362 - Election; revocation; termination"
 usc_title: 26
 usc_section: "1362"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1362"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-03-30T03:05:18.655Z"
+status: "active"
 ---
 
 # § 1362. Election; revocation; termination
@@ -47,7 +48,9 @@ generated_at: "2026-03-30T02:55:27.770Z"
         - **(I)** has accumulated earnings and profits at the close of each of 3 consecutive taxable years, and
         - **(II)** has gross receipts for each of such taxable years more than 25 percent of which are passive investment income.
       - **(ii)** Any termination under this paragraph shall be effective on and after the first day of the first taxable year beginning after the third consecutive taxable year referred to in clause (i).
-      - **(iii)** A prior taxable year shall not be taken into account under clause (i) unless the corporation was an S corporation for such taxable year.
+      - **(iii)** A prior taxable year shall not be taken into account under clause (i) unless—
+        - **(I)** such taxable year began after December 31, 1981 , and
+        - **(II)** the corporation was an S corporation for such taxable year.
     - **(B)** For purposes of this paragraph—
       - **(i)** in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom, and
       - **(ii)** in the case of sales or exchanges of stock or securities, gross receipts shall be taken into account only to the extent of the gains therefrom.
@@ -56,7 +59,7 @@ generated_at: "2026-03-30T02:55:27.770Z"
       - **(ii)** The term “passive investment income” shall not include interest on any obligation acquired in the ordinary course of the corporation’s trade or business from its sale of property described in section 1221(a)(1).
       - **(iii)** If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term “passive investment income” shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
       - **(iv)** If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
-      - **(v)** In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) )), the term “passive investment income” shall not include—
+      - **(v)** In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(w)(1) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. the term “passive investment income” shall not include—
         - **(I)** interest income earned by such bank or company, or
         - **(II)** dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
 - **(e)**

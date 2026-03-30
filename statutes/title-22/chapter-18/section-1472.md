@@ -3,9 +3,10 @@ title: "Section 1472 - Department of State and other Government agencies"
 usc_title: 22
 usc_section: "1472"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1472"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-03-30T03:04:53.610Z"
+status: "active"
 ---
 
 # § 1472. Department of State and other Government agencies
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:05.333Z"
   - **(3)** under such regulations as the Secretary may prescribe, to pay the transportation expenses, and not to exceed $10 per diem in lieu of subsistence and other expenses, of citizens or subjects of other countries, without regard to the Standardized Government Travel Regulations and the Subsistence Expense Act of 1926, 1 1 See References in Text note below. as amended; and
   - **(4)** to make grants for, and to pay expenses incident to, training and study.
 - **(b)**
-  - **(1)** Any contract authorized by subsection (a) and described in paragraph (3) of this subsection which is funded on the basis of annual appropriations may nevertheless be made for periods not in excess of 5 years when—
+  - **(1)** Any contract authorized by subsection (a) of this section and described in paragraph (3) of this subsection which is funded on the basis of annual appropriations may nevertheless be made for periods not in excess of 5 years when—
     - **(A)** appropriations are available and adequate for payment for the first fiscal year and for all potential cancellation costs; and
     - **(B)** the Director of the United States Information Agency determines that—
       - **(i)** the need of the Government for the property or service being acquired over the period of the contract is reasonably firm and continuing;

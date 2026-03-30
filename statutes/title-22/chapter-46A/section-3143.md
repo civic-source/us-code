@@ -3,9 +3,10 @@ title: "Section 3143 - Reports by Government Accountability Office"
 usc_title: 22
 usc_section: "3143"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3143"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-03-30T03:04:53.660Z"
+status: "active"
 ---
 
 # § 3143. Reports by Government Accountability Office
@@ -23,5 +24,5 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(2)** The Comptroller General shall, in carrying out paragraph (1), comply with procedures relating to access to and disclosure of data and information established within the Federal statistical agencies referred to in paragraph (1), and maintain any and all individually identifiable data and information at the statistical agency where the information is reviewed.
 - **(d)** In preparing any report under this section, the Comptroller General shall not—
   - **(1)** disclose any confidential business information or present any information in a way in which any person, including a business enterprise or establishment, can be identified; or
-  - **(2)** combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
+  - **(2)** combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) of this section with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
 - **(e)** The access by the Comptroller General to information under this Act shall be in conformity with section 716 of title 31 .

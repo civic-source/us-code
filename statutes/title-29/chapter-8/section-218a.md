@@ -1,12 +1,15 @@
 ---
-title: "Section 218a - Repealed. Pub. L. 114–74, title VI, § 604 , Nov. 2, 2015 , 129 Stat. 599"
+title: "Section 218a - Automatic enrollment for employees of large employers"
 usc_title: 29
 usc_section: "218a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 218a"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-03-30T03:05:09.674Z"
+status: "active"
 ---
 
-# § 218a. Repealed. Pub. L. 114–74, title VI, § 604 , Nov. 2, 2015 , 129 Stat. 599
+# § 218a. Automatic enrollment for employees of large employers
+
+In accordance with regulations promulgated by the Secretary, an employer to which this chapter applies that has more than 200 full-time employees and that offers employees enrollment in 1 or more health benefits plans shall automatically enroll new full-time employees in one of the plans offered (subject to any waiting period authorized by law) and to continue the enrollment of current employees in a health benefits plan offered through the employer. Any automatic enrollment program shall include adequate notice and the opportunity for an employee to opt out of any coverage the individual or employee were 1 1 So in original. Probably should be “was”. automatically enrolled in. Nothing in this section shall be construed to supersede any State law which establishes, implements, or continues in effect any standard or requirement relating to employers in connection with payroll except to the extent that such standard or requirement prevents an employer from instituting the automatic enrollment program under this section.
 

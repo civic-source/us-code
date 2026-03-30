@@ -3,9 +3,10 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-30T02:55:27.681Z"
+generated_at: "2026-03-30T03:05:18.583Z"
+status: "active"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:55:27.681Z"
 - **(f)**
   - **(1)** A plan meets the requirements of this subsection only if it is established on or before the due date (including any extension of such date) for the filing of the employer’s tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
   - **(2)** A plan which otherwise meets the requirements of this section shall not be considered to have failed to meet the requirements of section 401(a) merely because it was not established by the close of the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
-- **(g)** A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) 1 shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 1 (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) 1 and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+- **(g)** A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) 2 2 See References in Text note below. shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 2 (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) 2 and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 - **(h)**
   - **(1)** A plan meets the requirements of this subsection if a participant who is entitled to a distribution from the plan—
     - **(A)** has a right to demand that his benefits be distributed in the form of employer securities, and
@@ -60,7 +61,7 @@ generated_at: "2026-03-30T02:55:27.681Z"
   - **(7)** Paragraph (1)(A) shall not apply with respect to the portion of the participant’s account which the employee elected to have reinvested under section 401(a)(28)(B) or subparagraph (B) or (C) of section 401(a)(35).
 - **(i)** A plan which otherwise meets the requirements of this section shall not be treated as failing to meet such requirements merely because it provides that—
   - **(1)** As reimbursement for the expenses of establishing the plan, the employer may withhold from amounts due the plan for the taxable year for which the plan is established (or the plan may pay) so much of the amounts paid or incurred in connection with the establishment of the plan as does not exceed the sum of—
-    - **(A)** 10 percent of the first $100,000 which the employer is required to transfer to the plan for that taxable year under section 41(c)(1)(B), 1 and
+    - **(A)** 10 percent of the first $100,000 which the employer is required to transfer to the plan for that taxable year under section 41(c)(1)(B), 3 3 See References in Text note below. and
     - **(B)** 5 percent of any amount so required to be transferred in excess of the first $100,000; and
   - **(2)** As reimbursement for the expenses of administering the plan, the employer may withhold from amounts due the plan (or the plan may pay) so much of the amounts paid or incurred during the taxable year as expenses of administering the plan as does not exceed the lesser of—
     - **(A)** the sum of—
@@ -85,11 +86,11 @@ generated_at: "2026-03-30T02:55:27.681Z"
     - **(B)** For purposes of subparagraph (A), if the common parent owns directly stock possessing at least 50 percent of the voting power of all classes of stock and at least 50 percent of each class of nonvoting stock in a first tier subsidiary, such subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the first tier subsidiary were the common parent) shall be treated as includible corporations.
     - **(C)** For purposes of subparagraph (A), if the common parent owns directly stock possessing all of the voting power of all classes of stock and all of the nonvoting stock, in a first tier subsidiary, and if the first tier subsidiary owns directly stock possessing at least 50 percent of the voting power of all classes of stock, and at least 50 percent of each class of nonvoting stock, in a second tier subsidiary of the common parent, such second tier subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the second tier subsidiary were the common parent) shall be treated as includible corporations.
   - **(5)** Nonvoting common stock of an employer described in the second sentence of section 401(a)(22) shall be treated as employer securities if an employer has a class of nonvoting common stock outstanding and the specific shares that the plan acquires have been issued and outstanding for at least 24 months.
-- **(m)** No gain or loss shall be recognized to the taxpayer with respect to the transfer of employer securities to a tax credit employee stock ownership plan maintained by the taxpayer to the extent that such transfer is required under section 41(c)(1)(B), 1 or subparagraph (A) or (B) of section 48(n)(1). 1
+- **(m)** No gain or loss shall be recognized to the taxpayer with respect to the transfer of employer securities to a tax credit employee stock ownership plan maintained by the taxpayer to the extent that such transfer is required under section 41(c)(1)(B), 4 4 See References in Text note below. or subparagraph (A) or (B) of section 48(n)(1). 4
 - **(n)**
   - **(1)** A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
     - **(A)** during the nonallocation period, for the benefit of—
-      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,
+      - **(i)** any taxpayer who makes an election under section 1042(a) with respect to employer securities,,, 5 5 So in original.
       - **(ii)** any individual who is related to the taxpayer (within the meaning of section 267(b)), or
     - **(B)** for the benefit of any other person who owns (after application of section 318(a)) more than 25 percent of—
       - **(i)** any class of outstanding stock of the corporation which issued such employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of subsection ( l )(4)) as such corporation, or
@@ -159,3 +160,7 @@ generated_at: "2026-03-30T02:55:27.681Z"
   - **(7)**
     - **(A)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
     - **(B)** The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
+- **(q)**
+  - **(1)** For requirements for allowance of employee plan credit, see section 48(n). 6 6 See References in Text note below.
+  - **(2)** For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699. 6
+  - **(3)** For requirements for allowance of an employee stock ownership credit, see section 41. 6

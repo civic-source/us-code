@@ -3,9 +3,10 @@ title: "Section 51 - Amount of credit"
 usc_title: 26
 usc_section: "51"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 51"
-generated_at: "2026-03-30T02:55:27.611Z"
+generated_at: "2026-03-30T03:05:18.532Z"
+status: "active"
 ---
 
 # § 51. Amount of credit
@@ -23,8 +24,10 @@ generated_at: "2026-03-30T02:55:27.611Z"
   - **(3)** If—
     - **(A)** the principal place of employment of an individual with the employer is at a plant or facility, and
     - **(B)** there is a strike or lockout involving employees at such plant or facility,
-  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2025 .
-  - **(5)** The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) 1 during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) 1 unless such qualified employer makes an election not to have section 3111(d) 1 apply.
+  - **(4)** The term “wages” shall not include any amount paid or incurred to an individual who begins work for the employer—
+    - **(A)** after December 31, 1994 , and before October 1, 1996 , or
+    - **(B)** after December 31, 2013 2 2 So in original. Probably should be followed by a period.
+  - **(5)** The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.
 - **(d)** For purposes of this subpart—
   - **(1)** An individual is a member of a targeted group if such individual is—
     - **(A)** a qualified IV–A recipient,
@@ -34,9 +37,8 @@ generated_at: "2026-03-30T02:55:27.611Z"
     - **(E)** a vocational rehabilitation referral,
     - **(F)** a qualified summer youth employee,
     - **(G)** a qualified supplemental nutrition assistance program benefits recipient,
-    - **(H)** a qualified SSI recipient,
-    - **(I)** a long-term family assistance recipient, or
-    - **(J)** a qualified long-term unemployment recipient.
+    - **(H)** a qualified SSI recipient, or
+    - **(I)** a long-term family assistance recipient.
   - **(2)**
     - **(A)** The term “qualified IV–A recipient” means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
     - **(B)** For purposes of this paragraph, the term “IV–A program” means any program providing assistance under a State program funded under part A of title IV of the Social Security Act and any successor of such program.
@@ -45,7 +47,7 @@ generated_at: "2026-03-30T02:55:27.611Z"
       - **(i)** being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date,
       - **(ii)** entitled to compensation for a service-connected disability, and—
         - **(I)** having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or
-        - **(II)** having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months,
+        - **(II)** having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months 3 3 So in original. Probably should be followed by a comma.
       - **(iii)** having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or
       - **(iv)** having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months.
     - **(B)** For purposes of subparagraph (A), the term “veteran” means any individual who is certified by the designated local agency as—
@@ -125,9 +127,6 @@ generated_at: "2026-03-30T02:55:27.611Z"
         - **(II)** as not regularly attending any secondary, technical, or post-secondary school during the 6-month period preceding the hiring date,
         - **(III)** as not regularly employed during such 6-month period, and
         - **(IV)** as not readily employable by reason of lacking a sufficient number of basic skills.
-  - **(15)** The term “qualified long-term unemployment recipient” means any individual who is certified by the designated local agency as being in a period of unemployment which—
-    - **(A)** is not less than 27 consecutive weeks, and
-    - **(B)** includes a period in which the individual was receiving unemployment compensation under State or Federal law.
 - **(e)**
   - **(1)** With respect to the employment of a long-term family assistance recipient—
     - **(A)** the amount of the work opportunity credit determined under this section for the taxable year shall include 50 percent of the qualified second-year wages for such year, and
@@ -149,7 +148,7 @@ generated_at: "2026-03-30T02:55:27.611Z"
   - **(2)** In any case to which subparagraph (A) or (B) of paragraph (1) applies, the term “wages” means unemployment insurance wages (determined without regard to any dollar limitation).
 - **(i)**
   - **(1)** No wages shall be taken into account under subsection (a) with respect to an individual who—
-    - **(A)** bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity (determined with the application of section 267(c)),
+    - **(A)** bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity, 5 5 So in original. The comma probably should not appear. (determined with the application of section 267(c)),
     - **(B)** if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
     - **(C)** is a dependent (described in section 152(d)(2)(H)) of the taxpayer, or, if the taxpayer is a corporation, of an individual described in subparagraph (A), or, if the taxpayer is an estate or trust, of a grantor, beneficiary, or fiduciary of the estate or trust.
   - **(2)** No wages shall be taken into account under subsection (a) with respect to any individual if, prior to the hiring date of such individual, such individual had been employed by the employer at any time.

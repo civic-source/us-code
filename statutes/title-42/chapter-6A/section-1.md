@@ -3,9 +3,10 @@ title: "Section 1 - WTC Health Program Scientific/Technical Advisory Committee; 
 usc_title: 42
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-03-30T03:06:22.425Z"
+status: "active"
 ---
 
 # § 300mm–1. WTC Health Program Scientific/Technical Advisory Committee; WTC Health Program Steering Committees
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:56:10.848Z"
   - **(3)** The Advisory Committee shall meet at such frequency as may be required to carry out its duties.
   - **(4)** The WTC Program Administrator shall provide for publication of recommendations of the Advisory Committee on the public Web site established for the WTC Program.
   - **(5)** Notwithstanding any other provision of law, the Advisory Committee shall continue in operation during the period in which the WTC Program is in operation.
-  - **(6)** Except as otherwise specifically provided, the Advisory Committee shall be subject to Chapter 1 1 So in original. Probably should not be capitalized. 10 of title 5.
+  - **(6)** Except as otherwise specifically provided, the Advisory Committee shall be subject to the Federal Advisory Committee Act.
 - **(b)**
   - **(1)** The WTC Program Administrator shall consult with 2 steering committees (each in this section referred to as a “Steering Committee”) that are established as follows:
     - **(A)** One Steering Committee, to be known as the WTC Responders Steering Committee, for the purpose of receiving input from affected stakeholders and facilitating the coordination of monitoring and treatment programs for the enrolled WTC responders under subpart 1 of part B.

@@ -3,9 +3,10 @@ title: "Section 313 - Federal Insurance Office"
 usc_title: 31
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 313"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-03-30T03:05:28.348Z"
+status: "active"
 ---
 
 # § 313. Federal Insurance Office

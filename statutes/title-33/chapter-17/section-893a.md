@@ -3,28 +3,24 @@ title: "Section 893a - NOAA ocean and atmospheric science education programs"
 usc_title: 33
 usc_section: "893a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 893a"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-03-30T03:05:36.263Z"
+status: "active"
 ---
 
 # § 893a. NOAA ocean and atmospheric science education programs
 
-- **(a)** The Administrator of the National Oceanic and Atmospheric Administration shall conduct, develop, support, promote, and coordinate formal and informal educational activities at all levels to enhance public awareness and understanding of ocean, coastal, Great Lakes, and atmospheric science and stewardship by the general public and other coastal stakeholders, including underrepresented groups in ocean and atmospheric science and policy careers. In conducting those activities, the Administrator shall build upon the educational programs and activities of the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42 in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.
+- **(a)** The Administrator of the National Oceanic and Atmospheric Administration shall conduct, develop, support, promote, and coordinate formal and informal educational activities at all levels to enhance public awareness and understanding of ocean, coastal, Great Lakes, and atmospheric science and stewardship by the general public and other coastal stakeholders, including underrepresented groups in ocean and atmospheric science and policy careers. In conducting those activities, the Administrator shall build upon the educational programs and activities of agency, 1 1 So in original. Probably should be “the agency,”. with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.
 - **(b)** The education programs developed by NOAA shall, to the extent applicable—
   - **(1)** carry out and support research based programs and activities designed to increase student interest and participation in STEM;
   - **(2)** improve public literacy in STEM;
   - **(3)** employ proven strategies and methods for improving student learning and teaching in STEM;
   - **(4)** provide curriculum support materials and other resources that—
     - **(A)** are designed to be integrated with comprehensive STEM education;
-    - **(B)** are aligned with national science education standards;
-    - **(C)** are designed considering the unique needs of underrepresented groups, translating such materials and other resources;
-    - **(D)** promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
-    - **(E)** are promoted widely, especially among individuals identified in sections 1885a and 1885b of title 42; and
+    - **(B)** are aligned with national science education standards; and
+    - **(C)** promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
   - **(5)** create and support opportunities for enhanced and ongoing professional development for teachers using best practices that improves the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level.
 - **(c)** The Administrator, appropriate National Oceanic and Atmospheric Administration programs, ocean atmospheric science and education experts, and interested members of the public shall maintain a science education plan setting forth education goals and strategies for the Administration, as well as programmatic actions to carry out such goals and priorities over the next 20 years, and evaluate and update such plan every 5 years.
-- **(d)** In executing the National Oceanic and Atmospheric Administration science education plan under subsection (c), the Administrator shall maintain a comprehensive system for evaluating the Administration’s educational programs and activities. In so doing, the Administrator shall ensure that such education programs have measurable objectives and milestones as well as clear, documented metrics for evaluating programs. For each such education program or portfolio of similar programs, the Administrator shall—
-  - **(1)** encourage the collection of evidence as relevant to the measurable objectives and milestones; and
-  - **(2)** ensure that program or portfolio evaluations focus on educational outcomes and not just inputs, activities completed, or the number of participants.
-- **(e)** Nothing in this section may be construed to affect the application of section 1232a of title 20 or sections 794 and 794d of title 29.
-- **(f)** In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
+- **(d)** Nothing in this section may be construed to affect the application of section 1232a of title 20 or sections 794 and 794d of title 29.
+- **(e)** In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.

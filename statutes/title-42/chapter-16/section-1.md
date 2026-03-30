@@ -1,23 +1,21 @@
 ---
-title: "Section 1 - Transparency and accountability"
+title: "Section 1 - National Science Foundation manufacturing research and education"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.128Z"
+generated_at: "2026-03-30T03:06:22.633Z"
+status: "active"
 ---
 
-# § 1862s–1. Transparency and accountability
+# § 1862p–1. National Science Foundation manufacturing research and education
 
-- **(a)**
-  - **(1)** 1 1 So in original. Probably should be preceded by introductory text. building the understanding of and confidence in investments in basic research is essential to public support for sustained, predictable Federal funding;
-  - **(2)** the Foundation has improved transparency and accountability of the outcomes made through the merit review process, but additional transparency into individual grants is valuable in communicating and assuring the public value of federally funded research; and
-  - **(3)** the Foundation should commit to transparency and accountability and to clear, consistent public communication regarding the national interest for each Foundation-awarded grant and cooperative agreement.
-- **(b)**
-  - **(1)** The Director of the Foundation shall issue and periodically update, as appropriate, policy guidance for both Foundation staff and other Foundation merit review process participants on the importance of transparency and accountability to the outcomes made through the merit review process.
-  - **(2)** The guidance under paragraph (1) shall require that each public notice of a Foundation-funded research project justify the expenditure of Federal funds by—
-    - **(A)** describing how the project—
-      - **(i)** reflects the statutory mission of the Foundation, as established in the National Science Foundation Act of 1950 ( 42 U.S.C. 1861 et seq.); and
-      - **(ii)** addresses the Foundation’s intellectual merit and broader impacts criteria; and
-    - **(B)** clearly identifying the research goals of the project in a manner that can be easily understood by both technical and non-technical audiences.
+- **(a)** The Director shall carry out a program to award merit-reviewed, competitive grants to institutions of higher education to support fundamental research leading to transformative advances in manufacturing technologies, processes, and enterprises that will support United States manufacturing through improved performance, productivity, sustainability, and competitiveness. Research areas may include—
+  - **(1)** nanomanufacturing;
+  - **(2)** manufacturing and construction machines and equipment, including robotics, automation, and other intelligent systems;
+  - **(3)** manufacturing enterprise systems;
+  - **(4)** advanced sensing and control techniques;
+  - **(5)** materials processing; and
+  - **(6)** information technologies for manufacturing, including predictive and real-time models and simulations, and virtual manufacturing.
+- **(b)** In order to help ensure a well-trained manufacturing workforce, the Director shall award grants to strengthen and expand scientific and technical education and training in advanced manufacturing, including through the Foundation’s Advanced Technological Education program.

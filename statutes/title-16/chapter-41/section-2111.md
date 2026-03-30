@@ -3,9 +3,10 @@ title: "Section 2111 - Other Federal programs"
 usc_title: 16
 usc_section: "2111"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2111"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-03-30T03:04:48.591Z"
+status: "active"
 ---
 
 # § 2111. Other Federal programs

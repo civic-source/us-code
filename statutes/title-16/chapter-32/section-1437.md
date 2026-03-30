@@ -3,9 +3,10 @@ title: "Section 1437 - Enforcement"
 usc_title: 16
 usc_section: "1437"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1437"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-03-30T03:04:48.568Z"
+status: "active"
 ---
 
 # § 1437. Enforcement
@@ -46,7 +47,7 @@ generated_at: "2026-03-30T02:54:22.968Z"
   - **(2)** Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 - **(g)** In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5 , the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 - **(h)** The Secretary shall, whenever appropriate, use by agreement the personnel, services, and facilities of State and other Federal departments, agencies, and instrumentalities, on a reimbursable or nonreimbursable basis, to carry out the Secretary’s responsibilities under this section.
-- **(i)** Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 1 1 See References in Text note below. of title 14.
+- **(i)** Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 of title 14 .
 - **(j)** If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title , the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 - **(k)** The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988 , which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 - **(l)** In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.

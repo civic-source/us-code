@@ -3,9 +3,10 @@ title: "Section 6513 - Organic plan"
 usc_title: 7
 usc_section: "6513"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6513"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-03-30T03:04:21.003Z"
+status: "active"
 ---
 
 # § 6513. Organic plan
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
       - **(iv)** any crop for human consumption, if such crop is harvested after a reasonable period of time determined by the certifying agent to ensure the safety of such crop, after the most recent application of raw manure, but in no event shall such period be less than 60 days after such application.
     - **(C)** Such organic plan shall prohibit raw manure from being applied to any crop in a way that significantly contributes to water contamination by nitrates or bacteria.
 - **(c)** An organic livestock plan shall contain provisions designed to foster the organic production of livestock consistent with the purposes of this chapter.
-- **(d)** An organic plan may encompass both the crop production and livestock production requirements in subsections (b) and (c) if both activities are conducted by the same producer.
+- **(d)** An organic plan may encompass both the crop production and livestock production requirements in subsections (b) and (c) of this section if both activities are conducted by the same producer.
 - **(e)** An organic handling plan shall contain provisions designed to ensure that agricultural products that are sold or labeled as organically produced are produced and handled in a manner that is consistent with the purposes of this chapter.
 - **(f)** An organic plan for the harvesting of wild crops shall—
   - **(1)** designate the area from which the wild crop will be gathered or harvested;

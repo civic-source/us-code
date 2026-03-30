@@ -1,12 +1,20 @@
 ---
-title: "Section 713 - Omitted"
+title: "Section 713 - Definitions"
 usc_title: 25
 usc_section: "713"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 713"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.852Z"
+status: "active"
 ---
 
-# § 713. Omitted
+# § 713. Definitions
 
+For the purposes of this subchapter—
+
+  - **(1)** the term “tribe” means the Confederated Tribes of the Grand Ronde Community of Oregon considered as one tribe in accordance with section 713a of this title ;
+  - **(2)** the term “Secretary” means the Secretary of the Interior or his designated representative;
+  - **(3)** the term “Interim Council” means the council which is established under, and the members of which are elected pursuant to, section 713c of this title ;
+  - **(4)** the term “tribal governing body” means the governing body which is established under, and the members of which are elected pursuant to, the tribal constitution and bylaws adopted in accordance with section 713d of this title ; and
+  - **(5)** the term “member”, when used with respect to the tribe, means an individual enrolled on the membership roll of the tribe in accordance with section 713e of this title .

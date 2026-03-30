@@ -3,9 +3,10 @@ title: "Section 1823 - Application for order"
 usc_title: 50
 usc_section: "1823"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1823"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-03-30T03:06:37.643Z"
+status: "active"
 ---
 
 # § 1823. Application for order
@@ -13,8 +14,8 @@ generated_at: "2026-03-30T02:56:26.209Z"
 - **(a)** Each application for an order approving a physical search under this subchapter shall be made by a Federal officer in writing upon oath or affirmation to a judge of the Foreign Intelligence Surveillance Court. Each application shall require the approval of the Attorney General based upon the Attorney General’s finding that it satisfies the criteria and requirements for such application as set forth in this subchapter. Each application shall include—
   - **(1)** the identity of the Federal officer making the application;
   - **(2)** the identity, if known, or a description of the target of the search, and a description of the premises or property to be searched and of the information, material, or property to be seized, reproduced, or altered;
-  - **(3)** a sworn statement of the facts and circumstances relied upon by the applicant to justify the applicant’s belief that—
-    - **(A)** the target of the physical search is a foreign power or an agent of a foreign power, and, in the case of a target that is a United States person alleged to be acting as an agent of a foreign power (as described in section 1801(b)(2)(B) of this title ), that a violation of the criminal statutes of the United States as referred to in section 1801(b)(2)(B) of this title has occurred or is about to occur;
+  - **(3)** a statement of the facts and circumstances relied upon by the applicant to justify the applicant’s belief that—
+    - **(A)** the target of the physical search is a foreign power or an agent of a foreign power;
     - **(B)** the premises or property to be searched contains foreign intelligence information; and
     - **(C)** the premises or property to be searched is or is about to be owned, used, possessed by, or is in transit to or from a foreign power or an agent of a foreign power;
   - **(4)** a statement of the proposed minimization procedures;
@@ -23,28 +24,18 @@ generated_at: "2026-03-30T02:56:26.209Z"
     - **(A)** that the certifying official deems the information sought to be foreign intelligence information;
     - **(B)** that a significant purpose of the search is to obtain foreign intelligence information;
     - **(C)** that such information cannot reasonably be obtained by normal investigative techniques;
-    - **(D)** that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title ;
-    - **(E)** includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D); and
-    - **(F)** that none of the information included in the statement described in paragraph (3) was solely produced by, derived from information produced by, or obtained using the funds of, a political organization (as such term is defined in section 527 of title 26 ), unless—
-      - **(i)** the political organization is clearly identified in the body of the statement described in paragraph (3);
-      - **(ii)** the information has been corroborated; and
-      - **(iii)** the investigative techniques used to corroborate the information are clearly identified in the body of the statement described in paragraph (3); and
-    - **(G)** that none of the information included in the statement described in paragraph (3) is attributable to or derived from the content of a media source unless the statement includes a clear identification of each author of that content, where applicable, the publisher of that content, information to corroborate that which was derived from the media source, and an explanation of the investigative techniques used to corroborate the information;
-  - **(7)** where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information;
-  - **(8)** a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application;
-  - **(9)** in the case of an application for an extension of an order under this subchapter in which the target of the physical search is a United States person, a summary statement of the foreign intelligence information obtained pursuant to the original order (and any preceding extension thereof) as of the date of the application for the extension, or a reasonable explanation of the failure to obtain such information; and 1 1 So in original. The word “and” probably should not appear.
-  - **(10)** a certification by the applicant that, to the best knowledge of the applicant, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
-    - **(A)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
-    - **(B)** otherwise raise doubts with respect to the findings required under section 1824(a) of this title . 2 2 So in original. The period probably should be “; and”.
-  - **(11)** non-cumulative information known to the applicant or declarant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
+    - **(D)** that designates the type of foreign intelligence information being sought according to the categories described in section 1801(e) of this title ; and
+    - **(E)** includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
+  - **(7)** where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
+  - **(8)** a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
 - **(b)** The Attorney General may require any other affidavit or certification from any other officer in connection with the application.
 - **(c)** The judge may require the applicant to furnish such other information as may be necessary to make the determinations required by section 1824 of this title .
 - **(d)**
   - **(1)**
-    - **(A)** Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) an application under that subsection for a target described in section 1801(b)(2) of this title .
+    - **(A)** Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title .
     - **(B)** Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
     - **(C)** Each official referred to in subparagraph (A) with authority to make a request under that subparagraph shall take appropriate actions in advance to ensure that delegation of such authority is clearly established in the event such official is disabled or otherwise unavailable to make such request.
   - **(2)**
-    - **(A)** If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
-    - **(B)** Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) for purposes of making the application under this section.
+    - **(A)** If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) of this section for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
+    - **(B)** Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) of this section for purposes of making the application under this section.
     - **(C)** Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.

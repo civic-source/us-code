@@ -3,9 +3,10 @@ title: "Section 152 - Dependent defined"
 usc_title: 26
 usc_section: "152"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 152"
-generated_at: "2026-03-30T02:55:27.636Z"
+generated_at: "2026-03-30T03:05:18.550Z"
+status: "active"
 ---
 
 # § 152. Dependent defined
@@ -71,14 +72,9 @@ generated_at: "2026-03-30T02:55:27.636Z"
     - **(B)** For purposes of subparagraph (A), the term “sheltered workshop” means a school—
       - **(i)** which provides special instruction or training designed to alleviate the disability of the individual, and
       - **(ii)** which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by a State, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
-  - **(5)**
-    - **(A)** For purposes of this subsection—
-      - **(i)** payments to a spouse of alimony or separate maintenance payments shall not be treated as a payment by the payor spouse for the support of any dependent, and
-      - **(ii)** in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
-    - **(B)** For purposes of subparagraph (A), the term “alimony or separate maintenance payment” means any payment in cash if—
-      - **(i)** such payment is received by (or on behalf of) a spouse under a divorce or separation instrument (as defined in section 121(d)(3)(C)),
-      - **(ii)** in the case of an individual legally separated from the individual’s spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
-      - **(iii)** there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+  - **(5)** For purposes of this subsection—
+    - **(A)** payments to a spouse which are includible in the gross income of such spouse under section 71 or 682 shall not be treated as a payment by the payor spouse for the support of any dependent, and
+    - **(B)** in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
 - **(e)**
   - **(1)** Notwithstanding subsection (c)(1)(B), (c)(4), or (d)(1)(C), if—
     - **(A)** a child receives over one-half of the child’s support during the calendar year from the child’s parents—

@@ -3,9 +3,10 @@ title: "Section 1304 - Forms for registration and fingerprinting"
 usc_title: 8
 usc_section: "1304"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1304"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-03-30T03:04:14.634Z"
+status: "active"
 ---
 
 # § 1304. Forms for registration and fingerprinting
@@ -14,5 +15,5 @@ generated_at: "2026-03-30T02:53:10.493Z"
 - **(b)** All registration and fingerprint records made under the provisions of this subchapter shall be confidential, and shall be made available only (1) pursuant to section 1357(f)(2) of this title , and (2) to such persons or agencies as may be designated by the Attorney General.
 - **(c)** Every person required to apply for the registration of himself or another under this subchapter shall submit under oath the information required for such registration. Any person authorized under regulations issued by the Attorney General to register aliens under this subchapter shall be authorized to administer oaths for such purpose.
 - **(d)** Every alien in the United States who has been registered and fingerprinted under the provisions of the Alien Registration Act, 1940, or under the provisions of this chapter shall be issued a certificate of alien registration or an alien registration receipt card in such form and manner and at such time as shall be prescribed under regulations issued by the Attorney General.
-- **(e)** Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
+- **(e)** Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d) of this section. Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
 - **(f)** Notwithstanding any other provision of law, the Attorney General is authorized to require any alien to provide the alien’s social security account number for purposes of inclusion in any record of the alien maintained by the Attorney General or the Service.

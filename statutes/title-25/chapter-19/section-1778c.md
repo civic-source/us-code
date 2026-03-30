@@ -1,12 +1,26 @@
 ---
-title: "Section 1778c - Omitted"
+title: "Section 1778c - Settlement funds"
 usc_title: 25
 usc_section: "1778c"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1778c"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-03-30T03:05:02.885Z"
+status: "active"
 ---
 
-# § 1778c. Omitted
+# § 1778c. Settlement funds
 
+- **(a)**
+  - **(1)** There are established in the Treasury of the United States three settlement trust fund accounts to be known as the “Torres-Martinez Settlement Trust Funds Account”, the “Torres-Martinez Allottees Settlement Account I”, and the “Torres-Martinez Allottees Settlement Account II”, respectively.
+  - **(2)** Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c) of this section.
+- **(b)**
+  - **(1)** Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) of this section shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
+  - **(2)** Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Coachella Valley Water District shall pay the sum of $337,908.41 to the United States for the benefit of the Tribe and any affected allottees.
+  - **(3)** Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the United States for the benefit of the Tribe and any affected allottees.
+  - **(4)** Within the time and upon the conditions specified in the Settlement Agreement, the United States shall pay into the three separate tribal and allottee trust fund accounts the total sum of $10,200,000, of which sum—
+    - **(A)** $4,200,000 shall be provided from moneys appropriated by Congress under section 1304 of title 31 , the conditions of which are deemed to have been met, including those of section 2414 of title 28 ; and
+    - **(B)** $6,000,000 shall be provided from moneys appropriated by Congress for this specific purpose to the Secretary.
+  - **(5)** In the event that any of the sums described in paragraph (2) or (3) are not timely paid by the Coachella Valley Water District or the Imperial Irrigation District, as the case may be, the delinquent payor shall pay an additional sum equal to 10 percent interest annually on the amount outstanding daily, compounded yearly on December 31 of each respective year, until all outstanding amounts due have been paid in full.
+  - **(6)** The Coachella Valley Water District, the Imperial Irrigation District, and the United States shall each be severally liable, but not jointly liable, for its respective obligation to make the payments specified by this subsection.
+- **(c)** The Secretary shall administer and distribute funds held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II in accordance with the terms and conditions of the Settlement Agreement.

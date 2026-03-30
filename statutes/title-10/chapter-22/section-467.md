@@ -3,9 +3,10 @@ title: "Section 467 - Definitions"
 usc_title: 10
 usc_section: "467"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 467"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-03-30T03:04:17.221Z"
+status: "active"
 ---
 
 # § 467. Definitions
@@ -19,7 +20,7 @@ In this chapter:
       - **(ii)** likenesses or presentations produced by satellites, airborne platforms, unmanned aerial vehicles, or other similar means.
     - **(B)** Such term does not include handheld or clandestine photography taken by or on behalf of human intelligence collection organizations.
   - **(3)** The term “imagery intelligence” means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
-  - **(4)** The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—
-    - **(A)** data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
-    - **(B)** mapping, charting, geomatics data, and related products and services.
-  - **(5)** The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
+  - **(4)** The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes—
+    - **(A)** statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
+    - **(B)** mapping, charting, geodetic data, and related products.
+  - **(5)** The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.

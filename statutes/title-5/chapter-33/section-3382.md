@@ -3,9 +3,10 @@ title: "Section 3382 - Involuntary separation for retirement"
 usc_title: 5
 usc_section: "3382"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 3382"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-03-30T03:04:06.068Z"
+status: "active"
 ---
 
 # § 3382. Involuntary separation for retirement
@@ -14,4 +15,4 @@ An air traffic controller who is eligible for immediate retirement under section
 
   - **(1)** aviation safety;
   - **(2)** the efficient control of air traffic; or
-  - **(3)** the preservation of the physical or mental health of the controller.
+  - **(3)** the preservation of the physical or mental health of the controller. Chapter 75 of this title does not apply to a determination or action under this section. Separation under this section shall not become final, without the consent of the controller, until the last day of the second month following the day the controller receives a notification of the determination by the Secretary under this section, or, if a review is requested under section 3383 of this title , the last day of the month in which a final decision is issued by a board of review under section 3383(c) of this title , whichever is later. A controller who is to be separated under this section is entitled to training under section 3381 of this title . Separation of such a controller who elects to receive training under section 3381 shall not become final until the last day of the month following the completion of his training.

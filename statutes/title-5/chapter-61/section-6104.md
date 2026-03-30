@@ -3,9 +3,10 @@ title: "Section 6104 - Holidays; daily, hourly, and piece-work basis employees"
 usc_title: 5
 usc_section: "6104"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 6104"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-03-30T03:04:06.086Z"
+status: "active"
 ---
 
 # § 6104. Holidays; daily, hourly, and piece-work basis employees
@@ -14,4 +15,4 @@ When a regular employee as defined by section 2105 of this title or an individua
 
   - **(1)** on which agencies are closed by Executive order, or, for individuals employed by the government of the District of Columbia, by order of the Mayor;
   - **(2)** by administrative order under regulations issued by the President, or, for individuals employed by the government of the District of Columbia, by the Council of the District of Columbia; or
-  - **(3)** solely because of the occurrence of a legal public holiday under section 6103 of this title , or a day declared a holiday by Federal statute, Executive order, or, for individuals employed by the government of the District of Columbia, by order of the Mayor;
+  - **(3)** solely because of the occurrence of a legal public holiday under section 6103 of this title , or a day declared a holiday by Federal statute, Executive order, or, for individuals employed by the government of the District of Columbia, by order of the Mayor; he is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.

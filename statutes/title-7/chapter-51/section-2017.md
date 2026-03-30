@@ -3,9 +3,10 @@ title: "Section 2017 - Value of allotment"
 usc_title: 7
 usc_section: "2017"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2017"
-generated_at: "2026-03-30T02:53:42.367Z"
+generated_at: "2026-03-30T03:04:20.959Z"
+status: "active"
 ---
 
 # § 2017. Value of allotment
@@ -22,14 +23,14 @@ generated_at: "2026-03-30T02:53:42.367Z"
     - **(B)** the State agency may reduce the allotment of the household by not more than 25 percent.
   - **(2)** If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the supplemental nutrition assistance program.
 - **(e)**
-  - **(1)** In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(m)(5) of this title , a State agency may provide an allotment for the individual to—
+  - **(1)** In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(n)(5) of this title , a State agency may provide an allotment for the individual to—
     - **(A)** the center as an authorized representative of the individual for a period that is less than 1 month; and
     - **(B)** the individual, if the individual leaves the center.
   - **(2)** A State agency may require an individual referred to in paragraph (1) to designate the center in which the individual resides as the authorized representative of the individual for the purpose of receiving an allotment.
 - **(f)**
   - **(1)**
     - **(A)**
-      - **(i)** Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(m)(5) of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a).
+      - **(i)** Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
       - **(ii)** Unless the Secretary authorizes implementation of this paragraph in all States under paragraph (3), clause (i) shall apply only to residents of covered facilities participating in a pilot project under paragraph (2).
     - **(B)** The allotment for each eligible resident described in subparagraph (A) shall be calculated in accordance with standardized procedures established by the Secretary that take into account the allotments typically received by residents of covered facilities.
     - **(C)**
@@ -45,7 +46,7 @@ generated_at: "2026-03-30T02:53:42.367Z"
       - **(iii)** The State agency may elect not to issue an allotment under clause (ii)(I) if the State agency lacks sufficient information on the location of the departed resident to provide the allotment.
       - **(iv)** If the departed resident reapplies to participate in the supplemental nutrition assistance program, the allotment of the departed resident shall be determined without regard to this paragraph.
   - **(2)**
-    - **(A)** Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a).
+    - **(A)** Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
     - **(B)** To be eligible to participate in a pilot project under subparagraph (A), a State agency shall submit to the Secretary for approval a project plan that includes—
       - **(i)** a specification of the covered facilities in the State that will participate in the pilot project;
       - **(ii)** a schedule for reports to be submitted to the Secretary on the pilot project;

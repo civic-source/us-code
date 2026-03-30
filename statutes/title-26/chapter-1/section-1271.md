@@ -3,9 +3,10 @@ title: "Section 1271 - Treatment of amounts received on retirement or sale or ex
 usc_title: 26
 usc_section: "1271"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-03-30T03:05:18.650Z"
+status: "active"
 ---
 
 # § 1271. Treatment of amounts received on retirement or sale or exchange of debt instruments
@@ -15,8 +16,8 @@ generated_at: "2026-03-30T02:55:27.765Z"
   - **(2)**
     - **(A)** If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
       - **(i)** the original issue discount, reduced by
-      - **(ii)** the portion of original issue discount previously includible in the gross income of any holder (without regard to section 1272(a)(7) (or the corresponding provisions of prior law)),
-    - **(B)** This paragraph shall not apply to—
+      - **(ii)** the portion of original issue discount previously includible in the gross income of any holder (without regard to subsection (a)(7) or (b)(4) of section 1272 (or the corresponding provisions of prior law)),
+    - **(B)** This paragraph (and paragraph (2) of subsection (c)) shall not apply to—
       - **(i)** any tax-exempt obligation, or
       - **(ii)** any holder who has purchased the debt instrument at a premium.
   - **(3)**
@@ -41,6 +42,16 @@ generated_at: "2026-03-30T02:55:27.765Z"
       - **(i)** the yield to maturity based on the issue price of the obligation, and
       - **(ii)** compounding daily.
 - **(b)**
-  - **(1)** This section shall not apply to any obligation issued by a natural person before June 9, 1997 .
-  - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) 1 1 See References in Text note below. after June 8, 1997 .
-- **(c)** This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
+  - **(1)** This section shall not apply to—
+    - **(A)** any obligation issued by a natural person before June 9, 1997 , and
+    - **(B)** any obligation issued before July 2, 1982 , by an issuer which is not a corporation and is not a government or political subdivision thereof.
+  - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997 .
+- **(c)**
+  - **(1)** Paragraph (1) of subsection (a) shall apply to a debt instrument issued before January 1, 1955 , only if such instrument was issued with interest coupons or in registered form, or was in such form on March 1, 1954 .
+  - **(2)**
+    - **(A)** On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954 , and before July 2, 1982 , or by a corporation after December 31, 1954 , and on or before May 27, 1969 , any gain realized which does not exceed—
+      - **(i)** an amount equal to the original issue discount, or
+      - **(ii)** if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
+    - **(B)** Subsection (a)(2)(A) shall not apply to any debt instrument referred to in subparagraph (A) of this paragraph.
+    - **(C)** For current inclusion of original issue discount, see section 1272.
+- **(d)** This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.

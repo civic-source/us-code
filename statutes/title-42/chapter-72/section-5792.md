@@ -1,12 +1,28 @@
 ---
-title: "Section 5792 - Transferred"
+title: "Section 5792 - Definitions"
 usc_title: 42
 usc_section: "5792"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5792"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-03-30T03:06:22.745Z"
+status: "active"
 ---
 
-# § 5792. Transferred
+# § 5792. Definitions
 
+In this part, the following definitions apply:
+
+  - **(1)** The term “child” means an individual who is 17 years of age or younger.
+  - **(2)** The term “Code Adam alert” means a set of procedures used in public buildings to alert employees and other users of the building that a child is missing.
+  - **(3)** The term “designated authority” means—
+    - **(A)** with respect to a public building owned or leased for use by an Executive agency—
+      - **(i)** except as otherwise provided in this paragraph, the Administrator of General Services;
+      - **(ii)** in the case of the John F. Kennedy Center for the Performing Arts, the Board of Trustees of the John F. Kennedy Center for the Performing Arts;
+      - **(iii)** in the case of buildings under the jurisdiction, custody, and control of the Smithsonian Institution, the Board of Regents of the Smithsonian Institution; or
+      - **(iv)** in the case of another public building for which an Executive agency has, by specific or general statutory authority, jurisdiction, custody, and control over the building, the head of that agency;
+    - **(B)** with respect to the Supreme Court Building, the Marshal of the Supreme Court; with respect to the Thurgood Marshall Federal Judiciary Building, the Director of the Administrative Office of United States Courts; and with respect to all other public buildings owned or leased for use by an establishment in the judicial branch of government, the General Services Administration in consultation with the United States Marshals Service; and
+    - **(C)** with respect to a public building owned or leased for use by an establishment in the legislative branch of government, the Capitol Police Board.
+  - **(4)** The term “Executive agency” has the same meaning such term has under section 105 of title 5 .
+  - **(5)** The term “Federal agency” means any Executive agency or any establishment in the legislative or judicial branches of the Government.
+  - **(6)** The term “public building” means any building (or portion thereof) owned or leased for use by a Federal agency.

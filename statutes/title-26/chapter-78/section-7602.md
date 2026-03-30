@@ -3,9 +3,10 @@ title: "Section 7602 - Examination of books and witnesses"
 usc_title: 26
 usc_section: "7602"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 7602"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-03-30T03:05:18.746Z"
+status: "active"
 ---
 
 # § 7602. Examination of books and witnesses
@@ -16,9 +17,7 @@ generated_at: "2026-03-30T02:55:27.879Z"
   - **(3)** To take such testimony of the person concerned, under oath, as may be relevant or material to such inquiry.
 - **(b)** The purposes for which the Secretary may take any action described in paragraph (1), (2), or (3) of subsection (a) include the purpose of inquiring into any offense connected with the administration or enforcement of the internal revenue laws.
 - **(c)**
-  - **(1)** An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer unless such contact occurs during a period (not greater than 1 year) which is specified in a notice which—
-    - **(A)** informs the taxpayer that contacts with persons other than the taxpayer are intended to be made during such period, and
-    - **(B)** except as otherwise provided by the Secretary, is provided to the taxpayer not later than 45 days before the beginning of such period.
+  - **(1)** An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
   - **(2)** The Secretary shall periodically provide to a taxpayer a record of persons contacted during such period by the Secretary with respect to the determination or collection of the tax liability of such taxpayer. Such record shall also be provided upon request of the taxpayer.
   - **(3)** This subsection shall not apply—
     - **(A)** to any contact which the taxpayer has authorized;
@@ -39,4 +38,3 @@ generated_at: "2026-03-30T02:55:27.879Z"
       - **(iii)** the Attorney General notifies the Secretary, in writing, that he will not prosecute such person for any offense connected with the administration or enforcement of the internal revenue laws relating to the request described in subparagraph (A)(ii).
   - **(3)** For purposes of this subsection, each taxable period (or, if there is no taxable period, each taxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
 - **(e)** The Secretary shall not use financial status or economic reality examination techniques to determine the existence of unreported income of any taxpayer unless the Secretary has a reasonable indication that there is a likelihood of such unreported income.
-- **(f)** The Secretary shall not, under the authority of section 6103(n), provide any books, papers, records, or other data obtained pursuant to this section to any person authorized under section 6103(n), except when such person requires such information for the sole purpose of providing expert evaluation and assistance to the Internal Revenue Service. No person other than an officer or employee of the Internal Revenue Service or the Office of Chief Counsel may, on behalf of the Secretary, question a witness under oath whose testimony was obtained pursuant to this section.

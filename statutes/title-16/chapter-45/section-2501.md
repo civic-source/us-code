@@ -1,12 +1,20 @@
 ---
-title: "Section 2501 - Omitted"
+title: "Section 2501 - Congressional findings"
 usc_title: 16
 usc_section: "2501"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2501"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-03-30T03:04:48.593Z"
+status: "active"
 ---
 
-# § 2501. Omitted
+# § 2501. Congressional findings
 
+The Congress finds that—
+
+- **(a)** the quality of life in urban areas is closely related to the availability of fully functional park and recreation systems including land, facilities, and service programs;
+- **(b)** residents of cities need close-to-home recreational opportunities that are adequate to specialized urban demands, with parks and facilities properly located, developed, and well maintained;
+- **(c)** the greatest recreational deficiencies with respect to land, facilities, and programs are found in many large cities, especially at the neighborhood level;
+- **(d)** inadequate financing of urban recreation programs due to fiscal difficulties in many large cities has led to the deterioration of facilities, nonavailability of recreation services, and an inability to adapt recreational programs to changing circumstances; and
+- **(e)** there is no existing Federal assistance program which fully addresses the needs for physical rehabilitation and revitalization of these park and recreation systems.

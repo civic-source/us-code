@@ -3,9 +3,10 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T02:53:42.360Z"
+generated_at: "2026-03-30T03:04:20.954Z"
+status: "active"
 ---
 
 # § 2009cc. Definitions
@@ -13,15 +14,13 @@ generated_at: "2026-03-30T02:53:42.360Z"
 In this subchapter:
 
   - **(1)** The term “articles” means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
-  - **(2)** The term “developmental capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
+  - **(2)** The term “developmental venture capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
   - **(3)**
     - **(A)** The terms “employee welfare benefit plan” and “pension plan” have the meanings given the terms in section 1002 of title 29 .
     - **(B)** The terms “employee welfare benefit plan” and “pension plan” include—
       - **(i)** public and private pension or retirement plans subject to this subchapter; and
       - **(ii)** similar plans not covered by this subchapter that have been established, and that are maintained, by the Federal Government or any State (including by a political subdivision, agency, or instrumentality of the Federal Government or a State) for the benefit of employees.
-  - **(4)** The term “equity capital” means—
-    - **(A)** common or preferred stock or a similar instrument, including subordinated debt with equity features; and
-    - **(B)** any other type of equity-like financing that might be necessary to facilitate the purposes of this Act, excluding financing such as senior debt or other types of financing that competes with routine loanmaking of commercial lenders.
+  - **(4)** The term “equity capital” means common or preferred stock or a similar instrument, including subordinated debt with equity features.
   - **(5)** The term “leverage” includes—
     - **(A)** debentures purchased or guaranteed by the Secretary;
     - **(B)** participating securities purchased or guaranteed by the Secretary; and

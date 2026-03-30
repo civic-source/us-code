@@ -3,9 +3,10 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-03-30T03:05:18.516Z"
+status: "active"
 ---
 
 # § 24. Child tax credit
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:55:27.585Z"
   - **(1)** The aggregate credits allowed to a taxpayer under subpart C shall be increased by the lesser of—
     - **(A)** the credit which would be allowed under this section without regard to this subsection and the limitation under section 26(a) or
     - **(B)** the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a) were increased by the greater of—
-      - **(i)** 15 percent of so much of the taxpayer’s earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or
+      - **(i)** 15 percent of so much of the taxpayer’s earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $10,000, or
       - **(ii)** in the case of a taxpayer with 3 or more qualifying children, the excess (if any) of—
         - **(I)** the taxpayer’s social security taxes for the taxable year, over
         - **(II)** the credit allowed under section 32 for the taxable year.
@@ -35,75 +36,9 @@ generated_at: "2026-03-30T02:55:27.585Z"
       - **(iii)** 50 percent of the taxes imposed by section 3211(a) on amounts received by the taxpayer during the calendar year in which the taxable year begins.
     - **(B)** The term “social security taxes” shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section 6413(c).
     - **(C)** Any amounts paid pursuant to an agreement under section 3121( l ) (relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph (A)(i) shall be treated as taxes referred to in such subparagraph.
-  - **(3)** Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
-- **(e)**
-  - **(1)** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.
-  - **(2)** No credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
+  - **(3)** In the case of any taxable year beginning in a calendar year after 2001, the $10,000 amount contained in paragraph (1)(B) shall be increased by an amount equal to—
+    - **(A)** such dollar amount, multiplied by
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(4)** Notwithstanding paragraph (3), in the case of any taxable year beginning after 2008 and before 2018, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.
+- **(e)** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
 - **(f)** Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
-- **(g)**
-  - **(1)**
-    - **(A)** No credit shall be allowed under this section for any taxable year in the disallowance period.
-    - **(B)** For purposes of subparagraph (A), the disallowance period is—
-      - **(i)** the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to fraud, and
-      - **(ii)** the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
-  - **(2)** In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
-- **(h)**
-  - **(1)** In the case of a taxable year beginning after December 31, 2017 , this section shall be applied as provided in paragraphs (2) through (7).
-  - **(2)** Subsection (a) shall be applied by substituting “$2,200” for “$1,000”.
-  - **(3)** In lieu of the amount determined under subsection (b)(2), the threshold amount shall be $400,000 in the case of a joint return ($200,000 in any other case).
-  - **(4)**
-    - **(A)** The credit determined under subsection (a) (after the application of paragraph (2)) shall be increased by $500 for each dependent of the taxpayer (as defined in section 152) other than a qualifying child described in subsection (c).
-    - **(B)** Subparagraph (A) shall not apply with respect to any individual who would not be a dependent if subparagraph (A) of section 152(b)(3) were applied without regard to all that follows “resident of the United States”.
-    - **(C)** In the case of any qualifying child with respect to whom a credit is not allowed under this section by reason of paragraph (7), such child shall be treated as a dependent to whom subparagraph (A) applies.
-  - **(5)** The amount determined under subsection (d)(1)(A) with respect to any qualifying child shall not exceed $1,400, and such subsection shall be applied without regard to paragraph (4) of this subsection.
-  - **(6)** Subsection (d)(1)(B)(i) shall be applied by substituting “$2,500” for “$3,000”.
-  - **(7)**
-    - **(A)** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes on the return of tax for the taxable year—
-      - **(i)** the taxpayer’s social security number (or, in the case of a joint return, the social security number of at least 1 spouse), and
-      - **(ii)** the social security number of such qualifying child.
-    - **(B)** For purposes of this paragraph, the term “social security number” means a social security number issued to an individual by the Social Security Administration, but only if the social security number is issued—
-      - **(i)** to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and
-      - **(ii)** before the due date for such return.
-- **(i)**
-  - **(1)** In the case of a taxable year beginning after 2024, the $1,400 amount in subsection (h)(5) shall be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
-  - **(2)** In the case of a taxable year beginning after 2025, the $2,200 amount in subsection (h)(2) shall be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2024” for “2016” in subparagraph (A)(ii) thereof.
-  - **(3)** If any increase under this subsection is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
-- **(j)**
-  - **(1)** The amount of the credit allowed under this section to any taxpayer for any taxable year shall be reduced (but not below zero) by the aggregate amount of payments made under section 7527A to such taxpayer during such taxable year. Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
-  - **(2)**
-    - **(A)** If the aggregate amount of payments under section 7527A to the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard to paragraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
-    - **(B)**
-      - **(i)** In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year does not exceed 200 percent of the applicable income threshold, the amount of the increase determined under subparagraph (A) with respect to such taxpayer for such taxable year shall be reduced (but not below zero) by the safe harbor amount.
-      - **(ii)** In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount otherwise in effect under clause (i) shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold.
-      - **(iii)** For purposes of this subparagraph, the term “applicable income threshold” means—
-        - **(I)** $60,000 in the case of a joint return or surviving spouse (as defined in section 2(a)),
-        - **(II)** $50,000 in the case of a head of household, and
-        - **(III)** $40,000 in any other case.
-      - **(iv)** For purposes of this subparagraph, the term “safe harbor amount” means, with respect to any taxable year, the product of—
-        - **(I)** $2,000, multiplied by
-        - **(II)** the excess (if any) of the number of qualified children taken into account in determining the annual advance amount with respect to the taxpayer under section 7527A with respect to months beginning in such taxable year, over the number of qualified children taken into account in determining the credit allowed under this section for such taxable year.
-- **(k)**
-  - **(1)**
-    - **(A)** The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning after 2020. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession.
-    - **(B)** No credit shall be allowed under this section for any taxable year to any individual to whom a credit is allowable against taxes imposed by a possession of the United States with a mirror code tax system by reason of the application of this section in such possession for such taxable year.
-    - **(C)** For purposes of this paragraph, the term “mirror code tax system” means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
-  - **(2)**
-    - **(A)**
-      - **(i)** For application of refundable credit to residents of Puerto Rico, see subsection (i)(1).
-      - **(ii)** For nonapplication of advance payment to residents of Puerto Rico, see section 7527A(e)(4)(A).
-    - **(B)** In the case of any bona fide resident of Puerto Rico (within the meaning of section 937(a)) for any taxable year beginning after December 31, 2021 —
-      - **(i)** the credit determined under this section shall be allowable to such resident, and
-      - **(ii)** subsection (d)(1)(B)(ii) shall be applied without regard to the phrase “in the case of a taxpayer with 3 or more qualifying children”.
-  - **(3)**
-    - **(A)** The Secretary shall pay to American Samoa amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of American Samoa by reason of the application of this section for taxable years beginning after 2020 if the provisions of this section had been in effect in American Samoa (applied as if American Samoa were the United States and without regard to the application of this section to bona fide residents of Puerto Rico under subsection (i)(1)).
-    - **(B)** Subparagraph (A) shall not apply unless American Samoa has a plan, which has been approved by the Secretary, under which American Samoa will promptly distribute such payments to its residents.
-    - **(C)**
-      - **(i)** In the case of a taxable year with respect to which a plan is approved under subparagraph (B), this section (other than this subsection) shall not apply to any individual eligible for a distribution under such plan.
-      - **(ii)** In the case of a taxable year with respect to which a plan is not approved under subparagraph (B)—
-        - **(I)** if such taxable year begins in 2021, subsection (i)(1) shall be applied by substituting “bona fide resident of Puerto Rico or American Samoa” for “bona fide resident of Puerto Rico”, and
-        - **(II)** if such taxable year begins after December 31, 2021 , rules similar to the rules of paragraph (2)(B) shall apply with respect to bona fide residents of American Samoa (within the meaning of section 937(a)).
-  - **(4)** For purposes of section 1324 of title 31 , United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.

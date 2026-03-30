@@ -3,9 +3,10 @@ title: "Section 2738 - North Pacific Marine Research Institute"
 usc_title: 33
 usc_section: "2738"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2738"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-03-30T03:05:36.301Z"
+status: "active"
 ---
 
 # § 2738. North Pacific Marine Research Institute
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
 - **(b)** The Institute shall—
   - **(1)** conduct research and carry out education and demonstration projects on or relating to the North Pacific marine ecosystem with particular emphasis on marine mammal, sea bird, fish, and shellfish populations in the Bering Sea and Gulf of Alaska including populations located in or near Kenai Fjords National Park and the Alaska Maritime National Wildlife Refuge; and
   - **(2)** lease, maintain, operate, and upgrade the necessary research equipment and related facilities necessary to conduct such research at the Alaska SeaLife Center.
-- **(c)** The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. Chapter 10 of title 5 shall not apply to the Institute.
+- **(c)** The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Institute.
 - **(d)** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
-- **(e)** No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
+- **(e)** No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) of this section may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
 - **(f)** The Institute shall publish and make available to any person on request the results of all research, educational, and demonstration projects conducted by the Institute. The Institute shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Park Service, the United States Fish and Wildlife Service, and the National Oceanic and Atmospheric Administration.

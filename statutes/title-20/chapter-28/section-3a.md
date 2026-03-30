@@ -3,9 +3,10 @@ title: "Section 3a - Grants for access and persistence"
 usc_title: 20
 usc_section: "3a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 3a"
-generated_at: "2026-03-30T02:54:48.107Z"
+generated_at: "2026-03-30T03:04:46.252Z"
+status: "active"
 ---
 
 # § 1070c–3a. Grants for access and persistence
@@ -38,18 +39,18 @@ generated_at: "2026-03-30T02:54:48.107Z"
       - **(ii)** For the purpose of calculating the non-Federal share under this subparagraph, an in-kind contribution is a non-cash contribution that—
         - **(I)** has monetary value, such as the provision of—
         - **(II)** helps a student meet the cost of attendance at an institution of higher education.
-      - **(iii)** For the purpose of calculating a student’s need in accordance with part F, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student’s parent.
+      - **(iii)** For the purpose of calculating a student’s need in accordance with part E, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student’s parent.
 - **(c)**
   - **(1)**
     - **(A)** A State that desires to receive an allotment under this section on behalf of a partnership described in paragraph (3) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
     - **(B)** An application submitted under subparagraph (A) shall include the following:
       - **(i)** A description of the State’s plan for using the allotted funds.
       - **(ii)** An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State’s matching obligation under this clause.
-      - **(iii)** An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter.
+      - **(iii)** An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter and part C of subchapter I of chapter 34 of title 42.
       - **(iv)** An assurance that early information and intervention, mentoring, or outreach programs exist within the State or that there is a plan to make such programs widely available.
       - **(v)** A description of the organizational structure that the State has in place to administer the activities under subsection (d), including a description of how the State will compile information on degree completion of students receiving grants under this section.
       - **(vi)** A description of the steps the State will take to ensure that students who receive grants under this section persist to degree completion.
-      - **(vii)** An assurance that the State has a method in place, such as acceptance of the automatic zero student aid index determination described in section 1087ss(c) 1 1 See References in Text note below. of this title, to identify eligible low-income students and award State grant aid to such students.
+      - **(vii)** An assurance that the State has a method in place, such as acceptance of the automatic zero expected family contribution determination described in section 1087ss(c) of this title , to identify eligible low-income students and award State grant aid to such students.
       - **(viii)** An assurance that the State will provide notification to eligible low-income students that grants under this section are—
         - **(I)** Leveraging Educational Assistance Partnership Grants; and
         - **(II)** funded by the Federal Government and the State, and, where applicable, other contributing partners.
@@ -103,14 +104,14 @@ generated_at: "2026-03-30T02:54:48.107Z"
         - **(III)** other aid received by the student at the time of the student’s enrollment at such institution of higher education.
   - **(3)** In determining which students are eligible to receive grants for access and persistence, the State shall ensure that each such student complies with the following subparagraph (A) or (B):
     - **(A)** Meets not less than two of the following criteria, with priority given to students meeting all of the following criteria:
-      - **(i)** Has a student aid index equal to zero, as determined under part F, or a comparable alternative based upon the State’s approved criteria in section 1070c–2(b)(4) of this title .
+      - **(i)** Has an expected family contribution equal to zero, as determined under part E, or a comparable alternative based upon the State’s approved criteria in section 1070c–2(b)(4) of this title .
       - **(ii)** Qualifies for the State’s maximum undergraduate award, as authorized under section 1070c–2(b) of this title .
       - **(iii)** Is participating in, or has participated in, a Federal, State, institutional, or community early information and intervention, mentoring, or outreach program, as recognized by the State agency administering activities under this section.
     - **(B)** Is receiving, or has received, a grant for access and persistence under this section, in accordance with paragraph (5).
   - **(4)** Once a student, including those students who have received early notification under paragraph (2) from the State, applies for admission to an institution that is a partner in the partnership, files a Free Application for Federal Student Aid and any related State form, and is determined eligible by the State under paragraph (3), the State shall—
     - **(A)** issue the student a preliminary award certificate for a grant for access and persistence with estimated award amounts; and
     - **(B)** inform the student that payment of the grant for access and persistence award amounts is subject to certification of enrollment and award eligibility by the institution of higher education.
-  - **(5)** An eligible student who receives a grant for access and persistence under this section shall receive such grant award for each year of such student’s undergraduate education in which the student remains eligible for assistance under this subchapter, including pursuant to section 1091(c) of this title , and remains financially eligible as determined by the State, except that the State may impose reasonable time limits to degree completion.
+  - **(5)** An eligible student who receives a grant for access and persistence under this section shall receive such grant award for each year of such student’s undergraduate education in which the student remains eligible for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, including pursuant to section 1091(c) of this title , and remains financially eligible as determined by the State, except that the State may impose reasonable time limits to degree completion.
 - **(e)** A State that receives an allotment under this section may reserve not more than two percent of the funds made available annually through the allotment for State administrative functions required to carry out this section.
 - **(f)** The Secretary may grant, upon the request of an institution of higher education that is in a partnership described in subsection (b)(2)(B)(ii) and that receives an allotment under this section, a waiver for such institution from statutory or regulatory requirements that inhibit the ability of the institution to successfully and efficiently participate in the activities of the partnership.
 - **(g)** The provisions of this subpart that are not inconsistent with this section shall apply to the program authorized by this section.

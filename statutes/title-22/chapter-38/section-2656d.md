@@ -3,9 +3,10 @@ title: "Section 2656d - Responsibilities of Secretary of State"
 usc_title: 22
 usc_section: "2656d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2656d"
-generated_at: "2026-03-30T02:55:05.375Z"
+generated_at: "2026-03-30T03:04:53.647Z"
+status: "active"
 ---
 
 # § 2656d. Responsibilities of Secretary of State
@@ -22,8 +23,4 @@ generated_at: "2026-03-30T02:55:05.375Z"
 - **(c)** The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts, including contracts for the services of consult­ants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
   - **(1)** in the application of science and technology to problems of United States foreign policy and international relations generally; and
   - **(2)** in the skills of long-range planning and analysis with respect to the scientific and technological aspects of United States foreign policy.
-- **(d)** In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
-- **(e)**
-  - **(1)** The Secretary is authorized to make grants or enter into cooperative agreements related to Department of State science and technology fellowship programs, including for assistance in recruiting fellows and the payment of stipends, travel, and other appropriate expenses to fellows.
-  - **(2)** Stipends under paragraph (1) shall not be considered compensation for purposes of section 209 of title 18 .
-  - **(3)** The total amount of grants made pursuant to this subsection may not exceed $2,000,000 in any fiscal year.
+- **(d)** In obtaining assistance pursuant to subsection (c) of this section in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.

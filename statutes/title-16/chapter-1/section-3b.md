@@ -1,12 +1,15 @@
 ---
-title: "Section 3b - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 3b - Maintenance and repair of Government improvements under concession contracts"
 usc_title: 16
 usc_section: "3b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3b"
-generated_at: "2026-03-30T02:54:22.724Z"
+generated_at: "2026-03-30T03:04:48.396Z"
+status: "active"
 ---
 
-# § 3b. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 3b. Maintenance and repair of Government improvements under concession contracts
+
+Privileges, leases, and permits granted by the Secretary of the Interior for the use of land for the accommodation of park visitors, pursuant to section 3 of this title , may provide for the maintenance and repair of Government improvements by the grantee notwithstanding the provisions of section 1302 of title 40 , or any other provision of law.
 

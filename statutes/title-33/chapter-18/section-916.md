@@ -3,9 +3,10 @@ title: "Section 916 - Assignment and exemption from claims of creditors"
 usc_title: 33
 usc_section: "916"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 916"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-03-30T03:05:36.265Z"
+status: "active"
 ---
 
 # § 916. Assignment and exemption from claims of creditors

@@ -1,12 +1,19 @@
 ---
-title: "Section 734 - Omitted"
+title: "Section 734 - State and tribal authority"
 usc_title: 25
 usc_section: "734"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 734"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.853Z"
+status: "active"
 ---
 
-# § 734. Omitted
+# § 734. State and tribal authority
 
+- **(a)** Nothing in this Act shall affect the power of the State of Texas to enact special legislation benefitting the tribe, and the State is authorized to perform any services benefitting the tribe that are not inconsistent with the provisions of this Act.
+- **(b)** Subject to the provisions of section 733(a) of this title , the constitution and bylaws of the tribe on file with the Committee on Natural Resources of the House of Representatives is hereby declared to be approved for the purposes of section 476 of this title except that all reference to the Texas Indian Commission shall be considered as reference to the Secretary of the Interior.
+- **(c)** No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b) of this section. The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity—
+  - **(1)** to enter into contracts, grant agreements, and other arrangements with any Federal department or agency;
+  - **(2)** to administer or operate any program or activity under or in connection with any such contract, agreement, or arrangement, to enter into subcontracts or award grants to provide for the administration of any such program or activity, or to conduct any other activity under or in connection with any such contract, agreement, or arrangement; and
+  - **(3)** to bind any tribal governing body selected under any new constitution adopted in accordance with section 735 of this title as the successor in interest to the Tribal Council.

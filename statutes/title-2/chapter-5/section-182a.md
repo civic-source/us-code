@@ -3,24 +3,25 @@ title: "Section 182a - Revolving fund for duplication services associated with a
 usc_title: 2
 usc_section: "182a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 182a"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-03-30T03:04:04.409Z"
+status: "active"
 ---
 
 # § 182a. Revolving fund for duplication services associated with audiovisual conservation center
 
 - **(a)** There is hereby established in the Treasury a revolving fund for duplication and delivery services provided by the Librarian of Congress (hereafter in sections 182a to 182d of this title referred to as the “Librarian”) which are associated with the national audiovisual conservation center established under the Act entitled “An Act to authorize acquisition of certain real property for the Library of Congress, and for other purposes”, approved December 15, 1997 ( Public Law 105–144 ; 2 U.S.C. 141 note).
-- **(b)** The Librarian may charge a fee for providing services described in subsection (a), and shall deposit any such fees charged into the revolving fund under this section.
+- **(b)** The Librarian may charge a fee for providing services described in subsection (a) of this section, and shall deposit any such fees charged into the revolving fund under this section.
 - **(c)**
   - **(1)** The revolving fund under this section shall consist of the following amounts:
-    - **(A)** Amounts deposited by the Librarian under subsection (b).
-    - **(B)** Any other amounts received by the Librarian which are attributable to the services described in subsection (a).
+    - **(A)** Amounts deposited by the Librarian under subsection (b) of this section.
+    - **(B)** Any other amounts received by the Librarian which are attributable to the services described in subsection (a) of this section.
     - **(C)** Amounts deposited by the Librarian under paragraph (2).
     - **(D)** Such other amounts as may be appropriated under law.
   - **(2)** The Librarian shall transfer to the revolving fund under this section the following:
-    - **(A)** Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a).
+    - **(A)** Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a) of this section.
     - **(B)** An amount equal to the difference as of such date between—
       - **(i)** the total value of the supplies, inventories, equipment, gift fund balances, and other assets attributable to such services; and
       - **(ii)** the total value of the liabilities attributable to such services.
-- **(d)** Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
+- **(d)** Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a) of this section.

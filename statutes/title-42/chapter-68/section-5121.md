@@ -3,9 +3,10 @@ title: "Section 5121 - Congressional findings and declarations"
 usc_title: 42
 usc_section: "5121"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5121"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-03-30T03:06:22.727Z"
+status: "active"
 ---
 
 # § 5121. Congressional findings and declarations
@@ -18,6 +19,5 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(2)** encouraging the development of comprehensive disaster preparedness and assistance plans, programs, capabilities, and organizations by the States and by local governments;
   - **(3)** achieving greater coordination and responsiveness of disaster preparedness and relief programs;
   - **(4)** encouraging individuals, States, and local governments to protect themselves by obtaining insurance coverage to supplement or replace governmental assistance;
-  - **(5)** encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations;
-  - **(6)** providing Federal assistance programs for both public and private losses sustained in disasters; and
-  - **(7)** identifying and improving the climate and natural hazard resilience of vulnerable communities.
+  - **(5)** encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations; and
+  - **(6)** providing Federal assistance programs for both public and private losses sustained in disasters 1 1 So in original. Probably should be followed by a period.

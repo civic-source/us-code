@@ -3,9 +3,10 @@ title: "Section 2107 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2107"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 2107"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-03-30T03:04:46.309Z"
+status: "active"
 ---
 
 # § 2107. Authorization of appropriations

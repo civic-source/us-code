@@ -3,9 +3,10 @@ title: "Section 2279d - Termination of System institution status"
 usc_title: 12
 usc_section: "2279d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2279d"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-03-30T03:04:29.296Z"
+status: "active"
 ---
 
 # § 2279d. Termination of System institution status
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:53:53.482Z"
   - **(1)** the institution provides written notice to the Farm Credit Administration Board not later than 90 days prior to the proposed termination date;
   - **(2)** the termination is approved by the Farm Credit Administration Board;
   - **(3)** the appropriate Federal or State authority grants approval to charter the institution as a bank, savings and loan association, or other financial institution;
-  - **(4)** the institution pays to the Farm Credit Insurance Fund the amount by which the total capital of the institution exceeds 6 percent of the assets;
+  - **(4)** the institution pays to the Farm Credit Assistance Fund, as created under section 2278b–5 of this title , if the termination is prior to January 1, 1992 , or pays to the Farm Credit Insurance Fund, if the termination is after such date, the amount by which the total capital of the institution exceeds, 6 percent of the assets;
   - **(5)** the institution pays or makes adequate provision for payment of all outstanding debt obligations of the institution;
   - **(6)** the termination is approved by a majority of the stockholders of the institution voting, in person or by written proxy, at a duly authorized stockholders’ meeting, held prior to giving notice to the Farm Credit Administration Board; and
   - **(7)** the institution meets such other conditions as the Farm Credit Administration Board by regulation considers appropriate.

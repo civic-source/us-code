@@ -3,14 +3,15 @@ title: "Section 620a - Restrictions on exports of unprocessed timber originating
 usc_title: 16
 usc_section: "620a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 620a"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-03-30T03:04:48.507Z"
+status: "active"
 ---
 
 # § 620a. Restrictions on exports of unprocessed timber originating from Federal lands
 
-- **(a)** No person who acquires unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States may export such timber from the United States, or sell, trade, exchange, or otherwise convey such timber to any other person for the purpose of exporting such timber from the United States, unless such timber has been determined under subsection (b) to be surplus to the needs of timber manufacturing facilities in the United States.
+- **(a)** No person who acquires unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States may export such timber from the United States, or sell, trade, exchange, or otherwise convey such timber to any other person for the purpose of exporting such timber from the United States, unless such timber has been determined under subsection (b) of this section to be surplus to the needs of timber manufacturing facilities in the United States.
 - **(b)**
-  - **(1)** The prohibition contained in subsection (a) shall not apply to specific quantities of grades and species of unprocessed timber originating from Federal lands which the Secretary concerned determines to be surplus to domestic manufacturing needs.
+  - **(1)** The prohibition contained in subsection (a) of this section shall not apply to specific quantities of grades and species of unprocessed timber originating from Federal lands which the Secretary concerned determines to be surplus to domestic manufacturing needs.
   - **(2)** Any determination under paragraph (1) shall be made in regulations issued in accordance with section 553 of title 5 . Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.

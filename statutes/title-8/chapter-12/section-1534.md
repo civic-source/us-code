@@ -3,9 +3,10 @@ title: "Section 1534 - Removal hearing"
 usc_title: 8
 usc_section: "1534"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1534"
-generated_at: "2026-03-30T02:53:10.504Z"
+generated_at: "2026-03-30T03:04:14.644Z"
+status: "active"
 ---
 
 # § 1534. Removal hearing
@@ -18,13 +19,13 @@ generated_at: "2026-03-30T02:53:10.504Z"
   - **(2)** the time and place at which the hearing will be held.
 - **(c)**
   - **(1)** The alien shall have a right to be present at such hearing and to be represented by counsel. Any alien financially unable to obtain counsel shall be entitled to have counsel assigned to represent the alien. Such counsel shall be appointed by the judge pursuant to the plan for furnishing representation for any person financially unable to obtain adequate representation for the district in which the hearing is conducted, as provided for in section 3006A of title 18 . All provisions of that section shall apply and, for purposes of determining the maximum amount of compensation, the matter shall be treated as if a felony was charged.
-  - **(2)** Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to introduce evidence on the alien’s own behalf.
-  - **(3)** Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
+  - **(2)** Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to introduce evidence on the alien’s own behalf.
+  - **(3)** Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
   - **(4)** A verbatim record of the proceedings and of all testimony and evidence offered or produced at such a hearing shall be kept.
   - **(5)** The decision of the judge regarding removal shall be based only on that evidence introduced at the removal hearing.
 - **(d)**
   - **(1)** At any time prior to the conclusion of the removal hearing, either the alien or the Department of Justice may request the judge to issue a subpoena for the presence of a named witness (which subpoena may also command the person to whom it is directed to produce books, papers, documents, or other objects designated therein) upon a satisfactory showing that the presence of the witness is necessary for the determination of any material matter. Such a request may be made ex parte except that the judge shall inform the Department of Justice of any request for a subpoena by the alien for a witness or material if compliance with such a subpoena would reveal classified evidence or the source of that evidence. The Department of Justice shall be given a reasonable opportunity to oppose the issuance of such a subpoena.
-  - **(2)** If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II.
+  - **(2)** If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II of this chapter.
   - **(3)** A subpoena under this subsection may be served anywhere in the United States.
   - **(4)** A witness subpoenaed under this subsection shall receive the same fees and expenses as a witness subpoenaed in connection with a civil proceeding in a court of the United States.
   - **(5)** Nothing in this subsection is intended to allow an alien to have access to classified information.
@@ -58,7 +59,7 @@ generated_at: "2026-03-30T02:53:10.504Z"
 - **(g)** In the hearing, it is the Government’s burden to prove, by the preponderance of the evidence, that the alien is subject to removal because the alien is an alien terrorist.
 - **(h)** The Federal Rules of Evidence shall not apply in a removal hearing.
 - **(i)** If the judge, after considering the evidence on the record as a whole, finds that the Government has met its burden, the judge shall order the alien removed and detained pending removal from the United States. If the alien was released pending the removal hearing, the judge shall order the Attorney General to take the alien into custody.
-- **(j)** At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.
+- **(j)** At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) of this section shall not be made available to the alien or the public.
 - **(k)** At no time shall the judge consider or provide for relief from removal based on—
   - **(1)** asylum under section 1158 of this title ;
   - **(2)** by 2 2 So in original. The word “by” probably should not appear. withholding of removal under section 1231(b)(3) of this title ;

@@ -3,14 +3,15 @@ title: "Section 213 - Medical, dental, etc., expenses"
 usc_title: 26
 usc_section: "213"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 213"
-generated_at: "2026-03-30T02:55:27.653Z"
+generated_at: "2026-03-30T03:05:18.562Z"
+status: "active"
 ---
 
 # § 213. Medical, dental, etc., expenses
 
-- **(a)** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
+- **(a)** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
 - **(b)** An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 - **(c)**
   - **(1)** For purposes of subsection (a), expenses for the medical care of the taxpayer which are paid out of his estate during the 1-year period beginning with the day after the date of his death shall be treated as paid by the taxpayer at the time incurred.
@@ -39,13 +40,14 @@ generated_at: "2026-03-30T02:55:27.653Z"
     - **(A)** The term “medical care” does not include cosmetic surgery or other similar procedures, unless the surgery or procedure is necessary to ameliorate a deformity arising from, or directly related to, a congenital abnormality, a personal injury resulting from an accident or trauma, or disfiguring disease.
     - **(B)** For purposes of this paragraph, the term “cosmetic surgery” means any procedure which is directed at improving the patient’s appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
   - **(10)**
-    - **(A)** For purposes of this section, the term “eligible long-term care premiums” means the amount paid during a taxable year for any qualified long-term care insurance contract (as defined in section 7702B(b)) covering an individual, to the extent such amount does not exceed the limitation determined under the following table: In the case of an individual with an attained age before the close of the taxable year of: The limitation is: 40 or less $ 200 More than 40 but not more than 50 375 More than 50 but not more than 60 750 More than 60 but not more than 70 2,000 More than 70 2,500.
+    - **(A)** For purposes of this section, the term “eligible long-term care premiums” means the amount paid during a taxable year for any qualified long-term care insurance contract (as defined in section 7702B(b)) covering an individual, to the extent such amount does not exceed the limitation determined under the following table: In the case of an individual with an attained age before the The limitation close of the taxable year of: is: 40 or less $ 200 More than 40 but not more than 50 375 More than 50 but not more than 60 750 More than 60 but not more than 70 2,000 More than 70 2,500 .
     - **(B)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 1997, each dollar amount contained in subparagraph (A) shall be increased by the medical care cost adjustment of such amount for such calendar year. If any increase determined under the preceding sentence is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10.
       - **(ii)** For purposes of clause (i), the medical care cost adjustment for any calendar year is the percentage (if any) by which—
-        - **(I)** the medical care component of the C-CPI-U (as defined in section 1(f)(6)) for August of the preceding calendar year, exceeds
-        - **(II)** such component of the CPI (as defined in section 1(f)(4)) for August of 1996, multiplied by the amount determined under section 1(f)(3)(B).
+        - **(I)** the medical care component of the Consumer Price Index (as defined in section 1(f)(5)) for August of the preceding calendar year, exceeds
+        - **(II)** such component for August of 1996.
   - **(11)** An amount paid for a qualified long-term care service (as defined in section 7702B(c)) provided to an individual shall be treated as not paid for medical care if such service is provided—
     - **(A)** by the spouse of the individual or by a relative (directly or through a partnership, corporation, or other entity) unless the service is provided by a licensed professional with respect to such service, or
     - **(B)** by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
 - **(e)** Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
+- **(f)** In the case of any taxable year beginning after December 31, 2012 , and ending before January 1, 2017 , subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” if such taxpayer or such taxpayer’s spouse has attained age 65 before the close of such taxable year.

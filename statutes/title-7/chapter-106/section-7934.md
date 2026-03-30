@@ -3,9 +3,10 @@ title: "Section 7934 - Repayment of loans"
 usc_title: 7
 usc_section: "7934"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7934"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-03-30T03:04:21.027Z"
+status: "active"
 ---
 
 # § 7934. Repayment of loans
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
   - **(1)** a formula to determine the prevailing world market price for upland cotton and rice, adjusted to United States quality and location; and
   - **(2)** a mechanism by which the Secretary shall announce periodically the prevailing world market price for upland cotton and rice.
 - **(e)**
-  - **(1)** During the period beginning on May 13, 2002 , through July 31, 2008 , the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) shall be further adjusted if—
+  - **(1)** During the period beginning on May 13, 2002 , through July 31, 2008 , the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
     - **(A)** the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under section 7932 of this title , as determined by the Secretary; and
     - **(B)** the Friday through Thursday average price quotation for the lowest-priced United States growth as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton delivered C.I.F. Northern Europe is greater than the Friday through Thursday average price of the 5 lowest-priced growths of upland cotton, as quoted for Middling (M) 1 3 ⁄ 32 -inch cotton, delivered C.I.F. Northern Europe (referred to in this section as the “Northern Europe price”).
   - **(2)** Except as provided in paragraph (3), the adjusted prevailing world market price for upland cotton shall be further adjusted on the basis of some or all of the following data, as available:

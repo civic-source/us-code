@@ -3,9 +3,10 @@ title: "Section 4135 - Low-income requirement and income targeting"
 usc_title: 25
 usc_section: "4135"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 4135"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-03-30T03:05:02.912Z"
+status: "active"
 ---
 
 # § 4135. Low-income requirement and income targeting
@@ -19,5 +20,5 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(2)** except for housing assisted under section 1437bb of title 42 (as in effect before the date of the effectiveness of this chapter), each dwelling unit in the housing will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property (as determined by the Secretary) without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this chapter, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action—
     - **(A)** recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure; and
     - **(B)** is not for the purpose of avoiding low-income affordability restrictions, as determined by the Secretary.
-- **(b)** Notwithstanding subsection (a), housing assisted pursuant to section 4131(b)(2) of this title shall be considered affordable housing for purposes of this chapter.
+- **(b)** Notwithstanding subsection (a) of this section, housing assisted pursuant to section 4131(b)(2) of this title shall be considered affordable housing for purposes of this chapter.
 - **(c)** The provisions of paragraph (2) of subsection (a) regarding binding commitments for the remaining useful life of property shall not apply to a family or household member who subsequently takes ownership of a homeownership unit.

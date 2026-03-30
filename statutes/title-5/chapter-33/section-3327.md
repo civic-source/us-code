@@ -3,9 +3,10 @@ title: "Section 3327 - Civil service employment information"
 usc_title: 5
 usc_section: "3327"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 3327"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-03-30T03:04:06.067Z"
+status: "active"
 ---
 
 # § 3327. Civil service employment information
@@ -14,4 +15,3 @@ generated_at: "2026-03-30T02:52:56.002Z"
 - **(b)** Subject to such regulations as the Office may issue, each agency shall promptly notify the Office and the employment offices of the United States Employment Service of—
   - **(1)** each vacant position in the agency which is in the competitive service or the Senior Executive Service and for which the agency seeks applications from persons outside the Federal service, and
   - **(2)** the period during which applications will be accepted.
-- **(c)** The Office of Personnel Management may authorize the Department of Defense to use flexible outreach methods, including curated prospect sourcing, provided that all hiring opportunities remain publicly accessible and merit-based.

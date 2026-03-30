@@ -3,14 +3,15 @@ title: "Section 573 - Assessments and reports"
 usc_title: 6
 usc_section: "573"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 573"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-03-30T03:04:24.352Z"
+status: "active"
 ---
 
 # § 573. Assessments and reports
 
-- **(a)** Not later than 1 year after October 4, 2006 , and not less than every 5 years thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
+- **(a)** Not later than 1 year after October 4, 2006 , and not less than every 5 years thereafter, the Secretary, acting through the Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
   - **(1)** defines the range of capabilities needed by emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
   - **(2)** defines the range of interoperable emergency communications capabilities needed for specific events;
   - **(3)** assesses the current available capabilities to meet such communications needs;
@@ -23,11 +24,11 @@ generated_at: "2026-03-30T02:53:09.470Z"
     - **(B)** identifies the interoperable emergency communications systems in use by public safety agencies in the United States.
 - **(b)** The baseline assessment under this section may include a classified annex including information provided under subsection (a)(5)(A).
 - **(c)** In conducting the baseline assessment under this section, the Secretary may incorporate findings from assessments conducted before, or ongoing on, October 4, 2006 .
-- **(d)** Not later than one year after October 4, 2006 , and biennially thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, and carrying out its responsibilities under, this subchapter, including—
+- **(d)** Not later than one year after October 4, 2006 , and biennially thereafter, the Secretary, acting through the Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, and carrying out its responsibilities under, this subchapter, including—
   - **(1)** a description of the findings of the most recent baseline assessment conducted under subsection (a);
   - **(2)** a determination of the degree to which interoperable emergency communications capabilities have been attained to date and the gaps that remain for interoperability to be achieved;
   - **(3)** an evaluation of the ability to continue to communicate and to provide and maintain interoperable emergency communications by emergency managers, emergency response providers, and relevant government officials in the event of—
     - **(A)** natural disasters, acts of terrorism, or other man-made disasters, including Incidents of National Significance declared by the Secretary under the National Response Plan; and
     - **(B)** a catastrophic loss of local and regional communications services;
   - **(4)** a list of best practices relating to the ability to continue to communicate and to provide and maintain interoperable emergency communications in the event of natural disasters, acts of terrorism, or other man-made disasters; and
-  - **(A)** 1 1 So in original. Probably should be “(5)”. an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.
+    - **(A)** 1 1 So in original. Probably should be “(5)”. an evaluation of the feasibility and desirability of the Department developing, on its own or in conjunction with the Department of Defense, a mobile communications capability, modeled on the Army Signal Corps, that could be deployed to support emergency communications at the site of natural disasters, acts of terrorism, or other man-made disasters.

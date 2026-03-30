@@ -3,9 +3,10 @@ title: "Section 363 - Use, sale, or lease of property"
 usc_title: 11
 usc_section: "363"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 363"
-generated_at: "2026-03-30T02:53:53.875Z"
+generated_at: "2026-03-30T03:04:35.843Z"
+status: "active"
 ---
 
 # § 363. Use, sale, or lease of property
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:53:53.875Z"
       - **(ii)** pursuant to subsection (g)(2) of such section; or
       - **(iii)** by the court after notice and a hearing.
 - **(c)**
-  - **(1)** If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
+  - **(1)** If the business of the debtor is authorized to be operated under section 721, 1108, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
   - **(2)** The trustee may not use, sell, or lease cash collateral under paragraph (1) of this subsection unless—
     - **(A)** each entity that has an interest in such cash collateral consents; or
     - **(B)** the court, after notice and a hearing, authorizes such use, sale, or lease in accordance with the provisions of this section.

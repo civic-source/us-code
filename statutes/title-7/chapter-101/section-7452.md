@@ -3,12 +3,13 @@ title: "Section 7452 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7452"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7452"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-03-30T03:04:21.018Z"
+status: "active"
 ---
 
 # § 7452. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated for each fiscal year such sums as are necessary to carry out this subchapter.
-- **(b)** Funds appropriated under subsection (a) shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.
+- **(b)** Funds appropriated under subsection (a) of this section shall not be available for payment of the expenses or expenditures of the Board in administering a provision of an order issued under this subchapter.

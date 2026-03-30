@@ -1,12 +1,15 @@
 ---
-title: "Section 732 - Omitted"
+title: "Section 732 - Alabama and Coushatta Indian Tribes of Texas considered as one tribe"
 usc_title: 25
 usc_section: "732"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 732"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.853Z"
+status: "active"
 ---
 
-# § 732. Omitted
+# § 732. Alabama and Coushatta Indian Tribes of Texas considered as one tribe
+
+The Alabama and Coushatta Indian Tribes of Texas shall be considered as one tribal unit for purposes of this subchapter and any other law or rule of law of the United States.
 

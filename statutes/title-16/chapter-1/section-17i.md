@@ -1,12 +1,15 @@
 ---
-title: "Section 17i - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 17i - Hire of work animals, vehicles and equipment with or without personal services; rates"
 usc_title: 16
 usc_section: "17i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 17i"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.397Z"
+status: "active"
 ---
 
-# § 17i. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 17i. Hire of work animals, vehicles and equipment with or without personal services; rates
+
+The National Park Service may hire, with or without personal services, work animals and animal-drawn and motor-propelled vehicles and equipment at rates to be approved by the Secretary of the Interior and without compliance with the provisions of sections 3709 1 1 See References in Text note below. and 3744 1 of the Revised Statutes.
 

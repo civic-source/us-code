@@ -1,0 +1,25 @@
+---
+title: "Section 6206 - Cabin user fees"
+usc_title: 16
+usc_section: "6206"
+chapter: 81
+current_through: "PL 113-21"
+classification: "16 U.S.C. § 6206"
+generated_at: "2026-03-30T03:04:48.633Z"
+status: "active"
+---
+
+# § 6206. Cabin user fees
+
+- **(a)** The Secretary shall establish the cabin user fee as the amount that is equal to 5 percent of the market value of the lot, as determined in accordance with section 6205 of this title , reflecting an adjustment to the typical market rate of return due to restrictions imposed by the permit, including—
+  - **(1)** the limited term of the authorization;
+  - **(2)** the absence of significant property rights normally attached to fee simple ownership; and
+  - **(3)** the public right of access to, and use of, any open portion of the lot on which the cabin or other enclosed improvements are not located.
+- **(b)** The base cabin user fee for a lot on which a caretaker cabin is located shall not be greater than the base cabin user fee charged for the authorized use of a similar typical lot in the tract.
+- **(c)** If the Secretary determines that an authorization should not be reissued at the end of a term, the Secretary shall—
+  - **(1)** establish as the new base cabin user fee for the remaining term of the authorization the amount charged as the cabin user fee in the year that was 10 years before the year in which the authorization expires; and
+  - **(2)** calculate the current cabin user fee for each of the remaining 9 years of the term of the authorization by multiplying—
+    - **(A)** ⅒ of the new base cabin user fee; by
+    - **(B)** the number of years remaining in the term of the authorization after the year for which the cabin user fee is being calculated.
+- **(d)** If a review of a decision to convert a lot to an alternative public use indicates that the continuation of the authorization for use and occupancy of the cabin by the cabin owner is warranted, and the decision is subsequently reversed, the Secretary may require the cabin owner to pay any portion of annual cabin user fees that were forgone as a result of the expectation of termination of use and occupancy of the cabin by the cabin owner.
+- **(e)** On a determination by the agency that, because of an act of God or a catastrophic event, a lot cannot be safely occupied and the authorization for the lot should accordingly be terminated, the fee obligation of the cabin owner shall terminate effective on the date of the occurrence of the act or event.

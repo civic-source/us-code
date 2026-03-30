@@ -3,9 +3,10 @@ title: "Section 3902 - Definitions"
 usc_title: 25
 usc_section: "3902"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-03-30T03:05:02.910Z"
+status: "active"
 ---
 
 # § 3902. Definitions
@@ -18,7 +19,7 @@ For the purposes of this chapter, the following definitions shall apply:
     - **(A)** land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation;
     - **(B)** dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a State; and
     - **(C)** Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through such allotments.
-  - **(4)** The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], including any land reconveyed under section 14(c)(3) 1 1 See References in Text note below. of that Act ( 43 U.S.C. 1613(c)(3) ), and (B) land conveyed pursuant to the Act of November 2, 1966 ( 16 U.S.C. 1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
+  - **(4)** The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], including any land reconveyed under section 14(c)(3) of that Act ( 43 U.S.C. 1613(c)(3) ), and (B) land conveyed pursuant to the Act of November 2, 1966 ( 16 U.S.C. 1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
   - **(5)** The term “Indian tribal government” means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
   - **(6)** The term “Alaska Native entity” includes native corporations established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] and any Alaska Native village or municipal entity which owns Alaska Native land.
   - **(7)** The term “open dump” means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 4004 of the Solid Waste Disposal Act ( 42 U.S.C. 6944 ) and which is not a facility for disposal of hazardous waste.

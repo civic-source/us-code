@@ -3,17 +3,18 @@ title: "Section 1733 - General provisions"
 usc_title: 7
 usc_section: "1733"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1733"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-03-30T03:04:20.938Z"
+status: "active"
 ---
 
 # § 1733. General provisions
 
-- **(a)** No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
-  - **(1)** in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
-  - **(2)** the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
-- **(b)** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the use of food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
+- **(a)** No agricultural commodity shall be made available under this chapter unless it is determined that—
+  - **(1)** adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+  - **(2)** the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
+- **(b)** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
 - **(c)** The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
 - **(d)** Private trade channels shall be used under this chapter to the maximum extent practicable in the United States and in the recipient countries with respect to—
   - **(1)** sales from privately owned stocks;
@@ -43,8 +44,8 @@ generated_at: "2026-03-30T02:53:42.338Z"
   - **(2)** Paragraph (1) shall not prohibit the provision of assistance to such a country if the assistance is targeted to the most needy people in such country and is made available in such country through channels other than the government.
 - **(k)** Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 - **(l)**
-  - **(1)** Subsections (b) and (h) shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
-    - **(A)** subchapters II and III;
+  - **(1)** Subsections (b) and (h) of this section shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
+    - **(A)** subchapters II and III of this chapter;
     - **(B)** section 1431(b) of this title ; and
     - **(C)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o ).
   - **(2)** A sale described in paragraph (1) may be made in United States dollars or other currencies.

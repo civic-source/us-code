@@ -3,18 +3,15 @@ title: "Section 44709 - Amendments, modifications, suspensions, and revocations 
 usc_title: 49
 usc_section: "44709"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 44709"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-03-30T03:06:29.325Z"
+status: "active"
 ---
 
 # § 44709. Amendments, modifications, suspensions, and revocations of certificates
 
-- **(a)**
-  - **(1)** The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title .
-  - **(2)** Before taking any action to reexamine an airman under paragraph (1) the Administrator shall provide to the airman—
-    - **(A)** a reasonable basis, described in detail, for requesting the reexamination; and
-    - **(B)** any information gathered by the Federal Aviation Administration, that the Administrator determines is appropriate to provide, such as the scope and nature of the requested reexamination, that formed the basis for that justification.
+- **(a)** The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title .
 - **(b)** The Administrator may issue an order amending, modifying, suspending, or revoking—
   - **(1)** any part of a certificate issued under this chapter if—
     - **(A)** the Administrator decides after conducting a reinspection, reexamination, or other investigation that safety in air commerce or air transportation and the public interest require that action; or

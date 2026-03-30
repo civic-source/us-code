@@ -3,9 +3,10 @@ title: "Section 5506 - Computation of extra pay based on standard or daylight sa
 usc_title: 5
 usc_section: "5506"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 5506"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-03-30T03:04:06.077Z"
+status: "active"
 ---
 
 # § 5506. Computation of extra pay based on standard or daylight saving time

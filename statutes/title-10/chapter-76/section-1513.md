@@ -3,9 +3,10 @@ title: "Section 1513 - Definitions"
 usc_title: 10
 usc_section: "1513"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1513"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-03-30T03:04:17.259Z"
+status: "active"
 ---
 
 # § 1513. Definitions
@@ -25,7 +26,7 @@ In this chapter:
     - **(G)** Detained in a foreign country against that person’s will.
   - **(3)** The term “accounted for”, with respect to a person in a missing status, means that—
     - **(A)** the person is returned to United States control alive;
-    - **(B)** the remains of the person are recovered to the extent practicable and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+    - **(B)** the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
     - **(C)** credible evidence exists to support another determination of the person’s status.
   - **(4)** The term “primary next of kin”, in the case of a missing person, means the individual authorized to direct disposition of the remains of the person under section 1482(c) of this title .
   - **(5)** The term “member of the immediate family”, in the case of a missing person, means the following:
@@ -37,4 +38,3 @@ In this chapter:
   - **(6)** The term “previously designated person”, in the case of a missing person, means an individual designated by the person under section 655 of this title for purposes of this chapter.
   - **(7)** The term “classified information” means any information the unauthorized disclosure of which (as determined under applicable law and regulations) could reasonably be expected to damage the national security.
   - **(8)** The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
-  - **(9)** The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in section 1501(c) of this title who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.

@@ -3,9 +3,10 @@ title: "Section 2007 - Payment of tuition for off-duty training or education"
 usc_title: 10
 usc_section: "2007"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2007"
-generated_at: "2026-03-30T02:53:38.139Z"
+generated_at: "2026-03-30T03:04:17.266Z"
+status: "active"
 ---
 
 # § 2007. Payment of tuition for off-duty training or education
@@ -24,10 +25,9 @@ generated_at: "2026-03-30T02:53:38.139Z"
   - **(4)** The Secretary concerned may not pay charges under paragraph (2) for tuition or expenses of an officer of the Individual Ready Reserve unless the officer enters into an agreement to remain in the Selected Reserve or Individual Ready Reserve for at least 4 years after completion of the education or training for which the charges are paid.
   - **(5)** The Secretary of a military department may require an enlisted member of the Selected Reserve or Individual Ready Reserve to enter into an agreement to serve for up to 4 years in the Selected Reserve or Individual Ready Reserve, as the case may be, after completion of the education or training for which tuition or expenses are paid under paragraph (1) or (2), as applicable.
 - **(d)**
-  - **(1)** A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 or chapter 1606 of this title may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
-  - **(2)** The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38 , in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title.
+  - **(1)** A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
+  - **(2)** The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38 .
 - **(e)**
-  - **(1)** If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
-  - **(2)** If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+  - **(1)** If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) of title 37 .
+  - **(2)** If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) of title 37 .
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
-- **(g)** The provisions of this section pertaining to members of the Ready Reserve, the Selected Reserve, or the Individual Ready Reserve also apply to members of the Space Force in a space force active status who are not on active duty.

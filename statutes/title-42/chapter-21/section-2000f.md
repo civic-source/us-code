@@ -3,9 +3,10 @@ title: "Section 2000f - Survey for compilation of registration and voting statis
 usc_title: 42
 usc_section: "2000f"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2000f"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-03-30T03:06:22.647Z"
+status: "active"
 ---
 
 # § 2000f. Survey for compilation of registration and voting statistics; geographical areas; scope; application of census provisions; voluntary disclosure; advising of right not to furnish information

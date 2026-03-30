@@ -3,22 +3,22 @@ title: "Section 7706 - Eligible countries"
 usc_title: 22
 usc_section: "7706"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7706"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-03-30T03:04:53.713Z"
+status: "active"
 ---
 
 # § 7706. Eligible countries
 
-- **(a)** The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country’s demonstrated commitment to the criteria in subsection (b), and shall, where appropriate, take into account and assess the role of women and girls. A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country’s performance with respect to such criteria when selected for such preceding Compact.
+- **(a)** The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country’s demonstrated commitment to the criteria in subsection (b), and shall, where appropriate, take into account and assess the role of women and girls.
 - **(b)** A candidate country should be considered to be an eligible country for purposes of this section if the Board determines that the country has demonstrated a commitment to—
   - **(1)** just and democratic governance, including a demonstrated commitment to—
     - **(A)** promote political pluralism, equality, and the rule of law;
     - **(B)** respect human and civil rights, including the rights of people with disabilities;
     - **(C)** protect private property rights;
-    - **(D)** encourage transparency and accountability of government;
-    - **(E)** combat corruption; and
-    - **(F)** the quality of the civil society enabling environment;
+    - **(D)** encourage transparency and accountability of government; and
+    - **(E)** combat corruption;
   - **(2)** economic freedom, including a demonstrated commitment to economic policies that—
     - **(A)** encourage citizens and firms to participate in global trade and international capital markets;
     - **(B)** promote private sector growth;
@@ -30,15 +30,9 @@ generated_at: "2026-03-30T02:55:05.445Z"
     - **(C)** promote the protection of biodiversity and the transparent and sustainable management and use of natural resources.
 - **(c)**
   - **(1)** At the time the Board determines eligible countries under this section for a fiscal year, the Board shall select those eligible countries with respect to which the United States will initially seek to enter into a Millennium Challenge Compact pursuant to section 7708 of this title .
-  - **(2)** In selecting eligible countries under paragraph (1), the Board shall prioritize need and impact by considering the following factors:
+  - **(2)** In selecting eligible countries under paragraph (1), the Board shall consider the following factors:
     - **(A)** The extent to which the country clearly meets or exceeds the eligibility criteria.
     - **(B)** The opportunity to reduce poverty and generate economic growth in the country.
     - **(C)** The availability of amounts to carry out this chapter.
-- **(d)** For the 7-year period beginning on April 23, 2018 , before the Board selects an eligible country for a Compact under subsection (c), the Corporation shall provide information to the Board regarding the country’s treatment of civil society, including classified information, as appropriate. The information shall include an assessment and analysis of factors including—
-  - **(1)** any relevant laws governing the formation or establishment of a civil society organization, particularly laws intended to curb the activities of foreign civil society organizations;
-  - **(2)** any relevant laws governing the operations of a civil society organization, particularly those laws seeking to define or otherwise regulate the actions of foreign civil society organizations;
-  - **(3)** laws relating to the legal status of civil society organizations, including laws which effectively discriminate against foreign civil society organizations as compared to similarly situated domestic organizations;
-  - **(4)** laws regulating the freedom of expression and peaceful assembly; and
-  - **(5)** laws regulating the usage of the Internet, particularly by foreign civil society organizations.
-- **(e)** The criteria and methodology submitted by the Board to Congress and published in the Federal Register under section 7707(b)(2) of this title with respect to a fiscal year shall remain fixed for purposes of eligibility determinations for such year.
-- **(f)** As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title .
+- **(d)** The criteria and methodology submitted by the Board to Congress and published in the Federal Register under section 7707(b)(2) of this title with respect to a fiscal year shall remain fixed for purposes of eligibility determinations for such year.
+- **(e)** As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title .

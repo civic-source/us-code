@@ -3,9 +3,10 @@ title: "Section 1087j - Loan cancellation for teachers"
 usc_title: 20
 usc_section: "1087j"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1087j"
-generated_at: "2026-03-30T02:54:48.126Z"
+generated_at: "2026-03-30T03:04:46.268Z"
+status: "active"
 ---
 
 # § 1087j. Loan cancellation for teachers
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:48.126Z"
 - **(b)** The Secretary shall carry out a program of canceling the obligation to repay a qualified loan amount in accordance with subsection (c) for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans made under this part for any new borrower on or after October 1, 1998 , who—
   - **(1)** has been employed as a full-time teacher for 5 consecutive complete school years—
     - **(A)** in a school or location that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools or locations; and
-    - **(B)** if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], or meets the requirements of subsection (g)(3); and
+    - **(B)** if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title , or meets the requirements of subsection (g)(3); and
   - **(2)** is not in default on a loan for which the borrower seeks forgiveness.
 - **(c)**
   - **(1)** The Secretary shall cancel not more than $5,000 in the aggregate of the loan obligation on a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1). No borrower may receive a reduction of loan obligations under both this section and section 1078–10 of this title .
@@ -38,5 +39,5 @@ generated_at: "2026-03-30T02:54:48.126Z"
     - **(A)** section 1078–11 of this title ;
     - **(B)** section 1087e(m) of this title ; or
     - **(C)** subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq.).
-  - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+  - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title , and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 - **(h)** For the purpose of this section, the term “year” where applied to service as a teacher means an academic year as defined by the Secretary.

@@ -3,9 +3,10 @@ title: "Section 2557 - Excess nonlethal supplies: availability for humanitarian 
 usc_title: 10
 usc_section: "2557"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2557"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-03-30T03:04:17.293Z"
+status: "active"
 ---
 
 # § 2557. Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:53:38.162Z"
 - **(b)**
   - **(1)** Excess supplies made available for humanitarian relief purposes under this section shall be transferred to the Secretary of State, who shall be responsible for the distribution of such supplies.
   - **(2)** Excess supplies made available under this section to support domestic emergency assistance activities shall be transferred to the Secretary of Homeland Security. The Secretary of Defense may provide assistance in the distribution of such supplies at the request of the Secretary of Homeland Security.
-- **(c)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the intelligence committees under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.).
+- **(c)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the intelligence committees under title V of the National Security Act of 1947 ( 50 U.S.C. 413 et seq.). 1 1 See References in Text note below.
 - **(d)** In this section:
   - **(1)** The term “nonlethal excess supplies” means property, other than real property, of the Department of Defense—
     - **(A)** that is excess property, as defined in regulations of the Department of Defense; and

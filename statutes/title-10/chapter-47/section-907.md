@@ -1,20 +1,15 @@
 ---
-title: "Section 907 - Art. 107. False official statements; false swearing"
+title: "Section 907 - Art. 107. False official statements"
 usc_title: 10
 usc_section: "907"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 907"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-03-30T03:04:17.234Z"
+status: "active"
 ---
 
-# § 907. Art. 107. False official statements; false swearing
+# § 907. Art. 107. False official statements
 
-- **(a)** Any person subject to this chapter who, with intent to deceive—
-  - **(1)** signs any false record, return, regulation, order, or other official document, knowing it to be false; or
-  - **(2)** makes any other false official statement knowing it to be false;
-- **(b)** Any person subject to this chapter—
-  - **(1)** who takes an oath that—
-    - **(A)** is administered in a matter in which such oath is required or authorized by law; and
-    - **(B)** is administered by a person with authority to do so; and
-  - **(2)** who, upon such oath, makes or subscribes to a statement;
+Any person subject to this chapter who, with intent to deceive, signs any false record, return, regulation, order, or other official document, knowing it to be false, or makes any other false official statement knowing it to be false, shall be punished as a court-martial may direct.
+

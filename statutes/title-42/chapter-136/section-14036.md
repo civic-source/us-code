@@ -1,12 +1,15 @@
 ---
-title: "Section 14036 - Transferred"
+title: "Section 14036 - Training programs for judges"
 usc_title: 42
 usc_section: "14036"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14036"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.940Z"
+status: "active"
 ---
 
-# § 14036. Transferred
+# § 14036. Training programs for judges
+
+The State Justice Institute, after consultation with nationally recognized nonprofit organizations with expertise in stalking and domestic violence cases, shall conduct training programs for State (as defined in section 10701 1 1 See References in Text note below. of this title) and Indian tribal judges to ensure that a judge issuing an order in a stalking or domestic violence case has all available criminal history and other information, whether from State or Federal sources.
 

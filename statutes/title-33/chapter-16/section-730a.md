@@ -1,12 +1,15 @@
 ---
-title: "Section 730a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(4), Jan. 1, 2021 , 134 Stat. 4759"
+title: "Section 730a - Sites for pierhead beacons"
 usc_title: 33
 usc_section: "730a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 730a"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-03-30T03:05:36.260Z"
+status: "active"
 ---
 
-# § 730a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(4), Jan. 1, 2021 , 134 Stat. 4759
+# § 730a. Sites for pierhead beacons
+
+The Secretary of Transportation is authorized whenever he shall deem it advisable, to acquire, by donation or purchase in behalf of the United States, the right to use and occupy sites for pierhead beacons the establishment of which has been, or shall hereafter be, authorized by Congress.
 

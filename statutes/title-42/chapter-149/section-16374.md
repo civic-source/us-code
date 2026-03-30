@@ -1,21 +1,38 @@
 ---
-title: "Section 16374 - Future growth grants"
+title: "Section 16374 - Advisory committees"
 usc_title: 42
 usc_section: "16374"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16374"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-03-30T03:06:22.978Z"
+status: "active"
 ---
 
-# § 16374. Future growth grants
+# § 16374. Advisory committees
 
-- **(a)** The Secretary may provide grants to pay a portion of the cost differential, with respect to any projected future increase in demand for carbon dioxide transportation by an infrastructure project described in subsection (b), between—
-  - **(1)** the cost of constructing the infrastructure asset with the capacity to transport an increased flow rate of carbon dioxide, as made practicable under the project; and
-  - **(2)** the cost of constructing the infrastructure asset with the capacity to transport carbon dioxide at the flow rate initially required, based on commitments for the use of the asset.
-- **(b)** To be eligible to receive a grant under this section, an entity shall—
-  - **(1)** be eligible to receive credit assistance under the CIFIA program;
-  - **(2)** carry out, or propose to carry out, a project for large-capacity, common carrier infrastructure with a probable future increase in demand for carbon dioxide transportation; and
-  - **(3)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
-- **(c)** A grant provided under this section may be used only to pay the costs of any additional flow rate capacity of a carbon dioxide transportation infrastructure asset that the project sponsor demonstrates to the satisfaction of the Secretary can reasonably be expected to be used during the 20-year period beginning on the date of substantial completion of the project described in subsection (b)(2).
-- **(d)** The amount of a grant provided under this section may not exceed an amount equal to 80 percent of the cost of the additional capacity described in subsection (a).
+- **(a)**
+  - **(1)** Not later than 270 days after August 8, 2005 , the Secretary shall establish an advisory committee to be known as the Ultra-Deepwater Advisory Committee.
+  - **(2)** The Advisory Committee under this subsection shall be composed of members appointed by the Secretary, including—
+    - **(A)** individuals with extensive research experience or operational knowledge of offshore natural gas and other petroleum exploration and production;
+    - **(B)** individuals broadly representative of the affected interests in ultra-deepwater natural gas and other petroleum production, including interests in environmental protection and safe operations;
+    - **(C)** no individuals who are Federal employees; and
+    - **(D)** no individuals who are board members, officers, or employees of the program consortium.
+  - **(3)** The Advisory Committee under this subsection shall—
+    - **(A)** advise the Secretary on the development and implementation of programs under this part related to ultra-deepwater natural gas and other petroleum resources; and
+    - **(B)** carry out section 16372(e)(2)(B) of this title .
+  - **(4)** A member of the Advisory Committee under this subsection shall serve without compensation but shall receive travel expenses in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+- **(b)**
+  - **(1)** Not later than 270 days after August 8, 2005 , the Secretary shall establish an advisory committee to be known as the Unconventional Resources Technology Advisory Committee.
+  - **(2)** The Secretary shall endeavor to have a balanced representation of members on the Advisory Committee to reflect the breadth of geographic areas of potential gas supply. The Advisory Committee under this subsection shall be composed of members appointed by the Secretary, including—
+    - **(A)** a majority of members who are employees or representatives of independent producers of natural gas and other petroleum, including small producers;
+    - **(B)** individuals with extensive research experience or operational knowledge of unconventional natural gas and other petroleum resource exploration and production;
+    - **(C)** individuals broadly representative of the affected interests in unconventional natural gas and other petroleum resource exploration and production, including interests in environmental protection and safe operations;
+    - **(D)** individuals with expertise in the various geographic areas of potential supply of unconventional onshore natural gas and other petroleum in the United States;
+    - **(E)** no individuals who are Federal employees; and
+    - **(F)** no individuals who are board members, officers, or employees of the program consortium.
+  - **(3)** The Advisory Committee under this subsection shall—
+    - **(A)** advise the Secretary on the development and implementation of activities under this part related to unconventional natural gas and other petroleum resources; and
+    - **(B)** carry out section 16372(e)(2)(B) of this title .
+  - **(4)** A member of the Advisory Committee under this subsection shall serve without compensation but shall receive travel expenses in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+- **(c)** No advisory committee established under this section shall make recommendations on funding awards to particular consortia or other entities, or for specific projects.

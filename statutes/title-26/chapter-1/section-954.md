@@ -3,17 +3,20 @@ title: "Section 954 - Foreign base company income"
 usc_title: 26
 usc_section: "954"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 954"
-generated_at: "2026-03-30T02:55:27.749Z"
+generated_at: "2026-03-30T03:05:18.638Z"
+status: "active"
 ---
 
 # § 954. Foreign base company income
 
 - **(a)** For purposes of section 952(a)(2), the term “foreign base company income” means for any taxable year the sum of—
   - **(1)** the foreign personal holding company income for the taxable year (determined under subsection (c) and reduced as provided in subsection (b)(5)),
-  - **(2)** the foreign base company sales income for the taxable year (determined under subsection (d) and reduced as provided in subsection (b)(5)), and
-  - **(3)** the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)).
+  - **(2)** the foreign base company sales income for the taxable year (determined under subsection (d) and reduced as provided in subsection (b)(5)),
+  - **(3)** the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)),
+  - **[(4)** Repealed. Pub. L. 108–357, title IV, § 415(a)(1) , Oct. 22, 2004 , 118 Stat. 1511 ]
+  - **(5)** the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5)).
 - **(b)**
   - **[(1)**
   - **[(2)**
@@ -23,8 +26,9 @@ generated_at: "2026-03-30T02:55:27.749Z"
       - **(ii)** $1,000,000,
     - **(B)** If the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of gross income, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
     - **(C)** For purposes of subparagraphs (A) and (B), the term “gross insurance income” means any item of gross income taken into account in determining insurance income under section 953.
-  - **(4)** For purposes of subsection (a) and section 953, foreign base company income and insurance income shall not include any item of income received by a controlled foreign corporation if the taxpayer establishes to the satisfaction of the Secretary that such income was subject to an effective rate of income tax imposed by a foreign country greater than 90 percent of the maximum rate of tax specified in section 11.
-  - **(5)** For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, and the foreign base company services income shall be reduced, under regulations prescribed by the Secretary, so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
+  - **(4)** For purposes of subsection (a) and section 953, foreign base company income and insurance income shall not include any item of income received by a controlled foreign corporation if the taxpayer establishes to the satisfaction of the Secretary that such income was subject to an effective rate of income tax imposed by a foreign country greater than 90 percent of the maximum rate of tax specified in section 11. The preceding sentence shall not apply to foreign base company oil-related income described in subsection (a)(5).
+  - **(5)** For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,, 1 1 So in original. and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
+  - **(6)** Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income of such corporation under paragraph (2), 2 2 So in original. The comma probably should not appear. or (3) of subsection (a).
 - **(c)**
   - **(1)** For purposes of subsection (a)(1), the term “foreign personal holding company income” means the portion of the gross income which consists of:
     - **(A)** Dividends, interest, royalties, rents, and annuities.
@@ -74,7 +78,7 @@ generated_at: "2026-03-30T02:55:27.749Z"
   - **(6)**
     - **(A)** For purposes of this subsection, dividends, interest, rents, and royalties received or accrued from a controlled foreign corporation which is a related person shall not be treated as foreign personal holding company income to the extent attributable or properly allocable (determined under rules similar to the rules of subparagraphs (C) and (D) of section 904(d)(3)) to income of the related person which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States. For purposes of this subparagraph, interest shall include factoring income which is treated as income equivalent to interest for purposes of paragraph (1)(E). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph.
     - **(B)** Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
-    - **(C)** Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005 , and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+    - **(C)** Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005 , and before January 1, 2014 , and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 - **(d)**
   - **(1)** For purposes of subsection (a)(2), the term “foreign base company sales income” means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase of personal property from any person on behalf of a related person where—
     - **(A)** the property which is purchased (or in the case of property sold on behalf of a related person, the property which is sold) is manufactured, produced, grown, or extracted outside the country under the laws of which the controlled foreign corporation is created or organized, and
@@ -93,8 +97,15 @@ generated_at: "2026-03-30T02:55:27.749Z"
   - **(2)** Paragraph (1) shall not apply to income derived in connection with the performance of services which are directly related to—
     - **(A)** the sale or exchange by the controlled foreign corporation of property manufactured, produced, grown, or extracted by it and which are performed before the time of the sale or exchange, or
     - **(B)** an offer or effort to sell or exchange such property.
-- **[(f)**
-- **[(g)**
+- **(g)** For purposes of this section—
+  - **(1)** Except as otherwise provided in this subsection, the term “foreign base company oil related income” means foreign oil related income (within the meaning of paragraphs (2) and (3) of section 907(c)) other than income derived from a source within a foreign country in connection with—
+    - **(A)** oil or gas which was extracted from an oil or gas well located in such foreign country, or
+    - **(B)** oil, gas, or a primary product of oil or gas which is sold by the foreign corporation or a related person for use or consumption within such country or is loaded in such country on a vessel or aircraft as fuel for such vessel or aircraft.
+  - **(2)**
+    - **(A)** The term “foreign base company oil related income” shall not include any income of a foreign corporation if such corporation is not a large oil producer for the taxable year.
+    - **(B)** For purposes of subparagraph (A), the term “large oil producer” means any corporation if, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
+    - **(C)** The term “related group” means a group consisting of the foreign corporation and any other person who is a related person with respect to such corporation.
+    - **(D)** For purposes of this paragraph, the average daily production of foreign crude oil or natural gas of any related group for any taxable year (and the conversion of cubic feet of natural gas into barrels) shall be determined under rules similar to the rules of section 613A except that only crude oil or natural gas from a well located outside the United States shall be taken into account.
 - **(h)**
   - **(1)** For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified banking or financing income of an eligible controlled foreign corporation.
   - **(2)** For purposes of this subsection—
@@ -149,6 +160,7 @@ generated_at: "2026-03-30T02:55:27.749Z"
       - **(ii)** a special purpose entity or arrangement, including a securitization, financing, or similar entity or arrangement,
     - **(D)** a related person, an officer, a director, or an employee with respect to any controlled foreign corporation (or qualified business unit) which would otherwise be treated as a customer of such corporation or unit with respect to any transaction shall not be so treated if a principal purpose of such transaction is to satisfy any requirement of this subsection.
   - **(8)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
+  - **(9)** This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998 , and before January 1, 2014 , and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
 - **(i)**
   - **(1)** For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified insurance income of a qualifying insurance company.
   - **(2)** The term “qualified insurance income” means income of a qualifying insurance company which is—
@@ -171,6 +183,6 @@ generated_at: "2026-03-30T02:55:27.749Z"
     - **(C)** In no event shall the reserve determined under this paragraph for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining foreign statement reserves (less any catastrophe, deficiency, equalization, or similar reserves).
   - **(5)** The amount of the reserve determined under this paragraph with respect to any contract shall be determined in the same manner as it would be determined if the qualifying insurance company or qualifying insurance company branch were subject to tax under subchapter L, except that in applying such subchapter—
     - **(A)** the interest rate determined for the functional currency of the company or branch, and which, except as provided by the Secretary, is calculated in the same manner as the Federal mid-term rate under section 1274(d), shall be substituted for the applicable Federal interest rate,
-    - **(B)** the highest assumed interest rate permitted to be used in determining foreign statement reserves shall apply, and
+    - **(B)** the highest assumed interest rate permitted to be used in determining foreign statement reserves shall be substituted for the prevailing State assumed interest rate, and
     - **(C)** tables for mortality and morbidity which reasonably reflect the current mortality and morbidity risks in the company’s or branch’s home country shall be substituted for the mortality and morbidity tables otherwise used for such subchapter.
   - **(6)** For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.

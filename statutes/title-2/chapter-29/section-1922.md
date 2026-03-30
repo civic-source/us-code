@@ -3,9 +3,10 @@ title: "Section 1922 - Unified payroll administration"
 usc_title: 2
 usc_section: "1922"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1922"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-03-30T03:04:04.440Z"
+status: "active"
 ---
 
 # § 1922. Unified payroll administration

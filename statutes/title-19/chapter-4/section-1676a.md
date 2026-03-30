@@ -3,9 +3,10 @@ title: "Section 1676a - Required determinations"
 usc_title: 19
 usc_section: "1676a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1676a"
-generated_at: "2026-03-30T02:54:24.654Z"
+generated_at: "2026-03-30T03:04:42.023Z"
+status: "active"
 ---
 
 # § 1676a. Required determinations
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:24.654Z"
 - **(a)** Before the expiration date, if any, of a quantitative restriction agreement accepted under section 1671c(a)(2) or 1671c(c)(3) of this title (if suspension of the related investigation is still in effect)—
   - **(1)** the administering authority shall, at the direction of the President, initiate a proceeding to determine whether any countervailable subsidy is being provided with respect to the subject merchandise and, if being so provided, the net countervailable subsidy; and
   - **(2)** if the administering authority initiates a proceeding under paragraph (1), the Commission shall determine whether imports of the merchandise of the kind subject to the agreement will, upon termination of the agreement, materially injure, or threaten with material injury, an industry in the United States or materially retard the establishment of such an industry.
-- **(b)** The determinations required to be made by the administering authority and the Commission under subsection (a) shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under section 1671d of this title for purposes of judicial review under section 1516a of this title . If the determinations by each are affirmative, the administering authority shall—
+- **(b)** The determinations required to be made by the administering authority and the Commission under subsection (a) of this section shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under section 1671d of this title for purposes of judicial review under section 1516a of this title . If the determinations by each are affirmative, the administering authority shall—
   - **(1)** issue a countervailing duty order under section 1671e of this title effective with respect to merchandise entered on and after the date on which the agreement terminates; and
   - **(2)** order the suspension of liquidation of all entries of subject merchandise which are entered, or withdrawn from warehouse for consumption, on or after the date of publication of the order in the Federal Register.
-- **(c)** The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with section 1677c of this title on the issues involved.
+- **(c)** The determination proceedings required to be prescribed under subsection (b) of this section shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with section 1677c of this title on the issues involved.

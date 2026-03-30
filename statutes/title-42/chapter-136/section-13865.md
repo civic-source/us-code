@@ -1,12 +1,17 @@
 ---
-title: "Section 13865 - Transferred"
+title: "Section 13865 - Award of grants"
 usc_title: 42
 usc_section: "13865"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13865"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.937Z"
+status: "active"
 ---
 
-# § 13865. Transferred
+# § 13865. Award of grants
 
+The Attorney General shall consider the following facts in awarding grants:
+
+  - **(1)** Demonstrated need and evidence of the ability to provide the services described in the plan required under section 13863 of this title .
+  - **(2)** The Attorney General shall attempt, to the extent practicable, to achieve an equitable geographic distribution of grant awards.

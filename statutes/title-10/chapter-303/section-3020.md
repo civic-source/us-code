@@ -1,0 +1,20 @@
+---
+title: "Section 3020 - Inspector General"
+usc_title: 10
+usc_section: "3020"
+chapter: 303
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 3020"
+generated_at: "2026-03-30T03:04:17.305Z"
+status: "active"
+---
+
+# § 3020. Inspector General
+
+- **(a)** There is an Inspector General of the Army who shall be detailed to such position by the Secretary of the Army from the general officers of the Army. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
+- **(b)** When directed by the Secretary or the Chief of Staff, the Inspector General shall—
+  - **(1)** inquire into and report upon the discipline, efficiency, and economy of the Army; and
+  - **(2)** perform any other duties prescribed by the Secretary or the Chief of Staff.
+- **(c)** The Inspector General shall periodically propose programs of inspections to the Secretary of the Army and shall recommend additional inspections and investigations as may appear appropriate.
+- **(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Army.
+- **(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.

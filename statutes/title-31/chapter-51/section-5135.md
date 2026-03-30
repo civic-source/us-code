@@ -3,9 +3,10 @@ title: "Section 5135 - Citizens Coinage Advisory Committee"
 usc_title: 31
 usc_section: "5135"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 5135"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-03-30T03:05:28.366Z"
+status: "active"
 ---
 
 # § 5135. Citizens Coinage Advisory Committee
@@ -56,4 +57,4 @@ generated_at: "2026-03-30T02:55:34.066Z"
 - **(g)**
   - **(1)** Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
   - **(2)** The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
-- **(h)** Subject to the requirements of subsection (b)(8), chapter 10 of title 5 shall not apply with respect to the Committee.
+- **(h)** Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.

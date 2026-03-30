@@ -3,23 +3,24 @@ title: "Section 2714 - Denial of passports to certain convicted drug traffickers
 usc_title: 22
 usc_section: "2714"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2714"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-03-30T03:04:53.651Z"
+status: "active"
 ---
 
 # § 2714. Denial of passports to certain convicted drug traffickers
 
 - **(a)**
-  - **(1)** A passport may not be issued to an individual who is convicted of an offense described in subsection (b) during the period described in subsection (c) if the individual used a passport or otherwise crossed an international border in committing the offense.
+  - **(1)** A passport may not be issued to an individual who is convicted of an offense described in subsection (b) of this section during the period described in subsection (c) of this section if the individual used a passport or otherwise crossed an international border in committing the offense.
   - **(2)** The Secretary of State shall revoke a passport previously issued to an individual who is ineligible to receive a passport under paragraph (1).
 - **(b)**
-  - **(1)** Subsection (a) applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
-  - **(2)** Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is 1 1 So in original. Probably should be followed by “a”. misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
-- **(c)** Subsection (a) applies during the period that the individual—
-  - **(1)** is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b); or
+  - **(1)** Subsection (a) of this section applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
+  - **(2)** Subsection (a) of this section also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is 1 1 So in original. Probably should be followed by “a”. misdemeanor, but only if the Secretary of State determines that subsection (a) of this section should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
+- **(c)** Subsection (a) of this section applies during the period that the individual—
+  - **(1)** is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b) of this section; or
   - **(2)** is on parole or other supervised release after having been imprisoned as the result of that conviction.
-- **(d)** Notwithstanding subsection (a), the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
+- **(d)** Notwithstanding subsection (a) of this section, the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
 - **(e)** As used in this section—
   - **(1)** the term “controlled substance” has the same meaning as is provided in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 );
   - **(2)** the term “Federal drug offense” means a violation of—

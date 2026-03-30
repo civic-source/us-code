@@ -3,9 +3,10 @@ title: "Section 2304 - Privacy"
 usc_title: 20
 usc_section: "2304"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 2304"
-generated_at: "2026-03-30T02:54:48.172Z"
+generated_at: "2026-03-30T03:04:46.310Z"
+status: "active"
 ---
 
 # § 2304. Privacy

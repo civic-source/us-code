@@ -3,9 +3,10 @@ title: "Section 2718 - Relationship to other law"
 usc_title: 33
 usc_section: "2718"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 2718"
-generated_at: "2026-03-30T02:55:41.133Z"
+generated_at: "2026-03-30T03:05:36.300Z"
+status: "active"
 ---
 
 # § 2718. Relationship to other law
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:41.133Z"
 - **(b)** Nothing in this Act or in section 9509 of title 26 shall in any way affect, or be construed to affect, the authority of any State—
   - **(1)** to establish, or to continue in effect, a fund any purpose of which is to pay for costs or damages arising out of, or directly resulting from, oil pollution or the substantial threat of oil pollution; or
   - **(2)** to require any person to contribute to such a fund.
-- **(c)** Nothing in this Act, chapter 305 of title 46, or section 9509 of title 26 , shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
+- **(c)** Nothing in this Act, the Act of March 3, 1851 ( 46 U.S.C. 183 et seq.), 1 1 See References in Text note below. or section 9509 of title 26 , shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
   - **(1)** to impose additional liability or additional requirements; or
   - **(2)** to impose, or to determine the amount of, any fine or penalty (whether criminal or civil in nature) for any violation of law;
 - **(d)** For purposes of section 2679(b)(2)(B) of title 28 , nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer’s or employee’s personal or individual capacity for any act or omission while acting within the scope of the officer’s or employee’s office or employment.

@@ -1,12 +1,23 @@
 ---
-title: "Section 5955 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607"
+title: "Section 5955 - Prior notice to Congress of obligation of funds"
 usc_title: 22
 usc_section: "5955"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 5955"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-03-30T03:04:53.690Z"
+status: "active"
 ---
 
-# § 5955. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607
+# § 5955. Prior notice to Congress of obligation of funds
 
+- **(a)** Not less than 15 days before obligation of any funds for programs under section 5952 of this title , the President shall transmit to the appropriate congressional committees as defined in section 5957 of this title a report on the proposed obligation. Each such report shall specify—
+  - **(1)** the activities and forms of assistance for which the President plans to obligate such funds;
+  - **(2)** the amount of the proposed obligation; and
+  - **(3)** the projected involvement of the departments and agencies of the United States Government and the private sector of the United States.
+- **(b)** Any report under subsection (a) of this section that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of section 5952(b) of this title shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+  - **(1)** the facilities to be demilitarized;
+  - **(2)** the types of activities conducted at those facilities and of the types of nonmilitary activities planned for those facilities;
+  - **(3)** the forms of assistance to be provided by the United States Government and by the private sector of the United States;
+  - **(4)** the extent to which military activities and production capability will consequently be eliminated at those facilities; and
+  - **(5)** the mechanisms to be established for monitoring progress on those projects.

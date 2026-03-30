@@ -3,9 +3,10 @@ title: "Section 2655 - Rural firefighters and emergency medical service assistan
 usc_title: 7
 usc_section: "2655"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2655"
-generated_at: "2026-03-30T02:53:42.389Z"
+generated_at: "2026-03-30T03:04:20.974Z"
+status: "active"
 ---
 
 # § 2655. Rural firefighters and emergency medical service assistance program
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:53:42.389Z"
     - **(B)** a State emergency medical services association;
     - **(C)** a State office of rural health or an equivalent agency;
     - **(D)** a local government entity;
-    - **(E)** an Indian tribe (as defined in section 5304 of title 25 );
+    - **(E)** an Indian tribe (as defined in section 450b of title 25 );
     - **(F)** a State or local ambulance provider; or
     - **(G)** any other public or nonprofit entity determined appropriate by the Secretary; and
   - **(2)** prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, that includes—

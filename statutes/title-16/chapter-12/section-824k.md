@@ -3,9 +3,10 @@ title: "Section 824k - Orders requiring interconnection or wheeling"
 usc_title: 16
 usc_section: "824k"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 824k"
-generated_at: "2026-03-30T02:54:22.916Z"
+generated_at: "2026-03-30T03:04:48.534Z"
+status: "active"
 ---
 
 # § 824k. Orders requiring interconnection or wheeling
@@ -50,7 +51,7 @@ generated_at: "2026-03-30T02:54:22.916Z"
   - **(5)** The Commission shall not issue any order under section 824i of this title , section 824j of this title , this section, or section 824 l of this title requiring the Administrator of the Bonneville Power Administration to provide transmission service if such an order would impair the Administrator’s ability to provide such transmission service to the Administrator’s power and transmission customers in the Pacific Northwest, as that region is defined in section 839a(14) of this title , as is needed to assure adequate and reliable service to loads in that region.
 - **(j)** With respect to an electric utility which is prohibited by Federal law from being a source of power supply, either directly or through a distributor of its electric energy, outside an area set forth in such law, no order issued under section 824j of this title may require such electric utility (or a distributor of such electric utility) to provide transmission services to another entity if the electric energy to be transmitted will be consumed within the area set forth in such Federal law, unless the order is in furtherance of a sale of electric energy to that electric utility: Provided, however , That the foregoing provision shall not apply to any area served at retail by an electric transmission system which was such a distributor on October 24, 1992 , and which before October 1, 1991 , gave its notice of termination under its power supply contract with such electric utility.
 - **(k)**
-  - **(1)** Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a), on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
+  - **(1)** Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
   - **(2)** For purposes of this subsection—
     - **(A)** the term “ERCOT” means the Electric Reliability Council of Texas; and
     - **(B)** the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.

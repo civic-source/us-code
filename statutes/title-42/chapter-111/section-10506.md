@@ -1,12 +1,15 @@
 ---
-title: "Section 10506 - Transferred"
+title: "Section 10506 - Prohibition of land acquisition"
 usc_title: 42
 usc_section: "10506"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10506"
-generated_at: "2026-03-30T02:56:11.390Z"
+generated_at: "2026-03-30T03:06:22.878Z"
+status: "active"
 ---
 
-# § 10506. Transferred
+# § 10506. Prohibition of land acquisition
+
+No funds provided under this chapter shall be used for land acquisition.
 

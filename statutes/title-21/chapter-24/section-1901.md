@@ -3,9 +3,10 @@ title: "Section 1901 - Findings and policy"
 usc_title: 21
 usc_section: "1901"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 1901"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-03-30T03:05:00.993Z"
+status: "active"
 ---
 
 # § 1901. Findings and policy
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:54:54.307Z"
   - **(2)** Executive Order No. 12978 of October 21, 1995 , provides for the use of the authorities in the International Emergency Economic Powers Act (IEEPA) ( 50 U.S.C. 1701 et seq.) to target and apply sanctions to four international narcotics traffickers and their organizations that operate from Colombia.
   - **(3)** IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
   - **(4)** There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
-- **(b)** It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4).
+- **(b)** It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4) of this section.

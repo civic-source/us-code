@@ -3,9 +3,10 @@ title: "Section 7425 - Employees: laws not applicable"
 usc_title: 38
 usc_section: "7425"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 7425"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-03-30T03:05:59.231Z"
+status: "active"
 ---
 
 # § 7425. Employees: laws not applicable
@@ -19,5 +20,4 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(6)** Section 4507 of title 5 .
   - **(7)** Subchapter VIII of chapter 53 of title 5.
   - **(8)** Subchapter V of chapter 75 of title 5.
-- **(b)** Except as provided in subsection (c), and notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
-- **(c)** Notwithstanding any other provision of this subchapter, the Administration shall provide to individuals appointed to any position described in section 7421(b) who are employed for compensation by the Administration, family and medical leave in the same manner and subject to the same limitations to the maximum extent practicable, as family and medical leave is provided under subchapter V of chapter 63 of title 5 to employees, as defined in section 6381(1) of such title.
+- **(b)** Notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.

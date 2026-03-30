@@ -3,9 +3,10 @@ title: "Section 5612 - Emergency financial stabilization"
 usc_title: 12
 usc_section: "5612"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5612"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-03-30T03:04:29.358Z"
+status: "active"
 ---
 
 # § 5612. Emergency financial stabilization
@@ -51,7 +52,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
     - **(B)** may not borrow funds from the Deposit Insurance Fund established pursuant to section 1821(a)(4) of this title .
   - **(4)** To the extent that the funds collected pursuant to paragraph (1) are insufficient to cover any losses or expenses, including amounts borrowed pursuant to paragraph (3), arising from a program established pursuant to this section, the Corporation shall impose a special assessment solely on participants in the program, in amounts necessary to address such insufficiency, and which shall be available to the Corporation to cover such losses or expenses.
   - **(5)** The Secretary may purchase any obligations issued under paragraph (3)(A). For such purpose, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter 31 are extended to include such purchases, and the amount of any securities issued under that chapter 31 for such purpose shall be treated in the same manner as securities issued under section 208(n)(5)(E). 1 1 See References in Text note below.
-- **(f)** For purposes of this section, a guarantee of deposits held by insured depository institutions in noninterest-bearing transaction accounts may be treated as a debt guarantee program.
+- **(f)** For purposes of this section, a guarantee of deposits held by insured depository institutions shall not be treated as a debt guarantee program.
 - **(g)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “company” means any entity other than a natural person that is incorporated or organized under Federal law or the laws of any State.
   - **(2)** The term “depository institution holding company” has the same meaning as in section 1813 of this title .
@@ -61,6 +62,3 @@ generated_at: "2026-03-30T02:53:53.549Z"
       - **(ii)** to borrow using financial assets as collateral without an unusual and significant increase in margin; or
     - **(B)** an unusual and significant reduction in the ability of financial market participants to obtain unsecured credit.
   - **(4)** The term “solvent” means that the value of the assets of an entity exceed its obligations to creditors.
-- **(h)**
-  - **(1)** For purposes of the congressional joint resolution of approval provided for in subsections (c)(1) and (2) and (d), notwithstanding any other provision of this section, the Federal Deposit Insurance Corporation is approved upon enactment of this Act to establish a program provided for in subsection (a), provided that any such program and any such guarantee shall terminate not later than December 31, 2020 .
-  - **(2)** Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.

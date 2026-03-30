@@ -3,9 +3,10 @@ title: "Section 4102 - Safety equipment"
 usc_title: 46
 usc_section: "4102"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 4102"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-03-30T03:06:27.171Z"
+status: "active"
 ---
 
 # § 4102. Safety equipment
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:56:15.545Z"
 - **(d)** Each uninspected vessel using a volatile liquid as fuel shall be provided with the means prescribed by regulation for properly and efficiently ventilating the bilges of the engine and fuel tank compartments, so as to remove any explosive or flammable gases.
 - **(e)** Each manned uninspected vessel owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
 - **(f)**
-  - **(1)** The Secretary, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
+  - **(1)** The Secretary, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
   - **(2)** The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.

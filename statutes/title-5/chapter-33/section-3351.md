@@ -3,9 +3,10 @@ title: "Section 3351 - Preference eligibles; transfer; physical qualifications; 
 usc_title: 5
 usc_section: "3351"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 3351"
-generated_at: "2026-03-30T02:52:56.004Z"
+generated_at: "2026-03-30T03:04:06.068Z"
+status: "active"
 ---
 
 # § 3351. Preference eligibles; transfer; physical qualifications; waiver
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:52:56.004Z"
 In determining qualifications of a preference eligible for transfer to another position in the competitive service, an Executive agency, or the government of the District of Columbia, the Office of Personnel Management or other examining agency shall waive—
 
   - **(1)** requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
-  - **(2)** physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
+  - **(2)** physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.

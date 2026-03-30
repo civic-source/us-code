@@ -3,9 +3,10 @@ title: "Section 2093 - General corporate powers"
 usc_title: 12
 usc_section: "2093"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2093"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-03-30T03:04:29.287Z"
+status: "active"
 ---
 
 # § 2093. General corporate powers
@@ -39,4 +40,4 @@ Each Federal land bank association shall be a body corporate and, subject to sup
   - **(19)** perform such other function delegated to the association by the Farm Credit Bank of the district;
   - **(20)** exercise by its board of directors or authorized officers or agents all such incidental powers as may be necessary or expedient in the conduct of its business;
   - **(21)** contribute to the capital of the bank; and
-  - **(22)** operate as an originator and become certified as a certified facility under subchapter VIII.
+  - **(22)** operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.

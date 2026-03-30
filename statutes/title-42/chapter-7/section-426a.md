@@ -3,9 +3,10 @@ title: "Section 426a - Transitional provision on eligibility of uninsured indivi
 usc_title: 42
 usc_section: "426a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 426a"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-03-30T03:06:22.441Z"
+status: "active"
 ---
 
 # § 426a. Transitional provision on eligibility of uninsured individuals for hospital insurance benefits
@@ -17,8 +18,8 @@ generated_at: "2026-03-30T02:56:10.867Z"
   - **(3)** is not, and upon filing application for monthly insurance benefits under section 402 of this title would not be, entitled to hospital insurance benefits under section 426 of this title , and is not certifiable as a qualified railroad retirement beneficiary under section 228s–2 of title 45 ,
   - **(4)** is a resident of the United States (as defined in section 410(i) of this title ), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as so defined) continuously during the 5 years immediately preceding the month in which he files application under this section, and
   - **(5)** has filed an application under this section in such manner and in accordance with such other requirements as may be prescribed in regulations of the Secretary,
-- **(b)** The provisions of subsection (a) shall not apply to any individual who—
-  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) 1 1 See References in Text note below. of this title,
+- **(b)** The provisions of subsection (a) of this section shall not apply to any individual who—
+  - **(1)** is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) of this title ,
   - **(2)** has, prior to the beginning of such first month, been convicted of any offense listed in section 402(u) of this title , or
   - **(3)**
     - **(A)** at the beginning of such first month is covered by an enrollment in a health benefits plan under chapter 89 of title 5,

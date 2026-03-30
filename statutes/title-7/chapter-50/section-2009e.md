@@ -3,16 +3,17 @@ title: "Section 2009e - Transfers of funds"
 usc_title: 7
 usc_section: "2009e"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2009e"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-03-30T03:04:20.952Z"
+status: "active"
 ---
 
 # § 2009e. Transfers of funds
 
 - **(a)** Subject to subsection (b) of this section, the State Director 1 1 So in original. Probably should not be capitalized. of any State may, during any fiscal year, transfer from each account specified in section 2009d(c) of this title a total of not more than 25 percent of the amount in the account that is allocated for the State for the fiscal year to any other account in which amounts are allocated for the State for the fiscal year.
 - **(b)** Except as provided in subsection (c) of this section, a transfer otherwise authorized by subsection (a) of this section to be made during a fiscal year may not be made to the extent that the sum of the amount to be transferred and all amounts so transferred by State directors under subsection (a) of this section during the fiscal year exceeds 10 percent of the total amount made available to carry out the authorities described in section 2009d(d) of this title for the fiscal year.
-- **(c)** Subsections (a) and (b) shall not apply to a transfer of funds by a State director if the State director certifies to the Secretary that—
+- **(c)** Subsections (a) and (b) of this section shall not apply to a transfer of funds by a State director if the State director certifies to the Secretary that—
   - **(1)** there is an approved application for a project in the function category to which the funds are to be transferred but funds are not available for the project in the function category; and
   - **(2)**
     - **(A)** there is no such approved application in the function category from which the funds are to be transferred; or

@@ -3,19 +3,22 @@ title: "Section 970 - Reduction of subpart F income of export trade corporations
 usc_title: 26
 usc_section: "970"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 970"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-03-30T03:05:18.640Z"
+status: "active"
 ---
 
 # § 970. Reduction of subpart F income of export trade corporations
 
 - **(a)**
   - **(1)** In the case of a controlled foreign corporation (as defined in section 957) which for the taxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
-    - **(A)** an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
+    - **(A)** an amount equal to 1½ times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is probably allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
     - **(B)** an amount equal to 10 percent of so much of the gross receipts for such year (or, in the case of gross receipts arising from commissions, fees, or other compensation for its services, so much of the gross amount upon the basis of which such commissions, fees, or other compensation is computed) accruing to such export trade corporation from the sale, installation, operation, maintenance, or use of property in respect of which such corporation derives export trade income as is properly allocable to the export trade income which constitutes foreign base company income of such corporation for such year.
   - **(2)** The reduction under paragraph (1) for any taxable year shall not exceed an amount which bears the same ratio to the increase in the investments in export trade assets (as defined in section 971(c)) of such corporation for such year as the export trade income which constitutes foreign base company income of such corporation for such year bears to the entire export trade income of such corporation for such year.
-- **[(b)**
+- **(b)** Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
+  - **(1)** his pro rata share of the sum of (A) the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under subsection (a), and (B) the amounts not included in subpart F income (determined without regard to this subpart) for all prior taxable years by reason of the treatment (under section 972 as in effect before the date of the enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled foreign corporation, reduced by
+  - **(2)** the sum of the amounts which were included in his gross income under section 951(a)(1)(A)(ii) under the provisions of this subsection for all prior taxable years.
 - **(c)**
   - **(1)** For purposes of this section, the amount taken into account with respect to any export trade asset shall be its adjusted basis, reduced by any liability to which the asset is subject.
   - **(2)** For purposes of subsection (a), the amount of increase in investments in export trade assets of any controlled foreign corporation for any taxable year is the amount by which—

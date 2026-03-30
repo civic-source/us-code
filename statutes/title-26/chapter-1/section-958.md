@@ -3,15 +3,16 @@ title: "Section 958 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "958"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 958"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-03-30T03:05:18.639Z"
+status: "active"
 ---
 
 # § 958. Rules for determining stock ownership
 
 - **(a)**
-  - **(1)** For purposes of this subpart (other than section 960), stock owned means—
+  - **(1)** For purposes of this subpart (other than section 960(a)(1)), stock owned means—
     - **(A)** stock owned directly, and
     - **(B)** stock owned with the application of paragraph (2).
   - **(2)** For purposes of subparagraph (B) of paragraph (1), stock owned, directly or indirectly, by or for a foreign corporation, foreign partnership, or foreign trust or foreign estate (within the meaning of section 7701(a)(31)) shall be considered as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
@@ -20,4 +21,4 @@ generated_at: "2026-03-30T02:55:27.750Z"
   - **(1)** In applying paragraph (1)(A) of section 318(a), stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a citizen or by a resident alien individual.
   - **(2)** In applying subparagraphs (A), (B), and (C) of section 318(a)(2), if a partnership, estate, trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of a corporation, it shall be considered as owning all the stock entitled to vote.
   - **(3)** In applying subparagraph (C) of section 318(a)(2), the phrase “10 percent” shall be substituted for the phrase “50 percent” used in subparagraph (C).
-  - **(4)** Subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person.
+  - **(4)** Subparagraph (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person.

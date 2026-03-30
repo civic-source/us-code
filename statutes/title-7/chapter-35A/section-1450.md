@@ -3,9 +3,10 @@ title: "Section 1450 - Repealed. Aug. 28, 1954, ch. 1041 , title II, § 203(b), 
 usc_title: 7
 usc_section: "1450"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1450"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-03-30T03:04:20.925Z"
+status: "repealed"
 ---
 
 # § 1450. Repealed. Aug. 28, 1954, ch. 1041 , title II, § 203(b), 68 Stat. 899

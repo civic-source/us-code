@@ -3,14 +3,15 @@ title: "Section 45305 - Registration, certification, and related fees"
 usc_title: 49
 usc_section: "45305"
 chapter: 453
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 45305"
-generated_at: "2026-03-30T02:56:19.396Z"
+generated_at: "2026-03-30T03:06:29.331Z"
+status: "active"
 ---
 
 # § 45305. Registration, certification, and related fees
 
-- **(a)** Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
+- **(a)** Subject to subsection (b), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
   - **(1)** Registering an aircraft.
   - **(2)** Reregistering, replacing, or renewing an aircraft registration certificate.
   - **(3)** Issuing an original dealer’s aircraft registration certificate.
@@ -22,11 +23,8 @@ generated_at: "2026-03-30T02:56:19.396Z"
   - **(9)** Issuing a replacement airman certificate.
   - **(10)** Issuing an airman medical certificate.
   - **(11)** Providing a legal opinion pertaining to aircraft registration or recordation.
-- **(b)** Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—
-  - **(1)** is established and collected in a manner consistent with aviation safety agreements; and
-  - **(2)** does not exceed the estimated costs of the services.
-- **(c)** No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
-- **(d)**
+- **(b)** No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+- **(c)**
   - **(1)** Notwithstanding section 3302 of title 31 , any fee authorized to be collected under this section shall—
     - **(A)** be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
     - **(B)** be available for expenditure only to pay the costs of activities and services for which the fee is imposed, including all costs associated with collecting the fee; and

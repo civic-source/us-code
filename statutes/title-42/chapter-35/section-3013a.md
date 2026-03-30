@@ -3,12 +3,13 @@ title: "Section 3013a - Consultation with State agencies, area agencies on aging
 usc_title: 42
 usc_section: "3013a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3013a"
-generated_at: "2026-03-30T02:56:11.171Z"
+generated_at: "2026-03-30T03:06:22.675Z"
+status: "active"
 ---
 
 # § 3013a. Consultation with State agencies, area agencies on aging, and Native American grant recipients
 
-The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X in the development of Federal goals, regulations, program instructions, and policies under this chapter.
+The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X of this chapter in the development of Federal goals, regulations, program instructions, and policies under this chapter.
 

@@ -3,9 +3,10 @@ title: "Section 69b - Misbranded fur products"
 usc_title: 15
 usc_section: "69b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 69b"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-03-30T03:04:31.068Z"
+status: "active"
 ---
 
 # § 69b. Misbranded fur products

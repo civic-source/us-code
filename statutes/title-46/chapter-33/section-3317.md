@@ -3,12 +3,13 @@ title: "Section 3317 - Fees"
 usc_title: 46
 usc_section: "3317"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 3317"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-03-30T03:06:27.169Z"
+status: "active"
 ---
 
 # § 3317. Fees
 
 - **(a)** The Secretary may prescribe by regulation fees for inspecting or examining a small passenger vessel or a sailing school vessel.
-- **(b)** When an inspection or examination under this part of a documented vessel or a foreign vessel is conducted at a foreign port or place at the request of the owner or managing operator of the vessel, the owner or operator shall reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the inspection or examination. Amounts received as reimbursement for these expenses shall be credited to the appropriation for operations and support of the Coast Guard.
+- **(b)** When an inspection or examination under this part of a documented vessel or a foreign vessel is conducted at a foreign port or place at the request of the owner or managing operator of the vessel, the owner or operator shall reimburse the Secretary for the travel and subsistence expenses incurred by the personnel assigned to perform the inspection or examination. Amounts received as reimbursement for these expenses shall be credited to the appropriation for operating expenses of the Coast Guard.

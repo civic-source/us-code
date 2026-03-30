@@ -3,14 +3,15 @@ title: "Section 4118 - Administrative provisions"
 usc_title: 22
 usc_section: "4118"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4118"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-03-30T03:04:53.676Z"
+status: "active"
 ---
 
 # § 4118. Administrative provisions
 
-- **(a)** If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary of that individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b), any such assignment may not be revoked for a period of one year from its execution.
+- **(a)** If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary of that individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b) of this section, any such assignment may not be revoked for a period of one year from its execution.
 - **(b)** An assignment for deduction of dues shall terminate when—
   - **(1)** the labor organization ceases to be the exclusive representative;
   - **(2)** the individual ceases to receive a salary from the Department as a member of the Service; or

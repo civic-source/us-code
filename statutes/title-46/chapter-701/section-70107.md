@@ -3,17 +3,18 @@ title: "Section 70107 - Grants"
 usc_title: 46
 usc_section: "70107"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 70107"
-generated_at: "2026-03-30T02:56:15.586Z"
+generated_at: "2026-03-30T03:06:27.196Z"
+status: "active"
 ---
 
 # § 70107. Grants
 
-- **(a)** The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train public safety personnel under section 70132 of this title . Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
+- **(a)** The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train law enforcement personnel under section 70132 of this title . Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
 - **(b)** The following costs of funding the correction of Coast Guard identified vulnerabilities in port security and ensuring compliance with Area Maritime Transportation Security Plans and facility security plans are eligible to be funded:
   - **(1)** Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
-  - **(2)** The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5196(j)(8) ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+  - **(2)** The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121(j)(8) 1 1 So in original. Probably should be “5196(j)(8)”. ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
     - **(A)** $1,000,000 per project; or
     - **(B)** such greater amount as may be approved by the Secretary, which may not exceed 10 percent of the total amount of the grant.
   - **(3)** The cost of screening equipment, including equipment that detects weapons of mass destruction and conventional explosives, and of testing and evaluating such equipment, to certify secure systems of transportation.
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:56:15.586Z"
   - **(5)** The cost of conducting exercises or training for prevention and detection of, preparedness for, response to, or recovery from terrorist attacks.
   - **(6)** The cost of establishing or enhancing mechanisms for sharing terrorism threat information and ensuring that the mechanisms are interoperable with Federal, State, and local agencies.
   - **(7)** The cost of equipment (including software) required to receive, transmit, handle, and store classified information.
-  - **(8)** The cost of training public safety personnel—
+  - **(8)** The cost of training law enforcement personnel—
     - **(A)** to enforce a security zone under section 70132 of this title ; or
     - **(B)** assist in the enforcement of a security zone.
 - **(c)**
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:56:15.586Z"
   - **(2)**
     - **(A)** There are no matching requirements for grants under subsection (a) for projects costing not more than $25,000.
     - **(B)** If the Secretary determines that a proposed project merits support and cannot be undertaken without a higher rate of Federal support, then the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1).
-    - **(C)** There are no matching requirements for grants under subsection (a) to train public safety personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
+    - **(C)** There are no matching requirements for grants under subsection (a) to train law enforcement agency personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
 - **(d)** The Secretary shall ensure that projects paid for, or the costs of which are reimbursed, under this section within any area or port are coordinated with other projects, and may require cooperative agreements among users of the port and port facilities with respect to projects funded under this section.
 - **(e)**
   - **(1)** The Secretary may execute letters of intent to commit funding to such authorities, operators, and agencies.
@@ -91,7 +92,7 @@ generated_at: "2026-03-30T02:56:15.586Z"
     - **(C)** The Secretary shall select grant recipients under this paragraph through a competitive process on the basis of the following criteria:
       - **(i)** Whether the applicant can demonstrate that personnel, laboratory, and organizational resources will be available to the applicant to carry out the investigations authorized in this paragraph.
       - **(ii)** The applicant’s capability to provide leadership in making national and regional contributions to the solution of immediate and long-range port and maritime transportation security and risk mitigation problems.
-      - **(iii)** Whether the applicant can demonstrate that the applicant has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
+      - **(iii)** Whether the applicant can demonstrate that is 2 2 So in original. Probably should be “the applicant”. has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
       - **(iv)** Whether the applicant’s investigations will involve major United States ports on the East Coast, the Gulf Coast, and the West Coast, and Federal agencies and other entities with expertise in port and maritime transportation.
       - **(v)** Whether the applicant has a strategic plan for carrying out the proposed investigations under the grant.
   - **(4)**

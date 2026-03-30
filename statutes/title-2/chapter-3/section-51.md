@@ -1,12 +1,15 @@
 ---
-title: "Section 51 - Transferred"
+title: "Section 51 - Monuments to deceased Senators or House Members"
 usc_title: 2
 usc_section: "51"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 51"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.391Z"
+status: "active"
 ---
 
-# § 51. Transferred
+# § 51. Monuments to deceased Senators or House Members
+
+Whenever any deceased Senator or Member of the House of Representatives shall be actually interred in the Congressional Cemetery, so-called, it shall be the duty of the Sergeant at Arms of the Senate, in the case of a Senator, and of the Sergeant at Arms of the House of Representatives, in the case of a Member of the House, to have a monument erected, of granite, with suitable inscriptions, and the cost of the same shall be a charge upon and paid out either from the contingent funds of the Senate or of the House of Representatives, to whichever the deceased may have belonged, and any existing omissions of monuments or inscriptions, as aforesaid, are directed and authorized to be supplied in like manner.
 

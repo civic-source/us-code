@@ -3,9 +3,10 @@ title: "Section 6918 - Staff of the Commission"
 usc_title: 22
 usc_section: "6918"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6918"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-03-30T03:04:53.702Z"
+status: "active"
 ---
 
 # § 6918. Staff of the Commission
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:55:05.434Z"
 - **(d)** The personnel and administration committee shall ensure that the professional staff of the Commission consists of persons with expertise in areas including human rights, internationally recognized worker rights, international economics, law (including international law), rule of law and other foreign assistance programming, Chinese politics, economy and culture, and the Chinese language.
 - **(e)**
   - **(1)** For purposes of pay and other employment benefits, rights, and privileges, and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5 .
-  - **(2)** For purposes of section 3304(i)(1) 1 1 See References in Text note below. of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+  - **(2)** For purposes of section 3304(c)(1) 1 1 See References in Text note below. of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.

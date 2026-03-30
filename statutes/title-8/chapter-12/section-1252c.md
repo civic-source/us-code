@@ -3,9 +3,10 @@ title: "Section 1252c - Authorizing State and local law enforcement officials to
 usc_title: 8
 usc_section: "1252c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1252c"
-generated_at: "2026-03-30T02:53:10.490Z"
+generated_at: "2026-03-30T03:04:14.631Z"
+status: "active"
 ---
 
 # § 1252c. Authorizing State and local law enforcement officials to arrest and detain certain illegal aliens
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:53:10.490Z"
 - **(a)** Notwithstanding any other provision of law, to the extent permitted by relevant State and local law, State and local law enforcement officials are authorized to arrest and detain an individual who—
   - **(1)** is an alien illegally present in the United States; and
   - **(2)** has previously been convicted of a felony in the United States and deported or left the United States after such conviction,
-- **(b)** The Attorney General shall cooperate with the States to assure that information in the control of the Attorney General, including information in the National Crime Information Center, that would assist State and local law enforcement officials in carrying out duties under subsection (a) is made available to such officials.
+- **(b)** The Attorney General shall cooperate with the States to assure that information in the control of the Attorney General, including information in the National Crime Information Center, that would assist State and local law enforcement officials in carrying out duties under subsection (a) of this section is made available to such officials.

@@ -1,12 +1,15 @@
 ---
-title: "Section 565g - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393"
+title: "Section 565g - Rules and regulations"
 usc_title: 25
 usc_section: "565g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 565g"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.843Z"
+status: "active"
 ---
 
-# § 565g. Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393
+# § 565g. Rules and regulations
+
+The Secretary is authorized to prescribe rules and regulations to carry out the provisions of this subchapter.
 

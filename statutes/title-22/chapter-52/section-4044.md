@@ -3,9 +3,10 @@ title: "Section 4044 - Definitions"
 usc_title: 22
 usc_section: "4044"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4044"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-03-30T03:04:53.670Z"
+status: "active"
 ---
 
 # § 4044. Definitions
@@ -33,9 +34,9 @@ As used in this part, unless otherwise specified, the term—
   - **(8)** “lump-sum credit” means the compulsory and special contributions to the credit of a participant or former participant in the Fund plus interest on such contributions at 4 percent a year compounded annually to December 31, 1976 , and after such date, for a participant who separates from the Service after completing at least 1 year of civilian service and before completing 5 years of such service, at the rate of 3 percent per year to the date of separation (except that interest shall not be paid for a fractional part of a month in the total service or on compulsory and special contributions from an annuitant for recall service or other service performed after the date of separation which forms the basis for annuity);
   - **(9)** “military and naval service” means honorable active service—
     - **(A)** in the Armed Forces of the United States,
-    - **(B)** in the Regular or Reserve Corps 1 1 See Change of Name note below. of the Public Health Service after June 30, 1960 , or
+    - **(B)** in the Regular or Reserve Corps of the Public Health Service after June 30, 1960 , or
     - **(C)** as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961 ,
-  - **(10)** “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
+  - **(10)** “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
   - **(11)** “spousal agreement” means any written agreement between—
     - **(A)** a participant or former participant; and
     - **(B)** his or her spouse or former spouse;

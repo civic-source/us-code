@@ -1,12 +1,15 @@
 ---
-title: "Section 1524 - Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k) , Dec. 23, 2024 , 138 Stat. 2315"
+title: "Section 1524 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1524"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1524"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-03-30T03:05:36.289Z"
+status: "active"
 ---
 
-# § 1524. Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k) , Dec. 23, 2024 , 138 Stat. 2315
+# § 1524. Authorization of appropriations
+
+There is authorized to be appropriated for administration of this chapter, not to exceed $2,500,000 per fiscal year for the fiscal years ending June 30, 1975 , June 30, 1976 , September 30, 1977 , September 30, 1978 , September 30, 1979 , and September 30, 1980 .
 

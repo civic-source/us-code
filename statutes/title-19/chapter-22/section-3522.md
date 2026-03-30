@@ -3,18 +3,19 @@ title: "Section 3522 - Liquidation or reliquidation and refund of duty paid on c
 usc_title: 19
 usc_section: "3522"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3522"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-03-30T03:04:42.056Z"
+status: "active"
 ---
 
 # § 3522. Liquidation or reliquidation and refund of duty paid on certain entries
 
-- **(a)** Notwithstanding section 1514 of this title or any other provision of law, and subject to subsection (b), the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) and refund any duty or excess duty that was paid, as provided in subsection (c).
-- **(b)** Liquidation or reliquidation may be made under subsection (a) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
+- **(a)** Notwithstanding section 1514 of this title or any other provision of law, and subject to subsection (b) of this section, the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) of this section and refund any duty or excess duty that was paid, as provided in subsection (c) of this section.
+- **(b)** Liquidation or reliquidation may be made under subsection (a) of this section with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
   - **(1)** to locate the entry; or
   - **(2)** to reconstruct the entry if it cannot be located.
-- **(c)** The entries referred to in subsection (a) are as follows:
+- **(c)** The entries referred to in subsection (a) of this section are as follows:
   - **(1)** Any goods—
     - **(A)** for which the importer claimed or would have claimed entry under subheading 6810.19.12 of the HTS on or after October 1, 1990 , and before the effective date of a proclamation issued by the President under section 3513(a) of this title with respect to items under such subheading in order to carry out Schedule XX, or
     - **(B)** entered on or after January 1, 1989 , and before October 1, 1990 , for which entry would have been claimed under subheading 6810.19.12 of the HTS on or after October 1, 1990 ,

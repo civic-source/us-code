@@ -1,24 +1,15 @@
 ---
-title: "Section 853 - Art. 53. Findings and sentencing"
+title: "Section 853 - Art. 53. Court to announce action"
 usc_title: 10
 usc_section: "853"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 853"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-03-30T03:04:17.232Z"
+status: "active"
 ---
 
-# § 853. Art. 53. Findings and sentencing
+# § 853. Art. 53. Court to announce action
 
-- **(a)** A court-martial shall announce its findings and sentence to the parties as soon as determined.
-- **(b)**
-  - **(1)** Except as provided in subsection (c) for capital offenses, if the accused is convicted of an offense in a trial by general or special court-martial, the military judge shall sentence the accused. The sentence determined by the military judge constitutes the sentence of the court-martial.
-  - **(2)** If the accused is convicted of an offense in a trial by summary court-martial, the court-martial shall sentence the accused.
-- **(c)**
-  - **(1)** In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death—
-    - **(A)** the members shall determine—
-      - **(i)** whether the sentence for that offense shall be death or life in prison without eligibility for parole; or
-      - **(ii)** whether the matter shall be returned to the military judge for determination of a lesser punishment; and
-    - **(B)** the military judge shall sentence the accused for that offense in accordance with the determination of the members under subparagraph (A).
-  - **(2)** In accordance with regulations prescribed by the President, the military judge may include in any sentence to death or life in prison without eligibility for parole other lesser punishments authorized under this chapter.
-  - **(3)** In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with subsection (b), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
+A court-martial shall announce its findings and sentence to the parties as soon as determined.
+

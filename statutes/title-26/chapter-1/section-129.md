@@ -3,9 +3,10 @@ title: "Section 129 - Dependent care assistance programs"
 usc_title: 26
 usc_section: "129"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 129"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-03-30T03:05:18.542Z"
+status: "active"
 ---
 
 # § 129. Dependent care assistance programs
@@ -13,10 +14,9 @@ generated_at: "2026-03-30T02:55:27.627Z"
 - **(a)**
   - **(1)** Gross income of an employee does not include amounts paid or incurred by the employer for dependent care assistance provided to such employee if the assistance is furnished pursuant to a program which is described in subsection (d).
   - **(2)**
-    - **(A)** The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed $7,500 ($3,750 in the case of a separate return by a married individual).
+    - **(A)** The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).
     - **(B)** The amount of any excess under subparagraph (A) shall be included in gross income in the taxable year in which the dependent care services were provided (even if payment of dependent care assistance for such services occurs in a subsequent taxable year).
     - **(C)** For purposes of this paragraph, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e).
-    - **(D)** In the case of any taxable year beginning after December 31, 2020 , and before January 1, 2022 , subparagraph (A) shall be applied by substituting “$10,500 (half such dollar amount” for “$5,000 ($2,500”.
 - **(b)**
   - **(1)** The amount excluded from the income of an employee under subsection (a) for any taxable year shall not exceed—
     - **(A)** in the case of an employee who is not married at the close of such taxable year, the earned income of such employee for such taxable year, or

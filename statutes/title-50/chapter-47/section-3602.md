@@ -1,17 +1,15 @@
 ---
-title: "Section 3602 - Director of the Agency and Director of Compliance"
+title: "Section 3602 - Director of Compliance"
 usc_title: 50
 usc_section: "3602"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3602"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-03-30T03:06:37.698Z"
+status: "active"
 ---
 
-# § 3602. Director of the Agency and Director of Compliance
+# § 3602. Director of Compliance
 
-- **(a)**
-  - **(1)** There is a Director of the National Security Agency.
-  - **(2)** The Director of the National Security Agency shall be appointed by the President, by and with the advice and consent of the Senate.
-  - **(3)** The Director of the National Security Agency shall be the head of the National Security Agency and shall discharge such functions and duties as are provided by this chapter or otherwise by law or executive order.
-- **(b)** There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency.
+There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency.
+

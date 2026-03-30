@@ -3,9 +3,10 @@ title: "Section 2996f - Grants and contracts"
 usc_title: 42
 usc_section: "2996f"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2996f"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-03-30T03:06:22.673Z"
+status: "active"
 ---
 
 # § 2996f. Grants and contracts
@@ -46,7 +47,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
   - **(7)** to initiate the formation, or act as an organizer, of any association, federation, or similar entity, except that this paragraph shall not be construed to prohibit the provision of legal assistance to eligible clients;
   - **(8)** to provide legal assistance with respect to any proceeding or litigation which seeks to procure a nontherapeutic abortion or to compel any individual or institution to perform an abortion, or assist in the performance of an abortion, or provide facilities for the performance of an abortion, contrary to the religious beliefs or moral convictions of such individual or institution;
   - **(9)** to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client’s legal rights and responsibilities;
-  - **(10)** to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act [ 50 U.S.C. 3801 et seq.] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973 , under the Military Selective Service Act or prior corresponding law; or
+  - **(10)** to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act [50 U.S.C. App. 451 et seq.] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973 , under the Military Selective Service Act or prior corresponding law; or
   - **(11)** to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [ 42 U.S.C. 14401 et seq.].
 - **(c)** In making grants or entering into contracts for legal assistance, the Corporation shall insure that any recipient organized solely for the purpose of providing legal assistance to eligible clients is governed by a body at least 60 percent of which consists of attorneys who are members of the bar of a State in which the legal assistance is to be provided (except that the Corporation (1) shall, upon application, grant waivers to permit a legal services program, supported under section 2809(a)(3) 1 1 See References in Text note below. of this title, which on July 25, 1974 , has a majority of persons who are not attorneys on its policy-making board to continue such a non-attorney majority under the provisions of this subchapter, and (2) may grant, pursuant to regulations issued by the Corporation, such a waiver for recipients which, because of the nature of the population they serve, are unable to comply with such requirement) and at least one-third of which consists of persons who are, when selected, eligible clients who may also be representatives of associations or organizations of eligible clients. Any such attorney, while serving on such board, shall not receive compensation from a recipient.
 - **(d)** The Corporation shall monitor and evaluate and provide for independent evaluations of programs supported in whole or in part under this subchapter to insure that the provisions of this subchapter and the bylaws of the Corporation and applicable rules, regulations, and guidelines promulgated pursuant to this subchapter are carried out.

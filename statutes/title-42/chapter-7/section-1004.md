@@ -3,9 +3,10 @@ title: "Section 1004 - Disqualifications"
 usc_title: 42
 usc_section: "1004"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1004"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-03-30T03:06:22.465Z"
+status: "active"
 ---
 
 # § 1004. Disqualifications
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:56:10.899Z"
   - **(2)** during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction within the United States from which the person has fled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed;
   - **(3)** during any part of which the individual violates a condition of probation or parole imposed under Federal or State law; or
   - **(4)** during which the individual resides in a foreign country and is not a citizen or national of the United States if payments for such month to individuals residing in such country are withheld by the Treasury Department under section 3329 of title 31 .
-- **(b)** For the purpose of carrying out subsection (a)(1), the Attorney General shall notify the Commissioner of Social Security as soon as practicable after the removal of any individual under section 1227(a) or 1182(a)(6)(A) of title 8.
+- **(b)** For the purpose of carrying out subsection (a)(1) of this section, the Attorney General shall notify the Commissioner of Social Security as soon as practicable after the removal of any individual under section 1227(a) or 1182(a)(6)(A) of title 8.

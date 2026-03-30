@@ -3,9 +3,10 @@ title: "Section 303c - Television program improvement"
 usc_title: 47
 usc_section: "303c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 303c"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-03-30T03:06:26.184Z"
+status: "active"
 ---
 
 # § 303c. Television program improvement
@@ -19,5 +20,5 @@ generated_at: "2026-03-30T02:56:24.506Z"
     - **(B)** to transmit by a cable television system or a satellite television distribution service.
 - **(c)** The antitrust laws shall not apply to any joint discussion, consideration, review, action, or agreement by or among persons in the television industry for the purpose of, and limited to, developing and disseminating voluntary guidelines designed to alleviate the negative impact of violence in telecast material.
 - **(d)**
-  - **(1)** The exemption provided in subsection (c) shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
-  - **(2)** The exemption provided in subsection (c) shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990 .
+  - **(1)** The exemption provided in subsection (c) of this section shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
+  - **(2)** The exemption provided in subsection (c) of this section shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990 .

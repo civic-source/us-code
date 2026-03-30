@@ -1,12 +1,20 @@
 ---
-title: "Section 13726 - Transferred"
+title: "Section 13726 - Findings"
 usc_title: 42
 usc_section: "13726"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 13726"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.935Z"
+status: "active"
 ---
 
-# § 13726. Transferred
+# § 13726. Findings
 
+Congress finds the following:
+
+  - **(1)** Increasingly, States are turning to private prisoner transport companies as an alternative to their own personnel or the United States Marshals Service when transporting violent prisoners.
+  - **(2)** The transport process can last for days if not weeks, as violent prisoners are dropped off and picked up at a network of hubs across the country.
+  - **(3)** Escapes by violent prisoners during transport by private prisoner transport companies have occurred.
+  - **(4)** Oversight by the Attorney General is required to address these problems.
+  - **(5)** While most governmental entities may prefer to use, and will continue to use, fully trained and sworn law enforcement officers when transporting violent prisoners, fiscal or logistical concerns may make the use of highly specialized private prisoner transport companies an option. Nothing in sections 13726 to 13726c of this title should be construed to mean that governmental entities should contract with private prisoner transport companies to move violent prisoners; however when a government entity opts to use a private prisoner transport company to move violent prisoners, then the company should be subject to regulation in order to enhance public safety.

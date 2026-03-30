@@ -3,9 +3,10 @@ title: "Section 14507 - Supplements to federal grant programs"
 usc_title: 40
 usc_section: "14507"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "40 U.S.C. § 14507"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-03-30T03:05:58.225Z"
+status: "active"
 ---
 
 # § 14507. Supplements to federal grant programs
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** In this section, the term “federal grant programs”—
     - **(A)** means any federal grant program that provides assistance for the acquisition or development of land, the construction or equipment of facilities, or other community or economic development or economic adjustment activities, including a federal grant program authorized by—
       - **(i)** the Consolidated Farm and Rural Development Act ( 7 U.S.C. 1921 et seq.);
-      - **(ii)** chapter 2003 of title 54;
+      - **(ii)** the Land and Water Conservation Fund Act of 1965 ( 16 U.S.C. 460 l –4 et seq.);
       - **(iii)** the Watershed Protection and Flood Prevention Act ( 16 U.S.C. 1001 et seq.);
       - **(iv)** the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.);
       - **(v)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.) (known as the Clean Water Act);

@@ -3,9 +3,10 @@ title: "Section 1842 - Pen registers and trap and trace devices for foreign inte
 usc_title: 50
 usc_section: "1842"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1842"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-03-30T03:06:37.644Z"
+status: "active"
 ---
 
 # § 1842. Pen registers and trap and trace devices for foreign intelligence and international terrorism investigations
@@ -17,13 +18,8 @@ generated_at: "2026-03-30T02:56:26.210Z"
   - **(1)** a judge of the court established by section 1803(a) of this title ; or
   - **(2)** a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications for and grant orders approving the installation and use of a pen register or trap and trace device on behalf of a judge of that court.
 - **(c)** Each application under this section shall require the approval of the Attorney General, or a designated attorney for the Government, and shall include—
-  - **(1)** the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application;
-  - **(2)** a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution;
-  - **(3)** a specific selection term to be used as the basis for the use of the pen register or trap and trace device;
-  - **(4)** a certification by the Federal Officer seeking to use the pen register or trap and trace device covered by the application that, to the best knowledge of the Federal Officer, the Attorney General or a designated attorney for the Government has been apprised of all information that might reasonably—
-    - **(A)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
-    - **(B)** otherwise raise doubts with respect to the findings required under subsection (d); and
-  - **(5)** non-cumulative information known to the Federal officer seeking to use the pen register or trap and trace device covered by the application, that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
+  - **(1)** the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application; and
+  - **(2)** a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
 - **(d)**
   - **(1)** Upon an application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the installation and use of a pen register or trap and trace device if the judge finds that the application satisfies the requirements of this section.
   - **(2)** An order issued under this section—
@@ -51,12 +47,8 @@ generated_at: "2026-03-30T02:56:26.210Z"
         - **(II)** the address of such customer or subscriber;
         - **(III)** the telephone or instrument number, or other subscriber number or identifier, of such customer or subscriber, including any temporarily assigned network address or associated routing or transmission information; and
         - **(IV)** the length of the provision of service by such provider to such customer or subscriber and the types of services utilized by such customer or subscriber.
-  - **(3)** A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title .
 - **(e)**
-  - **(1)** Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d). The period of extension shall be for a period not to exceed 90 days.
+  - **(1)** Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
   - **(2)** In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.
-- **(f)** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
+- **(f)** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) of this section in accordance with the terms of an order issued under this section.
 - **(g)** Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
-- **(h)**
-  - **(1)** The Attorney General shall ensure that appropriate policies and procedures are in place to safeguard nonpublicly available information concerning United States persons that is collected through the use of a pen register or trap and trace device installed under this section. Such policies and procedures shall, to the maximum extent practicable and consistent with the need to protect national security, include privacy protections that apply to the collection, retention, and use of information concerning United States persons.
-  - **(2)** Nothing in this subsection limits the authority of the court established under section 1803(a) of this title or of the Attorney General to impose additional privacy or minimization procedures with regard to the installation or use of a pen register or trap and trace device.

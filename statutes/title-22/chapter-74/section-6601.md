@@ -3,9 +3,10 @@ title: "Section 6601 - Reorganization plan and report"
 usc_title: 22
 usc_section: "6601"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6601"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-03-30T03:04:53.698Z"
+status: "active"
 ---
 
 # § 6601. Reorganization plan and report
@@ -21,13 +22,13 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(2)** The United States Information Agency.
   - **(3)** The United States International Development Cooperation Agency.
   - **(4)** The Agency for International Development.
-- **(c)** The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
+- **(c)** The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
   - **(1)** identify the functions of each covered agency that will be transferred to the Department under the plan;
   - **(2)** specify the steps to be taken by the Secretary of State to reorganize internally the functions of the Department, including the consolidation of offices and functions, that will be required under the plan in order to permit the Department to carry out the functions transferred to it under the plan;
   - **(3)** specify the funds available to each covered agency that will be transferred to the Department as a result of the transfer of functions of such agency to the Department;
   - **(4)** specify the proposed allocations within the Department of unexpended funds transferred in connection with the transfer of functions under the plan; and
   - **(5)** specify the proposed disposition of the property, facilities, contracts, records, and other assets and liabilities of each covered agency in connection with the transfer of the functions of such agency to the Department.
-- **(d)** In addition to applicable provisions of subsection (c), the reorganization plan transmitted under this section for the Agency for International Development—
+- **(d)** In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
   - **(1)** may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
   - **(2)** in lieu of the abolition and transfer of functions under paragraph (1)—
     - **(A)** shall provide for the transfer to and consolidation within the Department of the functions set forth in section 6581 of this title ; and
@@ -35,7 +36,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
       - **(i)** the termination of functions and reductions in personnel of AID;
       - **(ii)** the transfer of functions of AID, and the personnel associated with such functions, to the Department; and
       - **(iii)** the consolidation, reorganization, and streamlining of the Department upon the transfer of such functions and personnel in order to carry out the functions transferred.
-- **(e)** The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that part of the plan becomes effective in accordance with subsection (g).
+- **(e)** The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) of this section until that part of the plan becomes effective in accordance with subsection (g) of this section.
 - **(f)** The report accompanying the reorganization plan for the Department and the covered agencies submitted pursuant to this section shall describe the implementation of the plan and shall include—
   - **(1)** a detailed description of—
     - **(A)** the actions necessary or planned to complete the reorganization,
@@ -46,12 +47,12 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(4)** a projected schedule for completion of the implementation process; and
   - **(5)** recommendations, if any, for legislation necessary to carry out changes made by this chapter relating to personnel and to incidental transfers.
 - **(g)**
-  - **(1)** The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e), shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
+  - **(1)** The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e) of this section, shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
   - **(2)** The effective dates under this paragraph for the reorganization plan described in this section are the following:
     - **(A)** April 1, 1999 , with respect to functions of the Agency for International Development described in section 6581 of this title .
     - **(B)** April 1, 1999 , with respect to the abolition of the United States Arms Control and Disarmament Agency and the United States International Development Cooperation Agency.
     - **(C)** October 1, 1999 , with respect to the abolition of the United States Information Agency.
-  - **(3)** An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a).
+  - **(3)** An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section.
   - **(4)** Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balance of appropriations, or other assets of a covered agency on a single date.
   - **(5)** Paragraph (1) shall apply notwithstanding section 905(b) of title 5 .
 - **(h)** The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.

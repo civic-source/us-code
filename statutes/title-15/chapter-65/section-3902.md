@@ -3,9 +3,10 @@ title: "Section 3902 - Risk retention groups"
 usc_title: 15
 usc_section: "3902"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-03-30T03:04:31.224Z"
+status: "active"
 ---
 
 # § 3902. Risk retention groups
@@ -24,11 +25,11 @@ generated_at: "2026-03-30T02:54:08.196Z"
       - **(ii)** in a voluntary dissolution proceeding;
     - **(G)** comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the State seeks an injunction regarding the conduct described in this subparagraph, such injunction must be obtained from a court of competent jurisdiction;
     - **(H)** comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance commissioner alleging that the group is in hazardous financial condition or is financially impaired; and
-    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group: “notice
+    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group:
   - **(2)** require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
   - **(3)** require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
   - **(4)** otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
-- **(b)** The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—
+- **(b)** The exemptions specified in subsection (a) of this section apply to laws governing the insurance business pertaining to—
   - **(1)** liability insurance coverage provided by a risk retention group for—
     - **(A)** such group; or
     - **(B)** any person who is a member of such group;
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(1)** the solicitation or sale of insurance by a risk retention group to any person who is not eligible for membership in such group; or
   - **(2)** the solicitation or sale of insurance by, or operation of, a risk retention group that is in hazardous financial condition or is financially impaired.
 - **(f)**
-  - **(1)** Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
-  - **(2)** If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
+  - **(1)** Subject to the provisions of subsection (a)(1)(G) of this section (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
+  - **(2)** If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunction must be obtained from a Federal or State court of competent jurisdiction.
 - **(g)** Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 - **(h)** Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.

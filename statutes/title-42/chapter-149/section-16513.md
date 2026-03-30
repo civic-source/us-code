@@ -3,32 +3,28 @@ title: "Section 16513 - Eligible projects"
 usc_title: 42
 usc_section: "16513"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16513"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-03-30T03:06:22.981Z"
+status: "active"
 ---
 
 # § 16513. Eligible projects
 
 - **(a)** The Secretary may make guarantees under this section only for projects that—
-  - **(1)** avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
-  - **(2)** employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued, including projects that employ elements of commercial technologies in combination with new or significantly improved technologies.
+  - **(1)** avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+  - **(2)** employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued.
 - **(b)** Projects from the following categories shall be eligible for a guarantee under this section:
   - **(1)** Renewable energy systems.
   - **(2)** Advanced fossil energy technology (including coal gasification meeting the criteria in subsection (d)).
   - **(3)** Hydrogen fuel cell technology for residential, industrial, or transportation applications.
-  - **(4)** Advanced nuclear energy facilities, including manufacturing of nuclear supply components for advanced nuclear reactors.
-  - **(5)** Carbon capture, utilization, and sequestration practices and technologies, including—
-    - **(A)** agricultural and forestry practices that store and sequester carbon; and
-    - **(B)** synthetic technologies to remove carbon from the air and oceans.
+  - **(4)** Advanced nuclear energy facilities.
+  - **(5)** Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.
   - **(6)** Efficient electrical generation, transmission, and distribution technologies.
   - **(7)** Efficient end-use energy technologies.
   - **(8)** Production facilities for the manufacture of fuel efficient vehicles or parts of those vehicles, including electric drive vehicles and advanced diesel vehicles.
   - **(9)** Pollution control equipment.
   - **(10)** Refineries, meaning facilities at which crude oil is refined into gasoline.
-  - **(11)** Energy storage technologies for residential, industrial, transportation, and power generation applications.
-  - **(12)** Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
-  - **(13)** Projects that increase the domestically produced supply of critical minerals (as defined in section 1606(a) of title 30 ), including through the production, processing, manufacturing, recycling, or fabrication of mineral alternatives.
 - **(c)** The Secretary may make guarantees for the following gasification projects:
   - **(1)** Integrated gasification combined cycle plants meeting the emission levels under subsection (d), including—
     - **(A)** projects for the generation of electricity—
@@ -60,4 +56,3 @@ generated_at: "2026-03-30T02:56:11.488Z"
   - **(3)** total nitrogen oxide emissions in the flue gas from the project that do not exceed 0.08 lb/MMBtu; and
   - **(4)** total particulate emissions in the flue gas from the project that do not exceed 0.01 lb/MMBtu.
 - **(e)** A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
-- **(f)** Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.

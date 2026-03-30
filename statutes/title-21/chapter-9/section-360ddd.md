@@ -3,9 +3,10 @@ title: "Section 360ddd - Definitions"
 usc_title: 21
 usc_section: "360ddd"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 360ddd"
-generated_at: "2026-03-30T02:54:54.258Z"
+generated_at: "2026-03-30T03:05:00.958Z"
+status: "active"
 ---
 
 # § 360ddd. Definitions
@@ -20,7 +21,7 @@ In this part:
     - **(E)** Helium that meets the standards set forth in an official compendium.
     - **(F)** Carbon monoxide that meets the standards set forth in an official compendium.
     - **(G)** Medical air that meets the standards set forth in an official compendium.
-    - **(H)** Any other medical gas deemed appropriate by the Secretary, after taking into account any investigational new drug application or investigational new animal drug application for the same medical gas submitted in accordance with regulations applicable to such applications in title 21 of the Code of Federal Regulations, unless any period of exclusivity for a new drug under section 355(c)(3)(E)(ii) of this title or section 355(j)(5)(F)(ii) of this title , or the extension of any such period under section 355a of this title , or any period of exclusivity for a new animal drug under section 360b(c)(2)(F) of this title , applicable to such medical gas has not expired.
+    - **(H)** Any other medical gas deemed appropriate by the Secretary, after taking into account any investigational new drug application or investigational new animal drug application for the same medical gas submitted in accordance with regulations applicable to such applications in title 21 of the Code of Federal Regulations, unless any period of exclusivity under section 355(c)(3)(E)(ii) of this title or section 355(j)(5)(F)(ii) of this title , or the extension of any such period under section 355a of this title , applicable to such medical gas has not expired.
   - **(2)** The term “medical gas” means a drug that—
     - **(A)** is manufactured or stored in a liquefied, nonliquefied, or cryogenic state; and
     - **(B)** is administered as a gas.

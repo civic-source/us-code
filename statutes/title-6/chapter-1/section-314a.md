@@ -3,9 +3,10 @@ title: "Section 314a - FEMA programs"
 usc_title: 6
 usc_section: "314a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 314a"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-03-30T03:04:24.344Z"
+status: "active"
 ---
 
 # § 314a. FEMA programs

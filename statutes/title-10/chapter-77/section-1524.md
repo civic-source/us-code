@@ -3,9 +3,10 @@ title: "Section 1524 - Posthumous commissions and warrants: determination of dat
 usc_title: 10
 usc_section: "1524"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1524"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-03-30T03:04:17.259Z"
+status: "active"
 ---
 
 # § 1524. Posthumous commissions and warrants: determination of date of death

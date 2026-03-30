@@ -3,9 +3,10 @@ title: "Section 1601 - Congressional statement of findings; “materials” defi
 usc_title: 30
 usc_section: "1601"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1601"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-03-30T03:05:07.422Z"
+status: "active"
 ---
 
 # § 1601. Congressional statement of findings; “materials” defined
@@ -18,6 +19,4 @@ generated_at: "2026-03-30T02:55:29.406Z"
   - **(5)** technological innovation and research and development are important factors which contribute to the availability and use of materials;
   - **(6)** the United States lacks a coherent national materials policy and a coordinated program to assure the availability of materials critical for national economic well-being, national defense, and industrial production, including interstate commerce and foreign trade; and
   - **(7)** notwithstanding the enactment of section 21a of this title , the United States does not have a coherent national materials and minerals policy.
-- **(b)** In this chapter:
-  - **(1)** The term “critical mineral” means any mineral, element, substance, or material designated as critical by the Secretary under section 1606(c) of this title .
-  - **(2)** The term “materials” means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.
+- **(b)** As used in this chapter, the term “materials” means substances, including minerals, of current or potential use that will be needed to supply the industrial, military, and essential civilian needs of the United States in the production of goods or services, including those which are primarily imported or for which there is a prospect of shortages or uncertain supply, or which present opportunities in terms of new physical properties, use, recycling, disposal or substitution, with the exclusion of food and of energy fuels used as such.

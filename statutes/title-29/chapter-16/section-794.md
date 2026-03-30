@@ -3,9 +3,10 @@ title: "Section 794 - Nondiscrimination under Federal grants and programs"
 usc_title: 29
 usc_section: "794"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-03-30T03:05:09.687Z"
+status: "active"
 ---
 
 # § 794. Nondiscrimination under Federal grants and programs
@@ -17,12 +18,12 @@ generated_at: "2026-03-30T02:55:18.697Z"
     - **(B)** the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
   - **(2)**
     - **(A)** a college, university, or other postsecondary institution, or a public system of higher education; or
-    - **(B)** a local educational agency (as defined in section 7801 of title 20 ), system of career and technical education, or other school system;
+    - **(B)** a local educational agency (as defined in section 7801 of title 20 ), system of vocational education, or other school system;
   - **(3)**
     - **(A)** an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
       - **(i)** if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
   - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
-- **(c)** Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
+- **(c)** Small providers are not required by subsection (a) of this section to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
 - **(d)** The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.

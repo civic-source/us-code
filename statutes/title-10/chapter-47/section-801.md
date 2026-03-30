@@ -3,14 +3,15 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-03-30T03:04:17.231Z"
+status: "active"
 ---
 
 # § 801. Article 1. Definitions
 
-In this chapter (the Uniform Code of Military Justice):
+In this chapter:
 
   - **(1)** The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
   - **(2)** The Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy, shall be considered as one armed force.
@@ -21,21 +22,15 @@ In this chapter (the Uniform Code of Military Justice):
   - **(7)** The term “midshipman” means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
   - **(8)** The term “military” refers to any or all of the armed forces.
   - **(9)** The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
-  - **(10)** The term “military judge” means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).
-  - **(11)** The term “military magistrate” means a commissioned officer certified for duty as a military magistrate in accordance with section 826a of this title (article 26a).
+  - **(10)** The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
+  - **[(11)** Repealed. Pub. L. 109–241, title II, § 218(a)(1) , July 11, 2006 , 120 Stat. 526 .]
   - **(12)** The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
   - **(13)** The term “judge advocate” means—
-    - **(A)** an officer of the Judge Advocate General’s Corps of the Army, the Navy, or the Air Force;
-    - **(B)** an officer of the Marine Corps who is designated as a judge advocate; or
+    - **(A)** an officer of the Judge Advocate General’s Corps of the Army or the Navy;
+    - **(B)** an officer of the Air Force or the Marine Corps who is designated as a judge advocate; or
     - **(C)** a commissioned officer of the Coast Guard designated for special duty (law).
   - **(14)** The term “record”, when used in connection with the proceedings of a court-martial, means—
     - **(A)** an official written transcript, written summary, or other writing relating to the proceedings; or
     - **(B)** an official audiotape, videotape, or similar material from which sound, or sound and visual images, depicting the proceedings may be reproduced.
   - **(15)** The term “classified information” means (A) any information or material that has been determined by an official of the United States pursuant to law, an Executive order, or regulation to require protection against unauthorized disclosure for reasons of national security, and (B) any restricted data, as defined in section 11(y) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(y) ).
   - **(16)** The term “national security” means the national defense and foreign relations of the United States.
-  - **(17)** The term “covered offense” means—
-    - **(A)** an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), the standalone offense of child pornography punishable under section 934 (article 134), or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned;
-    - **(B)** a conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81);
-    - **(C)** a solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82); or
-    - **(D)** an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).
-  - **(18)** The term “special trial counsel” means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title .

@@ -3,9 +3,10 @@ title: "Section 2903 - Financial institutions; evaluation"
 usc_title: 12
 usc_section: "2903"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2903"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-03-30T03:04:29.303Z"
+status: "active"
 ---
 
 # § 2903. Financial institutions; evaluation
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
 - **(a)** In connection with its examination of a financial institution, the appropriate Federal financial supervisory agency shall—
   - **(1)** assess the institution’s record of meeting the credit needs of its entire community, including low- and moderate-income neighborhoods, consistent with the safe and sound operation of such institution; and
   - **(2)** take such record into account in its evaluation of an application for a deposit facility by such institution.
-- **(b)** In assessing and taking into account, under subsection (a), the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
+- **(b)** In assessing and taking into account, under subsection (a) of this section, the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
 - **(c)**
   - **(1)** An election by a bank holding company to become a financial holding company under section 1843 of this title shall not be effective if—
     - **(A)** the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843( l )(1)(C) 1 1 See References in Text note below. of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of “satisfactory record of meeting community credit needs”, or better, at the most recent examination of each such institution; and

@@ -3,15 +3,16 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-03-30T02:53:42.356Z"
+generated_at: "2026-03-30T03:04:20.952Z"
+status: "active"
 ---
 
 # § 2008s. Rural microentrepreneur assistance program
 
 - **(a)** In this section:
-  - **(1)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(1)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(2)** The term “microentrepreneur” means an owner and operator, or prospective owner and operator, of a rural microenterprise who is unable to obtain sufficient training, technical assistance, or credit other than under this section, as determined by the Secretary.
   - **(3)** The term “microenterprise development organization” means an organization that—
     - **(A)** is—
@@ -54,9 +55,7 @@ generated_at: "2026-03-30T02:53:42.356Z"
       - **(i)** The Secretary shall make grants to microenterprise development organizations to provide marketing, management, and other technical assistance to microentrepreneurs that—
         - **(I)** received a loan from the microenterprise development organization under paragraph (3); or
         - **(II)** are seeking a loan from the microenterprise development organization under paragraph (3).
-      - **(ii)** A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not less than 20 percent and not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded, subject to—
-        - **(I)** satisfactory performance by the microenterprise development organization under this section, and
-        - **(II)** the availability of funding.
+      - **(ii)** A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded.
     - **(C)** Not more than 10 percent of a grant received by a microenterprise development organization for a fiscal year under this paragraph may be used to pay administrative expenses.
 - **(c)**
   - **(1)**
@@ -66,4 +65,8 @@ generated_at: "2026-03-30T02:53:42.356Z"
       - **(i)** in cash (including through fees, grants (including community development block grants), and gifts); or
       - **(ii)** in the form of in-kind contributions.
   - **(2)** At a minimum, not later than December 1 of each fiscal year, a microenterprise development organization that receives a loan or grant under this section shall provide to the Secretary such information as the Secretary may require to ensure that assistance provided under this section is used for the purposes for which the loan or grant was made.
-- **(d)** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
+- **(d)**
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
+    - **(A)** $4,000,000 for each of fiscal years 2009 through 2011; and
+    - **(B)** $3,000,000 for fiscal year 2012.
+  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2012.

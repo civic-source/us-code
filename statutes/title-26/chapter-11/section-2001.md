@@ -3,9 +3,10 @@ title: "Section 2001 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "2001"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 2001"
-generated_at: "2026-03-30T02:55:27.778Z"
+generated_at: "2026-03-30T03:05:18.666Z"
+status: "active"
 ---
 
 # § 2001. Imposition and rate of tax
@@ -31,12 +32,8 @@ generated_at: "2026-03-30T02:55:27.778Z"
     - **(A)** the value is shown on a return under such chapter and such value is not contested by the Secretary before the expiration of the time referred to in paragraph (1) with respect to such return;
     - **(B)** in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the taxpayer; or
     - **(C)** the value is determined by a court or pursuant to a settlement agreement with the Secretary.
-- **(g)**
-  - **(1)** For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent’s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
-    - **(A)** the tax imposed by chapter 12 with respect to such gifts, and
-    - **(B)** the credit allowed against such tax under section 2505, including in computing—
-      - **(i)** the applicable credit amount under section 2505(a)(1), and
-      - **(ii)** the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
-  - **(2)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this section with respect to any difference between—
-    - **(A)** the basic exclusion amount under section 2010(c)(3) applicable at the time of the decedent’s death, and
-    - **(B)** the basic exclusion amount under such section applicable with respect to any gifts made by the decedent.
+- **(g)** For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent’s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
+  - **(1)** the tax imposed by chapter 12 with respect to such gifts, and
+  - **(2)** the credit allowed against such tax under section 2505, including in computing—
+    - **(A)** the applicable credit amount under section 2505(a)(1), and
+    - **(B)** the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).

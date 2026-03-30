@@ -3,9 +3,10 @@ title: "Section 7544 - State grants"
 usc_title: 42
 usc_section: "7544"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7544"
-generated_at: "2026-03-30T02:56:11.312Z"
+generated_at: "2026-03-30T03:06:22.810Z"
+status: "active"
 ---
 
 # § 7544. State grants
@@ -14,4 +15,4 @@ The Administrator is authorized to make grants to appropriate State agencies in 
 
   - **(1)** no such grant shall be made for any part of any State vehicle inspection program which does not directly relate to the cost of the air pollution control aspects of such a program;
   - **(2)** no such grant shall be made unless the Secretary of Transportation has certified to the Administrator that such program is consistent with any highway safety program developed pursuant to section 402 of title 23 ; and
-  - **(3)** no such grant shall be made unless the program includes provisions designed to insure that emission control devices and systems on vehicles in actual use have not been discontinued or rendered inoperative.
+  - **(3)** no such grant shall be made unless the program includes provisions designed to insure that emission control devices and systems on vehicles in actual use have not been discontinued or rendered inoperative. Grants may be made under this section by way of reimbursement in any case in which amounts have been expended by the State before the date on which any such grant was made.

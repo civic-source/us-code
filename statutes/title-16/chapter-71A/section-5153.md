@@ -3,9 +3,10 @@ title: "Section 5153 - Monitoring of implementation and enforcement by coastal S
 usc_title: 16
 usc_section: "5153"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 5153"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-03-30T03:04:48.627Z"
+status: "active"
 ---
 
 # § 5153. Monitoring of implementation and enforcement by coastal States
@@ -13,5 +14,5 @@ generated_at: "2026-03-30T02:54:23.050Z"
 - **(a)** During December of each fiscal year, and at any other time it deems necessary the Commission shall determine—
   - **(1)** whether each coastal State has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters; and
   - **(2)** whether the enforcement of the Plan by each coastal State is satisfactory.
-- **(b)** For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
-- **(c)** The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a).
+- **(b)** For purposes of subsection (a)(2) of this section, enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
+- **(c)** The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a) of this section.

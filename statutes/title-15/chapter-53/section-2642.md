@@ -3,9 +3,10 @@ title: "Section 2642 - Definitions"
 usc_title: 15
 usc_section: "2642"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2642"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-03-30T03:04:31.209Z"
+status: "active"
 ---
 
 # § 2642. Definitions
@@ -29,10 +30,10 @@ For purposes of this subchapter—
     - **(B)** the owner of any private, nonprofit elementary or secondary school building, and
     - **(C)** the governing authority of any school operated under the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 et seq.).
   - **(8)** The term “most current guidance document” means the Environmental Protection Agency’s “Guidance for Controlling Asbestos-Containing Material in Buildings” as modified by the Environmental Protection Agency after March 31, 1986 .
-  - **(9)** The term “non-profit elementary or secondary school” means any elementary school or secondary school (as defined in section 7801 of title 20 ) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+  - **(9)** The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 7801 of title 20 ) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
   - **(10)** The term “public and commercial building” means any building which is not a school building, except that the term does not include any residential apartment building of fewer than 10 units.
   - **(11)** The term “response action” means methods that protect human health and the environment from asbestos-containing material. Such methods include methods described in chapters 3 and 5 of the Environmental Protection Agency’s “Guidance for Controlling Asbestos-Containing Materials in Buildings”.
-  - **(12)** The term “school” means any elementary school or secondary school as defined in section 7801 of title 20 .
+  - **(12)** The term “school” means any elementary or secondary school as defined in section 7801 of title 20 .
   - **(13)** The term “school building” means—
     - **(A)** any structure suitable for use as a classroom, including a school facility such as a laboratory, library, school eating facility, or facility used for the preparation of food,
     - **(B)** any gymnasium or other facility which is specially designed for athletic or recreational activities for an academic course in physical education,

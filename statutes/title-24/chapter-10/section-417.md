@@ -3,9 +3,10 @@ title: "Section 417 - Administrators, Ombudsmen, and staff of facilities"
 usc_title: 24
 usc_section: "417"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "24 U.S.C. § 417"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-03-30T03:04:55.821Z"
+status: "active"
 ---
 
 # § 417. Administrators, Ombudsmen, and staff of facilities
@@ -13,9 +14,8 @@ generated_at: "2026-03-30T02:54:50.791Z"
 - **(a)** The Secretary of Defense shall appoint an Administrator and an Ombudsman for each facility of the Retirement Home.
 - **(b)** The Administrator of a facility shall—
   - **(1)** be a civilian with experience as a continuing care retirement community professional or a member of the Armed Forces serving on active duty in a grade below brigadier general or, in the case of the Navy, rear admiral (lower half);
-  - **(2)** have appropriate leadership and management skills;
-  - **(3)** be required to pursue a course of study to receive certification as a retirement facilities director by an appropriate civilian certifying organization, if the Administrator is not so certified at the time of appointment; and
-  - **(4)** serve at the pleasure of the Secretary of Defense.
+  - **(2)** have appropriate leadership and management skills; and
+  - **(3)** be required to pursue a course of study to receive certification as a retirement facilities director by an appropriate civilian certifying organization, if the Administrator is not so certified at the time of appointment.
 - **(c)**
   - **(1)** The Administrator of a facility shall be responsible for the day-to-day operation of the facility, including the acceptance of applicants to be residents of that facility.
   - **(2)** The Administrator of a facility shall keep accurate and complete records of the facility.
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T02:54:50.791Z"
   - **(2)** The Ombudsman of a facility shall serve at the pleasure of the Secretary of Defense.
 - **(e)**
   - **(1)** The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
-  - **(2)** The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, and the Secretary of Defense.
+  - **(2)** The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness.
 - **(f)**
   - **(1)** The Administrator of a facility may, subject to the approval of the Chief Operating Officer, appoint and prescribe the pay of such principal staff as the Administrator considers appropriate to assist the Administrator in operating the facility.
   - **(2)** The principal staff of a facility shall include persons with experience and expertise in the operation and management of retirement homes and in the provision of long-term medical care for older persons.

@@ -3,15 +3,16 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-03-30T03:05:18.544Z"
+status: "active"
 ---
 
 # § 142. Exempt facility bond
 
 - **(a)** For purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
-  - **(1)** airports and spaceports,
+  - **(1)** airports,
   - **(2)** docks and wharves,
   - **(3)** mass commuting facilities,
   - **(4)** facilities for the furnishing of water,
@@ -24,10 +25,8 @@ generated_at: "2026-03-30T02:55:27.629Z"
   - **(11)** high-speed intercity rail facilities,
   - **(12)** environmental enhancements of hydroelectric generating facilities,
   - **(13)** qualified public educational facilities,
-  - **(14)** qualified green building and sustainable design projects,
-  - **(15)** qualified highway or surface freight transfer facilities,
-  - **(16)** qualified broadband projects, or
-  - **(17)** qualified carbon dioxide capture facilities.
+  - **(14)** qualified green building and sustainable design projects, or
+  - **(15)** qualified highway or surface freight transfer facilities.
 - **(b)** For purposes of subsection (a)—
   - **(1)**
     - **(A)** A facility shall be treated as described in paragraph (1), (2), (3), or (12) of subsection (a) only if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit.
@@ -35,7 +34,6 @@ generated_at: "2026-03-30T02:55:27.629Z"
       - **(i)** the lessee makes an irrevocable election (binding on the lessee and all successors in interest under the lease) not to claim depreciation or an investment credit with respect to such property,
       - **(ii)** the lease term (as defined in section 168(i)(3)) is not more than 80 percent of the reasonably expected economic life of the property (as determined under section 147(b)), and
       - **(iii)** the lessee has no option to purchase the property other than at fair market value (as of the time such option is exercised).
-    - **(C)** For purposes of subparagraph (A), spaceport property located on land leased by a governmental unit from the United States shall not fail to be treated as owned by a governmental unit if the requirements of this paragraph are met by the lease and any subleases of the property.
   - **(2)** An office shall not be treated as described in a paragraph of subsection (a) unless—
     - **(A)** the office is located on the premises of a facility described in such a paragraph, and
     - **(B)** not more than a de minimis amount of the functions to be performed at such office is not directly related to the day-to-day operations at such facility.
@@ -63,7 +61,7 @@ generated_at: "2026-03-30T02:55:27.629Z"
         - **(I)** in any county in which is located a qualified military installation to which the number of members of the Armed Forces of the United States assigned to units based out of such qualified military installation, as of June 1, 2008 , has increased by not less than 20 percent, as compared to such number on December 31, 2005 , or
         - **(II)** in any county adjacent to a county described in subclause (I).
       - **(iv)** For purposes of clause (iii), the term “qualified military installation” means any military installation or facility the number of members of the Armed Forces of the United States assigned to which, as of June 1, 2008 , is not less than 1,000.
-    - **(C)** Rules similar to the rules of section 42(i)(3)(D) shall apply for purposes of this subsection.
+    - **(C)** Rules similar to the rules of 42(i)(3)(D) 1 1 So in original. Probably should be “section 42(i)(3)(D)”. shall apply for purposes of this subsection.
     - **(D)** A unit shall not fail to be treated as a residential unit merely because such unit is a single-room occupancy unit (within the meaning of section 42).
     - **(E)**
       - **(i)** Any determination of area median gross income under subparagraph (B) with respect to any project for any calendar year after 2008 shall not be less than the area median gross income determined under such subparagraph with respect to such project for the calendar year preceding the calendar year for which such determination is made.
@@ -225,7 +223,7 @@ generated_at: "2026-03-30T02:55:27.629Z"
     - **(B)** any project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible and which receives Federal assistance under title 23, United States Code (as so in effect), or
     - **(C)** any facility for the transfer of freight from truck to rail or rail to truck (including any temporary storage facilities directly related to such transfers) which receives Federal assistance under either title 23 or title 49, United States Code (as so in effect).
   - **(2)**
-    - **(A)** The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $30,000,000,000.
+    - **(A)** The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $15,000,000,000.
     - **(B)** An issue shall not be treated as an issue described in subsection (a)(15) if the aggregate face amount of bonds issued pursuant to such issue for any qualified highway or surface freight transfer facility (when added to the aggregate face amount of bonds previously so issued for such facility) exceeds the amount allocated to such facility under subparagraph (C).
     - **(C)** The Secretary of Transportation shall allocate the amount described in subparagraph (A) among qualified highway or surface freight transfer facilities in such manner as the Secretary determines appropriate.
   - **(3)** An issue shall not be treated as an issue described in subsection (a)(15) unless at least 95 percent of the net proceeds of the issue is expended for qualified highway or surface freight transfer facilities within the 5-year period beginning on the date of issuance. If at least 95 percent of such net proceeds is not expended within such 5-year period, an issue shall be treated as continuing to meet the requirements of this paragraph if the issuer uses all unspent proceeds of the issue to redeem bonds of the issue within 90 days after the end of such 5-year period. The Secretary, at the request of the issuer, may extend such 5-year period if the issuer establishes that any failure to meet such period is due to circumstances beyond the control of the issuer.
@@ -233,59 +231,3 @@ generated_at: "2026-03-30T02:55:27.629Z"
     - **(A)** the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
     - **(B)** the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
     - **(C)** the refunded bond is redeemed not later than 90 days after the date of the issuance of the refunding bond.
-- **(n)**
-  - **(1)** For purposes of subsection (a)(16), the term “qualified broadband project” means any project which—
-    - **(A)** is designed to provide broadband service solely to 1 or more census block groups in which more than 50 percent of residential households do not have access to fixed, terrestrial broadband service which delivers at least 25 megabits per second downstream and at least 3 megabits service upstream, and
-    - **(B)** results in internet access to residential locations, commercial locations, or a combination of residential and commercial locations at speeds not less than 100 megabits per second for downloads and 20 megabits for second for uploads, but only if at least 90 percent of the locations provided such access under the project are locations where, before the project, a broadband service provider—
-      - **(i)** did not provide service, or
-      - **(ii)** did not provide service meeting the minimum speed requirements described in subparagraph (A).
-  - **(2)** A project shall not be treated as a qualified broadband project unless, before the issue date of any issue the proceeds of which are to be used to fund the project, the issuer—
-    - **(A)** notifies each broadband service provider providing broadband service in the area within which broadband services are to be provided under the project of the project and its intended scope,
-    - **(B)** includes in such notice a request for information from each such provider with respect to the provider’s ability to deploy, manage, and maintain a broadband network capable of providing gigabit capable Internet access to residential or commercial locations, and
-    - **(C)** allows each such provider at least 90 days to respond to such notice and request.
-- **(o)**
-  - **(1)** For purposes of subsection (a)(17), the term “qualified carbon dioxide capture facility” means—
-    - **(A)** the eligible components of an industrial carbon dioxide facility, and
-    - **(B)** a direct air capture facility (as defined in section 45Q(e)(3)).
-  - **(2)** For purposes of this subsection:
-    - **(A)**
-      - **(i)** The term “eligible component” means any equipment which is installed in an industrial carbon dioxide facility that satisfies the requirements under paragraph (3) and which is—
-        - **(I)** used for the purpose of capture, treatment and purification, compression, transportation, or on-site storage of carbon dioxide produced by the industrial carbon dioxide facility, or
-        - **(II)** integral or functionally related and subordinate to a process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon dioxide and hydrogen for direct use or subsequent chemical or physical conversion.
-      - **(ii)** For purposes of this subparagraph—
-        - **(I)**
-        - **(II)** The term “coal” means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
-    - **(B)**
-      - **(i)** Except as provided in clause (ii), the term “industrial carbon dioxide facility” means a facility that emits carbon dioxide (including from any fugitive emissions source) that is created as a result of any of the following processes:
-        - **(I)** Fuel combustion.
-        - **(II)** Gasification.
-        - **(III)** Bioindustrial.
-        - **(IV)** Fermentation.
-        - **(V)** Any manufacturing industry relating to—
-      - **(ii)** For purposes of clause (i), an industrial carbon dioxide facility shall not include—
-        - **(I)** any geological gas facility, or
-        - **(II)** any air separation unit that—
-      - **(iii)** For purposes of this subparagraph—
-        - **(I)** The term “petroleum residue” means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
-        - **(II)** The term “geological gas facility” means a facility that—
-  - **(3)**
-    - **(A)** Subject to subparagraph (B), the eligible components of an industrial carbon dioxide facility satisfies the requirements of this paragraph if such eligible components are designed to have a capture and storage percentage (as determined under subparagraph (C)) that is equal to or greater than 65 percent.
-    - **(B)** In the case of an industrial carbon dioxide facility designed with a capture and storage percentage that is less than 65 percent, the percentage of the cost of the eligible components installed in such facility that may be financed with tax-exempt bonds may not be greater than the designed capture and storage percentage.
-    - **(C)**
-      - **(i)** Subject to clause (ii), the capture and storage percentage shall be an amount, expressed as a percentage, equal to the quotient of—
-        - **(I)** the total metric tons of carbon dioxide designed to be annually captured, transported, and injected into—
-        - **(II)** the total metric tons of carbon dioxide which would otherwise be released into the atmosphere each year as industrial emission of greenhouse gas if the eligible components were not installed in the industrial carbon dioxide facility.
-      - **(ii)** In the case of eligible components that are designed to capture carbon dioxide solely from specific sources of emissions or portions thereof within an industrial carbon dioxide facility, the capture and storage percentage under this subparagraph shall be determined based only on such specific sources of emissions or portions thereof.
-  - **(4)** The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).
-- **(p)**
-  - **(1)** For purposes of subsection (a)(1), the term “spaceport” means any facility located at or in close proximity to a launch site or reentry site used for—
-    - **(A)** manufacturing, assembling, or repairing spacecraft, space cargo, other facilities described in this paragraph, or any component of the foregoing,
-    - **(B)** flight control operations,
-    - **(C)** providing launch services and reentry services, or
-    - **(D)** transferring crew, spaceflight participants, or space cargo to or from spacecraft.
-  - **(2)** For purposes of paragraph (1)—
-    - **(A)** The term “space cargo” includes satellites, scientific experiments, other property transported into space, and any other type of payload, whether or not such property returns from space.
-    - **(B)** The term “spacecraft” means a launch vehicle or a reentry vehicle.
-    - **(C)** The terms “launch site”, “crew”, “space flight participant”, “launch services”, “launch vehicle”, “payload”, “reentry services”, “reentry site”, a “reentry vehicle” shall have the respective meanings given to such terms by section 50902 of title 51 , United States Code (as in effect on the date of enactment of this subsection).
-  - **(3)** A facility shall not be required to be available for use by the general public to be treated as a spaceport for purposes of this section.
-  - **(4)** With respect to spaceports, subsection (c)(2)(E) shall not apply to spaceport property described in paragraph (1)(A).

@@ -3,9 +3,10 @@ title: "Section 7237 - Priority placement, job placement, retraining, and counse
 usc_title: 42
 usc_section: "7237"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7237"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-03-30T03:06:22.787Z"
+status: "active"
 ---
 
 # § 7237. Priority placement, job placement, retraining, and counseling programs for United States Department of Energy employees affected by reduction in force
@@ -20,10 +21,10 @@ generated_at: "2026-03-30T02:56:11.285Z"
       - **(i)** an employee separated from service for cause on charges of misconduct or delinquency; or
       - **(ii)** an employee who, at the time of separation, meets the age and service requirements for an immediate annuity under subchapter III of chapter 83 or chapter 84 of title 5.
 - **(b)** Not later than 30 days after September 30, 1996 , the United States Department of Energy shall establish an agency-wide priority placement and retraining program for eligible employees.
-- **(c)** The priority placement program established under subsection (b) shall include provisions under which a vacant position shall not be filled by the appointment or transfer of any individual from outside of the agency if—
+- **(c)** The priority placement program established under subsection (b) of this section shall include provisions under which a vacant position shall not be filled by the appointment or transfer of any individual from outside of the agency if—
   - **(1)** there is then available any eligible employee who applies for the position within 30 days of the agency issuing a job announcement and is qualified (or can be trained or retrained to become qualified within 90 days of assuming the position) for the position; and
   - **(2)** the position is within the same commuting area as the eligible employee’s last-held position or residence.
-- **(d)** The head of the agency may establish a program to provide job placement and counseling services to eligible employees. A program established under subsection (d) may include, but is not limited to, such services as—
+- **(d)** The head of the agency may establish a program to provide job placement and counseling services to eligible employees. A program established under subsection (d) of this section may include, but is not limited to, such services as—
   - **(1)** career and personal counseling;
   - **(2)** training and job search skills; and
   - **(3)** job placement assistance, including assistance provided through cooperative arrangements with State and local employment services offices.

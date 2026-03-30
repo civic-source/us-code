@@ -3,16 +3,15 @@ title: "Section 2274 - Space situational awareness services and information: pro
 usc_title: 10
 usc_section: "2274"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2274"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-03-30T03:04:17.275Z"
+status: "active"
 ---
 
 # § 2274. Space situational awareness services and information: provision to non-United States Government entities
 
-- **(a)**
-  - **(1)** Except as provided by paragraph (2), the Secretary of Defense may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities in accordance with this section. Any such action may be taken only if the Secretary determines that such action is consistent with the national security interests of the United States.
-  - **(2)** Beginning January 1, 2024 , the Secretary may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities under paragraph (1) only to the extent that the Secretary determines such actions are necessary to meet the national security interests of the United States.
+- **(a)** The Secretary of Defense may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities in accordance with this section. Any such action may be taken only if the Secretary determines that such action is consistent with the national security interests of the United States.
 - **(b)** The Secretary may provide services and information under subsection (a) to, and may obtain data and information under subsection (a) from, any non-United States Government entity, including any of the following:
   - **(1)** A State.
   - **(2)** A political subdivision of a State.

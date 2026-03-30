@@ -3,9 +3,10 @@ title: "Section 4004 - Disclosure of funds availability policies"
 usc_title: 12
 usc_section: "4004"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 4004"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-03-30T03:04:29.313Z"
+status: "active"
 ---
 
 # § 4004. Disclosure of funds availability policies
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
 - **(d)**
   - **(1)** Each depository institution shall post, in a conspicuous place in each location where deposits are accepted by individuals employed by such depository institution, a specific notice which describes the time periods applicable to the availability of funds deposited in a consumer account.
   - **(2)** In the case of any automated teller machine at which any funds are received for deposit in an account at any depository institution, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
-- **(e)** If a depository institution described in section 4005(b) of this title begins the accrual of interest or dividends at a later date than the date described in section 4005(a) of this title with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
+- **(e)** If a depository institution described in section 4005(b) of this title begins the accrual of interest or dividends at a later date than the date described in section 4005(a) of this title with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) of this section shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
 - **(f)**
   - **(1)** The Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this section and to aid customers by utilizing readily understandable language.
   - **(2)** A depository institution shall be deemed to be in compliance with the requirements of this section if such institution—

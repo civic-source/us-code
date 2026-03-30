@@ -3,9 +3,10 @@ title: "Section 21 - John Glenn Great Lakes basin program"
 usc_title: 42
 usc_section: "21"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-03-30T03:06:22.638Z"
+status: "active"
 ---
 
 # § 1962d–21. John Glenn Great Lakes basin program
@@ -48,5 +49,5 @@ generated_at: "2026-03-30T02:56:11.135Z"
   - **(1)** encourage public participation; and
   - **(2)** cooperate, and, as appropriate, collaborate, with Great Lakes States, tribal governments, and Canadian federal, provincial, and tribal governments.
 - **(e)** The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency and efficiency of State-level water use activities and policies in the Great Lakes basin.
-- **(f)** The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e).
+- **(f)** The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e) of this section.
 - **(g)** The non-Federal interest may provide up to 100 percent of the non-Federal share required under subsection (f) in the form of in-kind services and materials.

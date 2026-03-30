@@ -1,12 +1,17 @@
 ---
-title: "Section 3715 - Transferred"
+title: "Section 3715 - Office of Justice Programs grants, cooperative agreements, and contracts"
 usc_title: 42
 usc_section: "3715"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3715"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.694Z"
+status: "active"
 ---
 
-# § 3715. Transferred
+# § 3715. Office of Justice Programs grants, cooperative agreements, and contracts
 
+Notwithstanding any other provision of law, during any fiscal year the Attorney General—
+
+  - **(1)** may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351 ); 1 1 See References in Text note below. and
+  - **(2)** shall have final authority over all functions, including any grants, cooperative agreements, and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351 ). 1

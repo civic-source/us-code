@@ -3,9 +3,10 @@ title: "Section 4192 - Repealed. Pub. L. 101–246, title I, § 123 , Feb. 16, 1
 usc_title: 22
 usc_section: "4192"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4192"
-generated_at: "2026-03-30T02:55:05.409Z"
+generated_at: "2026-03-30T03:04:53.678Z"
+status: "repealed"
 ---
 
 # § 4192. Repealed. Pub. L. 101–246, title I, § 123 , Feb. 16, 1990 , 104 Stat. 27

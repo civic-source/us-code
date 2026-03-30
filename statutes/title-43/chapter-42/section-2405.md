@@ -3,9 +3,10 @@ title: "Section 2405 - Feasibility studies"
 usc_title: 43
 usc_section: "2405"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 2405"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-03-30T03:06:10.694Z"
+status: "active"
 ---
 
 # § 2405. Feasibility studies

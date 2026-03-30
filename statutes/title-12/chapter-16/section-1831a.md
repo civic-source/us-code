@@ -3,9 +3,10 @@ title: "Section 1831a - Activities of insured State banks"
 usc_title: 12
 usc_section: "1831a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1831a"
-generated_at: "2026-03-30T02:53:53.457Z"
+generated_at: "2026-03-30T03:04:29.272Z"
+status: "active"
 ---
 
 # § 1831a. Activities of insured State banks
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:53.457Z"
     - **(A)** The Corporation shall make a determination under paragraph (1)(A) not later than 60 days after receipt of a completed application that may be required under this subsection.
     - **(B)** The Corporation may extend the 60-day period referred to in subparagraph (A) for not more than 30 additional days, and shall notify the applicant of any such extension.
 - **(b)**
-  - **(1)** Notwithstanding subsection (a), an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
+  - **(1)** Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
   - **(2)** Notwithstanding any other provision of law, an insured State bank or any of its subsidiaries that provided insurance on or before September 30, 1991 , which was reinsured in whole or in part by the Federal Crop Insurance Corporation may continue to provide such insurance.
 - **(c)**
   - **(1)** An insured State bank may not, directly or indirectly, acquire or retain any equity investment of a type that is not permissible for a national bank.

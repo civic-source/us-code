@@ -3,9 +3,10 @@ title: "Section 1660b - Treatment of certain demonstration projects"
 usc_title: 25
 usc_section: "1660b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1660b"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-03-30T03:05:02.875Z"
+status: "active"
 ---
 
 # § 1660b. Treatment of certain demonstration projects
@@ -14,4 +15,4 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
   - **(1)** be permanent programs within the Service’s direct care program;
   - **(2)** continue to be treated as Service units and operating units in the allocation of resources and coordination of care; and
-  - **(3)** continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
+  - **(3)** continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).

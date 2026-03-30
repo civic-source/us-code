@@ -3,9 +3,10 @@ title: "Section 32905 - Manufacturing incentives for alternative fuel automobile
 usc_title: 49
 usc_section: "32905"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 32905"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-03-30T03:06:29.312Z"
+status: "active"
 ---
 
 # § 32905. Manufacturing incentives for alternative fuel automobiles
@@ -20,10 +21,5 @@ generated_at: "2026-03-30T02:56:19.367Z"
 - **(d)** For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993 through 2019, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
   - **(1)** .5 divided by the fuel economy measured under section 32904(c) of this title when operating the model on gasoline or diesel fuel; and
   - **(2)** .5 divided by the fuel economy measured under subsection (c) of this section when operating the model on gaseous fuel.
-- **(e)**
-  - **(1)** At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving range requirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
-    - **(A)** the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(c); and
-    - **(B)** the percentage utilization of the model on electricity, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(a)(2).
-  - **(2)** If the manufacturer does not request that the Administrator calculate the manufacturing incentive for its electric dual fueled automobiles in accordance with paragraph (1), the Administrator shall calculate such incentive for such automobiles manufactured by such manufacturer after model year 2015 in accordance with subsection (b).
-- **(f)** The Administrator shall calculate the manufacturer’s average fuel economy under section 32904(a)(1) of this title for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
-- **(g)** In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006 .
+- **(e)** The Administrator shall calculate the manufacturer’s average fuel economy under section 32904(a)(1) of this title for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
+- **(f)** In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006 .

@@ -3,9 +3,10 @@ title: "Section 3524 - Child custody arrangements"
 usc_title: 18
 usc_section: "3524"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3524"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-03-30T03:04:41.124Z"
+status: "active"
 ---
 
 # § 3524. Child custody arrangements

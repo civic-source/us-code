@@ -1,23 +1,18 @@
 ---
-title: "Section 1726 - Compensation and terms of service"
+title: "Section 1726 - Living allowances and terms of service"
 usc_title: 16
 usc_section: "1726"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1726"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-03-30T03:04:48.578Z"
+status: "active"
 ---
 
-# § 1726. Compensation and terms of service
+# § 1726. Living allowances and terms of service
 
 - **(a)** The Secretary shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount established by the Secretary.
-- **(b)** The Secretary may provide a Corps participant with an educational credit that may be applied toward a program of postsecondary education at an institution of higher education that agrees to award the credit for participation in the Corps.
-- **(c)**
-  - **(1)** Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
-  - **(2)** With respect to the Indian Youth Service Corps established under section 1727b of this title , the Secretary shall establish the term of service of participants in consultation with the affected Indian tribe.
-- **(d)**
-  - **(1)** The Secretary may—
-    - **(A)** grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
-    - **(B)** provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 2 years after the date on which the member’s service with the Public Lands Corps is complete.
-  - **(2)** For purposes of section 9602 of title 5 , a former member of the Corps hired by the Secretary under paragraph (1)(B) for a time-limited appointment shall be considered to be appointed initially under open, competitive examination.
-- **(e)** The hiring and compensation standards described in this section shall apply to any individual participating in an appropriate conservation project through a qualified youth or conservation corps, including an individual placed through a contract or cooperative agreement, as approved by the Secretary.
+- **(b)** Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
+- **(c)** The Secretary may—
+  - **(1)** grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
+  - **(2)** provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 120 days after the date on which the member’s service with the Public Lands Corps is complete.

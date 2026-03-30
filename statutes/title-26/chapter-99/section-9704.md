@@ -3,9 +3,10 @@ title: "Section 9704 - Liability of assigned operators"
 usc_title: 26
 usc_section: "9704"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 9704"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-03-30T03:05:18.758Z"
+status: "active"
 ---
 
 # § 9704. Liability of assigned operators
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
   - **(1)** For plan years ending on or before September 30, 2006 , the unassigned beneficiaries premium for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.
   - **(2)**
     - **(A)** For plan years beginning on or after October 1, 2006 , subject to subparagraph (B), there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
-    - **(B)** If, for any plan year beginning on or after October 1, 2006 , the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator’s applicable percentage of the amount required to be so transferred which was not so transferred.
+    - **(B)** If, for any plan year beginning on or after October 1, 2006 , the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 )), 1 1 So in original. Second closing parenthesis probably should not appear. then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator’s applicable percentage of the amount required to be so transferred which was not so transferred.
 - **(e)**
   - **(1)** The trustees of the Combined Fund shall establish and maintain 3 separate accounts for each of the premiums described in subsections (b), (c), and (d). Such accounts shall be credited with the premiums received and amounts transferred under section 9705(b) and debited with expenditures allocable to such premiums.
   - **(2)**
@@ -48,7 +49,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
 - **(g)**
   - **(1)** The annual premium under subsection (a) for any plan year shall be payable in 12 equal monthly installments, due on the twenty-fifth day of each calendar month in the plan year. In the case of the plan year beginning February 1, 1993 , the annual premium under subsection (a) shall be added to such premium for the plan year beginning October 1, 1993 .
   - **(2)** Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
-- **(h)** The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 1 1 So in original. Probably should be “Commissioner”. may require to compute any premium under this section.
+- **(h)** The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 2 2 So in original. Probably should be “Commissioner”. may require to compute any premium under this section.
 - **(i)**
   - **(1)**
     - **(A)** During the plan year of the Combined Fund beginning February 1, 1993 , the 1988 agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993 .

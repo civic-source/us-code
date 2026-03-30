@@ -3,9 +3,10 @@ title: "Section 3830a - Repealed. Pub. L. 107–171, title I, § 1613(j)(3) , ti
 usc_title: 16
 usc_section: "3830a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3830a"
-generated_at: "2026-03-30T02:54:23.024Z"
+generated_at: "2026-03-30T03:04:48.610Z"
+status: "repealed"
 ---
 
 # § 3830a. Repealed. Pub. L. 107–171, title I, § 1613(j)(3) , title II, § 2006(c), May 13, 2002 , 116 Stat. 221 , 237

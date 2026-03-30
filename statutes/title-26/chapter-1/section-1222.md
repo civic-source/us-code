@@ -3,9 +3,10 @@ title: "Section 1222 - Other terms relating to capital gains and losses"
 usc_title: 26
 usc_section: "1222"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1222"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-03-30T03:05:18.647Z"
+status: "active"
 ---
 
 # § 1222. Other terms relating to capital gains and losses
@@ -22,4 +23,4 @@ For purposes of this subtitle—
   - **(8)** The term “net long-term capital loss” means the excess of long-term capital losses for the taxable year over the long-term capital gains for such year.
   - **(9)** The term “capital gain net income” means the excess of the gains from sales or exchanges of capital assets over the losses from such sales or exchanges.
   - **(10)** The term “net capital loss” means the excess of the losses from sales or exchanges of capital assets over the sum allowed under section 1211. In the case of a corporation, for the purpose of determining losses under this paragraph, amounts which are short-term capital losses under section 1212(a)(1) shall be excluded.
-  - **(11)** The term “net capital gain” means the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year.
+  - **(11)** The term “net capital gain” means the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year. For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.

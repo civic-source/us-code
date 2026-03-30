@@ -3,13 +3,13 @@ title: "Section 3761 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3761"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3761"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-03-30T03:05:59.218Z"
+status: "active"
 ---
 
 # § 3761. Direct housing loans to Native American veterans; program authority
 
 - **(a)** The Secretary shall make direct housing loans to Native American veterans. The purpose of such loans is to permit such veterans to purchase, construct, or improve dwellings on trust land. The Secretary shall make such loans in accordance with the provisions of this subchapter.
 - **(b)** The Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
-- **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out this subchapter.

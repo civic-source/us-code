@@ -3,9 +3,10 @@ title: "Section 6381 - Verification examinations"
 usc_title: 42
 usc_section: "6381"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6381"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-03-30T03:06:22.766Z"
+status: "active"
 ---
 
 # § 6381. Verification examinations
@@ -16,9 +17,9 @@ generated_at: "2026-03-30T02:56:11.261Z"
     - **(A)** if such person has furnished, directly or indirectly, energy information (without regard to whether such information was furnished pursuant to legal requirements) to any Federal agency (other than the Internal Revenue Service), and
     - **(B)** if the Comptroller General of the United States determines that such information has been or is being used or taken into consideration, in whole or in part, by a Federal agency in carrying out responsibilities committed to such agency; or
   - **(3)** any vertically integrated petroleum company with respect to financial information of such company related to energy resource exploration, development, and production and the transportation, refining and marketing of energy resources and energy products.
-- **(b)** The Comptroller General shall conduct verification examinations of any person or company described in subsection (a), if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
+- **(b)** The Comptroller General shall conduct verification examinations of any person or company described in subsection (a) of this section, if requested to do so by any duly established committee of the Congress having legislative or oversight responsibilities under the rules of the House of Representatives or of the Senate, with respect to energy matters or any of the laws administered by the Department of the Interior (or the Secretary thereof), the Federal Energy Regulatory Commission, or the Secretary.
 - **(c)** For the purposes of this subchapter—
-  - **(1)** The term “verification examination” means an examination of such books, records, papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a).
+  - **(1)** The term “verification examination” means an examination of such books, records, papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a) of this section.
   - **(2)** The term “energy information” has the same meaning as such term has in section 796(e)(1) of title 15 .
   - **(3)** The term “person” has the same meaning as such term has in section 796(e)(2) of title 15 .
   - **(4)** The term “vertically integrated petroleum company” means any person which itself, or through a person which is controlled by, controls, or is under common control with such person, is engaged in the production, refining, and marketing of petroleum products.

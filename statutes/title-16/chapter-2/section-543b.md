@@ -3,9 +3,10 @@ title: "Section 543b - Acquisition of lands"
 usc_title: 16
 usc_section: "543b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 543b"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-03-30T03:04:48.496Z"
+status: "active"
 ---
 
 # § 543b. Acquisition of lands
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:54:22.869Z"
   - **(1)** any lands or interests therein within the boundary of the Scenic Area which are owned by the State of California or any political subdivision thereof (including the city of Los Angeles) may be acquired only by donation or exchange; and
   - **(2)** lands or interests therein within the boundary of the Scenic Area which are not owned by the State of California or any political subdivision thereof (including the city of Los Angeles) may be acquired only with the consent of the owner thereof unless the Secretary determines, after written notice to the owner and after opportunity for comment, that the property is being developed, or proposed to be developed, in a manner which is detrimental to the integrity of the Scenic Area or which is otherwise incompatible with the purposes of sections 543 to 543h of this title.
 - **(b)**
-  - **(1)** Not later than six months after September 28, 1984 , the Secretary shall publish specific guidelines under which determinations shall be made under paragraph (2) of subsection (a). No use which existed prior to June 1, 1984 , within the area included in the Scenic Area shall be treated under such guidelines as a detrimental or incompatible use within the meaning of such paragraph (2).
-  - **(2)** For purposes of subsection (a)(2), any development or proposed development of private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984 , shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
+  - **(1)** Not later than six months after September 28, 1984 , the Secretary shall publish specific guidelines under which determinations shall be made under paragraph (2) of subsection (a) of this section. No use which existed prior to June 1, 1984 , within the area included in the Scenic Area shall be treated under such guidelines as a detrimental or incompatible use within the meaning of such paragraph (2).
+  - **(2)** For purposes of subsection (a)(2) of this section, any development or proposed development of private property within the boundary of the Scenic Area that is significantly different from, or a significant expansion of, development existing as of June 1, 1984 , shall be considered by the Secretary as detrimental to the integrity of the Scenic Area. No reconstruction or expansion of a private or commercial building, including—
     - **(A)** reconstruction of an existing building,
     - **(B)** construction of attached structural additions, not to exceed 100 per centum of the square footage of the original building, and
-    - **(C)** construction of reasonable support development such as roads, parking, water and sewage systems shall be treated as detrimental to the integrity of the Scenic Area or as an incompatible development within the meaning of paragraph (2) of subsection (a).
+    - **(C)** construction of reasonable support development such as roads, parking, water and sewage systems shall be treated as detrimental to the integrity of the Scenic Area or as an incompatible development within the meaning of paragraph (2) of subsection (a) of this section.
 - **(c)** Notwithstanding any other provision of law, the Secretary shall only be required to prepare an environmental assessment of any exchange of mineral or geothermal interest authorized by sections 543 to 543h of this title.

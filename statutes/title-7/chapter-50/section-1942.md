@@ -3,14 +3,15 @@ title: "Section 1942 - Purposes of loans"
 usc_title: 7
 usc_section: "1942"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1942"
-generated_at: "2026-03-30T02:53:42.349Z"
+generated_at: "2026-03-30T03:04:20.945Z"
+status: "active"
 ---
 
 # § 1942. Purposes of loans
 
-- **(a)** A direct loan (including a microloan, as defined by the Secretary) may be made under this subchapter only for—
+- **(a)** A direct loan may be made under this subchapter only for—
   - **(1)** paying the costs incident to reorganizing a farm or ranch for more profitable operation;
   - **(2)** purchasing livestock, poultry, or farm or ranch equipment;
   - **(3)** purchasing feed, seed, fertilizer, insecticide, or farm or ranch supplies, or to meet other essential farm or ranch operating expenses, including cash rent;
@@ -44,6 +45,3 @@ generated_at: "2026-03-30T02:53:42.349Z"
     - **(A)** 10 percent of the loan;
     - **(B)** $5,000; or
     - **(C)** the amount needed to provide for the basic family needs of the borrower and the borrower’s immediate family for 3 calendar months.
-- **(e)**
-  - **(1)** The Secretary shall develop ways to determine unit prices (or other appropriate forms of valuation) for crops and other agricultural products, the end use of which is intended to be in locally or regionally produced agricultural food products, to facilitate lending to local and regional food producers.
-  - **(2)** The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.

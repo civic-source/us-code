@@ -3,9 +3,10 @@ title: "Section 7212 - Elements of contracts"
 usc_title: 7
 usc_section: "7212"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7212"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-03-30T03:04:21.012Z"
+status: "active"
 ---
 
 # § 7212. Elements of contracts
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
 - **(b)**
   - **(1)** The term of a contract shall begin with—
     - **(A)** the 1996 crop of a contract commodity; or
-    - **(B)** in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3), the date the production flexibility contract was entered into or expanded to cover the acreage.
+    - **(B)** in the case of acreage that was subject to a conservation reserve contract described in subsection (a)(3) of this section, the date the production flexibility contract was entered into or expanded to cover the acreage.
   - **(2)** The term of a contract shall extend through the 2002 crop, unless earlier terminated by the owner or producer.
 - **(c)** At the time the Secretary enters into a contract, the Secretary shall provide an estimate of the minimum contract payments anticipated to be made during at least the first fiscal year for which contract payments will be made.
 - **(d)**

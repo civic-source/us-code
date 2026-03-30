@@ -3,14 +3,15 @@ title: "Section 2108 - Consolidation of payments"
 usc_title: 16
 usc_section: "2108"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2108"
-generated_at: "2026-03-30T02:54:22.999Z"
+generated_at: "2026-03-30T03:04:48.590Z"
+status: "active"
 ---
 
 # § 2108. Consolidation of payments
 
-- **(a)** To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under section 2103 1 1 See References in Text note below. of this title or money from any special Treasury fund established under this chapter.
+- **(a)** To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under section 2103 of this title or money from any special Treasury fund established under this chapter.
 - **(b)** Consolidation of payments made under this section shall be based upon State forest resources programs developed by State foresters or equivalent State officials, and reviewed by the Secretary.
 - **(c)** Consolidated payments to any State during any fiscal year shall not exceed the total amount of non-Federal funds expended within the State during that year to implement its State forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
 - **(d)** The Secretary may make consolidated payments on the certificate of the State forester or equivalent State official that the conditions for Federal payment have been met.

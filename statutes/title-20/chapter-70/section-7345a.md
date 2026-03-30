@@ -3,32 +3,25 @@ title: "Section 7345a - Grant program authorized"
 usc_title: 20
 usc_section: "7345a"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7345a"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-03-30T03:04:46.360Z"
+status: "active"
 ---
 
 # § 7345a. Grant program authorized
 
 - **(a)** The Secretary is authorized to award grants to eligible local educational agencies to enable the local educational agencies to carry out activities authorized under any of the following provisions:
-  - **(1)** Part A of subchapter I.
-  - **(2)** Part A of subchapter II.
-  - **(3)** Subchapter III.
-  - **(4)** Part A or B of subchapter IV.
+  - **(1)** Part A of subchapter I of this chapter.
+  - **(2)** Part A or D of subchapter II of this chapter.
+  - **(3)** Subchapter III of this chapter.
+  - **(4)** Part A or B of subchapter IV of this chapter.
+  - **(5)** Part A of subchapter V of this chapter.
 - **(b)**
-  - **(1)**
-    - **(A)** Except as provided in paragraphs (3) and (4), the Secretary shall award a grant under subsection (a) to a local educational agency eligible under section 7345(b) of this title for a fiscal year in an amount equal to the initial amount determined under paragraph (2) for the fiscal year minus the total amount received by the agency under the provisions of law described in section 7345(c) of this title for the preceding fiscal year.
-    - **(B)** For a local educational agency that is eligible under section 7345(b)(1)(C) of this title and is a member of an educational service agency, the Secretary may determine the award amount by subtracting from the initial amount determined under paragraph (2), an amount that is equal to that local educational agency’s per-pupil share of the total amount received by the educational service agency under the provisions described in section 7345(c) of this title , as long as a determination under this subparagraph would not disproportionately affect any State.
-  - **(2)**
-    - **(A)** The initial amount referred to in paragraph (1) is equal to $100 multiplied by the total number of students in excess of 50 students, in average daily attendance at the schools served by the local educational agency, plus $20,000, except that the initial amount may not exceed $60,000.
-    - **(B)** For any fiscal year for which the amount made available to carry out this part is $265,000,000 or more, subparagraph (A) shall be applied—
-      - **(i)** by substituting “$25,000” for “$20,000”; and
-      - **(ii)** by substituting “$80,000” for “$60,000”.
+  - **(1)** Except as provided in paragraph (3), the Secretary shall award a grant under subsection (a) of this section to a local educational agency eligible under section 7345(b) of this title for a fiscal year in an amount equal to the initial amount determined under paragraph (2) for the fiscal year minus the total amount received by the agency under the provisions of law described in section 7345(c) of this title for the preceding fiscal year.
+  - **(2)** The initial amount referred to in paragraph (1) is equal to $100 multiplied by the total number of students in excess of 50 students, in average daily attendance at the schools served by the local educational agency, plus $20,000, except that the initial amount may not exceed $60,000.
   - **(3)**
     - **(A)** If the amount made available to carry out this section for any fiscal year is not sufficient to pay in full the amounts that local educational agencies are eligible to receive under paragraph (1) for such year, the Secretary shall ratably reduce such amounts for such year.
     - **(B)** If additional funds become available for making payments under paragraph (1) for such fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
-  - **(4)** For a local educational agency that is not eligible under this subpart due to amendments made by the Every Student Succeeds Act to section 7345(b)(1)(A)(ii) of this title but met the eligibility requirements under section 7345(b) of this title as such section was in effect on the day before December 10, 2015 , the agency shall receive—
-    - **(A)** for fiscal year 2017, 75 percent of the amount such agency received for fiscal year 2015;
-    - **(B)** for fiscal year 2018, 50 percent of the amount such agency received for fiscal year 2015; and
-    - **(C)** for fiscal year 2019, 25 percent of the amount such agency received for fiscal year 2015.
 - **(c)** The Secretary shall disburse the funds awarded to a local educational agency under this section for a fiscal year not later than July 1 of that fiscal year.
+- **(d)** A local educational agency that is eligible to receive a grant under this subpart for a fiscal year is not eligible to receive funds for such fiscal year under subpart 2 of this part.

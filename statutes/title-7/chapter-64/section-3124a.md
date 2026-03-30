@@ -3,9 +3,10 @@ title: "Section 3124a - Federal-State partnership and coordination"
 usc_title: 7
 usc_section: "3124a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3124a"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-03-30T03:04:20.977Z"
+status: "active"
 ---
 
 # § 3124a. Federal-State partnership and coordination
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:53:42.394Z"
 - **(d)** To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
 - **(e)**
   - **(1)** All meetings of any entity described in paragraph (3) shall be publicly announced in advance and shall be open to the public. Detailed minutes of meetings and other appropriate records of the activities of such an entity shall be kept and made available to the public on request.
-  - **(2)** Chapter 10 of title 5 and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to any entity described in paragraph (3).
+  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to any entity described in paragraph (3).
   - **(3)** This subsection shall apply to any committee, board, commission, panel, or task force, or similar entity that—
     - **(A)** is created for the purpose of cooperative efforts in agricultural research, extension, or teaching; and
     - **(B)** consists entirely of—

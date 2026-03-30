@@ -3,9 +3,10 @@ title: "Section 9843 - Technical assistance and training"
 usc_title: 42
 usc_section: "9843"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9843"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-03-30T03:06:22.861Z"
+status: "active"
 ---
 
 # § 9843. Technical assistance and training
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(A)** give priority consideration to—
       - **(i)** activities to correct program and management deficiencies identified through reviews carried out pursuant to section 9836a(c) of this title (including the provision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title );
       - **(ii)** assisting Head Start agencies in ensuring the school readiness of children; and
-      - **(iii)** activities that supplement those funded with amounts provided under section 9835(a)(5)(B) of this title to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities 1 1 So in original. Probably should be followed by a closing parenthesis. and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
+      - **(iii)** activities that supplement those funded with amounts provided under section 9835(a)(5)(B) of this title to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities, and for activities described in section 6372(d) of title 20 ), and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
     - **(B)** to the maximum extent practicable—
       - **(i)** assist Head Start agencies in the development of collaborative initiatives with States and other entities within the States, to foster effective professional development systems for early childhood education and development services;
       - **(ii)** provide technical assistance and training, either directly or through a grant, contract, or cooperative agreement with an entity that has experience in the development and operation of successful family literacy services programs, for the purpose of—

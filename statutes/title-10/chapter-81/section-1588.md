@@ -3,9 +3,10 @@ title: "Section 1588 - Authority to accept certain voluntary services"
 usc_title: 10
 usc_section: "1588"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1588"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-03-30T03:04:17.262Z"
+status: "active"
 ---
 
 # § 1588. Authority to accept certain voluntary services
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(a)** Subject to subsection (b) and notwithstanding section 1342 of title 31 , the Secretary concerned may accept from any person the following services:
   - **(1)** Voluntary medical services, dental services, nursing services, or other health-care related services.
   - **(2)** Voluntary services to be provided for a museum or a natural resources program.
-  - **(3)** Voluntary services to be provided for programs providing services to members of the uniformed services and the families of such members, including the following programs:
+  - **(3)** Voluntary services to be provided for programs providing services to members of the armed forces and the families of such members, including the following programs:
     - **(A)** Family support programs.
     - **(B)** Child development and youth services programs.
     - **(C)** Library and education programs.
@@ -27,7 +28,6 @@ generated_at: "2026-03-30T02:53:38.131Z"
   - **(7)** Voluntary translation or interpretation services offered with respect to a foreign language by a person (A) who is registered for such foreign language on the National Foreign Language Skills Registry under section 1596b of this title , or (B) who otherwise is approved to provide voluntary translation or interpretation services for national security purposes, as determined by the Secretary of Defense.
   - **(8)** Voluntary services to support programs of a committee of the Employer Support of the Guard and Reserve as authorized by the Secretary of Defense.
   - **(9)** Voluntary services to facilitate accounting for missing persons.
-  - **(10)** Voluntary legal support services provided by law students through internship and externship programs approved by the Secretary concerned.
 - **(b)**
   - **(1)** The Secretary concerned shall notify the person of the scope of the services accepted.
   - **(2)** With respect to a person providing voluntary services accepted under subsection (a), the Secretary concerned shall—
@@ -57,4 +57,3 @@ generated_at: "2026-03-30T02:53:38.131Z"
   - **(2)** In the case of equipment installed under the authority of paragraph (1), the Secretary concerned may pay the charges incurred for the use of the equipment for authorized purposes.
   - **(3)** To carry out this subsection, the Secretary concerned may use appropriated funds (notwithstanding section 1348 of title 31 ) or nonappropriated funds of the military department under the jurisdiction of the Secretary or, with respect to the Coast Guard, the department in which the Coast Guard is operating.
   - **(4)** The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
-- **(g)** For purposes of the acceptance of services described in subsection (a)(3), the term “Secretary concerned” in subsection (a) shall include the Secretary of Commerce with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration.

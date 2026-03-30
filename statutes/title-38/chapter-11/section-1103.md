@@ -3,12 +3,13 @@ title: "Section 1103 - Special provisions relating to claims based upon effects 
 usc_title: 38
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 1103"
-generated_at: "2026-03-30T02:55:53.476Z"
+generated_at: "2026-03-30T03:05:59.192Z"
+status: "active"
 ---
 
 # § 1103. Special provisions relating to claims based upon effects of tobacco products
 
-- **(a)** Notwithstanding any other provision of law, a veteran’s disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, air, or space service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran’s service.
-- **(b)** Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, air, or space service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.
+- **(a)** Notwithstanding any other provision of law, a veteran’s disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, or air service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran’s service.
+- **(b)** Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, or air service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.

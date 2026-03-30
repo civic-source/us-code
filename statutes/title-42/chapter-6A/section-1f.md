@@ -3,9 +3,10 @@ title: "Section 1f - Prevention of falls among older adults"
 usc_title: 42
 usc_section: "1f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1f"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-03-30T03:06:22.331Z"
+status: "active"
 ---
 
 # § 280b–1f. Prevention of falls among older adults

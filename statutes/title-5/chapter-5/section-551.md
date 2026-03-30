@@ -3,9 +3,10 @@ title: "Section 551 - Definitions"
 usc_title: 5
 usc_section: "551"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 551"
-generated_at: "2026-03-30T02:52:55.985Z"
+generated_at: "2026-03-30T03:04:06.054Z"
+status: "active"
 ---
 
 # § 551. Definitions
@@ -20,7 +21,7 @@ For the purpose of this subchapter—
     - **(E)** agencies composed of representatives of the parties or of representatives of organizations of the parties to the disputes determined by them;
     - **(F)** courts martial and military commissions;
     - **(G)** military authority exercised in the field in time of war or in occupied territory; or
-    - **(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1 1 See References in Text note below.
+    - **(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix;
   - **(2)** “person” includes an individual, partnership, corporation, association, or public or private organization other than an agency;
   - **(3)** “party” includes a person or agency named or admitted as a party, or properly seeking and entitled as of right to be admitted as a party, in an agency proceeding, and a person or agency admitted by an agency as a party for limited purposes;
   - **(4)** “rule” means the whole or a part of an agency statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the organization, procedure, or practice requirements of an agency and includes the approval or prescription for the future of rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services or allowances therefor or of valuations, costs, or accounting, or practices bearing on any of the foregoing;

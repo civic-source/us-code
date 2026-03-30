@@ -3,9 +3,10 @@ title: "Section 2296 - United States assistance to promote reconciliation and re
 usc_title: 22
 usc_section: "2296"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2296"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-03-30T03:04:53.631Z"
+status: "active"
 ---
 
 # § 2296. United States assistance to promote reconciliation and recovery from regional conflicts
@@ -15,9 +16,9 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(2)** the promotion of economic development in areas of the countries of the South Caucasus and Central Asia impacted by civil conflict and war; and
   - **(3)** the encouragement of broad regional cooperation among countries of the South Caucasus and Central Asia that have been destabilized by internal conflicts.
 - **(b)**
-  - **(1)** To carry out the purposes of subsection (a), the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
+  - **(1)** To carry out the purposes of subsection (a) of this section, the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
   - **(2)** In this subsection, the term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies and equipment, education, and clothing.
-- **(c)** Activities that may be supported by assistance under subsection (b) include—
+- **(c)** Activities that may be supported by assistance under subsection (b) of this section include—
   - **(1)** providing for the humanitarian needs of victims of the conflicts;
   - **(2)** facilitating the return of refugees and internally displaced persons to their homes; and
   - **(3)** assisting in the reconstruction of residential and economic infrastructure destroyed by war.

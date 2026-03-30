@@ -3,9 +3,10 @@ title: "Section 2399c - Coordination of policies and programs"
 usc_title: 22
 usc_section: "2399c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2399c"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-03-30T03:04:53.638Z"
+status: "active"
 ---
 
 # § 2399c. Coordination of policies and programs
@@ -16,8 +17,8 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(2)** representatives of the United States Government in each country, under the direction of the Chief of the United States Diplomatic Mission.
 - **(c)** Programs authorized by this chapter shall be undertaken with the foreign policy guidance of the Secretary of State.
 - **(d)**
-- **(e)** The head of any of the departments or agencies referred to in subsection (a) may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
-- **(f)** To carry out the purposes of subsection (a), the Committee shall—
+- **(e)** The head of any of the departments or agencies referred to in subsection (a) of this section may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
+- **(f)** To carry out the purposes of subsection (a) of this section, the Committee shall—
   - **(1)** prepare studies on various development problems;
   - **(2)** devise implementation strategies on developmental problems appropriate to each such department or agency;
   - **(3)** monitor and evaluate the results of the development activities of each such department or agency; and

@@ -3,9 +3,10 @@ title: "Section 8532 - Middle distillate monitoring program"
 usc_title: 42
 usc_section: "8532"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 8532"
-generated_at: "2026-03-30T02:56:11.345Z"
+generated_at: "2026-03-30T03:06:22.838Z"
+status: "active"
 ---
 
 # § 8532. Middle distillate monitoring program
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:56:11.345Z"
   - **(3)** All data and information collected under this program shall be available to the Congress and committees of the Congress, and, in accordance with otherwise applicable law, to appropriate State and Federal agencies and the public.
   - **(4)** Nothing in this subsection authorizes the direct or indirect regulation of the price of any middle distillate.
   - **(5)** For purposes of this section, the term “middle distillate” has the same meaning as given that term in section 211.51 of title 10, Code of Federal Regulations, as in effect on November 5, 1979 .
-- **(b)** Before December 31, 1979 , the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1) 1 1 See References in Text note below. of title 15.
+- **(b)** Before December 31, 1979 , the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) of this section and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1) 1 1 See References in Text note below. of title 15.

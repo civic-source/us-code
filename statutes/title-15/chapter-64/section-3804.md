@@ -3,12 +3,13 @@ title: "Section 3804 - Coordination with other Federal departments and agencies"
 usc_title: 15
 usc_section: "3804"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3804"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-03-30T03:04:31.223Z"
+status: "active"
 ---
 
 # § 3804. Coordination with other Federal departments and agencies
 
-- **(a)** In carrying out the programs established under sections 3803 and 3806 of this title, the Secretary shall assure, to the maximum extent practicable, that the functions of this program are coordinated with related regulatory activities and other responsibilities of the Department of Energy and any other Federal departments or agencies.
+- **(a)** In carrying out the programs established under sections 3803 and 3806 of this title, the Secretary shall assure, to the maximum extent practicable, that the functions of this program are coordinated with related regulatory activities and other responsibilities of the Department of Energy and any other Federal departments of agencies.
 - **(b)** Each department, agency, and instrumentality of the executive branch of the Federal Government shall carefully consider any written request from the Secretary, the head of any organizational entity designated by the Secretary pursuant to section 3803(a) of this title , or the head of any agency which is party to an agreement or arrangement pursuant to section 3803(b) of this title , to furnish such assistance, on a reimbursable basis, as the Secretary or such head deems necessary to carry out the program and to achieve the purposes of this chapter. Such assistance may include transfer of personnel with their consent and without prejudice to their position and rating.

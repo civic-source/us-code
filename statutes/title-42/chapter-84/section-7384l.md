@@ -3,9 +3,10 @@ title: "Section 7384l - Definitions for program administration"
 usc_title: 42
 usc_section: "7384l"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7384l"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-03-30T03:06:22.792Z"
+status: "active"
 ---
 
 # § 7384l. Definitions for program administration
@@ -44,9 +45,7 @@ In this subchapter:
       - **(ii)** any contractor or subcontractor that provided services, including construction and maintenance, at such a facility.
     - **(C)** A current or former employee of a beryllium vendor, or of a contractor or subcontractor of a beryllium vendor, during a period when the vendor was engaged in activities related to the production or processing of beryllium for sale to, or use by, the Department of Energy.
   - **(8)** The term “covered beryllium illness” means any of the following:
-    - **(A)** Beryllium sensitivity as established by—
-      - **(i)** an abnormal beryllium lymphocyte proliferation test performed on either blood or lung lavage cells; or
-      - **(ii)** three borderline beryllium lymphocyte proliferation tests performed on blood cells over a period of 3 years.
+    - **(A)** Beryllium sensitivity as established by an abnormal beryllium lymphocyte proliferation test performed on either blood or lung lavage cells.
     - **(B)** Established chronic beryllium disease.
     - **(C)** Any injury, illness, impairment, or disability sustained as a consequence of a covered beryllium illness referred to in subparagraph (A) or (B).
   - **(9)** The term “covered employee with cancer” means any of the following:

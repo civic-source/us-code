@@ -3,9 +3,10 @@ title: "Section 7103 - Definitions; application"
 usc_title: 5
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 7103"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-03-30T03:04:06.089Z"
+status: "active"
 ---
 
 # § 7103. Definitions; application
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:52:56.034Z"
       - **(iii)** a supervisor or a management official;
       - **(iv)** an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
       - **(v)** any person who participates in a strike in violation of section 7311 of this title ;
-  - **(3)** “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution 1 1 So in original. Probably should be followed by a comma. but does not include—
+  - **(3)** “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution 1 1 So in original. Probably should be followed by a comma. but does not include—
     - **(A)** the Government Accountability Office;
     - **(B)** the Federal Bureau of Investigation;
     - **(C)** the Central Intelligence Agency;

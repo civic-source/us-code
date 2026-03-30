@@ -3,9 +3,10 @@ title: "Section 1771 - General Accounting Office study"
 usc_title: 8
 usc_section: "1771"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1771"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-03-30T03:04:14.648Z"
+status: "active"
 ---
 
 # § 1771. General Accounting Office study
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:53:10.508Z"
 - **(a)**
   - **(1)** The Comptroller General of the United States shall conduct a study to determine the feasibility and utility of implementing a requirement that each nonimmigrant alien in the United States submit to the Commissioner of Immigration and Naturalization each year a current address and, where applicable, the name and address of an employer.
   - **(2)** In paragraph (1), the term “nonimmigrant alien” means an alien described in section 1101(a)(15) of this title .
-- **(b)** Not later than 1 year after May 14, 2002 , the Comptroller General shall submit to Congress a report on the results of the study under subsection (a). The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
+- **(b)** Not later than 1 year after May 14, 2002 , the Comptroller General shall submit to Congress a report on the results of the study under subsection (a) of this section. The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.

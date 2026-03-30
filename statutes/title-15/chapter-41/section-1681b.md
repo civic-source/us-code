@@ -3,15 +3,16 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-03-30T02:54:08.147Z"
+generated_at: "2026-03-30T03:04:31.182Z"
+status: "active"
 ---
 
 # § 1681b. Permissible purposes of consumer reports
 
-- **(a)** Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
-  - **(1)** In response to the order of a court having jurisdiction to issue such an order, a subpoena issued in connection with proceedings before a Federal grand jury, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18 .
+- **(a)** Subject to subsection (c) of this section, any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
+  - **(1)** In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
   - **(2)** In accordance with the written instructions of the consumer to whom it relates.
   - **(3)** To a person which it has reason to believe—
     - **(A)** intends to use the information in connection with a credit transaction involving the consumer on whom the information is to be furnished and involving the extension of credit to, or review or collection of an account of, the consumer; or
@@ -24,9 +25,10 @@ generated_at: "2026-03-30T02:54:08.147Z"
       - **(ii)** to review an account to determine whether the consumer continues to meet the terms of the account.
     - **(G)** executive departments and agencies in connection with the issuance of government-sponsored individually-billed travel charge cards.
   - **(4)** In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
-    - **(A)** the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment;
-    - **(B)** the parentage of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws); and
-    - **(C)** the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+    - **(A)** the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments or determining the appropriate level of such payments;
+    - **(B)** the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
+    - **(C)** the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
+    - **(D)** the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
   - **(5)** To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
   - **(6)** To the Federal Deposit Insurance Corporation or the National Credit Union Administration as part of its preparation for its appointment or as part of its exercise of powers, as conservator, receiver, or liquidating agent for an insured depository institution or insured credit union under the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.] or the Federal Credit Union Act [ 12 U.S.C. 1751 et seq.], or other applicable Federal or State law, or in connection with the resolution or liquidation of a failed or failing insured depository institution or insured credit union, as applicable.
 - **(b)**
@@ -79,12 +81,12 @@ generated_at: "2026-03-30T02:54:08.147Z"
       - **(i)** The term “classified information” means information that is protected from unauthorized disclosure under Executive Order No. 12958 or successor orders.
       - **(ii)** The term “national security investigation” means any official inquiry by an agency or department of the United States Government to determine the eligibility of a consumer to receive access or continued access to classified information or to determine whether classified information has been lost or compromised.
 - **(c)**
-  - **(1)** A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) in connection with any credit or insurance transaction that is not initiated by the consumer only if—
+  - **(1)** A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) of this section in connection with any credit or insurance transaction that is not initiated by the consumer only if—
     - **(A)** the consumer authorizes the agency to provide such report to such person; or
     - **(B)**
       - **(i)** the transaction consists of a firm offer of credit or insurance;
-      - **(ii)** the consumer reporting agency has complied with subsection (e);
-      - **(iii)** there is not in effect an election by the consumer, made in accordance with subsection (e), to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
+      - **(ii)** the consumer reporting agency has complied with subsection (e) of this section;
+      - **(iii)** there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
       - **(iv)** the consumer report does not contain a date of birth that shows that the consumer has not attained the age of 21, or, if the date of birth on the consumer report shows that the consumer has not attained the age of 21, such consumer consents to the consumer reporting agency to such furnishing.
   - **(2)** A person may receive pursuant to paragraph (1)(B) only—
     - **(A)** the name and address of a consumer;
@@ -93,7 +95,7 @@ generated_at: "2026-03-30T02:54:08.147Z"
   - **(3)** Except as provided in section 1681g(a)(5) of this title , a consumer reporting agency shall not furnish to any person a record of inquiries in connection with a credit or insurance transaction that is not initiated by a consumer.
 - **(d)**
 - **(e)**
-  - **(1)** A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+  - **(1)** A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
   - **(2)** A consumer shall notify a consumer reporting agency under paragraph (1)—
     - **(A)** through the notification system maintained by the agency under paragraph (5); or
     - **(B)** by submitting to the agency a signed notice of election form issued by the agency for purposes of this subparagraph.
@@ -108,7 +110,7 @@ generated_at: "2026-03-30T02:54:08.147Z"
     - **(C)** shall not be effective after the date on which the consumer notifies the agency, through the notification system established by the agency under paragraph (5), that the election is no longer effective; and
     - **(D)** shall be effective with respect to each affiliate of the agency.
   - **(5)**
-    - **(A)** Each consumer reporting agency that, under subsection (c)(1)(B), furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
+    - **(A)** Each consumer reporting agency that, under subsection (c)(1)(B) of this section, furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
       - **(i)** establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer’s election to have the consumer’s name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
       - **(ii)** publish by not later than 365 days after September 30, 1996 , and not less than annually thereafter, in a publication of general circulation in the area served by the agency—
         - **(I)** a notification that information in consumer files maintained by the agency may be used in connection with such transactions; and

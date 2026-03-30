@@ -3,9 +3,10 @@ title: "Section 707 - Dismissal of a case or conversion to a case under chapter 
 usc_title: 11
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 707"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-03-30T03:04:35.849Z"
+status: "active"
 ---
 
 # § 707. Dismissal of a case or conversion to a case under chapter 11 or 13
@@ -19,13 +20,13 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(2)**
     - **(A)**
       - **(i)** In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shall presume abuse exists if the debtor’s current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of—
-        - **(I)** 25 percent of the debtor’s nonpriority unsecured claims in the case, or $6,000, 1 1 See Adjustment of Dollar Amounts notes below. whichever is greater; or
-        - **(II)** $10,000. 1
+        - **(I)** 25 percent of the debtor’s nonpriority unsecured claims in the case, or $6,000, whichever is greater; or
+        - **(II)** $10,000.
       - **(ii)**
         - **(I)** The debtor’s monthly expenses shall be the debtor’s applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor’s actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor’s monthly expenses shall include the debtor’s reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor’s monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor’s monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
-        - **(II)** In addition, the debtor’s monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor’s immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
+        - **(II)** In addition, the debtor’s monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor’s immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses.
         - **(III)** In addition, for a debtor eligible for chapter 13, the debtor’s monthly expenses may include the actual administrative expenses of administering a chapter 13 plan for the district in which the debtor resides, up to an amount of 10 percent of the projected plan payments, as determined under schedules issued by the Executive Office for United States Trustees.
-        - **(IV)** In addition, the debtor’s monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 1 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
+        - **(IV)** In addition, the debtor’s monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
         - **(V)** In addition, the debtor’s monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
       - **(iii)** The debtor’s average monthly payments on account of secured debts shall be calculated as the sum of—
         - **(I)** the total of all amounts scheduled as contractually due to secured creditors in each month of the 60 months following the date of the filing of the petition; and
@@ -38,8 +39,8 @@ generated_at: "2026-03-30T02:53:53.880Z"
         - **(II)** a detailed explanation of the special circumstances that make such expenses or adjustment to income necessary and reasonable.
       - **(iii)** The debtor shall attest under oath to the accuracy of any information provided to demonstrate that additional expenses or adjustments to income are required.
       - **(iv)** The presumption of abuse may only be rebutted if the additional expenses or adjustments to income referred to in clause (i) cause the product of the debtor’s current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv) of subparagraph (A) when multiplied by 60 to be less than the lesser of—
-        - **(I)** 25 percent of the debtor’s nonpriority unsecured claims, or $6,000, 1 whichever is greater; or
-        - **(II)** $10,000. 1
+        - **(I)** 25 percent of the debtor’s nonpriority unsecured claims, or $6,000, whichever is greater; or
+        - **(II)** $10,000.
     - **(C)** As part of the schedule of current income and expenditures required under section 521, the debtor shall include a statement of the debtor’s current monthly income, and the calculations that determine whether a presumption arises under subparagraph (A)(i), that show how each such amount is calculated.
     - **(D)** Subparagraphs (A) through (C) shall not apply, and the court may not dismiss or convert a case based on any form of means testing—
       - **(i)** if the debtor is a disabled veteran (as defined in section 3741(1) of title 38 ), and the indebtedness occurred primarily during a period during which he or she was—
@@ -72,7 +73,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
       - **(ii)** the court finds that—
         - **(I)** the position of the party that filed the motion violated rule 9011 of the Federal Rules of Bankruptcy Procedure; or
         - **(II)** the attorney (if any) who filed the motion did not comply with the requirements of clauses (i) and (ii) of paragraph (4)(C), and the motion was made solely for the purpose of coercing a debtor into waiving a right guaranteed to the debtor under this title.
-    - **(B)** A small business that has a claim of an aggregate amount less than $1,000 1 shall not be subject to subparagraph (A)(ii)(I).
+    - **(B)** A small business that has a claim of an aggregate amount less than $1,000 shall not be subject to subparagraph (A)(ii)(I).
     - **(C)** For purposes of this paragraph—
       - **(i)** the term “small business” means an unincorporated business, partnership, corporation, association, or organization that—
         - **(I)** has fewer than 25 full-time employees as determined on the date on which the motion is filed; and
@@ -83,12 +84,12 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(6)** Only the judge or United States trustee (or bankruptcy administrator, if any) may file a motion under section 707(b), if the current monthly income of the debtor, or in a joint case, the debtor and the debtor’s spouse, as of the date of the order for relief, when multiplied by 12, is equal to or less than—
     - **(A)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
     - **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4.
+    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
   - **(7)**
     - **(A)** No judge, United States trustee (or bankruptcy administrator, if any), trustee, or other party in interest may file a motion under paragraph (2) if the current monthly income of the debtor, including a veteran (as that term is defined in section 101 of title 38 ), and the debtor’s spouse combined, as of the date of the order for relief when multiplied by 12, is equal to or less than—
       - **(i)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
       - **(ii)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-      - **(iii)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4.
+      - **(iii)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
     - **(B)** In a case that is not a joint case, current monthly income of the debtor’s spouse shall not be considered for purposes of subparagraph (A) if—
       - **(i)**
         - **(I)** the debtor and the debtor’s spouse are separated under applicable nonbankruptcy law; or

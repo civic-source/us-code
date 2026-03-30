@@ -3,9 +3,10 @@ title: "Section 1130 - Findings and purposes"
 usc_title: 20
 usc_section: "1130"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1130"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-03-30T03:04:46.283Z"
+status: "active"
 ---
 
 # § 1130. Findings and purposes
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:54:48.143Z"
   - **(3)** few linkages presently exist between the manpower and information needs of United States business and the international education, language training and research capacities of institutions of higher education in the United States, and public and private organizations; and
   - **(4)** organizations such as world trade councils, world trade clubs, chambers of commerce and State departments of commerce are not adequately used to link universities and business for joint venture exploration and program development.
 - **(b)** It is the purpose of this part—
-  - **(1)** to enhance the broad objective of this chapter by increasing and promoting the Nation’s capacity for international understanding and economic enterprise through the provision of suitable international education and training for business personnel in various stages of professional development; and
+  - **(1)** to enhance the broad objective of this chapter and part C of subchapter I of chapter 34 of title 42 by increasing and promoting the Nation’s capacity for international understanding and economic enterprise through the provision of suitable international education and training for business personnel in various stages of professional development; and
   - **(2)** to promote institutional and noninstitutional educational and training activities that will contribute to the ability of United States business to prosper in an international economy.

@@ -3,9 +3,10 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T02:55:27.601Z"
+generated_at: "2026-03-30T03:05:18.527Z"
+status: "active"
 ---
 
 # § 45D. New markets tax credit
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:55:27.601Z"
     - **(B)** the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and
     - **(C)** the entity is certified by the Secretary for purposes of this section as being a qualified community development entity.
   - **(2)** The requirements of paragraph (1) shall be treated as met by—
-    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)), 1 1 See References in Text note below. and
+    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)), and
     - **(B)** any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 ( 12 U.S.C. 4702 )).
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified low-income community investment” means—
@@ -77,15 +78,12 @@ generated_at: "2026-03-30T02:55:27.601Z"
     - **(C)** $2,000,000,000 for 2004 and 2005,
     - **(D)** $3,500,000,000 for 2006 and 2007,
     - **(E)** $5,000,000,000 for 2008,
-    - **(F)** $5,000,000,000 for 2009,
-    - **(G)** $3,500,000,000 for each of calendar years 2010 through 2019, and
-    - **(H)** $5,000,000,000 for each calendar year after 2019.
+    - **(F)** $5,000,000,000 for 2009 1 1 So in original. Probably should be followed by “, and”.
+    - **(G)** $3,500,000,000 for 2010, 2011, 2012, and 2013.
   - **(2)** The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
     - **(B)** which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.
-  - **(3)**
-    - **(A)** If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess.
-    - **(B)** No amount may be carried under subparagraph (A) to any calendar year afer the fifth calendar year after the calendar year in which the excess described in such subparagraph occurred. For purposes of this subparagraph, any excess described in subparagraph (A) with respect to any calendar year before 2026 shall be treated as occurring in calendar year 2025.
+  - **(3)** If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2018.
 - **(g)**
   - **(1)** If, at any time during the 7-year period beginning on the date of the original issue of a qualified equity investment in a qualified community development entity, there is a recapture event with respect to such investment, then the tax imposed by this chapter for the taxable year in which such event occurs shall be increased by the credit recapture amount.
   - **(2)** For purposes of paragraph (1), the credit recapture amount is an amount equal to the sum of—
@@ -98,7 +96,7 @@ generated_at: "2026-03-30T02:55:27.601Z"
   - **(4)**
     - **(A)** The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted.
     - **(B)** Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
-- **(h)** The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202.
+- **(h)** The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
 - **(i)** The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations—
   - **(1)** which limit the credit for investments which are directly or indirectly subsidized by other Federal tax benefits (including the credit under section 42 and the exclusion from gross income under section 103),
   - **(2)** which prevent the abuse of the purposes of this section,

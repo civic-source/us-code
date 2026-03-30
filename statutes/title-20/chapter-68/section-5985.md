@@ -3,15 +3,16 @@ title: "Section 5985 - Applications"
 usc_title: 20
 usc_section: "5985"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 5985"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-03-30T03:04:46.327Z"
+status: "active"
 ---
 
 # § 5985. Applications
 
 - **(a)** Each eligible entity desiring a grant under this subchapter shall submit an application to the Secretary, at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require.
-- **(b)** Each application submitted pursuant to subsection (a) shall—
+- **(b)** Each application submitted pursuant to subsection (a) of this section shall—
   - **(1)** define the learning objectives and course content of each seminar to be held and describe the manner in which seminar participants shall receive substantive academic instruction in the principles, institutions and processes of American government;
   - **(2)** provide assurances that educators successfully participating in each seminar will qualify for either graduate credit or professional development or advancement credit according to the criteria established by a State or local educational agency;
   - **(3)** describe the manner in which seminar participants shall receive exposure to a broad array of individuals who are actively involved in the political process, including political party representatives drawn equally from the major political parties, as well as representatives of other organizations involved in the political process;

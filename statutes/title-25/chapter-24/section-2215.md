@@ -3,9 +3,10 @@ title: "Section 2215 - Acquisition Fund"
 usc_title: 25
 usc_section: "2215"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2215"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-03-30T03:05:02.896Z"
+status: "active"
 ---
 
 # § 2215. Acquisition Fund
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
   - **(1)** disburse appropriations authorized to accomplish the purposes of section 2212 of this title ; and
   - **(2)** collect all revenues received from the lease, permit, or sale of resources from interests acquired under section 2212 of this title or paid by Indian landowners under section 2212 of this title .
 - **(b)**
-  - **(1)** All proceeds from leases, permits, or resource sales derived from an interest in trust or restricted lands described in subsection (a)(2) shall—
+  - **(1)** All proceeds from leases, permits, or resource sales derived from an interest in trust or restricted lands described in subsection (a)(2) of this section shall—
     - **(A)** be deposited in the Acquisition Fund;
     - **(B)** as specified in advance in appropriations Acts, be available for the purpose of acquiring additional fractional interests in trust or restricted lands; and
     - **(C)** be used to acquire undivided interests on the reservation from which the income was derived.

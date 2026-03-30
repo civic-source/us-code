@@ -1,0 +1,18 @@
+---
+title: "Section 492a - Silver star medal"
+usc_title: 14
+usc_section: "492a"
+chapter: 13
+current_through: "PL 113-21"
+classification: "14 U.S.C. § 492a"
+generated_at: "2026-03-30T03:04:26.485Z"
+status: "active"
+---
+
+# § 492a. Silver star medal
+
+The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Coast Guard, when the Coast Guard is not operating under the Department of the Navy, is cited for gallantry in action that does not warrant a medal of honor or Coast Guard cross—
+
+  - **(1)** while engaged in an action against an enemy of the United States;
+  - **(2)** while engaged in military operations involving conflict with an opposing foreign force or international terrorist organization; or
+  - **(3)** while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.

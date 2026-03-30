@@ -1,12 +1,15 @@
 ---
-title: "Section 443 - Transferred"
+title: "Section 443 - Requisition of grain to prevent crop depredation by migratory waterfowl"
 usc_title: 7
 usc_section: "443"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 443"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.898Z"
+status: "active"
 ---
 
-# § 443. Transferred
+# § 443. Requisition of grain to prevent crop depredation by migratory waterfowl
+
+Upon a finding by the Secretary of the Interior that any area in the United States is threatened with damage to farmers’ crops by migratory waterfowl, whether or not during the open season for such migratory waterfowl, the Secretary of the Interior is authorized and directed to requisition from the Commodity Credit Corporation and to make available to Federal, State, or local governmental bodies or officials, or to private organizations or persons, such grain acquired by the Commodity Credit Corporation through price-support operations in such quantities and subject to such regulations as the Secretary determines will most effectively lure migratory waterfowl away from crop depredations and at the same time not expose such migratory waterfowl to shooting over areas to which the waterfowl have been lured by such feeding programs.
 

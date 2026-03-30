@@ -3,9 +3,10 @@ title: "Section 504 - Training and education"
 usc_title: 23
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-03-30T03:04:51.167Z"
+status: "active"
 ---
 
 # § 504. Training and education
@@ -35,7 +36,7 @@ generated_at: "2026-03-30T02:55:12.573Z"
     - **(C)** The Institute shall periodically—
       - **(i)** review the course inventory of the Institute; and
       - **(ii)** revise or cease to offer courses based on course content, applicability, and need.
-  - **(4)** Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(2) for the surface transportation block grant program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+  - **(4)** Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) 1 1 See References in Text note below. for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), education and training of employees of Federal, State, and local transportation (including highway) agencies authorized under this subsection may be provided—
       - **(i)** by the Secretary at no cost to the States and local governments if the Secretary determines that provision at no cost is in the public interest; or
@@ -94,45 +95,29 @@ generated_at: "2026-03-30T02:55:12.573Z"
     - **(C)** Local educational agencies and State educational agencies, which may enter into a partnership agreement with institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
   - **(4)** In this subsection, the following definitions apply:
     - **(A)** The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
-    - **(B)** The term “local educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
-    - **(C)** The term “State educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
+    - **(B)** The term “local educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+    - **(C)** The term “State educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
 - **(e)**
   - **(1)** Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under paragraphs (1) through (4) of section 104(b) for surface transportation workforce development, training, and education, including—
     - **(A)** tuition and direct educational expenses, excluding salaries, in connection with the education and training of employees of State and local transportation agencies;
     - **(B)** employee professional development;
     - **(C)** student internships;
-    - **(D)** pre-apprenticeships, apprenticeships, and career opportunities for on-the-job training;
-    - **(E)** university, college, community college, or vocational school support;
-    - **(F)** education activities, including outreach, to develop interest and promote participation in surface transportation careers;
-    - **(G)** activities associated with workforce training and employment services, such as targeted outreach and partnerships with industry, economic development organizations, workforce development boards, and labor organizations;
-    - **(H)** activities carried out by the National Highway Institute under subsection (a); and
-    - **(I)** local technical assistance programs under subsection (b).
-  - **(2)** The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(I), for which the Federal share shall be 50 percent.
-  - **(3)** In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including—
-    - **(A)** activities for women and minorities;
-    - **(B)** activities that address current workforce gaps, such as work on construction projects, of State and local transportation agencies;
-    - **(C)** activities to develop a robust surface transportation workforce with new skills resulting from emerging transportation technologies; and
-    - **(D)** activities to attract new sources of job-creating investment.
+    - **(D)** university or community college support;
+    - **(E)** education activities, including outreach, to develop interest and promote participation in surface transportation careers;
+    - **(F)** activities carried out by the National Highway Institute under subsection (a); and
+    - **(G)** local technical assistance programs under subsection (b).
+  - **(2)** The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
+  - **(3)** In this subsection, the term “surface transportation workforce development, training, and education” means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
 - **(f)**
-  - **(1)** The Secretary shall establish a program to make grants to educational institutions or State departments of transportation, in partnership with industry and relevant Federal departments and agencies—
-    - **(A)** to develop, test, and review new curricula and education programs to train individuals at all levels of the transportation workforce; or
-    - **(B)** to implement the new curricula and education programs to provide for hands-on career opportunities to meet current and future needs.
-  - **(2)** In selecting applications for awards under this subsection, the Secretary may consider—
-    - **(A)** the degree to which the new curricula or education program meets the specific current or future needs of a segment of the transportation industry, States, or regions;
+  - **(1)** The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.
+  - **(2)** In selecting applications for awards under this subsection, the Secretary shall consider—
+    - **(A)** the degree to which the new curricula or education program meets the specific needs of a segment of the transportation industry, States, or regions;
     - **(B)** providing for practical experience and on-the-job training;
     - **(C)** proposals oriented toward practitioners in the field rather than the support and growth of the research community;
     - **(D)** the degree to which the new curricula or program will provide training in areas other than engineering, such as business administration, economics, information technology, environmental science, and law;
-    - **(E)** programs or curricula that train professionals for work in the transportation field, such as construction, materials, information technology, environmental science, urban planning, and industrial or emerging technology; and
+    - **(E)** programs or curricula in nontraditional departments that train professionals for work in the transportation field, such as materials, information technology, environmental science, urban planning, and industrial technology; and
     - **(F)** the commitment of industry or a State’s department of transportation to the program.
-  - **(3)** The Secretary shall establish minimum reporting requirements for grant recipients under this subsection, which may include, with respect to a program carried out with a grant under this subsection—
-    - **(A)** the percentage or number of program participants that are employed during the second quarter after exiting the program;
-    - **(B)** the percentage or number of program participants that are employed during the fourth quarter after exiting the program;
-    - **(C)** the median earnings of program participants that are employed during the second quarter after exiting the program;
-    - **(D)** the percentage or number of program participants that obtain a recognized postsecondary credential or a secondary school diploma (or a recognized equivalent) during participation in the program or by not later than 1 year after exiting the program; and
-    - **(E)** the percentage or number of program participants that, during a program year—
-      - **(i)** are in an education or training program that leads to a recognized postsecondary credential or employment; and
-      - **(ii)** are achieving measurable skill gains toward such a credential or employment.
-  - **(4)** The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee’s program costs.
+  - **(3)** The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee’s program costs.
 - **(g)**
   - **(1)** The Secretary shall establish a freight planning capacity building initiative to support enhancements in freight transportation planning in order to—
     - **(A)** better target investments in freight transportation systems to maintain efficiency and productivity; and
@@ -147,7 +132,7 @@ generated_at: "2026-03-30T02:55:12.573Z"
     - **(E)** Facilitating relationship building between governmental and private entities involved in freight transportation.
     - **(F)** Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental stewardship in connection with long-range multimodal transportation planning and project implementation.
   - **(5)** The Federal share of the cost of an activity carried out under this section shall be up to 100 percent, and such funds shall remain available until expended.
-  - **(6)** Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants to and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+  - **(6)** Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to 2 2 So in original. and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 - **(h)**
   - **(1)** The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
   - **(2)** The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
@@ -159,6 +144,3 @@ generated_at: "2026-03-30T02:55:12.573Z"
       - **(ii)** describes—
         - **(I)** the activities to be undertaken by the center; and
         - **(II)** how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
-- **(i)** The Secretary may use funds made available to carry out this section to carry out activities related to workforce development and technical assistance and training if—
-  - **(1)** the activities are authorized by another provision of this title; and
-  - **(2)** the activities are for entities other than employees of the Secretary, such as States, units of local government, Federal land management agencies, and Tribal governments.

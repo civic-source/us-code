@@ -3,9 +3,10 @@ title: "Section 256a - Patient navigator grants"
 usc_title: 42
 usc_section: "256a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 256a"
-generated_at: "2026-03-30T02:56:10.717Z"
+generated_at: "2026-03-30T03:06:22.322Z"
+status: "active"
 ---
 
 # § 256a. Patient navigator grants
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:56:10.717Z"
   - **(3)** The Secretary shall not award a grant to an entity under this section unless such entity provides assurances that patient navigators recruited, assigned, trained, or employed using grant funds meet minimum core proficiencies, as defined by the entity that submits the application, that are tailored for the main focus or intervention of the navigator involved.
 - **(f)** The Secretary shall establish uniform baseline measures in order to properly evaluate the impact of the demonstration projects under this section.
 - **(g)** In making grants under this section, the Secretary shall give preference to eligible entities that demonstrate in their applications plans to utilize patient navigator services to overcome significant barriers in order to improve health care outcomes in their respective communities.
-- **(h)** An eligible entity that is receiving Federal funds for activities described in subsection (b) on the date on which the entity submits an application under subsection (e) may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
+- **(h)** An eligible entity that is receiving Federal funds for activities described in subsection (b) of this section on the date on which the entity submits an application under subsection (e) of this section may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
 - **(i)** The Secretary shall ensure coordination of the demonstration grant program under this section with existing authorized programs in order to facilitate access to high-quality health care services.
 - **(j)**
   - **(1)** Not later than 6 months after the completion of the demonstration grant program under this section, the Secretary shall conduct a study of the results of the program and submit to the Congress a report on such results that includes the following:
@@ -41,11 +42,11 @@ generated_at: "2026-03-30T02:56:10.717Z"
     - **(B)** Recommendations on whether patient navigator programs could be used to improve patient outcomes in other public health areas.
   - **(2)** The Secretary may provide interim reports to the Congress on the demonstration grant program under this section at such intervals as the Secretary determines to be appropriate.
   - **(3)** The Secretary may require grant recipients under this section to submit interim and final reports on grant program outcomes.
-- **(k)** This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b)).
+- **(k)** This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b) of this section).
 - **(l)** In this section:
   - **(1)** The term “eligible entity” means a public or nonprofit private health center (including a Federally qualified health center (as that term is defined in section 1395x(aa)(4) of this title )), a health facility operated by or pursuant to a contract with the Indian Health Service, a hospital, a cancer center, a rural health clinic, an academic health center, or a nonprofit entity that enters into a partnership or coordinates referrals with such a center, clinic, facility, or hospital to provide patient navigator services.
   - **(2)** The term “health disparity population” means a population that, as determined by the Secretary, has a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates as compared to the health status of the general population.
-  - **(3)** The term “patient navigator” means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b).
+  - **(3)** The term “patient navigator” means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b) of this section.
 - **(m)**
   - **(1)** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 2006, $5,000,000 for fiscal year 2007, $8,000,000 for fiscal year 2008, $6,500,000 for fiscal year 2009, $3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
   - **(2)** The amounts appropriated pursuant to paragraph (1) shall remain available for obligation through the end of fiscal year 2015.

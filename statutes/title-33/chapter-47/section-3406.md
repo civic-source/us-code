@@ -3,12 +3,20 @@ title: "Section 3406 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3406"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 3406"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-03-30T03:05:36.305Z"
+status: "active"
 ---
 
 # § 3406. Authorization of appropriations
 
-There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter $60,000,000 for each of fiscal years 2023 through 2028 1 1 So in original. Probably should be followed by a period.
+There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this subchapter—
 
+  - **(1)** $33,550,000 for fiscal year 2009;
+  - **(2)** $36,905,000 for fiscal year 2010;
+  - **(3)** $40,596,000 for fiscal year 2011;
+  - **(4)** $44,655,000 for fiscal year 2012;
+  - **(5)** $49,121,000 for fiscal year 2013;
+  - **(6)** $54,033,000 for fiscal year 2014; and
+  - **(7)** $59,436,000 for fiscal year 2015.

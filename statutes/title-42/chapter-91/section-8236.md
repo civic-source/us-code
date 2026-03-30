@@ -3,15 +3,16 @@ title: "Section 8236 - Voluntary rating guidelines"
 usc_title: 42
 usc_section: "8236"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 8236"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-03-30T03:06:22.831Z"
+status: "active"
 ---
 
 # § 8236. Voluntary rating guidelines
 
 - **(a)** Not later than 18 months after October 24, 1992 , the Secretary, in consultation with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, representatives of existing home energy rating programs, and other appropriate persons, shall, by rule, issue voluntary guidelines that may be used by State and local governments, utilities, builders, real estate agents, lenders, agencies in mortgage markets, and others, to enable and encourage the assignment of energy efficiency ratings to residential buildings.
-- **(b)** The voluntary guidelines issued under subsection (a) shall—
+- **(b)** The voluntary guidelines issued under subsection (a) of this section shall—
   - **(1)** encourage uniformity with regard to systems for rating the annual energy efficiency of residential buildings;
   - **(2)** establish protocols and procedures for—
     - **(A)** certification of the technical accuracy of building energy analysis tools used to determine energy efficiency ratings;

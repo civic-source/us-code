@@ -3,9 +3,10 @@ title: "Section 472a - Timber sales on National Forest System lands"
 usc_title: 16
 usc_section: "472a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 472a"
-generated_at: "2026-03-30T02:54:22.856Z"
+generated_at: "2026-03-30T03:04:48.489Z"
+status: "active"
 ---
 
 # § 472a. Timber sales on National Forest System lands
@@ -26,12 +27,7 @@ generated_at: "2026-03-30T02:54:22.856Z"
     - **(B)** he may alter the bidding methods used within the affected area; and
     - **(C)** he shall take such other action as he deems necessary to eliminate such practices within the affected area.
 - **(f)** The Secretary of Agriculture, under such rules and regulations as he may prescribe, is authorized to dispose of, by sale or otherwise, trees, portions of trees, or other forest products related to research and demonstration projects.
-- **(g)**
-  - **(1)** Designation, including marking when necessary, designation by description, or designation by prescription, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture.
-  - **(2)** Persons employed by the Secretary of Agriculture under paragraph (1)—
-    - **(A)** shall have no personal interest in the purchase or harvest of the products; and
-    - **(B)** shall not be directly or indirectly in the employment of the purchaser of the products.
-  - **(3)** Designation by prescription and designation by description shall be considered valid methods for designation, and may be supervised by use of post-harvest cruise, sample weight scaling, or other methods determined by the Secretary of Agriculture to be appropriate.
+- **(g)** Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
 - **(h)** The Secretary of Agriculture shall develop utilization standards, methods of measurement, and harvesting practices for the removal of trees, portions of trees, or forest products to provide for the optimum practical use of the wood material. Such standards, methods, and practices shall reflect consideration of opportunities to promote more effective wood utilization, regional conditions, and species characteristics and shall be compatible with multiple use resource management objectives in the affected area. To accomplish the purpose of this subsection in situations involving salvage of insect-infested, dead, damaged, or down timber, and to remove associated trees for stand improvement, the Secretary is authorized to require the purchasers of such timber to make monetary deposits, as a part of the payment for the timber, to be deposited in a designated fund from which sums are to be used, to cover the cost to the United States for design, engineering, and supervision of the construction of needed roads and the cost for Forest Service sale preparation and supervision of the harvesting of such timber. Deposits of money pursuant to this subsection are to be available until expended to cover the cost to the United States of accomplishing the purposes for which deposited: Provided , That such deposits shall not be considered as moneys received from the national forests within the meaning of sections 500 and 501 of this title: And provided further , That sums found to be in excess of the cost of accomplishing the purposes for which deposited on any national forest shall be transferred to miscellaneous receipts in the Treasury of the United States.
 - **(i)**
   - **(1)** For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as “small business concerns” under the Small Business Act, as amended [ 15 U.S.C. 631 et seq.], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.

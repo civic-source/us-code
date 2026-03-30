@@ -3,18 +3,19 @@ title: "Section 1412 - Transfers between a multiemployer plan and a single-emplo
 usc_title: 29
 usc_section: "1412"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1412"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-03-30T03:05:09.732Z"
+status: "active"
 ---
 
 # § 1412. Transfers between a multiemployer plan and a single-employer plan
 
 - **(a)** A transfer of assets or liabilities between, or a merger of, a multiemployer plan and a single-employer plan shall satisfy the requirements of this section.
-- **(b)** No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) than the benefit immediately before that date.
+- **(b)** No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) of this section than the benefit immediately before that date.
 - **(c)**
   - **(1)** Except as provided in paragraphs (2) and (3), a multiemployer plan which transfers liabilities to a single-employer plan shall be liable to the corporation if the single-employer plan terminates within 60 months after the effective date of the transfer. The amount of liability shall be the lesser of—
-    - **(A)** the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 of this title, or
+    - **(A)** the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 this title, or
     - **(B)** the value, on the effective date of the transfer, of the unfunded benefits transferred to the single-employer plan which are guaranteed under section 1322 of this title .
   - **(2)** A multiemployer plan shall be liable to the corporation as provided in paragraph (1) unless, within 180 days after the corporation receives an application (together with such information as the corporation may reasonably require for purposes of such application) from the multiemployer plan sponsor for a determination under this paragraph—
     - **(A)** the corporation determines that the interests of the plan participants and beneficiaries and of the corporation are adequately protected, or
@@ -24,8 +25,8 @@ generated_at: "2026-03-30T02:55:18.736Z"
 - **(d)** Benefits under a single-employer plan to which liabilities are transferred in accordance with this section are guaranteed under section 1322 of this title to the extent provided in that section as of the effective date of the transfer and the plan is a successor plan.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), a multiemployer plan may not transfer liabilities to a single-employer plan unless the plan sponsor of the plan to which the liabilities would be transferred agrees to the transfer.
-  - **(2)** In the case of a transfer described in subsection (c)(3), paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
+  - **(2)** In the case of a transfer described in subsection (c)(3) of this section, paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
 - **(f)**
   - **(1)** The corporation may prescribe by regulation such additional requirements with respect to the transfer of assets or liabilities as may be necessary to protect the interests of plan participants and beneficiaries and the corporation.
-  - **(2)** Except as otherwise determined by the corporation, a transfer of assets or liabilities to a single-employer plan from a plan in reorganization under section 1421 1 1 See References in Text note below. of this title is not effective unless the corporation approves such transfer.
+  - **(2)** Except as otherwise determined by the corporation, a transfer of assets or liabilities to a single-employer plan from a plan in reorganization under section 1421 of this title is not effective unless the corporation approves such transfer.
   - **(3)** No transfer to which this section applies, in connection with a termination described in section 1341a(a)(2) of this title shall be effective unless the transfer meets such requirements as may be established by the corporation to prevent an increase in the risk of loss to the corporation.

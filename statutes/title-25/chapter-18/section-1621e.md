@@ -3,9 +3,10 @@ title: "Section 1621e - Reimbursement from certain third parties of costs of hea
 usc_title: 25
 usc_section: "1621e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1621e"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-03-30T03:05:02.871Z"
+status: "active"
 ---
 
 # § 1621e. Reimbursement from certain third parties of costs of health services
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:54:52.820Z"
     - **(B)** instituting a separate civil action, including a civil action for injunctive relief and other relief and including, with respect to a political subdivision or local governmental entity of a State, such an action against an official thereof.
   - **(2)** All reasonable efforts shall be made to provide notice of action instituted under paragraph (1)(B) to the individual to whom health services were provided, either before or during the pendency of such action.
   - **(3)**
-    - **(A)** In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010 , under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act ( 42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
+    - **(A)** In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010 , under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act ( 42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
     - **(B)** The right of an Indian tribe or tribal organization to recover under subparagraph (A) shall be independent of the rights of the injured or diseased person served by the Indian tribe or tribal organization.
 - **(f)** Absent specific written authorization by the governing body of an Indian tribe for the period of such authorization (which may not be for a period of more than 1 year and which may be revoked at any time upon written notice by the governing body to the Service), the United States shall not have a right of recovery under this section if the injury, illness, or disability for which health services were provided is covered under a self-insurance plan funded by an Indian tribe, tribal organization, or urban Indian organization. Where such authorization is provided, the Service may receive and expend such amounts for the provision of additional health services consistent with such authorization.
 - **(g)** In any action brought to enforce the provisions of this section, a prevailing plaintiff shall be awarded its reasonable attorney’s fees and costs of litigation.

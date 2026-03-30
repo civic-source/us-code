@@ -3,9 +3,10 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-03-30T03:05:18.542Z"
+status: "active"
 ---
 
 # § 125. Cafeteria plans
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:27.626Z"
   - **(1)** In the case of a highly compensated participant, subsection (a) shall not apply to any benefit attributable to a plan year for which the plan discriminates in favor of—
     - **(A)** highly compensated individuals as to eligibility to participate, or
     - **(B)** highly compensated participants as to contributions and benefits.
-  - **(2)** In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the qualified benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, qualified benefits shall be determined without regard to the second sentence of subsection (f).
+  - **(2)** In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the second sentence of subsection (f).
   - **(3)** For purposes of determining the taxable year of inclusion, any benefit described in paragraph (1) or (2) shall be treated as received or accrued in the taxable year of the participant or key employee in which the plan year ends.
 - **(c)** For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan does not discriminate where qualified benefits and total benefits (or employer contributions allocable to qualified benefits and employer contributions for total benefits) do not discriminate in favor of highly compensated participants.
 - **(d)** For purposes of this section—
@@ -35,13 +36,8 @@ generated_at: "2026-03-30T02:55:27.626Z"
     - **(B)** a shareholder owning more than 5 percent of the voting power or value of all classes of stock of the employer,
     - **(C)** highly compensated, or
     - **(D)** a spouse or dependent (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of an individual described in subparagraph (A), (B), or (C).
-  - **(2)** The term “highly compensated individual” means an individual who is described in subparagraph (A), (B), (C), or (D) of paragraph (1).
-- **(f)** For purposes of this section—
-  - **(1)** The term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations.
-  - **(2)** The term “qualified benefit” shall not include any product which is advertised, marketed, or offered as long-term care insurance.
-  - **(3)**
-    - **(A)** The term “qualified benefit” shall not include any qualified health plan (as defined in section 1301(a) of the Patient Protection and Affordable Care Act) offered through an Exchange established under section 1311 of such Act.
-    - **(B)** Subparagraph (A) shall not apply with respect to any employee if such employee’s employer is a qualified employer (as defined in section 1312(f)(2) of the Patient Protection and Affordable Care Act) offering the employee the opportunity to enroll through such an Exchange in a qualified health plan in a group market.
+  - **(2)** The term “highly compensated individual” means an individual who is described in subparagraphs 1 1 So in original. Probably should be “subparagraph”. (A), (B), (C), or (D) of paragraph (1).
+- **(f)** For purposes of this section, the term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
 - **(g)**
   - **(1)** For purposes of this section, a plan shall not be treated as discriminatory if the plan is maintained under an agreement which the Secretary finds to be a collective bargaining agreement between employee representatives and one or more employers.
   - **(2)** For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provides health benefits shall not be treated as discriminatory if—
@@ -56,15 +52,15 @@ generated_at: "2026-03-30T02:55:27.626Z"
       - **(ii)** Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
   - **(4)** All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.
 - **(h)**
-  - **(1)** For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement (and shall not fail to be treated as an accident or health plan) merely because such arrangement provides for qualified reservist distributions.
-  - **(2)** For purposes of this subsection, the term “qualified reservist distribution” means any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
+  - **(1)** For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement merely because such arrangement provides for qualified reservist distributions.
+  - **(2)** For purposes of this subsection, the term “qualified reservist distribution” means, 2 2 So in original. The comma probably should not appear. any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
     - **(A)** such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37 , United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
     - **(B)** such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
 - **(i)**
   - **(1)** For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement.
   - **(2)** In the case of any taxable year beginning after December 31, 2013 , the dollar amount in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2012” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.
 - **(j)**
   - **(1)** An eligible employer maintaining a simple cafeteria plan with respect to which the requirements of this subsection are met for any year shall be treated as meeting any applicable nondiscrimination requirement during such year.
   - **(2)** For purposes of this subsection, the term “simple cafeteria plan” means a cafeteria plan—

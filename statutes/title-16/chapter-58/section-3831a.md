@@ -1,72 +1,44 @@
 ---
-title: "Section 3831a - Conservation reserve enhancement program"
+title: "Section 3831a - Emergency forestry conservation reserve program"
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-30T02:54:23.024Z"
+generated_at: "2026-03-30T03:04:48.610Z"
+status: "active"
 ---
 
-# § 3831a. Conservation reserve enhancement program
+# § 3831a. Emergency forestry conservation reserve program
 
 - **(a)** In this section:
-  - **(1)** The term “CREP” means a conservation reserve enhancement program carried out under subsection (b)(1).
-  - **(2)** The term “eligible land” means land that is eligible to be included in the program established under this subpart.
-  - **(3)** The term “eligible partner” means—
-    - **(A)** a State;
-    - **(B)** a political subdivision of a State;
-    - **(C)** an Indian tribe (as defined in section 5304 of title 25 ); or
-    - **(D)** a nongovernmental organization.
-  - **(4)** The term “management” means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practice on eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
-    - **(A)** throughout the term of the contract; and
-    - **(B)** consistent with the conservation plan that covers the eligible land.
-- **(b)**
-  - **(1)** The Secretary may enter into an agreement with an eligible partner to carry out a conservation reserve enhancement program—
-    - **(A)** to assist in enrolling eligible land in the program established under this subpart; and
-    - **(B)** that the Secretary determines will advance the purposes of this subpart.
-  - **(2)** An agreement entered into under paragraph (1) shall—
-    - **(A)** describe—
-      - **(i)** 1 or more specific State or nationally significant conservation concerns to be addressed by the agreement;
-      - **(ii)** quantifiable environmental goals for addressing the concerns under clause (i);
-      - **(iii)** a suitable acreage goal for enrollment of eligible land under the agreement, as determined by the Secretary;
-      - **(iv)** the location of eligible land to be enrolled in the project area identified under the agreement;
-      - **(v)** the payments to be offered by the Secretary and eligible partner to an owner or operator; and
-      - **(vi)** an appropriate list of conservation reserve program conservation practices that are appropriate to meeting the concerns described under clause (i), as determined by the Secretary in consultation with eligible partners;
-    - **(B)** subject to subparagraph (C), require the eligible partner to provide matching funds—
-      - **(i)** in an amount determined during a negotiation between the Secretary and 1 or more eligible partners, if the majority of the matching funds to carry out the agreement are provided by 1 or more eligible partners that are not nongovernmental organizations; or
-      - **(ii)** in an amount not less than 30 percent of the cost required to carry out the conservation measures and practices described in the agreement, if a majority of the matching funds to carry out the agreement are provided by 1 or more nongovernmental organizations; and
-    - **(C)** include procedures to allow for a temporary waiver of the matching requirements under subparagraph (B), or continued enrollment with a temporary suspension of incentives or eligible partner contributions for new agreements, during a period when an eligible partner loses the authority or ability to provide matching contributions, if the Secretary determines that the temporary waiver or continued enrollment with a temporary suspension will advance the purposes of this subpart.
-  - **(3)**
-    - **(A)** Subject to subparagraph (B), an agreement under this subsection shall not affect, modify, or interfere with existing agreements under this subpart.
-    - **(B)** To implement this section, the signatories to an agreement under this subsection may mutually agree to a modification of an agreement entered into before December 20, 2018 , under the Conservation Reserve Enhancement Program established by the Secretary under this subpart.
+  - **(1)** The term “merchantable timber” means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
+  - **(2)** The term “private nonindustrial forest land” includes State school trust land.
+- **(b)** The Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
 - **(c)**
-  - **(1)** Funds provided by an eligible partner may be in cash, in-kind contributions, or technical assistance, as determined by the Secretary.
-  - **(2)** The Secretary shall ensure that cost-share payments to an owner or operator to install stream fencing, crossings, and alternative water development on marginal pastureland under a CREP reflect the fair market value of the cost of installation.
-  - **(3)**
-    - **(A)** On request of an owner or operator, the Secretary shall provide cost-share payments when a major component of a conservation practice is completed under a CREP, as determined by the Secretary.
-    - **(B)** For purposes of implementing conservation practices on land enrolled under a CREP, the Secretary may waive the contribution limitation described in section 3834(b)(2)(A) of this title .
-  - **(4)**
-    - **(A)** In the case of an agreement under subsection (b)(1) that includes riparian buffers as an eligible practice, the Secretary shall make cost-share payments to encourage the regular management of the riparian buffer throughout the term of the agreement, consistent with the conservation plan that covers the eligible land.
-    - **(B)** The amount of payments received by an owner or operator under subparagraph (A) shall not be greater than 100 percent of the normal and customary projected management cost, as determined by the Secretary, in consultation with the applicable State technical committee established under section 3861(a) of this title .
-- **(d)**
-  - **(1)** In the case of an agreement under subsection (b)(1) that includes forested riparian buffers as an eligible practice, the Secretary shall allow an owner or operator—
-    - **(A)** to plant food-producing woody plants in the forested riparian buffers, on the conditions that—
-      - **(i)** the plants shall contribute to the conservation of soil, water quality, and wildlife habitat; and
-      - **(ii)** the planting shall be consistent with—
-        - **(I)** recommendations of the applicable State technical committee established under section 3861(a) of this title ; and
-        - **(II)** technical guide standards of the applicable field office of the Natural Resources Conservation Service; and
-    - **(B)** to harvest from plants described in subparagraph (A), on the conditions that—
-      - **(i)** the harvesting shall not damage the conserving cover or otherwise have a negative impact on the conservation concerns targeted by the CREP;
-      - **(ii)** only native plant species appropriate to the region shall be used within 35 feet of the watercourse; and
-      - **(iii)** the producer shall be subject to a reduction in the rental rate commensurate to the value of the crop harvested.
-  - **(2)** For the purpose of enrolling forested riparian buffers in a CREP, the Administrator of the Farm Service Agency shall coordinate with the applicable State forestry agency.
-- **(e)** In the case of an agreement under subsection (b)(1) to address regional drought concerns, in accordance with the conservation purposes of the CREP, the Secretary, in consultation with the applicable State technical committee established under section 3861(a) of this title , may—
-  - **(1)** notwithstanding subsection (a)(2), enroll other agricultural land on which the resource concerns identified in the agreement can be addressed if the enrollment of the land is critical to the accomplishment of the purposes of the agreement;
-  - **(2)** permit dryland agricultural uses with the adoption of best management practices on enrolled land if the agreement involves the significant long-term reduction of consumptive water use and dryland production is compatible with the agreement; and
-  - **(3)** calculate annual rental payments consistent with existing administrative practice for similar drought and water conservation agreements under this subchapter and ensure regional consistency in those rates.
-- **(f)** Not later than 180 days after the end of each fiscal year, the Secretary shall submit to Congress a report that describes, with respect to each agreement entered into under subsection (b)(1)—
-  - **(1)** the status of the agreement;
-  - **(2)** the purposes and objectives of the agreement;
-  - **(3)** the Federal and eligible partner commitments made under the agreement; and
-  - **(4)** the progress made in fulfilling those commitments.
+  - **(1)** Subject to paragraph (2) and the availability of funds under paragraph (7), an owner or operator may enroll private nonindustrial forest land in the conservation reserve under this section.
+  - **(2)** Eligibility for enrollment shall be limited to owners and operators of private nonindustrial forest land that have experienced a loss of 35 percent or more of merchantable timber in a county affected by hurricanes during the 2005 calendar year.
+  - **(3)** Acreage enrolled in the conservation reserve under this section shall not count toward—
+    - **(A)** county acreage limitations described in section 3843(b) 1 1 See References in Text note below. of this title; or
+    - **(B)** the maximum enrollment described in section 3831(d) of this title .
+  - **(4)** As a condition of entering into a contract under this section, during the term of the contract, the owner or operator of private nonindustrial forest land shall agree—
+    - **(A)** to restore the land, through site preparation and planting of similar species as existing prior to hurricane damages or to the maximum extent practicable with other native species, as determined by the Secretary; and
+    - **(B)** to establish temporary vegetative cover the purpose of which is to prevent soil erosion on the eligible acreage, as determined by the Secretary.
+  - **(5)**
+    - **(A)** In return for a contract entered into by an owner or operator of private nonindustrial forest land under this section, the Secretary shall provide, at the option of the landowner—
+      - **(i)** notwithstanding the limitation in section 3834(f)(1) of this title , a lump sum payment; or
+      - **(ii)** annual rental payments.
+    - **(B)** The lump sum payment described in subparagraph (A)(i) shall be calculated using a net present value formula, as determined by the Secretary, based on the total amount a producer would receive over the duration of the contract.
+    - **(C)** The annual rental payment described in subparagraph (A)(ii) shall be equal to the average rental rate for conservation reserve contracts in the county in which the land is located.
+    - **(D)** The Secretary shall offer a rolling signup for contracts under this section.
+    - **(E)** A contract entered into under this section shall have a term of 10 years.
+  - **(6)** In determining the acceptability of contract offers under this section, the Secretary shall consider an equitable balance among the purposes of soil erosion prevention, water quality improvement, wildlife habitat restoration, and mitigation of economic loss.
+  - **(7)** The Secretary shall use $504,100,000, to remain available until expended, of funds of the Commodity Credit Corporation to carry out this section.
+  - **(8)** A determination made by the Secretary under this section shall be final and conclusive.
+  - **(9)**
+    - **(A)** Not later than 90 days after December 30, 2005 , the Secretary shall promulgate such regulations as are necessary to implement this section.
+    - **(B)** The promulgation of regulations and administration of this section shall be made without regard to—
+      - **(i)** the notice and comment provisions of section 553 of title 5 ;
+      - **(ii)** the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+      - **(iii)** chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
+    - **(C)** In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5 .

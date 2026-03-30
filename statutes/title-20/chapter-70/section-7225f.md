@@ -1,0 +1,27 @@
+---
+title: "Section 7225f - Definitions"
+usc_title: 20
+usc_section: "7225f"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 7225f"
+generated_at: "2026-03-30T03:04:46.354Z"
+status: "active"
+---
+
+# § 7225f. Definitions
+
+In this subpart:
+
+  - **(1)** The term “charter school” has the meaning given such term in section 7221i of this title .
+  - **(2)** The term “eligible entity” means—
+    - **(A)** one or more State educational agencies;
+    - **(B)** one or more local educational agencies; or
+    - **(C)** a partnership of—
+      - **(i)** one or more—
+        - **(I)** State educational agencies; and
+        - **(II)** local educational agencies or other public, for-profit, or nonprofit entities; or
+      - **(ii)** one or more—
+        - **(I)** local educational agencies; and
+        - **(II)** public, for-profit, or nonprofit entities.
+  - **(3)** The term “low-performing school” means a public elementary school or secondary school that has failed to make adequate yearly progress, as described in section 6311(b) of this title , for two or more consecutive years.

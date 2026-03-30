@@ -3,9 +3,10 @@ title: "Section 1331 - Legislative finding of effect on interstate and foreign c
 usc_title: 7
 usc_section: "1331"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1331"
-generated_at: "2026-03-30T02:53:42.303Z"
+generated_at: "2026-03-30T03:04:20.914Z"
+status: "active"
 ---
 
 # § 1331. Legislative finding of effect on interstate and foreign commerce and necessity of regulation

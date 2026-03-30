@@ -3,14 +3,15 @@ title: "Section 12584 - Ineligible service categories"
 usc_title: 42
 usc_section: "12584"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12584"
-generated_at: "2026-03-30T02:56:11.417Z"
+generated_at: "2026-03-30T03:06:22.904Z"
+status: "active"
 ---
 
 # § 12584. Ineligible service categories
 
-- **(a)** Except as provided in subsection (b), an application submitted to the Corporation under section 12582 of this title shall include an assurance by the applicant that any national service program carried out using assistance provided under section 12571 of this title and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
+- **(a)** Except as provided in subsection (b) of this section, an application submitted to the Corporation under section 12582 of this title shall include an assurance by the applicant that any national service program carried out using assistance provided under section 12571 of this title and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
   - **(1)** business organized for profit;
   - **(2)** labor union;
   - **(3)** partisan political organization;
@@ -21,4 +22,4 @@ generated_at: "2026-03-30T02:56:11.417Z"
     - **(D)** to construct or operate facilities devoted to religious instruction or worship or to maintain facilities primarily or inherently devoted to religious instruction or worship; or
     - **(E)** to engage in any form of proselytization; or
   - **(5)** nonprofit organization that fails to comply with the restrictions contained in section 501(c) of title 26 , except that nothing in this section shall be construed to prevent participants from engaging in advocacy activities undertaken at their own initiative.
-- **(b)** The requirement of subsection (a) relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(g) ), that is established in accordance with such Act [ 43 U.S.C. 1601 et seq.] as a for-profit corporation but that is engaging in nonprofit activities.
+- **(b)** The requirement of subsection (a) of this section relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(g) ), that is established in accordance with such Act [ 43 U.S.C. 1601 et seq.] as a for-profit corporation but that is engaging in nonprofit activities.

@@ -3,14 +3,15 @@ title: "Section 1437p - Demolition and disposition of public housing"
 usc_title: 42
 usc_section: "1437p"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1437p"
-generated_at: "2026-03-30T02:56:11.086Z"
+generated_at: "2026-03-30T03:06:22.599Z"
+status: "active"
 ---
 
 # § 1437p. Demolition and disposition of public housing
 
-- **(a)** Except as provided in subsection (b), upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
+- **(a)** Except as provided in subsection (b) of this section, upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
   - **(1)** in the case of—
     - **(A)** an application proposing demolition of a public housing project or a portion of a public housing project, that—
       - **(i)** the project or portion of the public housing project is obsolete as to physical condition, location, or other factors, making it unsuitable for housing purposes; and
@@ -43,8 +44,8 @@ generated_at: "2026-03-30T02:56:11.086Z"
     - **(B)** to the extent that any proceeds remain after the application of proceeds in accordance with subparagraph (A), for—
       - **(i)** the provision of low-income housing or to benefit the residents of the public housing agency; or
       - **(ii)** leveraging amounts for securing commercial enterprises, on-site in public housing projects of the public housing agency, appropriate to serve the needs of the residents; and
-  - **(6)** that the public housing agency has complied with subsection (c).
-- **(b)** The Secretary shall disapprove an application submitted under subsection (a) if the Secretary determines that—
+  - **(6)** that the public housing agency has complied with subsection (c) of this section.
+- **(b)** The Secretary shall disapprove an application submitted under subsection (a) of this section if the Secretary determines that—
   - **(1)** any certification made by the public housing agency under that subsection is clearly inconsistent with information and data available to the Secretary or information or data requested by the Secretary; or
   - **(2)** the application was not developed in consultation with—
     - **(A)** residents who will be affected by the proposed demolition or disposition;

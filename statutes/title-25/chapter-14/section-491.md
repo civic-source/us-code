@@ -1,12 +1,15 @@
 ---
-title: "Section 491 - Transferred"
+title: "Section 491 - Mortgaged property governed by State law"
 usc_title: 25
 usc_section: "491"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 491"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-03-30T03:05:02.841Z"
+status: "active"
 ---
 
-# § 491. Transferred
+# § 491. Mortgaged property governed by State law
+
+Trust or restricted tribal or tribal corporation property mortgaged pursuant to sections 488 to 494 of this title shall be subject to foreclosure and sale or conveyance in lieu of foreclosure, free of such trust or restrictions, in accordance with the laws of the State in which the property is located.
 

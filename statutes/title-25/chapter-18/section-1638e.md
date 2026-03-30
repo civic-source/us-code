@@ -3,9 +3,10 @@ title: "Section 1638e - Other funding, equipment, and supplies for facilities"
 usc_title: 25
 usc_section: "1638e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1638e"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-03-30T03:05:02.874Z"
+status: "active"
 ---
 
 # § 1638e. Other funding, equipment, and supplies for facilities
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
     - **(B)** the purposes for which the funds, equipment, or supplies were made available to the Federal agency.
   - **(2)** The Secretary may—
     - **(A)** accept from any source, including Federal and State agencies, funds, equipment, or supplies that are available for the construction or operation of health care or sanitation facilities; and
-    - **(B)** use those funds, equipment, and supplies to plan, design,, 1 1 So in original. construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 2 2 See References in Text note below.
+    - **(B)** use those funds, equipment, and supplies to plan, design,, 1 1 So in original. construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
   - **(3)** Receipt of funds by the Secretary under this subsection shall not affect any priority established under section 1631 of this title .
 - **(b)** The Secretary may enter into interagency agreements with Federal or State agencies and other entities, and accept funds, equipment, or other supplies from those entities, to provide for the planning, design, construction, and operation of health care or sanitation facilities to be administered by Indian health programs to achieve—
   - **(1)** the purposes of this chapter; and

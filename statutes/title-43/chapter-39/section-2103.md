@@ -3,9 +3,10 @@ title: "Section 2103 - Rights of access"
 usc_title: 43
 usc_section: "2103"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 2103"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-03-30T03:06:10.693Z"
+status: "active"
 ---
 
 # § 2103. Rights of access
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:55:57.495Z"
     - **(A)** protect natural resources and habitat areas;
     - **(B)** guarantee recreational exploration of shipwreck sites; and
     - **(C)** allow for appropriate public and private sector recovery of shipwrecks consistent with the protection of historical values and environmental integrity of the shipwrecks and the sites.
-- **(b)** In managing the resources subject to the provisions of this chapter, States are encouraged to create underwater parks or areas to provide additional protection for such resources. Funds available to States from grants from the Historic Preservation Fund shall be available, in accordance with the provisions of chapter 3029 of title 54, for the study, interpretation, protection, and preservation of historic shipwrecks and properties.
+- **(b)** In managing the resources subject to the provisions of this chapter, States are encouraged to create underwater parks or areas to provide additional protection for such resources. Funds available to States from grants from the Historic Preservation Fund shall be available, in accordance with the provisions of title I of the National Historic Preservation Act, for the study, interpretation, protection, and preservation of historic shipwrecks and properties.

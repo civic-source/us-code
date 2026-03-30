@@ -1,14 +1,15 @@
 ---
-title: "Section 2202 - National Agriculture and Food Defense Strategy"
+title: "Section 2202 - National Agriculture and Food Defense strategy"
 usc_title: 21
 usc_section: "2202"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 2202"
-generated_at: "2026-03-30T02:54:54.309Z"
+generated_at: "2026-03-30T03:05:00.994Z"
+status: "active"
 ---
 
-# § 2202. National Agriculture and Food Defense Strategy
+# § 2202. National Agriculture and Food Defense strategy
 
 - **(a)**
   - **(1)** Not later than 1 year after January 4, 2011 , the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, shall prepare and transmit to the relevant committees of Congress, and make publicly available on the Internet Web sites of the Department of Health and Human Services and the Department of Agriculture, the National Agriculture and Food Defense Strategy.

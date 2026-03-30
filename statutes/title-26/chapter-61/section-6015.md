@@ -3,9 +3,10 @@ title: "Section 6015 - Relief from joint and several liability on joint return"
 usc_title: 26
 usc_section: "6015"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6015"
-generated_at: "2026-03-30T02:55:27.829Z"
+generated_at: "2026-03-30T03:05:18.708Z"
+status: "active"
 ---
 
 # § 6015. Relief from joint and several liability on joint return
@@ -38,7 +39,7 @@ generated_at: "2026-03-30T02:55:27.829Z"
     - **(B)** For purposes of this paragraph—
       - **(i)** The term “disqualified asset” means any property or right to property transferred to an individual making the election under this subsection with respect to a joint return by the other individual filing such joint return if the principal purpose of the transfer was the avoidance of tax or payment of tax.
       - **(ii)**
-        - **(I)** For purposes of clause (i), except as provided in subclause (II), any transfer which is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
+        - **(I)** For purposes of clause (i), except as provided in subclause (II), any transfer which is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
         - **(II)** Subclause (I) shall not apply to any transfer pursuant to a decree of divorce or separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
 - **(d)** For purposes of subsection (c)—
   - **(1)** The portion of any deficiency on a joint return allocated to an individual shall be the amount which bears the same ratio to such deficiency as the net amount of items taken into account in computing the deficiency and allocable to the individual under paragraph (3) bears to the net amount of all items taken into account in computing the deficiency.
@@ -69,17 +70,9 @@ generated_at: "2026-03-30T02:55:27.829Z"
     - **(B)** the court acquiring jurisdiction shall have jurisdiction over the petition filed under this subsection.
   - **(4)** The Tax Court shall establish rules which provide the individual filing a joint return but not making the election under subsection (b) or (c) or the request for equitable relief under subsection (f) with adequate notice and an opportunity to become a party to a proceeding under either such subsection.
   - **(5)** An individual who elects the application of subsection (b) or (c) or who requests equitable relief under subsection (f) (and who agrees with the Secretary’s determination of relief) may waive in writing at any time the restrictions in paragraph (1)(B) with respect to collection of the outstanding assessment (whether or not a notice of the Secretary’s final determination of relief has been mailed).
-  - **(6)** In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
-  - **(7)** Any review of a determination made under this section shall be reviewed de novo by the Tax Court and shall be based upon—
-    - **(A)** the administrative record established at the time of the determination, and
-    - **(B)** any additional newly discovered or previously unavailable evidence.
-- **(f)**
-  - **(1)** Under procedures prescribed by the Secretary, if—
-    - **(A)** taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either), and
-    - **(B)** relief is not available to such individual under subsection (b) or (c),
-  - **(2)** A request for equitable relief under this subsection may be made with respect to any portion of any liability that—
-    - **(A)** has not been paid, provided that such request is made before the expiration of the applicable period of limitation under section 6502, or
-    - **(B)** has been paid, provided that such request is made during the period in which the individual could submit a timely claim for refund or credit of such payment.
+- **(f)** Under procedures prescribed by the Secretary, if—
+  - **(1)** taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either); and
+  - **(2)** relief is not available to such individual under subsection (b) or (c),
 - **(g)**
   - **(1)** Except as provided in paragraphs (2) and (3), notwithstanding any other law or rule of law (other than section 6511, 6512(b), 7121, or 7122), credit or refund shall be allowed or made to the extent attributable to the application of this section.
   - **(2)** In the case of any election under subsection (b) or (c) or of any request for equitable relief under subsection (f), if a decision of a court in any prior proceeding for the same taxable year has become final, such decision shall be conclusive except with respect to the qualification of the individual for relief which was not an issue in such proceeding. The exception contained in the preceding sentence shall not apply if the court determines that the individual participated meaningfully in such prior proceeding.

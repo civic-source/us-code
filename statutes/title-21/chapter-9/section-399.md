@@ -3,9 +3,10 @@ title: "Section 399 - Grants to enhance food safety"
 usc_title: 21
 usc_section: "399"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 399"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-03-30T03:05:00.972Z"
+status: "active"
 ---
 
 # § 399. Grants to enhance food safety
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
       - **(i)** a State;
       - **(ii)** a locality;
       - **(iii)** a territory;
-      - **(iv)** an Indian tribe (as defined in section 5304(e) of title 25 ); or
+      - **(iv)** an Indian tribe (as defined in section 450b(e) of title 25 ); or
       - **(v)** a nonprofit food safety training entity that collaborates with 1 or more institutions of higher education; and
     - **(B)** that submits an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.
   - **(2)** Each application submitted under paragraph (1) shall include—

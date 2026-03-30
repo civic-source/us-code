@@ -3,9 +3,10 @@ title: "Section 2545 - Contracts and grants"
 usc_title: 19
 usc_section: "2545"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2545"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-03-30T03:04:42.043Z"
+status: "active"
 ---
 
 # § 2545. Contracts and grants
@@ -15,6 +16,6 @@ generated_at: "2026-03-30T02:54:24.679Z"
   - **(2)** to facilitate international trade through the appropriate international and domestic standards-related activities;
   - **(3)** to provide, if appropriate, and pursuant to section 2543 of this title , adequate United States representation in international standards-related activities; and
   - **(4)** to encourage United States exports through increased awareness of foreign standards-related activities that may affect United States exports.
-- **(b)** Any contract entered into, or any grant made, under subsection (a) shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
+- **(b)** Any contract entered into, or any grant made, under subsection (a) of this section shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
 - **(c)** Financial assistance extended under this section shall not exceed 75 percent of the total costs (as established by the Trade Representative or Secretary concerned, as the case may be) of the program or activity for which assistance is made available. The non-Federal share of such costs shall be made in cash or kind, consistent with the maintenance of the program or activity concerned.
 - **(d)** Each recipient of a grant or contract under this section shall make available to the Trade Representative or the Secretary concerned, as the case may be, and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under such grant or contract.

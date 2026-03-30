@@ -3,9 +3,10 @@ title: "Section 41736 - Air transportation to noneligible places"
 usc_title: 49
 usc_section: "41736"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 41736"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-03-30T03:06:29.321Z"
+status: "active"
 ---
 
 # § 41736. Air transportation to noneligible places
@@ -39,6 +40,3 @@ generated_at: "2026-03-30T02:56:19.378Z"
 - **(e)** The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
 - **(f)** After providing notice and an opportunity for interested persons to comment, the Secretary may withdraw the designation of a place under subsection (a)(1) of this section as eligible to receive compensation under this section if the place has received air transportation under this section for at least 2 years and the Secretary decides the withdrawal would be in the public interest. The Secretary by regulation shall prescribe standards for deciding whether the withdrawal of a designation under this subsection is in the public interest. The standards shall include the factors listed in subsection (a)(2) of this section.
 - **(g)** An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
-- **(h)**
-  - **(1)** No proposal under subsection (a) may be accepted by the Secretary after the date of enactment of this subsection.
-  - **(2)** The Secretary may not provide any compensation under this section after the date that is 2 years after the date of enactment of this subsection.

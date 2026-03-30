@@ -3,9 +3,10 @@ title: "Section 51 - Establishment of advisory council"
 usc_title: 16
 usc_section: "51"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 51"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-03-30T03:04:48.477Z"
+status: "active"
 ---
 
 # § 460nnn–51. Establishment of advisory council
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
   - **(8)** A person who participates in what is commonly called mechanized or consumptive recreation, such as hunting, fishing, off-road driving, hang gliding, or parasailing, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
   - **(9)** A person with expertise and interest in wild horse management on Steens Mountain, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
   - **(10)** A person who has no financial interest in the Cooperative Management and Protection Area to represent statewide interests, appointed from nominees submitted by the Governor of Oregon.
-- **(c)** In reviewing nominees submitted under subsection (b) for possible appointment to the advisory council, the Secretary shall consult with the respective community of interest that the nominees are to represent to ensure that the nominees have the support of their community of interest.
+- **(c)** In reviewing nominees submitted under subsection (b) of this section for possible appointment to the advisory council, the Secretary shall consult with the respective community of interest that the nominees are to represent to ensure that the nominees have the support of their community of interest.
 - **(d)**
   - **(1)** Members of the advisory council shall be appointed for terms of 3 years, except that, of the members first appointed, four members shall be appointed for a term of 1 year and four members shall be appointed for a term of 2 years.
   - **(2)** A member may be reappointed to serve on the advisory council.
@@ -31,4 +32,4 @@ generated_at: "2026-03-30T02:54:22.844Z"
 - **(e)** Members of the advisory council shall serve without pay, but the Secretary shall reimburse members for reasonable expenses incurred in carrying out official duties as a member of the council.
 - **(f)** The Secretary shall provide the advisory council with necessary administrative support and shall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary’s liaison to the council.
 - **(g)** The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
-- **(h)** The advisory committee 2 2 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) and chapter 10 of title 5.
+- **(h)** The advisory committee 2 2 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).

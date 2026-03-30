@@ -3,9 +3,10 @@ title: "Section 7101 - Purposes and findings"
 usc_title: 22
 usc_section: "7101"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 7101"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-03-30T03:04:53.703Z"
+status: "active"
 ---
 
 # § 7101. Purposes and findings

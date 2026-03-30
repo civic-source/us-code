@@ -3,9 +3,10 @@ title: "Section 927 - Powers of deputy commissioners or Board"
 usc_title: 33
 usc_section: "927"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 927"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-03-30T03:05:36.265Z"
+status: "active"
 ---
 
 # § 927. Powers of deputy commissioners or Board

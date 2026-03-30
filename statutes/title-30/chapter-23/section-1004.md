@@ -3,9 +3,10 @@ title: "Section 1004 - Rents and royalties"
 usc_title: 30
 usc_section: "1004"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1004"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-03-30T03:05:07.410Z"
+status: "active"
 ---
 
 # § 1004. Rents and royalties
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:55:29.395Z"
       - **(ii)** in the case of a lease awarded in a competitive lease sale, $2 per acre or fraction thereof for the 1st year and $3 per acre or fraction thereof for each of the 2nd through 10th years; and
     - **(B)** for each year after the 10th year of the lease, $5 per acre or fraction thereof; 1 1 So in original. The semicolon probably should be a period.
 - **(b)**
-  - **(1)** Notwithstanding subsection (a)(1), the Secretary shall establish a schedule of fees, in lieu of royalties for geothermal resources, that a lessee or its affiliate—
+  - **(1)** Notwithstanding subsection (a)(1) of this section, the Secretary shall establish a schedule of fees, in lieu of royalties for geothermal resources, that a lessee or its affiliate—
     - **(A)** uses for a purpose other than the commercial generation of electricity; and
     - **(B)** does not sell.
   - **(2)** The schedule of fees—

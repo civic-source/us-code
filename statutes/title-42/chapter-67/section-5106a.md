@@ -3,9 +3,10 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T02:56:11.217Z"
+generated_at: "2026-03-30T03:06:22.724Z"
+status: "active"
 ---
 
 # § 5106a. Grants to States for child abuse or neglect prevention and treatment programs
@@ -54,17 +55,15 @@ generated_at: "2026-03-30T02:56:11.217Z"
     - **(A)** an assurance that the State plan, to the maximum extent practicable, is coordinated with the State plan under part B of title IV of the Social Security Act [ 42 U.S.C. 620 et seq.] relating to child welfare services and family preservation and family support services;
     - **(B)** an assurance in the form of a certification by the Governor of the State that the State has in effect and is enforcing a State law, or has in effect and is operating a statewide program, relating to child abuse and neglect that includes—
       - **(i)** provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
-      - **(ii)** policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+      - **(ii)** policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
         - **(I)** establish a definition under Federal law of what constitutes child abuse or neglect; or
         - **(II)** require prosecution for any illegal action;
-      - **(iii)** the development of a plan of safe care for the infant born and identified as being affected by substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
-        - **(I)** addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
-        - **(II)** the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver;
+      - **(iii)** the development of a plan of safe care for the infant born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
       - **(iv)** procedures for the immediate screening, risk and safety assessment, and prompt investigation of such reports;
       - **(v)** triage procedures, including the use of differential response, for the appropriate referral of a child not at risk of imminent harm to a community organization or voluntary preventive service;
       - **(vi)** procedures for immediate steps to be taken to ensure and protect the safety of a victim of child abuse or neglect and of any other child under the same care who may also be in danger of child abuse or neglect and ensuring their placement in a safe environment;
-      - **(vii)** provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
-      - **(viii)** methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
+      - **(vii)** provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
+      - **(viii)** methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III of this chapter shall only be made available to—
         - **(I)** individuals who are the subject of the report;
         - **(II)** Federal, State, or local government entities, or any agent of such entities, as described in clause (ix);
         - **(III)** child abuse citizen review panels;
@@ -78,7 +77,7 @@ generated_at: "2026-03-30T02:56:11.217Z"
       - **(xiii)** provisions and procedures requiring that in every case involving a victim of child abuse or neglect which results in a judicial proceeding, a guardian ad litem, who has received training appropriate to the role, including training in early childhood, child, and adolescent development, and who may be an attorney or a court appointed special advocate who has received training appropriate to that role (or both), shall be appointed to represent the child in such proceedings—
         - **(I)** to obtain first-hand, a clear understanding of the situation and needs of the child; and
         - **(II)** to make recommendations to the court concerning the best interests of the child;
-      - **(xiv)** the establishment of citizen review panels in accordance with subsection (c);
+      - **(xiv)** the establishment of citizen review panels in accordance with subsection (c) of this section;
       - **(xv)** provisions, procedures, and mechanisms—
         - **(I)** for the expedited termination of parental rights in the case of any infant determined to be abandoned under State law; and
         - **(II)** by which individuals who disagree with an official finding of child abuse or neglect can appeal such finding;
@@ -88,16 +87,14 @@ generated_at: "2026-03-30T02:56:11.217Z"
         - **(III)** to have aided or abetted, attempted, conspired, or solicited to commit such murder or voluntary manslaughter;
         - **(IV)** to have committed a felony assault that results in the serious bodily injury to the surviving child or another child of such parent;
         - **(V)** to have committed sexual abuse against the surviving child or another child of such parent; or
-        - **(VI)** to be required to register with a sex offender registry under section 20913(a) of title 34 ;
+        - **(VI)** to be required to register with a sex offender registry under section 16913(a) of this title ;
       - **(xvii)** an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xvi), conviction of any one of the felonies listed in clause (xvi) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
       - **(xviii)** provisions and procedures to require that a representative of the child protective services agency shall, at the initial time of contact with the individual subject to a child abuse or neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
       - **(xix)** provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
       - **(xx)** provisions and procedures for improving the training, retention, and supervision of caseworkers;
       - **(xxi)** provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.);
-      - **(xxii)** provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ( 42 U.S.C. 671(a)(20) ) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household;
+      - **(xxii)** provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ( 42 U.S.C. 671(a)(20) ) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
       - **(xxiii)** provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
-      - **(xxiv)** provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) 2 2 See References in Text note below. of title 22); and
-      - **(xxv)** provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
     - **(C)** an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
       - **(i)** coordination and consultation with individuals designated by and within appropriate health-care facilities;
       - **(ii)** prompt notification by individuals designated by and within appropriate health-care facilities of cases of suspected medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions); and
@@ -126,11 +123,11 @@ generated_at: "2026-03-30T02:56:11.217Z"
   - **(3)** Each panel established pursuant to paragraph (1) shall meet not less than once every 3 months.
   - **(4)**
     - **(A)** Each panel established pursuant to paragraph (1) shall, by examining the policies, procedures, and practices of State and local agencies and where appropriate, specific cases, evaluate the extent to which State and local child protection system agencies are effectively discharging their child protection responsibilities in accordance with—
-      - **(i)** the State plan under subsection (b);
-      - **(ii)** the child protection standards set forth in subsection (b); and
+      - **(i)** the State plan under subsection (b) of this section;
+      - **(ii)** the child protection standards set forth in subsection (b) of this section; and
       - **(iii)** any other criteria that the panel considers important to ensure the protection of children, including—
         - **(I)** a review of the extent to which the State and local child protective services system is coordinated with the foster care and adoption programs established under part E of title IV of the Social Security Act ( 42 U.S.C. 670 et seq.); and
-        - **(II)** a review of child fatalities and near fatalities (as defined in subsection (b)(4)).
+        - **(II)** a review of child fatalities and near fatalities (as defined in subsection (b)(4) of this section).
     - **(B)**
       - **(i)** The members and staff of a panel established under paragraph (1)—
         - **(I)** shall not disclose to any person or government official any identifying information about any specific child protection case with respect to which the panel is provided information; and
@@ -170,16 +167,11 @@ generated_at: "2026-03-30T02:56:11.217Z"
     - **(D)** information on caseload or workload requirements for such personnel, including requirements for average number and maximum number of cases per child protective service worker and supervisor.
   - **(11)** The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse or neglect, including the death of the child.
   - **(12)** The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
-  - **(13)** The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
+  - **(13)** The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6) of this section.
   - **(14)** The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
   - **(15)** The number of children referred to a child protective services system under subsection (b)(2)(B)(ii).
   - **(16)** The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.).
-  - **(17)** The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
-  - **(18)** The number of infants—
-    - **(A)** identified under subsection (b)(2)(B)(ii);
-    - **(B)** for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
-    - **(C)** for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
-- **(e)** Within 6 months after receiving the State reports under subsection (d), the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
+- **(e)** Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
 - **(f)**
   - **(1)** In this subsection:
     - **(A)** The term “fiscal year 2009 grant funds” means the amount appropriated under section 5106h of this title for fiscal year 2009, and not reserved under section 5106h(a)(2) of this title .

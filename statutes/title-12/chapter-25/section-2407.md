@@ -3,9 +3,10 @@ title: "Section 2407 - Cooperation and assistance of other Federal departments, 
 usc_title: 12
 usc_section: "2407"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2407"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-03-30T03:04:29.300Z"
+status: "active"
 ---
 
 # § 2407. Cooperation and assistance of other Federal departments, agencies, and instrumentalities

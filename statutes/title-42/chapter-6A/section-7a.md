@@ -1,74 +1,23 @@
 ---
-title: "Section 7a - Youth prevention and recovery"
+title: "Section 7a - Heart attack, stroke, and other cardiovascular diseases in women"
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T02:56:10.760Z"
+generated_at: "2026-03-30T03:06:22.344Z"
+status: "active"
 ---
 
-# § 290bb–7a. Youth prevention and recovery
+# § 285b–7a. Heart attack, stroke, and other cardiovascular diseases in women
 
-- **(a)**
-- **(b)** The Secretary of Health and Human Services (referred to in this section as the “Secretary”, except as otherwise provided), in consultation with the Secretary of Education and other heads of agencies, including the Assistant Secretary for Mental Health and Substance Use and the Administrator of the Health Resources and Services Administration, as appropriate, shall establish a resource center to provide technical support to recipients of grants under subsection (c).
-- **(c)**
-  - **(1)** The Secretary, in consultation with the Secretary of Education, shall administer a program to provide support for communities to support the prevention of, treatment of, and recovery from, substance use disorders for children, adolescents, and young adults.
-  - **(2)** In this subsection:
-    - **(A)** The term “eligible entity” means—
-      - **(i)** a local educational agency, or a consortium of local educational agencies, that is seeking to establish or expand substance use prevention or recovery support services at one or more secondary schools;
-      - **(ii)** a State educational agency;
-      - **(iii)** an institution of higher education (or consortia of such institutions), which may include a recovery program at an institution of higher education;
-      - **(iv)** a local board or one-stop operator;
-      - **(v)** a nonprofit organization with appropriate expertise in providing services or programs for children, adolescents, or young adults, excluding a school;
-      - **(vi)** a State, political subdivision of a State, Indian Tribe, or Tribal organization; or
-      - **(vii)** a high school or dormitory serving high school students that receives funding from the Bureau of Indian Education.
-    - **(B)** The term “foster care” has the meaning given such term in section 1355.20(a) of title 45, Code of Federal Regulations (or any successor regulations).
-    - **(C)** The term “high school” has the meaning given such term in section 7801 of title 20 .
-    - **(D)** The term “homeless youth” has the meaning given the term “homeless children or youths” in section 11434a of this title .
-    - **(E)** The terms “Indian Tribe” and “Tribal organization” have the meanings given such terms in section 5304 of title 25 .
-    - **(F)** The term “institution of higher education” has the meaning given such term in section 1001 of title 20 and includes a “postsecondary vocational institution” as defined in section 1002(c) of such title.
-    - **(G)** The term “local educational agency” has the meaning given such term in section 7801 of title 20 .
-    - **(H)** The terms “local board” and “one-stop operator” have the meanings given such terms in section 3102 of title 29 .
-    - **(I)** The term “out-of-school youth” has the meaning given such term in section 3164(a)(1)(B) of title 29 .
-    - **(J)** The term “recovery program” means a program—
-      - **(i)** to help children, adolescents, or young adults who are recovering from substance use disorders to initiate, stabilize, and maintain healthy and productive lives in the community; and
-      - **(ii)** that includes peer-to-peer support delivered by individuals with lived experience in recovery, and communal activities to build recovery skills and supportive social networks.
-    - **(K)** The term “secondary school” has the meaning given such term in section 7801 of title 20 .
-    - **(L)** The term “State educational agency” has the meaning given such term in section 7801 of title 20 .
-  - **(3)** The Secretary, in consultation with the Secretary of Education, shall—
-    - **(A)** identify or facilitate the development of evidence-based best practices for prevention of substance misuse by children, adolescents, and young adults, including for specific populations at increased risk for substance misuse such as youth in foster care, homeless youth, out-of-school youth, and youth who are at risk of or have experienced trafficking that address—
-      - **(i)** primary prevention, which may include strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, other emerging drug use or misuse issues;
-      - **(ii)** appropriate recovery support services;
-      - **(iii)** appropriate use of medication-assisted treatment for such individuals, if applicable, and ways of overcoming barriers to the use of medication-assisted treatment in such population; and
-      - **(iv)** efficient and effective communication, which may include the use of social media, to maximize outreach efforts;
-    - **(B)** disseminate such best practices to State educational agencies, local educational agencies, schools and dormitories funded by the Bureau of Indian Education, institutions of higher education, recovery programs at institutions of higher education, local boards, one-stop operators, family and youth homeless providers, and nonprofit organizations, as appropriate;
-    - **(C)** conduct a rigorous evaluation of each grant funded under this subsection, particularly its impact on the indicators described in paragraph (7)(B); and
-    - **(D)** provide technical assistance for grantees under this subsection.
-  - **(4)** The Secretary, in consultation with the Secretary of Education, shall award 3-year grants, on a competitive basis, to eligible entities to enable such entities, in coordination with Indian Tribes, if applicable, and State agencies responsible for carrying out substance use disorder prevention and treatment programs, to carry out evidence-based programs for—
-    - **(A)** prevention of substance misuse by children, adolescents, and young adults, which may include primary prevention and strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, emerging drug use or misuse issues;
-    - **(B)** recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer-to-peer support, and recovery coaching; or
-    - **(C)** treatment or referrals for treatment of substance use disorders, which may include the use of medication-assisted treatment, as appropriate.
-  - **(5)** In awarding grants under this subsection, the Secretary shall give special consideration to the unique needs of Tribal, urban, suburban, and rural populations.
-  - **(6)** To be eligible for a grant under this subsection, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. Such application shall include—
-    - **(A)** a description of—
-      - **(i)** the impact of substance use disorders in the population that will be served by the grant program;
-      - **(ii)** how the eligible entity has solicited input from relevant stakeholders, which may include faculty, teachers, staff, families, students, and experts in substance use disorder prevention, treatment, and recovery in developing such application;
-      - **(iii)** the goals of the proposed project, including the intended outcomes;
-      - **(iv)** how the eligible entity plans to use grant funds for evidence-based activities, in accordance with this subsection to prevent, provide recovery support for, or treat substance use disorders amongst such individuals, or a combination of such activities;
-      - **(v)** how the eligible entity will collaborate with relevant partners, which may include State educational agencies, local educational agencies, institutions of higher education, juvenile justice agencies, prevention and recovery support providers, local service providers, including substance use disorder treatment programs, providers of mental health services, youth serving organizations, family and youth homeless providers, child welfare agencies, and primary care providers, in carrying out the grant program; and
-      - **(vi)** a plan to sustain the activities carried out under the grant program, after the grant program has ended; and
-    - **(B)** an assurance that the eligible entity will participate in the evaluation described in paragraph (3)(C).
-  - **(7)** Each eligible entity awarded a grant under this subsection shall submit to the Secretary a report at such time and in such manner as the Secretary may require. Such report shall include—
-    - **(A)** a description of how the eligible entity used grant funds, in accordance with this subsection, including the number of children, adolescents, and young adults reached through programming; and
-    - **(B)** a description, including relevant data, of how the grant program has made an impact on the intended outcomes described in paragraph (6)(A)(iii), including—
-      - **(i)** indicators of student success, which, if the eligible entity is an educational institution, shall include student well-being and academic achievement;
-      - **(ii)** substance use disorders amongst children, adolescents, and young adults, including the number of overdoses and deaths amongst children, adolescents, and young adults served by the grant during the grant period; and
-      - **(iii)** other indicators, as the Secretary determines appropriate.
-  - **(8)** The Secretary shall, not later than October 1, 2028 , submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and the Workforce of the House of Representatives a report summarizing the effectiveness of the grant program under this subsection, based on the information submitted in reports required under paragraph (7).
-  - **(9)** To carry out this subsection, there are authorized to be appropriated—
-    - **(A)** $10,000,000 for fiscal year 2026;
-    - **(B)** $12,000,000 for fiscal year 2027;
-    - **(C)** $13,000,000 for fiscal year 2028;
-    - **(D)** $14,000,000 for fiscal year 2029; and
-    - **(E)** $15,000,000 for fiscal year 2030.
+- **(a)** The Director of the Institute shall expand, intensify, and coordinate research and related activities of the Institute with respect to heart attack, stroke, and other cardiovascular diseases in women.
+- **(b)** The Director of the Institute shall coordinate activities under subsection (a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to heart attack, stroke, and other cardiovascular diseases in women.
+- **(c)** In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the causes of, and to develop methods for preventing, cardiovascular diseases in women. Activities under such subsection shall include conducting and supporting the following:
+  - **(1)** Research to determine the reasons underlying the prevalence of heart attack, stroke, and other cardiovascular diseases in women, including African-American women and other women who are members of racial or ethnic minority groups.
+  - **(2)** Basic research concerning the etiology and causes of cardiovascular diseases in women.
+  - **(3)** Epidemiological studies to address the frequency and natural history of such diseases and the differences among men and women, and among racial and ethnic groups, with respect to such diseases.
+  - **(4)** The development of safe, efficient, and cost-effective diagnostic approaches to evaluating women with suspected ischemic heart disease.
+  - **(5)** Clinical research for the development and evaluation of new treatments for women, including rehabilitation.
+  - **(6)** Studies to gain a better understanding of methods of preventing cardiovascular diseases in women, including applications of effective methods for the control of blood pressure, lipids, and obesity.
+  - **(7)** Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or control of such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.

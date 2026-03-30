@@ -3,9 +3,10 @@ title: "Section 501 - Utilization of services of Government agencies to promote 
 usc_title: 22
 usc_section: "501"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 501"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-03-30T03:04:53.605Z"
+status: "active"
 ---
 
 # § 501. Utilization of services of Government agencies to promote inter-American relations

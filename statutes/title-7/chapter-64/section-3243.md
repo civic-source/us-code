@@ -3,9 +3,10 @@ title: "Section 3243 - Hispanic-serving agricultural colleges and universities"
 usc_title: 7
 usc_section: "3243"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3243"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-03-30T03:04:20.980Z"
+status: "active"
 ---
 
 # § 3243. Hispanic-serving agricultural colleges and universities
@@ -45,7 +46,5 @@ generated_at: "2026-03-30T02:53:42.400Z"
     - **(C)** A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount that is specified by the Secretary and based on assessed institutional needs.
   - **(3)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.
 - **(e)**
-  - **(1)** The Secretary shall establish a competitive grants program—
-    - **(A)** to fund fundamental and applied research and extension at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science; and
-    - **(B)** to award competitive grants to Hispanic-serving agricultural colleges and universities to provide for training in the food and agricultural sciences of Hispanic agricultural workers and Hispanic youth working in the food and agricultural sciences.
+  - **(1)** The Secretary shall establish a competitive grants program to fund fundamental and applied research at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science.
   - **(2)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.

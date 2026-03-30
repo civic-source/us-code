@@ -3,9 +3,10 @@ title: "Section 6409 - Assessments"
 usc_title: 7
 usc_section: "6409"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 6409"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-03-30T03:04:21.002Z"
+status: "active"
 ---
 
 # § 6409. Assessments
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
   - **(2)** otherwise be deducted from the amounts that handlers must pay to producers for fluid milk products sold to a processor; or
   - **(3)** otherwise be deducted from the price of milk paid to a producer by a handler, as determined by the Secretary.
 - **(c)**
-  - **(1)** Assessments required under subsection (a) shall be remitted by the fluid milk processor directly to the Board in accordance with the order and regulations issued by the Secretary.
+  - **(1)** Assessments required under subsection (a) of this section shall be remitted by the fluid milk processor directly to the Board in accordance with the order and regulations issued by the Secretary.
   - **(2)** Each processor who is responsible for the remittance of an assessment under paragraph (1) shall remit the assessment to the Board not later than the last day of the month following the month that the milk being assessed was marketed.
   - **(3)** Remittances shall be verified by market administrators and State regulatory officials, and local and State Agricultural Stabilization and Conservation Service offices, as provided by the Secretary.
 - **(d)** Not more than one assessment may be assessed under this section for the purposes of this chapter on a processor for any unit of fluid milk product.

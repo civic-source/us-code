@@ -3,9 +3,10 @@ title: "Section 516 - Research and development"
 usc_title: 23
 usc_section: "516"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 516"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-03-30T03:04:51.168Z"
+status: "active"
 ---
 
 # § 516. Research and development
@@ -17,6 +18,6 @@ generated_at: "2026-03-30T02:55:12.574Z"
   - **(3)** address traffic management, incident management, transit management, toll collection traveler information, or highway operations systems;
   - **(4)** incorporate research on the potential impact of environmental, weather, and natural conditions on intelligent transportation systems, including the effects of cold climates;
   - **(5)** enhance intermodal use of intelligent transportation systems for diverse groups, including for emergency and health-related services;
-  - **(6)** enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems, including animal detection systems to reduce the number of wildlife-vehicle collisions; or
+  - **(6)** enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems; or
   - **(7)** facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
 - **(c)** The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.

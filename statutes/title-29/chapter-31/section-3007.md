@@ -1,40 +1,25 @@
 ---
-title: "Section 3007 - Administrative provisions"
+title: "Section 3007 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3007"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 3007"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-03-30T03:05:09.750Z"
+status: "active"
 ---
 
-# § 3007. Administrative provisions
+# § 3007. Authorization of appropriations
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of law, the Administrator of the Administration for Community Living of the Department of Health and Human Services (referred to in this section as the “Administrator”) shall be responsible for the administration of this chapter.
-  - **(2)** The Administrator shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, and other appropriate Federal entities in the administration of this chapter.
-  - **(3)**
-    - **(A)** In administering this chapter, the Administrator shall ensure that programs funded under this chapter will address—
-      - **(i)** the needs of individuals with all types of disabilities and across the lifespan; and
-      - **(ii)** the use of assistive technology in all potential environments, including employment, education, and community living.
-    - **(B)** For each fiscal year, not more than ½ of 1 percent of the total funding appropriated for this chapter shall be used by the Administrator to support the administration of this chapter.
-- **(b)**
-  - **(1)** The Secretary shall assess the extent to which entities that receive grants under this chapter are complying with the applicable requirements of this chapter and achieving measurable goals that are consistent with the requirements of the grant programs under which the entities received the grants.
-  - **(2)** To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
-- **(c)**
-  - **(1)** If the Secretary determines that an entity that receives a grant under this chapter fails to substantially comply with the applicable requirements of this chapter, or to make substantial progress toward achieving the measurable goals described in subsection (b)(1) with respect to the grant program, the Secretary shall assist the entity, through technical assistance funded under section 3005 of this title or other means, within 90 days after such determination, to develop a corrective action plan.
-  - **(2)** If the entity fails to develop and comply with a corrective action plan described in paragraph (1) during a fiscal year, the entity shall be subject to 1 of the following corrective actions selected by the Secretary:
-    - **(A)** Partial or complete termination of funding under the grant program, until the entity develops and complies with such a plan.
-    - **(B)** Ineligibility to participate in the grant program in the following fiscal year.
-    - **(C)** Reduction in the amount of funding that may be used for indirect costs under section 3003 of this title for the following fiscal year.
-    - **(D)** Required redesignation of the lead agency designated under section 3003(c)(1) of this title or an entity responsible for administering the grant program.
-  - **(3)** The Secretary shall establish appeals procedures for entities that are determined to be in noncompliance with the applicable requirements of this chapter, or have not made substantial progress toward achieving the measurable goals described in subsection (b)(1).
-  - **(4)** As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
-  - **(5)** Not later than 30 days after taking an action under paragraph (1) or (2), the Secretary shall notify the public, by posting on an easily accessible portion of the internet website of the Department of Health and Human Services, notification of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
-- **(d)**
-  - **(1)** Not later than December 31 of each year, the Secretary shall prepare and submit to the President, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and Labor of the House of Representatives a report on the activities funded under this chapter to improve the access of assistive technology devices and assistive technology services to individuals with disabilities.
-  - **(2)** Each report described in paragraph (1) shall include—
-    - **(A)** a compilation and summary of the information provided by the States in annual progress reports submitted under section 3003(f) of this title ; and
-    - **(B)** a summary of the State applications described in section 3003(d) of this title and an analysis of the progress of the States in meeting the measurable goals established in State applications under section 3003(d)(3)(C) of this title .
-- **(e)** Nothing in this section shall be construed to affect the enforcement authority of the Secretary, another Federal officer, or a court under any other applicable law.
-- **(f)** This chapter may not be construed as authorizing a Federal or State agency to reduce medical or other assistance available, or to alter eligibility for a benefit or service, under any other Federal law.
+  - **(1)** There are authorized to be appropriated to carry out sections 3003 and 3005 of this title such sums as may be necessary for each of fiscal years 2005 through 2010.
+  - **(2)**
+    - **(A)** In this paragraph, the term “higher appropriation year” means a fiscal year for which the amount appropriated under paragraph (1) and made available to carry out section 3003 of this title is at least $665,000 greater than the amount that—
+      - **(i)** was appropriated under section 3015 of this title (as in effect on October 1, 2003 ) for fiscal year 2004; and
+      - **(ii)** was not reserved for grants under section 3012 or 3014 of this title (as in effect on such date) for fiscal year 2004.
+    - **(B)** Of the amount appropriated under paragraph (1) for a fiscal year—
+      - **(i)** not more than $1,235,000 may be reserved to carry out section 3005 of this title , except as provided in clause (ii); and
+      - **(ii)** for a higher appropriation year—
+        - **(I)** not more than $1,900,000 may be reserved to carry out section 3005 of this title ; and
+        - **(II)** of the amount so reserved, the portion exceeding $1,235,000 shall be used to carry out paragraphs (1) and (2) of section 3005(b) of this title .
+- **(b)** There are authorized to be appropriated to carry out section 3004 of this title $4,419,000 for fiscal year 2005 and such sums as may be necessary for each of fiscal years 2006 through 2010.

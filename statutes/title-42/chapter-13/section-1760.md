@@ -3,19 +3,20 @@ title: "Section 1760 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "1760"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1760"
-generated_at: "2026-03-30T02:56:11.110Z"
+generated_at: "2026-03-30T03:06:22.619Z"
+status: "active"
 ---
 
 # § 1760. Miscellaneous provisions
 
 - **(a)** States, State educational agencies, and schools participating in the school lunch program under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether the provisions of this chapter are being complied with. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of five years, as the Secretary determines is necessary.
 - **(b)**
-  - **(1)** The Secretary shall incorporate, in the agreement of the Secretary with the State agencies and Indian Tribal organizations administering programs authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
+  - **(1)** The Secretary shall incorporate, in the agreement of the Secretary with the State agencies administering programs authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
   - **(2)** Agreements described in paragraph (1) shall include a provision that—
-    - **(A)** supports full use of Federal funds provided to State agencies and Indian Tribal organizations for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.); and
-    - **(B)** excludes the Federal funds from State and Indian Tribal organization budget restrictions or limitations including, at a minimum—
+    - **(A)** supports full use of Federal funds provided to State agencies for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.); and
+    - **(B)** excludes the Federal funds from State budget restrictions or limitations including, at a minimum—
       - **(i)** hiring freezes;
       - **(ii)** work furloughs; and
       - **(iii)** travel restrictions.
@@ -94,7 +95,7 @@ generated_at: "2026-03-30T02:56:11.110Z"
     - **(C)** a family or group day care home sponsoring organization described in section 1766 of this title .
 - **(m)**
   - **(1)** Subject to the availability of funds made available under paragraph (4), the Secretary shall provide technical assistance and training to States, State agencies, schools, and school food authorities in the procurement of goods and services for programs under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) (other than section 17 of that Act ( 42 U.S.C. 1786 )).
-  - **(2)** Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n).
+  - **(2)** Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n) of this section.
   - **(3)** Activities carried out under paragraph (1) shall include technical assistance and training on procuring safe foods, including the use of model specifications for procuring safe foods.
   - **(4)** There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2010 through 2015, to remain available until expended.
 - **(n)**

@@ -3,9 +3,10 @@ title: "Section 3316 - Classification societies"
 usc_title: 46
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 3316"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-03-30T03:06:27.168Z"
+status: "active"
 ---
 
 # § 3316. Classification societies
@@ -41,9 +42,7 @@ generated_at: "2026-03-30T02:56:15.543Z"
   - **(2)** The Secretary may make a delegation under paragraph (1) to a foreign classification society only if—
     - **(A)** the foreign society has offices and maintains records in the United States;
     - **(B)**
-      - **(i)** the government of the foreign country in which the foreign society is headquartered—
-        - **(I)** delegates that authority to the American Bureau of Shipping; or
-        - **(II)** does not delegate that authority to any classification society; or
+      - **(i)** the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
       - **(ii)** the Secretary has entered into an agreement with the government of the foreign country in which the foreign society is headquartered that—
         - **(I)** ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
         - **(II)** is in full accord with principles of reciprocity in regards to any delegation contemplated by the Secretary under paragraph (1); and
@@ -56,17 +55,5 @@ generated_at: "2026-03-30T02:56:15.543Z"
   - **(4)** For purposes of this subsection—
     - **(A)** the term “offshore facility” means any installation, structure, or other device (including any vessel not documented under chapter 121 of this title or the laws of another country), fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the sea; and
     - **(B)** the term “United States offshore facility” means any offshore facility, fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the territorial sea of the United States or the outer Continental Shelf (as that term is defined in section 2 of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 )), including any vessel, rig, platform, or other vehicle or structure subject to regulation under section 30 of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1356 ).
-  - **(5)** Nothing in this subsection authorizes the Secretary to make a delegation under paragraph (2) to a classification society from the People’s Republic of China.
 - **(e)** The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
-- **(f)**
-  - **(1)** Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegation is authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
-  - **(2)** If the Secretary determines that a certificate of inspection or related document issued under authority delegated under paragraph (1) of this subsection with respect to a vessel has reduced the operational safety of that vessel, the Secretary may terminate the certificate or document, respectively.
-  - **(3)** Not later than 2 years after the date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, and for each year of the subsequent 2-year period, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing—
-    - **(A)** the number of vessels for which a delegation was made under paragraph (1);
-    - **(B)** any savings in personnel and operational costs incurred by the Coast Guard that resulted from the delegations; and
-    - **(C)** based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
-- **(g)**
-  - **(1)** There shall be within the Coast Guard an office that conducts comprehensive and targeted oversight of all recognized organizations that act on behalf of the Coast Guard.
-  - **(2)** The staff of the office shall include subject matter experts, including inspectors, investigators, and auditors, who possess the capability and authority to audit all aspects of such recognized organizations.
-  - **(3)** In this subsection the term “recognized organization” has the meaning given that term in section 2.45–1 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Hamm Alert Maritime Safety Act of 2018.
-- **(h)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) 1 1 See References in Text note below. of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+- **(f)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.

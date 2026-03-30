@@ -3,9 +3,10 @@ title: "Section 2270 - Authority of Office of Inspector General"
 usc_title: 7
 usc_section: "2270"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2270"
-generated_at: "2026-03-30T02:53:42.383Z"
+generated_at: "2026-03-30T03:04:20.969Z"
+status: "active"
 ---
 
 # § 2270. Authority of Office of Inspector General
@@ -14,4 +15,4 @@ Any person who is employed in the Office of the Inspector General, Department of
 
   - **(1)** make an arrest without a warrant for any such criminal felony violation if such violation is committed, or if such employee has probable cause to believe that such violation is being committed, in the presence of such employee;
   - **(2)** execute a warrant for an arrest, for the search of premises, or the seizure of evidence if such warrant is issued under authority of the United States upon probable cause to believe that such violation has been committed; and
-  - **(3)** carry a firearm;
+  - **(3)** carry a firearm; in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.

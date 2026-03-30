@@ -1,48 +1,27 @@
 ---
-title: "Section 247 - Contributions to Alaska Native Settlement Trusts"
+title: "Section 247 - Dividends paid on certain preferred stock of public utilities"
 usc_title: 26
 usc_section: "247"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 247"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-03-30T03:05:18.566Z"
+status: "active"
 ---
 
-# § 247. Contributions to Alaska Native Settlement Trusts
+# § 247. Dividends paid on certain preferred stock of public utilities
 
-- **(a)** In the case of a Native Corporation, there shall be allowed a deduction for any contributions made by such Native Corporation to a Settlement Trust (regardless of whether an election under section 646 is in effect for such Settlement Trust) for which the Native Corporation has made an annual election under subsection (e).
-- **(b)** The amount of the deduction under subsection (a) shall be equal to—
-  - **(1)** in the case of a cash contribution (regardless of the method of payment, including currency, coins, money order, or check), the amount of such contribution, or
-  - **(2)** in the case of a contribution not described in paragraph (1), the lesser of—
-    - **(A)** the Native Corporation’s adjusted basis in the property contributed, or
-    - **(B)** the fair market value of the property contributed.
-- **(c)**
-  - **(1)** Subject to paragraph (2), the deduction allowed under subsection (a) for any taxable year shall not exceed the taxable income (as determined without regard to such deduction) of the Native Corporation for the taxable year in which the contribution was made.
-  - **(2)** If the aggregate amount of contributions described in subsection (a) for any taxable year exceeds the limitation under paragraph (1), such excess shall be treated as a contribution described in subsection (a) in each of the 15 succeeding years in order of time.
-- **(d)** For purposes of this section, the terms “Native Corporation” and “Settlement Trust” have the same meaning given such terms under section 646(h).
-- **(e)**
-  - **(1)** For each taxable year, a Native Corporation may elect to have this section apply for such taxable year on the income tax return or an amendment or supplement to the return of the Native Corporation, with such election to have effect solely for such taxable year.
-  - **(2)** Any election made by a Native Corporation pursuant to this subsection may be revoked pursuant to a timely filed amendment or supplement to the income tax return of such Native Corporation.
-- **(f)**
-  - **(1)** Notwithstanding section 646(d)(2), in the case of a Native Corporation which claims a deduction under this section for any taxable year, the earnings and profits of such Native Corporation for such taxable year shall be reduced by the amount of such deduction.
-  - **(2)** No gain or loss shall be recognized by the Native Corporation with respect to a contribution of property for which a deduction is allowed under this section.
-  - **(3)** Subject to subsection (g), a Settlement Trust shall include in income the amount of any deduction allowed under this section in the taxable year in which the Settlement Trust actually receives such contribution.
-  - **(4)** The holding period under section 1223 of the Settlement Trust shall include the period the property was held by the Native Corporation.
-  - **(5)** The basis that a Settlement Trust has for which a deduction is allowed under this section shall be equal to the lesser of—
-    - **(A)** the adjusted basis of the Native Corporation in such property immediately before such contribution, or
-    - **(B)** the fair market value of the property immediately before such contribution.
-  - **(6)** No deduction shall be allowed under this section with respect to any contributions made to a Settlement Trust which are in violation of subsection (a)(2) or (c)(2) of section 39 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1629e ).
-- **(g)**
-  - **(1)** In the case of a contribution which consists of property other than cash, a Settlement Trust may elect to defer recognition of any income related to such property until the sale or exchange of such property, in whole or in part, by the Settlement Trust.
-  - **(2)** In the case of property described in paragraph (1), any income or gain realized on the sale or exchange of such property shall be treated as—
-    - **(A)** for such amount of the income or gain as is equal to or less than the amount of income which would be included in income at the time of contribution under subsection (f)(3) but for the taxpayer’s election under this subsection, ordinary income, and
-    - **(B)** for any amounts of the income or gain which are in excess of the amount of income which would be included in income at the time of contribution under subsection (f)(3) but for the taxpayer’s election under this subsection, having the same character as if this subsection did not apply.
-  - **(3)**
-    - **(A)** For each taxable year, a Settlement Trust may elect to apply this subsection for any property described in paragraph (1) which was contributed during such year. Any property to which the election applies shall be identified and described with reasonable particularity on the income tax return or an amendment or supplement to the return of the Settlement Trust, with such election to have effect solely for such taxable year.
-    - **(B)** Any election made by a Settlement Trust pursuant to this subsection may be revoked pursuant to a timely filed amendment or supplement to the income tax return of such Settlement Trust.
-    - **(C)**
-      - **(i)** In the case of any property for which an election is in effect under this subsection and which is disposed of within the first taxable year subsequent to the taxable year in which such property was contributed to the Settlement Trust—
-        - **(I)** this section shall be applied as if the election under this subsection had not been made,
-        - **(II)** any income or gain which would have been included in the year of contribution under subsection (f)(3) but for the taxpayer’s election under this subsection shall be included in income for the taxable year of such contribution, and
-        - **(III)** the Settlement Trust shall pay any increase in tax resulting from such inclusion, including any applicable interest, and increased by 10 percent of the amount of such increase with interest.
-      - **(ii)** Notwithstanding section 6501(a), any amount described in subclause (III) of clause (i) may be assessed, or a proceeding in court with respect to such amount may be initiated without assessment, within 4 years after the date on which the return making the election under this subsection for such property was filed.
+- **(a)** In the case of a public utility, there shall be allowed as a deduction an amount computed as follows:
+  - **(1)** First determine the amount which is the lesser of—
+    - **(A)** the amount of dividends paid during the taxable year on its preferred stock, or
+    - **(B)** the taxable income for the taxable year (computed without the deduction allowed by this section).
+  - **(2)** Then multiply the amount determined under paragraph (1) by the fraction—
+    - **(A)** the numerator of which is 14 percent, and
+    - **(B)** the denominator of which is that percentage which equals the highest rate of tax specified in section 11(b).
+- **(b)** For purposes of this section and section 244—
+  - **(1)** The term “public utility” means a corporation engaged in the furnishing of telephone service or in the sale of electrical energy, gas, or water, if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof or by an agency or instrumentality of the United States or by a public utility or public service commission or other similar body of the District of Columbia or of any State or political subdivision thereof.
+  - **(2)**
+    - **(A)** The term “preferred stock” means stock issued before October 1, 1942 , which during the whole of the taxable year (or the part of the taxable year after its issue) was stock the dividends in respect of which were cumulative, limited to the same amount, and payable in preference to the payment of dividends on other stock.
+    - **(B)** Stock issued on or after October 1, 1942 , shall be deemed for purposes of this paragraph to have been issued before October 1, 1942 , if it was issued to refund or replace bonds or debentures issued before October 1, 1942 , or to refund or replace other preferred stock (including stock which is preferred stock by reason of this subparagraph or subparagraph (D)), but only to the extent that the par or stated value of the new stock does not exceed the par, stated, or face value of the bonds or debentures issued before October 1, 1942 , or the other preferred stock, which such new stock is issued to refund or replace.
+    - **(C)** The determination of whether stock was issued to refund or replace bonds or debentures issued before October 1, 1942 , or to refund or replace other preferred stock, shall be made under regulations prescribed by the Secretary.
+    - **(D)** For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O as in effect before its repeal (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.

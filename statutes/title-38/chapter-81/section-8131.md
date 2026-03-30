@@ -3,9 +3,10 @@ title: "Section 8131 - Definitions"
 usc_title: 38
 usc_section: "8131"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 8131"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-03-30T03:05:59.237Z"
+status: "active"
 ---
 
 # § 8131. Definitions
@@ -13,6 +14,6 @@ generated_at: "2026-03-30T02:55:53.538Z"
 For the purpose of this subchapter—
 
   - **(1)** The veteran population of each State shall be determined on the basis of the latest figures certified by the Department of Commerce.
-  - **(2)** The term “State” includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 )) but does not include any possession of the United States.
+  - **(2)** The term “State” does not include any possession of the United States.
   - **(3)** The term “construction” means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, adult day health, or hospital care in State homes, and the provision of initial equipment for any such buildings.
   - **(4)** The term “cost of construction” means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.

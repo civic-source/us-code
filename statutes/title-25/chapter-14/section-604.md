@@ -1,12 +1,15 @@
 ---
-title: "Section 604 - Omitted"
+title: "Section 604 - Loss of membership and removal from roll"
 usc_title: 25
 usc_section: "604"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 604"
-generated_at: "2026-03-30T02:54:52.810Z"
+generated_at: "2026-03-30T03:05:02.845Z"
+status: "active"
 ---
 
-# § 604. Omitted
+# § 604. Loss of membership and removal from roll
+
+Every person whose name appears on the roll prepared hereunder who holds no vested right, title, or interest in or to any restricted or trust land on the Yakima Reservation or within the area ceded by the treaty of June 9, 1855 , and who has failed to maintain any tribal affiliations or a residence on the reservation or within the ceded area for a period of five consecutive years, shall no longer be considered a member of the Yakima Tribes, and his name shall be removed from the rolls. It shall be the duty of the Yakima Tribal Council to determine, subject to review by the Secretary of the Interior, loss of membership in each case.
 

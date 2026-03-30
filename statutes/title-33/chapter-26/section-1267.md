@@ -3,9 +3,10 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-03-30T03:05:36.271Z"
+status: "active"
 ---
 
 # § 1267. Chesapeake Bay
@@ -34,7 +35,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(1)** In cooperation with the Chesapeake Executive Council, the Administrator may provide technical assistance, and assistance grants, to nonprofit organizations, State and local governments, colleges, universities, and interstate agencies to carry out this section, subject to such terms and conditions as the Administrator considers appropriate.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the Federal share of an assistance grant provided under paragraph (1) shall be determined by the Administrator in accordance with guidance issued by the Administrator.
-    - **(B)** The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
+    - **(B)** The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) of this section shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
   - **(3)** An assistance grant under paragraph (1) shall be provided on the condition that non-Federal sources provide the remainder of eligible project costs, as determined by the Administrator.
   - **(4)** Administrative costs shall not exceed 10 percent of the annual grant award.
 - **(e)**
@@ -69,7 +70,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
     - **(E)** the restoration, protection, creation, and enhancement goals established by the Chesapeake Bay Agreement signatories for living resources associated with the Chesapeake Bay ecosystem.
   - **(2)** The Administrator, in cooperation with the Chesapeake Executive Council, shall—
     - **(A)** establish a small watershed grants program as part of the Chesapeake Bay Program; and
-    - **(B)** offer technical assistance and assistance grants under subsection (d) to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
+    - **(B)** offer technical assistance and assistance grants under subsection (d) of this section to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
       - **(i)** cooperative tributary basin strategies that address the water quality and living resource needs in the Chesapeake Bay ecosystem; and
       - **(ii)** locally based protection and restoration programs or projects within a watershed that complement the tributary basin strategies, including the creation, restoration, protection, or enhancement of habitat associated with the Chesapeake Bay ecosystem.
 - **(h)**
@@ -87,11 +88,4 @@ generated_at: "2026-03-30T02:55:41.083Z"
     - **(B)** establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
     - **(C)** evaluate and assess interactions of species, with particular attention to the impact of changes within and among trophic levels; and
     - **(D)** recommend management actions to optimize the return of a healthy and balanced ecosystem in response to improvements in the quality and character of the waters of the Chesapeake Bay.
-  - **(3)** The Administrator shall carry out an annual survey of sea grasses in the Chesapeake Bay.
-- **(j)** There are authorized to be appropriated to carry out this section—
-  - **(1)** for fiscal year 2021, $90,000,000;
-  - **(2)** for fiscal year 2022, $90,500,000;
-  - **(3)** for fiscal year 2023, $91,000,000;
-  - **(4)** for fiscal year 2024, $91,500,000;
-  - **(5)** for fiscal year 2025, $92,000,000; and
-  - **(6)** for each of fiscal years 2026 through 2030, $92,000,000.
+- **(j)** There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.

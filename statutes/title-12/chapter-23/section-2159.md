@@ -1,14 +1,15 @@
 ---
-title: "Section 2159 - Purchase and sale of obligations"
+title: "Section 2159 - Purchase and sale of obligations; additional powers"
 usc_title: 12
 usc_section: "2159"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 2159"
-generated_at: "2026-03-30T02:53:53.473Z"
+generated_at: "2026-03-30T03:04:29.288Z"
+status: "active"
 ---
 
-# § 2159. Purchase and sale of obligations
+# § 2159. Purchase and sale of obligations; additional powers
 
-Each bank of the System may purchase its own obligations and the obligations of other banks of the System and may provide for the sale of obligations issued by it, consolidated obligations, or Systemwide obligations through a fiscal agent or agents, by negotiation, offer, bid, syndicate sale, and to deliver such obligations by book entry, wire transfer, or such other means as may be appropriate.
-
+- **(a)** Each bank of the System may purchase its own obligations and the obligations of other banks of the System and may provide for the sale of obligations issued by it, consolidated obligations, or Systemwide obligations through a fiscal agent or agents, by negotiation, offer, bid, syndicate sale, and to deliver such obligations by book entry, wire transfer, or such other means as may be appropriate.
+- **(b)** Through December 31, 1992 , each bank of the System, in addition to purchasing obligations as authorized by this chapter, may, with the prior approval of the Farm Credit Administration and subject to such conditions as it may establish, (1) reduce the cost of its borrowings by doing one or more of the following: (A) contracting with a third party, or an entity that is established as a limited purpose System institution under section 2211 of this title and that is not to be included in the combined financial statements of other System institutions, with respect to the payment of interest on the bank’s obligations and the obligations of other banks incurred before January 1, 1985 , in consideration of the payment of market interest rates on such obligations, plus a premium, or (B) for the period July 1, 1986 , through December 31, 1992 , capitalizing interest costs on obligations incurred before January 1, 1985 , in excess of the estimated interest costs on an equivalent amount of Farm Credit System obligations at prevailing market rates on such obligations of similar maturities as of October 21, 1986 , or (C) taking other similar action; and (2) amortize, over a period of not to exceed 20 years, the capitalization of the premium, capitalization of interest expense, or like costs of any action taken under clause (1).

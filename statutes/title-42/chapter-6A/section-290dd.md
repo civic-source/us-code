@@ -3,18 +3,19 @@ title: "Section 290dd - Substance abuse among government and other employees"
 usc_title: 42
 usc_section: "290dd"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 290dd"
-generated_at: "2026-03-30T02:56:10.765Z"
+generated_at: "2026-03-30T03:06:22.360Z"
+status: "active"
 ---
 
 # § 290dd. Substance abuse among government and other employees
 
 - **(a)**
-  - **(1)** The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall be responsible for fostering substance abuse prevention and treatment programs and services in State and local governments and in private industry.
+  - **(1)** The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall be responsible for fostering substance abuse prevention and treatment programs and services in State and local governments and in private industry.
   - **(2)**
-    - **(A)** Consistent with the responsibilities described in paragraph (1), the Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall develop a variety of model programs suitable for replication on a cost-effective basis in different types of business concerns and State and local governmental entities.
-    - **(B)** The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall disseminate information and materials relative to such model programs to the State agencies responsible for the administration of substance abuse prevention, treatment, and rehabilitation activities and shall, to the extent feasible provide technical assistance to such agencies as requested.
+    - **(A)** Consistent with the responsibilities described in paragraph (1), the Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall develop a variety of model programs suitable for replication on a cost-effective basis in different types of business concerns and State and local governmental entities.
+    - **(B)** The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall disseminate information and materials relative to such model programs to the State agencies responsible for the administration of substance abuse prevention, treatment, and rehabilitation activities and shall, to the extent feasible provide technical assistance to such agencies as requested.
 - **(b)**
   - **(1)** No person may be denied or deprived of Federal civilian employment or a Federal professional or other license or right solely on the grounds of prior substance abuse.
   - **(2)** This subsection shall not apply to employment in—

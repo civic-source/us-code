@@ -3,9 +3,10 @@ title: "Section 4121 - Imposition of tax"
 usc_title: 26
 usc_section: "4121"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4121"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-03-30T03:05:18.684Z"
+status: "active"
 ---
 
 # § 4121. Imposition of tax
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:27.799Z"
   - **(2)** Coal shall be treated as produced from an underground mine if it is not produced from a surface mine.
   - **(3)** The term “United States” has the meaning given to it by paragraph (1) of section 638.
   - **(4)** The term “ton” means 2,000 pounds.
+- **(e)**
+  - **(1)** Effective with respect to sales after the temporary increase termination date, subsection (b) shall be applied—
+    - **(A)** by substituting “$.50” for “$1.10”,
+    - **(B)** by substituting “$.25” for “$.55”, and
+    - **(C)** by substituting “2 percent” for “4.4 percent”.
+  - **(2)** For purposes of paragraph (1), the temporary increase termination date is the earlier of—
+    - **(A)** December 31, 2018 , or
+    - **(B)** the first December 31 after 2007 as of which there is—
+      - **(i)** no balance of repayable advances made to the Black Lung Disability Trust Fund, and
+      - **(ii)** no unpaid interest on such advances.

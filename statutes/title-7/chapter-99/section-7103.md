@@ -3,14 +3,15 @@ title: "Section 7103 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "7103"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7103"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-03-30T03:04:21.010Z"
+status: "active"
 ---
 
 # § 7103. Issuance and amendment of orders
 
-- **(a)** Subject to subsection (b), the Secretary shall issue orders under this chapter applicable to producers, feeders, importers, handlers, and purchasers of sheep and sheep products. Any order shall be national in scope. Not more than 1 order shall be in effect under this chapter at any 1 time.
+- **(a)** Subject to subsection (b) of this section, the Secretary shall issue orders under this chapter applicable to producers, feeders, importers, handlers, and purchasers of sheep and sheep products. Any order shall be national in scope. Not more than 1 order shall be in effect under this chapter at any 1 time.
 - **(b)**
   - **(1)** The Secretary may propose the issuance of an order under this chapter, or an association of producers may request the issuance of, and submit a proposal for, an order.
   - **(2)** Not later than 60 days after the receipt of a request and proposal for an order under paragraph (1), the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.

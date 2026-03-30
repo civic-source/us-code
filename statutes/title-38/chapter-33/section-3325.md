@@ -3,9 +3,10 @@ title: "Section 3325 - Reporting requirement"
 usc_title: 38
 usc_section: "3325"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3325"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-03-30T03:05:59.211Z"
+status: "active"
 ---
 
 # § 3325. Reporting requirement
@@ -21,7 +22,6 @@ generated_at: "2026-03-30T02:55:53.504Z"
   - **(2)** such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary of Defense considers appropriate.
 - **(c)** The Secretary shall include in each report submitted under this section—
   - **(1)** information concerning the level of utilization of educational assistance and of expenditures under this chapter and under chapter 35 of this title;
-  - **(2)** appropriate student outcome measures, such as the number of credit hours, certificates, degrees, and other qualifications earned by beneficiaries under this chapter and chapter 35 of this title during the academic year covered by the report;
-  - **(3)** the information received by the Secretary under section 3326 of this title ; and
-  - **(4)** such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
+  - **(2)** appropriate student outcome measures, such as the number of credit hours, certificates, degrees, and other qualifications earned by beneficiaries under this chapter and chapter 35 of this title during the academic year covered by the report; and
+  - **(3)** such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
 - **(d)** No report shall be required under this section after January 1, 2021 .

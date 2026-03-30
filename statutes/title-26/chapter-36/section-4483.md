@@ -3,9 +3,10 @@ title: "Section 4483 - Exemptions"
 usc_title: 26
 usc_section: "4483"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4483"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-03-30T03:05:18.687Z"
+status: "active"
 ---
 
 # § 4483. Exemptions
@@ -42,11 +43,10 @@ generated_at: "2026-03-30T02:55:27.803Z"
 - **(e)** The tax imposed by section 4481 shall be reduced by 25 percent with respect to any highway motor vehicle if—
   - **(1)** the exclusive use of such vehicle during any taxable period is the transportation, to and from a point located on a forested site, of products harvested from such forested site, and
   - **(2)** such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
-- **[(f)**
 - **(g)** No tax shall be imposed by section 4481 on the use of any vehicle described in section 4053(8).
 - **(h)**
   - **(1)** No tax shall be imposed by section 4481 on the use of any qualified blood collector vehicle by a qualified blood collector organization.
   - **(2)** For purposes of this subsection, the term “qualified blood collector vehicle” means a vehicle at least 80 percent of the use of which during the prior taxable period was by a qualified blood collector organization in the collection, storage, or transportation of blood.
   - **(3)** In the case of a vehicle first placed in service in a taxable period, a vehicle shall be treated as a qualified blood collector vehicle for such taxable period if such qualified blood collector organization certifies to the Secretary that the organization reasonably expects at least 80 percent of the use of such vehicle by the organization during such taxable period will be in the collection, storage, or transportation of blood.
   - **(4)** The term “qualified blood collector organization” has the meaning given such term by section 7701(a)(49).
-- **(i)** Subsections (a) and (c) shall not apply on and after October 1, 2029 .
+- **(i)** Subsections (a) and (c) shall not apply on and after October 1, 2017 .

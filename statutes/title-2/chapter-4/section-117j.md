@@ -1,12 +1,15 @@
 ---
-title: "Section 117j - Transferred"
+title: "Section 117j - Fees for internal delivery in House of Representatives of nonpostage mail from outside sources"
 usc_title: 2
 usc_section: "117j"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 117j"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.404Z"
+status: "active"
 ---
 
-# § 117j. Transferred
+# § 117j. Fees for internal delivery in House of Representatives of nonpostage mail from outside sources
+
+Effective with respect to fiscal years beginning with fiscal year 1995, in the case of mail from outside sources presented to the Chief Administrative Officer of the House of Representatives (other than mail through the Postal Service and mail with postage otherwise paid) for internal delivery in the House of Representatives, the Chief Administrative Officer is authorized to collect fees equal to the applicable postage. Amounts received by the Chief Administrative Officer as fees under the preceding sentence shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer.
 

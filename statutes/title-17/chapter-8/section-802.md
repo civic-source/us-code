@@ -3,9 +3,10 @@ title: "Section 802 - Copyright Royalty Judgeships; staff"
 usc_title: 17
 usc_section: "802"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "17 U.S.C. § 802"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-03-30T03:04:38.590Z"
+status: "active"
 ---
 
 # § 802. Copyright Royalty Judgeships; staff
@@ -13,14 +14,17 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(a)**
   - **(1)** Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
   - **(2)** In this subsection, the term “adjudication” has the meaning given that term in section 551 of title 5 , but does not include mediation.
-- **(b)** The Chief Copyright Royalty Judge shall hire full-time staff members to assist the Copyright Royalty Judges in performing their functions.
+- **(b)** The Chief Copyright Royalty Judge shall hire 3 full-time staff members to assist the Copyright Royalty Judges in performing their functions.
 - **(c)** The individual first appointed as the Chief Copyright Royalty Judge shall be appointed to a term of 6 years, and of the remaining individuals first appointed as Copyright Royalty Judges, 1 shall be appointed to a term of 4 years, and the other shall be appointed to a term of 2 years. Thereafter, the terms of succeeding Copyright Royalty Judges shall each be 6 years. An individual serving as a Copyright Royalty Judge may be reappointed to subsequent terms. The term of a Copyright Royalty Judge shall begin when the term of the predecessor of that Copyright Royalty Judge ends. When the term of office of a Copyright Royalty Judge ends, the individual serving that term may continue to serve until a successor is selected.
 - **(d)**
   - **(1)** If a vacancy should occur in the position of Copyright Royalty Judge, the Librarian of Congress shall act expeditiously to fill the vacancy, and may appoint an interim Copyright Royalty Judge to serve until another Copyright Royalty Judge is appointed under this section. An individual appointed to fill the vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed shall be appointed for the remainder of that term.
   - **(2)** In the case in which a Copyright Royalty Judge is temporarily unable to perform his or her duties, the Librarian of Congress may appoint an interim Copyright Royalty Judge to perform such duties during the period of such incapacity.
 - **(e)**
   - **(1)** The Chief Copyright Royalty Judge shall receive compensation at the rate of basic pay payable for level AL–1 for administrative law judges pursuant to section 5372(b) of title 5 , and each of the other two Copyright Royalty Judges shall receive compensation at the rate of basic pay payable for level AL–2 for administrative law judges pursuant to such section. The compensation of the Copyright Royalty Judges shall not be subject to any regulations adopted by the Office of Personnel Management pursuant to its authority under section 5376(b)(1) of title 5 .
-  - **(2)** Staff members appointed under subsection (b) shall be compensated at a rate not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule.
+  - **(2)** Of the staff members appointed under subsection (b)—
+    - **(A)** the rate of pay of 1 staff member shall be not more than the basic rate of pay payable for level 10 of GS–15 of the General Schedule;
+    - **(B)** the rate of pay of 1 staff member shall be not less than the basic rate of pay payable for GS–13 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–14 of such Schedule; and
+    - **(C)** the rate of pay for the third staff member shall be not less than the basic rate of pay payable for GS–8 of the General Schedule and not more than the basic rate of pay payable for level 10 of GS–11 of such Schedule.
   - **(3)** All rates of pay referred to under this subsection shall include locality pay.
 - **(f)**
   - **(1)**

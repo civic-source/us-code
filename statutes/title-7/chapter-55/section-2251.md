@@ -3,9 +3,10 @@ title: "Section 2251 - Reimbursement of Production and Marketing Administration 
 usc_title: 7
 usc_section: "2251"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2251"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-03-30T03:04:20.969Z"
+status: "active"
 ---
 
 # § 2251. Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs

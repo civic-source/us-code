@@ -3,9 +3,10 @@ title: "Section 8912 - Agricultural biosecurity communication center"
 usc_title: 7
 usc_section: "8912"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8912"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-03-30T03:04:21.039Z"
+status: "active"
 ---
 
 # § 8912. Agricultural biosecurity communication center
@@ -16,6 +17,4 @@ generated_at: "2026-03-30T02:53:42.481Z"
 - **(b)**
   - **(1)** The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.
   - **(2)** Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
-- **(c)** There are authorized to be appropriated to carry out this section—
-  - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+- **(c)** There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.

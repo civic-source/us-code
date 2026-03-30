@@ -3,23 +3,24 @@ title: "Section 8702 - Definitions"
 usc_title: 7
 usc_section: "8702"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8702"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-03-30T03:04:21.034Z"
+status: "active"
 ---
 
 # § 8702. Definitions
 
 In this chapter (other than subchapter III):
 
-  - **(1)** The term “average crop revenue election payment” means a payment made to producers on a farm under section 8715 1 1 See References in Text note below. of this title.
+  - **(1)** The term “average crop revenue election payment” means a payment made to producers on a farm under section 8715 of this title .
   - **(2)**
     - **(A)** The term “base acres”, with respect to a covered commodity on a farm, means the number of acres established under section 7911 of this title as in effect on September 30, 2007 , subject to any adjustment under section 8711 of this title .
     - **(B)** The term “base acres for peanuts” has the meaning given the term in section 8751 of this title .
-  - **(3)** The term “counter-cyclical payment” means a payment made to producers on a farm under section 8714 1 of this title.
+  - **(3)** The term “counter-cyclical payment” means a payment made to producers on a farm under section 8714 of this title .
   - **(4)** The term “covered commodity” means wheat, corn, grain sorghum, barley, oats, upland cotton, long grain rice, medium grain rice, pulse crops, soybeans, and other oilseeds.
-  - **(5)** The term “direct payment” means a payment made to producers on a farm under section 8713 1 of this title.
-  - **(6)** The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 1 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
+  - **(5)** The term “direct payment” means a payment made to producers on a farm under section 8713 of this title .
+  - **(6)** The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
   - **(7)** The term “extra long staple cotton” means cotton that—
     - **(A)** is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
     - **(B)** is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.

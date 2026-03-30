@@ -3,9 +3,10 @@ title: "Section 1182 - Over-the-road bus security assistance"
 usc_title: 6
 usc_section: "1182"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1182"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-03-30T03:04:24.363Z"
+status: "active"
 ---
 
 # § 1182. Over-the-road bus security assistance
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
 - **(i)** Each recipient of a grant under this section shall report annually to the Secretary and on the use of such grant funds.
 - **(j)** In carrying out this section, the Secretary shall consult with over-the-road bus operators and nonprofit employee labor organizations representing over-the-road bus employees, public safety and law enforcement officials.
 - **(k)**
-  - **(1)** From the amounts appropriated pursuant to section 114(w) 1 1 See References in Text note below. of title 49, there shall be made available to the Secretary to make grants under this section—
+  - **(1)** From the amounts appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary to make grants under this section—
     - **(A)** $12,000,000 for fiscal year 2008;
     - **(B)** $25,000,000 for fiscal year 2009;
     - **(C)** $25,000,000 for fiscal year 2010; and

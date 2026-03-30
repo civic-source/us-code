@@ -3,9 +3,10 @@ title: "Section 338 - Certain stock purchases treated as asset acquisitions"
 usc_title: 26
 usc_section: "338"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 338"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-03-30T03:05:18.572Z"
+status: "active"
 ---
 
 # § 338. Certain stock purchases treated as asset acquisitions
@@ -30,7 +31,6 @@ generated_at: "2026-03-30T02:55:27.666Z"
   - **(6)** For purposes of this subsection—
     - **(A)** The term “recently purchased stock” means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which was purchased by such corporation during the 12-month acquisition period.
     - **(B)** The term “nonrecently purchased stock” means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
-- **[(c)**
 - **(d)** For purposes of this section—
   - **(1)** The term “purchasing corporation” means any corporation which makes a qualified stock purchase of stock of another corporation.
   - **(2)** The term “target corporation” means any corporation the stock of which is acquired by another corporation in a qualified stock purchase.
@@ -57,7 +57,7 @@ generated_at: "2026-03-30T02:55:27.666Z"
     - **(A)** The term “purchase” means any acquisition of stock, but only if—
       - **(i)** the basis of the stock in the hands of the purchasing corporation is not determined (I) in whole or in part by reference to the adjusted basis of such stock in the hands of the person from whom acquired, or (II) under section 1014(a) (relating to property acquired from a decedent),
       - **(ii)** the stock is not acquired in an exchange to which section 351, 354, 355, or 356 applies and is not acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction, and
-      - **(iii)** the stock is not acquired from a person the ownership of whose stock would, under section 318(a) (other than paragraph (4) thereof), be attributed to the person acquiring such stock.
+      - **(iii)** the stock is not acquired from a person the ownership of whose stock would, under section 318(a) (other than paragaraph 1 1 So in original. (4) thereof), be attributed to the person acquiring such stock.
     - **(B)** The term “purchase” includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary.
     - **(C)**
       - **(i)** Clause (iii) of subparagraph (A) shall not apply to an acquisition of stock from a related corporation if at least 50 percent in value of the stock of such related corporation was acquired by purchase (within the meaning of subparagraphs (A) and (B)).
@@ -75,9 +75,8 @@ generated_at: "2026-03-30T02:55:27.666Z"
   - **(6)**
     - **(A)** A corporation shall be treated as a target affiliate of the target corporation if each of such corporations was, at any time during so much of the consistency period as ends on the acquisition date of the target corporation, a member of an affiliated group which had the same common parent.
     - **(B)** Except as otherwise provided in regulations (and subject to such conditions as may be provided in regulations)—
-      - **(i)** the term “target affiliate” does not include a foreign corporation or a DISC, and
+      - **(i)** the term “target affiliate” does not include a foreign corporation, a DISC, or a corporation to which an election under section 936 applies, and
       - **(ii)** stock held by a target affiliate in a foreign corporation or a domestic corporation which is a DISC or described in section 1248(e) shall be excluded from the operation of this section.
-  - **[(7)**
   - **(8)** Except as provided in regulations prescribed by the Secretary, stock and asset acquisitions made by members of the same affiliated group shall be treated as made by 1 corporation.
   - **(9)** Except as otherwise provided in paragraph (10) or in regulations prescribed under this paragraph, the target corporation shall not be treated as a member of an affiliated group with respect to the sale described in subsection (a)(1).
   - **(10)**

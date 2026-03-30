@@ -3,9 +3,10 @@ title: "Section 2 - Intervention by Attorney General; denial of equal protection
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-03-30T03:06:22.647Z"
+status: "active"
 ---
 
 # § 2000h–2. Intervention by Attorney General; denial of equal protection on account of race, color, religion, sex or national origin

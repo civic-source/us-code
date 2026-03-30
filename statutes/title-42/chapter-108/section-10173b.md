@@ -3,9 +3,10 @@ title: "Section 10173b - Review Panel"
 usc_title: 42
 usc_section: "10173b"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10173b"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-03-30T03:06:22.872Z"
+status: "active"
 ---
 
 # § 10173b. Review Panel
@@ -26,4 +27,4 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(4)** assist in the presentation of State or affected Indian tribe and local perspectives to the Secretary; and
   - **(5)** participate in the planning for and the review of preoperational data on environmental, demographic, and socioeconomic conditions of the site and the local community.
 - **(d)** The Secretary shall promptly 1 1 So in original. make available promptly 1 any information in the Secretary’s possession requested by the Panel or its Chairman.
-- **(e)** The requirements of chapter 10 of title 5 shall not apply to a Review Panel established under this subchapter.
+- **(e)** The requirements of the Federal Advisory Committee Act shall not apply to a Review Panel established under this subchapter.

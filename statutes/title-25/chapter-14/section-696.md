@@ -1,12 +1,19 @@
 ---
-title: "Section 696 - Omitted"
+title: "Section 696 - Individual property"
 usc_title: 25
 usc_section: "696"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 696"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.851Z"
+status: "active"
 ---
 
-# § 696. Omitted
+# § 696. Individual property
 
+- **(a)** The Secretary is authorized and directed to transfer within two years after August 13, 1954 to each member of each tribe unrestricted control of funds or other personal property held in trust for such member by the United States.
+- **(b)** All restrictions on the sale or encumbrance of trust or restricted land owned by members of the tribes (including allottees, purchasers, heirs, and devisees, either adult or minor) are removed two years after August 13, 1954 and the patents or deeds under which titles are then held shall pass the titles in fee simple, subject to any valid encumbrance. The titles to all interests in trust or restricted land acquired by members of the tribes by devise or inheritance two years or more after August 13, 1954 shall vest in such members in fee simple, subject to any valid encumbrance.
+- **(c)** Prior to the time provided in subsection (d) 1 1 So in original. Probably should be subsection “(b)”. of this section for the removal of restrictions on land owned by more than one member of a tribe, the Secretary may—
+  - **(1)** upon request of any of the owners, partition the land and issue to each owner a patent or deed for his individual share that shall become unrestricted two years from August 13, 1954 ;
+  - **(2)** upon request of any of the owners and a finding by the Secretary that partition of all or any part of the land is not practicable, cause all or any part of the land to be sold at not less than the appraised value thereof and distribute the proceeds of sale to the owners: Provided , That any one or more of the owners may elect before a sale to purchase the other interests in the land at not less than the appraised value thereof, and the purchaser shall receive an unrestricted patent or deed to the land; and
+  - **(3)** if the whereabouts of none of the owners can be ascertained, cause such lands to be sold and deposit the proceeds of sale in the Treasury of the United States for safekeeping.

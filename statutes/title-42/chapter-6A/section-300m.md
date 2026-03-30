@@ -3,21 +3,22 @@ title: "Section 300m - Requirements with respect to type and quality of services
 usc_title: 42
 usc_section: "300m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 300m"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-03-30T03:06:22.393Z"
+status: "active"
 ---
 
 # § 300m. Requirements with respect to type and quality of services
 
 - **(a)** The Secretary may not make a grant under section 300k of this title unless the State involved agrees—
   - **(1)** to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title , including making available screening procedures for both breast and cervical cancers;
-  - **(2)** subject to subsection (b), to ensure that—
+  - **(2)** subject to subsection (b) of this section, to ensure that—
     - **(A)** in the case of breast cancer, both a physical examination of the breasts and the screening procedure known as a mammography are conducted; and
     - **(B)** in the case of cervical cancer, both a pelvic examination and the screening procedure known as a pap smear are conducted;
   - **(3)** to ensure that, by the end of any second fiscal year of payments pursuant to the grant, each of the services or activities described in section 300k(a) of this title is provided; and
   - **(4)** to ensure that not more than 40 percent of the grant is expended to provide the services or activities described in paragraphs (3) through (6) of such section.
-- **(b)** The Secretary may not make a grant under section 300k of this title unless the State involved agrees that, if any screening procedure superior to a procedure described in subsection (a)(2) becomes commonly available and is recommended for use, any entity providing screening procedures pursuant to the grant will utilize the superior procedure rather than the procedure described in such subsection.
+- **(b)** The Secretary may not make a grant under section 300k of this title unless the State involved agrees that, if any screening procedure superior to a procedure described in subsection (a)(2) of this section becomes commonly available and is recommended for use, any entity providing screening procedures pursuant to the grant will utilize the superior procedure rather than the procedure described in such subsection.
 - **(c)** The Secretary may not make a grant under section 300k of this title unless the State involved agrees that the State will, in accordance with applicable law, assure the quality of screening procedures conducted pursuant to such section.
 - **(d)**
   - **(1)** The Secretary shall establish a demonstration project under which the Secretary may waive the requirements of paragraphs (1) and (4) of subsection (a) for not more than 5 States, if—
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
       - **(i)** demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
       - **(ii)** provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
     - **(D)** the State involved submits to the Secretary—
-      - **(i)** assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier 1 1 So in original. Probably should be “waiver”. is granted, at a level that is not less than—
+      - **(i)** assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
       - **(ii)** a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
@@ -46,7 +47,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted.
   - **(3)** The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title , the following:
-    - **(A)** A description of the total amount of dollars leveraged annually from Non-Federal 2 2 So in original. Probably should be “non-Federal”. entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+    - **(A)** A description of the total amount of dollars leveraged annually from Non-Federal 1 1 So in original. Probably should be “non-Federal”. entities in States receiving a waiver under paragraph (1) and how these amounts were used.
     - **(B)** With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
       - **(i)** paragraphs (1) and (2) of section 300k(a) of this title ; and
       - **(ii)** paragraphs (3) through (6) of section 300k(a) of this title .

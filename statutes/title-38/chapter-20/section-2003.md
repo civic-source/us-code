@@ -3,9 +3,10 @@ title: "Section 2003 - Staffing requirements"
 usc_title: 38
 usc_section: "2003"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 2003"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-03-30T03:05:59.202Z"
+status: "active"
 ---
 
 # § 2003. Staffing requirements
@@ -18,5 +19,4 @@ generated_at: "2026-03-30T02:55:53.493Z"
   - **(5)** The programs under section 2033 of this title .
   - **(6)** The assessments required by section 2034 of this title .
   - **(7)** Such other programs relating to homeless veterans as may be specified by the Secretary.
-- **(b)** The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8( o ) of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ( o )) is assigned to, and is seen as needed by, a case manager. In the case of vouchers provided under the HUD–VASH program under section 8( o )(19) of such Act, for purposes of the preceding sentence, the term “veteran” shall have the meaning given such term in section 2002(b) of this title .
-- **(c)** The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers of the Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.
+- **(b)** The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8( o ) of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ( o )) is assigned to, and is seen as needed by, a case manager.

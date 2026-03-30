@@ -1,0 +1,40 @@
+---
+title: "Section 2753 - Notification of cost overruns for certain Department of Energy projects"
+usc_title: 50
+usc_section: "2753"
+chapter: 42
+current_through: "PL 113-21"
+classification: "50 U.S.C. § 2753"
+generated_at: "2026-03-30T03:06:37.684Z"
+status: "active"
+---
+
+# § 2753. Notification of cost overruns for certain Department of Energy projects
+
+- **(a)**
+  - **(1)**
+    - **(A)** The Administrator shall establish a cost and schedule baseline for each nuclear stockpile life extension project of the Administration.
+    - **(B)** The cost baseline developed under subparagraph (A) shall include, with respect to each life extension project, an estimated cost for each warhead in the project.
+    - **(C)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
+  - **(2)**
+    - **(A)** The Secretary of Energy shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each construction project that is—
+      - **(i)** in excess of $50,000,000; and
+      - **(ii)** carried out by the Department using funds authorized to be appropriated for a fiscal year pursuant to a DOE national security authorization.
+    - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
+  - **(3)**
+    - **(A)** The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental management project that is—
+      - **(i)** in excess of $50,000,000; and
+      - **(ii)** carried out by the Department pursuant to such protocols.
+    - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
+- **(b)** The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—
+  - **(1)** the total cost for a project referred to in paragraph (1), (2), or (3) of subsection (a) will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
+  - **(2)** in the case of a stockpile life extension project referred to in subsection (a)(1), the cost for any warhead in the project will exceed an amount that is equal to 200 percent of the cost baseline established under subsection (a)(1)(B) for each warhead in that project.
+- **(c)** Not later than 90 days after submitting a notification under subsection (b) with respect to a project, the Administrator or the Secretary, as applicable, shall—
+  - **(1)** notify the congressional defense committees with respect to whether the project will be terminated or continued; and
+  - **(2)** if the project will be continued, certify to the congressional defense committees that—
+    - **(A)** a revised cost and schedule baseline has been established for the project and, in the case of a stockpile life extension project referred to in subparagraph (A) or (B) of subsection (a)(1), a revised estimate of the cost for each warhead in the project has been made;
+    - **(B)** the continuation of the project is necessary to the mission of the Department of Energy and there is no alternative to the project that would meet the requirements of that mission; and
+    - **(C)** a management structure is in place adequate to manage and control the cost and schedule of the project.
+- **(d)** A revised cost and schedule baseline established under subsection (c) shall—
+  - **(1)** be submitted to the congressional defense committees with the certification submitted under subsection (c)(2); and
+  - **(2)** be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).

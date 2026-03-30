@@ -3,9 +3,10 @@ title: "Section 404 - Deduction for contributions of an employer to an employees
 usc_title: 26
 usc_section: "404"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 404"
-generated_at: "2026-03-30T02:55:27.676Z"
+generated_at: "2026-03-30T03:05:18.580Z"
+status: "active"
 ---
 
 # § 404. Deduction for contributions of an employer to an employees’ trust or annuity plan and compensation under a deferred-payment plan
@@ -104,7 +105,6 @@ generated_at: "2026-03-30T02:55:27.676Z"
     - **(C)** The amount deductible in a taxable year for a simplified employee pension shall not exceed 25 percent of the compensation paid to the employees during the calendar year ending with or within the taxable year (or during the taxable year in the case of a taxable year described in subparagraph (A)(ii)). The excess of the amount contributed over the amount deductible for a taxable year shall be deductible in the succeeding taxable years in order of time, subject to the 25 percent limit of the preceding sentence.
   - **(2)** For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable limitations in subsection (a)(3)(A) shall be reduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the trust subject to subsection (a)(3)(A).
   - **(3)** For purposes of subsection (a)(7), a simplified employee pension shall be treated as if it were a separate stock bonus or profit-sharing trust.
-- **[(i)**
 - **(j)**
   - **(1)** In computing the amount of any deduction allowable under paragraph (1), (2), (3), (4), (7), or (9) of subsection (a) for any year—
     - **(A)** in the case of a defined benefit plan, there shall not be taken into account any benefits for any year in excess of any limitation on such benefits under section 415 for such year, or
@@ -171,4 +171,3 @@ generated_at: "2026-03-30T02:55:27.676Z"
   - **(5)** In the case of a plan which, subject to section 4041 of the Employee Retirement Income Security Act of 1974, terminates during the plan year, the amount determined under paragraph (2) shall in no event be less than the amount required to make the plan sufficient for benefit liabilities (within the meaning of section 4041(d) of such Act).
   - **(6)** Any computation under this subsection for any plan year shall use the same actuarial assumptions which are used for the plan year under section 430 (determined by not taking into account any adjustment under clause (iv) of subsection (h)(2)(C) thereof).
   - **(7)** Any term used in this subsection which is also used in section 430 shall have the same meaning given such term by section 430.
-  - **(8)** Solely for purposes of this subsection, a CSEC plan shall be treated as though section 430 applied to such plan and the minimum required contribution for any plan year shall be the amount described in section 412(a)(2)(D).

@@ -3,16 +3,16 @@ title: "Section 6045A - Information required in connection with transfers of cov
 usc_title: 26
 usc_section: "6045A"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6045A"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-03-30T03:05:18.711Z"
+status: "active"
 ---
 
 # § 6045A. Information required in connection with transfers of covered securities to brokers
 
-- **(a)** Every applicable person which transfers to a broker (as defined in section 6045(c)(1)) a covered security (as defined in section 6045(g)(3)) in the hands of such applicable person shall furnish to such broker a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such broker to meet the requirements of section 6045(g).
+- **(a)** Every applicable person which transfers to a broker (as defined in section 6045(c)(1)) a security which is a covered security (as defined in section 6045(g)(3)) in the hands of such applicable person shall furnish to such broker a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such broker to meet the requirements of section 6045(g).
 - **(b)** For purposes of subsection (a), the term “applicable person” means—
   - **(1)** any broker (as defined in section 6045(c)(1)), and
   - **(2)** any other person as provided by the Secretary in regulations.
 - **(c)** Except as otherwise provided by the Secretary, any statement required by subsection (a) shall be furnished not later than 15 days after the date of the transfer described in such subsection.
-- **(d)** Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a).

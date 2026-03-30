@@ -3,19 +3,20 @@ title: "Section 112 - Requirements for and contracts with prescription drug plan
 usc_title: 42
 usc_section: "112"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T02:56:10.985Z"
+generated_at: "2026-03-30T03:06:22.522Z"
+status: "active"
 ---
 
 # § 1395w–112. Requirements for and contracts with prescription drug plan (PDP) sponsors
 
 - **(a)** Each PDP sponsor of a prescription drug plan shall meet the following requirements:
-  - **(1)** Subject to subsection (c), the sponsor is organized and licensed under State law as a risk-bearing entity eligible to offer health insurance or health benefits coverage in each State in which it offers a prescription drug plan.
+  - **(1)** Subject to subsection (c) of this section, the sponsor is organized and licensed under State law as a risk-bearing entity eligible to offer health insurance or health benefits coverage in each State in which it offers a prescription drug plan.
   - **(2)**
     - **(A)** Subject to subparagraph (B), to the extent that the entity is at risk the entity assumes financial risk on a prospective basis for benefits that it offers under a prescription drug plan and that is not covered under section 1395w–115(b) of this title .
     - **(B)** The plan sponsor may obtain insurance or make other arrangements for the cost of coverage provided to any enrollee to the extent that the sponsor is at risk for providing such coverage.
-  - **(3)** In the case of a PDP sponsor that is not described in paragraph (1) and for which a waiver has been approved under subsection (c), such sponsor shall meet solvency standards established by the Secretary under subsection (d).
+  - **(3)** In the case of a PDP sponsor that is not described in paragraph (1) and for which a waiver has been approved under subsection (c) of this section, such sponsor shall meet solvency standards established by the Secretary under subsection (d) of this section.
 - **(b)**
   - **(1)** The Secretary shall not permit the enrollment under section 1395w–101 of this title in a prescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
   - **(2)** The Secretary shall not enter into a contract with a PDP sponsor for the offering of a prescription drug plan (other than a fallback prescription drug plan) in a PDP region for a year if the sponsor—
@@ -29,7 +30,7 @@ generated_at: "2026-03-30T02:56:10.985Z"
     - **(B)** Section 1395w–27(c) of this title , except that in applying paragraph (4)(B) of such section any reference to payment amounts under section 1395w–23 of this title shall be deemed payment amounts under section 1395w–115 of this title .
     - **(C)** Section 1395w–27(d) of this title .
     - **(D)** Section 1395w–27(e) of this title ; except that section 1395w–27(e)(2) of this title shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—
-      - **(i)** may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate), or carrying out part E of subchapter XI; and
+      - **(i)** may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
       - **(ii)** shall be made available to Congressional 1 1 So in original. Probably should not be capitalized. support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional 1 oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
     - **(E)** Section 1395w–27(g) of this title (other than paragraph (1)(F) of such section), except that in applying such section the reference in section 1395w–27(g)(1)(B) of this title to section 1395w–24 of this title is deemed a reference to this part.
     - **(F)** Section 1395w–27(h) of this title .
@@ -64,14 +65,10 @@ generated_at: "2026-03-30T02:56:10.985Z"
     - **(G)** A determination under this paragraph that a claim submitted by a pharmacy is a clean claim shall not be construed as a positive determination regarding eligibility for payment under this subchapter, nor is it an indication of government approval of, or acquiescence regarding, the claim submitted. The determination shall not relieve any party of civil or criminal liability with respect to the claim, nor does it offer a defense to any administrative, civil, or criminal action with respect to the claim.
   - **(5)** Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that a pharmacy located in, or having a contract with, a long-term care facility shall have not less than 30 days (but not more than 90 days) to submit claims to the sponsor for reimbursement under the plan.
   - **(6)** If the PDP sponsor of a prescription drug plan uses a standard for reimbursement of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part with respect to the plan shall provide that the sponsor shall update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug.
-  - **(7)**
-    - **(A)** Section 1395y( o )(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successor technology) established under section 1395w–28(i) of this title .
-    - **(B)** Nothing in this paragraph shall be construed as limiting the authority of a PDP sponsor to conduct postpayment review.
-  - **(8)** Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall require the sponsor to provide information to the Secretary as requested by the Secretary for purposes of carrying out section 1320f–3 of this title .
 - **(c)**
   - **(1)**
-    - **(A)** In the case of an entity that seeks to offer a prescription drug plan in a State, the Secretary shall waive the requirement of subsection (a)(1) that the entity be licensed in that State if the Secretary determines, based on the application and other evidence presented to the Secretary, that any of the grounds for approval of the application described in paragraph (2) have been met.
-    - **(B)** In addition to the waiver available under subparagraph (A), the provisions of section 1395w–27a(d) of this title shall apply to PDP sponsors under this part in a manner similar to the manner in which such provisions apply to MA organizations under part C, except that no application shall be required under paragraph (1)(B) of such section in the case of a State that does not provide a licensing process for such a sponsor.
+    - **(A)** In the case of an entity that seeks to offer a prescription drug plan in a State, the Secretary shall waive the requirement of subsection (a)(1) of this section that the entity be licensed in that State if the Secretary determines, based on the application and other evidence presented to the Secretary, that any of the grounds for approval of the application described in paragraph (2) have been met.
+    - **(B)** In addition to the waiver available under subparagraph (A), the provisions of section 1395w–27a(d) of this title shall apply to PDP sponsors under this part in a manner similar to the manner in which such provisions apply to MA organizations under part C of this subchapter, except that no application shall be required under paragraph (1)(B) of such section in the case of a State that does not provide a licensing process for such a sponsor.
   - **(2)**
     - **(A)** The grounds for approval under this paragraph are—
       - **(i)** subject to subparagraph (B), the grounds for approval described in subparagraphs (B), (C), and (D) of section 1395w–25(a)(2) of this title ; and
@@ -85,9 +82,9 @@ generated_at: "2026-03-30T02:56:10.985Z"
     - **(B)** any reference to solvency standards shall be treated as a reference to solvency standards established under subsection (d) of this section.
 - **(d)**
   - **(1)** The Secretary, in consultation with the National Association of Insurance Commissioners, shall establish and publish, by not later than January 1, 2005 , financial solvency and capital adequacy standards for entities described in paragraph (2).
-  - **(2)** A PDP sponsor that is not licensed by a State under subsection (a)(1) and for which a waiver application has been approved under subsection (c) shall meet solvency and capital adequacy standards established under paragraph (1). The Secretary shall establish certification procedures for such sponsors with respect to such solvency standards in the manner described in section 1395w–25(c)(2) of this title .
-- **(e)** The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) or has a waiver application approved under subsection (c) does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
+  - **(2)** A PDP sponsor that is not licensed by a State under subsection (a)(1) of this section and for which a waiver application has been approved under subsection (c) of this section shall meet solvency and capital adequacy standards established under paragraph (1). The Secretary shall establish certification procedures for such sponsors with respect to such solvency standards in the manner described in section 1395w–25(c)(2) of this title .
+- **(e)** The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section or has a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
 - **(f)**
   - **(1)** Subject to paragraph (2), the Secretary may periodically review the standards established under this section and, based on such review, may revise such standards if the Secretary determines such revision to be appropriate.
   - **(2)** The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a PDP sponsor or a prescription drug plan.
-- **(g)** The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C.
+- **(g)** The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C of this subchapter.

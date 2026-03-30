@@ -1,18 +1,15 @@
 ---
-title: "Section 46 - Disclosure to enrollees of individual market coverage"
+title: "Section 46 - Definition"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-30T02:56:10.835Z"
+generated_at: "2026-03-30T03:06:22.381Z"
+status: "active"
 ---
 
-# § 300gg–46. Disclosure to enrollees of individual market coverage
+# § 300d–46. Definition
 
-- **(a)** A health insurance issuer offering individual health insurance coverage or a health insurance issuer offering short-term limited duration insurance coverage shall make disclosures to enrollees in such coverage, as described in subsection (b), and reports to the Secretary, as described in subsection (c), regarding direct or indirect compensation provided by the issuer to an agent or broker associated with enrolling individuals in such coverage.
-- **(b)** A health insurance issuer described in subsection (a) shall disclose to an enrollee the amount of direct or indirect compensation provided to an agent or broker for services provided by such agent or broker associated with plan selection and enrollment. Such disclosure shall be—
-  - **(1)** made prior to the individual finalizing plan selection; and
-  - **(2)** included on any documentation confirming the individual’s enrollment.
-- **(c)** A health insurance issuer described in subsection (a) shall annually report to the Secretary, prior to the beginning of open enrollment, any direct or indirect compensation provided to an agent or broker associated with enrolling individuals in such coverage.
-- **(d)** Not later than 1 year after December 27, 2020 , the Secretary shall finalize, through notice-and-comment rulemaking, the timing, form, and manner in which issuers described in subsection (a) are required to make the disclosures described in subsection (b) and the reports described in subsection (c). Such rulemaking may also include adjustments to notice requirements to reflect the different processes for plan renewals, in order to provide enrollees with full, timely information.
+In this part, the term “uncompensated care costs” means unreimbursed costs from serving self-pay, charity, or Medicaid patients, without regard to payment under section 1396r–4 of this title , all of which are attributable to emergency care and trauma care, including costs related to subsequent inpatient admissions to the hospital.
+

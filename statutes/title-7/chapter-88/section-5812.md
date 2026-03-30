@@ -3,16 +3,17 @@ title: "Section 5812 - Program administration"
 usc_title: 7
 usc_section: "5812"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5812"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-03-30T03:04:20.993Z"
+status: "active"
 ---
 
 # § 5812. Program administration
 
 - **(a)** The Secretary shall—
   - **(1)** administer the programs and projects conducted under sections 5811 and 5813 of this title through the National Institute of Food and Agriculture, Agricultural Research Service, and other appropriate agencies;
-  - **(2)** establish a minimum of four Regional Administrative Councils in accordance with subsection (b); and
+  - **(2)** establish a minimum of four Regional Administrative Councils in accordance with subsection (b) of this section; and
   - **(3)** in conjunction with such Regional Administrative Councils, identify regional host institutions required to carry out such programs or projects.
 - **(b)**
   - **(1)** The membership of the Regional Administrative Councils shall include representatives of—

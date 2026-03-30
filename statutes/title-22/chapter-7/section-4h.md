@@ -3,9 +3,10 @@ title: "Section 4h - Discussions to increase productive economic participation o
 usc_title: 22
 usc_section: "4h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4h"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-03-30T03:04:53.587Z"
+status: "active"
 ---
 
 # § 262p–4h. Discussions to increase productive economic participation of poor; reports
@@ -23,6 +24,6 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(7)** Such bank should adopt, as a separate and major criterion in the allocation of concessional financing resources, a preferential allocation to each country which undertakes significant efforts to enhance the productive economic participation of the poor.
   - **(8)** Such bank should require each country which receives structural adjustment assistance to have in place, after a reasonable phase-in period, a strategy to enhance the productive economic participation of the poor.
 - **(b)** Before the end of the 1-year period beginning on December 19, 1989 , the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs and the Committee on Appropriations of the House of Representatives, and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on the following:
-  - **(1)** The status of advocacy and progress being made to implement the objectives of subsection (a), describing the success to date, the obstacles encountered, and future expectations of progress.
+  - **(1)** The status of advocacy and progress being made to implement the objectives of subsection (a) of this section, describing the success to date, the obstacles encountered, and future expectations of progress.
   - **(2)** A description of the progress to date in achieving the purposes of section 262p–4f of this title , including the institutional capacity and effort devoted to assisting in the development of statistical measures to assess the well-being of the poor.
   - **(3)** A description and evaluation of the progress to date in developing effective mechanisms for involving non-governmental organizations, directly or indirectly, in the design, implementation, and monitoring of development projects, programs, and policies of the multilateral development banks.

@@ -3,9 +3,10 @@ title: "Section 4682 - Definitions and special rules"
 usc_title: 26
 usc_section: "4682"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4682"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-03-30T03:05:18.688Z"
+status: "active"
 ---
 
 # § 4682. Definitions and special rules
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:27.805Z"
     - **(A)** which, at the time of the sale or use by the manufacturer, producer, or importer, is listed as an ozone-depleting chemical in the table contained in paragraph (2), and
     - **(B)** which is manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing.
   - **(2)** Common name: Chemical nomenclature: CFC–11 trichlorofluoromethane CFC–12 dichlorodifluoromethane CFC–113 trichlorotrifluoroethane CFC–114 1,2-dichloro-1,1,2,2-tetra- fluoroethane CFC–115 chloropentafluoroethane Halon-1211 bromochlorodifluoro- methane Halon-1301 bromotrifluoromethane Halon-2402 dibromotetrafluoroethane Carbon tetrachloride Tetrachloromethane Methyl chloroform 1,1,1-trichloroethane CFC–13 CF3Cl CFC–111 C2FCl5 CFC–112 C2F2Cl4 CFC–211 C3FCl7 CFC–212 C3F2Cl6 CFC–213 C3F3Cl5 CFC–214 C3F4Cl4 CFC–215 C3F5Cl3 CFC–216 C3F6Cl2 CFC–217 C3F7Cl.
-- **(b)** For purposes of this subchapter, the term “ozone-depletion factor” means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table: Ozone-depleting chemical: Ozone-depletion factor: CFC–11 1.0 CFC–12 1.0 CFC–113 0.8 CFC–114 1.0 CFC–115 0.6 Halon-1211 3.0 Halon-1301 10.0 Halon-2402 6.0 Carbon tetrachloride 1.1 Methyl chloroform 0.1 CFC–13 1.0 CFC–111 1.0 CFC–112 1.0 CFC–211 1.0 CFC–212 1.0 CFC–213 1.0 CFC–214 1.0 CFC–215 1.0 CFC–216 1.0 CFC–217 1.0.
+- **(b)** For purposes of this subchapter, the term “ozone-depletion factor” means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table: Ozone-depleting chemical: Ozone-depletion factor: CFC–11 1.0 CFC–12 1.0 CFC–113 0.8 CFC–114 1.0 CFC–115 0.6 Halon-1211 3.0 Halon-1301 10.0 Halon-2402 6.0 Carbon tetrachloride 1.1 Methyl chloroform 0.1 CFC–13. 1.0 CFC–111 1.0 CFC–112 1.0 CFC–211 1.0 CFC–212 1.0 CFC–213 1.0 CFC–214 1.0 CFC–215 1.0 CFC–216 1.0 CFC–217 1.0.
 - **(c)** For purposes of this subchapter—
   - **(1)** The term “imported taxable product” means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
   - **(2)** The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
@@ -60,11 +61,12 @@ generated_at: "2026-03-30T02:55:27.805Z"
       - **(ii)** for resale by the purchaser to a 2d purchaser for such use by the 2d purchaser.
   - **(2)** If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
 - **(h)**
-  - **(1)**
+  - **(1)** On any ozone-depleting chemical which on January 1, 1990 , is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.
+  - **(2)**
     - **(A)** If, on any tax-increase date, any ozone-depleting chemical is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax.
     - **(B)** The amount of the tax imposed by subparagraph (A) shall be the excess (if any) of—
       - **(i)** the tax which would be imposed under section 4681 on such substance if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred on the tax-increase date, over
       - **(ii)** the prior tax (if any) imposed by this subchapter on such substance.
-    - **(C)** For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year.
-  - **(2)** The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
-  - **(3)** All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
+    - **(C)** For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year after 1991.
+  - **(3)** The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
+  - **(4)** All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.

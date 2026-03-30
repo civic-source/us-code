@@ -3,9 +3,10 @@ title: "Section 5103A - Duty to assist claimants"
 usc_title: 38
 usc_section: "5103A"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5103A"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-03-30T03:05:59.222Z"
+status: "active"
 ---
 
 # § 5103A. Duty to assist claimants
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:55:53.519Z"
     - **(B)** in obtaining relevant private records under paragraph (1), may require the claimant to authorize the Secretary to obtain such records if such authorization is required to comply with Federal, State, or local law.
 - **(c)**
   - **(1)** In the case of a claim for disability compensation, the assistance provided by the Secretary under this section shall include obtaining the following records if relevant to the claim:
-    - **(A)** The claimant’s service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant’s active military, naval, air, or space service that are held or maintained by a governmental entity.
+    - **(A)** The claimant’s service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant’s active military, naval, or air service that are held or maintained by a governmental entity.
     - **(B)** Records of relevant medical treatment or examination of the claimant at Department health-care facilities or at the expense of the Department, if the claimant furnishes information sufficient to locate those records.
     - **(C)** Any other relevant records held by any Federal department or agency that the claimant adequately identifies and authorizes the Secretary to obtain.
   - **(2)** Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection, the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.
@@ -38,17 +39,8 @@ generated_at: "2026-03-30T02:55:53.519Z"
   - **(1)** In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (a) shall include providing a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to make a decision on the claim.
   - **(2)** The Secretary shall treat an examination or opinion as being necessary to make a decision on a claim for purposes of paragraph (1) if the evidence of record before the Secretary, taking into consideration all information and lay or medical evidence (including statements of the claimant)—
     - **(A)** contains competent evidence that the claimant has a current disability, or persistent or recurrent symptoms of disability; and
-    - **(B)** indicates that the disability or symptoms may be associated with the claimant’s active military, naval, air, or space service; but
+    - **(B)** indicates that the disability or symptoms may be associated with the claimant’s active military, naval, or air service; but
     - **(C)** does not contain sufficient medical evidence for the Secretary to make a decision on the claim.
-- **(e)**
-  - **(1)** The Secretary’s duty to assist under this section shall apply only to a claim, or supplemental claim, for a benefit under a law administered by the Secretary until the time that a claimant is provided notice of the agency of original jurisdiction’s decision with respect to such claim, or supplemental claim, under section 5104 of this title .
-  - **(2)** The Secretary’s duty to assist under this section shall not apply to higher-level review by the agency of original jurisdiction, pursuant to section 5104B of this title , or to review on appeal by the Board of Veterans’ Appeals.
-- **(f)**
-  - **(1)** If, during review of the agency of original jurisdiction decision under section 5104B of this title , the higher-level adjudicator identifies or learns of an error on the part of the agency of original jurisdiction to satisfy its duties under this section, and that error occurred prior to the agency of original jurisdiction decision being reviewed, unless the Secretary may award the maximum benefit in accordance with this title based on the evidence of record, the higher-level adjudicator shall return the claim for correction of such error and readjudication.
-  - **(2)**
-    - **(A)** If the Board of Veterans’ Appeals, during review on appeal of an agency of original jurisdiction decision, identifies or learns of an error on the part of the agency of original jurisdiction to satisfy its duties under this section, and that error occurred prior to the agency of original jurisdiction decision on appeal, unless the Secretary may award the maximum benefit in accordance with this title based on the evidence of record, the Board shall remand the claim to the agency of original jurisdiction for correction of such error and readjudication.
-    - **(B)** Remand for correction of such error may include directing the agency of original jurisdiction to obtain an advisory medical opinion under section 5109 of this title .
-  - **(3)** Nothing in this subsection shall be construed to imply that the Secretary, during the consideration of a claim, does not have a duty to correct an error described in paragraph (1) or (2) that was erroneously not identified during higher-level review or during review on appeal with respect to the claim.
-- **(g)** The Secretary shall prescribe regulations to carry out this section.
-- **(h)** Nothing in this section shall be construed to require the Secretary to readjudicate a claim that has been disallowed except when new and relevant evidence is presented or secured, as described in section 5108 of this title .
-- **(i)** Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
+- **(e)** The Secretary shall prescribe regulations to carry out this section.
+- **(f)** Nothing in this section shall be construed to require the Secretary to reopen a claim that has been disallowed except when new and material evidence is presented or secured, as described in section 5108 of this title .
+- **(g)** Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.

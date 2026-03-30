@@ -3,14 +3,15 @@ title: "Section 1546 - Congressional priority procedures for concurrent resoluti
 usc_title: 50
 usc_section: "1546"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1546"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-03-30T03:06:37.641Z"
+status: "active"
 ---
 
 # § 1546. Congressional priority procedures for concurrent resolution
 
 - **(a)** Any concurrent resolution introduced pursuant to section 1544(c) of this title shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be, and one such concurrent resolution shall be reported out by such committee together with its recommendations within fifteen calendar days, unless such House shall otherwise determine by the yeas and nays.
 - **(b)** Any concurrent resolution so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days thereafter, unless such House shall otherwise determine by yeas and nays.
-- **(c)** Such a concurrent resolution passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by yeas and nays.
+- **(c)** Such a concurrent resolution passed by one House shall be referred to the committee of the other House named in subsection (a) of this section and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by yeas and nays.
 - **(d)** In the case of any disagreement between the two Houses of Congress with respect to a concurrent resolution passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such concurrent resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within 48 hours, they shall report back to their respective Houses in disagreement.

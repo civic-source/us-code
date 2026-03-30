@@ -1,17 +1,18 @@
 ---
-title: "Section 656 - Women’s Business Center program"
+title: "Section 656 - Women’s business center program"
 usc_title: 15
 usc_section: "656"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 656"
-generated_at: "2026-03-30T02:54:08.105Z"
+generated_at: "2026-03-30T03:04:31.136Z"
+status: "active"
 ---
 
-# § 656. Women’s Business Center program
+# § 656. Women’s business center program
 
 - **(a)** In this section—
-  - **(1)** the term “Assistant Administrator” means the Assistant Administrator of the Office of Women’s Business Ownership established under subsection (g);
+  - **(1)** the term “Assistant Administrator” means the Assistant Administrator of the Office of Women’s Business Ownership established under subsection (g) of this section;
   - **(2)** the term “private nonprofit organization” means an entity that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
   - **(3)** the term “small business concern owned and controlled by women”, either startup or existing, includes any small business concern—
     - **(A)** that is not less than 51 percent owned by 1 or more women; and
@@ -66,13 +67,13 @@ generated_at: "2026-03-30T02:54:08.105Z"
   - **(1)** The Administration shall—
     - **(A)** develop and implement an annual programmatic and financial examination of each women’s business center established pursuant to this section, pursuant to which each such center shall provide to the Administration—
       - **(i)** an itemized cost breakdown of actual expenditures for costs incurred during the preceding year; and
-      - **(ii)** documentation regarding the amount of matching assistance from non-Federal sources obtained and expended by the center during the preceding year in order to meet the requirements of subsection (c) and, with respect to any in-kind contributions described in subsection (c)(2) that were used to satisfy the requirements of subsection (c), verification of the existence and valuation of those contributions; and
+      - **(ii)** documentation regarding the amount of matching assistance from non-Federal sources obtained and expended by the center during the preceding year in order to meet the requirements of subsection (c) of this section and, with respect to any in-kind contributions described in subsection (c)(2) of this section that were used to satisfy the requirements of subsection (c) of this section, verification of the existence and valuation of those contributions; and
     - **(B)** analyze the results of each such examination and, based on that analysis, make a determination regarding the programmatic and financial viability of each women’s business center.
-  - **(2)** In determining whether to award a contract (as a sustainability grant) under subsection ( l ) or to renew a contract (either as a grant or cooperative agreement) under this section with a women’s business center, the Administration—
+  - **(2)** In determining whether to award a contract (as a sustainability grant) under subsection ( l ) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women’s business center, the Administration—
     - **(A)** shall consider the results of the most recent examination of the center under paragraph (1); and
     - **(B)** may withhold such award or renewal, if the Administration determines that—
       - **(i)** the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or the information provided by the center is inadequate; or
-      - **(ii)** the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j), or the information provided by the center is inadequate.
+      - **(ii)** the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j) of this section, or the information provided by the center is inadequate.
 - **(i)** The authority of the Administrator to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the Administrator has entered into a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administrator provides the applicant with written notification setting forth the reasons therefore 1 and affords the applicant an opportunity for a hearing, appeal, or other administrative proceeding under chapter 5 of title 5.
 - **(j)**
   - **(1)** The Administration shall prepare and submit to the Committees on Small Business of the House of Representatives and the Senate a report on the effectiveness of all projects conducted under this section.
@@ -82,9 +83,9 @@ generated_at: "2026-03-30T02:54:08.105Z"
     - **(C)** the gross receipts of assisted concerns;
     - **(D)** the employment increases or decreases of assisted concerns;
     - **(E)** to the maximum extent practicable, increases or decreases in profits of assisted concerns; and
-    - **(F)** the most recent analysis, as required under subsection (h)(1)(B), and the subsequent determination made by the Administration under that subsection.
+    - **(F)** the most recent analysis, as required under subsection (h)(1)(B) of this section, and the subsequent determination made by the Administration under that subsection.
 - **(k)**
-  - **(1)** There is authorized to be appropriated, to remain available until the expiration of the pilot program under subsection ( l )—
+  - **(1)** There is authorized to be appropriated, to remain available until the expiration of the pilot program under subsection ( l ) of this section—
     - **(A)** $12,000,000 for fiscal year 2000;
     - **(B)** $12,800,000 for fiscal year 2001;
     - **(C)** $13,700,000 for fiscal year 2002; and
@@ -98,12 +99,12 @@ generated_at: "2026-03-30T02:54:08.105Z"
       - **(iv)** For fiscal year 2003, 1.6 percent.
   - **(3)** Notwithstanding any other provision of law, the Administrator, acting through the Assistant Administrator, may use such expedited acquisition methods as the Administrator determines to be appropriate to carry out this section, except that the Administrator shall ensure that all small business sources are provided a reasonable opportunity to submit proposals.
   - **(4)**
-    - **(A)** Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection ( l ):
+    - **(A)** Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection ( l ) of this section:
       - **(i)** For fiscal year 2000, 17 percent.
       - **(ii)** For fiscal year 2001, 18.8 percent.
       - **(iii)** For fiscal year 2002, 30.2 percent.
       - **(iv)** For fiscal year 2003, 30.2 percent.
-    - **(B)** If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection ( l )(1)(B), the Administration is authorized to use the unawarded amount to fund additional women’s business center sites or to increase funding of existing women’s business center sites under subsection (b).
+    - **(B)** If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection ( l )(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women’s business center sites or to increase funding of existing women’s business center sites under subsection (b) of this section.
 - **(l)**
 - **(m)**
   - **(1)** A nonprofit organization described in paragraph (2) shall be eligible to receive, subject to paragraph (3), a 3-year grant under this subsection.
@@ -130,4 +131,4 @@ generated_at: "2026-03-30T02:54:08.105Z"
   - **(3)** The Administrator shall issue regulations to establish standards for requiring disclosures during a financial audit under paragraph (1)(B).
 - **(o)**
   - **(1)** The Administrator shall periodically conduct a study to identify industries, as defined under the North American Industry Classification System, underrepresented by small business concerns owned and controlled by women.
-  - **(2)** Not later than 3 years after January 2, 2013 , and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+  - **(2)** Not later than 5 years after January 2, 2013 , and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.

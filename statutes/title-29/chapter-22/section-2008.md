@@ -3,9 +3,10 @@ title: "Section 2008 - Disclosure of information"
 usc_title: 29
 usc_section: "2008"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 2008"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-03-30T03:05:09.736Z"
+status: "active"
 ---
 
 # § 2008. Disclosure of information
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:55:18.742Z"
   - **(2)** the employer that requested the test; or
   - **(3)** any court, governmental agency, arbitrator, or mediator, in accordance with due process of law, pursuant to an order from a court of competent jurisdiction.
 - **(c)** An employer (other than an employer described in subsection (a), (b), or (c) of section 2006 of this title ) for whom a polygraph test is conducted may disclose information from the test only to—
-  - **(1)** a person in accordance with subsection (b); or
+  - **(1)** a person in accordance with subsection (b) of this section; or
   - **(2)** a governmental agency, but only insofar as the disclosed information is an admission of criminal conduct.

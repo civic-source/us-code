@@ -3,9 +3,10 @@ title: "Section 2036 - Transfers with retained life estate"
 usc_title: 26
 usc_section: "2036"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 2036"
-generated_at: "2026-03-30T02:55:27.780Z"
+generated_at: "2026-03-30T03:05:18.668Z"
+status: "active"
 ---
 
 # § 2036. Transfers with retained life estate

@@ -3,9 +3,10 @@ title: "Section 70117 - Repealed. Pub. L. 111–281, title II, § 208(b) , Oct. 
 usc_title: 46
 usc_section: "70117"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 70117"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-03-30T03:06:27.196Z"
+status: "repealed"
 ---
 
 # [§ 70117. Repealed. Pub. L. 111–281, title II, § 208(b) , Oct. 15, 2010 , 124 Stat. 2912 ]

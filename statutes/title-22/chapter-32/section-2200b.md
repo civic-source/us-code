@@ -1,12 +1,26 @@
 ---
-title: "Section 2200b - Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2) , Oct. 5, 2018 , 132 Stat. 3513"
+title: "Section 2200b - Prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports"
 usc_title: 22
 usc_section: "2200b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2200b"
-generated_at: "2026-03-30T02:55:05.350Z"
+generated_at: "2026-03-30T03:04:53.626Z"
+status: "active"
 ---
 
-# §§ 2198 to 2200b. Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2) , Oct. 5, 2018 , 132 Stat. 3513
+# § 2200b. Prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports
 
+- **(a)**
+  - **(1)** Except as provided in paragraph (3), the investor on whose behalf insurance, reinsurance, guaranties, or other financing is provided under this subpart with respect to a project shall be required to certify to the Corporation that any contract for the export of goods as part of that project will include a clause requiring that United States insurance companies have a fair and open competitive opportunity to provide insurance against risk of loss of such export.
+  - **(2)** The investor shall be required, in every practicable case, to so certify before the insurance, reinsurance, guarantee, or other financing is provided. In any case in which such a certification is not made in advance, the investor shall include in the certification the reasons for the failure to make a certification in advance.
+  - **(3)** Paragraph (1) does not apply with respect to an investor who does not, because of the nature of the investment, have a controlling interest in fact in the project in question.
+- **(b)** The United States Trade Representative shall review the actions of the Corporation under subsection (a) of this section and, after consultation with representatives of United States insurance companies, shall report to the Congress in the report required by section 2241(b) of title 19 with respect to such actions.
+- **(c)** For purposes of this section—
+  - **(1)** the term “United States insurance company” includes—
+    - **(A)** an individual, partnership, corporation, holding company, or other legal entity which is authorized, or in the case of a holding company, subsidiaries of which are authorized, by a State to engage in the business of issuing insurance contracts or reinsuring the risk underwritten by insurance companies; and
+    - **(B)** foreign operations, branches, agencies, subsidiaries, affiliates, or joint ventures of any entity described in subparagraph (A);
+  - **(2)** United States insurance companies shall be considered to have had a “fair and open competitive opportunity to provide insurance” if they—
+    - **(A)** have received notice of the opportunity to provide insurance; and
+    - **(B)** have been evaluated on a nondiscriminatory basis; and
+  - **(3)** the term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.

@@ -1,12 +1,17 @@
 ---
-title: "Section 112e - Transferred"
+title: "Section 112e - Office equipment for House Members, officers, and committees"
 usc_title: 2
 usc_section: "112e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 112e"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.403Z"
+status: "active"
 ---
 
-# § 112e. Transferred
+# § 112e. Office equipment for House Members, officers, and committees
 
+- **(a)** At the request of any Member, officer, or committee of the House of Representatives, or the Resident Commissioner from Puerto Rico, and with the approval of the Committee on House Oversight, but subject to the limitations prescribed by this Act, the Chief Administrative Officer of the House of Representatives shall furnish office equipment for use in the office of that Member, Resident Commissioner, officer, or committee. Office equipment so furnished is limited to equipment of those types and categories which the Committee on House Oversight shall prescribe.
+- **(b)** Office equipment furnished under this section shall be registered in the office of the Chief Administrative Officer of the House of Representatives and shall remain the property of the House of Representatives.
+- **(c)** The cost of office equipment furnished under this section shall be paid from the applicable accounts of the House of Representatives.
+- **(d)** The Committee on House Oversight shall prescribe such regulations as it considers necessary to carry out the purposes of this section.

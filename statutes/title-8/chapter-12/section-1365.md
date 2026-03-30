@@ -3,20 +3,21 @@ title: "Section 1365 - Reimbursement of States for costs of incarcerating illega
 usc_title: 8
 usc_section: "1365"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1365"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-03-30T03:04:14.637Z"
+status: "active"
 ---
 
 # § 1365. Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals
 
 - **(a)** Subject to the amounts provided in advance in appropriation Acts, the Attorney General shall reimburse a State for the costs incurred by the State for the imprisonment of any illegal alien or Cuban national who is convicted of a felony by such State.
-- **(b)** An illegal alien referred to in subsection (a) is any alien who is any alien convicted of a felony who is in the United States unlawfully and—
+- **(b)** An illegal alien referred to in subsection (a) of this section is any alien who is any alien convicted of a felony who is in the United States unlawfully and—
   - **(1)** whose most recent entry into the United States was without inspection, or
   - **(2)** whose most recent admission to the United States was as a nonimmigrant and—
     - **(A)** whose period of authorized stay as a nonimmigrant expired, or
     - **(B)** whose unlawful status was known to the Government,
-- **(c)** A Marielito Cuban convicted of a felony referred to in subsection (a) is a national of Cuba who—
+- **(c)** A Marielito Cuban convicted of a felony referred to in subsection (a) of this section is a national of Cuba who—
   - **(1)** was allowed by the Attorney General to come to the United States in 1980,
   - **(2)** after such arrival committed any violation of State or local law for which a term of imprisonment was imposed, and
   - **(3)** at the time of such arrival and at the time of such violation was not an alien lawfully admitted to the United States—

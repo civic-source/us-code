@@ -3,9 +3,10 @@ title: "Section 3809 - Primary enforcement responsibility"
 usc_title: 7
 usc_section: "3809"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3809"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-03-30T03:04:20.984Z"
+status: "active"
 ---
 
 # § 3809. Primary enforcement responsibility
@@ -16,6 +17,6 @@ generated_at: "2026-03-30T02:53:42.404Z"
   - **(3)** will keep such records and make such reports showing compliance with paragraphs (1) and (2) of this subsection as the Secretary may require by regulation.
 - **(b)** Whenever the Secretary determines that a State having primary enforcement responsibility pursuant to this section does not have adequate laws or regulations or is not effectively enforcing such laws or regulations, the Secretary shall notify the State. Such notice shall specify those aspects of the administration or enforcement of the State program that are determined to be inadequate. The State shall have ninety days after receipt of the notice to correct any deficiencies. If after that time the Secretary determines that the State program remains inadequate, the Secretary may terminate, in whole or in part, the State’s primary enforcement responsibility under this chapter.
 - **(c)**
-  - **(1)** On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a). In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
-  - **(2)** Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a).
+  - **(1)** On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a) of this section. In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
+  - **(2)** Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a) of this section.
 - **(d)** Nothing in this section shall limit the authority of the Secretary to enforce this chapter whenever the Secretary determines that emergency conditions exist that require immediate action on the part of the Secretary and the State authority is unwilling or unable adequately to respond to the emergency.

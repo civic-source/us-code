@@ -1,74 +1,67 @@
 ---
-title: "Section 16293 - Carbon storage validation and testing"
+title: "Section 16293 - Carbon capture and sequestration research, development, and demonstration program"
 usc_title: 42
 usc_section: "16293"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-30T02:56:11.479Z"
+generated_at: "2026-03-30T03:06:22.976Z"
+status: "active"
 ---
 
-# § 16293. Carbon storage validation and testing
+# § 16293. Carbon capture and sequestration research, development, and demonstration program
 
-- **(a)** In this section:
-  - **(1)** The term “large-scale carbon sequestration” means a scale that—
-    - **(A)** demonstrates the ability to inject into geologic formations and sequester carbon dioxide; and
-    - **(B)** has a goal of sequestering not less than 50 million metric tons of carbon dioxide.
-  - **(2)** The term “program” means the program established under subsection (b)(1).
-- **(b)**
-  - **(1)** The Secretary shall establish a program of research, development, demonstration, and commercialization for carbon storage.
-  - **(2)** Activities under the program shall include—
-    - **(A)** in coordination with relevant Federal agencies, developing and maintaining mapping tools and resources that assess the capacity of geologic storage formation in the United States;
-    - **(B)** developing monitoring tools, modeling of geologic formations, and analyses—
-      - **(i)** to predict carbon dioxide containment; and
-      - **(ii)** to account for sequestered carbon dioxide in geologic storage sites;
-    - **(C)** researching—
-      - **(i)** potential environmental, safety, and health impacts in the event of a leak into the atmosphere or to an aquifer; and
-      - **(ii)** any corresponding mitigation actions or responses to limit harmful consequences of such a leak;
-    - **(D)** evaluating the interactions of carbon dioxide with formation solids and fluids, including the propensity of injections to induce seismic activity;
-    - **(E)** assessing and ensuring the safety of operations relating to geologic sequestration of carbon dioxide;
-    - **(F)** determining the fate of carbon dioxide concurrent with and following injection into geologic formations;
-    - **(G)** supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program;
-    - **(H)** providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment; and
-    - **(I)** evaluating the quantity, location, and timing of geologic carbon storage deployment that may be needed, and developing strategies and resources to enable the deployment.
-  - **(3)** In carrying out research activities under this subsection, the Secretary shall consider a variety of candidate onshore and offshore geologic settings, including—
-    - **(A)** operating oil and gas fields;
-    - **(B)** depleted oil and gas fields;
-    - **(C)** residual oil zones;
-    - **(D)** unconventional reservoirs and rock types;
-    - **(E)** unmineable coal seams;
-    - **(F)** saline formations in both sedimentary and basaltic geologies;
-    - **(G)** geologic systems that may be used as engineered reservoirs to extract economical quantities of brine from geothermal resources of low permeability or porosity; and
-    - **(H)** geologic systems containing in situ carbon dioxide mineralization formations.
+- **(a)** The Secretary shall carry out a 10-year carbon capture and sequestration research, development, and demonstration program to develop carbon dioxide capture and sequestration technologies related to industrial sources of carbon dioxide for use—
+  - **(1)** in new coal utilization facilities; and
+  - **(2)** on the fleet of coal-based units in existence on August 8, 2005 .
+- **(b)** The objectives of the program under subsection (a) shall be—
+  - **(1)** to develop carbon dioxide capture technologies, including adsorption and absorption techniques and chemical processes, to remove the carbon dioxide from gas streams containing carbon dioxide potentially amenable to sequestration;
+  - **(2)** to develop technologies that would directly produce concentrated streams of carbon dioxide potentially amenable to sequestration;
+  - **(3)** to increase the efficiency of the overall system to reduce the quantity of carbon dioxide emissions released from the system per megawatt generated;
+  - **(4)** in accordance with the carbon dioxide capture program, to promote a robust carbon sequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships; and
+  - **(5)** to expedite and carry out large-scale testing of carbon sequestration systems in a range of geologic formations that will provide information on the cost and feasibility of deployment of sequestration technologies.
 - **(c)**
-  - **(1)** The Secretary shall establish a demonstration program under which the Secretary shall provide funding for demonstration projects to collect and validate information on the cost and feasibility of commercial deployment of large-scale carbon sequestration technologies.
-  - **(2)** In carrying out paragraph (1), the Secretary may provide additional funding to regional carbon sequestration partnerships that are carrying out or have completed a large-scale carbon sequestration demonstration project under this section (as in effect on the day before December 27, 2020 ) for additional work on that project.
-  - **(3)** Each demonstration project carried out under this subsection shall include longitudinal tests involving carbon dioxide injection and monitoring, mitigation, and verification operations.
-  - **(4)** The National Energy Technology Laboratory shall act as a clearinghouse of shared information and resources for—
-    - **(A)** existing or completed demonstration projects receiving additional funding under paragraph (2); and
-    - **(B)** any new demonstration projects funded under this subsection.
-  - **(5)** Not later than 1 year after December 27, 2020 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that—
-    - **(A)** assesses the progress of all regional carbon sequestration partnerships carrying out a demonstration project under this subsection;
-    - **(B)** identifies the remaining challenges in achieving large-scale carbon sequestration that is reliable and safe for the environment and public health; and
-    - **(C)** creates a roadmap for carbon storage research and development activities of the Department through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
-- **(d)**
-  - **(1)** The Secretary may transition large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
-  - **(2)** The goals and objectives of the Secretary in seeking to transition large-scale carbon sequestration demonstration projects into integrated commercial storage complexes under paragraph (1) shall be—
-    - **(A)** to identify geologic storage sites that are able to accept large volumes of carbon dioxide acceptable for commercial contracts;
-    - **(B)** to understand the technical and commercial viability of carbon dioxide geologic storage sites; and
-    - **(C)** to carry out any other activities necessary to transition the large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
-- **(e)**
-  - **(1)** The Secretary shall establish a commercialization program under which the Secretary shall provide funding for the development of new or expanded commercial large-scale carbon sequestration projects and associated carbon dioxide transport infrastructure, including funding for the feasibility, site characterization, permitting, and construction stages of project development.
+  - **(1)**
+    - **(A)** The Secretary shall carry out fundamental science and engineering research (including laboratory-scale experiments, numeric modeling, and simulations) to develop and document the performance of new approaches to capture and sequester, or use carbon dioxide to lead to an overall reduction of carbon dioxide emissions.
+    - **(B)** The Secretary shall ensure that fundamental research carried out under this paragraph is appropriately applied to energy technology development activities, the field testing of carbon sequestration, and carbon use activities, including—
+      - **(i)** development of new or advanced technologies for the capture and sequestration of carbon dioxide;
+      - **(ii)** development of new or advanced technologies that reduce the cost and increase the efficacy of advanced compression of carbon dioxide required for the sequestration of carbon dioxide;
+      - **(iii)** modeling and simulation of geologic sequestration field demonstrations;
+      - **(iv)** quantitative assessment of risks relating to specific field sites for testing of sequestration technologies;
+      - **(v)** research and development of new and advanced technologies for carbon use, including recycling and reuse of carbon dioxide; and
+      - **(vi)** research and development of new and advanced technologies for the separation of oxygen from air.
   - **(2)**
-    - **(A)** To be eligible to enter into an agreement with the Secretary for funding under paragraph (1), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
-    - **(B)** The Secretary shall establish an application process that, to the maximum extent practicable—
-      - **(i)** is open to projects at any stage of development described in paragraph (1); and
-      - **(ii)** facilitates expeditious development of projects described in that paragraph.
-    - **(C)** In selecting projects for funding under paragraph (1), the Secretary shall give priority to—
-      - **(i)** projects with substantial carbon dioxide storage capacity; or
-      - **(ii)** projects that will store carbon dioxide from multiple carbon capture facilities.
-- **(f)** In making competitive awards under this section, subject to the requirements of section 16353 of this title , the Secretary shall—
-  - **(1)** with respect to the research, development, demonstration program components described in subsections (b) through (d) give preference to proposals from partnerships among industrial, academic, and government entities; and
-  - **(2)** require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40 .
-- **(g)** Activities carried out under this section shall be subject to the cost-sharing requirements of section 16352 of this title .
-- **(h)** There is authorized to be appropriated to the Secretary to carry out this section $2,500,000,000 for the period of fiscal years 2022 through 2026.
+    - **(A)** The Secretary shall promote, to the maximum extent practicable, regional carbon sequestration partnerships to conduct geologic sequestration tests involving carbon dioxide injection and monitoring, mitigation, and verification operations in a variety of candidate geologic settings, including—
+      - **(i)** operating oil and gas fields;
+      - **(ii)** depleted oil and gas fields;
+      - **(iii)** unmineable coal seams;
+      - **(iv)** deep saline formations;
+      - **(v)** deep geologic systems that may be used as engineered reservoirs to extract economical quantities of heat from geothermal resources of low permeability or porosity; and
+      - **(vi)** deep geologic systems containing basalt formations.
+    - **(B)** The objectives of tests conducted under this paragraph shall be—
+      - **(i)** to develop and validate geophysical tools, analysis, and modeling to monitor, predict, and verify carbon dioxide containment;
+      - **(ii)** to validate modeling of geologic formations;
+      - **(iii)** to refine sequestration capacity estimated for particular geologic formations;
+      - **(iv)** to determine the fate of carbon dioxide concurrent with and following injection into geologic formations;
+      - **(v)** to develop and implement best practices for operations relating to, and monitoring of, carbon dioxide injection and sequestration in geologic formations;
+      - **(vi)** to assess and ensure the safety of operations related to geologic sequestration of carbon dioxide;
+      - **(vii)** to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectives of this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
+      - **(viii)** to provide information to States, the Environmental Protection Agency, and other appropriate entities to support development of a regulatory framework for commercial-scale sequestration operations that ensure the protection of human health and the environment.
+  - **(3)**
+    - **(A)** The Secretary shall conduct not less than 7 initial large-scale sequestration tests, not including the FutureGen project, for geologic containment of carbon dioxide to collect and validate information on the cost and feasibility of commercial deployment of technologies for geologic containment of carbon dioxide. These 7 tests may include any Regional Partnership projects awarded as of December 19, 2007 .
+    - **(B)** In selecting formations for study under this paragraph, the Secretary shall consider a variety of geologic formations across the United States, and require characterization and modeling of candidate formations, as determined by the Secretary.
+    - **(C)** In the process of any acquisition of carbon dioxide for sequestration tests under subparagraph (A), the Secretary shall give preference to sources of carbon dioxide from industrial sources. To the extent feasible, the Secretary shall prefer tests that would facilitate the creation of an integrated system of capture, transportation and sequestration of carbon dioxide. The preference provided for under this subparagraph shall not delay the implementation of the large-scale sequestration tests under this paragraph.
+    - **(D)** For purposes of this paragraph, the term “large-scale” means the injection of more than 1,000,000 tons of carbon dioxide from industrial sources annually or a scale that demonstrates the ability to inject and sequester several million metric tons of industrial source carbon dioxide for a large number of years.
+  - **(4)** In making competitive awards under this subsection, subject to the requirements of section 16353 of this title , the Secretary shall—
+    - **(A)** give preference to proposals from partnerships among industrial, academic, and government entities; and
+    - **(B)** require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40 .
+  - **(5)** Activities under this subsection shall be considered research and development activities that are subject to the cost sharing requirements of section 16352(b) of this title .
+  - **(6)** During fiscal year 2011, the Secretary shall—
+    - **(A)** conduct a review of programmatic activities carried out under this subsection; and
+    - **(B)** make recommendations with respect to continuation of the activities.
+- **(d)** There are authorized to be appropriated to carry out this section—
+  - **(1)** $240,000,000 for fiscal year 2008;
+  - **(2)** $240,000,000 for fiscal year 2009;
+  - **(3)** $240,000,000 for fiscal year 2010;
+  - **(4)** $240,000,000 for fiscal year 2011; and
+  - **(5)** $240,000,000 for fiscal year 2012.

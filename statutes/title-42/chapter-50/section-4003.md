@@ -1,14 +1,15 @@
 ---
-title: "Section 4003 - Definitions applicable to Flood Disaster Protection Act of 1973"
+title: "Section 4003 - Additional definitions"
 usc_title: 42
 usc_section: "4003"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4003"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-03-30T03:06:22.707Z"
+status: "active"
 ---
 
-# § 4003. Definitions applicable to Flood Disaster Protection Act of 1973
+# § 4003. Additional definitions
 
 - **(a)** As used in this Act, unless the context otherwise requires, the term—
   - **(1)** “community” means a State or a political subdivision thereof which has zoning and building code jurisdiction over a particular area having special flood hazards;

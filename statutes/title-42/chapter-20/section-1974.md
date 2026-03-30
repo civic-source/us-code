@@ -1,12 +1,15 @@
 ---
-title: "Section 1974 - Transferred"
+title: "Section 1974 - Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation"
 usc_title: 42
 usc_section: "1974"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1974"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-03-30T03:06:22.643Z"
+status: "active"
 ---
 
-# § 1974. Transferred
+# § 1974. Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation
+
+Every officer of election shall retain and preserve, for a period of twenty-two months from the date of any general, special, or primary election of which candidates for the office of President, Vice President, presidential elector, Member of the Senate, Member of the House of Representatives, or Resident Commissioner from the Commonwealth of Puerto Rico are voted for, all records and papers which come into his possession relating to any application, registration, payment of poll tax, or other act requisite to voting in such election, except that, when required by law, such records and papers may be delivered to another officer of election and except that, if a State or the Commonwealth of Puerto Rico designates a custodian to retain and preserve these records and papers at a specified place, then such records and papers may be deposited with such custodian, and the duty to retain and preserve any record or paper so deposited shall devolve upon such custodian. Any officer of election or custodian who willfully fails to comply with this section shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 

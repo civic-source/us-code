@@ -3,21 +3,22 @@ title: "Section 3011 - Establishment of Administration on Aging"
 usc_title: 42
 usc_section: "3011"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3011"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-03-30T03:06:22.674Z"
+status: "active"
 ---
 
 # § 3011. Establishment of Administration on Aging
 
-- **(a)** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+- **(a)** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 - **(b)** The Assistant Secretary shall be appointed by the President by and with the advice and consent of the Senate.
 - **(c)**
   - **(1)** There is established in the Administration an Office for American Indian, Alaskan Native, and Native Hawaiian Programs.
   - **(2)** The Office shall be headed by a Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging appointed by the Assistant Secretary.
   - **(3)** The Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging shall—
     - **(A)**
-      - **(i)** evaluate the adequacy of outreach under subchapter III and subchapter X for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
+      - **(i)** evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
       - **(ii)** include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
     - **(B)** serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
     - **(C)** coordinate activities between other Federal departments and agencies to assure a continuum of improved services through memoranda of agreements or through other appropriate means of coordination;
@@ -25,10 +26,10 @@ generated_at: "2026-03-30T02:56:11.170Z"
     - **(E)** recommend to the Assistant Secretary policies and priorities with respect to the development and operation of programs and activities conducted under this chapter relating to older individuals who are Native Americans;
     - **(F)** collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans;
     - **(G)** develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
-    - **(H)** develop and provide technical assistance and training programs to grantees under subchapter X;
+    - **(H)** develop and provide technical assistance and training programs to grantees under subchapter X of this chapter;
     - **(I)** promote coordination—
-      - **(i)** between the administration of subchapter III and the administration of subchapter X; and
-      - **(ii)** between programs established under subchapter III by the Assistant Secretary and programs established under subchapter X by the Assistant Secretary;
+      - **(i)** between the administration of subchapter III of this chapter and the administration of subchapter X of this chapter; and
+      - **(ii)** between programs established under subchapter III of this chapter by the Assistant Secretary and programs established under subchapter X of this chapter by the Assistant Secretary;
     - **(J)** serve as the effective and visible advocate on behalf of older individuals who are Indians, Alaskan Natives, and Native Hawaiians, in the States to promote the enhanced delivery of services and implementation of programs, under this chapter and other Federal Acts, for the benefit of such individuals.
 - **(d)**
   - **(1)** There is established in the Administration the Office of Long-Term Care Ombudsman Programs (in this subsection referred to as the “Office”).
@@ -57,15 +58,14 @@ generated_at: "2026-03-30T02:56:11.170Z"
     - **(E)** review, and make recommendations to the Secretary and the Assistant Secretary regarding, existing and proposed Federal legislation, regulations, and policies regarding the operation of State Long-Term Care Ombudsman programs;
     - **(F)** make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinate the activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
     - **(G)** supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
-    - **(H)** administer the National Ombudsman Resource Center established under section 3012(a)(18) of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+    - **(H)** administer the National Ombudsman Resource Center established under section 3012(a)(21) 1 1 See References in Text note below. of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
     - **(I)** advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
     - **(J)** submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under section 3027(a)(9) of this title and section 3058g of this title ;
-    - **(K)** have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
-    - **(L)** not later than 180 days after April 19, 2016 , establish standards applicable to the training required by section 3058g(h)(5) of this title ; and
-    - **(M)** collect and analyze best practices related to responding to elder abuse, neglect, and exploitation in long-term care facilities, and publish a report of such best practices.
+    - **(K)** have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals; and
+    - **(L)** not later than 180 days after September 30, 1992 , establish standards applicable to the training required by section 3058g(h)(4) of this title .
 - **(e)**
   - **(1)** The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
-  - **(2)** It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs—
+  - **(2)** It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
     - **(A)** to develop objectives, priorities, policy, and a long-term plan for—
       - **(i)** facilitating the development, implementation, and continuous improvement of a coordinated, multidisciplinary elder justice system in the United States;
       - **(ii)** providing Federal leadership to support State efforts in carrying out elder justice programs and activities relating to—
@@ -82,27 +82,5 @@ generated_at: "2026-03-30T02:56:11.170Z"
     - **(B)** to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
   - **(3)** The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title .
 - **(f)**
-  - **(1)** The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental and behavioral health services authorized under this chapter.
+  - **(1)** The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
   - **(2)** It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer’s disease and related neurological disorders with neurological and organic brain dysfunction.
-- **(g)**
-  - **(1)** The Assistant Secretary shall, as appropriate, coordinate the research and evaluation functions of this chapter under a Research, Demonstration, and Evaluation Center for the Aging Network (in this subsection referred to as the “Center”), which shall be headed by a director designated by the Assistant Secretary from individuals described in paragraph (4).
-  - **(2)** The purpose of the Center shall be—
-    - **(A)** to coordinate, as appropriate, research, research dissemination, evaluation, demonstration projects, and related activities carried out under this chapter;
-    - **(B)** to provide assessment of the programs and interventions authorized under this chapter; and
-    - **(C)** to increase the repository of information on evidence-based programs and interventions available to the aging network, which information shall be applicable to existing programs and interventions and help in the development of new evidence-based programs and interventions.
-  - **(3)** Activities of the Center shall include, as appropriate, conducting, promoting, coordinating, and providing support for—
-    - **(A)** research and evaluation activities that support the objectives of this chapter, including—
-      - **(i)** evaluation of new and existing programs and interventions authorized by this chapter; and
-      - **(ii)** research on and assessment of the relationship between programs and interventions under this chapter and the health outcomes, social determinants of health, quality of life, and independence of individuals served under this chapter;
-    - **(B)** demonstration projects that support the objectives of this chapter, including activities to bring effective demonstration projects to scale with a prioritization of projects that address the needs of underserved populations, and promote partnerships among aging services, community-based organizations, and Medicare and Medicaid providers, plans, and health (including public health) systems;
-    - **(C)** outreach and dissemination of research findings; and
-    - **(D)** technical assistance related to the activities described in this paragraph.
-  - **(4)** The director shall be an individual with substantial knowledge of and experience in aging and health policy, and research administration.
-  - **(5)** Not later than October 1, 2020 , and at 5-year intervals thereafter, the director shall prepare and publish in the Federal Register for public comment a draft of a 5-year plan that—
-    - **(A)** outlines priorities for research, research dissemination, evaluation, demonstration projects, and related activities;
-    - **(B)** explains the basis for such priorities; and
-    - **(C)** describes how the plan will meet the needs of underserved populations.
-  - **(6)** The director shall coordinate, as appropriate, research, research dissemination, evaluation, and demonstration projects, and related activities with appropriate agency program staff, and, as appropriate, with other Federal departments and agencies involved in research in the field of aging.
-  - **(7)** Not later than December 31, 2020 , and annually thereafter, the director shall prepare, and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, the Special Committee on Aging of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities funded under this section and subchapter IV.
-  - **(8)** The director shall, as appropriate, consult with experts on aging research and evaluation and aging network stakeholders on the implementation of the activities described under paragraph (3) of this subsection.
-  - **(9)** The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.

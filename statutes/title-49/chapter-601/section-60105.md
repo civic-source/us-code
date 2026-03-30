@@ -3,9 +3,10 @@ title: "Section 60105 - State pipeline safety program certifications"
 usc_title: 49
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 60105"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-03-30T03:06:29.342Z"
+status: "active"
 ---
 
 # § 60105. State pipeline safety program certifications
@@ -17,14 +18,8 @@ generated_at: "2026-03-30T02:56:19.413Z"
   - **(3)** is enforcing each adopted standard through ways that include inspections conducted by State employees meeting the qualifications the Secretary prescribes under section 60107(d)(1)(C) of this title ;
   - **(4)** is encouraging and promoting the establishment of a program designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies that subjects persons who violate the applicable requirements of that program to civil penalties and other enforcement actions that are substantially the same as are provided under this chapter, and addresses the elements in section 60134(b);
   - **(5)** may require record maintenance, reporting, and inspection substantially the same as provided under section 60117 of this title ;
-  - **(6)** may require that plans for inspection and maintenance under section 60108 (a) and (b) of this title be filed for approval;
-  - **(7)** may enforce safety standards of the authority under a law of the State by injunctive relief and civil penalties substantially the same as provided under sections 60120 and 60122(a)(1) and (b)–(f) of this title;
-  - **(8)** has the capability to sufficiently review and evaluate the adequacy of the plans and manuals described in section 60109(e)(7)(C)(i); and
-  - **(9)** has a sufficient number of employees described in paragraph (3) to ensure safe operations of pipeline facilities, updating the State Inspection Calculation Tool to take into account factors including—
-    - **(A)** the number of miles of natural gas and hazardous liquid pipelines in the State, including the number of miles of cast iron and bare steel pipelines;
-    - **(B)** the number of services in the State;
-    - **(C)** the age of the gas distribution system in the State; and
-    - **(D)** environmental factors that could impact the integrity of the pipeline, including relevant geological issues.
+  - **(6)** may require that plans for inspection and maintenance under section 60108 (a) and (b) of this title be filed for approval; and
+  - **(7)** may enforce safety standards of the authority under a law of the State by injunctive relief and civil penalties substantially the same as provided under sections 60120 and 60122(a)(1) and (b)–(f) of this title.
 - **(c)**
   - **(1)** Each certification submitted under subsection (a) of this section shall include a report that contains—
     - **(A)** the name and address of each person to whom the certification applies that is subject to the safety jurisdiction of the State authority;

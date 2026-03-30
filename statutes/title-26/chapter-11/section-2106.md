@@ -3,9 +3,10 @@ title: "Section 2106 - Taxable estate"
 usc_title: 26
 usc_section: "2106"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 2106"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-03-30T03:05:18.670Z"
+status: "active"
 ---
 
 # § 2106. Taxable estate
@@ -26,5 +27,5 @@ generated_at: "2026-03-30T02:55:27.783Z"
       - **(ii)** For exemption of certain bequests for the benefit of the United States and for rules of construction for certain bequests, see section 2055(g).
       - **(iii)** For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
   - **(3)** The amount which would be deductible with respect to property situated in the United States at the time of the decedent’s death under the principles of section 2056.
-  - **(4)** The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2058(a).
+  - **(4)** The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2011(a).
 - **(b)** No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.

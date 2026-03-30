@@ -3,16 +3,17 @@ title: "Section 2663 - EPA citizen’s guide"
 usc_title: 15
 usc_section: "2663"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2663"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-03-30T03:04:31.210Z"
+status: "active"
 ---
 
 # § 2663. EPA citizen’s guide
 
 - **(a)** In order to make continuous progress toward the long-term goal established in section 2661 of this title , the Administrator of the Environmental Protection Agency shall, not later than June 1, 1989 , publish and make available to the public an updated version of its document titled “A Citizen’s Guide to Radon”. The Administrator shall revise and republish the guide as necessary thereafter.
 - **(b)**
-  - **(1)** The updated citizen’s guide published as provided in subsection (a) shall include a description of a series of action levels indicating the health risk associated with different levels of radon exposure.
+  - **(1)** The updated citizen’s guide published as provided in subsection (a) of this section shall include a description of a series of action levels indicating the health risk associated with different levels of radon exposure.
   - **(2)** The updated citizen’s guide shall also include information with respect to each of the following:
     - **(A)** The increased health risk associated with the exposure of potentially sensitive populations to different levels of radon.
     - **(B)** The increased health risk associated with the exposure to radon of persons engaged in potentially risk-increasing behavior.

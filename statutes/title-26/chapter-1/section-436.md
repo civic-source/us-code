@@ -3,14 +3,15 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T02:55:27.699Z"
+generated_at: "2026-03-30T03:05:18.596Z"
+status: "active"
 ---
 
 # § 436. Funding-based limits on benefits and benefit accruals under single-employer plans
 
-- **(a)** For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+- **(a)** For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 - **(b)**
   - **(1)** If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
     - **(A)** is less than 60 percent, or
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:55:27.699Z"
   - **(3)** Paragraph (1) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant’s compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
 - **(d)**
   - **(1)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
-  - **(2)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
+  - **(2)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
   - **(3)**
     - **(A)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—
       - **(i)** 50 percent of the amount of the payment which could be made without regard to this section, or
@@ -77,6 +78,20 @@ generated_at: "2026-03-30T02:55:27.699Z"
 - **(j)** For purposes of this section—
   - **(1)** The term “funding target attainment percentage” has the same meaning given such term by section 430(d)(2).
   - **(2)** The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under paragraph (1) by increasing each of the amounts under subparagraphs (A) and (B) of section 430(d)(2) by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q)) which were made by the plan during the preceding 2 plan years.
-  - **(3)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
+  - **(3)**
+    - **(A)** In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
+    - **(B)** Subparagraph (A) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table: In the case of a plan year The applicable beginning in calendar year: percentage is 2008 92 2009 94 2010 96.
+    - **(C)** Subparagraph (B) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 430(f)(4)) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under subparagraph (B).
+  - **(3)** Solely for purposes of any applicable provision—
+    - **(A)** For plan years beginning on or after October 1, 2008 , and before October 1, 2010 , the adjusted funding target attainment percentage of a plan shall be the greater of—
+      - **(i)** such percentage, as determined without regard to this paragraph, or
+      - **(ii)** the adjusted funding target attainment percentage for such plan for the plan year beginning after October 1, 2007 , and before October 1, 2008 , as determined under rules prescribed by the Secretary.
+    - **(B)** In the case of a plan for which the valuation date is not the first day of the plan year—
+      - **(i)** subparagraph (A) shall apply to plan years beginning after December 31, 2007 , and before January 1, 2010 , and
+      - **(ii)** subparagraph (A)(ii) shall apply based on the last plan year beginning before November 1, 2007 , as determined under rules prescribed by the Secretary.
+    - **(C)** For purposes of this paragraph, the term “applicable provision” means—
+      - **(i)** subsection (d), but only for purposes of applying such paragraph to a payment which, as determined under rules prescribed by the Secretary, is a payment under a social security leveling option which accelerates payments under the plan before, and reduces payments after, a participant starts receiving social security benefits in order to provide substantially similar aggregate payments both before and after such benefits are received, and
+      - **(ii)** subsection (e).
 - **(k)** In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 - **(l)** For purposes of this section, the term “single-employer plan” means a plan which is not a multiemployer plan.
+- **(m)** For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.

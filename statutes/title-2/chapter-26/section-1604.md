@@ -3,15 +3,16 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-03-30T03:04:04.436Z"
+status: "active"
 ---
 
 # § 1604. Reports by registered lobbyists
 
 - **(a)** No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title , or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.
-- **(b)** Each quarterly report filed under subsection (a) shall contain—
+- **(b)** Each quarterly report filed under subsection (a) of this section shall contain—
   - **(1)** the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under section 1603(b)(3) of this title ;
   - **(2)** for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the quarterly period—
     - **(A)** a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;
@@ -19,9 +20,8 @@ generated_at: "2026-03-30T02:53:04.816Z"
     - **(C)** a list of the employees of the registrant who acted as lobbyists on behalf of the client; and
     - **(D)** a description of the interest, if any, of any foreign entity identified under section 1603(b)(4) of this title in the specific issues listed under subparagraph (A);
   - **(3)** in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;
-  - **(4)** in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period;
-  - **(5)** for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and
-  - **(6)** for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
+  - **(4)** in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; and
+  - **(5)** for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments.
 - **(c)** For purposes of this section, estimates of income or expenses shall be made as follows:
   - **(1)** Estimates of amounts in excess of $5,000 shall be rounded to the nearest $10,000.
   - **(2)** In the event income or expenses do not exceed $5,000, the registrant shall include a statement that income or expenses totaled less than $5,000 for the reporting period.
@@ -40,5 +40,5 @@ generated_at: "2026-03-30T02:53:04.816Z"
     - **(G)** a certification by the person or organization filing the report that the person or organization—
       - **(i)** has read and is familiar with those provisions of the Standing Rules of the Senate and the Rules of the House of Representatives relating to the provision of gifts and travel; and
       - **(ii)** has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.
-  - **(2)** In this subsection, the term “leadership PAC” has the meaning given such term in section 30104(i)(8)(B) of title 52 .
+  - **(2)** In this subsection, the term “leadership PAC” has the meaning given such term in section 434(i)(8)(B) of this title .
 - **(e)** A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.

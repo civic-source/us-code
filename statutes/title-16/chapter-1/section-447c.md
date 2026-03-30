@@ -1,12 +1,15 @@
 ---
-title: "Section 447c - Transferred"
+title: "Section 447c - Administration, protection, and development"
 usc_title: 16
 usc_section: "447c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 447c"
-generated_at: "2026-03-30T02:54:22.800Z"
+generated_at: "2026-03-30T03:04:48.445Z"
+status: "active"
 ---
 
-# §§ 447a to 447c. Transferred
+# § 447c. Administration, protection, and development
+
+The administration, protection, and development of the Ocmulgee National Monument shall be under the supervision of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 

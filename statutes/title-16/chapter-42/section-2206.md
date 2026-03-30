@@ -3,9 +3,10 @@ title: "Section 2206 - Emergency forest restoration program"
 usc_title: 16
 usc_section: "2206"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-03-30T03:04:48.591Z"
+status: "active"
 ---
 
 # § 2206. Emergency forest restoration program
@@ -20,6 +21,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
   - **(3)** The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
     - **(A)** has existing tree cover (or had tree cover immediately before the natural disaster and is suitable for growing trees); and
     - **(B)** is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decision-making authority over the land.
+  - **(4)** The term “Secretary” means the Secretary of Agriculture.
 - **(b)** The Secretary may make payments to an owner of nonindustrial private forest land who carries out emergency measures to restore the land after the land is damaged by a natural disaster.
 - **(c)** To be eligible to receive a payment under subsection (b), an owner must demonstrate to the satisfaction of the Secretary that the nonindustrial private forest land on which the emergency measures are carried out had tree cover immediately before the natural disaster.
 - **(d)** Payments made under subsection (b) shall not exceed 75 percent of the total cost of the emergency measures carried out by an owner of nonindustrial private forest land.

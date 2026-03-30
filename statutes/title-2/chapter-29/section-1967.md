@@ -3,9 +3,10 @@ title: "Section 1967 - Law enforcement authority"
 usc_title: 2
 usc_section: "1967"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 1967"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-03-30T03:04:04.441Z"
+status: "active"
 ---
 
 # § 1967. Law enforcement authority
@@ -14,12 +15,12 @@ generated_at: "2026-03-30T02:53:04.821Z"
   - **(1)** within the District of Columbia, with respect to any crime of violence committed within the United States Capitol Grounds;
   - **(2)** within the District of Columbia, with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties when the crime is committed;
   - **(3)** within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised;
-  - **(4)** within the area described under subsection (b)(1); and
-  - **(5)** within the area described under subsection (b)(2)—
+  - **(4)** within the area described under subsection (b)(1) of this section; and
+  - **(5)** within the area described under subsection (b)(2) of this section—
     - **(A)** with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties, as defined under such regulations, when the crime is committed; and
     - **(B)** to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties, as defined under such regulations, when the authority is exercised.
 - **(b)**
-  - **(1)** The area referred to in subsection (a)(4) is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
-  - **(2)** The area referred to under subsection (a)(5) is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
-- **(c)** This section does not affect the authority of the Metropolitan Police force of the District of Columbia with respect to the area described in subsection (b).
+  - **(1)** The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
+  - **(2)** The area referred to under subsection (a)(5) of this section is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
+- **(c)** This section does not affect the authority of the Metropolitan Police force of the District of Columbia with respect to the area described in subsection (b) of this section.
 - **(d)** As used in this section, the term “crime of violence” has the meaning given that term in section 16 of title 18 .

@@ -3,9 +3,10 @@ title: "Section 4705 - Protection of contractor employees from reprisal for disc
 usc_title: 41
 usc_section: "4705"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 4705"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-03-30T03:06:01.221Z"
+status: "active"
 ---
 
 # § 4705. Protection of contractor employees from reprisal for disclosure of certain information
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:55:55.808Z"
 - **(a)** In this section:
   - **(1)** The term “contract” means a contract awarded by the head of an executive agency.
   - **(2)** The term “contractor” means a person awarded a contract with an executive agency.
-  - **(3)** The term “Inspector General” means an Inspector General appointed under chapter 4 of title 5.
+  - **(3)** The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(b)** An employee of a contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a Member of Congress or an authorized official of an executive agency or the Department of Justice information relating to a substantial violation of law related to a contract (including the competition for, or negotiation of, a contract).
 - **(c)** An individual who believes that the individual has been subjected to a reprisal prohibited by subsection (b) may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, on completion of the investigation, submit a report of the findings of the investigation to the individual, the contractor concerned, and the head of the agency. If the executive agency does not have an Inspector General, the duties of the Inspector General under this section shall be performed by an official designated by the head of the executive agency.
 - **(d)**
@@ -26,4 +27,4 @@ generated_at: "2026-03-30T02:55:55.808Z"
 - **(e)** This section does not—
   - **(1)** authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (b); or
   - **(2)** modify or derogate from a right or remedy otherwise available to the employee.
-- **(f)** While section 4712 1 1 See References in Text note below. of this title is in effect, this section shall not be in effect.
+- **(f)** While section 4712 of this title is in effect, this section shall not be in effect.

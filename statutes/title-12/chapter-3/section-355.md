@@ -3,9 +3,10 @@ title: "Section 355 - Purchase and sale of obligations of National, State, and m
 usc_title: 12
 usc_section: "355"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 355"
-generated_at: "2026-03-30T02:53:53.380Z"
+generated_at: "2026-03-30T03:04:29.198Z"
+status: "active"
 ---
 
 # § 355. Purchase and sale of obligations of National, State, and municipal governments; open market operations; purchases and sales from or to United States; maximum aggregate amount of obligations acquired directly from or loaned directly to United States

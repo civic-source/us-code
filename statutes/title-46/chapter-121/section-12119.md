@@ -3,9 +3,10 @@ title: "Section 12119 - Owners engaged primarily in leasing or financing transac
 usc_title: 46
 usc_section: "12119"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 12119"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-03-30T03:06:27.179Z"
+status: "active"
 ---
 
 # § 12119. Owners engaged primarily in leasing or financing transactions
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:15.558Z"
       - **(i)** directly or indirectly controlled by, under common control with, or controlling that person; or
       - **(ii)** named as being part of the same consolidated group in any report or other document submitted to the United States Securities and Exchange Commission or the Internal Revenue Service.
   - **(2)** The term “cargo” does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of subsection (c)(3).
-  - **(3)** The term “oil” has the meaning given that term in section 2101(28) of this title .
+  - **(3)** The term “oil” has the meaning given that term in section 2101(20) of this title .
   - **(4)** The term “passive investment” means an investment in which neither the investor nor any affiliate of the investor is involved in, or has the power to be involved in, the formulation, determination, or direction of any activity or function concerning the management, use, or operation of the asset that is the subject of the investment.
   - **(5)** The term “qualified proprietary cargo” means—
     - **(A)** oil, petroleum products, petrochemicals, or liquefied natural gas cargo that is beneficially owned by the person that submits to the Secretary an application or annual certification under subsection (c)(3), or by an affiliate of that person, immediately before, during, or immediately after the cargo is carried in coastwise trade on a vessel owned by that person;

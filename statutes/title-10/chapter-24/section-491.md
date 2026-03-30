@@ -3,9 +3,10 @@ title: "Section 491 - Nuclear weapons employment strategy of the United States: 
 usc_title: 10
 usc_section: "491"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 491"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-03-30T03:04:17.222Z"
+status: "active"
 ---
 
 # § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy
@@ -16,7 +17,10 @@ generated_at: "2026-03-30T02:53:38.062Z"
   - **(3)** The implication of such changes on the flexibility and resilience of the strategic forces of the United States and the ability of such forces to support the goals of the United States with respect to nuclear deterrence, extended deterrence, assurance, and defense.
   - **(4)** The extent to which such modifications include an increased reliance on conventional or non-nuclear global strike capabilities or missile defenses of the United States.
 - **(b)** Not later than March 15 of each year, the Secretary of Defense shall provide to the congressional defense committees a briefing regarding the nuclear weapons employment strategy, plans, and options of the United States.
-- **(c)** During each of fiscal years 2022 through 2031, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to a Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
-  - **(1)** ensure that the report required by section 492a of this title is transmitted to Congress, if so required under such section;
+- **(c)**
+  - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+  - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
+- **(d)** During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
+  - **(1)** ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 ( Public Law 112–81 ; 125 Stat. 1576 ) is transmitted to Congress, if so required;
   - **(2)** ensure that the report required under section 494(a)(2)(A) of this title is transmitted to Congress, if so required under such section; and
-  - **(3)** transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) )) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
+  - **(3)** transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) )) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.

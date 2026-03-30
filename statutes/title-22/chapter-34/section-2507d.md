@@ -3,17 +3,18 @@ title: "Section 2507d - Establishment of Sexual Assault Advisory Council"
 usc_title: 22
 usc_section: "2507d"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2507d"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-03-30T03:04:53.644Z"
+status: "active"
 ---
 
 # § 2507d. Establishment of Sexual Assault Advisory Council
 
 - **(a)** There is established a Sexual Assault Advisory Council (in this section referred to as the “Council”).
-- **(b)** The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the President who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
-- **(c)** The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under section 2507a of this title , the sexual assault policy developed and implemented under section 2507b of this title , and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field. To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under section 2507e of this title , to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.
+- **(b)** The Council shall be composed of not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011 , who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+- **(c)** The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under section 2507a of this title , the sexual assault policy developed under section 2507b of this title , and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field.
 - **(d)** On an annual basis for 5 years after November 21, 2011 , and at the discretion of the Council thereafter, the Council shall submit to the President and the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c).
 - **(e)** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5 .
-- **(f)** Chapter 10 of title 5 shall not apply to the Council.
-- **(g)** This section shall cease to be effective on October 1, 2023 .
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+- **(g)** This section shall cease to be effective on October 1, 2018 .

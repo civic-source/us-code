@@ -3,9 +3,10 @@ title: "Section 3404 - Permissive terms and conditions of orders"
 usc_title: 7
 usc_section: "3404"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3404"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-03-30T03:04:20.982Z"
+status: "active"
 ---
 
 # § 3404. Permissive terms and conditions of orders

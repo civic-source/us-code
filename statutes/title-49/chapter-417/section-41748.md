@@ -1,12 +1,20 @@
 ---
-title: "Section 41748 - Repealed. Pub. L. 118–63, title V, § 561 ( l ), May 16, 2024 , 138 Stat. 1217 ]"
+title: "Section 41748 - Marketing program"
 usc_title: 49
 usc_section: "41748"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 41748"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-03-30T03:06:29.321Z"
+status: "active"
 ---
 
-# [§ 41748. Repealed. Pub. L. 118–63, title V, § 561 ( l ), May 16, 2024 , 138 Stat. 1217 ]
+# § 41748. Marketing program
 
+- **(a)** The Secretary of Transportation shall establish a marketing incentive program for eligible places that receive subsidized service by an air carrier under section 41733. Under the program, the sponsor of the airport serving such an eligible place may receive a grant of not more than $50,000 in a fiscal year to develop and implement a marketing plan to increase passenger boardings and the level of passenger usage of its airport facilities.
+- **(b)**
+  - **(1)** Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come from non-Federal sources. For purposes of this section—
+    - **(A)** the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
+    - **(B)** matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal income tax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
+  - **(2)** Except as provided in paragraph (3), if, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 25 percent or more, then only 10 percent of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
+  - **(3)** If, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 50 percent or more, then no portion of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.

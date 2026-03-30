@@ -1,12 +1,15 @@
 ---
-title: "Section 61b - Transferred"
+title: "Section 61b - Compensation of Parliamentarian of Senate"
 usc_title: 2
 usc_section: "61b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 61b"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-03-30T03:04:04.396Z"
+status: "active"
 ---
 
-# § 61b. Transferred
+# § 61b. Compensation of Parliamentarian of Senate
+
+The Parliamentarian of the Senate may be paid at a maximum annual rate of compensation not to exceed $39,000.
 

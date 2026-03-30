@@ -3,16 +3,17 @@ title: "Section 136h - Protection of trade secrets and other information"
 usc_title: 7
 usc_section: "136h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 136h"
-generated_at: "2026-03-30T02:53:42.261Z"
+generated_at: "2026-03-30T03:04:20.880Z"
+status: "active"
 ---
 
 # § 136h. Protection of trade secrets and other information
 
 - **(a)** In submitting data required by this subchapter, the applicant may (1) clearly mark any portions thereof which in the applicant’s opinion are trade secrets or commercial or financial information and (2) submit such market material separately from other material required to be submitted under this subchapter.
 - **(b)** Notwithstanding any other provision of this subchapter and subject to the limitations in subsections (d) and (e) of this section, the Administrator shall not make public information which in the Administrator’s judgment contains or relates to trade secrets or commercial or financial information obtained from a person and privileged or confidential, except that, when necessary to carry out the provisions of this subchapter, information relating to formulas of products acquired by authorization of this subchapter may be revealed to any Federal agency consulted and may be revealed at a public hearing or in findings of fact issued by the Administrator.
-- **(c)** If the Administrator proposes to release for inspection information which the applicant or registrant believes to be protected from disclosure under subsection (b), the Administrator shall notify the applicant or registrant, in writing, by certified mail. The Administrator shall not thereafter make available for inspection such data until thirty days after receipt of the notice by the applicant or registrant. During this period, the applicant or registrant may institute an action in an appropriate district court for a declaratory judgment as to whether such information is subject to protection under subsection (b).
+- **(c)** If the Administrator proposes to release for inspection information which the applicant or registrant believes to be protected from disclosure under subsection (b) of this section, the Administrator shall notify the applicant or registrant, in writing, by certified mail. The Administrator shall not thereafter make available for inspection such data until thirty days after receipt of the notice by the applicant or registrant. During this period, the applicant or registrant may institute an action in an appropriate district court for a declaratory judgment as to whether such information is subject to protection under subsection (b) of this section.
 - **(d)**
   - **(1)** All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persist­ence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title . This paragraph does not authorize the disclosure of any information that—
     - **(A)** discloses manufacturing or quality control processes,

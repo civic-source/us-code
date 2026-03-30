@@ -3,9 +3,10 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-03-30T03:05:18.656Z"
+status: "active"
 ---
 
 # § 1374. Tax imposed on certain built-in gains
@@ -16,7 +17,10 @@ generated_at: "2026-03-30T02:55:27.771Z"
   - **(2)** Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
-    - **(B)** Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.
+    - **(B)** Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
+  - **(4)** For purposes of section 1201(a)—
+    - **(A)** the tax imposed by subsection (a) shall be treated as if it were imposed by section 11, and
+    - **(B)** the amount of the net recognized built-in gain shall be treated as the taxable income.
 - **(c)**
   - **(1)** Subsection (a) shall not apply to any corporation if an election under section 1362(a) has been in effect with respect to such corporation for each of its taxable years. Except as provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of the preceding sentence.
   - **(2)** The amount of the net recognized built-in gain taken into account under this section for any taxable year shall not exceed the excess (if any) of—
@@ -30,7 +34,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
     - **(A)** The term “net recognized built-in gain” means, with respect to any taxable year in the recognition period, the lesser of—
       - **(i)** the amount which would be the taxable income of the S corporation for such taxable year if only recognized built-in gains and recognized built-in losses were taken into account, or
       - **(ii)** such corporation’s taxable income for such taxable year (determined as provided in section 1375(b)(1)(B)).
-    - **(B)** If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year.
+    - **(B)** If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988 .
   - **(3)** The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent that the S corporation establishes that—
     - **(A)** such asset was not held by the S corporation as of the beginning of the 1st taxable year for which it was an S corporation, or
     - **(B)** such gain exceeds the excess (if any) of—
@@ -49,8 +53,15 @@ generated_at: "2026-03-30T02:55:27.771Z"
     - **(A)** such asset shall be treated as held by the S corporation as of the beginning of such 1st taxable year, and
     - **(B)** any determination under paragraph (3)(B) or (4)(B) with respect to such asset shall be made by reference to the fair market value and adjusted basis of such other asset as of the beginning of such 1st taxable year.
   - **(7)**
-    - **(A)** The term “recognition period” means the 5-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation. For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e), the preceding sentence shall be applied without regard to the phrase “5-year”.
-    - **(B)** If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
+    - **(A)** The term “recognition period” means the 10-year period beginning with the 1st day of the 1st taxable year for which the corporation was an S corporation.
+    - **(B)** No tax shall be imposed on the net recognized built-in gain of an S corporation—
+      - **(i)** in the case of any taxable year beginning in 2009 or 2010, if the 7th taxable year in the recognition period preceded such taxable year, or
+      - **(ii)** in the case of any taxable year beginning in 2011, if the 5th year in the recognition period preceded such taxable year.
+    - **(C)** For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
+    - **(D)** For purposes of applying this section to any amount includible in income by reason of distributions to shareholders pursuant to section 593(e)—
+      - **(i)** subparagraph (A) shall be applied without regard to the phrase “10-year”, and
+      - **(ii)** subparagraph (B) shall not apply.
+    - **(E)** If an S corporation sells an asset and reports the income from the sale using the installment method under section 453, the treatment of all payments received shall be governed by the provisions of this paragraph applicable to the taxable year in which such sale was made.
   - **(8)**
     - **(A)** Except to the extent provided in regulations, if—
       - **(i)** an S corporation acquires any asset, and

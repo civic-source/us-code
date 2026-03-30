@@ -3,9 +3,10 @@ title: "Section 1426 - Capital structure of Federal home loan banks"
 usc_title: 12
 usc_section: "1426"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1426"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-03-30T03:04:29.209Z"
+status: "active"
 ---
 
 # § 1426. Capital structure of Federal home loan banks
@@ -36,12 +37,12 @@ generated_at: "2026-03-30T02:53:53.390Z"
       - **(ii)** the amounts paid for the Class A stock;
       - **(iii)** consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
       - **(iv)** any other amounts from sources available to absorb losses incurred by the bank that the Director determines by regulation to be appropriate to include in determining total capital.
-  - **(6)** Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999 , shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) has been approved by the Director and implemented by such bank.
+  - **(6)** Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999 , shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) of this section has been approved by the Director and implemented by such bank.
 - **(b)**
-  - **(1)** Not later than 270 days after the date of publication by the Director of final regulations in accordance with subsection (a), the board of directors of each Federal home loan bank shall submit for approval by the Director a plan establishing and implementing a capital structure for such bank that—
+  - **(1)** Not later than 270 days after the date of publication by the Director of final regulations in accordance with subsection (a) of this section, the board of directors of each Federal home loan bank shall submit for approval by the Director a plan establishing and implementing a capital structure for such bank that—
     - **(A)** the board of directors determines is best suited for the condition and operation of the bank and the interests of the members of the bank;
-    - **(B)** meets the requirements of subsection (c); and
-    - **(C)** meets the minimum capital standards and requirements established under subsection (a) and other regulations prescribed by the Director.
+    - **(B)** meets the requirements of subsection (c) of this section; and
+    - **(C)** meets the minimum capital standards and requirements established under subsection (a) of this section and other regulations prescribed by the Director.
   - **(2)** The board of directors of a Federal home loan bank shall submit to the Director for approval any modifications that the bank proposes to make to an approved capital structure plan.
 - **(c)** The capital structure plan of each Federal home loan bank shall contain provisions addressing each of the following:
   - **(1)**
@@ -51,10 +52,10 @@ generated_at: "2026-03-30T02:53:53.390Z"
       - **(ii)** A requirement is referred to in this clause if it is a requirement for—
         - **(I)** a stock purchase based on a percentage of the total assets of a member; or
         - **(II)** a stock purchase based on a percentage of the outstanding advances from the bank to the member.
-    - **(C)** Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Director under subsection (a).
+    - **(C)** Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Director under subsection (a) of this section.
     - **(D)** The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
   - **(2)**
-    - **(A)** The capital structure plan of each Federal home loan bank shall specify the date on which it shall take effect, and may provide for a transition period of not longer than 3 years to allow the bank to come into compliance with the capital requirements prescribed under subsection (a), and to allow any institution that was a member of the bank on November 12, 1999 , to come into compliance with the minimum investment required pursuant to the plan.
+    - **(A)** The capital structure plan of each Federal home loan bank shall specify the date on which it shall take effect, and may provide for a transition period of not longer than 3 years to allow the bank to come into compliance with the capital requirements prescribed under subsection (a) of this section, and to allow any institution that was a member of the bank on November 12, 1999 , to come into compliance with the minimum investment required pursuant to the plan.
     - **(B)** The capital structure plan of a Federal home loan bank may allow any member referred to in subparagraph (A) that would be required by the terms of the capital structure plan to increase its investment in the stock of the bank to do so in periodic installments during the transition period.
   - **(3)** The capital structure plan of a Federal home loan bank shall provide for the manner of disposition of any stock held by a member of that bank that terminates its membership or that provides notice of its intention to withdraw from membership in that bank.
   - **(4)**
@@ -75,10 +76,10 @@ generated_at: "2026-03-30T02:53:53.390Z"
       - **(i)** the member has failed to comply with a provision of this chapter or any regulation prescribed under this chapter; or
       - **(ii)** the member has been determined to be insolvent, or otherwise subject to the appointment of a conservator, receiver, or other legal custodian, by a Federal or State authority with regulatory and supervisory responsibility for the member.
     - **(B)** An institution, the membership of which is terminated in accordance with subparagraph (A)—
-      - **(i)** shall surrender redeemable stock to the Federal home loan bank, and shall receive in cash the par value of the stock, upon the expiration of the applicable notice period under subsection (a)(4)(A);
-      - **(ii)** shall receive any dividends declared on its redeemable stock, during the applicable notice period under subsection (a)(4)(A); and
+      - **(i)** shall surrender redeemable stock to the Federal home loan bank, and shall receive in cash the par value of the stock, upon the expiration of the applicable notice period under subsection (a)(4)(A) of this section;
+      - **(ii)** shall receive any dividends declared on its redeemable stock, during the applicable notice period under subsection (a)(4)(A) of this section; and
       - **(iii)** shall not be entitled to any other rights or privileges accorded to members after the date of the termination.
-    - **(C)** With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) for each class of redeemable stock shall commence on the earlier of—
+    - **(C)** With respect to an institution, the membership of which is terminated in accordance with subparagraph (A), the applicable notice period under subsection (a)(4) of this section for each class of redeemable stock shall commence on the earlier of—
       - **(i)** the date of such termination; or
       - **(ii)** the date on which the member has provided notice of its intent to redeem such stock.
   - **(3)** Upon the termination of the membership of an institution for any reason, the outstanding indebtedness of the member to the bank shall be liquidated in an orderly manner, as determined by the bank and, upon the extinguishment of all such indebtedness, the bank shall return to the member all collateral pledged to secure the indebtedness.

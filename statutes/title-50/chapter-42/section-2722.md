@@ -1,0 +1,18 @@
+---
+title: "Section 2722 - Stockpile stewardship recruitment and training program"
+usc_title: 50
+usc_section: "2722"
+chapter: 42
+current_through: "PL 113-21"
+classification: "50 U.S.C. § 2722"
+generated_at: "2026-03-30T03:06:37.683Z"
+status: "active"
+---
+
+# § 2722. Stockpile stewardship recruitment and training program
+
+- **(a)**
+  - **(1)** As part of the stockpile stewardship program established pursuant to section 2521 of this title , the Secretary of Energy shall conduct a stockpile stewardship recruitment and training program at the Sandia National Laboratories, the Lawrence Livermore National Laboratory, and the Los Alamos National Laboratory.
+  - **(2)** The recruitment and training program shall be conducted in coordination with the Chairman of the Joint Nuclear Weapons Council established by section 179 of title 10 and the directors of the laboratories referred to in paragraph (1).
+- **(b)** As part of the recruitment and training program, the directors of the laboratories referred to in subsection (a)(1) may employ undergraduate students, graduate students, and postdoctoral fellows to carry out research sponsored by such laboratories for military or nonmilitary dual-use programs related to nuclear weapons stockpile stewardship.
+- **(c)** As part of the training and recruitment program, the Secretary, in coordination with the directors of the laboratories referred to in subsection (a)(1), shall establish for the laboratories a retiree corps of retired scientists who have expertise in research and development of nuclear weapons. The directors may employ the retired scientists on a part-time basis to provide appropriate assistance on nuclear weapons issues, to contribute relevant information to be archived, and to help to provide training to other scientists.

@@ -3,15 +3,16 @@ title: "Section 6157 - Payment of Federal unemployment tax on quarterly or other
 usc_title: 26
 usc_section: "6157"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6157"
-generated_at: "2026-03-30T02:55:27.843Z"
+generated_at: "2026-03-30T03:05:18.719Z"
+status: "active"
 ---
 
 # § 6157. Payment of Federal unemployment tax on quarterly or other time period basis
 
 - **(a)** Every person who for the calendar year is an employer (as defined in section 3306(a)) shall—
-  - **(1)** if the person is such an employer for the preceding calendar year (determined by only taking into account wages paid and employment during such preceding calendar year), compute the tax imposed by section 3301 for each of the first 3 calendar quarters in the calendar year on wages paid for services with respect to which the person is such an employer for such preceding calendar year (as so determined), and
+  - **(1)** if the person is such an employer for the preceding calendar year (determined by only taking into account wages paid and employment during such preceding calendar year), compute the tax imposed by section 3301 for each of the first 3 calendar quarters in the calendar year on wages paid for services which respect to which the person is such an employer for such preceding calendar year (as so determined), and
   - **(2)** if the person is not such an employer for the preceding calendar year with respect to any services (as so determined), compute the tax imposed by section 3301 on wages paid for services with respect to which the person is not such an employer for the preceding calendar year (as so determined)—
     - **(A)** for the period beginning with the first day of the calendar year and ending with the last day of the calendar quarter (excluding the last calendar quarter) in which such person becomes such an employer with respect to such services, and
     - **(B)** for the third calendar quarter of such year, if the period specified in subparagraph (A) includes only the first two calendar quarters of the calendar year.

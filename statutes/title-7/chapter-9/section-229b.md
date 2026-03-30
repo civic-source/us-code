@@ -3,9 +3,10 @@ title: "Section 229b - Right to discuss terms of contract"
 usc_title: 7
 usc_section: "229b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 229b"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-03-30T03:04:20.893Z"
+status: "active"
 ---
 
 # § 229b. Right to discuss terms of contract
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
   - **(5)** an executive or manager of the party;
   - **(6)** a landlord of the party; or
   - **(7)** a member of the immediate family of the party.
-- **(c)** Subsection (b) does not—
-  - **(1)** preempt any State law that addresses confidentiality provisions in contracts for the sale or production of livestock or poultry, except any provision of State law that makes lawful a contract provision that prohibits a party from, or limits a party in, engaging in discussion that subsection (b) requires to be permitted; or
+- **(c)** Subsection (b) of this section does not—
+  - **(1)** preempt any State law that addresses confidentiality provisions in contracts for the sale or production of livestock or poultry, except any provision of State law that makes lawful a contract provision that prohibits a party from, or limits a party in, engaging in discussion that subsection (b) of this section requires to be permitted; or
   - **(2)** deprive any State court of jurisdiction under any such State law.
-- **(d)** This section applies to each contract described in subsection (b) that is entered into, amended, renewed, or extended after May 13, 2002 .
+- **(d)** This section applies to each contract described in subsection (b) of this section that is entered into, amended, renewed, or extended after May 13, 2002 .

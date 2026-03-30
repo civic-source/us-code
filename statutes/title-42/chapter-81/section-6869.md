@@ -3,9 +3,10 @@ title: "Section 6869 - Judicial review of final action by Secretary on applicati
 usc_title: 42
 usc_section: "6869"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6869"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-03-30T03:06:22.771Z"
+status: "active"
 ---
 
 # § 6869. Judicial review of final action by Secretary on application

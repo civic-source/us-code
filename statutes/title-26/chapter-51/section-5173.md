@@ -3,16 +3,17 @@ title: "Section 5173 - Bonds"
 usc_title: 26
 usc_section: "5173"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5173"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-03-30T03:05:18.700Z"
+status: "active"
 ---
 
 # § 5173. Bonds
 
 - **(a)**
-  - **(1)** Except as provided under section 5551(d), no person intending to establish a distilled spirits plant may commence operations at such plant unless such person has furnished bond covering operations at such plant.
-  - **(2)** Except as provided under section 5551(d), no distilled spirits (other than distilled spirits withdrawn under section 5214 or 7510) may be withdrawn from bonded premises except on payment of tax unless the proprietor of the bonded premises has furnished bond covering such withdrawal.
+  - **(1)** No person intending to establish a distilled spirits plant may commence operations at such plant unless such person has furnished bond covering operations at such plant.
+  - **(2)** No distilled spirits (other than distilled spirits withdrawn under section 5214 or 7510) may be withdrawn from bonded premises except on payment of tax unless the proprietor of the bonded premises has furnished bond covering such withdrawal.
 - **(b)** The bond required by paragraph (1) of subsection (a) shall meet the requirements of paragraph (1), (2), or (3) of this subsection:
   - **(1)** The bond covers operations at a single distilled spirits plant.
   - **(2)** The bond covers operations at a distilled spirits plant and at an adjacent bonded wine cellar.

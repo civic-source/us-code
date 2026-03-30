@@ -3,9 +3,10 @@ title: "Section 4086 - Temporary safe-keeping of federal offenders by marshals"
 usc_title: 18
 usc_section: "4086"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 4086"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-03-30T03:04:41.131Z"
+status: "active"
 ---
 
 # § 4086. Temporary safe-keeping of federal offenders by marshals

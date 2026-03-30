@@ -3,9 +3,10 @@ title: "Section 5404 - Good Neighbor Environmental Board"
 usc_title: 7
 usc_section: "5404"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5404"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-03-30T03:04:20.991Z"
+status: "active"
 ---
 
 # § 5404. Good Neighbor Environmental Board
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(3)** representatives from private organizations, including community development, academic, health, environmental, and other nongovernmental entities with experience and expertise on environmental and infrastructure problems along the southwest border.
 - **(d)**
   - **(1)** The Board shall submit to the President and the Congress of the United States an annual report on—
-    - **(A)** the environmental and infrastructure projects referred to in subsection (a) that have been implemented, and
+    - **(A)** the environmental and infrastructure projects referred to in subsection (a) of this section that have been implemented, and
     - **(B)** the need for the implementation of additional environmental and infrastructure projects.
   - **(2)** The Board shall—
     - **(A)** transmit to each member of the Board a copy of any report to be submitted pursuant to paragraph (1) at least 14 days before its submission, and

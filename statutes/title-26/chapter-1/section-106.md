@@ -3,9 +3,10 @@ title: "Section 106 - Contributions by employer to accident and health plans"
 usc_title: 26
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 106"
-generated_at: "2026-03-30T02:55:27.622Z"
+generated_at: "2026-03-30T03:05:18.540Z"
+status: "active"
 ---
 
 # § 106. Contributions by employer to accident and health plans
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:27.622Z"
   - **(6)** For purposes of this subsection, the terms “eligible individual” and “Archer MSA” have the respective meanings given to such terms by section 220.
   - **(7)** For penalty on failure by employer to make comparable contributions to the Archer MSAs of comparable employees, see section 4980E.
 - **(c)**
-  - **(1)** Gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
+  - **(1)** Effective on and after January 1, 1997 , gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
   - **(2)** For purposes of this subsection, a flexible spending arrangement is a benefit program which provides employees with coverage under which—
     - **(A)** specified incurred expenses may be reimbursed (subject to reimbursement maximums and other reasonable conditions), and
     - **(B)** the maximum amount of reimbursement which is reasonably available to a participant for such coverage is less than 500 percent of the value of such coverage.
@@ -47,5 +48,4 @@ generated_at: "2026-03-30T02:55:27.622Z"
     - **(B)**
       - **(i)** Except as provided in clause (ii), section 4980G shall not apply to qualified HSA distributions.
       - **(ii)** In the case of a qualified HSA distribution to any employee, the failure to offer such distribution to any eligible individual covered under a high deductible health plan of the employer shall (notwithstanding section 4980G(d)) be treated for purposes of section 4980G as a failure to meet the requirements of section 4980G(b).
-- **(f)** For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
-- **(g)** For purposes of this section and section 105, payments or reimbursements from a qualified small employer health reimbursement arrangement (as defined in section 9831(d)) of an individual for medical care (as defined in section 213(d)) shall not be treated as paid or reimbursed under employer-provided coverage for medical expenses under an accident or health plan if for the month in which such medical care is provided the individual does not have minimum essential coverage (within the meaning of section 5000A(f)).
+- **(f)** For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.

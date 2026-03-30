@@ -3,9 +3,10 @@ title: "Section 352 - Exemptions"
 usc_title: 47
 usc_section: "352"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 352"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-03-30T03:06:26.192Z"
+status: "active"
 ---
 
 # § 352. Exemptions
@@ -24,5 +25,5 @@ generated_at: "2026-03-30T02:56:24.512Z"
   - **(2)** Cargo ships which in the course of their voyage do not go more than one hundred and fifty nautical miles from the nearest land;
   - **(3)** Passenger vessels of less than one hundred gross tons not subject to the radio provisions of the Safety Convention;
   - **(4)** Sailing ships.
-- **(c)** If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) shall not apply: Provided , That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) to permit the ship to proceed to a port where the equipment deficiency may be remedied.
+- **(c)** If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) of this section shall not apply: Provided , That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) of this section to permit the ship to proceed to a port where the equipment deficiency may be remedied.
 - **(d)** Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship which falls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.

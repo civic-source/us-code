@@ -3,9 +3,10 @@ title: "Section 3542 - Public notice and comment regarding demonstration program
 usc_title: 42
 usc_section: "3542"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3542"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-03-30T03:06:22.690Z"
+status: "active"
 ---
 
 # § 3542. Public notice and comment regarding demonstration programs not expressly authorized in law

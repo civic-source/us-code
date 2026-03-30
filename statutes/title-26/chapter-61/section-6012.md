@@ -3,9 +3,10 @@ title: "Section 6012 - Persons required to make returns of income"
 usc_title: 26
 usc_section: "6012"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6012"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-03-30T03:05:18.707Z"
+status: "active"
 ---
 
 # § 6012. Persons required to make returns of income
@@ -30,9 +31,9 @@ generated_at: "2026-03-30T02:55:27.828Z"
   - **(3)** Every estate the gross income of which for the taxable year is $600 or more;
   - **(4)** Every trust having for the taxable year any taxable income, or having gross income of $600 or over, regardless of the amount of taxable income;
   - **(5)** Every estate or trust of which any beneficiary is a nonresident alien;
-  - **(6)** Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year;
-  - **(7)** Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year; and
-  - **(8)** Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(C);
+  - **(6)** Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year; and 1 1 So in original.
+  - **(7)** Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year. 1
+  - **(8)** Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D). 1 , 2 2 See References in Text note below.
 - **(b)**
   - **(1)** If an individual is deceased, the return of such individual required under subsection (a) shall be made by his executor, administrator, or other person charged with the property of such decedent.
   - **(2)** If an individual is unable to make a return required under subsection (a), the return of such individual shall be made by a duly authorized agent, his committee, guardian, fiduciary or other person charged with the care of the person or property of such individual. The preceding sentence shall not apply in the case of a receiver appointed by authority of law in possession of only a part of the property of an individual.
@@ -43,10 +44,3 @@ generated_at: "2026-03-30T02:55:27.828Z"
 - **(c)** For purposes of this section, gross income shall be computed without regard to the exclusion provided for in section 121 (relating to gain from sale of principal residence) and without regard to the exclusion provided for in section 911 (relating to citizens or residents of the United States living abroad).
 - **(d)** Every person required to file a return under this section for the taxable year shall include on such return the amount of interest received or accrued during the taxable year which is exempt from the tax imposed by chapter 1.
 - **(e)** For provisions relating to consolidated returns by affiliated corporations, see chapter 6.
-- **(f)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 , subsection (a)(1) shall not apply, and every individual who has gross income for the taxable year shall be required to make returns with respect to income taxes under subtitle A, except that a return shall not be required of—
-  - **(1)** an individual who is not married (determined by applying section 7703) and who has gross income for the taxable year which does not exceed the standard deduction applicable to such individual for such taxable year under section 63, or
-  - **(2)** an individual entitled to make a joint return if—
-    - **(A)** the gross income of such individual, when combined with the gross income of such individual’s spouse, for the taxable year does not exceed the standard deduction which would be applicable to the taxpayer for such taxable year under section 63 if such individual and such individual’s spouse made a joint return,
-    - **(B)** such individual and such individual’s spouse have the same household as their home at the close of the taxable year,
-    - **(C)** such individual’s spouse does not make a separate return, and
-    - **(D)** neither such individual nor such individual’s spouse is an individual described in section 63(c)(5) who has income (other than earned income) in excess of the amount in effect under section 63(c)(5)(A).

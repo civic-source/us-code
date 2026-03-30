@@ -3,9 +3,10 @@ title: "Section 433 - Report of employers"
 usc_title: 29
 usc_section: "433"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 433"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-03-30T03:05:09.675Z"
+status: "active"
 ---
 
 # § 433. Report of employers
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(1)** to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing; or
   - **(2)** to supply an employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding;
 - **(c)** Nothing in this section shall be construed to require any employer or other person to file a report covering the services of such person by reason of his giving or agreeing to give advice to such employer or representing or agreeing to represent such employer before any court, administrative agency, or tribunal of arbitration or engaging or agreeing to engage in collective bargaining on behalf of such employer with respect to wages, hours, or other terms or conditions of employment or the negotiation of an agreement or any question arising thereunder.
-- **(d)** Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) unless he was a party to an agreement or arrangement of the kind described therein.
+- **(d)** Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
 - **(e)** Nothing contained in this section shall be construed to require any regular officer, supervisor, or employee of an employer to file a report in connection with services rendered to such employer nor shall any employer be required to file a report covering expenditures made to any regular officer, supervisor, or employee of an employer as compensation for service as a regular officer, supervisor, or employee of such employer.
 - **(f)** Nothing contained in this section shall be construed as an amendment to, or modification of the rights protected by, section 158(c) of this title .
 - **(g)** The term “interfere with, restrain, or coerce” as used in this section means interference, restraint, and coercion which, if done with respect to the exercise of rights guaranteed in section 157 of this title , would, under section 158(a) of this title , constitute an unfair labor practice.

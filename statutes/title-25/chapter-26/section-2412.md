@@ -3,17 +3,18 @@ title: "Section 2412 - Tribal Action Plans"
 usc_title: 25
 usc_section: "2412"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2412"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-03-30T03:05:02.898Z"
+status: "active"
 ---
 
 # § 2412. Tribal Action Plans
 
 - **(a)** The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a Tribal Action Plan to coordinate available resources and programs, including programs and resources made available by this chapter, in an effort to combat alcohol and substance abuse among its members. Such resolution shall be the basis for the implementation of this chapter and of the Memorandum of Agreement under section 2411 of this title .
-- **(b)** At the request of any Indian tribe pursuant to a resolution adopted under subsection (a), the Bureau of Indian Affairs agency and education superintendents, where appropriate,, 1 1 So in original. the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title , shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a).
+- **(b)** At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,, 1 1 So in original. the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under section 2411 of this title , shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
 - **(c)**
-  - **(1)** Any Tribal Action Plan entered into under subsection (b) shall provide for—
+  - **(1)** Any Tribal Action Plan entered into under subsection (b) of this section shall provide for—
     - **(A)** the establishment of a Tribal Coordinating Committee which shall—
       - **(i)** at a minimum, have as members a tribal representative who shall serve as Chairman and the Bureau of Indian Affairs agency and education superintendents, where appropriate,, 1 the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director, or their representatives,
       - **(ii)** have primary responsibility for the implementation of the Tribal Action Plan,
@@ -31,11 +32,11 @@ generated_at: "2026-03-30T02:54:52.840Z"
     - **(F)** an evaluation component to measure the success of efforts made.
   - **(3)** All Tribal Action Plans shall be updated every 2 years.
 - **(d)**
-  - **(1)** The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
+  - **(1)** The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
   - **(2)** There are authorized to be appropriated for grants under this subsection not more than $2,000,000 for the period of fiscal years 2011 through 2015.
-- **(e)** If any Indian tribe does not adopt a resolution as provided in subsection (a) within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title , the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a).
+- **(e)** If any Indian tribe does not adopt a resolution as provided in subsection (a) of this section within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title , the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a) of this section.
 - **(f)**
-  - **(1)** The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
+  - **(1)** The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
   - **(2)** Funds provided under this section may be used for, but are not limited to, the development and implementation of tribal programs for—
     - **(A)** youth employment;
     - **(B)** youth recreation;

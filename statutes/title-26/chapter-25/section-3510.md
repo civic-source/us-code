@@ -3,9 +3,10 @@ title: "Section 3510 - Coordination of collection of domestic service employment
 usc_title: 26
 usc_section: "3510"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 3510"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-03-30T03:05:18.681Z"
+status: "active"
 ---
 
 # § 3510. Coordination of collection of domestic service employment taxes with collection of income taxes
@@ -20,6 +21,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
     - **(A)** no credit for wage withholding is allowed under section 31 to such employer for the taxable year of the employer which begins in such calendar year, and
     - **(B)** no addition to tax would (but for this section) be imposed under section 6654 for such taxable year by reason of section 6654(e).
   - **(3)** Under regulations prescribed by the Secretary, appropriate adjustments shall be made in the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).
+  - **(4)** In the case of any taxable year beginning before January 1, 1998 , no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.
 - **(c)** For purposes of this section, the term “domestic service employment taxes” means—
   - **(1)** any taxes imposed by chapter 21 or 23 on remuneration paid for domestic service in a private home of the employer, and
   - **(2)** any amount withheld from such remuneration pursuant to an agreement under section 3402(p).

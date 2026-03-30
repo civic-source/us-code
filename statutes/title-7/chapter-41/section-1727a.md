@@ -3,17 +3,18 @@ title: "Section 1727a - Eligible countries"
 usc_title: 7
 usc_section: "1727a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1727a"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-03-30T03:04:20.937Z"
+status: "active"
 ---
 
 # § 1727a. Eligible countries
 
 - **(a)** A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—
   - **(1)** such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
-  - **(2)** such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b).
-- **(b)** To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
+  - **(2)** such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b) of this section.
+- **(b)** To make a finding under subsection (a)(2) of this section that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
   - **(1)** That the daily per capita calorie consumption of the country is less than 2300 calories.
   - **(2)** That the country cannot meet its food security requirements through domestic production or imports due to a shortage of foreign exchange earnings.
   - **(3)** That the mortality rate of children under 5 years of age in the country is in excess of 100 per 1000 births.

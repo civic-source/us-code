@@ -3,9 +3,10 @@ title: "Section 3284 - Concealment of bankrupt’s assets"
 usc_title: 18
 usc_section: "3284"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 3284"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-03-30T03:04:41.122Z"
+status: "active"
 ---
 
 # § 3284. Concealment of bankrupt’s assets

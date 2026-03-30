@@ -3,16 +3,17 @@ title: "Section 274e - Prohibition of organ purchases"
 usc_title: 42
 usc_section: "274e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 274e"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-03-30T03:06:22.330Z"
+status: "active"
 ---
 
 # § 274e. Prohibition of organ purchases
 
 - **(a)** It shall be unlawful for any person to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation if the transfer affects interstate commerce. The preceding sentence does not apply with respect to human organ paired donation.
-- **(b)** Any person who violates subsection (a) shall be fined not more than $50,000 or imprisoned not more than five years, or both.
-- **(c)** For purposes of subsection (a):
+- **(b)** Any person who violates subsection (a) of this section shall be fined not more than $50,000 or imprisoned not more than five years, or both.
+- **(c)** For purposes of subsection (a) of this section:
   - **(1)** The term “human organ” means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and any other human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
   - **(2)** The term “valuable consideration” does not include the reasonable payments associated with the removal, transportation, implantation, processing, preservation, quality control, and storage of a human organ or the expenses of travel, housing, and lost wages incurred by the donor of a human organ in connection with the donation of the organ.
   - **(3)** The term “interstate commerce” has the meaning prescribed for it by section 321(b) of title 21 .

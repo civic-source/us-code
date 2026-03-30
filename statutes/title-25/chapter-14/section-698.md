@@ -1,12 +1,15 @@
 ---
-title: "Section 698 - Omitted"
+title: "Section 698 - Transfer of federally owned property"
 usc_title: 25
 usc_section: "698"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 698"
-generated_at: "2026-03-30T02:54:52.812Z"
+generated_at: "2026-03-30T03:05:02.851Z"
+status: "active"
 ---
 
-# § 698. Omitted
+# § 698. Transfer of federally owned property
+
+The Secretary is authorized, in his discretion, to transfer to any tribe or any member or group of members thereof any federally owned property acquired, withdrawn, or used for the administration of the affairs of the tribes subject to this subchapter which he deems necessary for Indian use, or to transfer to a public or nonprofit body any such property which he deems necessary for public use and from which members of the tribes will derive benefits.
 

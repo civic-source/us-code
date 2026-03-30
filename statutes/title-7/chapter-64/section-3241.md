@@ -3,9 +3,10 @@ title: "Section 3241 - Education grants programs for Hispanic-serving institutio
 usc_title: 7
 usc_section: "3241"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3241"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-03-30T03:04:20.980Z"
+status: "active"
 ---
 
 # § 3241. Education grants programs for Hispanic-serving institutions
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:53:42.400Z"
   - **(2)** to strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences;
   - **(3)** to attract and support undergraduate and graduate students from underrepresented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
   - **(4)** to facilitate cooperative initiatives between 2 or more Hispanic-serving institutions, or between Hispanic-serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
-- **(c)** There are authorized to be appropriated to make grants under this section $40,000,000 for each of fiscal years 1997 through 2023.
+- **(c)** There are authorized to be appropriated to make grants under this section $40,000,000 for each of fiscal years 1997 through 2012.

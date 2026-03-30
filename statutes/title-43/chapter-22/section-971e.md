@@ -3,9 +3,10 @@ title: "Section 971e - Definition of restored Alaskan lands"
 usc_title: 43
 usc_section: "971e"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 971e"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-03-30T03:06:10.667Z"
+status: "active"
 ---
 
 # § 971e. Definition of restored Alaskan lands

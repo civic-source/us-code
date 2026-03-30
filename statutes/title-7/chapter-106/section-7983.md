@@ -3,9 +3,10 @@ title: "Section 7983 - Study of national dairy policy"
 usc_title: 7
 usc_section: "7983"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 7983"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-03-30T03:04:21.029Z"
+status: "active"
 ---
 
 # § 7983. Study of national dairy policy
@@ -21,4 +22,4 @@ generated_at: "2026-03-30T02:53:42.469Z"
   - **(3)** Over-order premiums and State pricing programs.
   - **(4)** Direct payments to milk producers.
   - **(5)** Federal milk price support program established under section 7981 of this title . 1 1 See References in Text note below.
-  - **(6)** Export programs regarding milk and dairy products, such as the dairy export incentive program established under section 713a–14 of title 15 . 1
+  - **(6)** Export programs regarding milk and dairy products, such as the dairy export incentive program established under section 713a–14 of title 15 .

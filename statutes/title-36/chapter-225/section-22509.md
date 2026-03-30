@@ -3,9 +3,10 @@ title: "Section 22509 - Service of process"
 usc_title: 36
 usc_section: "22509"
 chapter: 225
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 22509"
-generated_at: "2026-03-30T02:55:44.693Z"
+generated_at: "2026-03-30T03:05:43.643Z"
+status: "active"
 ---
 
 # § 22509. Service of process

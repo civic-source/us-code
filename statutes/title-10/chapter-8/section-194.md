@@ -3,9 +3,10 @@ title: "Section 194 - Limitations on personnel"
 usc_title: 10
 usc_section: "194"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 194"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-03-30T03:04:17.217Z"
+status: "active"
 ---
 
 # § 194. Limitations on personnel
@@ -17,4 +18,4 @@ generated_at: "2026-03-30T02:53:38.046Z"
 - **(e)** The limitations in this section do not apply—
   - **(1)** in time of war; or
   - **(2)** during a national emergency declared by the President or Congress.
-- **(f)** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
+- **(f)** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985 .

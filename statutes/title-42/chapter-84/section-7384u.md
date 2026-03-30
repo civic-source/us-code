@@ -3,16 +3,17 @@ title: "Section 7384u - Separate treatment of certain uranium employees"
 usc_title: 42
 usc_section: "7384u"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7384u"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-03-30T03:06:22.792Z"
+status: "active"
 ---
 
 # § 7384u. Separate treatment of certain uranium employees
 
 - **(a)** An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act ( 42 U.S.C. 2210 note) for a claim made under that Act (hereafter in this section referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
 - **(b)** A covered uranium employee shall receive medical benefits under section 7384t of this title for the illness for which that employee received $100,000 under section 5 of that Act.
-- **(c)** The compensation and benefits provided in subsections (a) and (b) are separate from any compensation or benefits provided under that Act.
+- **(c)** The compensation and benefits provided in subsections (a) and (b) of this section are separate from any compensation or benefits provided under that Act.
 - **(d)** The compensation provided under this section and the compensation provided under section 5 of the Radiation Exposure Compensation Act, when authorized or approved by the President, shall be paid from the compensation fund established under section 7384e of this title .
 - **(e)**
   - **(1)** In the case of a covered employee who is deceased at the time of payment of compensation under this section, whether or not the death is the result of the covered employee’s occupational illness, such payment may be made only as follows:

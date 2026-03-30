@@ -3,9 +3,10 @@ title: "Section 465 - Joint Interagency Task Force"
 usc_title: 6
 usc_section: "465"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 465"
-generated_at: "2026-03-30T02:53:09.465Z"
+generated_at: "2026-03-30T03:04:24.349Z"
+status: "active"
 ---
 
 # § 465. Joint Interagency Task Force

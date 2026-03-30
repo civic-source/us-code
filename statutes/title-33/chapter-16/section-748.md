@@ -1,12 +1,15 @@
 ---
-title: "Section 748 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(8), Jan. 1, 2021 , 134 Stat. 4759"
+title: "Section 748 - Teachers for children of lighthouse keepers"
 usc_title: 33
 usc_section: "748"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 748"
-generated_at: "2026-03-30T02:55:41.072Z"
+generated_at: "2026-03-30T03:05:36.261Z"
+status: "active"
 ---
 
-# § 748. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(8), Jan. 1, 2021 , 134 Stat. 4759
+# § 748. Teachers for children of lighthouse keepers
+
+The appropriation, “General expenses, Coast Guard,” shall be available, under regulations prescribed by the Secretary of Transportation, for the payment of traveling and subsistence expenses of teachers while actually employed by States or private persons to instruct the children of keepers of lighthouses.
 

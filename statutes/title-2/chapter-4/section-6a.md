@@ -1,12 +1,15 @@
 ---
-title: "Section 6a - Transferred"
+title: "Section 6a - Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate"
 usc_title: 2
 usc_section: "6a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 6a"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.398Z"
+status: "active"
 ---
 
-# § 68–6a. Transferred
+# § 68–6a. Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate
+
+The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”, such sums as he shall specify to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 

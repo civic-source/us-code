@@ -3,9 +3,10 @@ title: "Section 3035 - Allocation of administration and of program costs"
 usc_title: 38
 usc_section: "3035"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3035"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-03-30T03:05:59.208Z"
+status: "active"
 ---
 
 # § 3035. Allocation of administration and of program costs

@@ -3,9 +3,10 @@ title: "Section 614 - Definition of property"
 usc_title: 26
 usc_section: "614"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 614"
-generated_at: "2026-03-30T02:55:27.721Z"
+generated_at: "2026-03-30T03:05:18.613Z"
+status: "active"
 ---
 
 # § 614. Definition of property
@@ -25,14 +26,19 @@ generated_at: "2026-03-30T02:55:27.721Z"
     - **(B)** Subparagraph (A) shall apply to a voluntary agreement only if all the operating mineral interests covered by such agreement—
       - **(i)** are in the same deposit, or are in 2 or more deposits the joint development or production of which is logical from the standpoint of geology, convenience, economy, or conservation, and
       - **(ii)** are in tracts or parcels of land which are contiguous or in close proximity.
+    - **(C)** If—
+      - **(i)** two or more of the taxpayer’s operating mineral interests participate under a voluntary or compulsory unitization or pooling agreement entered into in any taxable year beginning before January 1, 1964 , in a single cooperative or unit plan of operation,
+      - **(ii)** the taxpayer, for the last taxable year beginning before January 1, 1964 , treated such interests as two or more separate properties, and
+      - **(iii)** it is determined that such treatment was proper under the law applicable to such taxable year,
   - **(4)**
-    - **(A)** Any election provided in paragraph (2) shall be made for each operating mineral interest, in the manner prescribed by the Secretary by regulations, not later than the time prescribed by law for filing the return (including extensions thereof) for the first taxable year in which any expenditure for development or operation in respect of such operating mineral interest is made by the taxpayer after the acquisition of such interest.
+    - **(A)** Any election provided in paragraph (2) shall be made for each operating mineral interest, in the manner prescribed by the Secretary by regulations, not later than the time prescribed by law for filing the return (including extensions thereof) for whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963 , or the first taxable year in which any expenditure for development or operation in respect of such operating mineral interest is made by the taxpayer after the acquisition of such interest.
     - **(B)** Any election under paragraph (2) shall be for all purposes of this subtitle and shall be binding on the taxpayer for all subsequent taxable years.
+  - **(5)** If, on the day preceding the first day of the first taxable year beginning after December 31, 1963 , the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).
 - **(c)**
   - **(1)** Except in the case of oil and gas wells and geothermal deposits, if a taxpayer owns two or more separate operating mineral interests which constitute part or all of an operating unit, he may elect (for all purposes of this subtitle)—
     - **(A)** to form an aggregation of, and to treat as one property, all such interests owned by him which comprise any one mine or any two or more mines; and
     - **(B)** to treat as a separate property each such interest which is not included within an aggregation referred to in subparagraph (A).
-  - **(2)** Except in the case of oil and gas wells and geothermal deposits, if a single tract or parcel of land contains a mineral deposit which is being extracted, or will be extracted, by means of two or more mines for which expenditures for development or operation have been made by the taxpayer, then the taxpayer may elect to allocate to such mines, under regulations prescribed by the Secretary, all of the tract or parcel of land and of the mineral deposit contained therein, and to treat as a separate property that portion of the tract or parcel of land and of the mineral deposit so allocated to each mine. A separate property formed pursuant to an election under this paragraph shall be treated as a separate property for all purposes of this subtitle (including this paragraph). A separate property so formed may, under regulations prescribed by the Secretary, be included as a part of an aggregation in accordance with paragraphs (1) and (3). The election provided by this paragraph may not be made with respect to any property which is a part of an aggregation formed by the taxpayer under paragraph (1) except with the consent of the Secretary.
+  - **(2)** Except in the case of oil and gas wells and geothermal deposits, if a single tract or parcel of land contains a mineral deposit which is being extracted, or will be extracted by means of two or more mines for which expenditures for development or operation have been made by the taxpayer, then the taxpayer may elect to allocate to such mines, under regulations prescribed by the Secretary, all of the tract or parcel of land and of the mineral deposit contained therein, and to treat as a separate property that portion of the tract or parcel of land and of the mineral deposit so allocated to each mine. A separate property formed pursuant to an election under this paragraph shall be treated as a separate property for all purposes of this subtitle (including this paragraph). A separate property so formed may, under regulations prescribed by the Secretary, be included as a part of an aggregation in accordance with paragraphs (1) and (3). The election provided by this paragraph may not be made with respect to any property which is a part of an aggregation formed by the taxpayer under paragraph (1) except with the consent of the Secretary.
   - **(3)** The elections provided by paragraphs (1) and (2) shall be made, in accordance with regulations prescribed by the Secretary, not later than the time prescribed for filing the return (including extensions thereof) for the first taxable year—
     - **(A)** in which, in the case of an election under paragraph (1), any expenditure for development or operation in respect of the separate operating mineral interest is made by the taxpayer after the acquisition of such interest, or
     - **(B)** in which, in the case of an election under paragraph (2), expenditures for development or operation of more than one mine in respect of a property are made by the taxpayer after the acquisition of the property.

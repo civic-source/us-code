@@ -3,15 +3,16 @@ title: "Section 2342 - Cooperative program on research, development, and demonst
 usc_title: 50
 usc_section: "2342"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 2342"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-03-30T03:06:37.675Z"
+status: "active"
 ---
 
 # § 2342. Cooperative program on research, development, and demonstration of technology regarding nuclear or radiological terrorism
 
 - **(a)** The Administrator for Nuclear Security shall carry out with the Russian Federation a cooperative program on the research, development, and demonstration of technologies for protection from and response to nuclear or radiological terrorism.
-- **(b)** In carrying out the program required by subsection (a), the Administrator shall—
+- **(b)** In carrying out the program required by subsection (a) of this section, the Administrator shall—
   - **(1)** conduct research and development of technology for protection from nuclear or radiological terrorism, including technology for the detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
   - **(2)** provide, where feasible, for the demonstration to other countries of technologies or methodologies on matters relating to nuclear or radiological terrorism, including—
     - **(A)** the demonstration of technologies developed under the program to respond to nuclear or radiological terrorism;
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:26.220Z"
     - **(C)** the demonstration of methodologies developed under the program for use in evaluating the radiological threat of radiological sources identified as not under current accounting programs in the audit report of the Inspector General of the Department of Energy titled “Accounting for Sealed Sources of Nuclear Material Provided to Foreign Countries” (DOE/IG–0546);
     - **(D)** in coordination with the Nuclear Regulatory Commission, the demonstration of methodologies developed under the program to facilitate the development of a regulatory framework for licensing and controlling radioactive sources; and
     - **(E)** in coordination with the Office of Environment, Safety, and Health of the Department of Energy, the demonstration of methodologies developed under the program to facilitate development of consistent criteria for screening international transfers of radiological materials.
-- **(c)** In carrying out activities in accordance with subsection (b)(2), the Administrator shall consult with—
+- **(c)** In carrying out activities in accordance with subsection (b)(2) of this section, the Administrator shall consult with—
   - **(1)** the Secretary of Defense, Secretary of State, and Secretary of Commerce; and
   - **(2)** the International Atomic Energy Agency.
 - **(d)** Of the amount authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $15,000,000 may be available for carrying out this section.

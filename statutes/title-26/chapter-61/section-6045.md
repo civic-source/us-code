@@ -3,9 +3,10 @@ title: "Section 6045 - Returns of brokers"
 usc_title: 26
 usc_section: "6045"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6045"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-03-30T03:05:18.711Z"
+status: "active"
 ---
 
 # § 6045. Returns of brokers
@@ -17,9 +18,8 @@ generated_at: "2026-03-30T02:55:27.832Z"
 - **(c)** For purposes of this section—
   - **(1)** The term “broker” includes—
     - **(A)** a dealer,
-    - **(B)** a barter exchange,
-    - **(C)** any person who (for consideration) regularly acts as a middleman with respect to property or services, and
-    - **(D)** any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.
+    - **(B)** a barter exchange, and
+    - **(C)** any other person who (for a consideration) regularly acts as a middleman with respect to property or services.
   - **(2)** The term “customer” means any person for whom the broker has transacted any business.
   - **(3)** The term “barter exchange” means any organization of members providing property or services who jointly contract to trade or barter such property or services.
   - **(4)** The term “person” includes any governmental unit and any agency or instrumentality thereof.
@@ -61,7 +61,6 @@ generated_at: "2026-03-30T02:55:27.832Z"
         - **(I)** in the case of any security (other than any stock for which an average basis method is permissible under section 1012), in accordance with the first-in first-out method unless the customer notifies the broker by means of making an adequate identification of the stock sold or transferred, and
         - **(II)** in the case of any stock for which an average basis method is permissible under section 1012, in accordance with the broker’s default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
       - **(ii)** Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
-      - **(iii)** Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “covered security” means any specified security acquired on or after the applicable date if such security—
       - **(i)** was acquired through a transaction in the account in which such security is held, or
@@ -69,18 +68,14 @@ generated_at: "2026-03-30T02:55:27.832Z"
     - **(B)** The term “specified security” means—
       - **(i)** any share of stock in a corporation,
       - **(ii)** any note, bond, debenture, or other evidence of indebtedness,
-      - **(iii)** any commodity, or contract or derivative with respect to such commodity, if the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection,
-      - **(iv)** any digital asset, and
-      - **(v)** any other financial instrument with respect to which the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection.
+      - **(iii)** any commodity, or contract or derivative with respect to such commodity, if the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection, and
+      - **(iv)** any other financial instrument with respect to which the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection.
     - **(C)** The term “applicable date” means—
       - **(i)** January 1, 2011 , in the case of any specified security which is stock in a corporation (other than any stock described in clause (ii)),
-      - **(ii)** January 1, 2012 , in the case of any stock for which an average basis method is permissible under section 1012,
-      - **(iii)** January 1, 2023 , in the case of any specified security which is a digital asset, and
-      - **(iv)** January 1, 2013 , or such later date determined by the Secretary in the case of any other specified security.
-    - **(D)** Except as otherwise provided by the Secretary, the term “digital asset” means any digital representation of value which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.
+      - **(ii)** January 1, 2012 , in the case of any stock for which an average basis method is permissible under section 1012, and
+      - **(iii)** January 1, 2013 , or such later date determined by the Secretary in the case of any other specified security.
   - **(4)** In the case of the sale of a covered security acquired by an S corporation (other than a financial institution) after December 31, 2011 , such S corporation shall be treated in the same manner as a partnership for purposes of this section.
   - **(5)** In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
-  - **(6)** For purposes of this subsection, stock acquired before January 1, 2012 , in connection with a dividend reinvestment plan shall be treated as stock described in clause (ii) of paragraph (3)(C) (unless the broker with respect to such stock elects not to have this paragraph apply with respect to such stock).
 - **(h)**
   - **(1)** For purposes of this section, if a covered security is acquired or disposed of pursuant to the exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
   - **(2)** In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.

@@ -3,12 +3,13 @@ title: "Section 151 - Issue of patent"
 usc_title: 35
 usc_section: "151"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "35 U.S.C. § 151"
-generated_at: "2026-03-30T02:55:34.237Z"
+generated_at: "2026-03-30T03:05:20.616Z"
+status: "active"
 ---
 
 # § 151. Issue of patent
 
-- **(a)** If it appears that an applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee and any required publication fee, which shall be paid within 3 months thereafter.
-- **(b)** Upon payment of this sum the patent may issue, but if payment is not timely made, the application shall be regarded as abandoned.
+If it appears that applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee or a portion thereof, which shall be paid within three months thereafter. Upon payment of this sum the patent shall issue, but if payment is not timely made, the application shall be regarded as abandoned. Any remaining balance of the issue fee shall be paid within three months from the sending of a notice thereof and, if not paid, the patent shall lapse at the termination of this three-month period. In calculating the amount of a remaining balance, charges for a page or less may be disregarded. If any payment required by this section is not timely made, but is submitted with the fee for delayed payment and the delay in payment is shown to have been unavoidable, it may be accepted by the Director as though no abandonment or lapse had ever occurred.
+

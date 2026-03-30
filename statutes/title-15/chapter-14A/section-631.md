@@ -3,9 +3,10 @@ title: "Section 631 - Declaration of policy"
 usc_title: 15
 usc_section: "631"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 631"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-03-30T03:04:31.121Z"
+status: "active"
 ---
 
 # § 631. Declaration of policy
@@ -64,7 +65,7 @@ generated_at: "2026-03-30T02:54:08.085Z"
     - **(B)** remove, insofar as possible, the discriminatory barriers that are encountered by women in accessing capital and other factors of production; and
     - **(C)** require that the Government engage in a systematic and sustained effort to identify, define and analyze those discriminatory barriers facing women and that such effort directly involve the participation of women business owners in the public/private sector partnership.
 - **(i)** None of the funds made available pursuant to this chapter may be used to provide any direct benefit or assistance to any individual in the United States if the Administrator or the official to which the funds are made available receives notification that the individual is not lawfully within the United States.
-- **(j)** In complying with the statement of congressional policy expressed in subsection (a), relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
+- **(j)** In complying with the statement of congressional policy expressed in subsection (a) of this section, relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
   - **(1)** comply with congressional intent to foster the participation of small business concerns as prime contractors, subcontractors, and suppliers;
   - **(2)** structure its contracting requirements to facilitate competition by and among small business concerns, taking all reasonable steps to eliminate obstacles to their participation; and
   - **(3)** avoid unnecessary and unjustified bundling of contract requirements that precludes small business participation in procurements as prime contractors.

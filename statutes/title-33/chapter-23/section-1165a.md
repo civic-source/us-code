@@ -3,9 +3,10 @@ title: "Section 1165a - Transferred"
 usc_title: 33
 usc_section: "1165a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1165a"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-03-30T03:05:36.268Z"
+status: "transferred"
 ---
 
 # § 1165a. Transferred

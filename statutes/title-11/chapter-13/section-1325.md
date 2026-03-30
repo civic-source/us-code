@@ -3,9 +3,10 @@ title: "Section 1325 - Confirmation of plan"
 usc_title: 11
 usc_section: "1325"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 1325"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-03-30T03:04:35.856Z"
+status: "active"
 ---
 
 # § 1325. Confirmation of plan
@@ -42,13 +43,13 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(3)** Amounts reasonably necessary to be expended under paragraph (2), other than subparagraph (A)(ii) of paragraph (2), shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
     - **(A)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
     - **(B)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 1 See Adjustment of Dollar Amounts notes below. per month for each individual in excess of 4.
+    - **(C)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
   - **(4)** For purposes of this subsection, the “applicable commitment period”—
     - **(A)** subject to subparagraph (B), shall be—
       - **(i)** 3 years; or
       - **(ii)** not less than 5 years, if the current monthly income of the debtor and the debtor’s spouse combined, when multiplied by 12, is not less than—
         - **(I)** in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
         - **(II)** in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
-        - **(III)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4; and
+        - **(III)** in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
     - **(B)** may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 - **(c)** After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.

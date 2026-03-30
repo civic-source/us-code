@@ -3,14 +3,29 @@ title: "Section 68 - Overall limitation on itemized deductions"
 usc_title: 26
 usc_section: "68"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 68"
-generated_at: "2026-03-30T02:55:27.617Z"
+generated_at: "2026-03-30T03:05:18.536Z"
+status: "active"
 ---
 
 # § 68. Overall limitation on itemized deductions
 
-- **(a)** In the case of an individual, the amount of the itemized deductions otherwise allowable for the taxable year (determined without regard to this section) shall be reduced by 2 ⁄ 37 of the lesser of—
-  - **(1)** such amount of itemized deductions, or
-  - **(2)** so much of the taxable income of the taxpayer for the taxable year (determined without regard to this section and increased by such amount of itemized deductions) as exceeds the dollar amount at which the 37 percent rate bracket under section 1 begins with respect to the taxpayer.
-- **(b)** This section shall be applied after the application of any other limitation on the allowance of any itemized deduction.
+- **(a)** In the case of an individual whose adjusted gross income exceeds the applicable amount, the amount of the itemized deductions otherwise allowable for the taxable year shall be reduced by the lesser of—
+  - **(1)** 3 percent of the excess of adjusted gross income over the applicable amount, or
+  - **(2)** 80 percent of the amount of the itemized deductions otherwise allowable for such taxable year.
+- **(b)**
+  - **(1)** For purposes of this section, the term “applicable amount” means—
+    - **(A)** $300,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+    - **(B)** $275,000 in the case of a head of household (as defined in section 2(b)),
+    - **(C)** $250,000 in the case of an individual who is not married and who is not a surviving spouse or head of household, and
+    - **(D)** ½ the amount applicable under subparagraph (A) (after adjustment, if any, under paragraph (2)) in the case of a married individual filing a separate return.
+  - **(2)** In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be shall be 1 1 So in original. increased by an amount equal to—
+    - **(A)** such dollar amount, multiplied by
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, except that section 1(f)(3)(B) shall be applied by substituting “2012” for “1992”.
+- **(c)** For purposes of this section, the term “itemized deductions” does not include—
+  - **(1)** the deduction under section 213 (relating to medical, etc. expenses),
+  - **(2)** any deduction for investment interest (as defined in section 163(d)), and
+  - **(3)** the deduction under section 165(a) for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d).
+- **(d)** This section shall be applied after the application of any other limitation on the allowance of any itemized deduction.
+- **(e)** This section shall not apply to any estate or trust.

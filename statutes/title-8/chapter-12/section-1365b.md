@@ -3,9 +3,10 @@ title: "Section 1365b - Biometric entry and exit data system"
 usc_title: 8
 usc_section: "1365b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1365b"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-03-30T03:04:14.637Z"
+status: "active"
 ---
 
 # § 1365b. Biometric entry and exit data system
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
     - **(D)** a description of plans for improved or added interoperability with any other databases or data systems; and
     - **(E)** a description of the manner in which the Department of Homeland Security’s US-VISIT program—
       - **(i)** meets the goals of a comprehensive entry and exit screening system, including both entry and exit biometric; and
-      - **(ii)** fulfills the statutory obligations under subsection (b).
+      - **(ii)** fulfills the statutory obligations under subsection (b) of this section.
 - **(d)** The entry and exit data system shall include a requirement for the collection of biometric exit data for all categories of individuals who are required to provide biometric entry data, regardless of the port of entry where such categories of individuals entered the United States.
 - **(e)**
   - **(1)** Not later than 2 years after December 17, 2004 , the Secretary shall fully integrate all databases and data systems that process or contain information on aliens, which are maintained by—
@@ -90,7 +91,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
   - **(4)** ensures flexibility of training and security protocols to most effectively comply with security mandates;
   - **(5)** integrates relevant databases and plans for database modifications to address volume increase and database usage; and
   - **(6)** improves database search capacities by utilizing language algorithms to detect alternate names.
-- **(i)** In implementing the provisions of subsections (g) and (h), the Department of Homeland Security and the Department of State shall—
+- **(i)** In implementing the provisions of subsections (g) and (h) of this section, the Department of Homeland Security and the Department of State shall—
   - **(1)** develop cross-training programs that focus on the scope and procedures of the entry and exit data system;
   - **(2)** provide extensive community outreach and education on the entry and exit data system’s procedures;
   - **(3)** provide clear and consistent eligibility guidelines for applicants in low-risk traveler programs; and

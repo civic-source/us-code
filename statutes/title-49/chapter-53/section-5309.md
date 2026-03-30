@@ -3,9 +3,10 @@ title: "Section 5309 - Fixed guideway capital investment grants"
 usc_title: 49
 usc_section: "5309"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 5309"
-generated_at: "2026-03-30T02:56:19.312Z"
+generated_at: "2026-03-30T03:06:29.277Z"
+status: "active"
 ---
 
 # § 5309. Fixed guideway capital investment grants
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:56:19.312Z"
 - **(a)** In this section, the following definitions shall apply:
   - **(1)** The term “applicant” means a State or local governmental authority that applies for a grant under this section.
   - **(2)** The term “core capacity improvement project” means a substantial corridor-based capital investment in an existing fixed guideway system that increases the capacity of a corridor by not less than 10 percent. The term does not include project elements designed to maintain a state of good repair of the existing fixed guideway system.
-  - **(3)** The term “corridor-based bus rapid transit project” means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+  - **(3)** The term “corridor-based bus rapid transit project” means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays and weekend days; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
   - **(4)** The term “fixed guideway bus rapid transit project” means a bus capital project—
     - **(A)** in which the majority of the project operates in a separated right-of-way dedicated for public transportation use during peak periods;
     - **(B)** that represents a substantial investment in a single route in a defined corridor or subarea; and
@@ -25,20 +26,22 @@ generated_at: "2026-03-30T02:56:19.312Z"
   - **(5)** The term “new fixed guideway capital project” means—
     - **(A)** a new fixed guideway project that is a minimum operable segment or extension to an existing fixed guideway system; or
     - **(B)** a fixed guideway bus rapid transit project that is a minimum operable segment or an extension to an existing bus rapid transit system.
-  - **(6)** The term “small start project” means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
-    - **(A)** the Federal assistance provided or to be provided under this section is less than $150,000,000; and
-    - **(B)** the total estimated net capital cost is less than $400,000,000.
+  - **(6)** The term “program of interrelated projects” means the simultaneous development of—
+    - **(A)** 2 or more new fixed guideway capital projects or core capacity improvement projects; or
+    - **(B)** 1 or more new fixed guideway capital projects and 1 or more core capacity improvement projects.
+  - **(7)** The term “small start project” means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
+    - **(A)** the Federal assistance provided or to be provided under this section is less than $75,000,000; and
+    - **(B)** the total estimated net capital cost is less than $250,000,000.
 - **(b)** The Secretary may make grants under this section to State and local governmental authorities to assist in financing—
   - **(1)** new fixed guideway capital projects or small start projects, including the acquisition of real property, the initial acquisition of rolling stock for the system, the acquisition of rights-of-way, and relocation, for fixed guideway corridor development for projects in the advanced stages of project development or engineering; and
   - **(2)** core capacity improvement projects, including the acquisition of real property, the acquisition of rights-of-way, double tracking, signalization improvements, electrification, expanding system platforms, acquisition of rolling stock associated with corridor improvements increasing capacity, construction of infill stations, and such other capacity improvement projects as the Secretary determines are appropriate to increase the capacity of an existing fixed guideway system corridor by at least 10 percent. Core capacity improvement projects do not include elements to improve general station facilities or parking, or acquisition of rolling stock alone.
 - **(c)**
   - **(1)** The Secretary may make a grant under this section for new fixed guideway capital projects, small start projects, or core capacity improvement projects, if the Secretary determines that—
-    - **(A)** the project is part of an approved transportation plan required under sections 5303 and 5304;
+    - **(A)** the project is part of an approved transportation plan required under sections 5303 and 5304; and
     - **(B)** the applicant has, or will have—
       - **(i)** the legal, financial, and technical capacity to carry out the project, including the safety and security aspects of the project;
       - **(ii)** satisfactory continuing control over the use of the equipment or facilities; and
-      - **(iii)** the technical and financial capacity to maintain new and existing equipment and facilities; and
-    - **(C)** the applicant has made progress toward meeting the performance targets in section 5326(c)(2).
+      - **(iii)** the technical and financial capacity to maintain new and existing equipment and facilities.
   - **(2)** An applicant that has submitted the certifications required under subparagraphs (A), (B), (C), and (H) of section 5307(c)(1) shall be deemed to have provided sufficient information upon which the Secretary may make the determinations required under this subsection.
   - **(3)** The Secretary shall use an expedited technical capacity review process for applicants that have recently and successfully completed at least 1 new fixed guideway capital project, or core capacity improvement project, if—
     - **(A)** the applicant achieved budget, cost, and ridership outcomes for the project that are consistent with or better than projections; and
@@ -53,7 +56,7 @@ generated_at: "2026-03-30T02:56:19.312Z"
       - **(ii)** the Secretary—
         - **(I)** responds in writing to the applicant within 45 days whether the information provided is sufficient to enter into the project development phase, including, when necessary, a detailed description of any information deemed insufficient; and
         - **(II)** provides concurrent notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the new fixed guideway capital project is entering the project development phase.
-    - **(B)** Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification and local financial commitment under this subsection.
+    - **(B)** Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
     - **(C)**
       - **(i)** Not later than 2 years after the date on which a project enters into the project development phase, the applicant shall complete the activities required to obtain a project rating under subsection (g)(2) and submit completed documentation to the Secretary.
       - **(ii)** Upon the request of an applicant, the Secretary may extend the time period under clause (i), if the applicant submits to the Secretary—
@@ -63,8 +66,9 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(A)** A new fixed guideway capital project may advance to the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that the project—
       - **(i)** is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
       - **(ii)** is adopted into the metropolitan transportation plan required under section 5303;
-      - **(iii)** is justified based on a comprehensive review of the project’s mobility improvements, the project’s environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project’s cost-effectiveness as measured by cost per rider; and
-      - **(iv)** is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
+      - **(iii)** is justified based on a comprehensive review of the project’s mobility improvements, the project’s environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project’s cost-effectiveness as measured by cost per rider;
+      - **(iv)** is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and
+      - **(v)** is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
     - **(B)** In making a determination under subparagraph (A)(iii), the Secretary shall evaluate, analyze, and consider—
       - **(i)** the reliability of the forecasting methods used to estimate costs and utilization made by the recipient and the contractors to the recipient; and
       - **(ii)** population density and current public transportation ridership in the transportation corridor.
@@ -89,7 +93,7 @@ generated_at: "2026-03-30T02:56:19.312Z"
       - **(ii)** is adopted into the metropolitan transportation plan required under section 5303;
       - **(iii)** is in a corridor that is—
         - **(I)** at or over capacity; or
-        - **(II)** projected to be at or over capacity within the next 10 years, without regard to any temporary measures employed by the applicant expected to increase short-term capacity within the next 10 years;
+        - **(II)** projected to be at or over capacity within the next 5 years;
       - **(iv)** is justified based on a comprehensive review of the project’s mobility improvements, the project’s environmental benefits, congestion relief associated with the project, economic development effects associated with the project, the capacity needs of the corridor, and the project’s cost-effectiveness as measured by cost per rider; and
       - **(v)** is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
     - **(B)** In making a determination under subparagraph (A)(iv), the Secretary shall evaluate, analyze, and consider—
@@ -115,14 +119,16 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(B)** there is a reasonable likelihood that the project will continue to meet the requirements under this section.
   - **(2)**
     - **(A)** In making a determination under paragraph (1), the Secretary shall evaluate and rate a project as a whole on a 5-point scale (high, medium-high, medium, medium-low, or low) based on—
-      - **(i)** in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), and the degree of local financial commitment; and
+      - **(i)** in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), the policies and land use patterns that support public transportation, and the degree of local financial commitment; and
       - **(ii)** in the case of a core capacity improvement project, the capacity needs of the corridor, the project justification criteria under subsection (e)(2)(A)(iv), and the degree of local financial commitment.
     - **(B)** In rating a project under this paragraph, the Secretary shall—
       - **(i)** provide, in addition to the overall project rating under subparagraph (A), individual ratings for each of the criteria established under subsection (d)(2)(A)(iii) or (e)(2)(A)(iv), as applicable; and
       - **(ii)** give comparable, but not necessarily equal, numerical weight to each of the criteria established under subsections (d)(2)(A)(iii) or (e)(2)(A)(iv), as applicable, in calculating the overall project rating under clause (i).
     - **(C)** The Secretary shall not require that any single project justification criterion meet or exceed a “medium” rating in order to advance the project from one phase to another.
   - **(3)** The Secretary shall, to the maximum extent practicable, develop and use special warrants for making a project justification determination under subsection (d)(2) or (e)(2), as applicable, for a project proposed to be funded using a grant under this section, if—
-    - **(A)** the share of the cost of the project to be provided under this section does not exceed 50 percent of the total cost of the project;
+    - **(A)** the share of the cost of the project to be provided under this section does not exceed—
+      - **(i)** $100,000,000; or
+      - **(ii)** 50 percent of the total cost of the project;
     - **(B)** the applicant requests the use of the warrants;
     - **(C)** the applicant certifies that its existing public transportation system is in a state of good repair; and
     - **(D)** the applicant meets any other requirements that the Secretary considers appropriate to carry out this subsection.
@@ -133,8 +139,7 @@ generated_at: "2026-03-30T02:56:19.312Z"
   - **(6)** Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue rules establishing an evaluation and rating process for—
     - **(A)** new fixed guideway capital projects that is based on the results of project justification, policies and land use patterns that promote public transportation, and local financial commitment, as required under this subsection; and
     - **(B)** core capacity improvement projects that is based on the results of the capacity needs of the corridor, project justification, and local financial commitment.
-  - **(7)** In carrying out ratings and evaluations under this subsection, the Secretary shall provide full and fair consideration to projects that seek an updated rating after a period of inactivity following an earlier rating and evaluation.
-  - **(8)** This subsection shall not apply to a project for which the Secretary issued a letter of intent, entered into a full funding grant agreement, or entered into a project construction agreement before the date of enactment of the Federal Public Transportation Act of 2012.
+  - **(7)** This subsection shall not apply to a project for which the Secretary issued a letter of intent, entered into a full funding grant agreement, or entered into a project construction agreement before the date of enactment of the Federal Public Transportation Act of 2012.
 - **(h)**
   - **(1)** A small start project shall be subject to the requirements of this subsection.
   - **(2)**
@@ -152,63 +157,38 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(C)** is supported by an acceptable degree of local financial commitment.
   - **(4)** In making a determination for a small start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
   - **(5)** For purposes of paragraph (3)(C), the Secretary shall require that each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable.
-  - **(6)**
-    - **(A)** In carrying out paragraphs (4) and (5) for a small start project, the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on an evaluation of the benefits of the project as compared to the Federal assistance to be provided and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to the benefits that the project will bring to the community in calculating the overall project rating.
-    - **(B)** At the request of the project sponsor, the Secretary shall evaluate and rate the project in accordance with paragraphs (4) and (5) and subparagraph (A) of this paragraph upon completion of the analysis required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+  - **(6)** In carrying out paragraphs (4) and (5) for a small start project, the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on an evaluation of the benefits of the project as compared to the Federal assistance to be provided and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to the benefits that the project will bring to the community in calculating the overall project rating.
   - **(7)**
     - **(A)** The Secretary, to the maximum extent practicable, shall provide Federal assistance under this subsection in a single grant. If the Secretary cannot provide such a single grant, the Secretary may execute an expedited grant agreement in order to include a commitment on the part of the Secretary to provide funding for the project in future fiscal years.
     - **(B)** In executing an expedited grant agreement under this subsection, the Secretary may include in the agreement terms similar to those established under subsection (k)(2).
     - **(C)** At least 10 days before making a grant award or entering into a grant agreement for a project under this subsection, the Secretary shall notify, in writing, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate of the proposed grant or expedited grant agreement, as well as the evaluations and ratings for the project.
 - **(i)**
-  - **(1)**
-    - **(A)** In this paragraph, the term “future bundling request” means a letter described in subparagraph (B) that requests future funding for additional projects.
-    - **(B)** When an applicant submits a letter to the Secretary requesting entry of a project into the project development phase under subsection (d)(1)(A)(i)(I), (e)(1)(A)(i)(I), or (h)(2)(A)(i)(I), the applicant may include a description of other projects for consideration for future funding under this section. An applicant shall include in the request the amount of funding requested under this section for each additional project and the estimated capital cost of each project.
-    - **(C)** Other projects included in the request shall be ready to enter the project development phase under subsection (d)(1)(A), (e)(1)(A), or (h)(2)(A), within 5 years of the initial project submitted as part of the request.
-    - **(D)** Projects in the future bundling request shall be included in the metropolitan transportation plan in accordance with section 5303(i).
-    - **(E)** The applicant that submits a future bundling request shall be the project sponsor for each project included in the request.
-    - **(F)** A future bundling request submitted under this paragraph shall include a proposed share of each of the request’s projects that is consistent with the requirements of subsections (k)(2)(C)(ii) or (h)(7), as applicable.
-    - **(G)** The bundling of projects under this subsection—
-      - **(i)** shall enhance, or increase the capacity of—
-        - **(I)** the total transportation system of the applicant; or
-        - **(II)** the transportation system of the region the applicant serves (which, in the case of a State whose request addresses a single region, means that region); and
-      - **(ii)** shall—
-        - **(I)** streamline procurements for the applicant; or
-        - **(II)** enable time or cost savings for the projects.
-    - **(H)** Each project submitted for consideration for funding in a future bundling request shall be subject to the applicable evaluation criteria under this section for the project type, including demonstrating the availability of local resources to recapitalize, maintain, and operate the overall existing and proposed public transportation system pursuant to subsection (f)(1)(C).
-    - **(I)**
-      - **(i)** Upon entering into a grant agreement for the initial project for which an applicant submits a future bundling request, the Secretary may issue a letter of intent to the applicant that announces an intention to obligate, for 1 or more additional projects included in the request, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the additional project or projects in the future bundling. Such letter may include a condition that the project or projects must meet the evaluation criteria in this subsection before a grant agreement can be executed.
-      - **(ii)** The amount that the Secretary announces an intention to obligate for an additional project in the future bundling request through a letter of intent issued under clause (i) shall be sufficient to complete at least an operable segment of the project.
-      - **(iii)** The issuance of a letter of intent under clause (i) shall not be deemed to be an obligation under sections 1108(c), 1501, and 1502(a) of title 31 or an administrative commitment.
-  - **(2)**
-    - **(A)** In this paragraph, the term “immediate bundling request” means a letter described in subparagraph (B) that requests immediate funding for multiple projects.
-    - **(B)** An applicant may submit a letter to the Secretary requesting entry of multiple projects into the project development phase under subsection (d)(1)(A)(i)(I), (e)(1)(A)(i)(I), or (h)(2)(A)(i)(I), for consideration for funding under this section. An applicant shall include in the request the amount of funding requested under this section for each additional project and the estimated capital cost of each project.
-    - **(C)** Projects included in the request must be ready to enter the project development phase under subsection (d)(1)(A), (e)(1)(A), or (h)(2)(A) at the same time.
-    - **(D)** Projects in the bundle shall be included in the metropolitan transportation plan in accordance with section 5303(i).
-    - **(E)** The applicant that submits an immediate bundling request shall be the project sponsor for each project included in the request.
-    - **(F)** An immediate bundling request submitted under this subsection shall include a proposed share of each of the request’s projects that is consistent with the requirements of subsections (k)(2)(C)(ii) or (h)(7), as applicable.
-    - **(G)** The bundling of projects under this subsection—
-      - **(i)** shall enhance, or increase the capacity of—
-        - **(I)** the total transportation system of the applicant; or
-        - **(II)** the transportation system of the region the applicant serves (which, in the case of a State whose request addresses a single region, means that region); and
-      - **(ii)** shall—
-        - **(I)** streamline procurements for the applicant; or
-        - **(II)** enable time or cost savings for the projects.
-    - **(H)** A project submitted for consideration for immediate funding in an immediate bundling request shall be subject to the applicable evaluation criteria under this section for the project type, including demonstrating the availability of local resources to recapitalize, maintain, and operate the overall existing and proposed public transportation system pursuant to subsection (f)(1)(C).
-    - **(I)**
-      - **(i)** Upon entering into a grant agreement for the initial project for which an applicant submits a request, the Secretary may issue a letter of intent or single, combined grant agreement to the applicant.
-      - **(ii)**
-        - **(I)** A letter of intent announces an intention to obligate, for 1 or more additional projects included in the request, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the additional project or projects. Such letter may include a condition that the project or projects must meet the evaluation criteria in this subsection before a grant agreement can be executed.
-        - **(II)** The amount that the Secretary announces an intention to obligate for an additional project in a letter of intent issued under clause (i) shall be sufficient to complete at least an operable segment of the project.
-        - **(III)** The issuance of a letter of intent under clause (i) shall not be deemed to be an obligation under sections 1108(c), 1501, and 1502(a) of title 31 or an administrative commitment.
-  - **(3)** When the Secretary issues rules or policy guidance under this section, the Secretary may request comment from the public regarding potential changes to the evaluation criteria for project justification and local financial commitment under subsections (d), (e), (f), and (h) for the purposes of streamlining the evaluation process for projects included in a future bundling request or an immediate bundling request, including changes to enable simultaneous evaluation of multiple projects under 1 or more evaluation criteria. Notwithstanding paragraphs (1)(H) and (2)(H), such criteria may be utilized for projects included in a future bundling request or an immediate bundling request under this subsection upon promulgation of the applicable rule or policy guidance.
+  - **(1)** A federally funded project in a program of interrelated projects shall advance through project development as provided in subsection (d) or (e), as applicable.
+  - **(2)** A federally funded project in a program of interrelated projects may advance into the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that—
+    - **(A)** the project is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969;
+    - **(B)** the project is adopted into the metropolitan transportation plan required under section 5303;
+    - **(C)** the program of interrelated projects involves projects that have a logical connectivity to one another;
+    - **(D)** the program of interrelated projects, when evaluated as a whole, meets the requirements of subsection (d)(2) or (e)(2), as applicable;
+    - **(E)** the program of interrelated projects is supported by a program implementation plan demonstrating that construction will begin on each of the projects in the program of interrelated projects within a reasonable time frame; and
+    - **(F)** the program of interrelated projects is supported by an acceptable degree of local financial commitment, as described in subsection (f).
+  - **(3)**
+    - **(A)** A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
+    - **(B)**
+      - **(i)** In making a determination under subparagraph (A), the Secretary shall evaluate and rate a program of interrelated projects on a 5-point scale (high, medium-high, medium, medium-low, or low) based on the criteria described in paragraph (2).
+      - **(ii)** In rating a program of interrelated projects, the Secretary shall provide, in addition to the overall program rating, individual ratings for each of the criteria described in paragraph (2) and shall give comparable, but not necessarily equal, numerical weight to each such criterion in calculating the overall program rating.
+      - **(iii)** The Secretary shall not require that any single criterion described in paragraph (2) meet or exceed a “medium” rating in order to advance the program of interrelated projects from one phase to another.
   - **(4)**
-    - **(A)** A new start project or core capacity improvement project in an immediate bundling request or future bundling request shall be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2).
-    - **(B)** A small start project shall be carried out through a grant agreement pursuant to subsection (h)(7).
-    - **(C)** A combined grant agreement described in paragraph (2)(I)(i) shall—
-      - **(i)** include only projects in an immediate future bundling request that are ready to receive a grant agreement under this section,
-      - **(ii)** be carried out through a full funding grant agreement or expedited grant agreement pursuant to subsection (k)(2) for the included projects, if a project seeking assistance under the combined grant agreement is a new start project or core capacity improvement project; and
-      - **(iii)** be carried out through a grant agreement pursuant to subsection (h)(7) for the included projects, if the projects seeking assistance under the combined grant agreement consist entirely of small start projects.
-    - **(D)** The use of a combined grant agreement shall not waive or amend applicable evaluation criteria under this section for projects included in the combined grant agreement.
+    - **(A)** The Secretary shall annually review the program implementation plan required under paragraph (2)(E) to determine whether the program of interrelated projects is adhering to its schedule.
+    - **(B)** If a program of interrelated projects is not adhering to its schedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
+      - **(i)** evidence of continued adequate funding; and
+      - **(ii)** an estimated time frame for completing the program of interrelated projects.
+    - **(C)** If the Secretary determines that a program of interrelated projects is not making satisfactory progress, no Federal funds shall be provided for a project within the program of interrelated projects.
+  - **(5)**
+    - **(A)** If an applicant does not carry out the program of interrelated projects within a reasonable time, for reasons within the control of the applicant, the applicant shall repay all Federal funds provided for the program, and any reasonable interest and penalty charges that the Secretary may establish.
+    - **(B)** Any funds received by the Government under this paragraph, other than interest and penalty charges, shall be credited to the appropriation account from which the funds were originally derived.
+  - **(6)** Any non-Federal funds committed to a project in a program of interrelated projects may be used to meet a non-Government share requirement for any other project in the program of interrelated projects, if the Government share of the cost of each project within the program of interrelated projects does not exceed 80 percent.
+  - **(7)** In making grants under this section, the Secretary may give priority to programs of interrelated projects for which the non-Government share of the cost of the projects included in the programs of interrelated projects exceeds the non-Government share required under subsection (l).
+  - **(8)** Including a project not financed by the Government in a program of interrelated projects does not impose Government requirements that would not otherwise apply to the project.
 - **(j)** Subsections (d) and (e) shall not apply to projects for which the Secretary has issued a letter of intent, approved entry into final design, entered into a full funding grant agreement, or entered into a project construction grant agreement before the date of enactment of the Federal Public Transportation Act of 2012.
 - **(k)**
   - **(1)**
@@ -228,12 +208,13 @@ generated_at: "2026-03-30T02:56:19.312Z"
       - **(iii)** Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
       - **(iv)** The amount stipulated in an agreement under this paragraph for a new fixed guideway capital project shall be sufficient to complete at least an operable segment.
     - **(E)**
-      - **(i)** Applicants seeking a full funding grant agreement under this paragraph shall submit a complete plan for the collection and analysis of information to identify the impacts of the new fixed guideway capital project or core capacity improvement project and the accuracy of the forecasts prepared during the development of the project. Preparation of this plan shall be included in the full funding grant agreement as an eligible activity.
-      - **(ii)** The plan submitted under clause (i) shall provide for—
-        - **(I)** collection of data on the current public transportation system regarding public transportation service levels and ridership patterns, including origins and destinations, access modes, trip purposes, and rider characteristics;
-        - **(II)** documentation of the predicted scope, service levels, capital costs, operating costs, and ridership of the project;
-        - **(III)** collection of data on the public transportation system 2 years after the opening of a new fixed guideway capital project or core capacity improvement project, including analogous information on public transportation service levels and ridership patterns and information on the as-built scope, capital, and financing costs of the project; and
-        - **(IV)** analysis of the consistency of predicted project characteristics with actual outcomes.
+      - **(i)** A full funding grant agreement under this paragraph shall require the applicant to conduct a study that—
+        - **(I)** describes and analyzes the impacts of the new fixed guideway capital project or core capacity improvement project on public transportation services and public transportation ridership;
+        - **(II)** evaluates the consistency of predicted and actual project characteristics and performance; and
+        - **(III)** identifies reasons for differences between predicted and actual outcomes.
+      - **(ii)**
+        - **(I)** Applicants seeking a full funding grant agreement under this paragraph shall submit a complete plan for the collection and analysis of information to identify the impacts of the new fixed guideway capital project or core capacity improvement project and the accuracy of the forecasts prepared during the development of the project. Preparation of this plan shall be included in the full funding grant agreement as an eligible activity.
+        - **(II)** The plan submitted under subclause (I) shall provide for—
     - **(F)** To be eligible for a full funding grant agreement under this paragraph, recipients shall have collected data on the current system, according to the plan required under subparagraph (E)(ii), before the beginning of construction of the proposed new fixed guideway capital project or core capacity improvement project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
   - **(3)**
     - **(A)** The Secretary may enter into an early systems work agreement with an applicant if a record of decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) has been issued on the project and the Secretary finds there is reason to believe—
@@ -249,23 +230,14 @@ generated_at: "2026-03-30T02:56:19.312Z"
   - **(4)**
     - **(A)** The Secretary may enter into full funding grant agreements under this subsection for new fixed guideway capital projects and core capacity improvement projects that contain contingent commitments to incur obligations in such amounts as the Secretary determines are appropriate.
     - **(B)** An obligation may be made under this subsection only when amounts are appropriated for the obligation.
-  - **(5)** Not later than 15 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
+  - **(5)** At least 30 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 - **(l)**
-  - **(1)**
-    - **(A)** Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost.
-    - **(B)**
-      - **(i)** A grant for a new fixed guideway capital project shall not exceed 80 percent of the net capital project cost.
-      - **(ii)** A full funding grant agreement for a new fixed guideway capital project shall not include a share of more than 60 percent from the funds made available under this section.
-      - **(iii)** A grant for a core capacity improvement project shall not exceed 80 percent of the net capital project cost of the incremental cost to increase the capacity in the corridor.
-      - **(iv)** A grant for a small start project shall not exceed 80 percent of the net capital project costs.
+  - **(1)** Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost. A grant for a fixed guideway project or small start project shall not exceed 80 percent of the net capital project cost. A grant for a core capacity project shall not exceed 80 percent of the net capital project cost of the incremental cost of increasing the capacity in the corridor.
   - **(2)** The Secretary may adjust the final net capital project cost of a new fixed guideway capital project or core capacity improvement project evaluated under subsection (d), (e), or (i) to include the cost of eligible activities not included in the originally defined project if the Secretary determines that the originally defined project has been completed at a cost that is significantly below the original estimate.
   - **(3)** The Secretary may provide a higher grant percentage than requested by the grant recipient if—
     - **(A)** the Secretary determines that the net capital project cost of the project is not more than 10 percent higher than the net capital project cost estimated at the time the project was approved for advancement into the engineering phase; and
     - **(B)** the ridership estimated for the project is not less than 90 percent of the ridership estimated for the project at the time the project was approved for advancement into the engineering phase.
-  - **(4)** The remainder of the net capital project costs shall be provided—
-    - **(A)** in cash from non-Government sources;
-    - **(B)** from revenues from the sale of advertising and concessions; or
-    - **(C)** from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+  - **(4)** The remainder of the net capital project cost shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
   - **(5)** Nothing in this section shall be construed as authorizing the Secretary to require a non-Federal financial commitment for a project that is more than 20 percent of the net capital project cost.
   - **(6)** In addition to amounts allowed pursuant to paragraph (1), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
   - **(7)** This subsection shall not apply to projects for which the Secretary entered into a full funding grant agreement before the date of enactment of the Federal Public Transportation Act of 2012.
@@ -282,55 +254,16 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(B)** The amount of interest under this paragraph may not be more than the most favorable interest terms reasonably available for the project at the time of borrowing.
     - **(C)** The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
 - **(n)**
-  - **(1)** An amount made available or appropriated for a new fixed guideway capital project or core capacity improvement project shall remain available to that project for 4 fiscal years, including the fiscal year in which the amount is made available or appropriated. Any amounts that are unobligated to the project at the end of the 4-fiscal-year period may be used by the Secretary for any purpose under this section.
+  - **(1)** An amount made available or appropriated for a new fixed guideway capital project or core capacity improvement project shall remain available to that project for 5 fiscal years, including the fiscal year in which the amount is made available or appropriated. Any amounts that are unobligated to the project at the end of the 5-fiscal-year period may be used by the Secretary for any purpose under this section.
   - **(2)** An amount available under this section that is deobligated may be used for any purpose under this section.
 - **(o)**
   - **(1)** Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that includes—
     - **(A)** a proposal of allocations of amounts to be available to finance grants for projects under this section among applicants for these amounts;
     - **(B)** evaluations and ratings, as required under subsections (d), (e), and (i), for each such project that is in project development, engineering, or has received a full funding grant agreement; and
     - **(C)** recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years based on information currently available to the Secretary.
-  - **(2)** The Comptroller General of the United States shall—
-    - **(A)** conduct a biennial review that—
-      - **(i)** assesses—
-        - **(I)** the processes and procedures for evaluating, rating, and recommending all new fixed guideway capital projects and core capacity improvement projects for grant agreements under this section and section 3005(b) of the Federal Public Transportation Act of 2015 ( 49 U.S.C. 5309 note; Public Law 114–94 ); and
-        - **(II)** the Secretary’s implementation of such processes and procedures;
-      - **(ii)** includes, with respect to projects that entered into revenue service since the previous biennial review—
-        - **(I)** a description and analysis of the impacts of the projects on public transportation services and public transportation ridership;
-        - **(II)** a description and analysis of the consistency of predicted and actual benefits and costs of the innovative project development and delivery methods of, or innovative financing for, the projects; and
-        - **(III)** an identification of the reasons for any differences between predicted and actual outcomes for the projects; and
-      - **(iii)** in conducting the review under clause (ii), incorporates information from the plans submitted by applicants under subsection (k)(2)(E)(i); and
-    - **(B)** report to Congress on the results of such review by May 31 of the applicable year.
-- **(p)** For the purposes of calculating the cost effectiveness of a project described in subsection (d) or (e), the Secretary shall not reduce or eliminate the capital costs of art and non-functional landscaping elements from the annualized capital cost calculation.
-- **(q)**
-  - **(1)** The Secretary may make grants for new fixed guideway capital projects and core capacity improvement projects that provide both public transportation and intercity passenger rail service.
-  - **(2)** Eligible costs for a project under this subsection shall be limited to the net capital costs of the public transportation costs attributable to the project based on projected use of the new segment or expanded capacity of the project corridor, not including project elements designed to achieve or maintain a state of good repair, as determined by the Secretary under paragraph (4).
-  - **(3)** A project under this subsection shall be evaluated for project justification and local financial commitment under subsections (d), (e), (f), and (h), as applicable to the project, based on—
-    - **(A)** the net capital costs of the public transportation costs attributable to the project as determined under paragraph (4); and
-    - **(B)** the share of funds dedicated to the project from sources other than this section included in the unified finance plan for the project.
-  - **(4)** The Secretary shall estimate the net capital costs of a project under this subsection based on—
-    - **(A)** engineering studies;
-    - **(B)** studies of economic feasibility;
-    - **(C)** the expected use of equipment or facilities; and
-    - **(D)** the public transportation costs attributable to the project.
-  - **(5)**
-    - **(A)** The Government share shall not exceed 80 percent of the net capital cost attributable to the public transportation costs of a project under this subsection as determined under paragraph (4).
-    - **(B)** The remainder of the net capital cost attributable to the public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
-- **(r)**
-  - **(1)** The Secretary shall make publicly available in an easily identifiable location on the website of the Department of Transportation a dashboard containing the following information for each project seeking a grant agreement under this section:
-    - **(A)** Project name.
-    - **(B)** Project sponsor.
-    - **(C)** City or urbanized area and State in which the project will be located.
-    - **(D)** Project type.
-    - **(E)** Project mode.
-    - **(F)** Project length and number of stops, including length of exclusive bus rapid transit lanes, if applicable.
-    - **(G)** Anticipated total project cost.
-    - **(H)** Anticipated share of project costs to be sought under this section.
-    - **(I)** Date of compliance with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-    - **(J)** Date on which the project entered the project development phase.
-    - **(K)** Date on which the project entered the engineering phase, if applicable.
-    - **(L)** Date on which a Letter of No Prejudice was requested, and date on which a Letter of No Prejudice was issued or denied, if applicable.
-    - **(M)** Date of the applicant’s most recent project ratings, including date of request for updated ratings, if applicable.
-    - **(N)** Status of the project sponsor in securing non-Federal matching funds.
-    - **(O)** Date on which a project grant agreement is anticipated to be executed.
-  - **(2)** The Secretary shall update the information provided under paragraph (1) not less frequently than monthly.
-  - **(3)** The Secretary shall continue to make profiles for projects that have applied for or are receiving assistance under this section publicly available in an easily identifiable location on the website of the Department of Transportation, in the same manner as the Secretary did as of the day before the date of enactment of this subsection.
+  - **(2)** Not later than the first Monday in August of each year, the Secretary shall submit to the committees described in paragraph (1) a report containing a summary of the results of any studies conducted under subsection (k)(2)(E).
+  - **(3)** The Comptroller General of the United States shall—
+    - **(A)** conduct a biennial review of—
+      - **(i)** the processes and procedures for evaluating, rating, and recommending new fixed guideway capital projects and core capacity improvement projects; and
+      - **(ii)** the Secretary’s implementation of such processes and procedures; and
+    - **(B)** report to Congress on the results of such review by May 31 of each year.

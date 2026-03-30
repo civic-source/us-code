@@ -1,12 +1,15 @@
 ---
-title: "Section 3797c - Transferred"
+title: "Section 3797c - Annual report to Congress"
 usc_title: 42
 usc_section: "3797c"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3797c"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-03-30T03:06:22.702Z"
+status: "active"
 ---
 
-# § 3797c. Transferred
+# § 3797c. Annual report to Congress
+
+Not later than November 30th of each year, the Director shall submit a report to the Congress regarding the activities carried out under this subchapter. Each such report shall include, for the preceding fiscal year, the number of grants funded under this subchapter, the amount of funds provided under those grants, and the activities for which those funds were used.
 

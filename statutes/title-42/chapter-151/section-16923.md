@@ -1,12 +1,20 @@
 ---
-title: "Section 16923 - Transferred"
+title: "Section 16923 - Development and availability of registry management and website software"
 usc_title: 42
 usc_section: "16923"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16923"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-03-30T03:06:22.984Z"
+status: "active"
 ---
 
-# § 16923. Transferred
+# § 16923. Development and availability of registry management and website software
 
+- **(a)** The Attorney General shall, in consultation with the jurisdictions, develop and support software to enable jurisdictions to establish and operate uniform sex offender registries and Internet sites.
+- **(b)** The software should facilitate—
+  - **(1)** immediate exchange of information among jurisdictions;
+  - **(2)** public access over the Internet to appropriate information, including the number of registered sex offenders in each jurisdiction on a current basis;
+  - **(3)** full compliance with the requirements of this subchapter; and
+  - **(4)** communication of information to community notification program participants as required under section 16921 of this title .
+- **(c)** The Attorney General shall make the first complete edition of this software available to jurisdictions within 2 years of July 27, 2006 .

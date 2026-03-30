@@ -1,41 +1,15 @@
 ---
-title: "Section 1061 - Partnership interests held in connection with performance of services"
+title: "Section 1061 - Cross references"
 usc_title: 26
 usc_section: "1061"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1061"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-03-30T03:05:18.645Z"
+status: "active"
 ---
 
-# § 1061. Partnership interests held in connection with performance of services
+# § 1061. Cross references
 
-- **(a)** If one or more applicable partnership interests are held by a taxpayer at any time during the taxable year, the excess (if any) of—
-  - **(1)** the taxpayer’s net long-term capital gain with respect to such interests for such taxable year, over
-  - **(2)** the taxpayer’s net long-term capital gain with respect to such interests for such taxable year computed by applying paragraphs (3) and (4) of sections 1 1 So in original. Probably should be “section”. 1222 by substituting “3 years” for “1 year”,
-- **(b)** To the extent provided by the Secretary, subsection (a) shall not apply to income or gain attributable to any asset not held for portfolio investment on behalf of third party investors.
-- **(c)** For purposes of this section—
-  - **(1)** Except as provided in this paragraph or paragraph (4), the term “applicable partnership interest” means any interest in a partnership which, directly or indirectly, is transferred to (or is held by) the taxpayer in connection with the performance of substantial services by the taxpayer, or any other related person, in any applicable trade or business. The previous sentence shall not apply to an interest held by a person who is employed by another entity that is conducting a trade or business (other than an applicable trade or business) and only provides services to such other entity.
-  - **(2)** The term “applicable trade or business” means any activity conducted on a regular, continuous, and substantial basis which, regardless of whether the activity is conducted in one or more entities, consists, in whole or in part, of—
-    - **(A)** raising or returning capital, and
-    - **(B)** either—
-      - **(i)** investing in (or disposing of) specified assets (or identifying specified assets for such investing or disposition), or
-      - **(ii)** developing specified assets.
-  - **(3)** The term “specified asset” means securities (as defined in section 475(c)(2) without regard to the last sentence thereof), commodities (as defined in section 475(e)(2)), real estate held for rental or investment, cash or cash equivalents, options or derivative contracts with respect to any of the foregoing, and an interest in a partnership to the extent of the partnership’s proportionate interest in any of the foregoing.
-  - **(4)** The term “applicable partnership interest” shall not include—
-    - **(A)** any interest in a partnership directly or indirectly held by a corporation, or
-    - **(B)** any capital interest in the partnership which provides the taxpayer with a right to share in partnership capital commensurate with—
-      - **(i)** the amount of capital contributed (determined at the time of receipt of such partnership interest), or
-      - **(ii)** the value of such interest subject to tax under section 83 upon the receipt or vesting of such interest.
-  - **(5)** The term “third party investor” means a person who—
-    - **(A)** holds an interest in the partnership which does not constitute property held in connection with an applicable trade or business; and
-    - **(B)** is not (and has not been) actively engaged, and is (and was) not related to a person so engaged, in (directly or indirectly) providing substantial services described in paragraph (1) for such partnership or any applicable trade or business.
-- **(d)**
-  - **(1)** If a taxpayer transfers any applicable partnership interest, directly or indirectly, to a person related to the taxpayer, the taxpayer shall include in gross income (as short term capital gain) the excess (if any) of—
-    - **(A)** so much of the taxpayer’s long-term capital gains with respect to such interest for such taxable year attributable to the sale or exchange of any asset held for not more than 3 years as is allocable to such interest, over
-    - **(B)** any amount treated as short term capital gain under subsection (a) with respect to the transfer of such interest.
-  - **(2)** For purposes of this paragraph, a person is related to the taxpayer if—
-    - **(A)** the person is a member of the taxpayer’s family within the meaning of section 318(a)(1), or
-    - **(B)** the person performed a service within the current calendar year or the preceding three calendar years in any applicable trade or business in which or for which the taxpayer performed a service.
-- **(e)** The Secretary shall require such reporting (at the time and in the manner prescribed by the Secretary) as is necessary to carry out the purposes of this section.
-- **(f)** The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this section 2 2 So in original. Probably should be followed by a period.
+  - **(1)** For nonrecognition of gain in connection with the transfer of obsolete vessels to the Maritime Administration under chapter 573 of title 46, United States Code, see section 57307 of title 46 .
+  - **(2)** For recognition of gain or loss in connection with the construction of new vessels, see chapter 533 of title 46, United States Code.

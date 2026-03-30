@@ -1,12 +1,15 @@
 ---
-title: "Section 470f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 470f - Effect of Federal undertakings upon property listed in National Register; comment by Advisory Council on Historic Preservation"
 usc_title: 16
 usc_section: "470f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 470f"
-generated_at: "2026-03-30T02:54:22.853Z"
+generated_at: "2026-03-30T03:04:48.484Z"
+status: "active"
 ---
 
-# § 470f. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 470f. Effect of Federal undertakings upon property listed in National Register; comment by Advisory Council on Historic Preservation
+
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in any State and the head of any Federal department or independent agency having authority to license any undertaking shall, prior to the approval of the expenditure of any Federal funds on the undertaking or prior to the issuance of any license, as the case may be, take into account the effect of the undertaking on any district, site, building, structure, or object that is included in or eligible for inclusion in the National Register. The head of any such Federal agency shall afford the Advisory Council on Historic Preservation established under part B of this subchapter a reasonable opportunity to comment with regard to such undertaking.
 

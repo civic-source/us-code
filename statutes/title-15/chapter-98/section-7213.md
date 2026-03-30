@@ -3,9 +3,10 @@ title: "Section 7213 - Auditing, quality control, and independence standards and
 usc_title: 15
 usc_section: "7213"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 7213"
-generated_at: "2026-03-30T02:54:08.219Z"
+generated_at: "2026-03-30T03:04:31.243Z"
+status: "active"
 ---
 
 # § 7213. Auditing, quality control, and independence standards and rules
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:54:08.219Z"
       - **(iv)** hiring, professional development, and advancement of personnel;
       - **(v)** the acceptance and continuation of engagements;
       - **(vi)** internal inspection; and
-      - **(vii)** such other requirements as the Board may prescribe, subject to subsection (a)(1).
+      - **(vii)** such other requirements as the Board may prescribe, subject to subsection (a)(1) of this section.
   - **(3)**
     - **(A)** In carrying out this subsection, the Board—
       - **(i)** may adopt as its rules, subject to the terms of section 7217 of this title , any portion of any statement of auditing standards or other professional standards that the Board determines satisfy the requirements of paragraph (1), and that were proposed by 1 or more professional groups of accountants that shall be designated or recognized by the Board, by rule, for such purpose, pursuant to this paragraph or 1 or more advisory groups convened pursuant to paragraph (4); and
@@ -37,6 +38,6 @@ generated_at: "2026-03-30T02:54:08.219Z"
   - **(4)** The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
 - **(b)** The Board shall establish such rules as may be necessary or appropriate in the public interest or for the protection of investors, to implement, or as authorized under, title II of this Act.
 - **(c)**
-  - **(1)** The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+  - **(1)** The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
   - **(2)** The Board shall respond in a timely fashion to requests from designated professional groups of accountants and advisory groups referred to in paragraph (1) for any changes in standards over which the Board has authority.
-- **(d)** The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
+- **(d)** The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.

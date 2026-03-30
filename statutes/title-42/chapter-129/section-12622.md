@@ -3,16 +3,19 @@ title: "Section 12622 - Responsibilities of Department of Defense"
 usc_title: 42
 usc_section: "12622"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12622"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-03-30T03:06:22.907Z"
+status: "active"
 ---
 
 # § 12622. Responsibilities of Department of Defense
 
 - **(a)**
   - **(1)** Upon the establishment of the Program, the Secretary of Defense shall establish an office to provide for liaison between the Secretary and the National Civilian Community Corps.
-  - **(2)** The office shall provide assistance in the coordination of Department of Defense activities with the Corps.
+  - **(2)** The office shall—
+    - **(A)** in order to assist in the recruitment of personnel for appointment in the permanent cadre, make available to the Director information in the registry established by section 1143a of title 10 ; and
+    - **(B)** provide other assistance in the coordination of Department of Defense activities with the Corps.
 - **(b)**
   - **(1)** Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under subsection (a) shall develop a list of individuals from which individuals may be selected for appointment by the Director in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) 1 1 See References in Text note below. of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
   - **(2)** The Secretary of Defense shall recommend to the Director an appropriate rate of pay for each person recommended for the cadre pursuant to this subsection.

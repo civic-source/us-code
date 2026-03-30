@@ -3,9 +3,10 @@ title: "Section 6311 - Definitions"
 usc_title: 42
 usc_section: "6311"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6311"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-03-30T03:06:22.759Z"
+status: "active"
 ---
 
 # § 6311. Definitions
@@ -35,7 +36,7 @@ For purposes of this part—
       - **(ii)** fans;
       - **(iii)** blowers;
       - **(iv)** refrigeration equipment;
-      - **(v)** electric lights and lighting power supply circuits;
+      - **(v)** electric lights;
       - **(vi)** electrolytic equipment;
       - **(vii)** electric arc equipment;
       - **(viii)** steam boilers;

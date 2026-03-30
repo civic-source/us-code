@@ -3,9 +3,10 @@ title: "Section 1639 - Requirements for certain mortgages"
 usc_title: 15
 usc_section: "1639"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1639"
-generated_at: "2026-03-30T02:54:08.141Z"
+generated_at: "2026-03-30T03:04:31.176Z"
+status: "active"
 ---
 
 # § 1639. Requirements for certain mortgages
@@ -26,8 +27,7 @@ generated_at: "2026-03-30T02:54:08.141Z"
       - **(ii)** at the consummation of the transaction under which the credit is extended—
         - **(I)** the creditor provides to the consumer the new disclosures, in writing; and
         - **(II)** the creditor and consumer certify in writing that the new disclosures were provided by telephone, by not later than 3 days prior to the date of consummation of the transaction.
-  - **(3)** If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
-  - **(4)** The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
+  - **(3)** The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
 - **(c)**
   - **(1)**
     - **(A)** A mortgage referred to in section 1602(aa) 1 of this title may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal before the date on which the principal is due.
@@ -56,7 +56,7 @@ generated_at: "2026-03-30T02:54:08.141Z"
 - **(n)** Any mortgage that contains a provision prohibited by this section shall be deemed a failure to deliver the material disclosures required under this subchapter, for the purpose of section 1635 of this title .
 - **(o)** For purposes of this section, the term “affiliate” has the same meaning as in section 1841(k) of title 12 .
 - **(p)**
-  - **(1)** The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i), if the Bureau finds that the exemption—
+  - **(1)** The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
     - **(A)** is in the interest of the borrowing public; and
     - **(B)** will apply only to products that maintain and strengthen home ownership and equity protection.
   - **(2)** The Bureau, by regulation or order, shall prohibit acts or practices in connection with—

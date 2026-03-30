@@ -1,89 +1,65 @@
 ---
-title: "Section 7221c - Facilities financing assistance"
+title: "Section 7221c - Administration"
 usc_title: 20
 usc_section: "7221c"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 7221c"
-generated_at: "2026-03-30T02:54:48.207Z"
+generated_at: "2026-03-30T03:04:46.352Z"
+status: "active"
 ---
 
-# § 7221c. Facilities financing assistance
+# § 7221c. Administration
 
-- **(a)**
-  - **(1)** From the amount reserved under section 7221a(b)(1) of this title , the Secretary shall use not less than 50 percent to award, on a competitive basis, not less than 3 grants to eligible entities that have the highest-quality applications approved under subsection (d), after considering the diversity of such applications, to demonstrate innovative methods of helping charter schools to address the cost of acquiring, constructing, and renovating facilities by enhancing the availability of loans or bond financing.
-  - **(2)** For the purposes of this section, the term “eligible entity” means—
-    - **(A)** a public entity, such as a State or local governmental entity;
-    - **(B)** a private nonprofit entity; or
-    - **(C)** a consortium of entities described in subparagraphs (A) and (B).
-- **(b)** The Secretary shall evaluate each application submitted under subsection (d), and shall determine whether the application is sufficient to merit approval.
-- **(c)** Grants under subsection (a) shall be of sufficient size, scope, and quality so as to ensure an effective demonstration of an innovative means of enhancing credit for the financing of charter school acquisition, construction, or renovation.
-- **(d)**
-  - **(1)** An eligible entity desiring to receive a grant under this section shall submit an application to the Secretary in such form as the Secretary may reasonably require.
-  - **(2)** An application submitted under paragraph (1) shall contain—
-    - **(A)** a statement identifying the activities that the eligible entity proposes to carry out with funds received under subsection (a), including how the eligible entity will determine which charter schools will receive assistance, and how much and what types of assistance charter schools will receive;
-    - **(B)** a description of the involvement of charter schools in the application’s development and the design of the proposed activities;
-    - **(C)** a description of the eligible entity’s expertise in capital market financing;
-    - **(D)** a description of how the proposed activities will leverage the maximum amount of private-sector financing capital relative to the amount of government funding used and otherwise enhance credit available to charter schools, including how the eligible entity will offer a combination of rates and terms more favorable than the rates and terms that a charter school could receive without assistance from the eligible entity under this section;
-    - **(E)** a description of how the eligible entity possesses sufficient expertise in education to evaluate the likelihood of success of a charter school program for which facilities financing is sought; and
-    - **(F)** in the case of an application submitted by a State governmental entity, a description of the actions that the eligible entity has taken, or will take, to ensure that charter schools within the State receive the funding that charter schools need to have adequate facilities.
-- **(e)** An eligible entity receiving a grant under subsection (a) shall use the funds deposited in the reserve account established under subsection (f) to assist one or more charter schools to access private-sector capital to accomplish one or more of the following objectives:
-  - **(1)** The acquisition (by purchase, lease, donation, or otherwise) of an interest (including an interest held by a third party for the benefit of a charter school) in improved or unimproved real property that is necessary to commence or continue the operation of a charter school.
-  - **(2)** The construction of new facilities, or the renovation, repair, or alteration of existing facilities, necessary to commence or continue the operation of a charter school.
-  - **(3)** The predevelopment costs required to assess sites for purposes of paragraph (1) or (2) and that are necessary to commence or continue the operation of a charter school.
+- **(a)** The Secretary shall award grants to State educational agencies under this subpart on the basis of the quality of the applications submitted under section 7221b(b) of this title , after taking into consideration such factors as—
+  - **(1)** the contribution that the charter schools grant program will make to assisting educationally disadvantaged and other students in meeting State academic content standards and State student academic achievement standards;
+  - **(2)** the degree of flexibility afforded by the State educational agency to charter schools under the State’s charter schools law;
+  - **(3)** the ambitiousness of the objectives for the State charter school grant program;
+  - **(4)** the quality of the strategy for assessing achievement of those objectives;
+  - **(5)** the likelihood that the charter school grant program will meet those objectives and improve educational results for students;
+  - **(6)** the number of high-quality charter schools created under this subpart in the State; and
+  - **(7)** in the case of State educational agencies that propose to use grant funds to support dissemination activities under subsection (f)(6)(B) of this section, the quality of those activities and the likelihood that those activities will improve student academic achievement.
+- **(b)** The Secretary shall award grants to eligible applicants under this subpart on the basis of the quality of the applications submitted under section 7221b(c) of this title , after taking into consideration such factors as—
+  - **(1)** the quality of the proposed curriculum and instructional practices;
+  - **(2)** the degree of flexibility afforded by the State educational agency and, if applicable, the local educational agency to the charter school;
+  - **(3)** the extent of community support for the application;
+  - **(4)** the ambitiousness of the objectives for the charter school;
+  - **(5)** the quality of the strategy for assessing achievement of those objectives;
+  - **(6)** the likelihood that the charter school will meet those objectives and improve educational results for students; and
+  - **(7)** in the case of an eligible applicant that proposes to use grant funds to support dissemination activities under subsection (f)(6)(B) of this section, the quality of those activities and the likelihood that those activities will improve student achievement.
+- **(c)** The Secretary, and each State educational agency receiving a grant under this subpart, shall use a peer review process to review applications for assistance under this subpart.
+- **(d)** The Secretary and each State educational agency receiving a grant under this subpart, shall award grants and subgrants under this subpart in a manner that, to the extent possible, ensures that such grants and subgrants—
+  - **(1)** are distributed throughout different areas of the Nation and each State, including urban and rural areas; and
+  - **(2)** will assist charter schools representing a variety of educational approaches, such as approaches designed to reduce school size.
+- **(e)** The Secretary may waive any statutory or regulatory requirement over which the Secretary exercises administrative authority except any such requirement relating to the elements of a charter school described in section 7221i(1) of this title , if—
+  - **(1)** the waiver is requested in an approved application under this subpart; and
+  - **(2)** the Secretary determines that granting such a waiver will promote the purpose of this subpart.
 - **(f)**
-  - **(1)** To assist charter schools in accomplishing the objectives described in subsection (e), an eligible entity receiving a grant under subsection (a) shall, in accordance with State and local law, directly or indirectly, alone or in collaboration with others, deposit the funds received under subsection (a) (other than funds used for administrative costs in accordance with subsection (g)) in a reserve account established and maintained by the eligible entity for this purpose. Amounts deposited in such account shall be used by the eligible entity for one or more of the following purposes:
-    - **(A)** Guaranteeing, insuring, and reinsuring bonds, notes, evidences of debt, loans, and interests therein, the proceeds of which are used for an objective described in subsection (e).
-    - **(B)** Guaranteeing and insuring leases of personal and real property for an objective described in subsection (e).
-    - **(C)** Facilitating financing by identifying potential lending sources, encouraging private lending, and other similar activities that directly promote lending to, or for the benefit of, charter schools.
-    - **(D)** Facilitating the issuance of bonds by charter schools, or by other public entities for the benefit of charter schools, by providing technical, administrative, and other appropriate assistance (including the recruitment of bond counsel, underwriters, and potential investors and the consolidation of multiple charter school projects within a single bond issue).
-  - **(2)** Funds received under subsection (a) and deposited in the reserve account established under paragraph (1) shall be invested in obligations issued or guaranteed by the United States or a State, or in other similarly low-risk securities.
-  - **(3)** Any earnings on funds received under subsection (a) shall be deposited in the reserve account established under paragraph (1) and used in accordance with this subsection.
-- **(g)** An eligible entity may use not more than 2.5 percent of the funds received under subsection (a) for the administrative costs of carrying out its responsibilities under this section (excluding subsection (k)).
-- **(h)**
-  - **(1)** The financial records of each eligible entity receiving a grant under subsection (a) shall be maintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
-  - **(2)**
-    - **(A)** Each eligible entity receiving a grant under subsection (a) shall submit to the Secretary an annual report of the entity’s operations and activities under this section (excluding subsection (k)).
-    - **(B)** Each annual report submitted under subparagraph (A) shall include—
-      - **(i)** a copy of the most recent financial statements, and any accompanying opinion on such statements, prepared by the independent public accountant reviewing the financial records of the eligible entity;
-      - **(ii)** a copy of any report made on an audit of the financial records of the eligible entity that was conducted under paragraph (1) during the reporting period;
-      - **(iii)** an evaluation by the eligible entity of the effectiveness of its use of the Federal funds provided under subsection (a) in leveraging private funds;
-      - **(iv)** a listing and description of the charter schools served during the reporting period, including the amount of funds used by each school, the type of project facilitated by the grant, and the type of assistance provided to the charter schools;
-      - **(v)** a description of the activities carried out by the eligible entity to assist charter schools in meeting the objectives set forth in subsection (e); and
-      - **(vi)** a description of the characteristics of lenders and other financial institutions participating in the activities carried out by the eligible entity under this section (excluding subsection (k)) during the reporting period.
-    - **(C)** The Secretary shall review the reports submitted under subparagraph (A) and shall provide a comprehensive annual report to Congress on the activities conducted under this section (excluding subsection (k)).
-- **(i)** No financial obligation of an eligible entity entered into pursuant to this section (such as an obligation under a guarantee, bond, note, evidence of debt, or loan) shall be an obligation of, or guaranteed in any respect by, the United States. The full faith and credit of the United States is not pledged to the payment of funds that may be required to be paid under any obligation made by an eligible entity pursuant to any provision of this section.
-- **(j)**
-  - **(1)** The Secretary, in accordance with chapter 37 of title 31, shall collect—
-    - **(A)** all of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines, not earlier than 2 years after the date on which the eligible entity first received funds under subsection (a), that the eligible entity has failed to make substantial progress in carrying out the purposes described in subsection (f)(1); or
-    - **(B)** all or a portion of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines that the eligible entity has permanently ceased to use all or a portion of the funds in such account to accomplish any purpose described in subsection (f)(1).
-  - **(2)** The Secretary shall not exercise the authority provided in paragraph (1) to collect from any eligible entity any funds that are being properly used to achieve one or more of the purposes described in subsection (f)(1).
-  - **(3)** The provisions of sections 451, 452, and 458 of the General Education Provisions Act [ 20 U.S.C. 1234 , 1234a, 1234g] shall apply to the recovery of funds under paragraph (1).
-  - **(4)** This subsection shall not be construed to impair or affect the authority of the Secretary to recover funds under part D of the General Education Provisions Act ( 20 U.S.C. 1234 et seq.).
-- **(k)**
-  - **(1)** In this subsection, the term “per-pupil facilities aid program” means a program in which a State makes payments, on a per-pupil basis, to charter schools to provide the schools with financing—
-    - **(A)** that is dedicated solely to funding charter school facilities; or
-    - **(B)** a portion of which is dedicated for funding charter school facilities.
-  - **(2)**
-    - **(A)** From the amount reserved under section 7221a(b)(1) of this title and remaining after the Secretary makes grants under subsection (a), the Secretary shall make grants, on a competitive basis, to States to pay for the Federal share of the cost of establishing or enhancing, and administering, per-pupil facilities aid programs.
-    - **(B)** The Secretary shall award grants under this subsection for periods of not more than 5 years.
-    - **(C)** The Federal share of the cost described in subparagraph (A) for a per-pupil facilities aid program shall be not more than—
-      - **(i)** 90 percent of the cost, for the first fiscal year for which the program receives assistance under this subsection;
-      - **(ii)** 80 percent for the second such year;
-      - **(iii)** 60 percent for the third such year;
-      - **(iv)** 40 percent for the fourth such year; and
-      - **(v)** 20 percent for the fifth such year.
-    - **(D)** A State receiving a grant under this subsection may partner with 1 or more organizations, and such organizations may provide not more than 50 percent of the State share of the cost of establishing or enhancing, and administering, the per-pupil facilities aid program.
-    - **(E)** A State may receive more than 1 grant under this subsection, so long as the amount of total funds provided to charter schools increases with each successive grant.
-  - **(3)**
-    - **(A)** A State that receives a grant under this subsection shall use the funds made available through the grant to establish or enhance, and administer, a per-pupil facilities aid program for charter schools in the State of the applicant.
-    - **(B)** From the amount made available to a State through a grant under this subsection for a fiscal year, the State may reserve not more than 5 percent to carry out evaluations, to provide technical assistance, and to disseminate information.
-    - **(C)** Funds made available under this subsection shall be used to supplement, and not supplant, State and local public funds expended to provide per-pupil facilities aid programs, operations financing programs, or other programs, for charter schools.
+  - **(1)** Each State educational agency receiving a grant under this subpart shall use such grant funds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
+  - **(2)** Each eligible applicant receiving funds from the Secretary or a State educational agency shall use such funds to plan and implement a charter school, or to disseminate information about the charter school and successful practices in the charter school, in accordance with this subpart.
+  - **(3)** An eligible applicant receiving a grant or subgrant under this subpart may use the grant or subgrant funds only for—
+    - **(A)** post-award planning and design of the educational program, which may include—
+      - **(i)** refinement of the desired educational results and of the methods for measuring progress toward achieving those results; and
+      - **(ii)** professional development of teachers and other staff who will work in the charter school; and
+    - **(B)** initial implementation of the charter school, which may include—
+      - **(i)** informing the community about the school;
+      - **(ii)** acquiring necessary equipment and educational materials and supplies;
+      - **(iii)** acquiring or developing curriculum materials; and
+      - **(iv)** other initial operational costs that cannot be met from State or local sources.
   - **(4)**
-    - **(A)** No State may be required to participate in a program carried out under this subsection.
-    - **(B)**
-      - **(i)** To be eligible to receive a grant under this subsection, a State shall establish or enhance, and administer, a per-pupil facilities aid program for charter schools in the State, that—
-        - **(I)** is specified in State law; and
-        - **(II)** provides annual financing, on a per-pupil basis, for charter school facilities.
-      - **(ii)** A State that is required under State law to provide its charter schools with access to adequate facility space, but that does not have a per-pupil facilities aid program for charter schools specified in State law, is eligible to receive a grant under this subsection if the State agrees to use the funds to develop a per-pupil facilities aid program consistent with the requirements of this subsection.
-  - **(5)** To be eligible to receive a grant under this subsection, a State shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+    - **(A)** Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 5 percent of such grant funds for administrative expenses associated with the charter school grant program assisted under this subpart.
+    - **(B)** A local educational agency may not deduct funds for administrative fees or expenses from a subgrant awarded to an eligible applicant, unless the eligible applicant enters voluntarily into a mutually agreed upon arrangement for administrative services with the relevant local educational agency. Absent such approval, the local educational agency shall distribute all such subgrant funds to the eligible applicant without delay.
+  - **(5)** Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 10 percent of the grant funds for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrant under this subpart, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of the eligible applicant until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
+  - **(6)**
+    - **(A)** A charter school may apply for funds under this subpart, whether or not the charter school has applied for or received funds under this subpart for planning, program design, or implementation, to carry out the activities described in subparagraph (B) if the charter school has been in operation for at least 3 consecutive years and has demonstrated overall success, including—
+      - **(i)** substantial progress in improving student academic achievement;
+      - **(ii)** high levels of parent satisfaction; and
+      - **(iii)** the management and leadership necessary to overcome initial start-up problems and establish a thriving, financially viable charter school.
+    - **(B)** A charter school described in subparagraph (A) may use funds reserved under paragraph (1) to assist other schools in adapting the charter school’s program (or certain aspects of the charter school’s program), or to disseminate information about the charter school, through such activities as—
+      - **(i)** assisting other individuals with the planning and start-up of one or more new public schools, including charter schools, that are independent of the assisting charter school and the assisting charter school’s developers, and that agree to be held to at least as high a level of accountability as the assisting charter school;
+      - **(ii)** developing partnerships with other public schools, including charter schools, designed to improve student academic achievement in each of the schools participating in the partnership;
+      - **(iii)** developing curriculum materials, assessments, and other materials that promote increased student achievement and are based on successful practices within the assisting charter school; and
+      - **(iv)** conducting evaluations and developing materials that document the successful practices of the assisting charter school and that are designed to improve student performance in other schools.
+- **(g)** Each State that receives a grant under this subpart and designates a tribally controlled school as a charter school shall not consider payments to a school under the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.] in determining—
+  - **(1)** the eligibility of the school to receive any other Federal, State, or local aid; or
+  - **(2)** the amount of such aid.

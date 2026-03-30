@@ -3,9 +3,10 @@ title: "Section 98c - Materials constituting the National Defense Stockpile"
 usc_title: 50
 usc_section: "98c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 98c"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-03-30T03:06:37.635Z"
+status: "active"
 ---
 
 # § 98c. Materials constituting the National Defense Stockpile
@@ -14,12 +15,14 @@ generated_at: "2026-03-30T02:56:26.197Z"
   - **(1)** Materials acquired under this subchapter and contained in the national stockpile on July 29, 1979 .
   - **(2)** Materials acquired under this subchapter after July 29, 1979 .
   - **(3)** Materials in the supplemental stockpile established by section 1704(b) of title 7 (as in effect from September 21, 1959 , through December 31, 1966 ) on July 29, 1979 .
-  - **(4)** Materials acquired by the United States under the provisions of section 4533 of this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
+  - **(4)** Materials acquired by the United States under the provisions of section 2093 of the Appendix to this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
   - **(5)** Materials transferred to the United States under section 2423 of title 22 that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President under subsection (b) of such section for stockpiling in the stockpile.
   - **(6)** Materials acquired by the Commodity Credit Corporation and transferred to the stockpile under section 714b(h) of title 15 .
   - **(7)** Materials acquired by the Commodity Credit Corporation under paragraph (2) of section 1743(a) of title 7 , and transferred to the stockpile under the third sentence of such section.
   - **(8)** Materials transferred to the stockpile by the President under paragraph (4) of section 1743(a) of title 7 .
-  - **(9)** Materials transferred to the stockpile under subsection (b).
-  - **(10)** Materials transferred to the stockpile under subsection (c).
-- **(b)** Notwithstanding any other provision of law, any material that (1) is under the control of any department or agency of the United States, (2) is determined by the head of such department or agency to be excess to its needs and responsibilities, and (3) is suitable for transfer or disposal through the stockpile shall be transferred to the stockpile. Any such transfer shall be made without reimbursement to such department or agency, but all costs required to effect such transfer shall be paid or reimbursed from funds appropriated to carry out this subchapter.
-- **(c)** The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under subsection (b), are suitable for disposal through the stockpile, and are uncontaminated.
+  - **(9)** Materials transferred to the stockpile under subsection (b) of this section.
+  - **(10)** Materials transferred to the stockpile under subsection (c) of this section.
+- **(b)** Notwithstanding any other provision of law, any material that (1) is under the control of any department or agency of the United States, (2) is determined by the head of such department or agency to be excess to its needs and responsibilities, and (3) is required for the stockpile shall be transferred to the stockpile. Any such transfer shall be made without reimbursement to such department or agency, but all costs required to effect such transfer shall be paid or reimbursed from funds appropriated to carry out this subchapter.
+- **(c)**
+  - **(1)** The Secretary of Energy, in consultation with the Secretary of Defense, shall transfer to the stockpile for disposal in accordance with this subchapter uncontaminated materials that are in the Department of Energy inventory of materials for the production of defense-related items, are excess to the requirements of the Department for that purpose, and are suitable for transfer to the stockpile and disposal through the stockpile.
+  - **(2)** The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under this subsection, are suitable for disposal through the stockpile, and are uncontaminated.

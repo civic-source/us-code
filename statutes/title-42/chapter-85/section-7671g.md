@@ -3,9 +3,10 @@ title: "Section 7671g - National recycling and emission reduction program"
 usc_title: 42
 usc_section: "7671g"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7671g"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-03-30T03:06:22.824Z"
+status: "active"
 ---
 
 # § 7671g. National recycling and emission reduction program
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(3)** The regulations under this subsection shall include requirements that—
     - **(A)** reduce the use and emission of such substances to the lowest achievable level, and
     - **(B)** maximize the recapture and recycling of such substances.
-- **(b)** The regulations under subsection (a) shall establish standards and requirements for the safe disposal of class I and II substances. Such regulations shall include each of the following—
+- **(b)** The regulations under subsection (a) of this section shall establish standards and requirements for the safe disposal of class I and II substances. Such regulations shall include each of the following—
   - **(1)** Requirements that class I or class II substances contained in bulk in appliances, machines or other goods shall be removed from each such appliance, machine or other good prior to the disposal of such items or their delivery for recycling.
   - **(2)** Requirements that any appliance, machine or other good containing a class I or class II substance in bulk shall not be manufactured, sold, or distributed in interstate commerce or offered for sale or distribution in interstate commerce unless it is equipped with a servicing aperture or an equally effective design feature which will facilitate the recapture of such substance during service and repair or disposal of such item.
   - **(3)** Requirements that any product in which a class I or class II substance is incorporated so as to constitute an inherent element of such product shall be disposed of in a manner that reduces, to the maximum extent practicable, the release of such substance into the environment. If the Administrator determines that the application of this paragraph to any product would result in producing only insignificant environmental benefits, the Administrator shall include in such regulations an exception for such product.

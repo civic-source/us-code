@@ -3,9 +3,10 @@ title: "Section 166 - Combatant commands: budget proposals"
 usc_title: 10
 usc_section: "166"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 166"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-03-30T03:04:17.215Z"
+status: "active"
 ---
 
 # § 166. Combatant commands: budget proposals
@@ -16,4 +17,4 @@ generated_at: "2026-03-30T02:53:38.042Z"
   - **(2)** Force training.
   - **(3)** Contingencies.
   - **(4)** Selected operations.
-- **(c)** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in section 322 of this title .
+- **(c)** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in section 2011 of this title .

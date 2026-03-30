@@ -3,9 +3,10 @@ title: "Section 4864 - Increased participation of United States contractors in l
 usc_title: 22
 usc_section: "4864"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4864"
-generated_at: "2026-03-30T02:55:05.415Z"
+generated_at: "2026-03-30T03:04:53.683Z"
+status: "active"
 ---
 
 # § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:05.415Z"
 - **(c)** With respect to local guard contracts for a Foreign Service building which exceed $250,000 and are entered into after February 16, 1990 , the Secretary of State shall—
   - **(1)** establish procedures to ensure that all solicitations for such contracts are adequately advertised in the Commerce and Business Daily;
   - **(2)** absent compelling reasons, award such contracts through the competitive process;
-  - **(3)** in evaluating proposals for such contracts, award contracts to the technically acceptable firm offering the lowest evaluated price, except that proposals of United States persons and qualified United States joint venture persons (as defined in subsection (d)) shall be evaluated by reducing the bid price by 10 percent;
+  - **(3)** in evaluating proposals for such contracts, award contracts to the technically acceptable firm offering the lowest evaluated price, except that proposals of United States persons and qualified United States joint venture persons (as defined in subsection (d) of this section) shall be evaluated by reducing the bid price by 10 percent;
   - **(4)** in countries where contract denomination and/or payment in local currencies constitutes a barrier to competition by United States firms—
     - **(A)** allow solicitations to be bid in United States dollars; and
     - **(B)** allow contracts awarded to United States firms to be paid in United States dollars;
@@ -28,9 +29,9 @@ generated_at: "2026-03-30T02:55:05.415Z"
   - **(1)** the term “United States person” means a person which—
     - **(A)** is incorporated or legally organized under the laws of the United States, including the laws of any State, locality, or the District of Columbia;
     - **(B)** has its principal place of business in the United States;
-    - **(C)** has been incorporated or legally organized in the United States for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to the contract under subsection (c);
+    - **(C)** has been incorporated or legally organized in the United States for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to the contract under subsection (c) of this section;
     - **(D)** has performed within the United States or overseas security services similar in complexity to the contract being bid;
-    - **(E)** with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+    - **(E)** with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
     - **(F)**
       - **(i)** employs United States citizens in at least 80 percent of its principal management positions in the United States; and
       - **(ii)** employs United States citizens in more than half of its permanent, full-time positions in the United States; and
@@ -43,7 +44,6 @@ generated_at: "2026-03-30T02:55:05.415Z"
     - **(C)** multiple exchange rates which significantly disadvantage United States firms;
     - **(D)** government restrictions inhibiting the free convertibility of foreign exchange; or
     - **(E)** conditions of extreme local political instability.
-- **(e)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States minority small business contractors.
-- **(f)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
-- **(g)** With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
-- **(h)** In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title ), subject to congressional notification 15-days prior to any such award.
+- **(e)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) of this section shall be allocated to the extent practicable for contracts with United States minority small business contractors.
+- **(f)** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) of this section shall be allocated to the extent practicable for contracts with United States small business contractors.
+- **(g)** With respect to local guard contracts subject to subsection (c) of this section, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.

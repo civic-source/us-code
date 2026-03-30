@@ -3,9 +3,10 @@ title: "Section 2225 - Fire prevention and control guidelines for places of publ
 usc_title: 15
 usc_section: "2225"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2225"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-03-30T03:04:31.201Z"
+status: "active"
 ---
 
 # § 2225. Fire prevention and control guidelines for places of public accommodation
@@ -14,8 +15,8 @@ generated_at: "2026-03-30T02:54:08.169Z"
   - **(1)** a requirement that hard-wired, single-station smoke detectors be installed in accordance with National Fire Protection Association Standard 74 or any successor standard to that standard in each guest room in each place of public accommodation affecting commerce; and
   - **(2)** a requirement that an automatic sprinkler system be installed in accordance with National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard, whichever is appropriate, in each place of public accommodation affecting commerce except those places that are 3 stories or lower.
 - **(b)**
-  - **(1)** The requirement described in subsection (a)(2) shall not apply to a place of public accommodation affecting commerce with an automatic sprinkler system installed before October 25, 1992 , if the automatic sprinkler system is installed in compliance with an applicable standard (adopted by the governmental authority having jurisdiction, and in effect, at the time of installation) that required the placement of a sprinkler head in the sleeping area of each guest room.
-  - **(2)** The requirement described in subsection (a)(2) shall not apply to a place of public accommodation affecting commerce to the extent that such place of public accommodation affecting commerce is subject to a standard that includes a requirement or prohibition that prevents compliance with a provision of National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard. In such a case, the place of public accommodation affecting commerce is exempt only from that specific provision.
+  - **(1)** The requirement described in subsection (a)(2) of this section shall not apply to a place of public accommodation affecting commerce with an automatic sprinkler system installed before October 25, 1992 , if the automatic sprinkler system is installed in compliance with an applicable standard (adopted by the governmental authority having jurisdiction, and in effect, at the time of installation) that required the placement of a sprinkler head in the sleeping area of each guest room.
+  - **(2)** The requirement described in subsection (a)(2) of this section shall not apply to a place of public accommodation affecting commerce to the extent that such place of public accommodation affecting commerce is subject to a standard that includes a requirement or prohibition that prevents compliance with a provision of National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard. In such a case, the place of public accommodation affecting commerce is exempt only from that specific provision.
 - **(c)** The provisions of this section shall not be construed to limit the power of any State or political subdivision thereof to implement or enforce any law, rule, regulation, or standard concerning fire prevention and control.
 - **(d)** For purposes of this section, the following definitions shall apply:
   - **(1)** The term “smoke detector” means an alarm that is designed to respond to the presence of visible or invisible particles of combustion.

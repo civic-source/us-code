@@ -3,20 +3,23 @@ title: "Section 104 - Mississippi"
 usc_title: 28
 usc_section: "104"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 104"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-03-30T03:05:05.808Z"
+status: "active"
 ---
 
 # § 104. Mississippi
 
+Mississippi is divided into two judicial districts to be known as the northern and southern districts of Mississippi.
+
 - **(a)** The northern district comprises three divisions.
   - **(1)** The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston. Court for the Aberdeen Division shall be held at Aberdeen, Ackerman, and Corinth.
   - **(2)** The Oxford Division comprises the counties of Benton, Calhoun, DeSoto, Lafayette, Marshall, Panola, Pontotoc, Quitman, Tallahatchie, Tate, Tippah, Tunica, Union, and Yalobusha. Court for the Oxford Division shall be held at Oxford.
-  - **(3)** The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington. Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville. Southern District
-- **(b)** The southern district comprises four divisions.
-  - **(1)** The Northern Division comprises the counties of Copiah, Hinds, Holmes, Issaquena, Kemper, Lauderdale, Leake, Madison, Neshoba, Newton, Noxubee, Rankin, Scott, Simpson, Sharkey, Smith, Warren, and Yazoo. Court for the Northern Division shall be held at Jackson.
-  - **(2)** The Southern Division comprises the counties of George, Greene, Hancock, Harrison, Jackson, Pearl River, and Stone. Court for the Southern Division shall be held at Gulfport.
-  - **(3)** The Eastern Division comprises the counties of Clarke, Covington, Forrest, Jasper, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, Wayne, and Walthall. Court for the Eastern Division shall be held at Hattiesburg.
-  - **(4)** The Western Division comprises the counties of Adams, Amite, Claiborne, Franklin, Jefferson, Lincoln, Pike, and Wilkinson. Court for the Western Division shall be held at Natchez.
-
+  - **(3)** The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington. Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
+- **(b)** The southern district comprises five divisions.
+  - **(1)** The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith. Court for the Jackson division shall be held at Jackson.
+  - **(2)** The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne. Court for the eastern division shall be held at Meridian.
+  - **(3)** The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo. Court for the western division shall be held at Natchez and Vicksburg.
+  - **(4)** The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone. Court for the southern division shall be held at Biloxi and Gulfport.
+  - **(5)** The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall. Court for the Hattiesburg division shall be held at Hattiesburg.

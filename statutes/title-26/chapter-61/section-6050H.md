@@ -3,9 +3,10 @@ title: "Section 6050H - Returns relating to mortgage interest received in trade 
 usc_title: 26
 usc_section: "6050H"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6050H"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-03-30T03:05:18.712Z"
+status: "active"
 ---
 
 # § 6050H. Returns relating to mortgage interest received in trade or business from individuals
@@ -18,11 +19,8 @@ generated_at: "2026-03-30T02:55:27.834Z"
   - **(2)** contains—
     - **(A)** the name and address of the individual from whom the interest described in subsection (a)(2) was received,
     - **(B)** the amount of such interest (other than points) received for the calendar year,
-    - **(C)** the amount of points on the mortgage received during the calendar year and whether such points were paid directly by the borrower,
-    - **(D)** the amount of outstanding principal on the mortgage as of the beginning of such calendar year,
-    - **(E)** the date of the origination of the mortgage,
-    - **(F)** the address (or other description in the case of property without an address) of the property which secures the mortgage, and
-    - **(G)** such other information as the Secretary may prescribe.
+    - **(C)** the amount of points on the mortgage received during the calendar year and whether such points were paid directly by the borrower, and
+    - **(D)** such other information as the Secretary may prescribe.
 - **(c)** For purposes of subsection (a)—
   - **(1)** The term “person” includes any governmental unit (and any agency or instrumentality thereof).
   - **(2)** In the case of a governmental unit or any agency or instrumentality thereof—
@@ -30,7 +28,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
     - **(B)** any return required under subsection (a) shall be made by the officer or employee appropriately designated for the purpose of making such return.
 - **(d)** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
-  - **(2)** the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subparagraphs (C), (D), (E), and (F) of subsection (b)(2)).
+  - **(2)** the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subsection (b)(2)(C)).
 - **(e)** For purposes of this section, except as provided in regulations prescribed by the Secretary, the term “mortgage” means any obligation secured by real property.
 - **(f)** Except to the extent provided in regulations prescribed by the Secretary, in the case of interest received by any person on behalf of another person, only the person first receiving such interest shall be required to make the return under subsection (a).
 - **(g)** For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder’s proportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
@@ -40,5 +38,5 @@ generated_at: "2026-03-30T02:55:27.834Z"
   - **(3)** For purposes of this subsection—
     - **(A)** rules similar to the rules of subsection (c) shall apply, and
     - **(B)** the term “mortgage insurance” means—
-      - **(i)** mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
+      - **(i)** mortgage insurance provided by the Veterans Administration, the Federal Housing Administration, or the Rural Housing Administration, and
       - **(ii)** private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ( 12 U.S.C. 4901 ), as in effect on the date of the enactment of this subsection).

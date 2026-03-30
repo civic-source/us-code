@@ -3,20 +3,21 @@ title: "Section 2213 - United States Microfinance Loan Facility"
 usc_title: 22
 usc_section: "2213"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2213"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-03-30T03:04:53.626Z"
+status: "active"
 ---
 
 # § 2213. United States Microfinance Loan Facility
 
-- **(a)** The President is authorized to establish a United States Microfinance Loan Facility (in this section referred to as the “Facility”) to pool and manage the risk from natural disasters, war or civil conflict, national financial crisis, or short-term financial movements that threaten the long-term development of United States-supported financial intermediaries.
+- **(a)** The Administrator is authorized to establish a United States Microfinance Loan Facility (in this section referred to as the “Facility”) to pool and manage the risk from natural disasters, war or civil conflict, national financial crisis, or short-term financial movements that threaten the long-term development of United States-supported microfinance institutions.
 - **(b)**
-  - **(1)** The Administrator shall make disbursements from the Facility to United States-supported financial intermediaries to prevent the bankruptcy of such institutions caused by—
+  - **(1)** The Administrator shall make disbursements from the Facility to United States-supported microfinance institutions to prevent the bankruptcy of such institutions caused by—
     - **(A)** natural disasters;
     - **(B)** national wars or civil conflict; or
-    - **(C)** national financial crisis or other short-term financial movements that threaten the long-term development of United States-supported financial intermediaries.
-  - **(2)** Assistance under this section shall be in the form of loans or loan guarantees for financial intermediaries that demonstrate the capacity to resume self-sustained operations within a reasonable time period.
+    - **(C)** national financial crisis or other short-term financial movements that threaten the long-term development of United States-supported microfinance institutions.
+  - **(2)** Assistance under this section shall be in the form of loans or loan guarantees for microfinance institutions that demonstrate the capacity to resume self-sustained operations within a reasonable time period.
   - **(3)** During each of the fiscal years 2005 through 2009, funds may not be made available from the Facility until 15 days after notification of the proposed availability of the funds has been provided to the congressional committees specified in section 2394–1 of this title in accordance with the procedures applicable to reprogramming notifications under that section.
 - **(c)**
   - **(1)** In providing the credit assistance authorized by this section, the Administrator should apply, as appropriate, the policy provisions in subchapter I of this chapter that are applicable to development assistance activities.

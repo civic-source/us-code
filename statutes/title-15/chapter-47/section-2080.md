@@ -3,9 +3,10 @@ title: "Section 2080 - Limitations on jurisdiction of Consumer Product Safety Co
 usc_title: 15
 usc_section: "2080"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 2080"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-03-30T03:04:31.199Z"
+status: "active"
 ---
 
 # § 2080. Limitations on jurisdiction of Consumer Product Safety Commission
@@ -23,5 +24,5 @@ generated_at: "2026-03-30T02:54:08.166Z"
       - **(iii)** a regulation under section 1261(q)(1) of this title ,
     - **(B)** When the Commission appoints a Panel, the Panel shall convene within 30 days after the date the final appointment is made to the Panel. The Panel shall report its determination to the Commission not later than 120 days after the date the Panel is convened or, if the Panel requests additional time, within a time period specified by the Commission. If the determination reported to the Commission states that a substance in a product is a carcinogen, mutagen, or a teratogen, the Panel shall include in its report an estimate, if such an estimate is feasible, of the probable harm to human health that will result from exposure to the substance.
     - **(C)** A Panel appointed under section 2077 of this title shall terminate when it has submitted its report unless the Commission extends the existence of the Panel.
-    - **(D)** Chapter 10 of title 5 shall not apply with respect to any Panel established under this section.
+    - **(D)** The Federal Advisory Committee Act shall not apply with respect to any Panel established under this section.
 - **(c)** Each Panel’s report shall contain a complete statement of the basis for the Panel’s determination. The Commission shall consider the report of the Panel and incorporate such report into the advance notice of proposed rulemaking and final rule.

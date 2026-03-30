@@ -3,21 +3,23 @@ title: "Section 53706 - Eligible purposes of obligations"
 usc_title: 46
 usc_section: "53706"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 53706"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-03-30T03:06:27.189Z"
+status: "active"
 ---
 
 # § 53706. Eligible purposes of obligations
 
 - **(a)** To be eligible for a guarantee under this chapter, an obligation must aid in any of the following:
   - **(1)**
-    - **(A)** Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel designed principally for research, or for commercial use—
+    - **(A)** Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
       - **(i)** in the coastwise or intercoastal trade;
       - **(ii)** on the Great Lakes, or on bays, sounds, rivers, harbors, or inland lakes of the United States;
       - **(iii)** in foreign trade as defined in section 109(b) of this title ;
-      - **(iv)** as an ocean thermal energy conversion facility or plantship; or
-      - **(v)** as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels.
+      - **(iv)** as an ocean thermal energy conversion facility or plantship;
+      - **(v)** as a floating drydock in the construction, reconstruction, reconditioning, or repair of vessels; or
+      - **(vi)** as an eligible export vessel in worldwide trade.
     - **(B)** A guarantee under subparagraph (A) may not be made more than one year after delivery of the vessel (or redelivery if the vessel was reconstructed or reconditioned) unless the proceeds of the obligation are used to finance the construction, reconstruction, or reconditioning of a vessel or of facilities or equipment related to marine operations.
   - **(2)** Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, reconditioning, or purchase of a vessel owned by citizens of the United States and designed principally for research, or for commercial use in the fishing industry.
   - **(3)** Financing the purchase, reconstruction, or reconditioning of a vessel or fishery facility—
@@ -33,13 +35,11 @@ generated_at: "2026-03-30T02:56:15.576Z"
     - **(A)** the purchase of individual fishing quotas in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (including the reimbursement of obligors for expenditures previously made for such a purchase);
     - **(B)** activities that assist in the transition to reduced fishing capacity; or
     - **(C)** technologies or upgrades designed to improve collection and reporting of fishery-dependent data, to reduce bycatch, to improve selectivity or reduce adverse impacts of fishing gear, or to improve safety.
-  - **(8)** Financing (including reimbursement of an obligor for expenditures previously made for) the reconstruction, reconditioning, retrofitting, repair, reconfiguration, or similar work in a shipyard located in the United States.
 - **(b)** An obligation guaranteed under subsection (a)(6) or (7) shall be treated, for purposes of this chapter, in the same manner and to the same extent as an obligation that aids in financing the construction, reconstruction, reconditioning, or purchase of a vessel, except with respect to provisions that by their nature can only be applied to vessels.
 - **(c)**
   - **(1)** In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to—
-    - **(A)** a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 ( 46 U.S.C. 53101 note);
+    - **(A)** a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 ( 46 U.S.C. 53101 note); and
     - **(B)** after applying subparagraph (A), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
       - **(i)** is suitable for service as a naval auxiliary in time of war or national emergency; and
-      - **(ii)** meets a shortfall in sealift capacity or capability; and
-    - **(C)** after applying subparagraphs (A) and (B), Vessels of National Interest.
+      - **(ii)** meets a shortfall in sealift capacity or capability.
   - **(2)** The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.

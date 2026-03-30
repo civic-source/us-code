@@ -3,9 +3,10 @@ title: "Section 2952 - Time of making annual reports"
 usc_title: 5
 usc_section: "2952"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 2952"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-03-30T03:04:06.064Z"
+status: "active"
 ---
 
 # § 2952. Time of making annual reports

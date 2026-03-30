@@ -3,15 +3,16 @@ title: "Section 5321 - Civil penalties"
 usc_title: 31
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 5321"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-03-30T03:05:28.368Z"
+status: "active"
 ---
 
 # § 5321. Civil penalties
 
 - **(a)**
-  - **(1)** A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314, 5315, and 5336 of this title or a regulation prescribed under sections 5314, 5315, and 5336), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508 , is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
+  - **(1)** A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508 , is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
   - **(2)** The Secretary of the Treasury may impose an additional civil penalty on a person not filing a report, or filing a report containing a material omission or misstatement, under section 5316 of this title or a regulation prescribed under section 5316. A civil penalty under this paragraph may not be more than the amount of the monetary instrument for which the report was required. A civil penalty under this paragraph is reduced by an amount forfeited under section 5317(b) of this title .
   - **(3)** A person not filing a report under a regulation prescribed under section 5315 of this title or not complying with an injunction under section 5320 of this title enjoining a violation of, or enforcing compliance with, section 5315 or a regulation prescribed under section 5315, is liable to the Government for a civil penalty of not more than $10,000.
   - **(4)**
@@ -34,8 +35,8 @@ generated_at: "2026-03-30T02:55:34.069Z"
       - **(i)** in the case of a violation involving a transaction, the amount of the transaction, or
       - **(ii)** in the case of a violation involving a failure to report the existence of an account or any identifying information required to be provided with respect to an account, the balance in the account at the time of the violation.
   - **(6)**
-    - **(A)** The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter (except section 5336) or any regulation prescribed under this subchapter (except section 5336).
-    - **(B)** If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter (except section 5336) or any regulation prescribed under this subchapter (except section 5336), the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+    - **(A)** The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
+    - **(B)** If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
   - **(7)** The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 - **(b)**
   - **(1)** The Secretary of the Treasury may assess a civil penalty under subsection (a) at any time before the end of the 6-year period beginning on the date of the transaction with respect to which the penalty is assessed.
@@ -50,17 +51,3 @@ generated_at: "2026-03-30T02:55:34.069Z"
   - **(3)**
     - **(A)** The Secretary of the Treasury shall prescribe by regulation the terms and conditions which shall apply to any delegation under paragraph (1).
     - **(B)** The terms and conditions authorized under subparagraph (A) may include, in the Secretary’s sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
-- **(f)**
-  - **(1)** In addition to any other fines permitted under this section and section 5322, with respect to a person who has previously violated a provision of (or rule issued under) this subchapter, section 21 of the Federal Deposit Insurance Act ( 12 U.S.C. 1829b ), or section 123 of Public Law 91–508 ( 12 U.S.C. 1953 ), the Secretary of the Treasury, if practicable, may impose an additional civil penalty against such person for each additional such violation in an amount that is not more than the greater of—
-    - **(A)** if practicable to calculate, 3 times the profit gained or loss avoided by such person as a result of the violation; or
-    - **(B)** 2 times the maximum penalty with respect to the violation.
-  - **(2)** For purposes of determining whether a person has committed a previous violation under paragraph (1), the determination shall only include violations occurring after the date of enactment of the Anti-Money Laundering Act of 2020.
-- **(g)**
-  - **(1)** In this subsection, the term “egregious violation” means, with respect to an individual—
-    - **(A)** a criminal violation—
-      - **(i)** for which the individual is convicted; and
-      - **(ii)** for which the maximum term of imprisonment is more than 1 year; and
-    - **(B)** a civil violation in which—
-      - **(i)** the individual willfully committed the violation; and
-      - **(ii)** the violation facilitated money laundering or the financing of terrorism.
-  - **(2)** An individual found to have committed an egregious violation of the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, or any rules issued under the Bank Secrecy Act, shall be barred from serving on the board of directors of a United States financial institution during the 10-year period that begins on the date on which the conviction or judgment, as applicable, with respect to the egregious violation is entered.

@@ -1,12 +1,24 @@
 ---
-title: "Section 121d - Transferred"
+title: "Section 121d - Senate Gift Shop"
 usc_title: 2
 usc_section: "121d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 121d"
-generated_at: "2026-03-30T02:53:04.787Z"
+generated_at: "2026-03-30T03:04:04.404Z"
+status: "active"
 ---
 
-# § 121d. Transferred
+# § 121d. Senate Gift Shop
 
+- **(a)** The Secretary of the Senate is authorized to establish a Senate Gift Shop for the purpose of providing for the sale of gift items to Members of the Senate, staff, and the general public.
+- **(b)** All moneys received from sales and other services by the Senate Gift Shop shall be deposited in the revolving fund established by subsection (c) of this section and shall be available for purposes of this section.
+- **(c)**
+  - **(1)** There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “ Salaries, Officers and Employees ” and “ Office of the Secretary ”, for amounts used from such account to pay the salaries of employees of the Senate Gift Shop.
+  - **(2)** The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
+  - **(3)** The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
+- **(d)** The provisions of section 5104(c) of title 40 shall not be applicable to any activity carried out pursuant to this section.
+- **(e)** To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund such sum as he may determine necessary, not to exceed $300,000.
+- **(f)** For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a) of this section, the Secretary of the Senate is authorized, upon October 6, 1992 , to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
+- **(g)** Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.
+- **(h)** The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.

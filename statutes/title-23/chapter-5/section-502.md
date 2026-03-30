@@ -3,9 +3,10 @@ title: "Section 502 - Surface transportation research, development, and technolo
 usc_title: 23
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-03-30T03:04:51.167Z"
+status: "active"
 ---
 
 # § 502. Surface transportation research, development, and technology
@@ -42,7 +43,7 @@ generated_at: "2026-03-30T02:55:12.571Z"
     - **(B)** Performance measures shall be established during the proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
     - **(C)** To the maximum extent practicable, each program pursued under this chapter shall be part of a data-driven, outcome-oriented program plan.
     - **(D)** All evaluations under this paragraph shall be made readily available to the public.
-  - **(9)** The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
+  - **(9)** The programs and activities carried out under this section shall be consistent with the transportation research and technology development strategic plan developed under section 508.
 - **(b)**
   - **(1)** The Secretary may carry out research, development, and technology transfer activities with respect to—
     - **(A)** motor carrier transportation;
@@ -53,7 +54,7 @@ generated_at: "2026-03-30T02:55:12.571Z"
     - **(A)** independently;
     - **(B)** in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
     - **(C)** by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
-  - **(4)** The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
+  - **(4)** The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan of the Secretary developed under section 508.
   - **(5)**
     - **(A)** In addition to other funds made available to carry out this chapter, the Secretary shall use such funds as may be deposited by any cooperating organization or person in a special account of the Treasury established for this purpose.
     - **(B)** The Secretary shall use funds made available to carry out this chapter to develop, administer, communicate, and promote the use of products of research, development, and technology transfer programs under this chapter.

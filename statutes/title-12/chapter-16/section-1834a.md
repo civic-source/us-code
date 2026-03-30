@@ -3,15 +3,16 @@ title: "Section 1834a - Assessment credits for qualifying activities relating to
 usc_title: 12
 usc_section: "1834a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1834a"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-03-30T03:04:29.279Z"
+status: "active"
 ---
 
 # § 1834a. Assessment credits for qualifying activities relating to distressed communities
 
 - **(a)**
-  - **(1)** The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
+  - **(1)** The Community Enterprise Assessment Credit Board established under subsection (d) of this section shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
     - **(A)** designate the eligibility requirements for any institution meeting applicable capital standards to receive an assessment credit under section 1817(b)(7) of this title ; and
     - **(B)** determine the community enterprise assessment credit available to any eligible institution under paragraph (3).
   - **(2)** An insured depository institution may apply for for 1 1 So in original. any community enterprise assessment credit for any semiannual period for—
@@ -93,7 +94,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(6)** Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
   - **(7)** The Board shall meet at the call of the Chairperson or a majority of the Board’s members.
 - **(e)**
-  - **(1)** The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) for community enterprise assessment credits and making determinations with respect to such applications.
+  - **(1)** The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) of this section for community enterprise assessment credits and making determinations with respect to such applications.
   - **(2)** The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect to any application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
 - **(f)** The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 - **(g)** No community development financial institution may receive a community enterprise assessment credit if such institution, either directly or through a community partnership—
@@ -101,7 +102,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(2)** has ever received assistance, under section 4707 of this title , for the same activity during the same semiannual period for which the institution seeks a community enterprise assessment credit under this section.
 - **(h)**
   - **(1)**
-    - **(A)** If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
+    - **(A)** If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
     - **(B)** The Board shall give priority to institutions that have supported the efforts of community development financial institutions in the qualified distressed community.
     - **(C)** The Board may also consider the following factors:
       - **(i)** The degree of difficulty in carrying out the activities that form the basis for the institution’s application.
@@ -112,11 +113,11 @@ generated_at: "2026-03-30T02:53:53.464Z"
       - **(vi)** Whether the institution had provided financial services in the designated distressed community before such semiannual period.
       - **(vii)** The degree to which the qualified activity which forms the basis for the application needs enhancement through an assessment credit.
       - **(viii)** The degree of poverty and unemployment in the designated distressed community, the proportion of the total population of the community which are low-income families and unrelated individuals, and the extent of other adverse economic conditions in such community.
-  - **(2)** If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution’s application and the amount of the assessment credit calculated in accordance with this section for such activities.
-- **(i)** Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
+  - **(2)** If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution’s application and the amount of the assessment credit calculated in accordance with this section for such activities.
+- **(i)** Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) of this section for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
 - **(j)** For purposes of this section—
   - **(1)** The term “appropriate Federal banking agency” has the meaning given to such term in section 1813(q) of this title .
-  - **(2)** The term “Board” means the Community Enterprise Assessment Credit Board established under the amendment made 2 2 So in original. The words “under the amendment made” probably should not appear. by subsection (d).
+  - **(2)** The term “Board” means the Community Enterprise Assessment Credit Board established under the amendment made 2 2 So in original. The words “under the amendment made” probably should not appear. by subsection (d) of this section.
   - **(3)** The term “insured depository institution” has the meaning given to such term in section 1813(c)(2) of this title .
   - **(4)** The term “community development financial institution” has the same meaning as in section 4702(5) of this title .
   - **(5)** The term “affiliate” has the same meaning as in section 1841 of this title .

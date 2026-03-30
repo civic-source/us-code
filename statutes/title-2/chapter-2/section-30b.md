@@ -3,16 +3,17 @@ title: "Section 30b - Notice of objecting to proceeding"
 usc_title: 2
 usc_section: "30b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 30b"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-03-30T03:04:04.387Z"
+status: "active"
 ---
 
 # § 30b. Notice of objecting to proceeding
 
 - **(a)** The Majority and Minority Leaders of the Senate or their designees shall recognize a notice of intent of a Senator who is a member of their caucus to object to proceeding to a measure or matter only if the Senator—
   - **(1)** following the objection to a unanimous consent to proceeding to, and, or passage of, a measure or matter on their behalf, submits the notice of intent in writing to the appropriate leader or their designee; and
-  - **(2)** not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice: “I, Senator ____, intend to object to proceedings to ____, dated ____ for the following reasons ____.”.
+  - **(2)** not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:
 - **(b)**
   - **(1)** The Secretary of the Senate shall establish for both the Senate Calendar of Business and the Senate Executive Calendar a separate section entitled “Notice of Intent to Object to Proceeding”.
   - **(2)** The section required by paragraph (1) shall include—

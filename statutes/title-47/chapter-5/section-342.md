@@ -3,14 +3,15 @@ title: "Section 342 - Process for issuing qualified carrier certification"
 usc_title: 47
 usc_section: "342"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 342"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-03-30T03:06:26.192Z"
+status: "active"
 ---
 
 # § 342. Process for issuing qualified carrier certification
 
-- **(a)** The Commission shall issue a certification for the purposes of section 119(g)(3)(A)(iii) 1 1 See References in Text note below. of title 17 if the Commission determines that—
+- **(a)** The Commission shall issue a certification for the purposes of section 119(g)(3)(A)(iii) of title 17 if the Commission determines that—
   - **(1)** a satellite carrier is providing local service pursuant to the statutory license under section 122 of such title in each designated market area; and
   - **(2)** with respect to each designated market area in which such satellite carrier was not providing such local service as of the date of enactment of the Satellite Television Extension and Localism Act of 2010—
     - **(A)** the satellite carrier’s satellite beams are designed, and predicted by the satellite manufacturer’s pre-launch test data, to provide a good quality satellite signal to at least 90 percent of the households in each such designated market area based on the most recent census data released by the United States Census Bureau; and
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:56:24.511Z"
 - **(c)**
   - **(1)** The Commission shall provide 30 days for public comment on a request for certification under this section.
   - **(2)** The Commission shall grant or deny a request for certification within 90 days after the date on which such request is filed.
-- **(d)** An entity granted qualified carrier status pursuant to section 119(g) 1 of title 17 shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant’s knowledge, it is in compliance with the requirements for a qualified carrier.
+- **(d)** An entity granted qualified carrier status pursuant to section 119(g) of title 17 shall file an affidavit with the Commission 30 months after such status was granted stating that, to the best of the affiant’s knowledge, it is in compliance with the requirements for a qualified carrier.
 - **(e)** For the purposes of this section:
   - **(1)** The term “designated market area” has the meaning given such term in section 122(j)(2)(C) of title 17 .
   - **(2)**

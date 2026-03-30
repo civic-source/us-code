@@ -3,9 +3,10 @@ title: "Section 1445b - Enhancing support for national marine sanctuaries"
 usc_title: 16
 usc_section: "1445b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1445b"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-03-30T03:04:48.569Z"
+status: "active"
 ---
 
 # § 1445b. Enhancing support for national marine sanctuaries
@@ -19,13 +20,13 @@ generated_at: "2026-03-30T02:54:22.969Z"
   - **(6)** the solicitation and collection by the Secretary of monetary or in-kind contributions from official sponsors for the manufacture, reproduction or use of the symbols published under paragraph (1);
   - **(7)** the retention of any monetary or in-kind contributions collected under paragraphs (5) and (6) by the Secretary; and
   - **(8)** the expenditure and use of any monetary and in-kind contributions, without appropriation, by the Secretary to designate and manage national marine sanctuaries.
-- **(b)** The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a).
-- **(c)** The Secretary may restrict the use of the symbols published under subsection (a), and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
-- **(d)** Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) is deemed to be the property of the United States.
+- **(b)** The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a) of this section.
+- **(c)** The Secretary may restrict the use of the symbols published under subsection (a) of this section, and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
+- **(d)** Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) of this section is deemed to be the property of the United States.
 - **(e)** It is unlawful for any person—
   - **(1)** designated as an official sponsor to influence or seek to influence any decision by the Secretary or any other Federal official related to the designation or management of a national marine sanctuary, except to the extent that a person who is not so designated may do so;
   - **(2)** to represent himself or herself to be an official sponsor absent a designation by the Secretary;
-  - **(3)** to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1), including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) or subsection (f); or
+  - **(3)** to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1) of this section, including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) of this section or subsection (f) of this section; or
   - **(4)** to violate any regulation promulgated by the Secretary under this section.
 - **(f)** The Secretary may authorize the use of a symbol adopted by the Secretary under subsection (a)(1) of this section by any person engaged in a collaborative effort with the Secretary to carry out the purposes and policies of this chapter and to benefit a national marine sanctuary or the System.
 - **(g)**

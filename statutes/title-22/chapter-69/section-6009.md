@@ -3,15 +3,16 @@ title: "Section 6009 - Enforcement"
 usc_title: 22
 usc_section: "6009"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6009"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-03-30T03:04:53.691Z"
+status: "active"
 ---
 
 # § 6009. Enforcement
 
-- **(a)** The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act [ 50 U.S.C. 4301 et seq.] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
+- **(a)** The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act [50 U.S.C. App. 1 et seq.] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under section 6004 of this title are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
 - **(b)** There are authorized to be appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this chapter.
 - **(c)**
-- **(d)** The penalties set forth in section 16 of the Trading With the Enemy Act [ 50 U.S.C. 4315 ] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act [ 50 U.S.C. 4301 et seq.].
+- **(d)** The penalties set forth in section 16 of the Trading With the Enemy Act [50 U.S.C. App. 16] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act [50 U.S.C. App. 1 et seq.].
 - **(e)** The Department of the Treasury shall establish and maintain a branch of the Office of Foreign Assets Control in Miami, Florida, in order to strengthen the enforcement of this chapter.

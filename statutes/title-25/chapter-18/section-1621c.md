@@ -3,9 +3,10 @@ title: "Section 1621c - Diabetes prevention, treatment, and control"
 usc_title: 25
 usc_section: "1621c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1621c"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-03-30T03:05:02.871Z"
+status: "active"
 ---
 
 # § 1621c. Diabetes prevention, treatment, and control
@@ -23,4 +24,4 @@ generated_at: "2026-03-30T02:54:52.820Z"
     - **(C)** ensure that data collected in each area office regarding diabetes and related complications among Indians are disseminated to all other area offices, subject to applicable patient privacy laws.
   - **(2)**
     - **(A)** The Secretary may establish and maintain in each area office a position of diabetes control officer to coordinate and manage any activity of that area office relating to the prevention, treatment, or control of diabetes to assist the Secretary in carrying out a program under this section or section 254c–3 of title 42 .
-    - **(B)** Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 2 2 See References in Text note below. and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
+    - **(B)** Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.

@@ -1,16 +1,17 @@
 ---
-title: "Section 4505 - Payments for commercial products and commercial services"
+title: "Section 4505 - Payments for commercial items"
 usc_title: 41
 usc_section: "4505"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "41 U.S.C. § 4505"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-03-30T03:06:01.221Z"
+status: "active"
 ---
 
-# § 4505. Payments for commercial products and commercial services
+# § 4505. Payments for commercial items
 
-- **(a)** Payments under section 4501 of this title for commercial products or commercial services may be made under terms and conditions that the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the Federal Government.
+- **(a)** Payments under section 4501 of this title for commercial items may be made under terms and conditions that the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the Federal Government.
 - **(b)** The head of the executive agency shall obtain adequate security for the payments. If the security is in the form of a lien in favor of the Federal Government, the lien is paramount to all other liens and is effective immediately on the first payment, without filing, notice, or other action by the Federal Government.
-- **(c)** Advance payments made under section 4501 of this title for commercial products or commercial services may include payments, in a total amount not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+- **(c)** Advance payments made under section 4501 of this title for commercial items may include payments, in a total amount not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 - **(d)** The conditions of sections 4503 and 4504 of this title need not be applied if they would be inconsistent, as determined by the head of the executive agency, with commercial terms and conditions pursuant to this section.

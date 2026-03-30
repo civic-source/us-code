@@ -3,9 +3,10 @@ title: "Section 5421 - Enterprise Funds for Poland and Hungary"
 usc_title: 22
 usc_section: "5421"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 5421"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-03-30T03:04:53.686Z"
+status: "active"
 ---
 
 # § 5421. Enterprise Funds for Poland and Hungary
@@ -13,12 +14,12 @@ generated_at: "2026-03-30T02:55:05.417Z"
 - **(a)** The purposes of this section are to promote—
   - **(1)** development of the Polish and Hungarian private sectors, including small businesses, the agricultural sector, and joint ventures with United States and host country participants, and
   - **(2)** policies and practices conducive to private sector development in Poland and Hungary,
-- **(b)** To carry out the purposes specified in subsection (a), there are authorized to be appropriated to the President—
+- **(b)** To carry out the purposes specified in subsection (a) of this section, there are authorized to be appropriated to the President—
   - **(1)** $240,000,000 to support the Polish-American Enterprise Fund; and
   - **(2)** $60,000,000 to support the Hungarian-American Enterprise Fund.
-- **(c)** The funds appropriated under subsection (b) may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+- **(c)** The funds appropriated under subsection (b) of this section may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
 - **(d)**
-  - **(1)** The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
+  - **(1)** The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a) of this section. For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
   - **(2)** The President shall consult with the leadership of each House of Congress before designating an organization pursuant to paragraph (1).
   - **(3)**
     - **(A)** Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
@@ -26,11 +27,9 @@ generated_at: "2026-03-30T02:55:05.417Z"
     - **(C)** A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
   - **(4)** Grants may be made to an Enterprise Fund under this section only if the Enterprise Fund agrees to comply with the requirements specified in this section.
   - **(5)** Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
-- **(e)** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
-  - **(1)** except as provided in paragraph (2), by the United States Agency for International Development; or
-  - **(2)** if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to section 9683(b) of this title , by the Corporation.
+- **(e)** Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
 - **(f)**
-  - **(1)** The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a).
+  - **(1)** The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a) of this section.
   - **(2)** Funds available to the Enterprise Funds may be used to encourage the establishment of Employee Stock Ownership Plans (ESOPs) in Poland and Hungary.
   - **(3)** Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As used in this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
     - **(A)** which is formed to permit individuals in the field of membership specified in such institution’s charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
@@ -38,7 +37,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
   - **(4)** The Polish-American Enterprise Fund may use up to $25,000,000 for grants for projects providing for the early introduction in Poland of modern telephone systems and telecommunications technology, which are crucial in establishing the conditions for successful transition to political democracy and economic pluralism.
   - **(5)** Funds available to the Polish-American Enterprise Fund may be used to support the Economic Foundation of NSZZ Solidarność.
 - **(g)** In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
-- **(h)** An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+- **(h)** An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 - **(i)** In order to maximize the effectiveness of the activities of the Enterprise Funds, each Enterprise Fund may conduct public offerings or private placements for the purpose of soliciting and accepting United States venture capital which may be used, separately or together with funds made available pursuant to this section, for any lawful investment purpose that the Board of Directors of the Enterprise Fund may determine in carrying out this section. Financial returns on Enterprise Fund investments that include a component of private venture capital may be distributed, at such times and in such amounts as the Board of Directors of the Enterprise Fund may determine, to the investors of such capital.
 - **(j)** In order to maximize the effectiveness of the activities of the Polish-American Enterprise Fund, that Enterprise Fund should undertake all possible efforts to establish financial instruments that will enable individuals to invest in the private sectors of Poland and that will thereby have the effect of multiplying the impact of United States grants to that Enterprise Fund.
 - **(k)** Executive branch agencies may conduct programs and activities and provide services in support of the activities of the Enterprise Funds notwithstanding any other provision of law.

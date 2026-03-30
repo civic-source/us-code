@@ -3,15 +3,16 @@ title: "Section 12338 - Supportive services"
 usc_title: 42
 usc_section: "12338"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 12338"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-03-30T03:06:22.900Z"
+status: "active"
 ---
 
 # § 12338. Supportive services
 
 - **(a)** The Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under section 12336 of this title and provided for coordinated services under section 12337 of this title , for distribution by the chief executive officer under a State plan approved under section 12337 of this title to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).
-- **(b)** The services eligible to be provided under subsection (a) are services—
+- **(b)** The services eligible to be provided under subsection (a) of this section are services—
   - **(1)** that are designed to facilitate the provision of comprehensive community based services that are efficient, coordinated, and readily available through such activities as case planning, case management, intake and assessment, and information and referral; and
   - **(2)** that serve any of the following purposes—
     - **(A)** provide adequate and safe physical shelter to young individuals and the families of such individuals, especially in emergency circumstances;

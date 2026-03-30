@@ -3,9 +3,10 @@ title: "Section 70101 - Definitions"
 usc_title: 46
 usc_section: "70101"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 70101"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-03-30T03:06:27.195Z"
+status: "active"
 ---
 
 # § 70101. Definitions
@@ -13,11 +14,10 @@ generated_at: "2026-03-30T02:56:15.585Z"
 For the purpose of this chapter:
 
   - **(1)** The term “Area Maritime Transportation Security Plan” means an Area Maritime Transportation Security Plan prepared under section 70103(b).
-  - **(2)** The term “cybersecurity risk” has the meaning given the term in section 2200 of the Homeland Security Act of 2002.
-  - **(3)** The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
-  - **(4)** The term “National Maritime Transportation Security Plan” means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
-  - **(5)** The term “owner or operator” means—
+  - **(2)** The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
+  - **(3)** The term “National Maritime Transportation Security Plan” means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
+  - **(4)** The term “owner or operator” means—
     - **(A)** in the case of a vessel, any person owning, operating, or chartering by demise, such vessel; and
     - **(B)** in the case of a facility, any person owning, leasing, or operating such facility.
-  - **(6)** The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
-  - **(7)** The term “transportation security incident” means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term “economic disruption” does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
+  - **(5)** The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+  - **(6)** The term “transportation security incident” means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term “economic disruption” does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.

@@ -3,9 +3,10 @@ title: "Section 280g - Children’s asthma treatment grants program"
 usc_title: 42
 usc_section: "280g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 280g"
-generated_at: "2026-03-30T02:56:10.728Z"
+generated_at: "2026-03-30T03:06:22.333Z"
+status: "active"
 ---
 
 # § 280g. Children’s asthma treatment grants program
@@ -55,24 +56,10 @@ generated_at: "2026-03-30T02:56:10.728Z"
       - **(ii)** must be renewed by the parent or guardian each subsequent school year in accordance with this subsection.
     - **(D)** The State must require that backup medication, if provided by a student’s parent or guardian, be kept at a student’s school in a location to which the student has immediate access in the event of an asthma or anaphylaxis emergency.
     - **(E)** The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student’s school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
-    - **(F)**
-      - **(i)** In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State satisfy the criteria described in clause (ii) or clause (iii).
-      - **(ii)** For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
-        - **(I)** permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
-        - **(II)** maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
-        - **(III)** has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
-      - **(iii)** For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
-        - **(I)** has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who are designated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
-        - **(II)** has in place, under the direction of a school nurse or other individual designated under subclause (I), a comprehensive school-based allergies and asthma management program that includes—
-    - **(G)** The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term “civil liability protection law” means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
   - **(2)** Nothing in this subsection creates a cause of action or in any other way increases or diminishes the liability of any person under any other law.
   - **(3)** For purposes of this subsection:
     - **(A)** The terms “elementary school” and “secondary school” have the meaning given to those terms in section 7801 of title 20 .
     - **(B)** The term “health care practitioner” means a person authorized under law to prescribe drugs subject to section 353(b) of title 21 .
     - **(C)** The term “medication” means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
     - **(D)** The term “self-administration” means a student’s discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
-    - **(E)** The term “trained personnel” means, with respect to an elementary or secondary school, an individual, such as the school nurse—
-      - **(i)** who has been designated by the school nurse or principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
-      - **(ii)** who has received training in the administration of epinephrine; and
-      - **(iii)** whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.

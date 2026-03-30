@@ -3,12 +3,13 @@ title: "Section 153901 - Organization"
 usc_title: 36
 usc_section: "153901"
 chapter: 1539
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 153901"
-generated_at: "2026-03-30T02:55:44.706Z"
+generated_at: "2026-03-30T03:05:43.653Z"
+status: "active"
 ---
 
 # § 153901. Organization
 
-The National Yeomen (F) (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
+The National Yoemen F (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 

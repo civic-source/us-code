@@ -3,9 +3,10 @@ title: "Section 4852d - Disclosure of information concerning lead upon transfer 
 usc_title: 42
 usc_section: "4852d"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4852d"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-03-30T03:06:22.718Z"
+status: "active"
 ---
 
 # § 4852d. Disclosure of information concerning lead upon transfer of residential property
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:11.209Z"
     - **(A)** read the Lead Warning Statement and understands its contents;
     - **(B)** received a lead hazard information pamphlet; and
     - **(C)** had a 10-day opportunity (unless the parties mutually agreed upon a different period of time) before becoming obligated under the contract to purchase the housing to conduct a risk assessment or inspection for the presence of lead-based paint hazards.
-  - **(3)** The Lead Warning Statement shall contain the following text printed in large type on a separate sheet of paper attached to the contract: “Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead from lead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learning disabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller’s possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.”.
+  - **(3)** The Lead Warning Statement shall contain the following text printed in large type on a separate sheet of paper attached to the contract:
   - **(4)** Whenever a seller or lessor has entered into a contract with an agent for the purpose of selling or leasing a unit of target housing, the regulations promulgated under this section shall require the agent, on behalf of the seller or lessor, to ensure compliance with the requirements of this section.
   - **(5)** A suit may be brought against the Secretary of Housing and Urban Development and the Administrator of the Environmental Protection Agency under section 20 of the Toxic Substances Control Act [ 15 U.S.C. 2619 ] to compel promulgation of the regulations required under this section and the Federal district court shall have jurisdiction to order such promulgation.
 - **(b)**

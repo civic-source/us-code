@@ -3,14 +3,15 @@ title: "Section 45C - Clinical testing expenses for certain drugs for rare disea
 usc_title: 26
 usc_section: "45C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 45C"
-generated_at: "2026-03-30T02:55:27.600Z"
+generated_at: "2026-03-30T03:05:18.526Z"
+status: "active"
 ---
 
 # § 45C. Clinical testing expenses for certain drugs for rare diseases or conditions
 
-- **(a)** For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year.
+- **(a)** For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 50 percent of the qualified clinical testing expenses for the taxable year.
 - **(b)** For purposes of this section—
   - **(1)**
     - **(A)** Except as otherwise provided in this paragraph, the term “qualified clinical testing expenses” means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).
@@ -18,12 +19,13 @@ generated_at: "2026-03-30T02:55:27.600Z"
       - **(i)** by substituting “clinical testing” for “qualified research” each place it appears in paragraphs (2) and (3) of such subsection, and
       - **(ii)** by substituting “100 percent” for “65 percent” in paragraph (3)(A) of such subsection.
     - **(C)** The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+    - **(D)** For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995 , and before July 1, 1996 , and periods after December 31, 2013 .
   - **(2)**
     - **(A)** The term “clinical testing” means any human clinical testing—
       - **(i)** which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),
       - **(ii)** which occurs—
         - **(I)** after the date such drug is designated under section 526 of such Act, and
-        - **(II)** before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and
+        - **(II)** before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act; 1 1 So in original. The semicolon probably should be a comma. and
       - **(iii)** which is conducted by or on behalf of the taxpayer to whom the designation under such section 526 applies.
     - **(B)** Human clinical testing shall be taken into account under subparagraph (A) only to the extent such testing is related to the use of a drug for the rare disease or condition for which it was designated under section 526 of the Federal Food, Drug, and Cosmetic Act.
 - **(c)**
@@ -33,8 +35,10 @@ generated_at: "2026-03-30T02:55:27.600Z"
   - **(1)** For purposes of this section, the term “rare disease or condition” means any disease or condition which—
     - **(A)** affects less than 200,000 persons in the United States, or
     - **(B)** affects more than 200,000 persons in the United States but for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug.
-  - **(2)** No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States unless—
-    - **(A)** such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
-    - **(B)** such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
+  - **(2)**
+    - **(A)** No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States unless—
+      - **(i)** such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
+      - **(ii)** such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
+    - **(B)** No credit shall be allowed under this section with respect to any clinical testing conducted by a corporation to which an election under section 936 applies.
   - **(3)** Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall apply for purposes of this section.
   - **(4)** This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.

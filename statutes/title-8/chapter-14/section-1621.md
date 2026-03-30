@@ -3,18 +3,19 @@ title: "Section 1621 - Aliens who are not qualified aliens or nonimmigrants inel
 usc_title: 8
 usc_section: "1621"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "8 U.S.C. § 1621"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-03-30T03:04:14.646Z"
+status: "active"
 ---
 
 # § 1621. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits
 
-- **(a)** Notwithstanding any other provision of law and except as provided in subsections (b) and (d), an alien who is not—
+- **(a)** Notwithstanding any other provision of law and except as provided in subsections (b) and (d) of this section, an alien who is not—
   - **(1)** a qualified alien (as defined in section 1641 of this title ),
   - **(2)** a nonimmigrant under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.], or
   - **(3)** an alien who is paroled into the United States under section 212(d)(5) of such Act [ 8 U.S.C. 1182(d)(5) ] for less than one year,
-- **(b)** Subsection (a) shall not apply with respect to the following State or local public benefits:
+- **(b)** Subsection (a) of this section shall not apply with respect to the following State or local public benefits:
   - **(1)** Assistance for health care items and services that are necessary for the treatment of an emergency medical condition (as defined in section 1396b(v)(3) of title 42 ) of the alien involved and are not related to an organ transplant procedure.
   - **(2)** Short-term, non-cash, in-kind emergency disaster relief.
   - **(3)** Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
@@ -28,4 +29,4 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(B)** with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General; or
     - **(C)** to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
   - **(3)** Such term does not include any Federal public benefit under section 1611(c) of this title .
-- **(d)** A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996 , which affirmatively provides for such eligibility.
+- **(d)** A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) of this section only through the enactment of a State law after August 22, 1996 , which affirmatively provides for such eligibility.

@@ -3,9 +3,10 @@ title: "Section 82 - Repealed. Pub. L. 97–320, title IV, § 402 , Oct. 15, 198
 usc_title: 12
 usc_section: "82"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 82"
-generated_at: "2026-03-30T02:53:53.373Z"
+generated_at: "2026-03-30T03:04:29.191Z"
+status: "repealed"
 ---
 
 # § 82. Repealed. Pub. L. 97–320, title IV, § 402 , Oct. 15, 1982 , 96 Stat. 1510

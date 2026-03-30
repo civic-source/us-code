@@ -3,9 +3,10 @@ title: "Section 1059c - American Indian tribally controlled colleges and univers
 usc_title: 20
 usc_section: "1059c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1059c"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-03-30T03:04:46.245Z"
+status: "active"
 ---
 
 # § 1059c. American Indian tribally controlled colleges and universities
@@ -34,13 +35,13 @@ generated_at: "2026-03-30T02:54:48.099Z"
     - **(K)** establishing or enhancing a program of teacher education designed to qualify students to teach in elementary schools or secondary schools, with a particular emphasis on teaching Indian children and youth, that shall include, as part of such program, preparation for teacher certification;
     - **(L)** establishing community outreach programs that encourage Indian elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
     - **(M)** developing or improving facilities for Internet use or other distance education technologies; and
-    - **(N)** other activities proposed in the application submitted pursuant to subsection (d) that—
+    - **(N)** other activities proposed in the application submitted pursuant to subsection (d) of this section that—
       - **(i)** contribute to carrying out the activities described in subparagraphs (A) through (M); and
       - **(ii)** are approved by the Secretary as part of the review and acceptance of such application.
   - **(3)**
     - **(A)** A Tribal College or University may use not more than 20 percent of the grant funds provided under this section to establish or increase an endowment fund at the institution.
     - **(B)** In order to be eligible to use grant funds in accordance with subparagraph (A), the Tribal College or University shall provide matching funds, in an amount equal to the Federal funds used in accordance with subparagraph (A), for the establishment or increase of the endowment fund.
-    - **(C)** The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+    - **(C)** The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 - **(d)**
   - **(1)** To be eligible to receive assistance under this section, a Tribal College or University shall be an eligible institution under section 1058(b) of this title .
   - **(2)**

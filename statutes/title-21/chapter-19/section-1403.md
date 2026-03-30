@@ -3,9 +3,10 @@ title: "Section 1403 - Pesticide analytical methods"
 usc_title: 21
 usc_section: "1403"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 1403"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-03-30T03:05:00.988Z"
+status: "active"
 ---
 
 # § 1403. Pesticide analytical methods
@@ -15,4 +16,4 @@ The Secretary of Health and Human Services shall, in consultation with the Admin
   - **(1)** develop a detailed long-range plan and timetable for research that is necessary for the development of and validation of—
     - **(A)** new and improved analytical methods capable of detecting at one time the presence of multiple pesticide residues in food, and
     - **(B)** rapid pesticide analytical methods, and
-  - **(2)** conduct a review to determine whether the use of rapid pesticide analytical methods by the Secretary would enable the Secretary to improve the cost-effectiveness of monitoring and enforcement activities under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], including increasing the number of pesticide residues which can be detected and the number of tests for pesticide residues which can be conducted in a cost-effective manner.
+  - **(2)** conduct a review to determine whether the use of rapid pesticide analytical methods by the Secretary would enable the Secretary to improve the cost-effectiveness of monitoring and enforcement activities under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], including increasing the number of pesticide residues which can be detected and the number of tests for pesticide residues which can be conducted in a cost-effective manner. The Secretary shall report the plan developed under paragraph (1), the resources necessary to carry out the research described in such paragraph, recommendations for the implementation of such research, and the result of the review conducted under paragraph (2) not later than the expiration of 240 days after August 23, 1988 , to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives.

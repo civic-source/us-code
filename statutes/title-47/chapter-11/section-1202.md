@@ -3,9 +3,10 @@ title: "Section 1202 - Commercial Mobile Service Alert Advisory Committee"
 usc_title: 47
 usc_section: "1202"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "47 U.S.C. § 1202"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-03-30T03:06:26.241Z"
+status: "active"
 ---
 
 # § 1202. Commercial Mobile Service Alert Advisory Committee
@@ -41,5 +42,5 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(1)** One-third of the members of the Advisory Committee shall constitute a quorum for conducting business of the Advisory Committee.
   - **(2)** To assist the Advisory Committee in carrying out its functions, the chair may establish appropriate subcommittees composed of members of the Advisory Committee and other subject matter experts as deemed necessary.
   - **(3)** The Advisory Committee may adopt other rules as needed.
-- **(f)** Neither chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter shall apply to the Advisory Committee.
+- **(f)** Neither the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act shall apply to the Advisory Committee.
 - **(g)** The Advisory Committee shall consult with the National Institute of Standards and Technology in its work on developing recommendations under paragraphs (2) and (3) of subsection (c).

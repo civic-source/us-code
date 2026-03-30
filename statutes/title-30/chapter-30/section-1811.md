@@ -1,12 +1,15 @@
 ---
-title: "Section 1811 - Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n)(1) , Dec. 27, 2020 , 134 Stat. 2576"
+title: "Section 1811 - “Materials” defined"
 usc_title: 30
 usc_section: "1811"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 1811"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-03-30T03:05:07.425Z"
+status: "active"
 ---
 
-# §§ 1801 to 1811. Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n)(1) , Dec. 27, 2020 , 134 Stat. 2576
+# § 1811. “Materials” defined
+
+As used in this chapter, the term “materials” has the meaning given it by section 1601(b) of this title .
 

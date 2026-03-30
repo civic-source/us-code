@@ -3,9 +3,10 @@ title: "Section 2009a - Budgetary treatment of the Postal Service Fund"
 usc_title: 39
 usc_section: "2009a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "39 U.S.C. § 2009a"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-03-30T03:05:49.209Z"
+status: "active"
 ---
 
 # § 2009a. Budgetary treatment of the Postal Service Fund

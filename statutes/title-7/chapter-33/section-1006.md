@@ -3,9 +3,10 @@ title: "Section 1006 - Repealed. Pub. L. 87–128, title III, § 341(a) , Aug. 8
 usc_title: 7
 usc_section: "1006"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1006"
-generated_at: "2026-03-30T02:53:42.299Z"
+generated_at: "2026-03-30T03:04:20.911Z"
+status: "repealed"
 ---
 
 # §§ 1001 to 1006. Repealed. Pub. L. 87–128, title III, § 341(a) , Aug. 8, 1961 , 75 Stat. 318

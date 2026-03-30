@@ -3,9 +3,10 @@ title: "Section 10410 - National resource centers and training and technical ass
 usc_title: 42
 usc_section: "10410"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10410"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-03-30T03:06:22.877Z"
+status: "active"
 ---
 
 # § 10410. National resource centers and training and technical assistance centers
@@ -27,8 +28,8 @@ generated_at: "2026-03-30T02:56:11.388Z"
         - **(I)** the incidence and prevention of family violence and domestic violence; and
         - **(II)** the provision of shelter, supportive services, and prevention services to adult and youth victims of domestic violence (including services to prevent repeated incidents of violence); and
     - **(B)** a National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women, which shall—
-      - **(i)** offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note); 1 1 See References in Text note below.
-      - **(ii)** enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 [ 42 U.S.C. 3796gg–10 note]; 1 and
+      - **(i)** offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note);
+      - **(ii)** enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 [ 42 U.S.C. 3796gg–10 note]; and
       - **(iii)** coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiians that experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.
   - **(2)** In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligible entities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violence service providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:
     - **(A)** The response of the criminal and civil justice systems to domestic violence victims, which may include the response to the use of the self-defense plea by domestic violence victims and the issuance and use of protective orders.
@@ -48,8 +49,8 @@ generated_at: "2026-03-30T02:56:11.388Z"
     - **(B)** includes on the entity’s advisory board representatives who are from domestic violence service programs and who are geographically and culturally diverse; and
     - **(C)** demonstrates the strong support of domestic violence service programs from across the Nation for the entity’s designation as a national resource center or a special issue resource center, as appropriate.
   - **(2)** To be eligible to receive a grant under subsection (b)(1)(B), an entity shall be a tribal organization or a nonprofit private organization that focuses primarily on issues of domestic violence within Indian tribes and that submits documentation to the Secretary demonstrating—
-    - **(A)** experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note); 1
-    - **(B)** experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note); 1
+    - **(A)** experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note);
+    - **(B)** experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 ( 42 U.S.C. 3796gg–10 note);
     - **(C)** strong support for the entity’s designation as the National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;
     - **(D)** a record of demonstrated effectiveness in assisting Indian tribes and tribal organizations with prevention and intervention services addressing domestic violence; and
     - **(E)** the capacity to serve Indian tribes (including Alaska Native villages and regional and village corporations) across the United States.

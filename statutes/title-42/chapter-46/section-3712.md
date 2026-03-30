@@ -1,12 +1,21 @@
 ---
-title: "Section 3712 - Transferred"
+title: "Section 3712 - Duties and functions of Assistant Attorney General"
 usc_title: 42
 usc_section: "3712"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3712"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.693Z"
+status: "active"
 ---
 
-# § 3712. Transferred
+# § 3712. Duties and functions of Assistant Attorney General
 
+- **(a)** The Assistant Attorney General shall—
+  - **(1)** publish and disseminate information on the conditions and progress of the criminal justice systems;
+  - **(2)** maintain liaison with the executive and judicial branches of the Federal and State governments in matters relating to criminal justice;
+  - **(3)** provide information to the President, the Congress, the judiciary, State and local governments, and the general public relating to criminal justice;
+  - **(4)** maintain liaison with public and private educational and research institutions, State and local governments, and governments of other nations relating to criminal justice;
+  - **(5)** coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
+  - **(6)** exercise such other powers and functions as may be vested in the Assistant Attorney General pursuant to this chapter or by delegation of the Attorney General, including placing special conditions on all grants, and determining priority purposes for formula grants.
+- **(b)** The Assistant Attorney General shall submit an annual report to the President and to the Congress not later than March 31 of each year.

@@ -1,0 +1,21 @@
+---
+title: "Section 2744 - Limits on construction projects"
+usc_title: 50
+usc_section: "2744"
+chapter: 42
+current_through: "PL 113-21"
+classification: "50 U.S.C. § 2744"
+generated_at: "2026-03-30T03:06:37.684Z"
+status: "active"
+---
+
+# § 2744. Limits on construction projects
+
+- **(a)** Except as provided in subsection (b), construction on a construction project which is in support of national security programs of the Department of Energy and was authorized by a DOE national security authorization may not be started, and additional obligations in connection with the project above the total estimated cost may not be incurred, whenever the current estimated cost of the construction project exceeds by more than 25 percent the higher of—
+  - **(1)** the amount authorized for the project; or
+  - **(2)** the amount of the total estimated cost for the project as shown in the most recent budget justification data submitted to Congress.
+- **(b)** An action described in subsection (a) may be taken if—
+  - **(1)** the Secretary of Energy has submitted to the congressional defense committees a report on the actions and the circumstances making such action necessary; and
+  - **(2)** a period of 30 days has elapsed after the date on which the report is received by the committees.
+- **(c)** In the computation of the 30-day period under subsection (b), there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.
+- **(d)** Subsection (a) does not apply to a construction project with a current estimated cost of less than the minor construction threshold.

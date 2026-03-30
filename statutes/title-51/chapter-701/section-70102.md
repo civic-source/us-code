@@ -1,19 +1,23 @@
 ---
-title: "Section 70102 - Space launch system use policy"
+title: "Section 70102 - Space shuttle use policy"
 usc_title: 51
 usc_section: "70102"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 70102"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-03-30T03:06:49.078Z"
+status: "active"
 ---
 
-# § 70102. Space launch system use policy
+# § 70102. Space shuttle use policy
 
-- **(a)** The Space Launch System may be used for the following circumstances:
-  - **(1)** Payloads and missions that contribute to extending human presence beyond low-Earth orbit and substantially benefit from the unique capabilities of the Space Launch System.
-  - **(2)** Other payloads and missions that substantially benefit from the unique capabilities of the Space Launch System.
-  - **(3)** On a space available basis, Federal Government or educational payloads that are consistent with NASA’s mission for exploration beyond low-Earth orbit.
-  - **(4)** Compelling circumstances, as determined by the Administrator.
-- **(b)** The Administrator may plan, negotiate, or implement agreements with foreign entities for the launch of payloads for international collaborative efforts relating to science and technology using the Space Launch System.
-- **(c)** Not later than 30 days after the date the Administrator makes a determination under subsection (a)(4), the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives written notification of the Administrator’s intent to select the Space Launch System for a specific mission under that subsection, including justification for the determination.
+- **(a)**
+  - **(1)**
+    - **(A)** It shall be the policy of the United States to use the space shuttle—
+      - **(i)** for purposes that require a human presence;
+      - **(ii)** for purposes that require the unique capabilities of the space shuttle; or
+      - **(iii)** when other compelling circumstances exist.
+    - **(B)** In this paragraph, the term “compelling circumstances” includes, but is not limited to, occasions when the Administrator determines, in consultation with the Secretary of Defense and the Secretary of State, that important national security or foreign policy interests would be served by a shuttle launch.
+  - **(2)** The policy stated in paragraph (1) shall not preclude the use of available cargo space, on a space shuttle mission otherwise consistent with the policy described in paragraph (1), for the purpose of carrying secondary payloads (as defined by the Administrator) that do not require a human presence if such payloads are consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
+- **(b)** At least annually, the Administrator shall submit to Congress a report certifying that the payloads scheduled to be launched on the space shuttle for the next 4 years are consistent with the policy set forth in subsection (a)(1). For each payload scheduled to be launched from the space shuttle that does not require a human presence, the Administrator shall, in the certified report to Congress, state the specific circumstances that justified the use of the space shuttle. If, during the period between scheduled reports to Congress, any additions are made to the list of certified payloads intended to be launched from the shuttle, the Administrator shall inform Congress of the additions and the reasons therefor within 45 days of the change.
+- **(c)** The report described in subsection (b) shall also include those Administration payloads designed solely to fly on the space shuttle which have begun the phase C/D of its development cycle.

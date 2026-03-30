@@ -3,14 +3,15 @@ title: "Section 1798 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1798"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1798"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-03-30T03:04:17.265Z"
+status: "active"
 ---
 
 # § 1798. Child care services and youth program services for dependents: financial assistance for providers
 
-- **(a)** The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces, survivors of members of the armed forces who die in combat-related incidents in the line of duty, and employees of the United States if the Secretary determines that providing such financial assistance—
+- **(a)** The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces and employees of the United States if the Secretary determines that providing such financial assistance—
   - **(1)** is in the best interest of the Department of Defense;
   - **(2)** enables supplementation or expansion of furnishing of child care services or youth program services for military installations, while not supplanting or replacing such services; and
   - **(3)** ensures that the eligible provider is able to comply, and does comply, with the regulations, policies, and standards of the Department of Defense that are applicable to the furnishing of such services.
@@ -27,4 +28,3 @@ generated_at: "2026-03-30T02:53:38.138Z"
       - **(v)** conducts a school age child care or youth services program that is owned and operated by a not-for-profit organization; or
       - **(vi)** is a provider of another category of child care services or youth services determined by the Secretary of Defense as appropriate for meeting the needs of members of the armed forces or employees of the Department of Defense.
 - **(c)** To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
-- **(d)** The Secretary shall annually review the amount of financial assistance provided under this section, including the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under this section.

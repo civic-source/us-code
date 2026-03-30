@@ -3,16 +3,17 @@ title: "Section 646 - Tax treatment of electing Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "646"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 646"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-03-30T03:05:18.614Z"
+status: "active"
 ---
 
 # § 646. Tax treatment of electing Alaska Native Settlement Trusts
 
 - **(a)** If an election under this section is in effect with respect to any Settlement Trust, the provisions of this section shall apply in determining the income tax treatment of the Settlement Trust and its beneficiaries with respect to the Settlement Trust.
 - **(b)** Except as provided in subsection (f)(1)(B)(ii)—
-  - **(1)** There is hereby imposed on the taxable income of an electing Settlement Trust, other than its net capital gain, a tax at the lowest rate specified in section 1(c). 1 1 See References in Text note below.
+  - **(1)** There is hereby imposed on the taxable income of an electing Settlement Trust, other than its net capital gain, a tax at the lowest rate specified in section 1(c).
   - **(2)** In the case of an electing Settlement Trust with a net capital gain for the taxable year, a tax is hereby imposed on such gain at the rate of tax which would apply to such gain if the taxpayer were subject to a tax on its other taxable income at only the lowest rate specified in section 1(c).
 - **(c)**
   - **(1)** A Settlement Trust may elect to have the provisions of this section apply to the trust and its beneficiaries.

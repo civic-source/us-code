@@ -3,9 +3,10 @@ title: "Section 8751 - Definitions"
 usc_title: 7
 usc_section: "8751"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8751"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-03-30T03:04:21.037Z"
+status: "active"
 ---
 
 # § 8751. Definitions
@@ -15,9 +16,9 @@ In this subchapter:
   - **(1)**
     - **(A)** The term “base acres for peanuts” means the number of acres assigned to a farm pursuant to section 7952 of this title , as in effect on September 30, 2007 , subject to any adjustment under section 8752 of this title .
     - **(B)** The term “base acres”, with respect to a covered commodity, has the meaning given the term in section 8711 of this title .
-  - **(2)** The term “counter-cyclical payment” means a payment made to producers on a farm under section 8754 1 1 See References in Text note below. of this title.
-  - **(3)** The term “direct payment” means a direct payment made to producers on a farm under section 8753 1 of this title.
-  - **(4)** The term “effective price” means the price calculated by the Secretary under section 8754 1 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+  - **(2)** The term “counter-cyclical payment” means a payment made to producers on a farm under section 8754 of this title .
+  - **(3)** The term “direct payment” means a direct payment made to producers on a farm under section 8753 of this title .
+  - **(4)** The term “effective price” means the price calculated by the Secretary under section 8754 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
   - **(5)** The term “payment acres” means, in the case of direct payments and counter-cyclical payments—
     - **(A)** except as provided in subparagraph (B), 85 percent of the base acres of peanuts on a farm on which direct payments or counter-cyclical payments are made; and
     - **(B)** in the case of direct payments for each of the 2009 through 2011 crop years, 83.3 percent of the base acres for peanuts on a farm on which direct payments are made.

@@ -3,9 +3,10 @@ title: "Section 2343 - Technical assistance"
 usc_title: 19
 usc_section: "2343"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2343"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-03-30T03:04:42.036Z"
+status: "active"
 ---
 
 # § 2343. Technical assistance
@@ -16,5 +17,5 @@ generated_at: "2026-03-30T02:54:24.671Z"
   - **(3)** Assistance to a certified firm in the implementation of such a proposal.
 - **(b)**
   - **(1)** The Secretary shall furnish technical assistance under this part through existing agencies and through private individuals, firms, or institutions (including private consulting services), or by grants to intermediary organizations (including Trade Adjustment Assistance Centers).
-  - **(2)** In the case of assistance furnished through private individuals, firms, or institutions (including private consulting services), the Secretary may share the cost thereof (but not more than 75 percent of such cost for assistance described in paragraph (2) or (3) of subsection (a) may be borne by the United States).
+  - **(2)** In the case of assistance furnished through private individuals, firms, or institutions (including private consulting services), the Secretary may share the cost thereof (but not more than 75 percent of such cost for assistance described in paragraph (2) or (3) of subsection (a) of this section may be borne by the United States).
   - **(3)** The Secretary may make grants to intermediary organizations in order to defray up to 100 percent of administrative expenses incurred in providing such technical assistance to a firm.

@@ -3,9 +3,10 @@ title: "Section 898 - Taxable year of certain foreign corporations"
 usc_title: 26
 usc_section: "898"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 898"
-generated_at: "2026-03-30T02:55:27.743Z"
+generated_at: "2026-03-30T03:05:18.633Z"
+status: "active"
 ---
 
 # § 898. Taxable year of certain foreign corporations
@@ -25,7 +26,8 @@ generated_at: "2026-03-30T02:55:27.743Z"
   - **(1)** The required year is—
     - **(A)** the majority U.S. shareholder year, or
     - **(B)** if there is no majority U.S. shareholder year, the taxable year prescribed under regulations.
-  - **(2)**
+  - **(2)** A specified foreign corporation may elect, in lieu of the taxable year under paragraph (1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
+  - **(3)**
     - **(A)** For purposes of this subsection, the term “majority U.S. shareholder year” means the taxable year (if any) which, on each testing day, constituted the taxable year of—
       - **(i)** each United States shareholder described in subsection (b)(2)(A), and
       - **(ii)** each United States shareholder not described in clause (i) whose stock was treated as owned under subsection (b)(2)(B) by any shareholder described in such clause.

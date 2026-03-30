@@ -3,9 +3,10 @@ title: "Section 4071a - Definitions"
 usc_title: 22
 usc_section: "4071a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4071a"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-03-30T03:04:53.673Z"
+status: "active"
 ---
 
 # § 4071a. Definitions
@@ -28,14 +29,8 @@ As used in this part, unless otherwise specified—
       - **(i)** is not a participant;
       - **(ii)** is not performing service which is creditable service under section 4071c of this title ; and
       - **(iii)** has less than 5 years creditable service under section 4071c of this title ; and
-    - **(B)** after December 31, 2012 , and before January 1, 2014 , becomes a participant performing service which is creditable service under section 4071c of this title ;
-  - **(8)** the term “further revised annuity participant” means any individual who—
-    - **(A)** on December 31, 2013 —
-      - **(i)** is not a participant;
-      - **(ii)** is not performing service which is creditable service under section 4071c of this title ; and
-      - **(iii)** has less than 5 years creditable service under section 4071c of this title ; and
-    - **(B)** after December 31, 2013 , becomes a participant performing service which is creditable service under section 4071c of this title ;
-  - **(9)** the term “supplemental liability” means the estimated excess of—
+    - **(B)** after December 31, 2012 , becomes a participant performing service which is creditable service under section 4071c of this title ;
+  - **(8)** the term “supplemental liability” means the estimated excess of—
     - **(A)** the actuarial present value of all future benefits payable from the Fund under this part based on the service of participants or former participants, over
     - **(B)** the sum of—
       - **(i)** the actuarial present value of (I) deductions to be withheld from the future basic pay of participants pursuant to section 4071e of this title and (II) contributions for past civilian and military service;
@@ -44,5 +39,5 @@ As used in this part, unless otherwise specified—
         - **(I)** to the System, or
         - **(II)** to the contributions made under the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 ( 5 U.S.C. 8331 note); and
       - **(iv)** any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles;
-  - **(10)** the term “System” means the Foreign Service Pension System; and
-  - **(11)** the term “special agent” has the same meaning given in section 4044(15) of this title .
+  - **(9)** the term “System” means the Foreign Service Pension System; and
+  - **(10)** the term “special agent” has the same meaning given in section 4044(15) of this title .

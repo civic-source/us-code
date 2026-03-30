@@ -1,14 +1,15 @@
 ---
-title: "Section 584 - Exemptions"
+title: "Section 584 - Shipments of less than carload lots; exemptions"
 usc_title: 7
 usc_section: "584"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 584"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-03-30T03:04:20.903Z"
+status: "active"
 ---
 
-# § 584. Exemptions
+# § 584. Shipments of less than carload lots; exemptions
 
-- **(a)** Apples in less than carload lots as defined by the Secretary may, in his discretion, be shipped to any foreign country without complying with the provisions of this chapter.
-- **(b)** Apples may be shipped to Canada in bulk containers without complying with the provisions of this chapter.
+Apples in less than carload lots as defined by the Secretary may, in his discretion, be shipped to any foreign country without complying with the provisions of this chapter.
+

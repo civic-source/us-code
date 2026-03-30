@@ -3,9 +3,10 @@ title: "Section 1042 - Sales of stock to employee stock ownership plans or certa
 usc_title: 26
 usc_section: "1042"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1042"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-03-30T03:05:18.644Z"
+status: "active"
 ---
 
 # § 1042. Sales of stock to employee stock ownership plans or certain cooperatives
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:55:27.757Z"
     - **(A)** The taxpayer files with the Secretary the written statement described in subparagraph (B).
     - **(B)** A statement is described in this subparagraph if it is a verified written statement of—
       - **(i)** the employer whose employees are covered by the plan described in paragraph (1), or
-      - **(ii)** any authorized officer of the cooperative described in paragraph ( l ), 1 1 So in original. Probably should be “paragraph (1),”.
+      - **(ii)** any authorized officer of the cooperative described in paragraph (l),
   - **(4)** The taxpayer’s holding period with respect to the qualified securities is at least 3 years (determined as of the time of the sale).
 - **(c)** For purposes of this section—
   - **(1)** The term “qualified securities” means employer securities (as defined in section 409( l )) which—

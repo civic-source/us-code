@@ -1,12 +1,19 @@
 ---
-title: "Section 1236 - Repealed. Pub. L. 115–282, title IV, § 406(c) , Dec. 4, 2018 , 132 Stat. 4266"
+title: "Section 1236 - Penalties for violations of regulations"
 usc_title: 33
 usc_section: "1236"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1236"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-03-30T03:05:36.269Z"
+status: "active"
 ---
 
-# §§ 1233 to 1236. Repealed. Pub. L. 115–282, title IV, § 406(c) , Dec. 4, 2018 , 132 Stat. 4266
+# § 1236. Penalties for violations of regulations
 
+For any violation of regulations issued pursuant to sections 1233 to 1235 of this title the following penalties shall be incurred:
+
+- **(a)** A licensed officer shall be liable to suspension or revocation of license in the manner now prescribed by law for incompetency or misconduct.
+- **(b)** Any person in charge of the navigation of a vessel other than a licensed officer shall be liable to a penalty of $5,000.
+- **(c)** The owner of a vessel (including any corporate officer of a corporation owning the vessel) actually on board shall be liable to a penalty of $5,000, unless the violation of regulations shall have occurred without his knowledge.
+- **(d)** Any other person shall be liable to a penalty of $2,500. The Commandant of the Coast Guard is authorized and empowered to mitigate or remit any penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.

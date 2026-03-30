@@ -3,9 +3,10 @@ title: "Section 2205 - Tribal probate codes; acquisitions of fractional interest
 usc_title: 25
 usc_section: "2205"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2205"
-generated_at: "2026-03-30T02:54:52.837Z"
+generated_at: "2026-03-30T03:05:02.895Z"
+status: "active"
 ---
 
 # § 2205. Tribal probate codes; acquisitions of fractional interests by tribes
@@ -22,11 +23,11 @@ generated_at: "2026-03-30T02:54:52.837Z"
     - **(B)** an Indian who is not a member of the Indian tribe with jurisdiction over such an interest;
       - **(i)** the renouncing of interests to eligible devisees in accordance with the code;
       - **(ii)** the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
-      - **(iii)** payment of fair market value in the manner prescribed under subsection (c)(2).
+      - **(iii)** payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
 - **(b)**
-  - **(1)** Any tribal probate code enacted under subsection (a), and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
+  - **(1)** Any tribal probate code enacted under subsection (a) of this section, and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
   - **(2)**
-    - **(A)** Each Indian tribe that adopts a tribal probate code under subsection (a) shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+    - **(A)** Each Indian tribe that adopts a tribal probate code under subsection (a) of this section shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
     - **(B)** If the Secretary fails to approve or disapprove a tribal probate code submitted for review under subparagraph (A) by the date specified in that subparagraph, the tribal probate code shall be deemed to have been approved by the Secretary, but only to the extent that the tribal probate code is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
     - **(C)** The Secretary may not approve a tribal probate code, or any amendment to such a code, under this paragraph unless the Secretary determines that the tribal probate code promotes the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
     - **(D)** If the Secretary disapproves a tribal probate code, or an amendment to such a code, under this paragraph, the Secretary shall include in the notice of disapproval to the Indian tribe a written explanation of the reasons for the disapproval.
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:54:52.837Z"
     - **(A)** the date that is 1 year after the date on which the Secretary makes the certification required under section 8(a)(4) of the American Indian Probate Reform Act of 2004 ( 25 U.S.C. 2201 note; Public Law 108–374 ); or
     - **(B)** 180 days after the date of approval.
   - **(4)**
-    - **(A)** Each tribal probate code enacted under subsection (a) shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+    - **(A)** Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
     - **(B)** With respect to an amendment to a tribal probate code referred to in subparagraph (A), that amendment shall apply only to the estate of a decedent who dies on or after the effective date of the amendment.
   - **(5)** The repeal of a tribal probate code shall—
     - **(A)** not become effective earlier than the date that is 180 days after the Secretary receives notice of the repeal; and

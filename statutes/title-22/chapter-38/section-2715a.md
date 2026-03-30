@@ -3,9 +3,10 @@ title: "Section 2715a - Provision of information on certain violent crimes abroa
 usc_title: 22
 usc_section: "2715a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2715a"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-03-30T03:04:53.652Z"
+status: "active"
 ---
 
 # § 2715a. Provision of information on certain violent crimes abroad to victims and victims’ families
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(2)** the provision of such information is sufficiently important that the discharge of the responsibility for identifying and disseminating such information should be vested in a cabinet-level officer of the United States Government.
 - **(b)** The Secretary of State shall take appropriate actions to ensure that the United States Government takes all appropriate actions to—
   - **(1)** identify promptly information (including classified information) in the possession of the departments and agencies of the United States Government regarding the killing, abduction, torture, or other serious mistreatment of United States citizens abroad; and
-  - **(2)** subject to subsection (c), promptly make such information available to—
+  - **(2)** subject to subsection (c) of this section, promptly make such information available to—
     - **(A)** the victims of such crimes; or
     - **(B)** when appropriate, the family members of the victims of such crimes if such family members are United States citizens.
-- **(c)** The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
+- **(c)** The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) of this section is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.

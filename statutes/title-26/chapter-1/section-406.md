@@ -3,9 +3,10 @@ title: "Section 406 - Employees of foreign affiliates covered by section 3121(l)
 usc_title: 26
 usc_section: "406"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 406"
-generated_at: "2026-03-30T02:55:27.678Z"
+generated_at: "2026-03-30T03:05:18.581Z"
+status: "active"
 ---
 
 # § 406. Employees of foreign affiliates covered by section 3121(l) agreements
@@ -21,7 +22,6 @@ generated_at: "2026-03-30T02:55:27.678Z"
   - **(2)** For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
     - **(A)** the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation if his services had been performed for such American employer, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
     - **(B)** such individual shall be treated as having paid the amount paid by such American employer which is equivalent to the tax imposed by section 3101.
-- **[(c)**
 - **(d)** For purposes of applying section 404 with respect to contributions made to or under a pension, profit-sharing, stock bonus, or annuity plan by an American employer, or by another taxpayer which is entitled to deduct its contributions under section 404(a)(3)(B), on behalf of an individual who is treated as an employee of such American employer under subsection (a)—
   - **(1)** except as provided in paragraph (2), no deduction shall be allowed to such American employer or to any other taxpayer which is entitled to deduct its contributions under such sections,
   - **(2)** there shall be allowed as a deduction to the foreign affiliate of which such individual is an employee an amount equal to the amount which (but for paragraph (1)) would be deductible under section 404 by the American employer if he were an employee of the American employer, and

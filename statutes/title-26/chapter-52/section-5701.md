@@ -3,9 +3,10 @@ title: "Section 5701 - Rate of tax"
 usc_title: 26
 usc_section: "5701"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5701"
-generated_at: "2026-03-30T02:55:27.825Z"
+generated_at: "2026-03-30T03:05:18.705Z"
+status: "active"
 ---
 
 # § 5701. Rate of tax
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:27.825Z"
   - **(2)** On cigarettes, weighing more than 3 pounds per thousand, $105.69 per thousand; except that, if more than 6½ inches in length, they shall be taxable at the rate prescribed for cigarettes weighing not more than 3 pounds per thousand, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette.
 - **(c)** On cigarette papers, manufactured in or imported into the United States, there shall be imposed a tax of 3.15 cents for each 50 papers or fractional part thereof; except that, if cigarette papers measure more than 6½ inches in length, they shall be taxable at the rate prescribed, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette paper.
 - **(d)** On cigarette tubes, manufactured in or imported into the United States, there shall be imposed a tax of 6.30 cents for each 50 tubes or fractional part thereof, except that if cigarette tubes measure more than 6½ inches in length, they shall be taxable at the rate prescribed, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette tube.
-- **(e)** On smokeless tobacco, manufactured in or imported into the United States, there shall be imposed the following taxes:
+- **(e)** On smokeless tobacco, manufacturered 1 1 So in original. Probably should be “manufactured”. in or imported into the United States, there shall be imposed the following taxes:
   - **(1)** On snuff, $1.51 per pound and a proportionate tax at the like rate on all fractional parts of a pound.
   - **(2)** On chewing tobacco, 50.33 cents per pound and a proportionate tax at the like rate on all fractional parts of a pound.
 - **(f)** On pipe tobacco, manufactured in or imported into the United States, there shall be imposed a tax of $2.8311 cents per pound (and a proportionate tax at the like rate on all fractional parts of a pound).

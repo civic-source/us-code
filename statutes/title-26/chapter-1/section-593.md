@@ -3,9 +3,10 @@ title: "Section 593 - Reserves for losses on loans"
 usc_title: 26
 usc_section: "593"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 593"
-generated_at: "2026-03-30T02:55:27.720Z"
+generated_at: "2026-03-30T03:05:18.612Z"
+status: "active"
 ---
 
 # § 593. Reserves for losses on loans
@@ -30,7 +31,7 @@ generated_at: "2026-03-30T02:55:27.720Z"
       - **(i)** by excluding from gross income any amount included therein by reason of subsection (e),
       - **(ii)** without regard to any deduction allowable for any addition to the reserve for bad debts,
       - **(iii)** by excluding from gross income an amount equal to the net gain for the taxable year arising from the sale or exchange of stock of a corporation or of obligations the interest on which is excludable from gross income under section 103,
-      - **(iv)** by excluding from gross income dividends with respect to which a deduction is allowable by part VIII of subchapter B, reduced by an amount equal to 8 percent of the dividends received deduction for the taxable year, and
+      - **(iv)** by excluding from gross income dividends with respect to which a deduction is allowable by part VIII of subchapter B, reduced by an amount equal to 8 percent of the dividends received deduction (determined without regard to section 596) 1 1 See References in Text note below. for the taxable year, and
       - **(v)** if there is a capital gain rate differential (as defined in section 904(b)(3)(D)) for the taxable year, by excluding from gross income the rate differential portion (within the meaning of section 904(b)(3)(E)) of the lesser of—
         - **(I)** the net long-term capital gain for the taxable year, or
         - **(II)** the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii).

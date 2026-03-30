@@ -3,16 +3,17 @@ title: "Section 6651 - Failure to file tax return or to pay tax"
 usc_title: 26
 usc_section: "6651"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6651"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-03-30T03:05:18.732Z"
+status: "active"
 ---
 
 # § 6651. Failure to file tax return or to pay tax
 
 - **(a)** In case of failure—
   - **(1)** to file any return required under authority of subchapter A of chapter 61 (other than part III thereof), subchapter A of chapter 51 (relating to distilled spirits, wines, and beer), or of subchapter A of chapter 52 (relating to tobacco, cigars, cigarettes, and cigarette papers and tubes), or of subchapter A of chapter 53 (relating to machine guns and certain other firearms), on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return 5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate;
-  - **(2)** to pay the amount shown as tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
+  - **(2)** to pay the amount shown on tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
   - **(3)** to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 - **(b)** For purposes of—
   - **(1)** subsection (a)(1), the amount of tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return,
@@ -34,7 +35,3 @@ generated_at: "2026-03-30T02:55:27.859Z"
   - **(1)** such return shall be disregarded for purposes of determining the amount of the addition under paragraph (1) of subsection (a), but
   - **(2)** such return shall be treated as the return filed by the taxpayer for purposes of determining the amount of the addition under paragraphs (2) and (3) of subsection (a).
 - **(h)** In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting “0.25” for “0.5” each place it appears for purposes of determining the addition to tax for any month during which an installment agreement under section 6159 is in effect for the payment of such tax.
-- **(i)** For purposes of this section, any failure to comply with section 6226(b)(4)(A)(ii) shall be treated as a failure to pay the amount described in subclause (II) thereof and such amount shall be treated for purposes of this section as an amount shown as tax on a return specified in subsection (a)(1).
-- **(j)**
-  - **(1)** In the case of any return required to be filed in a calendar year beginning after 2020, the $435 dollar amount under subsection (a) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(2)** If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.

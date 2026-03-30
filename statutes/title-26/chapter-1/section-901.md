@@ -3,14 +3,15 @@ title: "Section 901 - Taxes of foreign countries and of possessions of United St
 usc_title: 26
 usc_section: "901"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 901"
-generated_at: "2026-03-30T02:55:27.743Z"
+generated_at: "2026-03-30T03:05:18.633Z"
+status: "active"
 ---
 
 # § 901. Taxes of foreign countries and of possessions of United States
 
-- **(a)** If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under section 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
+- **(a)** If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under sections 902 and 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
 - **(b)** Subject to the limitation of section 904, the following amounts shall be allowed as the credit under subsection (a):
   - **(1)** In the case of a citizen of the United States and of a domestic corporation, the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or to any possession of the United States; and
   - **(2)** In the case of a resident of the United States and in the case of an individual who is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any possession of the United States; and
@@ -26,8 +27,10 @@ generated_at: "2026-03-30T02:55:27.743Z"
   - **(1)** Notwithstanding subsection (b), the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or possession of the United States with respect to foreign mineral income from sources within such country or possession which would (but for this paragraph) be allowed under such subsection shall be reduced by the amount (if any) by which—
     - **(A)** the amount of such taxes (or, if smaller, the amount of the tax which would be computed under this chapter with respect to such income determined without the deduction allowed under section 613), exceeds
     - **(B)** the amount of the tax computed under this chapter with respect to such income.
-  - **(2)** For purposes of paragraph (1), the term “foreign mineral income” means income derived from the extraction of minerals from mines, wells, or other natural deposits, the processing of such minerals into their primary products, and the transportation, distribution, or sale of such minerals or primary products. Such term includes, but is not limited to 1 1 So in original. Probably should be followed by a comma. that portion of the taxpayer’s distributive share of the income of partnerships attributable to foreign mineral income.
-- **(f)** Notwithstanding subsection (b) and section 960, the amount of any income, or profits, and excess profits taxes paid or accrued during the taxable year to any foreign country in connection with the purchase and sale of oil or gas extracted in such country is not to be considered as tax for purposes of section 275(a) and this section if—
+  - **(2)** For purposes of paragraph (1), the term “foreign mineral income” means income derived from the extraction of minerals from mines, wells, or other natural deposits, the processing of such minerals into their primary products, and the transportation, distribution, or sale of such minerals or primary products. Such term includes, but is not limited to—
+    - **(A)** dividends received from a foreign corporation in respect of which taxes are deemed paid by the taxpayer under section 902, to the extent such dividends are attributable to foreign mineral income, and
+    - **(B)** that portion of the taxpayer’s distributive share of the income of partnerships attributable to foreign mineral income.
+- **(f)** Notwithstanding subsection (b) and sections 902 and 960, the amount of any income, or profits, and excess profits taxes paid or accrued during the taxable year to any foreign country in connection with the purchase and sale of oil or gas extracted in such country is not to be considered as tax for purposes of section 275(a) and this section if—
   - **(1)** the taxpayer has no economic interest in the oil or gas to which section 611(a) applies, and
   - **(2)** either such purchase or sale is at a price which differs from the fair market value for such oil or gas at the time of such purchase or sale.
 - **(g)**
@@ -36,21 +39,20 @@ generated_at: "2026-03-30T02:55:27.743Z"
     - **(B)**
       - **(i)** if a dividends received deduction is allowable with respect to such distribution under part VIII of subchapter B, or
       - **(ii)** to the extent that such distribution is received in connection with a liquidation or other transaction with respect to which gain or loss is not recognized,
-  - **(2)** For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 (as in effect on the day before the date of the enactment of the Tax Technical Corrections Act of 2018) applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
-- **[(h)**
+  - **(2)** For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
 - **(i)** Any income, war profits, or excess profits tax shall not be treated as a tax for purposes of this title to the extent—
   - **(1)** the amount of such tax is used (directly or indirectly) by the country imposing such tax to provide a subsidy by any means to the taxpayer, a related person (within the meaning of section 482), or any party to the transaction or to a related transaction, and
   - **(2)** such subsidy is determined (directly or indirectly) by reference to the amount of such tax, or the base used to compute the amount of such tax.
 - **(j)**
   - **(1)** Notwithstanding any other provision of this part—
-    - **(A)** no credit shall be allowed under subsection (a) for any income, war profits, or excess profits taxes paid or accrued (or deemed paid under section 960) to any country if such taxes are with respect to income attributable to a period during which this subsection applies to such country, and
-    - **(B)** subsections (a), (b), and (c) of section 904 and section 960 shall be applied separately with respect to income attributable to such a period from sources within such country.
+    - **(A)** no credit shall be allowed under subsection (a) for any income, war profits, or excess profits taxes paid or accrued (or deemed paid under section 902 or 960) to any country if such taxes are with respect to income attributable to a period during which this subsection applies to such country, and
+    - **(B)** subsections (a), (b), and (c) of section 904 and sections 902 and 960 shall be applied separately with respect to income attributable to such a period from sources within such country.
   - **(2)**
     - **(A)** This subsection shall apply to any foreign country—
       - **(i)** the government of which the United States does not recognize, unless such government is otherwise eligible to purchase defense articles or services under the Arms Export Control Act,
       - **(ii)** with respect to which the United States has severed diplomatic relations,
       - **(iii)** with respect to which the United States has not severed diplomatic relations but does not conduct such relations, or
-      - **(iv)** which the Secretary of State has, pursuant to section 6(j) 2 2 See References in Text note below. of the Export Administration Act of 1979, as amended, designated as a foreign country which repeatedly provides support for acts of international terrorisms.
+      - **(iv)** which the Secretary of State has, pursuant to section 6(j) of the Export Administration Act of 1979, as amended, designated as a foreign country which repeatedly provides support for acts of international terrorisms.
     - **(B)** This subsection shall apply to any foreign country described in subparagraph (A) during the period—
       - **(i)** beginning on the later of—
         - **(I)** January 1, 1987 , or
@@ -71,7 +73,7 @@ generated_at: "2026-03-30T02:55:27.743Z"
       - **(i)** such stock is held by the recipient of the dividend for 15 days or less during the 31-day period beginning on the date which is 15 days before the date on which such share becomes ex-dividend with respect to such dividend, or
       - **(ii)** to the extent that the recipient of the dividend is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
     - **(B)** For purposes of this paragraph, the term “withholding tax” includes any tax determined on a gross basis; but does not include any tax which is in the nature of a prepayment of a tax imposed on a net basis.
-  - **(2)** In the case of income, war profits, or excess profits taxes deemed paid under section 853 or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
+  - **(2)** In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
     - **(A)** any stock of any corporation in such chain (the ownership of which is required to obtain credit under subsection (a) for such taxes) is held for less than the period described in paragraph (1)(A)(i), or
     - **(B)** the corporation holding the stock is under an obligation referred to in paragraph (1)(A)(ii).
   - **(3)** In the case of stock having preference in dividends and dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days, paragraph (1)(A)(i) shall be applied—
@@ -87,7 +89,7 @@ generated_at: "2026-03-30T02:55:27.743Z"
       - **(ii)** such country allows a credit against its net basis tax for the full amount of the tax paid to such other foreign country.
     - **(C)** The Secretary may prescribe such regulations as may be appropriate to carry out this paragraph, including regulations to prevent the abuse of the exception provided by this paragraph and to treat other taxes as qualified taxes.
   - **(5)** For purposes of this subsection, the rules of paragraphs (3) and (4) of section 246(c) shall apply.
-  - **(6)** If a person’s holding period is reduced by reason of the application of the rules of section 246(c)(4) to any contract for the bona fide sale of stock, the determination of whether such person’s holding period meets the requirements of paragraph (2) with respect to taxes deemed paid under section 960 shall be made as of the date such contract is entered into.
+  - **(6)** If a person’s holding period is reduced by reason of the application of the rules of section 246(c)(4) to any contract for the bona fide sale of stock, the determination of whether such person’s holding period meets the requirements of paragraph (2) with respect to taxes deemed paid under section 902 or 960 shall be made as of the date such contract is entered into.
   - **(7)** Sections 275 and 78 shall not apply to any tax which is not allowable as a credit under subsection (a) by reason of this subsection.
 - **(l)**
   - **(1)** In no event shall a credit be allowed under subsection (a) for any withholding tax (as defined in subsection (k)) on any item of income or gain with respect to any property if—
@@ -108,7 +110,7 @@ generated_at: "2026-03-30T02:55:27.743Z"
 - **(m)**
   - **(1)** In the case of a covered asset acquisition, the disqualified portion of any foreign income tax determined with respect to the income or gain attributable to the relevant foreign assets—
     - **(A)** shall not be taken into account in determining the credit allowed under subsection (a), and
-    - **(B)** in the case of a foreign income tax paid by a foreign corporation, shall not be taken into account for purposes of section 960.
+    - **(B)** in the case of a foreign income tax paid by a section 902 corporation (as defined in section 909(d)(5)), shall not be taken into account for purposes of section 902 or 960.
   - **(2)** For purposes of this section, the term “covered asset acquisition” means—
     - **(A)** a qualified stock purchase (as defined in section 338(d)(3)) to which section 338(a) applies,
     - **(B)** any transaction which—

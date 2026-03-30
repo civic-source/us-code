@@ -3,9 +3,10 @@ title: "Section 2385 - Employment of personnel"
 usc_title: 22
 usc_section: "2385"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2385"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-03-30T03:04:53.637Z"
+status: "active"
 ---
 
 # § 2385. Employment of personnel
@@ -22,11 +23,6 @@ generated_at: "2026-03-30T02:55:05.363Z"
 - **(j)**
   - **(1)**
     - **(A)** To facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, the Administrator of the United States Agency for International Development may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the United States Agency for International Development for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
-    - **(B)** The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010 . 1 1 See Extension of Authority note below. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+    - **(B)** The authority of the Administrator under subparagraph (A) shall terminate on October 1, 2010 . An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
   - **(2)** The Administrator should prescribe procedures for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for a delegation of authority.
   - **(3)** An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
-- **(k)**
-  - **(1)** The United States Agency for International Development is authorized to appoint personnel in the excepted service using funds authorized to be appropriated or otherwise made available under the heading “Transition Initiatives” in an Act making appropriations for the Department of State, Foreign Operations, and Related Programs and to carry out the provisions of subchapter I and part IV of subchapter II of this chapter of 2 2 So in original. and section 9808(b) of this title to prevent or respond to foreign crises.
-  - **(2)** Funds authorized to carry out such purposes may be made available for the operating expenses and administrative costs of such personnel and may remain attributed to any minimum funding requirement for which they were originally made available.
-  - **(3)** The Administrator of the United States Agency for International Development shall coordinate with the Office of Personnel Management on implementation of the appointment authority under paragraph (1).
-  - **(4)** Not later than one year after December 23, 2024 , and annually thereafter for 3 years, the Administrator shall submit to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Oversight and Accountability of the House of Representatives, and the Committee on Appropriations of the House of Representatives a report regarding the continued need for and utilization of the authority pursuant to this subsection.

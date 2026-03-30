@@ -1,12 +1,25 @@
 ---
-title: "Section 14044b - Transferred"
+title: "Section 14044b - Protection of juvenile victims of trafficking in persons"
 usc_title: 42
 usc_section: "14044b"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14044b"
-generated_at: "2026-03-30T02:56:11.450Z"
+generated_at: "2026-03-30T03:06:22.944Z"
+status: "active"
 ---
 
-# § 14044b. Transferred
+# § 14044b. Protection of juvenile victims of trafficking in persons
 
+- **(a)** Not later than 180 days after January 10, 2006 , the Secretary of Health and Human Services shall establish and carry out a pilot program to establish residential treatment facilities in the United States for juveniles subjected to trafficking.
+- **(b)** The purposes of the pilot program established pursuant to subsection (a) of this section are to—
+  - **(1)** provide benefits and services to juveniles subjected to trafficking, including shelter, psychological counseling, and assistance in developing independent living skills;
+  - **(2)** assess the benefits of providing residential treatment facilities for juveniles subjected to trafficking, as well as the most efficient and cost-effective means of providing such facilities; and
+  - **(3)** assess the need for and feasibility of establishing additional residential treatment facilities for juveniles subjected to trafficking.
+- **(c)** The Secretary of Health and Human Services shall select three sites at which to operate the pilot program established pursuant to subsection (a) of this section.
+- **(d)** In order to carry out the responsibilities of this section, the Secretary of Health and Human Services shall enter into contracts with, or make grants to, organizations that—
+  - **(1)** have relevant expertise in the delivery of services to juveniles who have been subjected to sexual abuse or commercial sexual exploitation; or
+  - **(2)** have entered into partnerships with organizations that have expertise as described in paragraph (1) for the purpose of implementing the contracts or grants.
+- **(e)** Not later than one year after the date on which the first pilot program is established pursuant to subsection (a) of this section, the Secretary of Health and Human Services shall submit to Congress a report on the implementation of this section.
+- **(f)** In this section, the term “juvenile subjected to trafficking” means a United States citizen, or alien admitted for permanent residence, who is the subject of sex trafficking or severe forms of trafficking in persons that occurs, in whole or in part, within the territorial jurisdiction of the United States and who has not attained 18 years of age at the time the person is identified as having been the subject of sex trafficking or severe forms of trafficking in persons.
+- **(g)** There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this section $5,000,000 for each of the fiscal years 2008 through 2011.

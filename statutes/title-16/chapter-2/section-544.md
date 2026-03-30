@@ -3,9 +3,10 @@ title: "Section 544 - Columbia River Gorge National Scenic Area; definitions"
 usc_title: 16
 usc_section: "544"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 544"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-03-30T03:04:48.496Z"
+status: "active"
 ---
 
 # § 544. Columbia River Gorge National Scenic Area; definitions
@@ -22,7 +23,7 @@ As used in sections 544 to 544p of this title, the term—
 - **(d)** “counties” means Hood River, Multnomah, and Wasco Counties, Oregon; and Clark, Klickitat, and Skamania Counties, Washington;
 - **(e)** “Dodson/Warrendale Special Purchase Unit” means the Dodson/Warrendale Special Purchase Unit established pursuant to section 544b of this title ;
 - **(f)** “forest lands” means lands designated as forest lands pursuant to section 544d of this title ;
-- **(g)** “Indian tribes” means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakima Indian Nation, 1 1 See Change of Name notes below. the Confederated Tribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
+- **(g)** “Indian tribes” means the Nez Perce Tribe, the Confederated Tribes and Bands of the Yakama Indian Nation, the Confederated Tribes of the Warm Springs of Oregon, and the Confederated Tribes of the Umatilla Indian Reservation;
 - **(h)** “interim guidelines” means any interim guidelines developed by the Secretary pursuant to section 544h of this title , and any amendment, revision, or variance;
 - **(i)** “land use ordinance” or “ordinance” means any ordinance adopted by a county or by the Commission pursuant to sections 544 to 544p of this title, and includes any amendment to, revision of, or variance from such ordinance;
 - **(j)** “major development actions” means any of the following:

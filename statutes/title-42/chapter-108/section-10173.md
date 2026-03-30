@@ -3,9 +3,10 @@ title: "Section 10173 - Benefits agreements"
 usc_title: 42
 usc_section: "10173"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10173"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-03-30T03:06:22.872Z"
+status: "active"
 ---
 
 # § 10173. Benefits agreements
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(2)** The State or Indian tribe may enter into such an agreement only if the State Attorney General or the appropriate governing authority of the Indian tribe or the Secretary of the Interior, in the absence of an appropriate governing authority, as appropriate, certifies to the satisfaction of the Secretary that the laws of the State or Indian tribe provide adequate authority for that entity to enter into the benefits agreement.
   - **(3)** Any benefits agreement with a State under this section shall be negotiated in consultation with affected units of local government in such State.
   - **(4)** Benefits and payments under this part may be made available only in accordance with a benefits agreement under this section.
-- **(b)** A benefits agreement entered into under subsection (a) may be amended only by the mutual consent of the parties to the agreement and terminated only in accordance with section 10173c of this title .
+- **(b)** A benefits agreement entered into under subsection (a) of this section may be amended only by the mutual consent of the parties to the agreement and terminated only in accordance with section 10173c of this title .
 - **(c)** The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada. Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
 - **(d)** The Secretary shall offer to enter into a benefits agreement relating to a monitored retrievable storage facility with the governing body of the Indian tribe on whose reservation the site for such facility is located, or, if the site is not located on a reservation, with the Governor of the State in which the site is located and in consultation with affected units of local government in such State.
 - **(e)** Only one benefits agreement for a repository and only one benefits agreement for a monitored retrievable storage facility may be in effect at any one time.

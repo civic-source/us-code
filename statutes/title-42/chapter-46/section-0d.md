@@ -1,12 +1,15 @@
 ---
-title: "Section 0d - Omitted"
+title: "Section 0d - Authorization of appropriations"
 usc_title: 42
 usc_section: "0d"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 0d"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.700Z"
+status: "active"
 ---
 
-# § 3796gg–0d. Omitted
+# § 3796gg–0d. Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this subchapter for each fiscal year until fiscal year 2005.
 

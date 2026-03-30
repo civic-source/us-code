@@ -1,0 +1,18 @@
+---
+title: "Section 4629 - Proceeds: disposition"
+usc_title: 10
+usc_section: "4629"
+chapter: 439
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 4629"
+generated_at: "2026-03-30T03:04:17.312Z"
+status: "active"
+---
+
+# § 4629. Proceeds: disposition
+
+The proceeds of sales of the following shall be paid into the Treasury to the credit of the appropriation out of which they were purchased, and are available for the purposes of that appropriation:
+
+  - **(1)** Exterior articles of uniform sold under section 4621 of this title .
+  - **(2)** Supplies and military publications sold to educational institutions under section 4627 of this title .
+  - **(3)** Fuel, oil, other supplies, and services for aircraft of a foreign military or air attache sold under section 4626 of this title .

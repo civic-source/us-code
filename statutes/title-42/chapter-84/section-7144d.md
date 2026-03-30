@@ -3,9 +3,10 @@ title: "Section 7144d - Office of Arctic Energy"
 usc_title: 42
 usc_section: "7144d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7144d"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-03-30T03:06:22.785Z"
+status: "active"
 ---
 
 # § 7144d. Office of Arctic Energy
@@ -19,4 +20,4 @@ generated_at: "2026-03-30T02:56:11.283Z"
     - **(C)** small hydroelectric facilities, river turbines, and tidal power;
     - **(D)** natural gas hydrates, coal bed methane, and shallow bed natural gas; and
     - **(E)** alternative energy, including wind, geothermal, and fuel cells.
-- **(c)** The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b).
+- **(c)** The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b) of this section.

@@ -3,9 +3,10 @@ title: "Section 40102 - Definitions"
 usc_title: 49
 usc_section: "40102"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 40102"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-03-30T03:06:29.314Z"
+status: "active"
 ---
 
 # § 40102. Definitions
@@ -92,7 +93,6 @@ generated_at: "2026-03-30T02:56:19.369Z"
     - **(C)** An aircraft owned and operated by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
     - **(D)** An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
     - **(E)** An aircraft owned or operated by the armed forces or chartered to provide transportation or other commercial air service to the armed forces under the conditions specified by section 40125(c). In the preceding sentence, the term “other commercial air service” means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.
-    - **(F)** An unmanned aircraft that is owned and operated by, or exclusively leased for at least 90 continuous days by, an Indian Tribal government, as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5122 ), except as provided in section 40125(b).
   - **(42)** “small hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
   - **(43)** “spare part” means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
   - **(44)** “State authority” means an authority of a State designated under State law—
@@ -103,7 +103,6 @@ generated_at: "2026-03-30T02:56:19.369Z"
   - **(47)** “air traffic control system” means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including—
     - **(A)** allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
     - **(B)** laws, regulations, orders, directives, agreements, and licenses;
-    - **(C)** published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation;
-    - **(D)** trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control; and
-    - **(E)** systems, software, and hardware operated, owned, and maintained by third parties that support or directly provide air navigation information and air traffic management services with Administration approval.
+    - **(C)** published procedures that explain required actions, activities, and techniques used to ensure adequate aircraft separation; and
+    - **(D)** trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control.
 - **(b)** In subpart II of this part, “control” means control by any means.

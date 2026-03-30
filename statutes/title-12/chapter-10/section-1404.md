@@ -1,12 +1,15 @@
 ---
-title: "Section 1404 - Repealed. Pub. L. 115–334, title V, § 5411(64) , Dec. 20, 2018 , 132 Stat. 4686"
+title: "Section 1404 - Authorization of appropriations; revolving fund"
 usc_title: 12
 usc_section: "1404"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1404"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-03-30T03:04:29.208Z"
+status: "active"
 ---
 
-# §§ 1401 to 1404. Repealed. Pub. L. 115–334, title V, § 5411(64) , Dec. 20, 2018 , 132 Stat. 4686
+# § 1404. Authorization of appropriations; revolving fund
+
+To carry out the provisions of this chapter, including all expenses incurred thereunder, there are authorized to be appropriated, out of the unexpended balances of appropriations made to carry out the provisions of Public Resolution Numbered 112, Seventy-first Congress ( 46 Stat. 1032 ), as amended by the Interior Department Appropriation Act for the fiscal year ending June 30, 1932 , and as amended by Public Resolution Numbered 120 ( 46 Stat. 1167 ), and out of the collections from loans made under Public Resolution Numbered 112, as so amended, a sum not exceeding $10,000,000, which sum shall be paid into a revolving fund. Not to exceed 2 per centum of such fund may be used for expenses of administration. All moneys received from time to time upon the repayment of any advance or loan made pursuant to this chapter, together with the interest, shall be paid into the revolving fund and shall thereafter be available for the purposes and in the manner hereinbefore provided.
 

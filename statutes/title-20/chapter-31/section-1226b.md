@@ -3,9 +3,10 @@ title: "Section 1226b - Responsibility of States to furnish information"
 usc_title: 20
 usc_section: "1226b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1226b"
-generated_at: "2026-03-30T02:54:48.156Z"
+generated_at: "2026-03-30T03:04:46.294Z"
+status: "active"
 ---
 
 # § 1226b. Responsibility of States to furnish information
@@ -13,15 +14,15 @@ generated_at: "2026-03-30T02:54:48.156Z"
 - **(a)** Each State educational agency shall submit to the Secretary a report on or before March 15 of every second year. Each such report shall include—
   - **(1)** information with respect to the uses of Federal funds in such State in the two preceding fiscal years under any applicable program under the jurisdiction of the State educational agency; and
   - **(2)** information with respect to the uses of Federal funds in such State in the two preceding fiscal years under any Federal program administered by the State that provided grants or contracts to a local educational agency in the State.
-- **(b)** Each report submitted under subsection (a) shall—
+- **(b)** Each report submitted under subsection (a) of this section shall—
   - **(1)** list, with respect to each program for which information is provided, all grants made to and contracts entered into with local educational agencies and other public and private agencies and institutions within the State during each fiscal year concerned;
   - **(2)** analyze the information included in the report by local educational agency and by program;
   - **(3)** include the total amount of funds available to the State under each such program for each fiscal year concerned; and
   - **(4)** be made readily available by the State to local educational agencies and institutions within the State and to the public.
-- **(c)** If the Secretary does not receive a report by the date required under subsection (a), or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
-- **(d)** When the Secretary receives a report required under subsection (a), the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
-- **(e)** The Secretary shall consult with the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate regarding the costs and feasibility of making the information described in subsection (a) available as part of a telecommunications network that is readily accessible to every member of Congress and other interested parties.
-- **(f)** On or before August 15 of each year in which reports are submitted under subsection (a), the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate. Such report shall include—
+- **(c)** If the Secretary does not receive a report by the date required under subsection (a) of this section, or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
+- **(d)** When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
+- **(e)** The Secretary shall consult with the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate regarding the costs and feasibility of making the information described in subsection (a) of this section available as part of a telecommunications network that is readily accessible to every member of Congress and other interested parties.
+- **(f)** On or before August 15 of each year in which reports are submitted under subsection (a) of this section, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate. Such report shall include—
   - **(1)** an analysis of the content and data quality of such reports;
   - **(2)** a compilation of statistical data derived from such reports; and
   - **(3)** information obtained by the Secretary with respect to—

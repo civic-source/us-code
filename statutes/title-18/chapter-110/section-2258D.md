@@ -1,23 +1,24 @@
 ---
-title: "Section 2258D - Limited liability for NCMEC"
+title: "Section 2258D - Limited liability for the National Center for Missing and Exploited Children"
 usc_title: 18
 usc_section: "2258D"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 2258D"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-03-30T03:04:41.108Z"
+status: "active"
 ---
 
-# § 2258D. Limited liability for NCMEC
+# § 2258D. Limited liability for the National Center for Missing and Exploited Children
 
-- **(a)** Pursuant to its clearinghouse role as a private, nonprofit organization and its mission to help find missing children, reduce online sexual exploitation of children and prevent future victimization, and except as provided in subsections (b) and (c), a civil claim or criminal charge against NCMEC, including any director, officer, employee, or agent of NCMEC, arising from the performance of the CyberTipline responsibilities or functions of NCMEC, as described in this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ( 34 U.S.C. 11293 ), or from the efforts of NCMEC to identify child victims may not be brought in any Federal or State court.
-- **(b)** Subsection (a) shall not apply to a claim or charge if NCMEC, or a director, officer, employee, or agent of NCMEC—
+- **(a)** Except as provided in subsections (b) and (c), a civil claim or criminal charge against the National Center for Missing and Exploited Children, including any director, officer, employee, or agent of such center, arising from the performance of the CyberTipline responsibilities or functions of such center, as described in this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ( 42 U.S.C. 5773 ), or from the effort of such center to identify child victims may not be brought in any Federal or State court.
+- **(b)** Subsection (a) shall not apply to a claim or charge if the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of such center—
   - **(1)** engaged in intentional misconduct; or
   - **(2)** acted, or failed to act—
     - **(A)** with actual malice;
     - **(B)** with reckless disregard to a substantial risk of causing injury without legal justification; or
-    - **(C)** for a purpose unrelated to the performance of any responsibility or function under this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ( 34 U.S.C. 11293 ).
+    - **(C)** for a purpose unrelated to the performance of any responsibility or function under this section, section 2258A or 2258C of this title, or section 404 of the Missing Children’s Assistance Act ( 42 U.S.C. 5773 ).
 - **(c)** Subsection (a) shall not apply to an act or omission relating to an ordinary business activity, including general administration or operations, the use of motor vehicles, or personnel management.
-- **(d)** NCMEC shall—
-  - **(1)** minimize the number of employees that are provided access to any visual depiction provided under section 2258A; and
-  - **(2)** ensure that any such visual depiction is permanently destroyed upon notification from a law enforcement agency.
+- **(d)** The National Center for Missing and Exploited Children shall—
+  - **(1)** minimize the number of employees that are provided access to any image provided under section 2258A; and
+  - **(2)** ensure that any such image is permanently destroyed upon notification from a law enforcement agency.

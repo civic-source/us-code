@@ -3,9 +3,10 @@ title: "Section 7915 - Indian tribe cooperative agreements"
 usc_title: 42
 usc_section: "7915"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7915"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-03-30T03:06:22.826Z"
+status: "active"
 ---
 
 # § 7915. Indian tribe cooperative agreements
@@ -14,4 +15,4 @@ generated_at: "2026-03-30T02:56:11.331Z"
   - **(1)** The Indian tribe and any person holding any interest in such land shall execute a waiver (A) releasing the United States of any liability or claim thereof by such tribe or person concerning such remedial action and (B) holding the United States harmless against any claim arising out of the performance of any such remedial action.
   - **(2)** The remedial action shall be selected and performed in accordance with section 7918 of this title by the Secretary or such person as he may designate.
   - **(3)** The Secretary, the Commission, and the Administrator and their authorized representatives shall have a permanent right of entry at any time to inspect such processing site in furtherance of the provisions of this subchapter, to carry out such agreement, and to enforce any rules prescribed under this chapter.
-- **(b)** When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.
+- **(b)** When the Secretary with the concurrence of the Commission determines removal of residual radioactive materials from a processing site on lands described in subsection (a) of this section to be appropriate, he shall provide, consistent with other applicable provisions of law, a site or sites for the permanent disposition and stabilization in a safe and environmentally sound manner of such residual radioactive materials. Such materials shall be transferred to the Secretary (without payment therefor by the Secretary) and permanently retained and maintained by the Secretary under the conditions established in a license issued by the Commission, subject to section 7914(f)(2) and (h) of this title.

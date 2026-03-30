@@ -3,9 +3,10 @@ title: "Section 1703 - Consultation and reports"
 usc_title: 50
 usc_section: "1703"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1703"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-03-30T03:06:37.642Z"
+status: "active"
 ---
 
 # § 1703. Consultation and reports
@@ -17,5 +18,5 @@ generated_at: "2026-03-30T02:56:26.207Z"
   - **(3)** the authorities to be exercised and the actions to be taken in the exercise of those authorities to deal with those circumstances;
   - **(4)** why the President believes such actions are necessary to deal with those circumstances; and
   - **(5)** any foreign countries with respect to which such actions are to be taken and why such actions are to be taken with respect to those countries.
-- **(c)** At least once during each succeeding six-month period after transmitting a report pursuant to subsection (b) with respect to an exercise of authorities under this chapter, the President shall report to the Congress with respect to the actions taken, since the last such report, in the exercise of such authorities, and with respect to any changes which have occurred concerning any information previously furnished pursuant to paragraphs (1) through (5) of subsection (b).
+- **(c)** At least once during each succeeding six-month period after transmitting a report pursuant to subsection (b) of this section with respect to an exercise of authorities under this chapter, the President shall report to the Congress with respect to the actions taken, since the last such report, in the exercise of such authorities, and with respect to any changes which have occurred concerning any information previously furnished pursuant to paragraphs (1) through (5) of subsection (b) of this section.
 - **(d)** The requirements of this section are supplemental to those contained in title IV of the National Emergencies Act [ 50 U.S.C. 1641 ].

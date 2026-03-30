@@ -3,9 +3,10 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-03-30T02:54:24.683Z"
+generated_at: "2026-03-30T03:04:42.046Z"
+status: "active"
 ---
 
 # § 2703a. Special rules for Haiti
@@ -49,14 +50,25 @@ generated_at: "2026-03-30T02:54:24.683Z"
         - **(V)** Any country designated as a beneficiary country under section 3203(b)(6)(B) of this title .
       - **(iv)**
         - **(I)** In the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the initial applicable 1-year period by aggregating—
-    - **(II)** In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
+        - **(II)** In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
         - **(III)** In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
         - **(IV)** Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
-- **(v)** In this paragraph:
+      - **(v)** In this paragraph:
+        - **(I)** The term “applicable percentage” means—
+        - **(II)** The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
+      - **(vi)**
+        - **(I)** U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+        - **(II)** If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+        - **(III)** If—
+      - **(vii)**
+        - **(I)** For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
+        - **(II)** If the President determines that—
+    - **(C)** The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During: the corresponding percentage is: the initial applicable 1-year period 1 percent. each of the succeeding 11 1-year periods 1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2018 .
+    - **(D)** Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
   - **(2)**
     - **(A)**
       - **(i)** Any apparel article classifiable under chapter 62 of the HTS that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, subject to clauses (ii) and (iii), without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
-      - **(ii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+      - **(ii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
       - **(iii)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (B) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (ii).
     - **(B)**
       - **(i)** Any apparel article classifiable under chapter 61 of the HTS that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, subject to clauses (ii), (iii), and (iv), without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
@@ -65,9 +77,8 @@ generated_at: "2026-03-30T02:54:24.683Z"
         - **(II)** T-shirts for men or boys that are classifiable under subheading 6109.90.10.
         - **(III)** The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6110.20.20 of the HTS:
         - **(IV)** Sweatshirts for men or boys, of man-made fibers and containing less than 65 percent by weight of man-made fibers, that are classifiable under subheading 6110.30.30 of the HTS.
-      - **(iii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
-      - **(iv)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
-  - **(2A)**
+      - **(iii)** Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008 , and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+      - **(iv)** Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii). (2A) Special rule for certain woven articles and certain knit articles entered during fiscal year 2010 and succeeding 1-year periods
     - **(A)** Except as provided in subparagraphs (B) and (C) and subject to subparagraph (D), if 52,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) enter the United States during the 1-year period beginning October 1, 2009 , or any of the succeeding 1-year periods, the President shall extend the preferential treatment described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) to not more than 200,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) during that 1-year period, and shall publish notice of the extension in the Federal Register.
     - **(B)**
       - **(i)** In the case of apparel articles described in clause (ii), subparagraph (A) shall be applied by substituting “70,000,000” for “200,000,000”.
@@ -133,7 +144,7 @@ generated_at: "2026-03-30T02:54:24.683Z"
       - **(ii)** The Secretary of Commerce may establish and impose penalties for the submission to the Secretary of Commerce of fraudulent information under the program established under subparagraph (B), other than a claim described in clause (i).
   - **(5)**
     - **(A)** Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
-      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
+      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
       - **(ii)** Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
         - **(I)** section 2703(b)(2)(A)(v) of this title ;
         - **(II)** section 3721(b)(5) of this title ;
@@ -143,17 +154,6 @@ generated_at: "2026-03-30T02:54:24.683Z"
       - **(i)** any fabric or yarn described in clause (i) of subparagraph (A) was determined to be eligible for preferential treatment, or
       - **(ii)** any fabric or yarn described in clause (ii) of subparagraph (A) was designated as not being available in commercial quantities,
   - **(6)** The duty-free treatment provided under this subsection is in addition to any other preferential treatment under this chapter.
-    - **(C)** The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During: the corresponding percentage is: the initial applicable 1-year period 1 percent. each of the 16 succeeding 1-year periods 1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2025 .
-    - **(D)** Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
-      - **(vi)**
-        - **(I)** U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
-        - **(II)** If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
-        - **(III)** If—
-      - **(vii)**
-        - **(I)** For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
-        - **(II)** If the President determines that—
-        - **(I)** The term “applicable percentage” means—
-        - **(II)** The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
 - **(c)**
   - **(1)** Any wire harness automotive component that is the product or manufacture of Haiti and is imported directly from Haiti into the customs territory of the United States shall enter the United States free of duty, during the 10-year period beginning on December 20, 2006 , if Haiti has met the requirements of subsection (d) and if the sum of—
     - **(A)** the cost or value of the materials produced in Haiti or one or more countries described in subsection (b)(2)(C), or any combination thereof, plus
@@ -260,4 +260,4 @@ generated_at: "2026-03-30T02:54:24.683Z"
     - **(A)** Notwithstanding subsection (a)(5), relating to the definition of “imported directly from Haiti or the Dominican Republic”, articles described in subsection (b) that are shipped from the Dominican Republic, directly or through the territory of an intermediate country, whether or not such articles undergo processing in the Dominican Republic, shall not be considered to be “imported directly from Haiti or the Dominican Republic” until the President certifies to the Congress that Haiti and the Dominican Republic have developed procedures to prevent unlawful transshipment of the articles and the use of counterfeit documents related to the importation of the articles into the United States.
     - **(B)** The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 - **(g)** The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006 . The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
-- **(h)** Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025 .
+- **(h)** Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020 .

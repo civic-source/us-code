@@ -1,12 +1,25 @@
 ---
-title: "Section 5938 - Repealed. Pub. L. 113–79, title VII, § 7518 , Feb. 7, 2014 , 128 Stat. 904"
+title: "Section 5938 - Agricultural and rural transportation research and education"
 usc_title: 7
 usc_section: "5938"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5938"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-03-30T03:04:20.997Z"
+status: "active"
 ---
 
-# § 5938. Repealed. Pub. L. 113–79, title VII, § 7518 , Feb. 7, 2014 , 128 Stat. 904
+# § 5938. Agricultural and rural transportation research and education
 
+- **(a)** The Secretary, in consultation with the Secretary of Transportation, shall make competitive grants to institutions of higher education to carry out agricultural and rural transportation research and education activities.
+- **(b)** Research and education grants made under this section shall be used to address rural transportation and logistics needs of agricultural producers and related rural businesses, including—
+  - **(1)** the transportation of biofuels; and
+  - **(2)** the export of agricultural products.
+- **(c)**
+  - **(1)** The Secretary shall award grants under this section on the basis of the transportation research, education, and outreach expertise of the applicant, as determined by the Secretary.
+  - **(2)** In awarding grants under this section, the Secretary shall give priority to institutions of higher education for use in coordinating research and education activities with other institutions of higher education with similar agricultural and rural transportation research and education programs.
+- **(d)** The Secretary shall award grants under this section in areas that are regionally diverse and broadly representative of the diversity of agricultural production and related transportation needs in the rural areas of the United States.
+- **(e)** The Secretary shall require each recipient of a grant under this section to provide, from non-Federal sources, in cash or in kind, 50 percent of the cost of carrying out activities under the grant.
+- **(f)** A grant shall be awarded under this section on a competitive, peer- and merit-reviewed basis in accordance with section 7613(a) of this title .
+- **(g)** In awarding grants under this section, the Secretary shall ensure that activities funded under this section do not duplicate the efforts of the University Transportation Centers described in sections 5505 and 5506 1 1 See References in Text note below. of title 49.
+- **(h)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.

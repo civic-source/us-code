@@ -3,9 +3,10 @@ title: "Section 2567 - Limitation of damages; marking and notice"
 usc_title: 7
 usc_section: "2567"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2567"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-03-30T03:04:20.973Z"
+status: "active"
 ---
 
 # § 2567. Limitation of damages; marking and notice

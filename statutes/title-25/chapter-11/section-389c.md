@@ -3,9 +3,10 @@ title: "Section 389c - Cancellation of charges in absence of lien or contract fo
 usc_title: 25
 usc_section: "389c"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 389c"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-03-30T03:05:02.831Z"
+status: "active"
 ---
 
 # § 389c. Cancellation of charges in absence of lien or contract for payment

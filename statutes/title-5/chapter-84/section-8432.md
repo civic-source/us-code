@@ -3,16 +3,17 @@ title: "Section 8432 - Contributions"
 usc_title: 5
 usc_section: "8432"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8432"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-03-30T03:04:06.105Z"
+status: "active"
 ---
 
 # § 8432. Contributions
 
 - **(a)**
   - **(1)** An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
-  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year: The maximum percentage allowable is: 2001 11 2002 12 2003 13 2004 14 2005 15 2006 or thereafter 100.
+  - **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period The maximum percent- beginning in fiscal year: age allowable is: 2001 11 2002 12 2003 13 2004 14 2005 15 2006 or thereafter 100.
   - **(3)** Notwithstanding any limitation under this subsection, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 - **(b)**
   - **(1)**
@@ -31,9 +32,8 @@ generated_at: "2026-03-30T02:52:56.057Z"
       - **(ii)** decline automatic enrollment altogether.
     - **(D)**
       - **(i)** Except as provided in clause (ii), for purposes of this paragraph, the term “eligible individual” means any individual who, after any regulations under subparagraph (A) first take effect, is appointed, transferred, or reappointed to a position in which that individual becomes eligible to contribute to the Thrift Savings Fund.
-      - **(ii)**
-    - **(E)** Sections 8351(a)(1), 8440a(a)(1), 8440b(a)(1), 8440c(a)(1), 8440d(a)(1), and 8440e(b)(1) shall be applied in a manner consistent with the purposes of this paragraph.
-    - **(F)** Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay.
+      - **(ii)** Members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
+    - **(E)** Sections 8351(a)(1), 8440a(a)(1), 8440b(a)(1), 8440c(a)(1), 8440d(a)(1), and 8440e(a)(1) 1 1 So in original. Probably should be “8440e(b)(1)”. shall be applied in a manner consistent with the purposes of this paragraph.
 - **(c)**
   - **(1)**
     - **(A)** At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
@@ -69,9 +69,8 @@ generated_at: "2026-03-30T02:52:56.057Z"
     - **(A)** 2 years of civilian service in the case of an employee who, at the time of separation, is serving in—
       - **(i)** a position in the Senior Executive Service as a noncareer appointee (as defined in section 3132(a)(7) of this title );
       - **(ii)** a position listed in section 5312, 5313, 5314, 5315, or 5316 of this title or a position placed in level IV or V of the Executive Schedule under section 5317 of this title ; or
-      - **(iii)** a position in the Executive branch which is excepted from the competitive service by the Office by reason of the confidential and policy-determining character of the position;
-    - **(B)** 3 years of civilian service in the case of an employee who is not serving in a position described in subparagraph (A) at the time of separation; or
-    - **(C)** 2 years of service in the case of a member of the uniformed services.
+      - **(iii)** a position in the Executive branch which is excepted from the competitive service by the Office by reason of the confidential and policy-determining character of the position; or
+    - **(B)** 3 years of civilian service in the case of an employee who is not serving in a position described in subparagraph (A) at the time of separation.
   - **(3)** Contributions made for the benefit of a Member or Congressional employee under subsection (c)(1) and all earnings attributable to such contributions shall be forfeited if the Member or Congressional employee separates from Government employment before completing 2 years of civilian service.
   - **(4)** Nothing in paragraph (2) or (3) shall cause the forfeiture of any contributions made for the benefit of an employee, Member, or Congressional employee under subsection (c)(1), or any earnings attributable thereto, if such employee, Member, or Congressional employee is not separated from Government employment as of date of death.
   - **(5)** Notwithstanding any other provision of law, contributions made by the Government for the benefit of an employee or Member under subsection (c), and all earnings attributable to such contributions, shall be forfeited if the annuity of the employee or Member, or that of a survivor or beneficiary, is forfeited under subchapter II of chapter 83.

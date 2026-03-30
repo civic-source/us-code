@@ -3,9 +3,10 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-03-30T03:04:53.668Z"
+status: "active"
 ---
 
 # § 3929. Inspector General
@@ -33,13 +34,6 @@ generated_at: "2026-03-30T02:55:05.398Z"
     - **(B)** In order to ensure that final reports of investigations are thorough and accurate, the Inspector General shall—
       - **(i)** make every reasonable effort to ensure that any person named in a final report of investigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person’s actions;
       - **(ii)** include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
-  - **(6)**
-    - **(A)** The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a “Department entity”) shall submit to the Inspector General a report of any allegation of—
-      - **(i)** waste, fraud, or abuse in a Department program or operation;
-      - **(ii)** criminal or serious misconduct on the part of a Department employee at the FS–1, GS–15, or GM–15 level or higher;
-      - **(iii)** criminal misconduct on the part of a Department employee; and
-      - **(iv)** serious, noncriminal misconduct on the part of any Department employee who is authorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
-    - **(B)** The head of a Department entity shall submit to the Inspector General a report of an allegation described in subparagraph (A) not later than 5 business days after the date on which the head of such Department entity is made aware of such allegation.
 - **(d)**
   - **(1)** The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
   - **(2)** The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
@@ -48,13 +42,13 @@ generated_at: "2026-03-30T02:55:05.398Z"
     - **(C)** an identification of each significant recommendation described in previous annual reports on which corrective action has not been completed;
     - **(D)** a summary of matters referred to prosecutive authorities and the prosecutions and convictions which have resulted;
     - **(E)** a listing of each audit report completed by the Inspector General during the reporting period; and
-    - **(F)** a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) to refute any allegation and the rationale for denying such individual that opportunity.
+    - **(F)** a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) of this section to refute any allegation and the rationale for denying such individual that opportunity.
   - **(3)** The Inspector General shall report immediately to the Secretary of State whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of activities and operations of Foreign Service posts or bureaus or other operating units of the Department of State. The Secretary of State shall transmit any such report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees within 7 days after receiving it, together with a report by the Secretary of State containing any comments the Secretary of State deems appropriate.
   - **(4)** Nothing in this subsection shall be construed to authorize the public disclosure by any individual of any information which is—
     - **(A)** specifically prohibited from disclosure by any other provision of law; or
     - **(B)** specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 - **(e)**
-  - **(1)** The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 406 of title 5 to each Inspector General of an establishment (as defined in section 401 of title 5 ) for carrying out the provisions of chapter 4 of title 5, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 406(c) and (d) of title 5.
+  - **(1)** The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
   - **(2)** At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
   - **(3)** The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 - **(f)**

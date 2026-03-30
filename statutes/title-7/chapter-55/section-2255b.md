@@ -3,9 +3,10 @@ title: "Section 2255b - Department of Agriculture conference transparency"
 usc_title: 7
 usc_section: "2255b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 2255b"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-03-30T03:04:20.969Z"
+status: "active"
 ---
 
 # § 2255b. Department of Agriculture conference transparency
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:53:42.382Z"
       - **(iv)** the costs (including travel expenses) relating to such conference; and
     - **(B)** for each conference sponsored or held by the Department of Agriculture for which the Department awarded a procurement contract, a description of the contracting procedures related to such conference.
   - **(3)** The requirement in paragraph (1) shall not apply to any conference—
-    - **(A)** for which the cost to the Federal Government was less than $50,000; or
+    - **(A)** for which the cost to the Federal Government was less than $10,000; or
     - **(B)** outside of the United States that is attended by the Secretary or the Secretary’s designee as an official representative of the United States government.
 - **(b)** Each report submitted in accordance with subsection (a) shall be posted in a searchable format on a Department of Agriculture website that is available to the public.
 - **(c)** In this section, the term “conference”—

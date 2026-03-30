@@ -3,12 +3,13 @@ title: "Section 6434 - Applicability of other laws"
 usc_title: 22
 usc_section: "6434"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6434"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-03-30T03:04:53.697Z"
+status: "active"
 ---
 
 # § 6434. Applicability of other laws
 
-Chapter 10 of title 5 shall not apply to the Commission.
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 

@@ -3,9 +3,10 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-03-30T03:05:59.203Z"
+status: "active"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
@@ -25,7 +26,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
     - **(A)** outreach services;
     - **(B)** case management services;
     - **(C)** assistance in obtaining any benefits from the Department which the veteran may be eligible to receive, including, but not limited to, vocational and rehabilitation counseling, employment and training service, educational assistance, and health care services; and
-    - **(D)** assistance in obtaining and coordinating the provision of other public benefits provided in Federal, State, or local agencies, or any organization defined in subsection (f), including—
+    - **(D)** assistance in obtaining and coordinating the provision of other public benefits provided in federal, 1 1 So in original. Probably should be capitalized. State, or local agencies, or any organization defined in subsection (f), including—
       - **(i)** health care services (including obtaining health insurance);
       - **(ii)** daily living services;
       - **(iii)** personal financial planning;
@@ -55,16 +56,15 @@ generated_at: "2026-03-30T02:55:53.494Z"
 - **(d)**
   - **(1)** The Secretary shall provide training and technical assistance to participating eligible entities regarding the planning, development, and provision of supportive services to very low-income veteran families occupying permanent housing, through the Technical Assistance grants program in section 2064 of this title .
   - **(2)** The Secretary may provide the training described in paragraph (1) directly or through grants or contracts with appropriate public or nonprofit private entities.
-- **(e)** From amounts appropriated to the Department for Medical Services, there shall be available to carry out subsections (a), (b), and (c) amounts as follows:
-  - **(1)** $15,000,000 for fiscal year 2009.
-  - **(2)** $20,000,000 for fiscal year 2010.
-  - **(3)** $25,000,000 for fiscal year 2011.
-  - **(4)** $100,000,000 for fiscal year 2012.
-  - **(5)** $320,000,000 for each of fiscal years 2015 through 2017.
-  - **(6)** $340,000,000 for fiscal year 2018.
-  - **(7)** $380,000,000 for each of fiscal years 2019 and 2020.
-  - **(8)** $420,000,000 for each of fiscal years 2021 through 2025.
-  - **(9)** $660,000,000 for fiscal year 2026.
+- **(e)**
+  - **(1)** From amounts appropriated to the Department for Medical Services, there shall be available to carry out subsections (a), (b), and (c) amounts as follows:
+    - **(A)** $15,000,000 for fiscal year 2009.
+    - **(B)** $20,000,000 for fiscal year 2010.
+    - **(C)** $25,000,000 for fiscal year 2011.
+    - **(D)** $100,000,000 for fiscal year 2012.
+    - **(E)** $300,000,000 for fiscal year 2013.
+  - **(2)** Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
+  - **(3)** There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
 - **(f)** In this section:
   - **(1)** The term “consumer cooperative” has the meaning given such term in section 202 of the Housing Act of 1959 ( 12 U.S.C. 1701q ).
   - **(2)** The term “eligible entity” means—

@@ -3,9 +3,10 @@ title: "Section 3003 - Definitions"
 usc_title: 50
 usc_section: "3003"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 3003"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-03-30T03:06:37.685Z"
+status: "active"
 ---
 
 # § 3003. Definitions
@@ -23,7 +24,7 @@ As used in this chapter:
     - **(E)** The National Geospatial-Intelligence Agency.
     - **(F)** The National Reconnaissance Office.
     - **(G)** Other offices within the Department of Defense for the collection of specialized national intelligence through reconnaissance programs.
-    - **(H)** The intelligence elements of the Army, the Navy, the Air Force, the Marine Corps, the Space Force, the Coast Guard, the Federal Bureau of Investigation, the Drug Enforcement Administration, and the Department of Energy.
+    - **(H)** The intelligence elements of the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard, the Federal Bureau of Investigation, the Drug Enforcement Administration, and the Department of Energy.
     - **(I)** The Bureau of Intelligence and Research of the Department of State.
     - **(J)** The Office of Intelligence and Analysis of the Department of the Treasury.
     - **(K)** The Office of Intelligence and Analysis of the Department of Homeland Security.

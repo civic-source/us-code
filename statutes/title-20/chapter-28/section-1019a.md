@@ -3,9 +3,10 @@ title: "Section 1019a - Responsibilities of covered institutions, institution-af
 usc_title: 20
 usc_section: "1019a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1019a"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-03-30T03:04:46.241Z"
+status: "active"
 ---
 
 # § 1019a. Responsibilities of covered institutions, institution-affiliated organizations, and lenders
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:54:48.096Z"
   - **(1)**
     - **(A)** In addition to the disclosures required by subsections (a)(27) and (h) of section 1094 of this title (if applicable), a covered institution, or an institution-affiliated organization of such covered institution, that participates in a preferred lender arrangement shall disclose—
       - **(i)** on such covered institution’s or institution-affiliated organization’s website and in all informational materials described in subparagraph (C) that describe or discuss education loans—
-        - **(I)** the maximum amount of Federal grant and loan aid under subchapter IV available to students, in an easy to understand format;
+        - **(I)** the maximum amount of Federal grant and loan aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 available to students, in an easy to understand format;
         - **(II)** the information required to be disclosed pursuant to section 1019b(a)(2)(A)(i) of this title , for each type of loan described in section 1019(3)(A) of this title that is offered pursuant to a preferred lender arrangement of the institution or organization to students of the institution or the families of such students; and
         - **(III)** a statement that such institution is required to process the documents required to obtain a loan under part B of subchapter IV from any eligible lender the student selects; and
       - **(ii)** on such covered institution’s or institution-affiliated organization’s website and in all informational materials described in subparagraph (C) that describe or discuss private education loans—
@@ -23,9 +24,9 @@ generated_at: "2026-03-30T02:54:48.096Z"
     - **(B)** A covered institution, or an institution-affiliated organization of such covered institution, that provides information regarding a private education loan from a lender to a prospective borrower shall—
       - **(i)** provide the prospective borrower with the information the Board of Governors of the Federal Reserve System requires to be disclosed under section 1638(e)(1) of title 15 for such loan;
       - **(ii)** inform the prospective borrower that—
-        - **(I)** the prospective borrower may qualify for loans or other assistance under subchapter IV; and
-        - **(II)** the terms and conditions of loans made, insured, or guaranteed under subchapter IV may be more favorable than the provisions of private education loans; and
-      - **(iii)** ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV.
+        - **(I)** the prospective borrower may qualify for loans or other assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42; and
+        - **(II)** the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 may be more favorable than the provisions of private education loans; and
+      - **(iii)** ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
     - **(C)** The informational materials described in this subparagraph are publications, mailings, or electronic messages or materials that—
       - **(i)** are distributed to prospective or current students of a covered institution and families of such students; and
       - **(ii)** describe or discuss the financial aid opportunities available to students at an institution of higher education.
@@ -34,7 +35,7 @@ generated_at: "2026-03-30T02:54:48.096Z"
 - **(b)**
   - **(1)**
     - **(A)**
-      - **(i)** For each education loan that is made, insured, or guaranteed under part B or D of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), with the disclosures described in subsections (a) and (c) of section 1083 of this title .
+      - **(i)** For each education loan that is made, insured, or guaranteed under part B or C of subchapter IV (other than a loan made under section 1078–3 of this title or a Federal Direct Consolidation Loan), at or prior to the time the lender disburses such loan, the lender shall provide the prospective borrower or borrower, in writing (including through electronic means), with the disclosures described in subsections (a) and (c) of section 1083 of this title .
       - **(ii)** For each of a lender’s private education loans, the lender shall comply with the disclosure requirements under section 1638(e) of title 15 .
     - **(B)**
       - **(i)** Each lender of a loan made, insured, or guaranteed under part B of subchapter IV shall, on an annual basis, report to the Secretary—
@@ -47,5 +48,5 @@ generated_at: "2026-03-30T02:54:48.096Z"
         - **(IV)** a brief description of the activity for which the expenses were paid or provided.
       - **(iii)** The Secretary shall summarize the information received from the lenders under this subparagraph in a report and transmit such report annually to the authorizing committees.
   - **(2)** Not later than 18 months after August 14, 2008 —
-    - **(A)** in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender’s compliance with the requirements of this chapter; and
+    - **(A)** in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender’s compliance with the requirements of this chapter and part C of subchapter I of chapter 34 of title 42; and
     - **(B)** if an audit of a lender is required pursuant to section 1078(b)(1)(U)(iii) of this title , the lender’s compliance with the requirements under this section shall be reported on and attested to annually by the auditor of such lender.

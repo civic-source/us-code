@@ -1,0 +1,15 @@
+---
+title: "Section 2895 - Advisory committees"
+usc_title: 29
+usc_section: "2895"
+chapter: 30
+current_through: "PL 113-21"
+classification: "29 U.S.C. § 2895"
+generated_at: "2026-03-30T03:05:09.743Z"
+status: "active"
+---
+
+# § 2895. Advisory committees
+
+The Secretary may establish and use advisory committees in connection with the operation of the Job Corps program, and the operation of Job Corps centers, whenever the Secretary determines that the availability of outside advice and counsel on a regular basis would be of substantial benefit in identifying and overcoming problems, in planning program or center development, or in strengthening relationships between the Job Corps and agencies, institutions, or groups engaged in related activities.
+

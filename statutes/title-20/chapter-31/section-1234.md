@@ -3,9 +3,10 @@ title: "Section 1234 - Office of Administrative Law Judges"
 usc_title: 20
 usc_section: "1234"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1234"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-03-30T03:04:46.296Z"
+status: "active"
 ---
 
 # § 1234. Office of Administrative Law Judges
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(4)** other proceedings designated by the Secretary.
 - **(b)** The administrative law judges (hereinafter “judges”) of the Office shall be appointed by the Secretary in accordance with section 3105 of title 5 .
 - **(c)** The judges shall be officers or employees of the Department. The judges shall meet the requirements imposed for administrative law judges pursuant to section 3105 of title 5 . In choosing among equally qualified candidates for such positions the Secretary shall give favorable consideration to the candidates’ experience in State or local educational agencies and their knowledge of the workings of Federal education programs in such agencies. The Secretary shall designate one of the judges of the Office to be the chief judge.
-- **(d)** For the purposes of conducting hearings described in subsection (a), the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party’s attorney as to make it improper for the judge to be assigned to the case.
+- **(d)** For the purposes of conducting hearings described in subsection (a) of this section, the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party’s attorney as to make it improper for the judge to be assigned to the case.
 - **(e)** The judge shall review and may require that evidence be taken on the sufficiency of the preliminary departmental determination as set forth in section 1234a of this title .
 - **(f)**
   - **(1)** The proceedings of the Office shall be conducted according to such rules as the Secretary shall prescribe by regulation in conformance with the rules relating to hearings in title 5, sections 554, 556, and 557.
@@ -27,6 +28,6 @@ generated_at: "2026-03-30T02:54:48.158Z"
     - **(A)** produce relevant documents;
     - **(B)** answer written interrogatories that inquire into relevant matters; and
     - **(C)** have depositions taken.
-  - **(2)** In order to carry out the provisions of subsections (f)(1) and (g)(1), the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
+  - **(2)** In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 - **(h)** The Secretary shall establish a process for the voluntary mediation of disputes pending before the Office. The mediator shall be agreed to by all parties involved in mediation and shall be independent of the parties to the dispute. In the mediation of disputes the Secretary shall consider mitigating circumstances and proportion of harm pursuant to section 1234b of this title . In accordance with rule 408 of the Federal Rules of Evidence, evidence of conduct or statements made in compromise negotiations shall not be admissible in proceedings before the Office. Mediation shall be limited to 120 days, except that the mediator may grant extensions of such period.
 - **(i)** The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.

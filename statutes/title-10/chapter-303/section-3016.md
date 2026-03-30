@@ -1,0 +1,22 @@
+---
+title: "Section 3016 - Assistant Secretaries of the Army"
+usc_title: 10
+usc_section: "3016"
+chapter: 303
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 3016"
+generated_at: "2026-03-30T03:04:17.305Z"
+status: "active"
+---
+
+# § 3016. Assistant Secretaries of the Army
+
+- **(a)** There are five Assistant Secretaries of the Army. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+- **(b)**
+  - **(1)** The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Army may prescribe.
+  - **(2)** One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Army.
+  - **(3)** One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Civil Works. He shall have as his principal duty the overall supervision of the functions of the Department of the Army relating to programs for conservation and development of the national water resources, including flood control, navigation, shore protection, and related purposes.
+  - **(4)** One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Army, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Army and shall advise the Secretary of the Army on financial management.
+  - **(5)**
+    - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
+    - **(B)** The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title .

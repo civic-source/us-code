@@ -3,9 +3,10 @@ title: "Section 3660 - Review and adjustment of classifications, grades, and pay
 usc_title: 22
 usc_section: "3660"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 3660"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-03-30T03:04:53.664Z"
+status: "active"
 ---
 
 # § 3660. Review and adjustment of classifications, grades, and pay level
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:55:05.395Z"
 An employee may request at any time that the employee’s agency—
 
   - **(1)** review the classification of the employee’s position or the grade or pay level for the employee’s position, or both; and
-  - **(2)** revise or adjust that classification, grade or pay level, or both, as the case may be.
+  - **(2)** revise or adjust that classification, grade or pay level, or both, as the case may be. The request for review and revision or adjustment shall be submitted and adjudicated in accordance with the regularly established appeals procedures of the agency.

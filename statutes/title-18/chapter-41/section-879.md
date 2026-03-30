@@ -3,9 +3,10 @@ title: "Section 879 - Threats against former Presidents and certain other person
 usc_title: 18
 usc_section: "879"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 879"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-03-30T03:04:41.088Z"
+status: "active"
 ---
 
 # § 879. Threats against former Presidents and certain other persons
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:54:16.471Z"
   - **(4)** a person protected by the Secret Service under section 3056(a)(6);
 - **(b)** As used in this section—
   - **(1)** the term “immediate family” means—
-    - **(A)** with respect to subsection (a)(1) of this section, the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage, and minor children of a former President until they reach sixteen years of age; and
+    - **(A)** with respect to subsection (a)(1) of this section, the wife of a former President during his lifetime, the widow of a former President until her death or remarriage, and minor children of a former President until they reach sixteen years of age; and
     - **(B)** with respect to subsection (a)(2) and (a)(3) of this section, a person to whom the President, President-elect, Vice President, Vice President-elect, or major candidate for the office of President or Vice President—
       - **(i)** is related by blood, marriage, or adoption; or
       - **(ii)** stands in loco parentis;

@@ -1,12 +1,15 @@
 ---
-title: "Section 450l - Transferred"
+title: "Section 450l - Expiration of dairy farmer indemnity program"
 usc_title: 7
 usc_section: "450l"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 450l"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-03-30T03:04:20.899Z"
+status: "active"
 ---
 
-# § 450l. Transferred
+# § 450l. Expiration of dairy farmer indemnity program
+
+The authority granted under sections 450j to 450 l of this title shall expire on September 30, 2012 .
 

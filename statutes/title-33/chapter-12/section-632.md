@@ -3,9 +3,10 @@ title: "Section 632 - Omitted"
 usc_title: 33
 usc_section: "632"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 632"
-generated_at: "2026-03-30T02:55:41.065Z"
+generated_at: "2026-03-30T03:05:36.255Z"
+status: "omitted"
 ---
 
 # § 632. Omitted

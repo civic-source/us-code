@@ -3,9 +3,10 @@ title: "Section 2795b - Repealed. Pub. L. 104–164, title I, § 145(a) , July 2
 usc_title: 22
 usc_section: "2795b"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2795b"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-03-30T03:04:53.656Z"
+status: "repealed"
 ---
 
 # § 2795b. Repealed. Pub. L. 104–164, title I, § 145(a) , July 21, 1996 , 110 Stat. 1434

@@ -3,9 +3,10 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T02:55:18.708Z"
+generated_at: "2026-03-30T03:05:09.713Z"
+status: "active"
 ---
 
 # § 1060. Multiple employer plans and other special rules
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:55:18.708Z"
   - **(1)** in any case in which the employer maintains a plan of a predecessor employer, service for such predecessor shall be treated as service for the employer, and
   - **(2)** in any case in which the employer maintains a plan which is not the plan maintained by a predecessor employer, service for such predecessor shall, to the extent provided in regulations prescribed by the Secretary of the Treasury, be treated as service for the employer.
 - **(c)** For purposes of sections 1052, 1053, and 1054 of this title, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a) of title 26 , determined without regard to section 1563(a)(4) and (e)(3)(C) of title 26) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the minimum funding standard of section 1082 of this title shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary of the Treasury.
-- **(d)** For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c).
+- **(d)** For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c) of this section.
 - **(e)**
   - **(1)** Except as provided in this subsection, this chapter shall be applied to any defined benefit plan or applicable individual account plan which are 1 1 So in original. Probably should be “is”. part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
   - **(2)** For purposes of this subsection—
@@ -32,7 +33,7 @@ generated_at: "2026-03-30T02:55:18.708Z"
       - **(ii)** For purposes of clause (i), the applicable percentage is the lesser of—
         - **(I)** 1 percent multiplied by the number of years of service with the employer, or
         - **(II)** 20 percent.
-      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title , the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age as of the beginning of the year is— The percentage is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
+      - **(iii)** If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title , the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table: If the participant’s age The as of the beginning percentage of the year is— is— 30 or less 2 Over 30 but less than 40 4 40 or over but less than 50 6 50 or over 8.
       - **(iv)** For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title , except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
     - **(C)**
       - **(i)** The contribution requirements of this subparagraph with respect to any applicable individual account plan forming part of an eligible combined plan are met if—
@@ -67,24 +68,3 @@ generated_at: "2026-03-30T02:55:18.708Z"
   - **(5)** For purposes of this subsection—
     - **(A)** The term “applicable individual account plan” means an individual account plan which includes a qualified cash or deferred arrangement.
     - **(B)** The term “qualified cash or deferred arrangement” has the meaning given such term by section 401(k)(2) of title 26 .
-- **(f)**
-  - **(1)** For purposes of this subchapter, except as provided in this subsection, a CSEC plan is an employee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
-    - **(A)** to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
-      - **(i)** section 104(a)(2) of such Act;
-      - **(ii)** the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
-      - **(iii)** paragraph (3)(B);
-    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26 ;
-    - **(C)** that, as of June 25, 2010 , was maintained by an employer—
-      - **(i)** described in section 501(c)(3) of such title,
-      - **(ii)** chartered under part B of subtitle II of title 36,
-      - **(iii)** with employees in at least 40 States, and
-      - **(iv)** whose primary exempt purpose is to provide services with respect to children; or
-    - **(D)** that, as of January 1, 2000 , was maintained by an employer—
-      - **(i)** described in section 501(c)(3) of title 26 ,
-      - **(ii)** who has been in existence since at least 1938,
-      - **(iii)** who conducts medical research directly or indirectly through grant making, and
-      - **(iv)** whose primary exempt purpose is to provide services with respect to mothers and children.
-  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) of section 414 of title 26 shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph 2 2 So in original. Probably should be “subparagraphs”. (B) and (C) of paragraph (1).
-  - **(3)**
-    - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
-    - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.

@@ -1,32 +1,13 @@
 ---
-title: "Section 234 - Health care professionals assisting during a public health emergency"
+title: "Section 234 - Repealed. Pub. L. 94–484, title IV, § 408(b)(1) , Oct. 12, 1976 , 90 Stat. 2281 , eff. Oct. 1, 1977"
 usc_title: 42
 usc_section: "234"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 234"
-generated_at: "2026-03-30T02:56:10.688Z"
+generated_at: "2026-03-30T03:06:22.300Z"
+status: "repealed"
 ---
 
-# § 234. Health care professionals assisting during a public health emergency
+# § 234. Repealed. Pub. L. 94–484, title IV, § 408(b)(1) , Oct. 12, 1976 , 90 Stat. 2281 , eff. Oct. 1, 1977
 
-- **(a)** Notwithstanding any other provision of law, a health care professional who is a member of the Medical Reserve Corps under section 300hh–15 of this title or who is included in the Emergency System for Advance Registration of Volunteer Health Professionals under section 247d–7b of this title and who—
-  - **(1)** is responding—
-    - **(A)** to a public health emergency determined under section 247d(a) of this title , during the initial period of not more than 90 days (as determined by the Secretary) of the public health emergency determination (excluding any period covered by a renewal of such determination); or
-    - **(B)** to a major disaster or an emergency as declared by the President under section 5170 of this title or under section 1621 of title 50 during the initial period of such declaration;
-  - **(2)** is alleged to be liable for an act or omission—
-    - **(A)** during the initial period of a determination or declaration described in paragraph (1) and related to the treatment of individuals in need of health care services due to such public health emergency, major disaster, or emergency;
-    - **(B)** in the State or States for which such determination or declaration is made;
-    - **(C)** in the health care professional’s capacity as a member of the Medical Reserve Corps or a professional included in the Emergency System for Advance Registration of Volunteer Health Professionals under section 247d–7b of this title ; and
-    - **(D)** in the course of providing services that are within the scope of the license, registration, or certification of the professional, as defined by the State of licensure, registration, or certification; and
-  - **(3)** prior to the rendering of such act or omission, was authorized by the State’s authorization of deploying such State’s Emergency System for Advance Registration of Volunteer Health Professionals described in section 247d–7b of this title or the Medical Reserve Corps established under section 300hh–15 of this title , to provide health care services,
-- **(b)** Nothing in this section shall be construed to affect an individual’s right to protections under the Volunteer Protection Act of 1997 [ 42 U.S.C. 14501 et seq.].
-- **(c)** This section shall supersede the laws of any State that would subject a health care professional described in subsection (a) to the liability laws of any State other than the State liability laws to which such individual is subject pursuant to such subsection.
-- **(d)** In this section:
-  - **(1)** The term “health care professional” means an individual licensed, registered, or certified under Federal or State laws or regulations to provide health care services.
-  - **(2)** The term “health care services” means any services provided by a health care professional, or by any individual working under the supervision of a health care professional, that relate to—
-    - **(A)** the diagnosis, prevention, or treatment of any human disease or impairment; or
-    - **(B)** the assessment or care of the health of human beings.
-- **(e)**
-  - **(1)** This section shall take effect 90 days after June 24, 2019 .
-  - **(2)** This section shall apply to a claim for harm only if the act or omission that caused such harm occurred on or after the effective date described in paragraph (1).

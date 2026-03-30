@@ -3,9 +3,10 @@ title: "Section 21106 - Powers"
 usc_title: 36
 usc_section: "21106"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 21106"
-generated_at: "2026-03-30T02:55:44.692Z"
+generated_at: "2026-03-30T03:05:43.641Z"
+status: "active"
 ---
 
 # § 21106. Powers

@@ -3,9 +3,10 @@ title: "Section 6291 - Definitions"
 usc_title: 42
 usc_section: "6291"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6291"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-03-30T03:06:22.752Z"
+status: "active"
 ---
 
 # § 6291. Definitions
@@ -21,7 +22,7 @@ For purposes of this part:
   - **(5)** The term “energy efficiency” means the ratio of the useful output of services from a consumer product to the energy use of such product, determined in accordance with test procedures under section 6293 of this title .
   - **(6)** The term “energy conservation standard” means—
     - **(A)** a performance standard which prescribes a minimum level of energy efficiency or a maximum quantity of energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use, for a covered product, determined in accordance with test procedures prescribed under section 6293 of this title ; or
-    - **(B)** a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (20) of section 6292(a) of this title ; and
+    - **(B)** a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (19) 1 1 See References in Text note below. of section 6292(a) of this title ; and
   - **(7)** The term “estimated annual operating cost” means the aggregate retail cost of the energy which is likely to be consumed annually, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually, in representative use of a consumer product, determined in accordance with section 6293 of this title .
   - **(8)** The term “measure of energy consumption” means energy use, energy efficiency, estimated annual operating cost, or other measure of energy consumption.
   - **(9)** The term “class of covered products” means a group of covered products, the functions or intended uses of which are similar (as determined by the Secretary).
@@ -142,8 +143,8 @@ For purposes of this part:
         - **(XVII)** A 3-way incandescent lamp.
         - **(XVIII)** A traffic signal lamp.
         - **(XIX)** A vibration service lamp.
-        - **(XX)** A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 1 1 So in original. Probably should be followed by a closing parenthesis. with a diameter of 5 inches or more.
-        - **(XXI)** A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and 2 2 So in original. The word “and” probably should not appear. that uses not more than 40 watts or has a length of more than 10 inches.
+        - **(XX)** A G shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002 2 2 So in original. Probably should be followed by a closing parenthesis. with a diameter of 5 inches or more.
+        - **(XXI)** A T shape lamp (as defined in ANSI C78.20–2003 and C79.1–2002) and 3 3 So in original. The word “and” probably should not appear. that uses not more than 40 watts or has a length of more than 10 inches.
         - **(XXII)** A B, BA, CA, F, G16–1/2, G–25, G30, S, or M–14 lamp (as defined in ANSI C79.1–2002 and ANSI C78.20–2003) of 40 watts or less.
     - **(E)** The terms “fluorescent lamp” and “incandescent lamp” do not include any lamp excluded by the Secretary, by rule, as a result of a determination that standards for such lamp would not result in significant energy savings because such lamp is designed for special applications or has special characteristics not available in reasonably substitutable lamp types.
     - **(F)** The term “incandescent reflector lamp” means a lamp described in subparagraph (C)(ii).
@@ -189,14 +190,12 @@ For purposes of this part:
       - **(ii)** is designated and marketed for the intended application, with—
         - **(I)** the designation on the lamp packaging; and
         - **(II)** marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
-    - **(AA)** The term “vibration service lamp” means a lamp that—
       - **(i)** has filament configurations that are C–5, C–7A, or C–9, as listed in Figure 6–12 of the 9th Edition of the IESNA Lighting Handbook or similar configurations;
       - **(ii)** has a maximum wattage of 60 watts;
       - **(iii)** is sold at retail in packages of 2 lamps or less; and
       - **(iv)** is designated and marketed specifically for vibration service or vibration-resistant applications, with—
         - **(I)** the designation appearing on the lamp packaging; and
         - **(II)** marketing materials that identify the lamp as being vibration service only.
-    - **(BB)**
       - **(i)** The term “general service lamp” includes—
         - **(I)** general service incandescent lamps;
         - **(II)** compact fluorescent lamps;
@@ -205,14 +204,11 @@ For purposes of this part:
       - **(ii)** The term “general service lamp” does not include—
         - **(I)** any lighting application or bulb shape described in any of subclauses (I) through (XXII) of subparagraph (D)(ii); or
         - **(II)** any general service fluorescent lamp or incandescent reflector lamp.
-    - **(CC)**
       - **(i)** The terms “light-emitting diode” and “LED” means a p-n junction solid state device the radiated output of which is a function of the physical construction, material used, and exciting current of the device.
       - **(ii)** The output of a light-emitting diode may be in—
         - **(I)** the infrared region;
         - **(II)** the visible region; or
         - **(III)** the ultraviolet region.
-    - **(DD)** The terms “organic light-emitting diode” and “OLED” mean a thin-film light-emitting device that typically consists of a series of organic layers between 2 electrical contacts (electrodes).
-    - **(EE)** The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
       - **(i)** a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
       - **(ii)** a correlated color temperature of less than 2,500K, or greater than 4,600K, where correlated temperature is computed according to the Journal of Optical Society of America, Vol. 58, pages 1528–1595 (1986).
   - **(31)**
@@ -254,12 +250,7 @@ For purposes of this part:
         - **(II)** the transformer is unlikely to be used in general purpose applications; and
         - **(III)** the application of standards to the transformer would not result in significant energy savings.
   - **(36)**
-    - **(A)**
-      - **(i)** The term “external power supply” means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
-      - **(ii)** The term “external power supply” does not include a power supply circuit, driver, or device that is designed exclusively to be connected to, and power—
-        - **(I)** light-emitting diodes providing illumination;
-        - **(II)** organic light-emitting diodes providing illumination; or
-        - **(III)** ceiling fans using direct current motors.
+    - **(A)** The term “external power supply” means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
     - **(B)** The term “active mode” means the mode of operation when an external power supply is connected to the main electricity supply and the output is connected to a load.
     - **(C)**
       - **(i)** The term “class A external power supply” means a device that—

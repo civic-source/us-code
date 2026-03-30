@@ -3,9 +3,10 @@ title: "Section 1326 - Payments"
 usc_title: 11
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "11 U.S.C. § 1326"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-03-30T03:04:35.856Z"
+status: "active"
 ---
 
 # § 1326. Payments
@@ -24,7 +25,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(3)** if a chapter 7 trustee has been allowed compensation due to the conversion or dismissal of the debtor’s prior case pursuant to section 707(b), and some portion of that compensation remains unpaid in a case converted to this chapter or in the case dismissed under section 707(b) and refiled under this chapter, the amount of any such unpaid compensation, which shall be paid monthly—
     - **(A)** by prorating such amount over the remaining duration of the plan; and
     - **(B)** by monthly payments not to exceed the greater of—
-      - **(i)** $25; 1 1 See Adjustment of Dollar Amounts notes below. or
+      - **(i)** $25; or
       - **(ii)** the amount payable to unsecured nonpriority creditors, as provided by the plan, multiplied by 5 percent, and the result divided by the number of months in the plan.
 - **(c)** Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 - **(d)** Notwithstanding any other provision of this title—

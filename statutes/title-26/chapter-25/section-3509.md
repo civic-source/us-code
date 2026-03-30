@@ -3,9 +3,10 @@ title: "Section 3509 - Determination of employer’s liability for certain emplo
 usc_title: 26
 usc_section: "3509"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 3509"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-03-30T03:05:18.681Z"
+status: "active"
 ---
 
 # § 3509. Determination of employer’s liability for certain employment taxes
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
   - **(1)** If the amount of any liability for tax is determined under this section—
     - **(A)** the employee’s liability for tax shall not be affected by the assessment or collection of the tax so determined,
     - **(B)** the employer shall not be entitled to recover from the employee any tax so determined, and
-    - **(C)** section 3402(d) and section 6521 shall not apply.
+    - **(C)** sections 1 1 So in original. Probably should be “section”. 3402(d) and section 6521 shall not apply.
   - **(2)** This section shall not apply to any employer with respect to any wages if—
     - **(A)** the employer deducted and withheld any amount of the tax imposed by chapter 24 on such wages, but
     - **(B)** failed to deduct and withhold the amount of the tax imposed by subchapter A of chapter 21 with respect to such wages.

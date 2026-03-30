@@ -1,12 +1,25 @@
 ---
-title: "Section 489 - Repealed. Pub. L. 113–291, div. A, title III, § 331(a) , Dec. 19, 2014 , 128 Stat. 3344 ]"
+title: "Section 489 - Annual report on Department of Defense operation and financial support for military museums"
 usc_title: 10
 usc_section: "489"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 489"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-03-30T03:04:17.222Z"
+status: "active"
 ---
 
-# [§ 489. Repealed. Pub. L. 113–291, div. A, title III, § 331(a) , Dec. 19, 2014 , 128 Stat. 3344 ]
+# § 489. Annual report on Department of Defense operation and financial support for military museums
 
+- **(a)** As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 , but in no case later than March 15 of each year, the Secretary of Defense shall submit a report identifying all military museums that, during the most recently completed fiscal year—
+  - **(1)** were operated by the Secretary of Defense or the Secretary of a military department;
+  - **(2)** were otherwise supported using funds appropriated to the Department of Defense; or
+  - **(3)** were located on property under the jurisdiction of the Department of Defense, although neither operated by the Department of Defense nor supported using funds appropriated to the Department of Defense.
+- **(b)** For each museum identified in a report under this section, the Secretary of Defense shall include in the report the following:
+  - **(1)** The purpose and functions of the museum and the justification for the museum.
+  - **(2)** A description of the facilities dedicated to the museum, including the location, size, and type of facilities and whether the facilities are included or eligible for inclusion on the National Register of Historic Places.
+  - **(3)** An itemized listing of the funds appropriated to the Department of Defense that were obligated to support the museum during the fiscal year covered by the report and a description of the process used to determine the annual allocation of Department of Defense funds for the museum.
+  - **(4)** An itemized listing of any other Federal funds, funds from a nonappropriated fund instrumentality account of the Department of Defense, and non-Federal funds obligated to support the museum.
+  - **(5)** The management structure of the museum, including identification of the persons responsible for preparing the budget for the museum and for making acquisition and management decisions for the museum.
+  - **(6)** The number of civilian employees of the Department of Defense and members of the armed forces who served full-time or part-time at the museum and their role in the management structure of the museum.
+- **(c)** Each report under this section shall also include a separate description of the procedures used by the Secretary of Defense, in the case of museums identified in the report that are operated or supported by the Secretary of Defense, and the Secretary of a military department, in the case of museums identified in the report that are operated or supported by that Secretary, to prioritize funding and personnel support to the museums. The Secretary of Defense shall include a description of any such procedures applicable to the entire Department of Defense.

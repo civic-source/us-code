@@ -3,9 +3,10 @@ title: "Section 1094 - Licensure requirement for health-care professionals"
 usc_title: 10
 usc_section: "1094"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1094"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-03-30T03:04:17.246Z"
+status: "active"
 ---
 
 # § 1094. Licensure requirement for health-care professionals
@@ -20,25 +21,15 @@ generated_at: "2026-03-30T02:53:38.107Z"
     - **(A)** a reference to the Secretary in that section is deemed a reference to the Secretary of Defense; and
     - **(B)** a reference to a claimant in subsection (e) of that section is deemed a reference to the person described in paragraph (1).
 - **(d)**
-  - **(1)** Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2), (3), or (4) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
-  - **(2)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title , contractor not covered under section 1091 of this title who is providing an examination or assessment under section 10206 of this title or medical treatment as part of a mission relating to emergency, humanitarian, or refugee assistance, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
+  - **(1)** Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) or (3) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
+  - **(2)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title , or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
     - **(A)** has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
     - **(B)** is performing authorized duties for the Department of Defense.
   - **(3)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the National Guard who—
     - **(A)** has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
     - **(B)** is performing training or duty under section 502(f) of title 32 in response to an actual or potential disaster.
-  - **(4)** To the extent provided in regulations prescribed by the Secretary for the purpose of assuring the availability of high-quality mental health care services to members of the armed forces and dependents entitled to health care under section 1076 of this title , a health care professional referred to in paragraph (1) as being described in this paragraph is a mental health provider providing care through a network under the TRICARE program who—
-    - **(A)** has a current license to practice as a mental health care professional;
-    - **(B)** is providing tele-mental health care services to members of the armed forces or such dependents; and
-    - **(C)** is providing such services under terms and conditions specified by the Secretary (which shall establish the scope of authorized Federal duties for purposes of paragraph (1)).
 - **(e)** In this section:
   - **(1)** The term “license”—
-    - **(A)** means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional, or the official agency of the government of a partner country; and
+    - **(A)** means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional; and
     - **(B)** includes, in the case of such care furnished in a foreign country by any person who is not a national of the United States, a grant of permission by an official agency of that foreign country for that person to provide health care independently as a health-care professional.
   - **(2)** The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
-  - **(3)** The term “partner country” means any of the following:
-    - **(A)** Australia.
-    - **(B)** Canada.
-    - **(C)** New Zealand.
-    - **(D)** The United Kingdom.
-    - **(E)** Any other country designated as a partner country by the Secretary of Defense for the purposes of this section.

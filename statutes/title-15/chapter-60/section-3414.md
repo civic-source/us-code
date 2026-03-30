@@ -3,9 +3,10 @@ title: "Section 3414 - Enforcement"
 usc_title: 15
 usc_section: "3414"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3414"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-03-30T03:04:31.218Z"
+status: "active"
 ---
 
 # § 3414. Enforcement
@@ -33,7 +34,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
     - **(A)** a fine of not more than $1,000,000; or
     - **(B)** imprisonment for not more than 5 years; or
     - **(C)** both such fine and such imprisonment.
-  - **(2)** Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E)), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
+  - **(2)** Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
   - **(3)** Any person who knowingly and willfully violates an order under section 3362 of this title or an order or supplemental order under section 3363 of this title shall be fined not more than $50,000 for each violation.
   - **(4)** For purposes of this subsection, each day of violation shall constitute a separate violation.
   - **(5)** For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—

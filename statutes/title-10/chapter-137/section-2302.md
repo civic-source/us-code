@@ -1,12 +1,45 @@
 ---
-title: "Section 2302 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1806(d) , Jan. 1, 2021 , 134 Stat. 4155 ]"
+title: "Section 2302 - Definitions"
 usc_title: 10
 usc_section: "2302"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2302"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-03-30T03:04:17.275Z"
+status: "active"
 ---
 
-# [§ 2302. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1806(d) , Jan. 1, 2021 , 134 Stat. 4155 ]
+# § 2302. Definitions
 
+In this chapter:
+
+  - **(1)** The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
+  - **(2)** The term “competitive procedures” means procedures under which the head of an agency enters into a contract pursuant to full and open competition. Such term also includes—
+    - **(A)** procurement of architectural or engineering services conducted in accordance with chapter 11 of title 40;
+    - **(B)** the competitive selection for award of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
+    - **(C)** the procedures established by the Administrator of General Services for the multiple award schedule program of the General Services Administration if—
+      - **(i)** participation in the program has been open to all responsible sources; and
+      - **(ii)** orders and contracts under such program result in the lowest overall cost alternative to meet the needs of the United States;
+    - **(D)** procurements conducted in furtherance of section 15 of the Small Business Act ( 15 U.S.C. 644 ) as long as all responsible business concerns that are entitled to submit offers for such procurements are permitted to compete; and
+    - **(E)** a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of the Small Business Act ( 15 U.S.C. 638 ).
+  - **(3)** The following terms have the meanings provided such terms in chapter 1 of title 41:
+    - **(A)** The term “procurement”.
+    - **(B)** The term “procurement system”.
+    - **(C)** The term “standards”.
+    - **(D)** The term “full and open competition”.
+    - **(E)** The term “responsible source”.
+    - **(F)** The term “item”.
+    - **(G)** The term “item of supply”.
+    - **(H)** The term “supplies”.
+    - **(I)** The term “commercial item”.
+    - **(J)** The term “nondevelopmental item”.
+    - **(K)** The term “commercial component”.
+    - **(L)** The term “component”.
+  - **(4)** The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
+  - **(5)** The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property. A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a “major system” by the head of the agency responsible for the system.
+  - **(6)** The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41 .
+  - **(7)** The term “simplified acquisition threshold” has the meaning provided that term in section 134 of title 41 , except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4 1 1 See References in Text note below. of such Act.
+  - **(8)** The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
+  - **(9)** The term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under section 2371(a) of this title , means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any of the following for the Department of Defense:
+    - **(A)** Any contract or subcontract that is subject to full coverage under the cost accounting standards prescribed pursuant to section 26 1 of the Office of Federal Procurement Policy Act ( 41 U.S.C. 422 ) and the regulations implementing such section. 1
+    - **(B)** Any other contract in excess of $500,000 under which the contractor is required to submit certified cost or pricing data under section 2306a of this title .

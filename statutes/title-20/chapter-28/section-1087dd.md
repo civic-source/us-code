@@ -3,9 +3,10 @@ title: "Section 1087dd - Terms of loans"
 usc_title: 20
 usc_section: "1087dd"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 1087dd"
-generated_at: "2026-03-30T02:54:48.127Z"
+generated_at: "2026-03-30T03:04:46.269Z"
+status: "active"
 ---
 
 # § 1087dd. Terms of loans
@@ -23,7 +24,7 @@ generated_at: "2026-03-30T02:54:48.127Z"
   - **(3)** Regulations of the Secretary under paragraph (1) shall be designed to prevent the impairment of the capital student loan funds to the maximum extent practicable and with a view toward the objective of enabling the student to complete his course of study.
   - **(4)** In the case of a program of study abroad that is approved for credit by the home institution at which a student is enrolled and that has reasonable costs in excess of the home institution’s budget, the annual and aggregate loan limits for the student may exceed the amounts described in paragraphs (2)(A) and (2)(B) by 20 percent.
 - **(b)**
-  - **(1)** A loan from a student loan fund assisted under this part may be made only to a student who demonstrates financial need in accordance with part F of this subchapter, who meets the requirements of section 1091 of this title , and who provides the institution with the student’s drivers license number, if any, at the time of application for the loan. A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title .
+  - **(1)** A loan from a student loan fund assisted under this part may be made only to a student who demonstrates financial need in accordance with part E of this subchapter, who meets the requirements of section 1091 of this title , and who provides the institution with the student’s drivers license number, if any, at the time of application for the loan. A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title .
   - **(2)** If the institution’s capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, then a reasonable portion of the loans made from the institution’s student loan fund containing the contribution shall be made available to such students.
 - **(c)**
   - **(1)** Any agreement between an institution and a student for a loan from a student loan fund assisted under this part—
@@ -51,9 +52,8 @@ generated_at: "2026-03-30T02:54:48.127Z"
       - **(iii)** during which the borrower—
         - **(I)** is serving on active duty during a war or other military operation or national emergency; or
         - **(II)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
-      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship;
-      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ; or
-      - **(vi)** during which the borrower is receiving treatment for cancer and the 6 months after such period;
+      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship; or
+      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ;
     - **(B)** No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
     - **(C)** An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998 , shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
   - **(3)**
@@ -70,7 +70,7 @@ generated_at: "2026-03-30T02:54:48.127Z"
   - **(1)** The Secretary shall ensure that, as documented in accordance with paragraph (2), an institution of higher education shall grant a borrower forbearance of principal and interest or principal only, renewable at 12-month intervals for a period not to exceed 3 years, on such terms as are otherwise consistent with the regulations issued by the Secretary and agreed upon in writing by the parties to the loan, if—
     - **(A)** the borrower’s debt burden equals or exceeds 20 percent of such borrower’s gross income;
     - **(B)** the institution determines that the borrower should qualify for forbearance for other reasons; or
-    - **(C)** the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j), except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j).
+    - **(C)** the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
   - **(2)** For the purpose of paragraph (1), the terms of forbearance agreed to by the parties shall be documented by—
     - **(A)** confirming the agreement of the borrower by notice to the borrower from the institution of higher education; and
     - **(B)** recording the terms in the borrower’s file.
@@ -83,16 +83,16 @@ generated_at: "2026-03-30T02:54:48.127Z"
 - **(g)**
   - **(1)** If a student borrower who received a loan made under this part on or after January 1, 1986 , is unable to complete the program in which such student is enrolled due to the closure of the institution, then the Secretary shall discharge the borrower’s liability on the loan (including the interest and collection fees) and shall subsequently pursue any claim available to such borrower against the institution and the institution’s affiliates and principals, or settle the loan obligation pursuant to the financial responsibility standards described in section 1099c(c) of this title .
   - **(2)** A borrower whose loan has been discharged pursuant to this subsection shall be deemed to have assigned to the United States the right to a loan refund in an amount that does not exceed the amount discharged against the institution and the institution’s affiliates and principals.
-  - **(3)** The period during which a student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student’s period of eligibility for additional assistance under this subchapter.
-  - **(4)** A borrower whose loan has been discharged pursuant to this subsection shall not be precluded, because of that discharge, from receiving additional grant, loan, or work assistance under this subchapter for which the borrower would be otherwise eligible (but for the default on the discharged loan). The amount discharged under this subsection shall be treated as an amount canceled under section 1087ee(a) of this title .
+  - **(3)** The period during which a student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student’s period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+  - **(4)** A borrower whose loan has been discharged pursuant to this subsection shall not be precluded, because of that discharge, from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for which the borrower would be otherwise eligible (but for the default on the discharged loan). The amount discharged under this subsection shall be treated as an amount canceled under section 1087ee(a) of this title .
   - **(5)** The Secretary or institution, as the case may be, shall report to consumer reporting agencies with respect to loans that have been discharged pursuant to this subsection.
 - **(h)**
   - **(1)**
     - **(A)** If the borrower of a loan made under this part who has defaulted on the loan makes 9 on-time, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any consumer reporting agency to which the default was reported remove the default from the borrower’s credit history.
     - **(B)** As long as the borrower continues to make scheduled repayments on a loan rehabilitated under this paragraph, the rehabilitated loan shall be subject to the same terms and conditions, and qualify for the same benefits and privileges, as other loans made under this part.
-    - **(C)** The borrower of a rehabilitated loan shall not be precluded by section 1091 of this title from receiving additional grant, loan, or work assistance under this subchapter (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
+    - **(C)** The borrower of a rehabilitated loan shall not be precluded by section 1091 of this title from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
     - **(D)** A borrower only once may obtain the benefit of this paragraph with respect to rehabilitating a loan under this part.
-  - **(2)** If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower’s eligibility for grant, loan, or work assistance under this subchapter shall be restored to the extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
+  - **(2)** If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower’s eligibility for grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 shall be restored to the extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
 - **(i)**
   - **(1)** Each institution of higher education may establish, with the approval of the Secretary, an incentive repayment program designed to reduce default and to replenish student loan funds established under this part. Each such incentive repayment program may—
     - **(A)** offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
@@ -100,10 +100,10 @@ generated_at: "2026-03-30T02:54:48.127Z"
     - **(C)** include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
   - **(2)** No incentive repayment option under an incentive repayment program authorized by this subsection may be paid for with Federal funds, including any Federal funds from the student loan fund, or with institutional funds from the student loan fund.
 - **(j)**
-  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+  - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(1)(C).
 - **(k)** The Secretary may develop such additional safeguards as the Secretary determines necessary to prevent fraud and abuse in the cancellation of liability under subsection (c)(1)(F). Notwithstanding subsection (c)(1)(F), the Secretary may promulgate regulations to resume collection on loans cancelled under subsection (c)(1)(F) in any case in which—
   - **(1)** a borrower received a cancellation of liability under subsection (c)(1)(F) and after the cancellation the borrower—
-    - **(A)** receives a loan made, insured, or guaranteed under this subchapter; or
+    - **(A)** receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
     - **(B)** has earned income in excess of the poverty line; or
   - **(2)** the Secretary determines necessary.

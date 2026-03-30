@@ -3,9 +3,10 @@ title: "Section 1857 - Prohibited acts"
 usc_title: 16
 usc_section: "1857"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1857"
-generated_at: "2026-03-30T02:54:22.991Z"
+generated_at: "2026-03-30T03:04:48.584Z"
+status: "active"
 ---
 
 # § 1857. Prohibited acts
@@ -30,9 +31,7 @@ It is unlawful—
       - **(i)** fishing gear owned by another person, which is located in the exclusive economic zone, or
       - **(ii)** fish contained in such fishing gear;
     - **(L)** to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
-    - **(M)** to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation, unless such large-scale driftnet fishing—
-      - **(i)** deploys, within the exclusive economic zone, a net with a total length of less than two and one-half kilometers and a mesh size of 14 inches or greater; and
-      - **(ii)** is conducted within 5 years of December 29, 2022 ;
+    - **(M)** to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
     - **(N)** to strip pollock of its roe and discard the flesh of the pollock;
     - **(O)** to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title , or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title ;
     - **(P)**
@@ -40,7 +39,7 @@ It is unlawful—
       - **(ii)** to have custody, control, or possession of any such fin aboard a fishing vessel unless it is naturally attached to the corresponding carcass;
       - **(iii)** to transfer any such fin from one vessel to another vessel at sea, or to receive any such fin in such transfer, without the fin naturally attached to the corresponding carcass; or
       - **(iv)** to land any such fin that is not naturally attached to the corresponding carcass, or to land any shark carcass without such fins naturally attached;
-    - **(Q)** to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party; or
+    - **(Q)** to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
     - **(R)** to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under section 1861a(b)(2) of this title .
   - **(2)** for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
     - **(A)** in fishing within the boundaries of any State, except—

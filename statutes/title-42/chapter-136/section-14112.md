@@ -1,12 +1,17 @@
 ---
-title: "Section 14112 - Transferred"
+title: "Section 14112 - Allotment"
 usc_title: 42
 usc_section: "14112"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 14112"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-03-30T03:06:22.945Z"
+status: "active"
 ---
 
-# § 14112. Transferred
+# § 14112. Allotment
 
+From amounts appropriated under section 14119 of this title , the Director shall allot—
+
+  - **(1)** 80 percent of such amounts to States on the basis of the number of law enforcement officers in each State compared to the number of law enforcement officers in all States; and
+  - **(2)** 20 percent of such amounts to States on the basis of the shortage of law enforcement personnel and the need for assistance under this part in the State compared to the shortage of law enforcement personnel and the need for assistance under this part in all States.

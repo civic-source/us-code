@@ -3,9 +3,10 @@ title: "Section 1437v - Demolition, site revitalization, replacement housing, an
 usc_title: 42
 usc_section: "1437v"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1437v"
-generated_at: "2026-03-30T02:56:11.088Z"
+generated_at: "2026-03-30T03:06:22.600Z"
+status: "active"
 ---
 
 # § 1437v. Demolition, site revitalization, replacement housing, and tenant-based assistance grants for projects
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:11.088Z"
 - **(c)**
   - **(1)** The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
     - **(A)** supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
-    - **(B)** in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L), provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
+    - **(B)** in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L) of this section, provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
   - **(2)** In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
   - **(3)** If assistance provided under this subchapter will be used only for providing tenant-based assistance under section 1437f of this title or demolition of public housing (without replacement), the Secretary may exempt the applicant from the requirements under paragraph (1)(A).
 - **(d)**
@@ -83,13 +84,13 @@ generated_at: "2026-03-30T02:56:11.088Z"
 - **(l)** The Secretary shall submit to the Congress an annual report setting forth—
   - **(1)** the number, type, and cost of public housing units revitalized pursuant to this section;
   - **(2)** the status of projects identified as severely distressed public housing;
-  - **(3)** the amount and type of financial assistance provided under and in conjunction with this section, including a specification of the amount and type of assistance provided under subsection (n);
-  - **(4)** the types of projects funded, and number of affordable housing dwelling units developed with, grants under subsection (n); and
+  - **(3)** the amount and type of financial assistance provided under and in conjunction with this section, including a specification of the amount and type of assistance provided under subsection (n) of this section;
+  - **(4)** the types of projects funded, and number of affordable housing dwelling units developed with, grants under subsection (n) of this section; and
   - **(5)** the recommendations of the Secretary for statutory and regulatory improvements to the program established by this section.
 - **(m)**
-  - **(1)** There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2017.
-  - **(2)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods 3 3 So in original. Probably should be “Neighborhood”. Networks initiative described in subsection (d)(1)(G). Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
-  - **(3)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary shall provide up to 5 percent for use only for grants under subsection (n).
+  - **(1)** There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2012.
+  - **(2)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods 3 3 So in original. Probably should be “Neighborhood”. Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
+  - **(3)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary shall provide up to 5 percent for use only for grants under subsection (n) of this section.
 - **(n)**
   - **(1)** The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities under paragraph (4) in connection with an eligible project under paragraph (2).
   - **(2)** For purposes of this subsection, the term “eligible project” means a project that—
@@ -100,18 +101,18 @@ generated_at: "2026-03-30T02:56:11.088Z"
     - **(A)** has as its purpose the revitalization or redevelopment of a historic or traditional commercial area;
     - **(B)** involves investment, or other participation, by the government for, and private entities in, the community in which the project is carried out; and
     - **(C)** complies with such historic preservation guidelines or principles as the Secretary shall identify to preserve significant historic or traditional architectural and design features in the structures or area involved in the project.
-  - **(4)** For purposes of this subsection, the activities described in subsection (d)(1) shall be considered eligible affordable housing activities, except that—
+  - **(4)** For purposes of this subsection, the activities described in subsection (d)(1) of this section shall be considered eligible affordable housing activities, except that—
     - **(A)** such activities shall be conducted with respect to affordable housing rather than with respect to severely distressed public housing projects; and
-    - **(B)** eligible affordable housing activities under this subsection shall not include the activities described in subparagraphs (B) through (E), (J), or (K) of subsection (d)(1).
+    - **(B)** eligible affordable housing activities under this subsection shall not include the activities described in subparagraphs (B) through (E), (J), or (K) of subsection (d)(1) of this section.
   - **(5)** A grant under this subsection for a fiscal year for a single smaller community may not exceed $1,000,000.
-  - **(6)** A smaller community applying for a grant under this subsection shall be considered an applicant for purposes of subsection (c) (relating to contributions by applicants), except that—
+  - **(6)** A smaller community applying for a grant under this subsection shall be considered an applicant for purposes of subsection (c) of this section (relating to contributions by applicants), except that—
     - **(A)** such supplemental amounts shall be used only for carrying out eligible affordable housing activities; and
     - **(B)** paragraphs (1)(B) and (3) shall not apply to grants under this subsection.
   - **(7)**
-    - **(A)** Pursuant to subsection (e)(1), the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
-    - **(B)** The Secretary shall establish selection criteria for the award of grants under this subsection, which shall be based on the selection criteria established pursuant to subsection (e)(2), with such changes as may be appropriate to carry out the purposes of this subsection.
-  - **(8)** The cost limits established pursuant to subsection (f) shall apply to eligible affordable housing activities assisted with grant amounts under this subsection.
-  - **(9)** The provisions of subsections (g) (relating to disposition and replacement of severely distressed public housing), and (h) (relating to administration of grants by other entities), shall not apply to grants under this subsection.
+    - **(A)** Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+    - **(B)** The Secretary shall establish selection criteria for the award of grants under this subsection, which shall be based on the selection criteria established pursuant to subsection (e)(2) of this section, with such changes as may be appropriate to carry out the purposes of this subsection.
+  - **(8)** The cost limits established pursuant to subsection (f) of this section shall apply to eligible affordable housing activities assisted with grant amounts under this subsection.
+  - **(9)** The provisions of subsections (g) (relating to disposition and replacement of severely distressed public housing), and (h) (relating to administration of grants by other entities) of this section, shall not apply to grants under this subsection.
   - **(10)** The Secretary shall require each smaller community receiving a grant under this subsection to submit a report regarding the use of all amounts provided under the grant.
   - **(11)** For purposes of this subsection, the following definitions shall apply:
     - **(A)** The term “affordable housing” means rental or homeownership dwelling units that—
@@ -122,4 +123,4 @@ generated_at: "2026-03-30T02:56:11.088Z"
       - **(ii)**
         - **(I)** is not served by a public housing agency; or
         - **(II)** is served by a single public housing agency, which agency administers 100 or fewer public housing dwelling units.
-- **(o)** No assistance may be provided under this section after September 30, 2017 .
+- **(o)** No assistance may be provided under this section after September 30, 2012 .

@@ -3,14 +3,18 @@ title: "Section 6240 - Petroleum products for storage, transport, or exchange"
 usc_title: 42
 usc_section: "6240"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6240"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-03-30T03:06:22.750Z"
+status: "active"
 ---
 
 # § 6240. Petroleum products for storage, transport, or exchange
 
-- **(a)** The Secretary may acquire, place in storage, transport, or exchange petroleum products acquired by purchase or exchange.
+- **(a)** The Secretary may acquire, place in storage, transport, or exchange—
+  - **(1)** crude oil produced from Federal lands 1 1 So in original. Probably should be followed by a semicolon.
+  - **(2)** crude oil which the United States is entitled to receive in kind as royalties from production on Federal lands; and
+  - **(3)** petroleum products acquired by purchase, exchange, or otherwise.
 - **(b)** The Secretary shall, to the greatest extent practicable, acquire petroleum products for the Reserve in a manner consonant with the following objectives:
   - **(1)** minimization of the cost of the Reserve;
   - **(2)** Repealed. Pub. L. 106–469, title I, § 103(14)(C) , Nov. 9, 2000 , 114 Stat. 2031 ;

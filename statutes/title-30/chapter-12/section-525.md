@@ -3,9 +3,10 @@ title: "Section 525 - Future location of claims on mineral lands"
 usc_title: 30
 usc_section: "525"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "30 U.S.C. § 525"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-03-30T03:05:07.400Z"
+status: "active"
 ---
 
 # § 525. Future location of claims on mineral lands
@@ -14,4 +15,4 @@ Subject to the conditions and provisions of this chapter, mining claims and mill
 
 - **(a)** included in a permit or lease issued under the mineral leasing laws; or
 - **(b)** covered by an application or offer for a permit or lease filed under the mineral leasing laws; or
-- **(c)** known to be valuable for minerals subject to disposition under the mineral leasing laws;
+- **(c)** known to be valuable for minerals subject to disposition under the mineral leasing laws; to the same extent in all respects as if such lands were not so included or covered or known.

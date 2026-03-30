@@ -3,9 +3,10 @@ title: "Section 3056l - Competitive requirements relating to grant awards"
 usc_title: 42
 usc_section: "3056l"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3056l"
-generated_at: "2026-03-30T02:56:11.178Z"
+generated_at: "2026-03-30T03:06:22.682Z"
+status: "active"
 ---
 
 # § 3056l. Competitive requirements relating to grant awards
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:56:11.178Z"
   - **(1)** The applicant’s ability to administer a project that serves the greatest number of eligible individuals, giving particular consideration to individuals with greatest economic need, individuals with greatest social need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title .
   - **(2)** The applicant’s ability to administer a project that provides employment for eligible individuals in the communities in which such individuals reside, or in nearby communities, that will contribute to the general welfare of the communities involved.
   - **(3)** The applicant’s ability to administer a project that moves eligible individuals into unsubsidized employment.
-  - **(4)** The applicant’s prior performance, if any, in meeting core measures of performance under this subchapter and the applicant’s ability to address core indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
+  - **(4)** The applicant’s prior performance, if any, in meeting core measures of performance and addressing additional indicators of performance under this subchapter and the applicant’s ability to address core indicators of performance and additional indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
   - **(5)** The applicant’s ability to move individuals with multiple barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title , into unsubsidized employment.
   - **(6)** The applicant’s ability to coordinate activities with other organizations at the State and local level.
   - **(7)** The applicant’s plan for fiscal management of the project to be administered with funds received in accordance with this section.
@@ -47,6 +48,6 @@ generated_at: "2026-03-30T02:56:11.178Z"
   - **(5)** Applicants that are determined to be not responsible shall not be selected as grantees.
   - **(6)** Interest on disallowed costs shall accrue in accordance with the Debt Collection Improvement Act of 1996, including the amendments made by that Act.
 - **(e)**
-  - **(1)** In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, eligible individuals who have been incarcerated or are under supervision following release from prison or jail, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title .
+  - **(1)** In this subsection, the term “individuals with barriers to employment” means minority individuals, Indian individuals, individuals with greatest economic need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title .
   - **(2)** In areas where a substantial population of individuals with barriers to employment exists, a grantee that receives a national grant in accordance with this section shall, in selecting subgrantees, give special consideration to organizations (including former recipients of such national grants) with demonstrated expertise in serving individuals with barriers to employment.
 - **(f)** The Secretary may not promulgate rules or regulations affecting grantees in areas where a substantial population of minority individuals exists, that would significantly compromise the ability of the grantees to serve their targeted population of minority older individuals.

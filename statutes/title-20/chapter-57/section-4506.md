@@ -3,12 +3,15 @@ title: "Section 4506 - Recipient’s eligibility"
 usc_title: 20
 usc_section: "4506"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 4506"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-03-30T03:04:46.322Z"
+status: "active"
 ---
 
 # § 4506. Recipient’s eligibility
+
+Each student awarded a fellowship under this chapter shall demonstrate the potential, and a serious intention, to follow a career of educating students in secondary schools. Each institution of higher education at which such a student is in attendance shall make reasonable efforts to encourage such a student to meet the objectives of this section.
 
 - **(a)** within a 5-year period after completing the education for which the fellowship was awarded, teach on a full-time basis students in secondary school for a period of not less than one year for each year for which asistance 2 2 So in original. Probably should be “assistance”. was received;
 - **(b)** repay all of the Fellowship assistance received plus interest at the rate of 6% per annum and, if applicable, reasonable collection fees for each school year for which assistance was received for which such recipient failed to teach as provided in paragraph (a); and
@@ -19,4 +22,3 @@ generated_at: "2026-03-30T02:54:48.185Z"
   - **(4)** is unable to secure employment for a period not to exceed 12 months by reason of the care required by a spouse who is disabled;
   - **(5)** is seeking and unable to find full-time employment for a single period not to exceed 12 months; or
   - **(6)** is seeking and unable to find full-time employment as a teacher.
-

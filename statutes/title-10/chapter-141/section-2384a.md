@@ -1,12 +1,17 @@
 ---
-title: "Section 2384a - Renumbered § 3242]"
+title: "Section 2384a - Supplies: economic order quantities"
 usc_title: 10
 usc_section: "2384a"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2384a"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-03-30T03:04:17.285Z"
+status: "active"
 ---
 
-# [§ 2384a. Renumbered § 3242]
+# § 2384a. Supplies: economic order quantities
 
+- **(a)**
+  - **(1)** An agency referred to in section 2303(a) of this title shall procure supplies in such quantity as (A) will result in the total cost and unit cost most advantageous to the United States, where practicable, and (B) does not exceed the quantity reasonably expected to be required by the agency.
+  - **(2)** The Secretary of Defense shall take paragraph (1) into account in approving rates of obligation of appropriations under section 2204 of this title .
+- **(b)** Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.

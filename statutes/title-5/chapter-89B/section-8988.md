@@ -3,9 +3,10 @@ title: "Section 8988 - Premiums"
 usc_title: 5
 usc_section: "8988"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8988"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-03-30T03:04:06.115Z"
+status: "active"
 ---
 
 # § 8988. Premiums
@@ -13,12 +14,8 @@ generated_at: "2026-03-30T02:52:56.070Z"
 - **(a)** Each eligible individual obtaining supplemental vision coverage under this chapter shall be responsible for 100 percent of the premiums for such coverage.
 - **(b)** The Office shall prescribe regulations specifying the terms and conditions under which individuals are required to pay the premiums for enrollment.
 - **(c)** The amount necessary to pay the premiums for enrollment may—
-  - **(1)** in the case of an employee, be withheld from the pay of such an employee;
-  - **(2)** in the case of an annuitant, be withheld from the annuity of such an annuitant;
-  - **(3)** in the case of a covered TRICARE-eligible individual who receives pay from the Federal Government or an annuity from the Federal Government due to the death of a member of the uniformed services (as defined in section 101 of title 10 ), and is not a former spouse of a member of the uniformed services, be withheld from—
-    - **(A)** the pay (including retired pay) of such individual; or
-    - **(B)** the annuity paid to such individual; or
-  - **(4)** in the case of a covered TRICARE-eligible individual who is not described in paragraph (3), be billed to such individual directly.
+  - **(1)** in the case of an employee, be withheld from the pay of such an employee; or
+  - **(2)** in the case of an annuitant, be withheld from the annuity of such an annuitant.
 - **(d)** All amounts withheld under this section shall be paid directly to the qualified company.
 - **(e)** Each participating qualified company shall maintain accounting records that contain such information and reports as the Office may require.
 - **(f)**

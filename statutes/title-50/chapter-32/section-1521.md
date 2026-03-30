@@ -3,9 +3,10 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-03-30T03:06:37.641Z"
+status: "active"
 ---
 
 # § 1521. Destruction of existing stockpile of lethal chemical agents and munitions
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
 - **(b)**
   - **(1)** The destruction of such stockpile shall be completed by the stockpile elimination deadline.
   - **(2)** If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
-  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023 .
+  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017 .
 - **(c)** The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
   - **(1)** Support measures that are required by Department of Defense and Army chemical surety and security program regulations.
   - **(2)** Support measures that are required by the general and site chemical munitions demilitarization plans specific to that installation.
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
   - **(1)**
     - **(A)** In order to carry out subsection (d)(1)(A), the Secretary of Defense may make grants to State and local governments and to tribal organizations (either directly or through the Federal Emergency Management Agency) to assist those governments and tribal organizations in carrying out functions relating to emergency preparedness and response in connection with the disposal of the lethal chemical agents and munitions referred to in subsection (a). Funds available to the Department of Defense for the purpose of carrying out this section may be used for such grants.
     - **(B)** Additionally, the Secretary may provide funds through cooperative agreements with State and local governments, and with tribal organizations, for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
-    - **(C)** In this paragraph, the term “tribal organization” has the meaning given that term in section 5304( l ) of title 25.
+    - **(C)** In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(l) of title 25 .
   - **(2)**
     - **(A)** In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
       - **(i)** the storage of lethal chemical agents and munitions referred to in subsection (a) at military installations in the continental United States; or
@@ -41,7 +42,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
       - **(ii)** The date that is 180 days after the date of the completion of the destruction of lethal chemical agents and munitions at the installation or facility.
     - **(C)** Not later than December 15 of each year, the Administrator shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
 - **(f)**
-  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
+  - **(1)** The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretary of the Army shall jointly prepare, and from time to time shall update as appropriate, a strategic plan for future activities for destruction of the United States’ stockpile of lethal chemical agents and munitions.
   - **(2)** The plan shall include, at a minimum, the following considerations:
     - **(A)** Realistic budgeting for stockpile destruction and related support programs.
     - **(B)** Contingency planning for foreseeable or anticipated problems.
@@ -49,7 +50,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
   - **(3)** The Secretary of Defense shall each year submit to the Committee on the Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the strategic plan as most recently prepared and updated under paragraph (1). Such submission shall be made each year at the time of the submission to the Congress that year of the President’s budget for the next fiscal year.
 - **(g)**
   - **(1)** In carrying out this section, the Secretary of Defense shall provide for a management organization within the Department of the Army. The Secretary of the Army shall be responsible for management of the destruction of agents and munitions at all sites except Blue Grass Army Depot, Kentucky, and Pueblo Chemical Depot, Colorado 1 1 So in original. Probably should be followed by a period.
-  - **(2)** The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition and Sustainment.
+  - **(2)** The program manager for the Assembled Chemical Weapons Alternative Program shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Blue Grass Army Depot, Kentucky, and Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions. In performing such management, the program manager shall act independently of the Army program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition, Technology, and Logistics 1
   - **(3)** The Secretary of Defense shall designate a general officer or civilian equivalent as the director of the management organization established under paragraph (1). Such officer shall have—
     - **(A)** experience in the acquisition, storage, and destruction of chemical agents and munitions; and
     - **(B)** outstanding qualifications regarding safety in handling chemical agents and munitions.
@@ -76,8 +77,17 @@ generated_at: "2026-03-30T02:56:26.205Z"
     - **(E)** A description of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolystates.
   - **(3)** The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 - **(j)**
-  - **(1)** Not later than 90 days after August 13, 2018 , and every 90 days thereafter until the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall brief the members and committees of Congress referred to in paragraph (3) on the progress made by the United States toward fulfilling its chemical weapons destruction obligations under the Chemical Weapons Convention.
-  - **(2)** Each briefing under paragraph (1) shall include a description of contractor costs and performance relative to schedule, the progress to date toward the complete destruction of the stockpile, and any other information the Secretary determines to be relevant.
+  - **(1)** Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+  - **(2)** Each report under paragraph (1) shall include the following:
+    - **(A)** The anticipated schedule at the time of such report for the completion of destruction of chemical agents, munitions, and materiel at each chemical weapons demilitarization facility in the United States.
+    - **(B)** A description of the options and alternatives for accelerating the completion of chemical weapons destruction at each such facility, particularly in time to meet the stockpile elimination deadline.
+    - **(C)** A description of the funding required to achieve each of the options for destruction described under subparagraph (B), and a detailed life-cycle cost estimate for each of the affected facilities included in each such funding profile.
+    - **(D)** A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current stockpile elimination deadline under the Chemical Weapons Convention of April 29, 2012 , or as soon thereafter as possible.
+    - **(E)** A description and justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolysates. Such description and justification shall outline—
+      - **(i)** the need for the use of supplemental destruction technologies and technologies developed for the treatment and disposal of energetic or agent hydrolystates;
+      - **(ii)** site-by-site descriptions of the problematic aspects of the stockpile requiring the use of supplemental technologies;
+      - **(iii)** the type of supplemental destruction technologies used at each site; and
+      - **(iv)** any planned future use of other supplemental destruction technologies for each site.
   - **(3)** The members and committees of Congress referred to in this paragraph are—
     - **(A)** the majority leader and the minority leader of the Senate and the Committee on Armed Services and the Committee on Appropriations of the Senate; and
     - **(B)** the Speaker of the House of Representatives, the majority leader and the minority leader of the House of Representatives, and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
@@ -88,12 +98,12 @@ generated_at: "2026-03-30T02:56:26.205Z"
 - **(m)**
   - **(1)**
     - **(A)** The Secretary of the Army shall establish a citizens’ commission for each State in which there is a chemical demilitarization facility under Army management.
-    - **(B)** The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs shall establish a chemical demilitarization citizens’ commission in Colorado and in Kentucky.
+    - **(B)** The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall establish a chemical demilitarization citizens’ commission in Colorado and in Kentucky.
     - **(C)** Each commission under this subsection shall be known as the “Chemical Demilitarization Citizens’ Advisory Commission” for the State concerned.
   - **(2)**
     - **(A)** The Secretary of the Army, or the Department of Defense with respect to Colorado and Kentucky, shall provide for a representative to meet with each commission established under this subsection to receive citizen and State concerns regarding the ongoing program for the disposal of the lethal chemical agents and munitions in the stockpile referred to in subsection (a) at each of the sites with respect to which a commission is established pursuant to paragraph (1).
     - **(B)** The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) to meet with each commission under Army management.
-    - **(C)** The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs to meet with the commissions in Colorado and Kentucky.
+    - **(C)** The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs to meet with the commissions in Colorado and Kentucky.
   - **(3)**
     - **(A)** Each commission under this subsection shall be composed of nine members appointed by the Governor of the State. Seven of such members shall be citizens from the local affected areas in the State. The other two shall be representatives of State government who have direct responsibilities related to the chemical demilitarization program.
     - **(B)** For purposes of this paragraph, affected areas are those areas located within a 50-mile radius of a chemical weapons storage site.
@@ -101,8 +111,8 @@ generated_at: "2026-03-30T02:56:26.205Z"
     - **(A)** a contract related to the disposal of lethal chemical agents or munitions in the stockpile referred to in subsection (a); or
     - **(B)** a subcontract under such a contract.
   - **(5)** The members of each commission under this subsection shall designate the chair of such commission from among the members of such commission.
-  - **(6)** Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
-  - **(7)** Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs for the commissions in Colorado and Kentucky.
+  - **(6)** Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
+  - **(7)** Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs for the commissions in Colorado and Kentucky.
   - **(8)** Each commission under this subsection shall be terminated after the closure activities required pursuant to regulations prescribed by the Administrator of the Environmental Protection Agency pursuant to the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.) have been completed for the chemical agent destruction facility in such commission’s State, or upon the request of the Governor of such commission’s State, whichever occurs first.
 - **(n)**
   - **(1)**

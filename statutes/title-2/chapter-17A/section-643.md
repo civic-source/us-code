@@ -3,14 +3,15 @@ title: "Section 643 - Determinations and points of order"
 usc_title: 2
 usc_section: "643"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "2 U.S.C. § 643"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-03-30T03:04:04.422Z"
+status: "active"
 ---
 
 # § 643. Determinations and points of order
 
-- **(a)** For purposes of this subchapter and subchapter II, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
+- **(a)** For purposes of this subchapter and subchapter II of this chapter, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
 - **(b)**
   - **(1)** Except as otherwise provided in this subsection, it shall not be in order in the Senate to consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that would exceed any of the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 901(c) ].
   - **(2)** This subsection shall not apply if a declaration of war by the Congress is in effect or if a joint resolution pursuant to section 258 of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 907a ] has been enacted.

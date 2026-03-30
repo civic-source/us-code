@@ -1,12 +1,15 @@
 ---
-title: "Section 774 - Transferred"
+title: "Section 774 - Rules and regulations"
 usc_title: 33
 usc_section: "774"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 774"
-generated_at: "2026-03-30T02:55:41.073Z"
+generated_at: "2026-03-30T03:05:36.261Z"
+status: "active"
 ---
 
-# § 774. Transferred
+# § 774. Rules and regulations
+
+The Director of the Office of Personnel Management shall perform, or cause to be performed, such acts, and shall make such rules and regulations, as may be necessary or proper to carry out the provisions of sections 771 to 775 of this title.
 

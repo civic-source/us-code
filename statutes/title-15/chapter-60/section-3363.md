@@ -3,14 +3,15 @@ title: "Section 3363 - Emergency allocation authority"
 usc_title: 15
 usc_section: "3363"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 3363"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-03-30T03:04:31.217Z"
+status: "active"
 ---
 
 # § 3363. Emergency allocation authority
 
-- **(a)** In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under section 3361 of this title , the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) to—
+- **(a)** In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under section 3361 of this title , the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
   - **(1)** any interstate pipeline;
   - **(2)** any local distribution company—
     - **(A)** which is served by any interstate pipeline;
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
   - **(2)** Subject to paragraph (1), in order to assist in meeting natural gas requirements for high-priority uses of natural gas, the President may, by order, allocate supplies of natural gas the use of which has been prohibited by the President pursuant to authority under section 717z of this title (relating to the use of natural gas as a boiler fuel during any natural gas supply emergency).
 - **(c)**
   - **(1)** The President shall not allocate supplies of natural gas under this subsection unless he finds that—
-    - **(A)** to the maximum extent practicable, allocation of supplies of natural gas under subsection (b) has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+    - **(A)** to the maximum extent practicable, allocation of supplies of natural gas under subsection (b) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
     - **(B)** the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
     - **(C)** the exercise of authority under this subsection is reasonably necessary to assist in meeting natural gas requirements for such high-priority uses;
     - **(D)** any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to the maximum extent practicable to terminate such deliveries;
@@ -46,7 +47,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
   - **(5)** In issuing any order under this subsection the President shall consider the relative availability of alternative fuel to natural gas users supplied by the interstate pipeline ordered to make deliveries pursuant to this subsection.
 - **(d)**
   - **(1)** The President shall not allocate supplies of natural gas under this subsection unless he finds that—
-    - **(A)** to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+    - **(A)** to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
     - **(B)** the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
     - **(C)** the exercise of authority under this subsection is reasonably necessary to assist in meeting natural gas requirements for such high-priority uses;
     - **(D)** any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to the maximum extent practicable to terminate such deliveries; and
@@ -56,16 +57,16 @@ generated_at: "2026-03-30T02:54:08.188Z"
 - **(e)** No order may be issued under this section unless the President determines that such order will not require transportation of natural gas by any pipeline in excess of its available transportation capacity.
 - **(f)** The President may request that representatives of pipelines, local distribution companies, and other persons meet and provide assistance to the President in carrying out his authority under this section.
 - **(g)**
-  - **(1)** If the parties to any order issued under subsection (b), (c), (d), or (h) fail to agree upon the terms of compensation for natural gas deliveries or transportation required pursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
-  - **(2)** For purposes of any supplemental order under paragraph (1) with respect to emergency deliveries pursuant to subsection (b), the President shall calculate the amount of compensation—
+  - **(1)** If the parties to any order issued under subsection (b), (c), (d), or (h) of this section fail to agree upon the terms of compensation for natural gas deliveries or transportation required pursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
+  - **(2)** For purposes of any supplemental order under paragraph (1) with respect to emergency deliveries pursuant to subsection (b) of this section, the President shall calculate the amount of compensation—
     - **(A)** for supplies of natural gas based upon the amount required to make whole the user subject to the prohibition order, but in no event may such compensation exceed just compensation prescribed in section 717z of this title ; and
     - **(B)** for transportation, storage, delivery, and other services, based upon reasonable costs, as determined by the President.
-  - **(3)** For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d)—
+  - **(3)** For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d) of this section—
     - **(A)** indicates a preference for compensation in kind, the President shall direct that compensation in kind be provided as expeditiously as practicable;
     - **(B)** indicates a preference for compensation, or the President determines that, notwithstanding paragraph (A) of this subsection, any portion thereof cannot practicably be compensated in kind, the President shall calculate the amount of compensation—
-      - **(i)** for supplies of natural gas, based upon the amount required to make the pipeline and its local distribution companies whole, in the case of any order under subsection (c), or to make the user from whom natural gas is allocated whole, in the case of any order under subsection (d) including any amount actually paid by such pipeline and its local distribution companies or such user for volumes of natural gas or higher cost synthetic gas acquired to replace natural gas subject to an order under subsection (c) or (d); and
+      - **(i)** for supplies of natural gas, based upon the amount required to make the pipeline and its local distribution companies whole, in the case of any order under subsection (c) of this section, or to make the user from whom natural gas is allocated whole, in the case of any order under subsection (d) of this section including any amount actually paid by such pipeline and its local distribution companies or such user for volumes of natural gas or higher cost synthetic gas acquired to replace natural gas subject to an order under subsection (c) or (d) of this section; and
       - **(ii)** for transportation, storage, delivery, and other services, based upon reasonable costs, as determined by the President. Compensation received by an interstate pipeline under this subsection shall be credited to the account of any local distribution company served by that pipeline to the extent ordered by the President to make such local distribution company whole.
-- **(h)** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any order under subsection (b), (c), or (d). Compensation for the costs of any construction or transportation ordered under this subsection shall be determined under subsection (g) and shall be paid by the person to whom supplies of natural gas are ordered allocated under this section.
+- **(h)** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any order under subsection (b), (c), or (d) of this section. Compensation for the costs of any construction or transportation ordered under this subsection shall be determined under subsection (g) of this section and shall be paid by the person to whom supplies of natural gas are ordered allocated under this section.
 - **(i)** In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assure that natural gas delivered pursuant to this section is applied to high-priority uses only.
 - **(j)** Not later than June 1, 1979 , the Commission shall prepare and submit to the Congress a report regarding whether authority to allocate natural gas, which is not otherwise subject to allocation under this part, is likely to be necessary to meet high-priority uses.
 - **(k)** For purposes of this section, the term “high-priority use” means any—

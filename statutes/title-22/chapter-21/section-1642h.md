@@ -3,9 +3,10 @@ title: "Section 1642h - Prohibition against payment of award to certain persons"
 usc_title: 22
 usc_section: "1642h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 1642h"
-generated_at: "2026-03-30T02:55:05.336Z"
+generated_at: "2026-03-30T03:04:53.614Z"
+status: "active"
 ---
 
 # § 1642h. Prohibition against payment of award to certain persons

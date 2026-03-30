@@ -1,0 +1,22 @@
+---
+title: "Section 6771 - National activities"
+usc_title: 20
+usc_section: "6771"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 6771"
+generated_at: "2026-03-30T03:04:46.345Z"
+status: "active"
+---
+
+# § 6771. National activities
+
+- **(a)** Using funds made available under section 6754(b)(2) of this title , the Secretary—
+  - **(1)** shall conduct an independent, long-term study, utilizing scientifically based research methods and control groups or control conditions—
+    - **(A)** on the conditions and practices under which educational technology is effective in increasing student academic achievement; and
+    - **(B)** on the conditions and practices that increase the ability of teachers to integrate technology effectively into curricula and instruction, that enhance the learning environment and opportunities, and that increase student academic achievement, including technology literacy;
+  - **(2)** shall establish an independent review panel to advise the Secretary on methodological and other issues that arise in conducting the long-term study;
+  - **(3)** shall consult with other interested Federal departments or agencies, State and local educational practitioners and policymakers (including teachers, principals, and superintendents), and experts in technology, regarding the study; and
+  - **(4)** shall submit to Congress interim reports, when appropriate, and a final report, to be submitted not later than April 1, 2006 , on the findings of the study.
+- **(b)** Using funds made available under section 6754(b)(2) of this title , the Secretary shall make widely available, including through dissemination on the Internet and to all State educational agencies and other recipients of funds under this part, findings identified through activities carried out under this section regarding the conditions and practices under which educational technology is effective in increasing student academic achievement.
+- **(c)** Using funds made available under section 6754(b)(2) of this title , the Secretary may provide technical assistance (directly or through the competitive award of grants or contracts) to State educational agencies, local educational agencies, and other recipients of funds, particularly in rural areas, under this part, in order to assist such State educational agencies, local educational agencies, and other recipients to achieve the purposes of this part.

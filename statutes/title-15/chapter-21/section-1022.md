@@ -3,9 +3,10 @@ title: "Section 1022 - Economic Report of President; coverage; supplementary rep
 usc_title: 15
 usc_section: "1022"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "15 U.S.C. § 1022"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-03-30T03:04:31.154Z"
+status: "active"
 ---
 
 # § 1022. Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions
@@ -18,6 +19,6 @@ generated_at: "2026-03-30T02:54:08.123Z"
   - **(3)** employment objectives for certain significant subgroups of the labor force, including youth, women, minorities, handicapped persons, veterans, and middle-aged and older persons; and
   - **(4)** a program for carrying out the policy declared in section 1021 of this title , together with such recommendations for legislation as the President may deem necessary or desirable.
 - **(b)** The President may transmit from time to time to the Congress reports supplementary to the Economic Report, each of which shall include such supplementary or revised recommendations as he may deem necessary or desirable to achieve the policy declared in section 1021 of this title .
-- **(c)** The Economic Report, and all supplementary reports transmitted under subsection (b), shall, when transmitted to Congress, be referred to the joint committee created by section 1024 of this title .
+- **(c)** The Economic Report, and all supplementary reports transmitted under subsection (b) of this section, shall, when transmitted to Congress, be referred to the joint committee created by section 1024 of this title .
 - **(d)** For the purposes of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.] the percentage rate of unemployment as 1 1 So in original. Probably should be “is”. a percentage of the civilian labor force as set forth by the Bureau of Labor Statistics in the Department of Labor as computed under the procedures in effect as of October 27, 1978 .
 - **(e)** For the purpose of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.], the terms “inflation”, “prices”, and “reasonable price stability” refer to the rate of change or level of the consumer price index as set forth by the Bureau of Labor Statistics, United States Department of Labor.

@@ -3,9 +3,10 @@ title: "Section 2102A - Assistance for individuals residing temporarily in housi
 usc_title: 38
 usc_section: "2102A"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 2102A"
-generated_at: "2026-03-30T02:55:53.496Z"
+generated_at: "2026-03-30T03:05:59.204Z"
+status: "active"
 ---
 
 # § 2102A. Assistance for individuals residing temporarily in housing owned by a family member
@@ -18,4 +19,4 @@ generated_at: "2026-03-30T02:55:53.496Z"
   - **(2)** Effective on October 1 of each year (beginning in 2012), the Secretary shall use the same percentage calculated pursuant to section 2102(e) of this title to increase the amounts described in paragraph (1) of this subsection.
 - **(c)** The assistance authorized by subsection (a) shall be limited in the case of any individual to one residence.
 - **(d)** Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
-- **(e)** No assistance may be provided under this section after September 30, 2026 .
+- **(e)** No assistance may be provided under this section after December 31, 2022 .

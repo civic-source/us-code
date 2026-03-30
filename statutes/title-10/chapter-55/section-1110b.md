@@ -3,9 +3,10 @@ title: "Section 1110b - TRICARE program: extension of dependent coverage"
 usc_title: 10
 usc_section: "1110b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1110b"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-03-30T03:04:17.247Z"
+status: "active"
 ---
 
 # § 1110b. TRICARE program: extension of dependent coverage
@@ -18,7 +19,7 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(4)** is not otherwise a dependent of a member or a former member under any subparagraph of section 1072(2) of this title ; and
   - **(5)** meets other criteria specified in regulations prescribed by the Secretary, similar to regulations prescribed by the Secretary of Health and Human Services under section 2714(b) of the Public Health Service Act.
 - **(c)**
-  - **(1)** The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b). Such premium shall apply instead of any enrollment fees required under section 1075 or 1075a of this title, as appropriate.
+  - **(1)** The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b).
   - **(2)** The monthly amount of the premium in effect for a month for coverage under the TRICARE program pursuant to this section shall be the amount equal to the cost of such coverage that the Secretary determines on an appropriate actuarial basis.
   - **(3)** The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums under this subsection.
   - **(4)** Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title , shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.

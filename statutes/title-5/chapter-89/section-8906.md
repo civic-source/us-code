@@ -3,18 +3,18 @@ title: "Section 8906 - Contributions"
 usc_title: 5
 usc_section: "8906"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8906"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-03-30T03:04:06.113Z"
+status: "active"
 ---
 
 # § 8906. Contributions
 
 - **(a)**
   - **(1)** Not later than October 1 of each year, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect during the following contract year with respect to—
-    - **(A)** enrollments under this chapter for self alone;
-    - **(B)** enrollments under this chapter for self plus one; and
-    - **(C)** enrollments under this chapter for self and family.
+    - **(A)** enrollments under this chapter for self alone; and
+    - **(B)** enrollments under this chapter for self and family.
   - **(2)** In determining each weighted average under paragraph (1), the weight to be given to a particular subscription charge shall, with respect to each plan (and option) to which it is to apply, be commensurate with the number of enrollees enrolled in such plan (and option) as of March 31 of the year in which the determination is being made.
   - **(3)** For purposes of paragraph (2), the term “enrollee” means any individual who, during the contract year for which the weighted average is to be used under this section, will be eligible for a Government contribution for health benefits.
 - **(b)**

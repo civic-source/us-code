@@ -3,9 +3,10 @@ title: "Section 358 - Establishment of accounts for purposes of open-market oper
 usc_title: 12
 usc_section: "358"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 358"
-generated_at: "2026-03-30T02:53:53.380Z"
+generated_at: "2026-03-30T03:04:29.198Z"
+status: "active"
 ---
 
 # § 358. Establishment of accounts for purposes of open-market operations; correspondents and agencies

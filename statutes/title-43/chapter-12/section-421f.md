@@ -3,9 +3,10 @@ title: "Section 421f - Existing loan contracts; negotiation by Secretary of amen
 usc_title: 43
 usc_section: "421f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "43 U.S.C. § 421f"
-generated_at: "2026-03-30T02:55:57.448Z"
+generated_at: "2026-03-30T03:06:10.651Z"
+status: "active"
 ---
 
 # § 421f. Existing loan contracts; negotiation by Secretary of amendments

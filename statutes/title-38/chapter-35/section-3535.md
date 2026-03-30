@@ -3,13 +3,14 @@ title: "Section 3535 - Approval of courses"
 usc_title: 38
 usc_section: "3535"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 3535"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-03-30T03:05:59.213Z"
+status: "active"
 ---
 
 # § 3535. Approval of courses
 
-  - **(1)** is approved in accordance with the provisions of subchapter I 1 1 See References in Text note below. of chapter 36 of this title, or
+  - **(1)** is approved in accordance with the provisions of subchapter I of chapter 36 of this title, or
   - **(2)** is approved for the enrollment of the particular individual under the provisions of section 3536 of this title .
 

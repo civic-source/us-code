@@ -3,9 +3,10 @@ title: "Section 7102 - Definitions"
 usc_title: 16
 usc_section: "7102"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 7102"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-03-30T03:04:48.640Z"
+status: "active"
 ---
 
 # § 7102. Definitions
@@ -45,19 +46,16 @@ In this chapter:
     - **(B)** the quotient obtained by dividing—
       - **(i)** the amount equal to the average of the 3 highest 50-percent payments made to each eligible county during the eligibility period; by
       - **(ii)** the amount equal to the sum of the amounts calculated under clause (i) and paragraph (2)(B)(i) for all eligible counties in all eligible States during the eligibility period.
-  - **(10)** The term “50-percent payment” means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875 ; 43 U.S.C. 1181f ), 2 2 See References in Text note below. and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753 ; 43 U.S.C. 1181f–1 et seq.) 2 .
+  - **(10)** The term “50-percent payment” means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875 ; 43 U.S.C. 1181f ), and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753 ; 43 U.S.C. 1181f–1 et seq.).
   - **(11)** The term “full funding amount” means—
     - **(A)** $500,000,000 for fiscal year 2008;
-    - **(B)** for each of fiscal years 2009 through 2011, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year;
-    - **(C)** for fiscal year 2012 through fiscal year 2015, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year;
-    - **(D)** for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015;
-    - **(E)** for each of fiscal years 2018 through 2020, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year; and
-    - **(F)** for fiscal year 2021 and each fiscal year thereafter, the amount that is equal to the full funding amount for fiscal year 2017.
+    - **(B)** for each of fiscal years 2009 through 2011, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year; and
+    - **(C)** for fiscal year 2012 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.
   - **(12)** The term “income adjustment” means the square of the quotient obtained by dividing—
     - **(A)** the per capita personal income for each eligible county; by
     - **(B)** the median per capita personal income of all eligible counties.
   - **(13)** The term “per capita personal income” means the most recent per capita personal income data, as determined by the Bureau of Economic Analysis.
-  - **(14)** The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 2 of the Omnibus Budget Reconciliation Act of 1993 ( Public Law 103–66 ; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
+  - **(14)** The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 2 2 See References in Text note below. of the Omnibus Budget Reconciliation Act of 1993 ( Public Law 103–66 ; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
   - **(15)** The term “Secretary concerned” means—
     - **(A)** the Secretary of Agriculture or the designee of the Secretary of Agriculture with respect to the Federal land described in paragraph (7)(A); and
     - **(B)** the Secretary of the Interior or the designee of the Secretary of the Interior with respect to the Federal land described in paragraph (7)(B).

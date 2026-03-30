@@ -3,9 +3,10 @@ title: "Section 4161 - Imposition of tax"
 usc_title: 26
 usc_section: "4161"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4161"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-03-30T03:05:18.684Z"
+status: "active"
 ---
 
 # § 4161. Imposition of tax
@@ -33,6 +34,6 @@ generated_at: "2026-03-30T02:55:27.799Z"
     - **(C)**
       - **(i)** In the case of any calendar year beginning after 2005, the 39-cent amount specified in subparagraph (A) shall be increased by an amount equal to the product of—
         - **(I)** such amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “2016” in subparagraph (A)(ii) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
       - **(ii)** If any increase determined under clause (i) is not a multiple of 1 cent, such increase shall be rounded to the nearest multiple of 1 cent.
   - **(3)** No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).

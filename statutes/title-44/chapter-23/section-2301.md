@@ -3,9 +3,10 @@ title: "Section 2301 - Establishment of Board; membership"
 usc_title: 44
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 2301"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-03-30T03:06:01.365Z"
+status: "active"
 ---
 
 # § 2301. Establishment of Board; membership

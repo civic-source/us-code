@@ -3,9 +3,10 @@ title: "Section 6901 - Transferred assets"
 usc_title: 26
 usc_section: "6901"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6901"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-03-30T03:05:18.738Z"
+status: "transferred"
 ---
 
 # § 6901. Transferred assets
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:55:27.867Z"
   - **(1)**
     - **(A)** The liability, at law or in equity, of a transferee of property—
       - **(i)** of a taxpayer in the case of a tax imposed by subtitle A (relating to income taxes),
-      - **(ii)** of a decedent in the case of a tax imposed by chapter 11 (relating to estate taxes), or
+      - **(ii)** of a decedent in the case of a tax imposed by chapter 11 (relating to estate taxes). or
       - **(iii)** of a donor in the case of a tax imposed by chapter 12 (relating to gift taxes),
-    - **(B)** The liability of a fiduciary under section 3713(b) of title 31 , United States Code, in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
+    - **(B)** The liability of a fiduciary under section 3713(b) of title 31 , United States Code 1 1 So in original. Probably should be followed by a comma. in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
   - **(2)** The liability, at law or in equity of a transferee of property of any person liable in respect of any tax imposed by this title (other than a tax imposed by subtitle A or B), but only if such liability arises on the liquidation of a partnership or corporation, or on a reorganization within the meaning of section 368(a).
 - **(b)** Any liability referred to in subsection (a) may be either as to the amount of tax shown on a return or as to any deficiency or underpayment of any tax.
 - **(c)** The period of limitations for assessment of any such liability of a transferee or a fiduciary shall be as follows:

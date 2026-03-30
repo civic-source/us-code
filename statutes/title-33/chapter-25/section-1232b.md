@@ -1,12 +1,15 @@
 ---
-title: "Section 1232b - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264"
+title: "Section 1232b - Requirement to notify Coast Guard of release of objects into the navigable waters of the United States"
 usc_title: 33
 usc_section: "1232b"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "33 U.S.C. § 1232b"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-03-30T03:05:36.269Z"
+status: "active"
 ---
 
-# §§ 1232 to 1232b. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264
+# § 1232b. Requirement to notify Coast Guard of release of objects into the navigable waters of the United States
 
+- **(a)** As soon as a person has knowledge of any release from a vessel or facility into the navigable waters of the United States of any object that creates an obstruction prohibited under section 403 of this title , such person shall notify the Secretary and the Secretary of the Army of such release.
+- **(b)** Any notification provided by an individual in accordance with subsection (a) may not be used against such individual in any criminal case, except a prosecution for perjury or for giving a false statement.

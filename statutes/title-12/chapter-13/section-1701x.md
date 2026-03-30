@@ -3,9 +3,10 @@ title: "Section 1701x - Assistance with respect to housing for low- and moderate
 usc_title: 12
 usc_section: "1701x"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 1701x"
-generated_at: "2026-03-30T02:53:53.404Z"
+generated_at: "2026-03-30T03:04:29.223Z"
+status: "active"
 ---
 
 # § 1701x. Assistance with respect to housing for low- and moderate-income families
@@ -76,7 +77,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
         - **(I)** notify the homeowner or mortgage applicant of the availability of any homeownership counseling offered by the creditor (or proposed creditor);
         - **(II)** if provided to an eligible mortgage applicant, state that completion of a counseling program is required for insurance pursuant to section 203 of the National Housing Act [ 12 U.S.C. 1709 ];
         - **(III)** notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i);
-        - **(IV)** notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.) [now 50 U.S.C. 3901 et seq.], including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
+        - **(IV)** notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
         - **(V)** notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (g)(3).
     - **(B)** The notification required in subparagraph (A) shall be made—
       - **(i)** in a manner approved by the Secretary; and
@@ -121,7 +122,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
     - **(B)** Under the demonstration program, the Secretary shall require the creditor of any eligible homeowner who is delinquent (as described in subparagraph (A)) to send written notice by registered or certified mail within 5 days (excluding Saturdays, Sundays, and legal public holidays) after the occurrence of such delinquency—
       - **(i)** notifying the homeowner of the delinquency and the name, address, and phone number of the counseling organization for the counseling target area; and
       - **(ii)** notifying any counseling organization for the counseling target area of the delinquency and the name, address, and phone number of the delinquent homeowner.
-    - **(C)** The Secretary may coordinate the provision of assistance under subsection (c) with the demonstration program under this subsection.
+    - **(C)** The Secretary may coordinate the provision of assistance under subsection (c) of this section with the demonstration program under this subsection.
     - **(D)** A homeowner shall be eligible for foreclosure-prevention counseling under this paragraph if—
       - **(i)** the home owned by the homeowner is subject to a qualified mortgage; and
       - **(ii)** such home is located in a counseling target area.
@@ -165,7 +166,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
   - **(12)** The demonstration program under this subsection shall terminate at the end of fiscal year 1994.
 - **(e)**
   - **(1)** An organization may not receive assistance for counseling activities under subsection (a)(1)(iii), (a)(2), (a)(4), (c), or (d) of this section, or under section 1701w of this title , unless the organization, or the individuals through which the organization provides such counseling, has been certified by the Secretary under this subsection as competent to provide such counseling.
-  - **(2)** The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4)), competence to provide counseling in each of the following areas:
+  - **(2)** The Secretary shall, by regulation, establish standards and procedures for testing and certifying counselors and for certifying organizations. Such standards and procedures shall require, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual, that the individual shall demonstrate, by written examination (as provided under subsection (f)(4) of this section), competence to provide counseling in each of the following areas:
     - **(A)** Financial management.
     - **(B)** Property maintenance.
     - **(C)** Responsibilities of homeownership and tenancy.
@@ -176,16 +177,16 @@ generated_at: "2026-03-30T02:53:53.404Z"
   - **(4)** The Secretary shall take such actions as the Secretary considers appropriate to ensure that individuals and organizations providing homeownership or rental housing counseling are aware of the certification requirements and standards of this subsection and of the training and certification programs under subsection (f).
   - **(5)** The Secretary shall encourage organizations engaged in providing homeownership and rental counseling that do not receive assistance under this section to employ organizations and individuals to provide such counseling who are certified under this subsection or meet the certification standards established under this subsection.
 - **(f)**
-  - **(1)** To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
+  - **(1)** To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) of this section and certify individuals under such subsection.
   - **(2)**
     - **(A)** To be eligible to provide the training and certification program under this subsection, an entity shall have demonstrated experience in training homeownership and rental counselors.
     - **(B)** The Secretary shall provide for entities meeting the requirements of subparagraph (A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
       - **(i)** establish the program as soon as possible on a national basis, but not later than the date under paragraph (6);
       - **(ii)** minimize the costs involved in establishing the program; and
       - **(iii)** effectively and efficiently carry out the program.
-  - **(3)** The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2). The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
-  - **(4)** The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
-  - **(5)** Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2), in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
+  - **(3)** The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2) of this section. The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
+  - **(4)** The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) of this section and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
+  - **(5)** Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
   - **(6)** The entity selected under paragraph (2)(B) to carry out the training and certification program shall establish the program as soon as possible after such selection, and shall make training and certification available under the program on a national basis not later than the expiration of the 1-year period beginning upon such selection.
   - **(7)** There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 - **(g)**
@@ -197,7 +198,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
         - **(I)** section 9(e) ( 42 U.S.C. 1437g(e) );
         - **(II)** section 8(y)(1)(D) ( 42 U.S.C. 1437f(y)(1)(D) );
         - **(III)** section 18(a)(4)(D) ( 42 U.S.C. 1437p(a)(4)(D) );
-        - **(IV)** section 23(c)(4) 1 1 See References in Text note below. ( 42 U.S.C. 1437u(c)(4) );
+        - **(IV)** section 23(c)(4) ( 42 U.S.C. 1437u(c)(4) );
         - **(V)** section 32(e)(4) ( 42 U.S.C. 1437z–4(e)(4) );
         - **(VI)** section 33(d)(2)(B) ( 42 U.S.C. 1437z–5(d)(2)(B) );
         - **(VII)** sections 302(b)(6) and 303(b)(7) ( 42 U.S.C. 1437aaa–1(b)(6) , 1437aaa–2(b)(7)); and
@@ -207,7 +208,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
       - **(v)** this section and section 1701w of this title ;
       - **(vi)** section 4110(d)(2)(G) of this title ;
       - **(vii)** sections 12872(b)(6), 12873(b)(7), 12874(c)(4), 12892(b)(6), and 12893(b)(6) of title 42;
-      - **(viii)** section 11408(b)(1)(F)(iii) 1 of title 42;
+      - **(viii)** section 11408(b)(1)(F)(iii) 1 1 See References in Text note below. of title 42;
       - **(ix)** sections 202(3) 1 and 810(b)(2)(A) 1 of the Native American Housing and Self-Determination Act of 1996 ( 25 U.S.C. 4132(3) , 4229(b)(2)(A));
       - **(x)** in the National Housing Act [ 12 U.S.C. 1701 et seq.]—
         - **(I)** in section 203 ( 12 U.S.C. 1709 ), the penultimate undesignated paragraph of paragraph (2) of subsection (b), subsection (c)(2)(A), and subsection (r)(4);
@@ -221,7 +222,7 @@ generated_at: "2026-03-30T02:53:53.404Z"
       - **(ii)** in the United States Housing Act of 1937—
         - **(I)** section 9(e) ( 42 U.S.C. 1437g(e) );
         - **(II)** section 18(a)(4)(D) ( 42 U.S.C. 1437p(a)(4)(D) );
-        - **(III)** section 23(c)(4) 1 ( 42 U.S.C. 1437u(c)(4) );
+        - **(III)** section 23(c)(4) ( 42 U.S.C. 1437u(c)(4) );
         - **(IV)** section 32(e)(4) ( 42 U.S.C. 1437z–4(e)(4) );
         - **(V)** section 33(d)(2)(B) ( 42 U.S.C. 1437z–5(d)(2)(B) ); and
         - **(VI)** section 302(b)(6) ( 42 U.S.C. 1437aaa–1(b)(6) );

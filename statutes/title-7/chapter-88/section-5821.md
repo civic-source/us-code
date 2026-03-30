@@ -3,9 +3,10 @@ title: "Section 5821 - Integrated management systems"
 usc_title: 7
 usc_section: "5821"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 5821"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-03-30T03:04:20.994Z"
+status: "active"
 ---
 
 # § 5821. Integrated management systems
@@ -23,4 +24,4 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(1)** optimum use of available resources and improved production and financial efficiency for producers;
   - **(2)** identifying and prioritizing the research and educational needs of the livestock industry relating to production and financial efficiency, competitiveness, environmental stability, and food safety; and
   - **(3)** utilizing an interdisciplinary approach.
-- **(d)** There are authorized to be appropriated to carry out this section through the National Institute of Food and Agriculture $20,000,000 for each of fiscal years 2013 through 2023.
+- **(d)** There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture.

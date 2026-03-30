@@ -3,9 +3,10 @@ title: "Section 2414a - Annual report to Congress on voting practices at United 
 usc_title: 22
 usc_section: "2414a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2414a"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-03-30T03:04:53.640Z"
+status: "active"
 ---
 
 # § 2414a. Annual report to Congress on voting practices at United Nations
@@ -22,5 +23,5 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(4)** a listing of all plenary votes cast by member countries of the United Nations in the General Assembly which provides a comparison of the votes cast by each member country with the vote cast by the United States, including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States;
   - **(5)** an analysis and discussion, prepared in consultation with the Secretary of State, of the extent to which other members supported United States policy objectives in the Security Council and a separate listing of all Security Council votes of each member country in comparison with the United States; and
   - **(6)** a side-by-side comparison of agreement on important and overall votes for each member country and the United States.
-- **(c)** Information required pursuant to subsection (b)(3) shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988 .
-- **(d)** Each report under subsection (a) shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
+- **(c)** Information required pursuant to subsection (b)(3) of this section shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988 .
+- **(d)** Each report under subsection (a) of this section shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.

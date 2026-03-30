@@ -3,9 +3,10 @@ title: "Section 1673b - Preliminary determinations"
 usc_title: 19
 usc_section: "1673b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 1673b"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-03-30T03:04:42.021Z"
+status: "active"
 ---
 
 # § 1673b. Preliminary determinations
@@ -38,14 +39,14 @@ generated_at: "2026-03-30T02:54:24.651Z"
   - **(3)** In making a determination under this subsection, the administering authority shall disregard any weighted average dumping margin that is de minimis. For purposes of the preceding sentence, a weighted average dumping margin is de minimis if the administering authority determines that it is less than 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 - **(c)**
   - **(1)** If—
-    - **(A)** the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1), or
+    - **(A)** the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1) of this section, or
     - **(B)** the administering authority concludes that the parties concerned are cooperating and determines that—
       - **(i)** the case is extraordinarily complicated by reason of—
         - **(I)** the number and complexity of the transactions to be investigated or adjustments to be considered,
         - **(II)** the novelty of the issues presented, or
         - **(III)** the number of firms whose activities must be investigated, and
       - **(ii)** additional time is necessary to make the preliminary determination,
-  - **(2)** The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
+  - **(2)** The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
 - **(d)** If the preliminary determination of the administering authority under subsection (b) of this section is affirmative, the administering authority—
   - **(1)**
     - **(A)** shall—
@@ -62,7 +63,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
       - **(i)** there is a history of dumping and material injury by reason of dumped imports in the United States or elsewhere of the subject merchandise, or
       - **(ii)** the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there was likely to be material injury by reason of such sales, and
     - **(B)** there have been massive imports of the subject merchandise over a relatively short period.
-  - **(2)** If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+  - **(2)** If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
     - **(A)** the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
     - **(B)** the date on which notice of the determination to initiate the investigation is published in the Federal Register.
-- **(f)** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+- **(f)** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.

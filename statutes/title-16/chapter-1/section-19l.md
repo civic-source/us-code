@@ -1,12 +1,15 @@
 ---
-title: "Section 19l - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272"
+title: "Section 19l - Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States"
 usc_title: 16
 usc_section: "19l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 19l"
-generated_at: "2026-03-30T02:54:22.726Z"
+generated_at: "2026-03-30T03:04:48.399Z"
+status: "active"
 ---
 
-# § 19l. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272
+# § 19l. Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States
+
+The Foundation and any income or property received or owned by it, and all transactions relating to such income or property, shall be exempt from all Federal, State, and local taxation with respect thereto. The Foundation may, however, in the discretion of its directors, contribute toward the costs of local government in amounts not in excess of those which it would be obligated to pay such government if it were not exempt from taxation by virtue of the foregoing or by virtue of its being a charitable and nonprofit corporation and may agree so to contribute with respect to property transferred to it and the income derived therefrom if such agreement is a condition of the transfer. Contributions, gifts, and other transfers made to or for the use of the Foundation shall be regarded as contributions, gifts, or transfers to or for the use of the United States.
 

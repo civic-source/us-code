@@ -3,9 +3,10 @@ title: "Section 379dd - Establishment and functions of the Foundation"
 usc_title: 21
 usc_section: "379dd"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "21 U.S.C. § 379dd"
-generated_at: "2026-03-30T02:54:54.276Z"
+generated_at: "2026-03-30T03:05:00.966Z"
+status: "active"
 ---
 
 # § 379dd. Establishment and functions of the Foundation
@@ -41,10 +42,9 @@ generated_at: "2026-03-30T02:54:54.276Z"
         - **(III)** 2 shall be representatives of patient or consumer advocacy organizations;
         - **(IV)** 1 shall be a representative of health care providers; and
         - **(V)** 4 shall be at-large members with expertise or experience relevant to the purpose of the Foundation.
-      - **(ii)** The Board, through amendments to the bylaws of the Foundation, may provide that the number of voting members of the Board shall be a number (to be specified in such amendment) greater than 14. Any Board positions that are established by any such amendment shall be appointed (by majority vote) by the individuals who, as of the date of such amendment, are voting members of the Board and persons so appointed may represent any of the categories specified in subclauses (I) through (V) of clause (i), so long as no more than 30 percent of the total voting members of the Board (including members whose positions are established by such amendment) are representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries.
-      - **(iii)**
-        - **(I)** The ex officio members, acting pursuant to clause (i), and the Board, acting pursuant to clause (ii), shall ensure the Board membership includes individuals with expertise in areas including the sciences of developing, manufacturing, and evaluating the safety and effectiveness of devices, including diagnostics, biologics, and drugs, and the safety of food, food ingredients, and cosmetics.
-        - **(II)** No employee of the Federal Government shall be appointed as a member of the Board under this subparagraph or under paragraph (3)(B). For purposes of this section, the term “employee of the Federal Government” does not include a special Government employee, as that term is defined in section 202(a) of title 18 .
+      - **(ii)**
+        - **(I)** The ex officio members shall ensure the Board membership includes individuals with expertise in areas including the sciences of developing, manufacturing, and evaluating the safety and effectiveness of devices, including diagnostics, biologics, and drugs, and the safety of food, food ingredients, and cosmetics.
+        - **(II)** No employee of the Federal Government shall be appointed as a member of the Board under this subparagraph or under paragraph (3)(B).
     - **(D)**
       - **(i)** Not later than 30 days after September 27, 2007 , the Secretary shall convene a meeting of the ex officio members of the Board to—
         - **(I)** incorporate the Foundation; and
@@ -70,9 +70,7 @@ generated_at: "2026-03-30T02:54:54.276Z"
     - **(C)** evaluate the performance of the Executive Director; and
     - **(D)** carry out any other necessary activities regarding the functioning of the Foundation.
   - **(3)**
-    - **(A)** The term of office of each member of the Board appointed under paragraph (1)(C)(i), and the term of office of any member of the Board whose position is established pursuant to paragraph (1)(C)(ii), shall be 4 years, except that—
-      - **(i)** the terms of offices for the members of the Board initially appointed under paragraph (1)(C)(i) shall expire on a staggered basis as determined by the ex officio members; and
-      - **(ii)** the terms of office for the persons initially appointed to positions established pursuant to paragraph (1)(C)(ii) may be made to expire on a staggered basis, as determined by the individuals who, as of the date of the amendment establishing such positions, are members of the Board.
+    - **(A)** The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
     - **(B)** Any vacancy in the membership of the Board—
       - **(i)** shall not affect the power of the remaining members to execute the duties of the Board; and
       - **(ii)** shall be filled by appointment by the appointed members described in paragraph (1)(C) by majority vote.
@@ -85,7 +83,7 @@ generated_at: "2026-03-30T02:54:54.276Z"
   - **(2)** is, under subsection (a) of such section, exempt from taxation.
 - **(g)**
   - **(1)** The Board shall appoint an Executive Director who shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
-  - **(2)** The compensation of the Executive Director shall be fixed by the Board.
+  - **(2)** The compensation of the Executive Director shall be fixed by the Board but shall not be greater than the compensation of the Commissioner.
 - **(h)** In carrying out this part, the Board, acting through the Executive Director, may—
   - **(1)** adopt, alter, and use a corporate seal, which shall be judicially noticed;
   - **(2)** hire, promote, compensate, and discharge 1 or more officers, employees, and agents, as may be necessary, and define their duties;
@@ -115,5 +113,5 @@ generated_at: "2026-03-30T02:54:54.276Z"
     - **(A)** describes the activities of the Foundation and the progress of the Foundation in furthering the goals and priorities established under subsection (c)(2), including the practical impact of the Foundation on regulated product development;
     - **(B)** provides a specific accounting of the source and use of all funds used by the Foundation to carry out such activities; and
     - **(C)** provides information on how the results of Foundation activities could be incorporated into the regulatory and product review activities of the Food and Drug Administration.
-- **(m)** The Executive Director shall ensure that the funds received from the Treasury are managed as individual programmatic funds under subsection (i), according to best accounting practices.
-- **(n)** From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $1,250,000 and not more than $5,000,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
+- **(m)** The Executive Director shall ensure that the funds received from the Treasury are held in separate accounts from funds received from entities under subsection (i).
+- **(n)** From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).

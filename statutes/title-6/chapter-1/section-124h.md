@@ -3,9 +3,10 @@ title: "Section 124h - Department of Homeland Security State, Local, and Regiona
 usc_title: 6
 usc_section: "124h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 124h"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-03-30T03:04:24.337Z"
+status: "active"
 ---
 
 # § 124h. Department of Homeland Security State, Local, and Regional Fusion Center Initiative
@@ -28,7 +29,7 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(1)** The Under Secretary for Intelligence and Analysis shall, to the maximum extent practicable, assign officers and intelligence analysts from components of the Department to participating State, local, and regional fusion centers.
   - **(2)** Officers and intelligence analysts assigned to participating fusion centers under this subsection may be assigned from the following Department components, in coordination with the respective component head and in consultation with the principal officials of participating fusion centers:
     - **(A)** Office of Intelligence and Analysis.
-    - **(B)** Cybersecurity and Infrastructure Security Agency.
+    - **(B)** Office of Infrastructure Protection.
     - **(C)** Transportation Security Administration.
     - **(D)** United States Customs and Border Protection.
     - **(E)** United States Immigration and Customs Enforcement.
@@ -87,17 +88,10 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(8)** select and train personnel based on the needs, mission, goals, and functions of that fusion center;
   - **(9)** offer a variety of intelligence and information services and products to recipients of fusion center intelligence and information; and
   - **(10)** incorporate law enforcement officers, other emergency response providers, and, as appropriate, the private sector, into all relevant phases of the intelligence and fusion process, consistent with the mission statement developed under paragraph (1), either through full time representatives or liaison relationships with the fusion center to enable the receipt and sharing of information and intelligence.
-- **(j)** Not later than 1 year after March 2, 2020 , and not less frequently than once every 5 years thereafter, the Secretary shall develop or update a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer, the Officer for Civil Rights and Civil Liberties, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
-  - **(1)** Specific goals and objectives for sharing information and engaging with fusion centers—
-    - **(A)** through the direct deployment of personnel from intelligence components of the Department;
-    - **(B)** through the use of Department unclassified and classified information sharing systems, including the Homeland Security Information Network and the Homeland Secure Data Network, or any successor systems; and
-    - **(C)** through any additional means.
-  - **(2)** The performance metrics to be used to measure success in achieving the goals and objectives referred to in paragraph (1).
-  - **(3)** A 5-year plan for continued engagement with fusion centers.
-- **(k)** In this section—
+- **(j)** In this section—
   - **(1)** the term “fusion center” means a collaborative effort of 2 or more Federal, State, local, or tribal government agencies that combines resources, expertise, or information with the goal of maximizing the ability of such agencies to detect, prevent, investigate, apprehend, and respond to criminal or terrorist activity;
   - **(2)** the term “information sharing environment” means the information sharing environment established under section 485 of this title ;
   - **(3)** the term “intelligence analyst” means an individual who regularly advises, administers, supervises, or performs work in the collection, gathering, analysis, evaluation, reporting, production, or dissemination of information on political, economic, social, cultural, physical, geographical, scientific, or military conditions, trends, or forces in foreign or domestic areas that directly or indirectly affect national security;
   - **(4)** the term “intelligence-led policing” means the collection and analysis of information to produce an intelligence end product designed to inform law enforcement decision making at the tactical and strategic levels; and
   - **(5)** the term “terrorism information” has the meaning given that term in section 485 of this title .
-- **(l)** There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.
+- **(k)** There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.

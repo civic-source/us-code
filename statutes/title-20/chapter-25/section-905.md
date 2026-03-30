@@ -3,9 +3,10 @@ title: "Section 905 - Quarters, quarters allowances, and storage"
 usc_title: 20
 usc_section: "905"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "20 U.S.C. § 905"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-03-30T03:04:46.234Z"
+status: "active"
 ---
 
 # § 905. Quarters, quarters allowances, and storage
@@ -19,4 +20,4 @@ generated_at: "2026-03-30T02:54:48.086Z"
 - **(e)** Quarters, quarters allowance, and storage provided under this section shall be in lieu of any quarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
 - **(f)**
   - **(1)** A teacher assigned to teach at Guantanamo Bay Naval Station, Cuba, who is not accompanied at such station by any dependent shall be offered for lease any available military family housing at such station that is suitable for occupancy by the teacher and is not needed to house members of the armed forces and dependents accompanying them or other civilian personnel and any dependents accompanying them.
-  - **(2)** For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b). The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.
+  - **(2)** For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b) of this section. The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.

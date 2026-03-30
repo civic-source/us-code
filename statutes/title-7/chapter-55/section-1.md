@@ -3,9 +3,10 @@ title: "Section 1 - Transparency and accountability for socially disadvantaged f
 usc_title: 7
 usc_section: "1"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-03-30T03:04:20.970Z"
+status: "active"
 ---
 
 # § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers
@@ -26,6 +27,6 @@ generated_at: "2026-03-30T02:53:42.384Z"
   - **(1)** In carrying out this section, the Secretary shall not disclose the names or individual data of any program participant.
   - **(2)** The data under this section shall be used exclusively for the purposes described in subsection (a).
   - **(3)** Except as otherwise provided, the data under this section shall not be used for the evaluation of individual applications for assistance.
-- **(e)** In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
+- **(e)** In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners and, at the time of the request, also requests a receipt, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
   - **(1)** the date, place, and subject of the request; and
   - **(2)** the action taken, not taken, or recommended to the producer or landowner.

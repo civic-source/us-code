@@ -3,9 +3,10 @@ title: "Section 136a - Registration of pesticides"
 usc_title: 7
 usc_section: "136a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 136a"
-generated_at: "2026-03-30T02:53:42.256Z"
+generated_at: "2026-03-30T03:04:20.877Z"
+status: "active"
 ---
 
 # § 136a. Registration of pesticides
@@ -77,7 +78,7 @@ generated_at: "2026-03-30T02:53:42.256Z"
         - **(II)** the term “significant minor uses” means 3 or more minor uses proposed for every nonminor use, a minor use that would, in the judgment of the Administrator, serve as a replacement for any use which has been canceled in the 5 years preceding the receipt of the application, or a minor use that in the opinion of the Administrator would avoid the reissuance of an emergency exemption under section 136p of this title for that minor use.
     - **(D)** If a registrant makes a request for a minor use waiver, regarding data required by the Administrator, pursuant to paragraph (2)(E), and if the Administrator denies in whole or in part such data waiver request, the registrant shall have a full-time period for providing such data. For purposes of this subparagraph, the term “full-time period” means the time period originally established by the Administrator for submission of such data, beginning with the date of receipt by the registrant of the Administrator’s notice of denial.
   - **(4)** The Administrator shall publish in the Federal Register, promptly after receipt of the statement and other data required pursuant to paragraphs (1) and (2), a notice of each application for registration of any pesticide if it contains any new active ingredient or if it would entail a changed use pattern. The notice shall provide for a period of 30 days in which any Federal agency or any other interested person may comment.
-  - **(5)** The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d)—
+  - **(5)** The Administrator shall register a pesticide if the Administrator determines that, when considered with any restrictions imposed under subsection (d) of this section—
     - **(A)** its composition is such as to warrant the proposed claims for it;
     - **(B)** its labeling and other material required to be submitted comply with the requirements of this subchapter;
     - **(C)** it will perform its intended function without unreasonable adverse effects on the environment; and
@@ -110,52 +111,6 @@ generated_at: "2026-03-30T02:53:42.256Z"
       - **(iii)** Reduce the potential for contamination of groundwater, surface water, or other valued environmental resources.
       - **(iv)** Broaden the adoption of integrated pest management strategies, or make such strategies more available or more effective.
     - **(C)** The Administrator, not later than 30 days after receipt of an application for expedited review, shall notify the applicant whether the application is complete. If it is found to be incomplete, the Administrator may either reject the request for expedited review or ask the applicant for additional information to satisfy the guidelines developed under subparagraph (A).
-  - **(11)**
-    - **(A)** In this paragraph, the term “covered agency” means any of the following:
-      - **(i)** The Department of Agriculture.
-      - **(ii)** The Department of Commerce.
-      - **(iii)** The Department of the Interior.
-      - **(iv)** The Council on Environmental Quality.
-      - **(v)** The Environmental Protection Agency.
-    - **(B)** The Administrator shall establish an interagency working group, to be comprised of representatives from each covered agency, to provide recommendations regarding, and to implement a strategy for improving, the consultation process required under section 7 of the Endangered Species Act of 1973 ( 16 U.S.C. 1536 ) for pesticide registration and registration review.
-    - **(C)** The interagency working group established under subparagraph (B) shall—
-      - **(i)** analyze relevant Federal law (including regulations) and case law for purposes of providing an outline of the legal and regulatory framework for the consultation process referred to in that subparagraph, including—
-        - **(I)** requirements under this subchapter and the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.);
-        - **(II)** Federal case law regarding the intersection of this subchapter and the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.); and
-        - **(III)** Federal regulations relating to the pesticide consultation process;
-      - **(ii)** provide advice regarding methods of—
-        - **(I)** defining the scope of actions of the covered agencies that are subject to the consultation requirement referred to in subparagraph (B); and
-        - **(II)** properly identifying and classifying effects of actions of the covered agencies with respect to that consultation requirement;
-      - **(iii)** identify the obligations and limitations under Federal law of each covered agency for purposes of providing a legal and regulatory framework for developing the recommendations referred to in subparagraph (B);
-      - **(iv)** review practices for the consultation referred to in subparagraph (B) to identify problem areas, areas for improvement, and best practices for conducting that consultation among the covered agencies;
-      - **(v)** develop scientific and policy approaches to increase the accuracy and timeliness of the process for that consultation, in accordance with requirements of this subchapter and the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.), including—
-        - **(I)** processes to efficiently share data and coordinate analyses among the Department of Agriculture, the Department of Commerce, the Department of the Interior, and the Environmental Protection Agency;
-        - **(II)** a streamlined process for identifying which actions require no consultation, informal consultation, or formal consultation;
-        - **(III)** an approach that will provide clarity with respect to what constitutes the best scientific and commercial data available in the fields of pesticide use and ecological risk assessment, pursuant to section 7(a)(2) of the Endangered Species Act of 1973 ( 16 U.S.C. 1536(a)(2) ); and
-        - **(IV)** approaches that enable the Environmental Protection Agency to better assist the Department of the Interior and the Department of Commerce in carrying out obligations under that section in a timely and efficient manner; and
-      - **(vi)** propose and implement a strategy to implement approaches to consultations under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) and document that strategy in a memorandum of understanding, revised regulations, or another appropriate format to promote durable cooperation among the covered agencies.
-    - **(D)**
-      - **(i)**
-        - **(I)** Not later than 18 months after December 20, 2018 , the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress of the working group in developing the recommendations under subparagraph (B).
-        - **(II)** The report under this clause shall—
-      - **(ii)**
-        - **(I)** Not later than 1 year after December 20, 2018 , the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
-        - **(II)** The report under this clause shall—
-      - **(iii)** Not later than 1 year after the date of submission of the report under clause (i), the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
-        - **(I)** the implementation of the recommendations referred to in that clause;
-        - **(II)** the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
-        - **(III)** any additional recommendations for improvements to the process described in subparagraph (B).
-      - **(iv)** Not later than the date that is 180 days after the date of submission of the report under clause (iii), and not less frequently than once every 180 days thereafter during the 5-year period beginning on that date, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
-        - **(I)** the implementation of the recommendations referred to in that clause;
-        - **(II)** the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
-        - **(III)** any additional recommendations for improvements to the process described in subparagraph (B).
-    - **(E)** In carrying out the duties under this paragraph, the working group shall, as appropriate—
-      - **(i)** consult with, representatives of interested industry stakeholders and nongovernmental organizations; and
-      - **(ii)** take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
-    - **(F)** Chapter 10 of title 5 shall not apply to the working group established under this paragraph.
-    - **(G)** Nothing in this paragraph supersedes any provision of—
-      - **(i)** this subchapter; or
-      - **(ii)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.), including the requirements under section 7 of that Act ( 16 U.S.C. 1536 ).
 - **(d)**
   - **(1)**
     - **(A)** As a part of the registration of a pesticide the Administrator shall classify it as being for general use or for restricted use. If the Administrator determines that some of the uses for which the pesticide is registered should be for general use and that other uses for which it is registered should be for restricted use, the Administrator shall classify it for both general use and restricted use. Pesticide uses may be classified by regulation on the initial classification, and registered pesticides may be classified prior to reregistration. If some of the uses of the pesticide are classified for general use, and other uses are classified for restricted use, the directions relating to its general uses shall be clearly separated and distinguished from those directions relating to its restricted uses. The Administrator may require that its packaging and labeling for restricted uses shall be clearly distinguishable from its packaging and labeling for general uses.
@@ -173,34 +128,6 @@ generated_at: "2026-03-30T02:53:42.256Z"
   - **(4)** Any mixture or other combination of—
     - **(A)** 1 or more nitrogen stabilizers registered under this subchapter; and
     - **(B)** 1 or more fertilizer products,
-  - **(5)**
-    - **(A)**
-      - **(i)** Subject to clause (ii), not later than the applicable deadline described in subparagraph (B), each registered pesticide product released for shipment shall include—
-        - **(I)** the translation of the parts of the labeling contained in the Spanish Translation Guide described in subparagraph (G) on the product container; or
-        - **(II)** a link to such translation via scannable technology or other electronic methods readily accessible on the product label.
-      - **(ii)** Notwithstanding clause (i)—
-        - **(I)** an antimicrobial pesticide product may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label; or
-        - **(II)** a non-agricultural pesticide product that is not classified by the Administrator as restricted use under subsection (d)(1)(A) may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label.
-    - **(B)**
-      - **(i)** In the case of pesticide products classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph is the date that is 3 years following December 29, 2022 .
-      - **(ii)** In the case of pesticide products not classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph shall be as follows:
-        - **(I)**
-        - **(II)**
-        - **(III)** With respect to pesticide products not described in subclause (I) or (II), the date that is 8 years after December 29, 2022 .
-    - **(C)**
-      - **(i)**
-        - **(I)** In carrying out this paragraph, the Administrator shall allow translations of the parts of the label of a pesticide contained in the Spanish Translation Guide described in subparagraph (G) and scannable technology or other electronic methods to be added using non-notification procedures.
-        - **(II)** In this clause, the term “non-notification procedure” refers to a procedure under which a change may be made to a pesticide label without notifying the Administrator.
-      - **(ii)** In carrying out this paragraph, the Administrator shall cooperate and consult with State lead agencies for pesticide regulation for the purpose of implementing bilingual labeling as provided in this paragraph as expeditiously as possible.
-      - **(iii)** The labeling requirements of this paragraph shall apply to end use product labels.
-      - **(iv)** After initial translation deadlines provided in subparagraph (B), updates to the Spanish Translation Guide described in subparagraph (G) shall be incorporated into labeling on the earlier of—
-        - **(I)** in the case of agricultural use pesticide labels, as determined by the Administrator—
-        - **(II)** in the case of antimicrobial and non-agricultural use pesticide labels, as determined by the Administrator—
-      - **(v)** Not later than 10 days after updating the Spanish Translation Guide described in subparagraph (G), the Administrator shall notify registrants of the update to such guide.
-    - **(D)** Not later than 180 days after December 29, 2022 , to the maximum extent practicable, the Administrator shall seek stakeholder input on ways to make bilingual labeling required under this paragraph accessible to farm workers.
-    - **(E)** Not later than 3 years after December 29, 2022 , the Administrator shall implement a plan to ensure that farm workers have access to the bilingual labeling required under this paragraph.
-    - **(F)** Not later than 2 years after December 29, 2022 , the Administrator shall develop and implement, and make publicly available, a plan for tracking the adoption of the bilingual labeling required under this paragraph.
-    - **(G)** The Spanish Translation Guide described in this subparagraph is the Spanish Translation Guide for Pesticide Labeling issued in October 2019, as in effect on December 29, 2022 , and any successor guides or amendments to such guide.
 - **(g)**
   - **(1)**
     - **(A)**
@@ -218,8 +145,8 @@ generated_at: "2026-03-30T02:53:42.256Z"
       - **(ii)** The Administrator shall identify, but not include in the docket, any confidential business information the disclosure of which is prohibited by section 136h of this title .
     - **(C)** Nothing in this subsection shall prohibit the Administrator from undertaking any other review of a pesticide pursuant to this subchapter.
   - **(2)**
-    - **(A)** The Administrator shall use the authority in subsection (c)(2)(B) to require the submission of data when such data are necessary for a registration review.
-    - **(B)** For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) shall be utilized for and be applicable to any data required for registration review.
+    - **(A)** The Administrator shall use the authority in subsection (c)(2)(B) of this section to require the submission of data when such data are necessary for a registration review.
+    - **(B)** For purposes of this subsection, the provisions of subsections (c)(1), (c)(2)(B), and (c)(2)(D) of this section shall be utilized for and be applicable to any data required for registration review.
 - **(h)**
   - **(1)** To the maximum extent practicable consistent with the degrees of risk presented by an antimicrobial pesticide and the type of review appropriate to evaluate the risks, the Administrator shall identify and evaluate reforms to the antimicrobial registration process that would reduce review periods existing as of August 3, 1996 , for antimicrobial pesticide product registration applications and applications for amended registration of antimicrobial pesticide products, including—
     - **(A)** new antimicrobial active ingredients;
@@ -251,7 +178,7 @@ generated_at: "2026-03-30T02:53:42.256Z"
         - **(II)** consider the establishment of a certification process by approved laboratories as an adjunct to the review process;
         - **(III)** use all appropriate and cost-effective review mechanisms, including—
         - **(IV)** clarify criteria for determination of the completeness of an application.
-    - **(C)** This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3).
+    - **(C)** This subsection does not affect the requirements or extend the deadlines or review periods contained in subsection (c)(3) of this section.
     - **(D)** If the final regulations to carry out this paragraph are not effective 630 days after August 3, 1996 , until the final regulations become effective, the review period, beginning on the date of receipt by the Agency of a complete application, shall be—
       - **(i)** 2 years for a new antimicrobial active ingredient pesticide registration;
       - **(ii)** 1 year for a new antimicrobial use of a registered active ingredient;
@@ -263,7 +190,7 @@ generated_at: "2026-03-30T02:53:42.256Z"
     - **(F)**
       - **(i)** Subject to clause (iii), the Administrator shall notify an applicant whether an application has been granted or denied not later than the final day of the appropriate review period under this paragraph, unless the applicant and the Administrator agree to a later date.
       - **(ii)** If the Administrator fails to notify an applicant within the period of time required under clause (i), the failure shall be considered an agency action unlawfully withheld or unreasonably delayed for purposes of judicial review under chapter 7 of title 5.
-      - **(iii)** This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) prior to 90 days after August 3, 1996 .
+      - **(iii)** This subparagraph does not apply to an application for an antimicrobial pesticide that is filed under subsection (c)(3)(B) of this section prior to 90 days after August 3, 1996 .
       - **(iv)** Notwithstanding clause (ii), the failure of the Administrator to notify an applicant for an amendment to a registration for an antimicrobial pesticide shall not be judicially reviewable in a Federal or State court if the amendment requires scientific review of data within—
         - **(I)** the time period specified in subparagraph (D)(vi), in the absence of a final regulation under subparagraph (B); or
         - **(II)** the time period specified in paragraph (2)(F), if adopted in a final regulation under subparagraph (B).

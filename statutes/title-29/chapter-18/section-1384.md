@@ -3,9 +3,10 @@ title: "Section 1384 - Sale of assets"
 usc_title: 29
 usc_section: "1384"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1384"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-03-30T03:05:09.730Z"
+status: "active"
 ---
 
 # § 1384. Sale of assets
@@ -26,8 +27,8 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(4)** The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon payment of the bond or escrow to the plan, by the amount thereof.
 - **(b)**
   - **(1)** For the purposes of this part, the liability of the purchaser shall be determined as if the purchaser had been required to contribute to the plan in the year of the sale and the 4 plan years preceding the sale the amount the seller was required to contribute for such operations for such 5 plan years.
-  - **(2)** If the plan is in reorganization in the plan year in which the sale of assets occurs, the purchaser shall furnish a bond or escrow in an amount equal to 200 percent of the amount described in subsection (a)(1)(B).
-- **(c)** The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Before granting such an individual or class variance or exemption, the corporation—
+  - **(2)** If the plan is in reorganization in the plan year in which the sale of assets occurs, the purchaser shall furnish a bond or escrow in an amount equal to 200 percent of the amount described in subsection (a)(1)(B) of this section.
+- **(c)** The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) of this section if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Before granting such an individual or class variance or exemption, the corporation—
   - **(1)** shall publish notice in the Federal Register of the pendency of the variance or exemption,
   - **(2)** shall require that adequate notice be given to interested persons, and
   - **(3)** shall afford interested persons an opportunity to present their views.

@@ -3,9 +3,10 @@ title: "Section 2111a - Support for senior military colleges"
 usc_title: 10
 usc_section: "2111a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2111a"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-03-30T03:04:17.267Z"
+status: "active"
 ---
 
 # § 2111a. Support for senior military colleges
@@ -26,4 +27,4 @@ generated_at: "2026-03-30T02:53:38.141Z"
   - **(3)** The Virginia Military Institute.
   - **(4)** The Citadel.
   - **(5)** Virginia Polytechnic Institute and State University.
-  - **(6)** The University of North Georgia.
+  - **(6)** North Georgia College and State University.

@@ -1,0 +1,18 @@
+---
+title: "Section 481c - Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries"
+usc_title: 37
+usc_section: "481c"
+chapter: 8
+current_through: "PL 113-21"
+classification: "37 U.S.C. § 481c"
+generated_at: "2026-03-30T03:05:39.926Z"
+status: "active"
+---
+
+# § 481c. Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries
+
+- **(a)** Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service who is serving at a duty station outside the United States in an area specifically designated for the purposes of this section by the Secretary concerned may be paid for or provided transportation for himself and his dependents authorized to reside at his duty station—
+  - **(1)** to another location outside the United States having different social, climatic, or environmental conditions than those at the duty station at which the member is serving; or
+  - **(2)** to a location in the United States.
+- **(b)** When the transportation authorized by subsection (a) is provided by the Secretary concerned, the Secretary may use Government or commercial carriers. The Secretary concerned may limit the amount of payments made to members under subsection (a).
+- **(c)** No transportation may be provided under this section after the travel authorities transition expiration date, and no payment may be made under this section for transportation that begins after that date.

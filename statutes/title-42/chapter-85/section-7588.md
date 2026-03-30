@@ -3,14 +3,15 @@ title: "Section 7588 - Federal agency fleets"
 usc_title: 42
 usc_section: "7588"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7588"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-03-30T03:06:22.815Z"
+status: "active"
 ---
 
 # § 7588. Federal agency fleets
 
-- **(a)** The provisions of this section shall apply, in addition to the other provisions of this part, in the case of covered fleet vehicles owned or operated by an agency, department, or instrumentality of the United States, except as otherwise provided in subsection (e).
+- **(a)** The provisions of this section shall apply, in addition to the other provisions of this part, in the case of covered fleet vehicles owned or operated by an agency, department, or instrumentality of the United States, except as otherwise provided in subsection (e) of this section.
 - **(b)** Notwithstanding the provisions of sections 601–611 of title 40, the Administrator of General Services shall not include the incremental costs of clean-fuel vehicles in the amount to be reimbursed by Federal agencies if the Administrator of General Services determines that appropriations provided pursuant to this paragraph are sufficient to provide for the incremental cost of such vehicles over the cost of comparable conventional vehicles.
 - **(c)** Funds appropriated pursuant to the authorization under this paragraph shall be applicable only—
   - **(1)** to the portion of the cost of acquisition, maintenance and operation of vehicles acquired under this subparagraph which exceeds the cost of acquisition, maintenance and operation of comparable conventional vehicles;

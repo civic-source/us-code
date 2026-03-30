@@ -3,9 +3,10 @@ title: "Section 2702 - Voluntary disclosure of customer communications or record
 usc_title: 18
 usc_section: "2702"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "18 U.S.C. § 2702"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-03-30T03:04:41.114Z"
+status: "active"
 ---
 
 # § 2702. Voluntary disclosure of customer communications or records
@@ -27,20 +28,16 @@ generated_at: "2026-03-30T02:54:16.507Z"
     - **(A)** if the contents—
       - **(i)** were inadvertently obtained by the service provider; and
       - **(ii)** appear to pertain to the commission of a crime; or
-    - **[(B)** Repealed. Pub. L. 108–21, title V, § 508(b)(1)(A) , Apr. 30, 2003 , 117 Stat. 684 ]
-  - **(8)** to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency; or
-  - **(9)** to a foreign government pursuant to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
+  - **(8)** to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 - **(c)** A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))—
   - **(1)** as otherwise authorized in section 2703;
   - **(2)** with the lawful consent of the customer or subscriber;
   - **(3)** as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
   - **(4)** to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of information relating to the emergency;
-  - **(5)** to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A;
-  - **(6)** to any person other than a governmental entity; or
-  - **(7)** to a foreign government pursuant to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
+  - **(5)** to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A; or
+  - **(6)** to any person other than a governmental entity.
 - **(d)** On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
-  - **(1)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8);
+  - **(1)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8); and
   - **(2)** a summary of the basis for disclosure in those instances where—
     - **(A)** voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
-    - **(B)** the investigation pertaining to those disclosures was closed without the filing of criminal charges; and
-  - **(3)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
+    - **(B)** the investigation pertaining to those disclosures was closed without the filing of criminal charges.

@@ -3,9 +3,10 @@ title: "Section 702 - Cadets and midshipmen"
 usc_title: 10
 usc_section: "702"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 702"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-03-30T03:04:17.230Z"
+status: "active"
 ---
 
 # § 702. Cadets and midshipmen
@@ -18,10 +19,9 @@ generated_at: "2026-03-30T02:53:38.074Z"
     - **(C)** for other good cause.
   - **(2)** A cadet or midshipman placed on involuntary leave under paragraph (1) is not entitled to any pay under section 203(c) of title 37 for the period of the leave.
   - **(3)** Return of an academy cadet or midshipman to a pay status at the Academy concerned from involuntary leave status under paragraph (1) does not restore any entitlement of the cadet or midshipman to pay for the period of the involuntary leave.
-- **(c)** An academy cadet or midshipman diagnosed with a medical condition is allowed convalescent leave under section 701(m) of this title .
-- **(d)** Except as provided by subsection (c), sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
-- **(e)** The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
-- **(f)** In this section, the term “academy cadet or midshipman” means—
+- **(c)** Sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
+- **(d)** The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+- **(e)** In this section, the term “academy cadet or midshipman” means—
   - **(1)** a cadet of the United States Military Academy;
   - **(2)** a midshipman of the United States Naval Academy;
   - **(3)** a cadet of the United States Air Force Academy; or

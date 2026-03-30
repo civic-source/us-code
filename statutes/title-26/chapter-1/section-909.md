@@ -3,16 +3,17 @@ title: "Section 909 - Suspension of taxes and credits until related income taken
 usc_title: 26
 usc_section: "909"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 909"
-generated_at: "2026-03-30T02:55:27.746Z"
+generated_at: "2026-03-30T03:05:18.635Z"
+status: "active"
 ---
 
 # § 909. Suspension of taxes and credits until related income taken into account
 
 - **(a)** If there is a foreign tax credit splitting event with respect to a foreign income tax paid or accrued by the taxpayer, such tax shall not be taken into account for purposes of this title before the taxable year in which the related income is taken into account under this chapter by the taxpayer.
-- **(b)** If there is a foreign tax credit splitting event with respect to a foreign income tax paid or accrued by a specified 10-percent owned foreign corporation (as defined in section 245A(b) without regard to paragraph (2) thereof), such tax shall not be taken into account—
-  - **(1)** for purposes of section 960, or
+- **(b)** If there is a foreign tax credit splitting event with respect to a foreign income tax paid or accrued by a section 902 corporation, such tax shall not be taken into account—
+  - **(1)** for purposes of section 902 or 960, or
   - **(2)** for purposes of determining earnings and profits under section 964(a),
 - **(c)** For purposes of this section—
   - **(1)**
@@ -26,6 +27,7 @@ generated_at: "2026-03-30T02:55:27.746Z"
     - **(B)** any person which holds, directly or indirectly, at least a 10 percent ownership interest (determined by vote or value) in the payor,
     - **(C)** any person which bears a relationship to the payor described in section 267(b) or 707(b), and
     - **(D)** any other person specified by the Secretary for purposes of this paragraph.
+  - **(5)** The term “section 902 corporation” means any foreign corporation with respect to which one or more domestic corporations meets the ownership requirements of subsection (a) or (b) of section 902.
 - **(e)** The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this section, including regulations or other guidance which provides—
   - **(1)** appropriate exceptions from the provisions of this section, and
   - **(2)** for the proper application of this section with respect to hybrid instruments.

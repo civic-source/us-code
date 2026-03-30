@@ -3,16 +3,17 @@ title: "Section 3715 - Lightering"
 usc_title: 46
 usc_section: "3715"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 3715"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-03-30T03:06:27.171Z"
+status: "active"
 ---
 
 # § 3715. Lightering
 
 - **(a)** A vessel may transfer oil or hazardous material in a port or place subject to the jurisdiction of the United States, when the cargo has been transferred from another vessel on the navigable waters of the United States or in the marine environment, only if—
   - **(1)** the transfer was conducted consistent with regulations prescribed by the Secretary;
-  - **(2)** both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States;
+  - **(2)** both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and 1 1 So in original. The word “and” probably should not appear.
   - **(3)** the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
   - **(4)** the delivering and the receiving vessel had on board at the time of transfer, evidence that each vessel is operating in compliance with section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ); and
   - **(5)** the delivering and the receiving vessel are operating in compliance with section 3703a of this title .

@@ -3,9 +3,10 @@ title: "Section 1447c - Regional research plans"
 usc_title: 16
 usc_section: "1447c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1447c"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-03-30T03:04:48.570Z"
+status: "active"
 ---
 
 # § 1447c. Regional research plans
@@ -20,6 +21,6 @@ generated_at: "2026-03-30T02:54:22.969Z"
   - **(4)** an assessment of how the plan will incorporate existing marine, coastal, and estuarine research and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title ; and
   - **(5)** a general description of marine research and monitoring objectives and timetables for achievement through the funding of projects under this chapter during the 4-year period covered by the plan so as to meet the priorities specified in the plan in accordance with paragraph (3).
 - **(c)**
-  - **(1)** When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b).
+  - **(1)** When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
   - **(2)** The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprove such research plan within 120 days after receiving the plan.
   - **(3)** In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.

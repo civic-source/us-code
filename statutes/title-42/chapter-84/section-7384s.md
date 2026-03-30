@@ -3,16 +3,17 @@ title: "Section 7384s - Compensation and benefits to be provided"
 usc_title: 42
 usc_section: "7384s"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 7384s"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-03-30T03:06:22.792Z"
+status: "active"
 ---
 
 # § 7384s. Compensation and benefits to be provided
 
 - **(a)**
   - **(1)** Except as provided in paragraph (2), a covered employee, or the survivor of that covered employee if the employee is deceased, shall receive compensation for the disability or death of that employee from that employee’s occupational illness in the amount of $150,000.
-  - **(2)** A covered employee shall, to the extent that employee’s occupational illness is established beryllium sensitivity, receive beryllium sensitivity monitoring under subsection (c) in lieu of compensation under paragraph (1).
+  - **(2)** A covered employee shall, to the extent that employee’s occupational illness is established beryllium sensitivity, receive beryllium sensitivity monitoring under subsection (c) of this section in lieu of compensation under paragraph (1).
 - **(b)** A covered employee shall receive medical benefits under section 7384t of this title for that employee’s occupational illness.
 - **(c)** An individual receiving beryllium sensitivity monitoring under this subsection shall receive the following:
   - **(1)** A thorough medical examination to confirm the nature and extent of the individual’s established beryllium sensitivity.

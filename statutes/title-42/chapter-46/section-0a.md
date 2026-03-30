@@ -1,12 +1,19 @@
 ---
-title: "Section 0a - Transferred"
+title: "Section 0a - Director of Violence Against Women Office"
 usc_title: 42
 usc_section: "0a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-30T02:56:11.192Z"
+generated_at: "2026-03-30T03:06:22.700Z"
+status: "active"
 ---
 
-# § 3796gg–0a. Transferred
+# § 3796gg–0a. Director of Violence Against Women Office
 
+- **(a)** The President, by and with the advice and consent of the Senate, shall appoint a Director for the Violence Against Women Office (in this subchapter 1 1 See References in Text note below. referred to as the “Director”) to be responsible, under the general authority of the Attorney General, for the administration, coordination, and implementation of the programs and activities of the Office.
+- **(b)** The Director shall not—
+  - **(1)** engage in any employment other than that of serving as Director; or
+  - **(2)** hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under the Violence Against Women Act of 1994 (title IV of Public Law 103–322 ) or the Violence Against Women Act of 2000 (division B of Public Law 106–386 ).
+- **(c)** In the case of a vacancy, the President may designate an officer or employee who shall act as Director during the vacancy.
+- **(d)** The Director shall be compensated at a rate of pay not to exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5 .

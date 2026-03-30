@@ -3,15 +3,16 @@ title: "Section 284a - Advisory councils"
 usc_title: 42
 usc_section: "284a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 284a"
-generated_at: "2026-03-30T02:56:10.740Z"
+generated_at: "2026-03-30T03:06:22.341Z"
+status: "active"
 ---
 
 # § 284a. Advisory councils
 
 - **(a)**
-  - **(1)** Except as provided in subsection (h), the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C.
+  - **(1)** Except as provided in subsection (h) of this section, the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C of this subchapter.
   - **(2)** Each advisory council for a national research institute may recommend to the Secretary acceptance, in accordance with section 238 of this title , of conditional gifts for study, investigation, or research respecting the diseases, disorders, or other aspect of human health with respect to which the institute was established, for the acquisition of grounds, or for the construction, equipping, or maintenance of facilities for the institute.
   - **(3)** Each advisory council for a national research institute—
     - **(A)**
@@ -43,9 +44,7 @@ generated_at: "2026-03-30T02:56:10.740Z"
     - **(A)** The National Cancer Advisory Board shall be the advisory council for the National Cancer Institute. This section applies to the National Cancer Advisory Board, except that—
       - **(i)** appointments to such Board shall be made by the President;
       - **(ii)** the term of office of an appointed member shall be 6 years;
-      - **(iii)** of the members appointed to the Board—
-        - **(I)** not less than 5 members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors); and
-        - **(II)** not less than one member shall be an individual knowledgeable in pediatric oncology;
+      - **(iii)** of the members appointed to the Board not less than five members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors);
       - **(iv)** the chairman of the Board shall be selected by the President from the appointed members and shall serve as chairman for a term of two years;
       - **(v)** the ex officio members of the Board shall be nonvoting members and shall be the Secretary, the Director of the Office of Science and Technology Policy, the Director of NIH, the Under Secretary for Health of the Department of Veterans Affairs, the Director of the National Institute for Occupational Safety and Health, the Director of the National Institute of Environmental Health Sciences, the Secretary of Labor, the Commissioner of the Food and Drug Administration, the Administrator of the Environmental Protection Agency, the Chairman of the Consumer Product Safety Commission, the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Science of the Department of Energy (or the designees of such officers); and
       - **(vi)** the Board shall meet at least four times each fiscal year.

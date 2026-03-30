@@ -3,9 +3,10 @@ title: "Section 486 - Waiver of requirements as to reports from or examinations 
 usc_title: 12
 usc_section: "486"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 486"
-generated_at: "2026-03-30T02:53:53.383Z"
+generated_at: "2026-03-30T03:04:29.202Z"
+status: "active"
 ---
 
 # § 486. Waiver of requirements as to reports from or examinations of affiliates

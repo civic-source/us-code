@@ -3,21 +3,22 @@ title: "Section 6085 - Effective date"
 usc_title: 22
 usc_section: "6085"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 6085"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-03-30T03:04:53.694Z"
+status: "active"
 ---
 
 # § 6085. Effective date
 
-- **(a)** Subject to subsections (b) and (c), this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996 .
+- **(a)** Subject to subsections (b) and (c) of this section, this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996 .
 - **(b)**
-  - **(1)** The President may suspend the effective date under subsection (a) for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
-  - **(2)** The President may suspend the effective date under subsection (a) for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+  - **(1)** The President may suspend the effective date under subsection (a) of this section for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+  - **(2)** The President may suspend the effective date under subsection (a) of this section for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 - **(c)**
   - **(1)** After this subchapter and the amendments of this subchapter have taken effect—
     - **(A)** no person shall acquire a property interest in any potential or pending action under this subchapter; and
     - **(B)** the President may suspend the right to bring an action under this subchapter with respect to confiscated property for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the suspension takes effect that such suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
   - **(2)** The President may suspend the right to bring an action under this subchapter for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
   - **(3)** The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
-- **(d)** The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+- **(d)** The President may rescind any suspension made under subsection (b) or (c) of this section upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.

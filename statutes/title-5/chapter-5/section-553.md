@@ -3,9 +3,10 @@ title: "Section 553 - Rule making"
 usc_title: 5
 usc_section: "553"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 553"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-03-30T03:04:06.056Z"
+status: "active"
 ---
 
 # § 553. Rule making
@@ -15,9 +16,8 @@ generated_at: "2026-03-30T02:52:55.988Z"
   - **(2)** a matter relating to agency management or personnel or to public property, loans, grants, benefits, or contracts.
 - **(b)** General notice of proposed rule making shall be published in the Federal Register, unless persons subject thereto are named and either personally served or otherwise have actual notice thereof in accordance with law. The notice shall include—
   - **(1)** a statement of the time, place, and nature of public rule making proceedings;
-  - **(2)** reference to the legal authority under which the rule is proposed;
-  - **(3)** either the terms or substance of the proposed rule or a description of the subjects and issues involved; and
-  - **(4)** the Internet address of a summary of not more than 100 words in length of the proposed rule, in plain language, that shall be posted on the Internet website under section 206(d) of the E-Government Act of 2002 ( 44 U.S.C. 3501 note) (commonly known as regulations.gov).
+  - **(2)** reference to the legal authority under which the rule is proposed; and
+  - **(3)** either the terms or substance of the proposed rule or a description of the subjects and issues involved.
     - **(A)** to interpretative rules, general statements of policy, or rules of agency organization, procedure, or practice; or
     - **(B)** when the agency for good cause finds (and incorporates the finding and a brief statement of reasons therefor in the rules issued) that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.
 - **(c)** After notice required by this section, the agency shall give interested persons an opportunity to participate in the rule making through submission of written data, views, or arguments with or without opportunity for oral presentation. After consideration of the relevant matter presented, the agency shall incorporate in the rules adopted a concise general statement of their basis and purpose. When rules are required by statute to be made on the record after opportunity for an agency hearing, sections 556 and 557 of this title apply instead of this subsection.

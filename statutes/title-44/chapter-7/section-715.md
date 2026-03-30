@@ -3,12 +3,13 @@ title: "Section 715 - Senate and House documents and reports for Department of S
 usc_title: 44
 usc_section: "715"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "44 U.S.C. § 715"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-03-30T03:06:01.360Z"
+status: "active"
 ---
 
 # § 715. Senate and House documents and reports for Department of State
 
-The Director of the Government Publishing Office shall print, in addition to the usual number, and furnish the Department of State twenty copies of each Senate and House of Representatives document and report.
+The Public Printer shall print, in addition to the usual number, and furnish the Department of State twenty copies of each Senate and House of Representatives document and report.
 

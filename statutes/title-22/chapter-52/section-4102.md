@@ -3,9 +3,10 @@ title: "Section 4102 - Definitions"
 usc_title: 22
 usc_section: "4102"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 4102"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-03-30T03:04:53.675Z"
+status: "active"
 ---
 
 # § 4102. Definitions
@@ -29,7 +30,7 @@ As used in this subchapter, the term—
   - **(9)** “exclusive representative” means any labor organization which is certified as the exclusive representative of employees under section 4111 of this title ;
   - **(10)** “General Counsel” means the General Counsel of the Authority;
   - **(11)** “labor organization” means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose dealing with the Department concerning grievances (as defined in section 4131 of this title ) and conditions of employment, but does not include—
-    - **(A)** an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or disability;
+    - **(A)** an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
     - **(B)** an organization which advocates the overthrow of the constitutional form of government of the United States;
     - **(C)** an organization sponsored by the Department; or
     - **(D)** an organization which participates in the conduct of a strike against the Government or any agency thereof or imposes a duty or obligation to conduct, assist, or participate in such a strike;

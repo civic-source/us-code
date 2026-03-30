@@ -3,14 +3,15 @@ title: "Section 1411 - Mergers and transfers between multiemployer plans"
 usc_title: 29
 usc_section: "1411"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 1411"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-03-30T03:05:09.732Z"
+status: "active"
 ---
 
 # § 1411. Mergers and transfers between multiemployer plans
 
-- **(a)** Unless otherwise provided in regulations prescribed by the corporation, a plan sponsor may not cause a multiemployer plan to merge with one or more multiemployer plans, or engage in a transfer of assets and liabilities to or from another multiemployer plan, unless such merger or transfer satisfies the requirements of subsection (b).
+- **(a)** Unless otherwise provided in regulations prescribed by the corporation, a plan sponsor may not cause a multiemployer plan to merge with one or more multiemployer plans, or engage in a transfer of assets and liabilities to or from another multiemployer plan, unless such merger or transfer satisfies the requirements of subsection (b) of this section.
 - **(b)** A merger or transfer satisfies the requirements of this section if—
   - **(1)** in accordance with regulations of the corporation, the plan sponsor of a multiemployer plan notifies the corporation of a merger with or transfer of plan assets or liabilities to another multiemployer plan at least 120 days before the effective date of the merger or transfer;
   - **(2)** no participant’s or beneficiary’s accrued benefit will be lower immediately after the effective date of the merger or transfer than the benefit immediately before that date;
@@ -18,12 +19,3 @@ generated_at: "2026-03-30T02:55:18.736Z"
   - **(4)** an actuarial valuation of the assets and liabilities of each of the affected plans has been performed during the plan year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the start of that plan year, or other valuation of such assets and liabilities performed under such standards and procedures as the corporation may prescribe by regulation.
 - **(c)** The merger of multiemployer plans or the transfer of assets or liabilities between multiemployer plans, shall be deemed not to constitute a violation of the provisions of section 1106(a) of this title or section 1106(b)(2) of this title if the corporation determines that the merger or transfer otherwise satisfies the requirements of this section.
 - **(d)** A plan to which liabilities are transferred under this section is a successor plan for purposes of section 1322a(b)(2)(B) of this title .
-- **(e)**
-  - **(1)** When requested to do so by the plan sponsors, the corporation may take such actions as it deems appropriate to promote and facilitate the merger of two or more multiemployer plans if it determines, after consultation with the Participant and Plan Sponsor Advocate selected under section 1304 of this title , that the transaction is in the interests of the participants and beneficiaries of at least one of the plans and is not reasonably expected to be adverse to the overall interests of the participants and beneficiaries of any of the plans. Such facilitation may include training, technical assistance, mediation, communication with stakeholders, and support with related requests to other government agencies.
-  - **(2)** In order to facilitate a merger which it determines is necessary to enable one or more of the plans involved to avoid or postpone insolvency, the corporation may provide financial assistance (within the meaning of section 1431 of this title ) to the merged plan if—
-    - **(A)** one or more of the multiemployer plans participating in the merger is in critical and declining status (as defined in section 1085(b)(4) of this title );
-    - **(B)** the corporation reasonably expects that—
-      - **(i)** such financial assistance will reduce the corporation’s expected long-term loss with respect to the plans involved; and
-      - **(ii)** such financial assistance is necessary for the merged plan to become or remain solvent;
-    - **(C)** the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
-    - **(D)** such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.

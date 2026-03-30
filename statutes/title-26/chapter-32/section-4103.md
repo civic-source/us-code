@@ -3,9 +3,10 @@ title: "Section 4103 - Certain additional persons liable for tax where willful f
 usc_title: 26
 usc_section: "4103"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4103"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-03-30T03:05:18.684Z"
+status: "active"
 ---
 
 # § 4103. Certain additional persons liable for tax where willful failure to pay
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:55:27.799Z"
 In any case in which there is a willful failure to pay the tax imposed by section 4041(a)(1) or 4081, each person—
 
   - **(1)** who is an officer, employee, or agent of the taxpayer who is under a duty to assure the payment of such tax and who willfully fails to perform such duty, or
-  - **(2)** who willfully causes the taxpayer to fail to pay such tax,
+  - **(2)** who willfully causes the taxpayer to fail to pay such tax, shall be jointly and severally liable with the taxpayer for the tax to which such failure relates.

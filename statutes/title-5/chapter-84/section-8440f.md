@@ -3,12 +3,13 @@ title: "Section 8440f - Maximum percentage allowable for certain participants"
 usc_title: 5
 usc_section: "8440f"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8440f"
-generated_at: "2026-03-30T02:52:56.059Z"
+generated_at: "2026-03-30T03:04:06.107Z"
+status: "active"
 ---
 
 # § 8440f. Maximum percentage allowable for certain participants
 
-- **(a)** The maximum percentage allowable under this section shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year: The maximum percentage allowable is: 2001 6 2002 7 2003 8 2004 9 2005 10 2006 or thereafter 100.
+- **(a)** The maximum percentage allowable under this section shall be determined in accordance with the following table: In the case of a pay period The maximum percent- beginning in fiscal year: age allowable is: 2001 6 2002 7 2003 8 2004 9 2005 10 2006 or thereafter 100.
 - **(b)** Notwithstanding any limitation under this section, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.

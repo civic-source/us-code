@@ -3,9 +3,10 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-03-30T03:04:17.264Z"
+status: "active"
 ---
 
 # § 1762. Demonstration project relating to certain acquisition personnel management policies and procedures
@@ -22,8 +23,7 @@ generated_at: "2026-03-30T02:53:38.137Z"
       - **(i)** at least one-third of the workforce participating in the demonstration project consists of members of the acquisition workforce; and
       - **(ii)** at least two-thirds of the workforce participating in the demonstration project consists of members of the acquisition workforce and supporting personnel assigned to work directly with the acquisition workforce; and
     - **(B)** the demonstration project commences before October 1, 2007 .
-  - **(4)** The Secretary of Defense shall exercise the authorities granted to the Office of Personnel Management under section 4703 of title 5 for purposes of the demonstration project authorized under this section.
-- **(c)** The total number of persons who may participate at any one time in the demonstration project under this section may not exceed 130,000.
+- **(c)** The total number of persons who may participate in the demonstration project under this section may not exceed 120,000.
 - **(d)** The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 - **(e)**
   - **(1)** The Secretary of Defense shall designate an independent organization to conduct two assessments of the acquisition workforce demonstration project described in subsection (a).
@@ -47,5 +47,5 @@ generated_at: "2026-03-30T02:53:38.137Z"
   - **(1)** the Committees on Armed Services of the Senate and the House of Representatives;
   - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(3)** the Committee on Oversight and Government Reform of the House of Representatives.
-- **(g)** The authority to conduct a demonstration project under this section shall terminate on December 31, 2031 .
+- **(g)** The authority to conduct a demonstration program under this section shall terminate on September 30, 2017 .
 - **(h)** Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5 .

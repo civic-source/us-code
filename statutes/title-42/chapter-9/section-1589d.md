@@ -3,13 +3,14 @@ title: "Section 1589d - Undisposed housing"
 usc_title: 42
 usc_section: "1589d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1589d"
-generated_at: "2026-03-30T02:56:11.104Z"
+generated_at: "2026-03-30T03:06:22.613Z"
+status: "active"
 ---
 
 # § 1589d. Undisposed housing
 
 - **(a)** Notwithstanding the provisions of this or any other law, (1) any housing to be sold on-site determined by the Secretary of Housing and Urban Development to be permanent, located on lands owned by the United States and under the jurisdiction of the Secretary, which is not relinquished, transferred, under contract of sale, sold, or otherwise disposed of by the Secretary under other provisions of this subchapter or under the provisions of other law by January 1, 1957 , except housing which is determined by the Secretary by that date to be suitable for sale in accordance with section 1587(b) of this title ; and (2) any permanent housing to be sold off-site which is not relinquished, transferred, under contract of sale, sold, or otherwise disposed of prior to August 7, 1956 , shall be disposed of, as expeditiously as possible, on a competitive basis to the highest responsible bidder upon such terms and after such public advertisement as the Secretary of Housing and Urban Development may deem in the public interest; except that the Secretary of Housing and Urban Development may reject any bid which the Secretary deems less than the fair market value of the property and may thereafter dispose of the property by negotiation.
-- **(b)** Notwithstanding the provisions of this or any other law, all contracts entered into after August 7, 1956 , for the sale, transfer, or other disposal of housing (other than housing subject to the provisions of section 1587(b) of this title ) determined by the Secretary of Housing and Urban Development to be permanent, except contracts entered into pursuant to subsection (a) hereof, shall require that if title does not pass to the purchaser by April 1, 1957 (or within sixty days thereafter if such time is necessary to cure defects in title in accordance with the provisions of the contract), the rights of the purchaser shall terminate and thereafter the housing shall be sold under the provisions of subsection (a) hereof. For the purposes of this subsection, title shall be considered to have passed upon the execution of a conditional sales contract.
+- **(b)** Notwithstanding the provisions of this or any other law, all contracts entered into after August 7, 1956 , for the sale, transfer, or other disposal of housing (other than housing subject to the provisions of section 1587(b) of this title ) determined by the Secretary of Housing and Urban Development to be permanent, except contracts entered into pursuant to subsection (a) of this section, shall require that if title does not pass to the purchaser by April 1, 1957 (or within sixty days thereafter if such time is necessary to cure defects in title in accordance with the provisions of the contract), the rights of the purchaser shall terminate and thereafter the housing shall be sold under the provisions of subsection (a) of this section. For the purposes of this subsection, title shall be considered to have passed upon the execution of a conditional sales contract.
 - **(c)** The dates set forth in subsections (a) and (b) of this section shall not be subject to change by virtue of the provisions of section 1589a of this title .

@@ -3,18 +3,19 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-03-30T03:06:22.329Z"
+status: "active"
 ---
 
 # § 273. Organ procurement organizations
 
 - **(a)**
-  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b).
-  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b).
+  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b) of this section.
+  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b) of this section.
 - **(b)**
-  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
+  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) of this section is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
     - **(A)** is a nonprofit entity,
     - **(B)** has accounting and other fiscal procedures (as specified by the Secretary) necessary to assure the fiscal stability of the organization,
     - **(C)** has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] for the procurement of kidneys,
@@ -34,10 +35,10 @@ generated_at: "2026-03-30T02:56:10.724Z"
       - **(i)** is composed of—
         - **(I)** members who represent hospital administrators, intensive care or emergency room personnel, tissue banks, and voluntary health associations in its service area,
         - **(II)** members who represent the public residing in such area,
-        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatibility or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatability 3 3 So in original. Probably should be “histocompatibility”. or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
         - **(IV)** a physician with knowledge or skill in the field of neurology, and
-        - **(V)** from each transplant center in its service area which has arrangements described in paragraph (3)(G) with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
-      - **(ii)** has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (3), and
+        - **(V)** from each transplant center in its service area which has arrangements described in paragraph (2)(G) 1 with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
+      - **(ii)** has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (2), 1 and
       - **(iii)** has no authority over any other activity of the organization.
   - **(2)**
     - **(A)** Not later than 90 days after November 16, 1990 , the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E). 1
@@ -45,7 +46,7 @@ generated_at: "2026-03-30T02:56:10.724Z"
   - **(3)** An organ procurement organization shall—
     - **(A)** have effective agreements, to identify potential organ donors, with a substantial majority of the hospitals and other health care entities in its service area which have facilities for organ donations,
     - **(B)** conduct and participate in systematic efforts, including professional education, to acquire all useable organs from potential donors,
-    - **(C)** arrange for the acquisition and preservation of donated organs and provide quality standards for the acquisition of organs which are consistent with the standards adopted by the Organ Procurement and Transplantation Network under section 274(b)(2)(E) of this title , including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV),
+    - **(C)** arrange for the acquisition and preservation of donated organs and provide quality standards for the acquisition of organs which are consistent with the standards adopted by the Organ Procurement and Transplantation Network under section 274(b)(2)(E) of this title , including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
     - **(D)** arrange for the appropriate tissue typing of donated organs,
     - **(E)** have a system to allocate donated organs equitably among transplant patients according to established medical criteria,
     - **(F)** provide or arrange for the transportation of donated organs to transplant centers,
@@ -54,4 +55,4 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(I)** have arrangements to cooperate with tissue banks for the retrieval, processing, preservation, storage, and distribution of tissues as may be appropriate to assure that all useable tissues are obtained from potential donors,
     - **(J)** evaluate annually the effectiveness of the organization in acquiring potentially available organs, and
     - **(K)** assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
-- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).
+- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.

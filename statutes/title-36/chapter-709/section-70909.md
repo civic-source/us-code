@@ -1,16 +1,15 @@
 ---
-title: "Section 70909 - Relationship to Federal agencies"
+title: "Section 70909 - Availability of personnel, services, and facilities of Department of Education"
 usc_title: 36
 usc_section: "70909"
 chapter: 709
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "36 U.S.C. § 70909"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-03-30T03:05:43.647Z"
+status: "active"
 ---
 
-# § 70909. Relationship to Federal agencies
+# § 70909. Availability of personnel, services, and facilities of Department of Education
 
-- **(a)** On request of the board of directors, the FFA may collaborate with Federal agencies, including the Department of Education and the Department of Agriculture on matters of mutual interest and benefit.
-- **(b)** Those Federal agencies may make personnel, services, and facilities available to administer or assist in the administration of the activities of the FFA.
-- **(c)** Personnel of the Federal agencies may not receive compensation from the FFA for their services, except that travel and other legitimate expenses as defined by the Federal agencies and approved by the board may be paid.
-- **(d)** The Federal agencies also may cooperate with State boards and other organizations for career and technical education to assist in the promotion of activities of the FFA.
+On request of the board of directors of the corporation, the Secretary of Education may make personnel, services, and facilities of the Department of Education available to administer or assist in the administration of the activities of the corporation. Personnel of the Department may not receive compensation from the corporation for their services, except that travel and other legitimate expenses as defined by the Secretary and approved by the board may be paid. The Secretary also may cooperate with the State boards for vocational education to assist in the promotion of the activities of the corporation.
+

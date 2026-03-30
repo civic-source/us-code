@@ -3,9 +3,10 @@ title: "Section 2119 - Staging requirements and rounding authority"
 usc_title: 19
 usc_section: "2119"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2119"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-03-30T03:04:42.031Z"
+status: "active"
 ---
 
 # § 2119. Staging requirements and rounding authority
@@ -19,5 +20,5 @@ generated_at: "2026-03-30T02:54:24.664Z"
 - **(c)**
   - **(1)** No reduction in the rate of duty on any article pursuant to a trade agreement under section 2111 of this title shall take effect more than 10 years after the effective date of the first reduction proclaimed to carry out such trade agreement with respect to such article.
   - **(2)** If any part of a reduction takes effect, then any time thereafter during which any part of the reduction is not in effect by reason of legislation of the United States or action thereunder, the effect of which is to maintain or increase the rate of duty on an article, shall be excluded in determining—
-    - **(A)** the 1-year intervals referred to in subsection (a)(2), and
+    - **(A)** the 1-year intervals referred to in subsection (a)(2) of this section, and
     - **(B)** the expiration of the 10-year period referred to in paragraph (1) of this subsection.

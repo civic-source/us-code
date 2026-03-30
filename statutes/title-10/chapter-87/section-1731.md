@@ -1,28 +1,15 @@
 ---
-title: "Section 1731 - Critical acquisition positions"
+title: "Section 1731 - Acquisition Corps: in general"
 usc_title: 10
 usc_section: "1731"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1731"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-03-30T03:04:17.264Z"
+status: "active"
 ---
 
-# § 1731. Critical acquisition positions
+# § 1731. Acquisition Corps: in general
 
-- **(a)**
-  - **(1)** The Secretary of Defense shall designate the acquisition positions in the Department of Defense that are critical acquisition positions. Such positions shall include the following:
-    - **(A)** Any acquisition position which—
-      - **(i)** in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
-      - **(ii)** in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
-    - **(B)** Other selected acquisition positions not covered by subparagraph (A), including the following:
-      - **(i)** Portfolio acquisition executive.
-      - **(ii)** Program manager of a major defense acquisition program (as defined in section 4201 of this title ) or of a significant nonmajor defense acquisition program (as defined in section 1737(a)(3) of this title ).
-      - **(iii)** Deputy program manager of a major defense acquisition program.
-      - **(iv)** Product support manager.
-    - **(C)** Any other acquisition position of significant responsibility in which the primary duties are supervisory or management duties.
-  - **(2)** The Secretary shall periodically publish a list of the positions designated under this subsection.
-- **(b)** The Secretary of Defense shall ensure that the qualifications of commissioned officers in the acquisition workforce are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.
-- **(c)**
-  - **(1)** The Secretary of Defense is authorized to require civilians in critical acquisition positions to sign mobility statements.
-  - **(2)** The Secretary of Defense shall identify which categories of civilians in critical acquisition positions, as a condition of employment, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
+- **(a)** The Secretary of Defense shall ensure that an Acquisition Corps is established for the Department of Defense.
+- **(b)** The Secretary of Defense shall ensure that the qualifications of commissioned officers selected for the Acquisition Corps are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.

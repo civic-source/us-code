@@ -1,29 +1,30 @@
 ---
-title: "Section 1076e - TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60"
+title: "Section 1076e - TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60"
 usc_title: 10
 usc_section: "1076e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-03-30T02:53:38.102Z"
+generated_at: "2026-03-30T03:04:17.243Z"
+status: "active"
 ---
 
-# § 1076e. TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
+# § 1076e. TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
 
 - **(a)**
-  - **(1)** Except as provided in paragraph (2), a member of the Retired Reserve of a reserve component of the armed forces who is qualified for a non-regular retirement at age 60 under chapter 1223 of this title, but is not age 60, is eligible for health benefits under TRICARE Retired Reserve as provided in this section.
+  - **(1)** Except as provided in paragraph (2), a member of the Retired Reserve of a reserve component of the armed forces who is qualified for a non-regular retirement at age 60 under chapter 1223 of this title, but is not age 60, is eligible for health benefits under TRICARE Standard as provided in this section.
   - **(2)** Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
-- **(b)** Eligibility for TRICARE Retired Reserve coverage of a member under this section shall terminate upon the member becoming eligible for TRICARE coverage at age 60 under section 1086 of this title .
-- **(c)** While a member of a reserve component is covered by TRICARE Retired Reserve under this section, the members of the immediate family of such member are eligible for TRICARE Retired Reserve coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Retired Reserve coverage under this section shall continue for the same period of time that would be provided under section 1086 of this title if the member had been eligible at the time of death for TRICARE coverage under such section (instead of under this section).
+- **(b)** Eligibility for TRICARE Standard coverage of a member under this section shall terminate upon the member becoming eligible for TRICARE Standard coverage at age 60 under section 1086 of this title .
+- **(c)** While a member of a reserve component is covered by TRICARE Standard under this section, the members of the immediate family of such member are eligible for TRICARE Standard coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage under this section shall continue for the same period of time that would be provided under section 1086 of this title if the member had been eligible at the time of death for TRICARE Standard coverage under such section (instead of under this section).
 - **(d)**
-  - **(1)** A member of a reserve component covered by TRICARE Retired Reserve under this section shall pay a premium for that coverage. Such premium shall apply instead of any enrollment fees required under section 1075 of this title .
-  - **(2)** The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Retired Reserve coverage of members without dependents and one premium for TRICARE Retired Reserve coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all members of the reserve components covered under this section.
-  - **(3)** The monthly amount of the premium in effect for a month for TRICARE Retired Reserve coverage under this section shall be the amount equal to the cost of coverage that the Secretary determines on an appropriate actuarial basis.
+  - **(1)** A member of a reserve component covered by TRICARE Standard under this section shall pay a premium for that coverage.
+  - **(2)** The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Standard coverage of members without dependents and one premium for TRICARE Standard coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all members of the reserve components covered under this section.
+  - **(3)** The monthly amount of the premium in effect for a month for TRICARE Standard coverage under this section shall be the amount equal to the cost of coverage that the Secretary determines on an appropriate actuarial basis.
   - **(4)** The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums under this subsection.
   - **(5)** Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title , shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 - **(e)** The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations for the administration of this section.
 - **(f)** In this section:
   - **(1)** The term “immediate family”, with respect to a member of a reserve component, means all of the member’s dependents described in subparagraphs (A), (D), and (I) of section 1072(2) of this title .
-  - **(2)** The term “TRICARE Retired Reserve” means—
-    - **(A)** medical care at facilities of the uniformed services to which a dependent described in section 1076(a)(2) of this title is entitled; and
-    - **(B)** health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
+  - **(2)** The term “TRICARE Standard” means—
+    - **(A)** medical care to which a dependent described in section 1076(b)(1) of this title is entitled; and
+    - **(B)** health benefits contracted for under the authority of section 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.

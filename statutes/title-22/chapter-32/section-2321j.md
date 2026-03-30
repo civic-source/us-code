@@ -3,9 +3,10 @@ title: "Section 2321j - Authority to transfer excess defense articles"
 usc_title: 22
 usc_section: "2321j"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2321j"
-generated_at: "2026-03-30T02:55:05.357Z"
+generated_at: "2026-03-30T03:04:53.632Z"
+status: "active"
 ---
 
 # § 2321j. Authority to transfer excess defense articles
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:55:05.357Z"
   - **(2)** Accordingly, for the four-year period beginning on October 1, 1996 , and thereafter for the four-period 1 1 So in original. Probably should be “four-year period”. beginning on October 1, 2000 , the President shall ensure that excess defense articles offered to Greece and Turkey under this section will be made available consistent with the manner in which the President made available such excess defense articles during the four-year period that began on October 1, 1992 , pursuant to section 573(e) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990.
 - **(c)**
   - **(1)** Excess defense articles may be transferred under this section without cost to the recipient country.
-  - **(2)** Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, to Taiwan, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
+  - **(2)** Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
 - **(d)** Section 2392(d) of this title shall not apply with respect to transfers of excess defense articles (including transportation and related costs) under this section.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), funds available to the Department of Defense may not be expended for crating, packing, handling, and transportation of excess defense articles transferred under the authority of this section.
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:55:05.357Z"
     - **(C)** an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
     - **(D)** a statement describing the current value of such article and the value of such article at acquisition.
 - **(g)**
-  - **(1)** The aggregate value of excess defense articles transferred to countries under this section in any fiscal year may not exceed $500,000,000.
+  - **(1)** The aggregate value of excess defense articles transferred to countries under this section in any fiscal year may not exceed $425,000,000.
   - **(2)** The limitation contained in paragraph (1) shall apply only with respect to fiscal years beginning after fiscal year 1996.
-- **(h)** Documents described in subsection (a) justifying the transfer of excess defense articles shall include an explanation of the general purposes of providing excess defense articles as well as a table which provides an aggregate annual total of transfers of excess defense articles in the preceding year by country in terms of offers and actual deliveries and in terms of acquisition cost and current value. Such table shall indicate whether such excess defense articles were provided on a grant or sale basis.
+- **(h)** Documents described in subsection (a) of this section justifying the transfer of excess defense articles shall include an explanation of the general purposes of providing excess defense articles as well as a table which provides an aggregate annual total of transfers of excess defense articles in the preceding year by country in terms of offers and actual deliveries and in terms of acquisition cost and current value. Such table shall indicate whether such excess defense articles were provided on a grant or sale basis.
 - **(i)** For purposes of this section, the term “excess defense articles” shall be deemed to include excess property of the Coast Guard, and the term “Department of Defense” shall be deemed, with respect to such excess property, to include the Coast Guard.

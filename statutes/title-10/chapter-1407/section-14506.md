@@ -3,13 +3,14 @@ title: "Section 14506 - Effect of failure of selection for promotion: reserve ma
 usc_title: 10
 usc_section: "14506"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 14506"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-03-30T03:04:17.341Z"
+status: "active"
 ---
 
 # § 14506. Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy
 
   - **(1)** the first day of the month after the month in which the officer completes 20 years of commissioned service, or
-  - **(2)** the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
+  - **(2)** the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
 

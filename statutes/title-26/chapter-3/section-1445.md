@@ -3,14 +3,15 @@ title: "Section 1445 - Withholding of tax on dispositions of United States real 
 usc_title: 26
 usc_section: "1445"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1445"
-generated_at: "2026-03-30T02:55:27.776Z"
+generated_at: "2026-03-30T03:05:18.664Z"
+status: "active"
 ---
 
 # § 1445. Withholding of tax on dispositions of United States real property interests
 
-- **(a)** Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 15 percent of the amount realized on the disposition.
+- **(a)** Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
 - **(b)**
   - **(1)** No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition if paragraph (2), (3), (4), (5), or (6) applies to the transaction.
   - **(2)** Except as provided in paragraph (7), this paragraph applies to the disposition if the transferor furnishes to the transferee an affidavit by the transferor stating, under penalty of perjury, the transferor’s United States taxpayer identification number and that the transferor is not a foreign person.
@@ -51,10 +52,6 @@ generated_at: "2026-03-30T02:55:27.776Z"
       - **(ii)** determinations of transferor’s maximum tax liability under paragraph (1), and
       - **(iii)** reductions under paragraph (2) in the amount required to be withheld,
     - **(B)** The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
-  - **(4)** In the case of a disposition—
-    - **(A)** of property which is acquired by the transferee for use by the transferee as a residence,
-    - **(B)** with respect to which the amount realized for such property does not exceed $1,000,000, and
-    - **(C)** to which subsection (b)(5) does not apply,
 - **(d)**
   - **(1)** If—
     - **(A)** the transferor furnishes the transferee or qualified substitute an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
@@ -76,21 +73,19 @@ generated_at: "2026-03-30T02:55:27.776Z"
     - **(A)** The receipt and the disbursement of any portion of the consideration for the transaction.
     - **(B)** The recording of any document in connection with the transaction.
 - **(e)**
-  - **(1)** In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) (or, to the extent provided in regulations, 20 percent) multiplied by the gain realized to the extent such gain—
+  - **(1)** In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the gain realized to the extent such gain—
     - **(A)** is allocable to a foreign person who is a partner or beneficiary of such partnership, trust, or estate, or
     - **(B)** is allocable to a portion of the trust treated as owned by a foreign person under subpart E of part I of subchapter J.
-  - **(2)** In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount of gain recognized on such distribution under such subsection.
-  - **(3)** If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
-  - **(4)** A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
-  - **(5)** To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
-  - **(6)** If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) (or, to the extent provided in regulations, 20 percent) multiplied by the amount so treated.
+  - **(2)** In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to 35 percent of the amount of gain recognized on such distribution under such subsection.
+  - **(3)** If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+  - **(4)** A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+  - **(5)** To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
+  - **(6)** If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
   - **(7)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisions of this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
 - **(f)** For purposes of this section—
   - **(1)** The term “transferor” means the person disposing of the United States real property interest.
   - **(2)** The term “transferee” means the person acquiring the United States real property interest.
-  - **(3)** The term “foreign person” means any person other than—
-    - **(A)** a United States person, and
-    - **(B)** except as otherwise provided by the Secretary, an entity with respect to which section 897 does not apply by reason of subsection (l) thereof.
+  - **(3)** The term “foreign person” means any person other than a United States person.
   - **(4)** The term “transferor’s maximum tax liability” means, with respect to the disposition of any interest, the sum of—
     - **(A)** the maximum amount which the Secretary determines could be imposed as tax under section 871(b)(1) or 882(a)(1) by reason of the disposition, plus
     - **(B)** the amount the Secretary determines to be the transferor’s unsatisfied withholding liability with respect to such interest.

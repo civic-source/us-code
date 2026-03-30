@@ -3,9 +3,10 @@ title: "Section 460ss - Findings"
 usc_title: 16
 usc_section: "460ss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 460ss"
-generated_at: "2026-03-30T02:54:22.830Z"
+generated_at: "2026-03-30T03:04:48.467Z"
+status: "active"
 ---
 
 # § 460ss. Findings

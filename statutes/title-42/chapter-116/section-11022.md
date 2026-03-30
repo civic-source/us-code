@@ -3,9 +3,10 @@ title: "Section 11022 - Emergency and hazardous chemical inven­tory forms"
 usc_title: 42
 usc_section: "11022"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 11022"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-03-30T03:06:22.882Z"
+status: "active"
 ---
 
 # § 11022. Emergency and hazardous chemical inven­tory forms
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
     - **(A)** The appropriate local emergency planning committee.
     - **(B)** The State emergency response commission.
     - **(C)** The fire department with jurisdiction over the facility.
-  - **(2)** The inventory form containing tier I information (as described in subsection (d)(1)) shall be submitted on or before March 1, 1988 , and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2)) to the recipients described in paragraph (1).
+  - **(2)** The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988 , and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
   - **(3)** An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
     - **(A)** Providing information on the inventory form on each element or compound in the mixture which is a hazardous chemical. If more than one mixture has the same element or compound, only one listing on the inventory form for the element or compound at the facility is necessary.
     - **(B)** Providing information on the inventory form on the mixture itself.
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
     - **(C)** For purposes of reporting information under this paragraph, the Administrator may—
       - **(i)** modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 [ 29 U.S.C. 651 et seq.] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency, or
       - **(ii)** require reporting on individual hazardous chemicals of special concern to emergency response personnel.
-  - **(2)** An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e):
+  - **(2)** An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
     - **(A)** The chemical name or the common name of the chemical as provided on the material safety data sheet.
     - **(B)** An estimate (in ranges) of the maximum amount of the hazardous chemical present at the facility at any time during the preceding calendar year.
     - **(C)** An estimate (in ranges) of the average daily amount of the hazardous chemical present at the facility during the preceding calendar year.
@@ -39,15 +40,12 @@ generated_at: "2026-03-30T02:56:11.393Z"
     - **(E)** The location at the facility of the hazardous chemical.
     - **(F)** An indication of whether the owner elects to withhold location information of a specific hazardous chemical from disclosure to the public under section 11044 of this title .
 - **(e)**
-  - **(1)** Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
+  - **(1)** Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d) of this section, to the person making the request. Any such request shall be with respect to a specific facility.
   - **(2)** A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
   - **(3)**
     - **(A)** Any person may request a State emergency response commission or local emergency planning committee for tier II information relating to the preceding calendar year with respect to a facility. Any such request shall be in writing and shall be with respect to a specific facility.
     - **(B)** Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title . If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
     - **(C)** In the case of tier II information which is not in the possession of a State emergency response commission or local emergency planning committee and which is with respect to a hazardous chemical which a facility has stored in an amount less than 10,000 pounds present at the facility at any time during the preceding calendar year, a request from a person must include the general need for the information. The State emergency response commission or local emergency planning committee may, pursuant to paragraph (1), request the facility owner or operator for the tier II information on behalf of the person making the request. Upon receipt of any information requested on behalf of such person, the State emergency response commission or local emergency planning committee shall make the information available in accordance with section 11044 of this title to the person.
     - **(D)** A State emergency response commission or local emergency planning committee shall respond to a request for tier II information under this paragraph no later than 45 days after the date of receipt of the request.
-  - **(4)**
-    - **(A)** An affected community water system may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the affected community water system.
-    - **(B)** In this paragraph, the term “affected community water system” means a community water system (as defined in section 300f(15) of this title ) that receives supplies of drinking water from a source water area, delineated under section 300j–13 of this title , in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
 - **(f)** Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
 - **(g)** The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986 . If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.

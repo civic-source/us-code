@@ -3,9 +3,10 @@ title: "Section 5481 - Definitions"
 usc_title: 12
 usc_section: "5481"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "12 U.S.C. § 5481"
-generated_at: "2026-03-30T02:53:53.541Z"
+generated_at: "2026-03-30T03:04:29.350Z"
+status: "active"
 ---
 
 # § 5481. Definitions
@@ -138,7 +139,7 @@ Except as otherwise provided in this title, 1 1 See References in Text note belo
       - **(i)** a support service of a type provided to businesses generally or a similar ministerial service; or
       - **(ii)** time or space for an advertisement for a consumer financial product or service through print, newspaper, or electronic media.
     - **(C)** A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
-  - **(27)** The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 5131(a) of title 25 .
+  - **(27)** The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 479a–1(a) of title 25 .
   - **(28)**
     - **(A)** The term “stored value” means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
     - **(B)** Notwithstanding subparagraph (A), the term “stored value” does not include a special purpose card or certificate, which shall be defined for purposes of this paragraph as funds or monetary value represented in any electronic format, whether or not specially encrypted, that is—

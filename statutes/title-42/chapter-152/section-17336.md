@@ -3,9 +3,10 @@ title: "Section 17336 - Deployment of international clean and efficient energy t
 usc_title: 42
 usc_section: "17336"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 17336"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-03-30T03:06:22.993Z"
+status: "active"
 ---
 
 # § 17336. Deployment of international clean and efficient energy technologies and investment in global energy markets
@@ -21,7 +22,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
     - **(F)** the Environmental Protection Agency;
     - **(G)** the United States Agency for International Development;
     - **(H)** the Export-Import Bank of the United States;
-    - **(I)** the United States International Development Finance Corporation;
+    - **(I)** the Overseas Private Investment Corporation: 1 1 So in original. The colon probably should be a semicolon.
     - **(J)** the Trade and Development Agency;
     - **(K)** the Small Business Administration;
     - **(L)** the Office of the United States Trade Representative; and

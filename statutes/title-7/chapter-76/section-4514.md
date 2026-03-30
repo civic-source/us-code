@@ -3,9 +3,10 @@ title: "Section 4514 - Dairy reports"
 usc_title: 7
 usc_section: "4514"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 4514"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-03-30T03:04:20.986Z"
+status: "active"
 ---
 
 # § 4514. Dairy reports
@@ -22,4 +23,4 @@ The Secretary of Agriculture shall submit to the House Committee on Agriculture 
     - **(G)** consumer prices.
   - **(2)** Not later than December 31, 1984 , a report on (A) recommendations for changes in the application of the parity formula to milk so as to make the formula more consistent with modern production methods and with special attention to the cost of producing milk as a result of changes in productivity, and (B) the feasibility of imposing a limitation on the total amount of payments and other assistance a producer of milk may receive during a year under section 1446(d) of this title .
   - **(3)** Not later than April 15, 1985 , a report on the effectiveness of the paid diversion program carried out under section 1446(d) of this title .
-  - **(4)** Not later than July 1, 1985 , and July 1 of each year after the date of enactment of this title, 1 1 See References in Text note below. an annual report describing activities conducted under the dairy products promotion and research order issued under subtitle B of title I of this Act [ 7 U.S.C. 4501 et seq.], and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
+  - **(4)** Not later than July 1, 1985 , and July 1 of each year after the date of enactment of this title, 1 1 See References in Text note below. an annual report describing activities conducted under the dairy products promotion and research order issued under this subchapter, and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.

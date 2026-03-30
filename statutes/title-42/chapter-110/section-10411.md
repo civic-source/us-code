@@ -3,9 +3,10 @@ title: "Section 10411 - Grants to State Domestic Violence Coalitions"
 usc_title: 42
 usc_section: "10411"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 10411"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-03-30T03:06:22.877Z"
+status: "active"
 ---
 
 # § 10411. Grants to State Domestic Violence Coalitions
@@ -31,8 +32,8 @@ generated_at: "2026-03-30T02:56:11.388Z"
   - **(7)** providing information to the public about prevention of family violence, domestic violence, and dating violence, including information targeted to underserved populations; and
   - **(8)** collaborating with Indian tribes and tribal organizations (and corresponding Native Hawaiian groups or communities) to address the needs of Indian (including Alaska Native) and Native Hawaiian victims of family violence, domestic violence, or dating violence, as applicable in the State.
 - **(e)** A coalition that receives a grant under this section shall not be required to use funds received under this chapter for the purposes described in paragraph (5) or (6) of subsection (d) if the coalition provides an annual assurance to the Secretary that the coalition is—
-  - **(1)** using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796gg(c)(1) ) 1 1 See References in Text note below. for such purposes; and
-  - **(2)** coordinating the activities carried out by the coalition under subsection (d) with the State’s activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796gg et seq.) 1 that address those purposes.
+  - **(1)** using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796gg(c)(1) ) for such purposes; and
+  - **(2)** coordinating the activities carried out by the coalition under subsection (d) with the State’s activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 42 U.S.C. 3796gg et seq.) that address those purposes.
 - **(f)** No funds made available to entities under this section shall be used, directly or indirectly, to influence the issuance, amendment, or revocation of any executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation by Congress, or by any State or local legislative body, or State proposals by initiative petition, except that the representatives of the entity may testify or make other appropriate communication—
   - **(1)** when formally requested to do so by a legislative body, a committee, or a member of the body or committee; or
   - **(2)** in connection with legislation or appropriations directly affecting the activities of the entity.

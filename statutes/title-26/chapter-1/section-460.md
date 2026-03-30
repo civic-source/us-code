@@ -3,9 +3,10 @@ title: "Section 460 - Special rules for long-term contracts"
 usc_title: 26
 usc_section: "460"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 460"
-generated_at: "2026-03-30T02:55:27.703Z"
+generated_at: "2026-03-30T03:05:18.600Z"
+status: "active"
 ---
 
 # § 460. Special rules for long-term contracts
@@ -16,7 +17,7 @@ generated_at: "2026-03-30T02:55:27.703Z"
     - **(A)** the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
     - **(B)** upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
   - **(2)** The interest computed under the look-back method of this paragraph shall be determined by—
-    - **(A)** first, allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
+    - **(A)** first 1 1 So in original. Probably should be followed by a comma. allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
     - **(B)** second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
     - **(C)** then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
   - **(3)**
@@ -91,7 +92,9 @@ generated_at: "2026-03-30T02:55:27.703Z"
     - **(B)** any expenses under an agreement to perform research or development.
   - **(6)**
     - **(A)** Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shall be taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted.
-    - **(B)** For purposes of this paragraph, the term “qualified property” means property described in section 168(k)(2) which has a recovery period of 7 years or less.
+    - **(B)** For purposes of this paragraph, the term “qualified property” means property described in section 168(k)(2) which—
+      - **(i)** has a recovery period of 7 years or less, and
+      - **(ii)** is placed in service after December 31, 2009 , and before January 1, 2011 ( January 1, 2012 , in the case of property described in section 168(k)(2)(B)), or after December 31, 2012 , and before January 1, 2014 ( January 1, 2015 , in the case of property described in section 168(k)(2)(B)).
 - **(d)** For purposes of this section—
   - **(1)** The term “Federal long-term contract” means any long-term contract—
     - **(A)** to which the United States (or any agency or instrumentality thereof) is a party, or
@@ -99,16 +102,23 @@ generated_at: "2026-03-30T02:55:27.703Z"
   - **(2)** For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxable entities not treated as instrumentalities) shall apply.
 - **(e)**
   - **(1)** Subsections (a), (b), and (c)(1) and (2) shall not apply to—
-    - **(A)** any residential construction contract, or
-    - **(B)** any other construction contract entered into by a taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))—
+    - **(A)** any home construction contract, or
+    - **(B)** any other construction contract entered into by a taxpayer—
       - **(i)** who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
-      - **(ii)** who meets the gross receipts test of section 448(c) for the taxable year in which such contract is entered into.
-  - **(2)**
-    - **(A)** For purposes of paragraph (1)(B)(ii), in the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
-    - **(B)** Any change in method of accounting made pursuant to paragraph (1)(B)(ii) shall be treated as initiated by the taxpayer and made with the consent of the Secretary. Such change shall be effected on a cut-off basis for all similarly classified contracts entered into on or after the year of change.
-  - **(3)** For purposes of this subsection, the term “construction contract” means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
-  - **(4)** For purposes of this subsection—
-    - **(A)** The term “home construction contract” means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (3) with respect to—
+      - **(ii)** whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.
+  - **(2)** For purposes of paragraph (1), the gross receipts of—
+    - **(A)** all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)),
+    - **(B)** all members of any controlled group of corporations of which the taxpayer is a member, and
+    - **(C)** any predecessor of the taxpayer or a person described in subparagraph (A) or (B),
+  - **(3)** For purposes of this subsection, the term “controlled group of corporations” has the meaning given to such term by section 1563(a), except that—
+    - **(A)** “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a)(1), and
+    - **(B)** the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
+  - **(4)** For purposes of this subsection, the term “construction contract” means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+  - **(5)** In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
+    - **(A)** by substituting “70 percent” for “90 percent” each place it appears, and
+    - **(B)** by substituting “30 percent” for “10 percent”.
+  - **(6)** For purposes of this subsection—
+    - **(A)** The term “home construction contract” means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (4) with respect to—
       - **(i)** dwelling units (as defined in section 168(e)(2)(A)(ii)) contained in buildings containing 4 or fewer dwelling units (as so defined), and
       - **(ii)** improvements to real property directly related to such dwelling units and located on the site of such dwelling units.
     - **(B)** The term “residential construction contract” means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows:

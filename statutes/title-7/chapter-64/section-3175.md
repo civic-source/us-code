@@ -3,9 +3,10 @@ title: "Section 3175 - Nutrition education program"
 usc_title: 7
 usc_section: "3175"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 3175"
-generated_at: "2026-03-30T02:53:42.397Z"
+generated_at: "2026-03-30T03:04:20.978Z"
+status: "active"
 ---
 
 # § 3175. Nutrition education program
@@ -27,5 +28,4 @@ generated_at: "2026-03-30T02:53:42.397Z"
         - **(II)** Funds made available under subclause (I) shall be allocated to each 1890 Institution in an amount that bears the same ratio to the total amount to be allocated under this clause as—
       - **(iv)** Nothing in this subparagraph precludes the Secretary from developing educational materials and programs for persons in income ranges above the level designated in this subparagraph.
 - **(e)** The Secretary shall ensure the complementary administration of the expanded food and nutrition education program by 1862 Institutions and 1890 Institutions in a State.
-- **(f)** Projects carried out with funds made available under section 343(d) of this title , to carry out the program established under subsection (b) may be coordinated with the nutrition education and obesity prevention grant program under section 2036a of this title or another health promotion or nutrition improvement strategy, whether publicly or privately funded, as determined by the Secretary.
-- **(g)** There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section $90,000,000 for each of fiscal years 2009 through 2023.
+- **(f)** There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section $90,000,000 for each of fiscal years 2009 through 2012.

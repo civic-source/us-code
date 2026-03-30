@@ -3,16 +3,17 @@ title: "Section 4303 - Office of Native American Business Development"
 usc_title: 25
 usc_section: "4303"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 4303"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-03-30T03:05:02.915Z"
+status: "active"
 ---
 
 # § 4303. Office of Native American Business Development
 
 - **(a)**
-  - **(1)** There is established within the Office of the Secretary an office known as the Office of Native American Business Development.
-  - **(2)** The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development. The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5 .
+  - **(1)** There is established within the Department of Commerce an office known as the Office of Native American Business Development (referred to in this chapter as the “Office”).
+  - **(2)** The Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development (referred to in this chapter as the “Director”). The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5 .
 - **(b)**
   - **(1)** The Secretary, acting through the Director, shall ensure the coordination of Federal programs that provide assistance, including financial and technical assistance, to eligible entities for increased business, the expansion of trade by eligible entities, and economic development on Indian lands.
   - **(2)** The Secretary, acting through the Director, shall coordinate Federal programs relating to Indian economic development, including any such program of the Department of the Interior, the Small Business Administration, the Department of Labor, or any other Federal agency charged with Indian economic development responsibilities.
@@ -29,18 +30,8 @@ generated_at: "2026-03-30T02:54:52.863Z"
     - **(A)** financial assistance, technical assistance, and administrative services to eligible entities to assist those entities with—
       - **(i)** identifying and taking advantage of business development opportunities; and
       - **(ii)** compliance with appropriate laws and regulatory practices; and
-    - **(B)** such other assistance as the Secretary, in consultation with the Director, determines to be necessary for the development of business opportunities for eligible entities to enhance the economies of Indian Tribes.
+    - **(B)** such other assistance as the Secretary, in consultation with the Director, determines to be necessary for the development of business opportunities for eligible entities to enhance the economies of Indian tribes.
   - **(5)** In carrying out the duties and activities described in paragraphs (3) and (4), the Secretary, acting through the Director, shall give priority to activities that—
     - **(A)** provide the greatest degree of economic benefits to Indians; and
-    - **(B)** foster long-term stable economies of Indian Tribes.
+    - **(B)** foster long-term stable economies of Indian tribes.
   - **(6)** The Secretary may not provide under this section assistance for any activity related to the operation of a gaming activity on Indian lands pursuant to the Indian Gaming Regulatory Act [ 25 U.S.C. 2701 et seq.].
-- **(c)**
-  - **(1)** The Director shall serve as—
-    - **(A)** the program and policy advisor to the Secretary with respect to the trust and governmental relationship between the United States and Indian Tribes; and
-    - **(B)** the point of contact for Indian Tribes, Tribal organizations, and Indians regarding—
-      - **(i)** policies and programs of the Department of Commerce; and
-      - **(ii)** other matters relating to economic development and doing business in Indian lands.
-  - **(2)** The Director shall coordinate with all offices and agencies within the Department of Commerce to ensure that each office and agency has an accountable process to ensure—
-    - **(A)** meaningful and timely coordination and assistance, as required by this chapter; and
-    - **(B)** consultation with Indian Tribes regarding the policies, programs, assistance, and activities of the offices and agencies.
-  - **(3)** There are authorized to be appropriated to carry out this section not more than $2,000,000 for each fiscal year.

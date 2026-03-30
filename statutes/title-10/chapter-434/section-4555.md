@@ -1,0 +1,31 @@
+---
+title: "Section 4555 - ARMS Initiative loan guarantee program"
+usc_title: 10
+usc_section: "4555"
+chapter: 434
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 4555"
+generated_at: "2026-03-30T03:04:17.311Z"
+status: "active"
+---
+
+# § 4555. ARMS Initiative loan guarantee program
+
+- **(a)** Subject to subsection (b), the Secretary may carry out a loan guarantee program to encourage commercial firms to use eligible facilities under this chapter. Under any such program, the Secretary may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity to use an eligible facility under this chapter.
+- **(b)** Loan guarantees under this section may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required by section 504 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661c ).
+- **(c)**
+  - **(1)** The Secretary may enter into an agreement with any of the officials named in paragraph (2) under which that official may, for the purposes of this section—
+    - **(A)** process applications for loan guarantees;
+    - **(B)** guarantee repayment of loans; and
+    - **(C)** provide any other services to the Secretary to administer the loan guarantee program.
+  - **(2)** The officials referred to in paragraph (1) are as follows:
+    - **(A)** The Administrator of the Small Business Administration.
+    - **(B)** The head of any appropriate agency in the Department of Agriculture, including—
+      - **(i)** the Administrator of the Farmers Home Administration; and
+      - **(ii)** the Administrator of the Rural Development Administration.
+  - **(3)** Each official authorized to do so under an agreement entered into under paragraph (1) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the official administers.
+  - **(4)** To the extent practicable, each official processing loan guarantee applications under this section pursuant to an agreement entered into under paragraph (1) shall use the same processing procedures as the official uses for processing loan guarantee applications under other loan guarantee programs that the official administers.
+- **(d)** The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed—
+  - **(1)** $20,000,000, with respect to any single borrower; and
+  - **(2)** $320,000,000 with respect to all borrowers.
+- **(e)** The Secretary may transfer to an official providing services under subsection (c), and that official may accept, such funds as may be necessary to administer the loan guarantee program under this section.

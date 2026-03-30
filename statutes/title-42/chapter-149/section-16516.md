@@ -1,12 +1,25 @@
 ---
-title: "Section 16516 - Omitted"
+title: "Section 16516 - Temporary program for rapid deployment of renewable energy and electric power transmission projects"
 usc_title: 42
 usc_section: "16516"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 16516"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-03-30T03:06:22.981Z"
+status: "active"
 ---
 
-# § 16516. Omitted
+# § 16516. Temporary program for rapid deployment of renewable energy and electric power transmission projects
 
+- **(a)** Notwithstanding section 16513 of this title , the Secretary may make guarantees under this section only for the following categories of projects that commence construction not later than September 30, 2011 :
+  - **(1)** Renewable energy systems, including incremental hydropower, that generate electricity or thermal energy, and facilities that manufacture related components.
+  - **(2)** Electric power transmission systems, including upgrading and reconductoring projects.
+  - **(3)** Leading edge biofuel projects that will use technologies performing at the pilot or demonstration scale that the Secretary determines are likely to become commercial technologies and will produce transportation fuels that substantially reduce life-cycle greenhouse gas emissions compared to other transportation fuels.
+- **(b)** In determining to make guarantees to projects described in subsection (a)(2), the Secretary may consider the following factors:
+  - **(1)** The viability of the project without guarantees.
+  - **(2)** The availability of other Federal and State incentives.
+  - **(3)** The importance of the project in meeting reliability needs.
+  - **(4)** The effect of the project in meeting a State or region’s environment (including climate change) and energy goals.
+- **(c)** The Secretary shall require that each recipient of support under this section provide reasonable assurance that all laborers and mechanics employed in the performance of the project for which the assistance is provided, including those employed by contractors or subcontractors, will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of part A of subtitle II of title 40 (commonly referred to as the “Davis-Bacon Act”).
+- **(d)** Funding under this section for projects described in subsection (a)(3) shall not exceed $500,000,000.
+- **(e)** The authority to enter into guarantees under this section shall expire on September 30, 2011 .

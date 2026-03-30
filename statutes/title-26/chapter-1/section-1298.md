@@ -3,9 +3,10 @@ title: "Section 1298 - Special rules"
 usc_title: 26
 usc_section: "1298"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 1298"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-03-30T03:05:18.653Z"
+status: "active"
 ---
 
 # § 1298. Special rules
@@ -37,7 +38,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
     - **(A)** Under regulations, in any case in which a United States person is treated as owning stock in a passive foreign investment company by reason of subsection (a)—
       - **(i)** any disposition by the United States person or the person owning such stock which results in the United States person being treated as no longer owning such stock, or
       - **(ii)** any distribution of property in respect of such stock to the person holding such stock,
-    - **(B)** Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
+    - **(B)** Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) 1 1 See References in Text notes below. in respect of stock which the taxpayer is treated as owning under subsection (a).
   - **(6)** Except as provided in regulations, if a taxpayer uses any stock in a passive foreign investment company as security for a loan, the taxpayer shall be treated as having disposed of such stock.
   - **(7)**
     - **(A)** If—
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
 - **(d)** For purposes of this part—
   - **(1)** Any tangible personal property with respect to which a foreign corporation is the lessee under a lease with a term of at least 12 months shall be treated as an asset actually held by such corporation.
   - **(2)**
-    - **(A)** The amount taken into account under section 1297(a)(2) with respect to any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
+    - **(A)** The amount taken into account under section 1296(a)(2) 1 with respect to any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
     - **(B)** For purposes of subparagraph (A), the present value of payments described in subparagraph (A) shall be determined in the manner provided in regulations prescribed by the Secretary—
       - **(i)** as of the beginning of the lease term, and
       - **(ii)** except as provided in such regulations, by using a discount rate equal to the applicable Federal rate determined under section 1274(d)—
@@ -64,10 +65,10 @@ generated_at: "2026-03-30T02:55:27.768Z"
 - **(e)** For purposes of this part—
   - **(1)** The adjusted basis of the total assets of a controlled foreign corporation shall be increased by the research or experimental expenditures (within the meaning of section 174) paid or incurred by such foreign corporation during the taxable year and the preceding 2 taxable years. Any expenditure otherwise taken into account under the preceding sentence shall be reduced by the amount of any reimbursement received by the controlled foreign corporation with respect to such expenditure.
   - **(2)**
-    - **(A)** In the case of any intangible property (as defined in section 367(d)(4)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
+    - **(A)** In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
     - **(B)** Subparagraph (A) shall not apply to—
       - **(i)** any payments to a foreign person if such foreign person is a related person (as defined in section 954(d)(3)) with respect to the controlled foreign corporation, and
-      - **(ii)** any payments under a license if a principal purpose of entering into such license was to avoid the provisions of this part.
+      - **(ii)** any payments under a license if a principal purpose of entering into such license was to avoid the provisons 2 2 So in original. Probably should be “provisions”. of this part.
   - **(3)** For purposes of this subsection, the term “controlled foreign corporation” has the meaning given such term by section 957(a).
 - **(f)** Except as otherwise provided by the Secretary, each United States person who is a shareholder of a passive foreign investment company shall file an annual report containing such information as the Secretary may require.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.

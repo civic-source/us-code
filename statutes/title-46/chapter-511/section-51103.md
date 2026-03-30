@@ -3,9 +3,10 @@ title: "Section 51103 - General authority of Secretary of Transportation"
 usc_title: 46
 usc_section: "51103"
 chapter: 511
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 51103"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-03-30T03:06:27.186Z"
+status: "active"
 ---
 
 # § 51103. General authority of Secretary of Transportation
@@ -23,16 +24,3 @@ generated_at: "2026-03-30T02:56:15.569Z"
 - **(d)** To carry out this part, the Secretary may—
   - **(1)** employ an individual as a professor, lecturer, or instructor at the Academy, without regard to the provisions of title 5 governing appointments in the competitive service; and
   - **(2)** pay the individual without regard to chapter 51 and subchapter III of chapter 53 of title 5.
-- **(e)**
-  - **(1)** The Secretary may convey the right, title, and interest of the United States Government in any property administered by the Maritime Administration, except real estate or vessels, if—
-    - **(A)** the Secretary determines that such property is not needed by the Maritime Administration; and
-    - **(B)** the recipient—
-      - **(i)** is a nonprofit organization, a State, or a political subdivision of a State;
-      - **(ii)** agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos, polychlorinated biphenyls, or lead paint, after conveyance of the property;
-      - **(iii)** provides a description and explanation of the intended use of the property to the Secretary for approval;
-      - **(iv)** has provided to the Secretary proof, as determined by the Secretary, of resources sufficient to accomplish the intended use provided under clause (iii) and to maintain the property;
-      - **(v)** agrees that when the recipient no longer requires the property, the recipient shall—
-        - **(I)** return the property to the Secretary, at the recipient’s expense and in the same condition as received except for ordinary wear and tear; or
-        - **(II)** subject to the approval of the Secretary, retain, sell, or otherwise dispose of the property in a manner consistent with applicable law; and
-      - **(vi)** agrees to any additional terms the Secretary considers appropriate.
-  - **(2)** The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the property has been used other than as approved by the Secretary under paragraph (1)(B)(iii).

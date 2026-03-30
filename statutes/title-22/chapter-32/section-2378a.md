@@ -3,15 +3,16 @@ title: "Section 2378a - Depleted uranium ammunition"
 usc_title: 22
 usc_section: "2378a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2378a"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-03-30T03:04:53.636Z"
+status: "active"
 ---
 
 # § 2378a. Depleted uranium ammunition
 
-- **(a)** Except as provided in subsection (b), none of the funds made available to carry out this chapter or any other Act may be made available to facilitate in any way the sale of M–833 antitank shells or any comparable antitank shells containing a depleted uranium penetrating component to any country other than—
+- **(a)** Except as provided in subsection (b) of this section, none of the funds made available to carry out this chapter or any other Act may be made available to facilitate in any way the sale of M–833 antitank shells or any comparable antitank shells containing a depleted uranium penetrating component to any country other than—
   - **(1)** a country that is a member of the North Atlantic Treaty Organization;
   - **(2)** a country that has been designated as a major non-NATO ally (as defined in section 2403(q) of this title ); or
   - **(3)** Taiwan.
-- **(b)** The prohibition contained in subsection (a) shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
+- **(b)** The prohibition contained in subsection (a) of this section shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.

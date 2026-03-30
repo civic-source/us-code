@@ -3,9 +3,10 @@ title: "Section 1166 - Railroad carrier exercises"
 usc_title: 6
 usc_section: "1166"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "6 U.S.C. § 1166"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-03-30T03:04:24.362Z"
+status: "active"
 ---
 
 # § 1166. Railroad carrier exercises
@@ -30,5 +31,5 @@ generated_at: "2026-03-30T02:53:09.507Z"
     - **(B)** assessed by the Secretary to identify best practices, which shall be shared, as appropriate, with railroad carriers, nonprofit employee organizations that represent railroad carrier employees, Federal, State, local, and tribal officials, governmental and nongovernmental emergency response providers, law enforcement personnel, including railroad carrier and transit police, and other stakeholders; and
     - **(C)** used to develop recommendations, as appropriate, from the Secretary to railroad carriers on remedial action to be taken in response to lessons learned;
   - **(4)** allows for proper advanced notification of communities and local governments in which exercises are held, as appropriate; and
-  - **(5)** assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1) 1 1 So in original. Probably should be “(2)”. .
+  - **(5)** assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1).
 - **(d)** The Secretary shall ensure that the exercise program developed under subsection (c) is a component of the National Exercise Program established under section 748 of this title .

@@ -1,0 +1,21 @@
+---
+title: "Section 7651 - Scope of chapter"
+usc_title: 10
+usc_section: "7651"
+chapter: 655
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 7651"
+generated_at: "2026-03-30T03:04:17.324Z"
+status: "active"
+---
+
+# § 7651. Scope of chapter
+
+- **(a)** This chapter applies to all captures of vessels as prize during war by authority of the United States or adopted and ratified by the President. However, this chapter does not affect the right of the Army or the Air Force, while engaged in hostilities, to capture wherever found and without prize procedure—
+  - **(1)** enemy property; or
+  - **(2)** neutral property used or transported in violation of the obligations of neutrals under international law.
+- **(b)** As used in this chapter—
+  - **(1)** “vessel” includes aircraft; and
+  - **(2)** “master” includes the pilot or other person in command of an aircraft.
+- **(c)** Property seized or taken upon the inland waters of the United States by its naval forces is not maritime prize. All such property shall be delivered promptly to the proper officers of the courts.
+- **(d)** Nothing in this chapter may be construed as contravening any treaty of the United States.

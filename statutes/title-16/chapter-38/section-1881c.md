@@ -3,16 +3,17 @@ title: "Section 1881c - Fisheries research"
 usc_title: 16
 usc_section: "1881c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1881c"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-03-30T03:04:48.586Z"
+status: "active"
 ---
 
 # § 1881c. Fisheries research
 
 - **(a)** The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics and social characteristics of the fisheries.
 - **(b)** Within one year after October 11, 1996 , and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
-  - **(1)** identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c);
+  - **(1)** identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c) of this section;
   - **(2)** indicate goals and timetables for the program described in paragraph (1);
   - **(3)** provide a role for commercial fishermen in such research, including involvement in field testing;
   - **(4)** provide for collection and dissemination, in a timely manner, of complete and accurate information concerning fishing activities, catch, effort, stock assessments, and other research conducted under this section; and
@@ -22,10 +23,4 @@ generated_at: "2026-03-30T02:54:22.995Z"
   - **(2)** Conservation engineering research, including the study of fish behavior and the development and testing of new gear technology and fishing techniques to minimize bycatch and any adverse effects on essential fish habitat and promote efficient harvest of target species.
   - **(3)** Research on the fisheries, including the social, cultural, and economic relationships among fishing vessel owners, crew, United States fish processors, associated shoreside labor, seafood markets and fishing communities.
   - **(4)** Information management research, including the development of a fishery information base and an information management system that will permit the full use of information in the support of effective fishery conservation and management.
-- **(d)** In developing the plan required under subsection (a), the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
-- **(e)**
-  - **(1)** Not later than 1 year after December 31, 2018 , the Secretary shall develop, in consultation with the science and statistical committees of the Councils established under section 1852(g) of this title and the Marine Fisheries Commissions, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on facilitating greater incorporation of data, analysis, stock assessments, and surveys from State agencies and nongovernmental sources described in paragraph (2), to the extent such information is consistent with section 1851(a)(2) of this title , into fisheries management decisions.
-  - **(2)** In developing the report under paragraph (1), the Secretary shall—
-    - **(A)** identify types of data and analysis, especially concerning recreational fishing, that can be used for purposes of this chapter as the basis for establishing conservation and management measures as required by section 1853(a)(1) of this title , including setting standards for the collection and use of that data and analysis in stock assessments and surveys and for other purposes;
-    - **(B)** provide specific recommendations for collecting data and performing analyses identified as necessary to reduce uncertainty in and improve the accuracy of future stock assessments, including whether such data and analysis could be provided by nongovernmental sources; and
-    - **(C)** consider the extent to which the acceptance and use of data and analyses identified in the report in fishery management decisions is practicable and compatible with the requirements of section 1851(a)(2) of this title .
+- **(d)** In developing the plan required under subsection (a) of this section, the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.

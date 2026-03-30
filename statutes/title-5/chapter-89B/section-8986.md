@@ -3,9 +3,10 @@ title: "Section 8986 - Election of coverage"
 usc_title: 5
 usc_section: "8986"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "5 U.S.C. § 8986"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-03-30T03:04:06.115Z"
+status: "active"
 ---
 
 # § 8986. Election of coverage
@@ -19,4 +20,3 @@ generated_at: "2026-03-30T02:52:56.070Z"
     - **(A)** before the start of any contract term in which there is a change in rates charged or benefits provided, in which a new plan is offered, or in which an existing plan is terminated; or
     - **(B)** during other times and under other circumstances specified by the Office.
   - **(2)** A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
-- **(d)** Coverage under a vision benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.

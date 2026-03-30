@@ -3,21 +3,22 @@ title: "Section 1822 - International fishery agreements"
 usc_title: 16
 usc_section: "1822"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 1822"
-generated_at: "2026-03-30T02:54:22.984Z"
+generated_at: "2026-03-30T03:04:48.579Z"
+status: "active"
 ---
 
 # § 1822. International fishery agreements
 
 - **(a)** The Secretary of State—
-  - **(1)** shall renegotiate treaties as provided for in subsection (b);
+  - **(1)** shall renegotiate treaties as provided for in subsection (b) of this section;
   - **(2)** shall negotiate governing international fishery agreements described in section 1821(c) of this title ;
-  - **(3)** may negotiate boundary agreements as provided for in subsection (d);
+  - **(3)** may negotiate boundary agreements as provided for in subsection (d) of this section;
   - **(4)** shall, upon the request of and in cooperation with the Secretary, initiate and conduct negotiations for the purpose of entering into international fishery agreements—
     - **(A)** which allow fishing vessels of the United States equitable access to fish over which foreign nations assert exclusive fishery management authority, and
     - **(B)** which provide for the conservation and management of anadromous species and highly migratory species; and
-  - **(5)** may enter into such other negotiations, not prohibited by subsection (c), as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
+  - **(5)** may enter into such other negotiations, not prohibited by subsection (c) of this section, as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
 - **(b)** The Secretary of State, in cooperation with the Secretary, shall initiate, promptly after April 13, 1976 , the renegotiation of any treaty which pertains to fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977 ), or for anadromous species or Continental Shelf fishery resources beyond such zone or area, and which is in any manner inconsistent with the purposes, policy, or provisions of this chapter, in order to conform such treaty to such purposes, policy, and provisions. It is the sense of Congress that the United States shall withdraw from any such treaty, in accordance with its provisions, if such treaty is not so renegotiated within a reasonable period of time after April 13, 1976 .
 - **(c)** No international fishery agreement (other than a treaty) which pertains to foreign fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977 ), or for anadromous species or Continental Shelf fishery resources beyond such zone or area—
   - **(1)** which is in effect on June 1, 1976 , may thereafter be renewed, extended, or amended; or
@@ -53,3 +54,4 @@ generated_at: "2026-03-30T02:54:22.984Z"
   - **(2)** An international agreement negotiated under this subsection shall be—
     - **(A)** consistent with the policies and purposes of this chapter; and
     - **(B)** subject to approval by Congress under section 1823 of this title .
+  - **(3)** Not later than January 1, 1997 , and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.

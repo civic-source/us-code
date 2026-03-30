@@ -3,9 +3,10 @@ title: "Section 773 - Demonstration and training programs"
 usc_title: 29
 usc_section: "773"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "29 U.S.C. § 773"
-generated_at: "2026-03-30T02:55:18.696Z"
+generated_at: "2026-03-30T03:05:09.685Z"
+status: "active"
 ---
 
 # § 773. Demonstration and training programs
@@ -40,7 +41,7 @@ generated_at: "2026-03-30T02:55:18.696Z"
     - **(A)** To be eligible to receive a grant, or enter into a contract, under paragraph (1), an entity shall be a State vocational rehabilitation agency, community rehabilitation program, Indian tribe or tribal organization, or other public or nonprofit agency or organization, or as the Commissioner determines appropriate, a for-profit organization. The Commissioner may limit competitions to one or more types of organizations described in this subparagraph.
     - **(B)** A grant or contract under paragraph (1) shall contain such terms and conditions as the Commissioner may require.
   - **(3)** An eligible entity that desires to receive a grant, or enter into a contract, under paragraph (1) shall submit an application to the Secretary at such time, in such form, and containing such information and assurances as the Commissioner may require, including, if the Commissioner determines appropriate, a description of how the proposed project or demonstration program—
-    - **(A)** is based on current research findings, which may include research conducted by the National Institute on Disability, Independent Living, and Rehabilitation Research, the National Institutes of Health, and other public or private organizations; and
+    - **(A)** is based on current research findings, which may include research conducted by the National Institute on Disability and Rehabilitation Research, the National Institutes of Health, and other public or private organizations; and
     - **(B)** is of national significance.
   - **(4)** The programs that may be funded under this subsection may include—
     - **(A)** special projects and demonstrations of service delivery;
@@ -51,9 +52,9 @@ generated_at: "2026-03-30T02:55:18.696Z"
     - **(F)** dissemination and utilization activities.
   - **(5)**
     - **(A)** In announcing competitions for grants and contracts under this subsection, the Commissioner shall give priority consideration to—
-      - **(i)** initiatives focused on improving transition from education, including postsecondary education, to employment, particularly in competitive integrated employment, for youth who are individuals with significant disabilities;
+      - **(i)** special projects and demonstration programs of service delivery for adults who are either low-functioning and deaf or low-functioning and hard of hearing;
       - **(ii)** supported employment, including community-based supported employment programs to meet the needs of individuals with the most significant disabilities or to provide technical assistance to States and community organizations to improve and expand the provision of supported employment services; and
-      - **(iii)** increasing competitive integrated employment for individuals with significant disabilities.
+      - **(iii)** model transitional planning services for youths with disabilities.
     - **(B)** In announcing competitions for grants and contracts under this subsection, the Commissioner may require that applicants address one or more of the following:
       - **(i)** Age ranges.
       - **(ii)** Types of disabilities.
@@ -62,10 +63,11 @@ generated_at: "2026-03-30T02:55:18.696Z"
       - **(v)** Stage of the rehabilitation process.
       - **(vi)** The needs of underserved populations, unserved and underserved areas, individuals with significant disabilities, low-incidence disability population or individuals residing in federally designated empowerment zones and enterprise communities.
       - **(vii)** Expansion of employment opportunities for individuals with disabilities.
-      - **(viii)** Systems change projects to promote meaningful access of individuals with disabilities to employment-related services under subtitle B of title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151 et seq.] and under other Federal laws.
+      - **(viii)** Systems change projects to promote meaningful access of individuals with disabilities to employment-related services under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.] and under other Federal laws.
       - **(ix)** Innovative methods of promoting achievement of high-quality employment outcomes.
       - **(x)** The demonstration of the effectiveness of early intervention activities in improving employment outcomes.
       - **(xi)** Alternative methods of providing affordable transportation services to individuals with disabilities who are employed, seeking employment, or receiving vocational rehabilitation services from public or private organizations and who reside in geographic areas in which public transportation or paratransit service is not available.
+  - **(6)** The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (as such sections were in effect on the day before August 7, 1998 ).
 - **(c)**
   - **(1)** The Commissioner is authorized to make grants to private nonprofit organizations for the purpose of establishing programs to provide training and information to enable individuals with disabilities, and the parents, family members, guardians, advocates, or other authorized representatives of the individuals to participate more effectively with professionals in meeting the vocational, independent living, and rehabilitation needs of individuals with disabilities. Such grants shall be designed to meet the unique training and information needs of the individuals described in the preceding sentence, who live in the area to be served, particularly those who are members of populations that have been unserved or underserved by programs under this chapter.
   - **(2)** An organization that receives a grant to establish training and information programs under this subsection shall use the grant to assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals—
@@ -73,16 +75,15 @@ generated_at: "2026-03-30T02:55:18.696Z"
     - **(B)** to provide followup support for transition and employment programs;
     - **(C)** to communicate more effectively with transition and rehabilitation personnel and other relevant professionals;
     - **(D)** to provide support in the development of the individualized plan for employment;
-    - **(E)** to provide support and expertise in obtaining information about rehabilitation and independent living programs, services, and resources that are appropriate;
-    - **(F)** to provide support and guidance in helping individuals with significant disabilities, including students with disabilities, transition to competitive integrated employment; and
-    - **(G)** to understand the provisions of this chapter, particularly provisions relating to employment, supported employment, and independent living.
+    - **(E)** to provide support and expertise in obtaining information about rehabilitation and independent living programs, services, and resources that are appropriate; and
+    - **(F)** to understand the provisions of this chapter, particularly provisions relating to employment, supported employment, and independent living.
   - **(3)** The Commissioner shall ensure that grants under this subsection—
     - **(A)** shall be distributed geographically to the greatest extent possible throughout all States; and
     - **(B)** shall be targeted to individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, in both urban and rural areas or on a State or regional basis.
   - **(4)** In order to receive a grant under this subsection, an organization—
     - **(A)** shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require, including information demonstrating the capacity and expertise of the organization—
       - **(i)** to coordinate training and information activities with Centers for Independent Living;
-      - **(ii)** to coordinate and work closely with the parent training and information centers established pursuant to section 1471 of title 20 , the community parent resource centers established pursuant to section 1472 of title 20 , and the eligible entities receiving awards under section 1473 of title 20 ; and
+      - **(ii)** to coordinate and work closely with parent training and information centers established pursuant to section 1471 of title 20 ; and
       - **(iii)** to effectively conduct the training and information activities authorized under this subsection;
     - **(B)**
       - **(i)** shall be governed by a board of directors—
@@ -91,13 +92,12 @@ generated_at: "2026-03-30T02:55:18.696Z"
       - **(ii)**
         - **(I)** shall have a membership that represents the interests of individuals with disabilities; and
         - **(II)** shall establish a special governing committee that meets the requirements specified in subclauses (I) and (II) of clause (i) to operate a training and information program under this subsection; and
-    - **(C)** shall serve, and demonstrate the capacity for serving, individuals with a full range of disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals.
+    - **(C)** shall serve individuals with a full range of disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals.
   - **(5)** Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, located in the jurisdiction served by the program.
   - **(6)** The Commissioner shall provide coordination and technical assistance by grant or cooperative agreement for establishing, developing, and coordinating the training and information programs. To the extent practicable, such assistance shall be provided by the parent training and information centers established pursuant to section 1471 of title 20 .
   - **(7)**
     - **(A)** The board of directors or special governing committee of an organization receiving a grant under this subsection shall meet at least once in each calendar quarter to review the training and information program, and each such committee shall directly advise the governing board regarding the views and recommendations of the committee.
     - **(B)** If a nonprofit private organization requests the renewal of a grant under this subsection, the board of directors or the special governing committee shall prepare and submit to the Commissioner a written review of the training and information program conducted by the organization during the preceding fiscal year.
-  - **(8)** From the amount appropriated to carry out this section for a fiscal year, 20 percent of such amount or $500,000, whichever is less, may be reserved to carry out paragraph (6).
 - **(d)**
   - **(1)** The Commissioner shall make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations, including institutions of higher education, to pay all or part of the cost of training in the use of braille for personnel providing vocational rehabilitation services or educational services to youth and adults who are blind.
   - **(2)** Such grants shall be used for the establishment or continuation of projects that may provide—
@@ -105,4 +105,4 @@ generated_at: "2026-03-30T02:55:18.696Z"
     - **(B)** in-service or pre-service training in the use of braille, the importance of braille literacy, and methods of teaching braille to youth and adults who are blind; and
     - **(C)** activities to promote knowledge and use of braille and nonvisual access technology for blind youth and adults through a program of training, demonstration, and evaluation conducted with leadership of experienced blind individuals, including the use of comprehensive, state-of-the-art technology.
   - **(3)** To be eligible to receive a grant, or enter into a contract, under paragraph (1), an agency or organization shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require.
-- **(e)** For the purpose of carrying out this section there are authorized to be appropriated $5,796,000 for fiscal year 2015, $6,244,000 for fiscal year 2016, $6,373,000 for fiscal year 2017, $6,515,000 for fiscal year 2018, $6,668,000 for fiscal year 2019, and $6,809,000 for fiscal year 2020.
+- **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.

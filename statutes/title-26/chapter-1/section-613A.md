@@ -3,9 +3,10 @@ title: "Section 613A - Limitations on percentage depletion in case of oil and ga
 usc_title: 26
 usc_section: "613A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 613A"
-generated_at: "2026-03-30T02:55:27.721Z"
+generated_at: "2026-03-30T03:05:18.613Z"
+status: "active"
 ---
 
 # § 613A. Limitations on percentage depletion in case of oil and gas wells
@@ -54,9 +55,12 @@ generated_at: "2026-03-30T02:55:27.721Z"
     - **(G)** For purposes of this subsection—
       - **(i)** the taxpayer’s average daily marginal production of domestic crude oil or natural gas for any taxable year shall be determined by dividing the taxpayer’s aggregate marginal production of domestic crude oil or natural gas, as the case may be, during the taxable year by the number of days in such taxable year, and
       - **(ii)** in the case of a taxpayer holding a partial interest in the production from any property (including any interest held in any partnership), such taxpayer’s production shall be considered to be that amount of such production determined by multiplying the total production of such property by the taxpayer’s percentage participation in the revenues from such property.
+    - **(H)** The second sentence of subsection (a) of section 613 shall not apply to so much of the allowance for depletion as is determined under subparagraph (A) for any taxable year—
+      - **(i)** beginning after December 31, 1997 , and before January 1, 2008 , or
+      - **(ii)** beginning after December 31, 2008 , and before January 1, 2012 .
   - **(7)**
     - **(A)** If the taxpayer’s average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer’s oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
-    - **(B)** If the taxpayer’s average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer’s natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as the amount of his depletable natural gas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
+    - **(B)** If the taxpayer’s average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayers 1 1 So in original. Probably should be “taxpayer’s”. natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as the amount of his depletable natural gas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
     - **(C)** If both oil and gas are produced from the property during the taxable year, for purposes of subparagraphs (A) and (B) the taxable income from the property, in applying the taxable income limitation in section 613(a), shall be allocated between the oil production and the gas production in proportion to the gross income during the taxable year from each.
     - **(D)** In the case of a partnership, the depletion allowance shall be computed separately by the partners and not by the partnership. The partnership shall allocate to each partner his proportionate share of the adjusted basis of each partnership oil or gas property. The allocation is to be made as of the later of the date of acquisition of the oil or gas property by the partnership, or January 1, 1975 . A partner’s proportionate share of the adjusted basis of partnership property shall be determined in accordance with his interest in partnership capital or income and, in the case of property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share. Each partner shall separately keep records of his share of the adjusted basis in each oil and gas property of the partnership, adjust such share of the adjusted basis for any depletion taken on such property, and use such adjusted basis each year in the computation of his cost depletion or in the computation of his gain or loss on the disposition of such property by the partnership. For purposes of section 732 (relating to basis of distributed property other than money), the partnership’s adjusted basis in mineral property shall be an amount equal to the sum of the partners’ adjusted basis in such property as determined under this paragraph.
   - **(8)**
@@ -76,7 +80,7 @@ generated_at: "2026-03-30T02:55:27.721Z"
 - **(d)**
   - **(1)** The deduction for the taxable year attributable to the application of subsection (c) shall not exceed 65 percent of the taxpayer’s taxable income for the year computed without regard to—
     - **(A)** any depletion on production from an oil or gas property which is subject to the provisions of subsection (c),
-    - **(B)** any deduction allowable under section 199A,
+    - **(B)** any deduction allowable under section 199,
     - **(C)** any net operating loss carryback to the taxable year under section 172,
     - **(D)** any capital loss carryback to the taxable year under section 1212, and
     - **(E)** in the case of a trust, any distributions to its beneficiary, except in the case of any trust where any beneficiary of such trust is a member of the family (as defined in section 267(c)(4)) of a settlor who created inter vivos and testamentary trusts for members of the family and such settlor died within the last six days of the fifth month in 1970, and the law in the jurisdiction in which such trust was created requires all or a portion of the gross or net proceeds of any royalty or other interest in oil, gas, or other mineral representing any percentage depletion allowance to be allocated to the principal of the trust.

@@ -3,9 +3,10 @@ title: "Section 5604 - Penalties relating to marks, brands, and containers"
 usc_title: 26
 usc_section: "5604"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 5604"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-03-30T03:05:18.704Z"
+status: "active"
 ---
 
 # § 5604. Penalties relating to marks, brands, and containers

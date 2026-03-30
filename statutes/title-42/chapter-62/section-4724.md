@@ -3,9 +3,10 @@ title: "Section 4724 - Intergovernmental cooperation in recruiting and examining
 usc_title: 42
 usc_section: "4724"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4724"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-03-30T03:06:22.716Z"
+status: "active"
 ---
 
 # § 4724. Intergovernmental cooperation in recruiting and examining activities; potential employees, certification; payments for costs; credits to appropriation or fund for payment of expenses

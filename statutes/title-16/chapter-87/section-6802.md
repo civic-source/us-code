@@ -3,9 +3,10 @@ title: "Section 6802 - Recreation fee authority"
 usc_title: 16
 usc_section: "6802"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 6802"
-generated_at: "2026-03-30T02:54:23.067Z"
+generated_at: "2026-03-30T03:04:48.638Z"
+status: "active"
 ---
 
 # § 6802. Recreation fee authority
@@ -92,68 +93,4 @@ generated_at: "2026-03-30T02:54:23.067Z"
       - **(v)** Attendants, including lifeguards.
       - **(vi)** Floats encompassing the swimming area.
       - **(vii)** Swimming deck.
-- **(h)**
-  - **(1)**
-    - **(A)** The Secretary—
-      - **(i)** may develop and make available to the public an application to obtain a special recreation permit described in clause (i) of section 6801(13)(A) of this title ; and
-      - **(ii)** shall develop and make available to the public an application to obtain a special recreation permit described in each of clauses (ii) through (iv) of section 6801(13)(A) of this title .
-    - **(B)** On review of a completed application developed under subparagraph (A), as applicable, and a determination by the Secretary that the applicant is eligible for the special recreation permit, the Secretary may issue to the applicant a special recreation permit, subject to any terms and conditions that are determined to be necessary by the Secretary.
-    - **(C)** A special recreation permit issued under this paragraph may include an authorization for sales that are incidental in nature to the permitted use of the Federal recreational lands and waters, except where otherwise prohibited by law.
-  - **(2)**
-    - **(A)** The Secretary may charge a special recreation permit fee for the issuance of a special recreation permit in accordance with this paragraph.
-    - **(B)**
-      - **(i)** For purposes of subparagraphs (D) and (E) of this paragraph, the Secretary shall establish and may charge a predetermined fee, described in clause (ii) of this subparagraph, for a special recreation permit described in clause (iii) or (iv) of section 6801(13)(A) of this title for a specific type of use on a unit of Federal recreational lands and waters, consistent with the criteria set forth in clause (iii) of this subparagraph.
-      - **(ii)** A predetermined fee described in clause (i) shall be—
-        - **(I)** a fixed fee that is assessed per special recreation permit, including a fee with an associated size limitation or other criteria as determined to be appropriate by the Secretary; or
-        - **(II)** an amount assessed per visitor-use day.
-      - **(iii)** A predetermined fee under clause (i) shall—
-        - **(I)** have been established before January 4, 2025 ;
-        - **(II)** be established after January 4, 2025 , in accordance with subsection (b);
-        - **(III)**
-        - **(IV)** beginning on the date that is 2 years after January 4, 2025 , be $6 per visitor-use day in instances in which the Secretary has not established a predetermined fee under subclause (I), (II), or (III).
-    - **(C)** The Secretary may, at the discretion of the Secretary, establish and charge a fee for a special recreation permit described in clause (i) or (ii) of section 6801(13)(A) of this title .
-    - **(D)** If the Secretary elects to charge a fee for a special recreation permit described in section 6801(13)(A)(iii) of this title , the Secretary shall charge the recreation service provider, based on the election of the recreation service provider—
-      - **(i)** the applicable predetermined fee established under subparagraph (B); or
-      - **(ii)** an amount equal to a percentage of, to be determined by the Secretary, but to not to exceed 5 percent of, adjusted gross receipts calculated under subparagraph (F).
-    - **(E)** Subject to subparagraph (G), if the Secretary elects to charge a fee for a special recreation permit described in section 6801(13)(A)(iv) of this title , the Secretary shall charge the recreation service provider, based on the election of the recreation service provider—
-      - **(i)** the applicable predetermined fee established under subparagraph (B); or
-      - **(ii)** an amount equal to a percentage of, to be determined by the Secretary, but not to exceed 3 percent of, adjusted gross receipts calculated under subparagraph (F).
-    - **(F)** For the purposes of subparagraphs (D)(ii) and (E)(ii), the Secretary shall calculate the adjusted gross receipts collected for each trip or event authorized under a special recreation permit, using either of the following calculations, based on the election of the recreation service provider:
-      - **(i)** The sum of—
-        - **(I)** the product obtained by multiplying—
-        - **(II)** the amount of any additional revenue received by the recreation service provider for an add-on activity or an optional excursion that occurred on the Federal recreational lands and waters covered by the special recreation permit.
-      - **(ii)** The difference between—
-        - **(I)** the total cost paid by the participants of the trip or event for the trip or event to the recreation service provider, including any additional revenue received by the recreation service provider for an add-on activity or an optional excursion that occurred on the Federal recreational lands and waters covered by the special recreation permit; and
-        - **(II)** the sum of—
-    - **(G)** Notwithstanding subparagraph (E), the Secretary may charge a recreation service provider a minimum annual fee for a special recreation permit described in section 6801(13)(A)(iv) of this title .
-    - **(H)**
-      - **(i)** Nothing in this paragraph affects any fee for—
-        - **(I)** a concession contract administered by the National Park Service or the United States Fish and Wildlife Service for the provision of accommodations, facilities, or services; or
-        - **(II)** a commercial use authorization or special use permit for use of Federal recreational lands and waters managed by the National Park Service.
-      - **(ii)** Nothing in this paragraph affects the ability of the Secretary to recover any administrative costs under section 8549 of this title .
-      - **(iii)** The collection of a special recreation permit fee under this paragraph shall not affect the authority of the Secretary to collect an entrance fee, a standard amenity recreation fee, or an expanded amenity recreation fee authorized under subsections (e), (f), and (g).
-- **(i)**
-  - **(1)**
-    - **(A)** The Secretary shall post clear notice of any entrance fee, standard amenity recreation fee, expanded amenity recreation fee, and available recreation passes—
-      - **(i)** at appropriate locations in each unit or area of Federal recreational land and waters at which an entrance fee, standard amenity recreation fee, or expanded amenity recreation fee is charged; and
-      - **(ii)** on the appropriate website for such unit or area.
-    - **(B)** The Secretary shall include in publications distributed at a unit or area or described in subparagraph (A) the notice described in that subparagraph.
-  - **(2)** Beginning on January 1, 2026 , the Secretary shall annually post, at the location at which a recreation fee described in paragraph (1)(A) is collected, clear notice of—
-    - **(A)** the total recreation fees collected during each of the 2 preceding fiscal years at the respective unit or area of the Federal land management agency; and
-    - **(B)** each use during the preceding fiscal year of the applicable recreation fee or recreation pass revenues collected under this section.
-  - **(3)** To the extent practicable, the Secretary shall post clear notice at the location at which work is performed using recreation fee and recreation pass revenues collected under this section.
-  - **(4)**
-    - **(A)** Not later than January 1, 2025 , and not later than 60 days after the beginning of each fiscal year thereafter, the Secretary shall post on the website of the applicable Federal land management agency a searchable list of each use during the preceding fiscal year of the recreation fee or recreation pass revenues collected under this section.
-    - **(B)** The list required under subparagraph (A) shall include, with respect to each use described in that subparagraph—
-      - **(i)** a title and description of the overall project;
-      - **(ii)** a title and description for each component of the project;
-      - **(iii)** the location of the project; and
-      - **(iv)** the amount obligated for the project.
-  - **(5)** A recreation service provider may inform a customer of the recreation service provider of any fee charged by the Secretary under this section.
-- **(j)**
-  - **(1)** In addition to providing onsite payment methods, the Secretaries may collect payment online for—
-    - **(A)** entrance fees under subsection (e);
-    - **(B)** standard amenity recreation fees under subsection (f);
-    - **(C)** expanded amenity recreation fees under subsection (g); and
-    - **(D)** special recreation permit fees.
-  - **(2)** An online payment collected under paragraph (1) that is associated with a specific unit or area of a Federal land management agency shall be distributed in accordance with section 6804(c) of this title .
+- **(h)** The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.

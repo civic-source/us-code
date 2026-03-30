@@ -3,9 +3,10 @@ title: "Section 3203 - Eligible articles"
 usc_title: 19
 usc_section: "3203"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 3203"
-generated_at: "2026-03-30T02:54:24.689Z"
+generated_at: "2026-03-30T03:04:42.050Z"
+status: "active"
 ---
 
 # § 3203. Eligible articles
@@ -93,7 +94,7 @@ generated_at: "2026-03-30T02:54:24.689Z"
       - **(i)** Any importer that claims preferential treatment under paragraph (1), (3), or (4) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
       - **(ii)**
         - **(I)** In order to qualify for the preferential treatment under paragraph (1), (3), or (4) and for a Certificate of Origin to be valid with respect to any article for which such treatment is claimed, there shall be in effect a determination by the President that each country described in subclause (II)—
-    - **(II)** A country is described in this subclause if it is an ATPDEA beneficiary country—
+        - **(II)** A country is described in this subclause if it is an ATPDEA beneficiary country—
     - **(B)** The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (1), (3), or (4) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
     - **(C)** The United States Commissioner of Customs shall conduct a study analyzing the extent to which each ATPDEA beneficiary country—
       - **(i)** has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices, exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;

@@ -3,9 +3,10 @@ title: "Section 4856 - Reports of Secretary of Housing and Urban Development"
 usc_title: 42
 usc_section: "4856"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 4856"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-03-30T03:06:22.718Z"
+status: "active"
 ---
 
 # § 4856. Reports of Secretary of Housing and Urban Development
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
   - **(1)** sets forth the Secretary’s assessment of the progress made in implementing the various programs authorized by this chapter;
   - **(2)** summarizes the most current health and environmental studies on childhood lead poisoning, including studies that analyze the relationship between interim control and abatement activities and the incidence of lead poisoning in resident children;
   - **(3)** recommends legislative and administrative initiatives that may improve the performance by the Department of Housing and Urban Development in combating lead hazards through the expansion of lead hazard evaluation and reduction activities;
-  - **(4)** describes the results of research carried out in accordance with subchapter III; and
+  - **(4)** describes the results of research carried out in accordance with subchapter III of this chapter; and
   - **(5)** estimates the amount of Federal assistance annually expended on lead hazard evaluation and reduction activities.
 - **(b)**
   - **(1)** 24 months after October 28, 1992 , and at the end of every 24-month period thereafter, the Secretary shall report to the Congress on the progress of the Department of Housing and Urban Development in implementing expanded lead-based paint hazard evaluation and reduction activities.

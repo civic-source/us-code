@@ -3,23 +3,13 @@ title: "Section 1488 - Removal of remains"
 usc_title: 10
 usc_section: "1488"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 1488"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-03-30T03:04:17.258Z"
+status: "active"
 ---
 
 # § 1488. Removal of remains
 
-- **(a)** If a cemetery on a military reservation, including an installation cemetery, has been or is to be discontinued, the Secretary concerned may provide for the removal of remains from that cemetery to any other cemetery.
-- **(b)** With respect to any deceased member of an armed force under the jurisdiction of the Secretary concerned whose last service terminated honorably by death or otherwise, the Secretary may also provide for the removal of the remains from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
-- **(c)**
-  - **(1)** The Secretary of the Army may authorize the removal of the remains of a covered member of the armed forces who is buried in an Army National Military Cemetery from the Army National Military Cemetery for transfer to any other cemetery.
-  - **(2)** The Secretary of the Army, with the concurrence of the Secretary of Veterans Affairs, may authorize the removal of the remains of a covered member of the armed forces who is buried in a cemetery of the National Cemetery System from that cemetery for transfer to any Army National Military Cemetery.
-  - **(3)** A removal of remains may not be authorized under this subsection unless the individual seeking the removal of the remains—
-    - **(A)** demonstrates to the satisfaction of the Secretary of the Army that the member of the armed forces concerned has no known next of kin or other person who is interested in maintaining the place of burial; and
-    - **(B)** undertakes full responsibility for all expenses of the removal of the remains and the reburial of the remains at another cemetery as authorized by this subsection.
-  - **(4)** In this subsection:
-    - **(A)** The term “Army National Military Cemetery” means a cemetery specified in section 7721(b) of this title .
-    - **(B)** The term “covered member of the armed forces” means a member of the armed forces who—
-      - **(i)** has been awarded the Medal of Honor; and
-      - **(ii)** has no known next of kin.
+If a cemetery on a military reservation, including an installation cemetery, has been or is to be discontinued, the Secretary concerned may provide for the removal of remains from that cemetery to any other cemetery. With respect to any deceased member of an armed force under his jurisdiction whose last service terminated honorably by death or otherwise, the Secretary may also provide for the removal of the remains from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
+

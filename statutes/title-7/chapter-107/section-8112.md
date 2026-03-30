@@ -1,12 +1,27 @@
 ---
-title: "Section 8112 - Repealed. Pub. L. 113–79, title IX, § 9011 , Feb. 7, 2014 , 128 Stat. 938"
+title: "Section 8112 - Forest biomass for energy"
 usc_title: 7
 usc_section: "8112"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 8112"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-03-30T03:04:21.032Z"
+status: "active"
 ---
 
-# § 8112. Repealed. Pub. L. 113–79, title IX, § 9011 , Feb. 7, 2014 , 128 Stat. 938
+# § 8112. Forest biomass for energy
 
+- **(a)** The Secretary, acting through the Forest Service, shall conduct a competitive research and development program to encourage use of forest biomass for energy.
+- **(b)** Entities eligible to compete under the program under this section include—
+  - **(1)** the Forest Service (acting through Research and Development);
+  - **(2)** other Federal agencies;
+  - **(3)** State and local governments;
+  - **(4)** Indian tribes;
+  - **(5)** land-grant colleges and universities; and
+  - **(6)** private entities.
+- **(c)** In carrying out this section, the Secretary shall give priority to projects that—
+  - **(1)** develop technology and techniques to use low-value forest biomass, such as byproducts of forest health treatments and hazardous fuels reduction, for the production of energy;
+  - **(2)** develop processes that integrate production of energy from forest biomass into biorefineries or other existing manufacturing streams;
+  - **(3)** develop new transportation fuels from forest biomass; and
+  - **(4)** improve the growth and yield of trees intended for renewable energy production.
+- **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 through 2013.

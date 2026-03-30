@@ -3,12 +3,13 @@ title: "Section 2827 - Relocation of military family housing units"
 usc_title: 10
 usc_section: "2827"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2827"
-generated_at: "2026-03-30T02:53:38.178Z"
+generated_at: "2026-03-30T03:04:17.302Z"
+status: "active"
 ---
 
 # § 2827. Relocation of military family housing units
 
 - **(a)** Subject to subsection (b), the Secretary concerned may relocate existing military family housing units from any location where the number of such units exceeds requirements for military family housing to any military installation where there is a housing shortage.
-- **(b)** A contract to carry out a relocation of military family housing units under subsection (a) may be awarded only after the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress notice of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation.
+- **(b)** A contract to carry out a relocation of military family housing units under subsection (a) may not be awarded until (1) the Secretary concerned has notified the appropriate committees of Congress of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation, and (2) a period of 21 days has elapsed after the notification has been received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .

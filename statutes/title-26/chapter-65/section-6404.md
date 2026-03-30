@@ -3,9 +3,10 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T02:55:27.851Z"
+generated_at: "2026-03-30T03:05:18.727Z"
+status: "active"
 ---
 
 # § 6404. Abatements
@@ -14,7 +15,7 @@ generated_at: "2026-03-30T02:55:27.851Z"
   - **(1)** is excessive in amount, or
   - **(2)** is assessed after the expiration of the period of limitation properly applicable thereto, or
   - **(3)** is erroneously or illegally assessed.
-- **(b)** No claim for abatement shall be filed by a taxpayer in respect of an assessment of any tax imposed under subtitle A or B.
+- **(b)** No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
 - **(c)** The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
 - **(d)** In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 - **(e)**
@@ -29,6 +30,7 @@ generated_at: "2026-03-30T02:55:27.851Z"
   - **(2)** Paragraph (1) shall apply only if—
     - **(A)** the written advice was reasonably relied upon by the taxpayer and was in response to a specific written request of the taxpayer, and
     - **(B)** the portion of the penalty or addition to tax did not result from a failure by the taxpayer to provide adequate or accurate information.
+  - **(3)** Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.
 - **(g)**
   - **(1)**
     - **(A)** In the case of an individual who files a return of tax imposed by subtitle A for a taxable year on or before the due date for the return (including extensions), if the Secretary does not provide a notice to the taxpayer specifically stating the taxpayer’s liability and the basis for the liability before the close of the 36-month period beginning on the later of—
@@ -40,17 +42,13 @@ generated_at: "2026-03-30T02:55:27.851Z"
     - **(B)** any interest, penalty, addition to tax, or additional amount in a case involving fraud;
     - **(C)** any interest, penalty, addition to tax, or additional amount with respect to any tax liability shown on the return;
     - **(D)** any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
-    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(3)(A) is not met and any listed transaction (as defined in 6707A(c)); or
+    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) 1 1 See References in Text note below. is not met and any listed transaction (as defined in 6707A(c)); or
     - **(F)** any criminal penalty.
   - **(3)** For purposes of this subsection, the term “suspension period” means the period—
     - **(A)** beginning on the day after the close of the 36-month period under paragraph (1); and
     - **(B)** ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
 - **(h)**
-  - **(1)** The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
-    - **(A)** at any time after the earlier of—
-      - **(i)** the date of the mailing of the Secretary’s final determination not to abate such interest, or
-      - **(ii)** the date which is 180 days after the date of the filing with the Secretary (in such form as the Secretary may prescribe) of a claim for abatement under this section, and
-    - **(B)** not later than the date which is 180 days after the date described in subparagraph (A)(i).
+  - **(1)** The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.
   - **(2)**
     - **(A)** Rules similar to the rules of section 6213 shall apply for purposes of determining the date of the mailing referred to in paragraph (1).
     - **(B)** Rules similar to the rules of section 6512(b) shall apply for purposes of this subsection.

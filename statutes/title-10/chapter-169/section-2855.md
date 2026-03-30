@@ -3,15 +3,18 @@ title: "Section 2855 - Law applicable to contracts for architectural and enginee
 usc_title: 10
 usc_section: "2855"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2855"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-03-30T03:04:17.303Z"
+status: "active"
 ---
 
 # § 2855. Law applicable to contracts for architectural and engineering services and construction design
 
 - **(a)** Contracts for architectural and engineering services and construction design in connection with a military construction project or a military family housing project shall be awarded in accordance with chapter 11 of title 40.
 - **(b)**
-  - **(1)** In the case of a contract referred to in subsection (a), if the Secretary concerned estimates that the initial award of the contract will be in an amount less than the threshold amount determined under paragraph (2), the contract shall be awarded in accordance with the set aside provisions of the Small Business Act ( 15 U.S.C. 631 et seq.).
-  - **(2)** The threshold amount under paragraph (1) is $1,000,000.
+  - **(1)** In the case of a contract referred to in subsection (a)—
+    - **(A)** if the Secretary concerned estimates that the initial award of the contract will be in an amount greater than or equal to the threshold amount determined under paragraph (2), the contract may not be set aside exclusively for award to small business concerns; and
+    - **(B)** if the Secretary concerned estimates that the initial award of the contract will be in an amount less than the threshold amount determined under paragraph (2), the contract shall be awarded in accordance with the set aside provisions of the Small Business Act ( 15 U.S.C. 631 et seq.).
+  - **(2)** The initial threshold amount under paragraph (1) is $300,000. The Secretary of Defense may revise that amount in order to ensure that small business concerns receive a reasonable share of contracts referred to in subsection (a).
   - **(3)** This subsection does not restrict the award of contracts to small business concerns under section 8(a) of the Small Business Act ( 15 U.S.C. 637(a) ).

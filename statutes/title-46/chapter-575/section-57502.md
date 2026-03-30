@@ -3,9 +3,10 @@ title: "Section 57502 - Construction, reconditioning, and remodeling of vessels"
 usc_title: 46
 usc_section: "57502"
 chapter: 575
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "46 U.S.C. § 57502"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-03-30T03:06:27.194Z"
+status: "active"
 ---
 
 # § 57502. Construction, reconditioning, and remodeling of vessels

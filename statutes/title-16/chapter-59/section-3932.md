@@ -3,9 +3,10 @@ title: "Section 3932 - Reports to Congress"
 usc_title: 16
 usc_section: "3932"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "16 U.S.C. § 3932"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-03-30T03:04:48.618Z"
+status: "active"
 ---
 
 # § 3932. Reports to Congress
@@ -13,7 +14,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
 - **(a)** The Secretary, in consultation and cooperation with the Secretary of Agriculture, shall prepare and submit to the committees—
   - **(1)** by March 30, 1987 , a report regarding the status, condition, and trends of wetlands in the lower Mississippi alluvial plain and the prairie pothole regions of the United States; and
   - **(2)** by September 30, 1987 , a report regarding trends of wetlands in all other areas of the United States.
-- **(b)** The reports required under subsection (a) shall contain—
+- **(b)** The reports required under subsection (a) of this section shall contain—
   - **(1)** an analysis of the factors responsible for wetlands destruction, degradation, protection and enhancement;
   - **(2)** a compilation and analysis of Federal statutory and regulatory mechanisms, including expenditures, financial assistance, and tax provisions which—
     - **(A)** induce wetlands destruction or degradation; or

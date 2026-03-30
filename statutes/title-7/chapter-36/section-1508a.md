@@ -3,9 +3,10 @@ title: "Section 1508a - Double insurance and prevented planting"
 usc_title: 7
 usc_section: "1508a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "7 U.S.C. § 1508a"
-generated_at: "2026-03-30T02:53:42.321Z"
+generated_at: "2026-03-30T03:04:20.928Z"
+status: "active"
 ---
 
 # § 1508a. Double insurance and prevented planting
@@ -15,7 +16,7 @@ generated_at: "2026-03-30T02:53:42.321Z"
   - **(2)** The term “second crop” means a second crop of the same agricultural commodity as the first crop, or a crop of a different agricultural commodity following the first crop, planted on the same acreage as the first crop for harvest in the same crop year, except the term does not include a replanted crop.
   - **(3)** The term “replanted crop” means any agricultural commodity replanted on the same acreage as the first crop for harvest in the same crop year if the replanting is required by the terms of the policy of insurance covering the first crop.
 - **(b)**
-  - **(1)** Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
+  - **(1)** Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
     - **(A)** The producer may—
       - **(i)** elect to not plant a second crop on the same acreage for harvest in the same crop year; and
       - **(ii)** collect an indemnity payment that is equal to 100 percent of the insurable loss for the first crop.
@@ -31,7 +32,7 @@ generated_at: "2026-03-30T02:53:42.321Z"
       - **(i)** the full premium owed by the producer for the first crop; less
       - **(ii)** the amount of premium previously paid under subparagraph (A).
 - **(c)**
-  - **(1)** Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
+  - **(1)** Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
     - **(A)** The producer may—
       - **(i)** elect to not plant a second crop on the same acreage for harvest in the same crop year; and
       - **(ii)** subject to paragraph (4), collect an indemnity payment that is equal to 100 percent of the prevented planting guarantee for the acreage for the first crop.
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:53:42.321Z"
       - **(i)** plant a second crop on the same acreage for harvest in the same crop year; and
       - **(ii)** subject to paragraphs (4) and (5), collect an indemnity payment established by the Corporation for the first crop, but not to exceed 35 percent of the prevented planting guarantee for the acreage for the first crop.
   - **(2)** If the producer makes an election under paragraph (1)(B), the producer shall pay a premium for the first crop that is commensurate with the indemnity paid under paragraph (1)(B)(ii). The Corporation shall adjust the total premium for the first crop to reflect the reduced indemnity.
-  - **(3)** Except in the case of double cropping described in subsection (d), if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer’s actual production history for the agricultural commodity involved, for purposes of determining the producer’s actual production history for subsequent crop years.
+  - **(3)** Except in the case of double cropping described in subsection (d) of this section, if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer’s actual production history for the agricultural commodity involved, for purposes of determining the producer’s actual production history for subsequent crop years.
   - **(4)** The Corporation shall limit prevented planting payments for producers to those situations in which other producers, in the area where a first crop is prevented from being planted is located, are also generally affected by the conditions that prevented the first crop from being planted.
   - **(5)** If a producer plants the second crop before the latest planting date established by the Corporation for the first crop, the Corporation shall not make a prevented planting payment with regard to the first crop.
 - **(d)** A producer may receive full indemnity payments on two or more crops planted for harvest in the same crop year and insured under this subchapter if each of the following conditions are met:
@@ -47,4 +48,4 @@ generated_at: "2026-03-30T02:53:42.321Z"
   - **(2)** An additional coverage policy or plan of insurance is offered with respect to the agricultural commodities planted on the same acreage for harvest in the same crop year in the area.
   - **(3)** The producer has a history of planting two or more crops for harvest in the same crop year or the applicable acreage has historically had two or more crops planted for harvest in the same crop year.
   - **(4)** The second or more crops are customarily planted after the first crop for harvest on the same acreage in the same year in the area.
-- **(e)** Except in the case of double cropping described in subsection (d), if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under section 7333 of this title , for the subsequent crop.
+- **(e)** Except in the case of double cropping described in subsection (d) of this section, if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under section 7333 of this title , for the subsequent crop.

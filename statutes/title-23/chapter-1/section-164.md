@@ -3,53 +3,45 @@ title: "Section 164 - Minimum penalties for repeat offenders for driving while i
 usc_title: 23
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "23 U.S.C. § 164"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-03-30T03:04:51.160Z"
+status: "active"
 ---
 
 # § 164. Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence
 
 - **(a)** In this section, the following definitions apply:
-  - **(1)** The term “24-7 sobriety program” has the meaning given the term in section 405(d)(7)(A).
-  - **(2)** The term “alcohol concentration” means grams of alcohol per 100 milliliters of blood or grams of alcohol per 210 liters of breath.
-  - **(3)** The terms “driving while intoxicated” and “driving under the influence” mean driving or being in actual physical control of a motor vehicle while having an alcohol concentration above the permitted limit as established by each State.
-  - **(4)** The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated solely on a rail line or a commercial vehicle.
-  - **(5)** The term “repeat intoxicated driver law” means a State law or combination of laws or programs that provides, as a minimum penalty, that an individual convicted of a second or subsequent offense for driving while intoxicated or driving under the influence after a previous conviction for that offense shall—
-    - **(A)** receive, for a period of not less than 1 year—
-      - **(i)** a suspension of all driving privileges;
-      - **(ii)** a restriction on driving privileges that limits the individual to operating only motor vehicles with an ignition interlock device installed, unless a special exception applies;
-      - **(iii)** a restriction on driving privileges that limits the individual to operating motor vehicles only if participating in, and complying with, a 24-7 sobriety program; or
-      - **(iv)** any combination of clauses (i) through (iii);
-    - **(B)** receive an assessment of the individual’s degree of abuse of alcohol and treatment as appropriate; and
-    - **(C)** receive—
+  - **(1)** The term “alcohol concentration” means grams of alcohol per 100 milliliters of blood or grams of alcohol per 210 liters of breath.
+  - **(2)** The terms “driving while intoxicated” and “driving under the influence” mean driving or being in actual physical control of a motor vehicle while having an alcohol concentration above the permitted limit as established by each State.
+  - **(3)** The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated solely on a rail line or a commercial vehicle.
+  - **(4)** The term “repeat intoxicated driver law” means a State law that provides, as a minimum penalty, that an individual convicted of a second or subsequent offense for driving while intoxicated or driving under the influence after a previous conviction for that offense shall—
+    - **(A)** receive—
+      - **(i)** a suspension of all driving privileges for not less than 1 year; or
+      - **(ii)** a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;
+    - **(B)** be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;
+    - **(C)** receive an assessment of the individual’s degree of abuse of alcohol and treatment as appropriate; and
+    - **(D)** receive—
       - **(i)** in the case of the second offense—
         - **(I)** an assignment of not less than 30 days of community service; or
-        - **(II)** not less than 5 days of imprisonment (unless the State certifies that the general practice is that such an individual will be incarcerated); and
+        - **(II)** not less than 5 days of imprisonment; and
       - **(ii)** in the case of the third or subsequent offense—
         - **(I)** an assignment of not less than 60 days of community service; or
-        - **(II)** not less than 10 days of imprisonment (unless the State certifies that the general practice is that such an individual will receive 10 days of incarceration).
-  - **(6)** The term “special exception” means an exception under a State alcohol-ignition interlock law for the following circumstances:
-    - **(A)** The individual is required to operate an employer’s motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.
-    - **(B)** The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device.
+        - **(II)** not less than 10 days of imprisonment.
 - **(b)**
   - **(1)** On October 1, 2000 , and October 1, 2001 , if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) 1 1 See References in Text note below. to the apportionment of the State under section 402—
-    - **(A)** to be used for alcohol- or multiple substance-impaired driving countermeasures; or
-    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated, driving while multiple substance-impaired, or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol- or multiple substance-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
+    - **(A)** to be used for alcohol-impaired driving countermeasures; or
+    - **(B)** to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
   - **(2)**
-    - **(A)**
-      - **(i)** On October 1, 2021 , and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
-      - **(ii)** A State referred to in clause (i) is a State—
-        - **(I)** that has not enacted or is not enforcing a repeat intoxicated driver law; and
-        - **(II)** for which the Secretary determined for the prior fiscal year that the State had not enacted or was not enforcing a repeat intoxicated driver law.
-    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A)(i), the Secretary shall—
+    - **(A)** On October 1, 2011 , and each October 1 thereafter, if a State has not enacted or is not enforcing a repeat intoxicated driver law, the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the States will use those reserved funds among the uses authorized under subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
+    - **(B)** As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
       - **(i)** transfer the reserved funds identified by the State for use as described in subparagraphs (A) and (B) of paragraph (1) to the apportionment of the State under section 402; and
       - **(ii)** release the reserved funds identified by the State as described in paragraph (3).
   - **(3)**
-    - **(A)** A State may elect to use all or a portion of the funds reserved under paragraph (2) for activities eligible under section 148.
+    - **(A)** A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
     - **(B)** If the State makes an election under subparagraph (A), the funds shall be transferred to the department of transportation of the State, which shall be responsible for the administration of the funds.
   - **(4)** The Federal share of the cost of a project carried out with funds transferred under paragraph (1) or (2), or used under paragraph (3), shall be 100 percent.
-  - **(5)** The amount to be transferred or released under paragraph (2) may be derived from the following:
+  - **(5)** The amount to be transferred under paragraph (2) may be derived from the following:
     - **(A)** The apportionment of the State under section 104(b)(1).
     - **(B)** The apportionment of the State under section 104(b)(2).
   - **(6)**

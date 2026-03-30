@@ -3,9 +3,10 @@ title: "Section 908 - Annual report"
 usc_title: 32
 usc_section: "908"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "32 U.S.C. § 908"
-generated_at: "2026-03-30T02:55:31.867Z"
+generated_at: "2026-03-30T03:05:20.389Z"
+status: "active"
 ---
 
 # § 908. Annual report
@@ -16,4 +17,3 @@ generated_at: "2026-03-30T02:55:31.867Z"
   - **(2)** A description of the homeland defense activities conducted with funds provided under this chapter.
   - **(3)** An accounting of the amount of the funds provided to each State.
   - **(4)** A description of the effect on military training and readiness of using units and personnel of the National Guard to perform homeland defense activities under this chapter.
-  - **(5)** A description of the effect of any equipment shortfall on the ability of the National Guard of a State to perform a homeland defense activity.

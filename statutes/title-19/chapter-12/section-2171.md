@@ -3,9 +3,10 @@ title: "Section 2171 - Structure, functions, powers, and personnel"
 usc_title: 19
 usc_section: "2171"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "19 U.S.C. § 2171"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-03-30T03:04:42.031Z"
+status: "active"
 ---
 
 # § 2171. Structure, functions, powers, and personnel
@@ -13,12 +14,8 @@ generated_at: "2026-03-30T02:54:24.665Z"
 - **(a)** There is established within the Executive Office of the President the Office of the United States Trade Representative (hereinafter in this section referred to as the “Office”).
 - **(b)**
   - **(1)** The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
-  - **(2)** There shall be in the Office three Deputy United States Trade Representatives, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator, who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
-  - **(3)** There shall be in the Office one Chief Transparency Officer. The Chief Transparency Officer shall consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the United States Trade Representative on transparency policy.
-  - **(4)** A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18 ) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
-  - **(5)**
-    - **(A)** When the President submits to the Senate for its advice and consent a nomination of an individual for appointment as a Deputy United States Trade Representative under paragraph (2), the President shall include in that submission information on the country, regional offices, and functions of the Office of the United States Trade Representative with respect to which that individual will have responsibility.
-    - **(B)** The President shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not less than 30 days prior to making any change to the responsibilities of any Deputy United States Trade Representative included in a submission under subparagraph (A), including the reason for that change.
+  - **(2)** There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
+  - **(3)** A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18 ) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
 - **(c)**
   - **(1)** The United States Trade Representative shall—
     - **(A)** have primary responsibility for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters, and, to the extent they are related to international trade policy, direct investment matters;
@@ -39,10 +36,9 @@ generated_at: "2026-03-30T02:54:24.665Z"
     - **(B)** authorize such successive redelegations of such functions, powers, and duties to such officers and employees of the Office as he may deem appropriate.
   - **(4)** Each Deputy United States Trade Representative shall have as his principal function the conduct of trade negotiations under this chapter and shall have such other functions as the United States Trade Representative may direct.
   - **(5)** The principal function of the Chief Agricultural Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States agricultural products and services. The Chief Agricultural Negotiator shall be a vigorous advocate on behalf of United States agricultural interests. The Chief Agricultural Negotiator shall perform such other functions as the United States Trade Representative may direct.
-  - **(6)** The principal functions of the Chief Innovation and Intellectual Property Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States intellectual property and to take appropriate actions to address acts, policies, and practices of foreign governments that have a significant adverse impact on the value of United States innovation. The Chief Innovation and Intellectual Property Negotiator shall be a vigorous advocate on behalf of United States innovation and intellectual property interests. The Chief Innovation and Intellectual Property Negotiator shall perform such other functions as the United States Trade Representative may direct.
 - **(d)**
-  - **(1)** In carrying out subsection (c) with respect to unfair trade practices, the United States Trade Representative shall—
-    - **(A)** coordinate the application of interagency resources, including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h), to specific unfair trade practice cases;
+  - **(1)** In carrying out subsection (c) of this section with respect to unfair trade practices, the United States Trade Representative shall—
+    - **(A)** coordinate the application of interagency resources to specific unfair trade practice cases;
     - **(B)** identify, and refer to the appropriate Federal department or agency for consideration with respect to action, each act, policy, or practice referred to in the report required under section 2241(b) of this title , or otherwise known to the United States Trade Representative on the basis of other available information, that may be an unfair trade practice that either—
       - **(i)** is considered to be inconsistent with the provisions of any trade agreement and has a significant adverse impact on United States commerce, or
       - **(ii)** has a significant adverse impact on domestic firms or industries that are either too small or financially weak to initiate proceedings under the trade laws;
@@ -81,13 +77,3 @@ generated_at: "2026-03-30T02:54:24.665Z"
       - **(ii)** not to exceed $1,000,000 shall remain available until expended.
   - **(2)** For the fiscal year beginning October 1, 1982 , and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
   - **(3)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
-- **(h)**
-  - **(1)** There is established in the Office of the United States Trade Representative an Interagency Center on Trade Implementation, Monitoring, and Enforcement (in this section referred to as the “Center”).
-  - **(2)** The Center shall support the activities of the United States Trade Representative in—
-    - **(A)** investigating potential disputes under the auspices of the World Trade Organization;
-    - **(B)** investigating potential disputes pursuant to bilateral and regional trade agreements to which the United States is a party;
-    - **(C)** carrying out the functions of the United States Trade Representative under this section with respect to the monitoring and enforcement of trade agreements to which the United States is a party; and
-    - **(D)** monitoring measures taken by parties to implement provisions of trade agreements to which the United States is a party.
-  - **(3)**
-    - **(A)** The head of the Center shall be a Director, who shall be appointed by the United States Trade Representative.
-    - **(B)** A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Center without any reimbursement from the Center to support the functions of the Center.

@@ -3,9 +3,10 @@ title: "Section 45J - Credit for production from advanced nuclear power faciliti
 usc_title: 26
 usc_section: "45J"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 45J"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-03-30T03:05:18.528Z"
+status: "active"
 ---
 
 # § 45J. Credit for production from advanced nuclear power facilities
@@ -21,17 +22,7 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(B)** the total megawatt nameplate capacity of such facility.
   - **(2)** The aggregate amount of national megawatt capacity limitation allocated by the Secretary under paragraph (3) shall not exceed 6,000 megawatts.
   - **(3)** The Secretary shall allocate the national megawatt capacity limitation in such manner as the Secretary may prescribe.
-  - **(4)** Not later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.
-  - **(5)**
-    - **(A)** Any unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020 —
-      - **(i)** first to facilities placed in service on or before such date to the extent that such facilities did not receive an allocation equal to their full nameplate capacity, and
-      - **(ii)** then to facilities placed in service after such date in the order in which such facilities are placed in service.
-    - **(B)** The term “unutilized national megawatt capacity limitation” means the excess (if any) of—
-      - **(i)** 6,000 megawatts, over
-      - **(ii)** the aggregate amount of national megawatt capacity limitation allocated by the Secretary before January 1, 2021 , reduced by any amount of such limitation which was allocated to a facility which was not placed in service before such date.
-    - **(C)** In the case of any unutilized national megawatt capacity limitation allocated by the Secretary pursuant to this paragraph—
-      - **(i)** such allocation shall be treated for purposes of this section in the same manner as an allocation of national megawatt capacity limitation, and
-      - **(ii)** subsection (d)(1)(B) shall not apply to any facility which receives such allocation.
+  - **(4)** Not later than 6 months after the date of the enactment of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.
 - **(c)**
   - **(1)** The amount of the credit allowable under subsection (a) (after the application of subsection (b)) for any taxable year with respect to any facility shall not exceed an amount which bears the same ratio to $125,000,000 as—
     - **(A)** the national megawatt capacity limitation allocated under subsection (b) to the facility, bears to
@@ -46,25 +37,4 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(A)** which is owned by the taxpayer and which uses nuclear energy to produce electricity, and
     - **(B)** which is placed in service after the date of the enactment of this paragraph and before January 1, 2021 .
   - **(2)** For purposes of paragraph (1), the term “advanced nuclear facility” means any nuclear facility the reactor design for which is approved after December 31, 1993 , by the Nuclear Regulatory Commission (and such design or a substantially similar design of comparable capacity was not approved on or before such date).
-- **(e)**
-  - **(1)** If, with respect to a credit under subsection (a) for any taxable year—
-    - **(A)** a qualified public entity would be the taxpayer (but for this paragraph), and
-    - **(B)** such entity elects the application of this paragraph for such taxable year with respect to all (or any portion specified in such election) of such credit,
-  - **(2)** For purposes of this subsection—
-    - **(A)** The term “qualified public entity” means—
-      - **(i)** a Federal, State, or local government entity, or any political subdivision, agency, or instrumentality thereof,
-      - **(ii)** a mutual or cooperative electric company described in section 501(c)(12) or 1381(a)(2), or
-      - **(iii)** a not-for-profit electric utility which had or has received a loan or loan guarantee under the Rural Electrification Act of 1936.
-    - **(B)** The term “eligible project partner” means any person who—
-      - **(i)** is responsible for, or participates in, the design or construction of the advanced nuclear power facility to which the credit under subsection (a) relates,
-      - **(ii)** participates in the provision of the nuclear steam supply system to such facility,
-      - **(iii)** participates in the provision of nuclear fuel to such facility,
-      - **(iv)** is a financial institution providing financing for the construction or operation of such facility, or
-      - **(v)** has an ownership interest in such facility.
-  - **(3)**
-    - **(A)** In the case of a credit under subsection (a) which is determined at the partnership level—
-      - **(i)** for purposes of paragraph (1)(A), a qualified public entity shall be treated as the taxpayer with respect to such entity’s distributive share of such credit, and
-      - **(ii)** the term “eligible project partner” shall include any partner of the partnership.
-    - **(B)** In the case of any credit (or portion thereof) with respect to which an election is made under paragraph (1), such credit shall be taken into account in the first taxable year of the eligible project partner ending with, or after, the qualified public entity’s taxable year with respect to which the credit was determined.
-    - **(C)** For purposes of section 141(b)(1), any benefit derived by an eligible project partner in connection with an election under this subsection shall not be taken into account as a private business use.
-- **(f)** Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.
+- **(e)** Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.

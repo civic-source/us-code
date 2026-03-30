@@ -3,9 +3,10 @@ title: "Section 9674 - Purchasing groups"
 usc_title: 42
 usc_section: "9674"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9674"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-03-30T03:06:22.856Z"
+status: "active"
 ---
 
 # § 9674. Purchasing groups
@@ -19,7 +20,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(6)** A State law, rule, or order which requires that a certain percentage of a purchasing group must obtain insurance on a group basis.
   - **(7)** A State law, rule, or order which requires that any insurance policy issued to a purchasing group or any members of the group be countersigned by an insurance agent or broker residing in that State.
   - **(8)** A State law, rule, or order which otherwise discriminate 1 1 So in original. Probably should be “discriminates”. against a purchasing group or any of its members.
-- **(b)** The exemptions specified in subsection (a) apply to the following:
+- **(b)** The exemptions specified in subsection (a) of this section apply to the following:
   - **(1)** Pollution liability insurance, and comprehensive general liability insurance which includes this coverage, provided to—
     - **(A)** a purchasing group; or
     - **(B)** any person who is a member of a purchasing group.

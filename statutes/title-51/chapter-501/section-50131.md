@@ -3,14 +3,15 @@ title: "Section 50131 - Requirement to procure commercial space transportation s
 usc_title: 51
 usc_section: "50131"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "51 U.S.C. § 50131"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-03-30T03:06:49.075Z"
+status: "active"
 ---
 
 # § 50131. Requirement to procure commercial space transportation services
 
-- **(a)** Except as otherwise provided in this section or in section 70102, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+- **(a)** Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
 - **(b)** The Federal Government shall not be required to acquire space transportation services under subsection (a) if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
   - **(1)** a payload requires the unique capabilities of the space shuttle;
   - **(2)** cost effective space transportation services that meet specific mission requirements would not be reasonably available from United States commercial providers when required;

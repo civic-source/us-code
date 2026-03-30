@@ -3,9 +3,10 @@ title: "Section 5904 - Recognition of agents and attorneys generally"
 usc_title: 38
 usc_section: "5904"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "38 U.S.C. § 5904"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-03-30T03:05:59.225Z"
+status: "active"
 ---
 
 # § 5904. Recognition of agents and attorneys generally
@@ -36,8 +37,8 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(8)** has charged excessive or unreasonable fees, as determined by the Secretary in accordance with subsection (c)(3)(A); or
   - **(9)** has failed to comply with any other condition specified in regulations prescribed by the Secretary for purposes of this subsection.
 - **(c)**
-  - **(1)** Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a claimant is provided notice of the agency of original jurisdiction’s initial decision under section 5104 of this title with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
-  - **(2)** A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a claimant is provided notice of the agency of original jurisdiction’s initial decision under section 5104 of this title with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
+  - **(1)** Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
+  - **(2)** A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a notice of disagreement is filed with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
   - **(3)**
     - **(A)** The Secretary may, upon the Secretary’s own motion or at the request of the claimant, review a fee agreement filed pursuant to paragraph (2) and may order a reduction in the fee called for in the agreement if the Secretary finds that the fee is excessive or unreasonable.
     - **(B)** A finding or order of the Secretary under subparagraph (A) may be reviewed by the Board of Veterans’ Appeals under section 7104 of this title .

@@ -3,12 +3,13 @@ title: "Section 3057l - Administration"
 usc_title: 42
 usc_section: "3057l"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 3057l"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-03-30T03:06:22.683Z"
+status: "active"
 ---
 
 # § 3057l. Administration
 
-In establishing regulations for the purpose of part A the Assistant Secretary shall consult with the Secretary of the Interior.
+In establishing regulations for the purpose of part A of this subchapter the Assistant Secretary shall consult with the Secretary of the Interior.
 

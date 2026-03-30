@@ -3,9 +3,10 @@ title: "Section 919a - Art. 119a. Death or injury of an unborn child"
 usc_title: 10
 usc_section: "919a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 919a"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-03-30T03:04:17.234Z"
+status: "active"
 ---
 
 # § 919a. Art. 119a. Death or injury of an unborn child
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:53:38.086Z"
       - **(ii)** the accused intended to cause the death of, or bodily injury to, the unborn child.
   - **(3)** If the person engaging in the conduct thereby intentionally kills or attempts to kill the unborn child, that person shall, instead of being punished under paragraph (1), be punished as provided under sections 880, 918, and 919(a) of this title (articles 80, 118, and 119(a)) for intentionally killing or attempting to kill a human being.
   - **(4)** Notwithstanding any other provision of law, the death penalty shall not be imposed for an offense under this section.
-- **(b)** The provisions referred to in subsection (a) are sections 918, 919(a), 919(b)(2), 920(a), 922, 926, 928, and 928a of this title (articles 118, 119(a), 119(b)(2), 120(a), 122, 126, 128, and 128a).
+- **(b)** The provisions referred to in subsection (a) are sections 918, 919(a), 919(b)(2), 920(a), 922, 924, 926, and 928 of this title (articles 118, 119(a), 119(b)(2), 120(a), 122, 124, 126, and 128).
 - **(c)** Nothing in this section shall be construed to permit the prosecution—
   - **(1)** of any person for conduct relating to an abortion for which the consent of the pregnant woman, or a person authorized by law to act on her behalf, has been obtained or for which such consent is implied by law;
   - **(2)** of any person for any medical treatment of the pregnant woman or her unborn child; or

@@ -3,9 +3,10 @@ title: "Section 7505 - Regulations"
 usc_title: 31
 usc_section: "7505"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "31 U.S.C. § 7505"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-03-30T03:05:28.373Z"
+status: "active"
 ---
 
 # § 7505. Regulations
@@ -19,4 +20,3 @@ generated_at: "2026-03-30T02:55:34.076Z"
     - **(B)** more than a reasonably proportionate share of the cost of any such audit that is conducted in accordance with this chapter.
   - **(2)** The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit the percentage of the cost of audits performed pursuant to this chapter charged to Federal awards, to exceed the ratio of total Federal awards expended by such non-Federal entity during the applicable fiscal year or years, to such non-Federal entity’s total expenditures during such fiscal year or years.
 - **(c)** Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
-- **(d)** Such guidance shall require audit-related information reported under this chapter to be reported in an electronic form in accordance with the data standards established under chapter 64.

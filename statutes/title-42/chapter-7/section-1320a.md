@@ -3,9 +3,10 @@ title: "Section 1320a - Uniform reporting systems for health services facilities
 usc_title: 42
 usc_section: "1320a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1320a"
-generated_at: "2026-03-30T02:56:10.908Z"
+generated_at: "2026-03-30T03:06:22.470Z"
+status: "active"
 ---
 
 # § 1320a. Uniform reporting systems for health services facilities and organizations
@@ -17,7 +18,7 @@ generated_at: "2026-03-30T02:56:10.908Z"
   - **(4)** Capital assets, as defined by the Secretary, including (as appropriate) capital funds, debt service, lease agreements used in lieu of capital funds, and the value of land, facilities, and equipment.
   - **(5)** Discharge and bill data.
 - **(b)** The Secretary shall—
-  - **(1)** monitor the operation of the systems established under subsection (a);
+  - **(1)** monitor the operation of the systems established under subsection (a) of this section;
   - **(2)** assist with and support demonstrations and evaluations of the effectiveness and cost of the operation of such systems and encourage State adoption of such systems; and
   - **(3)** periodically revise such systems to improve their effectiveness and diminish their cost.
-- **(c)** The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300 l –4 1 1 See References in Text note below. of this title) and State health planning and development agencies (designated under section 300m 1 of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
+- **(c)** The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) of this section in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300 l –4 1 1 See References in Text note below. of this title) and State health planning and development agencies (designated under section 300m 1 of this title), as may be necessary to carry out such agencies’ and organizations’ functions.

@@ -3,9 +3,10 @@ title: "Section 164 - Commanders of combatant commands: assignment; powers and d
 usc_title: 10
 usc_section: "164"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 164"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-03-30T03:04:17.215Z"
+status: "active"
 ---
 
 # § 164. Commanders of combatant commands: assignment; powers and duties
@@ -13,20 +14,13 @@ generated_at: "2026-03-30T02:53:38.042Z"
 - **(a)**
   - **(1)** The President may assign an officer to serve as the commander of a unified or specified combatant command only if the officer—
     - **(A)** has the joint specialty under section 661 of this title ; and
-    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(d) of this title ) as a general or flag officer.
+    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title ) as a general or flag officer.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
-  - **(3)**
-    - **(A)** If the President removes an officer assigned under paragraph (1) to serve as the commander of a unified or specified combatant command or transfers that officer to another position or location before the expected end of the officer’s service as a combatant commander, the President shall, not later than five days after the removal or transfer takes effect, submit to Congress, including the congressional defense committees, notice that the officer is being removed or transferred and a statement of the reason for the removal or transfer.
-    - **(B)** Nothing in this paragraph prohibits a personnel action authorized by another provision of law.
 - **(b)**
   - **(1)** The commander of a combatant command is responsible to the President and to the Secretary of Defense for the performance of missions assigned to that command by the President or by the Secretary with the approval of the President.
   - **(2)** Subject to the direction of the President, the commander of a combatant command—
     - **(A)** performs his duties under the authority, direction, and control of the Secretary of Defense; and
     - **(B)** is directly responsible to the Secretary for the preparedness of the command to carry out missions assigned to the command.
-  - **(3)** Among the full range of command responsibilities specified in subsection (c) and as provided for in section 161 of this title , the primary duties of the commander of a combatant command shall be as follows:
-    - **(A)** To produce plans for the employment of the armed forces to execute national defense strategies and respond to significant military contingencies.
-    - **(B)** To take actions, as necessary, to deter conflict.
-    - **(C)** To command United States armed forces as directed by the Secretary and approved by the President.
 - **(c)**
   - **(1)** Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
     - **(A)** giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
@@ -53,11 +47,7 @@ generated_at: "2026-03-30T02:53:38.042Z"
   - **(3)** The commander of a combatant command shall—
     - **(A)** evaluate the duty performance of each commander of a command directly subordinate to the commander of such combatant command; and
     - **(B)** submit the evaluation to the Secretary of the military department concerned and the Chairman of the Joint Chiefs of Staff.
-  - **(4)**
-    - **(A)** At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be—
-      - **(i)** a qualified officer of a reserve component who is eligible for promotion to the grade of lieutenant general or, in the case of the Navy, vice admiral; or
-      - **(ii)** a qualified officer of the Space Force whose prior service includes service in a space force active status other than sustained duty and who is eligible for promotion to the grade of lieutenant general.
-    - **(B)** The requirement in subparagraph (A) does not apply when the officer serving as commander of the combatant command described in that subparagraph is (i) a reserve component officer, or (ii) an officer of the Space Force whose prior service includes service in a space force active status other than sustained duty.
+  - **(4)** At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of the National Guard who is eligible for promotion to the grade of O–9, unless a National Guard officer is serving as commander of that combatant command.
 - **(f)**
   - **(1)** Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
   - **(2)** An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
@@ -65,4 +55,3 @@ generated_at: "2026-03-30T02:53:38.042Z"
     - **(B)** in accordance with procedures established by the Secretary of Defense.
   - **(3)** The Secretary of Defense may waive the requirement under paragraph (2) for the concurrence of the commander of a combatant command with regard to the assignment (or recommendation for assignment) of a particular officer to serve on the staff of the combatant command if the Secretary of Defense determines that such action is in the national interest.
 - **(g)** In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
-- **(h)** The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title .

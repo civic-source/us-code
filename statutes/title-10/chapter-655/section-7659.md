@@ -1,0 +1,20 @@
+---
+title: "Section 7659 - Libel and proceedings by United States attorney"
+usc_title: 10
+usc_section: "7659"
+chapter: 655
+current_through: "PL 113-21"
+classification: "10 U.S.C. § 7659"
+generated_at: "2026-03-30T03:04:17.324Z"
+status: "active"
+---
+
+# § 7659. Libel and proceedings by United States attorney
+
+- **(a)** Upon receiving the report of the prize master directed by section 7658 of this title , the United States attorney for the district shall promptly—
+  - **(1)** file a libel against the prize property;
+  - **(2)** obtain a warrant from the court directing the marshal to take custody of the prize property; and
+  - **(3)** proceed to obtain a condemnation of the property.
+- **(b)** In connection with the condemnation proceedings the United States attorney shall insure that the prize commissioners—
+  - **(1)** take proper preparatory evidence; and
+  - **(2)** take depositions de bene esse of the prize crew and of other transient persons who know any facts bearing on condemnation.

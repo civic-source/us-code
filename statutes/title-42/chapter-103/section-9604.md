@@ -3,9 +3,10 @@ title: "Section 9604 - Response authorities"
 usc_title: 42
 usc_section: "9604"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 9604"
-generated_at: "2026-03-30T02:56:11.355Z"
+generated_at: "2026-03-30T03:06:22.847Z"
+status: "active"
 ---
 
 # § 9604. Response authorities
@@ -28,11 +29,11 @@ generated_at: "2026-03-30T02:56:11.355Z"
   - **(4)** The President shall select remedial actions to carry out this section in accordance with section 9621 of this title (relating to cleanup standards).
   - **(5)**
     - **(A)** The President shall grant a State a credit against the share of the costs, for which it is responsible under paragraph (3) with respect to a facility listed on the National Priorities List under the National Contingency Plan, for amounts expended by a State for remedial action at such facility pursuant to a contract or cooperative agreement with the President. The credit under this paragraph shall be limited to those State expenses which the President determines to be reasonable, documented, direct out-of-pocket expenditures of non-Federal funds.
-    - **(B)** The credit under this paragraph shall include expenses for remedial action at a facility incurred before the listing of the facility on the National Priorities List or before a contract or cooperative agreement is entered into under subsection (d) for the facility if—
+    - **(B)** The credit under this paragraph shall include expenses for remedial action at a facility incurred before the listing of the facility on the National Priorities List or before a contract or cooperative agreement is entered into under subsection (d) of this section for the facility if—
       - **(i)** after such expenses are incurred the facility is listed on such list and a contract or cooperative agreement is entered into for the facility, and
       - **(ii)** the President determines that such expenses would have been credited to the State under subparagraph (A) had the expenditures been made after listing of the facility on such list and after the date on which such contract or cooperative agreement is entered into.
     - **(C)** The credit under this paragraph shall include funds expended or obligated by the State or a political subdivision thereof after January 1, 1978 , and before December 11, 1980 , for cost-eligible response actions and claims for damages compensable under section 9611 of this title .
-    - **(D)** The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) and only to expenses incurred after December 11, 1980 , but before October 17, 1986 .
+    - **(D)** The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980 , but before October 17, 1986 .
     - **(E)** In the case of expenditures made after October 17, 1986 , the President may require prior approval of each item of expenditure as a condition of granting a credit under this paragraph.
     - **(F)** Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costs at other facilities in that State. A credit shall not entitle the State to any direct payment.
   - **(6)** For the purposes of paragraph (3) of this subsection, in the case of ground or surface water contamination, completed remedial action includes the completion of treatment or other measures, whether taken onsite or offsite, necessary to restore ground and surface water quality to a level that assures protection of human health and the environment. With respect to such measures, the operation of such measures for a period of up to 10 years after the construction or installation and commencement of operation shall be considered remedial action. Activities required to maintain the effectiveness of such measures following such period or the completion of remedial action, whichever is earlier, shall be considered operation or maintenance.
@@ -52,7 +53,7 @@ generated_at: "2026-03-30T02:56:11.355Z"
   - **(3)** Where a State or a political subdivision thereof is acting in behalf of the President, the President is authorized to provide technical and legal assistance in the administration and enforcement of any contract or subcontract in connection with response actions assisted under this subchapter, and to intervene in any civil action involving the enforcement of such contract or subcontract.
   - **(4)** Where two or more noncontiguous facilities are reasonably related on the basis of geography, or on the basis of the threat, or potential threat to the public health or welfare or the environment, the President may, in his discretion, treat these related facilities as one for purposes of this section.
 - **(e)**
-  - **(1)** Any officer, employee, or representative of the President, duly designated by the President, is authorized to take action under paragraph (2), (3), or (4) (or any combination thereof) at a vessel, facility, establishment, place, property, or location or, in the case of paragraph (3) or (4), at any vessel, facility, establishment, place, property, or location which is adjacent to the vessel, facility, establishment, place, property, or location referred to in such paragraph (3) or (4). Any duly designated officer, employee, or representative of a State or political subdivision under a contract or cooperative agreement under subsection (d)(1) is also authorized to take such action. The authority of paragraphs (3) and (4) may be exercised only if there is a reasonable basis to believe there may be a release or threat of release of a hazardous substance or pollutant or contaminant. The authority of this subsection may be exercised only for the purposes of determining the need for response, or choosing or taking any response action under this subchapter, or otherwise enforcing the provisions of this subchapter.
+  - **(1)** Any officer, employee, or representative of the President, duly designated by the President, is authorized to take action under paragraph (2), (3), or (4) (or any combination thereof) at a vessel, facility, establishment, place, property, or location or, in the case of paragraph (3) or (4), at any vessel, facility, establishment, place, property, or location which is adjacent to the vessel, facility, establishment, place, property, or location referred to in such paragraph (3) or (4). Any duly designated officer, employee, or representative of a State or political subdivision under a contract or cooperative agreement under subsection (d)(1) of this section is also authorized to take such action. The authority of paragraphs (3) and (4) may be exercised only if there is a reasonable basis to believe there may be a release or threat of release of a hazardous substance or pollutant or contaminant. The authority of this subsection may be exercised only for the purposes of determining the need for response, or choosing or taking any response action under this subchapter, or otherwise enforcing the provisions of this subchapter.
   - **(2)** Any officer, employee, or representative described in paragraph (1) may require any person who has or may have information relevant to any of the following to furnish, upon reasonable notice, information or documents relating to such matter:
     - **(A)** The identification, nature, and quantity of materials which have been or are generated, treated, stored, or disposed of at a vessel or facility or transported to a vessel or facility.
     - **(B)** The nature or extent of a release or threatened release of a hazardous substance or pollutant or contaminant at or from a vessel or facility.
@@ -92,7 +93,7 @@ generated_at: "2026-03-30T02:56:11.355Z"
       - **(viii)** Any groundwater monitoring data.
 - **(f)** In awarding contracts to any person engaged in response actions, the President or the State, in any case where it is awarding contracts pursuant to a contract entered into under subsection (d) of this section, shall require compliance with Federal health and safety standards established under section 9651(f) of this title by contractors and subcontractors as a condition of such contracts.
 - **(g)**
-  - **(1)** All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section or section 9628(a)(1)(B)(ii)(III) of this title shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
+  - **(1)** All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
   - **(2)** The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267 ) and section 3145 of title 40 .
 - **(h)** Notwithstanding any other provision of law, subject to the provisions of section 9611 of this title , the President may authorize the use of such emergency procurement powers as he deems necessary to effect the purpose of this chapter. Upon determination that such procedures are necessary, the President shall promulgate regulations prescribing the circumstances under which such authority shall be used and the procedures governing the use of such authority.
 - **(i)**
@@ -166,12 +167,8 @@ generated_at: "2026-03-30T02:56:11.355Z"
     - **(D)** a regional council or group of general purpose units of local government;
     - **(E)** a redevelopment agency that is chartered or otherwise sanctioned by a State;
     - **(F)** a State;
-    - **(G)** an Indian Tribe other than in Alaska;
-    - **(H)** an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 and following) and the Metlakatla Indian community;
-    - **(I)** an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of that title;
-    - **(J)** a limited liability corporation in which all managing members are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I);
-    - **(K)** a limited partnership in which all general partners are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I); or
-    - **(L)** a qualified community development entity (as defined in section 45D(c)(1) of title 26 ).
+    - **(G)** an Indian Tribe other than in Alaska; or
+    - **(H)** an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 and following) and the Metlakatla Indian community.
   - **(2)**
     - **(A)** The Administrator shall establish a program to—
       - **(i)** provide grants to inventory, characterize, assess, and conduct planning related to brownfield sites under subparagraph (B); and
@@ -179,11 +176,10 @@ generated_at: "2026-03-30T02:56:11.355Z"
     - **(B)**
       - **(i)** On approval of an application made by an eligible entity, the Administrator may make a grant to the eligible entity to be used for programs to inventory, characterize, assess, and conduct planning related to one or more brownfield sites.
       - **(ii)** A site characterization and assessment carried out with the use of a grant under clause (i) shall be performed in accordance with section 9601(35)(B) of this title .
-    - **(C)** Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant under this paragraph for property acquired by that eligible entity prior to January 11, 2002 , even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
   - **(3)**
-    - **(A)** Subject to paragraphs (5) and (6), the President shall establish a program to provide grants to—
+    - **(A)** Subject to paragraphs (4) and (5), the President shall establish a program to provide grants to—
       - **(i)** eligible entities, to be used for capitalization of revolving loan funds; and
-      - **(ii)** eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site.
+      - **(ii)** eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $200,000 for each site to be remediated.
     - **(B)** An eligible entity that receives a grant under subparagraph (A)(i) shall use the grant funds to provide assistance for the remediation of brownfield sites in the form of—
       - **(i)** one or more loans to an eligible entity, a site owner, a site developer, or another person; or
       - **(ii)** one or more grants to an eligible entity or other nonprofit organization, where warranted, as determined by the eligible entity that is providing the assistance, based on considerations under subparagraph (C), to remediate sites owned by the eligible entity or nonprofit organization that receives the grant.
@@ -194,19 +190,7 @@ generated_at: "2026-03-30T02:56:11.355Z"
       - **(iv)** the benefit of promoting the long-term availability of funds from a revolving loan fund for brownfield remediation; and
       - **(v)** such other similar factors as the Administrator considers appropriate to consider for the purposes of this subsection.
     - **(D)** Revolving loan funds that have been established before January 11, 2002 , may be used in accordance with this paragraph.
-    - **(E)** Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant or loan under this paragraph for property acquired by that eligible entity prior to January 11, 2002 , even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
   - **(4)**
-    - **(A)** Subject to subparagraph (D) and paragraphs (5) and (6), the Administrator shall establish a program to provide multipurpose grants to an eligible entity based on the criteria under subparagraph (C) and the considerations under paragraph (3)(C), to carry out inventory, characterization, assessment, planning, or remediation activities at 1 or more brownfield sites in an area proposed by the eligible entity.
-    - **(B)**
-      - **(i)** Each grant awarded under this paragraph shall not exceed $1,000,000.
-      - **(ii)** The total amount of grants awarded for each fiscal year under this paragraph may not exceed 15 percent of the funds made available for the fiscal year to carry out this subsection.
-    - **(C)** In awarding a grant under this paragraph, the Administrator shall consider the extent to which the eligible entity is able—
-      - **(i)** to provide an overall plan for revitalization of the 1 or more brownfield sites in the proposed area in which the multipurpose grant will be used;
-      - **(ii)** to demonstrate a capacity to conduct the range of eligible activities that will be funded by the multipurpose grant; and
-      - **(iii)** to demonstrate that a multipurpose grant will meet the needs of the 1 or more brownfield sites in the proposed area.
-    - **(D)** As a condition of receiving a grant under this paragraph, each eligible entity shall expend the full amount of the grant by not later than the date that is 5 years after the date on which the grant is awarded to the eligible entity, unless the Administrator provides an extension.
-    - **(E)** An eligible entity that receives a grant under this paragraph may not expend any of the grant funds for the remediation of a brownfield site unless the eligible entity owns the brownfield site.
-  - **(5)**
     - **(A)**
       - **(i)**
         - **(I)** A grant under paragraph (2) may be awarded to an eligible entity on a community-wide or site-by-site basis, and shall not exceed, for any individual brownfield site covered by the grant, $200,000.
@@ -216,22 +200,23 @@ generated_at: "2026-03-30T02:56:11.355Z"
         - **(II)** the demand for funding by eligible entities that have not previously received a grant under this subsection;
         - **(III)** the demonstrated ability of the eligible entity to use the revolving loan fund to enhance remediation and provide funds on a continuing basis; and
         - **(IV)** such other similar factors as the Administrator considers appropriate to carry out this subsection.
-    - **(B)** No part of a grant or loan under this subsection may be used for the payment of—
-      - **(i)** a penalty or fine;
-      - **(ii)** a Federal cost-share requirement;
-      - **(iii)** a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under section 9607 of this title ; or
-      - **(iv)** a cost of compliance with any Federal law (including a Federal law specified in section 9601(39)(B) of this title ), excluding the cost of compliance with laws applicable to the cleanup.
+    - **(B)**
+      - **(i)** No part of a grant or loan under this subsection may be used for the payment of—
+        - **(I)** a penalty or fine;
+        - **(II)** a Federal cost-share requirement;
+        - **(III)** an administrative cost;
+        - **(IV)** a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under section 9607 of this title ; or
+        - **(V)** a cost of compliance with any Federal law (including a Federal law specified in section 9601(39)(B) of this title ), excluding the cost of compliance with laws applicable to the cleanup.
+      - **(ii)** For the purposes of clause (i)(III), the term “administrative cost” does not include the cost of—
+        - **(I)** investigation and identification of the extent of contamination;
+        - **(II)** design and performance of a response action; or
+        - **(III)** monitoring of a natural resource.
+      - **(iii)** Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent of the funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in section 9601(40) of this title to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002 .
     - **(C)** A local government that receives a grant under this subsection may use not to exceed 10 percent of the grant funds to develop and implement a brownfields program that may include—
       - **(i)** monitoring the health of populations exposed to one or more hazardous substances from a brownfield site; and
       - **(ii)** monitoring and enforcement of any institutional control used to prevent human exposure to any hazardous substance from a brownfield site.
-    - **(D)** A recipient of a grant or loan awarded under paragraph (2), (3), or (4) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
-    - **(E)**
-      - **(i)** An eligible entity may use up to 5 percent of the amounts made available under a grant or loan under this subsection for administrative costs.
-      - **(ii)** For purposes of clause (i), the term “administrative costs” does not include—
-        - **(I)** investigation and identification of the extent of contamination of a brownfield site;
-        - **(II)** design and performance of a response action; or
-        - **(III)** monitoring of a natural resource.
-  - **(6)**
+    - **(D)** A recipient of a grant or loan awarded under paragraph (2) or (3) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
+  - **(5)**
     - **(A)**
       - **(i)**
         - **(I)** An eligible entity may submit to the Administrator, through a regional office of the Environmental Protection Agency and in such form as the Administrator may require, an application for a grant under this subsection for one or more brownfield sites (including information on the criteria used by the Administrator to rank applications under subparagraph (C), to the extent that the information is available).
@@ -252,37 +237,34 @@ generated_at: "2026-03-30T02:56:11.355Z"
       - **(viii)** The extent to which a grant will further the fair distribution of funding between urban and nonurban areas.
       - **(ix)** The extent to which the grant provides for involvement of the local community in the process of making decisions relating to cleanup and future use of a brownfield site.
       - **(x)** The extent to which a grant would address or facilitate the identification and reduction of threats to the health or welfare of children, pregnant women, minority or low-income communities, or other sensitive populations.
-      - **(xi)** The extent to which a grant would address a site adjacent to a body of water or a federally designated flood plain.
-      - **(xii)** The extent to which a grant would facilitate—
-        - **(I)** the location at a brownfield site of a facility that generates renewable electricity from wind, solar, or geothermal energy; or
-        - **(II)** any energy efficiency improvement project at a brownfield site, including a project for a combined heat and power system or a district energy system.
-    - **(D)** Not later than September 30, 2022 , the Administrator shall submit to Congress a report regarding the Administrator’s use of the ranking criteria described in subparagraph (C) in awarding grants under this subsection.
-  - **(7)**
+  - **(6)**
     - **(A)** The Administrator may provide, or fund eligible entities or nonprofit organizations to provide, training, research, and technical assistance to individuals and organizations, as appropriate, to facilitate the inventory of brownfield sites, site assessments, remediation of brownfield sites, community involvement, or site preparation.
     - **(B)** The total Federal funds to be expended by the Administrator under this paragraph shall not exceed 15 percent of the total amount appropriated to carry out this subsection in any fiscal year.
-  - **(8)**
+  - **(7)**
     - **(A)** The Inspector General of the Environmental Protection Agency shall conduct such reviews or audits of grants and loans under this subsection as the Inspector General considers necessary to carry out this subsection.
     - **(B)** An audit under this subparagraph shall be conducted in accordance with the auditing procedures of the Government Accountability Office, including chapter 75 of title 31.
     - **(C)** If the Administrator determines that a person that receives a grant or loan under this subsection has violated or is in violation of a condition of the grant, loan, or applicable Federal law, the Administrator may—
       - **(i)** terminate the grant or loan;
       - **(ii)** require the person to repay any funds received; and
       - **(iii)** seek any other legal remedies available to the Administrator.
-    - **(D)** Not later than September 30, 2022 , the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
-  - **(9)** An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2), (3), or (4).
-  - **(10)** Each grant or loan made under this subsection shall—
+    - **(D)** Not later than 3 years after January 11, 2002 , the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
+  - **(8)** An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
+  - **(9)** Each grant or loan made under this subsection shall—
     - **(A)** include a requirement of the National Contingency Plan only to the extent that the requirement is relevant and appropriate to the program under this subsection, as determined by the Administrator; and
     - **(B)** be subject to an agreement that—
       - **(i)** requires the recipient to—
         - **(I)** comply with all applicable Federal and State laws; and
         - **(II)** ensure that the cleanup protects human health and the environment;
-      - **(ii)** requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2), (3), or (4), as applicable;
+      - **(ii)** requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2) or (3), as applicable;
       - **(iii)** in the case of an application by an eligible entity under paragraph (3)(A), requires the eligible entity to pay a matching share (which may be in the form of a contribution of labor, material, or services) of at least 20 percent, from non-Federal sources of funding, unless the Administrator determines that the matching share would place an undue hardship on the eligible entity; and
       - **(iv)** contains such other terms and conditions as the Administrator determines to be necessary to carry out this subsection.
-  - **(11)** The fact that a facility may not be a brownfield site within the meaning of section 9601(39)(A) of this title has no effect on the eligibility of the facility for assistance under any other provision of Federal law.
-  - **(12)** Nothing in this subsection affects any liability or response authority under any Federal law, including—
+  - **(10)** The fact that a facility may not be a brownfield site within the meaning of section 9601(39)(A) of this title has no effect on the eligibility of the facility for assistance under any other provision of Federal law.
+  - **(11)** Nothing in this subsection affects any liability or response authority under any Federal law, including—
     - **(A)** this chapter (including the last sentence of section 9601(14) of this title );
     - **(B)** the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.);
     - **(C)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.);
     - **(D)** the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.); and
     - **(E)** the Safe Drinking Water Act ( 42 U.S.C. 300f et seq.).
-  - **(13)** There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2019 through 2023.
+  - **(12)**
+    - **(A)** There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2002 through 2006.
+    - **(B)** Of the amount made available under subparagraph (A), $50,000,000, or, if the amount made available is less than $200,000,000, 25 percent of the amount made available, shall be used for site characterization, assessment, and remediation of facilities described in section 9601(39)(D)(ii)(II) of this title .

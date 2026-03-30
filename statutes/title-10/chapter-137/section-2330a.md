@@ -1,12 +1,68 @@
 ---
-title: "Section 2330a - Renumbered § 4505]"
+title: "Section 2330a - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "2330a"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2330a"
-generated_at: "2026-03-30T02:53:38.155Z"
+generated_at: "2026-03-30T03:04:17.280Z"
+status: "active"
 ---
 
-# [§ 2330a. Renumbered § 4505]
+# § 2330a. Procurement of services: tracking of purchases
 
+- **(a)** The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
+- **(b)** The data required to be collected under subsection (a) includes the following:
+  - **(1)** The services purchased.
+  - **(2)** The total dollar amount of the purchase.
+  - **(3)** The form of contracting action used to make the purchase.
+  - **(4)** Whether the purchase was made through—
+    - **(A)** a performance-based contract, performance-based task order, or other performance-based arrangement that contains firm fixed prices for the specific tasks to be performed;
+    - **(B)** any other performance-based contract, performance-based task order, or performance-based arrangement; or
+    - **(C)** any contract, task order, or other arrangement that is not performance based.
+  - **(5)** In the case of a purchase made through an agency other than the Department of Defense, the agency through which the purchase is made.
+  - **(6)** The extent of competition provided in making the purchase and whether there was more than one offer.
+  - **(7)** Whether the purchase was made from—
+    - **(A)** a small business concern;
+    - **(B)** a small business concern owned and controlled by socially and economically disadvantaged individuals; or
+    - **(C)** a small business concern owned and controlled by women.
+- **(c)**
+  - **(1)** Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+    - **(A)** The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
+      - **(i)** the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
+      - **(ii)** the calculation of contractor full-time equivalents for direct labor, using direct labor hours in a manner that is comparable to the calculation of Department of Defense civilian full-time employees; and
+      - **(iii)** the conduct and completion of the annual review required under subsection (e)(1).
+    - **(B)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
+  - **(2)** The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+    - **(A)** The functions and missions performed by the contractor.
+    - **(B)** The contracting organization, the component of the Department of Defense administering the contract, and the organization whose requirements are being met through contractor performance of the function.
+    - **(C)** The funding source for the contract under which the function is performed by appropriation and operating agency.
+    - **(D)** The fiscal year for which the activity first appeared on an inventory under this section.
+    - **(E)** The number of contractor employees, expressed as full-time equivalents for direct labor, using direct labor hours and associated cost data collected from contractors (except that estimates may be used where such data is not available and cannot reasonably be made available in a timely manner for the purpose of the inventory).
+    - **(F)** A determination whether the contract pursuant to which the activity is performed is a personal services contract.
+    - **(G)** A summary of the data required to be collected for the activity under subsection (a).
+  - **(3)** The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+- **(d)** Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
+  - **(1)** make the inventory available to the public; and
+  - **(2)** publish in the Federal Register a notice that the inventory is available to the public.
+- **(e)** Within 90 days after the date on which an inventory is submitted under subsection (c), the Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall—
+  - **(1)** review the contracts and activities in the inventory for which such Secretary or agency head is responsible;
+  - **(2)** ensure that—
+    - **(A)** each contract on the list that is a personal services contract has been entered into, and is being performed, in accordance with applicable statutory and regulatory requirements;
+    - **(B)** the activities on the list do not include any inherently governmental functions; and
+    - **(C)** to the maximum extent practicable, the activities on the list do not include any functions closely associated with inherently governmental functions; and
+  - **(3)** identify activities that should be considered for conversion—
+    - **(A)** to performance by civilian employees of the Department of Defense pursuant to section 2463 of this title ; or
+    - **(B)** to an acquisition approach that would be more advantageous to the Department of Defense.
+- **(f)** The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
+  - **(1)** provide for the use of the inventory by the military department or Defense Agency to implement the requirements of section 129a of this title ;
+  - **(2)** ensure the inventory is used to inform strategic workforce planning;
+  - **(3)** facilitate use of the inventory for compliance with section 235 of this title ; and
+  - **(4)** provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
+- **(g)** Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
+- **(h)** In this section:
+  - **(1)** The term “performance-based”, with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+  - **(2)** The definitions set forth in section 2225(f) of this title for the terms “simplified acquisition threshold”, “small business concern”, “small business concern owned and controlled by socially and economically disadvantaged individuals”, and “small business concern owned and controlled by women” shall apply.
+  - **(3)** The term “function closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title .
+  - **(4)** The term “inherently governmental functions” has the meaning given that term in section 2383(b)(2) of this title .
+  - **(5)** The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.

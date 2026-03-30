@@ -1,0 +1,20 @@
+---
+title: "Section 7273e - Local family information centers"
+usc_title: 20
+usc_section: "7273e"
+chapter: 70
+current_through: "PL 113-21"
+classification: "20 U.S.C. § 7273e"
+generated_at: "2026-03-30T03:04:46.358Z"
+status: "active"
+---
+
+# § 7273e. Local family information centers
+
+- **(a)** If the amount made available to carry out this subpart for a fiscal year is more than $50,000,000, the Secretary is authorized to award 50 percent of the amount that exceeds $50,000,000 as grants to, and enter into contracts and cooperative agreements with, local nonprofit parent organizations to enable the organizations to support local family information centers that help ensure that parents of students in elementary schools and secondary schools assisted under this subpart have the training, information, and support the parents need to enable the parents to participate effectively in their children’s early childhood education, in their children’s elementary and secondary education, and in helping their children to meet challenging State academic content and student academic achievement standards.
+- **(b)** In this section, the term “local nonprofit parent organization” means a private nonprofit organization (other than an institution of higher education) that—
+  - **(1)** has a demonstrated record of working with low-income individuals and parents;
+  - **(2)**
+    - **(A)** has a board of directors, the majority of whom are parents of students in elementary schools and secondary schools assisted under part A of subchapter I of this chapter and located in the geographic area to be served by a local family information center; or
+    - **(B)** has a special governing committee to direct and implement a local family information center, a majority of the members of whom are parents of students in schools assisted under part A of subchapter I of this chapter; and
+  - **(3)** is located in a community with elementary schools and secondary schools that receive funds under part A of subchapter I of this chapter, and is accessible to the families of students in those schools.

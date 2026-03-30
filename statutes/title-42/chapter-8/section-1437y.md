@@ -3,9 +3,10 @@ title: "Section 1437y - Provision of information to law enforcement and other ag
 usc_title: 42
 usc_section: "1437y"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 1437y"
-generated_at: "2026-03-30T02:56:11.088Z"
+generated_at: "2026-03-30T03:06:22.601Z"
+status: "active"
 ---
 
 # § 1437y. Provision of information to law enforcement and other agencies

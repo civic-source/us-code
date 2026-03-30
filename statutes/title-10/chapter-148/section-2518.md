@@ -1,12 +1,15 @@
 ---
-title: "Section 2518 - Renumbered § 4834]"
+title: "Section 2518 - Overseas foreign critical technology monitoring and assessment financial assistance program"
 usc_title: 10
 usc_section: "2518"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "10 U.S.C. § 2518"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-03-30T03:04:17.291Z"
+status: "active"
 ---
 
-# [§ 2518. Renumbered § 4834]
+# § 2518. Overseas foreign critical technology monitoring and assessment financial assistance program
 
+- **(a)** The Secretary of Defense may establish a foreign critical technology monitoring and assessment program. Under the program, the Secretary may enter into cooperative arrangements with one or more eligible not-for-profit organizations in order to provide financial assistance for the establishment of foreign critical technology monitoring and assessment offices in Europe, Pacific Rim countries, and such other countries as the Secretary considers appropriate.
+- **(b)** Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).

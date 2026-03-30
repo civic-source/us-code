@@ -1,12 +1,22 @@
 ---
-title: "Section 1300m - Omitted"
+title: "Section 1300m - Definitions"
 usc_title: 25
 usc_section: "1300m"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 1300m"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-03-30T03:05:02.866Z"
+status: "active"
 ---
 
-# § 1300m. Omitted
+# § 1300m. Definitions
 
+For purposes of this subchapter:
+
+  - **(1)** The term “Tribe” means the Paskenta Band of Nomlaki Indians of the Paskenta Rancheria of California.
+  - **(2)** The term “Secretary” means the Secretary of the Interior.
+  - **(3)** The term “Interim Council” means the governing body of the Tribe specified in section 1300m–5 of this title .
+  - **(4)** The term “member” means an individual who meets the membership criteria under section 1300m–4(b) of this title .
+  - **(5)** The term “State” means the State of California.
+  - **(6)** The term “reservation” means those lands acquired and held in trust by the Secretary for the benefit of the Tribe pursuant to section 1300m–3 of this title .
+  - **(7)** The term “service area” means the counties of Tehama and Glenn, in the State of California.

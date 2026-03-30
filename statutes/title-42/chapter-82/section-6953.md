@@ -3,9 +3,10 @@ title: "Section 6953 - Development of markets for recovered materials"
 usc_title: 42
 usc_section: "6953"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 6953"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-03-30T03:06:22.779Z"
+status: "active"
 ---
 
 # § 6953. Development of markets for recovered materials

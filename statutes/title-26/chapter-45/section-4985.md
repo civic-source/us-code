@@ -3,15 +3,16 @@ title: "Section 4985 - Stock compensation of insiders in expatriated corporation
 usc_title: 26
 usc_section: "4985"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "26 U.S.C. § 4985"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-03-30T03:05:18.697Z"
+status: "active"
 ---
 
 # § 4985. Stock compensation of insiders in expatriated corporations
 
 - **(a)** In the case of an individual who is a disqualified individual with respect to any expatriated corporation, there is hereby imposed on such person a tax equal to—
-  - **(1)** the rate of tax specified in section 1(h)(1)(D), multiplied by
+  - **(1)** the rate of tax specified in section 1(h)(1)(C), multiplied by
   - **(2)** the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual’s family (as defined in section 267) at any time during the 12-month period beginning on the date which is 6 months before the expatriation date.
 - **(b)** For purposes of subsection (a)—
   - **(1)** The value of specified stock compensation shall be—

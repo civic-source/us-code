@@ -3,9 +3,10 @@ title: "Section 2414 - Congressional intent in construction of laws"
 usc_title: 25
 usc_section: "2414"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "25 U.S.C. § 2414"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-03-30T03:05:02.898Z"
+status: "active"
 ---
 
 # § 2414. Congressional intent in construction of laws
@@ -13,4 +14,4 @@ generated_at: "2026-03-30T02:54:52.840Z"
 It is the intent of Congress that—
 
   - **(1)** specific Federal laws, and administrative regulations promulgated thereunder, establishing programs of the Bureau of Indian Affairs, the Indian Health Service, and other Federal agencies, and
-  - **(2)** general Federal laws, including laws limiting augmentation of Federal appropriations or encouraging joint or cooperative funding,
+  - **(2)** general Federal laws, including laws limiting augmentation of Federal appropriations or encouraging joint or cooperative funding, shall be liberally construed and administered to achieve the purposes of this chapter.

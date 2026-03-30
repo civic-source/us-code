@@ -3,18 +3,21 @@ title: "Section 90 - Georgia"
 usc_title: 28
 usc_section: "90"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "28 U.S.C. § 90"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-03-30T03:05:05.808Z"
+status: "active"
 ---
 
 # § 90. Georgia
+
+Georgia is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Georgia.
 
 - **(a)** The Northern District comprises four divisions.
   - **(1)** The Gainesville Division comprises the counties of Banks, Barrow, Dawson, Fannin, Forsyth, Gilmer, Habersham, Hall, Jackson, Lumpkin, Pickens, Rabun, Stephens, Towns, Union, and White. Court for the Gainesville Division shall be held at Gainesville.
   - **(2)** The Atlanta Division comprises the counties of Cherokee, Clayton, Cobb, De Kalb, Douglas, Fulton, Gwinnett, Henry, Newton, and Rockdale. Court for the Atlanta Division shall be held at Atlanta.
   - **(3)** The Rome Division comprises the counties of Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield. Court for the Rome Division shall be held at Rome.
-  - **(4)** The Newnan Division comprises the counties of Carroll, Coweta, Fayette, Haralson, Heard, Meriwether, Pike, Spalding, and Troup. Court for the Newnan Division shall be held at Newnan. Middle District
+  - **(4)** The Newnan Division comprises the counties of Carroll, Coweta, Fayette, Haralson, Heard, Meriwether, Pike, Spalding, and Troup. Court for the Newnan Division shall be held at Newnan.
 - **(b)** The Middle District comprises seven divisions.
   - **(1)** The Athens Division comprises the counties of Clarke, Elbert, Franklin, Greene, Hart, Madison, Morgan, Oconee, Oglethorpe, and Walton. Court for the Athens Division shall be held at Athens.
   - **(2)** The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper, Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson. Court for the Macon Division shall be held at Macon.
@@ -22,7 +25,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(4)** The Americus Division comprises the counties of Ben Hill, Crisp, Dooly, Lee, Macon, Schley, Sumter, Terrell, Webster, and Wilcox. Court for the Americus Division shall be held at Americus.
   - **(5)** The Albany Division comprises the counties of Baker, Calhoun, Dougherty, Early, Miller, Mitchell, Turner, and Worth. Court for the Albany Division shall be held at Albany.
   - **(6)** The Valdosta Division comprises the counties of Berrien, Clinch, Cook, Echols, Irwin, Lanier, Lowndes, and Tift. Court for the Valdosta Division shall be held at Valdosta.
-  - **(7)** The Thomasville Division comprises the counties of Brooks, Colquitt, Decatur, Grady, Seminole, and Thomas. Court for the Thomasville Division shall be held at Thomasville. Southern District
+  - **(7)** The Thomasville Division comprises the counties of Brooks, Colquitt, Decatur, Grady, Seminole, and Thomas. Court for the Thomasville Division shall be held at Thomasville.
 - **(c)** The Southern District comprises six divisions.
   - **(1)** The Augusta Division comprises the Counties of Burke, Columbia, Glascock, Jefferson, Lincoln, McDuffie, Richmond, Taliaferro, Warren, and Wilkes. Court for the Augusta Division shall be held at Augusta.
   - **(2)** The Dublin Division comprises the counties of Dodge, Johnson, Laurens, Montgomery, Telfair, Treutlen, and Wheeler. Court for the Dublin Division shall be held at Dublin.
@@ -30,4 +33,3 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(4)** The Waycross Division comprises the counties of Atkinson, Bacon, Brantley, Charlton, Coffee, Pierce, and Ware. Court for the Waycross Division shall be held at Waycross.
   - **(5)** The Brunswick Division comprises the counties of Appling, Camden, Glynn, Jeff Davis, Long, McIntosh, and Wayne. Court for the Brunswick Division shall be held at Brunswick.
   - **(6)** The Statesboro Division comprises the counties of Bulloch, Candler, Emanuel, Evans, Jenkins, Screven, Tattnall, and Toombs. Court for the Statesboro Division shall be held at Statesboro.
-

@@ -3,14 +3,15 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-03-30T03:06:29.339Z"
+status: "active"
 ---
 
 # § 48102. Research and development
 
-- **(a)** Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title:
+- **(a)** Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title and, for each of fiscal years 2012 through 2015, under subsection (g):
   - **(1)** for fiscal year 2004, $346,317,000, including—
     - **(A)** $65,000,000 for Improving Aviation Safety;
     - **(B)** $24,000,000 for Weather Safety Research;
@@ -66,24 +67,12 @@ generated_at: "2026-03-30T02:56:19.408Z"
     - **(L)** $8,000,000 for Airports Technology-Efficiency;
   - **(5)** $171,000,000 for fiscal year 2009;
   - **(6)** $190,500,000 for fiscal year 2010;
-  - **(7)** $170,000,000 for fiscal year 2011;
-  - **(8)** $168,000,000 for each of fiscal years 2012 through 2015;
-  - **(9)** $166,000,000 for each of fiscal years 2016 and 2017;
-  - **(10)** $189,000,000 for fiscal year 2018;
-  - **(11)** $194,000,000 for fiscal year 2019;
-  - **(12)** $199,000,000 for fiscal year 2020;
-  - **(13)** $204,000,000 for fiscal year 2021;
-  - **(14)** $209,000,000 for fiscal year 2022;
-  - **(15)** $214,000,000 for fiscal year 2023;
-  - **(16)** $280,000,000 for fiscal year 2024;
-  - **(17)** $311,000,000 for fiscal year 2025;
-  - **(18)** $323,000,000 for fiscal year 2026;
-  - **(19)** $334,000,000 for fiscal year 2027; and
-  - **(20)** $345,000,000 for fiscal year 2028.
+  - **(7)** $170,000,000 for fiscal year 2011; and
+  - **(8)** $168,000,000 for each of fiscal years 2012 through 2015.
 - **(b)**
-  - **(1)** The Administrator shall prioritize safety in considering the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
-  - **(2)** As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) of this section shall be for safety research and development projects.
-  - **(3)** At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
+  - **(1)** The Administrator shall consider the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
+  - **(2)** At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
+  - **(3)** At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title .
 - **(c)**
   - **(1)** Not more than 10 percent of the net amount authorized for a category of projects and activities in a fiscal year under subsection (a) of this section may be transferred to or from that category in that fiscal year.
   - **(2)** The Secretary may transfer more than 10 percent of an authorized amount to or from a category only after—
@@ -94,7 +83,29 @@ generated_at: "2026-03-30T02:56:19.408Z"
   - **(2)** The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 - **(e)** Necessary amounts may be appropriated to the Secretary out of amounts in the Fund available for research and development to conduct research under section 44506(a) and (b) of this title.
 - **(f)** Amounts appropriated under subsection (a) of this section remain available until expended.
-- **(g)** The Administrator shall submit the national aviation research plan to Congress no later than the date that is 30 days after the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
+- **(g)** The following programs described in the research, engineering, and development account of the national aviation research plan required under section 44501(c) are authorized:
+  - **(1)** Fire Research and Safety.
+  - **(2)** Propulsion and Fuel Systems.
+  - **(3)** Advanced Materials/Structural Safety.
+  - **(4)** Atmospheric Hazards—Aircraft Icing/Digital System Safety.
+  - **(5)** Continued Airworthiness.
+  - **(6)** Aircraft Catastrophic Failure Prevention Research.
+  - **(7)** Flightdeck/Maintenance/System Integration Human Factors.
+  - **(8)** System Safety Management.
+  - **(9)** Air Traffic Control/Technical Operations Human Factors.
+  - **(10)** Aeromedical Research.
+  - **(11)** Weather Program.
+  - **(12)** Unmanned Aircraft Systems Research.
+  - **(13)** NextGen—Alternative Fuels for General Aviation.
+  - **(14)** Joint Planning and Development Office.
+  - **(15)** NextGen—Wake Turbulence Research.
+  - **(16)** NextGen—Air Ground Integration Human Factors.
+  - **(17)** NextGen—Self Separation Human Factors.
+  - **(18)** NextGen—Weather Technology in the Cockpit.
+  - **(19)** Environment and Energy Research.
+  - **(20)** NextGen Environmental Research—Aircraft Technologies, Fuels, and Metrics.
+  - **(21)** System Planning and Resource Management.
+  - **(22)** The William J. Hughes Technical Center Laboratory Facility.
 - **(h)**
   - **(1)** The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
     - **(A)** research projects to be carried out at primarily undergraduate institutions and technical colleges;

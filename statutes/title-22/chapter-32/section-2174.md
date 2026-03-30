@@ -3,9 +3,10 @@ title: "Section 2174 - American schools, libraries, and hospital centers abroad"
 usc_title: 22
 usc_section: "2174"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "22 U.S.C. § 2174"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-03-30T03:04:53.624Z"
+status: "active"
 ---
 
 # § 2174. American schools, libraries, and hospital centers abroad
@@ -15,4 +16,4 @@ generated_at: "2026-03-30T02:55:05.349Z"
 - **(c)**
   - **(1)** To carry out the purposes of this section, there are authorized to be appropriated to the President $35,000,000 for fiscal year 1986 and $35,000,000 for fiscal year 1987.
   - **(2)** Amounts appropriated under paragraph (1) are authorized to remain available until expended.
-- **(d)** Notwithstanding the provisions of subsection (b), funds appropriated under this section may be used for assistance to centers for pediatric plastic and reconstructive surgery established by Children’s Medical Relief International, except that assistance may not be furnished for the domestic operations of any such center located in the United States, its territories or possessions.
+- **(d)** Notwithstanding the provisions of subsection (b) of this section, funds appropriated under this section may be used for assistance to centers for pediatric plastic and reconstructive surgery established by Children’s Medical Relief International, except that assistance may not be furnished for the domestic operations of any such center located in the United States, its territories or possessions.

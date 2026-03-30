@@ -3,16 +3,17 @@ title: "Section 264 - Regulations to control communicable diseases"
 usc_title: 42
 usc_section: "264"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-21"
 classification: "42 U.S.C. § 264"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-03-30T03:06:22.328Z"
+status: "active"
 ---
 
 # § 264. Regulations to control communicable diseases
 
 - **(a)** The Surgeon General, with the approval of the Secretary, is authorized to make and enforce such regulations as in his judgment are necessary to prevent the introduction, transmission, or spread of communicable diseases from foreign countries into the States or possessions, or from one State or possession into any other State or possession. For purposes of carrying out and enforcing such regulations, the Surgeon General may provide for such inspection, fumigation, disinfection, sanitation, pest extermination, destruction of animals or articles found to be so infected or contaminated as to be sources of dangerous infection to human beings, and other measures, as in his judgment may be necessary.
-- **(b)** Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General, 1 1 So in original. The comma probably should not appear. .
-- **(c)** Except as provided in subsection (d), regulations prescribed under this section, insofar as they provide for the apprehension, detention, examination, or conditional release of individuals, shall be applicable only to individuals coming into a State or possession from a foreign country or a possession.
+- **(b)** Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General, 1 1 So in original. Comma probably should not appear. .
+- **(c)** Except as provided in subsection (d) of this section, regulations prescribed under this section, insofar as they provide for the apprehension, detention, examination, or conditional release of individuals, shall be applicable only to individuals coming into a State or possession from a foreign country or a possession.
 - **(d)**
   - **(1)** Regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a qualifying stage and (A) to be moving or about to move from a State to another State; or (B) to be a probable source of infection to individuals who, while infected with such disease in a qualifying stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term “State” includes, in addition to the several States, only the District of Columbia.
   - **(2)** For purposes of this subsection, the term “qualifying stage”, with respect to a communicable disease, means that such disease—
