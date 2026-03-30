@@ -3,9 +3,9 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T07:02:42.228Z"
+generated_at: "2026-03-30T07:04:56.674Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
   - **(1)** For purposes of this section, if a benefit is provided under a cafeteria plan through employer contributions to a health flexible spending arrangement, such benefit shall not be treated as a qualified benefit unless the cafeteria plan provides that an employee may not elect for any taxable year to have salary reduction contributions in excess of $2,500 made to such arrangement.
   - **(2)** In the case of any taxable year beginning after December 31, 2013 , the dollar amount in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2012” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(j)**
   - **(1)** An eligible employer maintaining a simple cafeteria plan with respect to which the requirements of this subsection are met for any year shall be treated as meeting any applicable nondiscrimination requirement during such year.
   - **(2)** For purposes of this subsection, the term “simple cafeteria plan” means a cafeteria plan—

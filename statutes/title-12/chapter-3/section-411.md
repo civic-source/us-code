@@ -3,9 +3,9 @@ title: "Section 411 - Issuance to reserve banks; nature of obligation; redemptio
 usc_title: 12
 usc_section: "411"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 411"
-generated_at: "2026-03-30T07:01:44.290Z"
+generated_at: "2026-03-30T07:04:15.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4224 - Repealed. Pub. L. 89–44, title I , § 101(b)(5), June 2
 usc_title: 26
 usc_section: "4224"
 chapter: 32
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 4224"
-generated_at: "2026-03-30T07:02:42.371Z"
+generated_at: "2026-03-30T07:04:56.820Z"
 status: "repealed"
 ---
 

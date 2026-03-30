@@ -3,9 +3,9 @@ title: "Section 852 - Taxation of regulated investment companies and their share
 usc_title: 26
 usc_section: "852"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 852"
-generated_at: "2026-03-30T07:02:42.310Z"
+generated_at: "2026-03-30T07:04:56.758Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** the provisions of this part applied to the investment company for all taxable years ending on or after November 8, 1983 , or
     - **(B)** as of the close of the taxable year, the investment company has no earnings and profits accumulated in any taxable year to which the provisions of this part (or the corresponding provisions of prior law) did not apply to it.
 - **(b)**
-  - **(1)** There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11. In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).
+  - **(1)** There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11.
   - **(2)** The investment company taxable income shall be the taxable income of the regulated investment company adjusted as follows:
     - **(A)** There shall be excluded the amount of the net capital gain, if any.
     - **(B)** The net operating loss deduction provided in section 172 shall not be allowed.
@@ -29,7 +29,7 @@ status: "active"
     - **(F)** The taxable income shall be computed without regard to section 454(b) (relating to short-term obligations issued on a discount basis) if the company so elects in a manner prescribed by the Secretary.
     - **(G)** There shall be deducted an amount equal to the tax imposed by subsections (d)(2) and (i) of section 851 for the taxable year.
   - **(3)**
-    - **(A)** There is hereby imposed for each taxable year in the case of every regulated investment company a tax, determined as provided in section 1201(a), on the excess, if any, of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gain dividends only.
+    - **(A)** There is hereby imposed for each taxable year in the case of every regulated investment company a tax, determined as provided in section 11(b), on the excess, if any, of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gain dividends only.
     - **(B)** A capital gain dividend shall be treated by the shareholders as a gain from the sale or exchange of a capital asset held for more than 1 year.
     - **(C)** For purposes of this part—
       - **(i)** Except as provided in clause (ii), a capital gain dividend is any dividend, or part thereof, which is reported by the company as a capital gain dividend in written statements furnished to its shareholders.

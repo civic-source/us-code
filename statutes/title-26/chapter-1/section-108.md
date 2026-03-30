@@ -3,9 +3,9 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T07:02:42.226Z"
+generated_at: "2026-03-30T07:04:56.672Z"
 status: "active"
 ---
 
@@ -131,6 +131,14 @@ status: "active"
       - **(ii)** pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
   - **(3)** Paragraph (1) shall not apply to the discharge of a loan made by an organization described in paragraph (2)(D) if the discharge is on account of services performed for either such organization.
   - **(4)** In the case of an individual, gross income shall not include any amount received under section 338B(g) of the Public Health Service Act, under a State program described in section 338I of such Act, or under any other State loan repayment or loan forgiveness program that is intended to provide for the increased availability of health care services in underserved or health professional shortage areas (as determined by such State).
+  - **(5)**
+    - **(A)** In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income for such taxable year by reasons of the discharge (in whole or in part) of any loan described in subparagraph (B) after December 31, 2017 , and before January 1, 2026 , if such discharge was—
+      - **(i)** pursuant to subsection (a) or (d) of section 437 of the Higher Education Act of 1965 or the parallel benefit under part D of title IV of such Act (relating to the repayment of loan liability),
+      - **(ii)** pursuant to section 464(c)(1)(F) of such Act, or
+      - **(iii)** otherwise discharged on account of the death or total and permanent disability of the student.
+    - **(B)** A loan is described in this subparagraph if such loan is—
+      - **(i)** a student loan (as defined in paragraph (2)), or
+      - **(ii)** a private education loan (as defined in section 140(7) 1 1 So in original. The designation “(7)” probably should be preceded by “(a)”. of the Consumer Credit Protection Act ( 15 U.S.C. 1650(7) 1 )).
 - **(g)**
   - **(1)**
     - **(A)** Subparagraph (C) of subsection (a)(1) shall apply only if the discharge is by a qualified person.

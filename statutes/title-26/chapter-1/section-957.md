@@ -3,15 +3,15 @@ title: "Section 957 - Controlled foreign corporations; United States persons"
 usc_title: 26
 usc_section: "957"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 957"
-generated_at: "2026-03-30T07:02:42.326Z"
+generated_at: "2026-03-30T07:04:56.774Z"
 status: "active"
 ---
 
 # § 957. Controlled foreign corporations; United States persons
 
-- **(a)** For purposes of this subpart, the term “controlled foreign corporation” means any foreign corporation if more than 50 percent of—
+- **(a)** For purposes of this title, the term “controlled foreign corporation” means any foreign corporation if more than 50 percent of—
   - **(1)** the total combined voting power of all classes of stock of such corporation entitled to vote, or
   - **(2)** the total value of the stock of such corporation,
 - **(b)** For purposes only of taking into account income described in section 953(a) (relating to insurance income), the term “controlled foreign corporation” includes not only a foreign corporation as defined by subsection (a) but also one of which more than 25 percent of the total combined voting power of all classes of stock (or more than 25 percent of the total value of stock) is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such corporation, if the gross amount of premiums or other consideration in respect of the reinsurance or the issuing of insurance or annuity contracts described in section 953(a)(1) 1 1 See References in Text note below. exceeds 75 percent of the gross amount of all premiums or other consideration in respect of all risks.

@@ -3,9 +3,9 @@ title: "Section 12222 - Use of funds"
 usc_title: 34
 usc_section: "12222"
 chapter: 121
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 12222"
-generated_at: "2026-03-30T07:02:45.016Z"
+generated_at: "2026-03-30T07:04:59.512Z"
 status: "active"
 ---
 

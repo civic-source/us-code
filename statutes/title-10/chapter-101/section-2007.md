@@ -3,9 +3,9 @@ title: "Section 2007 - Payment of tuition for off-duty training or education"
 usc_title: 10
 usc_section: "2007"
 chapter: 101
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2007"
-generated_at: "2026-03-30T07:01:27.959Z"
+generated_at: "2026-03-30T07:03:43.767Z"
 status: "active"
 ---
 
@@ -28,6 +28,6 @@ status: "active"
   - **(1)** A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
   - **(2)** The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38 .
 - **(e)**
-  - **(1)** If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) of title 37 .
-  - **(2)** If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) of title 37 .
+  - **(1)** If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+  - **(2)** If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.

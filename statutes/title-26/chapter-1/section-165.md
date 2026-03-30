@@ -3,9 +3,9 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-03-30T07:02:42.239Z"
+generated_at: "2026-03-30T07:04:56.685Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(1)** losses incurred in a trade or business;
   - **(2)** losses incurred in any transaction entered into for profit, though not connected with a trade or business; and
   - **(3)** except as provided in subsection (h), losses of property not connected with a trade or business or a transaction entered into for profit, if such losses arise from fire, storm, shipwreck, or other casualty, or from theft.
-- **(d)** Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions.
+- **(d)** Losses from wagering transactions shall be allowed only to the extent of the gains from such transactions. For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017 , and before January 1, 2026 , the term “losses from wagering transactions” includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction.
 - **(e)** For purposes of subsection (a), any loss arising from theft shall be treated as sustained during the taxable year in which the taxpayer discovers such loss.
 - **(f)** Losses from sales or exchanges of capital assets shall be allowed only to the extent allowed in sections 1211 and 1212.
 - **(g)**
@@ -47,6 +47,11 @@ status: "active"
     - **(C)** For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
     - **(D)** No loss described in subsection (c)(3) shall be allowed if, at the time of filing the return, such loss has been claimed for estate tax purposes in the estate tax return.
     - **(E)** Any loss of an individual described in subsection (c)(3) to the extent covered by insurance shall be taken into account under this section only if the individual files a timely insurance claim with respect to such loss.
+  - **(5)**
+    - **(A)** In the case of an individual, except as provided in subparagraph (B), any personal casualty loss which (but for this paragraph) would be deductible in a taxable year beginning after December 31, 2017 , and before January 1, 2026 , shall be allowed as a deduction under subsection (a) only to the extent it is attributable to a Federally declared disaster (as defined in subsection (i)(5)).
+    - **(B)** If a taxpayer has personal casualty gains for any taxable year to which subparagraph (A) applies—
+      - **(i)** subparagraph (A) shall not apply to the portion of the personal casualty loss not attributable to a Federally declared disaster (as so defined) to the extent such loss does not exceed such gains, and
+      - **(ii)** in applying paragraph (2) for purposes of subparagraph (A) to the portion of personal casualty loss which is so attributable to such a disaster, the amount of personal casualty gains taken into account under paragraph (2)(A) shall be reduced by the portion of such gains taken into account under clause (i).
 - **(i)**
   - **(1)** Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area and attributable to a federally declared disaster may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
   - **(2)** If an election is made under this subsection, the casualty resulting in the loss shall be treated for purposes of this title as having occurred in the taxable year for which the deduction is claimed.

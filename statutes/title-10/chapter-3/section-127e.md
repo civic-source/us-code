@@ -3,9 +3,9 @@ title: "Section 127e - Support of special operations to combat terrorism"
 usc_title: 10
 usc_section: "127e"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 127e"
-generated_at: "2026-03-30T07:01:27.887Z"
+generated_at: "2026-03-30T07:03:43.707Z"
 status: "active"
 ---
 
@@ -22,9 +22,10 @@ status: "active"
     - **(C)** The amount obligated under the authority to provide support.
 - **(e)** The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
 - **(f)** This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ( 50 U.S.C. 3093(e) ).
-- **(g)**
-  - **(1)** Not later than March 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
-  - **(2)** Not later than September 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report is submitted.
+- **(g)** The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
+- **(h)**
+  - **(1)** Not later than 120 days after the last day of each fiscal year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
+  - **(2)** Not later than six months after the date of the submittal of the report most recently submitted under paragraph (1), the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report under this paragraph is submitted.
   - **(3)** Each report required by this subsection shall include, for the period covered by such report, the following:
     - **(A)** A summary of the ongoing military operations by United States special operations forces to combat terrorism that were supported or facilitated by foreign forces, irregular forces, groups, or individuals for which support was provided under this section.
     - **(B)** A description of the support or facilitation provided by such foreign forces, irregular forces, groups, or individuals to United States special operations forces.

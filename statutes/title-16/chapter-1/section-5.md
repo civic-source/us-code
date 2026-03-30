@@ -1,19 +1,15 @@
 ---
-title: "Section 5 - Management plan"
+title: "Section 5 - Authorization of appropriations; limitation on authority"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T07:02:21.149Z"
+generated_at: "2026-03-30T07:04:22.279Z"
 status: "active"
 ---
 
-# § 460zzz–5. Management plan
+# § 460bbbb–5. Authorization of appropriations; limitation on authority
 
-- **(a)** Not later than 3 years after March 30, 2009 , the Secretary shall develop a comprehensive management plan for the long-term protection and management of the Conservation Area.
-- **(b)** The management plan shall—
-  - **(1)** describe the appropriate uses and management of the Conservation Area;
-  - **(2)** be developed with extensive public input;
-  - **(3)** take into consideration any information developed in studies of the land within the Conservation Area; and
-  - **(4)** include a comprehensive travel management plan.
+Effective October 1, 1980 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
+

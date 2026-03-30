@@ -3,15 +3,15 @@ title: "Section 2200b - Grant program"
 usc_title: 10
 usc_section: "2200b"
 chapter: 112
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2200b"
-generated_at: "2026-03-30T07:01:27.965Z"
+generated_at: "2026-03-30T07:03:43.772Z"
 status: "active"
 ---
 
 # § 2200b. Grant program
 
-- **(a)** The Secretary of Defense may provide grants of financial assistance to institutions of higher education to support the establishment, improvement, or administration of programs of education in information assurance disciplines referred to in section 2200(a) of this title .
+- **(a)** The Secretary of Defense may provide grants of financial assistance to institutions of higher education to support the establishment, improvement, or administration of programs of education in cyber disciplines referred to in section 2200(a) of this title .
 - **(b)** The proceeds of grants under this section may be used by an institution of higher education for the following purposes:
   - **(1)** Faculty development.
   - **(2)** Curriculum development.

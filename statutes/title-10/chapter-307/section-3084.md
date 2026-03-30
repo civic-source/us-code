@@ -3,13 +3,13 @@ title: "Section 3084 - Chief of Veterinary Corps"
 usc_title: 10
 usc_section: "3084"
 chapter: 307
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 3084"
-generated_at: "2026-03-30T07:01:28.011Z"
+generated_at: "2026-03-30T07:03:43.811Z"
 status: "active"
 ---
 
 # § 3084. Chief of Veterinary Corps
 
-The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps. An officer appointed to that position who holds a lower grade shall be appointed in the grade of brigadier general.
+The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps.
 

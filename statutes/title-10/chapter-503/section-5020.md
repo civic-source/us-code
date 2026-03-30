@@ -3,9 +3,9 @@ title: "Section 5020 - Naval Inspector General: detail; duties"
 usc_title: 10
 usc_section: "5020"
 chapter: 503
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5020"
-generated_at: "2026-03-30T07:01:28.019Z"
+generated_at: "2026-03-30T07:03:43.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1095f - TRICARE program: referrals and preauthorizations under T
 usc_title: 10
 usc_section: "1095f"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1095f"
-generated_at: "2026-03-30T07:01:27.934Z"
+generated_at: "2026-03-30T07:03:43.746Z"
 status: "active"
 ---
 
@@ -19,4 +19,5 @@ status: "active"
   - **(1)** Inpatient hospitalization.
   - **(2)** Inpatient care at a skilled nursing facility.
   - **(3)** Inpatient care at a rehabilitation facility.
+  - **(4)** Inpatient care at a residential treatment center.
 - **(c)** The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.

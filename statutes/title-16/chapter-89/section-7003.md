@@ -3,9 +3,9 @@ title: "Section 7003 - United States representation on the scientific review gro
 usc_title: 16
 usc_section: "7003"
 chapter: 89
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 7003"
-generated_at: "2026-03-30T07:02:21.342Z"
+generated_at: "2026-03-30T07:04:22.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7235 - Establishment of the Southern Sea Otter Military Readines
 usc_title: 10
 usc_section: "7235"
 chapter: 631
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 7235"
-generated_at: "2026-03-30T07:01:28.029Z"
+generated_at: "2026-03-30T07:03:43.826Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(d)** The Secretary of the Interior may revise or terminate the application of subsection (b) if the Secretary of the Interior, in consultation with the Secretary of the Navy, determines that military activities occurring in the Southern Sea Otter Military Readiness Areas are impeding the southern sea otter conservation or the return of southern sea otters to optimum sustainable population levels.
 - **(e)**
   - **(1)** The Secretary of the Navy shall conduct monitoring and research within the Southern Sea Otter Military Readiness Areas to determine the effects of military readiness activities on the growth or decline of the southern sea otter population and on the near-shore ecosystem. Monitoring and research parameters and methods shall be determined in consultation with the Service.
-  - **(2)** Not later than 24 months after the date of the enactment of this section and every three years thereafter, the Secretary of the Navy shall report to Congress and the public on monitoring undertaken pursuant to paragraph (1).
+  - **(2)** Not later than November 25, 2017 , and every three years thereafter, the Secretary of the Navy shall report to Congress and the public on monitoring undertaken pursuant to paragraph (1).
 - **(f)** In this section:
   - **(1)** The term “southern sea otter” means any member of the subspecies Enhydra lutris nereis.
   - **(2)** The term “take”—

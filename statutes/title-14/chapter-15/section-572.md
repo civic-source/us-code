@@ -3,9 +3,9 @@ title: "Section 572 - Acquisition"
 usc_title: 14
 usc_section: "572"
 chapter: 15
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "14 U.S.C. § 572"
-generated_at: "2026-03-30T07:01:35.778Z"
+generated_at: "2026-03-30T07:03:45.879Z"
 status: "active"
 ---
 

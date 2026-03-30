@@ -3,9 +3,9 @@ title: "Section 67 - Use of funds"
 usc_title: 42
 usc_section: "67"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 67"
-generated_at: "2026-03-30T07:03:04.594Z"
+generated_at: "2026-03-30T07:05:21.468Z"
 status: "active"
 ---
 

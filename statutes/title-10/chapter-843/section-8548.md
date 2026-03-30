@@ -3,9 +3,9 @@ title: "Section 8548 - Duties: warrant officers; limitations"
 usc_title: 10
 usc_section: "8548"
 chapter: 843
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 8548"
-generated_at: "2026-03-30T07:01:28.036Z"
+generated_at: "2026-03-30T07:03:43.832Z"
 status: "active"
 ---
 

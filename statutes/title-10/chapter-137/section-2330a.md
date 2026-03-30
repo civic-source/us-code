@@ -3,9 +3,9 @@ title: "Section 2330a - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "2330a"
 chapter: 137
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2330a"
-generated_at: "2026-03-30T07:01:27.976Z"
+generated_at: "2026-03-30T07:03:43.782Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
   - **(1)** review the contracts and activities in the inventory for which such Secretary or agency head is responsible, with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):
     - **(A)** Special studies or analysis that is not research and development.
     - **(B)** Information technology and telecommunications.
-    - **(C)** Support, including professional, administrative, and management.; 1 1 So in original.
+    - **(C)** Support, including professional, administrative, and management;
   - **(2)** ensure that—
     - **(A)** each contract on the list that is a personal services contract has been entered into, and is being performed, in accordance with applicable statutory and regulatory requirements;
     - **(B)** the activities on the list do not include any inherently governmental functions; and
@@ -70,9 +70,9 @@ status: "active"
   - **(2)** The term “function closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title .
   - **(3)** The term “inherently governmental functions” has the meaning given that term in section 2383(b)(2) of this title .
   - **(4)** The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
-  - **(6)** 2 2 So in original. There are two pars. (6). The term “service acquisition portfolio groups” means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services ( January 5, 2016 ) or successor guidance.
-  - **(7)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 2330a(g)(5) of this title ).
-  - **(5)** The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41 .
-  - **(6)**
+  - **(5)** The term “service acquisition portfolio groups” means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services ( January 5, 2016 ) or successor guidance.
+  - **(6)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 2330a(g)(5) of this title ). 1 1 See References in Text note below.
+  - **(7)** The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41 .
+  - **(8)**
     - **(A)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
     - **(B)** The terms “small business concern owned and controlled by socially and economically disadvantaged individuals” and “small business concern owned and controlled by women” have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act ( 15 U.S.C. 637(d)(3) ).

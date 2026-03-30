@@ -3,9 +3,9 @@ title: "Section 494 - Nuclear force reductions"
 usc_title: 10
 usc_section: "494"
 chapter: 24
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 494"
-generated_at: "2026-03-30T07:01:27.902Z"
+generated_at: "2026-03-30T07:03:43.720Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
     - **(B)** such investments could enable additional future reductions in the hedge stockpile.
   - **(2)** Not later than March 1, 2012 , and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
     - **(A)** An accounting of the weapons in the stockpile as of the end of the fiscal year preceding the submission of the report that includes all weapons in the active and inactive stockpiles, both deployed and non-deployed, and all categories and readiness states of such weapons.
-    - **(B)** The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under section 221 of title 10 for the fiscal year following the fiscal year in which the report is submitted.
+    - **(B)** The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under section 221 of this title for the fiscal year following the fiscal year in which the report is submitted.
 - **(c)**
   - **(1)** If, during any year beginning after December 31, 2011 , the President makes a proposal described in paragraph (2)—
     - **(A)** the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;

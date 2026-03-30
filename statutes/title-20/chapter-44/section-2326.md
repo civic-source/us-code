@@ -3,9 +3,9 @@ title: "Section 2326 - Native American programs"
 usc_title: 20
 usc_section: "2326"
 chapter: 44
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 2326"
-generated_at: "2026-03-30T07:01:56.722Z"
+generated_at: "2026-03-30T07:04:27.796Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(2)** applications from tribally controlled colleges or universities that—
     - **(A)** are accredited or are candidates for accreditation by a nationally recognized accreditation organization as an institution of postsecondary career and technical education; or
     - **(B)** operate career and technical education programs that are accredited or are candidates for accreditation by a nationally recognized accreditation organization, and issue certificates for completion of career and technical education programs.
-- **(f)** Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.).
+- **(f)** Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.). 1 1 See References in Text note below.
 - **(g)** Nothing in this section shall be construed—
   - **(1)** to limit the eligibility of any organization, tribe, or entity described in subsection (b) to participate in any activity offered by an eligible agency or eligible recipient under this subchapter; or
   - **(2)** to preclude or discourage any agreement, between any organization, tribe, or entity described in subsection (b) and any eligible agency or eligible recipient, to facilitate the provision of services by such eligible agency or eligible recipient to the population served by such eligible agency or eligible recipient.

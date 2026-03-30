@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 103–199, title V , § 501(c), Dec. 17, 1
 usc_title: 22
 usc_section: "2"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T07:02:32.856Z"
+generated_at: "2026-03-30T07:04:37.879Z"
 status: "repealed"
 ---
 

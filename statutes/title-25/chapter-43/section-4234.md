@@ -3,9 +3,9 @@ title: "Section 4234 - Repayment"
 usc_title: 25
 usc_section: "4234"
 chapter: 43
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 4234"
-generated_at: "2026-03-30T07:02:25.179Z"
+generated_at: "2026-03-30T07:04:34.936Z"
 status: "active"
 ---
 

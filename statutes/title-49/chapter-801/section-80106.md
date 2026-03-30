@@ -3,9 +3,9 @@ title: "Section 80106 - Transfer without negotiation"
 usc_title: 49
 usc_section: "80106"
 chapter: 801
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 80106"
-generated_at: "2026-03-30T07:03:12.405Z"
+generated_at: "2026-03-30T07:05:28.496Z"
 status: "active"
 ---
 

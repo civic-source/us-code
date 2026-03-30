@@ -3,9 +3,9 @@ title: "Section 865 - Source rules for personal property sales"
 usc_title: 26
 usc_section: "865"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 865"
-generated_at: "2026-03-30T07:02:42.316Z"
+generated_at: "2026-03-30T07:04:56.764Z"
 status: "active"
 ---
 
@@ -67,7 +67,7 @@ status: "active"
 - **(h)**
   - **(1)** In the case of gain to which this subsection applies—
     - **(A)** such gain shall be sourced outside the United States, but
-    - **(B)** subsections (a), (b), and (c) of section 904 and sections 902, 907, and 960 shall be applied separately with respect to such gain.
+    - **(B)** subsections (a), (b), and (c) of section 904 and sections 907 and 960 shall be applied separately with respect to such gain.
   - **(2)** This subsection shall apply to—
     - **(A)** Any gain—
       - **(i)** which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,

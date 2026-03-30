@@ -3,9 +3,9 @@ title: "Section 2014 - Authorization of appropriations"
 usc_title: 38
 usc_section: "2014"
 chapter: 20
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "38 U.S.C. § 2014"
-generated_at: "2026-03-30T07:02:51.367Z"
+generated_at: "2026-03-30T07:05:05.967Z"
 status: "active"
 ---
 

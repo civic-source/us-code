@@ -3,9 +3,9 @@ title: "Section 501 - Postage stamps, postage meter stamps, and postal cards"
 usc_title: 18
 usc_section: "501"
 chapter: 25
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 501"
-generated_at: "2026-03-30T07:01:54.117Z"
+generated_at: "2026-03-30T07:04:31.701Z"
 status: "active"
 ---
 

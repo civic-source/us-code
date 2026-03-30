@@ -3,9 +3,9 @@ title: "Section 308i - Special pay: prior service enlistment bonus"
 usc_title: 37
 usc_section: "308i"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 308i"
-generated_at: "2026-03-30T07:02:49.450Z"
+generated_at: "2026-03-30T07:05:02.834Z"
 status: "active"
 ---
 
@@ -33,4 +33,4 @@ status: "active"
   - **(2)** A person may not be paid more than one six-year bonus or two three-year bonuses under this section.
 - **(d)** A person who receives a bonus payment under this section and who, during the period for which the bonus was paid, does not serve satisfactorily in the element of the Selected Reserve with respect to which the bonus was paid shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
-- **(f)** No bonus may be paid under this section to any person for an enlistment after December 31, 2017 .
+- **(f)** No bonus may be paid under this section to any person for an enlistment after December 31, 2018 .

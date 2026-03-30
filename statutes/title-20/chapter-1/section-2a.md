@@ -3,9 +3,9 @@ title: "Section 2a - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 20
 usc_section: "2a"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 2a"
-generated_at: "2026-03-30T07:01:56.642Z"
+generated_at: "2026-03-30T07:04:27.710Z"
 status: "repealed"
 ---
 

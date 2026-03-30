@@ -3,9 +3,9 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-30T07:02:42.383Z"
+generated_at: "2026-03-30T07:04:56.835Z"
 status: "active"
 ---
 
@@ -29,14 +29,14 @@ status: "active"
     - **(B)** An amount equal to the following percentage of the excess of the taxpayer’s household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:
       - **(i)** 1.0 percent for taxable years beginning in 2014.
       - **(ii)** 2.0 percent for taxable years beginning in 2015.
-      - **(iii)** 2.5 percent for taxable years beginning after 2015.
+      - **(iii)** Zero percent for taxable years beginning after 2015.
   - **(3)** For purposes of paragraph (1)—
-    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $695.
+    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
     - **(B)** The applicable dollar amount is $95 for 2014 and $325 for 2015.
     - **(C)** If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
     - **(D)** In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
       - **(i)** $695, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B)for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** For purposes of this section—
     - **(A)** The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
     - **(B)** The term “household income” means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—
@@ -69,7 +69,7 @@ status: "active"
     - **(B)** For purposes of this paragraph, the term “required contribution” means—
       - **(i)** in the case of an individual eligible to purchase minimum essential coverage consisting of coverage through an eligible-employer-sponsored plan, the portion of the annual premium which would be paid by the individual (without regard to whether paid through salary reduction or otherwise) for self-only coverage, or
       - **(ii)** in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), the annual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
-    - **(C)** For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 1 1 So in original. Probably should be followed by “the”. required contribution of the employee.
+    - **(C)** For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 2 2 So in original. Probably should be followed by “the”. required contribution of the employee.
     - **(D)** In the case of plan years beginning in any calendar year after 2014, subparagraph (A) shall be applied by substituting for “8 percent” the percentage the Secretary of Health and Human Services determines reflects the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.
   - **(2)** Any applicable individual for any month during a calendar year if the individual’s household income for the taxable year described in section 1412(b)(1)(B) of the Patient Protection and Affordable Care Act is less than the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.
   - **(3)** Any applicable individual for any month during which the individual is a member of an Indian tribe (as defined in section 45A(c)(6)).
@@ -86,9 +86,9 @@ status: "active"
       - **(i)** the Medicare program under part A of title XVIII of the Social Security Act,
       - **(ii)** the Medicaid program under title XIX of the Social Security Act,
       - **(iii)** the CHIP program under title XXI of the Social Security Act,
-      - **(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 2 2 So in original. The semicolon probably should be a comma.
+      - **(iv)** medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 3 3 So in original. The semicolon probably should be a comma.
       - **(v)** a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
-      - **(vi)** a health plan under section 2504(e) of title 22 , United States Code (relating to Peace Corps volunteers); 2 or
+      - **(vi)** a health plan under section 2504(e) of title 22 , United States Code (relating to Peace Corps volunteers); 3 or
       - **(vii)** the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 ( Public Law 103–337 ; 10 U.S.C. 1587 note).
     - **(B)** Coverage under an eligible employer-sponsored plan.
     - **(C)** Coverage under a health plan offered in the individual market within a State.

@@ -3,9 +3,9 @@ title: "Section 68 - Enforcement of customs and immigration laws in Guam and the
 usc_title: 19
 usc_section: "68"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 68"
-generated_at: "2026-03-30T07:02:01.673Z"
+generated_at: "2026-03-30T07:04:19.032Z"
 status: "active"
 ---
 

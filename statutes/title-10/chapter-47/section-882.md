@@ -3,9 +3,9 @@ title: "Section 882 - Art. 82. Solicitation"
 usc_title: 10
 usc_section: "882"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 882"
-generated_at: "2026-03-30T07:01:27.917Z"
+generated_at: "2026-03-30T07:03:43.733Z"
 status: "active"
 ---
 

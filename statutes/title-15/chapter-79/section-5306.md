@@ -3,9 +3,9 @@ title: "Section 5306 - Industrial Advisory Board"
 usc_title: 15
 usc_section: "5306"
 chapter: 79
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 5306"
-generated_at: "2026-03-30T07:01:50.964Z"
+generated_at: "2026-03-30T07:03:49.335Z"
 status: "active"
 ---
 

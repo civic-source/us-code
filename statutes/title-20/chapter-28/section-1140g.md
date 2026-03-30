@@ -3,9 +3,9 @@ title: "Section 1140g - Model comprehensive transition and postsecondary program
 usc_title: 20
 usc_section: "1140g"
 chapter: 28
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 1140g"
-generated_at: "2026-03-30T07:01:56.699Z"
+generated_at: "2026-03-30T07:04:27.772Z"
 status: "active"
 ---
 

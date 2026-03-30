@@ -3,9 +3,9 @@ title: "Section 6422 - Cross references"
 usc_title: 26
 usc_section: "6422"
 chapter: 65
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6422"
-generated_at: "2026-03-30T07:02:42.416Z"
+generated_at: "2026-03-30T07:04:56.867Z"
 status: "active"
 ---
 
@@ -22,4 +22,3 @@ status: "active"
   - **(9)** For set-off of claims against amounts due the United States, see section 3728 of title 31 , United States Code.
   - **(10)** For special provisions relating to alcohol and tobacco taxes, see subtitle E.
   - **(11)** for 2 2 So in original. Probably should be capitalized. credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
-  - **(12)** For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.

@@ -3,9 +3,9 @@ title: "Section 1401a - Adjustment of retired pay and retainer pay to reflect ch
 usc_title: 10
 usc_section: "1401a"
 chapter: 71
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1401a"
-generated_at: "2026-03-30T07:01:27.941Z"
+generated_at: "2026-03-30T07:03:43.753Z"
 status: "active"
 ---
 
@@ -21,7 +21,8 @@ status: "active"
     - **(A)** the percent determined under paragraph (2); and
     - **(B)** 1 percent.
   - **(4)** If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
-  - **(5)** Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
+  - **(5)** Notwithstanding paragraph (3), if a member or former member participates in the modernized retirement system by reason of section 1409(b)(4) of this title (including pursuant to an election under subparagraph (B) of that section), the Secretary shall increase the retired pay of such member in accordance with paragraph (2).
+  - **(6)** Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
 - **(c)**
   - **(1)** Notwithstanding subsection (b) but subject to subsection (f)(3), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
     - **(A)** the price index for the base quarter of that year, exceeds

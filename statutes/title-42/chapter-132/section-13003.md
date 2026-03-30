@@ -3,9 +3,9 @@ title: "Section 13003 - Transferred"
 usc_title: 42
 usc_section: "13003"
 chapter: 132
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 13003"
-generated_at: "2026-03-30T07:03:05.095Z"
+generated_at: "2026-03-30T07:05:21.942Z"
 status: "transferred"
 ---
 

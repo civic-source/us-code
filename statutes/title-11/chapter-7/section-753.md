@@ -3,9 +3,9 @@ title: "Section 753 - Stockbroker liquidation and forward contract merchants, co
 usc_title: 11
 usc_section: "753"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "11 U.S.C. § 753"
-generated_at: "2026-03-30T07:01:36.442Z"
+generated_at: "2026-03-30T07:03:46.194Z"
 status: "active"
 ---
 

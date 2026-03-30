@@ -3,9 +3,9 @@ title: "Section 775 - Repealed. Pub. L. 113–128, title IV , § 443(1), July 22
 usc_title: 29
 usc_section: "775"
 chapter: 16
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "29 U.S.C. § 775"
-generated_at: "2026-03-30T07:02:36.532Z"
+generated_at: "2026-03-30T07:04:44.526Z"
 status: "repealed"
 ---
 

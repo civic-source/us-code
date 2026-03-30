@@ -3,9 +3,9 @@ title: "Section 4611 - Biennial reports to President and Congress; comments, fin
 usc_title: 22
 usc_section: "4611"
 chapter: 56
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 4611"
-generated_at: "2026-03-30T07:02:32.949Z"
+generated_at: "2026-03-30T07:04:37.975Z"
 status: "active"
 ---
 

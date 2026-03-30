@@ -3,9 +3,9 @@ title: "Section 40701 - The Debbie Smith DNA Backlog Grant Program"
 usc_title: 34
 usc_section: "40701"
 chapter: 407
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 40701"
-generated_at: "2026-03-30T07:02:45.036Z"
+generated_at: "2026-03-30T07:04:59.531Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
     - **(B)** For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
     - **(C)** For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
-  - **(4)** For each of fiscal years 2014 through 2017, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+  - **(4)** For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 - **(d)**
   - **(1)** A plan pursuant to subsection (b)(1) shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
     - **(A)** operated by the State or a unit of local government; or

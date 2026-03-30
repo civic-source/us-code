@@ -3,9 +3,9 @@ title: "Section 2804 - Enforcement"
 usc_title: 12
 usc_section: "2804"
 chapter: 29
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 2804"
-generated_at: "2026-03-30T07:01:44.385Z"
+generated_at: "2026-03-30T07:04:15.166Z"
 status: "active"
 ---
 

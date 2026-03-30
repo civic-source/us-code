@@ -3,9 +3,9 @@ title: "Section 974 - Military musical units and musicians: performance policies
 usc_title: 10
 usc_section: "974"
 chapter: 49
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 974"
-generated_at: "2026-03-30T07:01:27.922Z"
+generated_at: "2026-03-30T07:03:43.737Z"
 status: "active"
 ---
 
@@ -42,6 +42,5 @@ status: "active"
 - **(d)**
   - **(1)** The Secretary concerned may accept contributions of money, personal property, or services on the condition that such money, property, or services be used for the benefit of a military musical unit under the jurisdiction of the Secretary.
   - **(2)** Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
-  - **(3)** Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.
 - **(e)** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
 - **(f)** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.

@@ -3,9 +3,9 @@ title: "Section 5016 - Assistant Secretaries of the Navy"
 usc_title: 10
 usc_section: "5016"
 chapter: 503
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5016"
-generated_at: "2026-03-30T07:01:28.019Z"
+generated_at: "2026-03-30T07:03:43.818Z"
 status: "active"
 ---
 
@@ -15,7 +15,10 @@ status: "active"
 - **(b)**
   - **(1)** The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
   - **(2)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Navy.
-  - **(3)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
+  - **(3)**
+    - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Financial Management.
+    - **(B)** The Assistant Secretary shall be appointed from among persons who have significant budget, financial management, or audit experience in complex organizations.
+    - **(C)** The principal responsibility of the Assistant Secretary shall be the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
   - **(4)**
     - **(A)** One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, and acquisition matters of the Department of the Navy.
     - **(B)** The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Navy or the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title . In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.

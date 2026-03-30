@@ -3,9 +3,9 @@ title: "Section 10389 - Definitions"
 usc_title: 34
 usc_section: "10389"
 chapter: 101
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 10389"
-generated_at: "2026-03-30T07:02:45.002Z"
+generated_at: "2026-03-30T07:04:59.498Z"
 status: "active"
 ---
 

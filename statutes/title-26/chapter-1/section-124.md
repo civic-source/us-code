@@ -3,9 +3,9 @@ title: "Section 124 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(9), No
 usc_title: 26
 usc_section: "124"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 124"
-generated_at: "2026-03-30T07:02:42.228Z"
+generated_at: "2026-03-30T07:04:56.674Z"
 status: "repealed"
 ---
 

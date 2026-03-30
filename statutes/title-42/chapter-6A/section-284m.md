@@ -3,9 +3,9 @@ title: "Section 284m - Program for pediatric studies of drugs"
 usc_title: 42
 usc_section: "284m"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 284m"
-generated_at: "2026-03-30T07:03:04.523Z"
+generated_at: "2026-03-30T07:05:21.400Z"
 status: "active"
 ---
 

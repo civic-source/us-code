@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-30T07:02:42.239Z"
+generated_at: "2026-03-30T07:04:56.685Z"
 status: "active"
 ---
 
@@ -47,6 +47,9 @@ status: "active"
         - **(I)** shall reflect the provisions of this paragraph,
         - **(II)** shall be based on the average consumption by taxpayers on a State-by-State basis (as determined by the Secretary) of items to which clause (i)(I) does not apply, taking into account filing status, number of dependents, adjusted gross income, and rates of State and local general sales taxation, and
         - **(III)** need only be determined with respect to adjusted gross incomes up to the applicable amount (as determined under section 68(b)).
+  - **(6)** In the case of an individual and a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+    - **(A)** foreign real property taxes shall not be taken into account under subsection (a)(1), and
+    - **(B)** the aggregate amount of taxes taken into account under paragraphs (1), (2), and (3) of subsection (a) and paragraph (5) of this subsection for any taxable year shall not exceed $10,000 ($5,000 in the case of a married individual filing a separate return).
 - **(c)** No deduction shall be allowed for the following taxes:
   - **(1)** Taxes assessed against local benefits of a kind tending to increase the value of the property assessed; but this paragraph shall not prevent the deduction of so much of such taxes as is properly allocable to maintenance or interest charges.
   - **(2)** Taxes on real property, to the extent that subsection (d) requires such taxes to be treated as imposed on another taxpayer.

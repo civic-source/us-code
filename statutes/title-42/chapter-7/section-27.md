@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T07:03:04.708Z"
+generated_at: "2026-03-30T07:05:21.576Z"
 status: "active"
 ---
 

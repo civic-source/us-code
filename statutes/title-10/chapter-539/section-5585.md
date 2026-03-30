@@ -3,9 +3,9 @@ title: "Section 5585 - Regular Marine Corps: order of filling vacancies in grade
 usc_title: 10
 usc_section: "5585"
 chapter: 539
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5585"
-generated_at: "2026-03-30T07:01:28.021Z"
+generated_at: "2026-03-30T07:03:43.820Z"
 status: "active"
 ---
 

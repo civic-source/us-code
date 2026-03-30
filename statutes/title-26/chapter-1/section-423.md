@@ -3,9 +3,9 @@ title: "Section 423 - Employee stock purchase plans"
 usc_title: 26
 usc_section: "423"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 423"
-generated_at: "2026-03-30T07:02:42.278Z"
+generated_at: "2026-03-30T07:04:56.725Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** employees whose customary employment is 20 hours or less per week,
     - **(C)** employees whose customary employment is for not more than 5 months in any calendar year, and
     - **(D)** highly compensated employees (within the meaning of section 414(q));
-  - **(5)** under the terms of the plan, all employees granted such options shall have the same rights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, and the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan;
+  - **(5)** under the terms of the plan, all employees granted such options shall have the same rights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan, and the rules of section 83(i) shall apply in determining which employees have a right to make an election under such section;
   - **(6)** under the terms of the plan, the option price is not less than the lesser of—
     - **(A)** an amount equal to 85 percent of the fair market value of the stock at the time such option is granted, or
     - **(B)** an amount which under the terms of the option may not be less than 85 percent of the fair market value of the stock at the time such option is exercised;
@@ -38,3 +38,4 @@ status: "active"
 - **(c)** If the option price of a share of stock acquired by an individual pursuant to a transfer to which subsection (a) applies was less than 100 percent of the fair market value of such share at the time such option was granted, then, in the event of any disposition of such share by him which meets the holding period requirements of subsection (a), or in the event of his death (whenever occurring) while owning such share, there shall be included as compensation (and not as gain upon the sale or exchange of a capital asset) in his gross income, for the taxable year in which falls the date of such disposition or for the taxable year closing with his death, whichever applies, an amount equal to the lesser of—
   - **(1)** the excess of the fair market value of the share at the time of such disposition or death over the amount paid for the share under the option, or
   - **(2)** the excess of the fair market value of the share at the time the option was granted over the option price.
+- **(d)** An option for which an election is made under section 83(i) with respect to the stock received in connection with its exercise shall not be considered as granted pursuant an employee stock purchase plan.

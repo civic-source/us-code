@@ -1,27 +1,27 @@
 ---
-title: "Section 2914 - Energy resiliency and conservation construction projects"
+title: "Section 2914 - Energy resiliency 1 1 So in original. Probably should be “resilience”. and conservation construction projects"
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T07:01:28.009Z"
+generated_at: "2026-03-30T07:03:43.809Z"
 status: "active"
 ---
 
-# § 2914. Energy resiliency and conservation construction projects
+# § 2914. Energy resiliency 1 1 So in original. Probably should be “resilience”. and conservation construction projects
 
-- **(a)** The Secretary of Defense may carry out a military construction project for energy resiliency, energy security, or energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+- **(a)** The Secretary of Defense may carry out a military construction project for energy resilience, energy security, or energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 - **(b)**
-  - **(1)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
+  - **(1)** When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title .
   - **(2)** The Secretary of Defense shall include in each notification submitted under paragraph (1) the following information:
     - **(A)** In the case of a military construction project for energy conservation, the justification and current cost estimate for the project, the expected savings-to-investment ratio, simple payback estimates, and the project’s measurement and verification cost estimate.
-    - **(B)** In the case of a military construction project for energy resiliency or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
+    - **(B)** In the case of a military construction project for energy resilience or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
 - **(c)** Not later than 90 days after the end of each fiscal year (beginning with fiscal year 2017), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
   - **(1)** The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
   - **(2)** In the case of a military construction project for energy conservation—
     - **(A)** the original expected savings-to-investment ratio and simple payback estimates and measurement and verification cost estimate;
     - **(B)** the most current expected savings-to-investment ratio and simple payback estimates and measurement and verification plan and costs; and
     - **(C)** a brief description of the measurement and verification plan and planned funding source.
-  - **(3)** In the case of a military construction project for energy resiliency or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
+  - **(3)** In the case of a military construction project for energy resilience or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
   - **(4)** Such other information as the Secretary considers appropriate.

@@ -3,9 +3,9 @@ title: "Section 162 - Combatant commands: assigned forces; chain of command"
 usc_title: 10
 usc_section: "162"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 162"
-generated_at: "2026-03-30T07:01:27.891Z"
+generated_at: "2026-03-30T07:03:43.710Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
     - **(A)** by authority of the Secretary of Defense; and
     - **(B)** under procedures prescribed by the Secretary and approved by the President.
-  - **(4)** Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of, 1 1 So in original. The comma probably should not appear. the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
+  - **(4)** Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
 - **(b)** Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
   - **(1)** from the President to the Secretary of Defense; and
   - **(2)** from the Secretary of Defense to the commander of the combatant command.

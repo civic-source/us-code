@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T07:02:42.268Z"
+generated_at: "2026-03-30T07:04:56.716Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(C)** Section 219(g)(4) shall apply for purposes of this paragraph.
     - **(D)** In the case of any taxable year beginning in a calendar year after 2006, the dollar amounts in subclauses (I) and (II) of subparagraph (B)(ii) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
   - **(5)** Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
     - **(A)** Section 401(a)(9)(A).
@@ -85,6 +85,7 @@ status: "active"
     - **(B)**
       - **(i)** Subparagraph (A) shall not apply to the transfer of any contribution unless such transfer is accompanied by any net income allocable to such contribution.
       - **(ii)** Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
+      - **(iii)** Subparagraph (A) shall not apply in the case of a qualified rollover contribution to which subsection (d)(3) applies (including by reason of subparagraph (C) thereof).
   - **(7)** For purposes of this subsection, the due date for any taxable year is the date prescribed by law (including extensions of time) for filing the taxpayer’s return for such taxable year.
 - **(e)** For purposes of this section—
   - **(1)** The term “qualified rollover contribution” means a rollover contribution—

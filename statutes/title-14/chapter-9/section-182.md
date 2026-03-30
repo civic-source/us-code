@@ -3,9 +3,9 @@ title: "Section 182 - Cadets; number, appointment, obligation to serve"
 usc_title: 14
 usc_section: "182"
 chapter: 9
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "14 U.S.C. § 182"
-generated_at: "2026-03-30T07:01:35.774Z"
+generated_at: "2026-03-30T07:03:45.876Z"
 status: "active"
 ---
 
@@ -32,4 +32,4 @@ status: "active"
 - **(f)**
   - **(1)** This section does not apply to a cadet who is not a citizen or national of the United States.
   - **(2)** In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (b) only with the consent of the parent or guardian.
-- **(g)** A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) of title 37 .
+- **(g)** A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.

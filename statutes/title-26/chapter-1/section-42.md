@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T07:02:42.209Z"
+generated_at: "2026-03-30T07:04:56.655Z"
 status: "active"
 ---
 
@@ -141,7 +141,7 @@ status: "active"
     - **(C)** The determination under subparagraph (A) shall be made as of the close of the 1st taxable year in the credit period with respect to such expenditures.
     - **(D)** In the case of any expenditures which are treated under paragraph (4) as placed in service during any calendar year after 2009, the $6,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2008” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** For purposes of applying this section with respect to expenditures which are treated as a separate building by reason of this subsection—
     - **(A)** such expenditures shall be treated as placed in service at the close of the 24-month period referred to in paragraph (3)(A), and
     - **(B)** the applicable fraction under subsection (c)(1) shall be the applicable fraction for the building (without regard to paragraph (1)) with respect to which the expenditures were incurred.
@@ -271,7 +271,7 @@ status: "active"
     - **(H)**
       - **(i)** In the case of a calendar year after 2002, the $2,000,000 and $1.75 amounts in subparagraph (C) shall each be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(ii)**
         - **(I)** In the case of the $2,000,000 amount, any increase under clause (i) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
         - **(II)** In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
@@ -327,8 +327,8 @@ status: "active"
     - **(G)**
       - **(i)** For purposes of subparagraph (E), the term “adjusted investor equity” means, with respect to any calendar year, the aggregate amount of cash taxpayers invested with respect to the project increased by the amount equal to—
         - **(I)** such amount, multiplied by
-        - **(II)** the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for “calendar year 1987”.
-      - **(ii)** Under regulations prescribed by the Secretary, if the CPI for any calendar year (as defined in section 1(f)(4)) exceeds the CPI for the preceding calendar year by more than 5 percent, the CPI for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i).
+        - **(II)** the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** Under regulations prescribed by the Secretary, if the C-CPI-U for any calendar year (as defined in section 1(f)(6)) exceeds the C-CPI-U for the preceding calendar year by more than 5 percent, the C-CPI-U for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i). In the case of a base calendar year before 2017, the C-CPI-U for such year shall be determined by multiplying the CPI for such year by the amount determined under section 1(f)(3)(B).
       - **(iii)** For purposes of this subparagraph, the term “base calendar year” means the calendar year with or within which the 1st taxable year of the credit period ends.
     - **(H)** For purposes of this paragraph, the low-income portion of a building is the portion of such building equal to the applicable fraction specified in the extended low-income housing commitment for the building.
     - **(I)** The period referred to in this subparagraph is the 1-year period beginning on the date (after the 14th year of the compliance period) the taxpayer submits a written request to the housing credit agency to find a person to acquire the taxpayer’s interest in the low-income portion of the building.

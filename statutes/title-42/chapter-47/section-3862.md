@@ -3,9 +3,9 @@ title: "Section 3862 - Omitted"
 usc_title: 42
 usc_section: "3862"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 3862"
-generated_at: "2026-03-30T07:03:04.885Z"
+generated_at: "2026-03-30T07:05:21.742Z"
 status: "omitted"
 ---
 

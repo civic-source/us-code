@@ -3,9 +3,9 @@ title: "Section 53 - Credit for prior year minimum tax liability"
 usc_title: 26
 usc_section: "53"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 53"
-generated_at: "2026-03-30T07:02:42.218Z"
+generated_at: "2026-03-30T07:04:56.665Z"
 status: "active"
 ---
 
@@ -31,4 +31,12 @@ status: "active"
       - **(iii)** In the case of a corporation—
         - **(I)** the preceding provisions of this subparagraph shall not apply, and
         - **(II)** the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year.
-  - **(2)** The term “tentative minimum tax” has the meaning given to such term by section 55(b).
+  - **(2)** The term “tentative minimum tax” has the meaning given to such term by section 55(b), except that in the case of a corporation, the tentative minimum tax shall be treated as zero.
+  - **(3)** In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act. 1 1 So in original. Probably should be “the Tax Cuts and Jobs Act”.
+- **(e)**
+  - **(1)** In the case of any taxable year of a corporation beginning in 2018, 2019, 2020, or 2021, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
+  - **(2)** For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2021) of the excess (if any) of—
+    - **(A)** the minimum tax credit determined under subsection (b) for the taxable year, over
+    - **(B)** the minimum tax credit allowed under subsection (a) for such year (before the application of this subsection for such year).
+  - **(3)** For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as a credit allowed under subpart C (and not this subpart).
+  - **(4)** In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.

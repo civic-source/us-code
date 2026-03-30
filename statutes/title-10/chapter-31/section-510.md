@@ -3,9 +3,9 @@ title: "Section 510 - Enlistment incentives for pursuit of skills to facilitate 
 usc_title: 10
 usc_section: "510"
 chapter: 31
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 510"
-generated_at: "2026-03-30T07:01:27.903Z"
+generated_at: "2026-03-30T07:03:43.721Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
     - **(B)**
       - **(i)** A participant who made an election not to receive educational assistance under either such chapter at the applicable time specified under law or who was denied the opportunity to make an election may revoke that election or make an initial election, as the case may be, at such time and in such manner as the Secretary concerned may specify. A revocation or initial election under the preceding sentence is irrevocable.
       - **(ii)** The participant making a revocation or initial election under clause (i) shall be eligible for educational assistance under either such chapter at such time as the participant satisfies through service the applicable eligibility requirements under either such chapter.
-- **(i)** If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37 .
+- **(i)** If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(j)**
   - **(1)** Amounts for the payment of incentives under paragraphs (1) and (2) of subsection (e) shall be derived from amounts available to the Secretary of the military department concerned for the payment of pay, allowances and other expenses of the members of the armed force concerned.
   - **(2)** Amounts for the payment of incentives under paragraphs (3) and (4) of subsection (e) shall be derived from the Department of Defense Education Benefits Fund under section 2006 of this title .

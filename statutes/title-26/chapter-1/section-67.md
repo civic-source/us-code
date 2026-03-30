@@ -3,9 +3,9 @@ title: "Section 67 - 2-percent floor on miscellaneous itemized deductions"
 usc_title: 26
 usc_section: "67"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 67"
-generated_at: "2026-03-30T07:02:42.222Z"
+generated_at: "2026-03-30T07:04:56.667Z"
 status: "active"
 ---
 
@@ -45,3 +45,4 @@ status: "active"
   - **(1)** the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and which would not have been incurred if the property were not held in such trust or estate, and
   - **(2)** the deductions allowable under sections 642(b), 651, and 661,
 - **(f)** This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
+- **(g)** Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017 , and before January 1, 2026 .

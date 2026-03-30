@@ -3,9 +3,9 @@ title: "Section 154110 - Service of process"
 usc_title: 36
 usc_section: "154110"
 chapter: 1541
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "36 U.S.C. § 154110"
-generated_at: "2026-03-30T07:02:49.134Z"
+generated_at: "2026-03-30T07:05:06.717Z"
 status: "active"
 ---
 

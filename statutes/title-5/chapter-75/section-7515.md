@@ -3,9 +3,9 @@ title: "Section 7515 - Discipline of supervisors based on retaliation against wh
 usc_title: 5
 usc_section: "7515"
 chapter: 75
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 7515"
-generated_at: "2026-03-30T07:01:18.837Z"
+generated_at: "2026-03-30T07:03:32.332Z"
 status: "active"
 ---
 
@@ -13,29 +13,27 @@ status: "active"
 
 - **(a)** In this section—
   - **(1)** the term “agency”—
-    - **(A)** except as provided in subparagraph (B), means an entity that is an agency, as defined under section 2302, without regard to whether any other provision of this chapter is applicable to the entity; and
-    - **(B)** does not include any entity that is an element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) );
+    - **(A)** has the meaning given the term in section 2302(a)(2)(C), without regard to whether any other provision of this chapter is applicable to the entity; and
+    - **(B)** does not include any entity that is an element of the intelligence community, as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 );
   - **(2)** the term “prohibited personnel action” means taking or failing to take an action in violation of paragraph (8), (9), or (14) of section 2302(b) against an employee of an agency; and
-  - **(3)** the term “supervisor” means an employee who would be a supervisor, as defined under section 7103(a), if the entity employing the employee was an agency.
+  - **(3)** the term “supervisor” means an employee who would be a supervisor, as defined in section 7103(a), if the entity employing the employee was an agency.
 - **(b)**
-  - **(1)** If the head of the agency employing a supervisor, an administrative law judge, the Merit Systems Protection Board, the Special Counsel, a judge of the United States, or the Inspector General of the agency employing a supervisor determines that the supervisor has committed a prohibited personnel action, the head of the agency employing the supervisor, in accordance with the procedures required under paragraph (2)—
-    - **(A)** for the first prohibited personnel action committed by a supervisor—
-      - **(i)** shall propose suspending the supervisor for a period of not less than 3 days; and
-      - **(ii)** may, in addition to a suspension described in clause (i), propose any other action, including a reduction in grade or pay, that the head of the agency determines appropriate; and
-    - **(B)** for the second prohibited personnel action committed by a supervisor, shall propose removing the supervisor.
+  - **(1)** Subject to section 1214(f), if the head of the agency in which a supervisor is employed, an administrative law judge, the Merit Systems Protection Board, the Special Counsel, a judge of the United States, or the Inspector General of the agency in which a supervisor is employed has determined that the supervisor committed a prohibited personnel action, the head of the agency in which the supervisor is employed, consistent with the procedures required under paragraph (2)—
+    - **(A)** for the first prohibited personnel action committed by the supervisor—
+      - **(i)** shall propose suspending the supervisor for a period that is not less than 3 days; and
+      - **(ii)** may propose an additional action determined appropriate by the head of the agency, including a reduction in grade or pay; and
+    - **(B)** for the second prohibited personnel action committed by the supervisor, shall propose removing the supervisor.
   - **(2)**
-    - **(A)** A supervisor against whom an action is proposed to be taken under paragraph (1) is entitled to written notice—
-      - **(i)** stating the specific reasons for the proposed action; and
-      - **(ii)** informing the supervisor of the right of the supervisor to review the material which is relied on to support the reasons for the proposed action.
+    - **(A)** A supervisor against whom an action is proposed to be taken under paragraph (1) is entitled to written notice that—
+      - **(i)** states the specific reasons for the proposed action; and
+      - **(ii)** informs the supervisor about the right of the supervisor to review the material that is relied on to support the reasons given in the notice for the proposed action.
     - **(B)**
-      - **(i)** A supervisor who is notified under subparagraph (A) that the supervisor is the subject of a proposed action under paragraph (1) is entitled to 14 days following such notification to answer and furnish evidence in support of the answer.
-      - **(ii)** After the end of the 14-day period described in clause (i), if a supervisor does not furnish evidence as described in clause (i) or if the head of the agency determines that such evidence is not sufficient to reverse the proposed action, the head of the agency shall carry out the action.
+      - **(i)** A supervisor who receives notice under subparagraph (A) may, not later than 14 days after the date on which the supervisor receives the notice, submit an answer and furnish evidence in support of that answer.
+      - **(ii)** If, after the end of the 14-day period described in clause (i), a supervisor does not furnish any evidence as described in that clause, or if the head of the agency in which the supervisor is employed determines that the evidence furnished by the supervisor is insufficient, the head of the agency shall carry out the action proposed under subparagraph (A) or (B) of paragraph (1), as applicable.
     - **(C)** An action carried out under this section—
-      - **(i)** except as provided in clause (ii), shall be subject to the same requirements and procedures (including regarding appeals) as an action under section 7503, 7513, or 7543; and
+      - **(i)** except as provided in clause (ii), shall be subject to the same requirements and procedures, including those with respect to an appeal, as an action under section 7503, 7513, or 7543; and
       - **(ii)** shall not be subject to—
         - **(I)** paragraphs (1) and (2) of section 7503(b);
-        - **(II)** paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7513; or
+        - **(II)** paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7513; and
         - **(III)** paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7543.
-  - **(3)**
-    - **(A)** Except as provided in paragraph (B), the head of an agency may delegate any authority or responsibility under this subsection.
-    - **(B)** If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of paragraph (1), the head of the agency may not delegate that responsibility.
+  - **(3)** If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of paragraph (1), the head of the agency may not delegate that responsibility.

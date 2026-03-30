@@ -1,35 +1,43 @@
 ---
-title: "Section 8909 - Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses"
+title: "Section 8909 - Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation"
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-30T07:02:32.990Z"
+generated_at: "2026-03-30T07:04:38.016Z"
 status: "active"
 ---
 
-# § 8909. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
+# § 8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation
 
-- **(a)** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person, based on credible information, on or after August 2, 2017 —
-  - **(1)** is responsible for, complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses in any territory forcibly occupied or otherwise controlled by the Government of the Russian Federation;
-  - **(2)** materially assists, sponsors, or provides financial, material, or technological support for, or goods or services to, a foreign person described in paragraph (1); or
-  - **(3)** is owned or controlled by, or acts or purports to act for or on behalf of, directly or indirectly, a foreign person described in paragraph (1).
-- **(b)**
-  - **(1)** The exercise of all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-  - **(2)** In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with section 1201(i) of title 8 , of any visa or other documentation of the alien.
-- **(c)** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+- **(a)** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person knowingly, on or after August 2, 2017 —
+  - **(1)** materially violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition contained in or issued pursuant to any covered Executive order, this chapter, or the Ukraine Freedom Support Act of 2014 ( 22 U.S.C. 8921 et seq.); or
+  - **(2)** facilitates a significant transaction or transactions, including deceptive or structured transactions, for or on behalf of—
+    - **(A)** any person subject to sanctions imposed by the United States with respect to the Russian Federation; or
+    - **(B)** any child, spouse, parent, or sibling of an individual described in subparagraph (A).
+- **(b)** The sanctions described in this subsection are the exercise of all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+- **(c)**
+  - **(1)** The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out subsection (b).
+  - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+- **(d)** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
   - **(1)** a written determination that the waiver—
     - **(A)** is in the vital national security interests of the United States; or
-    - **(B)** will further the enforcement of this chapter; and
-  - **(2)** a certification that the Government of the Russian Federation has made efforts to reduce serious human rights abuses in territory forcibly occupied or otherwise controlled by that Government.
-- **(d)**
-  - **(1)** The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out subsection (b)(1).
-  - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b)(1) or any regulation, license, or order issued to carry out subsection (b)(1) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+    - **(B)** will further the enforcement of this chapter;
+  - **(2)** in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraph (A), (B), (C), or (D) of subsection (f)(1), a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015 , by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014 , and any successor agreements that are agreed to by the Government of Ukraine; and
+  - **(3)** in the case of sanctions imposed under this section in connection with a covered Executive order described in subparagraphs (E) or (F) of subsection (f)(1), a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
 - **(e)** Subject to section 9511 of this title , the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees—
   - **(1)** a notice of and justification for the termination; and
-  - **(2)** a notice—
-    - **(A)** that—
-      - **(i)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
-      - **(ii)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future; or
-    - **(B)** that the President determines that insufficient basis exists for the determination by the President under subsection (a) with respect to the person.
+  - **(2)** a notice that—
+    - **(A)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+    - **(B)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+- **(f)** In this section:
+  - **(1)** The term “covered Executive order” means any of the following:
+    - **(A)** Executive Order No. 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine).
+    - **(B)** Executive Order No. 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine).
+    - **(C)** Executive Order No. 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine).
+    - **(D)** Executive Order No. 13685 (79 Fed. Reg. 77357; relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine).
+    - **(E)** Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), relating to the Russian Federation.
+    - **(F)** Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
+  - **(2)** The term “foreign person” has the meaning given such term in section 595.304 of title 31, Code of Federal Regulations (as in effect on August 2, 2017 ).
+  - **(3)** The term “structured”, with respect to a transaction, has the meaning given the term “structure” in paragraph (xx) of section 1010.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).

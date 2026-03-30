@@ -3,9 +3,9 @@ title: "Section 1077 - Medical care for dependents: authorized care in facilitie
 usc_title: 10
 usc_section: "1077"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1077"
-generated_at: "2026-03-30T07:01:27.931Z"
+generated_at: "2026-03-30T07:03:43.744Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Only the following types of health care may be provided under section 1076 of this title :
   - **(1)** Hospitalization.
   - **(2)** Outpatient care.
-  - **(3)** Drugs, including, in accordance with subsection (g), medically necessary vitamins.
+  - **(3)** Drugs, including, in accordance with subsection (h), medically necessary vitamins.
   - **(4)** Treatment of medical and surgical conditions.
   - **(5)** Treatment of nervous, mental, and chronic conditions.
   - **(6)** Treatment of contagious diseases.
@@ -29,7 +29,7 @@ status: "active"
   - **(15)** Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
   - **(16)** Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
   - **(17)** Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
-  - **(18)** In accordance with subsection (g), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies).
+  - **(18)** In accordance with subsection (h), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies).
 - **(b)** The following types of health care may not be provided under section 1076 of this title :
   - **(1)** Domiciliary or custodial care.
   - **(2)** Orthopedic footwear and spectacles, except that, outside of the United States and at stations inside the United States where adequate civilian facilities are unavailable, such items may be sold to dependents at cost to the United States.
@@ -63,7 +63,7 @@ status: "active"
     - **(A)** achieving therapeutic benefit for the patient;
     - **(B)** making the equipment serviceable; or
     - **(C)** otherwise assuring the proper functioning of the equipment.
-- **(g)** In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents of former members of the uniformed services at cost to the United States.
+- **(g)** In addition to the authority to provide a hearing aid under subsection (a)(16), hearing aids may be sold under this section to dependents eligible for care under this section at cost to the United States.
 - **(h)**
   - **(1)** Vitamins that may be provided under subsection (a)(3) are vitamins used for the management of a covered disease or condition pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation.
   - **(2)** Medically necessary food that may be provided under subsection (a)(18)—

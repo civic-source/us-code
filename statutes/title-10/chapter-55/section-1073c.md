@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-30T07:01:27.928Z"
+generated_at: "2026-03-30T07:03:43.742Z"
 status: "active"
 ---
 
@@ -17,12 +17,13 @@ status: "active"
     - **(B)** information technology;
     - **(C)** health care administration and management;
     - **(D)** administrative policy and procedure;
-    - **(E)** miliary 1 1 So in original. Probably should be “military”. medical construction; and
+    - **(E)** military medical construction; and
     - **(F)** any other matters the Secretary of Defense determines appropriate.
-  - **(2)** The commander of each military medical treatment facility shall be responsible for—
+  - **(2)** The military commander or director of each military medical treatment facility shall be responsible for—
     - **(A)** ensuring the readiness of the members of the armed forces and civilian employees at such facility; and
     - **(B)** furnishing the health care and medical treatment provided at such facility.
   - **(3)** The Secretary of Defense shall establish within the Defense Health Agency a professional staff to provide policy, oversight, and direction to carry out subsection (a). The Secretary shall carry out this paragraph by appointing the positions specified in subsections (b) and (c).
+  - **(4)** If the Secretary of Defense determines it appropriate, a military director (or any other senior military officer or officers) of a military medical treatment facility may be a commanding officer for purposes of chapter 47 of this title (the Uniform Code of Military Justice) with respect to military personnel assigned to the military medical treatment facility.
 - **(b)**
   - **(1)** There is in the Defense Health Agency an Assistant Director for Health Care Administration. The Assistant Director shall—
     - **(A)** be a career appointee within the Department; and

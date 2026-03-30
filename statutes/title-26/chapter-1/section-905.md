@@ -3,9 +3,9 @@ title: "Section 905 - Applicable rules"
 usc_title: 26
 usc_section: "905"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 905"
-generated_at: "2026-03-30T07:02:42.322Z"
+generated_at: "2026-03-30T07:04:56.769Z"
 status: "active"
 ---
 
@@ -24,9 +24,7 @@ status: "active"
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), in making the redetermination under paragraph (1), no credit shall be allowed for accrued taxes not paid before the date referred to in subparagraph (B) of paragraph (1).
     - **(B)** Any such taxes if subsequently paid—
-      - **(i)** shall be taken into account—
-        - **(I)** in the case of taxes deemed paid under section 902 or section 960, for the taxable year in which paid (and no redetermination shall be made under this section by reason of such payment), and
-        - **(II)** in any other case, for the taxable year to which such taxes relate, and
+      - **(i)** shall be taken into account for the taxable year to which such taxes relate, and
       - **(ii)** shall be translated as provided in section 986(a)(2)(A).
   - **(3)** The amount of tax (if any) due on any redetermination under paragraph (1) shall be paid by the taxpayer on notice and demand by the Secretary, and the amount of tax overpaid (if any) shall be credited or refunded to the taxpayer in accordance with subchapter B of chapter 66 (section 6511 et seq.).
   - **(4)** In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.

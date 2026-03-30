@@ -3,9 +3,9 @@ title: "Section 139a - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "139a"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 139a"
-generated_at: "2026-03-30T07:01:27.890Z"
+generated_at: "2026-03-30T07:03:43.709Z"
 status: "active"
 ---
 
@@ -29,3 +29,4 @@ status: "active"
   - **(6)** Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense for Intelligence and in accordance with applicable policies.
   - **(7)** Assessments of alternative plans, programs, and policies with respect to the acquisition programs of the Department of Defense.
   - **(8)** Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
+  - **(9)** Performing the duties assigned to the Director in section 2222 of this title .

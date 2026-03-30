@@ -3,9 +3,9 @@ title: "Section 2334 - Independent cost estimation and cost analysis"
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-03-30T07:01:27.977Z"
+generated_at: "2026-03-30T07:03:43.782Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
       - **(ii)** any decision to enter into low-rate initial production or full-rate production;
       - **(iii)** any certification under section 2433a of this title ; and
       - **(iv)** any report under section 2445c(f) of this title ; and
-    - **(B)** at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics, or upon the request of the milestone decision authority 1 1 So in original. A semicolon probably should appear.
+    - **(B)** at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics, or upon the request of the milestone decision authority;
   - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
   - **(8)** annually review the cost and associated information required to be included, by section 2432(c)(1) of this title , in the Selected Acquisition Reports required by that section.
 - **(b)**

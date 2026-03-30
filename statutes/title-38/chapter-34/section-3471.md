@@ -3,9 +3,9 @@ title: "Section 3471 - Applications; approval"
 usc_title: 38
 usc_section: "3471"
 chapter: 34
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "38 U.S.C. § 3471"
-generated_at: "2026-03-30T07:02:51.378Z"
+generated_at: "2026-03-30T07:05:05.977Z"
 status: "active"
 ---
 

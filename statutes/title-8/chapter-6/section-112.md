@@ -3,9 +3,9 @@ title: "Section 112 - Omitted"
 usc_title: 8
 usc_section: "112"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "8 U.S.C. § 112"
-generated_at: "2026-03-30T07:01:24.537Z"
+generated_at: "2026-03-30T07:03:36.007Z"
 status: "omitted"
 ---
 

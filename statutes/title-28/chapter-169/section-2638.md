@@ -3,9 +3,9 @@ title: "Section 2638 - New grounds in support of a civil action"
 usc_title: 28
 usc_section: "2638"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "28 U.S.C. § 2638"
-generated_at: "2026-03-30T07:02:35.721Z"
+generated_at: "2026-03-30T07:04:51.529Z"
 status: "active"
 ---
 

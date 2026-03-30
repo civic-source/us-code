@@ -3,9 +3,9 @@ title: "Section 3608 - Drug testing of Federal offenders on post-conviction rele
 usc_title: 18
 usc_section: "3608"
 chapter: 229
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 3608"
-generated_at: "2026-03-30T07:01:54.160Z"
+generated_at: "2026-03-30T07:04:31.749Z"
 status: "active"
 ---
 

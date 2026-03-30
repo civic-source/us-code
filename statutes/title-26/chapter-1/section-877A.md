@@ -3,9 +3,9 @@ title: "Section 877A - Tax responsibilities of expatriation"
 usc_title: 26
 usc_section: "877A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 877A"
-generated_at: "2026-03-30T07:02:42.318Z"
+generated_at: "2026-03-30T07:04:56.765Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(B)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(ii)** If any amount as adjusted under clause (i) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
 - **(b)**
   - **(1)** If the taxpayer elects the application of this subsection with respect to any property treated as sold by reason of subsection (a), the time for payment of the additional tax attributable to such property shall be extended until the due date of the return for the taxable year in which such property is disposed of (or, in the case of property disposed of in a transaction in which gain is not recognized in whole or in part, until such other date as the Secretary may prescribe).

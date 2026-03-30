@@ -3,9 +3,9 @@ title: "Section 314 - Survey; maps; compensation"
 usc_title: 25
 usc_section: "314"
 chapter: 8
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 314"
-generated_at: "2026-03-30T07:02:25.126Z"
+generated_at: "2026-03-30T07:04:34.883Z"
 status: "active"
 ---
 

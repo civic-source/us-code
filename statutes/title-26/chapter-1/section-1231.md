@@ -3,9 +3,9 @@ title: "Section 1231 - Property used in the trade or business and involuntary co
 usc_title: 26
 usc_section: "1231"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1231"
-generated_at: "2026-03-30T07:02:42.334Z"
+generated_at: "2026-03-30T07:04:56.782Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
   - **(1)** The term “property used in the trade or business” means property used in the trade or business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in the trade or business, held for more than 1 year, which is not—
     - **(A)** property of a kind which would properly be includible in the inventory of the taxpayer if on hand at the close of the taxable year,
     - **(B)** property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business,
-    - **(C)** a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by a taxpayer described in paragraph (3) of section 1221(a), or
+    - **(C)** a patent, invention, model or design (whether or not patented), a secret formula or process, a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by a taxpayer described in paragraph (3) of section 1221(a), or
     - **(D)** a publication of the United States Government (including the Congressional Record) which is received from the United States Government, or any agency thereof, other than by purchase at the price at which it is offered for sale to the public, and which is held by a taxpayer described in paragraph (5) of section 1221(a).
   - **(2)** Such term includes timber, coal, and iron ore with respect to which section 631 applies.
   - **(3)** Such term includes—

@@ -3,9 +3,9 @@ title: "Section 8062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T07:01:28.035Z"
+generated_at: "2026-03-30T07:03:43.831Z"
 status: "active"
 ---
 
@@ -35,3 +35,11 @@ status: "active"
   - **(1)** Beginning October 1, 2011 , the Secretary of the Air Force may not retire more than six B–1 aircraft.
   - **(2)** The Secretary shall maintain in a common capability configuration not less than 36 B–1 aircraft as combat-coded aircraft.
   - **(3)** In this subsection, the term “combat-coded aircraft” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
+- **(i)**
+  - **(1)** During the period beginning on October 1, 2017 , and ending on October 1, 2022 , the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
+  - **(2)** In this subsection:
+    - **(A)** The term “fighter aircraft” means an aircraft that—
+      - **(i)** is designated by a mission design series prefix of F– or A–;
+      - **(ii)** is manned by one or two crewmembers; and
+      - **(iii)** executes single-role or multi-role missions, including air-to-air combat, air-to-ground attack, air interdiction, suppression or destruction of enemy air defenses, close air support, strike control and reconnaissance, combat search and rescue support, or airborne forward air control.
+    - **(B)** The term “primary mission aircraft inventory” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.

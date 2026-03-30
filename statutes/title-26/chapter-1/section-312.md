@@ -3,9 +3,9 @@ title: "Section 312 - Effect on earnings and profits"
 usc_title: 26
 usc_section: "312"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 312"
-generated_at: "2026-03-30T07:02:42.257Z"
+generated_at: "2026-03-30T07:04:56.704Z"
 status: "active"
 ---
 
@@ -67,7 +67,7 @@ status: "active"
       - **(i)** interest paid or accrued on indebtedness incurred or continued to acquire, construct, or carry property,
       - **(ii)** property taxes, and
       - **(iii)** similar carrying charges,
-    - **(C)** The term “construction period” has the meaning given the term production period under section 263A(f)(4)(B).
+    - **(C)** The term “construction period” has the meaning given the term production period under section 263A(f)(4)(B). 2 2 See References in Text note below.
   - **(2)**
     - **(A)** Any amount allowable as a deduction under section 263(c) in determining taxable income (other than costs incurred in connection with a nonproductive well)—
       - **(i)** shall be capitalized, and

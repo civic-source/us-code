@@ -3,9 +3,9 @@ title: "Section 6323 - Validity and priority against certain persons"
 usc_title: 26
 usc_section: "6323"
 chapter: 64
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6323"
-generated_at: "2026-03-30T07:02:42.411Z"
+generated_at: "2026-03-30T07:04:56.862Z"
 status: "active"
 ---
 
@@ -115,7 +115,7 @@ status: "active"
   - **(3)** For purposes of this subchapter, a forfeiture under local law of property seized by a law enforcement agency of a State, county, or other local governmental subdivision shall relate back to the time of seizure, except that this paragraph shall not apply to the extent that under local law the holder of an intervening claim or interest would have priority over the interest of the State, county, or other local governmental subdivision in the property.
   - **(4)** In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amounts under paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 1996” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 1996” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(j)**
   - **(1)** The Secretary may withdraw a notice of a lien filed under this section and this chapter shall be applied as if the withdrawn notice had not been filed, if the Secretary determines that—
     - **(A)** the filing of such notice was premature or otherwise not in accordance with administrative procedures of the Secretary,

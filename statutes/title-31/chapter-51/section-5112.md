@@ -3,9 +3,9 @@ title: "Section 5112 - Denominations, specifications, and design of coins"
 usc_title: 31
 usc_section: "5112"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "31 U.S.C. § 5112"
-generated_at: "2026-03-30T07:02:46.783Z"
+generated_at: "2026-03-30T07:05:00.086Z"
 status: "active"
 ---
 
@@ -170,11 +170,11 @@ status: "active"
   - **(9)** The coins minted under this title shall be legal tender, as provided in section 5103.
   - **(10)** For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 - **(p)**
-  - **(1)** Beginning January 1, 2006 , all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
+  - **(1)** Beginning January 1, 2006 , all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, and all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
     - **(A)** any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of—
       - **(i)** accepting $1 coins in connection with such operations; and
       - **(ii)** other than vending machines that do not receive currency denominations higher than $1, dispensing $1 coins in connection with such operations; and
-    - **(B)** displays signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
+    - **(B)** display signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
   - **(2)** The Director of the United States Mint, 2 2 So in original. The comma probably should not appear. shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
   - **(3)** The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of $1 coins is available for commerce and collectors at such places and in such quantities as are appropriate by—
     - **(A)** consulting, to accurately gauge demand for coins and to anticipate and eliminate obstacles to the easy and efficient distribution and circulation of $1 coins as well as all other circulating coins, from time to time but no less frequently than annually, with a coin users group, which may include—

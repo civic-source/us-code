@@ -3,9 +3,9 @@ title: "Section 1361 - S corporation defined"
 usc_title: 26
 usc_section: "1361"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1361"
-generated_at: "2026-03-30T07:02:42.342Z"
+generated_at: "2026-03-30T07:04:56.790Z"
 status: "active"
 ---
 
@@ -67,7 +67,7 @@ status: "active"
       - **(ii)** In the case of a trust described in clause (ii) of subparagraph (A), the estate of the deemed owner shall be treated as the shareholder.
       - **(iii)** In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
       - **(iv)** In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
-      - **(v)** In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period.
+      - **(v)** In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period. This clause shall not apply for purposes of subsection (b)(1)(C).
       - **(vi)** In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as a shareholder.
   - **(3)** For purposes of subsection (b)(1)(B), the term “estate” includes the estate of an individual in a case under title 11 of the United States Code.
   - **(4)** For purposes of subsection (b)(1)(D), a corporation shall not be treated as having more than 1 class of stock solely because there are differences in voting rights among the shares of common stock.

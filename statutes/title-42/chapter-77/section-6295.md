@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T07:03:04.930Z"
+generated_at: "2026-03-30T07:05:21.785Z"
 status: "active"
 ---
 
@@ -303,12 +303,12 @@ status: "active"
       - **(i)** is more stringent than the standards in effect for such type or class of water closet or urinal; and
       - **(ii)** is applicable to any sale or installation of all products in such type or class of water closet or urinal.
 - **(l)**
-  - **(1)** The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (19) 2 of section 6292(a) of this title if the requirements of subsections ( o ) and (p) are met and the Secretary determines that—
+  - **(1)** The Secretary may prescribe an energy conservation standard for any type (or class) of covered products of a type specified in paragraph (20) of section 6292(a) of this title if the requirements of subsections ( o ) and (p) are met and the Secretary determines that—
     - **(A)** the average per household energy use within the United States by products of such type (or class) exceeded 150 kilowatt-hours (or its Btu equivalent) for any 12-month period ending before such determination;
     - **(B)** the aggregate household energy use within the United States by products of such type (or class) exceeded 4,200,000,000 kilowatt-hours (or its Btu equivalent) for any such 12-month period;
     - **(C)** substantial improvement in the energy efficiency of products of such type (or class) is technologically feasible; and
     - **(D)** the application of a labeling rule under section 6294 of this title to such type (or class) is not likely to be sufficient to induce manufacturers to produce, and consumers and other persons to purchase, covered products of such type (or class) which achieve the maximum energy efficiency which is technologically feasible and economically justified.
-  - **(2)** Any new or amended standard for covered products of a type specified in paragraph (19) 2 of section 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
+  - **(2)** Any new or amended standard for covered products of a type specified in paragraph (20) of section 6292(a) of this title shall not apply to products manufactured within five years after the publication of a final rule establishing such standard.
   - **(3)** The Secretary may, in accordance with subsections ( o ) and (p), prescribe an energy conservation standard for television sets. Any such standard may not become effective with respect to products manufactured before January 1, 1992 .
   - **(4)**
     - **(A)** The Secretary shall prescribe an energy efficiency standard for rough service lamps, vibration service lamps, 3-way incandescent lamps, 2,601–3,300 lumen general service incandescent lamps, and shatter-resistant lamps in accordance with this paragraph.

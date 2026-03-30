@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T07:01:27.980Z"
+generated_at: "2026-03-30T07:03:43.785Z"
 status: "active"
 ---
 
@@ -27,8 +27,9 @@ status: "active"
     - **(J)** an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
     - **(K)** there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired;
     - **(L)** the program complies with all relevant policies, regulations, and directives of the Department of Defense;
-    - **(M)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B); and
+    - **(M)** the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
     - **(N)** the requirements of section 2446b(e) of this title are met; and
+    - **(O)** appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
   - **(4)** in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019 .
 - **(b)**
   - **(1)** The program manager for a major defense acquisition program that has received certifications or a determination under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
@@ -47,7 +48,8 @@ status: "active"
     - **(D)** A summary of the technical and manufacturing risks associated with the program, as determined by the military department concerned, including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
     - **(E)** A summary of the independent technical risk assessment conducted or approved under section 2448b of this title , including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
     - **(F)** A statement of whether a modular open system approach is being used for the program.
-    - **(G)** Any other information the milestone decision authority considers relevant.
+    - **(G)** An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
+    - **(H)** Any other information the milestone decision authority considers relevant.
   - **(2)**
     - **(A)** The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
     - **(B)** The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).

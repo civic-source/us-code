@@ -3,9 +3,9 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T07:01:27.946Z"
+generated_at: "2026-03-30T07:03:43.757Z"
 status: "active"
 ---
 
@@ -106,9 +106,14 @@ status: "active"
     - **(E)** for months during fiscal year 2013, $90;
     - **(F)** for months during fiscal year 2014, $150;
     - **(G)** for months during fiscal year 2015, $200;
-    - **(H)** for months during fiscal year 2016, $275; and
-    - **(I)** for months during each of fiscal years 2017 and 2018, $310.
+    - **(H)** for months during fiscal year 2016, $275;
+    - **(I)** for months from October 2016 through December 2018, $310; and
+    - **(J)** for months during any calendar year after 2018, the amount determined in accordance with paragraph (6).
   - **(3)** The amount of the allowance paid to an eligible survivor under paragraph (1) for any month may not exceed the amount of the annuity for that month that is subject to offset under subsection (c).
   - **(4)** An allowance paid under this subsection does not constitute an annuity, and amounts so paid are not subject to adjustment under any other provision of law.
   - **(5)** The special survivor indemnity allowance shall be paid from amounts in the Department of Defense Military Retirement Fund established under section 1461 of this title .
-  - **(6)** This subsection shall only apply with respect to the month beginning on October 1, 2008 , and subsequent months through the month ending on May 31, 2018 . Effective on June 1, 2018 , the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008 , or beginning on or after June 1, 2018 .
+  - **(6)**
+    - **(A)** The amount of the allowance payable under paragraph (1) for months during any calendar year beginning after 2018 shall be—
+      - **(i)** the amount payable pursuant to paragraph (2) for months during the preceding calendar year, plus
+      - **(ii)** an amount equal to the percentage of the amount determined pursuant to clause (i) which percentage is equal to the percentage increase in retired pay of members and former members of the armed forces for such calendar year under section 1401a of this title .
+    - **(B)** The Secretary of Defense shall publish in the Federal Register each year the amount of the allowance payable under paragraph (1) for months in such year by reason of the operation of this paragraph.

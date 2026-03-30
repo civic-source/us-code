@@ -3,9 +3,9 @@ title: "Section 2734b - Report on diversity recruitment, employment, retention, 
 usc_title: 22
 usc_section: "2734b"
 chapter: 38
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 2734b"
-generated_at: "2026-03-30T07:02:32.923Z"
+generated_at: "2026-03-30T07:04:37.949Z"
 status: "active"
 ---
 

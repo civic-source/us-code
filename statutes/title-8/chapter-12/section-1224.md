@@ -3,9 +3,9 @@ title: "Section 1224 - Designation of ports of entry for aliens arriving by airc
 usc_title: 8
 usc_section: "1224"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "8 U.S.C. § 1224"
-generated_at: "2026-03-30T07:01:24.552Z"
+generated_at: "2026-03-30T07:03:36.021Z"
 status: "active"
 ---
 

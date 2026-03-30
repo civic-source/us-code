@@ -3,9 +3,9 @@ title: "Section 6504 - Cross references"
 usc_title: 26
 usc_section: "6504"
 chapter: 66
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6504"
-generated_at: "2026-03-30T07:02:42.417Z"
+generated_at: "2026-03-30T07:04:56.868Z"
 status: "active"
 ---
 
@@ -23,4 +23,3 @@ For limitation period in case of—
   - **(8)** Assessments to recover excessive amounts paid under section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), or 6427 (relating to fuels not used for taxable purposes) and assessments of civil penalties under section 6675 for excessive claims under section 6420, 6421, or 6427, see section 6206.
   - **(9)** Assessment and collection of interest, see section 6601(g).
   - **(10)** Assessment of civil penalties under section 6694 or 6695, see section 6696(d)(1).
-  - **(11)** Assessments of tax attributable to partnership items, see section 6229.

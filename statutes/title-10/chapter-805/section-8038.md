@@ -3,9 +3,9 @@ title: "Section 8038 - Office of Air Force Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "8038"
 chapter: 805
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 8038"
-generated_at: "2026-03-30T07:01:28.035Z"
+generated_at: "2026-03-30T07:03:43.831Z"
 status: "active"
 ---
 
@@ -24,6 +24,4 @@ status: "active"
 - **(c)** The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
 - **(d)** The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 - **(e)** The Chief of Air Force Reserve manages, with respect to the Air Force Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
-- **(f)**
-  - **(1)** The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
-  - **(2)** The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
+- **(f)** The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.

@@ -3,9 +3,9 @@ title: "Section 5634 - Office of Special Trustee for American Indians"
 usc_title: 25
 usc_section: "5634"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 5634"
-generated_at: "2026-03-30T07:02:25.188Z"
+generated_at: "2026-03-30T07:04:34.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T07:02:42.319Z"
+generated_at: "2026-03-30T07:04:56.767Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** in the case of a nonresident alien individual, under section 871(B)(1), 1 1 So in original. Probably should be “871(b)(1),”. or
     - **(B)** in the case of a foreign corporation, under section 882(a)(1),
   - **(2)**
-    - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
+    - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
       - **(i)** the individual’s alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
       - **(ii)** the individual’s net United States real property gain for the taxable year.
     - **(B)** For purposes of subparagraph (A), the term “net United States real property gain” means the excess of—
@@ -131,7 +131,7 @@ status: "active"
       - **(ii)** a percentage equal to the ratio determined under clause (i) of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
     - **(C)** If a distribution by a real estate investment trust is treated as a sale or exchange of stock under section 301(c)(3), 302, or 331 with respect to a qualified shareholder—
       - **(i)** in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
-      - **(ii)** in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+      - **(ii)** in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) 2 2 See References in Text note below. as a dividend from a real estate investment trust notwithstanding any other provision of this title.
     - **(D)** For purposes of this paragraph, the term “applicable investor” means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
       - **(i)** holds an interest (other than an interest solely as a creditor) in such qualified shareholder, and
       - **(ii)** holds more than 10 percent of the stock of such real estate investment trust (whether or not by reason of the person’s ownership interest in the qualified shareholder).

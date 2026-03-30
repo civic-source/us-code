@@ -3,9 +3,9 @@ title: "Section 326 - Incentive bonus: conversion to military occupational speci
 usc_title: 37
 usc_section: "326"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 326"
-generated_at: "2026-03-30T07:02:49.451Z"
+generated_at: "2026-03-30T07:05:02.835Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
 - **(d)** A bonus paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 - **(e)** A member who does not convert to and complete the period of service in the military occupational specialty specified in the agreement executed under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
-- **(g)** No agreement under this section may be entered into after December 31, 2017 .
+- **(g)** No agreement under this section may be entered into after December 31, 2018 .

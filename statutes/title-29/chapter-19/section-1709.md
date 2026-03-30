@@ -3,9 +3,9 @@ title: "Section 1709 - Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug.
 usc_title: 29
 usc_section: "1709"
 chapter: 19
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "29 U.S.C. § 1709"
-generated_at: "2026-03-30T07:02:36.564Z"
+generated_at: "2026-03-30T07:04:44.558Z"
 status: "repealed"
 ---
 

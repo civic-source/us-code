@@ -3,9 +3,9 @@ title: "Section 32 - Earned income"
 usc_title: 26
 usc_section: "32"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 32"
-generated_at: "2026-03-30T07:02:42.204Z"
+generated_at: "2026-03-30T07:04:56.651Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(i)** In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $5,000.
       - **(ii)** In the case of any taxable year beginning after 2015, the $5,000 amount in clause (i) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost of living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost of living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins determined by substituting “calendar year 2008” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(iii)** Subparagraph (A) of subsection (j)(2) shall apply after taking into account any increase under clause (ii).
 - **(c)** For purposes of this section—
   - **(1)**
@@ -87,8 +87,8 @@ status: "active"
   - **(1)** In the case of any taxable year beginning after 1996, each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined—
-      - **(i)** in the case of amounts in subsections (b)(2)(A) and (i)(1), by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof, and
-      - **(ii)** in the case of the $3,000 amount in subsection (b)(2)(B)(iii), by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) of such section 1.
+      - **(i)** in the case of amounts in subsections (b)(2)(A) and (i)(1), by substituting “calendar year 1995” for “calendar year 2016” in subparagraph (A)(ii) thereof, and
+      - **(ii)** in the case of the $3,000 amount in subsection (b)(2)(B)(iii), by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) of such section 1.
   - **(2)**
     - **(A)** If any dollar amount in subsection (b)(2)(A) (after being increased under subparagraph (B) thereof), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
     - **(B)** If the dollar amount in subsection (i)(1), after being increased under paragraph (1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.

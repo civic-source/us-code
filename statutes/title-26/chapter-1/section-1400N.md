@@ -3,9 +3,9 @@ title: "Section 1400N - Tax benefits for Gulf Opportunity Zone"
 usc_title: 26
 usc_section: "1400N"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1400N"
-generated_at: "2026-03-30T07:02:42.348Z"
+generated_at: "2026-03-30T07:04:56.796Z"
 status: "active"
 ---
 
@@ -104,7 +104,7 @@ status: "active"
       - **(iv)** which is acquired by the taxpayer by purchase (as defined in section 179(d)) on or after August 28, 2005 , but only if no written binding contract for the acquisition was in effect before August 28, 2005 , and
       - **(v)** which is placed in service by the taxpayer on or before December 31, 2007 ( December 31, 2008 , in the case of nonresidential real property and residential rental property).
     - **(B)**
-      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i). 1 1 See References in Text note below.
+      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i). 1
       - **(ii)** Such term shall not include any property any portion of which is financed with the proceeds of any obligation the interest on which is exempt from tax under section 103.
       - **(iii)** Such term shall not include any qualified revitalization building with respect to which the taxpayer has elected the application of paragraph (1) or (2) of section 1400I(a).
       - **(iv)** If a taxpayer makes an election under this clause with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year.
@@ -177,7 +177,7 @@ status: "active"
         - **(II)** for purposes of paragraph (2), January 1, 2007 .
     - **(B)** The term “qualified timber property” has the meaning given such term in section 194(c)(1).
 - **(j)**
-  - **(1)** The amount described in section 172(f)(1)(A) for any taxable year shall be increased by the Gulf Opportunity Zone public utility casualty loss for such taxable year.
+  - **(1)** The amount described in section 172(f)(1)(A) 1 for any taxable year shall be increased by the Gulf Opportunity Zone public utility casualty loss for such taxable year.
   - **(2)** For purposes of this subsection, the term “Gulf Opportunity Zone public utility casualty loss” means any casualty loss of public utility property (as defined in section 168(i)(10)) located in the Gulf Opportunity Zone if—
     - **(A)** such loss is allowed as a deduction under section 165 for the taxable year,
     - **(B)** such loss is by reason of Hurricane Katrina, and
@@ -188,13 +188,13 @@ status: "active"
 - **(k)**
   - **(1)** If a portion of any net operating loss of the taxpayer for any taxable year is a qualified Gulf Opportunity Zone loss, the following rules shall apply:
     - **(A)** Section 172(b)(1) shall be applied with respect to such portion—
-      - **(i)** by substituting “5 taxable years” for “2 taxable years” in subparagraph (A)(i), and
+      - **(i)** by substituting “5 taxable years” for “2 taxable years” in subparagraph (A)(i), 1 and
       - **(ii)** by not taking such portion into account in determining any eligible loss of the taxpayer under subparagraph (F) thereof for the taxable year.
     - **(B)** Section 56(d)(1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of any net operating loss attributable to such portion.
   - **(2)** For purposes of paragraph (1), the term “qualified Gulf Opportunity Zone loss” means the lesser of—
     - **(A)** the excess of—
       - **(i)** the net operating loss for such taxable year, over
-      - **(ii)** the specified liability loss for such taxable year to which a 10-year carryback applies under section 172(b)(1)(C), or
+      - **(ii)** the specified liability loss for such taxable year to which a 10-year carryback applies under section 172(b)(1)(C), 1 or
     - **(B)** the aggregate amount of the following deductions to the extent taken into account in computing the net operating loss for such taxable year:
       - **(i)** Any deduction for any qualified Gulf Opportunity Zone casualty loss.
       - **(ii)** Any deduction for moving expenses paid or incurred after August 27, 2005 , and before January 1, 2008 , and allowable under this chapter to any taxpayer in connection with the employment of any individual—
@@ -252,10 +252,10 @@ status: "active"
     - **(A)** The term “bond” includes any obligation.
     - **(B)**
       - **(i)** Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
-      - **(ii)** In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E( l ) shall apply.
+      - **(ii)** In the case of a bond held by a partnership or an S corporation, rules similar to the rules under section 1397E( l ) 1 shall apply.
     - **(C)** If any Gulf tax credit bond is held by a regulated investment company, the credit determined under paragraph (1) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.
     - **(D)** Issuers of Gulf tax credit bonds shall submit reports similar to the reports required under section 149(e).
-    - **(E)** For purposes of this title, the credit allowed by this subsection shall be treated as a credit allowable under subpart H of part IV of subchapter A of this chapter.
+    - **(E)** For purposes of this title, the credit allowed by this subsection shall be treated as a credit allowable under subpart H 1 of part IV of subchapter A of this chapter.
 - **(m)** For purposes of section 45D—
   - **(1)** a qualified community development entity shall be eligible for an allocation under subsection (f)(2) thereof of the increase in the new markets tax credit limitation described in paragraph (2) only if a significant mission of such entity is the recovery and redevelopment of the Gulf Opportunity Zone,
   - **(2)** the new markets tax credit limitation otherwise determined under subsection (f)(1) thereof shall be increased by an amount equal to—

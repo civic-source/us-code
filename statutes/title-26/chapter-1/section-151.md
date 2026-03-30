@@ -3,9 +3,9 @@ title: "Section 151 - Allowance of deductions for personal exemptions"
 usc_title: 26
 usc_section: "151"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 151"
-generated_at: "2026-03-30T07:02:42.236Z"
+generated_at: "2026-03-30T07:04:56.682Z"
 status: "active"
 ---
 
@@ -21,7 +21,10 @@ status: "active"
     - **(A)** In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b), the exemption amount shall be reduced by the applicable percentage.
     - **(B)** For purposes of subparagraph (A), the term “applicable percentage” means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting “$1,250” for “$2,500”. In no event shall the applicable percentage exceed 100 percent.
     - **(C)** The provisions of this paragraph shall not apply for purposes of determining whether a deduction under this section with respect to any individual is allowable to another taxpayer for any taxable year.
-  - **(4)** In the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
+  - **(4)** Except as provided in paragraph (5), in the case of any taxable year beginning in a calendar year after 1989, the dollar amount contained in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1988” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(5)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 —
+    - **(A)** The term “exemption amount” means zero.
+    - **(B)** For purposes of any other provision of this title, the reduction of the exemption amount to zero under subparagraph (A) shall not be taken into account in determining whether a deduction is allowed or allowable, or whether a taxpayer is entitled to a deduction, under this section.
 - **(e)** No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.

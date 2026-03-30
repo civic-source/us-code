@@ -3,9 +3,9 @@ title: "Section 6652 - Failure to file certain information returns, registration
 usc_title: 26
 usc_section: "6652"
 chapter: 68
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6652"
-generated_at: "2026-03-30T07:02:42.419Z"
+generated_at: "2026-03-30T07:04:56.870Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** If more than 1 person is liable under this subsection for any penalty with respect to any failure, all such persons shall be jointly and severally liable with respect to such failure.
     - **(C)** For purposes of this subsection, the term “person” means any officer, director, trustee, employee, or other individual who is under a duty to perform the act in respect of which the violation occurs.
   - **(7)**
-    - **(A)** In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under paragraphs (1), (2), and (3) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(A)** In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under paragraphs (1), (2), and (3) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** If any amount adjusted under subparagraph (A)—
       - **(i)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
       - **(ii)** is not described in clause (i) and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
@@ -71,3 +71,4 @@ status: "active"
 - **(m)** For penalties for failure to file certain information returns with respect to alcohol and tobacco taxes, see, generally, subtitle E.
 - **(n)** In the case of a failure to make a report required under section 3511, 6053(c)(8), or 7705 which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard the preceding sentence shall be applied by substituting “$100” for “$50”.
 - **(o)** In the case of each failure to provide a written notice as required by section 9831(d)(4), unless it is shown that such failure is due to reasonable cause and not willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written notice, an amount equal to $50 per employee per incident of failure to provide such notice, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $2,500.
+- **(p)** In the case of each failure to provide a notice as required by section 83(i)(6), at the time prescribed therefor, unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such notice, an amount equal to $100 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $50,000.

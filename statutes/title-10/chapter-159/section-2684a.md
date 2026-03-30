@@ -3,9 +3,9 @@ title: "Section 2684a - Agreements to limit encroachments and other constraints 
 usc_title: 10
 usc_section: "2684a"
 chapter: 159
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2684a"
-generated_at: "2026-03-30T07:01:27.999Z"
+generated_at: "2026-03-30T07:03:43.801Z"
 status: "active"
 ---
 
@@ -36,10 +36,10 @@ status: "active"
       - **(i)** the fair market value of any property or interest in property to be transferred to the United States upon the request of the Secretary concerned under paragraph (5); or
       - **(ii)** the cumulative fair market value of all properties or interests to be transferred to the United States under paragraph (5) pursuant to an agreement under subsection (a).
     - **(D)** The portion of acquisition costs borne by the United States under subparagraph (A) may exceed the amount determined under subparagraph (C), but only if—
-      - **(i)** the Secretary concerned provides written notice to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives containing—
+      - **(i)** the Secretary concerned submits, in an electronic medium pursuant to section 480 of this title , a notice to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives containing—
         - **(I)** a certification by the Secretary that the military value to the United States of the property or interest to be acquired justifies a payment in excess of the fair market value of the property or interest; and
         - **(II)** a description of the military value to be obtained; and
-      - **(ii)** the contribution toward the acquisition costs of the property or interest is not made until at least 14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title .
+      - **(ii)** the contribution toward the acquisition costs of the property or interest is not made until at least 10 days after the date on which the notice is submitted under clause (i).
     - **(E)** The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
       - **(i)** The provision of funds, including funds received by such entity or entities from a Federal agency outside the Department of Defense or a State or local government in connection with a Federal, State, or local program.
       - **(ii)** The provision of in-kind services, including services related to the acquisition or maintenance of such real property or interest in real property.

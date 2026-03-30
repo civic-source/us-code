@@ -3,9 +3,9 @@ title: "Section 3401 - Definitions"
 usc_title: 26
 usc_section: "3401"
 chapter: 24
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 3401"
-generated_at: "2026-03-30T07:02:42.366Z"
+generated_at: "2026-03-30T07:04:56.815Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
 - **(d)** For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
   - **(1)** if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
   - **(2)** in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
-- **(e)** For purposes of this chapter, the term “number of withholding exemptions claimed” means the number of withholding exemptions claimed in a withholding exemption certificate in effect under section 3402(f), or in effect under the corresponding section of prior law, except that if no such certificate is in effect, the number of withholding exemptions claimed shall be considered to be zero.
+- **[(e)**
 - **(f)** For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 - **(g)** Rules similar to the rules of section 3121( o ) shall apply for purposes of this chapter.
 - **(h)**
@@ -65,3 +65,6 @@ status: "active"
   - **(2)** For purposes of paragraph (1), the term “differential wage payment” means any payment which—
     - **(A)** is made by an employer to an individual with respect to any period during which the individual is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code) while on active duty for a period of more than 30 days, and
     - **(B)** represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.
+- **(i)** For purposes of subsection (a), qualified stock (as defined in section 83(i)) with respect to which an election is made under section 83(i) shall be treated as wages—
+  - **(1)** received on the earliest date described in section 83(i)(1)(B), and
+  - **(2)** in an amount equal to the amount included in income under section 83 for the taxable year which includes such date.

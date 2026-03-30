@@ -3,9 +3,9 @@ title: "Section 40723 - Sexual assault forensic exam program grants"
 usc_title: 34
 usc_section: "40723"
 chapter: 407
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 40723"
-generated_at: "2026-03-30T07:02:45.037Z"
+generated_at: "2026-03-30T07:04:59.532Z"
 status: "active"
 ---
 
@@ -27,5 +27,5 @@ status: "active"
     - **(A)** improve forensic nurse examiner programs in a rural area or for an underserved population, as those terms are defined in section 12291 1 1 See References in Text note below. of this title;
     - **(B)** engage in activities that will assist in the employment of full-time forensic nurse examiners to conduct activities under subsection (a); or
     - **(C)** sustain or establish a training program for forensic nurse examiners.
-  - **(2)** Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, and elder abuse. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
+  - **(2)** Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses, both adult and pediatric, and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
 - **(d)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.

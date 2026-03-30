@@ -3,9 +3,9 @@ title: "Section 2682 - Facilities for defense agencies"
 usc_title: 10
 usc_section: "2682"
 chapter: 159
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2682"
-generated_at: "2026-03-30T07:01:27.999Z"
+generated_at: "2026-03-30T07:03:43.801Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** Subject to subsection (c), a real property facility under the jurisdiction of the Department of Defense which is used by an activity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
 - **(c)**
   - **(1)** The Secretary of Defense may waive the requirements of subsections (a) and (b) if necessary to provide security for authorized intelligence collection or special operations activities abroad undertaken by the Department of Defense.
-  - **(2)** Not later than 48 hours after using the waiver authority under paragraph (1) for any facility for intelligence collection conducted under the authorities of the Department of Defense or special operations activity, the Secretary of Defense shall submit to the appropriate congressional committees written notification of the use of the authority, including the justification for the waiver and the estimated cost of the project for which the waiver applies.
+  - **(2)** Not later than 48 hours after using the waiver authority under paragraph (1) for any facility for intelligence collection conducted under the authorities of the Department of Defense or special operations activity, the Secretary of Defense shall submit, in an electronic medium pursuant to section 480 of this title , to the appropriate congressional committees a notice of the use of the authority, including the justification for the waiver and the estimated cost of the project for which the waiver applies.
   - **(3)** In this subsection, the term “appropriate congressional committees” means the following:
     - **(A)** With respect to a waiver regarding special operations activities, the congressional defense committees.
     - **(B)** With respect to a waiver regarding intelligence collection conducted under the authorities of the Department of Defense—

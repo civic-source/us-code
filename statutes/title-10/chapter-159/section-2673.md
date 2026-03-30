@@ -3,9 +3,9 @@ title: "Section 2673 - Repealed. Pub. L. 108–375, div. B, title XXVIII , § 28
 usc_title: 10
 usc_section: "2673"
 chapter: 159
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2673"
-generated_at: "2026-03-30T07:01:27.999Z"
+generated_at: "2026-03-30T07:03:43.801Z"
 status: "repealed"
 ---
 

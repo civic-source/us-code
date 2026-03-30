@@ -3,9 +3,9 @@ title: "Section 87b - Prohibited acts"
 usc_title: 7
 usc_section: "87b"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 87b"
-generated_at: "2026-03-30T07:01:33.296Z"
+generated_at: "2026-03-30T07:03:40.475Z"
 status: "active"
 ---
 

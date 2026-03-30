@@ -3,9 +3,9 @@ title: "Section 416 - Advisory Council"
 usc_title: 24
 usc_section: "416"
 chapter: 10
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "24 U.S.C. § 416"
-generated_at: "2026-03-30T07:02:26.415Z"
+generated_at: "2026-03-30T07:04:33.712Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and
     - **(B)** make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.
 - **(c)**
-  - **(1)** The Advisory Council shall consist of at least 15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.
+  - **(1)** The Advisory Council shall consist of at least 15 members.
   - **(2)** Members of the Advisory Council shall be designated by the Secretary of Defense, except that an individual who is not an employee of the Department of Defense shall be designated, in consultation with the Secretary of Defense, by the head of the Federal department or agency that employs the individual.
   - **(3)** The Advisory Council shall include the following members:
     - **(A)** One member who is an expert in nursing home or retirement home administration and financing.
@@ -42,7 +42,7 @@ status: "active"
   - **(4)** A member of the Advisory Council serves as a member of the Advisory Council only for as long as the member is assigned to or serving in a position for which the duties include the duty to serve as a member of the Advisory Council.
 - **(e)** A vacancy in the Advisory Council shall be filled in the manner in which the original designation was made. A member designated to fill a vacancy occurring before the end of the term of the predecessor shall be designated for the remainder of the term of the predecessor. A vacancy in the Advisory Council shall not affect its authority to perform its duties.
 - **(f)**
-  - **(1)** Except as provided in paragraph (2), a member of the Advisory Council shall—
+  - **(1)** Except as provided in paragraph (2), a member of the Advisory Council may—
     - **(A)** be provided a stipend consistent with the daily government consultant fee for each day on which the member is engaged in the performance of services for the Advisory Council; and
     - **(B)** while away from home or regular place of business in the performance of services for the Advisory Council, be allowed travel expenses (including per diem in lieu of subsistence) in the same manner as a person employed intermittently in Government under sections 5701 through 5707 of title 5.
   - **(2)** A member of the Advisory Council who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of the Advisory Council.

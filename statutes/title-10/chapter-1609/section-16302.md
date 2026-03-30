@@ -3,9 +3,9 @@ title: "Section 16302 - Education loan repayment program: health professions off
 usc_title: 10
 usc_section: "16302"
 chapter: 1609
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 16302"
-generated_at: "2026-03-30T07:01:28.056Z"
+generated_at: "2026-03-30T07:03:43.848Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
 - **(c)**
   - **(1)** The amount of any repayment of a loan made under this section on behalf of any person shall be determined on the basis of each complete year of service that is described in subsection (b)(1) and performed by the person after the date on which the loan was made.
   - **(2)** The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of section 2173 of this title for the education loan repayment program under such section.
-- **(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2017 .
+- **(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2018 .

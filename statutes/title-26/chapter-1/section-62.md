@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T07:02:42.222Z"
+generated_at: "2026-03-30T07:04:56.667Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(17)** The deduction allowed by section 221.
   - **(18)** The deduction allowed by section 222.
   - **(19)** The deduction allowed by section 223.
-  - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code 1 1 So in original. Probably should be followed by a comma. or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
+  - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code 2 2 So in original. Probably should be followed by a comma. or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
   - **(21)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
 - **(b)**
   - **(1)** For purposes of subsection (a)(2)(B), the term “qualified performing artist” means, with respect to any taxable year, any individual if—
@@ -63,9 +63,9 @@ status: "active"
   - **(2)** A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the extent the amount of such expenses exceeds the amount excludable under section 135, 529(c)(1), or 530(d)(2) for the taxable year.
   - **(3)** In the case of any taxable year beginning after 2015, the $250 amount in subsection (a)(2)(D) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2014” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(e)** For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
-  - **(1)** Section 302 of the Civil Rights Act of 1991 ( 2 U.S.C. 1202 ). 2 2 See References in Text note below.
+  - **(1)** Section 302 of the Civil Rights Act of 1991 ( 2 U.S.C. 1202 ). 3 3 See References in Text note below.
   - **(2)** Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1311 , 1312, 1313, 1314, 1315, 1316, or 1317).
   - **(3)** The National Labor Relations Act ( 29 U.S.C. 151 et seq.).
   - **(4)** The Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.).

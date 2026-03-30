@@ -3,20 +3,16 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-30T07:02:42.295Z"
+generated_at: "2026-03-30T07:04:56.743Z"
 status: "active"
 ---
 
 # § 527. Political organizations
 
 - **(a)** A political organization shall be subject to taxation under this subtitle only to the extent provided in this section. A political organization shall be considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes.
-- **(b)**
-  - **(1)** A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
-  - **(2)** If for any taxable year any political organization has a net capital gain, then, in lieu of the tax imposed by paragraph (1), there is hereby imposed a tax (if such a tax is less than the tax imposed by paragraph (1)) which shall consist of the sum of—
-    - **(A)** a partial tax, computed as provided by paragraph (1), on the political organization taxable income determined by reducing such income by the amount of such gain, and
-    - **(B)** an amount determined as provided in section 1201(a) on such gain.
+- **(b)** A tax is hereby imposed for each taxable year on the political organization taxable income of every political organization. Such tax shall be computed by multiplying the political organization taxable income by the highest rate of tax specified in section 11(b).
 - **(c)**
   - **(1)** For purposes of this section, the political organization taxable income of any organization for any taxable year is an amount equal to the excess (if any) of—
     - **(A)** the gross income for the taxable year (excluding any exempt function income), over

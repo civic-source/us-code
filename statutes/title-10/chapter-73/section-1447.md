@@ -3,9 +3,9 @@ title: "Section 1447 - Definitions"
 usc_title: 10
 usc_section: "1447"
 chapter: 73
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1447"
-generated_at: "2026-03-30T07:01:27.945Z"
+generated_at: "2026-03-30T07:03:43.756Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ In this subchapter:
   - **(4)** The term “retired pay” includes retainer pay paid under section 6330 of this title .
   - **(5)** The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
   - **(6)** The term “base amount” means the following:
-    - **(A)** In the case of a person who dies after becoming entitled to retired pay, such term means the amount of monthly retired pay (determined without regard to any reduction under section 1409(b)(2) of this title ) to which the person—
+    - **(A)** In the case of a person who dies after becoming entitled to retired pay, such term means the amount of monthly retired pay (determined without regard to any reduction under section 1409(b)(2) or 1415(b)(1)(B) of this title) to which the person—
       - **(i)** was entitled when he became eligible for that pay; or
       - **(ii)** later became entitled by being advanced on the retired list, performing active duty, or being transferred from the temporary disability retired list to the permanent disability retired list.
     - **(B)** In the case of a person who would have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, such term means the amount of monthly retired pay for which the person would have been eligible—

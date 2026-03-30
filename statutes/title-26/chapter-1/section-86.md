@@ -3,9 +3,9 @@ title: "Section 86 - Social security and tier 1 railroad retirement benefits"
 usc_title: 26
 usc_section: "86"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 86"
-generated_at: "2026-03-30T07:02:42.225Z"
+generated_at: "2026-03-30T07:04:56.671Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(ii)** one-half of the social security benefits received during the taxable year, exceeds
     - **(B)** the base amount.
   - **(2)** For purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income—
-    - **(A)** determined without regard to this section and sections 135, 137, 199, 221, 222, 911, 931, and 933, and
+    - **(A)** determined without regard to this section and sections 135, 137, 221, 222, 911, 931, and 933, and
     - **(B)** increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
 - **(c)** For purposes of this section—
   - **(1)** The term “base amount” means—

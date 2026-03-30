@@ -3,9 +3,9 @@ title: "Section 3711 - Authority to carry out Department of Defense Cooperative 
 usc_title: 50
 usc_section: "3711"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 3711"
-generated_at: "2026-03-30T07:03:10.286Z"
+generated_at: "2026-03-30T07:05:26.744Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(A)** the unified combatant commands; and
     - **(B)** the Department of State.
 - **(g)**
-  - **(1)** Not less than 45 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section 3735(b) of this title , the semiannual period covered by the report).
+  - **(1)** Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with section 3735(b) of this title , the semiannual period covered by the report).
   - **(2)** Each report under paragraph (1) shall specify—
     - **(A)** the activities and forms of assistance for which the Secretary plans to obligate funds;
     - **(B)** the amount of the proposed obligation; and

@@ -3,9 +3,9 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-30T07:01:27.900Z"
+generated_at: "2026-03-30T07:03:43.719Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ status: "active"
     - **(A)** the security interests of both the United States and the country in which the activities are to be carried out; or
     - **(B)** the specific operational readiness skills of the members of the armed forces who participate in the activities.
   - **(2)** Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
-  - **(3)** The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section—
-    - **(A)** engages in the physical detection, lifting, or destroying of landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable (unless the member does so for the concurrent purpose of supporting a United States military operation); or
+  - **(3)** The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance under this section—
+    - **(A)** engages in the physical detection, lifting, or destroying of landmines, unexploded explosive ordnance, or other explosive remnants of war (unless the member does so for the concurrent purpose of supporting a United States military operation); or
     - **(B)** provides such assistance as part of a military operation that does not involve the armed forces.
 - **(b)**
   - **(1)** Humanitarian demining assistance and stockpiled conventional munitions assistance may not be provided under this section unless the Secretary of State specifically approves the provision of such assistance.
@@ -35,5 +35,5 @@ status: "active"
   - **(4)** the amount expended in carrying out such assistance in each such country during the preceding fiscal year; and
   - **(5)** a description of interagency efforts to coordinate and improve research, development, test, and evaluation for humanitarian demining technology and mechanical clearance methods, including the transfer of relevant counter-improvised explosive device technology with potential humanitarian demining applications.
 - **(e)** In this section:
-  - **(1)** The term “humanitarian demining assistance”, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
-  - **(2)** The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
+  - **(1)** The term “humanitarian demining assistance”, as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
+  - **(2)** The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.

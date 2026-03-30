@@ -3,9 +3,9 @@ title: "Section 2809 - Long-term facilities contracts for certain activities and
 usc_title: 10
 usc_section: "2809"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2809"
-generated_at: "2026-03-30T07:01:28.005Z"
+generated_at: "2026-03-30T07:03:43.806Z"
 status: "active"
 ---
 
@@ -29,6 +29,4 @@ status: "active"
   - **(3)** A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
 - **(d)** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
 - **(e)** A contract under this section may be for any period not in excess of 32 years, excluding the period for construction.
-- **(f)** A contract may not be entered into under this section until—
-  - **(1)** the Secretary concerned submits to the appropriate committees of Congress, in writing, a justification of the need for the facility for which the contract is to be awarded and an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility; and
-  - **(2)** a period of 21 days has expired following the date on which the justification and the economic analysis are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title .
+- **(f)** The Secretary concerned may enter into a contract under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a justification of the need for the facility covered by the proposed contract, including an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility.

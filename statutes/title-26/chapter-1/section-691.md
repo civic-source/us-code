@@ -3,9 +3,9 @@ title: "Section 691 - Recipients of income in respect of decedents"
 usc_title: 26
 usc_section: "691"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 691"
-generated_at: "2026-03-30T07:02:42.303Z"
+generated_at: "2026-03-30T07:04:56.752Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(B)** The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
     - **(C)** The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
   - **(3)** In the case of any tax imposed by chapter 13 on a taxable termination or a direct skip occurring as a result of the death of the transferor, there shall be allowed a deduction (under principles similar to the principles of this subsection) for the portion of such tax attributable to items of gross income of the trust which were not properly includible in the gross income of the trust for periods before the date of such termination.
-  - **(4)** For purposes of sections 1(h), 1201, 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
+  - **(4)** For purposes of sections 1(h), 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 - **(d)**
   - **(1)** For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
     - **(A)** as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and

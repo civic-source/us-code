@@ -3,9 +3,9 @@ title: "Section 265 - Expenses and interest relating to tax-exempt income"
 usc_title: 26
 usc_section: "265"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 265"
-generated_at: "2026-03-30T07:02:42.253Z"
+generated_at: "2026-03-30T07:04:56.700Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
       - **(ii)** For purposes of clause (i), an obligation is described in this clause if such obligation is—
         - **(I)** a private activity bond (other than a qualified 501(c)(3) bond, as defined in section 145),
         - **(II)** an obligation to which section 141(a) does not apply by reason of section 1312, 1313, 1316(g), or 1317 of the Tax Reform Act of 1986 and which would (if issued on August 15, 1986 ) have been an industrial development bond (as defined in section 103(b)(2) as in effect on the day before the date of the enactment of such Act) or a private loan bond (as defined in section 103( o )(2)(A), as so in effect, but without regard to any exception from such definition other than section 103( o )(2)(A)), or
-        - **(III)** an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
+        - **(III)** an obligation issued to refund (other than to advance refund within the meaning of section 149(d)(5)) 1 1 See References in Text note below. any obligation to the extent the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation.
       - **(iii)** In the case of an issue under which more than 1 governmental entity receives benefits, if—
         - **(I)** all governmental entities receiving benefits from such issue irrevocably agree (before the date of issuance of the issue) on an allocation of the amount of such issue for purposes of this subparagraph, and
         - **(II)** such allocation bears a reasonable relationship to the respective benefits received by such entities,

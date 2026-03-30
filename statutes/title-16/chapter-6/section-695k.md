@@ -3,9 +3,9 @@ title: "Section 695k - Congressional declaration of policy for preservation of h
 usc_title: 16
 usc_section: "695k"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 695k"
-generated_at: "2026-03-30T07:02:21.178Z"
+generated_at: "2026-03-30T07:04:22.307Z"
 status: "active"
 ---
 

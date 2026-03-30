@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T07:02:42.252Z"
+generated_at: "2026-03-30T07:04:56.699Z"
 status: "active"
 ---
 
@@ -20,10 +20,7 @@ status: "active"
     - **(B)** such property’s proper share of those indirect costs (including taxes) part or all of which are allocable to such property.
 - **(b)** Except as otherwise provided in this section, this section shall apply to—
   - **(1)** Real or tangible personal property produced by the taxpayer.
-  - **(2)**
-    - **(A)** Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
-    - **(B)** Subparagraph (A) shall not apply to any personal property acquired during any taxable year by the taxpayer for resale if the average annual gross receipts of the taxpayer (or any predecessor) for the 3-taxable year period ending with the taxable year preceding such taxable year do not exceed $10,000,000.
-    - **(C)** For purposes of subparagraph (B), rules similar to the rules of paragraphs (2) and (3) of section 448(c) shall apply.
+  - **(2)** Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
 - **(c)**
   - **(1)** This section shall not apply to any property produced by the taxpayer for use by the taxpayer other than in a trade or business or an activity conducted for profit.
   - **(2)** This section shall not apply to any amount allowable as a deduction under section 174.
@@ -45,6 +42,11 @@ status: "active"
     - **(B)** Subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
       - **(i)** the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
       - **(ii)** such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
+    - **(C)**
+      - **(i)** In the case of the replanting of citrus plants, subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
+        - **(I)** the taxpayer described in subparagraph (A) has an equity interest of not less than 50 percent in the replanted citrus plants at all times during the taxable year in which such amounts were paid or incurred and such other person holds any part of the remaining equity interest, or
+        - **(II)** such other person acquired the entirety of such taxpayer’s equity interest in the land on which the lost or damaged citrus plants were located at the time of such loss or damage, and the replanting is on such land.
+      - **(ii)** Clause (i) shall not apply to any cost paid or incurred after the date which is 10 years after the date of the enactment of the Tax Cuts and Jobs Act.
   - **(3)**
     - **(A)** If a taxpayer makes an election under this paragraph, this section shall not apply to any plant produced in any farming business carried on by such taxpayer.
     - **(B)** No election may be made under this paragraph by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
@@ -89,13 +91,19 @@ status: "active"
     - **(B)** Subparagraph (A) shall not apply to any qualified residence interest (within the meaning of section 163(h)).
     - **(C)** Except as provided in regulations, in the case of any flow-through entity, this paragraph shall be applied first at the entity level and then at the beneficiary level.
   - **(3)** This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
-  - **(4)** For purposes of this subsection—
+  - **(4)**
+    - **(A)** For purposes of this subsection, the production period shall not include the aging period for—
+      - **(i)** beer (as defined in section 5052(a)),
+      - **(ii)** wine (as described in section 5041(a)), or
+      - **(iii)** distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
+    - **(B)** This paragraph shall not apply to interest costs paid or accrued after December 31, 2019 .
+  - **(5)** For purposes of this subsection—
     - **(A)** Property has a long useful life if such property is—
       - **(i)** real property, or
       - **(ii)** property with a class life of 20 years or more (as determined under section 168).
     - **(B)** The term “production period” means, when used with respect to any property, the period—
       - **(i)** beginning on the date on which production of the property begins, and
-      - **(ii)** ending on the date on which the property is ready to be placed in service or is ready to be held for sale.
+      - **(ii)** except as provided in paragraph (4), ending on the date on which the property is ready to be placed in service or is ready to be held for sale.
     - **(C)** The term “production expenditures” means the costs (whether or not incurred during the production period) required to be capitalized under subsection (a) with respect to the property.
 - **(g)** For purposes of this section—
   - **(1)** The term “produce” includes construct, build, install, manufacture, develop, or improve.
@@ -118,6 +126,10 @@ status: "active"
         - **(I)** substantially all of the stock of a corporation is owned by a qualified employee-owner and members of his family (as defined in section 267(c)(4)), and
         - **(II)** the principal activity of such corporation is performance of personal services directly related to the activities of the qualified employee-owner and such services are substantially performed by the qualified employee-owner,
       - **(ii)** For purposes of this subparagraph, the term “qualified employee-owner” means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
-- **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
+- **(i)**
+  - **(1)** In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
+  - **(2)** In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+  - **(3)** Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+- **(j)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
   - **(1)** regulations to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section, and
   - **(2)** regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).

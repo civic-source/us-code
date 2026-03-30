@@ -3,9 +3,9 @@ title: "Section 6722 - Failure to furnish correct payee statements"
 usc_title: 26
 usc_section: "6722"
 chapter: 68
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6722"
-generated_at: "2026-03-30T07:02:42.424Z"
+generated_at: "2026-03-30T07:04:56.875Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
     - **(A)** the $3,000,000 limitation under subsection (a) shall not apply, and
     - **(B)** such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 - **(f)**
-  - **(1)** In the case of any failure relating to a statement required to be furnished in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(1)** In the case of any failure relating to a statement required to be furnished in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $75,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
     - **(B)** is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.

@@ -3,9 +3,9 @@ title: "Section 1076 - Sources of funds"
 usc_title: 20
 usc_section: "1076"
 chapter: 28
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 1076"
-generated_at: "2026-03-30T07:01:56.669Z"
+generated_at: "2026-03-30T07:04:27.740Z"
 status: "active"
 ---
 

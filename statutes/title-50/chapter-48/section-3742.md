@@ -1,20 +1,13 @@
 ---
-title: "Section 3742 - Requirement to submit summary of amounts requested by project category"
+title: "Section 3742 - Repealed. Pub. L. 115–91, div. A, title X , § 1051(t)(7), (8), Dec. 12, 2017 , 131 Stat. 1566"
 usc_title: 50
 usc_section: "3742"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 3742"
-generated_at: "2026-03-30T07:03:10.287Z"
-status: "active"
+generated_at: "2026-03-30T07:05:26.745Z"
+status: "repealed"
 ---
 
-# § 3742. Requirement to submit summary of amounts requested by project category
+# §§ 3741, 3742. Repealed. Pub. L. 115–91, div. A, title X , § 1051(t)(7), (8), Dec. 12, 2017 , 131 Stat. 1566
 
-- **(a)** The Secretary of Defense shall submit to the congressional defense committees in the materials and manner specified in subsection (c)—
-  - **(1)** a descriptive summary, with respect to the appropriations requested for the Program for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each program element; and
-  - **(2)** a descriptive summary, with respect to appropriations for the Program for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each program element.
-- **(b)** The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each program element that explains the purpose and intent of the funds requested.
-- **(c)** The summary required to be submitted in a fiscal year under subsection (a) shall be set forth by project category, and by amounts specified in paragraphs (1) and (2) of such subsection in connection with such project category, in each of the following:
-  - **(1)** The annual report on activities and assistance under the Program required in such fiscal year under section 3743 of this title .
-  - **(2)** The budget justification materials submitted to Congress in support of the Department of Defense budget for the fiscal year succeeding such fiscal year (as submitted with the budget of the President under section 1105 of title 31 ).

@@ -3,9 +3,9 @@ title: "Section 44301 - Definitions"
 usc_title: 49
 usc_section: "44301"
 chapter: 443
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 44301"
-generated_at: "2026-03-30T07:03:12.381Z"
+generated_at: "2026-03-30T07:05:28.474Z"
 status: "active"
 ---
 

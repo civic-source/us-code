@@ -3,9 +3,9 @@ title: "Section 293j - Repealed. Pub. L. 105–392, title I , § 102(2), Nov. 13
 usc_title: 42
 usc_section: "293j"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 293j"
-generated_at: "2026-03-30T07:03:04.549Z"
+generated_at: "2026-03-30T07:05:21.425Z"
 status: "repealed"
 ---
 

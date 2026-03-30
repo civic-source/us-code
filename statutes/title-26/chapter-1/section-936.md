@@ -3,9 +3,9 @@ title: "Section 936 - Puerto Rico and possession tax credit"
 usc_title: 26
 usc_section: "936"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 936"
-generated_at: "2026-03-30T07:02:42.323Z"
+generated_at: "2026-03-30T07:04:56.771Z"
 status: "active"
 ---
 
@@ -100,8 +100,9 @@ status: "active"
       - **(ii)** copyright, literary, musical, or artistic composition;
       - **(iii)** trademark, trade name, or brand name;
       - **(iv)** franchise, license, or contract;
-      - **(v)** method, program, system, procedure, campaign, survey, study, forecast, estimate, customer list, or technical data; or
-      - **(vi)** any similar item,
+      - **(v)** method, program, system, procedure, campaign, survey, study, forecast, estimate, customer list, or technical data;
+      - **(vi)** any goodwill, going concern value, or workforce in place (including its composition and terms and conditions (contractual or otherwise) of its employment); or
+      - **(vii)** any other item the value or potential value of which is not attributable to tangible property or the services of any individual.
     - **(C)** The term “intangible property income” shall not include any portion of the income from the sale, exchange or other disposition of any product, or from the rendering of services, by a corporation electing the application of this section which is determined by the Secretary to be a reasonable profit on the direct and indirect costs incurred by such electing corporation which are attributable to such income.
     - **(D)**
       - **(i)** A person (hereinafter referred to as the “related person”) is related to any person if—

@@ -3,9 +3,9 @@ title: "Section 567b - Conditions and requirements for cooperation in acquisitio
 usc_title: 16
 usc_section: "567b"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 567b"
-generated_at: "2026-03-30T07:02:21.165Z"
+generated_at: "2026-03-30T07:04:22.295Z"
 status: "active"
 ---
 

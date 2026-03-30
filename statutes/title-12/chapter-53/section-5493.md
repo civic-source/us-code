@@ -3,9 +3,9 @@ title: "Section 5493 - Administration"
 usc_title: 12
 usc_section: "5493"
 chapter: 53
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 5493"
-generated_at: "2026-03-30T07:01:44.430Z"
+generated_at: "2026-03-30T07:04:15.210Z"
 status: "active"
 ---
 

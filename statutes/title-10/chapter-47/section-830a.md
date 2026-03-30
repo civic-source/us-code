@@ -3,19 +3,20 @@ title: "Section 830a - Art. 30a. Certain proceedings conducted before referral"
 usc_title: 10
 usc_section: "830a"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 830a"
-generated_at: "2026-03-30T07:01:27.913Z"
+generated_at: "2026-03-30T07:03:43.730Z"
 status: "active"
 ---
 
 # § 830a. Art. 30a. Certain proceedings conducted before referral
 
 - **(a)**
-  - **(1)** Proceedings may be conducted to review the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President:
+  - **(1)** Proceedings may be conducted to review, or otherwise act on, the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President:
     - **(A)** Pre-referral investigative subpoenas.
     - **(B)** Pre-referral warrants or orders for electronic communications.
     - **(C)** Pre-referral matters referred by an appellate court.
+    - **(D)** Pre-referral matters under subsection (c) or (e) of section 806b of this title (article 6b).
   - **(2)** The regulations prescribed under paragraph (1) shall—
     - **(A)** include procedures for the review of such rulings that may be ordered under this section as the President considers appropriate; and
     - **(B)** provide such limitations on the relief that may be ordered under this section as the President considers appropriate.

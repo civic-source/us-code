@@ -3,9 +3,9 @@ title: "Section 3684 - Limitations"
 usc_title: 39
 usc_section: "3684"
 chapter: 36
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "39 U.S.C. § 3684"
-generated_at: "2026-03-30T07:02:49.618Z"
+generated_at: "2026-03-30T07:05:02.419Z"
 status: "active"
 ---
 

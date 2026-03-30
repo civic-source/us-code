@@ -3,9 +3,9 @@ title: "Section 216b - Disposition of unclaimed property"
 usc_title: 12
 usc_section: "216b"
 chapter: 2
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 216b"
-generated_at: "2026-03-30T07:01:44.284Z"
+generated_at: "2026-03-30T07:04:15.067Z"
 status: "active"
 ---
 

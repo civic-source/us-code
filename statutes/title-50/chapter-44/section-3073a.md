@@ -3,9 +3,9 @@ title: "Section 3073a - Reporting of certain employment activities by former int
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-30T07:03:10.275Z"
+generated_at: "2026-03-30T07:05:26.734Z"
 status: "active"
 ---
 

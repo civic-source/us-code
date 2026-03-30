@@ -1,17 +1,18 @@
 ---
-title: "Section 2 - Dominguez Canyon Wilderness Area"
+title: "Section 2 - Authority of Secretary regarding property and concessions"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:02:21.149Z"
+generated_at: "2026-03-30T07:04:22.279Z"
 status: "active"
 ---
 
-# § 460zzz–2. Dominguez Canyon Wilderness Area
+# § 460bbbb–2. Authority of Secretary regarding property and concessions
 
-- **(a)** In accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), the approximately 66,280 acres of public land in Mesa, Montrose, and Delta Counties, Colorado, as generally depicted on the Map, is designated as wilderness and as a component of the National Wilderness Preservation System, to be known as the “Dominguez Canyon Wilderness Area”.
-- **(b)** The Wilderness shall be managed by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.) and this subchapter, except that—
-  - **(1)** any reference in the Wilderness Act to the effective date of that Act shall be considered to be a reference to March 30, 2009 ; and
-  - **(2)** any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary of the Interior.
+- **(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
+- **(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
+- **(c)** The Secretary may, in carrying out his authorities with respect to the interpretation of properties within the national historical park and the preservation district, accept the services and assistance, with or without reimbursement therefor, of qualified persons and entities to the extent he deems necessary and appropriate. Funds appropriated for the purposes of this subchapter may be expended for the improvement, restoration, and maintenance of properties in which the Secretary has acquired a leasehold interest.
+- **(d)** Notwithstanding any other provision of law, the Secretary shall give first preference to the Martin Luther King, Junior, Center for Social Change with respect to any contract for a concession to sell books, postcards, tapes, or similar types of appropriate mementos related to the purposes of this subchapter, on facilities operated and maintained by the Secretary within the historical park: Provided , That agreement can be reached on terms and conditions acceptable to the Secretary.
+- **(e)** The Secretary is authorized to take only such actions within and upon the grounds of the Ebenezer Baptist Church as will directly support appropriate public visitation to and within the church in accordance with the purposes of this subchapter, or which will assist in the maintenance or preservation of those portions of said church which are directly related to the purposes of this subchapter.

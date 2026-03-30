@@ -3,9 +3,9 @@ title: "Section 190e - Repealed. Pub. L. 91–510, title II , § 242(b)(1), Oct.
 usc_title: 2
 usc_section: "190e"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 190e"
-generated_at: "2026-03-30T07:01:19.839Z"
+generated_at: "2026-03-30T07:03:26.273Z"
 status: "repealed"
 ---
 

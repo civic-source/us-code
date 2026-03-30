@@ -3,9 +3,9 @@ title: "Section 704 - Partner’s distributive share"
 usc_title: 26
 usc_section: "704"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 704"
-generated_at: "2026-03-30T07:02:42.304Z"
+generated_at: "2026-03-30T07:04:56.752Z"
 status: "active"
 ---
 
@@ -31,7 +31,12 @@ status: "active"
       - **(i)** the 180th day after the date of the distribution described in subparagraph (A), or
       - **(ii)** the due date (determined with regard to extensions) for the contributing partner’s return of the tax imposed by this chapter for the taxable year in which the distribution described in subparagraph (A) occurs,
   - **(3)** Under regulations prescribed by the Secretary, rules similar to the rules of paragraph (1) shall apply to contributions by a partner (using the cash receipts and disbursements method of accounting) of accounts payable and other accrued but unpaid items. Any reference in paragraph (1) or (2) to the contributing partner shall be treated as including a reference to any successor of such partner.
-- **(d)** A partner’s distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner’s interest in the partnership at the end of the partnership year in which such loss occurred. Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+- **(d)**
+  - **(1)** A partner’s distributive share of partnership loss (including capital loss) shall be allowed only to the extent of the adjusted basis of such partner’s interest in the partnership at the end of the partnership year in which such loss occurred.
+  - **(2)** Any excess of such loss over such basis shall be allowed as a deduction at the end of the partnership year in which such excess is repaid to the partnership.
+  - **(3)**
+    - **(A)** In determining the amount of any loss under paragraph (1), there shall be taken into account the partner’s distributive share of amounts described in paragraphs (4) and (6) of section 702(a).
+    - **(B)** In the case of a charitable contribution of property whose fair market value exceeds its adjusted basis, subparagraph (A) shall not apply to the extent of the partner’s distributive share of such excess.
 - **(e)**
   - **(1)** In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor’s capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
   - **(2)** For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The “family” of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.

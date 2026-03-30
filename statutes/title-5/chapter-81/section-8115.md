@@ -3,9 +3,9 @@ title: "Section 8115 - Determination of wage-earning capacity"
 usc_title: 5
 usc_section: "8115"
 chapter: 81
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 8115"
-generated_at: "2026-03-30T07:01:18.839Z"
+generated_at: "2026-03-30T07:03:32.334Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 959 - Enlistment in foreign service"
 usc_title: 18
 usc_section: "959"
 chapter: 45
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 959"
-generated_at: "2026-03-30T07:01:54.126Z"
+generated_at: "2026-03-30T07:04:31.711Z"
 status: "active"
 ---
 

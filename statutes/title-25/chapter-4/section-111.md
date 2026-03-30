@@ -3,9 +3,9 @@ title: "Section 111 - Payment of moneys and distribution of goods"
 usc_title: 25
 usc_section: "111"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 111"
-generated_at: "2026-03-30T07:02:25.121Z"
+generated_at: "2026-03-30T07:04:34.879Z"
 status: "active"
 ---
 

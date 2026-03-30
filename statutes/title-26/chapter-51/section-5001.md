@@ -3,9 +3,9 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-30T07:02:42.384Z"
+generated_at: "2026-03-30T07:04:56.835Z"
 status: "active"
 ---
 
@@ -22,4 +22,26 @@ status: "active"
   - **(8)** There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawn from bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
   - **(9)** Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained therein at the rate imposed on distilled spirits produced in the United States.
 - **(b)** The tax shall attach to distilled spirits as soon as this substance is in existence as such, whether it be subsequently separated as pure or impure spirits, or be immediately, or at any subsequent time, transferred into any other substance, either in the process of original production or by any subsequent process.
-- **(c)** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.
+- **(c)**
+  - **(1)** In the case of a distilled spirits operation, the otherwise applicable tax rate under subsection (a)(1) shall be—
+    - **(A)** $2.70 per proof gallon on the first 100,000 proof gallons of distilled spirits, and
+    - **(B)** $13.34 per proof gallon on the first 22,130,000 of proof gallons of distilled spirits to which subparagraph (A) does not apply,
+  - **(2)**
+    - **(A)** In the case of a controlled group, the proof gallon quantities specified under subparagraphs (A) and (B) of paragraph (1) shall be applied to such group and apportioned among the members of such group in such manner as the Secretary or their delegate shall by regulations prescribe.
+    - **(B)** For purposes of subparagraph (A), the term “controlled group” shall have the meaning given such term by subsection (a) of section 1563, except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in such subsection.
+    - **(C)** Under regulations prescribed by the Secretary, principles similar to the principles of subparagraphs (A) and (B) shall be applied to a group under common control where one or more of the persons is not a corporation.
+    - **(D)** Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce distilled spirits marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+  - **(3)**
+    - **(A)** In the case of any proof gallons of distilled spirits which have been produced outside of the United States and imported into the United States, the rate of tax applicable under paragraph (1) (referred to in this paragraph as the “reduced tax rate”) may be assigned by the distilled spirits operation (provided that such operation makes an election described in subparagraph (B)(ii)) to any electing importer of such proof gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+    - **(B)** The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+      - **(i)** a limitation to ensure that the number of proof gallons of distilled spirits for which the reduced tax rate has been assigned by a distilled spirits operation—
+        - **(I)** to any importer does not exceed the number of proof gallons produced by such operation during the calendar year which were imported into the United States by such importer, and
+        - **(II)** to all importers does not exceed the 22,230,000 proof gallons of distilled spirits to which the reduced tax rate applies,
+      - **(ii)** procedures that allow the election of a distilled spirits operation to assign and an importer to receive the reduced tax rate provided under this paragraph,
+      - **(iii)** requirements that the distilled spirits operation provide any information as the Secretary determines necessary and appropriate for purposes of carrying out this paragraph, and
+      - **(iv)** procedures that allow for revocation of eligibility of the distilled spirits operation and the importer for the reduced tax rate provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such reduced rate.
+    - **(C)**
+      - **(i)** For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the distilled spirits operation, as described under paragraph (2).
+      - **(ii)** For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
+  - **(4)** This subsection shall not apply to distilled spirits removed after December 31, 2019 .
+- **(d)** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.

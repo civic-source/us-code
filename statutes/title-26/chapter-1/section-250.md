@@ -1,13 +1,69 @@
 ---
-title: "Section 250 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(15), Nov. 5, 1990 , 104 Stat. 1388–520 ]"
+title: "Section 250 - Foreign-derived intangible income and global intangible low-taxed income"
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-30T07:02:42.252Z"
-status: "repealed"
+generated_at: "2026-03-30T07:04:56.698Z"
+status: "active"
 ---
 
-# [§ 250. Repealed. Pub. L. 101–508, title XI , § 11801(a)(15), Nov. 5, 1990 , 104 Stat. 1388–520 ]
+# § 250. Foreign-derived intangible income and global intangible low-taxed income
 
+- **(a)**
+  - **(1)** In the case of a domestic corporation for any taxable year, there shall be allowed as a deduction an amount equal to the sum of—
+    - **(A)** 37.5 percent of the foreign-derived intangible income of such domestic corporation for such taxable year, plus
+    - **(B)** 50 percent of—
+      - **(i)** the global intangible low-taxed income amount (if any) which is included in the gross income of such domestic corporation under section 951A for such taxable year, and
+      - **(ii)** the amount treated as a dividend received by such corporation under section 78 which is attributable to the amount described in clause (i).
+  - **(2)**
+    - **(A)** If, for any taxable year—
+      - **(i)** the sum of the foreign-derived intangible income and the global intangible low-taxed income amount otherwise taken into account by the domestic corporation under paragraph (1), exceeds
+      - **(ii)** the taxable income of the domestic corporation (determined without regard to this section),then the amount of the foreign-derived intangible income and the global intangible low-taxed income amount so taken into account shall be reduced as provided in subparagraph (B).
+    - **(B)** For purposes of subparagraph (A)—
+      - **(i)** foreign-derived intangible income shall be reduced by an amount which bears the same ratio to the excess described in subparagraph (A) as such foreign-derived intangible income bears to the sum described in subparagraph (A)(i), and
+      - **(ii)** the global intangible low-taxed income amount shall be reduced by the remainder of such excess.
+  - **(3)** In the case of any taxable year beginning after December 31, 2025 , paragraph (1) shall be applied by substituting—
+    - **(A)** “21.875 percent” for “37.5 percent” in subparagraph (A), and
+    - **(B)** “37.5 percent” for “50 percent” in subparagraph (B).
+- **(b)** For purposes of this section—
+  - **(1)** The foreign-derived intangible income of any domestic corporation is the amount which bears the same ratio to the deemed intangible income of such corporation as—
+    - **(A)** the foreign-derived deduction eligible income of such corporation, bears to
+    - **(B)** the deduction eligible income of such corporation.
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “deemed intangible income” means the excess (if any) of—
+      - **(i)** the deduction eligible income of the domestic corporation, over
+      - **(ii)** the deemed tangible income return of the corporation.
+    - **(B)** The term “deemed tangible income return” means, with respect to any corporation, an amount equal to 10 percent of the corporation’s qualified business asset investment (as defined in section 951A(d), determined by substituting “deduction eligible income” for “tested income” in paragraph (2) thereof and without regard to whether the corporation is a controlled foreign corporation).
+  - **(3)**
+    - **(A)** The term “deduction eligible income” means, with respect to any domestic corporation, the excess (if any) of—
+      - **(i)** gross income of such corporation determined without regard to—
+        - **(I)** any amount included in the gross income of such corporation under section 951(a)(1),
+        - **(II)** the global intangible low-taxed income included in the gross income of such corporation under section 951A,
+        - **(III)** any financial services income (as defined in section 904(d)(2)(D)) of such corporation,
+        - **(IV)** any dividend received from a corporation which is a controlled foreign corporation of such domestic corporation,
+        - **(V)** any domestic oil and gas extraction income of such corporation, and
+        - **(VI)** any foreign branch income (as defined in section 904(d)(2)(J)), over
+      - **(ii)** the deductions (including taxes) properly allocable to such gross income.
+    - **(B)** For purposes of subparagraph (A), the term “domestic oil and gas extraction income” means income described in section 907(c)(1), determined by substituting “within the United States” for “without the United States”.
+  - **(4)** The term “foreign-derived deduction eligible income” means, with respect to any taxpayer for any taxable year, any deduction eligible income of such taxpayer which is derived in connection with—
+    - **(A)** property—
+      - **(i)** which is sold by the taxpayer to any person who is not a United States person, and
+      - **(ii)** which the taxpayer establishes to the satisfaction of the Secretary is for a foreign use, or
+    - **(B)** services provided by the taxpayer which the taxpayer establishes to the satisfaction of the Secretary are provided to any person, or with respect to property, not located within the United States.
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “foreign use” means any use, consumption, or disposition which is not within the United States.
+    - **(B)**
+      - **(i)** If a taxpayer sells property to another person (other than a related party) for further manufacture or other modification within the United States, such property shall not be treated as sold for a foreign use even if such other person subsequently uses such property for a foreign use.
+      - **(ii)** If a taxpayer provides services to another person (other than a related party) located within the United States, such services shall not be treated as described in paragraph (4)(B) even if such other person uses such services in providing services which are so described.
+    - **(C)**
+      - **(i)** If property is sold to a related party who is not a United States person, such sale shall not be treated as for a foreign use unless—
+        - **(I)** such property is ultimately sold by a related party, or used by a related party in connection with property which is sold or the provision of services, to another person who is an unrelated party who is not a United States person, and
+        - **(II)** the taxpayer establishes to the satisfaction of the Secretary that such property is for a foreign use.
+      - **(ii)** If a service is provided to a related party who is not located in the United States, such service shall not be treated described 1 1 So in original. Probably should be preceded by “as”. in subparagraph (A)(ii) 2 2 So in original. Probably should be “(B)(ii)”. unless the taxpayer established to the satisfaction of the Secretary that such service is not substantially similar to services provided by such related party to persons located within the United States.
+    - **(D)** For purposes of this paragraph, the term “related party” means any member of an affiliated group as defined in section 1504(a), determined—
+      - **(i)** by substituting “more than 50 percent” for “at least 80 percent” each place it appears, and
+      - **(ii)** without regard to paragraphs (2) and (3) of section 1504(b).
+    - **(E)** For purposes of this subsection, the terms “sold”, “sells”, and “sale” shall include any lease, license, exchange, or other disposition.
+- **(c)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.

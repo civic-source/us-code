@@ -3,9 +3,9 @@ title: "Section 1721 - Designation of acquisition positions"
 usc_title: 10
 usc_section: "1721"
 chapter: 87
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1721"
-generated_at: "2026-03-30T07:01:27.956Z"
+generated_at: "2026-03-30T07:03:43.765Z"
 status: "active"
 ---
 
@@ -24,4 +24,5 @@ status: "active"
   - **(9)** Education, training, and career development.
   - **(10)** Construction.
   - **(11)** Joint development and production with other government agencies and foreign countries.
+  - **(12)** Intellectual property.
 - **(c)** The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996 .

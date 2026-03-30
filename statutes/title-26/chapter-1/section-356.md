@@ -3,9 +3,9 @@ title: "Section 356 - Receipt of additional consideration"
 usc_title: 26
 usc_section: "356"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 356"
-generated_at: "2026-03-30T07:02:42.260Z"
+generated_at: "2026-03-30T07:04:56.707Z"
 status: "active"
 ---
 

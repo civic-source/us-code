@@ -3,9 +3,9 @@ title: "Section 5951 - Repealed. Pub. L. 107–110, title X , § 1011(4)(B), Jan
 usc_title: 20
 usc_section: "5951"
 chapter: 68
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 5951"
-generated_at: "2026-03-30T07:01:56.736Z"
+generated_at: "2026-03-30T07:04:27.811Z"
 status: "repealed"
 ---
 

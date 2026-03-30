@@ -3,9 +3,9 @@ title: "Section 1392 - Eligibility criteria"
 usc_title: 26
 usc_section: "1392"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1392"
-generated_at: "2026-03-30T07:02:42.345Z"
+generated_at: "2026-03-30T07:04:56.793Z"
 status: "active"
 ---
 

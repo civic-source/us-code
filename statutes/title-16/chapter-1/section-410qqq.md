@@ -3,9 +3,9 @@ title: "Section 410qqq - Coltsville National Historical Park"
 usc_title: 16
 usc_section: "410qqq"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 410qqq"
-generated_at: "2026-03-30T07:02:21.106Z"
+generated_at: "2026-03-30T07:04:22.237Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(1)** Subject to paragraph (2), there is established in the State a unit of the National Park System to be known as the “Coltsville National Historical Park”.
   - **(2)** The park shall not be established until the date on which the Secretary determines that—
     - **(A)** the Secretary has acquired by donation sufficient land or an interest in land within the boundary of the park to constitute a manageable unit;
-    - **(B)** the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the East Armory which would include facilities for park administration and visitor services; and
+    - **(B)** the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the Colt Armory Complex which would include facilities for park administration and visitor services; and
     - **(C)** the Secretary has entered into a written agreement with the State, city, or other public entity, as appropriate, providing that land owned by the State, city, or other public entity within the Coltsville Historic District shall be managed consistent with this section.
   - **(3)** Not later than 30 days after the date on which the Secretary makes a determination under paragraph (2), the Secretary shall publish in the Federal Register notice of the establishment of the park.
 - **(c)** The park shall include and provide appropriate interpretation and viewing of the following sites, as generally depicted on the map:

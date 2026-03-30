@@ -3,9 +3,9 @@ title: "Section 2431 - Report"
 usc_title: 43
 usc_section: "2431"
 chapter: 42
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 2431"
-generated_at: "2026-03-30T07:02:55.573Z"
+generated_at: "2026-03-30T07:05:11.434Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6006 - “Approved bicycle helmet” defined"
 usc_title: 15
 usc_section: "6006"
 chapter: 86
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 6006"
-generated_at: "2026-03-30T07:01:50.967Z"
+generated_at: "2026-03-30T07:03:49.338Z"
 status: "active"
 ---
 

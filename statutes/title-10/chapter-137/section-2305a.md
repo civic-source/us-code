@@ -3,9 +3,9 @@ title: "Section 2305a - Design-build selection procedures"
 usc_title: 10
 usc_section: "2305a"
 chapter: 137
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2305a"
-generated_at: "2026-03-30T07:01:27.972Z"
+generated_at: "2026-03-30T07:03:43.778Z"
 status: "active"
 ---
 
@@ -33,7 +33,11 @@ status: "active"
     - **(A)** the technical submission for the proposal, including design concepts or proposed solutions to requirements addressed within the scope of work (or both), and
     - **(B)** the evaluation factors and subfactors, including cost or price, that must be considered in the evaluations of proposals in accordance with paragraphs (2), (3), and (4) of section 2305(a) of this title .
   - **(5)** The agency awards the contract in accordance with section 2305(b)(4) of this title .
-- **(d)** A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government’s interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures.
+- **(d)** A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—
+  - **(1)** the solicitation is issued pursuant to a 1 1 So in original. Probably should be “an”. indefinite delivery-indefinite quantity contract for design-build construction; or
+  - **(2)**
+    - **(A)** the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer’s justification with respect to an individual solicitation that a maximum number greater than 5 is in the interest of the Federal Government; and
+    - **(B)** the contracting officer provides written documentation of how a maximum number greater than 5 is consistent with the purposes and objectives of the two-phase selection procedures.
 - **(e)** The Federal Acquisition Regulation shall include guidance—
   - **(1)** regarding the factors that may be considered in determining whether the two-phase contracting procedures authorized by subsection (a) are appropriate for use in individual contracting situations;
   - **(2)** regarding the factors that may be used in selecting contractors; and

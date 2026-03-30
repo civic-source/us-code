@@ -3,9 +3,9 @@ title: "Section 2184 - Communications with stockholders"
 usc_title: 12
 usc_section: "2184"
 chapter: 23
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 2184"
-generated_at: "2026-03-30T07:01:44.372Z"
+generated_at: "2026-03-30T07:04:15.155Z"
 status: "active"
 ---
 

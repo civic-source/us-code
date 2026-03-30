@@ -3,9 +3,9 @@ title: "Section 1573 - Construction and maintenance of well fields; land acquisi
 usc_title: 43
 usc_section: "1573"
 chapter: 32
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 1573"
-generated_at: "2026-03-30T07:02:55.555Z"
+generated_at: "2026-03-30T07:05:11.417Z"
 status: "active"
 ---
 

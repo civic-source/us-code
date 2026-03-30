@@ -3,9 +3,9 @@ title: "Section 6371 - Definitions"
 usc_title: 42
 usc_section: "6371"
 chapter: 77
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 6371"
-generated_at: "2026-03-30T07:03:04.939Z"
+generated_at: "2026-03-30T07:05:21.794Z"
 status: "active"
 ---
 

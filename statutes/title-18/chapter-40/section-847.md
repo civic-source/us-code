@@ -3,9 +3,9 @@ title: "Section 847 - Rules and regulations"
 usc_title: 18
 usc_section: "847"
 chapter: 40
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 847"
-generated_at: "2026-03-30T07:01:54.122Z"
+generated_at: "2026-03-30T07:04:31.708Z"
 status: "active"
 ---
 

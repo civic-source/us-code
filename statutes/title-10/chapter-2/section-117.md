@@ -3,9 +3,9 @@ title: "Section 117 - Readiness reporting system: establishment; reporting to co
 usc_title: 10
 usc_section: "117"
 chapter: 2
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 117"
-generated_at: "2026-03-30T07:01:27.886Z"
+generated_at: "2026-03-30T07:03:43.706Z"
 status: "active"
 ---
 
@@ -30,8 +30,8 @@ status: "active"
   - **(8)** Measure, on an annual basis, the capability of operational contract support to support current and anticipated wartime missions of the armed forces.
 - **(d)**
   - **(1)** The Chairman of the Joint Chiefs of Staff shall—
-    - **(A)** on a quarterly basis, conduct a joint readiness review; and
+    - **(A)** on a semi-annual basis, conduct a joint readiness review; and
     - **(B)** on a monthly basis, review any changes that have been reported in readiness since the previous joint readiness review.
   - **(2)** The Chairman shall incorporate into both the joint readiness review required under paragraph (1)(A) and the monthly review required under paragraph (1)(B) the current information derived from the readiness reporting system and shall assess the capability of the armed forces to execute their wartime missions based upon their posture at the time the review is conducted. The Chairman shall submit to the Secretary of Defense the results of each review under paragraph (1), including the deficiencies in readiness identified during that review.
-- **(e)** The Secretary shall each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
+- **(e)** The Secretary shall semi-annually submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
 - **(f)** The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.

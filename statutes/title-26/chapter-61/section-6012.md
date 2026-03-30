@@ -3,9 +3,9 @@ title: "Section 6012 - Persons required to make returns of income"
 usc_title: 26
 usc_section: "6012"
 chapter: 61
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6012"
-generated_at: "2026-03-30T07:02:42.394Z"
+generated_at: "2026-03-30T07:04:56.845Z"
 status: "active"
 ---
 
@@ -44,3 +44,10 @@ status: "active"
 - **(c)** For purposes of this section, gross income shall be computed without regard to the exclusion provided for in section 121 (relating to gain from sale of principal residence) and without regard to the exclusion provided for in section 911 (relating to citizens or residents of the United States living abroad).
 - **(d)** Every person required to file a return under this section for the taxable year shall include on such return the amount of interest received or accrued during the taxable year which is exempt from the tax imposed by chapter 1.
 - **(e)** For provisions relating to consolidated returns by affiliated corporations, see chapter 6.
+- **(f)** In the case of a taxable year beginning after December 31, 2017 , and before January 1, 2026 , subsection (a)(1) shall not apply, and every individual who has gross income for the taxable year shall be required to make returns with respect to income taxes under subtitle A, except that a return shall not be required of—
+  - **(1)** an individual who is not married (determined by applying section 7703) and who has gross income for the taxable year which does not exceed the standard deduction applicable to such individual for such taxable year under section 63, or
+  - **(2)** an individual entitled to make a joint return if—
+    - **(A)** the gross income of such individual, when combined with the gross income of such individual’s spouse, for the taxable year does not exceed the standard deduction which would be applicable to the taxpayer for such taxable year under section 63 if such individual and such individual’s spouse made a joint return,
+    - **(B)** such individual and such individual’s spouse have the same household as their home at the close of the taxable year,
+    - **(C)** such individual’s spouse does not make a separate return, and
+    - **(D)** neither such individual nor such individual’s spouse is an individual described in section 63(c)(5) who has income (other than earned income) in excess of the amount in effect under section 63(c)(5)(A).

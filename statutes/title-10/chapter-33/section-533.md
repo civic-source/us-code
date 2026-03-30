@@ -3,9 +3,9 @@ title: "Section 533 - Service credit upon original appointment as a commissioned
 usc_title: 10
 usc_section: "533"
 chapter: 33
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 533"
-generated_at: "2026-03-30T07:01:27.905Z"
+generated_at: "2026-03-30T07:03:43.723Z"
 status: "active"
 ---
 
@@ -42,4 +42,4 @@ status: "active"
     - **(B)** Any period of advanced education in a cyberspace-related field beyond the baccalaureate degree level if such advanced education is directly related to the operational needs of the armed force concerned.
   - **(2)** Constructive service credited an officer under this subsection shall not exceed one year for each year of special experience, training, or advanced education, and not more than three years total constructive service may be credited.
   - **(3)** Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
-  - **(4)** The authority to award constructive service credit under this subsection expires on December 31, 2018 .
+  - **(4)** The authority to award constructive service credit under this subsection expires on December 31, 2023 .

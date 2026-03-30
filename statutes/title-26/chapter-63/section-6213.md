@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T07:02:42.407Z"
+generated_at: "2026-03-30T07:04:56.860Z"
 status: "active"
 ---
 
@@ -57,4 +57,4 @@ status: "active"
   - **(2)** For assessments without regard to restrictions imposed by this section in the case of—
     - **(A)** Recovery of foreign income taxes, see section 905(c).
     - **(B)** Recovery of foreign estate tax, see section 2016.
-  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).
+  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 2

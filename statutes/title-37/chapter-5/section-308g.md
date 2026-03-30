@@ -3,9 +3,9 @@ title: "Section 308g - Special pay: bonus for enlistment in elements of the Read
 usc_title: 37
 usc_section: "308g"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 308g"
-generated_at: "2026-03-30T07:02:49.450Z"
+generated_at: "2026-03-30T07:05:02.834Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
 - **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 - **(f)** A bonus may not be paid under this section to any person for an enlistment—
   - **(1)** during the period beginning on October 1, 1992 , and ending on September 30, 2005 ; or
-  - **(2)** after December 31, 2017 .
+  - **(2)** after December 31, 2018 .

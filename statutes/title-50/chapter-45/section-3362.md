@@ -3,9 +3,9 @@ title: "Section 3362 - Foreign Terrorist Asset Tracking Center"
 usc_title: 50
 usc_section: "3362"
 chapter: 45
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 3362"
-generated_at: "2026-03-30T07:03:10.281Z"
+generated_at: "2026-03-30T07:05:26.741Z"
 status: "active"
 ---
 

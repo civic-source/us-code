@@ -3,9 +3,9 @@ title: "Section 213 - Medical, dental, etc., expenses"
 usc_title: 26
 usc_section: "213"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 213"
-generated_at: "2026-03-30T07:02:42.248Z"
+generated_at: "2026-03-30T07:04:56.695Z"
 status: "active"
 ---
 
@@ -44,10 +44,12 @@ status: "active"
     - **(B)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 1997, each dollar amount contained in subparagraph (A) shall be increased by the medical care cost adjustment of such amount for such calendar year. If any increase determined under the preceding sentence is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10.
       - **(ii)** For purposes of clause (i), the medical care cost adjustment for any calendar year is the percentage (if any) by which—
-        - **(I)** the medical care component of the Consumer Price Index (as defined in section 1(f)(5)) for August of the preceding calendar year, exceeds
-        - **(II)** such component for August of 1996.
+        - **(I)** the medical care component of the C-CPI-U (as defined in section 1(f)(6)) for August of the preceding calendar year, exceeds
+        - **(II)** such component of the CPI (as defined in section 1(f)(4)) for August of 1996, multiplied by the amount determined under section 1(f)(3)(B).
   - **(11)** An amount paid for a qualified long-term care service (as defined in section 7702B(c)) provided to an individual shall be treated as not paid for medical care if such service is provided—
     - **(A)** by the spouse of the individual or by a relative (directly or through a partnership, corporation, or other entity) unless the service is provided by a licensed professional with respect to such service, or
     - **(B)** by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
 - **(e)** Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
-- **(f)** In the case of any taxable year beginning after December 31, 2012 , and ending before January 1, 2017 , subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” if such taxpayer or such taxpayer’s spouse has attained age 65 before the close of such taxable year.
+- **(f)** In the case of any taxable year—
+  - **(1)** beginning after December 31, 2012 , and ending before January 1, 2017 , in the case of a taxpayer if such taxpayer or such taxpayer’s spouse has attained age 65 before the close of such taxable year, and
+  - **(2)** beginning after December 31, 2016 , and ending before January 1, 2019 , in the case of any taxpayer,

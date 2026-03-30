@@ -3,9 +3,9 @@ title: "Section 1265 - C.O.D. shipments prohibited"
 usc_title: 18
 usc_section: "1265"
 chapter: 59
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 1265"
-generated_at: "2026-03-30T07:01:54.131Z"
+generated_at: "2026-03-30T07:04:31.717Z"
 status: "active"
 ---
 

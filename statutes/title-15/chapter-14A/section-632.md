@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T07:01:50.861Z"
+generated_at: "2026-03-30T07:03:49.228Z"
 status: "active"
 ---
 
@@ -102,7 +102,12 @@ status: "active"
   - **(1)** 2 2 So in original. No par. (2) has been enacted. the term “computer crime” means—
     - **(A)** any crime committed against a small business concern by means of the use of a computer; and
     - **(B)** any crime involving the illegal use of, or tampering with, a computer owned or utilized by a small business concern.
-- **(m)** For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
+- **(m)** In this chapter:
+  - **(1)** The term “prime contract” has the meaning given such term in section 8701(4) of title 41 .
+  - **(2)** The term “prime contractor” has the meaning given such term in section 8701(5) of title 41 .
+  - **(3)** The term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41 .
+  - **(4)** The term “micro-purchase threshold” has the meaning given such term in section 1902 of title 41 .
+  - **(5)** The term “total purchases and contracts for property and services” shall mean total number and total dollar amount of contracts and orders for property and services.
 - **(n)** For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
   - **(1)** at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
   - **(2)** the management and daily business operations of the business are controlled by one or more women.

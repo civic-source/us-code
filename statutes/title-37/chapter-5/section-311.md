@@ -3,9 +3,9 @@ title: "Section 311 - Repealed. Pub. L. 99–145, title VI , § 639(b), Nov. 8, 
 usc_title: 37
 usc_section: "311"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 311"
-generated_at: "2026-03-30T07:02:49.451Z"
+generated_at: "2026-03-30T07:05:02.834Z"
 status: "repealed"
 ---
 

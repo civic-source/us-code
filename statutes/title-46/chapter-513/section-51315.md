@@ -3,9 +3,9 @@ title: "Section 51315 - Gifts to the Merchant Marine Academy"
 usc_title: 46
 usc_section: "51315"
 chapter: 513
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 51315"
-generated_at: "2026-03-30T07:03:08.190Z"
+generated_at: "2026-03-30T07:05:24.842Z"
 status: "active"
 ---
 
@@ -20,3 +20,4 @@ status: "active"
 - **(c)** On request of the Maritime Administrator, the Secretary of the Treasury may invest and reinvest amounts in the Fund in securities of, or in securities the principal and interest of which is guaranteed by, the United States Government.
 - **(d)** There are hereby authorized to be disbursed from the Fund such sums as may be on deposit, to remain available until expended.
 - **(e)** Gifts accepted under this section are a gift to or for the use of the Government under the Internal Revenue Code of 1986.
+- **(f)** The Maritime Administrator may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.

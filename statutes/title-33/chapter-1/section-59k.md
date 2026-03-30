@@ -3,9 +3,9 @@ title: "Section 59k - Wicomico River, Maryland"
 usc_title: 33
 usc_section: "59k"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "33 U.S.C. § 59k"
-generated_at: "2026-03-30T07:02:45.960Z"
+generated_at: "2026-03-30T07:05:00.835Z"
 status: "active"
 ---
 

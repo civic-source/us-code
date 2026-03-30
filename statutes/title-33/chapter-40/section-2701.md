@@ -3,9 +3,9 @@ title: "Section 2701 - Definitions"
 usc_title: 33
 usc_section: "2701"
 chapter: 40
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "33 U.S.C. § 2701"
-generated_at: "2026-03-30T07:02:46.021Z"
+generated_at: "2026-03-30T07:05:00.894Z"
 status: "active"
 ---
 
@@ -41,8 +41,8 @@ For the purposes of this Act, the term—
   - **(26)** “owner or operator”—
     - **(A)** means—
       - **(i)** in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
-      - **(ii)** in the case of an onshore or offshore facility, any person owning or operating such facility;
-      - **(iii)** in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
+      - **(ii)** in the case of an onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity owning or operating such facility;
+      - **(iii)** in the case of any abandoned offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that owned or operated such facility immediately prior to such abandonment;
       - **(iv)** in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
       - **(v)** notwithstanding subparagraph (B)(i), and in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including for purposes of liability under section 2702 of this title , any State or local government that has caused or contributed to a discharge or substantial threat of a discharge of oil from a vessel or facility ownership or control of which was acquired involuntarily through—
         - **(I)** seizure or otherwise in connection with law enforcement activity;
@@ -73,9 +73,10 @@ For the purposes of this Act, the term—
     - **(A)** In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46 ).
     - **(B)** In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
     - **(C)** In the case of an offshore facility (other than a pipeline or a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501 et seq.)), the lessee or permittee of the area in which the facility is located or the holder of a right of use and easement granted under applicable State law or the Outer Continental Shelf Lands Act ( 43 U.S.C. 1301–135 6) for the area in which the facility is located (if the holder is a different person than the lessee or permittee), except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as owner transfers possession and right to use the property to another person by lease, assignment, or permit.
-    - **(D)** In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501–152 4), the licensee.
-    - **(E)** In the case of a pipeline, any person owning or operating the pipeline.
-    - **(F)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+    - **(D)** In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
+    - **(E)** In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501–152 4), the licensee.
+    - **(F)** In the case of a pipeline, any person owning or operating the pipeline.
+    - **(G)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,, 1 1 So in original. Second comma probably should not appear. offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
   - **(33)** “Secretary” means the Secretary of the department in which the Coast Guard is operating;
   - **(34)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
     - **(A)** is a vessel of the United States;

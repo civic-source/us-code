@@ -3,9 +3,9 @@ title: "Section 2867 - Energy monitoring and utility control system specificatio
 usc_title: 10
 usc_section: "2867"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2867"
-generated_at: "2026-03-30T07:01:28.007Z"
+generated_at: "2026-03-30T07:03:43.808Z"
 status: "active"
 ---
 

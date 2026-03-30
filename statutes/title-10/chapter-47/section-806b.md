@@ -3,9 +3,9 @@ title: "Section 806b - Art. 6b. Rights of the victim of an offense under this ch
 usc_title: 10
 usc_section: "806b"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 806b"
-generated_at: "2026-03-30T07:01:27.912Z"
+generated_at: "2026-03-30T07:03:43.729Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(6)** The right to receive restitution as provided in law.
   - **(7)** The right to proceedings free from unreasonable delay.
   - **(8)** The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
-- **(b)** In this section, the term “victim of an offense under this chapter” means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
+- **(b)** In this section, the term “victim of an offense under this chapter” means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 - **(c)** In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim’s rights under this section. However, in no event may the individual so designated be the accused.
 - **(d)** Nothing in this section (article) shall be construed—
   - **(1)** to authorize a cause of action for damages; or

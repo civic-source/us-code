@@ -3,15 +3,15 @@ title: "Section 139b - Special Operations Policy and Oversight Council"
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-30T07:01:27.890Z"
+generated_at: "2026-03-30T07:03:43.709Z"
 status: "active"
 ---
 
 # § 139b. Special Operations Policy and Oversight Council
 
-- **(a)** In order to fulfill the responsibilities specified in section 138(b)(4) of this title , the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the “Special Operations Policy and Oversight Council” (in this section referred to as the “Council”).
+- **(a)** In order to fulfill the responsibilities specified in section 138(b)(4) 1 1 See References in Text note below. of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the “Special Operations Policy and Oversight Council” (in this section referred to as the “Council”).
 - **(b)** The purpose of the Council is to integrate the functional activities of the headquarters of the Department of Defense in order to most efficiently and effectively provide for special operations forces and capabilities. In fulfilling this purpose, the Council shall develop and continuously improve policy, joint processes, and procedures that facilitate the development, acquisition, integration, employment, and sustainment of special operations forces and capabilities.
 - **(c)** The Council shall include the following:
   - **(1)** The Assistant Secretary, who shall act as leader of the Council.
@@ -26,5 +26,5 @@ status: "active"
     - **(H)** The military departments.
     - **(I)** The Joint Staff.
     - **(J)** The United States Special Operations Command.
-    - **(K)** Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate 1 1 So in original. Probably should be followed by a period.
+    - **(K)** Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
 - **(d)** The Council shall operate continuously.

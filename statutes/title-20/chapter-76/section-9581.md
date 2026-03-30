@@ -3,9 +3,9 @@ title: "Section 9581 - Rulemaking"
 usc_title: 20
 usc_section: "9581"
 chapter: 76
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 9581"
-generated_at: "2026-03-30T07:01:56.769Z"
+generated_at: "2026-03-30T07:04:27.847Z"
 status: "active"
 ---
 

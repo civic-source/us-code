@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-30T07:02:42.208Z"
+generated_at: "2026-03-30T07:04:56.654Z"
 status: "active"
 ---
 
@@ -100,7 +100,7 @@ status: "active"
   - **(7)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified research” means research—
-    - **(A)** with respect to which expenditures may be treated as expenses under section 174,
+    - **(A)** 1 1 See Amendment of Subsection (d)(1)(A) note below. with respect to which expenditures may be treated as expenses under section 174,
     - **(B)** which is undertaken for the purpose of discovering information—
       - **(i)** which is technological in nature, and
       - **(ii)** the application of which is intended to be useful in the development of a new or improved business component of the taxpayer, and
@@ -166,8 +166,8 @@ status: "active"
         - **(I)** in computing the amount of the credit under this section (as in effect during the base period) during any taxable year in the base period, or
         - **(II)** as a basic research payment for purposes of this section.
     - **(C)**
-      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 1992” in subparagraph (B) thereof.
-      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
+      - **(i)** The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting “calendar year 1987” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(A)(ii) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 2016. Such substitution shall be in lieu of the substitution under clause (i).
   - **(6)** For purposes of this subsection, the term “qualified organization” means any of the following organizations:
     - **(A)** Any educational organization which—
       - **(i)** is an institution of higher education (within the meaning of section 3304(f)), and

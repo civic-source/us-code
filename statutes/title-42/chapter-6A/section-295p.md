@@ -3,9 +3,9 @@ title: "Section 295p - Definitions"
 usc_title: 42
 usc_section: "295p"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 295p"
-generated_at: "2026-03-30T07:03:04.553Z"
+generated_at: "2026-03-30T07:05:21.430Z"
 status: "active"
 ---
 

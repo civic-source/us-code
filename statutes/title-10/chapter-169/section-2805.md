@@ -3,9 +3,9 @@ title: "Section 2805 - Unspecified minor construction"
 usc_title: 10
 usc_section: "2805"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2805"
-generated_at: "2026-03-30T07:01:28.004Z"
+generated_at: "2026-03-30T07:03:43.806Z"
 status: "active"
 ---
 
@@ -13,19 +13,23 @@ status: "active"
 
 - **(a)**
   - **(1)** Within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law.
-  - **(2)** An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $3,000,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $4,000,000.
+  - **(2)** An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $6,000,000.
 - **(b)**
-  - **(1)** An unspecified minor military construction project costing more than $1,000,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
-  - **(2)** When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
-- **(c)** The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $1,000,000.
+  - **(1)** An unspecified minor military construction project costing more than $750,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
+  - **(2)** When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable and which costs more than $2,000,000, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title .
+- **(c)** The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $2,000,000.
 - **(d)**
   - **(1)** For the revitalization and recapitalization of laboratories owned by the United States and under the jurisdiction of the Secretary concerned, the Secretary concerned may obligate and expend—
     - **(A)** from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000, notwithstanding subsection (c); or
-    - **(B)** from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ( Public Law 110–417 ; 10 U.S.C. 2358 note), amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000.
+    - **(B)** from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available section 1 1 So in original. Probably should be preceded by “under”. 2363(a) of this title, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000.
   - **(2)** For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $6,000,000.
-  - **(3)** If the Secretary concerned makes a decision to carry out an unspecified minor military construction project to which this subsection applies, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
+  - **(3)** If the Secretary concerned makes a decision to carry out an unspecified minor military construction project to which this subsection applies, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title .
   - **(4)** In this subsection, the term “laboratory” includes—
     - **(A)** a research, engineering, and development center; and
     - **(B)** a test and evaluation activity.
   - **(5)** The authority to carry out a project under this subsection expires on September 30, 2025 .
 - **(e)** Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
+- **(f)**
+  - **(1)** Each fiscal year, the Secretary concerned shall adjust the dollar limitations specified in this section applicable to an unspecified minor military construction project inside the United States to reflect the area construction cost index for military construction projects published by the Department of Defense during the prior fiscal year for the location of the project, except that no limitation specified in this section may exceed $10,000,000 as the result of any adjustment made under this paragraph.
+  - **(2)** For purposes of paragraph (1), a project shall be considered to be inside the United States if the project is carried out in any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands.
+  - **(3)** The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2022.

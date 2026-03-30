@@ -3,9 +3,9 @@ title: "Section 7422 - Civil actions for refund"
 usc_title: 26
 usc_section: "7422"
 chapter: 76
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 7422"
-generated_at: "2026-03-30T07:02:42.428Z"
+generated_at: "2026-03-30T07:04:56.879Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), the terms “taxable event”, “first tier tax”, and “second tier tax” have the respective meanings given to such terms by section 4963.
   - **(2)** No suit may be maintained under this section for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, unless no other suit has been maintained for credit or refund of, and no petition has been filed in the Tax Court with respect to a deficiency in, any other tax imposed by such sections with respect to such act (or failure to act).
   - **(3)** For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
-- **(h)** No action may be brought for a refund attributable to partnership items (as defined in section 6231(a)(3)) except as provided in section 6228(b) or section 6230(c).
+- **[(h)**
 - **(i)** No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
 - **(j)**
   - **(1)** The district courts of the United States and the United States Court of Federal Claims shall not fail to have jurisdiction over any action brought by the representative of an estate to which this subsection applies to determine the correct amount of the estate tax liability of such estate (or for any refund with respect thereto) solely because the full amount of such liability has not been paid by reason of an election under section 6166 with respect to such estate.

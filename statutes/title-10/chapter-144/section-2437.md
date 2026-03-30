@@ -3,9 +3,9 @@ title: "Section 2437 - Development of major defense acquisition programs: sustai
 usc_title: 10
 usc_section: "2437"
 chapter: 144
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2437"
-generated_at: "2026-03-30T07:01:27.986Z"
+generated_at: "2026-03-30T07:03:43.790Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 229 - Programs for combating terrorism: display of budget inform
 usc_title: 10
 usc_section: "229"
 chapter: 9
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 229"
-generated_at: "2026-03-30T07:01:27.894Z"
+generated_at: "2026-03-30T07:03:43.714Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
   - **(1)** any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism and antiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 ( 31 U.S.C. 1113 note); and
   - **(2)** any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
 - **(d)** In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
+- **(e)** The requirement to submit a budget justification display under this section shall terminate on December 31, 2020 .

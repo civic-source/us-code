@@ -3,15 +3,21 @@ title: "Section 2380 - Commercial item determinations by Department of Defense"
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-03-30T07:01:27.982Z"
+generated_at: "2026-03-30T07:03:43.787Z"
 status: "active"
 ---
 
 # § 2380. Commercial item determinations by Department of Defense
 
-The Secretary of Defense shall—
-
+- **(a)** The Secretary of Defense shall—
   - **(1)** establish and maintain a centralized capability with necessary expertise and resources to provide assistance to the military departments and Defense Agencies in making commercial item determinations, conducting market research, and performing analysis of price reasonableness for the purposes of procurements by the Department of Defense; and
   - **(2)** provide to officials of the Department of Defense access to previous Department of Defense commercial item determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
+- **(b)**
+  - **(1)** A contract for an item acquired using commercial item acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial item determination with respect to such item for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the item using commercial item acquisition procedures.
+  - **(2)**
+    - **(A)** Except as provided under subparagraph (B), funds appropriated or otherwise made available to the Department of Defense may not be used for the procurement under part 15 of the Federal Acquisition Regulation of an item that was previously acquired under a contract using commercial item acquisition procedures under part 12 of the Federal Acquisition Regulation.
+    - **(B)** The limitation under subparagraph (A) does not apply to the procurement of an item that was previously acquired using commercial item acquisition procedures under part 12 of the Federal Acquisition Regulation following—
+      - **(i)** a written determination by the head of contracting activity pursuant to section 2306a(b)(4)(B) of this title that the use of such procedures was improper; or
+      - **(ii)** a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the item using such procedures.

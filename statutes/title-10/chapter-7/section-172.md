@@ -1,15 +1,15 @@
 ---
-title: "Section 172 - Ammunition storage board"
+title: "Section 172 - Explosive safety board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-03-30T07:01:27.892Z"
+generated_at: "2026-03-30T07:03:43.711Z"
 status: "active"
 ---
 
-# § 172. Ammunition storage board
+# § 172. Explosive safety board
 
-The Secretaries of the military departments, acting through a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both, shall keep informed on stored supplies of ammunition and components thereof for use of the Army, Navy, Air Force, and Marine Corps, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations.
-
+- **(a)** The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, and Marine Corps, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations.
+- **(b)** The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.

@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T07:02:42.421Z"
+generated_at: "2026-03-30T07:04:56.871Z"
 status: "active"
 ---
 
@@ -30,6 +30,7 @@ status: "active"
     - **(B)** In the case of a corporation other than an S corporation or a personal holding company (as defined in section 542), there is a substantial understatement of income tax for any taxable year if the amount of the understatement for the taxable year exceeds the lesser of—
       - **(i)** 10 percent of the tax required to be shown on the return for the taxable year (or, if greater, $10,000), or
       - **(ii)** $10,000,000.
+    - **(C)** In the case of any taxpayer who claims the deduction allowed under section 199A for the taxable year, subparagraph (A) shall be applied by substituting “5 percent” for “10 percent”.
   - **(2)**
     - **(A)** For purposes of paragraph (1), the term “understatement” means the excess of—
       - **(i)** the amount of the tax required to be shown on the return for the taxable year, over

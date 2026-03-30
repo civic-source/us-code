@@ -1,0 +1,21 @@
+---
+title: "Section 1549 - Report on and notice of changes made to the legal and policy frameworks for the United States’ use of military force and related national security operations"
+usc_title: 50
+usc_section: "1549"
+chapter: 33
+current_through: "PL 115-117"
+classification: "50 U.S.C. § 1549"
+generated_at: "2026-03-30T07:05:26.706Z"
+status: "active"
+---
+
+# § 1549. Report on and notice of changes made to the legal and policy frameworks for the United States’ use of military force and related national security operations
+
+- **(a)**
+  - **(1)** Not later than 90 days after December 12, 2017 , the President shall submit to the appropriate congressional committees a report on the legal and policy frameworks for the United States’ use of military force and related national security operations.
+  - **(2)** The report required by paragraph (1) shall include the legal, factual, and policy justifications for any changes made to such legal and policy frameworks during the period beginning on January 20, 2017 , and ending on the date the report is submitted.
+- **(b)** Not later than 30 days after the date on which a change is made to the legal and policy frameworks described in subsection (a)(1), the President shall notify the appropriate congressional committees of such change, including the legal, factual, and policy justification for such change.
+- **(c)** The report required by subsection (a) and each notice required by subsection (b) shall be submitted in unclassified form, but may contain a classified annex.
+- **(d)** In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+  - **(2)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.

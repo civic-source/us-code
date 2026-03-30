@@ -3,9 +3,9 @@ title: "Section 18003 - Immediate information that allows consumers to identify 
 usc_title: 42
 usc_section: "18003"
 chapter: 157
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 18003"
-generated_at: "2026-03-30T07:03:05.147Z"
+generated_at: "2026-03-30T07:05:21.991Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53704 - Funding limits"
 usc_title: 46
 usc_section: "53704"
 chapter: 537
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 53704"
-generated_at: "2026-03-30T07:03:08.193Z"
+generated_at: "2026-03-30T07:05:24.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7801 - Definitions"
 usc_title: 20
 usc_section: "7801"
 chapter: 70
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 7801"
-generated_at: "2026-03-30T07:01:56.760Z"
+generated_at: "2026-03-30T07:04:27.836Z"
 status: "active"
 ---
 

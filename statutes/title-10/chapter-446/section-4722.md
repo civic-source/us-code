@@ -3,9 +3,9 @@ title: "Section 4722 - Interment and inurnment policy"
 usc_title: 10
 usc_section: "4722"
 chapter: 446
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 4722"
-generated_at: "2026-03-30T07:01:28.018Z"
+generated_at: "2026-03-30T07:03:43.817Z"
 status: "active"
 ---
 

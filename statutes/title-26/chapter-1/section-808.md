@@ -3,9 +3,9 @@ title: "Section 808 - Policyholder dividends deduction"
 usc_title: 26
 usc_section: "808"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 808"
-generated_at: "2026-03-30T07:02:42.307Z"
+generated_at: "2026-03-30T07:04:56.755Z"
 status: "active"
 ---
 
@@ -38,3 +38,6 @@ status: "active"
     - **(A)** This subsection shall not apply to any policyholder dividend paid or accrued with respect to a policy issued after December 31, 1983 .
     - **(B)** For purposes of subparagraph (A), any policy issued after December 31, 1983 , in exchange for a substantially similar policy issued on or before such date shall be treated as issued before January 1, 1984 . A similar rule shall apply in the case of a series of exchanges.
   - **(8)** This subsection shall not apply to any policyholder dividend paid or accrued with respect to a group policy issued in connection with a plan to provide welfare benefits to employees (within the meaning of section 419(e)(2)).
+- **(g)** For purposes of this subchapter—
+  - **(1)** The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
+  - **(2)** The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.

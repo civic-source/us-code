@@ -3,9 +3,9 @@ title: "Section 4145c - Inapplicability of other provisions"
 usc_title: 25
 usc_section: "4145c"
 chapter: 43
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 4145c"
-generated_at: "2026-03-30T07:02:25.177Z"
+generated_at: "2026-03-30T07:04:34.934Z"
 status: "active"
 ---
 

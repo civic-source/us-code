@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T07:01:50.870Z"
+generated_at: "2026-03-30T07:03:49.237Z"
 status: "active"
 ---
 
@@ -326,7 +326,9 @@ status: "active"
   - **(1)** In the case of a small business concern that is awarded a funding agreement for Phase II of an SBIR or STTR program, a Federal agency may enter into a Phase III agreement with that business concern for additional work to be performed during or after the Phase II period. The Phase II funding agreement with the small business concern may, at the discretion of the agency awarding the agreement, set out the procedures applicable to Phase III agreements with that agency or any other agency.
   - **(2)** In this subsection, the term “Phase III agreement” means a follow-on, non-SBIR or non-STTR funded contract as described in paragraph (4)(C) or paragraph (6)(C) of subsection (e).
   - **(3)** Each funding agreement under an SBIR or STTR program shall include provisions setting forth the respective rights of the United States and the small business concern with respect to intellectual property rights and with respect to any right to carry out follow-on research.
-  - **(4)** To the greatest extent practicable, Federal agencies and Federal prime contractors shall issue Phase III awards relating to technology, including sole source awards, to the SBIR and STTR award recipients that developed the technology.
+  - **(4)** To the greatest extent practicable, Federal agencies and Federal prime contractors shall—
+    - **(A)** consider an award under the SBIR program or the STTR program to satisfy the requirements under section 2304 of title 10 and any other applicable competition requirements; and
+    - **(B)** issue, without further justification, Phase III awards relating to technology, including sole source awards, to the SBIR and STTR award recipients that developed the technology.
 - **(s)** All funds awarded, appropriated, or otherwise made available in accordance with subsection (f) or (n) must be awarded pursuant to competitive and merit-based selection procedures.
 - **(t)** Program information relating to the SBIR and STTR programs shall be included by each Federal agency in any update or revision required of the Federal agency under section 306(b) of title 5 .
 - **(u)**

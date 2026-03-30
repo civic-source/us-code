@@ -3,9 +3,9 @@ title: "Section 8580 - Repealed. Pub. L. 90–130 , § 1(30), Nov. 8, 1967 , 81 
 usc_title: 10
 usc_section: "8580"
 chapter: 845
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 8580"
-generated_at: "2026-03-30T07:01:28.036Z"
+generated_at: "2026-03-30T07:03:43.832Z"
 status: "repealed"
 ---
 

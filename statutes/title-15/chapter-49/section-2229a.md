@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T07:01:50.935Z"
+generated_at: "2026-03-30T07:03:49.305Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
-    - **(B)** Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises.
+    - **(B)** Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters or to change the status of part-time or paid-on-call (as defined in section 2229(a) of this title ) firefighters to full-time firefighters.
     - **(C)** In awarding grants under this subsection, the Administrator of FEMA may give preferential consideration to applications that involve a non-Federal contribution exceeding the minimums under subparagraph (E).
     - **(D)** The Administrator of FEMA may provide technical assistance to States, units of local government, Indian tribal governments, and to other public entities, in furtherance of the purposes of this section.
     - **(E)** The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
@@ -30,12 +30,12 @@ status: "active"
   - **(2)** An application for a grant under this section shall be submitted in such form, and contain such information, as the Administrator of FEMA may prescribe.
   - **(3)** At a minimum, each application for a grant under this section shall—
     - **(A)** explain the applicant’s inability to address the need without Federal assistance;
-    - **(B)** in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
+    - **(B)** in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(F);
     - **(C)** specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
     - **(D)** provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within firefighting.
 - **(c)**
   - **(1)** Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used to supplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
-  - **(2)** No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to November 24, 2003 .
+  - **(2)** No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to the date of the application for the grant.
   - **(3)** Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing firefighting functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
   - **(4)** The amount of funding provided under this section to a recipient fire department for hiring a firefighter in any fiscal year may not exceed—
     - **(A)** in the first year of the grant, 75 percent of the usual annual cost of a first-year firefighter in that department at the time the grant application was submitted;
@@ -44,7 +44,7 @@ status: "active"
 - **(d)**
   - **(1)** In a case of demonstrated economic hardship, the Administrator of FEMA may—
     - **(A)** waive the requirements of subsection (c)(1); or
-    - **(B)** waive or reduce the requirements in subsection (a)(1)(E) or subsection (c)(2).
+    - **(B)** waive or reduce the requirements in subsection (a)(1)(E), (c)(2), or (c)(4).
   - **(2)**
     - **(A)** The Administrator of FEMA shall establish and publish guidelines for determining what constitutes economic hardship for purposes of paragraph (1).
     - **(B)** In developing guidelines under subparagraph (A), the Administrator of FEMA shall consult with individuals who are—
@@ -76,9 +76,9 @@ status: "active"
     - **(F)** $1,159,000,000 for fiscal year 2009;
     - **(G)** $1,194,000,000 for fiscal year 2010;
     - **(H)** $750,000,000 for fiscal year 2013; and
-    - **(I)** for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+    - **(I)** for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
       - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
       - **(ii)** the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts to cover salaries and expenses and other administrative costs incurred by the Administrator of FEMA to make grants and provide assistance under this section.
   - **(3)** Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
-- **(k)** The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013 .
+- **(k)** The authority to award assistance and grants under this section shall expire on September 30, 2024 .

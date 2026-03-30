@@ -3,9 +3,9 @@ title: "Section 1085 - Medical and dental care from another executive department
 usc_title: 10
 usc_section: "1085"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1085"
-generated_at: "2026-03-30T07:01:27.932Z"
+generated_at: "2026-03-30T07:03:43.745Z"
 status: "active"
 ---
 

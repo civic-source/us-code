@@ -3,9 +3,9 @@ title: "Section 2567 - Disposition of surplus defense plutonium at Savannah Rive
 usc_title: 50
 usc_section: "2567"
 chapter: 42
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 2567"
-generated_at: "2026-03-30T07:03:10.263Z"
+generated_at: "2026-03-30T07:05:26.724Z"
 status: "active"
 ---
 

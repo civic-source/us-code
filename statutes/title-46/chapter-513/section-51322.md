@@ -1,0 +1,27 @@
+---
+title: "Section 51322 - Protection of cadets from sexual assault onboard vessels"
+usc_title: 46
+usc_section: "51322"
+chapter: 513
+current_through: "PL 115-117"
+classification: "46 U.S.C. § 51322"
+generated_at: "2026-03-30T07:05:24.843Z"
+status: "active"
+---
+
+# § 51322. Protection of cadets from sexual assault onboard vessels
+
+- **(a)**
+  - **(1)** The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to certify compliance of the vessel with the International Convention for Safety of Life at Sea, 1974 (32 UST 47) and section 8106 of this title .
+  - **(2)** The Maritime Administrator shall ensure that the Academy informs cadets preparing for Sea Year of the obligations that vessel owners and operators have to provide for the security of individuals aboard a vessel under United States law, including chapter 81 and section 70103(c) of this title .
+- **(b)**
+  - **(1)** Not less frequently than biennially, staff of the Academy or staff of the Maritime Administration shall conduct both random and targeted unannounced checks of not less than 10 percent of the commercial vessels that host a cadet from the Academy.
+  - **(2)** If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is in violation of the sexual assault policy developed by the Academy through a check conducted under paragraph (1), the staff may—
+    - **(A)** remove any cadet of the Academy from the vessel; and
+    - **(B)** report the violation to the owner or operator of the vessel.
+- **(c)** The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy.
+- **(d)**
+  - **(1)** The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
+  - **(2)** The Maritime Administrator shall make available to the public for each year—
+    - **(A)** the questions used in the survey required by paragraph (1); and
+    - **(B)** the aggregated data received from such surveys.

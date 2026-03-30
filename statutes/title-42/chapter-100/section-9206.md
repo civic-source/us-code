@@ -3,9 +3,9 @@ title: "Section 9206 - Wind resource assessment"
 usc_title: 42
 usc_section: "9206"
 chapter: 100
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 9206"
-generated_at: "2026-03-30T07:03:05.020Z"
+generated_at: "2026-03-30T07:05:21.870Z"
 status: "active"
 ---
 

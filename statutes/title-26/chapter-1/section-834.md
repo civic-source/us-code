@@ -3,9 +3,9 @@ title: "Section 834 - Determination of taxable investment income"
 usc_title: 26
 usc_section: "834"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 834"
-generated_at: "2026-03-30T07:02:42.309Z"
+generated_at: "2026-03-30T07:04:56.757Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** interest, dividends, rents, and royalties,
     - **(B)** the entering into of any lease, mortgage, or other instrument or agreement from which the insurance company derives interest, rents, or royalties,
     - **(C)** the alteration or termination of any instrument or agreement described in subparagraph (B), and
-    - **(D)** gains from sales or exchanges of capital assets to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses).
+    - **(D)** gains from sales or exchanges of capital assets to the extent provided in subchapter P (relating to capital gains and losses).
   - **(2)** The gross income during the taxable year from any trade or business (other than an insurance business) carried on by the insurance company, or by a partnership of which the insurance company is a partner. In computing gross income under this paragraph, there shall be excluded any item described in paragraph (1).
 - **(c)** In computing taxable investment income, the following deductions shall be allowed:
   - **(1)** The amount of interest which under section 103 is excluded for the taxable year from gross income.

@@ -3,9 +3,9 @@ title: "Section 831 - Tax on insurance companies other than life insurance compa
 usc_title: 26
 usc_section: "831"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 831"
-generated_at: "2026-03-30T07:02:42.308Z"
+generated_at: "2026-03-30T07:04:56.756Z"
 status: "active"
 ---
 
@@ -37,13 +37,12 @@ status: "active"
         - **(II)** subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
     - **(D)** In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A)(i) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
-  - **(3)** For purposes of this part, except as provided in section 844, a net operating loss (as defined in section 172) shall not be carried—
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(3)** For purposes of this part, a net operating loss (as defined in section 172) shall not be carried—
     - **(A)** to or from any taxable year for which the insurance company is not subject to the tax imposed by subsection (a), or
     - **(B)** to any taxable year if, between the taxable year from which such loss is being carried and such taxable year, there is an intervening taxable year for which the insurance company was not subject to the tax imposed by subsection (a).
 - **(c)** For purposes of this section, the term “insurance company” has the meaning given to such term by section 816(a)). 1 1 So in original. Second closing parenthesis probably should not appear.
 - **(d)** Every insurance company for which an election is in effect under subsection (b) for any taxable year shall furnish to the Secretary at such time and in such manner as the Secretary shall prescribe such information for such taxable year as the Secretary shall require with respect to the requirements of subsection (b)(2)(A)(ii).
 - **(e)**
-  - **(1)** For alternative tax in case of capital gains, see section 1201(a).
-  - **(2)** For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.
-  - **(3)** For exemption from tax for certain insurance companies other than life, see section 501(c)(15).
+  - **(1)** For taxation of foreign corporations carrying on an insurance business within the United States, see section 842.
+  - **(2)** For exemption from tax for certain insurance companies other than life, see section 501(c)(15).

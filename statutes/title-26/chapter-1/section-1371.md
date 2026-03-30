@@ -3,9 +3,9 @@ title: "Section 1371 - Coordination with subchapter C"
 usc_title: 26
 usc_section: "1371"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1371"
-generated_at: "2026-03-30T07:02:42.344Z"
+generated_at: "2026-03-30T07:04:56.792Z"
 status: "active"
 ---
 
@@ -27,3 +27,4 @@ status: "active"
 - **(e)**
   - **(1)** Any distribution of money by a corporation with respect to its stock during a post-termination transition period shall be applied against and reduce the adjusted basis of the stock, to the extent that the amount of the distribution does not exceed the accumulated adjustments account (within the meaning of section 1368(e)).
   - **(2)** An S corporation may elect to have paragraph (1) not apply to all distributions made during a post-termination transition period described in section 1377(b)(1)(A). Such election shall not be effective unless all shareholders of the S corporation to whom distributions are made by the S corporation during such post-termination transition period consent to such election.
+- **(f)** In the case of a distribution of money by an eligible terminated S corporation (as defined in section 481(d)) after the post-termination transition period, the accumulated adjustments account shall be allocated to such distribution, and the distribution shall be chargeable to accumulated earnings and profits, in the same ratio as the amount of such accumulated adjustments account bears to the amount of such accumulated earnings and profits.

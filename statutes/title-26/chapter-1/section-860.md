@@ -3,9 +3,9 @@ title: "Section 860 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "860"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 860"
-generated_at: "2026-03-30T07:02:42.314Z"
+generated_at: "2026-03-30T07:04:56.761Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(A)** any increase in the sum of—
       - **(i)** the real estate investment trust taxable income of the real estate investment trust (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain), and
       - **(ii)** the excess of the net income from foreclosure property (as defined in section 857(b)(4)(B)) over the tax on such income imposed by section 857(b)(4)(A),
-    - **(B)** any increase in the amount of the excess described in section 857(b)(3)(A)(ii) (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
+    - **(B)** any increase in the amount of the excess described in section 857(b)(3)(A)(ii) 1 1 See References in Text note below. (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
     - **(C)** any decrease in the deduction for dividends paid (as defined in section 561) determined without regard to capital gains dividends.
 - **(e)** For purposes of this section, the term “determination” means—
   - **(1)** a decision by the Tax Court, or a judgment, decree, or other order by any court of competent jurisdiction, which has become final;

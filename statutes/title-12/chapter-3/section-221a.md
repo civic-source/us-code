@@ -3,9 +3,9 @@ title: "Section 221a - Additional definitions"
 usc_title: 12
 usc_section: "221a"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 221a"
-generated_at: "2026-03-30T07:01:44.284Z"
+generated_at: "2026-03-30T07:04:15.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1339 - Trade Remedy Assistance Office"
 usc_title: 19
 usc_section: "1339"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 1339"
-generated_at: "2026-03-30T07:02:01.677Z"
+generated_at: "2026-03-30T07:04:19.037Z"
 status: "active"
 ---
 

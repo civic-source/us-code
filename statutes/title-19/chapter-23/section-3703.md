@@ -3,9 +3,9 @@ title: "Section 3703 - Eligibility requirements"
 usc_title: 19
 usc_section: "3703"
 chapter: 23
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 3703"
-generated_at: "2026-03-30T07:02:01.728Z"
+generated_at: "2026-03-30T07:04:19.087Z"
 status: "active"
 ---
 

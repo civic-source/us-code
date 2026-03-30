@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-30T07:01:27.965Z"
+generated_at: "2026-03-30T07:03:43.773Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(2)** The Secretary of Defense may waive the conditions in paragraph (1) in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 - **(k)**
   - **(1)** Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
-  - **(2)** Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $250,000:
+  - **(2)** Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities:
     - **(A)** An unspecified minor military construction project under section 2805(c) of this title .
     - **(B)** Automatic data processing equipment or software.
     - **(C)** Any other equipment.

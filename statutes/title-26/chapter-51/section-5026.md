@@ -3,9 +3,9 @@ title: "Section 5026 - Repealed. Pub. L. 96–39, title VIII , § 803(a), July 2
 usc_title: 26
 usc_section: "5026"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 5026"
-generated_at: "2026-03-30T07:02:42.385Z"
+generated_at: "2026-03-30T07:04:56.836Z"
 status: "repealed"
 ---
 

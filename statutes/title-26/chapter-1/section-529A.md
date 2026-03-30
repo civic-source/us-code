@@ -3,9 +3,9 @@ title: "Section 529A - Qualified ABLE programs"
 usc_title: 26
 usc_section: "529A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 529A"
-generated_at: "2026-03-30T07:02:42.296Z"
+generated_at: "2026-03-30T07:04:56.744Z"
 status: "active"
 ---
 
@@ -19,11 +19,21 @@ status: "active"
     - **(C)** which meets the other requirements of this section.
   - **(2)** A program shall not be treated as a qualified ABLE program unless it provides that no contribution will be accepted—
     - **(A)** unless it is in cash, or
-    - **(B)** except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins.
+    - **(B)** except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the sum of—
+      - **(i)** the amount in effect under section 2503(b) for the calendar year in which the taxable year begins, plus
+      - **(ii)** in the case of any contribution by a designated beneficiary described in paragraph (7) before January 1, 2026 , the lesser of—
+        - **(I)** compensation (as defined by section 219(f)(1)) includible in the designated beneficiary’s gross income for the taxable year, or
+        - **(II)** an amount equal to the poverty line for a one-person household, as determined for the calendar year preceding the calendar year in which the taxable year begins.
   - **(3)** A program shall not be treated as a qualified ABLE program unless it provides separate accounting for each designated beneficiary.
   - **(4)** A program shall not be treated as a qualified ABLE program unless it provides that any designated beneficiary under such program may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.
   - **(5)** A program shall not be treated as a qualified ABLE program if it allows any interest in the program or any portion thereof to be used as security for a loan.
   - **(6)** A program shall not be treated as a qualified ABLE program unless it provides adequate safeguards to prevent aggregate contributions on behalf of a designated beneficiary in excess of the limit established by the State under section 529(b)(6). For purposes of the preceding sentence, aggregate contributions include contributions under any prior qualified ABLE program of any State or agency or instrumentality thereof.
+  - **(7)** For purposes of paragraph (2)(B)(ii)—
+    - **(A)** A designated beneficiary described in this paragraph is an employee (including an employee within the meaning of section 401(c)) with respect to whom—
+      - **(i)** no contribution is made for the taxable year to a defined contribution plan (within the meaning of section 414(i)) with respect to which the requirements of section 401(a) or 403(a) are met,
+      - **(ii)** no contribution is made for the taxable year to an annuity contract described in section 403(b), and
+      - **(iii)** no contribution is made for the taxable year to an eligible deferred compensation plan described in section 457(b).
+    - **(B)** The term “poverty line” has the meaning given such term by section 673 of the Community Services Block Grant Act ( 42 U.S.C. 9902 ).
 - **(c)**
   - **(1)**
     - **(A)** Any distribution under a qualified ABLE program shall be includible in the gross income of the distributee in the manner as provided under section 72 to the extent not excluded from gross income under any other provision of this chapter.

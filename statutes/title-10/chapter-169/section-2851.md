@@ -3,9 +3,9 @@ title: "Section 2851 - Supervision of military construction projects"
 usc_title: 10
 usc_section: "2851"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2851"
-generated_at: "2026-03-30T07:01:28.006Z"
+generated_at: "2026-03-30T07:03:43.807Z"
 status: "active"
 ---
 
@@ -29,3 +29,4 @@ status: "active"
     - **(F)** If funds appropriated for the project have been diverted for use in another project, the project to which the funds were diverted and the amount so diverted.
     - **(G)** For accounts such as planning and design, unspecified minor construction, and family housing operation and maintenance, detailed information regarding expenditures and anticipated expenditures under these accounts and the purposes for which the expenditures are made.
   - **(3)** The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
+- **(d)** Not later than March 1 of each year (beginning with 2018), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on each military construction project or military family housing project for which, as of the end of the most recent fiscal year, the estimated completion date is more than 1 year later than the completion date proposed at the time the contract for the project was awarded.

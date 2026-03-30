@@ -3,9 +3,9 @@ title: "Section 9831 - General exceptions"
 usc_title: 26
 usc_section: "9831"
 chapter: 100
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-30T07:02:42.447Z"
+generated_at: "2026-03-30T07:04:56.899Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
       - **(i)** In the case of an individual who is not covered by an arrangement for the entire year, the limitation under subparagraph (B)(iii) for such year shall be an amount which bears the same ratio to the amount which would (but for this clause) be in effect for such individual for such year under subparagraph (B)(iii) as the number of months for which such individual is covered by the arrangement for such year bears to 12.
       - **(ii)** In the case of any year beginning after 2016, each of the dollar amounts in subparagraph (B)(iii) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “eligible employee” means any employee of an eligible employer, except that the terms of the arrangement may exclude from consideration employees described in any clause of section 105(h)(3)(B) (applied by substituting “90 days” for “3 years” in clause (i) thereof).
     - **(B)** The term “eligible employer” means an employer that—

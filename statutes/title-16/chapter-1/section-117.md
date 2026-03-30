@@ -3,9 +3,9 @@ title: "Section 117 - Exclusive jurisdiction ceded to United States by Colorado;
 usc_title: 16
 usc_section: "117"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 117"
-generated_at: "2026-03-30T07:02:21.072Z"
+generated_at: "2026-03-30T07:04:22.205Z"
 status: "active"
 ---
 

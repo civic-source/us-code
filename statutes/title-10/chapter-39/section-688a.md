@@ -3,9 +3,9 @@ title: "Section 688a - Retired members: temporary authority to order to active d
 usc_title: 10
 usc_section: "688a"
 chapter: 39
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 688a"
-generated_at: "2026-03-30T07:01:27.910Z"
+generated_at: "2026-03-30T07:03:43.727Z"
 status: "active"
 ---
 
@@ -16,5 +16,7 @@ status: "active"
 - **(c)** No more than a total of 1,000 members may be on active duty at any time under subsection (a).
 - **(d)** The authority to order a retired member to active duty under this section is in addition to the authority under section 688 of this title or any other provision of law authorizing the Secretary concerned to order a retired member to active duty.
 - **(e)** Retired members ordered to active duty under subsection (a) shall not be counted for purposes of section 688 or 690 of this title.
-- **(f)** A retired member may not be ordered to active duty under this section after December 31, 2011 .
+- **(f)** A retired member may not be ordered to active duty under this section outside a period as follows:
+  - **(1)** The period beginning on December 2, 2002 , and ending on December 31, 2011 .
+  - **(2)** The period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and ending on December 31, 2022 .
 - **(g)** In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.

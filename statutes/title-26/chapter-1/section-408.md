@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T07:02:42.267Z"
+generated_at: "2026-03-30T07:04:56.714Z"
 status: "active"
 ---
 
@@ -202,7 +202,7 @@ status: "active"
       - **(ii)** a silver coin described in section 5112(e) of title 31 , United States Code,
       - **(iii)** a platinum coin described in section 5112(k) of title 31 , United States Code, or
       - **(iv)** a coin issued under the laws of any State, or
-    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7 ) 2 2 See References in Text note below. requires for metals which may be delivered in satisfaction of a regulated futures contract,
+    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7 ) 3 3 See References in Text note below. requires for metals which may be delivered in satisfaction of a regulated futures contract,
 - **(n)** For purposes of subsection (a)(2), the term “bank” means—
   - **(1)** any bank (as defined in section 581),
   - **(2)** an insured credit union (within the meaning of paragraph (6) or (7) of section 101 of the Federal Credit Union Act), and

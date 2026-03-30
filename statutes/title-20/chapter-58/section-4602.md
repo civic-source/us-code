@@ -3,9 +3,9 @@ title: "Section 4602 - Repealed. Pub. L. 100–297, title I , § 1003(e), Apr. 2
 usc_title: 20
 usc_section: "4602"
 chapter: 58
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 4602"
-generated_at: "2026-03-30T07:01:56.733Z"
+generated_at: "2026-03-30T07:04:27.808Z"
 status: "repealed"
 ---
 

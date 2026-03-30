@@ -3,9 +3,9 @@ title: "Section 10505 - Advances"
 usc_title: 46
 usc_section: "10505"
 chapter: 105
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 10505"
-generated_at: "2026-03-30T07:03:08.180Z"
+generated_at: "2026-03-30T07:05:24.833Z"
 status: "active"
 ---
 

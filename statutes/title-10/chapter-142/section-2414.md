@@ -1,15 +1,15 @@
 ---
-title: "Section 2414 - Limitation"
+title: "Section 2414 - Funding"
 usc_title: 10
 usc_section: "2414"
 chapter: 142
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2414"
-generated_at: "2026-03-30T07:01:27.984Z"
+generated_at: "2026-03-30T07:03:43.789Z"
 status: "active"
 ---
 
-# § 2414. Limitation
+# § 2414. Funding
 
 - **(a)** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
   - **(1)** in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $750,000;
@@ -18,3 +18,9 @@ status: "active"
   - **(4)** in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title , $750,000.
 - **(b)** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
 - **(c)** The value of the assistance provided in accordance with section 2419(b) of this title is not subject to the limitations in subsection (a).
+- **(d)**
+  - **(1)** An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chapter may expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
+  - **(2)** An eligible entity that does not enter into a cooperative agreement with the Secretary for a fiscal year—
+    - **(A)** shall notify the Secretary of the amount of any income the eligible entity carried over from the previous fiscal year; and
+    - **(B)** may retain an amount of such income equal to 10 percent of the value of assistance furnished by the Secretary under this section during the previous fiscal year.
+  - **(3)** In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.

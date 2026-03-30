@@ -3,9 +3,9 @@ title: "Section 1074b - Medical and dental care: Academy cadets and midshipmen; 
 usc_title: 10
 usc_section: "1074b"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1074b"
-generated_at: "2026-03-30T07:01:27.928Z"
+generated_at: "2026-03-30T07:03:43.742Z"
 status: "active"
 ---
 

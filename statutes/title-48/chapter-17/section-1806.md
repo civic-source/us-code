@@ -3,9 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T07:03:09.077Z"
+generated_at: "2026-03-30T07:05:25.373Z"
 status: "active"
 ---
 
@@ -22,7 +22,13 @@ status: "active"
   - **(5)** The Secretary of Homeland Security, the Secretary of State, the Secretary of Labor, and the Secretary of the Interior shall negotiate and implement agreements among their agencies to identify and assign their respective duties so as to ensure timely and proper implementation of the provisions of this section. The agreements should address, at a minimum, procedures to ensure that Commonwealth employers have access to adequate labor, and that tourists, students, retirees, and other visitors have access to the Commonwealth without unnecessary delay or impediment. The agreements may also allocate funding between the respective agencies tasked with various responsibilities under this section.
   - **(6)** In addition to fees charged pursuant to section 286(m) of the Immigration and Nationality Act ( 8 U.S.C. 1356(m) ) to recover the full costs of providing adjudication services, the Secretary of Homeland Security shall charge an annual supplemental fee of $200 per nonimmigrant worker to each prospective employer who is issued a permit under subsection (d) of this section during the transition period. Such supplemental fee shall be paid into the Treasury of the Commonwealth government for the purpose of funding ongoing vocational educational curricula and program development by Commonwealth educational entities.
   - **(7)** Section 208 of the Immigration and Nationality Act ( 8 U.S.C. 1158 ) shall not apply during the transition period to persons physically present in the Commonwealth or arriving in the Commonwealth (whether or not at a designated port of arrival), including persons brought to the Commonwealth after having been interdicted in international or United States waters.
-- **(b)** An alien, if otherwise qualified, may seek admission to Guam or to the Commonwealth during the transition program as a nonimmigrant worker under section 101(a)(15)(H) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H) ) without counting against the numerical limitations set forth in section 214(g) of such Act ( 8 U.S.C. 1184(g) ). This subsection does not apply to any employment to be performed outside of Guam or the Commonwealth. Not later than 3 years following the transition program effective date, the Secretary of Homeland Security shall issue a report to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives projecting the number of asylum claims the Secretary anticipates following the termination of the transition period, the efforts the Secretary has made to ensure appropriate interdiction efforts, provide for appropriate treatment of asylum seekers, and prepare to accept and adjudicate asylum claims in the Commonwealth.
+- **(b)**
+  - **(1)**
+    - **(A)** An alien, if otherwise qualified, may seek admission to Guam or to the Commonwealth during the transition program as a nonimmigrant worker under section 101(a)(15)(H) of the Immigration and Nationality Act (8 USC 1 1 So in original. Probably should be “U.S.C.” 1101(a)(15)(H)) without counting against the numerical limitations set forth in section 214(g) of such Act (8 USC 1 1184(g)).
+    - **(B)** In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act [ 8 U.S.C. 1101(a)(15)(H)(ii)(b) ], such alien, if otherwise qualified, may, before October 1, 2023 , be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact 2 2 So in original. Probably should be “contract”. or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary.
+  - **(2)**
+    - **(A)** For any fiscal year, not more 3 3 So in original. Probably should be followed by “than”. 4,000 aliens may be admitted to Guam and the Commonwealth pursuant to paragraph (1)(B).
+    - **(B)** Paragraph (1)(B) does not apply with respect to the performance of services or labor at a location other than Guam or the Commonwealth.
 - **(c)**
   - **(1)** Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(E) ), during the transition period, the Secretary of Homeland Security may, upon the application of an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(E)(ii) ) if the alien—
     - **(A)** has been admitted to the Commonwealth in long-term investor status under the immigration laws of the Commonwealth before the transition program effective date;

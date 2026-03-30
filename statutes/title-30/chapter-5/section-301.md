@@ -3,9 +3,9 @@ title: "Section 301 - Authorization for lease of oil and gas deposits; by and to
 usc_title: 30
 usc_section: "301"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "30 U.S.C. § 301"
-generated_at: "2026-03-30T07:02:36.870Z"
+generated_at: "2026-03-30T07:04:43.565Z"
 status: "active"
 ---
 

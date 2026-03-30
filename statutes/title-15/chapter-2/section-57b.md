@@ -3,9 +3,9 @@ title: "Section 57b - Civil actions for violations of rules and cease and desist
 usc_title: 15
 usc_section: "57b"
 chapter: 2
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 57b"
-generated_at: "2026-03-30T07:01:50.810Z"
+generated_at: "2026-03-30T07:03:49.173Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2424 - Procedures relating to access by individuals to classifie
 usc_title: 50
 usc_section: "2424"
 chapter: 41
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 2424"
-generated_at: "2026-03-30T07:03:10.261Z"
+generated_at: "2026-03-30T07:05:26.721Z"
 status: "active"
 ---
 

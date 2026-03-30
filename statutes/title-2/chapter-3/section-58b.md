@@ -3,9 +3,9 @@ title: "Section 58b - Repealed. Pub. L. 100–137 , § 2, Oct. 21, 1987 , 101 St
 usc_title: 2
 usc_section: "58b"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 58b"
-generated_at: "2026-03-30T07:01:19.832Z"
+generated_at: "2026-03-30T07:03:26.266Z"
 status: "repealed"
 ---
 

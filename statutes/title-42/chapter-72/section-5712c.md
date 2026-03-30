@@ -3,9 +3,9 @@ title: "Section 5712c - Repealed. Pub. L. 102–586 , § 3(g)(2)(A)–(C), Nov. 
 usc_title: 42
 usc_section: "5712c"
 chapter: 72
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 5712c"
-generated_at: "2026-03-30T07:03:04.921Z"
+generated_at: "2026-03-30T07:05:21.776Z"
 status: "repealed"
 ---
 

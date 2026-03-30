@@ -3,9 +3,9 @@ title: "Section 2795 - Renumbered § 454]"
 usc_title: 10
 usc_section: "2795"
 chapter: 167
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2795"
-generated_at: "2026-03-30T07:01:28.004Z"
+generated_at: "2026-03-30T07:03:43.805Z"
 status: "renumbered"
 ---
 

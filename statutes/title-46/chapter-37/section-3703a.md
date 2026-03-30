@@ -3,9 +3,9 @@ title: "Section 3703a - Tank vessel construction standards"
 usc_title: 46
 usc_section: "3703a"
 chapter: 37
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 3703a"
-generated_at: "2026-03-30T07:03:08.173Z"
+generated_at: "2026-03-30T07:05:24.826Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(ii)** more than 60 miles from the baseline from which the territorial sea of the United States is measured;
   - **(4)** a vessel documented under chapter 121 of this title that was equipped with a double hull before August 12, 1992 ;
   - **(5)** a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
-  - **(6)** a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744). 1 1 See References in Text note below.
+  - **(6)** a vessel in the National Defense Reserve Fleet pursuant to section 57100.
 - **(c)**
   - **(1)** In this subsection, the age of a vessel is determined from the later of the date on which the vessel—
     - **(A)** is delivered after original construction;

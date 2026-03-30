@@ -3,9 +3,9 @@ title: "Section 282 - Legislative Counsel"
 usc_title: 2
 usc_section: "282"
 chapter: 9
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 282"
-generated_at: "2026-03-30T07:01:19.839Z"
+generated_at: "2026-03-30T07:03:26.274Z"
 status: "active"
 ---
 

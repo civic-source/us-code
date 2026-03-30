@@ -3,9 +3,9 @@ title: "Section 3038 - Office of Army Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "3038"
 chapter: 305
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 3038"
-generated_at: "2026-03-30T07:01:28.011Z"
+generated_at: "2026-03-30T07:03:43.811Z"
 status: "active"
 ---
 
@@ -24,6 +24,4 @@ status: "active"
 - **(c)** The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 - **(d)** The Chief of Army Reserve is the official within the executive part of the Department of the Army who, subject to the authority, direction, and control of the Secretary of the Army and the Chief of Staff, is responsible for justification and execution of the personnel, operation and maintenance, and construction budgets for the Army Reserve. As such, the Chief of Army Reserve is the director and functional manager of appropriations made for the Army Reserve in those areas.
 - **(e)** The Chief of Army Reserve manages, with respect to the Army Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
-- **(f)**
-  - **(1)** The Chief of Army Reserve shall submit to the Secretary of Defense, through the Secretary of the Army, an annual report on the state of the Army Reserve and the ability of the Army Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Army and may be submitted in classified and unclassified versions.
-  - **(2)** The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
+- **(f)** The Chief of Army Reserve shall submit to the Secretary of Defense, through the Secretary of the Army, an annual report on the state of the Army Reserve and the ability of the Army Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Army and may be submitted in classified and unclassified versions.

@@ -3,15 +3,15 @@ title: "Section 4803 - Designation of high risk, high threat posts"
 usc_title: 22
 usc_section: "4803"
 chapter: 58
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 4803"
-generated_at: "2026-03-30T07:02:32.950Z"
+generated_at: "2026-03-30T07:04:37.976Z"
 status: "active"
 ---
 
 # § 4803. Designation of high risk, high threat posts
 
-- **(a)** Not later than 30 days after December 16, 2016 , the Department of State shall submit to the appropriate congressional committees a report, in classified form, that contains a list of diplomatic and consular posts designated as high risk, high threat posts.
+- **(a)** Not later than 30 days after December 16, 2016 , the Department of State shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a report, in classified form, that contains a list of diplomatic and consular posts designated as high risk, high threat posts.
 - **(b)** Before opening or reopening a diplomatic or consular post, the Secretary shall determine if such post should be designated as a high risk, high threat post.
 - **(c)** The Secretary shall regularly review existing diplomatic and consular posts to determine if any such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
 - **(d)** In this section:

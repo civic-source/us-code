@@ -3,9 +3,9 @@ title: "Section 316a - Special pay: incentive pay for members of precommissionin
 usc_title: 37
 usc_section: "316a"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 316a"
-generated_at: "2026-03-30T07:02:49.451Z"
+generated_at: "2026-03-30T07:05:02.835Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
 - **(c)** The amount of incentive pay payable to an individual under this section may not exceed $3,000 per year.
 - **(d)** An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual’s language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense.
-- **(f)** No incentive pay may be paid under this section after December 31, 2017 .
+- **(f)** No incentive pay may be paid under this section after December 31, 2018 .

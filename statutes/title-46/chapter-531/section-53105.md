@@ -3,9 +3,9 @@ title: "Section 53105 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53105"
 chapter: 531
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 53105"
-generated_at: "2026-03-30T07:03:08.191Z"
+generated_at: "2026-03-30T07:05:24.845Z"
 status: "active"
 ---
 
@@ -13,9 +13,10 @@ status: "active"
 
 - **(a)** An operating agreement under this chapter shall require that, during the period a vessel is operating under the agreement—
   - **(1)** the vessel—
-    - **(A)** shall be operated exclusively in the foreign commerce or in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under section 12111 of this title ; and
-    - **(B)** shall not otherwise be operated in the coastwise trade; and
-  - **(2)** the vessel shall be documented under chapter 121 of this title.
+    - **(A)** shall be operated exclusively in the foreign commerce or, except as provided in paragraph (2), in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under section 12111 of this title ; and
+    - **(B)** shall not otherwise be operated in the coastwise trade;
+  - **(2)** in the case of a vessel, other than a replacement vessel under subsection (f), first covered by an operating agreement after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the vessel shall not be operated in the transportation of cargo between points in the United States and its territories either directly or via a foreign port; and
+  - **(3)** the vessel shall be documented under chapter 121 of this title.
 - **(b)**
   - **(1)** An operating agreement under this chapter shall require, subject to the availability of appropriations, that the Secretary make a payment each fiscal year to the contractor in accordance with section 53106.
   - **(2)** An operating agreement under this chapter constitutes a contractual obligation of the United States Government to pay the amounts provided for in the agreement to the extent of actual appropriations.

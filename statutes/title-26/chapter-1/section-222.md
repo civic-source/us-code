@@ -3,9 +3,9 @@ title: "Section 222 - Qualified tuition and related expenses"
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-30T07:02:42.250Z"
+generated_at: "2026-03-30T07:04:56.697Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
       - **(ii)** in the case of a taxpayer not described in clause (i) whose adjusted gross income for the taxable year does not exceed $80,000 ($160,000 in the case of a joint return), $2,000, and
       - **(iii)** in the case of any other taxpayer, zero.
     - **(C)** For purposes of this paragraph, adjusted gross income shall be determined—
-      - **(i)** without regard to this section and sections 199, 911, 931, and 933, and
+      - **(i)** without regard to this section and sections 911, 931, and 933, and
       - **(ii)** after application of sections 86, 135, 137, 219, 221, and 469.
 - **(c)**
   - **(1)** No deduction shall be allowed under subsection (a) for any expense for which a deduction is allowed to the taxpayer under any other provision of this chapter.

@@ -3,9 +3,9 @@ title: "Section 6334 - Property exempt from levy"
 usc_title: 26
 usc_section: "6334"
 chapter: 64
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6334"
-generated_at: "2026-03-30T07:02:42.413Z"
+generated_at: "2026-03-30T07:04:56.863Z"
 status: "active"
 ---
 
@@ -45,6 +45,15 @@ status: "active"
       - **(ii)** the aggregate amount of the deductions for personal exemptions allowed the taxpayer under section 151 in the taxable year in which such levy occurs, divided by
     - **(B)** 52.
   - **(3)** In the case of any individual not described in paragraph (1), the amount of the wages, salary, and other income payable to or received by him during any applicable pay period or other fiscal period (as determined under regulations prescribed by the Secretary) which is exempt from levy under subsection (a)(9) shall be an amount (determined under such regulations) which as nearly as possible will result in the same total exemption from levy for such individual over a period of time as he would have under paragraph (1) if (during such period of time) he were paid or received such wages, salary, and other income on a regular weekly basis.
+  - **(4)**
+    - **(A)** In the case of any taxable year in which the exemption amount under section 151(d) is zero, paragraph (2) shall not apply and for purposes of paragraph (1) the term “exempt amount” means an amount equal to—
+      - **(i)** the sum of the amount determined under subparagraph (B) and the standard deduction, divided by
+      - **(ii)** 52.
+    - **(B)** For purposes of subparagraph (A), the amount determined under this subparagraph is $4,150 multiplied by the number of the taxpayer’s dependents for the taxable year in which the levy occurs.
+    - **(C)** In the case of any taxable year beginning in a calendar year after 2018, the $4,150 amount in subparagraph (B) shall be increased by an amount equal to—
+      - **(i)** such dollar amount, multiplied by
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
+    - **(D)** Unless the taxpayer submits to the Secretary a written and properly verified statement specifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with no dependents.
 - **(e)**
   - **(1)**
     - **(A)** A principal residence shall not be exempt from levy if a judge or magistrate of a district court of the United States approves (in writing) the levy of such residence.
@@ -56,5 +65,5 @@ status: "active"
 - **(g)**
   - **(1)** In the case of any calendar year beginning after 1999, each dollar amount referred to in paragraphs (2) and (3) of subsection (a) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.

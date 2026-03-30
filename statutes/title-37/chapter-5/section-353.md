@@ -3,9 +3,9 @@ title: "Section 353 - Skill incentive pay or proficiency bonus"
 usc_title: 37
 usc_section: "353"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 353"
-generated_at: "2026-03-30T07:02:49.452Z"
+generated_at: "2026-03-30T07:05:02.836Z"
 status: "active"
 ---
 
@@ -37,4 +37,4 @@ status: "active"
   - **(3)** In this section, the term “critical foreign language” includes Arabic, Korean, Japanese, Chinese, Pashto, Persian-Farsi, Serbian-Croatian, Russian, Portuguese, or other language designated as critical by the Secretary concerned.
 - **(g)** A member who receives skill incentive pay or a proficiency bonus under this section and who fails to fulfill the eligibility requirement for receipt of the pay or bonus shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
-- **(i)** No agreement may be entered into under this section after December 31, 2017 .
+- **(i)** No agreement may be entered into under this section after December 31, 2018 .

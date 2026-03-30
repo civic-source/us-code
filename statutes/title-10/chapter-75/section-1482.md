@@ -3,9 +3,9 @@ title: "Section 1482 - Expenses incident to death"
 usc_title: 10
 usc_section: "1482"
 chapter: 75
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1482"
-generated_at: "2026-03-30T07:01:27.949Z"
+generated_at: "2026-03-30T07:03:43.759Z"
 status: "active"
 ---
 
@@ -21,6 +21,7 @@ status: "active"
   - **(7)** Funeral director’s services.
   - **(8)** Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
   - **(9)** Interment or inurnment of the remains.
+  - **(10)** In the case of a decedent under the jurisdiction of a Secretary of a military department at the time of death, enduring care of remains interred in a foreign cemetery if the burial location was designated by such Secretary.
 - **(b)** If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 - **(c)** The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
   - **(1)** The person identified by the decedent on the record of emergency data maintained by the Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.

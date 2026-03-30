@@ -3,9 +3,9 @@ title: "Section 167b - Unified combatant command for cyber operations"
 usc_title: 10
 usc_section: "167b"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 167b"
-generated_at: "2026-03-30T07:01:27.892Z"
+generated_at: "2026-03-30T07:03:43.711Z"
 status: "active"
 ---
 
@@ -15,9 +15,6 @@ status: "active"
 - **(b)** Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.
 - **(c)** The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer’s permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 - **(d)**
-  - **(1)** Unless otherwise directed by the President or the Secretary of Defense, a cyber operations activity or mission shall be conducted under the command of the commander of the unified combatant command in whose geographic area the activity or mission is to be conducted.
-  - **(2)** The commander of the cyber command shall exercise command of a selected cyber operations mission if directed to do so by the President or the Secretary of Defense.
-- **(e)**
   - **(1)** In addition to the authority prescribed in section 164(c) of this title , the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
   - **(2)**
     - **(A)** Subject to the authority, direction, and control of the Principal Cyber Advisor, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
@@ -25,7 +22,7 @@ status: "active"
       - **(ii)** Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
       - **(iii)** Exercising authority, direction, and control over the expenditure of funds—
         - **(I)** for forces assigned directly to the cyber command; and
-        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 1 1 So in original. Probably should be “2016”. ( Public Law 114–92 ; 129 Stat. 886 ; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 129 Stat. 886 ; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
       - **(iv)** Training and certification of assigned joint forces.
       - **(v)** Conducting specialized courses of instruction for commissioned and noncommissioned officers.
       - **(vi)** Validating requirements.
@@ -39,4 +36,4 @@ status: "active"
     - **(A)** ensuring the combat readiness of forces assigned to the cyber command; and
     - **(B)** monitoring the preparedness to carry out assigned missions of cyber forces assigned to unified combatant commands other than the cyber command.
     - **(C)** The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
-- **(f)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.).
+- **(e)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq.).

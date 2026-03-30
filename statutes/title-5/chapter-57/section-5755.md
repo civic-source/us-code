@@ -3,9 +3,9 @@ title: "Section 5755 - Supervisory differentials"
 usc_title: 5
 usc_section: "5755"
 chapter: 57
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 5755"
-generated_at: "2026-03-30T07:01:18.829Z"
+generated_at: "2026-03-30T07:03:32.325Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** For the purposes of comparing the pay of a supervisory employee under the General Schedule with the pay of a subordinate employee not under the General Schedule, comparability payments under section 5304, differentials, and allowances that are not a part of basic pay may be taken into consideration, as provided by regulations of the Office.
 - **(b)**
   - **(1)** A supervisory differential, which shall be stated as a percentage of the supervisory employee’s rate of basic pay (excluding any comparability payments under section 5304) or as a dollar amount, may not cause the supervisory employee’s pay to exceed the pay of the highest paid subordinate employee by more than 3 percent.
-  - **(2)** A supervisory differential may not be considered to be part of the basic pay of an employee, and the reduction or elimination of a supervisory differential may not be appealed. The preceding sentence shall not be construed to extinguish or lessen any right or remedy under subchapter II of chapter 12 or under any of the laws referred to in section 2302(c).
+  - **(2)** A supervisory differential may not be considered to be part of the basic pay of an employee, and the reduction or elimination of a supervisory differential may not be appealed. The preceding sentence shall not be construed to extinguish or lessen any right or remedy under subchapter II of chapter 12 or under any of the laws referred to in section 2302(d).
   - **(3)** A supervisory differential shall be paid in the same manner and at the same time as the employee’s basic pay is paid.
 - **(c)** For the purpose of this section—
   - **(1)** the terms “agency” and “employee” have the meanings given them by section 5102; and

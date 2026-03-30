@@ -3,9 +3,9 @@ title: "Section 912 - Authority to appoint commissioners; powers of authorities"
 usc_title: 48
 usc_section: "912"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "48 U.S.C. § 912"
-generated_at: "2026-03-30T07:03:09.068Z"
+generated_at: "2026-03-30T07:05:25.365Z"
 status: "active"
 ---
 

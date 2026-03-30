@@ -3,9 +3,9 @@ title: "Section 5952 - Marine Corps organizations on vessels: authority of offic
 usc_title: 10
 usc_section: "5952"
 chapter: 551
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5952"
-generated_at: "2026-03-30T07:01:28.023Z"
+generated_at: "2026-03-30T07:03:43.821Z"
 status: "active"
 ---
 

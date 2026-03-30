@@ -3,9 +3,9 @@ title: "Section 1447 - Repealed. Pub. L. 106–102, title VI , § 606(c), Nov. 1
 usc_title: 12
 usc_section: "1447"
 chapter: 11
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 1447"
-generated_at: "2026-03-30T07:01:44.302Z"
+generated_at: "2026-03-30T07:04:15.086Z"
 status: "repealed"
 ---
 

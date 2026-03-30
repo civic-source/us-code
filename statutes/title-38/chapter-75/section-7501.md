@@ -3,9 +3,9 @@ title: "Section 7501 - Establishment of scholarship program; purpose"
 usc_title: 38
 usc_section: "7501"
 chapter: 75
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "38 U.S.C. § 7501"
-generated_at: "2026-03-30T07:02:51.427Z"
+generated_at: "2026-03-30T07:05:06.001Z"
 status: "active"
 ---
 

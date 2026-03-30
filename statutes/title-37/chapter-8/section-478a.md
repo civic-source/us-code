@@ -3,9 +3,9 @@ title: "Section 478a - Travel and transportation allowances: inactive duty train
 usc_title: 37
 usc_section: "478a"
 chapter: 8
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 478a"
-generated_at: "2026-03-30T07:02:49.456Z"
+generated_at: "2026-03-30T07:05:02.840Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
       - **(i)** using an aircraft or boat on account of limited or nonexistent vehicular routes to the training location or other geographical challenges; or
       - **(ii)** from a permanent residence located more than 75 miles from the training location.
 - **(d)** The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
-- **(e)** No reimbursement may be provided under this section for travel that occurs after December 31, 2017 .
+- **(e)** No reimbursement may be provided under this section for travel that occurs after December 31, 2018 .

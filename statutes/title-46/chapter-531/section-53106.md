@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T07:03:08.191Z"
+generated_at: "2026-03-30T07:05:24.845Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(F)** $5,233,463 for fiscal year 2021; and
     - **(G)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
   - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
-- **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+- **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
   - **(1)** under a charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107;
   - **(2)** not operated or maintained in accordance with an operating agreement under this chapter; or
@@ -31,7 +31,7 @@ status: "active"
 - **(d)** With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
   - **(1)** except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10 , or any other cargo preference law of the United States;
   - **(2)** shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
-  - **(3)** shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+  - **(3)** shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 - **(e)**
   - **(1)** No contractor shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
   - **(2)** Paragraph (1) shall not apply to any person that is a citizen of the United States within the meaning of section 50501 of this title , applying the 75 percent ownership requirement of that section.

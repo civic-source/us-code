@@ -3,15 +3,15 @@ title: "Section 4507 - Longevity compensation"
 usc_title: 2
 usc_section: "4507"
 chapter: 45
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 4507"
-generated_at: "2026-03-30T07:01:19.873Z"
+generated_at: "2026-03-30T07:03:26.305Z"
 status: "active"
 ---
 
 # § 4507. Longevity compensation
 
-- **(a)** This section shall apply to—
+- **(a)** This section shall apply 1 1 See Inapplicability of Section to Certain Employees note below. to—
   - **(1)** each employee of the Senate whose compensation is paid from the appropriation for Salaries, Officers and Employees under the following headings:
     - **(A)** Office of the Secretary, including individuals employed under authority of section 6538 of this title ;
     - **(B)** Office of the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and

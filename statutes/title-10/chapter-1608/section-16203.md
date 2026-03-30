@@ -3,9 +3,9 @@ title: "Section 16203 - Penalties and limitations"
 usc_title: 10
 usc_section: "16203"
 chapter: 1608
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 16203"
-generated_at: "2026-03-30T07:01:28.056Z"
+generated_at: "2026-03-30T07:03:43.848Z"
 status: "active"
 ---
 
@@ -14,6 +14,6 @@ status: "active"
 - **(a)**
   - **(1)** A member of the program who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in training, or for other reasons, shall be required, at the discretion of the Secretary concerned—
     - **(A)** to perform one year of active duty for each year (or part thereof) for which such person was provided financial assistance under this section; or
-    - **(B)** to comply with the repayment provisions of section 303a(e) of title 37 .
+    - **(B)** to comply with the repayment provisions of section 303a(e) or 373 of title 37.
   - **(2)** The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member participating in the program who is dropped from the program from any requirement that may be imposed under paragraph (1), but such relief shall not relieve him from any military obligation imposed by any other law.
 - **(b)** Financial assistance may not be provided under this section to a member receiving financial assistance under section 2107 of this title .

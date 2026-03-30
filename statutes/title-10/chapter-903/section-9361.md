@@ -3,9 +3,9 @@ title: "Section 9361 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "9361"
 chapter: 903
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 9361"
-generated_at: "2026-03-30T07:01:28.039Z"
+generated_at: "2026-03-30T07:03:43.834Z"
 status: "active"
 ---
 

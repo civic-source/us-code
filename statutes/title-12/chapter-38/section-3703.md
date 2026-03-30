@@ -3,9 +3,9 @@ title: "Section 3703 - Applicability"
 usc_title: 12
 usc_section: "3703"
 chapter: 38
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 3703"
-generated_at: "2026-03-30T07:01:44.392Z"
+generated_at: "2026-03-30T07:04:15.173Z"
 status: "active"
 ---
 

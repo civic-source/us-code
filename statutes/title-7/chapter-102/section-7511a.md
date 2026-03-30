@@ -3,9 +3,9 @@ title: "Section 7511a - Emergency food program infrastructure grants"
 usc_title: 7
 usc_section: "7511a"
 chapter: 102
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 7511a"
-generated_at: "2026-03-30T07:01:33.450Z"
+generated_at: "2026-03-30T07:03:40.616Z"
 status: "active"
 ---
 

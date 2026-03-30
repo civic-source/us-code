@@ -3,9 +3,9 @@ title: "Section 2295 - Employment and case management services"
 usc_title: 19
 usc_section: "2295"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 2295"
-generated_at: "2026-03-30T07:02:01.706Z"
+generated_at: "2026-03-30T07:04:19.064Z"
 status: "active"
 ---
 

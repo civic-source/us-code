@@ -3,9 +3,9 @@ title: "Section 2372 - Independent research and development costs: allowable cos
 usc_title: 10
 usc_section: "2372"
 chapter: 139
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2372"
-generated_at: "2026-03-30T07:01:27.981Z"
+generated_at: "2026-03-30T07:03:43.786Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
   - **(2)** Implementation of regular methods for transmission—
     - **(A)** from the Department of Defense to contractors, in a reasonable manner, of timely and comprehensive information regarding planned or expected needs of the Department of Defense for future technology and advanced capability; and
     - **(B)** from contractors to the Department of Defense, in a reasonable manner, of information regarding progress by the contractor on the independent research and development programs of the contractor.
-- **(d)** Regulations prescribed under subsection (a) may not include provisions that would infringe on the independence of a contractor to choose which technologies to pursue in its independent research and development program if the chief executive officer of the contractor determines that expenditures will advance the needs of the Department of Defense for future technology and advanced capability as transmitted pursuant to subsection (c)(3)(A).
+- **(d)** Regulations prescribed under subsection (a) may not include provisions that would infringe on the independence of a contractor to choose which technologies to pursue in its independent research and development program if the chief executive officer of the contractor determines that expenditures will advance the needs of the Department of Defense for future technology and advanced capability as transmitted pursuant to subsection (c)(2)(A).
 - **(e)** The regulations prescribed under subsection (a) shall apply to indirect costs incurred on or after October 1, 2017 .

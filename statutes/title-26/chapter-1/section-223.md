@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T07:02:42.250Z"
+generated_at: "2026-03-30T07:04:56.697Z"
 status: "active"
 ---
 
@@ -136,7 +136,7 @@ status: "active"
 - **(g)**
   - **(1)** Each dollar amount in subsections (b)(2) and (c)(2)(A) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 1992” in subparagraph (B) thereof—
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 2016” in subparagraph (A)(ii) thereof—
       - **(i)** except as provided in clause (ii), “calendar year 1997”, and
       - **(ii)** in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”.
   - **(2)** If any increase under paragraph (1) is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.

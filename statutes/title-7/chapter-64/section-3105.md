@@ -3,9 +3,9 @@ title: "Section 3105 - Agricultural research; authorization of additional approp
 usc_title: 7
 usc_section: "3105"
 chapter: 64
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 3105"
-generated_at: "2026-03-30T07:01:33.405Z"
+generated_at: "2026-03-30T07:03:40.573Z"
 status: "active"
 ---
 

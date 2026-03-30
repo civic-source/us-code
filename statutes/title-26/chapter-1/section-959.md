@@ -3,9 +3,9 @@ title: "Section 959 - Exclusion from gross income of previously taxed earnings a
 usc_title: 26
 usc_section: "959"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 959"
-generated_at: "2026-03-30T07:02:42.326Z"
+generated_at: "2026-03-30T07:04:56.774Z"
 status: "active"
 ---
 
@@ -21,8 +21,8 @@ status: "active"
     - **(B)** earnings and profits attributable to amounts included in gross income under section 951(a)(1)(C) (or which would have been included except for subsection (a)(3) of this section),
   - **(2)** then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under subparagraph (B) or (C) of section 951(a)(1) because of the exclusions in paragraphs (2) and (3) of subsection (a) of this section), and
   - **(3)** then to other earnings and profits.
-- **(d)** Except as provided in section 960(a)(3), any distribution excluded from gross income under subsection (a) shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distributions shall immediately reduce earnings and profits.
-- **(e)** For purposes of this section and section 960(b), any amount included in the gross income of any person as a dividend by reason of subsection (a) or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
+- **(d)** Any distribution excluded from gross income under subsection (a) shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distributions shall immediately reduce earnings and profits.
+- **(e)** For purposes of this section and section 960(c), any amount included in the gross income of any person as a dividend by reason of subsection (a) or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
 - **(f)**
   - **(1)** For purposes of this section, amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3).
   - **(2)** In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).

@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-30T07:01:50.935Z"
+generated_at: "2026-03-30T07:03:49.304Z"
 status: "active"
 ---
 
@@ -72,6 +72,7 @@ status: "active"
     - **(K)** To educate the public about arson prevention and detection.
     - **(L)** To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
     - **(M)** To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
+    - **(N)** To provide specialized training to firefighters, paramedics, emergency medical service workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crisis.
 - **(d)**
   - **(1)** For the purpose of assisting fire prevention programs and supporting firefighter health and safety research and development, the Administrator of FEMA may, on a competitive basis—
     - **(A)** award grants to fire departments;
@@ -217,9 +218,9 @@ status: "active"
 - **(q)**
   - **(1)** There is authorized to be appropriated to carry out this section—
     - **(A)** $750,000,000 for fiscal year 2013; and
-    - **(B)** for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+    - **(B)** for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
       - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
       - **(ii)** the Consumer Price Index for the fiscal year preceding the fiscal year described in clause (i).
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
   - **(3)** Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
-- **(r)** The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013 .
+- **(r)** The authority to award assistance and grants under this section shall expire on September 30, 2024 .

@@ -3,9 +3,9 @@ title: "Section 2350l - Cooperative agreements for reciprocal use of test facili
 usc_title: 10
 usc_section: "2350l"
 chapter: 138
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2350l"
-generated_at: "2026-03-30T07:01:27.979Z"
+generated_at: "2026-03-30T07:03:43.784Z"
 status: "active"
 ---
 

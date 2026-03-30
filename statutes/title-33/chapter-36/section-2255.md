@@ -3,9 +3,9 @@ title: "Section 2255 - Inland waterways riverbank stabilization"
 usc_title: 33
 usc_section: "2255"
 chapter: 36
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "33 U.S.C. § 2255"
-generated_at: "2026-03-30T07:02:46.013Z"
+generated_at: "2026-03-30T07:05:00.886Z"
 status: "active"
 ---
 

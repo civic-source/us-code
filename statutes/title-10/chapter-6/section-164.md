@@ -3,9 +3,9 @@ title: "Section 164 - Commanders of combatant commands: assignment; powers and d
 usc_title: 10
 usc_section: "164"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 164"
-generated_at: "2026-03-30T07:01:27.891Z"
+generated_at: "2026-03-30T07:03:43.710Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** The President may assign an officer to serve as the commander of a unified or specified combatant command only if the officer—
     - **(A)** has the joint specialty under section 661 of this title ; and
-    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 1 1 See References in Text note below. of this title) as a general or flag officer.
+    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(d) of this title ) as a general or flag officer.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 - **(b)**
   - **(1)** The commander of a combatant command is responsible to the President and to the Secretary of Defense for the performance of missions assigned to that command by the President or by the Secretary with the approval of the President.

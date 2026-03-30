@@ -3,9 +3,9 @@ title: "Section 61 - Gross income defined"
 usc_title: 26
 usc_section: "61"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 61"
-generated_at: "2026-03-30T07:02:42.222Z"
+generated_at: "2026-03-30T07:04:56.667Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(5)** Rents;
   - **(6)** Royalties;
   - **(7)** Dividends;
-  - **(8)** Alimony and separate maintenance payments;
+  - **(8)** 1 1 See Amendment of Subsection (a) note below. Alimony and separate maintenance payments;
   - **(9)** Annuities;
   - **(10)** Income from life insurance and endowment contracts;
   - **(11)** Pensions;

@@ -3,9 +3,9 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T07:02:42.280Z"
+generated_at: "2026-03-30T07:04:56.727Z"
 status: "active"
 ---
 
@@ -109,7 +109,7 @@ status: "active"
         - **(II)** an event which is reasonably and reliably predictable (as determined by the Secretary),
       - **(iii)** The rate of interest used to determine current liability under this paragraph shall be the rate of interest determined under subparagraph (E).
       - **(iv)**
-        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993 .
+        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) 1 1 See References in Text note below. used to determine reserves for group annuity contracts issued on January 1, 1993 .
         - **(II)** The Secretary may by regulation prescribe for plan years beginning after December 31, 1999 , mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
       - **(v)** Notwithstanding clause (iv)—
         - **(I)** The Secretary shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995 , and for individuals whose disabilities occur in plan years beginning on or after such date.
@@ -144,7 +144,7 @@ status: "active"
   - **(2)**
     - **(A)** If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
     - **(B)** The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—
-      - **(i)** such extension would carry out the purposes of this Act 1 1 So in original. Probably should be “title”. and would provide adequate protection for participants under the plan and their beneficiaries, and
+      - **(i)** such extension would carry out the purposes of this Act 2 2 So in original. Probably should be “title”. and would provide adequate protection for participants under the plan and their beneficiaries, and
       - **(ii)** the failure to permit such extension would—
         - **(I)** result in a substantial risk to the voluntary continuation of the plan, or a substantial curtailment of pension benefit levels or employee compensation, and
         - **(II)** be adverse to the interests of plan participants in the aggregate.

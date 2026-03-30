@@ -3,9 +3,9 @@ title: "Section 3575 - Rank: warrant officers"
 usc_title: 10
 usc_section: "3575"
 chapter: 345
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 3575"
-generated_at: "2026-03-30T07:01:28.012Z"
+generated_at: "2026-03-30T07:03:43.812Z"
 status: "active"
 ---
 

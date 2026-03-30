@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of medical records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-30T07:01:27.937Z"
+generated_at: "2026-03-30T07:03:43.749Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(2)** A description (to be developed with the assistance of the Secretary of Veterans Affairs) of the compensation and vocational rehabilitation benefits to which the member may be entitled under laws administered by the Secretary of Veterans Affairs, if the member is being medically separated or is being retired under chapter 61 of this title.
   - **(3)** An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
   - **(4)** Provision of information on civilian occupations and related assistance programs, including information concerning—
-    - **(A)** certification and licensure requirements that are applicable to civilian occupations;
+    - **(A)** certification and licensure requirements that are applicable to civilian occupations, including State-submitted and approved lists of military training and skills that satisfy occupational certifications and licenses;
     - **(B)** civilian occupations that correspond to military occupational specialties; and
     - **(C)** Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title , and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
   - **(5)** If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
@@ -44,4 +44,5 @@ status: "active"
   - **(15)** Information concerning veterans preference in Federal employment and Federal procurement opportunities.
   - **(16)** Information on home loan services and housing assistance benefits available under the laws administered by the Secretary of Veterans Affairs and counseling on responsible borrowing practices.
   - **(17)** A description, developed in consultation with the Secretary of Veterans Affairs, of health care and other benefits to which the member may be entitled under the laws administered by the Secretary of Veterans Affairs, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits.
+  - **(18)** A description, developed in consultation with the Secretary of Veterans Affairs, of the assistance and support services for family caregivers of eligible veterans under the program conducted by the Secretary of Veterans Affairs pursuant to section 1720G of title 38 , including the veterans covered by the program, the caregivers eligible for assistance and support through the program, and the assistance and support available through the program.
 - **(c)** In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.

@@ -3,9 +3,9 @@ title: "Section 613A - Limitations on percentage depletion in case of oil and ga
 usc_title: 26
 usc_section: "613A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 613A"
-generated_at: "2026-03-30T07:02:42.300Z"
+generated_at: "2026-03-30T07:04:56.748Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
 - **(d)**
   - **(1)** The deduction for the taxable year attributable to the application of subsection (c) shall not exceed 65 percent of the taxpayer’s taxable income for the year computed without regard to—
     - **(A)** any depletion on production from an oil or gas property which is subject to the provisions of subsection (c),
-    - **(B)** any deduction allowable under section 199,
+    - **(B)** any deduction allowable under section 199A,
     - **(C)** any net operating loss carryback to the taxable year under section 172,
     - **(D)** any capital loss carryback to the taxable year under section 1212, and
     - **(E)** in the case of a trust, any distributions to its beneficiary, except in the case of any trust where any beneficiary of such trust is a member of the family (as defined in section 267(c)(4)) of a settlor who created inter vivos and testamentary trusts for members of the family and such settlor died within the last six days of the fifth month in 1970, and the law in the jurisdiction in which such trust was created requires all or a portion of the gross or net proceeds of any royalty or other interest in oil, gas, or other mineral representing any percentage depletion allowance to be allocated to the principal of the trust.

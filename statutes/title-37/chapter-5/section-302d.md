@@ -3,16 +3,16 @@ title: "Section 302d - Special pay: accession bonus for registered nurses"
 usc_title: 37
 usc_section: "302d"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 302d"
-generated_at: "2026-03-30T07:02:49.448Z"
+generated_at: "2026-03-30T07:05:02.832Z"
 status: "active"
 ---
 
 # § 302d. Special pay: accession bonus for registered nurses
 
 - **(a)**
-  - **(1)** A person who is a registered nurse and who, during the period beginning on November 29, 1989 , and ending on December 31, 2017 , executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+  - **(1)** A person who is a registered nurse and who, during the period beginning on November 29, 1989 , and ending on December 31, 2018 , executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
   - **(2)** The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 - **(b)** A person may not be paid a bonus under subsection (a) if—
   - **(1)** the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a baccalaureate degree; or

@@ -3,9 +3,9 @@ title: "Section 7428 - Agreements and leases: provision for change"
 usc_title: 10
 usc_section: "7428"
 chapter: 641
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 7428"
-generated_at: "2026-03-30T07:01:28.030Z"
+generated_at: "2026-03-30T07:03:43.827Z"
 status: "active"
 ---
 

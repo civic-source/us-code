@@ -3,9 +3,9 @@ title: "Section 1248 - Gain from certain sales or exchanges of stock in certain 
 usc_title: 26
 usc_section: "1248"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1248"
-generated_at: "2026-03-30T07:02:42.336Z"
+generated_at: "2026-03-30T07:04:56.784Z"
 status: "active"
 ---
 
@@ -62,4 +62,5 @@ status: "active"
     - **(A)** issued to the 10-percent corporate shareholder, and
     - **(B)** then distributed by the 10-percent corporate shareholder to such shareholder in redemption or liquidation (whichever is appropriate).
   - **(2)** For purposes of this subsection, the term “10-percent corporate shareholder” means any domestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
-- **(j)** For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).
+- **(j)** In the case of the sale or exchange by a domestic corporation of stock in a foreign corporation held for 1 year or more, any amount received by the domestic corporation which is treated as a dividend by reason of this section shall be treated as a dividend for purposes of applying section 245A.
+- **(k)** For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).

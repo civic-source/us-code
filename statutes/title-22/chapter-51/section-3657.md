@@ -3,9 +3,9 @@ title: "Section 3657 - Recruitment and retention remuneration"
 usc_title: 22
 usc_section: "3657"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 3657"
-generated_at: "2026-03-30T07:02:32.933Z"
+generated_at: "2026-03-30T07:04:37.959Z"
 status: "active"
 ---
 
@@ -25,5 +25,5 @@ status: "active"
     - **(A)** shall be in a fixed amount;
     - **(B)** shall be paid on a pro rata basis (over the period specified by the Commission as essential for the retention of the employee), with such payments to be made at the same time and in the same manner as basic pay; and
     - **(C)** may not be considered to be part of the basic pay of an employee.
-  - **(3)** A decision by the Commission to exercise or to not exercise the authority to pay a bonus under this subsection shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(c) of title 5 .
+  - **(3)** A decision by the Commission to exercise or to not exercise the authority to pay a bonus under this subsection shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5 .
 - **(e)** Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.

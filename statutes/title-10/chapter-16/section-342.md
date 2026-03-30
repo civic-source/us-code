@@ -3,9 +3,9 @@ title: "Section 342 - Regional Centers for Security Studies"
 usc_title: 10
 usc_section: "342"
 chapter: 16
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 342"
-generated_at: "2026-03-30T07:01:27.898Z"
+generated_at: "2026-03-30T07:03:43.716Z"
 status: "active"
 ---
 
@@ -54,4 +54,4 @@ status: "active"
   - **(2)** Costs for which reimbursement is waived pursuant to paragraph (1) shall be paid from appropriations available for the Center.
 - **(j)**
   - **(1)** The Secretary shall on an annual basis review the program and structure of each Regional Center in order to determine whether such Regional Center is appropriately aligned with the strategic priorities of the Department of Defense and the applicable geographic combatant commands.
-  - **(2)** The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.. 1 1 So in original.
+  - **(2)** The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.

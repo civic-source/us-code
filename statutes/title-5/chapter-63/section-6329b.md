@@ -3,9 +3,9 @@ title: "Section 6329b - Investigative leave and notice leave"
 usc_title: 5
 usc_section: "6329b"
 chapter: 63
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 6329b"
-generated_at: "2026-03-30T07:01:18.832Z"
+generated_at: "2026-03-30T07:03:32.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T07:02:42.249Z"
+generated_at: "2026-03-30T07:04:56.695Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(C)**
       - **(i)** In the case of any taxable year beginning in a calendar year after 2008, the $5,000 amount under subparagraph (A) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(ii)** If any amount after adjustment under clause (i) is not a multiple of $500, such amount shall be rounded to the next lower multiple of $500.
 - **(c)**
   - **(1)** In the case of an individual to whom this paragraph applies for the taxable year, the limitation of paragraph (1) of subsection (b) shall be equal to the lesser of—
@@ -52,7 +52,7 @@ status: "active"
   - **(1)** any amount paid in cash for the taxable year by or on behalf of an individual to an individual retirement plan for such individual’s benefit, and
   - **(2)** any amount contributed on behalf of any individual to a plan described in section 501(c)(18).
 - **(f)**
-  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term “compensation” shall include any amount includible in the individual’s gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation 1 1 So in original. Probably should be set off by quotation marks. includes any differential wage payment (as defined in section 3401(h)(2)).
+  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term “compensation” shall include any amount includible in the individual’s gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation 2 2 So in original. Probably should be set off by quotation marks. includes any differential wage payment (as defined in section 3401(h)(2)).
   - **(2)** The maximum deduction under subsection (b) shall be computed separately for each individual, and this section shall be applied without regard to any community property laws.
   - **(3)** For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
   - **[(4)**
@@ -80,7 +80,7 @@ status: "active"
   - **(3)** For purposes of this subsection—
     - **(A)** Adjusted gross income of any taxpayer shall be determined—
       - **(i)** after application of sections 86 and 469, and
-      - **(ii)** without regard to sections 135, 137, 199, 221, 222, and 911 or the deduction allowable under this section.
+      - **(ii)** without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
     - **(B)** The term “applicable dollar amount” means the following:
       - **(i)** In the case of a taxpayer filing a joint return, $80,000.
       - **(ii)** In the case of any other taxpayer (other than a married individual filing a separate return), $50,000.
@@ -107,4 +107,4 @@ status: "active"
     - **(B)** the amount applicable under paragraph (2)(A)(ii) shall be $10,000.
   - **(8)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each 2 2 So in original. The word “each” probably should not appear. be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.

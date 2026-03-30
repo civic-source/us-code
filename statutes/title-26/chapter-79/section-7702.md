@@ -3,9 +3,9 @@ title: "Section 7702 - Life insurance contract defined"
 usc_title: 26
 usc_section: "7702"
 chapter: 79
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 7702"
-generated_at: "2026-03-30T07:02:42.437Z"
+generated_at: "2026-03-30T07:04:56.889Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
   - **(3)**
     - **(A)** The term “guideline single premium” means the premium at issue with respect to future benefits under the contract.
     - **(B)** The determination under subparagraph (A) shall be based on—
-      - **(i)** reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+      - **(i)** reasonable mortality charges which meet the requirements prescribed in regulations to be promulgated by the Secretary or that do not exceed the mortality charges specified in the prevailing commissioners’ standard tables as defined in subsection (f)(10),
       - **(ii)** any reasonable charges (other than mortality charges) which (on the basis of the company’s experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
       - **(iii)** interest at the greater of an annual effective rate of 6 percent or the rate or rates guaranteed on issuance of the contract.
     - **(C)** Except as provided in subsection (f)(7), the determination under subparagraph (A) shall be made as of the time the contract is issued.
@@ -95,6 +95,7 @@ status: "active"
     - **(A)** the requirements described in subsection (a) for any contract year were not satisfied due to reasonable error, and
     - **(B)** reasonable steps are being taken to remedy the error,
   - **(9)** In the case of any contract which is a variable contract (as defined in section 817), the determination of whether such contract meets the requirements of subsection (a) shall be made whenever the death benefits under such contract change but not less frequently than once during each 12-month period.
+  - **(10)** For purposes of subsection (c)(3)(B)(i), the term “prevailing commissioners’ standard tables” means the most recent commissioners’ standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners’ standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the “year of change”) are different from the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
 - **(g)**
   - **(1)**
     - **(A)** If at any time any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), the income on the contract for any taxable year of the policyholder shall be treated as ordinary income received or accrued by the policyholder during such year.

@@ -3,9 +3,9 @@ title: "Section 8438 - Investment of Thrift Savings Fund"
 usc_title: 5
 usc_section: "8438"
 chapter: 84
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 8438"
-generated_at: "2026-03-30T07:01:18.851Z"
+generated_at: "2026-03-30T07:03:32.345Z"
 status: "active"
 ---
 
@@ -65,9 +65,7 @@ status: "active"
     - **(D)** The Board shall consult with the Employee Thrift Advisory Council (established under section 8473) before authorizing the addition of a mutual fund window or establishing a service that enables participants to invest in mutual funds.
 - **(c)**
   - **(1)** The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
-  - **(2)**
-    - **(A)** Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).
-    - **(B)** If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.
+  - **(2)** If an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).
 - **(d)**
   - **(1)** At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds and options referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual’s account are to be invested or reinvested.
   - **(2)** An election may be made under paragraph (1) only in accordance with regulations prescribed by the Executive Director and within such period as the Executive Director shall provide in such regulations.

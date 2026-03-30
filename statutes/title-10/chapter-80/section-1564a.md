@@ -3,9 +3,9 @@ title: "Section 1564a - Counterintelligence polygraph program"
 usc_title: 10
 usc_section: "1564a"
 chapter: 80
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1564a"
-generated_at: "2026-03-30T07:01:27.952Z"
+generated_at: "2026-03-30T07:03:43.762Z"
 status: "active"
 ---
 

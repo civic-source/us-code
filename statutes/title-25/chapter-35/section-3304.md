@@ -3,9 +3,9 @@ title: "Section 3304 - Qualification for grants to tribes"
 usc_title: 25
 usc_section: "3304"
 chapter: 35
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 3304"
-generated_at: "2026-03-30T07:02:25.169Z"
+generated_at: "2026-03-30T07:04:34.926Z"
 status: "active"
 ---
 

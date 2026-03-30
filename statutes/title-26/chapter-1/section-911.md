@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-03-30T07:02:42.322Z"
+generated_at: "2026-03-30T07:04:56.770Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
       - **(i)** The exclusion amount for any calendar year is $80,000.
       - **(ii)** In the case of any taxable year beginning in a calendar year after 2005, the $80,000 amount in clause (i) shall be increased by an amount equal to the product of—
         - **(I)** such dollar amount, and
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “2016” in subparagraph (A)(ii) thereof.
 - **(c)** For purposes of this section—
   - **(1)** The term “housing cost amount” means an amount equal to the excess of—
     - **(A)** the housing expenses of an individual for the taxable year to the extent such expenses do not exceed the amount determined under paragraph (2), over
@@ -102,7 +102,7 @@ status: "active"
     - **(A)** if such taxpayer has taxable income for such taxable year, the tax imposed by section 1 for such taxable year shall be equal to the excess (if any) of—
       - **(i)** the tax which would be imposed by section 1 for such taxable year if the taxpayer’s taxable income were increased by the amount excluded under subsection (a) for such taxable year, over
       - **(ii)** the tax which would be imposed by section 1 for such taxable year if the taxpayer’s taxable income were equal to the amount excluded under subsection (a) for such taxable year, and
-    - **(B)** if such taxpayer has a taxable excess (as defined in section 55(b)(1)(A)(ii)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A)(i) for such taxable year shall be equal to the excess (if any) of—
+    - **(B)** if such taxpayer has a taxable excess (as defined in section 55(b)(1)(B)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A) for such taxable year shall be equal to the excess (if any) of—
       - **(i)** the amount which would be determined under such sentence for such taxable year (subject to the limitation of section 55(b)(3)) if the taxpayer’s taxable excess (as so defined) were increased by the amount excluded under subsection (a) for such taxable year, over
       - **(ii)** the amount which would be determined under such sentence for such taxable year if the taxpayer’s taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
   - **(2)**
@@ -110,8 +110,8 @@ status: "active"
       - **(i)** the taxpayer’s net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
       - **(ii)** the taxpayer’s qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer’s net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
       - **(iii)** adjusted net capital gain, unrecaptured section 1250 gain, and 28-percent rate gain shall each be determined after increasing the amount described in section 1(h)(4)(B) by such capital gain excess.
-    - **(B)** In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer’s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))—
-      - **(i)** the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(A)(ii))” for “taxable income”, and
+    - **(B)** In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer’s net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(B))—
+      - **(i)** the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(B))” for “taxable income”, and
       - **(ii)** the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
     - **(C)** Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
 - **(g)** For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.

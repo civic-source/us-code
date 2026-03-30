@@ -3,9 +3,9 @@ title: "Section 32705 - Disclosure requirements on transfer of motor vehicles"
 usc_title: 49
 usc_section: "32705"
 chapter: 327
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 32705"
-generated_at: "2026-03-30T07:03:12.368Z"
+generated_at: "2026-03-30T07:05:28.462Z"
 status: "active"
 ---
 

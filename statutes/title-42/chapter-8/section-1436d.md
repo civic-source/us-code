@@ -3,9 +3,9 @@ title: "Section 1436d - Consultation with affected areas in settlement of litiga
 usc_title: 42
 usc_section: "1436d"
 chapter: 8
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 1436d"
-generated_at: "2026-03-30T07:03:04.785Z"
+generated_at: "2026-03-30T07:05:21.648Z"
 status: "active"
 ---
 

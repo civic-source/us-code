@@ -3,9 +3,9 @@ title: "Section 1 - Inclusion of certain surveys in labor requirements of mining
 usc_title: 30
 usc_section: "1"
 chapter: 2
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-30T07:02:36.863Z"
+generated_at: "2026-03-30T07:04:43.557Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1015f - State commitment to affordable college education"
 usc_title: 20
 usc_section: "1015f"
 chapter: 28
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 1015f"
-generated_at: "2026-03-30T07:01:56.655Z"
+generated_at: "2026-03-30T07:04:27.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T07:02:42.286Z"
+generated_at: "2026-03-30T07:04:56.734Z"
 status: "active"
 ---
 
@@ -73,7 +73,9 @@ status: "active"
       - **(i)** An individual shall be treated as a bona fide volunteer for purposes of subparagraph (A)(ii) if the only compensation received by such individual for performing qualified services is in the form of—
         - **(I)** reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
         - **(II)** reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
-      - **(ii)** A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
+      - **(ii)** A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $6,000.
+      - **(iii)** In the case of taxable years beginning after December 31, 2017 , the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016 , and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+      - **(iv)** In the case of a plan described in subparagraph (A)(ii) which is a defined benefit plan (as defined in section 414(j)), the limitation under clause (ii) shall apply to the actuarial present value of the aggregate amount of length of service awards accruing with respect to any year of service. Such actuarial present value with respect to any year shall be calculated using reasonable actuarial assumptions and methods, assuming payment will be made under the most valuable form of payment under the plan with payment commencing at the later of the earliest age at which unreduced benefits are payable under the plan or the participant’s age at the time of the calculation.
     - **(C)** For purposes of this paragraph, the term “qualified services” means fire fighting and prevention services, emergency medical services, and ambulance services.
     - **(D)**
       - **(i)** If an applicable voluntary early retirement incentive plan—

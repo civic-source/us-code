@@ -3,9 +3,9 @@ title: "Section 853A - Credits from tax credit bonds allowed to shareholders"
 usc_title: 26
 usc_section: "853A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 853A"
-generated_at: "2026-03-30T07:02:42.311Z"
+generated_at: "2026-03-30T07:04:56.759Z"
 status: "active"
 ---
 
@@ -28,11 +28,11 @@ status: "active"
 - **(e)**
   - **(1)** For purposes of this subsection—
     - **(A)** The term “tax credit bond” means—
-      - **(i)** a qualified tax credit bond (as defined in section 54A(d)),
-      - **(ii)** a build America bond (as defined in section 54AA(d)) other than a qualified bond described in section 54AA(g), and
+      - **(i)** a qualified tax credit bond (as defined in section 54A(d)), 1
+      - **(ii)** a build America bond (as defined in section 54AA(d)) 1 other than a qualified bond described in section 54AA(g), 1 and
       - **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
     - **(B)** The term “applicable date” means—
-      - **(i)** in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), and
-      - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), any interest payment date (as defined in section 54AA(e)).
+      - **(i)** in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), 1 and
+      - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), 1 any interest payment date (as defined in section 54AA(e)). 1
   - **(2)** If the ownership of a tax credit bond is separated from the credit with respect to such bond, subsection (a) shall be applied by reference to the instruments evidencing the entitlement to the credit rather than the tax credit bond.
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder’s proportionate share of credits.

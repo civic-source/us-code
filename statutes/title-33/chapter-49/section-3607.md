@@ -3,9 +3,9 @@ title: "Section 3607 - Public-private use policy"
 usc_title: 33
 usc_section: "3607"
 chapter: 49
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "33 U.S.C. § 3607"
-generated_at: "2026-03-30T07:02:46.030Z"
+generated_at: "2026-03-30T07:05:00.903Z"
 status: "active"
 ---
 

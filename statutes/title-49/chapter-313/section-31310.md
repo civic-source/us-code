@@ -3,9 +3,9 @@ title: "Section 31310 - Disqualifications"
 usc_title: 49
 usc_section: "31310"
 chapter: 313
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 31310"
-generated_at: "2026-03-30T07:03:12.366Z"
+generated_at: "2026-03-30T07:05:28.459Z"
 status: "active"
 ---
 
@@ -29,7 +29,9 @@ status: "active"
     - **(E)** convicted of more than one offense of causing a fatality through negligent or criminal operation of a commercial motor vehicle; or
     - **(F)** committing any combination of single violations or use described in subparagraphs (A) through (E).
   - **(2)** The Secretary may prescribe regulations establishing guidelines (including conditions) under which a disqualification for life under paragraph (1) of this subsection may be reduced to a period of not less than 10 years.
-- **(d)** The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+- **(d)**
+  - **(1)** The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+  - **(2)** The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7102(9) ).
 - **(e)**
   - **(1)** The Secretary shall disqualify from operating a commercial motor vehicle for at least 60 days an individual who, in a 3-year period, commits 2 serious traffic violations involving a commercial motor vehicle operated by the individual.
   - **(2)** The Secretary shall disqualify from operating a commercial motor vehicle for at least 120 days an individual who, in a 3-year period, commits 3 serious traffic violations involving a commercial motor vehicle operated by the individual.

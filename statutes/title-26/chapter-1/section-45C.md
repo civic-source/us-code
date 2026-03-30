@@ -3,15 +3,15 @@ title: "Section 45C - Clinical testing expenses for certain drugs for rare disea
 usc_title: 26
 usc_section: "45C"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 45C"
-generated_at: "2026-03-30T07:02:42.212Z"
+generated_at: "2026-03-30T07:04:56.659Z"
 status: "active"
 ---
 
 # § 45C. Clinical testing expenses for certain drugs for rare diseases or conditions
 
-- **(a)** For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 50 percent of the qualified clinical testing expenses for the taxable year.
+- **(a)** For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year.
 - **(b)** For purposes of this section—
   - **(1)**
     - **(A)** Except as otherwise provided in this paragraph, the term “qualified clinical testing expenses” means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).

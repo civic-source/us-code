@@ -3,9 +3,9 @@ title: "Section 308h - Special pay: bonus for reenlistment, enlistment, or volun
 usc_title: 37
 usc_section: "308h"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 308h"
-generated_at: "2026-03-30T07:02:49.450Z"
+generated_at: "2026-03-30T07:05:02.834Z"
 status: "active"
 ---
 
@@ -36,4 +36,4 @@ status: "active"
 - **(d)**
   - **(1)** This section shall be administered under regulations to be prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
   - **(2)** Regulations under this section may require that as a condition of receiving a bonus under this section the person receiving the bonus agree to participate in an annual muster of the Reserves, or in active duty for training, as may be required by the Secretary concerned.
-- **(e)** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2017 .
+- **(e)** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2018 .

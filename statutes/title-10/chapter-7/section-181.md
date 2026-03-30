@@ -3,9 +3,9 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-30T07:01:27.893Z"
+generated_at: "2026-03-30T07:03:43.712Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** There is a Joint Requirements Oversight Council in the Department of Defense.
 - **(b)** In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall assist the Chairman of the Joint Chiefs of Staff in—
-  - **(1)** assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under section 118 1 1 See References in Text note below. of this title;
+  - **(1)** assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under section 113(g) of this title ;
   - **(2)** reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
   - **(3)** developing recommendations, in consultation with the advisors to the Council under subsection (d), for program cost and fielding targets pursuant to section 2448a of this title that—
     - **(A)** require a level of resources that is consistent with the level of priority assigned to the associated capability gap; and

@@ -3,9 +3,9 @@ title: "Section 418 - Periodic inspection of retirement home facilities by Depar
 usc_title: 24
 usc_section: "418"
 chapter: 10
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "24 U.S.C. § 418"
-generated_at: "2026-03-30T07:02:26.415Z"
+generated_at: "2026-03-30T07:04:33.712Z"
 status: "active"
 ---
 
@@ -18,13 +18,11 @@ status: "active"
   - **(3)** In conducting the inspection of a facility of the Retirement Home under this subsection, the Inspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.
   - **(4)** The Chief Operating Officer and the Administrator of each facility of the Retirement Home shall make all staff, other personnel, and records of each facility available to the Inspector General in a timely manner for purposes of inspections under this subsection.
 - **(c)**
-  - **(1)** The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to Congress and the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
+  - **(1)** The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to the Secretary of Defense, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
   - **(2)** A report submitted under paragraph (1) shall include a plan by the Chief Operating Officer to address the recommendations and other matters contained in the report.
 - **(d)**
   - **(1)** The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with section 411(g) of this title .
   - **(2)** The Chief Operating Officer and the Administrator of a facility being inspected under this subsection shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this subsection.
-- **(e)**
-  - **(1)** Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Under Secretary of Defense for Personnel and Readiness, the Senior Medical Advisor, and the Advisory Council a report containing—
-    - **(A)** the results of the inspection; and
-    - **(B)** a plan to address any recommendations and other matters set forth in the report.
-  - **(2)** Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.
+- **(e)** Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
+  - **(1)** the results of the inspection; and
+  - **(2)** a plan to address any recommendations and other matters set forth in the report.

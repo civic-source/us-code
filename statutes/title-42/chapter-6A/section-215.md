@@ -3,9 +3,9 @@ title: "Section 215 - Detail of Service personnel"
 usc_title: 42
 usc_section: "215"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 215"
-generated_at: "2026-03-30T07:03:04.477Z"
+generated_at: "2026-03-30T07:05:21.354Z"
 status: "active"
 ---
 

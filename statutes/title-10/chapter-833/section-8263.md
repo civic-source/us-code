@@ -3,9 +3,9 @@ title: "Section 8263 - Repealed. Pub. L. 90–235 , § 2(a)(4)(B), Jan. 2, 1968 
 usc_title: 10
 usc_section: "8263"
 chapter: 833
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 8263"
-generated_at: "2026-03-30T07:01:28.036Z"
+generated_at: "2026-03-30T07:03:43.831Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T07:02:42.240Z"
+generated_at: "2026-03-30T07:04:56.686Z"
 status: "active"
 ---
 
@@ -21,9 +21,8 @@ status: "active"
     - **(B)** switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of such year will yield a larger allowance.
   - **(2)** Paragraph (1) shall be applied by substituting “150 percent” for “200 percent” in the case of—
     - **(A)** any 15-year or 20-year property not referred to in paragraph (3),
-    - **(B)** any property used in a farming business (within the meaning of section 263A(e)(4)),
-    - **(C)** any property (other than property described in paragraph (3)) which is a qualified smart electric meter or qualified smart electric grid system, or
-    - **(D)** any property (other than property described in paragraph (3)) with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
+    - **(B)** any property (other than property described in paragraph (3)) which is a qualified smart electric meter or qualified smart electric grid system, or
+    - **(C)** any property (other than property described in paragraph (3)) with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
   - **(3)** The applicable depreciation method shall be the straight line method in the case of the following property:
     - **(A)** Nonresidential real property.
     - **(B)** Residential rental property.
@@ -31,9 +30,7 @@ status: "active"
     - **(D)** Property with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
     - **(E)** Property described in subsection (e)(3)(D)(ii).
     - **(F)** Water utility property described in subsection (e)(5).
-    - **(G)** Qualified leasehold improvement property described in subsection (e)(6).
-    - **(H)** Qualified restaurant property described in subsection (e)(7).
-    - **(I)** Qualified retail improvement property described in subsection (e)(8).
+    - **(G)** Qualified improvement property described in subsection (e)(6).
   - **(4)** Salvage value shall be treated as zero.
   - **(5)** An election under paragraph (2)(D) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
 - **(c)** For purposes of this section, the applicable recovery period shall be determined in accordance with the following table: In the case of: The applicable recovery period is: 3-year property 3 years 5-year property 5 years 7-year property 7 years 10-year property 10 years 15-year property 15 years 20-year property 20 years Water utility property 25 years Residential rental property 27.5 years Nonresidential real property 39 years. Any railroad grading or tunnel bore 50 years.
@@ -82,7 +79,7 @@ status: "active"
         - **(I)** is described in subparagraph (A) of section 48(a)(3) (or would be so described if “solar or wind energy” were substituted for “solar energy” in clause (i) thereof and the last sentence of such section did not apply to such subparagraph),
         - **(II)** is described in paragraph (15) of section 48( l ) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) and is a qualifying small power production facility within the meaning of section 3(17)(C) of the Federal Power Act ( 16 U.S.C. 796(17)(C) ), as in effect on September 1, 1986 , or
         - **(III)** is described in section 48( l )(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), and
-      - **(vii)** any machinery or equipment (other than any grain bin, cotton ginning asset, fence, or other land improvement) which is used in a farming business (as defined in section 263A(e)(4)), the original use of which commences with the taxpayer after December 31, 2008 , and which is placed in service before January 1, 2010 .
+      - **(vii)** any machinery or equipment (other than any grain bin, cotton ginning asset, fence, or other land improvement) which is used in a farming business (as defined in section 263A(e)(4)), the original use of which commences with the taxpayer after December 31, 2017 .
     - **(C)** The term “7-year property” includes—
       - **(i)** any railroad track, and 2 2 So in original. The word “and” probably should not appear.
       - **(ii)** any motorsports entertainment complex,
@@ -100,56 +97,20 @@ status: "active"
       - **(i)** any municipal wastewater treatment plant,
       - **(ii)** any telephone distribution plant and comparable equipment used for 2-way exchange of voice and data communications,
       - **(iii)** any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience items are sold at the outlet),
-      - **(iv)** any qualified leasehold improvement property,
-      - **(v)** any qualified restaurant property,
-      - **(vi)** initial clearing and grading land improvements with respect to gas utility property,
-      - **(vii)** any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005 ,
-      - **(viii)** any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005 , and which is placed in service before January 1, 2011 , and
-      - **(ix)** any qualified retail improvement property.
+      - **(iv)** initial clearing and grading land improvements with respect to gas utility property,
+      - **(v)** any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the original use of which commences with the taxpayer after April 11, 2005 , and
+      - **(vi)** any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005 , and which is placed in service before January 1, 2011 .
     - **(F)** The term “20-year property” means initial clearing and grading land improvements with respect to any electric utility transmission and distribution plant.
   - **(4)** The term “railroad grading or tunnel bore” means all improvements resulting from excavations (including tunneling), construction of embankments, clearings, diversions of roads and streams, sodding of slopes, and from similar work necessary to provide, construct, reconstruct, alter, protect, improve, replace, or restore a roadbed or right-of-way for railroad track.
   - **(5)** The term “water utility property” means property—
     - **(A)** which is an integral part of the gathering, treatment, or commercial distribution of water, and which, without regard to this paragraph, would be 20-year property, and
     - **(B)** any municipal sewer.
-  - **(6)** For purposes of this subsection—
-    - **(A)** The term “qualified leasehold improvement property” means any improvement to an interior portion of a building which is nonresidential real property if—
-      - **(i)** such improvement is made under or pursuant to a lease (as defined in subsection (h)(7))—
-        - **(I)** by the lessee (or any sublessee) of such portion, or
-        - **(II)** by the lessor of such portion,
-      - **(ii)** such portion is to be occupied exclusively by the lessee (or any sublessee) of such portion, and
-      - **(iii)** such improvement is placed in service more than 3 years after the date the building was first placed in service.
+  - **(6)**
+    - **(A)** The term “qualified improvement property” means any improvement to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
     - **(B)** Such term shall not include any improvement for which the expenditure is attributable to—
       - **(i)** the enlargement of the building,
-      - **(ii)** any elevator or escalator,
-      - **(iii)** any structural component benefitting a common area, or
-      - **(iv)** the internal structural framework of the building.
-    - **(C)** For purposes of this paragraph—
-      - **(i)** A commitment to enter into a lease shall be treated as a lease, and the parties to such commitment shall be treated as lessor and lessee, respectively.
-      - **(ii)** A lease between related persons shall not be considered a lease. For purposes of the preceding sentence, the term “related persons” means—
-        - **(I)** members of an affiliated group (as defined in section 1504), and
-        - **(II)** persons having a relationship described in subsection (b) of section 267; except that, for purposes of this clause, the phrase “80 percent or more” shall be substituted for the phrase “more than 50 percent” each place it appears in such subsection.
-    - **(D)** In the case of an improvement made by the person who was the lessor of such improvement when such improvement was placed in service, such improvement shall be qualified leasehold improvement property (if at all) only so long as such improvement is held by such person.
-    - **(E)** Property shall not cease to be qualified leasehold improvement property under subparagraph (D) by reason of—
-      - **(i)** death,
-      - **(ii)** a transaction to which section 381(a) applies,
-      - **(iii)** a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as qualified leasehold improvement property and the taxpayer retains a substantial interest in such trade or business,
-      - **(iv)** the acquisition of such property in an exchange described in section 1031, 1033, or 1038 to the extent that the basis of such property includes an amount representing the adjusted basis of other property owned by the taxpayer or a related person, or
-      - **(v)** the acquisition of such property by the taxpayer in a transaction described in section 332, 351, 361, 721, or 731 (or the acquisition of such property by the taxpayer from the transferee or acquiring corporation in a transaction described in such section), to the extent that the basis of the property in the hands of the taxpayer is determined by reference to its basis in the hands of the transferor or distributor.
-  - **(7)**
-    - **(A)** The term “qualified restaurant property” means any section 1250 property which is—
-      - **(i)** a building, or
-      - **(ii)** an improvement to a building,
-    - **(B)** Property described in this paragraph which is not qualified improvement property shall not be considered qualified property for purposes of subsection (k).
-  - **(8)**
-    - **(A)** The term “qualified retail improvement property” means any improvement to an interior portion of a building which is nonresidential real property if—
-      - **(i)** such portion is open to the general public and is used in the retail trade or business of selling tangible personal property to the general public, and
-      - **(ii)** such improvement is placed in service more than 3 years after the date the building was first placed in service.
-    - **(B)** In the case of an improvement made by the owner of such improvement, such improvement shall be qualified retail improvement property (if at all) only so long as such improvement is held by such owner. Rules similar to the rules under paragraph (6)(B) shall apply for purposes of the preceding sentence.
-    - **(C)** Such term shall not include any improvement for which the expenditure is attributable to—
-      - **(i)** the enlargement of the building,
-      - **(ii)** any elevator or escalator,
-      - **(iii)** any structural component benefitting a common area, or
-      - **(iv)** the internal structural framework of the building.
+      - **(ii)** any elevator or escalator, or
+      - **(iii)** the internal structural framework of the building.
 - **(f)** This section shall not apply to—
   - **(1)** Any property if—
     - **(A)** the taxpayer elects to exclude such property from the application of this section, and
@@ -173,15 +134,17 @@ status: "active"
     - **(A)** any tangible property which during the taxable year is used predominantly outside the United States,
     - **(B)** any tax-exempt use property,
     - **(C)** any tax-exempt bond financed property,
-    - **(D)** any imported property covered by an Executive order under paragraph (6), and
+    - **(D)** any imported property covered by an Executive order under paragraph (6),
     - **(E)** any property to which an election under paragraph (7) applies,
+    - **(F)** any property described in paragraph (8), and
+    - **(G)** any property with a recovery period of 10 years or more which is held by an electing farming business (as defined in section 163(j)(7)(C)),
   - **(2)** For purposes of paragraph (1), the alternative depreciation system is depreciation determined by using—
     - **(A)** the straight line method (without regard to salvage value),
     - **(B)** the applicable convention determined under subsection (d), and
-    - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Nonresidential real and residential rental property 40 years. (iv) Any railroad grading or tunnel bore or water utility property 50 years.
+    - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Residential rental property 30 years (iv) Nonresidential real property 40 years (v) Any railroad grading or tunnel bore or water utility property 50 years
   - **(3)**
     - **(A)** In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
-    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 39 (E)(v) 39 (E)(vi) 20 (E)(vii) 30 (E)(viii) 35 (E)(ix) 39 (F) 25
+    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 24 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 24 20 (E)(v) 24 30 (E)(vi) 24 35 (F) 25
     - **(C)** In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(D)** In the case of any automobile or light general purpose truck, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(E)** In the case of any section 1245 property which is real property with no class life, the recovery period used for purposes of paragraph (2) shall be 40 years.
@@ -214,6 +177,7 @@ status: "active"
   - **(7)**
     - **(A)** If the taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, the alternative depreciation system under this subsection shall apply to all property in such class placed in service during such taxable year. Notwithstanding the preceding sentence, in the case of nonresidential real property or residential rental property, such election may be made separately with respect to each property.
     - **(B)** An election under subparagraph (A), once made, shall be irrevocable.
+  - **(8)** The property described in this paragraph shall consist of any nonresidential real property, residential rental property, and qualified improvement property held by an electing real property trade or business (as defined in 163(j)(7)(B)).
 - **(h)**
   - **(1)** For purposes of this section—
     - **(A)** Except as otherwise provided in this subsection, the term “tax-exempt use property” means that portion of any tangible property (other than nonresidential real property) leased to a tax-exempt entity.
@@ -467,7 +431,7 @@ status: "active"
   - **(9)** This subsection shall not apply to property placed in service after December 31, 2016 .
 - **(k)**
   - **(1)** In the case of any qualified property—
-    - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of the qualified property, and
+    - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to the applicable percentage of the adjusted basis of the qualified property, and
     - **(B)** the adjusted basis of the qualified property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “qualified property” means property—
@@ -475,18 +439,19 @@ status: "active"
         - **(I)** to which this section applies which has a recovery period of 20 years or less,
         - **(II)** which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,
         - **(III)** which is water utility property, or
-        - **(IV)** which is qualified improvement property,
-      - **(ii)** the original use of which commences with the taxpayer, and
-      - **(iii)** which is placed in service by the taxpayer before January 1, 2020 .
+        - **(IV)** which is a qualified film or television production (as defined in subsection (d) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection, or
+        - **(V)** which is a qualified live theatrical production (as defined in subsection (e) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection,
+      - **(ii)** the original use of which begins with the taxpayer or the acquisition of which by the taxpayer meets the requirements of clause (ii) of subparagraph (E), and
+      - **(iii)** which is placed in service by the taxpayer before January 1, 2027 .
     - **(B)**
       - **(i)** The term “qualified property” includes any property if such property—
         - **(I)** meets the requirements of clauses (i) and (ii) of subparagraph (A),
-        - **(II)** is placed in service by the taxpayer before January 1, 2021 ,
-        - **(III)** is acquired by the taxpayer (or acquired pursuant to a written contract entered into) before January 1, 2020 ,
+        - **(II)** is placed in service by the taxpayer before January 1, 2028 ,
+        - **(III)** is acquired by the taxpayer (or acquired pursuant to a written contract entered into) before January 1, 2027 ,
         - **(IV)** has a recovery period of at least 10 years or is transportation property,
         - **(V)** is subject to section 263A, and
         - **(VI)** meets the requirements of clause (iii) of section 263A(f)(1)(B) (determined as if such clause also applies to property which has a long useful life (within the meaning of section 263A(f))).
-      - **(ii)** In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2020 .
+      - **(ii)** In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2027 .
       - **(iii)** For purposes of this subparagraph, the term “transportation property” means tangible personal property used in the trade or business of transporting persons or property.
       - **(iv)** This subparagraph shall not apply to any property which is described in subparagraph (C).
     - **(C)** The term “qualified property” includes property—
@@ -502,52 +467,29 @@ status: "active"
       - **(i)** without regard to paragraph (7) of subsection (g) (relating to election to have system apply), and
       - **(ii)** after application of section 280F(b) (relating to listed property with limited business use).
     - **(E)**
-      - **(i)** In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer’s own use, the requirements of subclause (III) of subparagraph (B)(i) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property before January 1, 2020 .
-      - **(ii)** For purposes of clause (iii) and subparagraph (A)(ii), if property is—
-        - **(I)** originally placed in service by a person, and
-        - **(II)** sold and leased back by such person within 3 months after the date such property was originally placed in service,
+      - **(i)** In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer’s own use, the requirements of subclause (III) of subparagraph (B)(i) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property before January 1, 2027 .
+      - **(ii)** An acquisition of property meets the requirements of this clause if—
+        - **(I)** such property was not used by the taxpayer at any time prior to such acquisition, and
+        - **(II)** the acquisition of such property meets the requirements of paragraphs (2)(A), (2)(B), (2)(C), and (3) of section 179(d).
       - **(iii)** For purposes of subparagraph (A)(ii), if—
-        - **(I)** property is originally placed in service by the lessor of such property,
+        - **(I)** property is used by a lessor of such property and such use is the lessor’s first use of such property,
         - **(II)** such property is sold by such lessor or any subsequent purchaser within 3 months after the date such property was originally placed in service (or, in the case of multiple units of property subject to the same lease, within 3 months after the date the final unit is placed in service, so long as the period between the time the first unit is placed in service and the time the last unit is placed in service does not exceed 12 months), and
         - **(III)** the user of such property after the last sale during such 3-month period remains the same as when such property was originally placed in service,
     - **(F)** For purposes of section 280F—
       - **(i)** In the case of a passenger automobile (as defined in section 280F(d)(5)) which is qualified property, the Secretary shall increase the limitation under section 280F(a)(1)(A)(i) by $8,000.
       - **(ii)** The deduction allowable under paragraph (1) shall be taken into account in computing any recapture amount under section 280F(b)(2).
-      - **(iii)** In the case of a passenger automobile placed in service by the taxpayer after December 31, 2017 , clause (i) shall be applied by substituting for “$8,000”—
+      - **(iii)** In the case of a passenger automobile acquired by the taxpayer before September 28, 2017 , and placed in service by the taxpayer after September 27, 2017 , clause (i) shall be applied by substituting for “$8,000”—
         - **(I)** in the case of an automobile placed in service during 2018, $6,400, and
         - **(II)** in the case of an automobile placed in service during 2019, $4,800.
     - **(G)** For purposes of determining alternative minimum taxable income under section 55, the deduction under section 167 for qualified property shall be determined without regard to any adjustment under section 56.
-  - **(3)** For purposes of this subsection—
-    - **(A)** The term “qualified improvement property” means any improvement to an interior portion of a building which is nonresidential real property if such improvement is placed in service after the date such building was first placed in service.
-    - **(B)** Such term shall not include any improvement for which the expenditure is attributable to—
-      - **(i)** the enlargement of the building,
-      - **(ii)** any elevator or escalator, or
-      - **(iii)** the internal structural framework of the building.
-  - **(4)**
-    - **(A)** If a corporation elects to have this paragraph apply for any taxable year—
-      - **(i)** paragraphs (1) and (2)(F) shall not apply to any qualified property placed in service during such taxable year,
-      - **(ii)** the applicable depreciation method used under this section with respect to such property shall be the straight line method, and
-      - **(iii)** the limitation imposed by section 53(c) for such taxable year shall be increased by the bonus depreciation amount which is determined for such taxable year under subparagraph (B).
-    - **(B)** For purposes of this paragraph—
-      - **(i)** The bonus depreciation amount for any taxable year is an amount equal to 20 percent of the excess (if any) of—
-        - **(I)** the aggregate amount of depreciation which would be allowed under this section for qualified property placed in service by the taxpayer during such taxable year if paragraph (1) applied to all such property (and, in the case of any such property which is a passenger automobile (as defined in section 280F(d)(5)), if paragraph (2)(F) applied to such automobile), over
-        - **(II)** the aggregate amount of depreciation which would be allowed under this section for qualified property placed in service by the taxpayer during such taxable year if paragraphs (1) and (2)(F) did not apply to any such property.
-      - **(ii)** The bonus depreciation amount for any taxable year shall not exceed the lesser of—
-        - **(I)** 50 percent of the minimum tax credit under section 53(b) for the first taxable year ending after December 31, 2015 , or
-        - **(II)** the minimum tax credit under section 53(b) for such taxable year determined by taking into account only the adjusted net minimum tax for taxable years ending before January 1, 2016 (determined by treating credits as allowed on a first-in, first-out basis).
-      - **(iii)** All corporations which are treated as a single employer under section 52(a) shall be treated—
-        - **(I)** as 1 taxpayer for purposes of this paragraph, and
-        - **(II)** as having elected the application of this paragraph if any such corporation so elects.
-    - **(C)** For purposes of section 6401(b), the aggregate increase in the credits allowable under part IV of subchapter A for any taxable year resulting from the application of this paragraph shall be treated as allowed under subpart C of such part (and not any other subpart).
-    - **(D)**
-      - **(i)** Any election under this paragraph may be revoked only with the consent of the Secretary.
-      - **(ii)** In the case of a corporation which is a partner in a partnership and which makes an election under subparagraph (A) for the taxable year, for purposes of determining such corporation’s distributive share of partnership items under section 702 for such taxable year—
-        - **(I)** paragraphs (1) and (2)(F) shall not apply to any qualified property placed in service during such taxable year, and
-        - **(II)** the applicable depreciation method used under this section with respect to such property shall be the straight line method.
-      - **(iii)** In the case of a partnership in which more than 50 percent of the capital and profits interests are owned (directly or indirectly) at all times during the taxable year by 1 corporation (or by corporations treated as 1 taxpayer under subparagraph (B)(iii)), each partner shall compute its bonus depreciation amount under clause (i) of subparagraph (B) by taking into account its distributive share of the amounts determined by the partnership under subclauses (I) and (II) of such clause for the taxable year of the partnership ending with or within the taxable year of the partner.
+    - **(H)** For purposes of subparagraph (A)—
+      - **(i)** a qualified film or television production shall be considered to be placed in service at the time of initial release or broadcast, and
+      - **(ii)** a qualified live theatrical production shall be considered to be placed in service at the time of the initial live staged performance.
+  - **[(3)**
+  - **[(4)**
   - **(5)**
-    - **(A)** In the case of any specified plant which is planted before January 1, 2020 , or is grafted before such date to a plant that has already been planted, by the taxpayer in the ordinary course of the taxpayer’s farming business (as defined in section 263A(e)(4)) during a taxable year for which the taxpayer has elected the application of this paragraph—
-      - **(i)** a depreciation deduction equal to 50 percent of the adjusted basis of such specified plant shall be allowed under section 167(a) for the taxable year in which such specified plant is so planted or grafted, and
+    - **(A)** In the case of any specified plant which is planted before January 1, 2027 , or is grafted before such date to a plant that has already been planted, by the taxpayer in the ordinary course of the taxpayer’s farming business (as defined in section 263A(e)(4)) during a taxable year for which the taxpayer has elected the application of this paragraph—
+      - **(i)** a depreciation deduction equal to the applicable percentage of the adjusted basis of such specified plant shall be allowed under section 167(a) for the taxable year in which such specified plant is so planted or grafted, and
       - **(ii)** the adjusted basis of such specified plant shall be reduced by the amount of such deduction.
     - **(B)** For purposes of this paragraph, the term “specified plant” means—
       - **(i)** any tree or vine which bears fruits or nuts, and
@@ -555,13 +497,45 @@ status: "active"
     - **(C)** An election under this paragraph may be revoked only with the consent of the Secretary.
     - **(D)** If this paragraph applies to any specified plant, such specified plant shall not be treated as qualified property in the taxable year in which placed in service.
     - **(E)** Rules similar to the rules of paragraph (2)(G) shall apply for purposes of this paragraph.
-    - **(F)** In the case of a specified plant which is planted after December 31, 2017 (or is grafted to a plant that has already been planted before such date), subparagraph (A)(i) shall be applied by substituting for “50 percent”—
-      - **(i)** in the case of a plant which is planted (or so grafted) in 2018, “40 percent”, and
-      - **(ii)** in the case of a plant which is planted (or so grafted) during 2019, “30 percent”.
-  - **(6)** In the case of qualified property placed in service by the taxpayer after December 31, 2017 , paragraph (1)(A) shall be applied by substituting for “50 percent”—
-    - **(A)** in the case of property placed in service in 2018 (or in the case of property placed in service in 2019 and described in paragraph (2)(B) or (C) (determined by substituting “2019” for “2020” in paragraphs (2)(B)(i)(III) and (ii) and paragraph (2)(E)(i)), 3 3 So in original. The comma probably should be preceded by another closing parenthesis. “40 percent”,
-    - **(B)** in the case of property placed in service in 2019 (or in the case of property placed in service in 2020 and described in paragraph (2)(B) or (C), 3 “30 percent”.
+  - **(6)** For purposes of this subsection—
+    - **(A)** Except as otherwise provided in this paragraph, the term “applicable percentage” means—
+      - **(i)** in the case of property placed in service after September 27, 2017 , and before January 1, 2023 , 100 percent,
+      - **(ii)** in the case of property placed in service after December 31, 2022 , and before January 1, 2024 , 80 percent,
+      - **(iii)** in the case of property placed in service after December 31, 2023 , and before January 1, 2025 , 60 percent,
+      - **(iv)** in the case of property placed in service after December 31, 2024 , and before January 1, 2026 , 40 percent, and
+      - **(v)** in the case of property placed in service after December 31, 2025 , and before January 1, 2027 , 20 percent.
+    - **(B)** In the case of property described in subparagraph (B) or (C) of paragraph (2), the term “applicable percentage” means—
+      - **(i)** in the case of property placed in service after September 27, 2017 , and before January 1, 2024 , 100 percent,
+      - **(ii)** in the case of property placed in service after December 31, 2023 , and before January 1, 2025 , 80 percent,
+      - **(iii)** in the case of property placed in service after December 31, 2024 , and before January 1, 2026 , 60 percent,
+      - **(iv)** in the case of property placed in service after December 31, 2025 , and before January 1, 2027 , 40 percent, and
+      - **(v)** in the case of property placed in service after December 31, 2026 , and before January 1, 2028 , 20 percent.
+    - **(C)** In the case of a specified plant described in paragraph (5), the term “applicable percentage” means—
+      - **(i)** in the case of a plant which is planted or grafted after September 27, 2017 , and before January 1, 2023 , 100 percent,
+      - **(ii)** in the case of a plant which is planted or grafted after December 31, 2022 , and before January 1, 2024 , 80 percent,
+      - **(iii)** in the case of a plant which is planted or grafted after December 31, 2023 , and before January 1, 2025 , 60 percent,
+      - **(iv)** in the case of a plant which is planted or grafted after December 31, 2024 , and before January 1, 2026 , 40 percent, and
+      - **(v)** in the case of a plant which is planted or grafted after December 31, 2025 , and before January 1, 2027 , 20 percent.
   - **(7)** If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, paragraphs (1) and (2)(F) shall not apply to any qualified property in such class placed in service during such taxable year. An election under this paragraph may be revoked only with the consent of the Secretary.
+  - **(8)** In the case of qualified property acquired by the taxpayer before September 28, 2017 , and placed in service by the taxpayer after September 27, 2017 , paragraph (6) shall be applied by substituting for each percentage therein—
+    - **(A)** “50 percent” in the case of—
+      - **(i)** property placed in service before January 1, 2018 , and
+      - **(ii)** property described in subparagraph (B) or (C) of paragraph (2) which is placed in service in 2018,
+    - **(B)** “40 percent” in the case of—
+      - **(i)** property placed in service in 2018 (other than property described in subparagraph (B) or (C) of paragraph (2)), and
+      - **(ii)** property described in subparagraph (B) or (C) of paragraph (2) which is placed in service in 2019,
+    - **(C)** “30 percent” in the case of—
+      - **(i)** property placed in service in 2019 (other than property described in subparagraph (B) or (C) of paragraph (2)), and
+      - **(ii)** property described in subparagraph (B) or (C) of paragraph (2) which is placed in service in 2020, and
+    - **(D)** “0 percent” in the case of—
+      - **(i)** property placed in service after 2019 (other than property described in subparagraph (B) or (C) of paragraph (2)), and
+      - **(ii)** property described in subparagraph (B) or (C) of paragraph (2) which is placed in service after 2020.
+  - **(9)** The term “qualified property” shall not include—
+    - **(A)** any property which is primarily used in a trade or business described in clause (iv) of section 163(j)(7)(A), or
+    - **(B)** any property used in a trade or business that has had floor plan financing indebtedness (as defined in paragraph (9) of section 163(j)), if the floor plan financing interest related to such indebtedness was taken into account under paragraph (1)(C) of such section.
+  - **(10)**
+    - **(A)** In the case of qualified property placed in service by the taxpayer during the first taxable year ending after September 27, 2017 , if the taxpayer elects to have this paragraph apply for such taxable year, paragraphs (1)(A) and (5)(A)(i) shall be applied by substituting “50 percent” for “the applicable percentage”.
+    - **(B)** Any election under this paragraph shall be made at such time and in such form and manner as the Secretary may prescribe.
 - **(l)**
   - **(1)** In the case of any qualified second generation biofuel plant property—
     - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of such property, and
@@ -642,7 +616,7 @@ status: "active"
     - **(D)** For purposes of this subsection, rules similar to the rules of subsection (k)(2)(G) shall apply.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “applicable disaster date” means, with respect to any federally declared disaster, the date on which such federally declared disaster occurs.
-    - **(B)** The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). 4 4 See References in Text note below.
-    - **(C)** The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii). 4
+    - **(B)** The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). 3 3 See References in Text note below.
+    - **(C)** The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii). 3
     - **(D)** The term “eligible taxpayer” means a taxpayer who has suffered an economic loss attributable to a federally declared disaster.
   - **(4)** For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.

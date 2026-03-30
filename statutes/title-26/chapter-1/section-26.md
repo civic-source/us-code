@@ -3,9 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-30T07:02:42.203Z"
+generated_at: "2026-03-30T07:04:56.649Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(1)** The term “regular tax liability” means the tax imposed by this chapter for the taxable year.
   - **(2)** For purposes of paragraph (1), any tax imposed by any of the following provisions shall not be treated as tax imposed by this chapter:
     - **(A)** section 55 (relating to minimum tax),
-    - **[(B)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(12)(B), Dec. 19, 2014 , 128 Stat. 4038 .]
+    - **(B)** section 59A (relating to base erosion and anti-abuse tax),
     - **(C)** subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
     - **(D)** section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
     - **(E)** section 530(d)(4) (relating to additional tax on certain distributions from Coverdell education savings accounts),

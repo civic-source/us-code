@@ -3,9 +3,9 @@ title: "Section 3922b - Public diplomacy training"
 usc_title: 22
 usc_section: "3922b"
 chapter: 52
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 3922b"
-generated_at: "2026-03-30T07:02:32.936Z"
+generated_at: "2026-03-30T07:04:37.962Z"
 status: "active"
 ---
 

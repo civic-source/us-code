@@ -3,9 +3,9 @@ title: "Section 641 - Applicability of chapter"
 usc_title: 10
 usc_section: "641"
 chapter: 36
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 641"
-generated_at: "2026-03-30T07:01:27.909Z"
+generated_at: "2026-03-30T07:03:43.726Z"
 status: "active"
 ---
 
@@ -21,4 +21,3 @@ Officers in the following categories are not subject to this chapter (other than
   - **(3)** Warrant officers.
   - **(4)** Retired officers on active duty.
   - **(5)** Students at the Uniformed Services University of the Health Sciences.
-  - **(6)** Officers appointed pursuant to an agreement under section 329 of title 37 .

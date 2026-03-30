@@ -3,9 +3,9 @@ title: "Section 111 - Suspension of certain provisions of this title"
 usc_title: 32
 usc_section: "111"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "32 U.S.C. § 111"
-generated_at: "2026-03-30T07:02:44.318Z"
+generated_at: "2026-03-30T07:04:58.553Z"
 status: "active"
 ---
 

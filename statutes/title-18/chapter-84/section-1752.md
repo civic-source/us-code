@@ -3,9 +3,9 @@ title: "Section 1752 - Restricted building or grounds"
 usc_title: 18
 usc_section: "1752"
 chapter: 84
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "18 U.S.C. § 1752"
-generated_at: "2026-03-30T07:01:54.137Z"
+generated_at: "2026-03-30T07:04:31.723Z"
 status: "active"
 ---
 

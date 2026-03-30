@@ -3,9 +3,9 @@ title: "Section 6711 - Carbon cycle research"
 usc_title: 7
 usc_section: "6711"
 chapter: 96
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 6711"
-generated_at: "2026-03-30T07:01:33.436Z"
+generated_at: "2026-03-30T07:03:40.602Z"
 status: "active"
 ---
 

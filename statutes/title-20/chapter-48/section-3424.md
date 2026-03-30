@@ -3,9 +3,9 @@ title: "Section 3424 - Federal Interagency Committee on Education"
 usc_title: 20
 usc_section: "3424"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 3424"
-generated_at: "2026-03-30T07:01:56.726Z"
+generated_at: "2026-03-30T07:04:27.800Z"
 status: "active"
 ---
 

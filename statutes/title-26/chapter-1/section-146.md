@@ -3,9 +3,9 @@ title: "Section 146 - Volume cap"
 usc_title: 26
 usc_section: "146"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 146"
-generated_at: "2026-03-30T07:02:42.234Z"
+generated_at: "2026-03-30T07:04:56.680Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** $225,000,000 ($187,500,000 in the case of calendar year 2001).
   - **(2)** In the case of a calendar year after 2002, each of the dollar amounts contained in paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(3)** For purposes of this section—
     - **(A)** The volume cap for any constitutional home rule city for any calendar year shall be determined under paragraph (1) of subsection (c) by substituting “100 percent” for “50 percent”.
     - **(B)** In the case of any State which contains 1 or more constitutional home rule cities, for purposes of applying subsections (b) and (c) with respect to issuing authorities in such State other than constitutional home rule cities, the State ceiling for any calendar year shall be reduced by the aggregate volume caps determined for such year for all constitutional home rule cities in such State.

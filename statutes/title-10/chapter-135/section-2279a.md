@@ -1,18 +1,13 @@
 ---
-title: "Section 2279a - Principal Advisor on Space Control"
+title: "Section 2279a - Repealed. Pub. L. 115–91, div. A, title XVI , § 1601(b)(2)(A), Dec. 12, 2017 , 131 Stat. 1719 ]"
 usc_title: 10
 usc_section: "2279a"
 chapter: 135
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2279a"
-generated_at: "2026-03-30T07:01:27.970Z"
-status: "active"
+generated_at: "2026-03-30T07:03:43.776Z"
+status: "repealed"
 ---
 
-# § 2279a. Principal Advisor on Space Control
+# [§ 2279a. Repealed. Pub. L. 115–91, div. A, title XVI , § 1601(b)(2)(A), Dec. 12, 2017 , 131 Stat. 1719 ]
 
-- **(a)** The Secretary of Defense shall designate a senior official of the Department of Defense or a military department to serve as the Principal Space Control Advisor, who, in addition to the other duties of such senior official, shall act as the principal advisor to the Secretary on space control activities.
-- **(b)** The Principal Space Control Advisor shall be responsible for the following:
-  - **(1)** Supervision of space control activities related to the development, procurement, and employment of, and strategy relating to, space control capabilities.
-  - **(2)** Oversight of policy, resources, personnel, and acquisition and technology relating to space control activities.
-- **(c)** The Principal Space Control Advisor shall integrate the space control expertise and perspectives of appropriate organizational entities of the Office of the Secretary of Defense, the Joint Staff, the military departments, the Defense Agencies, and the combatant commands, by establishing and maintaining a cross-functional team of subject-matter experts who are otherwise assigned or detailed to those entities.

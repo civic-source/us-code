@@ -3,9 +3,9 @@ title: "Section 2679 - Installation-support services: intergovernmental support 
 usc_title: 10
 usc_section: "2679"
 chapter: 159
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2679"
-generated_at: "2026-03-30T07:01:27.999Z"
+generated_at: "2026-03-30T07:03:43.801Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** Notwithstanding any other provision of law governing the award of Federal government 1 1 So in original. Probably should be capitalized. contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
   - **(2)** An intergovernmental support agreement under paragraph (1)—
-    - **(A)** may be for a term not to exceed five years; and
+    - **(A)** may be for a term not to exceed ten years; and
     - **(B)** may use, for installation-support services provided by a State or local government, wage grades normally paid by that State or local government.
   - **(3)** An intergovernmental support agreement under paragraph (1) may only be used when the Secretary concerned or the State or local government, as the case may be, providing the installation-support services already provides such services for its own use.
   - **(4)** Any contract for the provision of installation-support services awarded by the Federal Government or a State or local government pursuant to an intergovernmental support agreement provided in subsection (a) shall be awarded on a competitive basis.

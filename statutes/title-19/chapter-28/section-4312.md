@@ -3,9 +3,9 @@ title: "Section 4312 - Priorities and performance standards for customs moderniz
 usc_title: 19
 usc_section: "4312"
 chapter: 28
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 4312"
-generated_at: "2026-03-30T07:02:01.737Z"
+generated_at: "2026-03-30T07:04:19.095Z"
 status: "active"
 ---
 

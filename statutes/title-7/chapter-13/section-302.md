@@ -3,9 +3,9 @@ title: "Section 302 - Method of apportionment and selection; issuance of land sc
 usc_title: 7
 usc_section: "302"
 chapter: 13
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 302"
-generated_at: "2026-03-30T07:01:33.316Z"
+generated_at: "2026-03-30T07:03:40.493Z"
 status: "active"
 ---
 

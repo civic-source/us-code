@@ -3,9 +3,9 @@ title: "Section 2813 - Acquisition of existing facilities in lieu of authorized 
 usc_title: 10
 usc_section: "2813"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2813"
-generated_at: "2026-03-30T07:01:28.005Z"
+generated_at: "2026-03-30T07:03:43.806Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(2)** The costs of anticipated modifications, repairs, or conversions under paragraph (1) are required to remain within the authorized amount of the military construction project. The Secretary concerned shall consider such costs in determining whether the acquisition of an existing facility is—
     - **(A)** more cost effective than carrying out the authorized military construction project; and
     - **(B)** in the best interests of the United States.
-- **(c)** A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 21-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title .
+- **(c)** A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned notifies the appropriate committees of Congress of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to section 480 of this title .

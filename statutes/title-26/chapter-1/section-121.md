@@ -3,9 +3,9 @@ title: "Section 121 - Exclusion of gain from sale of principal residence"
 usc_title: 26
 usc_section: "121"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 121"
-generated_at: "2026-03-30T07:02:42.227Z"
+generated_at: "2026-03-30T07:04:56.673Z"
 status: "active"
 ---
 
@@ -103,4 +103,4 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) of paragraph (9) shall apply.
 - **(e)** This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
 - **(f)** This section shall not apply to any sale or exchange with respect to which the taxpayer elects not to have this section apply.
-- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 1 1 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 1 in determining the holding period of such property) had been so owned and used.
+- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 2 2 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 2 in determining the holding period of such property) had been so owned and used.

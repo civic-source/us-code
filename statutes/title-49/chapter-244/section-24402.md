@@ -3,9 +3,9 @@ title: "Section 24402 - Capital investment grants to support intercity passenger
 usc_title: 49
 usc_section: "24402"
 chapter: 244
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 24402"
-generated_at: "2026-03-30T07:03:12.352Z"
+generated_at: "2026-03-30T07:05:28.447Z"
 status: "active"
 ---
 

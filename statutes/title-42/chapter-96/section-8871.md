@@ -3,9 +3,9 @@ title: "Section 8871 - Use of gasohol in Federal motor vehicles"
 usc_title: 42
 usc_section: "8871"
 chapter: 96
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 8871"
-generated_at: "2026-03-30T07:03:05.016Z"
+generated_at: "2026-03-30T07:05:21.867Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7231d - Applications and requirements"
 usc_title: 20
 usc_section: "7231d"
 chapter: 70
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 7231d"
-generated_at: "2026-03-30T07:01:56.752Z"
+generated_at: "2026-03-30T07:04:27.828Z"
 status: "active"
 ---
 

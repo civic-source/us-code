@@ -3,16 +3,16 @@ title: "Section 6031 - Return of partnership income"
 usc_title: 26
 usc_section: "6031"
 chapter: 61
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6031"
-generated_at: "2026-03-30T07:02:42.395Z"
+generated_at: "2026-03-30T07:04:56.847Z"
 status: "active"
 ---
 
 # § 6031. Return of partnership income
 
 - **(a)** Every partnership (as defined in section 761(a)) shall make a return for each taxable year, stating specifically the items of its gross income and the deductions allowable by subtitle A, and such other information, for the purpose of carrying out the provisions of subtitle A as the Secretary may by forms and regulations prescribe, and shall include in the return the names and addresses of the individuals who would be entitled to share in the taxable income if distributed and the amount of the distributive share of each individual.
-- **(b)** Each partnership required to file a return under subsection (a) for any partnership taxable year shall (on or before the day on which the return for such taxable year was required to be filed) furnish to each person who is a partner or who holds an interest in such partnership as a nominee for another person at any time during such taxable year a copy of such information required to be shown on such return as may be required by regulations. In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.
+- **(b)** Each partnership required to file a return under subsection (a) for any partnership taxable year shall (on or before the day on which the return for such taxable year was required to be filed) furnish to each person who is a partner or who holds an interest in such partnership as a nominee for another person at any time during such taxable year a copy of such information required to be shown on such return as may be required by regulations. Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.
 - **(c)** Any person who holds an interest in a partnership as a nominee for another person—
   - **(1)** shall furnish to the partnership, in the manner prescribed by the Secretary, the name and address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
   - **(2)** shall furnish in the manner prescribed by the Secretary such other person the information provided by such partnership under subsection (b).
@@ -22,4 +22,4 @@ status: "active"
   - **(2)** Except as provided in regulations prescribed by the Secretary, this section shall apply to a foreign partnership for any taxable year if for such year, such partnership has—
     - **(A)** gross income derived from sources within the United States, or
     - **(B)** gross income which is effectively connected with the conduct of a trade or business within the United States.
-- **(f)** In the case of any electing investment partnership (as defined in section 743(e)(6)), the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).
+- **(f)** In the case of any electing investment partnership (as defined in section 743(e)(6)), 1 1 See References in Text note below. the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).

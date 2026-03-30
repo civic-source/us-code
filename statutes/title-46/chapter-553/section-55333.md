@@ -3,9 +3,9 @@ title: "Section 55333 - Exemption from restriction on transporting certain cargo
 usc_title: 46
 usc_section: "55333"
 chapter: 553
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 55333"
-generated_at: "2026-03-30T07:03:08.196Z"
+generated_at: "2026-03-30T07:05:24.849Z"
 status: "active"
 ---
 

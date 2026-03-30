@@ -3,9 +3,9 @@ title: "Section 21303 - Increased funding for formula grants authorized"
 usc_title: 34
 usc_section: "21303"
 chapter: 213
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 21303"
-generated_at: "2026-03-30T07:02:45.031Z"
+generated_at: "2026-03-30T07:04:59.527Z"
 status: "active"
 ---
 

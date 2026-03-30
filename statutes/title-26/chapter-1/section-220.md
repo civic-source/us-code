@@ -3,9 +3,9 @@ title: "Section 220 - Archer MSAs"
 usc_title: 26
 usc_section: "220"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 220"
-generated_at: "2026-03-30T07:02:42.249Z"
+generated_at: "2026-03-30T07:04:56.696Z"
 status: "active"
 ---
 
@@ -131,7 +131,7 @@ status: "active"
         - **(II)** An appropriate deduction shall be allowed under section 691(c) to any person (other than the decedent or the decedent’s spouse) with respect to amounts included in gross income under clause (i) by such person.
 - **(g)** In the case of any taxable year beginning in a calendar year after 1998, each dollar amount in subsection (c)(2) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(h)** The Secretary may require the trustee of an Archer MSA to make such reports regarding such account to the Secretary and to the account holder with respect to contributions, distributions, and such other matters as the Secretary determines appropriate. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(i)**
   - **(1)** Except as provided in paragraph (5), no individual shall be treated as an eligible individual for any taxable year beginning after the cut-off year unless—

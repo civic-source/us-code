@@ -3,9 +3,9 @@ title: "Section 2297 - Job search allowances"
 usc_title: 19
 usc_section: "2297"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 2297"
-generated_at: "2026-03-30T07:02:01.706Z"
+generated_at: "2026-03-30T07:04:19.065Z"
 status: "active"
 ---
 

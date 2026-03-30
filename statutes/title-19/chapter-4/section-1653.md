@@ -3,9 +3,9 @@ title: "Section 1653 - Effective date of chapter"
 usc_title: 19
 usc_section: "1653"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "19 U.S.C. § 1653"
-generated_at: "2026-03-30T07:02:01.690Z"
+generated_at: "2026-03-30T07:04:19.048Z"
 status: "active"
 ---
 

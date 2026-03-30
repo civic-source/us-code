@@ -3,9 +3,9 @@ title: "Section 1248 - Easements and rights-of-way"
 usc_title: 16
 usc_section: "1248"
 chapter: 27
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 1248"
-generated_at: "2026-03-30T07:02:21.213Z"
+generated_at: "2026-03-30T07:04:22.342Z"
 status: "active"
 ---
 

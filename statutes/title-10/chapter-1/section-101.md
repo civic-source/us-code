@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T07:01:27.884Z"
+generated_at: "2026-03-30T07:03:43.705Z"
 status: "active"
 ---
 
@@ -123,6 +123,8 @@ status: "active"
     - **(A)** have been primed, fused, armed, or otherwise prepared for action;
     - **(B)** have been fired, dropped, launched, projected, or placed in such a manner as to constitute a hazard to operations, installations, personnel, or material; and
     - **(C)** remain unexploded, whether by malfunction, design, or any other cause.
+  - **(6)** The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including task critical assets and other mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+  - **(7)** The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
 - **(f)** In this title—
   - **(1)** “shall” is used in an imperative sense;
   - **(2)** “may” is used in a permissive sense;

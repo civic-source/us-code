@@ -3,9 +3,9 @@ title: "Section 3 - Judicial review of order regarding live poultry dealer"
 usc_title: 7
 usc_section: "3"
 chapter: 9
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T07:01:33.314Z"
+generated_at: "2026-03-30T07:03:40.492Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2305 - Federal Land Disposal Account"
 usc_title: 43
 usc_section: "2305"
 chapter: 41
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 2305"
-generated_at: "2026-03-30T07:02:55.571Z"
+generated_at: "2026-03-30T07:05:11.433Z"
 status: "active"
 ---
 

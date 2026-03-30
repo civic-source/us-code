@@ -3,9 +3,9 @@ title: "Section 1 - Federal Permitting Improvement Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T07:03:04.894Z"
+generated_at: "2026-03-30T07:05:21.750Z"
 status: "active"
 ---
 

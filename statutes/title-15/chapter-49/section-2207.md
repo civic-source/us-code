@@ -3,9 +3,9 @@ title: "Section 2207 - Fire technology"
 usc_title: 15
 usc_section: "2207"
 chapter: 49
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 2207"
-generated_at: "2026-03-30T07:01:50.932Z"
+generated_at: "2026-03-30T07:03:49.302Z"
 status: "active"
 ---
 

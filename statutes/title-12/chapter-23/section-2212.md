@@ -3,9 +3,9 @@ title: "Section 2212 - Powers of Farm Credit Administration"
 usc_title: 12
 usc_section: "2212"
 chapter: 23
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 2212"
-generated_at: "2026-03-30T07:01:44.373Z"
+generated_at: "2026-03-30T07:04:15.155Z"
 status: "active"
 ---
 

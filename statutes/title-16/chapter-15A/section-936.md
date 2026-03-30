@@ -3,9 +3,9 @@ title: "Section 936 - Secretary of the Interior; authority to transfer lamprey c
 usc_title: 16
 usc_section: "936"
 chapter: 15
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 936"
-generated_at: "2026-03-30T07:02:21.204Z"
+generated_at: "2026-03-30T07:04:22.334Z"
 status: "active"
 ---
 

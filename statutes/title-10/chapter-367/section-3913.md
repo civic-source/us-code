@@ -3,9 +3,9 @@ title: "Section 3913 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "3913"
 chapter: 367
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 3913"
-generated_at: "2026-03-30T07:01:28.014Z"
+generated_at: "2026-03-30T07:03:43.813Z"
 status: "repealed"
 ---
 

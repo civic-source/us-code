@@ -3,9 +3,9 @@ title: "Section 44727 - Runway safety areas"
 usc_title: 49
 usc_section: "44727"
 chapter: 447
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 44727"
-generated_at: "2026-03-30T07:03:12.385Z"
+generated_at: "2026-03-30T07:05:28.478Z"
 status: "active"
 ---
 

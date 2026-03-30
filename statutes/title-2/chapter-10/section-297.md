@@ -3,9 +3,9 @@ title: "Section 297 - Appointments and reclassifications to higher compensation 
 usc_title: 2
 usc_section: "297"
 chapter: 10
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 297"
-generated_at: "2026-03-30T07:01:19.841Z"
+generated_at: "2026-03-30T07:03:26.275Z"
 status: "active"
 ---
 

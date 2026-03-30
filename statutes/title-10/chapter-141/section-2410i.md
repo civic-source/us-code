@@ -3,9 +3,9 @@ title: "Section 2410i - Prohibition on contracting with entities that comply wit
 usc_title: 10
 usc_section: "2410i"
 chapter: 141
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2410i"
-generated_at: "2026-03-30T07:01:27.984Z"
+generated_at: "2026-03-30T07:03:43.788Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** Consistent with the policy referred to in subsection (a), the Department of Defense may not award a contract for an amount in excess of the simplified acquisition threshold (as defined in section 134 of title 41 ) to a foreign entity unless that entity certifies to the Secretary of Defense that it does not comply with the secondary Arab boycott of Israel.
   - **(2)** In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
-- **(c)** The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
+- **(c)** The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States.
 - **(d)** Subsection (b) does not apply—
   - **(1)** to contracts for consumable supplies, provisions, or services that are intended to be used for the support of United States forces or of allied forces in a foreign country; or
   - **(2)** to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.

@@ -3,9 +3,9 @@ title: "Section 7541 - Obsolete and other material: gift or sale to Boy Scouts o
 usc_title: 10
 usc_section: "7541"
 chapter: 647
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 7541"
-generated_at: "2026-03-30T07:01:28.031Z"
+generated_at: "2026-03-30T07:03:43.828Z"
 status: "active"
 ---
 

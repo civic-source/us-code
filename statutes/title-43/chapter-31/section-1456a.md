@@ -3,9 +3,9 @@ title: "Section 1456a - Repealed. Pub. L. 95–164, title III , § 306(b), Nov. 
 usc_title: 43
 usc_section: "1456a"
 chapter: 31
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 1456a"
-generated_at: "2026-03-30T07:02:55.551Z"
+generated_at: "2026-03-30T07:05:11.414Z"
 status: "repealed"
 ---
 

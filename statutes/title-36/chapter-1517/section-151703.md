@@ -3,9 +3,9 @@ title: "Section 151703 - Board of directors"
 usc_title: 36
 usc_section: "151703"
 chapter: 1517
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "36 U.S.C. § 151703"
-generated_at: "2026-03-30T07:02:49.131Z"
+generated_at: "2026-03-30T07:05:06.715Z"
 status: "active"
 ---
 

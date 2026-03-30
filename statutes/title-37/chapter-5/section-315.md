@@ -3,9 +3,9 @@ title: "Section 315 - Special pay: engineering and scientific career continuatio
 usc_title: 37
 usc_section: "315"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 315"
-generated_at: "2026-03-30T07:02:49.451Z"
+generated_at: "2026-03-30T07:05:02.835Z"
 status: "active"
 ---
 

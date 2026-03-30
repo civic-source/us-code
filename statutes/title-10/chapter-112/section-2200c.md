@@ -1,17 +1,17 @@
 ---
-title: "Section 2200c - Centers of Academic Excellence in Information Assurance Education"
+title: "Section 2200c - Centers of Academic Excellence in Cyber Education"
 usc_title: 10
 usc_section: "2200c"
 chapter: 112
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2200c"
-generated_at: "2026-03-30T07:01:27.965Z"
+generated_at: "2026-03-30T07:03:43.772Z"
 status: "active"
 ---
 
-# § 2200c. Centers of Academic Excellence in Information Assurance Education
+# § 2200c. Centers of Academic Excellence in Cyber Education
 
 In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—
 
-  - **(1)** in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Information Assurance Education; and
-  - **(2)** in the case of a grant, the recipient is a Center of Academic Excellence in Information Assurance Education.
+  - **(1)** in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Cyber Education; and
+  - **(2)** in the case of a grant, the recipient is a Center of Academic Excellence in Cyber Education.

@@ -1,35 +1,22 @@
 ---
-title: "Section 1 - Dominguez-Escalante National Conservation Area"
+title: "Section 1 - Administration"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T07:02:21.148Z"
+generated_at: "2026-03-30T07:04:22.279Z"
 status: "active"
 ---
 
-# § 460zzz–1. Dominguez-Escalante National Conservation Area
+# § 460bbbb–1. Administration
 
-- **(a)**
-  - **(1)** There is established the Dominguez-Escalante National Conservation Area in the State.
-  - **(2)** The Conservation Area shall consist of approximately 209,610 acres of public land, as generally depicted on the Map.
-- **(b)** The purposes of the Conservation Area are to conserve and protect for the benefit and enjoyment of present and future generations—
-  - **(1)** the unique and important resources and values of the land, including the geological, cultural, archaeological, paleontological, natural, scientific, recreational, wilderness, wildlife, riparian, historical, educational, and scenic resources of the public land; and
-  - **(2)** the water resources of area streams, based on seasonally available flows, that are necessary to support aquatic, riparian, and terrestrial species and communities.
-- **(c)**
-  - **(1)** The Secretary shall manage the Conservation Area—
-    - **(A)** as a component of the National Landscape Conservation System;
-    - **(B)** in a manner that conserves, protects, and enhances the resources and values of the Conservation Area described in subsection (b); and
-    - **(C)** in accordance with—
-      - **(i)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.);
-      - **(ii)** this subchapter; and
-      - **(iii)** any other applicable laws.
-  - **(2)**
-    - **(A)** The Secretary shall allow only such uses of the Conservation Area as the Secretary determines would further the purposes for which the Conservation Area is established.
-    - **(B)**
-      - **(i)** Except as provided in clauses (ii) and (iii), use of motorized vehicles in the Conservation Area shall be allowed—
-        - **(I)** before the effective date of the management plan, only on roads and trails designated for use of motor vehicles in the management plan that applies on March 30, 2009 , to the public land in the Conservation Area; and
-        - **(II)** after the effective date of the management plan, only on roads and trails designated in the management plan for the use of motor vehicles.
-      - **(ii)** Clause (i) shall not limit the use of motor vehicles in the Conservation Area for administrative purposes or to respond to an emergency.
-      - **(iii)** This subparagraph shall not apply to the Wilderness.
+- **(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this Act, and the provisions of law generally applicable to national historic sites, 1 1 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 ( 39 Stat. 535 ; 16 U.S.C. 1 , 2–4) and the Act of August 21, 1935 ( 49 Stat. 666 ; 16 U.S.C. 461–7 ).
+- **(b)**
+  - **(1)** Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
+  - **(2)** Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
+    - **(A)** the Secretary may acquire such property in accordancewith the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+    - **(B)** with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
+  - **(3)** Property may be acquired pursuant to this section subject to such conditions and reservations as in the judgment of the Secretary are not inconsistent with the purposes of this subchapter and the administration of the national historical park, including, in the event that the burial site of Martin Luther King, Junior, is acquired, the condition that his widow may be interred therein.
+  - **(4)** Any and all legal or equitable title, interests, or encumbrances, if any, held by the Department of Housing and Urban Development in the property designated “Parcel A” on the map referenced in section 460bbbb of this title are hereby conveyed to the Secretary to be administered in accordance with the purposes of this subchapter.
+  - **(5)** Structural space requirements of the National Park Service to meet its administrative, operational, and interpretive functions for the national historical park and preservation district shall, to the maximum extent feasible without displacing residents, be met within the district through the adaptive use of existing structures.

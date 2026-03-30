@@ -3,9 +3,9 @@ title: "Section 7126 - Use of project funds"
 usc_title: 16
 usc_section: "7126"
 chapter: 90
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 7126"
-generated_at: "2026-03-30T07:02:21.344Z"
+generated_at: "2026-03-30T07:04:22.415Z"
 status: "active"
 ---
 

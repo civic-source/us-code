@@ -3,9 +3,9 @@ title: "Section 8103 - Board of Directors"
 usc_title: 42
 usc_section: "8103"
 chapter: 90
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 8103"
-generated_at: "2026-03-30T07:03:05.005Z"
+generated_at: "2026-03-30T07:05:21.855Z"
 status: "active"
 ---
 

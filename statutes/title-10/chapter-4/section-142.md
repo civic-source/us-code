@@ -3,9 +3,9 @@ title: "Section 142 - Chief Information Officer"
 usc_title: 10
 usc_section: "142"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 142"
-generated_at: "2026-03-30T07:01:27.890Z"
+generated_at: "2026-03-30T07:03:43.709Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
     - **(H)** has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
     - **(I)** has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the networking and cyber defense architecture of the Department.
   - **(2)** The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
-- **(c)** The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(c)** The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) 1 1 See References in Text note below. of this title. The officials serving in positions specified in section 131(b)(4) 1 and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.

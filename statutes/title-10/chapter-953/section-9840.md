@@ -3,9 +3,9 @@ title: "Section 9840 - Final settlement of officer’s accounts"
 usc_title: 10
 usc_section: "9840"
 chapter: 953
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 9840"
-generated_at: "2026-03-30T07:01:28.043Z"
+generated_at: "2026-03-30T07:03:43.837Z"
 status: "active"
 ---
 

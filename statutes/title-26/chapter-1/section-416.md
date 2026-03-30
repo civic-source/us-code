@@ -3,9 +3,9 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T07:02:42.275Z"
+generated_at: "2026-03-30T07:04:56.722Z"
 status: "active"
 ---
 

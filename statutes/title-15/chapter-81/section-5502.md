@@ -3,9 +3,9 @@ title: "Section 5502 - Purposes"
 usc_title: 15
 usc_section: "5502"
 chapter: 81
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 5502"
-generated_at: "2026-03-30T07:01:50.965Z"
+generated_at: "2026-03-30T07:03:49.336Z"
 status: "active"
 ---
 

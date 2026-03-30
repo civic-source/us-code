@@ -3,9 +3,9 @@ title: "Section 409A - Inclusion in gross income of deferred compensation under 
 usc_title: 26
 usc_section: "409A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 409A"
-generated_at: "2026-03-30T07:02:42.269Z"
+generated_at: "2026-03-30T07:04:56.717Z"
 status: "active"
 ---
 
@@ -94,6 +94,7 @@ status: "active"
   - **(4)** The rights of a person to compensation are subject to a substantial risk of forfeiture if such person’s rights to such compensation are conditioned upon the future performance of substantial services by any individual.
   - **(5)** References to deferred compensation shall be treated as including references to income (whether actual or notional) attributable to such compensation or such income.
   - **(6)** Except as provided by the Secretary, rules similar to the rules of subsections (b) and (c) of section 414 shall apply.
+  - **(7)** An arrangement under which an employee may receive qualified stock (as defined in section 83(i)(2)) shall not be treated as a nonqualified deferred compensation plan with respect to such employee solely because of such employee’s election, or ability to make an election, to defer recognition of income under section 83(i).
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
   - **(1)** providing for the determination of amounts of deferral in the case of a nonqualified deferred compensation plan which is a defined benefit plan,
   - **(2)** relating to changes in the ownership and control of a corporation or assets of a corporation for purposes of subsection (a)(2)(A)(v),

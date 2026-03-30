@@ -3,9 +3,9 @@ title: "Section 904 - Art. 104. Aiding the enemy"
 usc_title: 10
 usc_section: "904"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 904"
-generated_at: "2026-03-30T07:01:27.917Z"
+generated_at: "2026-03-30T07:03:43.733Z"
 status: "active"
 ---
 

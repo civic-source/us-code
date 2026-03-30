@@ -3,9 +3,9 @@ title: "Section 4213 - Promulgation of regulations"
 usc_title: 12
 usc_section: "4213"
 chapter: 43
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 4213"
-generated_at: "2026-03-30T07:01:44.398Z"
+generated_at: "2026-03-30T07:04:15.179Z"
 status: "active"
 ---
 

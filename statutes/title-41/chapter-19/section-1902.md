@@ -3,16 +3,16 @@ title: "Section 1902 - Procedures applicable to purchases below micro-purchase t
 usc_title: 41
 usc_section: "1902"
 chapter: 19
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "41 U.S.C. § 1902"
-generated_at: "2026-03-30T07:02:54.624Z"
+generated_at: "2026-03-30T07:05:08.969Z"
 status: "active"
 ---
 
 # § 1902. Procedures applicable to purchases below micro-purchase threshold
 
 - **(a)**
-  - **(1)** Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $3,000.
+  - **(1)** Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $10,000.
   - **(2)** For purposes of this section, the micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31 by institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1001(a) ), or related or affiliated nonprofit entities, or by nonprofit research organizations or independent research institutes is—
     - **(A)** $10,000; or
     - **(B)** such higher threshold as determined appropriate by the head of the relevant executive agency and consistent with clean audit findings under chapter 75 of title 31, internal institutional risk assessment, or State law.

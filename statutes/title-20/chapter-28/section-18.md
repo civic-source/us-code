@@ -3,9 +3,9 @@ title: "Section 18 - Reports, evaluations, and grants for project improvement an
 usc_title: 20
 usc_section: "18"
 chapter: 28
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 18"
-generated_at: "2026-03-30T07:01:56.664Z"
+generated_at: "2026-03-30T07:04:27.735Z"
 status: "active"
 ---
 

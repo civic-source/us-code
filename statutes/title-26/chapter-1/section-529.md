@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T07:02:42.295Z"
+generated_at: "2026-03-30T07:04:56.744Z"
 status: "active"
 ---
 
@@ -49,8 +49,9 @@ status: "active"
         - **(II)** the total amount of qualified higher education expenses otherwise taken into account under clauses (i) and (ii) (after the application of clause (v)) for such year,
     - **(C)**
       - **(i)** Subparagraph (A) shall not apply to that portion of any distribution which, within 60 days of such distribution, is transferred—
-        - **(I)** to another qualified tuition program for the benefit of the designated beneficiary, or
-        - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made.
+        - **(I)** to another qualified tuition program for the benefit of the designated beneficiary,
+        - **(II)** to the credit of another designated beneficiary under a qualified tuition program who is a member of the family of the designated beneficiary with respect to which the distribution was made, or
+        - **(III)** before January 1, 2026 , to an ABLE account (as defined in section 529A(e)(6)) of the designated beneficiary or a member of the family of the designated beneficiary.
       - **(ii)** Any change in the designated beneficiary of an interest in a qualified tuition program shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is a member of the family of the old beneficiary.
       - **(iii)** Clause (i)(I) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified tuition program for the benefit of the designated beneficiary.
     - **(D)** In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
@@ -64,6 +65,7 @@ status: "active"
       - **(i)** assigned to the same generation as (or a higher generation than) the old beneficiary (determined in accordance with section 2651), and
       - **(ii)** a member of the family of the old beneficiary.
   - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an 1 1 So in original. Probably should be “a”. Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+  - **(7)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
 - **(d)** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
   - **(1)** The term “designated beneficiary” means—

@@ -3,9 +3,9 @@ title: "Section 591 - Domestic Nuclear Detection Office"
 usc_title: 6
 usc_section: "591"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "6 U.S.C. § 591"
-generated_at: "2026-03-30T07:01:23.882Z"
+generated_at: "2026-03-30T07:03:35.276Z"
 status: "active"
 ---
 

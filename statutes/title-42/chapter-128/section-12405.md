@@ -3,9 +3,9 @@ title: "Section 12405 - Technology transfer program"
 usc_title: 42
 usc_section: "12405"
 chapter: 128
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 12405"
-generated_at: "2026-03-30T07:03:05.074Z"
+generated_at: "2026-03-30T07:05:21.922Z"
 status: "active"
 ---
 

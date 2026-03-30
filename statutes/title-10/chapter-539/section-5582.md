@@ -3,9 +3,9 @@ title: "Section 5582 - Regular Navy: transfers, line and staff corps"
 usc_title: 10
 usc_section: "5582"
 chapter: 539
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5582"
-generated_at: "2026-03-30T07:01:28.021Z"
+generated_at: "2026-03-30T07:03:43.820Z"
 status: "active"
 ---
 

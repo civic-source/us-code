@@ -3,15 +3,15 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-30T07:01:27.890Z"
+generated_at: "2026-03-30T07:03:43.709Z"
 status: "active"
 ---
 
 # § 153. Chairman: functions
 
-- **(a)** Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following 1 1 So in original. Probably should be “following:”.
+- **(a)** Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
   - **(1)** Assisting the President and the Secretary in providing for the strategic direction of the armed forces.
   - **(2)** In matters relating to strategic and contingency planning—
     - **(A)** developing strategic frameworks and preparing strategic plans, as required, to guide the use and employment of military force and related activities across all geographic regions and military functions and domains, and to sustain military efforts over different durations of time, as necessary;

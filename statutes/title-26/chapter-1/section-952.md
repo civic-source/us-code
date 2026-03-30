@@ -3,9 +3,9 @@ title: "Section 952 - Subpart F income defined"
 usc_title: 26
 usc_section: "952"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 952"
-generated_at: "2026-03-30T07:02:42.324Z"
+generated_at: "2026-03-30T07:04:56.772Z"
 status: "active"
 ---
 
@@ -26,16 +26,15 @@ status: "active"
   - **(1)**
     - **(A)** For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such taxable year.
     - **(B)**
-      - **(i)** The amount included in the gross income of any United States shareholder under section 951(a)(1)(A)(i) for any taxable year and attributable to a qualified activity shall be reduced by the amount of such shareholder’s pro rata share of any qualified deficit.
+      - **(i)** The amount included in the gross income of any United States shareholder under section 951(a)(1)(A) for any taxable year and attributable to a qualified activity shall be reduced by the amount of such shareholder’s pro rata share of any qualified deficit.
       - **(ii)** The term “qualified deficit” means any deficit in earnings and profits of the controlled foreign corporation for any prior taxable year which began after December 31, 1986 , and for which the controlled foreign corporation was a controlled foreign corporation; but only to the extent such deficit—
         - **(I)** is attributable to the same qualified activity as the activity giving rise to the income being offset, and
         - **(II)** has not previously been taken into account under this subparagraph.
       - **(iii)** For purposes of this paragraph, the term “qualified activity” means any activity giving rise to—
-        - **(I)** foreign base company oil related income,
-        - **(II)** foreign base company sales income,
-        - **(III)** foreign base company services income,
-        - **(IV)** in the case of a qualified insurance company, insurance income or foreign personal holding company income, or
-        - **(V)** in the case of a qualified financial institution, foreign personal holding company income.
+        - **(I)** foreign base company sales income,
+        - **(II)** foreign base company services income,
+        - **(III)** in the case of a qualified insurance company, insurance income or foreign personal holding company income, or
+        - **(IV)** in the case of a qualified financial institution, foreign personal holding company income.
       - **(iv)** For purposes of this paragraph, the shareholder’s pro rata share of any deficit for any prior taxable year shall be determined under rules similar to rules under section 951(a)(2) for whichever of the following yields the smaller share:
         - **(I)** the close of the taxable year, or
         - **(II)** the close of the taxable year in which the deficit arose.

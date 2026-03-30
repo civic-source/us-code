@@ -3,9 +3,9 @@ title: "Section 170102 - Purposes"
 usc_title: 36
 usc_section: "170102"
 chapter: 1701
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "36 U.S.C. § 170102"
-generated_at: "2026-03-30T07:02:49.134Z"
+generated_at: "2026-03-30T07:05:06.718Z"
 status: "active"
 ---
 

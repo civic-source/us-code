@@ -3,9 +3,9 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T07:02:42.213Z"
+generated_at: "2026-03-30T07:04:56.659Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(B)** the entity maintains accountability to residents of low-income communities through their representation on any governing board of the entity or on any advisory board to the entity, and
     - **(C)** the entity is certified by the Secretary for purposes of this section as being a qualified community development entity.
   - **(2)** The requirements of paragraph (1) shall be treated as met by—
-    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)), and
+    - **(A)** any specialized small business investment company (as defined in section 1044(c)(3)), 1 1 See References in Text note below. and
     - **(B)** any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 ( 12 U.S.C. 4702 )).
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified low-income community investment” means—

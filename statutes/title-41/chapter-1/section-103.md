@@ -3,9 +3,9 @@ title: "Section 103 - Commercial item"
 usc_title: 41
 usc_section: "103"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "41 U.S.C. § 103"
-generated_at: "2026-03-30T07:02:54.620Z"
+generated_at: "2026-03-30T07:05:08.967Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ In this subtitle, the term “commercial item” means—
     - **(B)** the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;
   - **(6)** services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions;
   - **(7)** any item, combination of items, or service referred to in paragraphs (1) to (6) even though the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
-  - **(8)** a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+  - **(8)** a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.

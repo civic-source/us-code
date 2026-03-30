@@ -3,9 +3,9 @@ title: "Section 1514 - Crimes and offenses"
 usc_title: 7
 usc_section: "1514"
 chapter: 36
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 1514"
-generated_at: "2026-03-30T07:01:33.350Z"
+generated_at: "2026-03-30T07:03:40.524Z"
 status: "active"
 ---
 

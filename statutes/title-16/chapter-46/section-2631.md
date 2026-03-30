@@ -3,9 +3,9 @@ title: "Section 2631 - Intervention in proceedings"
 usc_title: 16
 usc_section: "2631"
 chapter: 46
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 2631"
-generated_at: "2026-03-30T07:02:21.304Z"
+generated_at: "2026-03-30T07:04:22.379Z"
 status: "active"
 ---
 

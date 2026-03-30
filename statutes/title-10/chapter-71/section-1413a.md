@@ -3,9 +3,9 @@ title: "Section 1413a - Combat-related special compensation"
 usc_title: 10
 usc_section: "1413a"
 chapter: 71
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1413a"
-generated_at: "2026-03-30T07:01:27.944Z"
+generated_at: "2026-03-30T07:03:43.755Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** The amount paid to an eligible combat-related disabled uniformed services retiree for any month under paragraph (1) may not exceed the amount of the reduction in retired pay that is applicable to the retiree for that month under sections 5304 and 5305 of title 38.
   - **(3)**
     - **(A)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
-    - **(B)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+    - **(B)** In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title ) of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 - **(c)** For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
   - **(1)** is entitled to retired pay (other than by reason of section 12731b of this title ); and
   - **(2)** has a combat-related disability.

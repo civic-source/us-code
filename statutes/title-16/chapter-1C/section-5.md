@@ -3,9 +3,9 @@ title: "Section 5 - Prohibited acts; criminal penalties"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T07:02:21.151Z"
+generated_at: "2026-03-30T07:04:22.281Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4313 - Criteria for performance appraisals"
 usc_title: 5
 usc_section: "4313"
 chapter: 43
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "5 U.S.C. § 4313"
-generated_at: "2026-03-30T07:01:18.816Z"
+generated_at: "2026-03-30T07:03:32.313Z"
 status: "active"
 ---
 
@@ -16,5 +16,6 @@ Appraisals of performance in the Senior Executive Service shall be based on both
   - **(1)** improvements in efficiency, productivity, and quality of work or service, including any significant reduction in paperwork;
   - **(2)** cost efficiency;
   - **(3)** timeliness of performance;
-  - **(4)** other indications of the effectiveness, productivity, and performance quality of the employees for whom the senior executive is responsible; and
-  - **(5)** meeting affirmative action goals, achievement of equal employment opportunity requirements, and compliance with the merit systems principles set forth under section 2301 of this title .
+  - **(4)** other indications of the effectiveness, productivity, and performance quality of the employees for whom the senior executive is responsible;
+  - **(5)** meeting affirmative action goals, achievement of equal employment opportunity requirements, and compliance with the merit systems principles set forth under section 2301 of this title ; and
+  - **(6)** protecting whistleblowers, as described in section 4302(b)(2).

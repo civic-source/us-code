@@ -3,9 +3,9 @@ title: "Section 1421 - Price support"
 usc_title: 7
 usc_section: "1421"
 chapter: 35
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 1421"
-generated_at: "2026-03-30T07:01:33.341Z"
+generated_at: "2026-03-30T07:03:40.517Z"
 status: "active"
 ---
 

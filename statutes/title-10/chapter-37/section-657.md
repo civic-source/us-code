@@ -3,9 +3,9 @@ title: "Section 657 - Prohibition on service in the armed forces by individuals 
 usc_title: 10
 usc_section: "657"
 chapter: 37
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 657"
-generated_at: "2026-03-30T07:01:27.909Z"
+generated_at: "2026-03-30T07:03:43.727Z"
 status: "active"
 ---
 

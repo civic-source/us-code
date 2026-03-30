@@ -3,9 +3,9 @@ title: "Section 416b - Development pursuant to lease"
 usc_title: 25
 usc_section: "416b"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 416b"
-generated_at: "2026-03-30T07:02:25.131Z"
+generated_at: "2026-03-30T07:04:34.888Z"
 status: "active"
 ---
 

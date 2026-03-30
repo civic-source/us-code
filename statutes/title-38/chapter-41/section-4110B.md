@@ -3,9 +3,9 @@ title: "Section 4110B - Coordination and nonduplication"
 usc_title: 38
 usc_section: "4110B"
 chapter: 41
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "38 U.S.C. § 4110B"
-generated_at: "2026-03-30T07:02:51.411Z"
+generated_at: "2026-03-30T07:05:05.986Z"
 status: "active"
 ---
 

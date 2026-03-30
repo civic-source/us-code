@@ -3,9 +3,9 @@ title: "Section 1331 - Definitions"
 usc_title: 43
 usc_section: "1331"
 chapter: 29
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 1331"
-generated_at: "2026-03-30T07:02:55.547Z"
+generated_at: "2026-03-30T07:05:11.411Z"
 status: "active"
 ---
 

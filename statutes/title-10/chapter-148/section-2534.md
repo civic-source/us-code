@@ -3,9 +3,9 @@ title: "Section 2534 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "2534"
 chapter: 148
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-30T07:01:27.992Z"
+generated_at: "2026-03-30T07:03:43.795Z"
 status: "active"
 ---
 
@@ -44,6 +44,7 @@ status: "active"
     - **(C)** Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996 .
   - **(3)** Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 2005 .
   - **(4)** Subsection (a)(3)(A)(iii) and this paragraph shall cease to be effective on February 10, 1998 .
+  - **(5)** Subsections (a)(2) and (b)(2) shall cease to be effective on October 1, 2018 .
 - **(d)** The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
   - **(1)** Application of the limitation would cause unreasonable costs or delays to be incurred.
   - **(2)** United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.

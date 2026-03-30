@@ -3,9 +3,9 @@ title: "Section 78x - Public availability of information"
 usc_title: 15
 usc_section: "78x"
 chapter: 2
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 78x"
-generated_at: "2026-03-30T07:01:50.839Z"
+generated_at: "2026-03-30T07:03:49.205Z"
 status: "active"
 ---
 

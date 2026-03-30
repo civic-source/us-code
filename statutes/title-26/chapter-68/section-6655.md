@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-30T07:02:42.420Z"
+generated_at: "2026-03-30T07:04:56.871Z"
 status: "active"
 ---
 
@@ -41,15 +41,16 @@ status: "active"
     - **(B)** any reduction in a required installment resulting from the application of this paragraph shall be recaptured by increasing the amount of the next required installment determined under subsection (d)(1) (as so modified) by the amount of such reduction (and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this subparagraph).
   - **(2)**
     - **(A)** In the case of any required installment, the annualized income installment is the excess (if any) of—
-      - **(i)** an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and alternative minimum taxable income—
+      - **(i)** an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and modified taxable income—
         - **(I)** for the first 3 months of the taxable year, in the case of the 1st required installment,
         - **(II)** for the first 3 months of the taxable year, in the case of the 2nd required installment,
         - **(III)** for the first 6 months of the taxable year in the case of the 3rd required installment, and
         - **(IV)** for the first 9 months of the taxable year, in the case of the 4th required installment, over
       - **(ii)** the aggregate amount of any prior required installments for the taxable year.
     - **(B)** For purposes of this paragraph—
-      - **(i)** The taxable income and alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+      - **(i)** The taxable income and modified taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
       - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 25 2nd 50 3rd 75 4th 100.
+      - **(iii)** The term “modified taxable income” has the meaning given such term by section 59A(c)(1).
     - **(C)**
       - **(i)** If the taxpayer makes an election under this clause—
         - **(I)** subclause (I) of subparagraph (A)(i) shall be applied by substituting “2 months” for “3 months”,
@@ -91,8 +92,8 @@ status: "active"
 - **(g)**
   - **(1)** For purposes of this section, the term “tax” means the excess of—
     - **(A)** the sum of—
-      - **(i)** the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever applies,
-      - **(ii)** the tax imposed by section 55, plus
+      - **(i)** the tax imposed by section 11 or subchapter L of chapter 1, whichever applies,
+      - **(ii)** the tax imposed by section 59A, plus
       - **(iii)** the tax imposed by section 887, over
     - **(B)** the credits against tax provided by part IV of subchapter A of chapter 1.
   - **(2)**

@@ -1,15 +1,13 @@
 ---
-title: "Section 4316 - Reporting requirements"
+title: "Section 4316 - Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(27)(A), Dec. 12, 2017 , 131 Stat. 1562 ]"
 usc_title: 10
 usc_section: "4316"
 chapter: 401
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 4316"
-generated_at: "2026-03-30T07:01:28.015Z"
-status: "active"
+generated_at: "2026-03-30T07:03:43.814Z"
+status: "repealed"
 ---
 
-# § 4316. Reporting requirements
-
-The Secretary of the Army shall biennially submit to the Congress a report that specifies the overall expenditures for programs and activities under this chapter and any progress made with respect to achieving financial self-sufficiency of the programs and activities.
+# [§ 4316. Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(27)(A), Dec. 12, 2017 , 131 Stat. 1562 ]
 

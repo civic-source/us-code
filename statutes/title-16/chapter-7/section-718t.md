@@ -3,9 +3,9 @@ title: "Section 718t - Termination of State participation"
 usc_title: 16
 usc_section: "718t"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 718t"
-generated_at: "2026-03-30T07:02:21.182Z"
+generated_at: "2026-03-30T07:04:22.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7142 - Use"
 usc_title: 16
 usc_section: "7142"
 chapter: 90
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 7142"
-generated_at: "2026-03-30T07:02:21.344Z"
+generated_at: "2026-03-30T07:04:22.415Z"
 status: "active"
 ---
 

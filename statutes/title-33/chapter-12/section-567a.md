@@ -3,9 +3,9 @@ title: "Section 567a - Flood and pollution control compacts between certain Stat
 usc_title: 33
 usc_section: "567a"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "33 U.S.C. § 567a"
-generated_at: "2026-03-30T07:02:45.970Z"
+generated_at: "2026-03-30T07:05:00.844Z"
 status: "active"
 ---
 

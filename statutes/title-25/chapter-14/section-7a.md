@@ -3,9 +3,9 @@ title: "Section 7a - Omitted"
 usc_title: 25
 usc_section: "7a"
 chapter: 14
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "25 U.S.C. § 7a"
-generated_at: "2026-03-30T07:02:25.136Z"
+generated_at: "2026-03-30T07:04:34.894Z"
 status: "omitted"
 ---
 

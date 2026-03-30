@@ -3,9 +3,9 @@ title: "Section 10381 - Authority to make public safety and community policing g
 usc_title: 34
 usc_section: "10381"
 chapter: 101
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "34 U.S.C. § 10381"
-generated_at: "2026-03-30T07:02:45.002Z"
+generated_at: "2026-03-30T07:04:59.497Z"
 status: "active"
 ---
 
@@ -35,8 +35,9 @@ status: "active"
     - **(B)** properly interact with individuals who have a mental illness, including strategies for verbal de-escalation of crises;
   - **(19)** to establish collaborative programs that enhance the ability of law enforcement agencies to address the mental health, behavioral, and substance abuse problems of individuals encountered by law enforcement officers in the line of duty;
   - **(20)** to provide specialized training to corrections officers to recognize individuals who have a mental illness;
-  - **(21)** to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises; and
-  - **(22)** to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21).
+  - **(21)** to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises;
+  - **(22)** to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21); and
+  - **(23)** to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
 - **(c)** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
   - **(1)** for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25 percent minimum under subsection (g);
   - **(2)** from an applicant in a State that has in effect a law that—

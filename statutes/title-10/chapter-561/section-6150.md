@@ -3,9 +3,9 @@ title: "Section 6150 - Repealed. Pub. L. 86–155 , § 9(a)(1), Aug. 11, 1959 , 
 usc_title: 10
 usc_section: "6150"
 chapter: 561
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 6150"
-generated_at: "2026-03-30T07:01:28.023Z"
+generated_at: "2026-03-30T07:03:43.821Z"
 status: "repealed"
 ---
 

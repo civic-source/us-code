@@ -3,9 +3,9 @@ title: "Section 1400I - Commercial revitalization deduction"
 usc_title: 26
 usc_section: "1400I"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1400I"
-generated_at: "2026-03-30T07:02:42.347Z"
+generated_at: "2026-03-30T07:04:56.796Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(1)** The term “qualified revitalization building” means any building (and its structural components) if—
     - **(A)** the building is placed in service by the taxpayer in a renewal community and the original use of the building begins with the taxpayer, or
     - **(B)** in the case of such building not described in subparagraph (A), such building—
-      - **(i)** is substantially rehabilitated (within the meaning of section 47(c)(1)(C)) by the taxpayer, and
+      - **(i)** is substantially rehabilitated (within the meaning of section 47(c)(1)(C)) 1 1 See References in Text note below. by the taxpayer, and
       - **(ii)** is placed in service by the taxpayer after the rehabilitation in a renewal community.
   - **(2)**
     - **(A)** The term “qualified revitalization expenditure” means any amount properly chargeable to capital account for property for which depreciation is allowable under section 168 (without regard to this section) and which is—
@@ -53,6 +53,6 @@ status: "active"
     - **(A)** with respect to the deduction determined under subsection (a)(1), be in lieu of any depreciation deduction otherwise allowable on account of one-half of such expenditures, and
     - **(B)** with respect to the deduction determined under subsection (a)(2), be in lieu of any depreciation deduction otherwise allowable on account of all of such expenditures.
   - **(2)** For purposes of sections 1016 and 1250, the deduction under this section shall be treated in the same manner as a depreciation deduction. For purposes of section 1250(b)(5), the straight line method of adjustment shall be determined without regard to this section.
-  - **(3)** A substantial rehabilitation (within the meaning of section 47(c)(1)(C)) of a building shall be treated as a separate building for purposes of subsection (a).
+  - **(3)** A substantial rehabilitation (within the meaning of section 47(c)(1)(C)) 1 of a building shall be treated as a separate building for purposes of subsection (a).
   - **(4)** Notwithstanding section 56(a)(1), the deduction under this section shall be allowed in determining alternative minimum taxable income under section 55.
 - **(g)** This section shall not apply to any building placed in service after December 31, 2009 .

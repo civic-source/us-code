@@ -3,9 +3,9 @@ title: "Section 1072 - Definitions"
 usc_title: 10
 usc_section: "1072"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 1072"
-generated_at: "2026-03-30T07:01:27.927Z"
+generated_at: "2026-03-30T07:03:43.741Z"
 status: "active"
 ---
 
@@ -60,6 +60,4 @@ In this chapter:
   - **(12)** The term “TRICARE Select” means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title .
   - **(13)** The term “TRICARE for Life” means the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of this title .
   - **(14)** The term “TRICARE Prime” means the managed care option of the TRICARE program.
-  - **(15)** The term “TRICARE Standard” means the TRICARE program made available prior to January 1, 2018 , covering—
-    - **(A)** medical care to which a dependent described in section 1076(a)(2) of this title is entitled; and
-    - **(B)** health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
+  - **(15)** The term “TRICARE Standard” means the TRICARE program made available prior to January 1, 2018 , covering health benefits contracted for under the authority of section 1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.

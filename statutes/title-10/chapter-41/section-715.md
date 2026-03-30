@@ -3,9 +3,9 @@ title: "Section 715 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(g
 usc_title: 10
 usc_section: "715"
 chapter: 41
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 715"
-generated_at: "2026-03-30T07:01:27.911Z"
+generated_at: "2026-03-30T07:03:43.728Z"
 status: "repealed"
 ---
 

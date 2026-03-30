@@ -3,9 +3,9 @@ title: "Section 41907 - Weighing mail"
 usc_title: 49
 usc_section: "41907"
 chapter: 419
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 41907"
-generated_at: "2026-03-30T07:03:12.380Z"
+generated_at: "2026-03-30T07:05:28.473Z"
 status: "active"
 ---
 

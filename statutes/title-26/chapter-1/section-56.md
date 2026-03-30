@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T07:02:42.220Z"
+generated_at: "2026-03-30T07:04:56.666Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(B)** If a loss is sustained with respect to any property described in subparagraph (A), a deduction shall be allowed for the expenditures described in subparagraph (A) for the taxable year in which such loss is sustained in an amount equal to the lesser of—
       - **(i)** the amount allowable under section 165(a) for the expenditures if they had remained capitalized, or
       - **(ii)** the amount of such expenditures which have not previously been amortized under subparagraph (A).
-  - **(3)** In the case of any long-term contract entered into by the taxpayer on or after March 1, 1986 , the taxable income from such contract shall be determined under the percentage of completion method of accounting (as modified by section 460(b)). For purposes of the preceding sentence, in the case of a contract described in section 460(e)(1), the percentage of the contract completed shall be determined under section 460(b)(1) by using the simplified procedures for allocation of costs prescribed under section 460(b)(3). The first sentence of this paragraph shall not apply to any home construction contract (as defined in section 460(e)(6)).
+  - **(3)** In the case of any long-term contract entered into by the taxpayer on or after March 1, 1986 , the taxable income from such contract shall be determined under the percentage of completion method of accounting (as modified by section 460(b)). For purposes of the preceding sentence, in the case of a contract described in section 460(e)(1), the percentage of the contract completed shall be determined under section 460(b)(1) by using the simplified procedures for allocation of costs prescribed under section 460(b)(3). The first sentence of this paragraph shall not apply to any home construction contract (as defined in section 460(e)(6)). 1 1 See References in Text note below.
   - **(4)** The alternative tax net operating loss deduction shall be allowed in lieu of the net operating loss deduction allowed under section 172.
   - **(5)** In the case of any certified pollution control facility placed in service after December 31, 1986 , the deduction allowable under section 169 (without regard to section 291) shall be determined under the alternative system of section 168(g). In the case of such a facility placed in service after December 31, 1998 , such deduction shall be determined under section 168 using the straight line method.
   - **(6)** The adjusted basis of any property to which paragraph (1) or (5) applies (or with respect to which there are any expenditures to which paragraph (2) or subsection (b)(2) applies) shall be determined on the basis of the treatment prescribed in paragraph (1), (2), or (5), or subsection (b)(2), whichever applies.
@@ -38,14 +38,14 @@ status: "active"
     - **(A)** No deduction shall be allowed—
       - **(i)** for any miscellaneous itemized deduction (as defined in section 67(b)), or
       - **(ii)** for any taxes described in paragraph (1), (2), or (3) of section 164(a) or clause (ii) of section 164(b)(5)(A).
-    - **(B)** In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section.
+    - **(B)** In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016 , and ending before January 1, 2019 2 2 So in original. Probably should be followed by a period.
     - **(C)** In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
       - **(i)** in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as defined in subsection (e)),
       - **(ii)** interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
       - **(iii)** in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
       - **(iv)** the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
     - **(D)** No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
-    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) 1 1 See References in Text note below. of section 63(c)(1).
+    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) 1 of section 63(c)(1).
     - **(F)** Section 68 shall not apply.
   - **(2)**
     - **(A)** The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986 , shall be capitalized and—
@@ -54,23 +54,15 @@ status: "active"
     - **(B)** If a loss is sustained with respect to any property described in subparagraph (A), a deduction shall be allowed for the expenditures described in subparagraph (A) for the taxable year in which such loss is sustained in an amount equal to the lesser of—
       - **(i)** the amount allowable under section 165(a) for the expenditures if they had remained capitalized, or
       - **(ii)** the amount of such expenditures which have not previously been amortized under subparagraph (A).
-    - **(C)** In the case of circulation expenditures described in section 173, the adjustments provided in this paragraph shall apply also to a personal holding company (as defined in section 542).
-    - **(D)** If the taxpayer materially participates (within the meaning of section 469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section 174(a) for expenditures paid or incurred in connection with such activity.
+    - **(C)** If the taxpayer materially participates (within the meaning of section 469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction under section 174(a) for expenditures paid or incurred in connection with such activity.
   - **(3)** Section 421 shall not apply to the transfer of stock acquired pursuant to the exercise of an incentive stock option (as defined in section 422). Section 422(c)(2) shall apply in any case where the disposition and the inclusion for purposes of this part are within the same taxable year and such section shall not apply in any other case. The adjusted basis of any stock so acquired shall be determined on the basis of the treatment prescribed by this paragraph.
-- **(c)** In determining the amount of the alternative minimum taxable income of a corporation, the following treatment shall apply:
-  - **(1)** Alternative minimum taxable income shall be adjusted as provided in subsection (g).
-  - **(2)** In the case of a capital construction fund established under chapter 535 of title 46, United States Code—
-    - **(A)** subparagraphs (A), (B), and (C) of section 7518(c)(1) (and the corresponding provisions of such chapter 535) shall not apply to—
-      - **(i)** any amount deposited in such fund after December 31, 1986 , or
-      - **(ii)** any earnings (including gains and losses) after December 31, 1986 , on amounts in such fund, and
-    - **(B)** no reduction in basis shall be made under section 7518(f) (or the corresponding provisions of such chapter 535) with respect to the withdrawal from the fund of any amount to which subparagraph (A) applies.
-  - **(3)** The deduction determined under section 833(b) shall not be allowed.
+- **[(c)**
 - **(d)**
   - **(1)** For purposes of subsection (a)(4), the term “alternative tax net operating loss deduction” means the net operating loss deduction allowable for the taxable year under section 172, except that—
     - **(A)** the amount of such deduction shall not exceed the sum of—
       - **(i)** the lesser of—
         - **(I)** the amount of such deduction attributable to net operating losses (other than the deduction described in clause (ii)(I)), or
-        - **(II)** 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section 199, plus
+        - **(II)** 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section 199, 1 plus
       - **(ii)** the lesser of—
         - **(I)** the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), 1 or
         - **(II)** alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 reduced by the amount determined under clause (i), and
@@ -97,73 +89,3 @@ status: "active"
       - **(i)** the principal residence (within the meaning of section 121) of the taxpayer, or
       - **(ii)** a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
 - **[(f)**
-- **(g)**
-  - **(1)** The alternative minimum taxable income of any corporation for any taxable year shall be increased by 75 percent of the excess (if any) of—
-    - **(A)** the adjusted current earnings of the corporation, over
-    - **(B)** the alternative minimum taxable income (determined without regard to this subsection and the alternative tax net operating loss deduction).
-  - **(2)**
-    - **(A)** The alternative minimum taxable income for any corporation of any taxable year, shall be reduced by 75 percent of the excess (if any) of—
-      - **(i)** the amount referred to in subparagraph (B) of paragraph (1), over
-      - **(ii)** the amount referred to in subparagraph (A) of paragraph (1).
-    - **(B)** The reduction under subparagraph (A) for any taxable year shall not exceed the excess (if any) of—
-      - **(i)** the aggregate increases in alternative minimum taxable income under paragraph (1) for prior taxable years, over
-      - **(ii)** the aggregate reductions under subparagraph (A) of this paragraph for prior taxable years.
-  - **(3)** For purposes of this subsection, the term “adjusted current earnings” means the alternative minimum taxable income for the taxable year—
-    - **(A)** determined with the adjustments provided in paragraph (4), and
-    - **(B)** determined without regard to this subsection and the alternative tax net operating loss deduction.
-  - **(4)** In determining adjusted current earnings, the following adjustments shall apply:
-    - **(A)**
-      - **(i)** The depreciation deduction with respect to any property placed in service in a taxable year beginning after 1989 shall be determined under the alternative system of section 168(g). The preceding sentence shall not apply to any property placed in service after December 31, 1993 , and the depreciation deduction with respect to such property shall be determined under the rules of subsection (a)(1)(A).
-      - **(ii)** In the case of any property to which the amendments made by section 201 of the Tax Reform Act of 1986 apply and which is placed in service in a taxable year beginning before 1990, the depreciation deduction shall be determined—
-        - **(I)** by taking into account the adjusted basis of such property (as determined for purposes of computing alternative minimum taxable income) as of the close of the last taxable year beginning before January 1, 1990 , and
-        - **(II)** by using the straight-line method over the remainder of the recovery period applicable to such property under the alternative system of section 168(g).
-      - **(iii)** In the case of any property to which section 168 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 and without regard to subsection (d)(1)(A)(ii) thereof) applies and which is placed in service in a taxable year beginning before 1990, the depreciation deduction shall be determined—
-        - **(I)** by taking into account the adjusted basis of such property (as determined for purposes of computing the regular tax) as of the close of the last taxable year beginning before January 1, 1990 , and
-        - **(II)** by using the straight line method over the remainder of the recovery period which would apply to such property under the alternative system of section 168(g).
-      - **(iv)** In the case of any property not described in clause (i), (ii), or (iii), the amount allowable as depreciation or amortization with respect to such property shall be determined in the same manner as for purposes of computing taxable income.
-      - **(v)** In the case of any property described in paragraph (1), (2), (3), or (4) of section 168(f), the amount of depreciation allowable for purposes of the regular tax shall be treated as the amount allowable under the alternative system of section 168(g).
-    - **(B)**
-      - **(i)** In the case of any amount which is excluded from gross income for purposes of computing alternative minimum taxable income but is taken into account in determining the amount of earnings and profits—
-        - **(I)** such amount shall be included in income in the same manner as if such amount were includible in gross income for purposes of computing alternative minimum taxable income, and
-        - **(II)** the amount of such income shall be reduced by any deduction which would have been allowable in computing alternative minimum taxable income if such amount were includible in gross income.
-      - **(ii)** In the case of any life insurance contract—
-        - **(I)** the income on such contract (as determined under section 7702(g)) for any taxable year shall be treated as includible in gross income for such year, and
-        - **(II)** there shall be allowed as a deduction that portion of any premium which is attributable to insurance coverage.
-      - **(iii)** Clause (i) shall not apply in the case of any interest on a bond to which section 57(a)(5)(C)(iii) applies.
-      - **(iv)**
-        - **(I)** Clause (i) shall not apply in the case of any interest on a bond issued after December 31, 2008 , and before January 1, 2011 .
-        - **(II)** For purposes of subclause (I), a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
-        - **(III)** Subclause (II) shall not apply to any refunding bond which is issued to refund any bond which was issued after December 31, 2003 , and before January 1, 2009 .
-    - **(C)**
-      - **(i)** A deduction shall not be allowed for any item if such item would not be deductible for any taxable year for purposes of computing earnings and profits.
-      - **(ii)**
-        - **(I)** Clause (i) shall not apply to any deduction allowable under section 243 or 245 for any dividend which is a 100-percent dividend or which is received from a 20-percent owned corporation (as defined in section 243(c)(2)), but only to the extent such dividend is attributable to income of the paying corporation which is subject to tax under this chapter (determined after the application of sections 30A, 936 (including subsections (a)(4), (i), and (j) thereof) and 921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)).
-        - **(II)** For purposes of subclause (I), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the amount allowable as a deduction under section 243 or 245 with respect to such dividend is 100 percent.
-      - **(iii)**
-        - **(I)** For purposes of determining the alternative minimum foreign tax credit, 75 percent of any withholding or income tax paid to a possession of the United States with respect to dividends received from a corporation eligible for the credit provided by section 936 shall be treated as a tax paid to a foreign country by the corporation receiving the dividend.
-        - **(II)** If the aggregate amount of the dividends referred to in subclause (I) for any taxable year exceeds the excess referred to in paragraph (1), the amount treated as tax paid to a foreign country under subclause (I) shall not exceed the amount which would be so treated without regard to this subclause multiplied by a fraction the numerator of which is the excess referred to in paragraph (1) and the denominator of which is the aggregate amount of such dividends.
-        - **(III)** For purposes of this clause, taxes paid by any corporation eligible for the credit provided by section 936 to a possession of the United States shall be treated as a withholding tax paid with respect to any dividend paid by such corporation to the extent such taxes would be treated as paid by the corporation receiving the dividend under rules similar to the rules of section 902 (and the amount of any such dividend shall be increased by the amount so treated).
-        - **(IV)** In determining the alternative minimum foreign tax credit, section 904(d) shall be applied as if dividends from a corporation eligible for the credit provided by section 936 were a separate category of income referred to in a subparagraph of section 904(d)(1).
-        - **(V)** Any reference in this clause to a dividend received from a corporation eligible for the credit provided by section 936 shall be treated as a reference to the portion of any such dividend for which the dividends received deduction is disallowed under clause (i) after the application of clause (ii)(I).
-        - **(VI)** References in this clause to section 936 shall be treated as including references to section 30A.
-      - **(iv)** In the case of an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products, clause (i) shall not apply to any amount allowable as a deduction under section 245(c).
-      - **(v)** Clause (i) shall not apply to any amount allowable as a deduction under section 199.
-      - **(vi)** Clause (i) shall not apply to any deduction allowable under section 965.
-    - **(D)**
-      - **(i)** The adjustments provided in section 312(n)(2)(A) shall apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1989 . In the case of a taxpayer other than an integrated oil company (as defined in section 291(b)(4)), in the case of any oil or gas well, this clause shall not apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1992 .
-      - **(ii)** Sections 173 and 248 shall not apply to expenditures paid or incurred in taxable years beginning after December 31, 1989 .
-      - **(iii)** The adjustments provided in section 312(n)(4) shall apply, but only with respect to taxable years beginning after December 31, 1989 .
-      - **(iv)** In the case of any installment sale in a taxable year beginning after December 31, 1989 , adjusted current earnings shall be computed as if the corporation did not use the installment method. The preceding sentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
-    - **(E)** No loss shall be recognized on the exchange of any pool of debt obligations for another pool of debt obligations having substantially the same effective interest rates and maturities.
-    - **(F)**
-      - **(i)** The allowance for depletion with respect to any property placed in service in a taxable year beginning after December 31, 1989 , shall be cost depletion determined under section 611.
-      - **(ii)** Clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
-    - **(G)** If—
-      - **(i)** there is an ownership change (within the meaning of section 382) in a taxable year beginning after 1989 with respect to any corporation, and
-      - **(ii)** there is a net unrealized built-in loss (within the meaning of section 382(h)) with respect to such corporation,
-    - **(H)** The adjusted basis of any property with respect to which an adjustment under this paragraph applies shall be determined by applying the treatment prescribed in this paragraph.
-    - **(I)** Notwithstanding subparagraphs (B) and (C), no adjustment related to the earnings and profits effects of any charitable contribution shall be made in computing adjusted current earnings.
-  - **(5)** For purposes of paragraph (4)—
-    - **(A)** The term “earnings and profits” means earnings and profits computed for purposes of subchapter C.
-    - **(B)** The treatment of any item for purposes of computing alternative minimum taxable income shall be determined without regard to this subsection.
-  - **(6)** This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.

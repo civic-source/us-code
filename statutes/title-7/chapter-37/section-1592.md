@@ -3,9 +3,9 @@ title: "Section 1592 - Rules and regulations"
 usc_title: 7
 usc_section: "1592"
 chapter: 37
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 1592"
-generated_at: "2026-03-30T07:01:33.355Z"
+generated_at: "2026-03-30T07:03:40.528Z"
 status: "active"
 ---
 

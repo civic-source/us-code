@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T07:02:42.344Z"
+generated_at: "2026-03-30T07:04:56.792Z"
 status: "active"
 ---
 
@@ -18,9 +18,6 @@ status: "active"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
     - **(B)** Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
-  - **(4)** For purposes of section 1201(a)—
-    - **(A)** the tax imposed by subsection (a) shall be treated as if it were imposed by section 11, and
-    - **(B)** the amount of the net recognized built-in gain shall be treated as the taxable income.
 - **(c)**
   - **(1)** Subsection (a) shall not apply to any corporation if an election under section 1362(a) has been in effect with respect to such corporation for each of its taxable years. Except as provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of the preceding sentence.
   - **(2)** The amount of the net recognized built-in gain taken into account under this section for any taxable year shall not exceed the excess (if any) of—

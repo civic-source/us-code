@@ -3,9 +3,9 @@ title: "Section 7863 - Disposal of public stores by order of commanding officer"
 usc_title: 10
 usc_section: "7863"
 chapter: 661
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 7863"
-generated_at: "2026-03-30T07:01:28.034Z"
+generated_at: "2026-03-30T07:03:43.830Z"
 status: "active"
 ---
 

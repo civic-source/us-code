@@ -3,18 +3,18 @@ title: "Section 5041 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5041"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 5041"
-generated_at: "2026-03-30T07:02:42.385Z"
+generated_at: "2026-03-30T07:04:56.836Z"
 status: "active"
 ---
 
 # § 5041. Imposition and rate of tax
 
-- **(a)** There is hereby imposed on all wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in bond in, produced in, or imported into, the United States, taxes at the rates shown in subsection (b), such taxes to be determined as of the time of removal for consumption or sale. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and taxed accordingly. Still wines shall include those wines containing not more than 0.392 gram of carbon dioxide per hundred milliliters of wine; except that the Secretary may by regulations prescribe such tolerances to this maximum limitation as may be reasonably necessary in good commercial practice.
+- **(a)** There is hereby imposed on all wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in bond in, produced in, or imported into, the United States, taxes at the rates shown in subsection (b), such taxes to be determined as of the time of removal for consumption or sale. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and taxed accordingly. Subject to subsection (h), still wines shall include those wines containing not more than 0.392 gram of carbon dioxide per hundred milliliters of wine; except that the Secretary may by regulations prescribe such tolerances to this maximum limitation as may be reasonably necessary in good commercial practice.
 - **(b)**
-  - **(1)** On still wines containing not more than 14 percent of alcohol by volume, $1.07 per wine gallon;
-  - **(2)** On still wines containing more than 14 percent and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
+  - **(1)** On still wines containing not more than 14 percent (16 percent in the case of wine removed after December 31, 2017 , and before January 1, 2020 1 1 So in original. Probably should be followed by a closing parenthesis. of alcohol by volume, $1.07 per wine gallon;
+  - **(2)** On still wines containing more than 14 percent (16 percent in the case of wine removed after December 31, 2017 , and before January 1, 2020 1 and not exceeding 21 percent of alcohol by volume, $1.57 per wine gallon;
   - **(3)** On still wines containing more than 21 percent and not exceeding 24 percent of alcohol by volume, $3.15 per wine gallon;
   - **(4)** On champagne and other sparkling wines, $3.40 per wine gallon;
   - **(5)** On artificially carbonated wines, $3.30 per wine gallon; and
@@ -25,7 +25,7 @@ status: "active"
   - **(3)** The credit allowable by paragraph (1)—
     - **(A)** shall be determined at the same time the tax is determined under subsection (a) of this section, and
     - **(B)** shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
-  - **(4)** Rules similar to rules of section 5051(a)(2)(B) shall apply for purposes of this subsection.
+  - **(4)** Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
   - **(5)** Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
   - **(6)** If—
     - **(A)** wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
@@ -34,6 +34,25 @@ status: "active"
   - **(7)** The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
     - **(A)** to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
     - **(B)** to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
+  - **(8)**
+    - **(A)** In the case of wine removed after December 31, 2017 , and before January 1, 2020 , paragraphs (1) and (2) shall not apply and there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) an amount equal to the sum of—
+      - **(i)** $1 per wine gallon on the first 30,000 wine gallons of wine, plus
+      - **(ii)** 90 cents per wine gallon on the first 100,000 wine gallons of wine to which clause (i) does not apply, plus
+      - **(iii)** 53.5 cents per wine gallon on the first 620,000 wine gallons of wine to which clauses (i) and (ii) do not apply,
+    - **(B)** In the case of wine described in subsection (b)(6), subparagraph (A) of this paragraph shall be applied—
+      - **(i)** in clause (i) of such subparagraph, by substituting “6.2 cents” for “$1”,
+      - **(ii)** in clause (ii) of such subparagraph, by substituting “5.6 cents” for “90 cents”, and
+      - **(iii)** in clause (iii) of such subparagraph, by substituting “3.3 cents” for “53.5 cents”.
+  - **(9)**
+    - **(A)** In the case of any wine gallons of wine which have been produced outside of the United States and imported into the United States, the credit allowable under paragraph (8) (referred to in this paragraph as the “tax credit”) may be assigned by the person who produced such wine (referred to in this paragraph as the “foreign producer”), provided that such person makes an election described in subparagraph (B)(ii), to any electing importer of such wine gallons pursuant to the requirements established by the Secretary under subparagraph (B).
+    - **(B)** The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the tax credit provided under this paragraph, which shall include—
+      - **(i)** a limitation to ensure that the number of wine gallons of wine for which the tax credit has been assigned by a foreign producer—
+        - **(I)** to any importer does not exceed the number of wine gallons of wine produced by such foreign producer during the calendar year which were imported into the United States by such importer, and
+        - **(II)** to all importers does not exceed the 750,000 wine gallons of wine to which the tax credit applies,
+      - **(ii)** procedures that allow the election of a foreign producer to assign and an importer to receive the tax credit provided under this paragraph,
+      - **(iii)** requirements that the foreign producer provide any information as the Secretary determines necessary and appropriate for purposes of carrying out this paragraph, and
+      - **(iv)** procedures that allow for revocation of eligibility of the foreign producer and the importer for the tax credit provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such credit.
+    - **(C)** For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (4).
 - **(d)** For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 - **(e)** Where the Secretary finds that the revenue will not be endangered thereby, he may by regulation prescribe tolerances (but not greater than ½ of 1 percent) for bottles and other containers, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a bottle or other container are within the limit of the applicable tolerance prescribed.
 - **(f)** Notwithstanding subsection (a), any wine produced in the United States at any place other than the bonded premises provided for in this chapter shall (except as provided in section 5042 in the case of tax-free production) be subject to tax at the rate prescribed in subsection (b) at the time of production and whether or not removed for consumption or sale.
@@ -46,3 +65,19 @@ status: "active"
       - **(ii)** water,
   - **(3)** which contains no fruit product or fruit flavoring other than apple or pear, and
   - **(4)** which contains at least one-half of 1 percent and less than 8.5 percent alcohol by volume.
+- **(h)**
+  - **(1)** For purposes of subsections (a) and (b)(1), mead and low alcohol by volume wine shall be deemed to be still wines containing not more than 16 percent of alcohol by volume.
+  - **(2)**
+    - **(A)** For purposes of this section, the term “mead” means a wine—
+      - **(i)** containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+      - **(ii)** which is derived solely from honey and water,
+      - **(iii)** which contains no fruit product or fruit flavoring, and
+      - **(iv)** which contains less than 8.5 percent alcohol by volume.
+    - **(B)** For purposes of this section, the term “low alcohol by volume wine” means a wine—
+      - **(i)** containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary shall by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+      - **(ii)** which is derived—
+        - **(I)** primarily from grapes, or
+        - **(II)** from grape juice concentrate and water,
+      - **(iii)** which contains no fruit product or fruit flavoring other than grape, and
+      - **(iv)** which contains less than 8.5 percent alcohol by volume.
+  - **(3)** This subsection shall not apply to wine removed after December 31, 2019 .

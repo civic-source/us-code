@@ -3,9 +3,9 @@ title: "Section 1271 - Records of interstate shipment"
 usc_title: 15
 usc_section: "1271"
 chapter: 30
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 1271"
-generated_at: "2026-03-30T07:01:50.900Z"
+generated_at: "2026-03-30T07:03:49.269Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21506 - Principal office"
 usc_title: 36
 usc_section: "21506"
 chapter: 215
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "36 U.S.C. § 21506"
-generated_at: "2026-03-30T07:02:49.121Z"
+generated_at: "2026-03-30T07:05:06.706Z"
 status: "active"
 ---
 

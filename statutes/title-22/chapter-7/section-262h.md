@@ -3,9 +3,9 @@ title: "Section 262h - Opposition by United States Executive Directors of intern
 usc_title: 22
 usc_section: "262h"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "22 U.S.C. § 262h"
-generated_at: "2026-03-30T07:02:32.857Z"
+generated_at: "2026-03-30T07:04:37.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3540 - Repealed. Pub. L. 100–242, title IV , § 420, Feb. 5, 1
 usc_title: 42
 usc_section: "3540"
 chapter: 44
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 3540"
-generated_at: "2026-03-30T07:03:04.881Z"
+generated_at: "2026-03-30T07:05:21.737Z"
 status: "repealed"
 ---
 

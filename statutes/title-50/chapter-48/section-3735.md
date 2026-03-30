@@ -3,15 +3,15 @@ title: "Section 3735 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3735"
 chapter: 48
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 3735"
-generated_at: "2026-03-30T07:03:10.286Z"
+generated_at: "2026-03-30T07:05:26.745Z"
 status: "active"
 ---
 
 # § 3735. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China
 
-- **(a)** In carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall ensure that Cooperative Threat Reduction funds for such activities are obligated or expended in semiannual installments.
+- **(a)** In carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall ensure that Cooperative Threat Reduction funds for such activities are obligated in semiannual installments.
 - **(b)**
   - **(1)** With respect to carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall submit to the congressional defense committees the reports required by section 3711(g) of this title on a semiannual basis by not later than 15 days before any obligation of Cooperative Threat Reduction funds for such activities during the covered semiannual period. In addition to the matters required by such section, each such report shall include, in coordination with the Secretary of State—
     - **(A)** whether China has taken material steps to—

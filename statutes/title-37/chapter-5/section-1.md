@@ -3,9 +3,9 @@ title: "Section 1 - Special pay: accession and retention bonuses for psychologis
 usc_title: 37
 usc_section: "1"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 1"
-generated_at: "2026-03-30T07:02:49.448Z"
+generated_at: "2026-03-30T07:05:02.832Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
 - **(e)**
   - **(1)** A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a psychologist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
   - **(2)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title .
-- **(f)** No agreement under subsection (a) or (b) may be entered into after December 31, 2017 .
+- **(f)** No agreement under subsection (a) or (b) may be entered into after December 31, 2018 .

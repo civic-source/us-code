@@ -3,9 +3,9 @@ title: "Section 242a - Repealed. Pub. L. 106–310, div. B, title XXXII , § 320
 usc_title: 42
 usc_section: "242a"
 chapter: 6
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 242a"
-generated_at: "2026-03-30T07:03:04.482Z"
+generated_at: "2026-03-30T07:05:21.358Z"
 status: "repealed"
 ---
 

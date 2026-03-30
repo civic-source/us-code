@@ -3,9 +3,9 @@ title: "Section 16301 - Education loan repayment program: members of Selected Re
 usc_title: 10
 usc_section: "16301"
 chapter: 1609
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 16301"
-generated_at: "2026-03-30T07:01:28.056Z"
+generated_at: "2026-03-30T07:03:43.848Z"
 status: "active"
 ---
 
@@ -28,5 +28,5 @@ status: "active"
 - **(e)** A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 2171 of this title (as described in subsection (a)(2) of that section) during a year shall be eligible to have repaid a portion of such loan determined by giving appropriate fractional credit for each portion of the year so served, in accordance with regulations of the Secretary concerned.
 - **(f)** The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 2171 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 2171(a) of this title .
 - **(g)** The Secretary of Homeland Security may repay loans described in subsection (a)(1) and otherwise administer this section in the case of members of the Selected Reserve of the Coast Guard Reserve when the Coast Guard is not operating as a service in the Navy.
-- **(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 2171 of this title , a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) of title 37 .
+- **(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 2171 of this title , a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 - **(i)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.

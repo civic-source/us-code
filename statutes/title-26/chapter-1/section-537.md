@@ -3,9 +3,9 @@ title: "Section 537 - Reasonable needs of the business"
 usc_title: 26
 usc_section: "537"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 537"
-generated_at: "2026-03-30T07:02:42.297Z"
+generated_at: "2026-03-30T07:04:56.745Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
     - **(A)** such foundation held on May 26, 1969 (or which was received by such foundation pursuant to a will or irrevocable trust to which section 4943(c)(5) applies), and
     - **(B)** constituted excess business holdings on May 26, 1969 , or would have constituted excess business holdings as of such date if there were taken into account (i) stock received pursuant to a will or trust described in subparagraph (A), and (ii) the reduction in the total outstanding stock of the corporation which would have resulted solely from the redemption of stock held by the private foundation.
   - **(3)** In applying paragraphs (1) and (2), the discharge of any obligation incurred to make a redemption described in such paragraphs shall be treated as the making of such redemption.
-  - **(4)** The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
+  - **(4)** The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f)(as in effect before the date of enactment of the Tax Cuts and Jobs Act)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
   - **(5)** The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.

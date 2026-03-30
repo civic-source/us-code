@@ -3,9 +3,9 @@ title: "Section 860E - Treatment of income in excess of daily accruals on residu
 usc_title: 26
 usc_section: "860E"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 860E"
-generated_at: "2026-03-30T07:02:42.314Z"
+generated_at: "2026-03-30T07:04:56.761Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(1)** A tax is hereby imposed on any transfer of a residual interest in a REMIC to a disqualified organization.
   - **(2)** The amount of the tax imposed by paragraph (1) on any transfer of a residual interest shall be equal to the product of—
     - **(A)** the amount (determined under regulations) equal to the present value of the total anticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
-    - **(B)** the highest rate of tax specified in section 11(b)(1).
+    - **(B)** the highest rate of tax specified in section 11(b).
   - **(3)** The tax imposed by paragraph (1) on any transfer shall be paid by the transferor; except that, where such transfer is through an agent for a disqualified organization, such tax shall be paid by such agent.
   - **(4)** The person (otherwise liable for any tax imposed by paragraph (1)) shall be relieved of liability for the tax imposed by paragraph (1) with respect to any transfer if—
     - **(A)** the transferee furnishes to such person an affidavit that the transferee is not a disqualified organization, and
@@ -55,7 +55,7 @@ status: "active"
   - **(6)**
     - **(A)** If, at any time during any taxable year of a pass-thru entity, a disqualified organization is the record holder of an interest in such entity, there is hereby imposed on such entity for such taxable year a tax equal to the product of—
       - **(i)** the amount of excess inclusions for such taxable year allocable to the interest held by such disqualified organization, multiplied by
-      - **(ii)** the highest rate of tax specified in section 11(b)(1).
+      - **(ii)** the highest rate of tax specified in section 11(b).
     - **(B)** For purposes of this paragraph, the term “pass-thru entity” means—
       - **(i)** any regulated investment company, real estate investment trust, or common trust fund,
       - **(ii)** any partnership, trust, or estate, and

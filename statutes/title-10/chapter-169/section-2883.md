@@ -3,9 +3,9 @@ title: "Section 2883 - Department of Defense Housing Funds"
 usc_title: 10
 usc_section: "2883"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2883"
-generated_at: "2026-03-30T07:01:28.008Z"
+generated_at: "2026-03-30T07:03:43.808Z"
 status: "active"
 ---
 
@@ -40,4 +40,4 @@ status: "active"
 - **(e)**
   - **(1)** The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
   - **(2)** The Funds established under subsection (a) shall be the sole source of funds for activities carried out under this subchapter.
-- **(f)** A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title .
+- **(f)** A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 14-day period beginning on the date the Secretary of Defense submits notice of, and justification for, the transfer to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title .

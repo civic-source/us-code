@@ -3,9 +3,9 @@ title: "Section 2304 - Contracts: competition requirements"
 usc_title: 10
 usc_section: "2304"
 chapter: 137
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2304"
-generated_at: "2026-03-30T07:01:27.971Z"
+generated_at: "2026-03-30T07:03:43.777Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
     - **(B)** This paragraph applies to any contract in an amount greater than the simplified acquisition threshold.
 - **(e)** The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) shall request offers from as many potential sources as is practicable under the circumstances.
 - **(f)**
-  - **(1)** Except as provided in paragraph (2), the head of an agency may not award a contract using procedures other than competitive procedures unless—
+  - **(1)** Except as provided in paragraph (2) and paragraph (6), the head of an agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
     - **(B)** the justification is approved—
       - **(i)** in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
@@ -93,6 +93,7 @@ status: "active"
       - **(ii)** with respect to the element of the Department of Defense (as specified in section 111(b) of this title ), other than a military department, carrying out the procurement action concerned, an officer or employee serving in or assigned or detailed to that element who—
         - **(I)** if a member of the armed forces, is serving in a grade above brigadier general or rear admiral (lower half); or
         - **(II)** if a civilian, is serving in a position with a grade under the General Schedule (or any other schedule for civilian officers or employees) that is comparable to or higher than the grade of major general or rear admiral.
+  - **(6)** The justification and approval required by paragraph (1) is not required in the case of a Phase III award made pursuant to section 9(r)(4) of the Small Business Act ( 15 U.S.C. 638(r)(4) ).
 - **(g)**
   - **(1)** In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
     - **(A)** special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and

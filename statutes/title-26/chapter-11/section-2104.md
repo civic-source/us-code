@@ -3,9 +3,9 @@ title: "Section 2104 - Property within the United States"
 usc_title: 26
 usc_section: "2104"
 chapter: 11
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 2104"
-generated_at: "2026-03-30T07:02:42.356Z"
+generated_at: "2026-03-30T07:04:56.805Z"
 status: "active"
 ---
 

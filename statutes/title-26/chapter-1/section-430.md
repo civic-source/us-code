@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T07:02:42.278Z"
+generated_at: "2026-03-30T07:04:56.726Z"
 status: "active"
 ---
 
@@ -87,7 +87,7 @@ status: "active"
       - **(vi)** The term “employee” includes, with respect to a calendar year, a self-employed individual who is treated as an employee under section 401(c) for the taxable year ending during such calendar year, and the term “compensation” shall include earned income of such individual with respect to such self-employment.
       - **(vii)** In the case of any calendar year beginning after 2010, the dollar amount under clause (i)(II) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2009” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2009” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(E)**
       - **(i)** The amount determined under this subparagraph for any plan year is the excess (if any) of the sum of the dividends declared during the plan year by the plan sponsor plus the aggregate amount paid for the redemption of stock of the plan sponsor redeemed during the plan year over the greater of—
         - **(I)** the adjusted net income (within the meaning of section 4043 of the Employee Retirement Income Security Act of 1974) of the plan sponsor for the preceding plan year, determined without regard to any reduction by reason of interest, taxes, depreciation, or amortization, or

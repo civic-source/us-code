@@ -3,9 +3,9 @@ title: "Section 2430 - Major defense acquisition program defined"
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-30T07:01:27.985Z"
+generated_at: "2026-03-30T07:03:43.789Z"
 status: "active"
 ---
 
@@ -14,10 +14,12 @@ status: "active"
 - **(a)**
   - **(1)** Except as provided under paragraph (2), in this chapter, the term “major defense acquisition program” means a Department of Defense acquisition program that is not a highly sensitive classified program (as determined by the Secretary of Defense) and—
     - **(A)** that is designated by the Secretary of Defense as a major defense acquisition program; or
-    - **(B)** that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
-  - **(2)** In this chapter, the term “major defense acquisition program” does not include an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note).
-- **(b)** The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) 1 1 See References in Text note below. on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
-- **(c)** For purposes of subsection (a)(2), 1 the Secretary shall consider, as applicable, the following:
+    - **(B)** in the case of a program that is not a program for the acquisition of an automated information system (either a product or a service), that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+  - **(2)** In this chapter, the term “major defense acquisition program” does not include—
+    - **(A)** an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note); or
+    - **(B)** an acquisition program for a defense business system (as defined in section 2222(i)(1) of this title ) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2223a note).
+- **(b)** The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(1)(B) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+- **(c)** For purposes of subsection (a)(1)(B), the Secretary shall consider, as applicable, the following:
   - **(1)** The estimated level of resources required to fulfill the relevant joint military requirement, as determined by the Joint Requirements Oversight Council pursuant to section 181 of this title .
   - **(2)** The cost estimate referred to in section 2366a(a)(6) of this title .
   - **(3)** The cost estimate referred to in section 2366b(a)(1)(C) of this title .

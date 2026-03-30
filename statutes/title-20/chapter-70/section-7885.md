@@ -3,9 +3,9 @@ title: "Section 7885 - Prohibition against funds for religious worship or instru
 usc_title: 20
 usc_section: "7885"
 chapter: 70
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 7885"
-generated_at: "2026-03-30T07:01:56.762Z"
+generated_at: "2026-03-30T07:04:27.839Z"
 status: "active"
 ---
 

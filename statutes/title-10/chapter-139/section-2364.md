@@ -3,9 +3,9 @@ title: "Section 2364 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "2364"
 chapter: 139
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2364"
-generated_at: "2026-03-30T07:01:27.980Z"
+generated_at: "2026-03-30T07:03:43.785Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** among other research facilities and other departments or agencies of the Federal Government that are engaged in research, development, and technological matters;
   - **(4)** among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
   - **(5)** to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
-  - **(6)** through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that conveys 1 1 So in original. Probably should be “convey”. successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
+  - **(6)** through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that convey successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
 - **(b)** The Secretary of Defense shall ensure, to the maximum extent practicable—
   - **(1)** that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
   - **(2)** that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;

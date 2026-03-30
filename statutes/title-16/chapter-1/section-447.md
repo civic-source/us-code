@@ -3,9 +3,9 @@ title: "Section 447 - Repealed. Pub. L. 94–429 , § 3(d), Sept. 28, 1976 , 90 
 usc_title: 16
 usc_section: "447"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 447"
-generated_at: "2026-03-30T07:02:21.115Z"
+generated_at: "2026-03-30T07:04:22.245Z"
 status: "repealed"
 ---
 

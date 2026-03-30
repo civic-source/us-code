@@ -3,9 +3,9 @@ title: "Section 7946 - Limitation on liability for teachers"
 usc_title: 20
 usc_section: "7946"
 chapter: 70
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 7946"
-generated_at: "2026-03-30T07:01:56.763Z"
+generated_at: "2026-03-30T07:04:27.840Z"
 status: "active"
 ---
 

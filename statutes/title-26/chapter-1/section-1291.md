@@ -3,9 +3,9 @@ title: "Section 1291 - Interest on tax deferral"
 usc_title: 26
 usc_section: "1291"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1291"
-generated_at: "2026-03-30T07:02:42.339Z"
+generated_at: "2026-03-30T07:04:56.788Z"
 status: "active"
 ---
 
@@ -82,8 +82,6 @@ status: "active"
       - **(i)** that such excess distribution taxes are allocated to a taxable year referred to in subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
       - **(ii)** that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined under subsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
   - **(2)** For purposes of this subsection—
-    - **(A)** The term “creditable foreign taxes” means, with respect to any distribution—
-      - **(i)** any foreign taxes deemed paid under section 902 with respect to such distribution, and
-      - **(ii)** any withholding tax imposed with respect to such distribution,
+    - **(A)** The term “creditable foreign taxes” means, with respect to any distribution, any withholding tax imposed with respect to such distribution, but only if the taxpayer chooses the benefits of section 901 and such taxes are creditable under section 901 (determined without regard to paragraph (1)(C)(ii)).
     - **(B)** The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
     - **(C)** The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.

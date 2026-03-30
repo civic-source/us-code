@@ -3,9 +3,9 @@ title: "Section 1016 - Adjustments to basis"
 usc_title: 26
 usc_section: "1016"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1016"
-generated_at: "2026-03-30T07:02:42.330Z"
+generated_at: "2026-03-30T07:04:56.778Z"
 status: "active"
 ---
 
@@ -13,8 +13,10 @@ status: "active"
 
 - **(a)** Proper adjustment in respect of the property shall in all cases be made—
   - **(1)** for expenditures, receipts, losses, or other items, properly chargeable to capital account, but no such adjustment shall be made—
-    - **(A)** for taxes or other carrying charges described in section 266, or
-    - **(B)** for expenditures described in section 173 (relating to circulation expenditures),
+    - **(A)** for—
+      - **(i)** taxes or other carrying charges described in section 266; or
+      - **(ii)** expenditures described in section 173 (relating to circulation expenditures),
+    - **(B)** for mortality, expense, or other reasonable charges incurred under an annuity or life insurance contract;
   - **(2)** in respect of any period since February 28, 1913 , for exhaustion, wear and tear, obsolescence, amortization, and depletion, to the extent of the amount—
     - **(A)** allowed as deductions in computing taxable income under this subtitle or prior income tax laws, and
     - **(B)** resulting (by reason of the deductions so allowed) in a reduction for any taxable year of the taxpayer’s taxes under this subtitle (other than chapter 2, relating to tax on self-employment income), or prior income, war-profits, or excess-profits tax laws,
@@ -33,7 +35,7 @@ status: "active"
   - **(11)** for deductions to the extent disallowed under section 268 (relating to sale of land with unharvested crops), notwithstanding the provisions of any other paragraph of this subsection;
   - **[(12)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(75), Dec. 19, 2014 , 128 Stat. 4049 ]
   - **[(13)** Repealed. Pub. L. 108–357, title IV , § 413(c)(19), Oct. 22, 2004 , 118 Stat. 1509 ]
-  - **(14)** for amounts allowed as deductions as deferred expenses under section 174(b)(1) (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
+  - **(14)** for amounts allowed as deductions as deferred expenses under section 174(b)(1) 1 (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
   - **(15)** for deductions to the extent disallowed under section 272 (relating to disposal of coal or domestic iron ore), notwithstanding the provisions of any other paragraph of this subsection;
   - **(16)** in the case of any evidence of indebtedness referred to in section 811(b) (relating to amortization of premium and accrual of discount in the case of life insurance companies), to the extent of the adjustments required under section 811(b) (or the corresponding provisions of prior income tax laws) for the taxable year and all prior taxable years;
   - **(17)** to the extent provided in section 1367 in the case of stock of, and indebtedness owed to, shareholders of an S corporation;
@@ -42,7 +44,7 @@ status: "active"
   - **(20)** for amounts allowed as deductions under section 59(e) (relating to optional 10-year writeoff of certain tax preferences);
   - **(21)** to the extent provided in section 1059 (relating to reduction in basis for extraordinary dividends);
   - **(22)** in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d), 2 2 So in original. The comma probably should be a semicolon.
-  - **(23)** in the case of property the acquisition of which resulted under section 1043, 1044, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1044(d), 1045(b)(3), or 1397B(b)(4), as the case may be, 2
+  - **(23)** in the case of property the acquisition of which resulted under section 1043, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1045(b)(3), or 1397B(b)(4), as the case may be, 2
   - **[(24)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(34)(G), Dec. 19, 2014 , 128 Stat. 4042 ]
   - **[(25)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(2)(D), Dec. 19, 2014 , 128 Stat. 4037 ]
   - **(26)** to the extent provided in sections 23(g) and 137(e), 2
@@ -55,8 +57,9 @@ status: "active"
   - **(33)** to the extent provided in section 25C(f), in the case of amounts with respect to which a credit has been allowed under section 25C, 2
   - **(34)** to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D, 2
   - **(35)** to the extent provided in section 30B(h)(4), 2
-  - **(36)** to the extent provided in section 30C(e)(1), 2 and
-  - **(37)** to the extent provided in section 30D(f)(1).
+  - **(36)** to the extent provided in section 30C(e)(1), 2
+  - **(37)** to the extent provided in section 30D(f)(1), 2 and
+  - **(38)** to the extent provided in subsections (b)(2) and (c) of section 1400Z–2.
 - **(b)** Whenever it appears that the basis of property in the hands of the taxpayer is a substituted basis, then the adjustments provided in subsection (a) shall be made after first making in respect of such substituted basis proper adjustments of a similar nature in respect of the period during which the property was held by the transferor, donor, or grantor, or during which the other property was held by the person for whom the basis is to be determined. A similar rule shall be applied in the case of a series of substituted bases.
 - **(c)**
   - **(1)** If an additional estate tax is imposed under section 2032A(c)(1) with respect to any interest in property and the qualified heir makes an election under this subsection with respect to the imposition of such tax, the adjusted basis of such interest shall be increased by an amount equal to the excess of—

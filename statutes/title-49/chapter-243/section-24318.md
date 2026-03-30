@@ -3,9 +3,9 @@ title: "Section 24318 - Costs and revenues"
 usc_title: 49
 usc_section: "24318"
 chapter: 243
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 24318"
-generated_at: "2026-03-30T07:03:12.352Z"
+generated_at: "2026-03-30T07:05:28.446Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51317 - Adjunct professors"
 usc_title: 46
 usc_section: "51317"
 chapter: 513
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 51317"
-generated_at: "2026-03-30T07:03:08.190Z"
+generated_at: "2026-03-30T07:05:24.842Z"
 status: "active"
 ---
 
@@ -13,8 +13,6 @@ status: "active"
 
 - **(a)** The Maritime Administrator may establish a program for the purpose of contracting with individuals as personal services contractors to provide services as adjunct professors at the Academy, if the Maritime Administrator determines that there is a need for adjunct professors and the need is not of permanent duration.
 - **(b)** Each contract under the program—
-  - **(1)** must be approved by the Maritime Administrator; and 1 1 So in original. The word “and” probably should not appear.
-  - **(2)** shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year. 2 2 So in original. The period probably should be “; and”.
+  - **(1)** must be approved by the Maritime Administrator;
+  - **(2)** shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year; and
   - **(3)** shall be subject to the availability of appropriations.
-- **(c)** In awarding contacts 3 3 So in original. Probably should be “contracts”. under this section, the Maritime Administrator shall ensure that not more than 25 individuals actively provide services in any one academic trimester, or equivalent, as contractors under subsection (a).
-- **(d)** When the authority granted by subsection (a) is used to hire an adjunct professor at the Academy in fiscal year 2010 or fiscal year 2011, the Administrator shall notify the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate, including the need for and the term of employment for the adjunct professor.

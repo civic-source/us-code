@@ -3,9 +3,9 @@ title: "Section 504 - Remission of fees and penalties"
 usc_title: 46
 usc_section: "504"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "46 U.S.C. § 504"
-generated_at: "2026-03-30T07:03:08.169Z"
+generated_at: "2026-03-30T07:05:24.823Z"
 status: "active"
 ---
 

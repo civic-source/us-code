@@ -3,9 +3,9 @@ title: "Section 7712a - Reduction in backlog of agricultural export petitions"
 usc_title: 7
 usc_section: "7712a"
 chapter: 104
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 7712a"
-generated_at: "2026-03-30T07:01:33.454Z"
+generated_at: "2026-03-30T07:03:40.619Z"
 status: "active"
 ---
 

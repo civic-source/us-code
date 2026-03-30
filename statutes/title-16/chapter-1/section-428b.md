@@ -3,9 +3,9 @@ title: "Section 428b - Duties of commission"
 usc_title: 16
 usc_section: "428b"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 428b"
-generated_at: "2026-03-30T07:02:21.110Z"
+generated_at: "2026-03-30T07:04:22.240Z"
 status: "active"
 ---
 

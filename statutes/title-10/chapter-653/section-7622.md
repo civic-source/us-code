@@ -3,9 +3,9 @@ title: "Section 7622 - Admiralty claims against the United States"
 usc_title: 10
 usc_section: "7622"
 chapter: 653
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 7622"
-generated_at: "2026-03-30T07:01:28.033Z"
+generated_at: "2026-03-30T07:03:43.829Z"
 status: "active"
 ---
 

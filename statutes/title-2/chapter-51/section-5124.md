@@ -3,9 +3,9 @@ title: "Section 5124 - Lump sum allowance for Speaker"
 usc_title: 2
 usc_section: "5124"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "2 U.S.C. § 5124"
-generated_at: "2026-03-30T07:01:19.877Z"
+generated_at: "2026-03-30T07:03:26.308Z"
 status: "active"
 ---
 

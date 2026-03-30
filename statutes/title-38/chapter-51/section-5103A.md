@@ -3,9 +3,9 @@ title: "Section 5103A - Duty to assist claimants"
 usc_title: 38
 usc_section: "5103A"
 chapter: 51
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "38 U.S.C. § 5103A"
-generated_at: "2026-03-30T07:02:51.414Z"
+generated_at: "2026-03-30T07:05:05.988Z"
 status: "active"
 ---
 

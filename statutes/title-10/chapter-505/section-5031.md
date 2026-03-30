@@ -3,9 +3,9 @@ title: "Section 5031 - Office of the Chief of Naval Operations: function; compos
 usc_title: 10
 usc_section: "5031"
 chapter: 505
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 5031"
-generated_at: "2026-03-30T07:01:28.020Z"
+generated_at: "2026-03-30T07:03:43.818Z"
 status: "active"
 ---
 

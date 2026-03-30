@@ -3,9 +3,9 @@ title: "Section 334 - Special aviation incentive pay and bonus authorities for o
 usc_title: 37
 usc_section: "334"
 chapter: 5
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 334"
-generated_at: "2026-03-30T07:02:49.452Z"
+generated_at: "2026-03-30T07:05:02.836Z"
 status: "active"
 ---
 
@@ -52,4 +52,4 @@ status: "active"
   - **(2)** The term “operational flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
   - **(3)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
   - **(4)** The term “officer” includes an individual enlisted and designated as an aviation cadet under section 6911 of title 10 .
-- **(i)** No agreement may be entered into under this section after December 31, 2017 .
+- **(i)** No agreement may be entered into under this section after December 31, 2018 .

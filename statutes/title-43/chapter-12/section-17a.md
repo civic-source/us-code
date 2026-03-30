@@ -3,9 +3,9 @@ title: "Section 17a - Transferred"
 usc_title: 43
 usc_section: "17a"
 chapter: 12
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "43 U.S.C. § 17a"
-generated_at: "2026-03-30T07:02:55.527Z"
+generated_at: "2026-03-30T07:05:11.392Z"
 status: "transferred"
 ---
 

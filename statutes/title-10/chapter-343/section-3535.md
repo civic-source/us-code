@@ -3,9 +3,9 @@ title: "Section 3535 - Repealed. Pub. L. 96–513, title II , § 235, Dec. 12, 1
 usc_title: 10
 usc_section: "3535"
 chapter: 343
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 3535"
-generated_at: "2026-03-30T07:01:28.012Z"
+generated_at: "2026-03-30T07:03:43.812Z"
 status: "repealed"
 ---
 

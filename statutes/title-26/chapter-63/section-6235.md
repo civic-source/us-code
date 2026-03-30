@@ -3,15 +3,15 @@ title: "Section 6235 - Period of limitations on making adjustments"
 usc_title: 26
 usc_section: "6235"
 chapter: 63
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6235"
-generated_at: "2026-03-30T07:02:42.409Z"
+generated_at: "2026-03-30T07:04:56.861Z"
 status: "active"
 ---
 
 # § 6235. Period of limitations on making adjustments
 
-- **(a)** Except as otherwise provided in this section, no adjustment under this subpart 1 1 So in original. As enacted by Pub. L. 114–74 , Part 1, which contains this section, does not contain subparts. for any partnership taxable year may be made after the later of—
+- **(a)** Except as otherwise provided in this section, no adjustment under this subpart 1 1 So in original. This part does not contain subparts. for any partnership taxable year may be made after the later of—
   - **(1)** the date which is 3 years after the latest of—
     - **(A)** the date on which the partnership return for such taxable year was filed,
     - **(B)** the return due date for the taxable year, or

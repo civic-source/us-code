@@ -3,9 +3,9 @@ title: "Section 2366c - Major defense acquisition programs: submissions to Congr
 usc_title: 10
 usc_section: "2366c"
 chapter: 139
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2366c"
-generated_at: "2026-03-30T07:01:27.981Z"
+generated_at: "2026-03-30T07:03:43.786Z"
 status: "active"
 ---
 
@@ -19,5 +19,6 @@ status: "active"
     - **(A)** the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
     - **(B)** the planned dates for initial operational test and evaluation and initial operational capability.
   - **(3)** A summary of any production, manufacturing, and fielding risks associated with the program.
+  - **(4)** An assessment of the sufficiency of the developmental test and evaluation completed, including the use of automated data analytics or modeling and simulation tools and methodologies.
 - **(b)** At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee further information or underlying documentation for the information in a brief summary report submitted under subsection (a), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that subsection.
 - **(c)** In this section, the term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title .

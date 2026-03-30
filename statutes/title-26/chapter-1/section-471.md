@@ -3,9 +3,9 @@ title: "Section 471 - General rule for inventories"
 usc_title: 26
 usc_section: "471"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 471"
-generated_at: "2026-03-30T07:02:42.290Z"
+generated_at: "2026-03-30T07:04:56.738Z"
 status: "active"
 ---
 
@@ -15,4 +15,13 @@ status: "active"
 - **(b)** A method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventory shrinkage that are confirmed by a physical count only after the last day of the taxable year if—
   - **(1)** the taxpayer normally does a physical count of inventories at each location on a regular and consistent basis, and
   - **(2)** the taxpayer makes proper adjustments to such inventories and to its estimating methods to the extent such estimates are greater than or less than the actual shrinkage.
-- **(c)** For rules relating to capitalization of direct and indirect costs of property, see section 263A.
+- **(c)**
+  - **(1)** In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year—
+    - **(A)** subsection (a) shall not apply with respect to such taxpayer for such taxable year, and
+    - **(B)** the taxpayer’s method of accounting for inventory for such taxable year shall not be treated as failing to clearly reflect income if such method either—
+      - **(i)** treats inventory as non-incidental materials and supplies, or
+      - **(ii)** conforms to such taxpayer’s method of accounting reflected in an applicable financial statement of the taxpayer with respect to such taxable year or, if the taxpayer does not have any applicable financial statement with respect to such taxable year, the books and records of the taxpayer prepared in accordance with the taxpayer’s accounting procedures.
+  - **(2)** For purposes of this subsection, the term “applicable financial statement” has the meaning given the term in section 451(b)(3).
+  - **(3)** In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
+  - **(4)** Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+- **(d)** For rules relating to capitalization of direct and indirect costs of property, see section 263A.

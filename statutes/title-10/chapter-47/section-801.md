@@ -3,15 +3,15 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-30T07:01:27.912Z"
+generated_at: "2026-03-30T07:03:43.729Z"
 status: "active"
 ---
 
 # § 801. Article 1. Definitions
 
-In this chapter:
+In this chapter (the Uniform Code of Military Justice):
 
   - **(1)** The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
   - **(2)** The Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy, shall be considered as one armed force.

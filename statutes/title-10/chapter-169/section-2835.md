@@ -3,9 +3,9 @@ title: "Section 2835 - Long-term leasing of military family housing to be constr
 usc_title: 10
 usc_section: "2835"
 chapter: 169
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2835"
-generated_at: "2026-03-30T07:01:28.006Z"
+generated_at: "2026-03-30T07:03:43.807Z"
 status: "active"
 ---
 
@@ -25,7 +25,5 @@ status: "active"
     - **(B)** to Department of Homeland Security specifications, in the case of a contract for the Coast Guard.
 - **(e)** A contract under this section may be for any period not in excess of 20 years (excluding the period required for construction of the housing facilities).
 - **(f)** A contract under this section shall provide that, upon the termination of the lease period, the United States shall have the right of first refusal to acquire all right, title, and interest to the housing facilities constructed and leased under the contract.
-- **(g)** A contract may not be entered into for the lease of housing facilities under this section until—
-  - **(1)** the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
-  - **(2)** a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title .
+- **(g)** A contract may be entered into for the lease of housing facilities under this section only after the end of the 14-day period beginning on the date on which the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities.
 - **(h)** A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.

@@ -3,9 +3,9 @@ title: "Section 4057 - Alternative loss allocation system for indeterminate clai
 usc_title: 42
 usc_section: "4057"
 chapter: 50
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 4057"
-generated_at: "2026-03-30T07:03:04.889Z"
+generated_at: "2026-03-30T07:05:21.745Z"
 status: "active"
 ---
 

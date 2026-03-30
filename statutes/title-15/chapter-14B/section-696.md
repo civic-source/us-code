@@ -3,9 +3,9 @@ title: "Section 696 - Loans for plant acquisition, construction, conversion and 
 usc_title: 15
 usc_section: "696"
 chapter: 14
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "15 U.S.C. § 696"
-generated_at: "2026-03-30T07:01:50.884Z"
+generated_at: "2026-03-30T07:03:49.252Z"
 status: "active"
 ---
 
@@ -57,3 +57,4 @@ The Administration may, in addition to its authority under section 695 of this t
       - **(v)** the financing under this subchapter will provide a substantial benefit to the borrower when prepayment penalties, financing fees, and other financing costs are accounted for;
       - **(vi)** the borrower has been current on all payments due on the existing debt for not less than 1 year preceding the date of refinancing; and
       - **(vii)** the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
+    - **(C)** 2 2 See Refinancing Not Involving Expansions note below. Repealed. Pub. L. 111–240, title I , § 1122(b), Sept. 27, 2010 , 124 Stat. 2512 .

@@ -3,9 +3,9 @@ title: "Section 60111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "60111"
 chapter: 601
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "36 U.S.C. § 60111"
-generated_at: "2026-03-30T07:02:49.126Z"
+generated_at: "2026-03-30T07:05:06.709Z"
 status: "active"
 ---
 

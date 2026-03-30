@@ -3,9 +3,9 @@ title: "Section 7345 - Revocation or denial of passport in case of certain tax d
 usc_title: 26
 usc_section: "7345"
 chapter: 75
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 7345"
-generated_at: "2026-03-30T07:02:42.427Z"
+generated_at: "2026-03-30T07:04:56.878Z"
 status: "active"
 ---
 
@@ -37,5 +37,5 @@ status: "active"
   - **(2)** If the court determines that such certification was erroneous, then the court may order the Secretary to notify the Secretary of State that such certification was erroneous.
 - **(f)** In the case of a calendar year beginning after 2016, the dollar amount in subsection (a) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(g)** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.

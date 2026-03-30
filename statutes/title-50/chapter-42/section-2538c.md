@@ -3,15 +3,15 @@ title: "Section 2538c - Long-term plan for meeting national security requirement
 usc_title: 50
 usc_section: "2538c"
 chapter: 42
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 2538c"
-generated_at: "2026-03-30T07:03:10.263Z"
+generated_at: "2026-03-30T07:05:26.724Z"
 status: "active"
 ---
 
 # § 2538c. Long-term plan for meeting national security requirements for unencumbered uranium
 
-- **(a)** Concurrent with the submission to Congress of the budget of the President under section 1105(a) of title 31 , in each even-numbered year beginning in 2016 and ending in 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
+- **(a)** Not later than December 31 of each even-numbered year through 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
 - **(b)** The plan required by subsection (a) shall include the following:
   - **(1)** An inventory of unencumbered uranium (other than depleted uranium), by program source and enrichment level, that, as of the date of the plan, is allocated to national security requirements.
   - **(2)** An inventory of unencumbered uranium (other than depleted uranium), by program source and enrichment level, that, as of the date of the plan, is not allocated to national security requirements but could be allocated to such requirements.

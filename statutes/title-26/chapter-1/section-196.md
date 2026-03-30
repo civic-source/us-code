@@ -3,9 +3,9 @@ title: "Section 196 - Deduction for certain unused business credits"
 usc_title: 26
 usc_section: "196"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 196"
-generated_at: "2026-03-30T07:02:42.247Z"
+generated_at: "2026-03-30T07:04:56.694Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(1)** the investment credit determined under section 46 (but only to the extent attributable to property the basis of which is reduced by section 50(c)),
   - **(2)** the work opportunity credit determined under section 51(a),
   - **(3)** the alcohol fuels credit determined under section 40(a),
-  - **(4)** the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) for taxable years beginning after December 31, 1988 ,
+  - **(4)** the research credit determined under section 41(a) (other than such credit determined under section 280C(c)(3)) 1 1 See References in Text note below. for taxable years beginning after December 31, 1988 ,
   - **(5)** the enhanced oil recovery credit determined under section 43(a),
   - **(6)** the empowerment zone employment credit determined under section 1396(a),
   - **(7)** the Indian employment credit determined under section 45A(a),

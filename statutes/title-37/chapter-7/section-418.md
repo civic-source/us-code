@@ -3,9 +3,9 @@ title: "Section 418 - Clothing allowance: enlisted members"
 usc_title: 37
 usc_section: "418"
 chapter: 7
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "37 U.S.C. § 418"
-generated_at: "2026-03-30T07:02:49.454Z"
+generated_at: "2026-03-30T07:05:02.838Z"
 status: "active"
 ---
 
@@ -22,3 +22,5 @@ status: "active"
   - **(3)** This subsection does not prohibit the provision of a cash allowance to a member described in paragraph (1) for the purchase of athletic footwear if such footwear—
     - **(A)** is medically required to meet unique physiological needs of the member; and
     - **(B)** cannot be met with athletic footwear that complies with the requirements of this subsection.
+  - **(4)** This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
+  - **(5)** The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.

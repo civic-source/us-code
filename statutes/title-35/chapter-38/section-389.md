@@ -3,9 +3,9 @@ title: "Section 389 - Examination of international design application"
 usc_title: 35
 usc_section: "389"
 chapter: 38
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "35 U.S.C. § 389"
-generated_at: "2026-03-30T07:02:44.107Z"
+generated_at: "2026-03-30T07:04:58.692Z"
 status: "active"
 ---
 

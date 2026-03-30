@@ -3,9 +3,9 @@ title: "Section 2305 - Contracts: planning, solicitation, evaluation, and award 
 usc_title: 10
 usc_section: "2305"
 chapter: 137
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2305"
-generated_at: "2026-03-30T07:01:27.971Z"
+generated_at: "2026-03-30T07:03:43.778Z"
 status: "active"
 ---
 
@@ -75,11 +75,13 @@ status: "active"
       - **(ii)** the overall evaluated cost and technical rating of the offer of the contractor awarded the contract and the overall evaluated cost and technical rating of the offer of the debriefed offeror;
       - **(iii)** the overall ranking of all offers;
       - **(iv)** a summary of the rationale for the award;
-      - **(v)** in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
-      - **(vi)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency.
-    - **(C)** The debriefing may not include point-by-point comparisons of the debriefed offeror’s offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5 .
-    - **(D)** Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
-    - **(E)** If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+      - **(v)** in the case of a proposal that includes a commercial item that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract;
+      - **(vi)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency; and
+      - **(vii)** an opportunity for a disappointed offeror to submit, within two business days after receiving a post-award debriefing, additional questions related to the debriefing.
+    - **(C)** The agency shall respond in writing to any additional question submitted under subparagraph (B)(vii) within five business days after receipt of the question. The agency shall not consider the debriefing to be concluded until the agency delivers its written responses to the disappointed offeror.
+    - **(D)** The debriefing may not include point-by-point comparisons of the debriefed offeror’s offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5 .
+    - **(E)** Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
+    - **(F)** If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
       - **(i)** the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
       - **(ii)** the same information that would have been provided to the original offerors.
   - **(6)**

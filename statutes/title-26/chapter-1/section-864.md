@@ -3,9 +3,9 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-30T07:02:42.315Z"
+generated_at: "2026-03-30T07:04:56.763Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
     - **(C)** Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
 - **(c)**
   - **(1)** For purposes of this title—
-    - **(A)** In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
-    - **(B)** Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
+    - **(A)** In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), (7), and (8) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+    - **(B)** Except as provided in paragraph (6) 1 1 So in original. Probably should be followed by a comma. (7), or (8) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
   - **(2)** In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United States from the sale or exchange of capital assets, is effectively connected with the conduct of a trade or business within the United States, the factors taken into account shall include whether—
     - **(A)** the income, gain, or loss is derived from assets used in or held for use in the conduct of such trade or business, or
     - **(B)** the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
@@ -53,6 +53,18 @@ status: "active"
   - **(7)** For purposes of this title, if—
     - **(A)** any property ceases to be used or held for use in connection with the conduct of a trade or business within the United States, and
     - **(B)** such property is disposed of within 10 years after such cessation,
+  - **(8)**
+    - **(A)** Notwithstanding any other provision of this subtitle, if a nonresident alien individual or foreign corporation owns, directly or indirectly, an interest in a partnership which is engaged in any trade or business within the United States, gain or loss on the sale or exchange of all (or any portion of) such interest shall be treated as effectively connected with the conduct of such trade or business to the extent such gain or loss does not exceed the amount determined under subparagraph (B).
+    - **(B)** The amount determined under this subparagraph with respect to any partnership interest sold or exchanged—
+      - **(i)** in the case of any gain on the sale or exchange of the partnership interest, is—
+        - **(I)** the portion of the partner’s distributive share of the amount of gain which would have been effectively connected with the conduct of a trade or business within the United States if the partnership had sold all of its assets at their fair market value as of the date of the sale or exchange of such interest, or
+        - **(II)** zero if no gain on such deemed sale would have been so effectively connected, and
+      - **(ii)** in the case of any loss on the sale or exchange of the partnership interest, is—
+        - **(I)** the portion of the partner’s distributive share of the amount of loss on the deemed sale described in clause (i)(I) which would have been so effectively connected, or
+        - **(II)** zero if no loss on such deemed sale would be have been so effectively connected.
+    - **(C)** If a partnership described in subparagraph (A) holds any United States real property interest (as defined in section 897(c)) at the time of the sale or exchange of the partnership interest, then the gain or loss treated as effectively connected income under subparagraph (A) shall be reduced by the amount so treated with respect to such United States real property interest under section 897.
+    - **(D)** For purposes of this paragraph, the term “sale or exchange” means any sale, exchange, or other disposition.
+    - **(E)** The Secretary shall prescribe such regulations or other guidance as the Secretary determines appropriate for the application of this paragraph, including with respect to exchanges described in section 332, 351, 354, 355, 356, or 361.
 - **(d)**
   - **(1)** For purposes of the provisions set forth in paragraph (2), if any person acquires (directly or indirectly) a trade or service receivable from a related person, any income of such person from the trade or service receivable so acquired shall be treated as if it were interest on a loan to the obligor under the receivable.
   - **(2)** The provisions set forth in this paragraph are as follows:
@@ -77,10 +89,10 @@ status: "active"
   - **(7)** Paragraph (1) shall not apply to any trade or service receivable acquired by any person from a related person if—
     - **(A)** the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
     - **(B)** such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
-  - **(8)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(b)(3). 1 1 See References in Text note below.
+  - **(8)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the provisions of this subsection or section 956(b)(3). 2 2 See References in Text note below.
 - **(e)** For purposes of this subchapter—
   - **(1)** The taxable income of each member of an affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
-  - **(2)** All allocations and apportionments of interest expense shall be made on the basis of assets rather than gross income.
+  - **(2)** All allocations and apportionments of interest expense shall be determined using the adjusted bases of assets rather than on the basis of the fair market value of the assets or gross income.
   - **(3)** For purposes of allocating and apportioning any deductible expense, any tax-exempt asset (and any income from such an asset) shall not be taken into account. A similar rule shall apply in the case of the portion of any dividend (other than a qualifying dividend as defined in section 243(b)) equal to the deduction allowable under section 243 or 245(a) with respect to such dividend and in the case of a like portion of any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).
   - **(4)**
     - **(A)** For purposes of allocating and apportioning expenses on the basis of assets, the adjusted basis of any stock in a nonaffiliated 10-percent owned corporation shall be—
@@ -162,7 +174,7 @@ status: "active"
       - **(i)** that such expenditures are attributable to activities conducted in the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
       - **(ii)** that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
     - **(C)** The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
-  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) 2 of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) 2 of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
   - **(3)**
     - **(A)** Any qualified research and experimental expenditures described in subparagraph (B)—
       - **(i)** if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and

@@ -3,9 +3,9 @@ title: "Section 80c - Transfer or loan of objects, equipment and rec­ords to Sm
 usc_title: 20
 usc_section: "80c"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "20 U.S.C. § 80c"
-generated_at: "2026-03-30T07:01:56.644Z"
+generated_at: "2026-03-30T07:04:27.714Z"
 status: "active"
 ---
 

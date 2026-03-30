@@ -3,9 +3,9 @@ title: "Section 4082 - Exemptions for diesel fuel and kerosene"
 usc_title: 26
 usc_section: "4082"
 chapter: 32
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 4082"
-generated_at: "2026-03-30T07:02:42.369Z"
+generated_at: "2026-03-30T07:04:56.819Z"
 status: "active"
 ---
 

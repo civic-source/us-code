@@ -3,9 +3,9 @@ title: "Section 31313 - Commercial driver’s license program implementation fin
 usc_title: 49
 usc_section: "31313"
 chapter: 313
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 31313"
-generated_at: "2026-03-30T07:03:12.366Z"
+generated_at: "2026-03-30T07:05:28.460Z"
 status: "active"
 ---
 
@@ -24,8 +24,9 @@ status: "active"
     - **(A)** benefit all jurisdictions of the United States;
     - **(B)** address national safety concerns and circumstances;
     - **(C)** address emerging issues relating to commercial driver’s license improvements;
-    - **(D)** support innovative ideas and solutions to commercial driver’s license program issues; or
-    - **(E)** address other commercial driver’s license issues, as determined by the Secretary.
+    - **(D)** support innovative ideas and solutions to commercial driver’s license program issues;
+    - **(E)** support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking; or
+    - **(F)** address other commercial driver’s license issues, as determined by the Secretary.
 - **(b)** A recipient may not use financial assistance funds awarded under this section to rent, lease, or buy land or buildings.
 - **(c)** The Secretary shall issue an annual report on the activities carried out under this section.
 - **(d)** All amounts made available to carry out this section for a fiscal year shall be apportioned to a recipient described in subsection (a)(3) according to criteria prescribed by the Secretary.

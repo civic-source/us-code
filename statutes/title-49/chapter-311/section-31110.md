@@ -3,9 +3,9 @@ title: "Section 31110 - Authorization of appropriations"
 usc_title: 49
 usc_section: "31110"
 chapter: 311
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "49 U.S.C. § 31110"
-generated_at: "2026-03-30T07:03:12.361Z"
+generated_at: "2026-03-30T07:05:28.455Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(8)** conducting safety reviews of new operators; and
   - **(9)** such other expenses as may from time to time become necessary to implement statutory mandates of the Federal Motor Carrier Safety Administration not funded from other sources.
 - **(c)**
-  - **(1)** The Secretary may conduct, through any combination of grants, contracts, cooperative agreements, and other activities, an internal and external outreach and education program to be administered by the Administrator of the Federal Motor Carrier Safety Administration.
+  - **(1)** The Secretary may conduct, through any combination of grants, contracts, cooperative agreements, and other activities, an internal and external outreach and education program to be administered by the Administrator of the Federal Motor Carrier Safety Administration. The program authorized under this subsection may support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking, while deferring to existing resources, as practicable.
   - **(2)** The Federal share of an outreach and education project for which a grant, contract, or cooperative agreement is made under this subsection may be up to 100 percent of the cost of the project.
   - **(3)** From amounts made available under subsection (a), the Secretary shall make available not more than $4,000,000 each fiscal year to carry out this subsection.
 - **(d)** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.

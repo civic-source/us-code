@@ -3,9 +3,9 @@ title: "Section 6253 - Replacement"
 usc_title: 10
 usc_section: "6253"
 chapter: 567
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 6253"
-generated_at: "2026-03-30T07:01:28.024Z"
+generated_at: "2026-03-30T07:03:43.822Z"
 status: "active"
 ---
 

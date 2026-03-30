@@ -3,9 +3,9 @@ title: "Section 2431a - Acquisition strategy"
 usc_title: 10
 usc_section: "2431a"
 chapter: 144
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2431a"
-generated_at: "2026-03-30T07:01:27.985Z"
+generated_at: "2026-03-30T07:03:43.789Z"
 status: "active"
 ---
 
@@ -36,8 +36,8 @@ status: "active"
     - **(H)** Multiyear procurement in accordance with section 2306b of this title .
     - **(I)** Integration of current intelligence assessments into the acquisition process.
     - **(J)** Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title.
-- **(d)** The 1 1 So in original. Probably should be preceded by “(1)”. milestone decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program, major automated information system, or major system at each of the following times:
-  - **(2)** If the milestone decision authority revises an acquisition strategy for a program or system because of a change described in paragraph (1)(F), the milestone decision authority shall provide notice of the revision to the congressional defense committees.
+- **(d)**
+  - **(1)** The milestone decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program, major automated information system, or major system at each of the following times:
     - **(A)** Milestone A approval.
     - **(B)** The decision to release the request for proposals for development of the program or system.
     - **(C)** Milestone B approval.
@@ -49,6 +49,7 @@ status: "active"
       - **(iii)** a significant change to the schedule of the program or system; or
       - **(iv)** a significant change to the performance of the program or system.
     - **(G)** Any other time considered relevant by the milestone decision authority.
+  - **(2)** If the milestone decision authority revises an acquisition strategy for a program or system because of a change described in paragraph (1)(F), the milestone decision authority shall provide notice of the revision to the congressional defense committees.
 - **(e)** In this section:
   - **(1)** The term “major defense acquisition program” has the meaning provided in section 2430 of this title .
   - **(2)** The term “major system” has the meaning provided in section 2302(5) of this title .

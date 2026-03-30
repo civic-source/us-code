@@ -3,9 +3,9 @@ title: "Section 137 - Adoption assistance programs"
 usc_title: 26
 usc_section: "137"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 137"
-generated_at: "2026-03-30T07:02:42.230Z"
+generated_at: "2026-03-30T07:04:56.676Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(A)** the amount (if any) by which the taxpayer’s adjusted gross income exceeds $150,000, bears to
     - **(B)** $40,000.
   - **(3)** For purposes of paragraph (2), adjusted gross income shall be determined—
-    - **(A)** without regard to this section and sections 199, 221, 222, 911, 931, and 933, and
+    - **(A)** without regard to this section and sections 221, 222, 911, 931, and 933, and
     - **(B)** after the application of sections 86, 135, 219, and 469.
 - **(c)** For purposes of this section, an adoption assistance program is a separate written plan of an employer for the exclusive benefit of such employer’s employees—
   - **(1)** under which the employer provides such employees with adoption assistance, and
@@ -29,4 +29,4 @@ status: "active"
 - **(e)** Rules similar to the rules of subsections (e), (f), and (g) of section 23 shall apply for purposes of this section.
 - **(f)** In the case of a taxable year beginning after December 31, 2002 , each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof.

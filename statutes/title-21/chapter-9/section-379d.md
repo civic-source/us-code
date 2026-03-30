@@ -3,9 +3,9 @@ title: "Section 379d - Automation of Food and Drug Administration"
 usc_title: 21
 usc_section: "379d"
 chapter: 9
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "21 U.S.C. § 379d"
-generated_at: "2026-03-30T07:02:30.356Z"
+generated_at: "2026-03-30T07:04:41.324Z"
 status: "active"
 ---
 

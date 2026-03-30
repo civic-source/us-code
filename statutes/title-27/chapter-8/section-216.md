@@ -3,9 +3,9 @@ title: "Section 216 - Preemption"
 usc_title: 27
 usc_section: "216"
 chapter: 8
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "27 U.S.C. § 216"
-generated_at: "2026-03-30T07:02:34.504Z"
+generated_at: "2026-03-30T07:04:42.928Z"
 status: "active"
 ---
 

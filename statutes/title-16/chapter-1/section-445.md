@@ -3,9 +3,9 @@ title: "Section 445 - Canyon De Chelly National Monument; establishment; boundar
 usc_title: 16
 usc_section: "445"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 445"
-generated_at: "2026-03-30T07:02:21.115Z"
+generated_at: "2026-03-30T07:04:22.245Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1400S - Additional tax relief provisions"
 usc_title: 26
 usc_section: "1400S"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 1400S"
-generated_at: "2026-03-30T07:02:42.350Z"
+generated_at: "2026-03-30T07:04:56.798Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** Except as otherwise provided in paragraph (2), section 170(b) shall not apply to qualified contributions and such contributions shall not be taken into account for purposes of applying subsections (b) and (d) of section 170 to other contributions.
   - **(2)** For purposes of section 170—
     - **(A)** In the case of an individual—
-      - **(i)** Any qualified contribution shall be allowed only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer’s contribution base (as defined in subparagraph (G) of section 170(b)(1)) over the amount of all other charitable contributions allowed under section 170(b)(1).
+      - **(i)** Any qualified contribution shall be allowed only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer’s contribution base (as defined in subparagraph (G) 1 1 See References in Text note below. of section 170(b)(1)) over the amount of all other charitable contributions allowed under section 170(b)(1).
       - **(ii)** If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(1)) exceeds the limitation of clause (i), such excess shall be added to the excess described in the portion of subparagraph (A) of such section which precedes clause (i) thereof for purposes of applying such section.
     - **(B)** In the case of a corporation—
       - **(i)** Any qualified contribution shall be allowed only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer’s taxable income (as determined under paragraph (2) of section 170(b)) over the amount of all other charitable contributions allowed under such paragraph.

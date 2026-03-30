@@ -3,9 +3,9 @@ title: "Section 1437v - Demolition, site revitalization, replacement housing, an
 usc_title: 42
 usc_section: "1437v"
 chapter: 8
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 1437v"
-generated_at: "2026-03-30T07:03:04.794Z"
+generated_at: "2026-03-30T07:05:21.657Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 122a - Public availability of Department of Defense reports requ
 usc_title: 10
 usc_section: "122a"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 122a"
-generated_at: "2026-03-30T07:01:27.886Z"
+generated_at: "2026-03-30T07:03:43.707Z"
 status: "active"
 ---
 
 # § 122a. Public availability of Department of Defense reports required by law
 
-- **(a)** To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Office of the Assistant Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
+- **(a)** To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—
   - **(1)** posting the report on a publicly accessible Internet website of the Department of Defense; and
   - **(2)** upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.
 - **(b)**

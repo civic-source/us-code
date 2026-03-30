@@ -3,9 +3,9 @@ title: "Section 25A - Hope and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T07:02:42.202Z"
+generated_at: "2026-03-30T07:04:56.648Z"
 status: "active"
 ---
 
@@ -71,12 +71,12 @@ status: "active"
   - **(1)**
     - **(A)** In the case of a taxable year beginning after 2001, each of the $1,000 amounts under subsection (b)(1) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** If any amount as adjusted under subparagraph (A) is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.
   - **(2)**
     - **(A)** In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 - **(i)** In the case of any taxable year beginning after 2008—
   - **(1)** The Hope Scholarship Credit shall be an amount equal to the sum of—

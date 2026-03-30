@@ -3,9 +3,9 @@ title: "Section 535 - Accumulated taxable income"
 usc_title: 26
 usc_section: "535"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 535"
-generated_at: "2026-03-30T07:02:42.296Z"
+generated_at: "2026-03-30T07:04:56.745Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** For purposes of this subtitle, the term “accumulated taxable income” means the taxable income, adjusted in the manner provided in subsection (b), minus the sum of the dividends paid deduction (as defined in section 561) and the accumulated earnings credit (as defined in subsection (c)).
 - **(b)** For purposes of subsection (a), taxable income shall be adjusted as follows:
-  - **(1)** There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
+  - **(1)** There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
   - **(2)** The deduction for charitable contributions provided under section 170 shall be allowed without regard to section 170(b)(2).
   - **(3)** The special deductions for corporations provided in part VIII (except section 248) of subchapter B (section 241 and following, relating to the deduction for dividends received by corporations, etc.) shall not be allowed.
   - **(4)** The net operating loss deduction provided in section 172 shall not be allowed.
@@ -48,7 +48,7 @@ status: "active"
     - **(B)** In the case of a corporation the principal function of which is the performance of services in the field of health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting, subparagraph (A) shall be applied by substituting “$150,000” for “$250,000”.
   - **(3)** In the case of a corporation which is a mere holding or investment company, the accumulated earnings credit is the amount (if any) by which $250,000 exceeds the accumulated earnings and profits of the corporation at the close of the preceding taxable year.
   - **(4)** For purposes of paragraphs (2) and (3), the accumulated earnings and profits at the close of the preceding taxable year shall be reduced by the dividends which under section 563(a) (relating to dividends paid after the close of the taxable year) are considered as paid during such taxable year.
-  - **(5)** For denial of credit provided in paragraph (2) or (3) where multiple corporations are formed to avoid tax, see section 1551, and for limitation on such credit in the case of certain controlled corporations, see section 1561.
+  - **(5)** For limitation on credit provided in paragraph (2) or (3) in the case of certain controlled corporations, see section 1561.
 - **(d)**
   - **(1)** For purposes of this part, if 10 percent or more of the earnings and profits of any foreign corporation for any taxable year—
     - **(A)** is derived from sources within the United States, or

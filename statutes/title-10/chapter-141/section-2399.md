@@ -3,16 +3,16 @@ title: "Section 2399 - Operational test and evaluation of defense acquisition pr
 usc_title: 10
 usc_section: "2399"
 chapter: 141
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2399"
-generated_at: "2026-03-30T07:01:27.982Z"
+generated_at: "2026-03-30T07:03:43.787Z"
 status: "active"
 ---
 
 # § 2399. Operational test and evaluation of defense acquisition programs
 
 - **(a)**
-  - **(1)** The Secretary of Defense shall provide that a covered major defense acquisition program or a covered designated major subprogram may not proceed beyond low-rate initial production until initial operational test and evaluation of the program or subprogram is completed.
+  - **(1)** The Secretary of Defense shall provide that a covered major defense acquisition program, a covered designated major subprogram, or an element of the ballistic missile defense system may not proceed beyond low-rate initial production until initial operational test and evaluation of the program, subprogram, or element is completed.
   - **(2)** In this subsection:
     - **(A)** The term “covered major defense acquisition program” means a major defense acquisition program that involves the acquisition of a weapon system that is a major system within the meaning of that term in section 2302(5) of this title .
     - **(B)** The term “covered designated major subprogram” means a major subprogram designated under section 2430a(a)(1) of this title that is a major subprogram of a covered major defense acquisition program.

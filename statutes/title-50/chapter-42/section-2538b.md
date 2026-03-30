@@ -3,9 +3,9 @@ title: "Section 2538b - Stockpile responsiveness program"
 usc_title: 50
 usc_section: "2538b"
 chapter: 42
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "50 U.S.C. § 2538b"
-generated_at: "2026-03-30T07:03:10.263Z"
+generated_at: "2026-03-30T07:05:26.724Z"
 status: "active"
 ---
 
@@ -19,4 +19,5 @@ status: "active"
   - **(3)** Periodically demonstrate stockpile responsiveness throughout the range of capabilities required, including prototypes, flight testing, and development of plans for certification without the need for nuclear explosive testing.
   - **(4)** Shorten design, certification, and manufacturing cycles and timelines to minimize the amount of time and costs leading to an engineering prototype and production.
   - **(5)** Continually exercise processes for the integration and coordination of all relevant elements and processes of the Administration and the Department of Defense required to ensure stockpile responsiveness.
+  - **(6)** The retention of the ability, in consultation with the Director of National Intelligence, to assess and develop prototype nuclear weapons of foreign countries and, if necessary, to conduct no-yield testing of those prototypes.
 - **(d)** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.

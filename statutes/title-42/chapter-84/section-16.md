@@ -3,9 +3,9 @@ title: "Section 16 - Advisory Board on Toxic Substances and Worker Health"
 usc_title: 42
 usc_section: "16"
 chapter: 84
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T07:03:04.970Z"
+generated_at: "2026-03-30T07:05:21.822Z"
 status: "active"
 ---
 
@@ -38,4 +38,4 @@ status: "active"
   - **(2)** Amounts appropriated to carry out this section—
     - **(A)** shall not be appropriated to the account established under subsection (a) of section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001 ( Public Law 106–554 ; 114 Stat. 2763 A–251); and
     - **(B)** shall not be subject to subsection (b) of that section.
-- **(i)** The Board shall terminate on the date that is 5 years after December 19, 2014 .
+- **(i)** The Board shall terminate on the date that is 10 years after December 19, 2014 .

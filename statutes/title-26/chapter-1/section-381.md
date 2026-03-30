@@ -3,9 +3,9 @@ title: "Section 381 - Carryovers in certain corporate acquisitions"
 usc_title: 26
 usc_section: "381"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 381"
-generated_at: "2026-03-30T07:02:42.261Z"
+generated_at: "2026-03-30T07:04:56.708Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
       - **(ii)** the pre-acquisition part year shall begin on the same day as such taxable year begins and shall end on the date of distribution or transfer;
       - **(iii)** the post-acquisition part year shall begin on the day following the date of distribution or transfer and shall end on the same day as the end of such taxable year;
       - **(iv)** the taxable income for such taxable year (computed with the modifications specified in section 172(b)(2)(A) but without a net operating loss deduction) shall be divided between the pre-acquisition part year and the post-acquisition part year in proportion to the number of days in each;
-      - **(v)** the net operating loss deduction for the pre-acquisition part year shall be determined as provided in section 172(b)(2)(B), but without regard to a net operating loss year of the distributor or transferor corporation; and
-      - **(vi)** the net operating loss deduction for the post-acquisition part year shall be determined as provided in section 172(b)(2)(B).
+      - **(v)** the net operating loss deduction for the pre-acquisition part year shall be determined as provided in section 172(b)(2)(B), 1 1 See References in Text note below. but without regard to a net operating loss year of the distributor or transferor corporation; and
+      - **(vi)** the net operating loss deduction for the post-acquisition part year shall be determined as provided in section 172(b)(2)(B). 1
   - **(2)** In the case of a distribution or transfer described in subsection (a)—
     - **(A)** the earnings and profits or deficit in earnings and profits, as the case may be, of the distributor or transferor corporation shall, subject to subparagraph (B), be deemed to have been received or incurred by the acquiring corporation as of the close of the date of the distribution or transfer; and
     - **(B)** a deficit in earnings and profits of the distributor, transferor, or acquiring corporation shall be used only to offset earnings and profits accumulated after the date of transfer. For this purpose, the earnings and profits for the taxable year of the acquiring corporation in which the distribution or transfer occurs shall be deemed to have been accumulated after such distribution or transfer in an amount which bears the same ratio to the undistributed earnings and profits of the acquiring corporation for such taxable year (computed without regard to any earnings and profits received from the distributor or transferor corporation, as described in subparagraph (A) of this paragraph) as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
@@ -54,10 +54,10 @@ status: "active"
   - **(17)** If the acquiring corporation pays a deficiency dividend (as defined in section 547(d)) with respect to the distributor or transferor corporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 547.
   - **(18)** The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of section 613(c)(3) (relating to extraction of ores or minerals from the ground).
   - **(19)** Contributions made in the taxable year ending on the date of distribution or transfer and the 4 prior taxable years by the distributor or transferor corporation in excess of the amount deductible under section 170(b)(2) for such taxable years shall be deductible by the acquiring corporation for its taxable years which begin after the date of distribution or transfer, subject to the limitations imposed in section 170(b)(2). In applying the preceding sentence, each taxable year of the distributor or transferor corporation beginning on or before the date of distribution or transfer shall be treated as a prior taxable year with reference to the acquiring corporation’s taxable years beginning after such date.
-  - **[(20)**
+  - **(20)** The carryover of disallowed business interest described in section 163(j)(2) to taxable years ending after the date of distribution or transfer.
+  - **[(21)**
   - **(22)** If the acquiring corporation is an insurance company taxable under subchapter L, there shall be taken into account (to the extent proper to carry out the purposes of this section and of subchapter L, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter L in respect of the distributor or transferor corporation.
   - **(23)** If the acquiring corporation pays a deficiency dividend (as defined in section 860(f)) with respect to the distributor or transferor corporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 860.
   - **(24)** The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and section 38, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 38 in respect of the distributor or transferor corporation.
   - **(25)** The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
   - **(26)** The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and subchapter U, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter U in respect of the distributor or transferor corporation.
-- **(d)** For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.

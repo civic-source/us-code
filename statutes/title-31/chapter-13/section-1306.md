@@ -3,9 +3,9 @@ title: "Section 1306 - Use of foreign credits"
 usc_title: 31
 usc_section: "1306"
 chapter: 13
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "31 U.S.C. § 1306"
-generated_at: "2026-03-30T07:02:46.773Z"
+generated_at: "2026-03-30T07:05:00.076Z"
 status: "active"
 ---
 

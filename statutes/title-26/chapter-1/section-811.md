@@ -3,9 +3,9 @@ title: "Section 811 - Accounting provisions"
 usc_title: 26
 usc_section: "811"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 811"
-generated_at: "2026-03-30T07:02:42.307Z"
+generated_at: "2026-03-30T07:04:56.755Z"
 status: "active"
 ---
 
@@ -29,6 +29,6 @@ status: "active"
   - **(2)** the same item to be counted more than once for reserve purposes, or
   - **(3)** any item to be deducted (either directly or as an increase in reserves) more than once.
 - **(d)** For purposes of this part (other than section 816), amounts in the nature of interest to be paid or credited under any contract for any period which is computed at a rate which—
-  - **(1)** exceeds the greater of the prevailing State assumed interest rate or applicable Federal interest rate in effect under section 807 for the contract for such period, and
+  - **(1)** exceeds the interest rate in effect under section 808(g) for the contract for such period, and
   - **(2)** is guaranteed beyond the end of the taxable year on which the reserves are being computed,
 - **(e)** If any return of a corporation made under this part is for a period of less than the entire calendar year (referred to in this subsection as “short period”), then section 443 shall not apply in respect to such period, but life insurance company taxable income shall be determined, under regulations prescribed by the Secretary, on an annual basis by a ratable daily projection of the appropriate figures for the short period.

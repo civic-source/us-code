@@ -3,9 +3,9 @@ title: "Section 6955 - Midshipmen: allotment upon redistricting of Congressional
 usc_title: 10
 usc_section: "6955"
 chapter: 603
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 6955"
-generated_at: "2026-03-30T07:01:28.026Z"
+generated_at: "2026-03-30T07:03:43.823Z"
 status: "active"
 ---
 

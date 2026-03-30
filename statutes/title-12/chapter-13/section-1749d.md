@@ -3,9 +3,9 @@ title: "Section 1749d - Cost of inspections and of providing representatives"
 usc_title: 12
 usc_section: "1749d"
 chapter: 13
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "12 U.S.C. § 1749d"
-generated_at: "2026-03-30T07:01:44.336Z"
+generated_at: "2026-03-30T07:04:15.120Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 581a - Repealed. Pub. L. 95–307 , § 8(a), June 30, 1978 , 92 
 usc_title: 16
 usc_section: "581a"
 chapter: 3
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "16 U.S.C. § 581a"
-generated_at: "2026-03-30T07:02:21.168Z"
+generated_at: "2026-03-30T07:04:22.297Z"
 status: "repealed"
 ---
 

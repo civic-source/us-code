@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-30T07:02:42.395Z"
+generated_at: "2026-03-30T07:04:56.847Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
       - **(ii)** except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
     - **(B)**
       - **(i)** This subsection shall apply to any organization which is exempt from taxation under section 501 other than an organization described in section 501(c)(3).
-      - **(ii)** This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+      - **(ii)** This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
       - **(iii)** This subsection shall not apply to any amount on which tax is imposed by reason of section 527(f).
     - **(C)** For purposes of this paragraph—
       - **(i)** Expenditures to which section 162(e)(1) applies shall be treated as paid out of dues or other similar amounts to the extent thereof.

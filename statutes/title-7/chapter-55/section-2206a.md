@@ -3,9 +3,9 @@ title: "Section 2206a - Conveyance of excess Federal personal property"
 usc_title: 7
 usc_section: "2206a"
 chapter: 55
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "7 U.S.C. § 2206a"
-generated_at: "2026-03-30T07:01:33.395Z"
+generated_at: "2026-03-30T07:03:40.564Z"
 status: "active"
 ---
 

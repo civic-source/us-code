@@ -3,9 +3,9 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-30T07:02:42.261Z"
+generated_at: "2026-03-30T07:04:56.708Z"
 status: "active"
 ---
 
@@ -34,6 +34,7 @@ status: "active"
     - **(A)** any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
     - **(B)** the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
   - **(2)** The term “post-change year” means any taxable year ending after the change date.
+  - **(3)** The term “pre-change loss” shall include any carryover of disallowed interest described in section 163(j)(2) under rules similar to the rules of paragraph (1).
 - **(e)** For purposes of this section—
   - **(1)** Except as otherwise provided in this subsection, the value of the old loss corporation is the value of the stock of such corporation (including any stock described in section 1504(a)(4)) immediately before the ownership change.
   - **(2)** If a redemption or other corporate contraction occurs in connection with an ownership change, the value under paragraph (1) shall be determined after taking such redemption or other corporate contraction into account.
@@ -126,7 +127,7 @@ status: "active"
   - **(1)** in the case where the last component of an ownership change is an owner shift involving a 5-percent shareholder, the date on which such shift occurs, and
   - **(2)** in the case where the last component of an ownership change is an equity structure shift, the date of the reorganization.
 - **(k)** For purposes of this section—
-  - **(1)** The term “loss corporation” means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
+  - **(1)** The term “loss corporation” means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20). Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
   - **(2)** The term “old loss corporation” means any corporation—
     - **(A)** with respect to which there is an ownership change, and
     - **(B)** which (before the ownership change) was a loss corporation.
@@ -168,7 +169,7 @@ status: "active"
         - **(II)** section 1015 (relating to property acquired by a gift or transfer in trust), or
         - **(III)** section 1041(b)(2) (relating to transfers of property between spouses or incident to divorce),
       - **(ii)** stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
-      - **(iii)** stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
+      - **(iii)** 1 1 See Amendment of Subsection ( l )(3)(B)(iii) note below. stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
     - **(C)** Except as provided in regulations, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
   - **(4)**
     - **(A)** If, immediately after an ownership change, the new loss corporation has substantial nonbusiness assets, the value of the old loss corporation shall be reduced by the excess (if any) of—

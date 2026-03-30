@@ -3,9 +3,9 @@ title: "Section 1906 - List of laws inapplicable to procurements of commercial i
 usc_title: 41
 usc_section: "1906"
 chapter: 19
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "41 U.S.C. § 1906"
-generated_at: "2026-03-30T07:02:54.624Z"
+generated_at: "2026-03-30T07:05:08.970Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial items by an executive agency. This section does not render a provision of law not included on the list inapplicable to contracts for the procurement of commercial items.
   - **(2)** A provision of law described in subsection (d) that is enacted after October 13, 1994 , shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts for the procurement of commercial items from the applicability of the provision.
 - **(c)**
-  - **(1)** In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+  - **(1)** In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.
   - **(2)** The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial items.
   - **(3)** A provision of law described in subsection (d) shall be included on the list of inapplicable provisions of law required by paragraph (2) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt subcontracts under a contract for the procurement of commercial items from the applicability of the provision.
   - **(4)** This subsection does not authorize the waiver of the applicability of any provision of law with respect to any subcontract under a contract with a prime contractor reselling or distributing commercial items of another contractor without adding value.

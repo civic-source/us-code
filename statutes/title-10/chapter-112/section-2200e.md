@@ -3,9 +3,9 @@ title: "Section 2200e - Definitions"
 usc_title: 10
 usc_section: "2200e"
 chapter: 112
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "10 U.S.C. § 2200e"
-generated_at: "2026-03-30T07:01:27.965Z"
+generated_at: "2026-03-30T07:03:43.772Z"
 status: "active"
 ---
 
@@ -13,9 +13,10 @@ status: "active"
 
 In this chapter:
 
-  - **(1)** The term “information assurance” includes the following:
-    - **(A)** Computer security.
-    - **(B)** Network security.
-    - **(C)** Any other information technology that the Secretary of Defense considers related to information assurance.
+  - **(1)** The term “cyber” includes the following:
+    - **(A)** Offensive cyber operations.
+    - **(B)** Defensive cyber operations.
+    - **(C)** Department of Defense information network operations and defense.
+    - **(D)** Any other information technology that the Secretary of Defense considers to be related to the cyber activities of the Department of Defense.
   - **(2)** The term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
-  - **(3)** The term “Center of Academic Excellence in Information Assurance Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education.
+  - **(3)** The term “Center of Academic Excellence in Cyber Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Cyber Education.

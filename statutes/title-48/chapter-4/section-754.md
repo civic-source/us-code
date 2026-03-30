@@ -3,9 +3,9 @@ title: "Section 754 - Repealed. July 3, 1950, ch. 446 , § 5(2), (4), 64 Stat. 3
 usc_title: 48
 usc_section: "754"
 chapter: 4
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "48 U.S.C. § 754"
-generated_at: "2026-03-30T07:03:09.068Z"
+generated_at: "2026-03-30T07:05:25.364Z"
 status: "repealed"
 ---
 

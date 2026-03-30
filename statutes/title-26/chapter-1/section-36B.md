@@ -3,9 +3,9 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 115-90"
+current_through: "PL 115-117"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-03-30T07:02:42.206Z"
+generated_at: "2026-03-30T07:04:56.653Z"
 status: "active"
 ---
 
@@ -105,7 +105,7 @@ status: "active"
       - **(i)** In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year): If the household income (expressed as a percent of poverty line) is: The applicable dollar amount is: Less than 200% $600 At least 200% but less than 300% $1,500 At least 300% but less than 400% $2,500.
       - **(ii)** In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
-        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(3)** Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the Patient Protection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
     - **(A)** The level of coverage described in section 1302(d) of the Patient Protection and Affordable Care Act and the period such coverage was in effect.
     - **(B)** The total premium for the coverage without regard to the credit under this section or cost-sharing reductions under section 1402 of such Act.
