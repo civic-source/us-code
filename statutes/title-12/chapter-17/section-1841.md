@@ -3,9 +3,9 @@ title: "Section 1841 - Definitions"
 usc_title: 12
 usc_section: "1841"
 chapter: 17
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 1841"
-generated_at: "2026-03-30T08:49:16.632Z"
+generated_at: "2026-03-30T08:52:22.734Z"
 status: "active"
 ---
 

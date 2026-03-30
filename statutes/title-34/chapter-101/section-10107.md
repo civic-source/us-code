@@ -3,9 +3,9 @@ title: "Section 10107 - Division of Applied Law Enforcement Technology"
 usc_title: 34
 usc_section: "10107"
 chapter: 101
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 10107"
-generated_at: "2026-03-30T08:50:39.165Z"
+generated_at: "2026-03-30T08:53:26.107Z"
 status: "active"
 ---
 

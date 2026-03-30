@@ -3,9 +3,9 @@ title: "Section 8133 - Authorization of appropriations"
 usc_title: 38
 usc_section: "8133"
 chapter: 81
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "38 U.S.C. § 8133"
-generated_at: "2026-03-30T08:50:45.187Z"
+generated_at: "2026-03-30T08:53:31.750Z"
 status: "active"
 ---
 

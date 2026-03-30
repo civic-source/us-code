@@ -3,9 +3,9 @@ title: "Section 1446i - Repealed. Pub. L. 103–354, title I, § 119(a)(6) , Oct
 usc_title: 7
 usc_section: "1446i"
 chapter: 35
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 1446i"
-generated_at: "2026-03-30T08:48:40.311Z"
+generated_at: "2026-03-30T08:52:14.933Z"
 status: "repealed"
 ---
 

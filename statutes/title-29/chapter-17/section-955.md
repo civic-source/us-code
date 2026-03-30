@@ -3,9 +3,9 @@ title: "Section 955 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "955"
 chapter: 17
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "29 U.S.C. § 955"
-generated_at: "2026-03-30T08:50:29.456Z"
+generated_at: "2026-03-30T08:53:11.382Z"
 status: "repealed"
 ---
 

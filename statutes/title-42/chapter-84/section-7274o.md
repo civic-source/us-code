@@ -3,9 +3,9 @@ title: "Section 7274o - Transferred"
 usc_title: 42
 usc_section: "7274o"
 chapter: 84
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 7274o"
-generated_at: "2026-03-30T08:51:07.285Z"
+generated_at: "2026-03-30T08:54:04.010Z"
 status: "transferred"
 ---
 

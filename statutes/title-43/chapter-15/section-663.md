@@ -3,9 +3,9 @@ title: "Section 663 - Restriction of sites to inclusion of necessary lands"
 usc_title: 43
 usc_section: "663"
 chapter: 15
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "43 U.S.C. § 663"
-generated_at: "2026-03-30T08:50:47.579Z"
+generated_at: "2026-03-30T08:53:35.388Z"
 status: "active"
 ---
 

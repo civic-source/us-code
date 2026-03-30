@@ -3,9 +3,9 @@ title: "Section 47111 - Payments under project grant agreements"
 usc_title: 49
 usc_section: "47111"
 chapter: 471
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 47111"
-generated_at: "2026-03-30T08:51:29.684Z"
+generated_at: "2026-03-30T08:54:30.081Z"
 status: "active"
 ---
 

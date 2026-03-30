@@ -3,9 +3,9 @@ title: "Section 242b - General authority respecting research, evaluations, and d
 usc_title: 42
 usc_section: "242b"
 chapter: 6
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 242b"
-generated_at: "2026-03-30T08:51:06.795Z"
+generated_at: "2026-03-30T08:54:03.508Z"
 status: "active"
 ---
 

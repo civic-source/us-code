@@ -3,9 +3,9 @@ title: "Section 1471g - Availability of appropriations to support Memorial Day a
 usc_title: 43
 usc_section: "1471g"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "43 U.S.C. § 1471g"
-generated_at: "2026-03-30T08:50:47.591Z"
+generated_at: "2026-03-30T08:53:35.400Z"
 status: "active"
 ---
 

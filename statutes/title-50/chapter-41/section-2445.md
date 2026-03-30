@@ -3,9 +3,9 @@ title: "Section 2445 - Limitation on bonuses for employees who engage in imprope
 usc_title: 50
 usc_section: "2445"
 chapter: 41
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 2445"
-generated_at: "2026-03-30T08:51:24.698Z"
+generated_at: "2026-03-30T08:54:37.713Z"
 status: "active"
 ---
 

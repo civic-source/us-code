@@ -3,9 +3,9 @@ title: "Section 302k - Special pay: accession bonus for medical officers in crit
 usc_title: 37
 usc_section: "302k"
 chapter: 5
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "37 U.S.C. § 302k"
-generated_at: "2026-03-30T08:50:42.737Z"
+generated_at: "2026-03-30T08:53:30.192Z"
 status: "active"
 ---
 

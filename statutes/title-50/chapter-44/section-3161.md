@@ -3,9 +3,9 @@ title: "Section 3161 - Procedures"
 usc_title: 50
 usc_section: "3161"
 chapter: 44
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 3161"
-generated_at: "2026-03-30T08:51:24.714Z"
+generated_at: "2026-03-30T08:54:37.728Z"
 status: "active"
 ---
 

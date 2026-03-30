@@ -3,9 +3,9 @@ title: "Section 4305 - Agreement with Gallaudet University"
 usc_title: 20
 usc_section: "4305"
 chapter: 55
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 4305"
-generated_at: "2026-03-30T08:49:42.149Z"
+generated_at: "2026-03-30T08:52:29.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7844 - United Nations High Commissioner for Refugees"
 usc_title: 22
 usc_section: "7844"
 chapter: 85
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 7844"
-generated_at: "2026-03-30T08:50:25.212Z"
+generated_at: "2026-03-30T08:53:05.140Z"
 status: "active"
 ---
 

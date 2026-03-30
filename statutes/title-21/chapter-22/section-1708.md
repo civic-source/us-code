@@ -3,15 +3,15 @@ title: "Section 1708 - Emerging Threats Committee, plan, and media campaign"
 usc_title: 21
 usc_section: "1708"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 1708"
-generated_at: "2026-03-30T08:50:13.159Z"
+generated_at: "2026-03-30T08:53:02.345Z"
 status: "active"
 ---
 
 # § 1708. Emerging Threats Committee, plan, and media campaign
 
-- **(a)** The Director shall designate or appoint a United States Emerging and Continuing Threats Coordinator to perform the duties of that position described in this section and such other duties as may be determined by the Director. The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+- **(a)** The Director shall designate or appoint a United States Emerging and Continuing Threats Coordinator to perform the duties of that position described in this section and such other duties as may be determined by the Director. For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 - **(b)**
   - **(1)** The Emerging Threats Committee shall—
     - **(A)** monitor evolving and emerging drug threats in the United States;
@@ -26,14 +26,14 @@ status: "active"
       - **(v)** other subject matter as determined necessary by the Director.
   - **(2)** The Director shall designate one of the members of the Emerging Threats Committee to serve as Chairperson.
   - **(3)** The Director shall appoint other members of the Committee, which shall include—
-    - **(A)** representatives from National Drug Control Program Agencies or other agencies;
+    - **(A)** representatives from National Drug Control Program agencies or other agencies;
     - **(B)** representatives from State, local, and Tribal governments; and
     - **(C)** representatives from other entities as designated by the Director.
   - **(4)** The members of the Emerging Threats Committee shall meet, in person and not through any delegate or representative, not less frequently than once per calendar year, before June 1. At the call of the Director or the Chairperson, the Emerging Threats Committee may hold additional meetings as the members may choose.
   - **(5)** The Director may award contracts, enter into interagency agreements, manage individual projects, and conduct other activities in support of the identification of emerging drug threats and in support of the development, implementation, and assessment of any Emerging Threat Response Plan.
   - **(6)** Not later than 180 days after the date on which the Committee first meets, the Committee shall develop and recommend to the Director criteria to be used to identify an emerging drug threat or the termination of an emerging drug threat designation based on information gathered by the Committee, statistical data, and other evidence.
 - **(c)**
-  - **(1)** The Director, in consultation with the Coordinator, the Committee, and the head of each National Drug Control Program Agency, may designate an emerging drug threat in the United States.
+  - **(1)** The Director, in consultation with the Coordinator, the Committee, and the head of each National Drug Control Program agency, may designate an emerging drug threat in the United States.
   - **(2)** The Director, in consultation with the Coordinator, shall promulgate and make publicly available standards by which a designation under paragraph (1) and the termination of such designation may be made. In developing such standards, the Director shall consider the recommendations of the committee and other criteria the Director considers to be appropriate.
   - **(3)** The Director shall publish a public written statement on the portal of the Office explaining the designation of an emerging drug threat or the termination of such designation and shall notify the appropriate congressional committees of the availability of such statement when a designation or termination of such designation has been made.
 - **(d)**
@@ -45,17 +45,17 @@ status: "active"
     - **(C)** performance measures pertaining to the plan’s goals, including quantifiable and measurable objectives and specific targets;
     - **(D)** the level of funding needed to implement the plan, including whether funding is available to be reprogrammed or transferred to support implementation of the plan or whether additional appropriations are necessary to implement the plan;
     - **(E)** an implementation strategy for the media campaign under subsection (f), including goals as described under subparagraph (B) of this paragraph and performance measures, objectives, and targets, as described under subparagraph (C) of this paragraph; and
-    - **(F)** any other information necessary to inform the public of the status, progress, or response of 2 2 So in original. an emerging drug threat.
+    - **(F)** any other information necessary to inform the public of the status, progress, or response to an emerging drug threat.
   - **(4)**
-    - **(A)** Not later than 120 days after the date on which a designation is made under subsection (c), the Director, in consultation with the President, the appropriate congressional committees, and the head of each National Drug Control Program Agency, shall issue guidance on implementation of the plan described in this subsection to the National Drug Control Program Agencies and any other relevant agency determined to be necessary by the Director.
+    - **(A)** Not later than 120 days after the date on which a designation is made under subsection (c), the Director, in consultation with the President, the appropriate congressional committees, and the head of each National Drug Control Program agency, shall issue guidance on implementation of the plan described in this subsection to the National Drug Control Program agencies and any other relevant agency determined to be necessary by the Director.
     - **(B)** The Coordinator shall—
       - **(i)** direct the implementation of the plan among the agencies identified in the plan, State, local, and Tribal governments, and other relevant entities;
       - **(ii)** facilitate information-sharing between agencies identified in the plan, State, local, and Tribal governments, and other relevant entities; and
-      - **(iii)** monitor implementation of the plan by coordinating the development and implementation of collection and reporting systems to support performance measurement and adherence to the plan by agencies identified in 3 3 So in original. The word “the” probably should appear. plan, where appropriate.
+      - **(iii)** monitor implementation of the plan by coordinating the development and implementation of collection and reporting systems to support performance measurement and adherence to the plan by agencies identified in the plan, where appropriate.
     - **(C)** Not later than 180 days after the date on which a designation is made under subsection (c) and in accordance with subparagraph (A), the head of each agency identified in the plan shall submit to the Coordinator a report on implementation of the plan.
 - **(e)** Upon designation of an emerging drug threat, the Director shall evaluate whether a media campaign would be appropriate to address that threat.
 - **(f)**
-  - **(1)** The Director shall, to the extent feasible and appropriate, conduct a national anti-drug media campaign (referred to in this chapter 4 4 See References in Text note below. as the “national media campaign”) in accordance with this subsection for the purposes of—
+  - **(1)** The Director shall, to the extent feasible and appropriate, conduct a national anti-drug media campaign (referred to in this subsection as the “national media campaign”) in accordance with this subsection for the purposes of—
     - **(A)** preventing substance abuse among people in the United States;
     - **(B)** educating the public about the dangers and negative consequences of substance use and abuse, including patient and family education about the characteristics and hazards of substance abuse and methods to safeguard against substance use, to include the safe disposal of prescription medications;
     - **(C)** supporting evidence-based prevention programs targeting the attitudes, perception, and beliefs of persons concerning substance use and intentions to initiate or continue such use;
@@ -82,7 +82,7 @@ status: "active"
         - **(II)** intended to reach a minority, ethnic, or other special audience that cannot reasonably be obtained at no cost.
       - **(ii)** In using amounts for testing and evaluation of advertising under subparagraph (A)(iv), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective with the target audience and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this subsection in a fiscal year and no more than 10 percent of the advertising space purchased under this subsection in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
       - **(iii)** For the planning of the campaign under paragraph (1), the Director may consult with—
-        - **(I)** the head of any appropriate National Drug Control Program Agency;
+        - **(I)** the head of any appropriate National Drug Control Program agency;
         - **(II)** experts on the designated drug;
         - **(III)** State, local, and Tribal government officials and relevant agencies;
         - **(IV)** communications professionals;

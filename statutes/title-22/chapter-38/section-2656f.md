@@ -3,9 +3,9 @@ title: "Section 2656f - Annual country reports on terrorism"
 usc_title: 22
 usc_section: "2656f"
 chapter: 38
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 2656f"
-generated_at: "2026-03-30T08:50:25.153Z"
+generated_at: "2026-03-30T08:53:05.077Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(B)** an outline of strategies for disrupting or eliminating the security provided to terrorists by such sanctuaries;
     - **(C)** a description of efforts by the United States to work with other countries in bilateral and multilateral fora to address or eliminate terrorist sanctuaries and disrupt or eliminate the security provided to terrorists by such sanctuaries; and
     - **(D)** a description of long-term goals and actions designed to reduce the conditions that allow the formation of terrorist sanctuaries; and
-  - **(5)** an update of the information contained in the report required to be transmitted to Congress under 4 4 So in original. The word “section” probably should appear. 7120(b) of the 9/11 Commission Implementation Act of 2004.
+  - **(5)** an update of the information contained in the report required to be transmitted to Congress under 7120(b) 4 4 So in original. Probably should be preceded by the word “section”. of the 9/11 Commission Implementation Act of 2004.
   - **(3)** 5 5 So in original. Another par. (3) and par. (4) precede par. (5). to the extent practicable, complete statistical information on the number of individuals, including United States citizens and dual nationals, killed, injured, or kidnapped by each terrorist group during the preceding calendar year; and
   - **(4)** 5 an analysis, as appropriate, of trends in international terrorism, including changes in technology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
 - **(c)**

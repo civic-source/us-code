@@ -3,9 +3,9 @@ title: "Section 5123 - Preservation and inspection of records, and entry of prem
 usc_title: 26
 usc_section: "5123"
 chapter: 51
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "26 U.S.C. § 5123"
-generated_at: "2026-03-30T08:50:34.776Z"
+generated_at: "2026-03-30T08:53:23.269Z"
 status: "active"
 ---
 

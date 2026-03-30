@@ -3,9 +3,9 @@ title: "Section 157 - Acquisition of lands"
 usc_title: 16
 usc_section: "157"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 157"
-generated_at: "2026-03-30T08:49:26.963Z"
+generated_at: "2026-03-30T08:52:57.486Z"
 status: "active"
 ---
 

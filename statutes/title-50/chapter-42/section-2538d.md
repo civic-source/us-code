@@ -3,9 +3,9 @@ title: "Section 2538d - Incorporation of integrated surety architecture"
 usc_title: 50
 usc_section: "2538d"
 chapter: 42
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 2538d"
-generated_at: "2026-03-30T08:51:24.700Z"
+generated_at: "2026-03-30T08:54:37.715Z"
 status: "active"
 ---
 

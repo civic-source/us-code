@@ -3,9 +3,9 @@ title: "Section 397a - Establishment; notice in Federal Register"
 usc_title: 16
 usc_section: "397a"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 397a"
-generated_at: "2026-03-30T08:49:26.975Z"
+generated_at: "2026-03-30T08:52:57.499Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 492 - Travel and transportation: members escorting certain depen
 usc_title: 37
 usc_section: "492"
 chapter: 8
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "37 U.S.C. § 492"
-generated_at: "2026-03-30T08:50:42.747Z"
+generated_at: "2026-03-30T08:53:30.201Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7104 - Prevention of trafficking"
 usc_title: 22
 usc_section: "7104"
 chapter: 78
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 7104"
-generated_at: "2026-03-30T08:50:25.202Z"
+generated_at: "2026-03-30T08:53:05.130Z"
 status: "active"
 ---
 
@@ -23,9 +23,9 @@ status: "active"
     - **(A)** In this paragraph:
       - **(i)** The terms “elementary school”, “local educational agency”, “other staff”, and “secondary school” have the meanings given the terms in section 7801 of title 20 .
       - **(ii)** The term “high-intensity child sex trafficking area” means a metropolitan area designated by the Director of the Federal Bureau of Investigation as having a high rate of children involved in sex trafficking.
-      - **(iii)** The term “labor trafficking” means conduct described in section 7102(9)(B) of this title .
+      - **(iii)** The term “labor trafficking” means conduct described in section 7102(9)(B) 1 1 See References in Text note below. of this title.
       - **(iv)** The term “school staff” means teachers, nurses, school leaders and administrators, and other staff at elementary schools and secondary schools.
-      - **(v)** The term “sex trafficking” means the conduct described in section 7102(9)(A) of this title .
+      - **(v)** The term “sex trafficking” means the conduct described in section 7102(9)(A) 1 of this title.
     - **(B)** The Secretary of Health and Human Services, in consultation with the Secretary of Education and the Secretary of Labor, may award grants to local educational agencies, in partnership with a nonprofit, nongovernmental agency, to establish, expand, and support programs—
       - **(i)** to educate school staff to recognize and respond to signs of labor trafficking and sex trafficking; and
       - **(ii)** to provide age-appropriate information to students on how to avoid becoming victims of labor trafficking and sex trafficking.

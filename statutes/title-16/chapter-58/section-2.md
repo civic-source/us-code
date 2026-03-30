@@ -3,9 +3,9 @@ title: "Section 2 - Grassroots source water protection program"
 usc_title: 16
 usc_section: "2"
 chapter: 58
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T08:49:27.163Z"
+generated_at: "2026-03-30T08:52:57.679Z"
 status: "active"
 ---
 

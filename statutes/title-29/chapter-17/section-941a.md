@@ -3,9 +3,9 @@ title: "Section 941a - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 
 usc_title: 29
 usc_section: "941a"
 chapter: 17
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "29 U.S.C. § 941a"
-generated_at: "2026-03-30T08:50:29.456Z"
+generated_at: "2026-03-30T08:53:11.382Z"
 status: "repealed"
 ---
 

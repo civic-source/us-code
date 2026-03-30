@@ -3,9 +3,9 @@ title: "Section 200310 - Transfers to and from Fund"
 usc_title: 54
 usc_section: "200310"
 chapter: 2003
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "54 U.S.C. § 200310"
-generated_at: "2026-03-30T08:51:31.940Z"
+generated_at: "2026-03-30T08:54:39.806Z"
 status: "active"
 ---
 

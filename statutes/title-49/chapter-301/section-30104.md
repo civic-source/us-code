@@ -3,9 +3,9 @@ title: "Section 30104 - Authorization of appropriations"
 usc_title: 49
 usc_section: "30104"
 chapter: 301
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 30104"
-generated_at: "2026-03-30T08:51:29.646Z"
+generated_at: "2026-03-30T08:54:30.044Z"
 status: "active"
 ---
 

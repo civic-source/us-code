@@ -3,9 +3,9 @@ title: "Section 294 - Voluntary arbitration"
 usc_title: 35
 usc_section: "294"
 chapter: 29
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "35 U.S.C. § 294"
-generated_at: "2026-03-30T08:50:36.823Z"
+generated_at: "2026-03-30T08:53:25.102Z"
 status: "active"
 ---
 

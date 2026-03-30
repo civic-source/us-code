@@ -3,9 +3,9 @@ title: "Section 59b - Bayous Terrebonne and LeCarpe, Louisiana"
 usc_title: 33
 usc_section: "59b"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 59b"
-generated_at: "2026-03-30T08:50:37.831Z"
+generated_at: "2026-03-30T08:53:27.568Z"
 status: "active"
 ---
 

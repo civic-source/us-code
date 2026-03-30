@@ -3,9 +3,9 @@ title: "Section 6201 - Disclosure to foreign antitrust authority of antitrust ev
 usc_title: 15
 usc_section: "6201"
 chapter: 88
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 6201"
-generated_at: "2026-03-30T08:49:19.288Z"
+generated_at: "2026-03-30T08:52:20.708Z"
 status: "active"
 ---
 

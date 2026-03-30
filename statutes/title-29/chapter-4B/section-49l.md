@@ -3,9 +3,9 @@ title: "Section 49l - Miscellaneous operating authorities"
 usc_title: 29
 usc_section: "49l"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "29 U.S.C. § 49l"
-generated_at: "2026-03-30T08:50:29.432Z"
+generated_at: "2026-03-30T08:53:11.359Z"
 status: "active"
 ---
 

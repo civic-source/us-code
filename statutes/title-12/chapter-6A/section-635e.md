@@ -3,9 +3,9 @@ title: "Section 635e - Aggregate loan, guarantee, and insurance authority"
 usc_title: 12
 usc_section: "635e"
 chapter: 6
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 635e"
-generated_at: "2026-03-30T08:49:16.557Z"
+generated_at: "2026-03-30T08:52:22.664Z"
 status: "active"
 ---
 

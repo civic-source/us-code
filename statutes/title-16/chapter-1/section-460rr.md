@@ -3,9 +3,9 @@ title: "Section 460rr - Establishment"
 usc_title: 16
 usc_section: "460rr"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 460rr"
-generated_at: "2026-03-30T08:49:27.028Z"
+generated_at: "2026-03-30T08:52:57.549Z"
 status: "active"
 ---
 

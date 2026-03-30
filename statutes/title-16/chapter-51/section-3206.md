@@ -3,9 +3,9 @@ title: "Section 3206 - Statewide cultural assistance program"
 usc_title: 16
 usc_section: "3206"
 chapter: 51
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 3206"
-generated_at: "2026-03-30T08:49:27.152Z"
+generated_at: "2026-03-30T08:52:57.668Z"
 status: "active"
 ---
 

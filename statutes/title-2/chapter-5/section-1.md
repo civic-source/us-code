@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 2
 usc_section: "1"
 chapter: 5
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T08:48:34.405Z"
+generated_at: "2026-03-30T08:51:45.508Z"
 status: "omitted"
 ---
 

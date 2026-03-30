@@ -3,9 +3,9 @@ title: "Section 7621 - Report"
 usc_title: 16
 usc_section: "7621"
 chapter: 95
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 7621"
-generated_at: "2026-03-30T08:49:27.190Z"
+generated_at: "2026-03-30T08:52:57.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3715 - Computation of time"
 usc_title: 12
 usc_section: "3715"
 chapter: 38
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 3715"
-generated_at: "2026-03-30T08:49:16.658Z"
+generated_at: "2026-03-30T08:52:22.763Z"
 status: "active"
 ---
 

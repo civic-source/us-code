@@ -3,9 +3,9 @@ title: "Section 12682 - Reserves: discharge upon becoming ordained minister of r
 usc_title: 10
 usc_section: "12682"
 chapter: 1221
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 12682"
-generated_at: "2026-03-30T08:48:44.872Z"
+generated_at: "2026-03-30T08:51:58.238Z"
 status: "active"
 ---
 

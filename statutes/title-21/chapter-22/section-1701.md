@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 21
 usc_section: "1701"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 1701"
-generated_at: "2026-03-30T08:50:13.157Z"
+generated_at: "2026-03-30T08:53:02.343Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ In this chapter:
       - **(i)** the Committee on the Judiciary, the Committee on Appropriations, and the Committee on Health, Education, Labor, and Pensions of the Senate; and
       - **(ii)** the Committee on Oversight and Government Reform, the Committee on the Judiciary, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives.
     - **(B)** Any submission to Congress shall mean submission to the appropriate congressional committees.
-  - **(3)** The term “demand reduction” means any activity conducted by a National Drug Control Program Agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
+  - **(3)** The term “demand reduction” means any activity conducted by a National Drug Control Program agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
     - **(A)** education about the dangers of illicit drug use;
     - **(B)** services, programs, or strategies to prevent substance use disorder, including evidence-based education campaigns, community-based prevention programs, collection and disposal of unused prescription drugs, and services to at-risk populations to prevent or delay initial use of an illicit drug;
     - **(C)** substance use disorder treatment;
@@ -39,16 +39,16 @@ In this chapter:
   - **(7)** The term “emerging drug threat” means the occurrence of a new and growing trend in the use of an illicit drug or class of drugs, including rapid expansion in the supply of or demand for such drug.
   - **(8)** The terms “illicit drug use”, “illicit drugs”, and “illegal drugs” include the illegal or illicit use of prescription drugs.
   - **(9)** The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or Tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
-  - **(10)** The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
-  - **(11)** The term “National Drug Control Program Agency” 1 1 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+  - **(10)** The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 1 1 So in original. Probably should be “Tribal”. affairs.
+  - **(11)** The term “National Drug Control Program agency” 2 2 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
   - **(12)** The term “National Drug Control Strategy” or “Strategy” means the strategy developed and submitted to Congress under section 1705 of this title , including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy.
   - **(13)** The term “nonprofit organization” means an organization that is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title.
   - **(14)** The term “Office” means the Office of National Drug Control Policy established under section 1702(a) of this title .
-  - **(15)** The term “State, local, and tribal affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
-    - **(A)** coordination and enhancement of Federal, State, local, and tribal law enforcement drug control efforts;
-    - **(B)** coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and tribal demand reduction and supply reduction agencies;
-    - **(C)** coordination and enhancement of Federal, State, local, and tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
-    - **(D)** other coordinated and joint initiatives among Federal, State, local, and tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
+  - **(15)** The term “State, local, and Tribal affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
+    - **(A)** coordination and enhancement of Federal, State, local, and Tribal law enforcement drug control efforts;
+    - **(B)** coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and Tribal demand reduction and supply reduction agencies;
+    - **(C)** coordination and enhancement of Federal, State, local, and Tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
+    - **(D)** other coordinated and joint initiatives among Federal, State, local, and Tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
   - **(16)** The term “substance use disorder treatment” means an evidence-based, professionally directed, deliberate, and planned regimen including evaluation, observation, medical monitoring, and rehabilitative services and interventions such as pharmacotherapy, behavioral therapy, and individual and group counseling, on an inpatient or outpatient basis, to help patients with substance use disorder reach recovery.
   - **(17)** The term “supply reduction” means any activity or program conducted by a National Drug Control Program agency that is intended to reduce the availability or use of illegal drugs in the United States or abroad, including—
     - **(A)** law enforcement outside the United States;

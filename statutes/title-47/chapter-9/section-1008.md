@@ -3,9 +3,9 @@ title: "Section 1008 - Payment of costs of telecommunications carriers to comply
 usc_title: 47
 usc_section: "1008"
 chapter: 9
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "47 U.S.C. § 1008"
-generated_at: "2026-03-30T08:51:10.200Z"
+generated_at: "2026-03-30T08:54:13.552Z"
 status: "active"
 ---
 

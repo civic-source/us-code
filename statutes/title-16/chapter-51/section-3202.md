@@ -3,9 +3,9 @@ title: "Section 3202 - Taking of fish and wildlife"
 usc_title: 16
 usc_section: "3202"
 chapter: 51
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 3202"
-generated_at: "2026-03-30T08:49:27.152Z"
+generated_at: "2026-03-30T08:52:57.667Z"
 status: "active"
 ---
 

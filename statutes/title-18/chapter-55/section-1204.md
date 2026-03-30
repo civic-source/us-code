@@ -3,9 +3,9 @@ title: "Section 1204 - International parental kidnapping"
 usc_title: 18
 usc_section: "1204"
 chapter: 55
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 1204"
-generated_at: "2026-03-30T08:49:28.961Z"
+generated_at: "2026-03-30T08:52:26.115Z"
 status: "active"
 ---
 

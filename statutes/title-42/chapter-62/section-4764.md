@@ -3,9 +3,9 @@ title: "Section 4764 - Reporting and recordkeeping requirements for State or loc
 usc_title: 42
 usc_section: "4764"
 chapter: 62
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 4764"
-generated_at: "2026-03-30T08:51:07.217Z"
+generated_at: "2026-03-30T08:54:03.942Z"
 status: "active"
 ---
 

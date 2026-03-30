@@ -3,9 +3,9 @@ title: "Section 1592f - Preservation of local civil and criminal jurisdiction, a
 usc_title: 42
 usc_section: "1592f"
 chapter: 9
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 1592f"
-generated_at: "2026-03-30T08:51:07.127Z"
+generated_at: "2026-03-30T08:54:03.851Z"
 status: "active"
 ---
 

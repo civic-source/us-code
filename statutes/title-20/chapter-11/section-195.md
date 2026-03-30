@@ -3,9 +3,9 @@ title: "Section 195 - Gifts, bequests, or devises for benefit of National Arbore
 usc_title: 20
 usc_section: "195"
 chapter: 11
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 195"
-generated_at: "2026-03-30T08:49:42.059Z"
+generated_at: "2026-03-30T08:52:29.472Z"
 status: "active"
 ---
 

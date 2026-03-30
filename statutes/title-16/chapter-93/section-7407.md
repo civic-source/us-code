@@ -3,9 +3,9 @@ title: "Section 7407 - Enforcement"
 usc_title: 16
 usc_section: "7407"
 chapter: 93
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 7407"
-generated_at: "2026-03-30T08:49:27.189Z"
+generated_at: "2026-03-30T08:52:57.703Z"
 status: "active"
 ---
 

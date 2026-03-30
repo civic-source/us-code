@@ -3,9 +3,9 @@ title: "Section 1226a - Contingent extension of programs"
 usc_title: 20
 usc_section: "1226a"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 1226a"
-generated_at: "2026-03-30T08:49:42.123Z"
+generated_at: "2026-03-30T08:52:29.529Z"
 status: "active"
 ---
 

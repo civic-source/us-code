@@ -3,9 +3,9 @@ title: "Section 2510 - The tribally controlled grant school endowment program"
 usc_title: 25
 usc_section: "2510"
 chapter: 27
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "25 U.S.C. § 2510"
-generated_at: "2026-03-30T08:50:04.731Z"
+generated_at: "2026-03-30T08:53:07.525Z"
 status: "active"
 ---
 

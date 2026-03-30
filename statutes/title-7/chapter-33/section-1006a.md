@@ -3,9 +3,9 @@ title: "Section 1006a - Loans to homestead or desertland entrymen and purchasers
 usc_title: 7
 usc_section: "1006a"
 chapter: 33
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 1006a"
-generated_at: "2026-03-30T08:48:40.296Z"
+generated_at: "2026-03-30T08:52:14.920Z"
 status: "active"
 ---
 

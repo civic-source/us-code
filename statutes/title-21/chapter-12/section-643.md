@@ -3,9 +3,9 @@ title: "Section 643 - Registration of business, name of person, and trade names"
 usc_title: 21
 usc_section: "643"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 643"
-generated_at: "2026-03-30T08:50:13.143Z"
+generated_at: "2026-03-30T08:53:02.328Z"
 status: "active"
 ---
 

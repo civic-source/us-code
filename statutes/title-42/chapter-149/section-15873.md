@@ -3,9 +3,9 @@ title: "Section 15873 - Deposit and use of geothermal lease revenues for 5 fisca
 usc_title: 42
 usc_section: "15873"
 chapter: 149
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 15873"
-generated_at: "2026-03-30T08:51:07.430Z"
+generated_at: "2026-03-30T08:54:04.160Z"
 status: "active"
 ---
 

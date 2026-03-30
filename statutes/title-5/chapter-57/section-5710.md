@@ -3,9 +3,9 @@ title: "Section 5710 - Authority for travel expenses test programs"
 usc_title: 5
 usc_section: "5710"
 chapter: 57
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "5 U.S.C. § 5710"
-generated_at: "2026-03-30T08:48:32.825Z"
+generated_at: "2026-03-30T08:51:47.427Z"
 status: "active"
 ---
 

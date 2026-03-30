@@ -3,9 +3,9 @@ title: "Section 3624 - Additional program funding"
 usc_title: 19
 usc_section: "3624"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 3624"
-generated_at: "2026-03-30T08:49:23.636Z"
+generated_at: "2026-03-30T08:52:27.286Z"
 status: "active"
 ---
 

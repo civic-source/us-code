@@ -3,9 +3,9 @@ title: "Section 2507b - Sexual assault policy"
 usc_title: 22
 usc_section: "2507b"
 chapter: 34
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 2507b"
-generated_at: "2026-03-30T08:50:25.149Z"
+generated_at: "2026-03-30T08:53:05.074Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** requires any employee of the Peace Corps to immediately contact a Victim’s Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c);
   - **(4)** to the extent practicable, conforms to best practices in the sexual assault field;
   - **(5)** is applicable to all posts at which volunteers serve;
-  - **(6)** includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault; and
+  - **(6)** includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault;
   - **(7)** maintains a record documenting the resignation of any employee or volunteer of the Peace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
   - **(8)** takes into account the record maintained under paragraph (7) before such employee or volunteer is hired, enrolled, or otherwise invited to work with the Peace Corps;
   - **(9)** provides orientation or information regarding the awareness and prevention of sexual assault and sexual harassment to—

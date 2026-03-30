@@ -3,9 +3,9 @@ title: "Section 9 - Acceptance of lands from States"
 usc_title: 30
 usc_section: "9"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "30 U.S.C. § 9"
-generated_at: "2026-03-30T08:50:27.632Z"
+generated_at: "2026-03-30T08:53:09.966Z"
 status: "active"
 ---
 

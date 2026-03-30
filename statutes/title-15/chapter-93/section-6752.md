@@ -3,9 +3,9 @@ title: "Section 6752 - Purpose"
 usc_title: 15
 usc_section: "6752"
 chapter: 93
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 6752"
-generated_at: "2026-03-30T08:49:19.293Z"
+generated_at: "2026-03-30T08:52:20.713Z"
 status: "active"
 ---
 

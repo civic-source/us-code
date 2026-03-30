@@ -3,9 +3,9 @@ title: "Section 436 - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 1
 usc_title: 2
 usc_section: "436"
 chapter: 14
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "2 U.S.C. § 436"
-generated_at: "2026-03-30T08:48:34.413Z"
+generated_at: "2026-03-30T08:51:45.516Z"
 status: "repealed"
 ---
 

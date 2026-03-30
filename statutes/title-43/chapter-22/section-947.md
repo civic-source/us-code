@@ -3,9 +3,9 @@ title: "Section 947 - Map; damages to settlers"
 usc_title: 43
 usc_section: "947"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "43 U.S.C. § 947"
-generated_at: "2026-03-30T08:50:47.584Z"
+generated_at: "2026-03-30T08:53:35.393Z"
 status: "active"
 ---
 

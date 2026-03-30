@@ -3,9 +3,9 @@ title: "Section 2906 - Written evaluations"
 usc_title: 12
 usc_section: "2906"
 chapter: 30
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 2906"
-generated_at: "2026-03-30T08:49:16.651Z"
+generated_at: "2026-03-30T08:52:22.755Z"
 status: "active"
 ---
 

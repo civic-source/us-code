@@ -3,9 +3,9 @@ title: "Section 2093 - Payment of benefits"
 usc_title: 50
 usc_section: "2093"
 chapter: 38
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 2093"
-generated_at: "2026-03-30T08:51:24.694Z"
+generated_at: "2026-03-30T08:54:37.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20962 - Schools SAFE Act"
 usc_title: 34
 usc_section: "20962"
 chapter: 209
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 20962"
-generated_at: "2026-03-30T08:50:39.202Z"
+generated_at: "2026-03-30T08:53:26.145Z"
 status: "active"
 ---
 

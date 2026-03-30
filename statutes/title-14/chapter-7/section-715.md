@@ -3,9 +3,9 @@ title: "Section 715 - Oceanographic research"
 usc_title: 14
 usc_section: "715"
 chapter: 7
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "14 U.S.C. § 715"
-generated_at: "2026-03-30T08:48:46.955Z"
+generated_at: "2026-03-30T08:52:17.233Z"
 status: "active"
 ---
 

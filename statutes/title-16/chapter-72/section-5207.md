@@ -3,9 +3,9 @@ title: "Section 5207 - Definitions"
 usc_title: 16
 usc_section: "5207"
 chapter: 72
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 5207"
-generated_at: "2026-03-30T08:49:27.176Z"
+generated_at: "2026-03-30T08:52:57.690Z"
 status: "active"
 ---
 

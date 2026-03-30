@@ -3,9 +3,9 @@ title: "Section 223 - Responsibility of principal for act or omission of agent"
 usc_title: 7
 usc_section: "223"
 chapter: 9
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 223"
-generated_at: "2026-03-30T08:48:40.277Z"
+generated_at: "2026-03-30T08:52:14.904Z"
 status: "active"
 ---
 

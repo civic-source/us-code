@@ -3,9 +3,9 @@ title: "Section 122 - Limitation on application of tribal funds"
 usc_title: 25
 usc_section: "122"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "25 U.S.C. § 122"
-generated_at: "2026-03-30T08:50:04.694Z"
+generated_at: "2026-03-30T08:53:07.485Z"
 status: "active"
 ---
 

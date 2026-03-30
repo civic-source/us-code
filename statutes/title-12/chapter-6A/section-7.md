@@ -3,9 +3,9 @@ title: "Section 7 - Cooperation on export financing programs"
 usc_title: 12
 usc_section: "7"
 chapter: 6
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T08:49:16.558Z"
+generated_at: "2026-03-30T08:52:22.665Z"
 status: "active"
 ---
 

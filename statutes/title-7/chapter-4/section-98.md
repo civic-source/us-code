@@ -3,9 +3,9 @@ title: "Section 98 - Fees and charges for naval stores inspection and related se
 usc_title: 7
 usc_section: "98"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 98"
-generated_at: "2026-03-30T08:48:40.257Z"
+generated_at: "2026-03-30T08:52:14.888Z"
 status: "active"
 ---
 

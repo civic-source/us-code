@@ -3,9 +3,9 @@ title: "Section 15605 - Transferred"
 usc_title: 42
 usc_section: "15605"
 chapter: 147
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 15605"
-generated_at: "2026-03-30T08:51:07.428Z"
+generated_at: "2026-03-30T08:54:04.158Z"
 status: "transferred"
 ---
 

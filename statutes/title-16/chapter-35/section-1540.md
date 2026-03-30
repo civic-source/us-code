@@ -3,9 +3,9 @@ title: "Section 1540 - Penalties and enforcement"
 usc_title: 16
 usc_section: "1540"
 chapter: 35
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 1540"
-generated_at: "2026-03-30T08:49:27.128Z"
+generated_at: "2026-03-30T08:52:57.643Z"
 status: "active"
 ---
 

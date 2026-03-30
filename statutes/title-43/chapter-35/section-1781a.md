@@ -3,9 +3,9 @@ title: "Section 1781a - Acceptance of donation of certain existing permits or le
 usc_title: 43
 usc_section: "1781a"
 chapter: 35
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "43 U.S.C. § 1781a"
-generated_at: "2026-03-30T08:50:47.608Z"
+generated_at: "2026-03-30T08:53:35.416Z"
 status: "active"
 ---
 

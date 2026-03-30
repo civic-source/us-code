@@ -3,9 +3,9 @@ title: "Section 204 - Issuance of license"
 usc_title: 21
 usc_section: "204"
 chapter: 7
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 204"
-generated_at: "2026-03-30T08:50:13.056Z"
+generated_at: "2026-03-30T08:53:02.274Z"
 status: "active"
 ---
 

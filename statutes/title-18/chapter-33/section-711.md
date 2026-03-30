@@ -3,9 +3,9 @@ title: "Section 711 - “Smokey Bear” character or name"
 usc_title: 18
 usc_section: "711"
 chapter: 33
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 711"
-generated_at: "2026-03-30T08:49:28.951Z"
+generated_at: "2026-03-30T08:52:26.105Z"
 status: "active"
 ---
 

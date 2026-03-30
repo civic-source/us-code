@@ -3,9 +3,9 @@ title: "Section 50101 - Buying goods produced in the United States"
 usc_title: 49
 usc_section: "50101"
 chapter: 501
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 50101"
-generated_at: "2026-03-30T08:51:29.689Z"
+generated_at: "2026-03-30T08:54:30.087Z"
 status: "active"
 ---
 

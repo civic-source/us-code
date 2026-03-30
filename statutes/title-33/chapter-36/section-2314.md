@@ -3,9 +3,9 @@ title: "Section 2314 - Innovative technology"
 usc_title: 33
 usc_section: "2314"
 chapter: 36
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 2314"
-generated_at: "2026-03-30T08:50:37.888Z"
+generated_at: "2026-03-30T08:53:27.629Z"
 status: "active"
 ---
 

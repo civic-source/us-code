@@ -3,9 +3,9 @@ title: "Section 22905 - Governing body"
 usc_title: 36
 usc_section: "22905"
 chapter: 229
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 22905"
-generated_at: "2026-03-30T08:50:43.876Z"
+generated_at: "2026-03-30T08:53:29.845Z"
 status: "active"
 ---
 

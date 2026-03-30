@@ -3,9 +3,9 @@ title: "Section 1373 - Public health agency coordination"
 usc_title: 33
 usc_section: "1373"
 chapter: 26
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 1373"
-generated_at: "2026-03-30T08:50:37.875Z"
+generated_at: "2026-03-30T08:53:27.614Z"
 status: "active"
 ---
 

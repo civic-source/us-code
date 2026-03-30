@@ -3,9 +3,9 @@ title: "Section 599B - Personnel Management demonstration 1 1 So in original. Pr
 usc_title: 28
 usc_section: "599B"
 chapter: 40
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "28 U.S.C. § 599B"
-generated_at: "2026-03-30T08:50:28.605Z"
+generated_at: "2026-03-30T08:53:10.623Z"
 status: "active"
 ---
 

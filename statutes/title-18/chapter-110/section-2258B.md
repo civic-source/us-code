@@ -3,9 +3,9 @@ title: "Section 2258B - Limited liability for providers or domain name registrar
 usc_title: 18
 usc_section: "2258B"
 chapter: 110
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 2258B"
-generated_at: "2026-03-30T08:49:28.973Z"
+generated_at: "2026-03-30T08:52:26.127Z"
 status: "active"
 ---
 

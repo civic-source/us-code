@@ -3,9 +3,9 @@ title: "Section 70901 - Organization"
 usc_title: 36
 usc_section: "70901"
 chapter: 709
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 70901"
-generated_at: "2026-03-30T08:50:43.879Z"
+generated_at: "2026-03-30T08:53:29.848Z"
 status: "active"
 ---
 

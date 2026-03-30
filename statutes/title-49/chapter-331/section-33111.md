@@ -3,9 +3,9 @@ title: "Section 33111 - Verifications involving motor vehicle major parts"
 usc_title: 49
 usc_section: "33111"
 chapter: 331
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 33111"
-generated_at: "2026-03-30T08:51:29.659Z"
+generated_at: "2026-03-30T08:54:30.058Z"
 status: "active"
 ---
 

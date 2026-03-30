@@ -3,9 +3,9 @@ title: "Section 16159 - Disclosure"
 usc_title: 42
 usc_section: "16159"
 chapter: 149
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 16159"
-generated_at: "2026-03-30T08:51:07.437Z"
+generated_at: "2026-03-30T08:54:04.167Z"
 status: "active"
 ---
 

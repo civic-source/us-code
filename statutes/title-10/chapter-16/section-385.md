@@ -3,9 +3,9 @@ title: "Section 385 - Department of Defense support for other departments and ag
 usc_title: 10
 usc_section: "385"
 chapter: 16
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 385"
-generated_at: "2026-03-30T08:48:44.735Z"
+generated_at: "2026-03-30T08:51:58.107Z"
 status: "active"
 ---
 

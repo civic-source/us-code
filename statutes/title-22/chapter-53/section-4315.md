@@ -3,9 +3,9 @@ title: "Section 4315 - Use of foreign mission in manner incompatible with its st
 usc_title: 22
 usc_section: "4315"
 chapter: 53
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 4315"
-generated_at: "2026-03-30T08:50:25.180Z"
+generated_at: "2026-03-30T08:53:05.107Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9 - Translational research grants"
 usc_title: 42
 usc_section: "9"
 chapter: 16
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T08:51:07.147Z"
+generated_at: "2026-03-30T08:54:03.872Z"
 status: "active"
 ---
 

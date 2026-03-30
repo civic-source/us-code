@@ -3,9 +3,9 @@ title: "Section 99 - Maine"
 usc_title: 28
 usc_section: "99"
 chapter: 5
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "28 U.S.C. § 99"
-generated_at: "2026-03-30T08:50:28.595Z"
+generated_at: "2026-03-30T08:53:10.613Z"
 status: "active"
 ---
 

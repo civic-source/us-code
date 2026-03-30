@@ -3,9 +3,9 @@ title: "Section 1314 - Omitted"
 usc_title: 48
 usc_section: "1314"
 chapter: 6
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "48 U.S.C. § 1314"
-generated_at: "2026-03-30T08:51:13.541Z"
+generated_at: "2026-03-30T08:54:07.333Z"
 status: "omitted"
 ---
 

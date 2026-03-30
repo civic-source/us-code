@@ -3,9 +3,9 @@ title: "Section 4538 - Additional authority"
 usc_title: 7
 usc_section: "4538"
 chapter: 76
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 4538"
-generated_at: "2026-03-30T08:48:40.389Z"
+generated_at: "2026-03-30T08:52:15.000Z"
 status: "active"
 ---
 

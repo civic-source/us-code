@@ -3,9 +3,9 @@ title: "Section 5814 - Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n)
 usc_title: 22
 usc_section: "5814"
 chapter: 67
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 5814"
-generated_at: "2026-03-30T08:50:25.189Z"
+generated_at: "2026-03-30T08:53:05.115Z"
 status: "repealed"
 ---
 

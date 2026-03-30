@@ -3,9 +3,9 @@ title: "Section 1701t - Congressional affirmation of national goal of decent hom
 usc_title: 12
 usc_section: "1701t"
 chapter: 13
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 1701t"
-generated_at: "2026-03-30T08:49:16.578Z"
+generated_at: "2026-03-30T08:52:22.680Z"
 status: "active"
 ---
 

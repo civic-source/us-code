@@ -3,9 +3,9 @@ title: "Section 29 - Repealed. Aug. 26, 1935, ch. 689, § 2 , 49 Stat. 864"
 usc_title: 19
 usc_section: "29"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 29"
-generated_at: "2026-03-30T08:49:23.574Z"
+generated_at: "2026-03-30T08:52:27.222Z"
 status: "repealed"
 ---
 

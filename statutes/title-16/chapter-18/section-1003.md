@@ -3,9 +3,9 @@ title: "Section 1003 - Assistance to local organizations"
 usc_title: 16
 usc_section: "1003"
 chapter: 18
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 1003"
-generated_at: "2026-03-30T08:49:27.103Z"
+generated_at: "2026-03-30T08:52:57.619Z"
 status: "active"
 ---
 

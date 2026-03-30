@@ -3,9 +3,9 @@ title: "Section 8805 - Acceptance of Government checks outside the United States
 usc_title: 10
 usc_section: "8805"
 chapter: 879
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 8805"
-generated_at: "2026-03-30T08:48:44.857Z"
+generated_at: "2026-03-30T08:51:58.223Z"
 status: "active"
 ---
 

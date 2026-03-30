@@ -3,9 +3,9 @@ title: "Section 1344 - Apportionment of national acreage allotments"
 usc_title: 7
 usc_section: "1344"
 chapter: 35
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 1344"
-generated_at: "2026-03-30T08:48:40.301Z"
+generated_at: "2026-03-30T08:52:14.925Z"
 status: "active"
 ---
 

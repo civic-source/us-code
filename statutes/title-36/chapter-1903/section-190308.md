@@ -3,9 +3,9 @@ title: "Section 190308 - Restrictions"
 usc_title: 36
 usc_section: "190308"
 chapter: 1903
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 190308"
-generated_at: "2026-03-30T08:50:43.887Z"
+generated_at: "2026-03-30T08:53:29.857Z"
 status: "active"
 ---
 

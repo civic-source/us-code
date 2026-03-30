@@ -3,9 +3,9 @@ title: "Section 2903 - Executive Director"
 usc_title: 10
 usc_section: "2903"
 chapter: 172
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 2903"
-generated_at: "2026-03-30T08:48:44.838Z"
+generated_at: "2026-03-30T08:51:58.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-30T08:49:19.256Z"
+generated_at: "2026-03-30T08:52:20.675Z"
 status: "active"
 ---
 

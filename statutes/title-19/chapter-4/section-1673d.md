@@ -3,9 +3,9 @@ title: "Section 1673d - Final determinations"
 usc_title: 19
 usc_section: "1673d"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 1673d"
-generated_at: "2026-03-30T08:49:23.597Z"
+generated_at: "2026-03-30T08:52:27.246Z"
 status: "active"
 ---
 

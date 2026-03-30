@@ -3,9 +3,9 @@ title: "Section 2286j - Procurement of inspector general services"
 usc_title: 42
 usc_section: "2286j"
 chapter: 23
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 2286j"
-generated_at: "2026-03-30T08:51:07.175Z"
+generated_at: "2026-03-30T08:54:03.899Z"
 status: "active"
 ---
 

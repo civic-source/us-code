@@ -3,9 +3,9 @@ title: "Section 17 - Regulations"
 usc_title: 7
 usc_section: "17"
 chapter: 50
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 17"
-generated_at: "2026-03-30T08:48:40.350Z"
+generated_at: "2026-03-30T08:52:14.966Z"
 status: "active"
 ---
 

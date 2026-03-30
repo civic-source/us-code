@@ -3,9 +3,9 @@ title: "Section 2473c - Repealed or Transferred"
 usc_title: 42
 usc_section: "2473c"
 chapter: 26
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 2473c"
-generated_at: "2026-03-30T08:51:07.179Z"
+generated_at: "2026-03-30T08:54:03.903Z"
 status: "repealed"
 ---
 

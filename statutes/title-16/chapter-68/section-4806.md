@@ -3,9 +3,9 @@ title: "Section 4806 - Repealed. Pub. L. 105–362, title IX, § 901(a)(1) , Nov
 usc_title: 16
 usc_section: "4806"
 chapter: 68
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 4806"
-generated_at: "2026-03-30T08:49:27.174Z"
+generated_at: "2026-03-30T08:52:57.689Z"
 status: "repealed"
 ---
 

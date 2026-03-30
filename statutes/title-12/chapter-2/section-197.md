@@ -3,9 +3,9 @@ title: "Section 197 - Shareholders’ meeting; continuance of receivership; appo
 usc_title: 12
 usc_section: "197"
 chapter: 2
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 197"
-generated_at: "2026-03-30T08:49:16.543Z"
+generated_at: "2026-03-30T08:52:22.652Z"
 status: "active"
 ---
 

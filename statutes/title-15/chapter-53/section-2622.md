@@ -3,9 +3,9 @@ title: "Section 2622 - Employee protection"
 usc_title: 15
 usc_section: "2622"
 chapter: 53
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 2622"
-generated_at: "2026-03-30T08:49:19.264Z"
+generated_at: "2026-03-30T08:52:20.683Z"
 status: "active"
 ---
 

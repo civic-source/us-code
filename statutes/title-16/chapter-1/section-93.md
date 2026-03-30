@@ -3,9 +3,9 @@ title: "Section 93 - Grant of prior lands to Northern Pacific Railroad; lieu lan
 usc_title: 16
 usc_section: "93"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 93"
-generated_at: "2026-03-30T08:49:26.961Z"
+generated_at: "2026-03-30T08:52:57.484Z"
 status: "active"
 ---
 

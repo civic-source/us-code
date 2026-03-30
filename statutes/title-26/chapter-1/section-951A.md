@@ -3,9 +3,9 @@ title: "Section 951A - Global intangible low-taxed income included in gross inco
 usc_title: 26
 usc_section: "951A"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "26 U.S.C. § 951A"
-generated_at: "2026-03-30T08:50:34.721Z"
+generated_at: "2026-03-30T08:53:23.207Z"
 status: "active"
 ---
 

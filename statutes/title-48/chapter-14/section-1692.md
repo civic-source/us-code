@@ -3,9 +3,9 @@ title: "Section 1692 - Comprehensive annual financial report by chief executives
 usc_title: 48
 usc_section: "1692"
 chapter: 14
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "48 U.S.C. § 1692"
-generated_at: "2026-03-30T08:51:13.549Z"
+generated_at: "2026-03-30T08:54:07.339Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5626 - Authorization of appropriations"
 usc_title: 12
 usc_section: "5626"
 chapter: 53
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 5626"
-generated_at: "2026-03-30T08:49:16.700Z"
+generated_at: "2026-03-30T08:52:22.808Z"
 status: "active"
 ---
 

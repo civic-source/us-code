@@ -3,9 +3,9 @@ title: "Section 3601 - Short title"
 usc_title: 50
 usc_section: "3601"
 chapter: 47
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 3601"
-generated_at: "2026-03-30T08:51:24.721Z"
+generated_at: "2026-03-30T08:54:37.734Z"
 status: "active"
 ---
 

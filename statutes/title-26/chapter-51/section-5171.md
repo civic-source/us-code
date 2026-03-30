@@ -3,9 +3,9 @@ title: "Section 5171 - Establishment"
 usc_title: 26
 usc_section: "5171"
 chapter: 51
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "26 U.S.C. § 5171"
-generated_at: "2026-03-30T08:50:34.776Z"
+generated_at: "2026-03-30T08:53:23.270Z"
 status: "active"
 ---
 

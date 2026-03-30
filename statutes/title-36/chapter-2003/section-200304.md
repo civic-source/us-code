@@ -3,9 +3,9 @@ title: "Section 200304 - Governing body"
 usc_title: 36
 usc_section: "200304"
 chapter: 2003
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 200304"
-generated_at: "2026-03-30T08:50:43.888Z"
+generated_at: "2026-03-30T08:53:29.857Z"
 status: "active"
 ---
 

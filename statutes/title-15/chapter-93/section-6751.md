@@ -3,9 +3,9 @@ title: "Section 6751 - National Association of Registered Agents and Brokers"
 usc_title: 15
 usc_section: "6751"
 chapter: 93
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 6751"
-generated_at: "2026-03-30T08:49:19.293Z"
+generated_at: "2026-03-30T08:52:20.713Z"
 status: "active"
 ---
 

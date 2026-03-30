@@ -3,9 +3,9 @@ title: "Section 2474 - Centers of Industrial and Technical Excellence: designati
 usc_title: 10
 usc_section: "2474"
 chapter: 146
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 2474"
-generated_at: "2026-03-30T08:48:44.820Z"
+generated_at: "2026-03-30T08:51:58.188Z"
 status: "active"
 ---
 

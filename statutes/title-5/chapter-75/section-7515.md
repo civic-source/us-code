@@ -3,9 +3,9 @@ title: "Section 7515 - Discipline of supervisors based on retaliation against wh
 usc_title: 5
 usc_section: "7515"
 chapter: 75
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "5 U.S.C. § 7515"
-generated_at: "2026-03-30T08:48:32.835Z"
+generated_at: "2026-03-30T08:51:47.436Z"
 status: "active"
 ---
 

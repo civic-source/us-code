@@ -3,9 +3,9 @@ title: "Section 752 - Reporting requirements"
 usc_title: 6
 usc_section: "752"
 chapter: 2
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "6 U.S.C. § 752"
-generated_at: "2026-03-30T08:48:36.553Z"
+generated_at: "2026-03-30T08:52:04.885Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1856c - Service in line of duty"
 usc_title: 42
 usc_section: "1856c"
 chapter: 15
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 1856c"
-generated_at: "2026-03-30T08:51:07.141Z"
+generated_at: "2026-03-30T08:54:03.866Z"
 status: "active"
 ---
 

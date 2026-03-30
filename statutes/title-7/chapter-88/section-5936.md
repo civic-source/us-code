@@ -3,9 +3,9 @@ title: "Section 5936 - Farm and Ranch Stress Assistance Network"
 usc_title: 7
 usc_section: "5936"
 chapter: 88
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 5936"
-generated_at: "2026-03-30T08:48:40.401Z"
+generated_at: "2026-03-30T08:52:15.009Z"
 status: "active"
 ---
 

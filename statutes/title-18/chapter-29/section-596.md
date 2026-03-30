@@ -3,9 +3,9 @@ title: "Section 596 - Polling armed forces"
 usc_title: 18
 usc_section: "596"
 chapter: 29
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 596"
-generated_at: "2026-03-30T08:49:28.948Z"
+generated_at: "2026-03-30T08:52:26.102Z"
 status: "active"
 ---
 

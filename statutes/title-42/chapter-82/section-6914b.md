@@ -3,9 +3,9 @@ title: "Section 6914b - Degradable plastic ring carriers; definitions"
 usc_title: 42
 usc_section: "6914b"
 chapter: 82
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 6914b"
-generated_at: "2026-03-30T08:51:07.270Z"
+generated_at: "2026-03-30T08:54:03.995Z"
 status: "active"
 ---
 

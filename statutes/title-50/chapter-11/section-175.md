@@ -3,9 +3,9 @@ title: "Section 175 - Transferred"
 usc_title: 50
 usc_section: "175"
 chapter: 11
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "50 U.S.C. § 175"
-generated_at: "2026-03-30T08:51:24.674Z"
+generated_at: "2026-03-30T08:54:37.693Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17705 - Approval of Federal Communications Commission"
 usc_title: 40
 usc_section: "17705"
 chapter: 177
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "40 U.S.C. § 17705"
-generated_at: "2026-03-30T08:50:42.093Z"
+generated_at: "2026-03-30T08:53:30.636Z"
 status: "active"
 ---
 

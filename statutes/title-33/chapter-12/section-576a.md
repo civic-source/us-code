@@ -3,9 +3,9 @@ title: "Section 576a - Purchase of passenger motor vehicles by Corps of Engineer
 usc_title: 33
 usc_section: "576a"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 576a"
-generated_at: "2026-03-30T08:50:37.843Z"
+generated_at: "2026-03-30T08:53:27.579Z"
 status: "active"
 ---
 

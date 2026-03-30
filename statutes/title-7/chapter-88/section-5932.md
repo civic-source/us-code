@@ -3,9 +3,9 @@ title: "Section 5932 - Repealed. Pub. L. 104–127, title VIII , §§ 865, 866, 
 usc_title: 7
 usc_section: "5932"
 chapter: 88
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 5932"
-generated_at: "2026-03-30T08:48:40.401Z"
+generated_at: "2026-03-30T08:52:15.009Z"
 status: "repealed"
 ---
 

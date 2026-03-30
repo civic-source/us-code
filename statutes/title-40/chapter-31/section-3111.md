@@ -3,9 +3,9 @@ title: "Section 3111 - Approval of sufficiency of title prior to acquisition"
 usc_title: 40
 usc_section: "3111"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "40 U.S.C. § 3111"
-generated_at: "2026-03-30T08:50:42.082Z"
+generated_at: "2026-03-30T08:53:30.626Z"
 status: "active"
 ---
 

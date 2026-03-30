@@ -3,9 +3,9 @@ title: "Section 760f - Migratory game fish study; authorization to acquire facil
 usc_title: 16
 usc_section: "760f"
 chapter: 9
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 760f"
-generated_at: "2026-03-30T08:49:27.081Z"
+generated_at: "2026-03-30T08:52:57.598Z"
 status: "active"
 ---
 

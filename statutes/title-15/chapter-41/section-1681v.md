@@ -3,9 +3,9 @@ title: "Section 1681v - Disclosures to governmental agencies for counterterroris
 usc_title: 15
 usc_section: "1681v"
 chapter: 41
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 1681v"
-generated_at: "2026-03-30T08:49:19.242Z"
+generated_at: "2026-03-30T08:52:20.661Z"
 status: "active"
 ---
 

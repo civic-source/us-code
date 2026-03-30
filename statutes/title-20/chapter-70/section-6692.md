@@ -3,9 +3,9 @@ title: "Section 6692 - Rules of construction"
 usc_title: 20
 usc_section: "6692"
 chapter: 70
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 6692"
-generated_at: "2026-03-30T08:49:42.168Z"
+generated_at: "2026-03-30T08:52:29.572Z"
 status: "active"
 ---
 

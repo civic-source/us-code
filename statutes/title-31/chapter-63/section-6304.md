@@ -3,9 +3,9 @@ title: "Section 6304 - Using grant agreements"
 usc_title: 31
 usc_section: "6304"
 chapter: 63
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "31 U.S.C. § 6304"
-generated_at: "2026-03-30T08:50:38.617Z"
+generated_at: "2026-03-30T08:53:26.808Z"
 status: "active"
 ---
 

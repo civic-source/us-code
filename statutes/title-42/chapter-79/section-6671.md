@@ -3,9 +3,9 @@ title: "Section 6671 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6671"
 chapter: 79
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 6671"
-generated_at: "2026-03-30T08:51:07.266Z"
+generated_at: "2026-03-30T08:54:03.991Z"
 status: "active"
 ---
 

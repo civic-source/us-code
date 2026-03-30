@@ -3,9 +3,9 @@ title: "Section 1404 - Alternative method of withdrawal liability payments"
 usc_title: 29
 usc_section: "1404"
 chapter: 18
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "29 U.S.C. § 1404"
-generated_at: "2026-03-30T08:50:29.484Z"
+generated_at: "2026-03-30T08:53:11.409Z"
 status: "active"
 ---
 

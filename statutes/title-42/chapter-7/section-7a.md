@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T08:51:06.971Z"
+generated_at: "2026-03-30T08:54:03.694Z"
 status: "active"
 ---
 

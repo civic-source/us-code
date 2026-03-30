@@ -3,9 +3,9 @@ title: "Section 5589 - Promotion and facilitation of practical use of photovolta
 usc_title: 42
 usc_section: "5589"
 chapter: 71
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 5589"
-generated_at: "2026-03-30T08:51:07.242Z"
+generated_at: "2026-03-30T08:54:03.966Z"
 status: "active"
 ---
 

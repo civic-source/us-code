@@ -3,9 +3,9 @@ title: "Section 10 - Publications"
 usc_title: 35
 usc_section: "10"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "35 U.S.C. § 10"
-generated_at: "2026-03-30T08:50:36.819Z"
+generated_at: "2026-03-30T08:53:25.097Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20106 - Compensation to victims of international terrorism"
 usc_title: 34
 usc_section: "20106"
 chapter: 201
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 20106"
-generated_at: "2026-03-30T08:50:39.195Z"
+generated_at: "2026-03-30T08:53:26.137Z"
 status: "active"
 ---
 

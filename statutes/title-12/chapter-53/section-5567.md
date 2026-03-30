@@ -3,9 +3,9 @@ title: "Section 5567 - Employee protection"
 usc_title: 12
 usc_section: "5567"
 chapter: 53
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 5567"
-generated_at: "2026-03-30T08:49:16.698Z"
+generated_at: "2026-03-30T08:52:22.806Z"
 status: "active"
 ---
 

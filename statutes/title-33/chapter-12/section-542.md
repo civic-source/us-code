@@ -3,9 +3,9 @@ title: "Section 542 - Review by Board of Engineers of reports on examinations an
 usc_title: 33
 usc_section: "542"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 542"
-generated_at: "2026-03-30T08:50:37.841Z"
+generated_at: "2026-03-30T08:53:27.578Z"
 status: "active"
 ---
 

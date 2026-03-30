@@ -3,9 +3,9 @@ title: "Section 6102 - Definitions"
 usc_title: 7
 usc_section: "6102"
 chapter: 90
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 6102"
-generated_at: "2026-03-30T08:48:40.403Z"
+generated_at: "2026-03-30T08:52:15.011Z"
 status: "active"
 ---
 

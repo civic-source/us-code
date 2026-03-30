@@ -3,9 +3,9 @@ title: "Section 6508 - Prohibited crop production practices and materials"
 usc_title: 7
 usc_section: "6508"
 chapter: 94
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 6508"
-generated_at: "2026-03-30T08:48:40.409Z"
+generated_at: "2026-03-30T08:52:15.016Z"
 status: "active"
 ---
 

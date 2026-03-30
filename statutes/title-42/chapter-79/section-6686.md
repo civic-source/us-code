@@ -3,9 +3,9 @@ title: "Section 6686 - Science and Technology Policy Institute"
 usc_title: 42
 usc_section: "6686"
 chapter: 79
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 6686"
-generated_at: "2026-03-30T08:51:07.266Z"
+generated_at: "2026-03-30T08:54:03.991Z"
 status: "active"
 ---
 

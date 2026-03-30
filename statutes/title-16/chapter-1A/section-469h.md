@@ -3,9 +3,9 @@ title: "Section 469h - Comprehensive plan for Reserve Development"
 usc_title: 16
 usc_section: "469h"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 469h"
-generated_at: "2026-03-30T08:49:27.043Z"
+generated_at: "2026-03-30T08:52:57.563Z"
 status: "active"
 ---
 

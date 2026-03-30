@@ -3,9 +3,9 @@ title: "Section 1660e - Expanded program authority for urban Indian organization
 usc_title: 25
 usc_section: "1660e"
 chapter: 18
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "25 U.S.C. § 1660e"
-generated_at: "2026-03-30T08:50:04.715Z"
+generated_at: "2026-03-30T08:53:07.508Z"
 status: "active"
 ---
 

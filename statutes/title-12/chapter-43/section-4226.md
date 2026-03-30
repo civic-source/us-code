@@ -3,9 +3,9 @@ title: "Section 4226 - Rights of declarants; notifications; Government accountab
 usc_title: 12
 usc_section: "4226"
 chapter: 43
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 4226"
-generated_at: "2026-03-30T08:49:16.664Z"
+generated_at: "2026-03-30T08:52:22.769Z"
 status: "active"
 ---
 

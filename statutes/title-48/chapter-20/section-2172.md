@@ -3,9 +3,9 @@ title: "Section 2172 - Filing of plan of adjustment"
 usc_title: 48
 usc_section: "2172"
 chapter: 20
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "48 U.S.C. § 2172"
-generated_at: "2026-03-30T08:51:13.559Z"
+generated_at: "2026-03-30T08:54:07.350Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2002 - Reports"
 usc_title: 48
 usc_section: "2002"
 chapter: 19
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "48 U.S.C. § 2002"
-generated_at: "2026-03-30T08:51:13.556Z"
+generated_at: "2026-03-30T08:54:07.346Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1104 - Appointment of trustee or examiner"
 usc_title: 11
 usc_section: "1104"
 chapter: 11
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "11 U.S.C. § 1104"
-generated_at: "2026-03-30T08:48:47.351Z"
+generated_at: "2026-03-30T08:52:21.073Z"
 status: "active"
 ---
 

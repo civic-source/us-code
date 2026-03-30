@@ -3,9 +3,9 @@ title: "Section 152507 - Restrictions"
 usc_title: 36
 usc_section: "152507"
 chapter: 1525
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 152507"
-generated_at: "2026-03-30T08:50:43.885Z"
+generated_at: "2026-03-30T08:53:29.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T08:50:25.136Z"
+generated_at: "2026-03-30T08:53:05.060Z"
 status: "active"
 ---
 
@@ -23,15 +23,15 @@ status: "active"
     - **(A)** major illicit drug producing countries or major drug-transit countries as determined under section 2291j(h) of this title ;
     - **(B)** major sources of precursor chemicals used in the production of illicit narcotics; or
     - **(C)** major money laundering countries.
-  - **(4)** In addition, for each country identified pursuant to paragraph (3), the following:
+  - **(4)** In addition, for each country identified pursuant to paragraph (3), 1 1 See References in Text note below. the following:
     - **(A)** A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
     - **(B)** Whether as a matter of government policy or practice, such country encourages or facilitates the illicit production or distribution of narcotic or psychotropic drugs or other controlled substances or the laundering of proceeds from illegal drug transactions; and whether any senior official of the government of such country engages in, encourages, or facilitates the illicit production or distribution of such drugs or substances, or the laundering of proceeds from illegal drug transactions.
-  - **(5)** In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B), a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
-  - **(6)** In addition, for those countries identified pursuant to paragraph (3)(C)—
+  - **(5)** In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B), 1 a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
+  - **(6)** In addition, for those countries identified pursuant to paragraph (3)(C)— 1
     - **(A)** which countries are parties to international agreements on a method for maintaining records of transactions of an established list of precursor and essential chemicals;
     - **(B)** which countries have established a procedure by which such records may be made available to United States law enforcement authorities; and
     - **(C)** which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
-  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(D) the following:
+  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(D) 1 the following:
     - **(A)**
       - **(i)** Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
       - **(ii)** which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and

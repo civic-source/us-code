@@ -3,9 +3,9 @@ title: "Section 5045 - Repealed. Pub. L. 98–288, § 20(a) , May 21, 1984 , 98 
 usc_title: 42
 usc_section: "5045"
 chapter: 66
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 5045"
-generated_at: "2026-03-30T08:51:07.223Z"
+generated_at: "2026-03-30T08:54:03.946Z"
 status: "repealed"
 ---
 

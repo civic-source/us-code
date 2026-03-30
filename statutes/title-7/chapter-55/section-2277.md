@@ -3,9 +3,9 @@ title: "Section 2277 - Contracts by Animal and Plant Health Inspection Service f
 usc_title: 7
 usc_section: "2277"
 chapter: 55
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 2277"
-generated_at: "2026-03-30T08:48:40.368Z"
+generated_at: "2026-03-30T08:52:14.982Z"
 status: "active"
 ---
 

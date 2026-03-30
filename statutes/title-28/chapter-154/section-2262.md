@@ -3,9 +3,9 @@ title: "Section 2262 - Mandatory stay of execution; duration; limits on stays of
 usc_title: 28
 usc_section: "2262"
 chapter: 154
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "28 U.S.C. § 2262"
-generated_at: "2026-03-30T08:50:28.617Z"
+generated_at: "2026-03-30T08:53:10.636Z"
 status: "active"
 ---
 

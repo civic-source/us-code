@@ -3,9 +3,9 @@ title: "Section 2214a - Definitions"
 usc_title: 22
 usc_section: "2214a"
 chapter: 32
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 2214a"
-generated_at: "2026-03-30T08:50:25.133Z"
+generated_at: "2026-03-30T08:53:05.058Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ In this subpart:
   - **(11)** The term “private voluntary organization” means a not-for-profit entity that—
     - **(A)** engages in and supports activities of an economic or social development or humanitarian nature for citizens in foreign countries; and
     - **(B)** is incorporated as such under the laws of the United States, including any of its states, territories or the District of Columbia, or of a foreign country.
-  - **(12)** The term “United states-supported financial intermediary” means a financial intermediary that has received funds made available under subchapter I of this chapter for fiscal year 1980 or any subsequent fiscal year.
+  - **(12)** The term “United States-supported financial intermediary” means a financial intermediary that has received funds made available under subchapter I of this chapter for fiscal year 1980 or any subsequent fiscal year.
   - **(13)** The term “very poor” means those individuals—
     - **(A)** living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
     - **(B)** living below the international poverty line (as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the ‘World Bank’)).

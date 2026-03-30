@@ -3,9 +3,9 @@ title: "Section 4301 - Definitions"
 usc_title: 19
 usc_section: "4301"
 chapter: 28
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 4301"
-generated_at: "2026-03-30T08:49:23.645Z"
+generated_at: "2026-03-30T08:52:27.295Z"
 status: "active"
 ---
 

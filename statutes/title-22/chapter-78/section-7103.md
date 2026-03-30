@@ -3,9 +3,9 @@ title: "Section 7103 - Interagency Task Force to Monitor and Combat Trafficking"
 usc_title: 22
 usc_section: "7103"
 chapter: 78
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 7103"
-generated_at: "2026-03-30T08:50:25.201Z"
+generated_at: "2026-03-30T08:53:05.129Z"
 status: "active"
 ---
 
@@ -53,8 +53,8 @@ status: "active"
       - **(iv)** the number of victims granted continued presence in the United States under section 7105(c)(3) of this title ;
       - **(v)** the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 ;
       - **(vi)** the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
-      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
-      - **(viii)** the number of convictions obtained under chapter 77 of title 18 aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 2
+      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; 3 3 So in original. Probably should be followed by “and”.
+      - **(viii)** the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 2
     - **(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 1 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
     - **(S)** tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
 - **(e)**

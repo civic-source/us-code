@@ -3,9 +3,9 @@ title: "Section 8680 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "8680"
 chapter: 863
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 8680"
-generated_at: "2026-03-30T08:48:44.854Z"
+generated_at: "2026-03-30T08:51:58.220Z"
 status: "active"
 ---
 

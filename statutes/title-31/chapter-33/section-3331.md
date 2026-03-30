@@ -3,9 +3,9 @@ title: "Section 3331 - Substitute checks"
 usc_title: 31
 usc_section: "3331"
 chapter: 33
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "31 U.S.C. § 3331"
-generated_at: "2026-03-30T08:50:38.604Z"
+generated_at: "2026-03-30T08:53:26.794Z"
 status: "active"
 ---
 

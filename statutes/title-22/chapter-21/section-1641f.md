@@ -3,9 +3,9 @@ title: "Section 1641f - Amount of award"
 usc_title: 22
 usc_section: "1641f"
 chapter: 21
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 1641f"
-generated_at: "2026-03-30T08:50:25.120Z"
+generated_at: "2026-03-30T08:53:05.044Z"
 status: "active"
 ---
 

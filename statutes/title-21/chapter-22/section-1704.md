@@ -1,15 +1,15 @@
 ---
-title: "Section 1704 - Coordination with National Drug Control Program Agencies in demand reduction, supply reduction, and State and local affairs"
+title: "Section 1704 - Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs"
 usc_title: 21
 usc_section: "1704"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 1704"
-generated_at: "2026-03-30T08:50:13.158Z"
+generated_at: "2026-03-30T08:53:02.344Z"
 status: "active"
 ---
 
-# § 1704. Coordination with National Drug Control Program Agencies in demand reduction, supply reduction, and State and local affairs
+# § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs
 
 - **(a)**
   - **(1)** Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
@@ -35,7 +35,7 @@ status: "active"
     - **(B)** upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Strategy.
 - **(c)** The Administrator of General Services shall provide to the Director, on a reimbursable basis, such administrative support services as the Director may request.
 - **(d)**
-  - **(1)** Not later than February 1 of each year, in accordance with guidance issued by the Director, the head of each National Drug Control Program Agency shall submit to the Director a detailed accounting of all funds expended by the agency for National Drug Control Program activities during the previous fiscal year and shall ensure such detailed accounting is authenticated for the previous fiscal year by the Inspector General for such agency prior to the submission to the Director as frequently as determined by the Inspector General but not less frequently that 1 1 So in original. Probably should be “than”. every 3 years.
+  - **(1)** Not later than February 1 of each year, in accordance with guidance issued by the Director, the head of each National Drug Control Program agency shall submit to the Director a detailed accounting of all funds expended by the agency for National Drug Control Program activities during the previous fiscal year and shall ensure such detailed accounting is authenticated for the previous fiscal year by the Inspector General for such agency prior to the submission to the Director as frequently as determined by the Inspector General but not less frequently than every 3 years.
   - **(2)** The Director shall submit to Congress not later than April 1 of each year the information submitted to the Director under paragraph (1).
 - **(e)**
   - **(1)** The Director may make a grant to a nonprofit organization for the purpose of providing training and technical assistance to drug courts.
@@ -43,10 +43,10 @@ status: "active"
 - **(f)**
   - **(1)** The Director, or the head of an agency designated by the Director, in coordination with the Secretary of Health and Human Services, shall track federally-funded grant programs to—
     - **(A)** ensure the public has electronic access to information identifying:
-      - **(i)** all drug control grants and pertinent identifying information for each grant; 2 2 So in original. Probably should be followed by “and”.
+      - **(i)** all drug control grants and pertinent identifying information for each grant; and
       - **(ii)** any available performance metrics, evaluations, or other information indicating the effectiveness of such programs;
     - **(B)** facilitate efforts to identify duplication, overlap, or gaps in funding to provide increased accountability of Federally-funded grants for substance use disorder treatment, prevention, and enforcement; and
-    - **(C)** identify barriers in the grant application process impediments that applicants currently have in the grant application process 3 3 So in original. with applicable agencies.
-  - **(2)** The head of each National Drug Control Program Agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
+    - **(C)** identify barriers that may impede applicants in the grant application process.
+  - **(2)** The head of each National Drug Control Program agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
   - **(3)** The Director may meet the requirements of this subsection by utilizing, updating, or improving existing Federal information systems to ensure they meet the requirements of this subsection.
   - **(4)** Not later than 3 years after October 24, 2018 , the Comptroller General of the United States shall submit to Congress a report examining implementation of this subsection.

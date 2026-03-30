@@ -3,9 +3,9 @@ title: "Section 4105 - Transfer of offenders serving sentence of imprisonment"
 usc_title: 18
 usc_section: "4105"
 chapter: 306
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 4105"
-generated_at: "2026-03-30T08:49:28.997Z"
+generated_at: "2026-03-30T08:52:26.150Z"
 status: "active"
 ---
 

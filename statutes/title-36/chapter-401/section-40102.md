@@ -3,9 +3,9 @@ title: "Section 40102 - Organization"
 usc_title: 36
 usc_section: "40102"
 chapter: 401
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 40102"
-generated_at: "2026-03-30T08:50:43.877Z"
+generated_at: "2026-03-30T08:53:29.846Z"
 status: "active"
 ---
 

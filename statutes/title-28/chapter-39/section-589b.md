@@ -3,9 +3,9 @@ title: "Section 589b - Bankruptcy data"
 usc_title: 28
 usc_section: "589b"
 chapter: 39
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "28 U.S.C. § 589b"
-generated_at: "2026-03-30T08:50:28.604Z"
+generated_at: "2026-03-30T08:53:10.622Z"
 status: "active"
 ---
 

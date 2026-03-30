@@ -3,9 +3,9 @@ title: "Section 6362 - Energy conservation policies and practices"
 usc_title: 42
 usc_section: "6362"
 chapter: 77
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 6362"
-generated_at: "2026-03-30T08:51:07.261Z"
+generated_at: "2026-03-30T08:54:03.985Z"
 status: "active"
 ---
 

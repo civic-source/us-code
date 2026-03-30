@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(6)(
 usc_title: 26
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "26 U.S.C. § 3"
-generated_at: "2026-03-30T08:50:34.741Z"
+generated_at: "2026-03-30T08:53:23.230Z"
 status: "repealed"
 ---
 

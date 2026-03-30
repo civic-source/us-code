@@ -3,9 +3,9 @@ title: "Section 3339 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3339"
 chapter: 34
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 3339"
-generated_at: "2026-03-30T08:49:16.655Z"
+generated_at: "2026-03-30T08:52:22.760Z"
 status: "active"
 ---
 

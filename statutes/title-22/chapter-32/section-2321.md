@@ -3,9 +3,9 @@ title: "Section 2321 - Repealed. Pub. L. 93–189, § 12(b)(5) , Dec. 17, 1973 ,
 usc_title: 22
 usc_section: "2321"
 chapter: 32
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 2321"
-generated_at: "2026-03-30T08:50:25.139Z"
+generated_at: "2026-03-30T08:53:05.063Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3202 - Definitions"
 usc_title: 15
 usc_section: "3202"
 chapter: 59
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 3202"
-generated_at: "2026-03-30T08:49:19.271Z"
+generated_at: "2026-03-30T08:52:20.691Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46507 - False information and threats"
 usc_title: 49
 usc_section: "46507"
 chapter: 465
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 46507"
-generated_at: "2026-03-30T08:51:29.681Z"
+generated_at: "2026-03-30T08:54:30.079Z"
 status: "active"
 ---
 

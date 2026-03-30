@@ -3,9 +3,9 @@ title: "Section 1245 - Connecting or side trails; establishment, designation, an
 usc_title: 16
 usc_section: "1245"
 chapter: 27
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 1245"
-generated_at: "2026-03-30T08:49:27.108Z"
+generated_at: "2026-03-30T08:52:57.625Z"
 status: "active"
 ---
 

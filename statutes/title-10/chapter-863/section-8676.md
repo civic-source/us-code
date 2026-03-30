@@ -3,9 +3,9 @@ title: "Section 8676 - Vessels stricken from Naval Vessel Register; captured ves
 usc_title: 10
 usc_section: "8676"
 chapter: 863
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 8676"
-generated_at: "2026-03-30T08:48:44.854Z"
+generated_at: "2026-03-30T08:51:58.220Z"
 status: "active"
 ---
 

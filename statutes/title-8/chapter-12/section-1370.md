@@ -3,9 +3,9 @@ title: "Section 1370 - Reimbursement of States and localities for emergency ambu
 usc_title: 8
 usc_section: "1370"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "8 U.S.C. § 1370"
-generated_at: "2026-03-30T08:48:37.293Z"
+generated_at: "2026-03-30T08:51:52.150Z"
 status: "active"
 ---
 

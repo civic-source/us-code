@@ -3,9 +3,9 @@ title: "Section 541c - Extension of boundaries of Siuslaw National Forest; trans
 usc_title: 16
 usc_section: "541c"
 chapter: 2
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 541c"
-generated_at: "2026-03-30T08:49:27.054Z"
+generated_at: "2026-03-30T08:52:57.574Z"
 status: "active"
 ---
 

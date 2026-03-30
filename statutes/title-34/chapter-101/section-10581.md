@@ -3,9 +3,9 @@ title: "Section 10581 - Repealed. Pub. L. 115–391, title V, § 504(g)(2) , Dec
 usc_title: 34
 usc_section: "10581"
 chapter: 101
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 10581"
-generated_at: "2026-03-30T08:50:39.175Z"
+generated_at: "2026-03-30T08:53:26.117Z"
 status: "repealed"
 ---
 

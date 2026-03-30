@@ -3,9 +3,9 @@ title: "Section 1780d - Omitted"
 usc_title: 25
 usc_section: "1780d"
 chapter: 19
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "25 U.S.C. § 1780d"
-generated_at: "2026-03-30T08:50:04.720Z"
+generated_at: "2026-03-30T08:53:07.513Z"
 status: "omitted"
 ---
 

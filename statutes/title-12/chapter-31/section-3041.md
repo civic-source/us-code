@@ -3,9 +3,9 @@ title: "Section 3041 - Establishment; appointment, etc., of Director"
 usc_title: 12
 usc_section: "3041"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 3041"
-generated_at: "2026-03-30T08:49:16.652Z"
+generated_at: "2026-03-30T08:52:22.757Z"
 status: "active"
 ---
 

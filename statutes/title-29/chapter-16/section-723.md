@@ -3,9 +3,9 @@ title: "Section 723 - Vocational rehabilitation services"
 usc_title: 29
 usc_section: "723"
 chapter: 16
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "29 U.S.C. § 723"
-generated_at: "2026-03-30T08:50:29.448Z"
+generated_at: "2026-03-30T08:53:11.374Z"
 status: "active"
 ---
 

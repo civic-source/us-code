@@ -3,9 +3,9 @@ title: "Section 396e - Officials authorized to approve leases"
 usc_title: 25
 usc_section: "396e"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "25 U.S.C. § 396e"
-generated_at: "2026-03-30T08:50:04.701Z"
+generated_at: "2026-03-30T08:53:07.492Z"
 status: "active"
 ---
 

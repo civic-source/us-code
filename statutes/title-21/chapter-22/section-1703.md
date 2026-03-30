@@ -3,9 +3,9 @@ title: "Section 1703 - Appointment and duties of Director and Deputy Directors"
 usc_title: 21
 usc_section: "1703"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 1703"
-generated_at: "2026-03-30T08:50:13.157Z"
+generated_at: "2026-03-30T08:53:02.343Z"
 status: "active"
 ---
 
@@ -18,12 +18,12 @@ status: "active"
       - **(ii)** The Director shall be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President.
     - **(B)** There shall be a Deputy Director who shall report directly to the Director, and who shall be appointed by the President, and shall serve at the pleasure of the President.
     - **(C)** The following coordinators shall be appointed by the Director:
-      - **(i)** Performance Budget Coordinator, as described in subsection (c)(4). 1 1 So in original. Probably should be “(c)(5).”
+      - **(i)** Performance Budget Coordinator, as described in subsection (c)(5).
       - **(ii)** Interdiction Coordinator, as described in section 1710 of this title .
       - **(iii)** Emerging and Continuing Threats Coordinator, as described in section 1708 of this title .
       - **(iv)** State, Local, and Tribal Affairs Coordinator, to carry out the activities described in subsection (j).
       - **(v)** Demand Reduction Coordinator, as described in subparagraph (D).
-    - **(D)** The Director shall designate or appoint a United States Demand Reduction Coordinator to be responsible for the activities described in section 1701(3) of this title . The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+    - **(D)** The Director shall designate or appoint a United States Demand Reduction Coordinator to be responsible for the activities described in section 1701(3) of this title . For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
   - **(2)** The Deputy Director of National Drug Control Policy shall—
     - **(A)** carry out the duties and powers prescribed by the Director; and
     - **(B)** serve as the Director in the absence of the Director or during any period in which the office of the Director is vacant.
@@ -33,7 +33,7 @@ status: "active"
   - **(6)** No funds authorized under this chapter may be obligated for the purpose of expressly advocating the passage or defeat of a State or local ballot initiative.
 - **(b)** The Director—
   - **(1)** shall assist the President in the establishment of policies, goals, objectives, and priorities for the National Drug Control Program;
-  - **(2)** shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) 2 2 See References in Text note below. of this title in accordance with section 1705 of this title ;
+  - **(2)** shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) 1 1 See References in Text note below. of this title in accordance with section 1705 of this title ;
   - **(3)** shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
   - **(4)** shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of National Drug Control Program agencies, and changes in the allocation of personnel to and within those departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
   - **(5)** shall consult with and assist State and local governments with respect to the formulation and implementation of National Drug Control Policy and their relations with the National Drug Control Program agencies;
@@ -51,7 +51,7 @@ status: "active"
   - **(13)** Repealed. Pub. L. 115–271, title VIII, § 8221(b)(1)(A) , Oct. 24, 2018 , 132 Stat. 4142 .
   - **(14)** shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
     - **(A)** each of the evaluations received by the Director under section 1705(g)(2) of this title ; and
-    - **(B)** the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2 of this title;
+    - **(B)** the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2 2 Probably should be “1705(h)”. of this title;
   - **(15)** shall ensure that drug prevention and drug treatment research and information is effectively disseminated by National Drug Control Program agencies to State and local governments and nongovernmental entities involved in demand reduction by—
     - **(A)** encouraging formal consultation between any such agency that conducts or sponsors research, and any such agency that disseminates information in developing research and information product development agendas;
     - **(B)** encouraging such agencies (as appropriate) to develop and implement dissemination plans that specifically target State and local governments and nongovernmental entities involved in demand reduction; and
@@ -66,8 +66,8 @@ status: "active"
   - **(21)** in order to formulate the national drug control policies, goals, objectives, and priorities—
     - **(A)** shall consult with and assist—
       - **(i)** State and local governments;
-      - **(ii)** National Drug Control Program Agencies;
-      - **(iii)** each committee, working group, council, or other entity established under this chapter, 2 as appropriate;
+      - **(ii)** National Drug Control Program agencies;
+      - **(iii)** each committee, working group, council, or other entity established under this chapter, as appropriate;
       - **(iv)** the public;
       - **(v)** appropriate congressional committees; and
       - **(vi)** any other person in the discretion of the Director; and
@@ -83,7 +83,7 @@ status: "active"
   - **(2)** For each fiscal year, following the transmission of proposed drug control budget requests to the Director under paragraph (1), the Director shall, in consultation with the head of each National Drug Control Program agency and the head of each major national organization that represents law enforcement officers, agencies, or associations—
     - **(A)** develop a consolidated National Drug Control Program budget proposal designed to implement the National Drug Control Strategy and to inform Congress and the public about the total amount proposed to be spent on all supply reduction, demand reduction, State, local, and tribal affairs, including any drug law enforcement, and other drug control activities by the Federal Government, which shall conform to the content requirements set forth in paragraph (1)(C) and include—
       - **(i)** the funding level for each National Drug Control Program agency; and
-      - **(ii)** alternative funding structures that could improve progress on achieving the goals fo 3 3 So in original. the National Drug Control Strategy; and
+      - **(ii)** alternative funding structures that could improve progress on achieving the goals of the National Drug Control Strategy; and
     - **(B)** submit the consolidated budget proposal to the President and Congress.
   - **(3)**
     - **(A)** The Director shall review each drug control budget request submitted to the Director under paragraph (1).
@@ -105,18 +105,18 @@ status: "active"
     - **(E)**
       - **(i)** At the time a National Drug Control Program agency submits its budget request to the Office of Management and Budget, the head of the National Drug Control Program agency shall submit a copy of the budget request to the Director.
       - **(ii)** The Director shall—
-        - **(I)** review each budget submission submitted under subparagraph (A); 4 4 So in original. Probably should be “clause (i);”.
-        - **(II)** based on the review under clause (i), 5 5 So in original. Probably should be “subclause (I),”. make a determination as to whether the budget submission of a National Drug Control Program agency includes the funding levels and initiatives described in subparagraph (B); and
+        - **(I)** review each budget submission submitted under clause (i);
+        - **(II)** based on the review under subclause (I), make a determination as to whether the budget submission of a National Drug Control Program agency includes the funding levels and initiatives described in subparagraph (B); and
         - **(III)** submit to the appropriate congressional committees—
   - **(4)**
     - **(A)** No National Drug Control Program agency shall submit to Congress a reprogramming or transfer request with respect to any amount of appropriated funds in an amount exceeding $5,000,000 or 10 percent of a specific program or account that is included in the National Drug Control Program budget unless the request has been approved by the Director. If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.
     - **(B)** The head of any National Drug Control Program agency may appeal to the President any disapproval by the Director of a reprogramming or transfer request under this paragraph.
   - **(5)**
     - **(A)** The Director shall designate or appoint a United States Performance-Budget Coordinator to—
-      - **(i)** ensure the Director has sufficient information necessary to analyze the performance of each National Drug Control Program Agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program Agency, to make an independent assessment of the budget request of each agency under this subsection;
+      - **(i)** ensure the Director has sufficient information necessary to analyze the performance of each National Drug Control Program agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program agency, to make an independent assessment of the budget request of each agency under this subsection;
       - **(ii)** advise the Director on agency budgets, performance measures and targets, and additional data and research needed to make informed policy decisions under this section and section 1705 of this title ; and
       - **(iii)** other duties as may be determined by the Director with respect to measuring or assessing performance or agency budgets.
-    - **(B)** The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+    - **(B)** For purposes of carrying out subparagraph (A), the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
   - **(6)** Whenever the Director submits any budget estimate or request to the President or the Office of Management and Budget, the Director shall concurrently transmit to the appropriate congressional committees a detailed statement of the budgetary needs of the Office to execute its mission based on the good-faith assessment of the Director.
 - **(d)** In carrying out subsection (b), the Director may—
   - **(1)** select, appoint, employ, and fix compensation of such officers and employees of the Office as may be necessary to carry out the functions of the Office under this chapter;
@@ -136,13 +136,13 @@ status: "active"
     - **(E)** the Director shall—
       - **(i)** submit to the appropriate congressional committees and any other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency; and
       - **(ii)** annually submit to the appropriate congressional committees a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) during the 12-month period preceding the date on which the report is submitted; and
-      - **(iii)** 6 6 So in original. Probably should be designated as subpar. (F). funds may only be used for—
-        - **(I)** expansion of demand reduction activities;
-        - **(II)** interdiction of illicit drugs on the high seas, in United States territorial waters, and at United States ports of entry by officers and employees of National Drug Control Program Agencies and domestic and foreign law enforcement officers;
-        - **(III)** accurate assessment and monitoring of international drug production and interdiction programs and policies;
-        - **(IV)** activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program Agencies related to the production and trafficking of drugs in the United States and foreign countries; and
-        - **(V)** research related to any of these activities. 7 7 So in original. The period probably should be a semicolon.
-  - **(9)** issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
+    - **(F)** funds may only be used for—
+      - **(i)** expansion of demand reduction activities;
+      - **(ii)** interdiction of illicit drugs on the high seas, in United States territorial waters, and at United States ports of entry by officers and employees of National Drug Control Program agencies and domestic and foreign law enforcement officers;
+      - **(iii)** accurate assessment and monitoring of international drug production and interdiction programs and policies;
+      - **(iv)** activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program agencies related to the production and trafficking of drugs in the United States and foreign countries; and
+      - **(v)** research related to any of these activities;
+  - **(9)** issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5); and
   - **(10)** participate in the drug certification process pursuant to section 2291j of title 22 and section 2291j–1 of title 22 .
 - **(e)**
   - **(1)** Notwithstanding any provision of chapter 43 of title 5, the Director shall perform the evaluation of the performance of any employee detailed to the Office for purposes of the applicable performance appraisal system established under such chapter for any rating period, or part thereof, that such employee is detailed to such office.
@@ -174,5 +174,5 @@ status: "active"
     - **(A)** advise States on establishing laws and policies to address illicit drug use issues; and
     - **(B)** revise such model State drug laws and draft supplementary model State laws to take into consideration changes in illicit drug use issues in the State involved.
   - **(2)** There is authorized to be appropriated to carry out this subsection $1,250,000 for each of fiscal years 2018 through 2023.
-- **(j)** The Director shall designate or appoint a United States State, Local, and Tribal Affairs Coordinator to perform the duties of the Office outlined in this section and 1705 8 8 So in original. Probably should be preceded by “section”. of this title and such other duties as may be determined by the Director with respect to coordination of drug control efforts between agencies and State, local, and Tribal governments. The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+- **(j)** The Director shall designate or appoint a United States State, Local, and Tribal Affairs Coordinator to perform the duties of the Office outlined in this section and section 1705 of this title and such other duties as may be determined by the Director with respect to coordination of drug control efforts between agencies and State, local, and Tribal governments. For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 - **(k)** When developing the national drug control policy, any policy of the Director, including policies relating to syringe exchange programs for intravenous drug users, shall be based on the best available medical and scientific evidence regarding the effectiveness of such policy in promoting individual health and preventing the spread of infectious disease and the impact of such policy on drug addiction and use. In making any policy relating to harm reduction programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.

@@ -3,9 +3,9 @@ title: "Section 40306 - Nondisclosure of information"
 usc_title: 46
 usc_section: "40306"
 chapter: 403
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "46 U.S.C. § 40306"
-generated_at: "2026-03-30T08:51:14.908Z"
+generated_at: "2026-03-30T08:54:23.419Z"
 status: "active"
 ---
 

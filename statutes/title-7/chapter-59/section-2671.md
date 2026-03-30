@@ -3,9 +3,9 @@ title: "Section 2671 - Establishment of technical assistance program"
 usc_title: 7
 usc_section: "2671"
 chapter: 59
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 2671"
-generated_at: "2026-03-30T08:48:40.374Z"
+generated_at: "2026-03-30T08:52:14.986Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4367 - Reporting requirements of financial interests of officers
 usc_title: 42
 usc_section: "4367"
 chapter: 55
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 4367"
-generated_at: "2026-03-30T08:51:07.212Z"
+generated_at: "2026-03-30T08:54:03.936Z"
 status: "active"
 ---
 

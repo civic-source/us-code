@@ -3,9 +3,9 @@ title: "Section 2163 - Reservation of territorial power to control territory and
 usc_title: 48
 usc_section: "2163"
 chapter: 20
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "48 U.S.C. § 2163"
-generated_at: "2026-03-30T08:51:13.558Z"
+generated_at: "2026-03-30T08:54:07.349Z"
 status: "active"
 ---
 

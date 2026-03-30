@@ -3,9 +3,9 @@ title: "Section 15207 - Consultation requirement"
 usc_title: 42
 usc_section: "15207"
 chapter: 145
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 15207"
-generated_at: "2026-03-30T08:51:07.428Z"
+generated_at: "2026-03-30T08:54:04.158Z"
 status: "active"
 ---
 

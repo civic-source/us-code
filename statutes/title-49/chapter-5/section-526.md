@@ -3,9 +3,9 @@ title: "Section 526 - General criminal penalty when specific penalty not provide
 usc_title: 49
 usc_section: "526"
 chapter: 5
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 526"
-generated_at: "2026-03-30T08:51:29.610Z"
+generated_at: "2026-03-30T08:54:30.011Z"
 status: "active"
 ---
 

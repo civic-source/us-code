@@ -3,9 +3,9 @@ title: "Section 831d - Directors; maintenance and operation of plant for product
 usc_title: 16
 usc_section: "831d"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 831d"
-generated_at: "2026-03-30T08:49:27.091Z"
+generated_at: "2026-03-30T08:52:57.609Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1234a - Recovery of funds"
 usc_title: 20
 usc_section: "1234a"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 1234a"
-generated_at: "2026-03-30T08:49:42.125Z"
+generated_at: "2026-03-30T08:52:29.532Z"
 status: "active"
 ---
 

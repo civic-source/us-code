@@ -3,9 +3,9 @@ title: "Section 612b - Omitted"
 usc_title: 7
 usc_section: "612b"
 chapter: 26
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 612b"
-generated_at: "2026-03-30T08:48:40.290Z"
+generated_at: "2026-03-30T08:52:14.915Z"
 status: "omitted"
 ---
 

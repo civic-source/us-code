@@ -3,9 +3,9 @@ title: "Section 637a - Continuation on active duty: officers in certain military
 usc_title: 10
 usc_section: "637a"
 chapter: 36
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "10 U.S.C. § 637a"
-generated_at: "2026-03-30T08:48:44.745Z"
+generated_at: "2026-03-30T08:51:58.116Z"
 status: "active"
 ---
 

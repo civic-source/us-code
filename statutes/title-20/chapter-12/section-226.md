@@ -3,9 +3,9 @@ title: "Section 226 - Cooperative public and private sector program for providin
 usc_title: 20
 usc_section: "226"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "20 U.S.C. § 226"
-generated_at: "2026-03-30T08:49:42.059Z"
+generated_at: "2026-03-30T08:52:29.472Z"
 status: "active"
 ---
 

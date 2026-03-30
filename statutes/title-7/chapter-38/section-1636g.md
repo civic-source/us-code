@@ -3,9 +3,9 @@ title: "Section 1636g - Suspension authority regarding specific terms of price r
 usc_title: 7
 usc_section: "1636g"
 chapter: 38
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "7 U.S.C. § 1636g"
-generated_at: "2026-03-30T08:48:40.326Z"
+generated_at: "2026-03-30T08:52:14.946Z"
 status: "active"
 ---
 

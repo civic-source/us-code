@@ -3,9 +3,9 @@ title: "Section 8261 - The United Nations Democracy Fund"
 usc_title: 22
 usc_section: "8261"
 chapter: 89
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 8261"
-generated_at: "2026-03-30T08:50:25.215Z"
+generated_at: "2026-03-30T08:53:05.143Z"
 status: "active"
 ---
 

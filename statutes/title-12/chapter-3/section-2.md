@@ -3,9 +3,9 @@ title: "Section 2 - Interbank liabilities"
 usc_title: 12
 usc_section: "2"
 chapter: 3
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T08:49:16.549Z"
+generated_at: "2026-03-30T08:52:22.657Z"
 status: "active"
 ---
 

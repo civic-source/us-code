@@ -3,9 +3,9 @@ title: "Section 1631i - Limitations"
 usc_title: 22
 usc_section: "1631i"
 chapter: 21
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 1631i"
-generated_at: "2026-03-30T08:50:25.119Z"
+generated_at: "2026-03-30T08:53:05.043Z"
 status: "active"
 ---
 

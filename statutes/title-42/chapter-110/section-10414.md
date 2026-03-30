@@ -3,9 +3,9 @@ title: "Section 10414 - Domestic Violence Prevention Enhancement and Leadership 
 usc_title: 42
 usc_section: "10414"
 chapter: 110
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 10414"
-generated_at: "2026-03-30T08:51:07.370Z"
+generated_at: "2026-03-30T08:54:04.099Z"
 status: "active"
 ---
 

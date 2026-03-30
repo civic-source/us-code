@@ -3,9 +3,9 @@ title: "Section 1972 - Certain tying arrangements prohibited; correspondent acco
 usc_title: 12
 usc_section: "1972"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "12 U.S.C. § 1972"
-generated_at: "2026-03-30T08:49:16.637Z"
+generated_at: "2026-03-30T08:52:22.739Z"
 status: "active"
 ---
 

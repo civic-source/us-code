@@ -3,9 +3,9 @@ title: "Section 7425 - Prohibition on direct or indirect transfer of classified 
 usc_title: 22
 usc_section: "7425"
 chapter: 81
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 7425"
-generated_at: "2026-03-30T08:50:25.205Z"
+generated_at: "2026-03-30T08:53:05.133Z"
 status: "active"
 ---
 

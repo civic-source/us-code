@@ -3,9 +3,9 @@ title: "Section 1 - Effective date of certain sections"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T08:49:19.161Z"
+generated_at: "2026-03-30T08:52:20.578Z"
 status: "active"
 ---
 

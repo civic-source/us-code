@@ -3,9 +3,9 @@ title: "Section 190105 - Powers"
 usc_title: 36
 usc_section: "190105"
 chapter: 1901
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "36 U.S.C. § 190105"
-generated_at: "2026-03-30T08:50:43.887Z"
+generated_at: "2026-03-30T08:53:29.857Z"
 status: "active"
 ---
 

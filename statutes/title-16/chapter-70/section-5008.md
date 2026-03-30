@@ -3,9 +3,9 @@ title: "Section 5008 - Enforcement provisions"
 usc_title: 16
 usc_section: "5008"
 chapter: 70
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 5008"
-generated_at: "2026-03-30T08:49:27.175Z"
+generated_at: "2026-03-30T08:52:57.689Z"
 status: "active"
 ---
 

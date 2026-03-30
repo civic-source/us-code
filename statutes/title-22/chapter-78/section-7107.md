@@ -3,9 +3,9 @@ title: "Section 7107 - Actions against governments failing to meet minimum stand
 usc_title: 22
 usc_section: "7107"
 chapter: 78
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 7107"
-generated_at: "2026-03-30T08:50:25.203Z"
+generated_at: "2026-03-30T08:53:05.131Z"
 status: "active"
 ---
 
@@ -96,5 +96,5 @@ status: "active"
       - **(iii)** one or more programs, projects, or activities of such assistance.
     - **(B)** The President shall exercise the authority under paragraph (4) when necessary to avoid significant adverse effects on vulnerable populations, including women and children.
   - **(6)** In this subsection, the term “multilateral development bank” refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
-- **(e)** Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) of this title , or with respect to any assistance described in section 7102(8)(B) of this title , no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+- **(e)** Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) 2 2 See References in Text note below. of this title, or with respect to any assistance described in section 7102(8)(B) 2 of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 - **(f)** After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).

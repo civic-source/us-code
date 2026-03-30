@@ -3,9 +3,9 @@ title: "Section 663 - Use of Federal Parent Locator Service in connection with e
 usc_title: 42
 usc_section: "663"
 chapter: 7
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 663"
-generated_at: "2026-03-30T08:51:06.954Z"
+generated_at: "2026-03-30T08:54:03.676Z"
 status: "active"
 ---
 

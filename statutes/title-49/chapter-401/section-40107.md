@@ -3,9 +3,9 @@ title: "Section 40107 - Presidential transfers"
 usc_title: 49
 usc_section: "40107"
 chapter: 401
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 40107"
-generated_at: "2026-03-30T08:51:29.660Z"
+generated_at: "2026-03-30T08:54:30.059Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40913 - Implementation assistance to States"
 usc_title: 34
 usc_section: "40913"
 chapter: 409
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 40913"
-generated_at: "2026-03-30T08:50:39.211Z"
+generated_at: "2026-03-30T08:53:26.154Z"
 status: "active"
 ---
 

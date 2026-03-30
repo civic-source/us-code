@@ -3,9 +3,9 @@ title: "Section 1816b - Architect of the Capitol, authority for personal service
 usc_title: 2
 usc_section: "1816b"
 chapter: 28
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "2 U.S.C. § 1816b"
-generated_at: "2026-03-30T08:48:34.433Z"
+generated_at: "2026-03-30T08:51:45.534Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286uu - Acceptance of an amendment to the Articles of Agreement 
 usc_title: 22
 usc_section: "286uu"
 chapter: 7
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "22 U.S.C. § 286uu"
-generated_at: "2026-03-30T08:50:25.106Z"
+generated_at: "2026-03-30T08:53:05.030Z"
 status: "active"
 ---
 

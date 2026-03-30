@@ -3,9 +3,9 @@ title: "Section 1416 - Denial of certification of applications and of issuance, 
 usc_title: 30
 usc_section: "1416"
 chapter: 26
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "30 U.S.C. § 1416"
-generated_at: "2026-03-30T08:50:27.663Z"
+generated_at: "2026-03-30T08:53:09.996Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31501 - Definitions"
 usc_title: 49
 usc_section: "31501"
 chapter: 315
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 31501"
-generated_at: "2026-03-30T08:51:29.655Z"
+generated_at: "2026-03-30T08:54:30.053Z"
 status: "active"
 ---
 

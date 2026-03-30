@@ -3,9 +3,9 @@ title: "Section 9620 - Federal facilities"
 usc_title: 42
 usc_section: "9620"
 chapter: 103
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 9620"
-generated_at: "2026-03-30T08:51:07.345Z"
+generated_at: "2026-03-30T08:54:04.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1706 - High Intensity Drug Trafficking Areas Program"
 usc_title: 21
 usc_section: "1706"
 chapter: 22
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "21 U.S.C. § 1706"
-generated_at: "2026-03-30T08:50:13.159Z"
+generated_at: "2026-03-30T08:53:02.344Z"
 status: "active"
 ---
 
@@ -89,7 +89,7 @@ status: "active"
   - **(1)** As part of the documentation that supports the President’s annual budget request for the Office, the Director shall submit to Congress a report describing the use of HIDTA funds to investigate and prosecute organizations and individuals trafficking in methamphetamine in the prior calendar year.
   - **(2)** The report shall include—
     - **(A)** the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
-    - **(B)** the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title 1 1 So in original. There probably should be a closing parenthesis. seized by HIDTA-funded initiatives in the area during the previous year; and
+    - **(B)** the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title ) seized by HIDTA-funded initiatives in the area during the previous year; and
     - **(C)** law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
   - **(3)** Before the Director awards any funds to a high intensity drug trafficking area, the Director shall certify that the law enforcement entities participating in that HIDTA are providing laboratory seizure data to the national clandestine laboratory database at the El Paso Intelligence Center.
 - **(p)** There is authorized to be appropriated to the Office of National Drug Control Policy to carry out this section—
@@ -97,7 +97,7 @@ status: "active"
   - **(2)** $250,000,000 for fiscal year 2008;
   - **(3)** $260,000,000 for fiscal year 2009;
   - **(4)** $270,000,000 for fiscal year 2010;
-  - **(5)** $280,000,000 for each of 2 2 So in original. fiscal year 2011; and
+  - **(5)** $280,000,000 for each of 1 1 So in original. fiscal year 2011; and
   - **(6)** $280,000,000 for each of fiscal years 2018 through 2023.
 - **(q)**
   - **(1)** The Director shall ensure that, of the amounts appropriated for a fiscal year for the Program, at least $7,000,000 is used in high intensity drug trafficking areas with severe neighborhood safety and illegal drug distribution problems.

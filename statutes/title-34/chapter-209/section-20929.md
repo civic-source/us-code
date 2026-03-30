@@ -3,9 +3,9 @@ title: "Section 20929 - Election by Indian tribes"
 usc_title: 34
 usc_section: "20929"
 chapter: 209
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "34 U.S.C. § 20929"
-generated_at: "2026-03-30T08:50:39.200Z"
+generated_at: "2026-03-30T08:53:26.144Z"
 status: "active"
 ---
 

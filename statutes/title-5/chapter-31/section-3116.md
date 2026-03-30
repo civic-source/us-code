@@ -3,9 +3,9 @@ title: "Section 3116 - Expedited hiring authority for post-secondary students; c
 usc_title: 5
 usc_section: "3116"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "5 U.S.C. § 3116"
-generated_at: "2026-03-30T08:48:32.808Z"
+generated_at: "2026-03-30T08:51:47.411Z"
 status: "active"
 ---
 

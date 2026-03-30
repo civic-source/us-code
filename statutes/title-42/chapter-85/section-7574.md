@@ -3,9 +3,9 @@ title: "Section 7574 - Definitions"
 usc_title: 42
 usc_section: "7574"
 chapter: 85
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "42 U.S.C. § 7574"
-generated_at: "2026-03-30T08:51:07.308Z"
+generated_at: "2026-03-30T08:54:04.034Z"
 status: "active"
 ---
 

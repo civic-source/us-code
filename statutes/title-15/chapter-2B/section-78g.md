@@ -3,9 +3,9 @@ title: "Section 78g - Margin requirements"
 usc_title: 15
 usc_section: "78g"
 chapter: 2
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "15 U.S.C. § 78g"
-generated_at: "2026-03-30T08:49:19.145Z"
+generated_at: "2026-03-30T08:52:20.562Z"
 status: "active"
 ---
 

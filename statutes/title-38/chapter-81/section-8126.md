@@ -3,9 +3,9 @@ title: "Section 8126 - Limitation on prices of drugs procured by Department and 
 usc_title: 38
 usc_section: "8126"
 chapter: 81
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "38 U.S.C. § 8126"
-generated_at: "2026-03-30T08:50:45.187Z"
+generated_at: "2026-03-30T08:53:31.749Z"
 status: "active"
 ---
 

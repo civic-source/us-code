@@ -3,9 +3,9 @@ title: "Section 1436a - Report on violations of arrival, reporting, entry, and c
 usc_title: 19
 usc_section: "1436a"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 1436a"
-generated_at: "2026-03-30T08:49:23.583Z"
+generated_at: "2026-03-30T08:52:27.232Z"
 status: "active"
 ---
 

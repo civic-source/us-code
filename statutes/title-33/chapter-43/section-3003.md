@@ -3,9 +3,9 @@ title: "Section 3003 - Authorized number on the active list"
 usc_title: 33
 usc_section: "3003"
 chapter: 43
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "33 U.S.C. § 3003"
-generated_at: "2026-03-30T08:50:37.899Z"
+generated_at: "2026-03-30T08:53:27.639Z"
 status: "active"
 ---
 

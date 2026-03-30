@@ -3,9 +3,9 @@ title: "Section 1671f - Treatment of difference between deposit of estimated cou
 usc_title: 19
 usc_section: "1671f"
 chapter: 4
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "19 U.S.C. § 1671f"
-generated_at: "2026-03-30T08:49:23.596Z"
+generated_at: "2026-03-30T08:52:27.245Z"
 status: "active"
 ---
 

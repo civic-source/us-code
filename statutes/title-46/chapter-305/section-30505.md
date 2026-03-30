@@ -3,9 +3,9 @@ title: "Section 30505 - General limit of liability"
 usc_title: 46
 usc_section: "30505"
 chapter: 305
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "46 U.S.C. § 30505"
-generated_at: "2026-03-30T08:51:14.906Z"
+generated_at: "2026-03-30T08:54:23.417Z"
 status: "active"
 ---
 

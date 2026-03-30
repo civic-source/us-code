@@ -3,9 +3,9 @@ title: "Section 825s - Sale of electric power from reservoir projects; rate sche
 usc_title: 16
 usc_section: "825s"
 chapter: 12
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 825s"
-generated_at: "2026-03-30T08:49:27.090Z"
+generated_at: "2026-03-30T08:52:57.607Z"
 status: "active"
 ---
 

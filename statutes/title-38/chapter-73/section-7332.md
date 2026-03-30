@@ -3,9 +3,9 @@ title: "Section 7332 - Confidentiality of certain medical records"
 usc_title: 38
 usc_section: "7332"
 chapter: 73
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "38 U.S.C. § 7332"
-generated_at: "2026-03-30T08:50:45.178Z"
+generated_at: "2026-03-30T08:53:31.742Z"
 status: "active"
 ---
 

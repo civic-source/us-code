@@ -3,9 +3,9 @@ title: "Section 698t - Authorization of appropriations"
 usc_title: 16
 usc_section: "698t"
 chapter: 6
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "16 U.S.C. § 698t"
-generated_at: "2026-03-30T08:49:27.075Z"
+generated_at: "2026-03-30T08:52:57.593Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 967 - Departure of vessel forbidden in aid of neutrality"
 usc_title: 18
 usc_section: "967"
 chapter: 45
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "18 U.S.C. § 967"
-generated_at: "2026-03-30T08:49:28.956Z"
+generated_at: "2026-03-30T08:52:26.110Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 510 - Delegation of authority"
 usc_title: 28
 usc_section: "510"
 chapter: 31
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "28 U.S.C. § 510"
-generated_at: "2026-03-30T08:50:28.601Z"
+generated_at: "2026-03-30T08:53:10.619Z"
 status: "active"
 ---
 

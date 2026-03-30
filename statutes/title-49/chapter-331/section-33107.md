@@ -3,9 +3,9 @@ title: "Section 33107 - Voluntary vehicle identification standards"
 usc_title: 49
 usc_section: "33107"
 chapter: 331
-current_through: "PL 116-72"
+current_through: "PL 116-78"
 classification: "49 U.S.C. § 33107"
-generated_at: "2026-03-30T08:51:29.659Z"
+generated_at: "2026-03-30T08:54:30.057Z"
 status: "active"
 ---
 
