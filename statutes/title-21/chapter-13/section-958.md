@@ -3,9 +3,9 @@ title: "Section 958 - Registration requirements"
 usc_title: 21
 usc_section: "958"
 chapter: 13
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "21 U.S.C. § 958"
-generated_at: "2026-03-30T08:22:17.371Z"
+generated_at: "2026-03-30T08:26:01.080Z"
 status: "active"
 ---
 

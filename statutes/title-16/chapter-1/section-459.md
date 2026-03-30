@@ -3,9 +3,9 @@ title: "Section 459 - Cape Hatteras National Seashore Recreational Area; conditi
 usc_title: 16
 usc_section: "459"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 459"
-generated_at: "2026-03-30T08:21:26.455Z"
+generated_at: "2026-03-30T08:25:26.527Z"
 status: "active"
 ---
 

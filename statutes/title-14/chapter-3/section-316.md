@@ -3,9 +3,9 @@ title: "Section 316 - National Coast Guard Museum"
 usc_title: 14
 usc_section: "316"
 chapter: 3
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "14 U.S.C. § 316"
-generated_at: "2026-03-30T08:20:40.386Z"
+generated_at: "2026-03-30T08:25:05.791Z"
 status: "active"
 ---
 

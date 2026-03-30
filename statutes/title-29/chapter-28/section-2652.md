@@ -3,9 +3,9 @@ title: "Section 2652 - Effect on existing employment benefits"
 usc_title: 29
 usc_section: "2652"
 chapter: 28
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "29 U.S.C. § 2652"
-generated_at: "2026-03-30T08:22:23.872Z"
+generated_at: "2026-03-30T08:26:15.451Z"
 status: "active"
 ---
 

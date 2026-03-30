@@ -3,9 +3,9 @@ title: "Section 3106 - Erection, repair, or furnishing of public buildings and i
 usc_title: 41
 usc_section: "3106"
 chapter: 31
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "41 U.S.C. § 3106"
-generated_at: "2026-03-30T08:23:38.088Z"
+generated_at: "2026-03-30T08:27:18.338Z"
 status: "active"
 ---
 

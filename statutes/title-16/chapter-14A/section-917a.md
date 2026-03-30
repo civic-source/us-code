@@ -3,9 +3,9 @@ title: "Section 917a - Study by Secretary of Commerce; report to Congress"
 usc_title: 16
 usc_section: "917a"
 chapter: 14
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 917a"
-generated_at: "2026-03-30T08:21:26.542Z"
+generated_at: "2026-03-30T08:25:26.616Z"
 status: "active"
 ---
 

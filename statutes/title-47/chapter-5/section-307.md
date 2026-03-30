@@ -3,9 +3,9 @@ title: "Section 307 - Licenses"
 usc_title: 47
 usc_section: "307"
 chapter: 5
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "47 U.S.C. § 307"
-generated_at: "2026-03-30T08:23:56.228Z"
+generated_at: "2026-03-30T08:27:49.972Z"
 status: "active"
 ---
 

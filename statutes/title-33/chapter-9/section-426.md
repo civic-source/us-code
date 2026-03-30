@@ -3,9 +3,9 @@ title: "Section 426 - Investigations concerning erosion of shores of coastal and
 usc_title: 33
 usc_section: "426"
 chapter: 9
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 426"
-generated_at: "2026-03-30T08:23:25.183Z"
+generated_at: "2026-03-30T08:26:57.923Z"
 status: "active"
 ---
 

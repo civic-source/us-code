@@ -3,9 +3,9 @@ title: "Section 27 - Periodic payment plans"
 usc_title: 15
 usc_section: "27"
 chapter: 2
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 27"
-generated_at: "2026-03-30T08:21:10.498Z"
+generated_at: "2026-03-30T08:25:15.762Z"
 status: "active"
 ---
 

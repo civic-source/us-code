@@ -3,9 +3,9 @@ title: "Section 44807 - Special authority for certain unmanned aircraft systems"
 usc_title: 49
 usc_section: "44807"
 chapter: 448
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "49 U.S.C. § 44807"
-generated_at: "2026-03-30T08:24:01.374Z"
+generated_at: "2026-03-30T08:27:49.598Z"
 status: "active"
 ---
 

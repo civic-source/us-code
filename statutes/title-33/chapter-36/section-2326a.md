@@ -3,9 +3,9 @@ title: "Section 2326a - Dredged material disposal facility partnerships"
 usc_title: 33
 usc_section: "2326a"
 chapter: 36
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 2326a"
-generated_at: "2026-03-30T08:23:25.240Z"
+generated_at: "2026-03-30T08:26:57.979Z"
 status: "active"
 ---
 

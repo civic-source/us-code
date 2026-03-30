@@ -3,9 +3,9 @@ title: "Section 1602 - Definitions and rules of construction"
 usc_title: 15
 usc_section: "1602"
 chapter: 41
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 1602"
-generated_at: "2026-03-30T08:21:10.561Z"
+generated_at: "2026-03-30T08:25:15.825Z"
 status: "active"
 ---
 

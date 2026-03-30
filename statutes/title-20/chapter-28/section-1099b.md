@@ -3,9 +3,9 @@ title: "Section 1099b - Recognition of accrediting agency or association"
 usc_title: 20
 usc_section: "1099b"
 chapter: 28
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 1099b"
-generated_at: "2026-03-30T08:21:51.315Z"
+generated_at: "2026-03-30T08:25:28.945Z"
 status: "active"
 ---
 

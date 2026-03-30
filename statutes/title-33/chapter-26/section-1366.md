@@ -3,9 +3,9 @@ title: "Section 1366 - Appearance"
 usc_title: 33
 usc_section: "1366"
 chapter: 26
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 1366"
-generated_at: "2026-03-30T08:23:25.224Z"
+generated_at: "2026-03-30T08:26:57.964Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2854 - Restoration or replacement of damaged or destroyed facili
 usc_title: 10
 usc_section: "2854"
 chapter: 169
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 2854"
-generated_at: "2026-03-30T08:20:30.153Z"
+generated_at: "2026-03-30T08:24:43.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 839b - Regional planning and participation"
 usc_title: 16
 usc_section: "839b"
 chapter: 12
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 839b"
-generated_at: "2026-03-30T08:21:26.539Z"
+generated_at: "2026-03-30T08:25:26.613Z"
 status: "active"
 ---
 

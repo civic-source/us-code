@@ -3,9 +3,9 @@ title: "Section 1488 - Repealed. Pub. L. 98–213, § 16(b) , (kk), Dec. 8, 1983
 usc_title: 48
 usc_section: "1488"
 chapter: 10
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "48 U.S.C. § 1488"
-generated_at: "2026-03-30T08:24:05.495Z"
+generated_at: "2026-03-30T08:27:46.766Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1102a - Program authority and eligibility"
 usc_title: 20
 usc_section: "1102a"
 chapter: 28
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 1102a"
-generated_at: "2026-03-30T08:21:51.316Z"
+generated_at: "2026-03-30T08:25:28.947Z"
 status: "active"
 ---
 

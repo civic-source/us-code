@@ -3,9 +3,9 @@ title: "Section 488a - Regulation of the sale and transfer of ammonium nitrate"
 usc_title: 6
 usc_section: "488a"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "6 U.S.C. § 488a"
-generated_at: "2026-03-30T08:20:38.232Z"
+generated_at: "2026-03-30T08:24:36.178Z"
 status: "active"
 ---
 

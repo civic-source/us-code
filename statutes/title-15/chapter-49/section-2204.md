@@ -3,9 +3,9 @@ title: "Section 2204 - United States Fire Administration"
 usc_title: 15
 usc_section: "2204"
 chapter: 49
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 2204"
-generated_at: "2026-03-30T08:21:10.587Z"
+generated_at: "2026-03-30T08:25:15.852Z"
 status: "active"
 ---
 

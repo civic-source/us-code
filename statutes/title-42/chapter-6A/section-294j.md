@@ -3,9 +3,9 @@ title: "Section 294j - Demonstration program to integrate quality improvement an
 usc_title: 42
 usc_section: "294j"
 chapter: 6
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 294j"
-generated_at: "2026-03-30T08:23:52.345Z"
+generated_at: "2026-03-30T08:27:43.033Z"
 status: "active"
 ---
 

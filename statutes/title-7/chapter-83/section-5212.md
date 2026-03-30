@@ -3,9 +3,9 @@ title: "Section 5212 - Repealed. Pub. L. 101–624, title XV, § 1571 , Nov. 28,
 usc_title: 7
 usc_section: "5212"
 chapter: 83
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "7 U.S.C. § 5212"
-generated_at: "2026-03-30T08:20:24.465Z"
+generated_at: "2026-03-30T08:24:54.019Z"
 status: "repealed"
 ---
 

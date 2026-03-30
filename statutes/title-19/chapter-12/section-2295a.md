@@ -3,9 +3,9 @@ title: "Section 2295a - Limitations on administrative expenses and employment an
 usc_title: 19
 usc_section: "2295a"
 chapter: 12
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "19 U.S.C. § 2295a"
-generated_at: "2026-03-30T08:21:22.672Z"
+generated_at: "2026-03-30T08:25:37.465Z"
 status: "active"
 ---
 

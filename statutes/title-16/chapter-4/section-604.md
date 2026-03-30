@@ -3,9 +3,9 @@ title: "Section 604 - Cutting timber on certain mineral lands; permits to corpor
 usc_title: 16
 usc_section: "604"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 604"
-generated_at: "2026-03-30T08:21:26.508Z"
+generated_at: "2026-03-30T08:25:26.581Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2297h - Definitions"
 usc_title: 42
 usc_section: "2297h"
 chapter: 23
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 2297h"
-generated_at: "2026-03-30T08:23:52.636Z"
+generated_at: "2026-03-30T08:27:43.339Z"
 status: "active"
 ---
 

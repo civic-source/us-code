@@ -3,9 +3,9 @@ title: "Section 728 - Expenditures"
 usc_title: 16
 usc_section: "728"
 chapter: 8
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 728"
-generated_at: "2026-03-30T08:21:26.521Z"
+generated_at: "2026-03-30T08:25:26.593Z"
 status: "active"
 ---
 

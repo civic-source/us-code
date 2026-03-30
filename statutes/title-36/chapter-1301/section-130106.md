@@ -3,9 +3,9 @@ title: "Section 130106 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "130106"
 chapter: 1301
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "36 U.S.C. § 130106"
-generated_at: "2026-03-30T08:23:34.231Z"
+generated_at: "2026-03-30T08:27:10.420Z"
 status: "active"
 ---
 

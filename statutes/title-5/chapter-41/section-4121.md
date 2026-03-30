@@ -3,9 +3,9 @@ title: "Section 4121 - Specific training programs"
 usc_title: 5
 usc_section: "4121"
 chapter: 41
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "5 U.S.C. § 4121"
-generated_at: "2026-03-30T08:20:18.470Z"
+generated_at: "2026-03-30T08:24:32.071Z"
 status: "active"
 ---
 

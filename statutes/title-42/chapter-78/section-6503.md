@@ -3,9 +3,9 @@ title: "Section 6503 - Transfer of jurisdiction, duties, property, etc., to Secr
 usc_title: 42
 usc_section: "6503"
 chapter: 78
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 6503"
-generated_at: "2026-03-30T08:23:52.720Z"
+generated_at: "2026-03-30T08:27:43.425Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1414 - Evaluations, eligibility determinations, individualized e
 usc_title: 20
 usc_section: "1414"
 chapter: 33
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 1414"
-generated_at: "2026-03-30T08:21:51.333Z"
+generated_at: "2026-03-30T08:25:28.964Z"
 status: "active"
 ---
 

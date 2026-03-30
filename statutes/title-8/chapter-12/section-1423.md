@@ -3,9 +3,9 @@ title: "Section 1423 - Requirements as to understanding the English language, hi
 usc_title: 8
 usc_section: "1423"
 chapter: 12
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "8 U.S.C. § 1423"
-generated_at: "2026-03-30T08:20:20.860Z"
+generated_at: "2026-03-30T08:24:47.293Z"
 status: "active"
 ---
 

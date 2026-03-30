@@ -3,9 +3,9 @@ title: "Section 2537 - Selected Acquisition Reports and independent cost estimat
 usc_title: 50
 usc_section: "2537"
 chapter: 42
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 2537"
-generated_at: "2026-03-30T08:24:02.350Z"
+generated_at: "2026-03-30T08:27:47.698Z"
 status: "active"
 ---
 

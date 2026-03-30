@@ -3,9 +3,9 @@ title: "Section 14043h - Transferred"
 usc_title: 42
 usc_section: "14043h"
 chapter: 136
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 14043h"
-generated_at: "2026-03-30T08:23:52.879Z"
+generated_at: "2026-03-30T08:27:43.585Z"
 status: "transferred"
 ---
 

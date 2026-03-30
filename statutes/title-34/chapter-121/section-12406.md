@@ -3,9 +3,9 @@ title: "Section 12406 - Training programs for judges"
 usc_title: 34
 usc_section: "12406"
 chapter: 121
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "34 U.S.C. § 12406"
-generated_at: "2026-03-30T08:23:31.843Z"
+generated_at: "2026-03-30T08:27:01.968Z"
 status: "active"
 ---
 

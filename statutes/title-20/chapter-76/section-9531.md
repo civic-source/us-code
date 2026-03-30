@@ -3,9 +3,9 @@ title: "Section 9531 - Establishment"
 usc_title: 20
 usc_section: "9531"
 chapter: 76
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 9531"
-generated_at: "2026-03-30T08:21:51.388Z"
+generated_at: "2026-03-30T08:25:29.024Z"
 status: "active"
 ---
 

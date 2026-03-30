@@ -3,9 +3,9 @@ title: "Section 1474 - Special rules"
 usc_title: 26
 usc_section: "1474"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 1474"
-generated_at: "2026-03-30T08:23:10.661Z"
+generated_at: "2026-03-30T08:26:53.806Z"
 status: "active"
 ---
 

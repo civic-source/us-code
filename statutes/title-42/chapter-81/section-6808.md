@@ -3,9 +3,9 @@ title: "Section 6808 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6808"
 chapter: 81
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 6808"
-generated_at: "2026-03-30T08:23:52.724Z"
+generated_at: "2026-03-30T08:27:43.428Z"
 status: "active"
 ---
 

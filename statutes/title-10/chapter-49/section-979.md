@@ -3,9 +3,9 @@ title: "Section 979 - Prohibition on loan and grant assistance to persons convic
 usc_title: 10
 usc_section: "979"
 chapter: 49
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 979"
-generated_at: "2026-03-30T08:20:30.084Z"
+generated_at: "2026-03-30T08:24:43.602Z"
 status: "active"
 ---
 

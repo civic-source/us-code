@@ -3,9 +3,9 @@ title: "Section 7 - Time of election"
 usc_title: 2
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "2 U.S.C. § 7"
-generated_at: "2026-03-30T08:20:16.746Z"
+generated_at: "2026-03-30T08:24:33.651Z"
 status: "active"
 ---
 

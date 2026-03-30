@@ -3,9 +3,9 @@ title: "Section 21102 - Organization"
 usc_title: 36
 usc_section: "21102"
 chapter: 211
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "36 U.S.C. § 21102"
-generated_at: "2026-03-30T08:23:34.224Z"
+generated_at: "2026-03-30T08:27:10.413Z"
 status: "active"
 ---
 

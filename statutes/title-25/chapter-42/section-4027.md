@@ -3,9 +3,9 @@ title: "Section 4027 - Savings provision"
 usc_title: 25
 usc_section: "4027"
 chapter: 42
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 4027"
-generated_at: "2026-03-30T08:22:05.478Z"
+generated_at: "2026-03-30T08:25:51.244Z"
 status: "active"
 ---
 

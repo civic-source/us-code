@@ -3,9 +3,9 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-30T08:21:26.525Z"
+generated_at: "2026-03-30T08:25:26.598Z"
 status: "active"
 ---
 

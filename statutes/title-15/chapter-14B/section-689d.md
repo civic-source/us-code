@@ -3,9 +3,9 @@ title: "Section 689d - Debentures"
 usc_title: 15
 usc_section: "689d"
 chapter: 14
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 689d"
-generated_at: "2026-03-30T08:21:10.535Z"
+generated_at: "2026-03-30T08:25:15.799Z"
 status: "active"
 ---
 

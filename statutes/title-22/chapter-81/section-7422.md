@@ -3,9 +3,9 @@ title: "Section 7422 - Waiver and termination of prohibitions of this subchapter
 usc_title: 22
 usc_section: "7422"
 chapter: 81
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 7422"
-generated_at: "2026-03-30T08:21:58.433Z"
+generated_at: "2026-03-30T08:26:04.090Z"
 status: "active"
 ---
 

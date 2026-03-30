@@ -3,9 +3,9 @@ title: "Section 238j - Evaluation of programs"
 usc_title: 42
 usc_section: "238j"
 chapter: 6
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 238j"
-generated_at: "2026-03-30T08:23:52.278Z"
+generated_at: "2026-03-30T08:27:42.956Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6811 - Coordinated donor strategy for support and education of o
 usc_title: 22
 usc_section: "6811"
 chapter: 76
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 6811"
-generated_at: "2026-03-30T08:21:58.427Z"
+generated_at: "2026-03-30T08:26:04.083Z"
 status: "active"
 ---
 

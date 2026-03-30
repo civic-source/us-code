@@ -3,9 +3,9 @@ title: "Section 1088 - Air evacuation patients: furnished subsistence"
 usc_title: 10
 usc_section: "1088"
 chapter: 55
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 1088"
-generated_at: "2026-03-30T08:20:30.092Z"
+generated_at: "2026-03-30T08:24:43.610Z"
 status: "active"
 ---
 

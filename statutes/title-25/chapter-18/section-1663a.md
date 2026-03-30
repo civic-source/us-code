@@ -3,9 +3,9 @@ title: "Section 1663a - Nevada Area Office"
 usc_title: 25
 usc_section: "1663a"
 chapter: 18
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1663a"
-generated_at: "2026-03-30T08:22:05.451Z"
+generated_at: "2026-03-30T08:25:51.218Z"
 status: "active"
 ---
 

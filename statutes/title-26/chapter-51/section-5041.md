@@ -3,9 +3,9 @@ title: "Section 5041 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5041"
 chapter: 51
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 5041"
-generated_at: "2026-03-30T08:23:10.696Z"
+generated_at: "2026-03-30T08:26:53.838Z"
 status: "active"
 ---
 

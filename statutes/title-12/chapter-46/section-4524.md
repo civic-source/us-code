@@ -3,9 +3,9 @@ title: "Section 4524 - Audits by GAO"
 usc_title: 12
 usc_section: "4524"
 chapter: 46
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "12 U.S.C. § 4524"
-generated_at: "2026-03-30T08:21:17.714Z"
+generated_at: "2026-03-30T08:25:12.598Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3778 - Board of local inspectors"
 usc_title: 22
 usc_section: "3778"
 chapter: 51
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 3778"
-generated_at: "2026-03-30T08:21:58.393Z"
+generated_at: "2026-03-30T08:26:04.051Z"
 status: "active"
 ---
 

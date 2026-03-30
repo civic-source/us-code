@@ -3,9 +3,9 @@ title: "Section 8 - General prohibitions"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T08:21:10.503Z"
+generated_at: "2026-03-30T08:25:15.766Z"
 status: "active"
 ---
 

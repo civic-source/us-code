@@ -3,9 +3,9 @@ title: "Section 2254 - Treatment of reports of aircraft accident investigations"
 usc_title: 10
 usc_section: "2254"
 chapter: 134
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 2254"
-generated_at: "2026-03-30T08:20:30.121Z"
+generated_at: "2026-03-30T08:24:43.783Z"
 status: "active"
 ---
 

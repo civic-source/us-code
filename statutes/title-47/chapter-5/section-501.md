@@ -3,9 +3,9 @@ title: "Section 501 - General penalty"
 usc_title: 47
 usc_section: "501"
 chapter: 5
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "47 U.S.C. § 501"
-generated_at: "2026-03-30T08:23:56.237Z"
+generated_at: "2026-03-30T08:27:49.981Z"
 status: "active"
 ---
 

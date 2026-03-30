@@ -3,9 +3,9 @@ title: "Section 121 - Divisional applications"
 usc_title: 35
 usc_section: "121"
 chapter: 11
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "35 U.S.C. § 121"
-generated_at: "2026-03-30T08:23:18.130Z"
+generated_at: "2026-03-30T08:26:59.585Z"
 status: "active"
 ---
 

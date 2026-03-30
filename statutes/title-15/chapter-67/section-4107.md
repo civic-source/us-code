@@ -3,9 +3,9 @@ title: "Section 4107 - Duties of Interagency Committee; report to Congress"
 usc_title: 15
 usc_section: "4107"
 chapter: 67
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 4107"
-generated_at: "2026-03-30T08:21:10.613Z"
+generated_at: "2026-03-30T08:25:15.880Z"
 status: "active"
 ---
 

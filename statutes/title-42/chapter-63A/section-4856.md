@@ -3,9 +3,9 @@ title: "Section 4856 - Reports of Secretary of Housing and Urban Development"
 usc_title: 42
 usc_section: "4856"
 chapter: 63
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 4856"
-generated_at: "2026-03-30T08:23:52.677Z"
+generated_at: "2026-03-30T08:27:43.381Z"
 status: "active"
 ---
 

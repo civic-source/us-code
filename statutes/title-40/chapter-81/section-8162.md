@@ -3,9 +3,9 @@ title: "Section 8162 - Ailanthus trees prohibited"
 usc_title: 40
 usc_section: "8162"
 chapter: 81
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "40 U.S.C. § 8162"
-generated_at: "2026-03-30T08:23:35.065Z"
+generated_at: "2026-03-30T08:27:06.713Z"
 status: "active"
 ---
 

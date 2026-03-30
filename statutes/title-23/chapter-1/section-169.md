@@ -3,9 +3,9 @@ title: "Section 169 - Development of programmatic mitigation plans"
 usc_title: 23
 usc_section: "169"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "23 U.S.C. § 169"
-generated_at: "2026-03-30T08:21:55.142Z"
+generated_at: "2026-03-30T08:25:50.213Z"
 status: "active"
 ---
 

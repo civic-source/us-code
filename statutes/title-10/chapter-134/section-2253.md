@@ -3,9 +3,9 @@ title: "Section 2253 - Motor vehicles"
 usc_title: 10
 usc_section: "2253"
 chapter: 134
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 2253"
-generated_at: "2026-03-30T08:20:30.121Z"
+generated_at: "2026-03-30T08:24:43.783Z"
 status: "active"
 ---
 

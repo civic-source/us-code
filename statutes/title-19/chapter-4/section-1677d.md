@@ -3,9 +3,9 @@ title: "Section 1677d - Countervailable subsidy practices discovered during a pr
 usc_title: 19
 usc_section: "1677d"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "19 U.S.C. § 1677d"
-generated_at: "2026-03-30T08:21:22.661Z"
+generated_at: "2026-03-30T08:25:37.455Z"
 status: "active"
 ---
 

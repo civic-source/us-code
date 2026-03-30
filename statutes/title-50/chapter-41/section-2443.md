@@ -3,9 +3,9 @@ title: "Section 2443 - Notification of employee practices affecting national sec
 usc_title: 50
 usc_section: "2443"
 chapter: 41
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 2443"
-generated_at: "2026-03-30T08:24:02.347Z"
+generated_at: "2026-03-30T08:27:47.696Z"
 status: "active"
 ---
 

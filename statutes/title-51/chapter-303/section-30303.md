@@ -3,9 +3,9 @@ title: "Section 30303 - Tracking and data relay satellite services"
 usc_title: 51
 usc_section: "30303"
 chapter: 303
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "51 U.S.C. § 30303"
-generated_at: "2026-03-30T08:24:07.252Z"
+generated_at: "2026-03-30T08:27:52.853Z"
 status: "active"
 ---
 

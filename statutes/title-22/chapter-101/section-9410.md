@@ -3,9 +3,9 @@ title: "Section 9410 - Exceptions for national security and humanitarian assista
 usc_title: 22
 usc_section: "9410"
 chapter: 101
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 9410"
-generated_at: "2026-03-30T08:21:58.456Z"
+generated_at: "2026-03-30T08:26:04.112Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2709 - Interim authority to regulate gaming"
 usc_title: 25
 usc_section: "2709"
 chapter: 29
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 2709"
-generated_at: "2026-03-30T08:22:05.467Z"
+generated_at: "2026-03-30T08:25:51.234Z"
 status: "active"
 ---
 

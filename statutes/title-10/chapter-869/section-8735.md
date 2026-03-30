@@ -3,9 +3,9 @@ title: "Section 8735 - Foreign interest"
 usc_title: 10
 usc_section: "8735"
 chapter: 869
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 8735"
-generated_at: "2026-03-30T08:20:30.170Z"
+generated_at: "2026-03-30T08:24:43.838Z"
 status: "active"
 ---
 

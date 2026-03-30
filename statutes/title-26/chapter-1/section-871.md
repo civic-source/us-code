@@ -3,9 +3,9 @@ title: "Section 871 - Tax on nonresident alien individuals"
 usc_title: 26
 usc_section: "871"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 871"
-generated_at: "2026-03-30T08:23:10.630Z"
+generated_at: "2026-03-30T08:26:53.776Z"
 status: "active"
 ---
 

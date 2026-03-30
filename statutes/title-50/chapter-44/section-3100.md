@@ -3,9 +3,9 @@ title: "Section 3100 - Intelligence community business system transformation"
 usc_title: 50
 usc_section: "3100"
 chapter: 44
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 3100"
-generated_at: "2026-03-30T08:24:02.362Z"
+generated_at: "2026-03-30T08:27:47.711Z"
 status: "active"
 ---
 

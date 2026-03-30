@@ -3,9 +3,9 @@ title: "Section 1685 - Service of traditional foods in public facilities"
 usc_title: 25
 usc_section: "1685"
 chapter: 18
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1685"
-generated_at: "2026-03-30T08:22:05.455Z"
+generated_at: "2026-03-30T08:25:51.222Z"
 status: "active"
 ---
 

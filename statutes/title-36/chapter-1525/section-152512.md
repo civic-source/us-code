@@ -3,9 +3,9 @@ title: "Section 152512 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "152512"
 chapter: 1525
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "36 U.S.C. § 152512"
-generated_at: "2026-03-30T08:23:34.235Z"
+generated_at: "2026-03-30T08:27:10.425Z"
 status: "active"
 ---
 

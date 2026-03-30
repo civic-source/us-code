@@ -3,9 +3,9 @@ title: "Section 7463 - Cloud computing strategy"
 usc_title: 15
 usc_section: "7463"
 chapter: 100
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 7463"
-generated_at: "2026-03-30T08:21:10.633Z"
+generated_at: "2026-03-30T08:25:15.902Z"
 status: "active"
 ---
 

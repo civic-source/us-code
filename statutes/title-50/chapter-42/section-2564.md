@@ -3,9 +3,9 @@ title: "Section 2564 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(d
 usc_title: 50
 usc_section: "2564"
 chapter: 42
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 2564"
-generated_at: "2026-03-30T08:24:02.350Z"
+generated_at: "2026-03-30T08:27:47.699Z"
 status: "repealed"
 ---
 

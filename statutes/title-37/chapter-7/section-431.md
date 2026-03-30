@@ -3,9 +3,9 @@ title: "Section 431 - Transferred]"
 usc_title: 37
 usc_section: "431"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "37 U.S.C. § 431"
-generated_at: "2026-03-30T08:23:34.705Z"
+generated_at: "2026-03-30T08:27:10.792Z"
 status: "transferred"
 ---
 

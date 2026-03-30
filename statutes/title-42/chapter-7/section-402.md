@@ -3,9 +3,9 @@ title: "Section 402 - Old-age and survivors insurance benefit payments"
 usc_title: 42
 usc_section: "402"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 402"
-generated_at: "2026-03-30T08:23:52.403Z"
+generated_at: "2026-03-30T08:27:43.092Z"
 status: "active"
 ---
 

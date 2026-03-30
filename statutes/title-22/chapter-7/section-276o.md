@@ -3,9 +3,9 @@ title: "Section 276o - United States Senate-Russia Interparliamentary Group"
 usc_title: 22
 usc_section: "276o"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 276o"
-generated_at: "2026-03-30T08:21:58.318Z"
+generated_at: "2026-03-30T08:26:03.979Z"
 status: "active"
 ---
 

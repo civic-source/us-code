@@ -3,9 +3,9 @@ title: "Section 1191a - Special rules relating to group health plans"
 usc_title: 29
 usc_section: "1191a"
 chapter: 18
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "29 U.S.C. § 1191a"
-generated_at: "2026-03-30T08:22:23.858Z"
+generated_at: "2026-03-30T08:26:15.436Z"
 status: "active"
 ---
 

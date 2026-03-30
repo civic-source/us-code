@@ -3,9 +3,9 @@ title: "Section 3744 - Metrics for Department of Defense Cooperative Threat Redu
 usc_title: 50
 usc_section: "3744"
 chapter: 48
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 3744"
-generated_at: "2026-03-30T08:24:02.373Z"
+generated_at: "2026-03-30T08:27:47.722Z"
 status: "active"
 ---
 

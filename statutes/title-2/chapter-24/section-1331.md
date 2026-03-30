@@ -3,9 +3,9 @@ title: "Section 1331 - Rights and protections under Americans with Disabilities 
 usc_title: 2
 usc_section: "1331"
 chapter: 24
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "2 U.S.C. § 1331"
-generated_at: "2026-03-30T08:20:16.769Z"
+generated_at: "2026-03-30T08:24:33.674Z"
 status: "active"
 ---
 

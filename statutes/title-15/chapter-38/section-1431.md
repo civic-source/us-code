@@ -3,9 +3,9 @@ title: "Section 1431 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1431"
 chapter: 38
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 1431"
-generated_at: "2026-03-30T08:21:10.557Z"
+generated_at: "2026-03-30T08:25:15.822Z"
 status: "repealed"
 ---
 

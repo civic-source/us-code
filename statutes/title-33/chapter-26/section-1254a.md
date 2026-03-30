@@ -3,9 +3,9 @@ title: "Section 1254a - Research on effects of pollutants"
 usc_title: 33
 usc_section: "1254a"
 chapter: 26
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 1254a"
-generated_at: "2026-03-30T08:23:25.207Z"
+generated_at: "2026-03-30T08:26:57.947Z"
 status: "active"
 ---
 

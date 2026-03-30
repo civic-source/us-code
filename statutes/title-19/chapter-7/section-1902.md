@@ -3,9 +3,9 @@ title: "Section 1902 - Repealed. Pub. L. 93–618, title VI, § 602(d) , (e), Ja
 usc_title: 19
 usc_section: "1902"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "19 U.S.C. § 1902"
-generated_at: "2026-03-30T08:21:22.665Z"
+generated_at: "2026-03-30T08:25:37.458Z"
 status: "repealed"
 ---
 

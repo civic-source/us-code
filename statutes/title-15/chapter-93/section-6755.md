@@ -3,9 +3,9 @@ title: "Section 6755 - Bylaws, standards, and disciplinary actions"
 usc_title: 15
 usc_section: "6755"
 chapter: 93
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 6755"
-generated_at: "2026-03-30T08:21:10.626Z"
+generated_at: "2026-03-30T08:25:15.894Z"
 status: "active"
 ---
 

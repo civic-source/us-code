@@ -3,9 +3,9 @@ title: "Section 4624 - Personnel exchanges"
 usc_title: 15
 usc_section: "4624"
 chapter: 72
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 4624"
-generated_at: "2026-03-30T08:21:10.614Z"
+generated_at: "2026-03-30T08:25:15.882Z"
 status: "active"
 ---
 

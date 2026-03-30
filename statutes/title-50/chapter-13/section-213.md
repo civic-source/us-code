@@ -3,9 +3,9 @@ title: "Section 213 - Jurisdiction of confiscation proceedings"
 usc_title: 50
 usc_section: "213"
 chapter: 13
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "50 U.S.C. § 213"
-generated_at: "2026-03-30T08:24:02.326Z"
+generated_at: "2026-03-30T08:27:47.675Z"
 status: "active"
 ---
 

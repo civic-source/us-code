@@ -3,9 +3,9 @@ title: "Section 1784 - Humanitarian care"
 usc_title: 38
 usc_section: "1784"
 chapter: 17
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "38 U.S.C. § 1784"
-generated_at: "2026-03-30T08:23:36.325Z"
+generated_at: "2026-03-30T08:27:15.012Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 832h - Miscellaneous administrative provisions"
 usc_title: 16
 usc_section: "832h"
 chapter: 12
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 832h"
-generated_at: "2026-03-30T08:21:26.536Z"
+generated_at: "2026-03-30T08:25:26.610Z"
 status: "active"
 ---
 

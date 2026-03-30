@@ -3,9 +3,9 @@ title: "Section 228d - Acquisition of State of Arizona or local lands by donatio
 usc_title: 16
 usc_section: "228d"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 228d"
-generated_at: "2026-03-30T08:21:26.415Z"
+generated_at: "2026-03-30T08:25:26.487Z"
 status: "active"
 ---
 

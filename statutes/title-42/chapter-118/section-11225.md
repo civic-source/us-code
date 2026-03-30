@@ -3,9 +3,9 @@ title: "Section 11225 - The National Alzheimer’s Project"
 usc_title: 42
 usc_section: "11225"
 chapter: 118
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 11225"
-generated_at: "2026-03-30T08:23:52.833Z"
+generated_at: "2026-03-30T08:27:43.539Z"
 status: "active"
 ---
 

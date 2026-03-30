@@ -3,9 +3,9 @@ title: "Section 1117 - Compensation for disabilities occurring in Persian Gulf W
 usc_title: 38
 usc_section: "1117"
 chapter: 11
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "38 U.S.C. § 1117"
-generated_at: "2026-03-30T08:23:36.317Z"
+generated_at: "2026-03-30T08:27:15.004Z"
 status: "active"
 ---
 

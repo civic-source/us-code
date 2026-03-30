@@ -3,9 +3,9 @@ title: "Section 5412 - Removal of beer in containers or by pipeline"
 usc_title: 26
 usc_section: "5412"
 chapter: 51
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 5412"
-generated_at: "2026-03-30T08:23:10.700Z"
+generated_at: "2026-03-30T08:26:53.842Z"
 status: "active"
 ---
 

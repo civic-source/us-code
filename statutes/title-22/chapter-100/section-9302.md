@@ -3,9 +3,9 @@ title: "Section 9302 - Statement of policy objectives; sense of Congress"
 usc_title: 22
 usc_section: "9302"
 chapter: 100
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 9302"
-generated_at: "2026-03-30T08:21:58.454Z"
+generated_at: "2026-03-30T08:26:04.111Z"
 status: "active"
 ---
 

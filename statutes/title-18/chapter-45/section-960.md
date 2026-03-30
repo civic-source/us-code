@@ -3,9 +3,9 @@ title: "Section 960 - Expedition against friendly nation"
 usc_title: 18
 usc_section: "960"
 chapter: 45
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "18 U.S.C. § 960"
-generated_at: "2026-03-30T08:21:21.538Z"
+generated_at: "2026-03-30T08:25:20.622Z"
 status: "active"
 ---
 

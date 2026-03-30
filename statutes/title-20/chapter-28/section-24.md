@@ -3,9 +3,9 @@ title: "Section 24 - Activities"
 usc_title: 20
 usc_section: "24"
 chapter: 28
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 24"
-generated_at: "2026-03-30T08:21:51.288Z"
+generated_at: "2026-03-30T08:25:28.916Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10261 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10261"
 chapter: 101
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "34 U.S.C. § 10261"
-generated_at: "2026-03-30T08:23:31.792Z"
+generated_at: "2026-03-30T08:27:01.947Z"
 status: "active"
 ---
 

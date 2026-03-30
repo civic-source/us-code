@@ -3,9 +3,9 @@ title: "Section 286qq - Quota increase to 4,973,100,000 Special Drawing Rights"
 usc_title: 22
 usc_section: "286qq"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 286qq"
-generated_at: "2026-03-30T08:21:58.327Z"
+generated_at: "2026-03-30T08:26:03.987Z"
 status: "active"
 ---
 

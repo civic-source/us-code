@@ -3,9 +3,9 @@ title: "Section 22302 - Purposes"
 usc_title: 36
 usc_section: "22302"
 chapter: 223
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "36 U.S.C. § 22302"
-generated_at: "2026-03-30T08:23:34.225Z"
+generated_at: "2026-03-30T08:27:10.415Z"
 status: "active"
 ---
 

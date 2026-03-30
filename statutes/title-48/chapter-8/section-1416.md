@@ -3,9 +3,9 @@ title: "Section 1416 - Regulation of trade"
 usc_title: 48
 usc_section: "1416"
 chapter: 8
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "48 U.S.C. § 1416"
-generated_at: "2026-03-30T08:24:05.491Z"
+generated_at: "2026-03-30T08:27:46.763Z"
 status: "active"
 ---
 

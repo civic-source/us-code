@@ -3,9 +3,9 @@ title: "Section 2624 - Amount available for administration of Coos Bay Wagon Roa
 usc_title: 43
 usc_section: "2624"
 chapter: 44
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "43 U.S.C. § 2624"
-generated_at: "2026-03-30T08:23:53.502Z"
+generated_at: "2026-03-30T08:27:17.644Z"
 status: "active"
 ---
 

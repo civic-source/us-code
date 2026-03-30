@@ -3,9 +3,9 @@ title: "Section 2152a - Repealed. Pub. L. 108–484, § 8(a) , Dec. 23, 2004 , 1
 usc_title: 22
 usc_section: "2152a"
 chapter: 32
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 2152a"
-generated_at: "2026-03-30T08:21:58.351Z"
+generated_at: "2026-03-30T08:26:04.010Z"
 status: "repealed"
 ---
 

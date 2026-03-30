@@ -3,9 +3,9 @@ title: "Section 1141d - Request for extension of protection subsequent to intern
 usc_title: 15
 usc_section: "1141d"
 chapter: 22
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 1141d"
-generated_at: "2026-03-30T08:21:10.551Z"
+generated_at: "2026-03-30T08:25:15.816Z"
 status: "active"
 ---
 

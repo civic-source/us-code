@@ -3,9 +3,9 @@ title: "Section 312 - Rights-of-way for railway, telegraph, and telephone lines;
 usc_title: 25
 usc_section: "312"
 chapter: 8
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 312"
-generated_at: "2026-03-30T08:22:05.433Z"
+generated_at: "2026-03-30T08:25:51.198Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2711 - Deserters; payment of expenses incident to apprehension a
 usc_title: 14
 usc_section: "2711"
 chapter: 27
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "14 U.S.C. § 2711"
-generated_at: "2026-03-30T08:20:40.393Z"
+generated_at: "2026-03-30T08:25:05.797Z"
 status: "active"
 ---
 

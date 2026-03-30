@@ -3,9 +3,9 @@ title: "Section 860D - REMIC defined"
 usc_title: 26
 usc_section: "860D"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 860D"
-generated_at: "2026-03-30T08:23:10.628Z"
+generated_at: "2026-03-30T08:26:53.774Z"
 status: "active"
 ---
 

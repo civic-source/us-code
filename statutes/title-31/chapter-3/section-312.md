@@ -3,9 +3,9 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-30T08:23:13.258Z"
+generated_at: "2026-03-30T08:27:04.205Z"
 status: "active"
 ---
 

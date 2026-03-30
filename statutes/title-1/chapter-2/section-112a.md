@@ -3,9 +3,9 @@ title: "Section 112a - United States Treaties and Other International Agreements
 usc_title: 1
 usc_section: "112a"
 chapter: 2
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "1 U.S.C. § 112a"
-generated_at: "2026-03-30T08:20:18.545Z"
+generated_at: "2026-03-30T08:24:24.846Z"
 status: "active"
 ---
 

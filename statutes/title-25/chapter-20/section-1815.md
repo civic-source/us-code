@@ -3,9 +3,9 @@ title: "Section 1815 - Rules and regulations"
 usc_title: 25
 usc_section: "1815"
 chapter: 20
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1815"
-generated_at: "2026-03-30T08:22:05.456Z"
+generated_at: "2026-03-30T08:25:51.223Z"
 status: "active"
 ---
 

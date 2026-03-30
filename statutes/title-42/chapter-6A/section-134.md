@@ -3,9 +3,9 @@ title: "Section 134 - Procedures for notification of exposure"
 usc_title: 42
 usc_section: "134"
 chapter: 6
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-30T08:23:52.388Z"
+generated_at: "2026-03-30T08:27:43.077Z"
 status: "active"
 ---
 

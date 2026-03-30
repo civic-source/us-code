@@ -3,9 +3,9 @@ title: "Section 1359ii - Appeals"
 usc_title: 7
 usc_section: "1359ii"
 chapter: 35
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "7 U.S.C. § 1359ii"
-generated_at: "2026-03-30T08:20:24.379Z"
+generated_at: "2026-03-30T08:24:53.938Z"
 status: "active"
 ---
 

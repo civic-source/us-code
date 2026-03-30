@@ -3,9 +3,9 @@ title: "Section 1609 - Seizure; summary forfeiture and sale"
 usc_title: 19
 usc_section: "1609"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "19 U.S.C. § 1609"
-generated_at: "2026-03-30T08:21:22.652Z"
+generated_at: "2026-03-30T08:25:37.447Z"
 status: "active"
 ---
 

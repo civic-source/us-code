@@ -3,9 +3,9 @@ title: "Section 408h - Federally owned lands within park boundaries"
 usc_title: 16
 usc_section: "408h"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 408h"
-generated_at: "2026-03-30T08:21:26.426Z"
+generated_at: "2026-03-30T08:25:26.498Z"
 status: "active"
 ---
 

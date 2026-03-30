@@ -3,9 +3,9 @@ title: "Section 4 - Discovery of, and access to, classified information by the a
 usc_title: 10
 usc_section: "4"
 chapter: 47
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 4"
-generated_at: "2026-03-30T08:20:30.083Z"
+generated_at: "2026-03-30T08:24:43.600Z"
 status: "active"
 ---
 

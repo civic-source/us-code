@@ -3,9 +3,9 @@ title: "Section 860a - Art. 60a. Limited authority to act on sentence in specifi
 usc_title: 10
 usc_section: "860a"
 chapter: 47
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 860a"
-generated_at: "2026-03-30T08:20:30.077Z"
+generated_at: "2026-03-30T08:24:43.594Z"
 status: "active"
 ---
 

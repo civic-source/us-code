@@ -3,9 +3,9 @@ title: "Section 1916 - Return of custody"
 usc_title: 25
 usc_section: "1916"
 chapter: 21
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1916"
-generated_at: "2026-03-30T08:22:05.457Z"
+generated_at: "2026-03-30T08:25:51.224Z"
 status: "active"
 ---
 

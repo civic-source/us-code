@@ -3,9 +3,9 @@ title: "Section 1015d - In-State tuition rates for members of the armed forces o
 usc_title: 20
 usc_section: "1015d"
 chapter: 28
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 1015d"
-generated_at: "2026-03-30T08:21:51.276Z"
+generated_at: "2026-03-30T08:25:28.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1226 - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct
 usc_title: 20
 usc_section: "1226"
 chapter: 31
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 1226"
-generated_at: "2026-03-30T08:21:51.327Z"
+generated_at: "2026-03-30T08:25:28.958Z"
 status: "repealed"
 ---
 

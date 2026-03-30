@@ -3,9 +3,9 @@ title: "Section 738 - Omitted"
 usc_title: 33
 usc_section: "738"
 chapter: 16
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 738"
-generated_at: "2026-03-30T08:23:25.198Z"
+generated_at: "2026-03-30T08:26:57.938Z"
 status: "omitted"
 ---
 

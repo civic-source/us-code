@@ -3,9 +3,9 @@ title: "Section 41308 - Exemption from the antitrust laws"
 usc_title: 49
 usc_section: "41308"
 chapter: 413
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "49 U.S.C. § 41308"
-generated_at: "2026-03-30T08:24:01.364Z"
+generated_at: "2026-03-30T08:27:49.588Z"
 status: "active"
 ---
 

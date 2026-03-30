@@ -3,9 +3,9 @@ title: "Section 2240 - Reimbursement of appropriation for salaries and compensat
 usc_title: 7
 usc_section: "2240"
 chapter: 55
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "7 U.S.C. § 2240"
-generated_at: "2026-03-30T08:20:24.439Z"
+generated_at: "2026-03-30T08:24:53.995Z"
 status: "active"
 ---
 

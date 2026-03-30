@@ -3,9 +3,9 @@ title: "Section 2803 - Federal participation"
 usc_title: 22
 usc_section: "2803"
 chapter: 40
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 2803"
-generated_at: "2026-03-30T08:21:58.386Z"
+generated_at: "2026-03-30T08:26:04.045Z"
 status: "active"
 ---
 

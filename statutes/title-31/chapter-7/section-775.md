@@ -3,9 +3,9 @@ title: "Section 775 - Refunds"
 usc_title: 31
 usc_section: "775"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "31 U.S.C. § 775"
-generated_at: "2026-03-30T08:23:13.261Z"
+generated_at: "2026-03-30T08:27:04.208Z"
 status: "active"
 ---
 

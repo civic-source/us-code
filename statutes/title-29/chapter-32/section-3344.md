@@ -3,9 +3,9 @@ title: "Section 3344 - Reduction of reporting burdens and requirements"
 usc_title: 29
 usc_section: "3344"
 chapter: 32
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "29 U.S.C. § 3344"
-generated_at: "2026-03-30T08:22:23.887Z"
+generated_at: "2026-03-30T08:26:15.467Z"
 status: "active"
 ---
 

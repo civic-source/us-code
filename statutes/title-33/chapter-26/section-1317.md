@@ -3,9 +3,9 @@ title: "Section 1317 - Toxic and pretreatment effluent standards"
 usc_title: 33
 usc_section: "1317"
 chapter: 26
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "33 U.S.C. § 1317"
-generated_at: "2026-03-30T08:23:25.215Z"
+generated_at: "2026-03-30T08:26:57.955Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1543 - Funds limitation for private contracts"
 usc_title: 25
 usc_section: "1543"
 chapter: 17
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1543"
-generated_at: "2026-03-30T08:22:05.444Z"
+generated_at: "2026-03-30T08:25:51.211Z"
 status: "active"
 ---
 

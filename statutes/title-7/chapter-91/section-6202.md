@@ -3,9 +3,9 @@ title: "Section 6202 - Definitions"
 usc_title: 7
 usc_section: "6202"
 chapter: 91
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "7 U.S.C. § 6202"
-generated_at: "2026-03-30T08:20:24.474Z"
+generated_at: "2026-03-30T08:24:54.028Z"
 status: "active"
 ---
 

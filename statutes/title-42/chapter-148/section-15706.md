@@ -3,9 +3,9 @@ title: "Section 15706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15706"
 chapter: 148
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 15706"
-generated_at: "2026-03-30T08:23:52.888Z"
+generated_at: "2026-03-30T08:27:43.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3720 - Collection of payments"
 usc_title: 31
 usc_section: "3720"
 chapter: 37
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "31 U.S.C. § 3720"
-generated_at: "2026-03-30T08:23:13.270Z"
+generated_at: "2026-03-30T08:27:04.220Z"
 status: "active"
 ---
 

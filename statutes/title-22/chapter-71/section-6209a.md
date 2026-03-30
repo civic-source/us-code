@@ -3,9 +3,9 @@ title: "Section 6209a - Inspector General authorities"
 usc_title: 22
 usc_section: "6209a"
 chapter: 71
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 6209a"
-generated_at: "2026-03-30T08:21:58.420Z"
+generated_at: "2026-03-30T08:26:04.077Z"
 status: "active"
 ---
 

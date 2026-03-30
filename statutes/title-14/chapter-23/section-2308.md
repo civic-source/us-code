@@ -3,9 +3,9 @@ title: "Section 2308 - Recall to active duty during war or national emergency"
 usc_title: 14
 usc_section: "2308"
 chapter: 23
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "14 U.S.C. § 2308"
-generated_at: "2026-03-30T08:20:40.392Z"
+generated_at: "2026-03-30T08:25:05.796Z"
 status: "active"
 ---
 

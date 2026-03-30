@@ -3,9 +3,9 @@ title: "Section 15531 - Transferred"
 usc_title: 42
 usc_section: "15531"
 chapter: 146
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 15531"
-generated_at: "2026-03-30T08:23:52.888Z"
+generated_at: "2026-03-30T08:27:43.594Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31 - Accountants and auditors"
 usc_title: 15
 usc_section: "31"
 chapter: 2
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 31"
-generated_at: "2026-03-30T08:21:10.499Z"
+generated_at: "2026-03-30T08:25:15.762Z"
 status: "active"
 ---
 

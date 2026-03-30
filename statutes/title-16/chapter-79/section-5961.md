@@ -3,9 +3,9 @@ title: "Section 5961 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5961"
 chapter: 79
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 5961"
-generated_at: "2026-03-30T08:21:26.619Z"
+generated_at: "2026-03-30T08:25:26.693Z"
 status: "repealed"
 ---
 

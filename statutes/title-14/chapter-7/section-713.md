@@ -3,9 +3,9 @@ title: "Section 713 - Nonappropriated fund instrumentalities: contracts with oth
 usc_title: 14
 usc_section: "713"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "14 U.S.C. § 713"
-generated_at: "2026-03-30T08:20:40.388Z"
+generated_at: "2026-03-30T08:25:05.792Z"
 status: "active"
 ---
 

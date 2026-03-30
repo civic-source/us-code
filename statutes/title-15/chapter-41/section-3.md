@@ -3,9 +3,9 @@ title: "Section 3 - Affiliate sharing"
 usc_title: 15
 usc_section: "3"
 chapter: 41
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T08:21:10.574Z"
+generated_at: "2026-03-30T08:25:15.839Z"
 status: "active"
 ---
 

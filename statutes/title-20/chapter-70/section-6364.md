@@ -3,9 +3,9 @@ title: "Section 6364 - Innovative assessment and accountability demonstration au
 usc_title: 20
 usc_section: "6364"
 chapter: 70
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 6364"
-generated_at: "2026-03-30T08:21:51.363Z"
+generated_at: "2026-03-30T08:25:28.997Z"
 status: "active"
 ---
 

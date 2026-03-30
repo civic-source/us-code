@@ -3,9 +3,9 @@ title: "Section 405a - Regulations pertaining to frequency or due dates of payme
 usc_title: 42
 usc_section: "405a"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 405a"
-generated_at: "2026-03-30T08:23:52.409Z"
+generated_at: "2026-03-30T08:27:43.097Z"
 status: "active"
 ---
 

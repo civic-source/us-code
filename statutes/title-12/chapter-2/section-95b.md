@@ -3,9 +3,9 @@ title: "Section 95b - Omitted"
 usc_title: 12
 usc_section: "95b"
 chapter: 2
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "12 U.S.C. § 95b"
-generated_at: "2026-03-30T08:21:17.596Z"
+generated_at: "2026-03-30T08:25:12.478Z"
 status: "omitted"
 ---
 

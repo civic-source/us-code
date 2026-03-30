@@ -3,9 +3,9 @@ title: "Section 1262 - National Recreational Trails Advisory Committee"
 usc_title: 16
 usc_section: "1262"
 chapter: 27
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 1262"
-generated_at: "2026-03-30T08:21:26.551Z"
+generated_at: "2026-03-30T08:25:26.625Z"
 status: "active"
 ---
 

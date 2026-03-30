@@ -3,9 +3,9 @@ title: "Section 1218 - Discharge or release from active duty: claims for compens
 usc_title: 10
 usc_section: "1218"
 chapter: 61
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 1218"
-generated_at: "2026-03-30T08:20:30.099Z"
+generated_at: "2026-03-30T08:24:43.617Z"
 status: "active"
 ---
 

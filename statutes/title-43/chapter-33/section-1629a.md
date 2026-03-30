@@ -3,9 +3,9 @@ title: "Section 1629a - Relinquishment by NANA Regional Corporation, Inc., of la
 usc_title: 43
 usc_section: "1629a"
 chapter: 33
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "43 U.S.C. § 1629a"
-generated_at: "2026-03-30T08:23:53.487Z"
+generated_at: "2026-03-30T08:27:17.629Z"
 status: "active"
 ---
 

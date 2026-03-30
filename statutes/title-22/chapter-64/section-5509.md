@@ -3,9 +3,9 @@ title: "Section 5509 - Official Department of State recognition"
 usc_title: 22
 usc_section: "5509"
 chapter: 64
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 5509"
-generated_at: "2026-03-30T08:21:58.413Z"
+generated_at: "2026-03-30T08:26:04.071Z"
 status: "active"
 ---
 

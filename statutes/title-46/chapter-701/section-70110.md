@@ -3,9 +3,9 @@ title: "Section 70110 - Actions and assistance for foreign ports or facilities a
 usc_title: 46
 usc_section: "70110"
 chapter: 701
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "46 U.S.C. § 70110"
-generated_at: "2026-03-30T08:23:59.255Z"
+generated_at: "2026-03-30T08:27:51.154Z"
 status: "active"
 ---
 

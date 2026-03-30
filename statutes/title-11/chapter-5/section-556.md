@@ -3,9 +3,9 @@ title: "Section 556 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "556"
 chapter: 5
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "11 U.S.C. § 556"
-generated_at: "2026-03-30T08:20:47.024Z"
+generated_at: "2026-03-30T08:25:02.453Z"
 status: "active"
 ---
 

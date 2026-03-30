@@ -3,9 +3,9 @@ title: "Section 3307 - Deductions as constructive payments"
 usc_title: 26
 usc_section: "3307"
 chapter: 23
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 3307"
-generated_at: "2026-03-30T08:23:10.675Z"
+generated_at: "2026-03-30T08:26:53.818Z"
 status: "active"
 ---
 

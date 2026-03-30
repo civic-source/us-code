@@ -3,9 +3,9 @@ title: "Section 141a - Design, installation, and maintenance of security systems
 usc_title: 2
 usc_section: "141a"
 chapter: 5
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "2 U.S.C. § 141a"
-generated_at: "2026-03-30T08:20:16.750Z"
+generated_at: "2026-03-30T08:24:33.655Z"
 status: "active"
 ---
 

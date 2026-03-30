@@ -3,9 +3,9 @@ title: "Section 9652 - Performance measures, evaluation, and learning"
 usc_title: 22
 usc_section: "9652"
 chapter: 103
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "22 U.S.C. § 9652"
-generated_at: "2026-03-30T08:21:58.459Z"
+generated_at: "2026-03-30T08:26:04.115Z"
 status: "active"
 ---
 

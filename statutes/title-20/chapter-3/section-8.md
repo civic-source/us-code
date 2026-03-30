@@ -3,9 +3,9 @@ title: "Section 8 - Consideration of recommendations of Presidential Commission"
 usc_title: 20
 usc_section: "8"
 chapter: 3
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 8"
-generated_at: "2026-03-30T08:21:51.267Z"
+generated_at: "2026-03-30T08:25:28.898Z"
 status: "active"
 ---
 

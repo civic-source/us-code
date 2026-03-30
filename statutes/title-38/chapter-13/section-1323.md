@@ -3,9 +3,9 @@ title: "Section 1323 - Certifications with respect to circumstances of death"
 usc_title: 38
 usc_section: "1323"
 chapter: 13
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "38 U.S.C. § 1323"
-generated_at: "2026-03-30T08:23:36.318Z"
+generated_at: "2026-03-30T08:27:15.006Z"
 status: "active"
 ---
 

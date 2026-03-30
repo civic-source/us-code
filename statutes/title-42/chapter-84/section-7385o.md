@@ -3,9 +3,9 @@ title: "Section 7385o - Repealed. Pub. L. 108–375, div. C, title XXXI, § 3162
 usc_title: 42
 usc_section: "7385o"
 chapter: 84
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 7385o"
-generated_at: "2026-03-30T08:23:52.745Z"
+generated_at: "2026-03-30T08:27:43.451Z"
 status: "repealed"
 ---
 

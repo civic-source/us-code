@@ -3,9 +3,9 @@ title: "Section 7453 - Native American and Alaska Native language immersion scho
 usc_title: 20
 usc_section: "7453"
 chapter: 70
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 7453"
-generated_at: "2026-03-30T08:21:51.376Z"
+generated_at: "2026-03-30T08:25:29.012Z"
 status: "active"
 ---
 

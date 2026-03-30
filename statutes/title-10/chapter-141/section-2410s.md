@@ -3,9 +3,9 @@ title: "Section 2410s - Security clearances for facilities of certain companies"
 usc_title: 10
 usc_section: "2410s"
 chapter: 141
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 2410s"
-generated_at: "2026-03-30T08:20:30.135Z"
+generated_at: "2026-03-30T08:24:43.799Z"
 status: "active"
 ---
 

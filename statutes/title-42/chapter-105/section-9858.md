@@ -3,9 +3,9 @@ title: "Section 9858 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9858"
 chapter: 105
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 9858"
-generated_at: "2026-03-30T08:23:52.813Z"
+generated_at: "2026-03-30T08:27:43.519Z"
 status: "active"
 ---
 

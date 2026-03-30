@@ -3,9 +3,9 @@ title: "Section 9075 - Regular Air Force: composition"
 usc_title: 10
 usc_section: "9075"
 chapter: 907
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 9075"
-generated_at: "2026-03-30T08:20:30.174Z"
+generated_at: "2026-03-30T08:24:43.841Z"
 status: "active"
 ---
 

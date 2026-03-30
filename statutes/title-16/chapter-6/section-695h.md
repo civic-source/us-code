@@ -3,9 +3,9 @@ title: "Section 695h - Ownership by State of California of works constructed"
 usc_title: 16
 usc_section: "695h"
 chapter: 6
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 695h"
-generated_at: "2026-03-30T08:21:26.516Z"
+generated_at: "2026-03-30T08:25:26.589Z"
 status: "active"
 ---
 

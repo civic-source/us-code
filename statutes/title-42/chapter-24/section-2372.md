@@ -3,9 +3,9 @@ title: "Section 2372 - Date of transfer of utilities"
 usc_title: 42
 usc_section: "2372"
 chapter: 24
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 2372"
-generated_at: "2026-03-30T08:23:52.638Z"
+generated_at: "2026-03-30T08:27:43.343Z"
 status: "active"
 ---
 

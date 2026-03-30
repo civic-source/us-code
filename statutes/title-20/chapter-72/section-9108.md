@@ -3,9 +3,9 @@ title: "Section 9108 - Policy research, data collection, analysis and modeling, 
 usc_title: 20
 usc_section: "9108"
 chapter: 72
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "20 U.S.C. § 9108"
-generated_at: "2026-03-30T08:21:51.386Z"
+generated_at: "2026-03-30T08:25:29.021Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1621s - Prompt action on payment of claims"
 usc_title: 25
 usc_section: "1621s"
 chapter: 18
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "25 U.S.C. § 1621s"
-generated_at: "2026-03-30T08:22:05.448Z"
+generated_at: "2026-03-30T08:25:51.215Z"
 status: "active"
 ---
 

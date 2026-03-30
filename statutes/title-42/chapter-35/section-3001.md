@@ -3,9 +3,9 @@ title: "Section 3001 - Congressional declaration of objectives"
 usc_title: 42
 usc_section: "3001"
 chapter: 35
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 3001"
-generated_at: "2026-03-30T08:23:52.642Z"
+generated_at: "2026-03-30T08:27:43.346Z"
 status: "active"
 ---
 

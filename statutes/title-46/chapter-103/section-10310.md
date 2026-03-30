@@ -3,9 +3,9 @@ title: "Section 10310 - Discharge"
 usc_title: 46
 usc_section: "10310"
 chapter: 103
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "46 U.S.C. § 10310"
-generated_at: "2026-03-30T08:23:59.229Z"
+generated_at: "2026-03-30T08:27:51.129Z"
 status: "active"
 ---
 

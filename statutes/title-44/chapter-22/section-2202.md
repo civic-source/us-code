@@ -3,9 +3,9 @@ title: "Section 2202 - Ownership of Presidential records"
 usc_title: 44
 usc_section: "2202"
 chapter: 22
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "44 U.S.C. § 2202"
-generated_at: "2026-03-30T08:23:39.398Z"
+generated_at: "2026-03-30T08:27:18.109Z"
 status: "active"
 ---
 

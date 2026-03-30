@@ -3,9 +3,9 @@ title: "Section 47b - Inapplicability of certain laws to lands acquired under se
 usc_title: 16
 usc_section: "47b"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "16 U.S.C. § 47b"
-generated_at: "2026-03-30T08:21:26.405Z"
+generated_at: "2026-03-30T08:25:26.477Z"
 status: "active"
 ---
 

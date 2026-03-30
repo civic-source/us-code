@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-30T08:23:52.740Z"
+generated_at: "2026-03-30T08:27:43.444Z"
 status: "active"
 ---
 

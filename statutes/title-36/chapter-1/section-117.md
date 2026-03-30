@@ -3,9 +3,9 @@ title: "Section 117 - Mother’s Day"
 usc_title: 36
 usc_section: "117"
 chapter: 1
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "36 U.S.C. § 117"
-generated_at: "2026-03-30T08:23:34.221Z"
+generated_at: "2026-03-30T08:27:10.410Z"
 status: "active"
 ---
 

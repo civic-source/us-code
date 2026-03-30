@@ -3,9 +3,9 @@ title: "Section 98a - Repealed. Pub. L. 86–649, title II, § 204(b) , July 14,
 usc_title: 43
 usc_section: "98a"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "43 U.S.C. § 98a"
-generated_at: "2026-03-30T08:23:53.450Z"
+generated_at: "2026-03-30T08:27:17.591Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1508 - Repealed. Pub. L. 100–690, title I, § 1009 , Nov. 18, 
 usc_title: 21
 usc_section: "1508"
 chapter: 20
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "21 U.S.C. § 1508"
-generated_at: "2026-03-30T08:22:17.374Z"
+generated_at: "2026-03-30T08:26:01.083Z"
 status: "repealed"
 ---
 

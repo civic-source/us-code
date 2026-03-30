@@ -3,9 +3,9 @@ title: "Section 323 - Application to certain States"
 usc_title: 43
 usc_section: "323"
 chapter: 9
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "43 U.S.C. § 323"
-generated_at: "2026-03-30T08:23:53.452Z"
+generated_at: "2026-03-30T08:27:17.594Z"
 status: "active"
 ---
 

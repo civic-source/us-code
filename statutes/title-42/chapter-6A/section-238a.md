@@ -3,9 +3,9 @@ title: "Section 238a - Use of immigration station hospitals"
 usc_title: 42
 usc_section: "238a"
 chapter: 6
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 238a"
-generated_at: "2026-03-30T08:23:52.278Z"
+generated_at: "2026-03-30T08:27:42.956Z"
 status: "active"
 ---
 

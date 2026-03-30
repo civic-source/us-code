@@ -3,9 +3,9 @@ title: "Section 3301 - [Reserved]"
 usc_title: 10
 usc_section: "3301"
 chapter: 241
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "10 U.S.C. § 3301"
-generated_at: "2026-03-30T08:20:30.155Z"
+generated_at: "2026-03-30T08:24:43.822Z"
 status: "reserved"
 ---
 

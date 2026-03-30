@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 7
 usc_section: "1301"
 chapter: 35
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "7 U.S.C. § 1301"
-generated_at: "2026-03-30T08:20:24.373Z"
+generated_at: "2026-03-30T08:24:53.933Z"
 status: "active"
 ---
 

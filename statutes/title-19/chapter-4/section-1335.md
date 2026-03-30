@@ -3,9 +3,9 @@ title: "Section 1335 - Rules and regulations"
 usc_title: 19
 usc_section: "1335"
 chapter: 4
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "19 U.S.C. § 1335"
-generated_at: "2026-03-30T08:21:22.640Z"
+generated_at: "2026-03-30T08:25:37.434Z"
 status: "active"
 ---
 

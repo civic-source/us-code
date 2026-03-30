@@ -3,9 +3,9 @@ title: "Section 20143 - Grants for young witness assistance"
 usc_title: 34
 usc_section: "20143"
 chapter: 201
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "34 U.S.C. § 20143"
-generated_at: "2026-03-30T08:23:31.849Z"
+generated_at: "2026-03-30T08:27:01.975Z"
 status: "active"
 ---
 

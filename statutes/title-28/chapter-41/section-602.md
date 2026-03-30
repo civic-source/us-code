@@ -3,9 +3,9 @@ title: "Section 602 - Employees"
 usc_title: 28
 usc_section: "602"
 chapter: 41
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "28 U.S.C. § 602"
-generated_at: "2026-03-30T08:22:20.198Z"
+generated_at: "2026-03-30T08:26:07.268Z"
 status: "active"
 ---
 

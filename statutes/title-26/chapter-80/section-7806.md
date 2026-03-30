@@ -3,9 +3,9 @@ title: "Section 7806 - Construction of title"
 usc_title: 26
 usc_section: "7806"
 chapter: 80
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "26 U.S.C. § 7806"
-generated_at: "2026-03-30T08:23:10.750Z"
+generated_at: "2026-03-30T08:26:53.889Z"
 status: "active"
 ---
 

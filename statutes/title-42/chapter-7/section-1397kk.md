@@ -3,9 +3,9 @@ title: "Section 1397kk - Phase-out of coverage for nonpregnant childless adults;
 usc_title: 42
 usc_section: "1397kk"
 chapter: 7
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 1397kk"
-generated_at: "2026-03-30T08:23:52.567Z"
+generated_at: "2026-03-30T08:27:43.269Z"
 status: "active"
 ---
 

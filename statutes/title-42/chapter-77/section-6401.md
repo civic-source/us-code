@@ -3,9 +3,9 @@ title: "Section 6401 - Repealed. Pub. L. 99–58, title I, § 104(c)(3) , July 2
 usc_title: 42
 usc_section: "6401"
 chapter: 77
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "42 U.S.C. § 6401"
-generated_at: "2026-03-30T08:23:52.719Z"
+generated_at: "2026-03-30T08:27:43.424Z"
 status: "repealed"
 ---
 

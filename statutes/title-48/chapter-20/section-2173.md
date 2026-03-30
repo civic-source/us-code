@@ -3,9 +3,9 @@ title: "Section 2173 - Modification of plan"
 usc_title: 48
 usc_section: "2173"
 chapter: 20
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "48 U.S.C. § 2173"
-generated_at: "2026-03-30T08:24:05.508Z"
+generated_at: "2026-03-30T08:27:46.779Z"
 status: "active"
 ---
 

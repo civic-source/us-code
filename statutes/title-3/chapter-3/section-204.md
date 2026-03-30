@@ -3,9 +3,9 @@ title: "Section 204 - Repealed. Pub. L. 109–177, title VI, § 605(c) , Mar. 9,
 usc_title: 3
 usc_section: "204"
 chapter: 3
-current_through: "PL 116-34"
+current_through: "PL 116-35"
 classification: "3 U.S.C. § 204"
-generated_at: "2026-03-30T08:20:15.667Z"
+generated_at: "2026-03-30T08:24:23.183Z"
 status: "repealed"
 ---
 
